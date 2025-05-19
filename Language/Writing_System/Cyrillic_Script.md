@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Cyrillic script"
 has_id_wikidata: Q8209
@@ -12,7 +12,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from: "[[_Standards/WikiData/WD~Cyrillic-script_alphabet,867570]]"
@@ -35,17 +35,18 @@ Commons_category: "Cyrillic alphabet"
 ISO_15924_alpha_4_code: Cyrl
 Krugosvet_article: lingvistika/glagolitsa-i-kirilitsa
 Unicode_range:
-- U+0400-04FF
-- U+0500-052F
-- U+1C80-1C8F
-- U+2DE0-2DFF
-- U+A640-A69F
+  - U+0400-04FF
+  - U+0500-052F
+  - U+1C80-1C8F
+  - U+2DE0-2DFF
+  - U+A640-A69F
 name:
-- Cyrillic
-- cyrillique
+  - Cyrillic
+  - cyrillique
 native_label: кириллица
 inception: "0870"
 has_time_started: 0870-06 
+has_time_started: 0870-01-01T00:00:00Z 
 ---
 
 ## #has_/text_of_/abstract 

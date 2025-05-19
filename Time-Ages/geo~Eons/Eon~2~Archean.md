@@ -1,12 +1,13 @@
 ---
-has_id_wikidata: Q104168
+has_id_wikidata: Q104168 
+has_id_wikidata: Q336395 
 Commons_category: Archean
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 end_time: -2500000000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
@@ -17,9 +18,34 @@ IPA_transcription: /ɑːrˈkiːən/
 part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
 sRGB_color_hex_triplet: F0047F
-start_time: -4031000000 
+start_time: -4031000000
 has_time_started: -4031000000
 topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
+aliases:
+  - Archean
+  - прхай
+  - Archaikum
+  - Arkæisk
+  - Archaikum
+  - Archaean
+  - Archean
+  - Arcaico
+  - Arhaikum
+  - Arkeikum
+  - Archéen
+  - archaikum
+  - archeano
+  - 始生代
+  - Archejus
+  - Archaïcum
+  - Arkeikum
+  - Archaik
+  - Arcaico
+  - archaikum, prahory
+  - arhaik
+  - arkeikum
+  - 太古宙
+  
 ---
 
 # [[Eon~2~Archean]] 
@@ -77,6 +103,8 @@ A time period from 4031 to 2500 million years ago.
 #has_/abbreviation :: AR
 
 #has_/text_of_/color :: 0xF0047F
+
+There are 2 wikidata IDs, one for the geologic Archean and one for the common Eon 
 
 ## All Contents
 

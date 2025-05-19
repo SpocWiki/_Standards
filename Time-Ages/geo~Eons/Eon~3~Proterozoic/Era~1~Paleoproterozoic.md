@@ -20,7 +20,7 @@ date_of_death: 1738-06-21
 depicted_by: "[[_Standards/WikiData/WD~Charles_Townshend,_2nd_Viscount_Townshend,28045175]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"

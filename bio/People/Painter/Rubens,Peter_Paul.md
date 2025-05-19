@@ -119,8 +119,8 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~The_Frick_Collection,682827]]"
 - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
 - "[[_Standards/WikiData/WD~Deutsches_Historisches_Museum,688335]]"
-- "[[_Standards/WikiData/WD~Kunst_Museum_Winterthur_|_Reinhart_am_Stadtgarten,689829]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Kunst_Museum_Winterthur___Reinhart_am_Stadtgarten,689829]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
 - "[[_Standards/WikiData/WD~Royal_Castle_in_Warsaw,756098]]"
@@ -148,7 +148,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Bordeaux,954222]]"
 - "[[_Standards/WikiData/WD~Musée_Granet,965780]]"
 - "[[_Standards/WikiData/WD~Burrell_Collection,1016909]]"
-- "[[_Standards/WikiData/WD~Busch–Reisinger_Museum,1017269]]"
+- "[[_Standards/WikiData/WD~Busch_Reisinger_Museum,1017269]]"
 - "[[_Standards/WikiData/WD~Carnegie_Museum_of_Art,1043967]]"
 - "[[_Standards/WikiData/WD~Kelvingrove_Art_Gallery_and_Museum,1061094]]"
 - "[[_Standards/WikiData/WD~National_Gallery_of_Canada,1068063]]"
@@ -331,7 +331,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]"
 - "[[_Standards/WikiData/WD~Anhaltische_Gemäldegalerie,76638284]]"
 - "[[_Standards/WikiData/WD~Kulturstiftung_Dessau-Wörlitz,76638300]]"
-- "[[_Standards/WikiData/WD~Siegerlandmuseum_in_“Upper_Palace”,96278306]]"
+- "[[_Standards/WikiData/WD~Siegerlandmuseum_in__Upper_Palace_,96278306]]"
 - "[[_Standards/WikiData/WD~National_Museum_Paleis_het_Loo,99349995]]"
 - "[[_Standards/WikiData/WD~Huis_Bergh,99370641]]"
 - "[[_Standards/WikiData/WD~Mannheimer_Galerie,107452734]]"
@@ -449,7 +449,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_hav
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_—_Smithsonian_Libraries_—_Artists_Files,105757729]]"
+- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot___Smithsonian_Libraries___Artists_Files,105757729]]"
 NLC_authorities: 038648989
 floruit: "1600"
 ISNI: 0000000121341267

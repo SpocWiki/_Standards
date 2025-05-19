@@ -248,30 +248,30 @@ located_in_or_next_to_body_of_water:
 part_of: "[[_Standards/WikiData/WD~East_Asia,27231]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 BTI_Status_Index:
-- 2
-- 1.98
-- 2.04
-- 2.11
-- 2.14
-- 2.16
-- 2.29
-- 2.46
-- 2.67
+  - 2
+  - 1.98
+  - 2.04
+  - 2.11
+  - 2.14
+  - 2.16
+  - 2.29
+  - 2.46
+  - 2.67
 mains_voltage:
-- 110
-- 220
+  - 110
+  - 220
 BTI_Governance_Index:
-- 1.3
-- 1.9
-- 1.22
-- 1.31
-- 1.37
-- 1.38
-- 1.46
-- 1.98
+  - 1.3
+  - 1.9
+  - 1.22
+  - 1.31
+  - 1.37
+  - 1.38
+  - 1.46
+  - 1.98
 marriageable_age:
-- 17
-- 18
+  - 17
+  - 18
 age_of_majority: 17
 Gini_coefficient: 31
 Democracy_Index: 1.08
@@ -282,14 +282,14 @@ UIC_numerical_country_code: 30
 head_of_state: "[[_Standards/WikiData/WD~Kim_Jong-un,56226]]"
 Libris_URI: 97mpnkct4lwgtln
 subreddit:
-- dprk
-- northkorea
+  - dprk
+  - northkorea
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"DemocraticPeoplesRepublicOfKorea::7897g\"]"
 - "Entity[\"HistoricalCountry\", \"NorthKorea\"]"
 hashtag:
-- Nordkorea
-- northkorea
+  - Nordkorea
+  - northkorea
 CIVICUS_Monitor_country_entry: north-korea
 GitHub_topic: north-korea
 Krugosvet_article: strany-mira/koreiskaya-narodno-demokraticheskaya-respublika-kndr-severnaya-koreya
@@ -297,93 +297,93 @@ demonym:
 - "كوري شمالي"
 - "كورية شمالية"
 - "كوريون شماليون"
-- norcoreana
-- norcoreanu
+  - norcoreana
+  - norcoreanu
 - "উত্তর কোরীয়"
-- Severokorejec
-- Severokorejka
-- Severokorejky
-- Nordkoreanerin
-- Nordkoreanerinnen
-- norcoreana
-- norcoreano
-- Nord-coréen
-- Nord-coréenne
+  - Severokorejec
+  - Severokorejka
+  - Severokorejky
+  - Nordkoreanerin
+  - Nordkoreanerinnen
+  - norcoreana
+  - norcoreano
+  - Nord-coréen
+  - Nord-coréenne
 - "צפון קוריאני"
 - "צפון קוריאנית"
-- észak-koreai
-- Nord-Koreano
-- nordcoreana
-- nordcoreane
-- nordcoreani
-- 朝鮮人
-- 조선인
-- Severokorejci
-- Nordkoreaner
-- nordcoreano
-- txoson
-- Noord-Koreaan
-- nord-coreean
-- nord-coreeancă
-- nord-coreeni
-- северокореец
-- северокорейцы
-- северокореянка
-- північнокореєць
-- північнокорейці
-- північнокореянка
-- nordcorean
-- nordcoreana
-- nordcoreane
-- nordcoreani
-- 朝鮮人
+  - észak-koreai
+  - Nord-Koreano
+  - nordcoreana
+  - nordcoreane
+  - nordcoreani
+  - 朝鮮人
+  - 조선인
+  - Severokorejci
+  - Nordkoreaner
+  - nordcoreano
+  - txoson
+  - Noord-Koreaan
+  - nord-coreean
+  - nord-coreeancă
+  - nord-coreeni
+  - северокореец
+  - северокорейцы
+  - северокореянка
+  - північнокореєць
+  - північнокорейці
+  - північнокореянка
+  - nordcorean
+  - nordcoreana
+  - nordcoreane
+  - nordcoreani
+  - 朝鮮人
 - "كوري شمالي"
 - "كورية شمالية"
 - "كوريين شماليين"
 - "كوريات شماليات"
-- corean
+  - corean
 - "North Korean"
 short_name:
-- КНДР
-- КНДР
-- KLDR
-- DVRK
-- DPRK
-- RPDC
-- RPDC
-- ԿԺԴՀ
-- 朝鲜
-- 朝鲜
-- 朝鮮
-- 朝鮮
-- KRLD
-- КНДР
-- RPDC
-- 北朝鮮
-- 북한
-- RPDC
-- RPDC
-- КНДР
-- KDHC
-- 北韓
-- 朝鲜
-- 北韓
+  - КНДР
+  - КНДР
+  - KLDR
+  - DVRK
+  - DPRK
+  - RPDC
+  - RPDC
+  - ԿԺԴՀ
+  - 朝鲜
+  - 朝鲜
+  - 朝鮮
+  - 朝鮮
+  - KRLD
+  - КНДР
+  - RPDC
+  - 北朝鮮
+  - 북한
+  - RPDC
+  - RPDC
+  - КНДР
+  - KDHC
+  - 北韓
+  - 朝鲜
+  - 北韓
 - "\U0001F1F0\U0001F1F5"
-- RPDC
+  - RPDC
 birth_rate:
-- 13.24
-- 13.058
-- 13.333
-- 13.487
+  - 13.24
+  - 13.058
+  - 13.333
+  - 13.487
 ISO_3166_1_numeric_code: 408
 M49_code: 408
 total_fertility_rate: 1.979
 mobile_country_code: 467
 death_rate:
-- 8.878
-- 9.078
-- 9.313
-- 9.353
+  - 8.878
+  - 9.078
+  - 9.313
+  - 9.353
 area: 120540
 ISO_3166_1_alpha_2_code: KP
 licence_plate_code: KP
@@ -402,27 +402,27 @@ IOC_country_code: PRK
 UIC_alphabetical_country_code: PRK
 OmegaWiki_Defined_Meaning: 154503
 rural_population:
-- 9667582
-- 9702586
-- 9731082
-- 9752555
+  - 9667582
+  - 9702586
+  - 9731082
+  - 9752555
 male_population:
-- 12707874
-- 12778255
-- 12844385
-- 12905119
+  - 12707874
+  - 12778255
+  - 12844385
+  - 12905119
 female_population:
-- 13047566
-- 13089212
-- 13127524
-- 13164298
+  - 13047566
+  - 13089212
+  - 13127524
+  - 13164298
 Commons_category: "North Korea"
 Commons_gallery: 조선민주주의인민공화국
 urban_population:
-- 16002886
-- 16136385
-- 16269323
-- 16401834
+  - 16002886
+  - 16136385
+  - 16269323
+  - 16401834
 inception: "1948-09-09"
 has_time_started: "1948-09-09"
 ITU_letter_code: KRE
@@ -489,18 +489,18 @@ locator_map_image:
 country_calling_code: +850
 has_id_wikidata: Q423
 location:
-- 39.0333
-- 125.75
+  - 39.0333
+  - 125.75
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26940
 isDeleted: false
 confidential: public
 aliases:
-- North-Korea
-- Korea~Dem-Rep
-- Nordkorea
+  - North-Korea
+  - Korea~Dem-Rep
+  - Nordkorea
 - "North Korea"
 icon: flag-kp
 ---

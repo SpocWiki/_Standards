@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q15645384
 natural_product_of_taxon: "[[_Standards/WikiData/WD~Triticum_aestivum,161098]]"
 instance_of:
@@ -13,7 +13,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
 has_effect:

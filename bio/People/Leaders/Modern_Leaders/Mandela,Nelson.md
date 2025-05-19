@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nelson Mandela"
 - "Nelson Rolihlahla Mandela"
@@ -62,7 +62,7 @@ award_received:
 - "[[_Standards/WikiData/WD~Order_of_Augusto_César_Sandino,16141095]]"
 - "[[_Standards/WikiData/WD~Ahimsa_Award,17182806]]"
 - "[[_Standards/WikiData/WD~Collar_of_the_Order_of_Isabella_the_Catholic,17366068]]"
-- "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+- "[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]"
 - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Prince_Henry,20859482]]"
 - "[[_Standards/WikiData/WD~Grand_Cross_with_Collar_of_the_Order_of_the_White_Rose_of_Finland,23769799]]"
 - "[[_Standards/WikiData/WD~Order_of_Prince_Yaroslav_the_Wise,_1st_class,28481165]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fyodor Dostoyevsky"
 has_id_wikidata: Q991
@@ -51,9 +51,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"

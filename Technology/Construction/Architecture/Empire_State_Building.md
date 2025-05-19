@@ -5,8 +5,8 @@ has_id_wikidata: Q9188
 Pinterest_username: empirestatebldg
 Instagram_username: empirestatebldg
 X_Twitter_username:
-- empirestatebldg
-- EmpireStateBldg
+  - empirestatebldg
+  - EmpireStateBldg
 Facebook_username: empirestatebuilding
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Attractions%20Banner.jpg"
 date_of_official_opening: "1931-05-01"
@@ -57,11 +57,11 @@ made_from_material:
 country: "[[_Standards/WikiData/WD~United_States,30]]"
 floors_below_ground: 1
 height:
-- 1500
-- 453
+  - 1500
+  - 453
 social_media_followers:
-- 27000
-- 267434
+  - 27000
+  - 267434
 number_of_elevators: 73
 floors_above_ground: 102
 postal_code: 10118

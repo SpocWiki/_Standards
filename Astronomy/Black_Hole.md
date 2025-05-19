@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Black hole"
 has_id_wikidata: Q589
@@ -16,7 +16,7 @@ opposite_of: "[[_Standards/WikiData/WD~white_hole,131468]]"
 has_characteristic:
 - "[[_Standards/WikiData/WD~angular_momentum,161254]]"
 - "[[_Standards/WikiData/WD~gravitational_wave,190035]]"
-- "[[_Standards/WikiData/WD~Tolman–Oppenheimer–Volkoff_limit,1139232]]"
+- "[[_Standards/WikiData/WD~Tolman_Oppenheimer_Volkoff_limit,1139232]]"
 - "[[_Standards/WikiData/WD~electric_charge,1111]]"
 - '[[_Standards/WikiData/WD~mass,11423]]'
 has_part_s_:

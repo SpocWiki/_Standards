@@ -81,7 +81,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~country,6256]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Bissau,4689478]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guinea-Bissau,7112282]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q9472723,9472723]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -100,30 +100,30 @@ demonym:
 - "غينية بيساوية"
 - "غينيين بيساويين"
 - "غينيات بيساويات"
-- Bissauec
-- Bissauka
+  - Bissauec
+  - Bissauka
 - "de Guinea-Bisáu"
-- বিসাউ-গিনীয়
-- guinea-bissauer
-- Bissau-Guinean
-- Guinea-Bissauan
-- Gvinebisaŭano
-- Bissaoguinéen
-- Bissaoguinéenne
-- Guinéen
-- Guinéenne
+  - বিসাউ-গিনীয়
+  - guinea-bissauer
+  - Bissau-Guinean
+  - Guinea-Bissauan
+  - Gvinebisaŭano
+  - Bissaoguinéen
+  - Bissaoguinéenne
+  - Guinéen
+  - Guinéenne
 - "מגינאה ביסאו"
-- bissau-guineai
-- guineense
-- guineensi
-- Guinee-Bissauer
-- guineobissauan
-- guineobissauană
-- guineobissauani
-- guineensa
-- guineense
-- guineensi
-- guineenso
+  - bissau-guineai
+  - guineense
+  - guineensi
+  - Guinee-Bissauer
+  - guineobissauan
+  - guineobissauană
+  - guineobissauani
+  - guineensa
+  - guineense
+  - guineensi
+  - guineenso
 ISNI: 000000012151704X
 MeSH_tree_code: Z01.058.290.190.380
 motto_text:
@@ -133,8 +133,8 @@ motto_text:
 - "Unidade, Luta, Progresso"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Guinea-Bissau%20-%20Location%20Map%20%282013%29%20-%20GNB%20-%20UNOCHA.svg"
 nominal_GDP:
-- 1633559092
-- 1638517607
+  - 1633559092
+  - 1638517607
 coordinate_location: "Point(-15.0 12.0)"
 coordinates_of_easternmost_point: "Point(-13.62661 12.45917)"
 diplomatic_relation:
@@ -160,60 +160,60 @@ VAT_rate: 15
 marriageable_age: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 4.3
-- 4.6
+  - 4.3
+  - 4.6
 Democracy_Index: 2.63
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gw,41450]]'
 Inequality_adjusted_Human_Development_Index: 0.306
 Gini_coefficient: 34.8
 Human_Development_Index: 0.483
 BTI_Status_Index:
-- 5.01
-- 5.32
+  - 5.01
+  - 5.32
 maritime_identification_digits: 630
 total_fertility_rate: 4.835
 ISO_3166_1_numeric_code: 624
 M49_code: 624
 life_expectancy: 59.86
 death_rate:
-- 8.206
-- 8.574
-- 8.597
-- 8.716
+  - 8.206
+  - 8.574
+  - 8.597
+  - 8.716
 IAB_code: 1311
 mobile_country_code: 632
 FIPS_10_4_countries_and_regions_: PU
 number_of_out_of_school_children: 201430
 birth_rate:
-- 30.611
-- 31.087
-- 31.605
-- 32.093
+  - 30.611
+  - 31.087
+  - 31.605
+  - 32.093
 area: 36125
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg"
 Unicode_character: 🇬🇼 
 male_population:
-- 1039860
-- 971745
-- 994606
-- 1017216
+  - 1039860
+  - 971745
+  - 994606
+  - 1017216
 rural_population:
-- 1107850
-- 1124913
-- 1141289
-- 1157198
+  - 1107850
+  - 1124913
+  - 1141289
+  - 1157198
 ISO_3166_1_alpha_2_code: GW
 WIPO_ST_3: GW
 coordinates_of_northernmost_point: "Point(-14.5 12.68)"
 subreddit:
-- GuineaBissau
-- GuineBissau
+  - GuineaBissau
+  - GuineBissau
 hashtag: GuineaBissau
 Krugosvet_article: strany_mira/GVINEYA-BISAU.html
 official_name:
 - "la République de Guinée-Bissao"
-- Guinea-Bissau
-- Guiné-Bissau
+  - Guinea-Bissau
+  - Guiné-Bissau
 native_label: "República da Guiné-Bissau"
 short_name: "\U0001F1EC\U0001F1FC"
 INSEE_countries_and_foreign_territories_code: 99330
@@ -221,15 +221,15 @@ ISO_3166_1_alpha_3_code: GNB
 ITU_letter_code: GNB
 Dewey_Decimal_Classification: 2--6657
 urban_population:
-- 862607
-- 890915
-- 919432
-- 948368
+  - 862607
+  - 890915
+  - 919432
+  - 948368
 female_population:
-- 998712
-- 1021222
-- 1043505
-- 1065706
+  - 998712
+  - 1021222
+  - 1043505
+  - 1065706
 OmegaWiki_Defined_Meaning: 155348
 population: 1861283
 inception: "1974"

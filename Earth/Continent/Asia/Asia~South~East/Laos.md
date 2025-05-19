@@ -59,7 +59,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
 - '[[_Standards/WikiData/WD~Lamet,3216723]]'
 - '[[_Standards/WikiData/WD~Mal,3281057]]'
-- '[[_Standards/WikiData/WD~O’du,3347428]]'
+- '[[_Standards/WikiData/WD~O_du,3347428]]'
 - '[[_Standards/WikiData/WD~Kiorr,3440883]]'
 - '[[_Standards/WikiData/WD~Pacoh,3441136]]'
 - '[[_Standards/WikiData/WD~Yoy,3503717]]'
@@ -72,7 +72,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Tai_Daeng,3915207]]"
 - '[[_Standards/WikiData/WD~Phuan,3915665]]'
 - '[[_Standards/WikiData/WD~Brao,4957737]]'
-- "[[_Standards/WikiData/WD~Jru',6298648]]"
+  - "[[_Standards/WikiData/WD~Jru',6298648]]"
 - "[[_Standards/WikiData/WD~Tai_Khang,6362363]]"
 - '[[_Standards/WikiData/WD~Katu,6378400]]'
 - '[[_Standards/WikiData/WD~Kiorr,6414519]]'
@@ -81,7 +81,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Maleng,6583562]]'
 - '[[_Standards/WikiData/WD~Nyaheun,7070801]]'
 - '[[_Standards/WikiData/WD~Phai,7180184]]'
-- '[[_Standards/WikiData/WD~Phana’,7180427]]'
+- '[[_Standards/WikiData/WD~Phana_,7180427]]'
 - '[[_Standards/WikiData/WD~Phunoi,7188361]]'
 - '[[_Standards/WikiData/WD~Sapuan,7421168]]'
 - '[[_Standards/WikiData/WD~Sila,7514021]]'
@@ -94,12 +94,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Laopan,12952711]]'
 - '[[_Standards/WikiData/WD~Ong,12953787]]'
 - '[[_Standards/WikiData/WD~Khua,13018510]]'
-- "[[_Standards/WikiData/WD~Lower_Ta’Oi,13018526]]"
+- "[[_Standards/WikiData/WD~Lower_Ta_Oi,13018526]]"
 - '[[_Standards/WikiData/WD~Talieng,13018524]]'
 - "[[_Standards/WikiData/WD~Western_Bru,13018531]]"
 - '[[_Standards/WikiData/WD~Ngeq,13018598]]'
 - '[[_Standards/WikiData/WD~Khuen,13018596]]'
-- "[[_Standards/WikiData/WD~Su',13018608]]"
+  - "[[_Standards/WikiData/WD~Su',13018608]]"
 - '[[_Standards/WikiData/WD~Oi,13018626]]'
 - "[[_Standards/WikiData/WD~Tai_Long,13018630]]"
 - "[[_Standards/WikiData/WD~Eastern_Bru,16115463]]"
@@ -123,7 +123,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Laos,904139]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Laos,936032]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Laos,1049083]]"
@@ -151,47 +151,47 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Vientiane,109528882]]'
 - '[[_Standards/WikiData/WD~UTC+07_00,6940]]'
 nominal_GDP:
-- 18827148530
-- 15724383783
+  - 18827148530
+  - 15724383783
 Baidu_Tieba_name: 老挝
 UMLS_CUI: C0023034
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karst%20peaks%20and%20green%20paddy%20fields%20under%20a%20stormy%20sky%2C%20South%20view%20from%20Mount%20Nam%20Xay%2C%20Vang%20Vieng%2C%20Laos.jpg"
 demonym:
-- لاووصي
-- لاووصية
-- لاووصيين
-- لاووصيات
-- Laosach
-- laoțian
-- laoțiană
-- laoțieni
-- лаосцы
-- laotian
-- laotiana
-- laotiane
-- laotiani
-- Laosänan
-- لاوسي
-- لاوسية
-- لاوسيون
-- laosiana
-- laosianu
-- লাও
-- Lao
-- Laos
-- Laotian
-- Laotians
-- Laosano
-- Laotien
-- Laotienne
-- מלאוס
-- laoszi
-- Laosano
-- laotiana
-- laotiane
-- laotiani
-- laotiano
-- lau
+  - لاووصي
+  - لاووصية
+  - لاووصيين
+  - لاووصيات
+  - Laosach
+  - laoțian
+  - laoțiană
+  - laoțieni
+  - лаосцы
+  - laotian
+  - laotiana
+  - laotiane
+  - laotiani
+  - Laosänan
+  - لاوسي
+  - لاوسية
+  - لاوسيون
+  - laosiana
+  - laosianu
+  - লাও
+  - Lao
+  - Laos
+  - Laotian
+  - Laotians
+  - Laosano
+  - Laotien
+  - Laotienne
+  - מלאוס
+  - laoszi
+  - Laosano
+  - laotiana
+  - laotiane
+  - laotiani
+  - laotiano
+  - lau
 ISNI: 0000000404998314
 PM20_geo_code: B91c
 motto_text:
@@ -243,25 +243,25 @@ lowest_point: "[[_Standards/WikiData/WD~Mekong_River,41179]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.la,41926]]'
 female_population: 3260000
 BTI_Status_Index:
-- 3.35
-- 3.53
-- 3.58
-- 3.65
-- 3.73
-- 3.83
-- 3.85
-- 3.88
-- 3.89
+  - 3.35
+  - 3.53
+  - 3.58
+  - 3.65
+  - 3.73
+  - 3.83
+  - 3.85
+  - 3.88
+  - 3.89
 BTI_Governance_Index:
-- 3.48
-- 3.68
-- 3.79
-- 3.88
-- 3.89
-- 3.91
-- 3.95
-- 3.96
-- 4.23
+  - 3.48
+  - 3.68
+  - 3.79
+  - 3.88
+  - 3.89
+  - 3.91
+  - 3.95
+  - 3.96
+  - 4.23
 Gini_coefficient: 38.8
 flag: "[[_Standards/WikiData/WD~flag_of_Laos,46008]]"
 Happy_Planet_Index_score: 42.8
@@ -297,17 +297,17 @@ short_name: "\U0001F1F1\U0001F1E6"
 male_population: 3254000
 death_rate: 6.195
 urban_population:
-- 2656210
-- 2830480
-- 2570736
-- 2742742
+  - 2656210
+  - 2830480
+  - 2570736
+  - 2742742
 number_of_out_of_school_children: 382255
 population: 6858160
 rural_population:
-- 4641317
-- 4663189
-- 4682315
-- 4698995
+  - 4641317
+  - 4663189
+  - 4682315
+  - 4698995
 inception: "1949"
 has_time_started: 1949-06 
 coordinate_location: "Point(104.1 18.2)"

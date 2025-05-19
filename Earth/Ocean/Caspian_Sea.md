@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5484
 inflows:
 - '[[_Standards/WikiData/WD~Sukhodol,28667643]]'
@@ -98,7 +98,7 @@ native_label:
 - "Каспий теңізі"
 - "مازرون دریا"
 named_after: '[[_Standards/WikiData/WD~Kassites,243312]]'
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aral–Caspian_Depression,625587]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Aral_Caspian_Depression,625587]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS056-E-13641%20-%20View%20of%20Azerbaijan.jpg"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/KaspischeZeeLocatie.png"
 Libris_URI: 42gjh6cn5jv40t7

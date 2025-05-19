@@ -1,10 +1,10 @@
 ---
 location:
-- 52.6418
-- 47.4574
+  - 52.6418
+  - 47.4574
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q159
 SpocWebEntityId: 27007
 isDeleted: false
@@ -22,41 +22,41 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Russia
+  - Russia
 - "Russian Federation"
 - "Federación de Rusia"
 - "Fédération de Russie"
 - "الاتحاد الروسي"
-- 俄罗斯联邦
+  - 俄罗斯联邦
 - "Российская Федерация"
 - "the Russian Federation"
 - "Russian Federation (the)"
 - "la Federación de Rusia"
 - "Federación de Rusia (la)"
 Languages:
-- ru
-- tt
-- xal
-- cau
-- ady
-- kv
-- ce
-- tyv
-- cv
-- udm
-- tut
-- mns
-- bua
-- myv
-- mdf
-- chm
-- ba
-- inh
-- kbd
-- krc
-- av
-- sah
-- nog
+  - ru
+  - tt
+  - xal
+  - cau
+  - ady
+  - kv
+  - ce
+  - tyv
+  - cv
+  - udm
+  - tut
+  - mns
+  - bua
+  - myv
+  - mdf
+  - chm
+  - ba
+  - inh
+  - kbd
+  - krc
+  - av
+  - sah
+  - nog
 icon: flag-ru
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -305,7 +305,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 language_used:
 - '[[_Standards/WikiData/WD~Kerek,332792]]'
 - "[[_Standards/WikiData/WD~Karelian_Proper,747153]]"
@@ -460,11 +460,11 @@ official_religion: '[[_Standards/WikiData/WD~non-denominational,7882536]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Russia,8252645]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Russia,10803886]]"
 MeSH_tree_code:
-- Z01.542.248.775
-- Z01.252.122.500
+  - Z01.542.248.775
+  - Z01.252.122.500
 nominal_GDP:
-- 2240422438363
-- 1836892075548
+  - 2240422438363
+  - 1836892075548
 shares_border_with:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -528,7 +528,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Chechnya,5187]]'
 - "[[_Standards/WikiData/WD~Stavropol_Krai,5207]]"
 - '[[_Standards/WikiData/WD~Ingushetia,5219]]'
-- "[[_Standards/WikiData/WD~North_Ossetia–Alania,5237]]"
+- "[[_Standards/WikiData/WD~North_Ossetia_Alania,5237]]"
 - '[[_Standards/WikiData/WD~Kabardino-Balkaria,5267]]'
 - '[[_Standards/WikiData/WD~Karachay-Cherkessia,5328]]'
 - "[[_Standards/WikiData/WD~Saratov_Oblast,5334]]"
@@ -589,16 +589,16 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 country: '[[_Standards/WikiData/WD~Russia,159]]'
 VAT_rate: 20
 speed_limit:
-- 60
-- 90
-- 110
+  - 60
+  - 90
+  - 110
 compulsory_education_minimum_age_: 6
 water_as_percent_of_area: 13
 marriageable_age:
-- 14
-- 15
-- 16
-- 18
+  - 14
+  - 15
+  - 16
+  - 18
 compulsory_education_maximum_age_: 16
 age_of_consent: 16
 total_fertility_rate: 1.7
@@ -606,36 +606,36 @@ age_of_majority: 18
 mains_voltage: 220
 Gini_coefficient: 36
 BTI_Status_Index:
-- 5.3
-- 5.7
-- 5.06
-- 5.24
-- 5.27
-- 5.31
-- 5.73
-- 5.94
-- 6.14
+  - 5.3
+  - 5.7
+  - 5.06
+  - 5.24
+  - 5.27
+  - 5.31
+  - 5.73
+  - 5.94
+  - 6.14
 birth_rate:
-- 8.9
-- 9.6
-- 9.8
-- 10.1
+  - 8.9
+  - 9.6
+  - 9.8
+  - 10.1
 death_rate:
-- 12.3
-- 12.9
-- 14.6
-- 16.7
+  - 12.3
+  - 12.9
+  - 14.6
+  - 16.7
 suicide_rate: 21.6
 BTI_Governance_Index:
-- 3.17
-- 3.45
-- 3.47
-- 3.48
-- 3.52
-- 3.87
-- 3.88
-- 3.91
-- 3.99
+  - 3.17
+  - 3.45
+  - 3.47
+  - 3.48
+  - 3.52
+  - 3.87
+  - 3.88
+  - 3.91
+  - 3.99
 official_observer_status_in_organisation:
 - '[[_Standards/WikiData/WD~CERN,42944]]'
 - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
@@ -644,10 +644,10 @@ highest_point: "[[_Standards/WikiData/WD~Mount_Elbrus,43105]]"
 patron_saint: "[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]"
 Happy_Planet_Index_score: 34.9
 total_exports:
-- 353000000000
-- 281900000000
-- 337800000000
-- 497800000000
+  - 353000000000
+  - 281900000000
+  - 337800000000
+  - 497800000000
 number_of_out_of_school_children: 368000
 maximum_temperature_record: 45.4
 trunk_prefix: 8
@@ -657,10 +657,10 @@ ISO_3166_1_numeric_code: 643
 M49_code: 643
 UIC_numerical_country_code: 20
 unemployment_rate:
-- 3.867
-- 4.496
-- 4.715
-- 5.589
+  - 3.867
+  - 4.496
+  - 4.715
+  - 5.589
 mobile_country_code: 250
 maritime_identification_digits: 273
 WIPO_ST_3: RU
@@ -668,8 +668,8 @@ ISO_3166_1_alpha_2_code: RU
 IAB_code: 1449
 OmegaWiki_Defined_Meaning: 8444
 aircraft_registration_prefix:
-- RA
-- RF
+  - RA
+  - RF
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20the%20Russian%20Federation.svg"
 area: 17075400
 FIPS_10_4_countries_and_regions_: RS
@@ -692,10 +692,10 @@ has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 coordinates_of_westernmost_point: "Point(19.63952065 54.45826455)"
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Russia,96997760]]"
 female_population:
-- 77249735
-- 77519443
-- 77774863
-- 77890416
+  - 77249735
+  - 77519443
+  - 77774863
+  - 77890416
 coordinate_location: "Point(94.25 66.416666666)"
 Baidu_Tieba_name: 俄罗斯
 spoken_text_audio:
@@ -713,77 +713,77 @@ spoken_text_audio:
 UMLS_CUI: C0035970
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Russia%20%28%2Bclaims%29.svg"
 demonym:
-- Rusinja
-- روسي
-- رواسا
-- روسيات
-- Rúiseach
-- rusa
-- руска
-- রুশ
-- russa
-- Ruska
-- Russinnen
-- russländisch
-- Rusiano
-- Ruslandano
-- Rusujano
-- rusas
-- venelased
-- רוסייה
-- ռուսաստանցիներ
-- Rusiano
-- russa
-- russe
-- ресейліктер
-- russer
-- russar
-- Rosjanin
-- Rosjanka
-- rusoaică
-- россияне
-- россиянин
-- россиянка
-- руска
-- rysk
-- ryskt
-- росіянин
-- росіянка
-- rusa
-- Rusänan
-- Rus
-- Rus
-- Rus
-- روس
-- orosz
-- russe
-- Russian
-- Russin
-- руски
-- rusa
-- ruso
-- ruse
-- روسية
-- rusu
-- rus
-- Russe
-- russo
-- rusce
-- руски
-- ruso
-- russos
-- Rusové
-- Russen
-- rusos
-- רוסי
-- russi
-- Rosjanie
-- rus
-- ruși
-- росіяни
-- rusi
-- روسي
-- Russe
+  - Rusinja
+  - روسي
+  - رواسا
+  - روسيات
+  - Rúiseach
+  - rusa
+  - руска
+  - রুশ
+  - russa
+  - Ruska
+  - Russinnen
+  - russländisch
+  - Rusiano
+  - Ruslandano
+  - Rusujano
+  - rusas
+  - venelased
+  - רוסייה
+  - ռուսաստանցիներ
+  - Rusiano
+  - russa
+  - russe
+  - ресейліктер
+  - russer
+  - russar
+  - Rosjanin
+  - Rosjanka
+  - rusoaică
+  - россияне
+  - россиянин
+  - россиянка
+  - руска
+  - rysk
+  - ryskt
+  - росіянин
+  - росіянка
+  - rusa
+  - Rusänan
+  - Rus
+  - Rus
+  - Rus
+  - روس
+  - orosz
+  - russe
+  - Russian
+  - Russin
+  - руски
+  - rusa
+  - ruso
+  - ruse
+  - روسية
+  - rusu
+  - rus
+  - Russe
+  - russo
+  - rusce
+  - руски
+  - ruso
+  - russos
+  - Rusové
+  - Russen
+  - rusos
+  - רוסי
+  - russi
+  - Rosjanie
+  - rus
+  - ruși
+  - росіяни
+  - rusi
+  - روسي
+  - Russe
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Russland.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Russische%20F%C3%B6deration.ogg"
@@ -791,14 +791,14 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Rusia.wav"
 ISNI: 0000000123027140
 urban_population:
-- 108359438
-- 108464539
-- 108489246
-- 108576558
+  - 108359438
+  - 108464539
+  - 108489246
+  - 108576558
 Universal_Decimal_Classification: (470)
 BHCL_UUID:
-- 5c5840ae-82aa-48cf-98a7-e03b1e361916
-- 8863bd00-37e2-411b-9a76-5f5cafa29284
+  - 5c5840ae-82aa-48cf-98a7-e03b1e361916
+  - 8863bd00-37e2-411b-9a76-5f5cafa29284
 Provenio_UUID: 8d9d57f5-6867-40d8-bfb1-1d9ac070142a
 Krugosvet_article: Earth_sciences/geografiya/ROSSIYA_ROSSISKAYA_FEDERATSIYA_RF.html
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Russia\"]"
@@ -807,9 +807,9 @@ IPA_transcription: rɐˈsʲijə
 Unicode_character: 🇷🇺 
 subreddit: russia
 hashtag:
-- russia
-- Россия
-- Russland
+  - russia
+  - Россия
+  - Russland
 CIVICUS_Monitor_country_entry: russia
 GitHub_topic: russia
 Colon_Classification: SG--58
@@ -821,20 +821,20 @@ motto_text:
 - "Reveal your own Russia"
 short_name:
 - "\U0001F1F7\U0001F1FA"
-- Россия
-- Росія
+  - Россия
+  - Росія
 rural_population:
-- 35877495
-- 36282223
-- 36964045
-- 36668590
+  - 35877495
+  - 36282223
+  - 36964045
+  - 36668590
 coordinates_of_easternmost_point: "Point(-169.056944444 65.781111111)"
 Gregorian_calendar_start_date: "1918-02-14"
 male_population:
-- 66987198
-- 67227319
-- 67470284
-- 67562876
+  - 66987198
+  - 67227319
+  - 67470284
+  - 67562876
 Commons_category: Russia
 X_Twitter_username: Russia
 social_media_followers: 442844
@@ -848,7 +848,7 @@ INSEE_countries_and_foreign_territories_code: 99123
 official_name: "Российская Федерация"
 native_label:
 - "Российская Федерация"
-- Россия
+  - Россия
 population: 145975300
 GS1_country_code: 460-469
 coordinates_of_southernmost_point: "Point(47.781944444 41.185277777)"
@@ -1093,13 +1093,73 @@ Capital :: [Moskwa](Moskwa)
 
 ## #has_/text_of_/abstract 
 
-> **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; sharing land borders with fourteen countries. Russia is the most populous country in Europe and the ninth-most populous country in the world. It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. Moscow, the most populous metropolitan area in Europe, is the capital and largest city of Russia; while Saint Petersburg is the second-largest city and cultural centre.
+> **Russia**, or the Russian Federation, is a country spanning Eastern Europe and North Asia. 
+> [[Russia/Litwinenko,Alexander]]y in the world by land area, and extends across eleven time zones; 
+> sharing land borders with fourteen countries. 
+> Russia is the most populous country in Europe and the ninth-most populous country in the world. 
+> It is a highly urbanised country, with sixteen of its urban areas having more than 1 million inhabitants. 
+> Moscow, the most populous metropolitan area in Europe, is the capital and largest city of Russia; 
+> while Saint Petersburg is the second-largest city and cultural centre.
 >
-> Human settlement on the territory of modern Russia dates back to the Lower Paleolithic. The East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. The first East Slavic state, Kievan Rus', arose in the 9th century, and in 988, it adopted Orthodox Christianity from the Byzantine Empire. Kievan Rus' ultimately disintegrated; the Grand Duchy of Moscow led the unification of Russian lands, leading to the proclamation of the Tsardom of Russia in 1547. By the early 18th century, Russia had vastly expanded through conquest, annexation, and the efforts of Russian explorers, developing into the Russian Empire, which remains the third-largest empire in history. However, with the Russian Revolution in 1917, Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—the world's first constitutionally socialist state. Following the Russian Civil War, the Russian SFSR established the Soviet Union with three other Soviet republics, within which it was the largest and principal constituent. The Soviet Union underwent rapid industrialisation in the 1930s, amidst the deaths of millions under Joseph Stalin's rule, and later played a decisive role for the Allies in World War II by leading large-scale efforts on the Eastern Front. With the onset of the Cold War, it competed with the United States for ideological dominance and international influence. The Soviet era of the 20th century saw some of the most significant Russian technological achievements, including the first human-made satellite and the first human expedition into outer space.
+> Human settlement on the territory of modern Russia dates back to the Lower Paleolithic. 
+> The East Slavs emerged as a recognised group in Europe between the 3rd and 8th centuries CE. 
+> The first East Slavic state, Kievan Rus', arose in the 9th century, 
+> and in 988, it adopted Orthodox Christianity from the Byzantine Empire. 
 >
-> In 1991, the Russian SFSR emerged from the dissolution of the Soviet Union as the Russian Federation. A new constitution was adopted, which established a federal semi-presidential system. Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, under whom the country has experienced democratic backsliding and become an authoritarian dictatorship. Russia has been militarily involved in a number of conflicts in former Soviet states and other countries, including its war with Georgia in 2008 and its war with Ukraine since 2014. The latter has involved the internationally unrecognised annexations of Ukrainian territory, including Crimea in 2014 and four other regions in 2022, during an ongoing invasion.
+> Kievan Rus' ultimately disintegrated; 
+> the Grand Duchy of Moscow led the unification of Russian lands, 
+> leading to the proclamation of the Tsardom of Russia in 1547. 
 >
-> Russia is generally considered a great power and is a regional power, possessing the largest stockpile of nuclear weapons and having the third-highest military expenditure in the world. It has a high-income economy, which is the eleventh-largest in the world by nominal GDP and fourth-largest by PPP, relying on its vast mineral and energy resources; which rank as the second-largest in the world for oil and natural gas production. However, Russia ranks very low in international measurements of democracy, human rights and freedom of the press, and also has high levels of perceived corruption. It is a permanent member of the United Nations Security Council; a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU. Russia is home to 32 UNESCO World Heritage Sites.
+> By the early 18th century, Russia had vastly expanded through conquest, annexation, 
+> and the efforts of Russian explorers, developing into the Russian Empire, 
+> which remains the third-largest empire in history. 
+>
+> However, with the Russian Revolution in 1917, 
+> Russia's monarchic rule was abolished and eventually replaced by the Russian SFSR—
+> the world's first constitutionally socialist state. 
+> 
+> Following the Russian Civil War, the Russian SFSR established the Soviet Union 
+> with three other Soviet republics, within which it was the largest and principal constituent. 
+> The Soviet Union underwent rapid industrialisation in the 1930s, 
+> amidst the deaths of millions under Joseph Stalin's rule, 
+> and later played a decisive role for the Allies in World War II 
+> by leading large-scale efforts on the Eastern Front. 
+> 
+> With the onset of the Cold War, it competed with the United States 
+> for ideological dominance and international influence. 
+> The Soviet era of the 20th century saw 
+> some of the most significant Russian technological achievements, 
+> including the first human-made satellite and the first human expedition into outer space.
+>
+> In 1991, the Russian SFSR emerged from the dissolution of the Soviet Union 
+> as the Russian Federation. 
+> 
+> A new constitution was adopted, which established a federal semi-presidential system. 
+> Since the turn of the century, Russia's political system has been dominated by Vladimir Putin, 
+> under whom the country has experienced democratic backsliding 
+> and become an authoritarian dictatorship. 
+> 
+> Russia has been militarily involved in a number of conflicts in former Soviet states 
+> and other countries, including its war with Georgia in 2008 and its war with Ukraine since 2014. 
+> The latter has involved the internationally unrecognised annexations of Ukrainian territory, 
+> including Crimea in 2014 and four other regions in 2022, during an ongoing invasion.
+>
+> Russia is generally considered a great power and is a regional power, 
+> possessing the largest stockpile of nuclear weapons 
+> and having the third-highest military expenditure in the world. 
+> 
+> It has a high-income economy, which is the eleventh-largest in the world by nominal GDP 
+> and fourth-largest by PPP, relying on its vast mineral and energy resources; 
+> which rank as the second-largest in the world for oil and natural gas production. 
+> 
+> However, Russia ranks very low in international measurements of 
+> democracy, human rights and freedom of the press, 
+> and also has high levels of perceived corruption. 
+> 
+> It is a permanent member of the United Nations Security Council; 
+> a member state of the G20, SCO, BRICS, APEC, OSCE, and WTO; 
+> and the leading member state of post-Soviet organisations such as CIS, CSTO, and EAEU. 
+> Russia is home to 32 UNESCO World Heritage Sites.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russia)
 

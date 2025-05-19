@@ -100,7 +100,7 @@ list_of_works: "[[_Standards/WikiData/WD~Alfred_Hitchcock_bibliography,16198872]
 family_name: '[[_Standards/WikiData/WD~Hitchcock,16870804]]'
 archives_at: "[[_Standards/WikiData/WD~Margaret_Herrick_Library,17052709]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Hitchcock_at_the_Source__The_Auteur_as_Adapter,102314012]]"
 - "[[_Standards/WikiData/WD~Find_the_Director_and_Other_Hitchcock_Games,102337153]]"

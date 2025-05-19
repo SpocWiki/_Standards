@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q413
 MeSH_tree_code: H01.671
 IPTC_NewsCode: mediatopic/20000731
@@ -16,7 +16,7 @@ instance_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_physics,2427913]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Physics,6082802]]'
 topic_s_main_template:

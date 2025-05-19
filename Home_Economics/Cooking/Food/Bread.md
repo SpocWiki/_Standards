@@ -3,8 +3,8 @@ has_id_wikidata: Q7802
 Commons_gallery: Bread
 subreddit: breaddit
 MeSH_tree_code:
-- G07.203.300.100
-- J02.500.100
+  - G07.203.300.100
+  - J02.500.100
 EPPO_Code: YBRED
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Home%20made%20sour%20dough%20bread.jpg"
@@ -18,7 +18,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 made_from_material:
 - "[[_Standards/WikiData/WD~Saccharomyces_cerevisiae,719725]]"

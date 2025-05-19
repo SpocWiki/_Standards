@@ -1,4 +1,4 @@
-﻿---
+---
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -61,7 +61,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_characteristic:
 - "[[_Standards/WikiData/WD~protein_structure,735188]]"
 - "[[_Standards/WikiData/WD~protein_tertiary_structure,898483]]"

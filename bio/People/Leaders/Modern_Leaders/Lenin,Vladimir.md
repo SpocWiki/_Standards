@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vladimir Ilyich Ulyanov"
 - "Vladimir Lenin"
@@ -51,14 +51,14 @@ sexual_orientation: '[[_Standards/WikiData/WD~heterosexuality,1035954]]'
 described_by_source:
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
 - "[[_Standards/WikiData/WD~Lenin_Museum_in_Moscow,4306109]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Lenin__A_Biography,16960317]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Bio-bibliographic_Dictionary_of_20th-Century_Russian_Writers,42068474]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
@@ -82,7 +82,7 @@ award_received:
 - "[[_Standards/WikiData/WD~honorary_citizen_of_Kazan,4375531]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 fonds: "[[_Standards/WikiData/WD~list_of_archives_in_Russia,4070720]]"
-place_of_detention: "[[_Standards/WikiData/WD~Pre-trial_detention_prison_№3,4165564]]"
+place_of_detention: "[[_Standards/WikiData/WD~Pre-trial_detention_prison__3,4165564]]"
 significant_event: "[[_Standards/WikiData/WD~Lenin's_journey_in_a_sealed_train,4365184]]"
 position_held:
 - "[[_Standards/WikiData/WD~Chairman_of_the_Council_of_People's_Commissars,4376682]]"

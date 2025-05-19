@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7081
 part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 described_by_source:
@@ -8,7 +8,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 facet_of:
 - '[[_Standards/WikiData/WD~social,345367]]'
 - '[[_Standards/WikiData/WD~epistemology,9471]]'

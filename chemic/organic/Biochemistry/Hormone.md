@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11364
 studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
 subclass_of:
@@ -10,7 +10,7 @@ subclass_of:
 significant_person: "[[_Standards/WikiData/WD~William_Bayliss,594936]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hormones,7139889]]'
 different_from: '[[_Standards/WikiData/WD~hormone,125790843]]'
 schematic:

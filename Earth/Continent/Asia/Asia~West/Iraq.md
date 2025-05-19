@@ -150,45 +150,45 @@ Baidu_Tieba_name: 伊拉克
 UMLS_CUI: C0022066
 coordinate_location: "Point(43.0 33.0)"
 demonym:
-- عراقي
-- عراقية
-- عراقيين
-- عراقيات
-- Iarácach
-- عراقي
-- Iraqi
-- عراقية
-- عراقيون
-- iraquín
-- iraquina
-- ইরাকী
-- Iraker
-- Irakerin
-- irakano
-- Iraquí
-- Irakien
-- Irakienne
-- עיראקי
-- עיראקית
-- iraki
-- Irakano
-- irachena
-- irachene
-- iracheni
-- iracheno
-- iraci
-- Iraki
-- Irakiër
-- irakian
-- irakiană
-- irakieni
-- иракец
-- иракцы
-- irachen
-- irachena
-- irachene
-- iracheni
-- Lirakänan
+  - عراقي
+  - عراقية
+  - عراقيين
+  - عراقيات
+  - Iarácach
+  - عراقي
+  - Iraqi
+  - عراقية
+  - عراقيون
+  - iraquín
+  - iraquina
+  - ইরাকী
+  - Iraker
+  - Irakerin
+  - irakano
+  - Iraquí
+  - Irakien
+  - Irakienne
+  - עיראקי
+  - עיראקית
+  - iraki
+  - Irakano
+  - irachena
+  - irachene
+  - iracheni
+  - iracheno
+  - iraci
+  - Iraki
+  - Irakiër
+  - irakian
+  - irakiană
+  - irakieni
+  - иракец
+  - иракцы
+  - irachen
+  - irachena
+  - irachene
+  - iracheni
+  - Lirakänan
 ISNI: 0000000121814095
 name_in_native_language:
 - "جمهوریة العراق"
@@ -196,25 +196,25 @@ name_in_native_language:
 coordinates_of_westernmost_point: "Point(38.79372 33.37478)"
 native_label:
 - "Republik Iraq"
-- العراق
+  - العراق
 - "جمهورية العراق"
-- Iraq
+  - Iraq
 - "Republic of Iraq"
-- Iraq
+  - Iraq
 official_name:
 - "Republik Iraq"
-- العراق
+  - العراق
 - "جمهورية العراق"
-- Iraq
+  - Iraq
 - "Republic of Iraq"
 - "la République d’Irak"
-- Iraq
+  - Iraq
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Sulaymaniyah%20%28Slemani%29%20City%20in%20Winter%20-%20Snow%202015.JPG"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20provinces%20Numbered%20%282024%29.png"
 MeSH_tree_code: Z01.252.245.500.360
 nominal_GDP:
-- 264182173793
-- 207691599310
+  - 264182173793
+  - 207691599310
 coordinates_of_southernmost_point: "Point(46.42605 29.06123)"
 coordinates_of_easternmost_point: "Point(48.47 29.98)"
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
@@ -236,26 +236,26 @@ official_language:
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 30
 BTI_Governance_Index:
-- 5
-- 2.52
-- 3.97
-- 4.02
-- 4.07
-- 4.26
-- 4.43
-- 4.95
+  - 5
+  - 2.52
+  - 3.97
+  - 4.02
+  - 4.07
+  - 4.26
+  - 4.43
+  - 4.95
 marriageable_age: 18
 mains_voltage: 230
 BTI_Status_Index:
-- 3.8
-- 2.79
-- 3.23
-- 3.53
-- 3.75
-- 3.95
-- 4.04
-- 4.07
-- 4.22
+  - 3.8
+  - 2.79
+  - 3.23
+  - 3.53
+  - 3.75
+  - 3.95
+  - 4.04
+  - 4.07
+  - 4.22
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.iq,41768]]'
 Gini_coefficient: 29.5
 Democracy_Index: 3.51
@@ -266,19 +266,19 @@ Inequality_adjusted_Human_Development_Index: 0.554
 Human_Development_Index: 0.686
 mobile_country_code: 418
 death_rate:
-- 4.301
-- 4.433
-- 4.753
-- 5.239
+  - 4.301
+  - 4.433
+  - 4.753
+  - 5.239
 total_fertility_rate: 4.566
 UIC_numerical_country_code: 99
 FIPS_10_4_countries_and_regions_: IZ
 IAB_code: 1321
 birth_rate:
-- 27.035
-- 27.367
-- 27.732
-- 28.078
+  - 27.035
+  - 27.367
+  - 27.732
+  - 28.078
 ISO_3166_1_numeric_code: 368
 M49_code: 368
 OmegaWiki_Defined_Meaning: 5741
@@ -294,10 +294,10 @@ area: 437072
 INSEE_countries_and_foreign_territories_code: 99203
 number_of_out_of_school_children: 1826357
 male_population:
-- 22290370
-- 20788703
-- 21297577
-- 21797409
+  - 22290370
+  - 20788703
+  - 21297577
+  - 21797409
 U_S_National_Archives_Identifier: 10035696
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg"
 Krugosvet_article: strany_mira/IRAK.html
@@ -314,21 +314,21 @@ ITU_letter_code: IRQ
 UIC_alphabetical_country_code: IRQ
 Unicode_character: 🇮🇶 
 rural_population:
-- 12187255
-- 12387061
-- 12572937
-- 12746359
+  - 12187255
+  - 12387061
+  - 12572937
+  - 12746359
 female_population:
-- 20774818
-- 21259406
-- 21736184
-- 22205751
+  - 20774818
+  - 21259406
+  - 21736184
+  - 22205751
 country_calling_code: +964
 urban_population:
-- 29376265
-- 30169923
-- 30960655
-- 31749763
+  - 29376265
+  - 30169923
+  - 30960655
+  - 31749763
 geoshape: "http://commons.wikimedia.org/data/main/Data:Iraq.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Iraq%20%28orthographic-projection%29.svg"
 pronunciation_audio:
@@ -339,18 +339,18 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20B
 official_website: "https://gds.gov.iq/"
 Dewey_Decimal_Classification: 2--567
 BHCL_UUID:
-- 951aaed8-f349-4183-8f8d-02a5dc05f416
-- a647eb36-d3e9-4cdd-b7e8-f0fc113dbf6b
+  - 951aaed8-f349-4183-8f8d-02a5dc05f416
+  - a647eb36-d3e9-4cdd-b7e8-f0fc113dbf6b
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Iraq\"]"
 CIVICUS_Monitor_country_entry: iraq
 GitHub_topic: iraq
 has_id_wikidata: Q796
 location:
-- 33.34
-- 44.42
+    - 33.34
+    - 44.42
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26927
 isDeleted: false
 confidential: public
@@ -367,17 +367,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Iraq
-- العراق
-- 伊拉克
-- Ирак
+    - Iraq
+    - العراق
+    - 伊拉克
+    - Ирак
 - "the Republic of Iraq"
 - "la República del Iraq"
 - "Iraq (el)"
 Languages:
-- ar-IQ
-- ku
-- hy
+    - ar-IQ
+    - ku
+    - hy
 icon: flag-iq
 ---
 

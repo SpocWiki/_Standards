@@ -1,12 +1,48 @@
-﻿# [[Super-Eon~Precambrian]] 
+---
+has_id_wikidata: Q103910
+aliases:
+  - Precambrian
+  - Прекамбрий
+  - Prekambrium
+  - Prækambrium
+  - Präkambrium
+  - Precámbrico
+  - Prekambrium
+  - Prekambri
+  - Précambrien
+  - prekambrium
+  - precambriano
+  - 先カンブリア時代
+  - Prekambras
+  - Precambrium
+  - Prekambrium
+  - Prekambr
+  - Precâmbrico
+  - prekambrium
+  - predkambrij
+  - prekambrium
+  - 前寒武纪
+---
+# [[Super-Eon~Precambrian]] 
+
+#has_/time_/started :: 4567.0e6 
+#has_/time_/stopped :: 538.8e6 
 
 A time period from 4567 to 538.8 million years ago. 
 
-> The **Precambrian** (  pree-KAM-bree-ən, -⁠KAYM-; or Pre-Cambrian, sometimes abbreviated pꞒ, or Cryptozoic) is the earliest part of Earth's history, set before the current Phanerozoic Eon. 
+> The **Precambrian** (  pree-KAM-bree-ən, -⁠KAYM-; or Pre-Cambrian, 
+> sometimes abbreviated pꞒ, or Cryptozoic) is the earliest part of Earth's history, 
+> set before the current Phanerozoic Eon. 
 > 
-> The Precambrian is so named because it preceded the Cambrian, the first period of the Phanerozoic Eon, which is named after Cambria, the Latinised name for Wales, where rocks from this age were first studied. The Precambrian accounts for 88% of the Earth's geologic time.
+> The Precambrian is so named because it preceded the Cambrian, the first period of the Phanerozoic Eon, 
+> which is named after Cambria, the Latinised name for Wales, where rocks from this age were first studied. 
+> The Precambrian accounts for 88% of the Earth's geologic time.
 >
-> The Precambrian is an informal unit of geologic time, subdivided into three eons (Hadean, Archean, Proterozoic) of the geologic time scale. It spans from the formation of Earth about 4.6 billion years ago (Ga) to the beginning of the Cambrian Period, about 538.8 million years ago (Ma), when hard-shelled creatures first appeared in abundance.
+> The Precambrian is an informal unit of geologic time, 
+> subdivided into three eons (Hadean, Archean, Proterozoic) of the geologic time scale. 
+> It spans from the formation of Earth about 4.6 billion years ago (Ga) 
+> to the beginning of the Cambrian Period, about 538.8 million years ago (Ma), 
+> when hard-shelled creatures first appeared in abundance.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Precambrian)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q349
 has_use:
 - '[[_Standards/WikiData/WD~pleasure,208195]]'
@@ -10,7 +10,7 @@ studied_in:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Gender_Glossar,106508758]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of: "[[_Standards/WikiData/WD~physical_activity,747883]]"

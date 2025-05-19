@@ -253,22 +253,22 @@ compulsory_education_maximum_age_: 18
 marriageable_age: 18
 age_of_majority: 18
 birth_rate:
-- 19
-- 19.2
-- 19.7
-- 20.1
+  - 19
+  - 19.2
+  - 19.7
+  - 20.1
 age_of_candidacy: 21
 water_as_percent_of_area: 2.1
 mains_voltage: 230
 death_rate:
-- 5.1
-- 5.3
-- 5.4
+  - 5.1
+  - 5.3
+  - 5.4
 suicide_rate: 5.2
 inflation_rate: 5.3
 retirement_age:
-- 62
-- 67
+  - 62
+  - 67
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.il,97119126]]'
 participant_in: "[[_Standards/WikiData/WD~relations_between_Israel_and_Mercosur,104529468]]"
 studied_in: "[[_Standards/WikiData/WD~Israel_studies,124814325]]"
@@ -282,67 +282,67 @@ native_label:
 - "מְדִינַת יִשְׂרָאֵל"
 official_name:
 - "دَوْلَة إِسْرَائِيل"
-- ישראל
+  - ישראל
 UMLS_CUI: C0022271
 described_at_URL: "http://68k.news/index.php?section=nation&loc=IL&lang=HE"
 name: ꠁꠎꠞꠣꠁꠟ
 coordinates_of_westernmost_point: "Point(34.2675 31.219722222)"
 demonym:
-- إسرائيلي
-- إسرائيلية
-- إسرائيليين
-- إسرائيليات
-- Izraelec
-- Izraelka
-- israelita
-- israelian
-- israeliana
-- israeliane
-- israeliani
-- Yisraelänan
-- Iosraelach
-- إسرائيليّ
-- إسرائيليّة
-- إسرائيليون
-- israelín
-- israelina
-- ইসরায়েলি
-- israelià
-- israeliana
-- israelians
-- Israeli
-- Israelin
-- Israelinnen
-- Israelis
-- Israeli
-- Israelis
-- israelano
-- israelí
-- Israélien
-- Israélienne
-- ישראלי
-- ישראלית
-- izraeli
-- Israelano
-- israeliana
-- israeliane
-- israeliani
-- israeliano
-- イスラエル
-- ისრაელები
-- ისრაელი
-- israeli
-- Israëli
-- Israëliër
-- israelian
-- israeliană
-- israelieni
-- израильтяне
-- израильтянин
-- израильтянка
-- ізраїльтяни
-- ізраїльтянин
-- ізраїльтянка
+  - إسرائيلي
+  - إسرائيلية
+  - إسرائيليين
+  - إسرائيليات
+  - Izraelec
+  - Izraelka
+  - israelita
+  - israelian
+  - israeliana
+  - israeliane
+  - israeliani
+  - Yisraelänan
+  - Iosraelach
+  - إسرائيليّ
+  - إسرائيليّة
+  - إسرائيليون
+  - israelín
+  - israelina
+  - ইসরায়েলি
+  - israelià
+  - israeliana
+  - israelians
+  - Israeli
+  - Israelin
+  - Israelinnen
+  - Israelis
+  - Israeli
+  - Israelis
+  - israelano
+  - israelí
+  - Israélien
+  - Israélienne
+  - ישראלי
+  - ישראלית
+  - izraeli
+  - Israelano
+  - israeliana
+  - israeliane
+  - israeliani
+  - israeliano
+  - イスラエル
+  - ისრაელები
+  - ისრაელი
+  - israeli
+  - Israëli
+  - Israëliër
+  - israelian
+  - israeliană
+  - israelieni
+  - израильтяне
+  - израильтянин
+  - израильтянка
+  - ізраїльтяни
+  - ізраїльтянин
+  - ізраїльтянка
 ISNI: 0000000403720767
 coordinate_location: "Point(35.0 31.0)"
 ORCID_iD: 0000-0001-7681-7410
@@ -350,8 +350,8 @@ PM20_geo_code: B24e
 MeSH_tree_code: Z01.252.245.500.375
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Israel%2C%20neighbours%20and%20occupied%20territories-en.svg"
 Telegram_username:
-- Israel_inarabic
-- IsraelinRussian
+  - Israel_inarabic
+  - IsraelinRussian
 coordinates_of_easternmost_point: "Point(35.896111111 32.945277777)"
 coordinates_of_southernmost_point: "Point(34.902777777 29.490833333)"
 country: '[[_Standards/WikiData/WD~Israel,801]]'
@@ -393,9 +393,9 @@ official_website:
 - "https://www.gov.il/fr"
 - "https://www.gov.il/ru"
 IPA_transcription:
-- ˈiːsɾɑɛl
-- ˈɪzreɪəl
-- jisʁaˈʔel
+  - ˈiːsɾɑɛl
+  - ˈɪzreɪəl
+  - jisʁaˈʔel
 country_calling_code: +972
 U_S_National_Archives_Identifier: 10035704
 IAB_code: 1325
@@ -408,8 +408,8 @@ GS1_country_code: 729
 UIC_numerical_country_code: 95
 INSEE_countries_and_foreign_territories_code: 99207
 BHCL_UUID:
-- a2ccc019-5a69-48a5-9a3b-4b9bca66f174
-- a98a5564-42ef-4491-b9d2-0fdfab531215
+  - a2ccc019-5a69-48a5-9a3b-4b9bca66f174
+  - a98a5564-42ef-4491-b9d2-0fdfab531215
 WIPO_ST_3: IL
 UIC_alphabetical_country_code: IL
 licence_plate_code: IL
@@ -420,59 +420,59 @@ ITU_letter_code: ISR
 ISO_3166_1_alpha_3_code: ISR
 IOC_country_code: ISR
 hashtag:
-- israel
-- Israel
+  - israel
+  - Israel
 TikTok_username:
-- israel
-- israelarabic
-- israelinspanish
+  - israel
+  - israelarabic
+  - israelinspanish
 CIVICUS_Monitor_country_entry: israel
 GitHub_topic: israel
 X_Twitter_username:
-- Israel
-- IsraelArabic
-- IsraelHebrew
+  - Israel
+  - IsraelArabic
+  - IsraelHebrew
 subreddit: Israel
 Commons_category: Israel
 short_name:
 - "\U0001F1EE\U0001F1F1"
-- ישראל
+  - ישראל
 minimum_wage:
-- 30.61
-- 5571.75
+  - 30.61
+  - 5571.75
 nominal_GDP: 520700000000
 unemployment_rate: 66.36
 number_of_out_of_school_children: 26676
 male_population:
-- 4592300
-- 4509772
-- 4672141
-- 4767057
+  - 4592300
+  - 4509772
+  - 4672141
+  - 4767057
 GDP_PPP_: 478010000000
 rural_population:
-- 678959
-- 683115
-- 686549
-- 691676
+  - 678959
+  - 683115
+  - 686549
+  - 691676
 female_population:
-- 4544229
-- 4622801
-- 4699259
-- 4790443
+  - 4544229
+  - 4622801
+  - 4699259
+  - 4790443
 urban_population:
-- 8375041
-- 8531985
-- 8684851
-- 8865824
+  - 8375041
+  - 8531985
+  - 8684851
+  - 8865824
 inception: "1948-05-14"
 has_time_started: "1948-05-14"
 coordinates_of_northernmost_point: "Point(35.768055555 33.332777777)"
 Instagram_username:
-- israelarabic
-- stateofisrael
+  - israelarabic
+  - stateofisrael
 Threads_username:
-- israelarabic
-- stateofisrael
+  - israelarabic
+  - stateofisrael
 Facebook_username: IsraelArabic
 Krugosvet_article: strany-mira/izrail-strana
 Libris_URI: wt798x9f33sdv3p
@@ -481,7 +481,7 @@ Gujarati_Vishwakosh_entry: ઇઝરાયલ
 has_id_wikidata: Q801
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26924
 isDeleted: false
 confidential: public
@@ -498,17 +498,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Israel
-- Israël
-- إسرائيل
-- 以色列
-- Израиль
+    - Israel
+    - Israël
+    - إسرائيل
+    - 以色列
+    - Израиль
 - "the State of Israel"
 - "el Estado de Israel"
 Languages:
-- he
-- ar-IL
-- en-IL
+    - he
+    - ar-IL
+    - en-IL
 icon: flag-il
 ---
 

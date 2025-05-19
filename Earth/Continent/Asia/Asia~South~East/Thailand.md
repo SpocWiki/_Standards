@@ -3,7 +3,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Nyah_Kur,116849]]"
 - "[[_Standards/WikiData/WD~Northern_Thai,565110]]"
 - "[[_Standards/WikiData/WD~Kelantan-Pattani_Malay,1199751]]"
-- "[[_Standards/WikiData/WD~Urak_Lawoi’,2031144]]"
+- "[[_Standards/WikiData/WD~Urak_Lawoi_,2031144]]"
 - '[[_Standards/WikiData/WD~Nyeu,3033578]]'
 - "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
 - '[[_Standards/WikiData/WD~Mlabri,3073465]]'
@@ -64,7 +64,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"

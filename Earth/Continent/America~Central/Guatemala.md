@@ -59,7 +59,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of:
 - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
 - "[[_Standards/WikiData/WD~Latin_America,12585]]"
@@ -84,22 +84,22 @@ language_used:
 - '[[_Standards/WikiData/WD~Akateko,34923]]'
 - '[[_Standards/WikiData/WD~Awakatek,35091]]'
 - '[[_Standards/WikiData/WD~Kaqchikel,35115]]'
-- '[[_Standards/WikiData/WD~Ch’orti’,35177]]'
+- '[[_Standards/WikiData/WD~Ch_orti_,35177]]'
 - '[[_Standards/WikiData/WD~Chuj,35233]]'
 - '[[_Standards/WikiData/WD~Garifuna,35490]]'
 - '[[_Standards/WikiData/WD~Ixil,35528]]'
-- '[[_Standards/WikiData/WD~Q’eqchi’,35536]]'
-- '[[_Standards/WikiData/WD~Itza’,35537]]'
-- '[[_Standards/WikiData/WD~Q’anjob’al,35551]]'
+- '[[_Standards/WikiData/WD~Q_eqchi_,35536]]'
+- '[[_Standards/WikiData/WD~Itza_,35537]]'
+- '[[_Standards/WikiData/WD~Q_anjob_al,35551]]'
 - "[[_Standards/WikiData/WD~Mopan_Maya,36183]]"
-- "[[_Standards/WikiData/WD~Poqomchi',36414]]"
+  - "[[_Standards/WikiData/WD~Poqomchi',36414]]"
 - '[[_Standards/WikiData/WD~Sakapultek,36412]]'
 - '[[_Standards/WikiData/WD~Poqomam,36416]]'
-- '[[_Standards/WikiData/WD~K’iche’,36494]]'
+- '[[_Standards/WikiData/WD~K_iche_,36494]]'
 - '[[_Standards/WikiData/WD~Sipakapa,36589]]'
 - '[[_Standards/WikiData/WD~Tektitek,36686]]'
 - '[[_Standards/WikiData/WD~Uspantek,36728]]'
-- '[[_Standards/WikiData/WD~Tz’utujil,36941]]'
+- '[[_Standards/WikiData/WD~Tz_utujil,36941]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Guatemala,2334361]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Guatemala,2424171]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Guatemala,2463384]]"
@@ -126,7 +126,7 @@ permanent_duplicated_item:
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Guatemala,63286063]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 replaces: "[[_Standards/WikiData/WD~State_of_Guatemala,68257522]]"
 open_data_portal: "[[_Standards/WikiData/WD~Guatemala_Open_Data_Portal,97095849]]"
 head_of_state: "[[_Standards/WikiData/WD~Bernardo_Arévalo_de_León,107254030]]"
@@ -135,52 +135,52 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q109829416,109829416]]'
 coordinates_of_westernmost_point: "Point(-92.210638888 15.260666666)"
 coordinates_of_northernmost_point: "Point(-90.987833333 17.815694444)"
 demonym:
-- guatemalenc
-- guatemalenca
-- ڭواطيمالي
-- ڭواطيمالية
-- ڭواطيماليين
-- ڭواطيماليات
-- Gvatemalec
-- Gvatemalka
-- Guatamalach
-- غواتيماليون
-- غواتيمالي
-- غواتيمالية
-- guatemaliana
-- guatemalianu
-- গুয়াতেমালীয়
-- guatemalaner
-- Guatemaler
-- Guatemalerin
-- Guatemalan
-- Gvatemalano
-- Guatémalien
-- Guatémalienne
-- Guatémaltèque
-- גואטמלי
-- גואטמלית
-- guatemelai
-- Guatemalano
-- guatemalteca
-- guatemalteche
-- guatemaltechi
-- guatemalteco
-- guatemalteca
-- guatemalez
-- guatemaleză
-- guatemalezi
-- гватемалец
-- гватемалка
-- гватемальцы
-- guatemaltega
-- guatemalteghe
-- guatemalteghi
-- guatemaltego
-- Gvatemänan
+  - guatemalenc
+  - guatemalenca
+  - ڭواطيمالي
+  - ڭواطيمالية
+  - ڭواطيماليين
+  - ڭواطيماليات
+  - Gvatemalec
+  - Gvatemalka
+  - Guatamalach
+  - غواتيماليون
+  - غواتيمالي
+  - غواتيمالية
+  - guatemaliana
+  - guatemalianu
+  - গুয়াতেমালীয়
+  - guatemalaner
+  - Guatemaler
+  - Guatemalerin
+  - Guatemalan
+  - Gvatemalano
+  - Guatémalien
+  - Guatémalienne
+  - Guatémaltèque
+  - גואטמלי
+  - גואטמלית
+  - guatemelai
+  - Guatemalano
+  - guatemalteca
+  - guatemalteche
+  - guatemaltechi
+  - guatemalteco
+  - guatemalteca
+  - guatemalez
+  - guatemaleză
+  - guatemalezi
+  - гватемалец
+  - гватемалка
+  - гватемальцы
+  - guatemaltega
+  - guatemalteghe
+  - guatemalteghi
+  - guatemaltego
+  - Gvatemänan
 nominal_GDP:
-- 95003333381
-- 86053079767
+  - 95003333381
+  - 86053079767
 ISNI: 0000000122709190
 MeSH_tree_code: Z01.107.169.454
 coordinates_of_geographic_center: "Point(-90.25 15.5)"
@@ -217,26 +217,26 @@ VAT_rate: 12
 marriageable_age: 18
 age_of_majority: 18
 BTI_Status_Index:
-- 4.5
-- 4.47
-- 5.08
-- 5.13
-- 5.15
-- 5.27
-- 5.36
-- 5.43
-- 5.55
+  - 4.5
+  - 4.47
+  - 5.08
+  - 5.13
+  - 5.15
+  - 5.27
+  - 5.36
+  - 5.43
+  - 5.55
 Inequality_adjusted_Human_Development_Index: 0.46
 BTI_Governance_Index:
-- 5.5
-- 3.36
-- 3.58
-- 4.52
-- 4.62
-- 4.82
-- 5.01
-- 5.05
-- 5.37
+  - 5.5
+  - 3.36
+  - 3.58
+  - 4.52
+  - 4.62
+  - 4.82
+  - 5.01
+  - 5.05
+  - 5.37
 suicide_rate: 6.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gt,41781]]'
 Gini_coefficient: 48.3
@@ -244,16 +244,16 @@ Democracy_Index: 4.97
 Happy_Planet_Index_score: 57.9
 Human_Development_Index: 0.627
 birth_rate:
-- 21.12
-- 20.861
-- 21.816
-- 22.858
+  - 21.12
+  - 20.861
+  - 21.816
+  - 22.858
 total_fertility_rate: 3.211
 death_rate:
-- 4.892
-- 5.337
-- 6.504
-- 6.767
+  - 4.892
+  - 5.337
+  - 6.504
+  - 6.767
 maritime_identification_digits: 332
 M49_code: 320
 ISO_3166_1_numeric_code: 320
@@ -272,10 +272,10 @@ social_media_followers: 69313
 life_expectancy: 73.409
 IAB_code: 1308
 male_population:
-- 8348500
-- 8223795
-- 8470073
-- 8590378
+  - 8348500
+  - 8223795
+  - 8470073
+  - 8590378
 area: 108889
 OmegaWiki_Defined_Meaning: 7984
 WIPO_ST_3: GT
@@ -288,22 +288,22 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guat
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guatemala.svg"
 INSEE_countries_and_foreign_territories_code: 99409
 official_name:
-- Guatemala
+  - Guatemala
 - "République du Guatémala"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Guatemala.map"
 hashtag: Guatemala
 Commons_category: Guatemala
 Commons_gallery: Guatemala
 rural_population:
-- 8063081
-- 8119648
-- 8170759
-- 8216182
+  - 8063081
+  - 8119648
+  - 8170759
+  - 8216182
 female_population:
-- 8380231
-- 8509834
-- 8639673
-- 8767508
+  - 8380231
+  - 8509834
+  - 8639673
+  - 8767508
 motto_text:
 - "Tyfwch yn Rhydd a Ffrwythlon"
 - "Heart of the Mayan World"
@@ -311,12 +311,13 @@ motto_text:
 native_label: "República de Guatemala"
 short_name: "\U0001F1EC\U0001F1F9"
 urban_population:
-- 8540945
-- 8738685
-- 8938987
-- 9141704
+  - 8540945
+  - 8738685
+  - 8938987
+  - 9141704
 inception: "1821"
 has_time_started: 1821-06 
+has_time_started: 1821-01-01T00:00:00Z 
 population: 17263239
 licence_plate_code: GCA
 ITU_letter_code: GTM
@@ -345,11 +346,11 @@ Colon_Classification: SG--751
 Krugosvet_article: strany_mira/GVATEMALA.html
 has_id_wikidata: Q774
 location:
-- 14.6333
-- -90.5
+    - 14.6333
+    - -90.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26912
 isDeleted: false
 confidential: public
@@ -366,14 +367,14 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Guatemala
-- غواتيمالا
-- 危地马拉
-- Гватемала
+    - Guatemala
+    - غواتيمالا
+    - 危地马拉
+    - Гватемала
 - "the Republic of Guatemala"
 - "la República de Guatemala"
 Languages:
-- es-GT
+    - es-GT
 icon: flag-gt
 ---
 

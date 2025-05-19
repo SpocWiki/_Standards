@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Taj Mahal"
 has_id_wikidata: Q9141
@@ -26,7 +26,7 @@ significant_event: '[[_Standards/WikiData/WD~construction,385378]]'
 architect: "[[_Standards/WikiData/WD~Ahmad_Lahori,2551253]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 heritage_designation:
 - "[[_Standards/WikiData/WD~Monument_of_National_Importance,17047513]]"
 - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Himalayas
 - Himalaya
@@ -10,12 +10,12 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfter_Band,130285551]]"
 part_of:
 - "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
 - "[[_Standards/WikiData/WD~Larger_Himalaya,18088753]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1057
 has_part_s_:
 - '[[_Standards/WikiData/WD~anabolism,184681]]'
@@ -9,7 +9,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_contributing_factor: '[[_Standards/WikiData/WD~nutrition,2138622]]'
 subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
 instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"

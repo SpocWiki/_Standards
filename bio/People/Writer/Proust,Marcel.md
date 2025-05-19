@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marcel Proust"
 has_id_wikidata: Q7199
@@ -37,7 +37,7 @@ place_of_burial:
 mother: "[[_Standards/WikiData/WD~Jeanne-Clémence_Proust,15206054]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Marcel_Proust__A_Life,111382314]]"

@@ -64,8 +64,8 @@ student_of:
 - "[[_Standards/WikiData/WD~Alfred_Marshall,13529]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 place_of_death: '[[_Standards/WikiData/WD~Firle,3072862]]'
 mother: "[[_Standards/WikiData/WD~Florence_Ada_Keynes,3073935]]"

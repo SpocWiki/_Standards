@@ -61,12 +61,12 @@ creator: "[[_Standards/WikiData/WD~Qin_Shi_Huangdi,7192]]"
 made_from_material: '[[_Standards/WikiData/WD~limestone,23757]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 height:
-- 5
-- 7
-- 8
+  - 5
+  - 7
+  - 8
 visitors_per_year:
-- 16000000
-- 15100
+  - 16000000
+  - 15100
 width: 4.5
 length: 21195
 ---

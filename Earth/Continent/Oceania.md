@@ -1,4 +1,4 @@
-﻿---
+---
 type: Continent
 SpocWebEntityId: 27201
 confidential: public
@@ -18,7 +18,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~geographic_region,82794]]"
 - "[[_Standards/WikiData/WD~part_of_the_world,2418896]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Oceania,149509]]"
-lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda–Lake_Eyre,179970]]"
+lowest_point: "[[_Standards/WikiData/WD~Kati_Thanda_Lake_Eyre,179970]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Oceania,498466]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

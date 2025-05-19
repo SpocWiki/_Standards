@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles Dickens"
 - "Charles John Huffam Dickens"
@@ -48,8 +48,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
-- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
@@ -57,7 +57,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

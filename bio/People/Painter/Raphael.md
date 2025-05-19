@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Raffaello Sanzio da Urbino"
 - Raffael
@@ -199,7 +199,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_hav
 family_name: '[[_Standards/WikiData/WD~Sanzio,104067365]]'
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_—_Smithsonian_Libraries_—_Artists_Files,105757729]]"
+- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot___Smithsonian_Libraries___Artists_Files,105757729]]"
 date_of_birth:
 - "1483-04-15"
 - "1483-04-06"

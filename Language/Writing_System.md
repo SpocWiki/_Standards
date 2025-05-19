@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8192
 used_by:
 - '[[_Standards/WikiData/WD~scribe,916292]]'
@@ -11,7 +11,7 @@ subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Infobox_writing_system,5640628]]"
 - "[[_Standards/WikiData/WD~Template_Writing_systems_sidebar,6238870]]"

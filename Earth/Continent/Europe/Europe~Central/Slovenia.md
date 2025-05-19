@@ -46,7 +46,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Municipality_of_Radenci,338743]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Črenšovci,341658]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Vuzenica,370390]]"
-- "[[_Standards/WikiData/WD~Municipality_of_Šempeter–Vrtojba,391428]]"
+- "[[_Standards/WikiData/WD~Municipality_of_Šempeter_Vrtojba,391428]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Šentilj,391446]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Škocjan,391800]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Škofljica,392103]]"
@@ -69,17 +69,17 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Municipality_of_Lendava,587328]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Poljčane,594852]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Rogašovci,599480]]"
-- "[[_Standards/WikiData/WD~Municipality_of_Renče–Vogrsko,612216]]"
+- "[[_Standards/WikiData/WD~Municipality_of_Renče_Vogrsko,612216]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Gorišnica,632998]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Bled,647572]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Prevalje,650009]]"
-- "[[_Standards/WikiData/WD~Miren–Kostanjevica_Municipality,658076]]"
+- "[[_Standards/WikiData/WD~Miren_Kostanjevica_Municipality,658076]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Luče,669648]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Mozirje,670975]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Mežica,678147]]"
 - "[[_Standards/WikiData/WD~Kobarid_Municipality,688287]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Gornji_Grad,726548]]"
-- "[[_Standards/WikiData/WD~Municipality_of_Rače–Fram,731093]]"
+- "[[_Standards/WikiData/WD~Municipality_of_Rače_Fram,731093]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Brda,763400]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Trzin,773160]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Ljubno,773659]]"
@@ -125,7 +125,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Municipality_of_Juršinci,1003984]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Miklavž_na_Dravskem_Polju,1005165]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Horjul,1005185]]"
-- "[[_Standards/WikiData/WD~Municipality_of_Dobrova–Polhov_Gradec,1005208]]"
+- "[[_Standards/WikiData/WD~Municipality_of_Dobrova_Polhov_Gradec,1005208]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Gorenja_Vas-Poljane,1005224]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Radlje_ob_Dravi,1005364]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Ivančna_Gorica,1008048]]"
@@ -150,7 +150,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Municipality_of_Grad,1019067]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Gorje,1027062]]"
 - "[[_Standards/WikiData/WD~Mokronog-Trebelno_Municipality,1027078]]"
-- "[[_Standards/WikiData/WD~Municipality_of_Log–Dragomer,1027089]]"
+- "[[_Standards/WikiData/WD~Municipality_of_Log_Dragomer,1027089]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Rogatec,1027245]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Braslovče,1034410]]"
 - "[[_Standards/WikiData/WD~Municipality_of_Cerkvenjak,1252438]]"
@@ -305,58 +305,58 @@ official_name:
 - "Repubblica di Slovenia"
 - "Szlovén Köztársaság"
 - "Republika Slovenija"
-- Slovenija
+  - Slovenija
 demonym:
-- صلوڤيني
-- صلوڤينية
-- صلوڤينيين
-- صلوڤينيات
-- Slóivéanach
-- سلوفيني
-- eslovena
-- esloveno
-- eslovenu
-- স্লোভেনীয়
-- Slowenin
-- sloveno
-- סלובני
-- Sloveniano
-- slovena
-- slovene
-- Sloveen
-- sloven
-- slovenă
-- sloveni
-- словенець
-- словенка
-- словенці
-- slovena
-- slovene
-- Sloveniyänan
-- سلوفينية
-- Slovenian
-- سلوفينيون
-- Slowene
-- Slovène
-- sloveni
-- словенец
-- словенка
-- словенцы
-- sloveni
-- Slovenka
-- Slovene
-- סלובנית
-- szlovén
-- sloveno
-- slovenian
-- sloven
-- Slovenec
+  - صلوڤيني
+  - صلوڤينية
+  - صلوڤينيين
+  - صلوڤينيات
+  - Slóivéanach
+  - سلوفيني
+  - eslovena
+  - esloveno
+  - eslovenu
+  - স্লোভেনীয়
+  - Slowenin
+  - sloveno
+  - סלובני
+  - Sloveniano
+  - slovena
+  - slovene
+  - Sloveen
+  - sloven
+  - slovenă
+  - sloveni
+  - словенець
+  - словенка
+  - словенці
+  - slovena
+  - slovene
+  - Sloveniyänan
+  - سلوفينية
+  - Slovenian
+  - سلوفينيون
+  - Slowene
+  - Slovène
+  - sloveni
+  - словенец
+  - словенка
+  - словенцы
+  - sloveni
+  - Slovenka
+  - Slovene
+  - סלובנית
+  - szlovén
+  - sloveno
+  - slovenian
+  - sloven
+  - Slovenec
 ISNI: 0000000121109038
 MeSH_tree_code: Z01.542.248.820
 IPA_transcription:
-- swɔˈvɛɲä
-- slɐˈvʲenʲɪjə
-- ʂluˈʋeːnɪɑ
+  - swɔˈvɛɲä
+  - slɐˈvʲenʲɪjə
+  - ʂluˈʋeːnɪɑ
 coordinates_of_westernmost_point: "Point(13.37537706 46.29772959)"
 coordinate_location: "Point(15.0 46.0)"
 coordinates_of_southernmost_point: "Point(15.17724752 45.42179897)"
@@ -417,26 +417,26 @@ age_of_majority: 18
 VAT_rate: 22
 mains_voltage: 230
 BTI_Governance_Index:
-- 6.2
-- 6.3
-- 6.47
-- 6.55
-- 6.57
-- 6.72
-- 6.78
-- 6.83
-- 7.41
+  - 6.2
+  - 6.3
+  - 6.47
+  - 6.55
+  - 6.57
+  - 6.72
+  - 6.78
+  - 6.83
+  - 7.41
 life_expectancy: 81
 birth_rate: 8.3
 BTI_Status_Index:
-- 8.9
-- 9.01
-- 9.11
-- 9.18
-- 9.27
-- 9.45
-- 9.49
-- 9.52
+  - 8.9
+  - 9.01
+  - 9.11
+  - 9.18
+  - 9.27
+  - 9.45
+  - 9.49
+  - 9.52
 death_rate: 10.6
 total_fertility_rate: 1.55
 Gini_coefficient: 24.4
@@ -457,14 +457,14 @@ WIPO_ST_3: SI
 ISO_3166_1_alpha_2_code: SI
 FIPS_10_4_countries_and_regions_: SI
 NUTS_code:
-- SI
-- SI0
+  - SI
+  - SI0
 number_of_out_of_school_children: 6716
 carbon_footprint:
-- 15365000
-- 15939000
-- 16624000
-- 18334000
+  - 15365000
+  - 15939000
+  - 16624000
+  - 18334000
 Dewey_Decimal_Classification: 2--4973
 area: 20271
 median_income: 25085
@@ -476,25 +476,25 @@ UIC_alphabetical_country_code: SLO
 licence_plate_code: SLO
 IOC_country_code: SLO
 rural_population:
-- 934533
-- 939634
-- 943491
-- 943608
+  - 934533
+  - 939634
+  - 943491
+  - 943608
 INSEE_countries_and_foreign_territories_code: 99145
 subreddit: Slovenia
 Commons_category: Slovenia
 hashtag: Slovenia
 Commons_gallery: Slovenija
 female_population:
-- 1042591
-- 1047063
-- 1048601
-- 1050321
+  - 1042591
+  - 1047063
+  - 1048601
+  - 1050321
 male_population:
-- 1045795
-- 1055356
-- 1059477
-- 1061664
+  - 1045795
+  - 1055356
+  - 1059477
+  - 1061664
 CIVICUS_Monitor_country_entry: slovenia
 GitHub_topic: slovenia
 Krugosvet_article: strany_mira/SLOVENIYA.html
@@ -502,10 +502,10 @@ motto_text: "I feel SLOVEnia"
 native_label: Slovenija
 short_name: "\U0001F1F8\U0001F1EE"
 urban_population:
-- 1144894
-- 1158811
-- 1168445
-- 1177453
+  - 1144894
+  - 1158811
+  - 1168445
+  - 1177453
 ITU_letter_code: SVN
 ISO_3166_1_alpha_3_code: SVN
 coordinates_of_easternmost_point: "Point(16.61068976 46.46978084)"
@@ -532,11 +532,11 @@ Colon_Classification: SG--59223
 Unicode_character: 🇸🇮 
 has_id_wikidata: Q215
 location:
-- 46.05
-- 14.52
+    - 46.05
+    - 14.52
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27016
 isDeleted: false
 confidential: public
@@ -553,17 +553,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Slovenia
-- Eslovenia
-- Slovénie
-- سلوفينيا
-- 斯洛文尼亚
-- Словения
+    - Slovenia
+    - Eslovenia
+    - Slovénie
+    - سلوفينيا
+    - 斯洛文尼亚
+    - Словения
 - "the Republic of Slovenia"
 - "la República de Eslovenia"
 Languages:
-- sl
-- sh
+    - sl
+    - sh
 icon: flag-si
 ---
 

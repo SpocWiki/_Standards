@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Franz Kafka"
 has_id_wikidata: Q905
@@ -76,7 +76,7 @@ field_of_work:
 - '[[_Standards/WikiData/WD~literature,8242]]'
 family_name: '[[_Standards/WikiData/WD~Kafka,16851334]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Handbuch_österreichischer_Autorinnen_und_Autoren_jüdischer_Herkunft_18._bis_20._Jahrhundert,97144847]]"

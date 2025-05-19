@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rembrandt Harmenszoon van Rijn"
 has_id_wikidata: Q5598
@@ -61,7 +61,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Museum_collection_Am_Römerholz,682406]]"
 - "[[_Standards/WikiData/WD~The_Frick_Collection,682827]]"
 - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
 - "[[_Standards/WikiData/WD~Royal_Castle_in_Warsaw,756098]]"
 - "[[_Standards/WikiData/WD~Audley_End_House,758949]]"
@@ -322,7 +322,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Was_Rembrandt_stereoblind_,24658563]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-- "[[_Standards/WikiData/WD~Young_Rembrandt_–_Rising_Star,86661885]]"
+- "[[_Standards/WikiData/WD~Young_Rembrandt___Rising_Star,86661885]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~The_Rembrandt_Database,107619313]]"
 - "[[_Standards/WikiData/WD~Rembrandt_in_Amsterdam,112598210]]"

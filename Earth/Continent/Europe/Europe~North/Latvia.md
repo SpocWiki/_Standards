@@ -211,7 +211,7 @@ basic_form_of_government:
 described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 language_used:
 - "[[_Standards/WikiData/WD~Latvian_Sign_Language,6497414]]"
 - '[[_Standards/WikiData/WD~Russian,7737]]'
@@ -237,62 +237,62 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Lettland.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Letonia.wav"
 demonym:
-- لاتڤي
-- لاتڤية
-- لاتڤيين
-- لاتڤيات
-- Laitviach
-- لاتفي
-- لاتفيون
-- letón
-- letona
-- লাতভীয়
-- letona
-- letons
-- Latvians
-- letona
-- lätlased
-- latvialainen
-- latvialaiset
-- Lettonne
-- לטבי
-- Latviano
-- lettoni
-- latviete
-- latvietis
-- Let
-- leton
-- letoni
-- латвиец
-- латвийка
-- латвийцы
-- латвієць
-- латвійка
-- латвійці
-- латиш
-- латиші
-- латишка
-- lètona
-- lètone
-- lètoni
-- Latviyänan
-- Latvian
-- لاتفية
-- letó
-- letón
-- Letton
-- לטבית
-- lett
-- lettone
-- latvisce
-- letonă
-- lètono
-- Lette
-- Lettin
+  - لاتڤي
+  - لاتڤية
+  - لاتڤيين
+  - لاتڤيات
+  - Laitviach
+  - لاتفي
+  - لاتفيون
+  - letón
+  - letona
+  - লাতভীয়
+  - letona
+  - letons
+  - Latvians
+  - letona
+  - lätlased
+  - latvialainen
+  - latvialaiset
+  - Lettonne
+  - לטבי
+  - Latviano
+  - lettoni
+  - latviete
+  - latvietis
+  - Let
+  - leton
+  - letoni
+  - латвиец
+  - латвийка
+  - латвийцы
+  - латвієць
+  - латвійка
+  - латвійці
+  - латиш
+  - латиші
+  - латишка
+  - lètona
+  - lètone
+  - lètoni
+  - Latviyänan
+  - Latvian
+  - لاتفية
+  - letó
+  - letón
+  - Letton
+  - לטבית
+  - lett
+  - lettone
+  - latvisce
+  - letonă
+  - lètono
+  - Lette
+  - Lettin
 ISNI: 0000000121518114
 nominal_GDP:
-- 39725383601
-- 41153912663
+  - 39725383601
+  - 41153912663
 coordinates_of_northernmost_point: "Point(25.2 58.08)"
 official_website:
 - "https://www.president.lv/"
@@ -326,38 +326,38 @@ shares_border_with:
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 country: '[[_Standards/WikiData/WD~Latvia,211]]'
 BTI_Governance_Index:
-- 7
-- 6.71
-- 6.81
-- 6.82
-- 6.92
-- 6.97
-- 7.11
+  - 7
+  - 6.71
+  - 6.81
+  - 6.82
+  - 6.92
+  - 6.97
+  - 7.11
 water_as_percent_of_area: 1.5
 marriageable_age: 18
 age_of_majority: 18
 VAT_rate: 21
 mains_voltage: 230
 BTI_Status_Index:
-- 8.2
-- 8.6
-- 8.8
-- 8.31
-- 8.41
-- 8.51
-- 8.63
-- 8.68
-- 8.75
+  - 8.2
+  - 8.6
+  - 8.8
+  - 8.31
+  - 8.41
+  - 8.51
+  - 8.63
+  - 8.68
+  - 8.75
 birth_rate:
-- 8.5
-- 9.2
-- 9.8
+  - 8.5
+  - 9.2
+  - 9.8
 unemployment_rate: 9.4
 death_rate:
-- 14.5
-- 15.2
-- 16.4
-- 18.4
+  - 14.5
+  - 15.2
+  - 16.4
+  - 18.4
 total_fertility_rate: 1.52
 suicide_rate: 16.1
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~Baltic_states,39731]]"
@@ -379,17 +379,17 @@ IAB_code: 1336
 Dewey_Decimal_Classification: 2--4796
 OmegaWiki_Defined_Meaning: 8351
 male_population:
-- 883240
-- 871746
-- 872894
-- 878681
+  - 883240
+  - 871746
+  - 872894
+  - 878681
 FIPS_10_4_countries_and_regions_: LG
 licence_plate_code: LV
 ISO_3166_1_alpha_2_code: LV
 NUTS_code:
-- LV
-- LV0
-- LV00
+  - LV
+  - LV0
+  - LV00
 WIPO_ST_3: LV
 UIC_alphabetical_country_code: LV
 INSEE_countries_and_foreign_territories_code: 99107
@@ -399,20 +399,20 @@ ISO_3166_1_alpha_3_code: LVA
 ITU_letter_code: LVA
 PM20_geo_code: A58
 rural_population:
-- 591254
-- 595103
-- 602157
-- 608174
+  - 591254
+  - 595103
+  - 602157
+  - 608174
 female_population:
-- 1007636
-- 1011596
-- 1021768
-- 1030582
+  - 1007636
+  - 1011596
+  - 1021768
+  - 1030582
 urban_population:
-- 1288129
-- 1289387
-- 1298292
-- 1305648
+  - 1288129
+  - 1289387
+  - 1298292
+  - 1305648
 population: 1871882
 coordinates_of_westernmost_point: "Point(20.97017527 56.35502738)"
 Unicode_character: 🇱🇻 
@@ -430,8 +430,8 @@ inception: "1918-11-18"
 has_time_started: "1918-11-18"
 coordinates_of_southernmost_point: "Point(26.5967685 55.67478947)"
 area:
-- 62226.85
-- 64593.76
+  - 62226.85
+  - 64593.76
 U_S_National_Archives_Identifier: 10045234
 life_expectancy: 74.52927
 native_label: Latvija
@@ -454,11 +454,11 @@ GitHub_topic: latvia
 CIVICUS_Monitor_country_entry: latvia
 has_id_wikidata: Q211
 location:
-- 56.95
-- 24.11
+    - 56.95
+    - 24.11
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26954
 isDeleted: false
 confidential: public
@@ -475,18 +475,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Latvia
-- Letonia
-- Lettonie
-- لاتفيا
-- 拉脱维亚
-- Латвия
+    - Latvia
+    - Letonia
+    - Lettonie
+    - لاتفيا
+    - 拉脱维亚
+    - Латвия
 - "the Republic of Latvia"
 - "la República de Letonia"
 Languages:
-- lv
-- ru
-- lt
+    - lv
+    - ru
+    - lt
 icon: flag-lv
 ---
 

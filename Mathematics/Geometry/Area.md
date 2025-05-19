@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11500
 subclass_of:
 - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -13,8 +13,8 @@ different_from:
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units_—_Part_3__Space_and_time,90137277]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Contents_Portals,5008867]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152]]'

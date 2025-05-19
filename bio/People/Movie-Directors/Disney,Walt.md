@@ -71,7 +71,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Princeton_University_Art_Museum,2603905]]"
 - "[[_Standards/WikiData/WD~Auckland_Art_Gallery_Toi_o_Tāmaki,4819492]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
 - "[[_Standards/WikiData/WD~Billy_Ireland_Cartoon_Library_&_Museum_biographical_files,58488719]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

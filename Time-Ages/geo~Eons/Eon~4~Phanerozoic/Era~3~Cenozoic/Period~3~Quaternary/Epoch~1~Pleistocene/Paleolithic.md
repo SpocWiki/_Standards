@@ -13,7 +13,7 @@
 > It extends from the earliest known use of stone tools by hominins, c. 3.3 million years ago, 
 > to the end of the Pleistocene, c. 11,650 cal BP.
 > 
-> The Paleolithic Age in Europe preceded the [[../Epoch~2~Holocene/Age~1~Greenlandian/0000-Mesolithic]] Age, 
+> The Paleolithic Age in Europe preceded the [[../Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic]] Age, 
 > although the date of the transition varies geographically by thousand years. 
 > During the Paleolithic Age, hominins grouped together in small societies such as bands 
 > and subsisted by gathering plants, fishing, and hunting or scavenging wild animals. 

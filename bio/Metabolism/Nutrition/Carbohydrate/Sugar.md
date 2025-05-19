@@ -1,4 +1,4 @@
-﻿---
+---
 title: Sugar
 lang: en
 type: private_note
@@ -47,7 +47,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 part_of: "[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835]]"
 UMLS_CUI: C0242209
 pronunciation_audio:

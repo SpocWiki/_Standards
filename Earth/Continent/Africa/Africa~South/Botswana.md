@@ -1,10 +1,10 @@
 ---
 location:
-- -24.6333
-- 25.9167
+  - -24.6333
+  - 25.9167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q963
 SpocWebEntityId: 26857
 isDeleted: false
@@ -22,15 +22,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Botswana
-- بوتسوانا
-- 博茨瓦纳
-- Ботсвана
+  - Botswana
+  - بوتسوانا
+  - 博茨瓦纳
+  - Ботсвана
 - "the Republic of Botswana"
 - "la República de Botswana"
 Languages:
-- en-BW
-- tn-BW
+  - en-BW
+  - tn-BW
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Botswana,107282]]"
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -73,7 +73,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tshwa,963636]]'
 - '[[_Standards/WikiData/WD~Juǀʼhoansi,1192295]]'
 - '[[_Standards/WikiData/WD~Gǁana,1975199]]'
-- '[[_Standards/WikiData/WD~ǂ’Amkoe,2053913]]'
+- '[[_Standards/WikiData/WD~ǂ_Amkoe,2053913]]'
 - '[[_Standards/WikiData/WD~Kgalagadi,2088743]]'
 - '[[_Standards/WikiData/WD~Naro,2164778]]'
 - '[[_Standards/WikiData/WD~Mbukushu,2691548]]'
@@ -129,58 +129,58 @@ head_of_government: "[[_Standards/WikiData/WD~Mokgweetsi_Masisi,18618891]]"
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q74562676,74562676]]'
 coordinates_of_southernmost_point: "Point(20.68744 -26.90614)"
 demonym:
-- بوطسواني
-- بوطسوانية
-- بوطسوانيين
-- بوطسوانيات
-- Botsuánach
-- Batswana
-- Botswanans
-- tsuana
-- botswanez
-- botswaneză
-- botswanezi
-- botswan
-- botswana
-- botswane
-- botswani
-- Zvanänan
-- بوتسواني
-- بوتسوانية
-- بوتسوانيون
-- botsuaniana
-- botsuanianu
-- বোতসোয়ানীয়
-- botswanès
-- botswanesa
-- botswaneses
-- botswanesos
-- botswaner
-- Botswanan
-- Motswana
-- Bocvanano
-- Botswanais
-- Botswanaise
-- בוטסואני
-- בוטסואנית
-- botswanai
-- Botswanano
-- botswana
-- botswani
-- botswano
+  - بوطسواني
+  - بوطسوانية
+  - بوطسوانيين
+  - بوطسوانيات
+  - Botsuánach
+  - Batswana
+  - Botswanans
+  - tsuana
+  - botswanez
+  - botswaneză
+  - botswanezi
+  - botswan
+  - botswana
+  - botswane
+  - botswani
+  - Zvanänan
+  - بوتسواني
+  - بوتسوانية
+  - بوتسوانيون
+  - botsuaniana
+  - botsuanianu
+  - বোতসোয়ানীয়
+  - botswanès
+  - botswanesa
+  - botswaneses
+  - botswanesos
+  - botswaner
+  - Botswanan
+  - Motswana
+  - Bocvanano
+  - Botswanais
+  - Botswanaise
+  - בוטסואני
+  - בוטסואנית
+  - botswanai
+  - Botswanano
+  - botswana
+  - botswani
+  - botswano
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Okavango%20Delta%2C%20Botswana%20%282674364913%29.jpg"
 ISNI: 0000000121554000
 MeSH_tree_code: Z01.058.290.175.230
 official_website: "https://gov.bw/"
 motto_text:
 - "Ein balchder, eich cyrchfan"
-- Rain
-- Дъжд
-- Pula
+  - Rain
+  - Дъжд
+  - Pula
 - "Our pride, your destination"
 nominal_GDP:
-- 20352322157
-- 18737066307
+  - 20352322157
+  - 18737066307
 coordinates_of_northernmost_point: "Point(25.17 -17.78)"
 shares_border_with:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
@@ -208,15 +208,15 @@ part_of: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 separated_from: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 BTI_Status_Index:
-- 8
-- 7.59
-- 7.78
-- 7.81
-- 7.84
-- 7.89
-- 7.91
-- 7.94
-- 7.98
+  - 8
+  - 7.59
+  - 7.78
+  - 7.81
+  - 7.84
+  - 7.89
+  - 7.91
+  - 7.94
+  - 7.98
 VAT_rate: 12
 unemployment_rate: 18
 marriageable_age: 21
@@ -229,21 +229,21 @@ Happy_Planet_Index_score: 31.9
 Inequality_adjusted_Human_Development_Index: 0.426
 Gini_coefficient: 53.3
 BTI_Governance_Index:
-- 6.81
-- 7.01
-- 7.04
-- 7.09
-- 7.11
-- 7.21
-- 7.25
-- 7.27
-- 7.44
+  - 6.81
+  - 7.01
+  - 7.04
+  - 7.09
+  - 7.11
+  - 7.21
+  - 7.25
+  - 7.27
+  - 7.44
 Human_Development_Index: 0.693
 death_rate:
-- 6.95
-- 6.897
-- 6.974
-- 9.461
+  - 6.95
+  - 6.897
+  - 6.974
+  - 9.461
 Democracy_Index: 7.62
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Central_District,57525]]"
@@ -262,10 +262,10 @@ M49_code: 072
 maritime_identification_digits: 611
 FIPS_10_4_countries_and_regions_: BC
 birth_rate:
-- 23.036
-- 23.576
-- 24.195
-- 24.887
+  - 23.036
+  - 23.576
+  - 24.195
+  - 24.887
 mobile_country_code: 652
 life_expectancy: 66.797
 OmegaWiki_Defined_Meaning: 8342
@@ -276,26 +276,26 @@ INSEE_countries_and_foreign_territories_code: 99347
 area: 581737
 nominal_GDP_per_capita: 6710.99
 rural_population:
-- 730591
-- 736148
-- 741589
-- 745611
+  - 730591
+  - 736148
+  - 741589
+  - 745611
 male_population:
-- 1233202
-- 1256708
-- 1277735
-- 1298807
+  - 1233202
+  - 1256708
+  - 1277735
+  - 1298807
 female_population:
-- 1266499
-- 1289694
-- 1310688
-- 1331489
+  - 1266499
+  - 1289694
+  - 1310688
+  - 1331489
 ISO_3166_1_alpha_3_code: BWA
 urban_population:
-- 1754091
-- 1804813
-- 1852275
-- 1899705
+  - 1754091
+  - 1804813
+  - 1852275
+  - 1899705
 licence_plate_code: BW
 ISO_3166_1_alpha_2_code: BW
 WIPO_ST_3: BW
@@ -311,7 +311,7 @@ hashtag: Botswana
 official_name:
 - "Botswanská republika"
 - "Lefatshe la Botswana"
-- Botswana
+  - Botswana
 - "Republic of Botswana"
 - "République du Botswana"
 short_name: "\U0001F1E7\U0001F1FC"

@@ -1,10 +1,10 @@
 ---
 location:
-- 59.7646
-- 16.5434
+  - 59.7646
+  - 16.5434
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q34
 SpocWebEntityId: 27013
 isDeleted: false
@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Sweden
-- Suecia
-- Suède
-- السويد
-- 瑞典
-- Швеция
+  - Sweden
+  - Suecia
+  - Suède
+  - السويد
+  - 瑞典
+  - Швеция
 - "the Kingdom of Sweden"
 - "el Reino de Suecia"
 Languages:
-- sv-SE
-- se
-- sma
-- fi-SE
+  - sv-SE
+  - se
+  - sma
+  - fi-SE
 icon: flag-se
 flag: "[[_Standards/WikiData/WD~flag_of_Sweden,81286]]"
 member_of:
@@ -190,8 +190,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Sechster_Band,130477825]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Sweden,522328]]"
 central_bank: "[[_Standards/WikiData/WD~Sveriges_Riksbank,564652]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Sweden,687075]]"
@@ -218,62 +218,62 @@ coextensive_with: '[[_Standards/WikiData/WD~Sweden,7654287]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sweden,8253573]]'
 different_from: '[[_Standards/WikiData/WD~Szwecja,9352487]]'
 demonym:
-- سويدية
-- Šved
-- Švedinja
-- سويدي
-- سويديين
-- سويديات
-- Sualannach
-- Suédoise
-- Swedish
-- svensk
-- suédois
-- svenskt
-- svenska
-- Schwede
-- Suédois
-- svedesi
-- шведы
-- svenskar
-- suédoise
-- سُوَيْدِيّ
-- سُوَيْدِيَّات
-- سُوَيْدِيَّة
-- سُوَيْدِيُّونَ
-- sueca
-- suecu
-- সুয়েডীয়
-- suec
-- svensker
-- Schwedin
-- svedo
-- rootslased
-- suédoises
-- שוודי
-- שוודית
-- svéd
-- Suediano
-- svedese
-- svensce
-- svenske
-- Zweed
-- svenske
-- suedez
-- suedeză
-- suedezi
-- швед
-- шведка
-- ruoŧŧelaš
-- svenskor
-- швед
-- шведи
-- шведка
-- svedeza
-- svedeze
-- svedezi
-- svedezo
-- Svedänan
+  - سويدية
+  - Šved
+  - Švedinja
+  - سويدي
+  - سويديين
+  - سويديات
+  - Sualannach
+  - Suédoise
+  - Swedish
+  - svensk
+  - suédois
+  - svenskt
+  - svenska
+  - Schwede
+  - Suédois
+  - svedesi
+  - шведы
+  - svenskar
+  - suédoise
+  - سُوَيْدِيّ
+  - سُوَيْدِيَّات
+  - سُوَيْدِيَّة
+  - سُوَيْدِيُّونَ
+  - sueca
+  - suecu
+  - সুয়েডীয়
+  - suec
+  - svensker
+  - Schwedin
+  - svedo
+  - rootslased
+  - suédoises
+  - שוודי
+  - שוודית
+  - svéd
+  - Suediano
+  - svedese
+  - svensce
+  - svenske
+  - Zweed
+  - svenske
+  - suedez
+  - suedeză
+  - suedezi
+  - швед
+  - шведка
+  - ruoŧŧelaš
+  - svenskor
+  - швед
+  - шведи
+  - шведка
+  - svedeza
+  - svedeze
+  - svedezi
+  - svedezo
+  - Svedänan
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Sweden,11509296]]"
 railway_traffic_side:
 - '[[_Standards/WikiData/WD~left,13196750]]'
@@ -300,8 +300,8 @@ open_data_portal: "[[_Standards/WikiData/WD~Sweden's_data_portal,92961134]]"
 Gregorian_calendar_start_date: "1753-03-01"
 coordinates_of_easternmost_point: "Point(24.166666666 65.701111111)"
 nominal_GDP:
-- 636856236396
-- 585939170124
+  - 636856236396
+  - 585939170124
 Baidu_Tieba_name: 瑞典
 UMLS_CUI: C0038995
 inception: "0900"
@@ -369,38 +369,38 @@ shares_border_with:
 country: '[[_Standards/WikiData/WD~Sweden,34]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 VAT_rate:
-- 0
-- 6
-- 12
-- 25
+  - 0
+  - 6
+  - 12
+  - 25
 birth_rate:
-- 10
-- 11
-- 10.9
-- 11.1
+  - 10
+  - 11
+  - 10.9
+  - 11.1
 individual_tax_rate:
-- 20
-- 25
+  - 20
+  - 25
 compulsory_education_minimum_age_: 6
 death_rate:
-- 9
-- 8.6
-- 8.8
-- 9.5
+  - 9
+  - 8.6
+  - 8.8
+  - 9.5
 trade_union_membership_rate:
-- 0.9
-- 0.89
+  - 0.9
+  - 0.89
 compulsory_education_maximum_age_: 16
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 social_media_followers:
-- 63000
-- 50500
-- 56700
-- 77800
-- 95800
-- 133715
+  - 63000
+  - 50500
+  - 56700
+  - 77800
+  - 95800
+  - 133715
 unemployment_rate: 8.4
 suicide_rate: 12.4
 total_fertility_rate: 1.57
@@ -431,9 +431,9 @@ escutcheon_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Shield%20o
 OmegaWiki_Defined_Meaning: 6764
 median_income: 50514
 carbon_footprint:
-- 50874000
-- 55877000
-- 58117000
+  - 50874000
+  - 55877000
+  - 58117000
 WIPO_ST_3: SE
 aircraft_registration_prefix: SE
 NUTS_code: SE
@@ -448,40 +448,40 @@ GitHub_topic: sweden
 hashtag: Sweden
 Commons_category: Sweden
 female_population:
-- 5142210
-- 5110007
-- 5169131
-- 5201777
+  - 5142210
+  - 5110007
+  - 5169131
+  - 5201777
 male_population:
-- 5168880
-- 5246680
-- 5211232
-- 5285164
+  - 5168880
+  - 5246680
+  - 5211232
+  - 5285164
 IOC_country_code: SWE
 ISO_3166_1_alpha_3_code: SWE
 rural_population:
-- 1206837
-- 1225108
-- 1244794
-- 1263481
+  - 1206837
+  - 1225108
+  - 1244794
+  - 1263481
 native_label: Sverige
 GS1_country_code: 730-739
 PM20_geo_code: A17
 life_expectancy: 82.20488
 urban_population:
-- 9015406
-- 9108648
-- 9190703
-- 9280104
+  - 9015406
+  - 9108648
+  - 9190703
+  - 9280104
 population: 10582576
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Turning%20torso%20by%20night1.jpg"
 coordinates_of_southernmost_point: "Point(13.359444444 55.336944444)"
 U_S_National_Archives_Identifier: 10035835
 Facebook_username: swedense
 Instagram_username:
-- swedense
-- arswedense
-- ru.sweden.se
+  - swedense
+  - arswedense
+  - ru.sweden.se
 coordinates_of_geographic_center: "Point(16.325555555 62.3875)"
 coordinate_location: "Point(15.0 61.0)"
 area: 447425.16
@@ -501,8 +501,8 @@ Dewey_Decimal_Classification: 2--485
 ISBN_identifier_group: 978-91
 Libris_URI: 97mppvdt327j8rx
 BHCL_UUID:
-- c066aa66-ff98-4b09-b409-91084233d189
-- dfe028fd-2642-4bb8-aaec-32be15dcbed0
+  - c066aa66-ff98-4b09-b409-91084233d189
+  - dfe028fd-2642-4bb8-aaec-32be15dcbed0
 Unicode_character: 🇸🇪 
 Colon_Classification: SG--571
 Krugosvet_article: strany_mira/SHVETSIYA.html

@@ -1,10 +1,10 @@
 ﻿---
 location:
-- 36.78
-- 3.05
+  - 36.78
+  - 3.05
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q262
 SpocWebEntityId: 26883
 isDeleted: false
@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Algeria
 linkTitle: 
@@ -23,16 +23,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Algeria
-- Argelia
-- Algérie
-- الجزائر
-- 阿尔及利亚
-- Алжир
+  - Algeria
+  - Argelia
+  - Algérie
+  - الجزائر
+  - 阿尔及利亚
+  - Алжир
 - "the People's Democratic Republic of Algeria"
 - "la República Argelina Democrática y Popular"
 Languages:
-- ar-DZ
+  - ar-DZ
 flag: "[[_Standards/WikiData/WD~flag_of_Algeria,83392]]"
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Algiers_Province,141026]]"
@@ -221,54 +221,54 @@ relief_location_map:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20%28centered%20orthographic%20projection%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20location%20map.svg"
 demonym:
-- جزائريات
-- Alžirec
-- جزايريين
-- جزايري
-- جزايريات
-- جزايرية
-- Alžirka
-- Ailgéarach
-- جزائريون
-- arxelín
-- arxelina
-- আলজেরীয়
-- algerià
-- Alžířan
-- Alžířanka
-- algerier
-- Algerier
-- Algerierin
-- Algerian
-- الجزایری
-- Algérien
-- Algérienne
+  - جزائريات
+  - Alžirec
+  - جزايريين
+  - جزايري
+  - جزايريات
+  - جزايرية
+  - Alžirka
+  - Ailgéarach
+  - جزائريون
+  - arxelín
+  - arxelina
+  - আলজেরীয়
+  - algerià
+  - Alžířan
+  - Alžířanka
+  - algerier
+  - Algerier
+  - Algerierin
+  - Algerian
+  - الجزایری
+  - Algérien
+  - Algérienne
 - "אלג'יראי"
 - "אלג'יראית"
-- algériai
-- Aljeriano
-- algerina
-- algerine
-- algerini
-- algerino
-- Azzayri
-- Izzayriyen
-- Tazzayrit
-- Tizzayriyin
-- jazairi
-- algierczyk
-- algierka
-- algerian
-- algeriancă
-- algerieni
-- алжирцы
-- alzerin
-- alzerina
-- alzerine
-- alzerini
-- Laljeränan
-- جزائري
-- جزائرية
+  - algériai
+  - Aljeriano
+  - algerina
+  - algerine
+  - algerini
+  - algerino
+  - Azzayri
+  - Izzayriyen
+  - Tazzayrit
+  - Tizzayriyin
+  - jazairi
+  - algierczyk
+  - algierka
+  - algerian
+  - algeriancă
+  - algerieni
+  - алжирцы
+  - alzerin
+  - alzerina
+  - alzerine
+  - alzerini
+  - Laljeränan
+  - جزائري
+  - جزائرية
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Alg%C3%A9ria.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-Algerien.ogg"
@@ -287,8 +287,8 @@ Wolfram_Language_entity_code: "Entity[\"Country\", \"Algeria\"]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Emblem%20of%20Algeria%20%28bronze%20effect%29.svg"
 coordinates_of_southernmost_point: "Point(3.35767508 18.96823069)"
 nominal_GDP:
-- 163472233246
-- 191912889421
+  - 163472233246
+  - 191912889421
 coordinates_of_westernmost_point: "Point(-8.66685028 27.31524186)"
 country: '[[_Standards/WikiData/WD~Algeria,262]]'
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
@@ -303,27 +303,27 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Spain,29]]'
 - '[[_Standards/WikiData/WD~Italy,38]]'
 name:
-- Algeria
-- الجزائر
-- Algeria
+  - Algeria
+  - الجزائر
+  - Algeria
 short_name: "\U0001F1E9\U0001F1FF"
 coordinates_of_easternmost_point: "Point(11.99999811 23.49999976)"
 female_population:
-- 20948465
-- 21318767
-- 21680725
-- 22040987
+  - 20948465
+  - 21318767
+  - 21680725
+  - 22040987
 male_population:
-- 21756903
-- 22132899
-- 22497244
-- 22862237
+  - 21756903
+  - 22132899
+  - 22497244
+  - 22862237
 coordinates_of_northernmost_point: "Point(7.20382 37.09457)"
 urban_population:
-- 31255632
-- 32038217
-- 32807002
-- 33575039
+  - 31255632
+  - 32038217
+  - 32807002
+  - 33575039
 population: 46164219
 M49_code: 012
 ISO_3166_1_numeric_code: 012
@@ -334,10 +334,10 @@ UIC_alphabetical_country_code: DZ
 licence_plate_code: DZ
 ISO_3166_1_alpha_2_code: DZ
 birth_rate:
-- 20.572
-- 21.524
-- 22.431
-- 23.298
+  - 20.572
+  - 21.524
+  - 22.431
+  - 23.298
 OmegaWiki_Defined_Meaning: 5755
 FIPS_10_4_countries_and_regions_: AG
 life_expectancy: 76.078
@@ -346,21 +346,22 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alge
 ITU_letter_code: ALG
 IOC_country_code: ALG
 native_label:
-- الجزائر
+  - الجزائر
 - "الجمهورية الجزائرية الديمقراطية الشعبية"
 ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352
 area: 2381741
 inception: "1962-07-03"
 has_time_started: "1962-07-03"
+has_time_started: 1962-07-03T00:00:00Z 
 hashtag: Algeria
 Commons_category: Algeria
 Unicode_character: Ǳ
 rural_population:
-- 11328186
-- 11370967
-- 11413449
-- 11449736
+  - 11328186
+  - 11370967
+  - 11413449
+  - 11449736
 geoshape: "http://commons.wikimedia.org/data/main/Data:Algeria.map"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20%28centered%20orthographic%20projection%29.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/M%27zab%20valley%20%28Algeria%29%20banner.jpg"
@@ -375,37 +376,37 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 minimum_temperature_record: -20
 unemployment_rate: 10
 retirement_age:
-- 60
-- 65
+  - 60
+  - 65
 age_of_majority: 18
 marriageable_age: 19
 VAT_rate: 19
 mains_voltage: 230
 suicide_rate: 2.6
 BTI_Governance_Index:
-- 4.5
-- 3.64
-- 3.88
-- 3.94
-- 4.01
-- 4.42
-- 4.55
-- 4.58
-- 4.67
+  - 4.5
+  - 3.64
+  - 3.88
+  - 3.94
+  - 4.01
+  - 4.42
+  - 4.55
+  - 4.58
+  - 4.67
 literacy_rate: 75
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.dz,41039]]'
 Gini_coefficient: 27.6
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Algeria,44321]]"
 Democracy_Index: 3.77
 BTI_Status_Index:
-- 4.42
-- 4.72
-- 4.78
-- 4.86
-- 4.98
-- 5.03
-- 5.04
-- 5.11
+  - 4.42
+  - 4.72
+  - 4.78
+  - 4.86
+  - 4.98
+  - 5.03
+  - 5.04
+  - 5.11
 Happy_Planet_Index_score: 46.5
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 UIC_numerical_country_code: 92
@@ -416,17 +417,17 @@ mobile_country_code: 603
 total_fertility_rate: 2.857
 IAB_code: 1232
 death_rate:
-- 4.329
-- 4.392
-- 4.546
-- 5.398
+  - 4.329
+  - 4.392
+  - 4.546
+  - 5.398
 U_S_National_Archives_Identifier: 10046212
 Dewey_Decimal_Classification: 2--65
 Provenio_UUID: 89ca3838-762e-4dbf-8856-2e922b3bd54b
 CIVICUS_Monitor_country_entry: algeria
 subreddit:
-- algeria
-- algerie
+  - algeria
+  - algerie
 GitHub_topic: algeria
 Colon_Classification: SG--671
 Krugosvet_article: strany_mira/ALZHIR.html

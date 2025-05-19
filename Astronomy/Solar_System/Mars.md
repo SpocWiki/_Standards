@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q111
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mars,128621]]"
 child_astronomical_body:
@@ -34,8 +34,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 lowest_point: "[[_Standards/WikiData/WD~Valles_Marineris,621110]]"
 studied_in:
 - "[[_Standards/WikiData/WD~exploration_of_Mars,716774]]"
@@ -66,45 +66,45 @@ astronomic_symbol_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mar
 Stack_Exchange_tag: "https://astronomy.stackexchange.com/tags/mars"
 Dewey_Decimal_Classification:
 - 133.535
-- 2--9923
+  - 2--9923
 - 523.44
 Wolfram_Language_entity_code: "Entity[\"Planet\", \"Mars\"]"
 Krugosvet_article: nauka_i_tehnika/astronomiya/MARS.html
 Commons_gallery: Mars
 radius:
-- 3396.19
-- 3389.5
+  - 3396.19
+  - 3389.5
 demonym:
-- Martian
-- marciano
-- Martien
-- Marsjanin
-- марсиане
-- Marsman
-- Marsovec
-- Marsano
-- مِرِّيخِيّ
-- marcià
-- Martienne
-- mangal
-- Marsbewoner
-- Marspersoon
-- Marsvrouw
-- марсианин
-- марсианка
-- Marsovka
-- марсіянін
-- марсіянка
-- марсіяне
-- Marsovci
+  - Martian
+  - marciano
+  - Martien
+  - Marsjanin
+  - марсиане
+  - Marsman
+  - Marsovec
+  - Marsano
+  - مِرِّيخِيّ
+  - marcià
+  - Martienne
+  - mangal
+  - Marsbewoner
+  - Marspersoon
+  - Marsvrouw
+  - марсианин
+  - марсианка
+  - Marsovka
+  - марсіянін
+  - марсіянка
+  - марсіяне
+  - Marsovci
 declination: 52.8865
 orbital_eccentricity: 0.0933941
 OmegaWiki_Defined_Meaning: 160405
 Commons_category: "Mars (planet)"
 area: 144798500
 semi_major_axis_of_an_orbit:
-- 1.523679
-- 227936637
+  - 1.523679
+  - 227936637
 diameter: 6791.432
 U_S_National_Archives_Identifier: 10046638
 Unicode_character: ♂
@@ -113,9 +113,9 @@ nickname:
 - "Czerwona planeta"
 Iconclass_notation: 24C13
 orbital_inclination:
-- 1.84969142
-- 1.67
-- 5.65
+  - 1.84969142
+  - 1.67
+  - 5.65
 periapsis: 206655215
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%20-%20August%2030%202021%20-%20Flickr%20-%20Kevin%20M.%20Gill.png"
 ground_level_360_degree_view_URL: "https://conze.pt/app/mars-map/index.html"
@@ -129,21 +129,21 @@ highest_point: "[[_Standards/WikiData/WD~Olympus_Mons,520]]"
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 apparent_magnitude: -2.94
 temperature:
-- -143
-- -63
-- 35
+  - -143
+  - -63
+  - 35
 applies_to_part: '[[_Standards/WikiData/WD~Earth,2]]'
 named_after: '[[_Standards/WikiData/WD~Mars,112]]'
 albedo:
-- 0.17
-- 0.25
+  - 0.17
+  - 0.25
 angular_diameter:
-- 3.5
-- 25.1
+  - 3.5
+  - 25.1
 surface_gravity: 3.7
 distance_from_Earth:
-- 401000000
-- 54600000
+  - 401000000
+  - 54600000
 flattening: 0.00589
 density: 3933
 volume_as_quantity: 163180000000

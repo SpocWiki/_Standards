@@ -8,7 +8,7 @@
 > The field is also referred to as historical archaeology, a term originating in North America, 
 > and common in countries impacted by European colonialism. 
 > 
-> It is closely related to industrial archaeology and contemporary archaeology. 
+> It is closely related to __industrial archaeology__ and contemporary archaeology. 
 > Many scholars have found a connection between post-medieval 
 > and contemporary archaeology particularly in how scholars can view their archaeological study 
 > and apply in their own present contexts. 

@@ -7,8 +7,8 @@ Amazon_com_browse_node:
 - 16317461
 - 18774316011
 Unicode_character: 🍫 
-inception: "-1749"
-has_time_started: "-1749"
+inception: "-1749-06"
+has_time_started: "-1749-06"
 U_S_National_Archives_Identifier: 10639394
 has_active_ingredient:
 - '[[_Standards/WikiData/WD~theobromine,206844]]'
@@ -33,7 +33,7 @@ subclass_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 part_of: "[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chocolate,7112581]]"
@@ -48,8 +48,8 @@ pronunciation_audio:
 exact_match: "http://purl.obolibrary.org/obo/ENVO_02000065"
 Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Chocolate\"]"
 MeSH_tree_code:
-- G07.203.300.195
-- J02.500.195
+  - G07.203.300.195
+  - J02.500.195
 Stadtwiki_Dresden_article: Schokolade
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cocoa%20Powder%20and%20Chocolate%20on%20Marble%20Background.jpg"
 natural_product_of_taxon: '[[_Standards/WikiData/WD~cacao,42385]]'

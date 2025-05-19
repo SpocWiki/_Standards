@@ -79,26 +79,26 @@ ARK_Name_Assigning_Authority_Number: 48223
 Pinterest_username: unesco
 VK_username: unesco
 Facebook_username:
-- unesco
-- unescoar
-- unescoes
-- unescofr
-- unescorussian
+  - unesco
+  - unescoar
+  - unescoes
+  - unescofr
+  - unescorussian
 Instagram_username:
-- unesco
-- unesco_es
-- unesco_fr
-- unescoarabic
-- unescorussian
+  - unesco
+  - unesco_es
+  - unesco_fr
+  - unescoarabic
+  - unescorussian
 X_Twitter_username:
-- UNESCO_es
-- UNESCO_fr
-- UNESCO_russian
-- UNESCOarabic
-- UNESCO
+  - UNESCO_es
+  - UNESCO_fr
+  - UNESCO_russian
+  - UNESCOarabic
+  - UNESCO
 short_name:
-- ONUÉSC
-- UNESCO
+  - ONUÉSC
+  - UNESCO
 native_label:
 - "Organisation des Nations unies pour l'éducation, la science et la culture"
 - "United Nations Educational, Scientific and Cultural Organization"

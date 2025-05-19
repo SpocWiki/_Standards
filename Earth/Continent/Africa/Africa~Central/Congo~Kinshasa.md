@@ -1,10 +1,10 @@
 ---
 location:
-- -4.3
-- 15.3
+  - -4.3
+  - 15.3
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q974
 SpocWebEntityId: 26862
 isDeleted: false
@@ -12,7 +12,7 @@ confidential: public
 aliases:
 - "Democratic Republic of the Congo"
 - "DR Congo"
-- Congo-Kinshasa
+  - Congo-Kinshasa
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Kasaï-Oriental,80953]]'
 - "[[_Standards/WikiData/WD~Haut-Katanga_Province,130268]]"
@@ -364,42 +364,42 @@ located_in_or_next_to_body_of_water:
 official_language:
 - '[[_Standards/WikiData/WD~French,150]]'
 marriageable_age:
-- 15
-- 18
+  - 15
+  - 18
 VAT_rate: 16
 mains_voltage: 220
 water_as_percent_of_area: 3.3
 suicide_rate: 5.7
 death_rate:
-- 9.7
-- 9.38
-- 9.352
-- 9.537
+  - 9.7
+  - 9.38
+  - 9.352
+  - 9.537
 Democracy_Index: 1.13
 BTI_Governance_Index:
-- 2.46
-- 2.47
-- 2.58
-- 2.65
-- 2.76
-- 2.99
-- 3.12
-- 3.36
+  - 2.46
+  - 2.47
+  - 2.58
+  - 2.65
+  - 2.76
+  - 2.99
+  - 3.12
+  - 3.36
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.cd,40673]]'
 BTI_Status_Index:
-- 2.62
-- 2.95
-- 3.09
-- 3.13
-- 3.16
-- 3.17
-- 3.24
+  - 2.62
+  - 2.95
+  - 3.09
+  - 3.13
+  - 3.16
+  - 3.17
+  - 3.24
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Democratic_Republic_of_the_Congo,14614578]]"
 head_of_state: "[[_Standards/WikiData/WD~Félix_Tshisekedi,29032770]]"
 nominal_GDP:
-- 55350968593
-- 58065953573
+  - 55350968593
+  - 58065953573
 has_characteristic:
 - "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Ilunga_Ilunkamba_Sylvestre,63967715]]"
@@ -408,28 +408,28 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/DR%20Congo%20-%20collage.jpg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Congo%20location%20map.svg"
 demonym:
-- كونڭولي
-- كونڭولية
-- كونڭوليات
-- كونڭوليين
-- Congolès
-- congolesa
-- Congólach
-- Congolese
-- Congolais
-- congolés
-- congoleser
-- Κονγκολέζα
-- Κονγκολέζος
-- Demokratirespublikkongano
-- קונגולזי
-- קונגולזית
+  - كونڭولي
+  - كونڭولية
+  - كونڭوليات
+  - كونڭوليين
+  - Congolès
+  - congolesa
+  - Congólach
+  - Congolese
+  - Congolais
+  - congolés
+  - congoleser
+  - Κονγκολέζα
+  - Κονγκολέζος
+  - Demokratirespublikkongano
+  - קונגולזי
+  - קונגולזית
 - "kongói demokratikus köztársasági"
 - "congolese (Repubblica Democratica del Congo)"
 - "congolesi (Repubblica Democratica del Congo)"
-- congołeze
-- congołezi
-- Congolaise
+  - congołeze
+  - congołezi
+  - Congolaise
 ISNI: 0000000122899107
 population: 105789731
 coordinates_of_easternmost_point: "Point(31.313 2.127)"
@@ -444,30 +444,30 @@ mobile_country_code: 630
 M49_code: 180
 ISO_3166_1_numeric_code: 180
 subreddit:
-- Congo
+  - Congo
 total_fertility_rate: 6.006
 annual_number_of_weddings:
-- 8065
-- 8195
-- 8247
-- 8448
-- 8892
-- 10261
-- 10912
-- 13466
-- 15175
-- 17671
-- 22367
-- 35107
-- 38127
+  - 8065
+  - 8195
+  - 8247
+  - 8448
+  - 8892
+  - 10261
+  - 10912
+  - 13466
+  - 15175
+  - 17671
+  - 22367
+  - 35107
+  - 38127
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
 ISO_3166_1_alpha_3_code: COD
 IOC_country_code: COD
 birth_rate:
-- 41.737
-- 42.049
-- 42.311
-- 42.656
+  - 41.737
+  - 42.049
+  - 42.311
+  - 42.656
 life_expectancy: 59.621
 maritime_identification_digits: 676
 WIPO_ST_3: CD
@@ -480,31 +480,31 @@ OmegaWiki_Defined_Meaning: 918629
 inception: "1960-06-30"
 has_time_started: "1960-06-30"
 short_name:
-- DRC
-- DRC
-- DRK
-- ДРК
-- ДРК
-- ΛΔΚ
-- ԿԴՀ
-- Austur-Kongó
-- 민주콩고
-- 민주꽁고
+  - DRC
+  - DRC
+  - DRK
+  - ДРК
+  - ДРК
+  - ΛΔΚ
+  - ԿԴՀ
+  - Austur-Kongó
+  - 민주콩고
+  - 민주꽁고
 - "ДР Конго"
-- KDC
+  - KDC
 - "CHDC Congo"
-- 刚果（金）
-- 民主刚果
-- 民主剛果
+  - 刚果（金）
+  - 民主刚果
+  - 民主剛果
 - "\U0001F1E8\U0001F1E9"
-- RDC
-- RDC
-- RDC
-- RDC
-- RDC
-- RKD
-- DRK
-- DRK
+  - RDC
+  - RDC
+  - RDC
+  - RDC
+  - RDC
+  - RKD
+  - DRK
+  - DRK
 U_S_National_Archives_Identifier: 10035688
 coordinates_of_westernmost_point: "Point(12.207 -5.779)"
 native_label: "République démocratique du Congo"
@@ -519,29 +519,29 @@ motto_text:
 - "Justice – Peace – Work"
 - "Justice – Paix – Travail"
 urban_population:
-- 40499458
-- 42376327
-- 44336645
-- 46373413
+  - 40499458
+  - 42376327
+  - 44336645
+  - 46373413
 coordinates_of_southernmost_point: "Point(29.726 -13.459)"
 male_population:
-- 44600412
-- 46065978
-- 47574851
-- 49118035
+  - 44600412
+  - 46065978
+  - 47574851
+  - 49118035
 female_population:
-- 45306478
-- 46787187
-- 48319268
-- 49892177
+  - 45306478
+  - 46787187
+  - 48319268
+  - 49892177
 Unicode_character: 🇨🇩 
 Commons_category: "Democratic Republic of the Congo"
 Commons_gallery: "République Démocratique du Congo"
 rural_population:
-- 49407432
-- 50476837
-- 51557473
-- 52636799
+  - 49407432
+  - 50476837
+  - 51557473
+  - 52636799
 coordinate_location: "Point(23.656111111 -2.88)"
 coordinates_of_northernmost_point: "Point(25.53 5.4)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:DR+Congo.map"

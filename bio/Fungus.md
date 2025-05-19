@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q764
 Commons_gallery: Fungi
 Commons_category: Fungi
@@ -20,7 +20,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
 parent_taxon: '[[_Standards/WikiData/WD~Holomycota,2943473]]'

@@ -145,8 +145,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Ploiești–Brașov_railway,645247]]"
-- "[[_Standards/WikiData/WD~Vâlcele–Bujoreni_Vâlcea_railway,12723309]]"
+- "[[_Standards/WikiData/WD~Ploiești_Brașov_railway,645247]]"
+- "[[_Standards/WikiData/WD~Vâlcele_Bujoreni_Vâlcea_railway,12723309]]"
 - '[[_Standards/WikiData/WD~Brăila,12728802]]'
 - "[[_Standards/WikiData/WD~Oravița_railway_station,18540347]]"
 - "[[_Standards/WikiData/WD~Ploiești_Nord_railway_station,18540349]]"
@@ -203,36 +203,36 @@ age_of_majority: 18
 VAT_rate: 19
 mains_voltage: 230
 BTI_Governance_Index:
-- 6.3
-- 4.85
-- 5.58
-- 5.84
-- 5.85
-- 5.89
-- 6.35
-- 6.41
-- 6.52
+  - 6.3
+  - 4.85
+  - 5.58
+  - 5.84
+  - 5.85
+  - 5.89
+  - 6.35
+  - 6.41
+  - 6.52
 Democracy_Index: 6.4
 suicide_rate: 7.3
 life_expectancy: 75
 BTI_Status_Index:
-- 7.9
-- 7.65
-- 7.75
-- 7.89
-- 8.06
-- 8.17
-- 8.23
-- 8.31
+  - 7.9
+  - 7.65
+  - 7.75
+  - 7.89
+  - 8.06
+  - 8.17
+  - 8.23
+  - 8.31
 birth_rate:
-- 9.6
-- 10.1
-- 10.3
+  - 9.6
+  - 10.1
+  - 10.3
 death_rate:
-- 13.4
-- 14.3
-- 15.5
-- 17.5
+  - 13.4
+  - 14.3
+  - 15.5
+  - 17.5
 total_fertility_rate: 1.41
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ro,42677]]'
 Gini_coefficient: 34.8
@@ -260,55 +260,55 @@ UMLS_CUI: C0035826
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Romania%20-%20Location%20Map%20%282013%29%20-%20ROU%20-%20UNOCHA.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Apuseni.%20%2841412826664%29.jpg"
 demonym:
-- روماني
-- رومانية
-- رومانيات
-- رومانيين
-- Rómánach
-- رومانية
-- Romanian
-- Roumaine
-- רומני
-- רומנייה
-- román
-- Rumaniano
-- rumena
-- rumene
-- rumeni
-- rumeno
-- Rumän
-- Rumäner
-- Rumänin
-- romanian
-- Roemeen
-- român
-- româncă
-- români
-- румын
-- румынка
-- румыны
-- rumänsk
-- rumen
-- rumena
-- rumene
-- rumeni
-- Rumänan
-- roumin
-- rouminne
-- روماني
-- رومانيون
-- rumana
-- rumanu
-- румънски
-- রোমানীয়
-- romanès
-- romanesa
-- romanesos
-- Rumäne
-- Rumänin
-- rumänisch
-- rumano
-- Roumain
+  - روماني
+  - رومانية
+  - رومانيات
+  - رومانيين
+  - Rómánach
+  - رومانية
+  - Romanian
+  - Roumaine
+  - רומני
+  - רומנייה
+  - román
+  - Rumaniano
+  - rumena
+  - rumene
+  - rumeni
+  - rumeno
+  - Rumän
+  - Rumäner
+  - Rumänin
+  - romanian
+  - Roemeen
+  - român
+  - româncă
+  - români
+  - румын
+  - румынка
+  - румыны
+  - rumänsk
+  - rumen
+  - rumena
+  - rumene
+  - rumeni
+  - Rumänan
+  - roumin
+  - rouminne
+  - روماني
+  - رومانيون
+  - rumana
+  - rumanu
+  - румънски
+  - রোমানীয়
+  - romanès
+  - romanesa
+  - romanesos
+  - Rumäne
+  - Rumänin
+  - rumänisch
+  - rumano
+  - Roumain
 ISNI: 0000000123587092
 coordinates_of_westernmost_point: "Point(20.26178777 46.12168563)"
 MeSH_tree_code: Z01.542.248.764
@@ -316,8 +316,8 @@ coordinates_of_easternmost_point: "Point(29.71667916 45.16381636)"
 inception: "1859-02-05"
 has_time_started: "1859-02-05"
 nominal_GDP:
-- 285404683025
-- 301261582924
+  - 285404683025
+  - 301261582924
 located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 GS1_country_code: 594
 IAB_code: 1386
@@ -335,20 +335,20 @@ number_of_out_of_school_children: 332312
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Romania.png"
 INSEE_countries_and_foreign_territories_code: 99114
 rural_population:
-- 8824640
-- 8668484
-- 8733236
-- 8894686
+  - 8824640
+  - 8668484
+  - 8733236
+  - 8894686
 male_population:
-- 9245140
-- 9377040
-- 9213326
-- 9320317
+  - 9245140
+  - 9377040
+  - 9213326
+  - 9320317
 urban_population:
-- 10440610
-- 10378525
-- 10388823
-- 10476962
+  - 10440610
+  - 10378525
+  - 10388823
+  - 10476962
 PM20_geo_code: A47
 OmegaWiki_Defined_Meaning: 154307
 IOC_country_code: ROU
@@ -359,10 +359,10 @@ Commons_category: Romania
 subreddit: Romania
 U_S_National_Archives_Identifier: 10035825
 female_population:
-- 9833682
-- 9876919
-- 9944933
-- 9994608
+  - 9833682
+  - 9876919
+  - 9944933
+  - 9994608
 Image_Archive_Herder_Institute: Q218
 coordinate_location: "Point(25.0 46.0)"
 population: 19053815
@@ -383,24 +383,24 @@ official_website: "http://www.guv.ro/"
 country_calling_code: +40
 Dewey_Decimal_Classification: 2--498
 BHCL_UUID:
-- 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
-- c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
+  - 33ba3794-f6b6-42cf-a09b-e3c552f49d2c
+  - c42e62f5-e5fb-4fc2-ae20-2f5df5ce7aca
 Libris_URI: ljx0z0441nfsv5d
 Unicode_character: 🇷🇴 
 Commons_gallery: România
 IPA_transcription:
-- rʊˈmɨnʲɪjə
-- ɾuˈmɑːnɪɑ
+  - rʊˈmɨnʲɪjə
+  - ɾuˈmɑːnɪɑ
 Colon_Classification: SG--5921
 Krugosvet_article: strany_mira/RUMINIYA.html
 Baidu_Tieba_name: 罗马尼亚
 has_id_wikidata: Q218
 location:
-- 46.2258
-- 24.9906
+    - 46.2258
+    - 24.9906
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27006
 isDeleted: false
 confidential: public
@@ -417,16 +417,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Romania
-- Rumania
-- Roumanie
-- رومانيا
-- 罗马尼亚
-- Румыния
+    - Romania
+    - Rumania
+    - Roumanie
+    - رومانيا
+    - 罗马尼亚
+    - Румыния
 Languages:
-- ro
-- hu
-- rom
+    - ro
+    - hu
+    - rom
 icon: flag-ro
 ---
 

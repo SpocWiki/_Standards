@@ -110,33 +110,33 @@ located_in_on_physical_feature: "[[_Standards/WikiData/WD~Middle_East,7204]]"
 official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 18
 mains_voltage: 240
 suicide_rate: 4.7
 BTI_Governance_Index:
-- 5.4
-- 5.33
-- 5.46
-- 5.53
-- 5.88
-- 6.01
-- 6.17
+  - 5.4
+  - 5.33
+  - 5.46
+  - 5.53
+  - 5.88
+  - 6.01
+  - 6.17
 BTI_Status_Index:
-- 5.9
-- 6.1
-- 5.86
-- 5.88
-- 6.01
-- 6.06
-- 6.16
+  - 5.9
+  - 6.1
+  - 5.86
+  - 5.88
+  - 6.01
+  - 6.06
+  - 6.16
 lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 death_rate:
-- 1.08
-- 0.991
-- 1.219
-- 1.311
+  - 1.08
+  - 0.991
+  - 1.219
+  - 1.311
 Happy_Planet_Index_score: 24.3
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.qa,43117]]'
@@ -155,17 +155,17 @@ maritime_identification_digits: 466
 ISO_3166_1_numeric_code: 634
 M49_code: 634
 birth_rate:
-- 9.091
-- 9.816
-- 10.743
-- 10.895
+  - 9.091
+  - 9.816
+  - 10.743
+  - 10.895
 area: 11437
 licence_plate_code: Q
 rural_population:
-- 18381
-- 19409
-- 21117
-- 22795
+  - 18381
+  - 19409
+  - 21117
+  - 22795
 mobile_country_code: 427
 median_income: 26555
 ISO_3166_1_alpha_2_code: QA
@@ -178,53 +178,53 @@ ISO_3166_1_alpha_3_code: QAT
 IOC_country_code: QAT
 ITU_letter_code: QAT
 urban_population:
-- 2784440
-- 2668826
-- 2676741
-- 2739268
+  - 2784440
+  - 2668826
+  - 2676741
+  - 2739268
 INSEE_countries_and_foreign_territories_code: 99248
 official_website: "https://www.diwan.gov.qa/"
 female_population:
-- 734561
-- 740889
-- 751299
-- 754994
+  - 734561
+  - 740889
+  - 751299
+  - 754994
 demonym:
-- عربي
-- قطري
-- قطرية
-- Qatari
-- قطريون
-- qatarín
-- qatarina
-- qatarià
-- qatariana
-- Katarano
-- Qatarien
-- Qatarienne
-- קטרי
-- קטרית
-- katari
-- Katarano
-- qatariota
-- qatarioti
-- catari
-- катарцы
-- qatariota
-- qatariote
-- qatarioti
-- qatarioto
-- Kataränan
-- قطري
-- قطريات
-- قطرية
-- قطريين
-- Catarach
+  - عربي
+  - قطري
+  - قطرية
+  - Qatari
+  - قطريون
+  - qatarín
+  - qatarina
+  - qatarià
+  - qatariana
+  - Katarano
+  - Qatarien
+  - Qatarienne
+  - קטרי
+  - קטרית
+  - katari
+  - Katarano
+  - qatariota
+  - qatarioti
+  - catari
+  - катарцы
+  - qatariota
+  - qatariote
+  - qatarioti
+  - qatarioto
+  - Kataränan
+  - قطري
+  - قطريات
+  - قطرية
+  - قطريين
+  - Catarach
 male_population:
-- 1953675
-- 1954233
-- 2005391
-- 2055936
+  - 1953675
+  - 1954233
+  - 2005391
+  - 2055936
 population: 2639211
 U_S_National_Archives_Identifier: 10035777
 RIA_Novosti_reference: 60497927
@@ -258,18 +258,18 @@ X_Twitter_username: AmiriDiwan
 Instagram_username: amiridiwan
 YouTube_handle: amiridiwan
 nominal_GDP:
-- 237295575171
-- 179677131707
+  - 237295575171
+  - 179677131707
 seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Qatar-2022.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Doha%20West%20Bay.jpg"
 has_id_wikidata: Q846
 location:
-- 25.28
-- 51.53
+    - 25.28
+    - 51.53
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27004
 isDeleted: false
 confidential: public
@@ -286,15 +286,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Qatar
-- قطر
-- 卡塔尔
-- Катар
+    - Qatar
+    - قطر
+    - 卡塔尔
+    - Катар
 - "the State of Qatar"
 - "el Estado de Qatar"
 Languages:
-- ar-QA
-- es
+    - ar-QA
+    - es
 icon: flag-qa
 ---
 

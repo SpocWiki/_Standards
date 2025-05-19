@@ -106,10 +106,10 @@ electrical_plug_type:
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Czech_Republic,1639075]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Czech_Republic,1819381]]"
 has_boundary:
-- "[[_Standards/WikiData/WD~Czech_Republic–Poland_border,1992001]]"
-- "[[_Standards/WikiData/WD~Czech_Republic–Slovakia_border,1992781]]"
-- "[[_Standards/WikiData/WD~Czech_Republic–Germany_border,2457112]]"
-- "[[_Standards/WikiData/WD~Austria–Czech_Republic_border,3088742]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Poland_border,1992001]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Slovakia_border,1992781]]"
+- "[[_Standards/WikiData/WD~Czech_Republic_Germany_border,2457112]]"
+- "[[_Standards/WikiData/WD~Austria_Czech_Republic_border,3088742]]"
 replaces:
 - "[[_Standards/WikiData/WD~Czech_and_Slovak_Federal_Republic,1998866]]"
 - "[[_Standards/WikiData/WD~Czech_Republic,3496079]]"
@@ -163,52 +163,52 @@ open_data_portal: "[[_Standards/WikiData/WD~Czech_National_Open_Data_Portal,9701
 Baidu_Tieba_name: 捷克
 citizen_s_initiatives_URL: "https://portal.gov.cz/e-petice/"
 demonym:
-- Čēc
-- تشيكي
-- تشيكية
-- تشيكيين
-- تشيكيات
-- Seiceach
-- Czech
-- تشيكي
-- تشيكية
-- تشيكيون
-- checa
-- checu
-- চেক
-- Češi
-- tjekke
-- tjekker
-- Tscheche
-- Tschechin
-- ĉeĥo
-- Tchèque
+  - Čēc
+  - تشيكي
+  - تشيكية
+  - تشيكيين
+  - تشيكيات
+  - Seiceach
+  - Czech
+  - تشيكي
+  - تشيكية
+  - تشيكيون
+  - checa
+  - checu
+  - চেক
+  - Češi
+  - tjekke
+  - tjekker
+  - Tscheche
+  - Tschechin
+  - ĉeĥo
+  - Tchèque
 - "צ'כי"
 - "צ'כית"
-- cseh
-- Chekiano
-- ceca
-- ceche
-- cechi
-- ceco
-- txesce
-- Tsjech
-- ceh
-- cehi
-- cehoaică
-- чех
-- чехи
-- чешка
-- чеси
-- Чех
-- Чехиња
-- tjeck
-- Çek
-- ceca
-- ceche
-- cechi
-- ceco
-- Tsyegänan
+  - cseh
+  - Chekiano
+  - ceca
+  - ceche
+  - cechi
+  - ceco
+  - txesce
+  - Tsjech
+  - ceh
+  - cehi
+  - cehoaică
+  - чех
+  - чехи
+  - чешка
+  - чеси
+  - Чех
+  - Чехиња
+  - tjeck
+  - Çek
+  - ceca
+  - ceche
+  - cechi
+  - ceco
+  - Tsyegänan
 ISNI: 000000012290990X
 montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Czechia%20Montage.jpg"
@@ -271,15 +271,15 @@ water_as_percent_of_area: 2
 country: "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 compulsory_education_minimum_age_: 6
 VAT_rate:
-- 12
-- 21
+  - 12
+  - 21
 compulsory_education_maximum_age_: 15
 individual_tax_rate:
-- 15
-- 23
+  - 15
+  - 23
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 18
 mains_voltage: 230
 unemployment_rate: 2.4
@@ -288,46 +288,46 @@ retirement_age: 65
 life_expectancy: 79
 Inequality_adjusted_Human_Development_Index: 0.85
 BTI_Status_Index:
-- 9.4
-- 9.23
-- 9.31
-- 9.51
-- 9.52
-- 9.56
-- 9.57
-- 9.61
-- 9.65
+  - 9.4
+  - 9.23
+  - 9.31
+  - 9.51
+  - 9.52
+  - 9.56
+  - 9.57
+  - 9.61
+  - 9.65
 birth_rate:
-- 9.5
-- 10.3
-- 10.5
-- 10.6
+  - 9.5
+  - 10.3
+  - 10.5
+  - 10.6
 suicide_rate: 9.5
 literacy_rate: 99
 death_rate:
-- 10.5
-- 11.3
-- 12.1
-- 13.3
+  - 10.5
+  - 11.3
+  - 12.1
+  - 13.3
 total_fertility_rate:
-- 1.13
-- 1.15
-- 1.17
-- 1.18
-- 1.23
-- 1.29
-- 1.34
-- 1.43
-- 1.45
-- 1.46
-- 1.51
-- 1.53
-- 1.57
-- 1.63
-- 1.66
-- 1.69
-- 1.71
-- 1.83
+  - 1.13
+  - 1.15
+  - 1.17
+  - 1.18
+  - 1.23
+  - 1.29
+  - 1.34
+  - 1.43
+  - 1.45
+  - 1.46
+  - 1.51
+  - 1.53
+  - 1.57
+  - 1.63
+  - 1.66
+  - 1.69
+  - 1.71
+  - 1.83
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.cz,37531]]'
 minimum_wage: 17300
 Gini_coefficient: 25.3
@@ -336,16 +336,16 @@ Happy_Planet_Index_score: 46.8
 OpenStreetMap_zoom_level: 6
 ISBN_identifier_group:
 - 80
-- 978-80
+  - 978-80
 BTI_Governance_Index:
-- 6.57
-- 6.62
-- 6.64
-- 6.85
-- 6.95
-- 6.98
-- 7.03
-- 7.08
+  - 6.57
+  - 6.62
+  - 6.64
+  - 6.85
+  - 6.95
+  - 6.98
+  - 7.03
+  - 7.08
 Democracy_Index: 7.67
 Human_Development_Index: 0.889
 IAB_code: 1281
@@ -359,8 +359,8 @@ Image_Archive_Herder_Institute: Q213
 GS1_country_code: 859
 median_income: 34741
 NUTS_code:
-- CZ
-- CZ0
+  - CZ
+  - CZ0
 licence_plate_code: CZ
 ISO_3166_1_alpha_2_code: CZ
 WIPO_ST_3: CZ
@@ -379,43 +379,43 @@ official_name:
 FIPS_10_4_countries_and_regions_: EZ
 Commons_category: "Czech Republic"
 rural_population:
-- 2709018
-- 2734517
-- 2774917
-- 2783117
+  - 2709018
+  - 2734517
+  - 2774917
+  - 2783117
 ISO_3166_1_alpha_3_code: CZE
 ITU_letter_code: CZE
 IOC_country_code: CZE
 male_population:
-- 5173976
-- 5255756
-- 5257222
-- 5269701
+  - 5173976
+  - 5255756
+  - 5257222
+  - 5269701
 female_population:
-- 5331795
-- 5414896
-- 5416114
-- 5428157
+  - 5331795
+  - 5414896
+  - 5416114
+  - 5428157
 coordinates_of_easternmost_point: "Point(18.85908365 49.55060726)"
 urban_population:
-- 7796754
-- 7888753
-- 7922941
-- 7937601
+  - 7796754
+  - 7888753
+  - 7922941
+  - 7937601
 population: 10900555
 geoshape: "http://commons.wikimedia.org/data/main/Data:Czechia.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Czech%20Republic.svg"
 short_name:
-- تشيكيا
-- Česko
-- ČR
-- Tschechien
-- Czechia
-- Ĉeĥio
-- Ĉeĥujo
-- Chequia
-- Tchéquie
-- Çekya
+  - تشيكيا
+  - Česko
+  - ČR
+  - Tschechien
+  - Czechia
+  - Ĉeĥio
+  - Ĉeĥujo
+  - Chequia
+  - Tchéquie
+  - Çekya
 - "\U0001F1E8\U0001F1FF"
 native_label: Česko
 motto_text:
@@ -438,16 +438,16 @@ IPA_transcription: ˈt͡ʃɛsko
 country_calling_code: +420
 Dewey_Decimal_Classification: 2--4371
 BHCL_UUID:
-- 6367e562-de12-41e5-b93e-39cc551085c2
-- cc2cce30-669c-4549-9ccd-1fb81f2c9054
+  - 6367e562-de12-41e5-b93e-39cc551085c2
+  - cc2cce30-669c-4549-9ccd-1fb81f2c9054
 Provenio_UUID:
-- 768ceb16-2cc1-41b2-9fc6-7684d7e57dc4
-- 9963be13-e3bd-4edd-97c1-eebd98d4954e
-- d408ae3e-8359-4a83-8507-ec1f547f0265
+  - 768ceb16-2cc1-41b2-9fc6-7684d7e57dc4
+  - 9963be13-e3bd-4edd-97c1-eebd98d4954e
+  - d408ae3e-8359-4a83-8507-ec1f547f0265
 Commons_gallery: Česko
 Unicode_character: 🇨🇿 
 subreddit:
-- czech
+  - czech
 GitHub_topic: czech-republic
 CIVICUS_Monitor_country_entry: czech-republic
 hashtag: CzechRepublic
@@ -455,16 +455,16 @@ Colon_Classification: SG--59251
 Krugosvet_article: strany_mira/CHEHIYA.html
 has_id_wikidata: Q213
 aliases:
-- Czechia
+  - Czechia
 - "Czech Republic"
-- Bohemia
-- Böhmen
+  - Bohemia
+  - Böhmen
 location:
-- 49.7633
-- 15.8734
+    - 49.7633
+    - 15.8734
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26877
 isDeleted: false
 confidential: public

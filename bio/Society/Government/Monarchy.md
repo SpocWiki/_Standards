@@ -1,9 +1,9 @@
-﻿---
+---
 has_id_wikidata: Q7269
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
 has_list: "[[_Standards/WikiData/WD~list_of_monarchies,3446184]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Monarchies,8073521]]'

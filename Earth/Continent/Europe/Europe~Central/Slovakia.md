@@ -145,58 +145,58 @@ Köppen_climate_classification: "[[_Standards/WikiData/WD~warm-summer_humid_cont
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Slovakia,97142424]]"
 coordinate_location: "Point(20.0 49.0)"
 BHCL_UUID:
-- 39d148b6-c945-4b3c-ab27-bec316e78082
-- 43460914-9ec4-4eb3-8cb0-f67e34a0c0b0
-- ab3549a2-7ff8-4674-9c2a-3168bc50ee26
+  - 39d148b6-c945-4b3c-ab27-bec316e78082
+  - 43460914-9ec4-4eb3-8cb0-f67e34a0c0b0
+  - ab3549a2-7ff8-4674-9c2a-3168bc50ee26
 UMLS_CUI: C0206579
 coordinates_of_southernmost_point: "Point(18.2882452 47.7337818)"
 demonym:
-- صلوڤاكي
-- صلوڤاكية
-- صلوڤاكيين
-- صلوڤاكيات
-- Slóvacach
-- سلوفاكي
-- سلوفاكية
-- سلوفاكيون
-- eslovaca
-- eslovaco
-- eslovacu
-- славак
-- славакі
-- славачка
-- স্লোভাক
-- Slowake
-- slowakisch
-- slovako
-- Slovaque
-- סלובקי
-- סלובקית
-- szlovák
-- Slovakiano
-- slovacca
-- slovacche
-- slovacchi
-- slovacco
-- slovensce
-- Slowaak
-- Słowaczka
-- slovac
-- slovacă
-- slovaci
-- словак
-- словаки
-- словачка
-- словак
-- словаки
-- словачка
-- slovaca
-- slovache
-- slovachi
-- slovaco
-- Slovakiyänan
-- Słowak
-- Slovak
+  - صلوڤاكي
+  - صلوڤاكية
+  - صلوڤاكيين
+  - صلوڤاكيات
+  - Slóvacach
+  - سلوفاكي
+  - سلوفاكية
+  - سلوفاكيون
+  - eslovaca
+  - eslovaco
+  - eslovacu
+  - славак
+  - славакі
+  - славачка
+  - স্লোভাক
+  - Slowake
+  - slowakisch
+  - slovako
+  - Slovaque
+  - סלובקי
+  - סלובקית
+  - szlovák
+  - Slovakiano
+  - slovacca
+  - slovacche
+  - slovacchi
+  - slovacco
+  - slovensce
+  - Slowaak
+  - Słowaczka
+  - slovac
+  - slovacă
+  - slovaci
+  - словак
+  - словаки
+  - словачка
+  - словак
+  - словаки
+  - словачка
+  - slovaca
+  - slovache
+  - slovachi
+  - slovaco
+  - Slovakiyänan
+  - Słowak
+  - Slovak
 coordinates_of_easternmost_point: "Point(22.55891472 49.0874603)"
 ISNI: 0000000123644624
 motto_text:
@@ -226,34 +226,34 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 country: '[[_Standards/WikiData/WD~Slovakia,214]]'
 different_from: '[[_Standards/WikiData/WD~Slovenia,215]]'
 VAT_rate:
-- 5
-- 19
-- 23
+  - 5
+  - 19
+  - 23
 death_rate:
-- 11
-- 9.8
-- 10.8
-- 13.5
+  - 11
+  - 9.8
+  - 10.8
+  - 13.5
 total_fertility_rate: 1.6
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 BTI_Governance_Index:
-- 6.7
-- 6.8
-- 7.2
-- 6.36
-- 6.53
-- 6.96
-- 7.03
-- 7.09
-- 7.38
+  - 6.7
+  - 6.8
+  - 7.2
+  - 6.36
+  - 6.53
+  - 6.96
+  - 7.03
+  - 7.09
+  - 7.38
 life_expectancy: 77
 suicide_rate: 9.3
 birth_rate:
-- 9.7
-- 10.4
-- 10.5
+  - 9.7
+  - 10.4
+  - 10.5
 Gini_coefficient: 23.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.sk,41529]]'
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Slovakia,45369]]"
@@ -264,21 +264,21 @@ head_of_government: "[[_Standards/WikiData/WD~Robert_Fico,57606]]"
 Inequality_adjusted_Human_Development_Index: 0.803
 Human_Development_Index: 0.848
 BTI_Status_Index:
-- 8.59
-- 8.72
-- 8.75
-- 8.77
-- 8.79
-- 8.88
-- 9.06
-- 9.14
+  - 8.59
+  - 8.72
+  - 8.75
+  - 8.77
+  - 8.79
+  - 8.88
+  - 9.06
+  - 9.14
 UIC_numerical_country_code: 56
 maritime_identification_digits: 267
 unemployment_rate:
-- 5.761
-- 6.143
-- 6.719
-- 6.894
+  - 5.761
+  - 6.143
+  - 6.719
+  - 6.894
 IAB_code: 1405
 mobile_country_code: 231
 ISO_3166_1_numeric_code: 703
@@ -291,8 +291,8 @@ winter_view: "http://commons.wikimedia.org/wiki/Special:FilePath/HighTatras.JPG"
 licence_plate_code: SK
 ISO_3166_1_alpha_2_code: SK
 NUTS_code:
-- SK
-- SK0
+  - SK
+  - SK0
 WIPO_ST_3: SK
 UIC_alphabetical_country_code: SK
 OmegaWiki_Defined_Meaning: 8531
@@ -310,31 +310,31 @@ Krugosvet_article: strany_mira/SLOVAKIYA.html
 native_label: "Slovenská republika"
 official_name: "Slovenská republika"
 nominal_GDP:
-- 115468803972
-- 118656591909
+  - 115468803972
+  - 118656591909
 subreddit: Slovakia
 Commons_gallery: Slovensko
 geoshape: "http://commons.wikimedia.org/data/main/Data:Slovakia.map"
 rural_population:
-- 2503549
-- 2515539
-- 2523688
-- 2524162
+  - 2503549
+  - 2515539
+  - 2523688
+  - 2524162
 male_population:
-- 2654098
-- 2659702
-- 2663171
-- 2665719
+  - 2654098
+  - 2659702
+  - 2663171
+  - 2665719
 female_population:
-- 2777654
-- 2787545
-- 2790976
-- 2793108
+  - 2777654
+  - 2787545
+  - 2790976
+  - 2793108
 urban_population:
-- 2928203
-- 2930459
-- 2931708
-- 2934665
+  - 2928203
+  - 2930459
+  - 2931708
+  - 2934665
 U_S_National_Archives_Identifier: 10045654
 PM20_geo_code: A40f
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Slovakia.svg"
@@ -355,11 +355,11 @@ Unicode_character: 🇸🇰
 GitHub_topic: slovakia
 has_id_wikidata: Q214
 location:
-- 48.13
-- 17.1
+    - 48.13
+    - 17.1
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27018
 isDeleted: false
 confidential: public
@@ -376,17 +376,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Slovakia
-- Eslovaquia
-- Slovaquie
-- سلوفاكيا
-- 斯洛伐克
-- Словакия
+    - Slovakia
+    - Eslovaquia
+    - Slovaquie
+    - سلوفاكيا
+    - 斯洛伐克
+    - Словакия
 - "the Slovak Republic"
 - "la República Eslovaca"
 Languages:
-- sk
-- hu
+    - sk
+    - hu
 icon: flag-sk
 ---
 

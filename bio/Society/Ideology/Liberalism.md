@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6216
 has_characteristic:
 - "[[_Standards/WikiData/WD~freedom_of_assembly,162254]]"
@@ -35,7 +35,7 @@ based_on:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_liberalism,830997]]"
 opposite_of: '[[_Standards/WikiData/WD~antiliberalism,2853246]]'

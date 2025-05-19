@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5670
 name_in_native_language: "أبو نواس"
 date_of_death:
@@ -15,7 +15,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Hassan,16276444]]'

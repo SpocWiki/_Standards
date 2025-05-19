@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21941
 has_id_wikidata: Q1054
@@ -18,7 +18,7 @@ instance_of:
 different_from: "[[_Standards/WikiData/WD~Microsoft_TechNet,958338]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 named_after: '[[_Standards/WikiData/WD~technique,2695280]]'
 found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 Common_Procurement_Vocabulary_code:

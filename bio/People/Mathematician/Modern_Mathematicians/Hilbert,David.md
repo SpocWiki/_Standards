@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "David Hilbert"
 has_id_wikidata: Q41585
@@ -137,7 +137,7 @@ place_of_burial: "[[_Standards/WikiData/WD~Stadtfriedhof_Göttingen,2327123]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
