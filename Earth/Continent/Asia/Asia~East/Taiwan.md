@@ -464,6 +464,8 @@ icon: flag-tw
 
 # [[Taiwan]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Taiwan,865]]  
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Taiwan 
 

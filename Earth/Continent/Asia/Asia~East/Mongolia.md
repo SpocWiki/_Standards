@@ -352,6 +352,8 @@ icon: flag-mn
 
 # [[Mongolia]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Mongolia,711]]  
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Mongolia 
 

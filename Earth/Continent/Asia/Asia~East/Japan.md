@@ -597,6 +597,8 @@ icon: flag-jp
 # [[Japan]] 
 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Japan,17]]  
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Japan)
 into a Subfolder named `Japan`, so that this Link into the Sub-Repository works: [[Japan/ReadMe]] 
