@@ -7,7 +7,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -83,7 +83,7 @@ instance_of:
 - '[[_Standards/WikiData/WD~republic,7270]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Freetown,4689493]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Sierra_Leone,7112449]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Sierra_Leone,14616219]]"
@@ -96,39 +96,39 @@ office_held_by_head_of_government: "[[_Standards/WikiData/WD~Chief_Minister_of_S
 open_data_portal: "[[_Standards/WikiData/WD~Sierra_Leone_Open_data_portal,97097764]]"
 studied_in: "[[_Standards/WikiData/WD~Sierra_Leone_studies,115672782]]"
 nominal_GDP:
-- 3970343852
-- 4249234574
+  - 3970343852
+  - 4249234574
 UMLS_CUI: C0037063
 demonym:
-- سيراليوني
-- سيراليونيات
-- سيراليونية
-- سيراليونيين
+  - سيراليوني
+  - سيراليونيات
+  - سيراليونية
+  - سيراليونيين
 - "Siarra Leonach"
-- سيراليوني
-- سيراليونية
-- سيراليونيون
-- sierralleonés
-- sierralleonesa
+  - سيراليوني
+  - سيراليونية
+  - سيراليونيون
+  - sierralleonés
+  - sierralleonesa
 - "সিয়েরা লিয়নীয়"
-- serralleonès
-- serralleonesa
+  - serralleonès
+  - serralleonesa
 - "Sierra Leonean"
-- sieraleonano
-- Sierraléonais
-- Sierraléonaise
+  - sieraleonano
+  - Sierraléonais
+  - Sierraléonaise
 - "סיירה לאוני"
 - "סיירה לאונית"
 - "Sierra Leone-i"
-- sierraleonese
-- sierraleonesi
-- sieraleonian
+  - sierraleonese
+  - sierraleonesi
+  - sieraleonian
 - "Sierra Leoner"
-- sierałeoneza
-- sierałeoneze
-- sierałeonezi
-- sierałeonezo
-- Sieraleonänan
+  - sierałeoneza
+  - sierałeoneze
+  - sierałeonezi
+  - sierałeonezo
+  - Sieraleonänan
 MeSH_tree_code: Z01.058.290.190.725
 coordinates_of_northernmost_point: "Point(-11.5 10.0)"
 diplomatic_relation:
@@ -166,25 +166,25 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.sl,43767]]'
 Gini_coefficient: 35.7
 Human_Development_Index: 0.477
 BTI_Governance_Index:
-- 4.78
-- 4.89
-- 4.93
-- 5.01
-- 5.35
-- 5.45
-- 5.73
+  - 4.78
+  - 4.89
+  - 4.93
+  - 5.01
+  - 5.35
+  - 5.45
+  - 5.73
 Democracy_Index: 4.86
 trunk_prefix: 0
 BTI_Status_Index:
-- 5.09
-- 5.15
-- 5.24
-- 5.27
-- 5.28
-- 5.29
-- 5.37
-- 5.39
-- 5.44
+  - 5.09
+  - 5.15
+  - 5.24
+  - 5.27
+  - 5.28
+  - 5.29
+  - 5.37
+  - 5.39
+  - 5.44
 mobile_country_code: 619
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Sierra+Leone.map"
@@ -242,40 +242,40 @@ motto_text:
 - "Unity, Freedom, Justice"
 short_name: "\U0001F1F8\U0001F1F1"
 birth_rate:
-- 31.36
-- 30.788
-- 31.914
-- 32.549
+  - 31.36
+  - 30.788
+  - 31.914
+  - 32.549
 total_fertility_rate: 4.626
 area: 71740
 death_rate:
-- 8.909
-- 9.065
-- 9.113
-- 9.296
+  - 8.909
+  - 9.065
+  - 9.113
+  - 9.296
 urban_population:
-- 3652200
-- 3418614
-- 3534267
-- 3771972
+  - 3652200
+  - 3418614
+  - 3534267
+  - 3771972
 life_expectancy: 51.835
 inception: "1971-04-19"
 has_time_started: "1971-04-19"
 female_population:
-- 4016374
-- 4109203
-- 4201801
-- 4293526
+  - 4016374
+  - 4109203
+  - 4201801
+  - 4293526
 male_population:
-- 4030454
-- 4124768
-- 4218841
-- 4312192
+  - 4030454
+  - 4124768
+  - 4218841
+  - 4312192
 rural_population:
-- 4628214
-- 4699703
-- 4768441
-- 4833746
+  - 4628214
+  - 4699703
+  - 4768441
+  - 4833746
 population: 7557212
 coordinate_location: "Point(-12.1 8.5)"
 has_id_wikidata: Q1044

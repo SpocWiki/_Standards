@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -28,6 +28,7 @@ aliases:
 - complement_of
 - is_complement_of
 - is_opposite_to
+- is_opposite_of
 - is_negation_of 
 ---
 
@@ -38,7 +39,10 @@ Use it like this:
 - [ #is_/complement_of :: Property] or 
 - [ is_complement_of :: Property] 
 
-Complementary Relations are typically Order Relations. 
+In lack of a better term this is often used to relate 
+mutually exclusive, but not necessarily exhaustive Categories as Complements do. 
+
+Complementary Relations are e.g. Order Relations. 
 They relate exactly those pairs of items to each other, 
 that the original Relation does NOT relate.
 

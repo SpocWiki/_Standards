@@ -5,8 +5,8 @@ type: Country
 has_id_wikidata: Q36
 SpocWebEntityId: 26996
 location:
-- 52.0027
-- 17.6996
+  - 52.0027
+  - 17.6996
 license: "CC BY-SA 4.0"
 source: "https://datahub.io/core/country-codes"
 isDeleted: false
@@ -21,18 +21,18 @@ publishDate:
 expiryDate: 
 icon: flag-pl
 tags:
-- geo/Country
+  - geo/Country
 aliases:
-- Poland
-- Polonia
-- Pologne
-- بولندا
-- 波兰
-- Польша
+  - Poland
+  - Polonia
+  - Pologne
+  - بولندا
+  - 波兰
+  - Польша
 - "the Republic of Poland"
 - "la República de Polonia"
 Languages:
-- pl
+  - pl
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -193,79 +193,79 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Poland,7112414]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Poland,7160149]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Voivodeships_of_Poland,7174665]]"
 demonym:
-- Πολωνός
-- polo
-- polacas
-- puolalainen
-- Polonaises
-- פולנייה
-- Poloniano
-- polacche
-- polakk
-- Poolse
-- polaca
-- polonesa
-- polonesas
-- polsk
-- połaca
-- połache
-- połachi
-- Polänan
-- Pho-lân-lâng
-- 波蘭人
-- پولوني
-- پولونية
-- پولونيات
-- پولونيين
-- Polannach
-- Polish
-- Polonaise
-- Pool
-- Polka
-- Pole
-- פולני
-- polaca
-- polaco
-- lengyel
-- Polin
-- Poliak
-- Polacy
-- Polak
-- بولندية
-- polonès
-- Polonais
-- polacco
-- polsce
-- polaco
-- polonês
-- poloneză
-- połaco
-- Polki
-- بولنديون
-- polonesos
-- Pwyliaid
-- polacos
-- poolakad
-- polacchi
-- poloneses
-- polonez
-- polonezi
-- поляк
-- поляки
-- полячка
-- 波蘭人
-- polacca
-- Poľka
-- بولندي
-- polaca
-- polacu
-- পোলীয়
-- polonesa
-- polnisch
-- Πολωνή
+  - Πολωνός
+  - polo
+  - polacas
+  - puolalainen
+  - Polonaises
+  - פולנייה
+  - Poloniano
+  - polacche
+  - polakk
+  - Poolse
+  - polaca
+  - polonesa
+  - polonesas
+  - polsk
+  - połaca
+  - połache
+  - połachi
+  - Polänan
+  - Pho-lân-lâng
+  - 波蘭人
+  - پولوني
+  - پولونية
+  - پولونيات
+  - پولونيين
+  - Polannach
+  - Polish
+  - Polonaise
+  - Pool
+  - Polka
+  - Pole
+  - פולני
+  - polaca
+  - polaco
+  - lengyel
+  - Polin
+  - Poliak
+  - Polacy
+  - Polak
+  - بولندية
+  - polonès
+  - Polonais
+  - polacco
+  - polsce
+  - polaco
+  - polonês
+  - poloneză
+  - połaco
+  - Polki
+  - بولنديون
+  - polonesos
+  - Pwyliaid
+  - polacos
+  - poolakad
+  - polacchi
+  - poloneses
+  - polonez
+  - polonezi
+  - поляк
+  - поляки
+  - полячка
+  - 波蘭人
+  - polacca
+  - Poľka
+  - بولندي
+  - polaca
+  - polacu
+  - পোলীয়
+  - polonesa
+  - polnisch
+  - Πολωνή
 motto_text:
 - "Move your imagination"
-- Dychmyga!
+  - Dychmyga!
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Poland,23830473]]'
@@ -273,7 +273,7 @@ open_data_portal: "[[_Standards/WikiData/WD~Poland's_Open_Data_Portal,96997870]]
 Baidu_Tieba_name: 波兰
 UMLS_CUI: C0032356
 ISNI:
-- 000000012293278X
+  - 000000012293278X
 - 0000000404710018
 MeSH_tree_code: Z01.542.248.679
 Gregorian_calendar_start_date: "1582-10-15"
@@ -364,40 +364,40 @@ compulsory_education_maximum_age_: 18
 age_of_majority: 18
 mains_voltage: 230
 water_as_percent_of_area:
-- 2.6
-- 2.7
+  - 2.6
+  - 2.7
 Happy_Planet_Index_score: 45
 BTI_Governance_Index:
-- 5.3
-- 5.32
-- 6.15
-- 6.25
-- 6.39
-- 6.55
-- 6.79
-- 7.21
-- 7.22
+  - 5.3
+  - 5.32
+  - 6.15
+  - 6.25
+  - 6.39
+  - 6.55
+  - 6.79
+  - 7.21
+  - 7.22
 birth_rate:
-- 8.3
-- 8.8
-- 9.4
-- 9.9
+  - 8.3
+  - 8.8
+  - 9.4
+  - 9.9
 BTI_Status_Index:
-- 8.9
-- 7.93
-- 8.15
-- 8.58
-- 8.76
-- 8.86
-- 9.05
-- 9.16
-- 9.23
+  - 8.9
+  - 7.93
+  - 8.15
+  - 8.58
+  - 8.76
+  - 8.86
+  - 9.05
+  - 9.16
+  - 9.23
 suicide_rate: 9.3
 death_rate:
-- 10.8
-- 12.2
-- 12.6
-- 13.8
+  - 10.8
+  - 12.2
+  - 12.6
+  - 13.8
 total_fertility_rate: 1.29
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.pl,37907]]'
 Gini_coefficient: 30.2
@@ -428,8 +428,8 @@ UIC_numerical_country_code: 51
 IAB_code: 1381
 mobile_country_code: 260
 aircraft_registration_prefix:
-- SP
-- SN
+  - SP
+  - SN
 ISO_3166_1_numeric_code: 616
 M49_code: 616
 maritime_identification_digits: 261
@@ -440,7 +440,7 @@ ITU_letter_code: POL
 ISO_3166_1_alpha_3_code: POL
 short_name: Polska
 native_label:
-- Polska
+  - Polska
 - "Rzeczpospolita Polska"
 official_name: "Rzeczpospolita Polska"
 PM20_geo_code: A12
@@ -457,40 +457,40 @@ INSEE_countries_and_foreign_territories_code: 99122
 Commons_category: Poland
 hashtag: Poland
 X_Twitter_username:
-- Poland
-- poland
+  - Poland
+  - poland
 nominal_GDP:
-- 679441900611
-- 688176605955
+  - 679441900611
+  - 688176605955
 life_expectancy: 77.45122
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Herb%20Polski.svg"
 rural_population:
-- 14679358
-- 15070539
-- 15143331
-- 15172143
+  - 14679358
+  - 15070539
+  - 15143331
+  - 15172143
 WOEID: 23424923
 male_population:
-- 17826176
-- 18253255
-- 18334153
-- 18370296
+  - 17826176
+  - 18253255
+  - 18334153
+  - 18370296
 female_population:
-- 18995573
-- 19493868
-- 19564918
-- 19595179
+  - 18995573
+  - 19493868
+  - 19564918
+  - 19595179
 urban_population:
-- 22142391
-- 22676585
-- 22755739
-- 22793332
+  - 22142391
+  - 22676585
+  - 22755739
+  - 22793332
 Commons_gallery: Polska
 Image_Archive_Herder_Institute: Q36
 Unicode_character: 🇵🇱 
 subreddit:
-- polska
-- poland
+  - polska
+  - poland
 Facebook_username: polska
 GitHub_topic: poland
 CIVICUS_Monitor_country_entry: poland
@@ -510,8 +510,8 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Pols
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Poland%20on%20the%20globe%20%28Europe%20centered%29.svg"
 country_calling_code: +48
 BHCL_UUID:
-- 1825238e-2241-4042-b2d5-3e5c8344a82d
-- 68dde1e7-9506-416f-80ab-0b0b4a98c47d
+  - 1825238e-2241-4042-b2d5-3e5c8344a82d
+  - 68dde1e7-9506-416f-80ab-0b0b4a98c47d
 Dewey_Decimal_Classification: 2--438
 Wolfram_Language_entity_code:
 - "Entity[\"Country\", \"Poland\"]"

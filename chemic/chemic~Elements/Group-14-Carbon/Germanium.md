@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21930
 has_id_wikidata: Q867
@@ -28,7 +28,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 subclass_of:
 - "[[_Standards/WikiData/WD~covalent_network_solid,632350]]"
 - '[[_Standards/WikiData/WD~metalloid,19596]]'

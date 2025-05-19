@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Michelangelo di Lodovico Buonarroti Simoni"
 has_id_wikidata: Q5592
@@ -104,11 +104,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Teutsche_Academie_der_Edlen_Bau-_Bild-_und_Mahlerey-Künste,15089621]]"
 - "[[_Standards/WikiData/WD~The_Lives_of_Dutch_painters_and_paintresses,15955936]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~Vita_di_Michelagnolo_Buonarroti,23951225]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

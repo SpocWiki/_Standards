@@ -176,7 +176,7 @@ inflows:
 - '[[_Standards/WikiData/WD~Q12039978,12039978]]'
 - '[[_Standards/WikiData/WD~Q12040053,12040053]]'
 - "[[_Standards/WikiData/WD~Naẖal_Silqa,12040133]]"
-- "[[_Standards/WikiData/WD~Naẖal_Sha‘al,12040216]]"
+- "[[_Standards/WikiData/WD~Naẖal_Sha_al,12040216]]"
 - '[[_Standards/WikiData/WD~Q12040243,12040243]]'
 - '[[_Standards/WikiData/WD~Cadoule,13534585]]'
 - '[[_Standards/WikiData/WD~Rhône,602]]'
@@ -236,7 +236,7 @@ inflows:
 - "[[_Standards/WikiData/WD~Rec_d'en_Massoni,28803843]]"
 - '[[_Standards/WikiData/WD~Q31197993,31197993]]'
 - "[[_Standards/WikiData/WD~Naẖal_Yasaf,35498018]]"
-- "[[_Standards/WikiData/WD~Naẖal_‘Aliyya,35499294]]"
+- "[[_Standards/WikiData/WD~Naẖal__Aliyya,35499294]]"
 instance_of:
 - "[[_Standards/WikiData/WD~drainage_basin,166620]]"
 - "[[_Standards/WikiData/WD~mediterranean_sea,986177]]"
@@ -284,7 +284,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 - "[[_Standards/WikiData/WD~Limits_of_Oceans_and_Seas,_3rd_edition,35541239]]"
 different_from: "[[_Standards/WikiData/WD~mediterranean_sea,986177]]"

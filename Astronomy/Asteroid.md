@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3863
 subclass_of:
 - "[[_Standards/WikiData/WD~small_Solar_System_body,193275]]"
@@ -9,7 +9,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_use:
 - "[[_Standards/WikiData/WD~asteroid_mining,748764]]"
 - "[[_Standards/WikiData/WD~colonization_of_the_asteroid_belt,2618750]]"

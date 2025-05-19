@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Henri Matisse"
 has_id_wikidata: Q5589
@@ -42,7 +42,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Villa_Flora,684556]]"
 - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
 - "[[_Standards/WikiData/WD~Kunsthalle_Bremen,693591]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~Museum_Ludwig,703640]]"
 - "[[_Standards/WikiData/WD~Musée_Picasso,743206]]"
 - "[[_Standards/WikiData/WD~Dallas_Museum_of_Art,745866]]"
@@ -238,7 +238,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 award_received: "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~The_Art_of_The_Countries_and_Peoples_of_The_World._Tome_5,127157391]]"
 member_of: "[[_Standards/WikiData/WD~National_Academy_of_Fine_Arts_(Argentina),30907154]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Tale of Genji"
 has_id_wikidata: Q8269
@@ -116,7 +116,7 @@ named_after: "[[_Standards/WikiData/WD~Hikaru_Genji,997646]]"
 main_subject: "[[_Standards/WikiData/WD~mono_no_aware,1190238]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
 derivative_work:
 - "[[_Standards/WikiData/WD~Genji_Monogatari,3759753]]"
@@ -136,15 +136,15 @@ copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 country: '[[_Standards/WikiData/WD~Japan,17]]'
 number_of_parts_of_this_work:
-- 60
-- 54
+  - 60
+  - 54
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20emaki%2001003%20002.jpg"
 Google_Doodle: 1000-years-of-the-tale-of-genji
 Commons_category: "The Tale of Genji"
 last_line: いつしかと待ちおはするに、かくたどたどしくて歸り來たれば、すさまじく、「なかなかなり」と、思すことさまざまにて、「人の隱し据ゑたるにやあらむ」と、わが御心の思ひ寄らぬ隈なく、落とし置きたまへりしならひに、とぞ本にはべめる。
 first_line: いづれの御時にか、女御、更衣あまたさぶらひたまひけるなかに、いとやむごとなき際にはあらぬが、すぐれて時めきたまふありけり。
 title: 源氏物語
-inception: "1010"
+inception: 1010-06 
 has_time_started: 1010-06 
 time_of_earliest_written_record: "1008-12-07"
 ---

@@ -187,97 +187,97 @@ nickname:
 - "The Land of the Rising Sun"
 - "Pays du Soleil levant"
 - "ארץ השמש העולה"
-- 日出る国
+  - 日出る国
 - "Страна Восходящего Солнца"
 - "Terra del sol naixent"
 - "Land der aufgehenden Sonne"
 Gregorian_calendar_start_date: "1873"
 nominal_GDP:
-- 5005536736792
-- 4231141201863
+  - 5005536736792
+  - 4231141201863
 demonym:
-- جاپوني
-- جاپونيين
-- جاپونيات
-- Japonec
-- Japonka
-- Seapánach
-- japoneses
-- Japanese
-- Japanerin
-- يابانية
-- جاپونية
-- xaponés
-- japonès
-- japonés
-- Japonais
-- יפנית
-- japán
-- giapponese
-- japanes
-- nion
-- Japonés
-- japonês
-- giappunisi
-- japoneze
-- Japonka
-- يابانيون
-- japonesos
-- Japonec
-- Japaner
-- Ιάπωνες
-- japano
-- japoniar
-- giapponesi
-- 日本人
+  - جاپوني
+  - جاپونيين
+  - جاپونيات
+  - Japonec
+  - Japonka
+  - Seapánach
+  - japoneses
+  - Japanese
+  - Japanerin
+  - يابانية
+  - جاپونية
+  - xaponés
+  - japonès
+  - japonés
+  - Japonais
+  - יפנית
+  - japán
+  - giapponese
+  - japanes
+  - nion
+  - Japonés
+  - japonês
+  - giappunisi
+  - japoneze
+  - Japonka
+  - يابانيون
+  - japonesos
+  - Japonec
+  - Japaner
+  - Ιάπωνες
+  - japano
+  - japoniar
+  - giapponesi
+  - 日本人
 - "orang Jepun"
-- Japanner
-- Japończyk
-- japonezi
-- японец
-- японка
-- японцы
-- японці
-- japonezi
-- 日本人
-- japoneză
-- ياباني
-- ژاپنی
-- Japonaise
-- Ιάπωνας
-- japonesa
-- Japonaises
-- יפני
-- Japoniano
-- Japanse
-- sedripun
-- japonez
-- giappunisa
-- японець
-- японка
-- japoneza
-- japonezo
-- Yapänan
-- xaponesa
-- xaponeso
-- японец
-- японка
-- японци
-- জাপানি
-- japonesa
-- Γιαπωνέζα
+  - Japanner
+  - Japończyk
+  - japonezi
+  - японец
+  - японка
+  - японцы
+  - японці
+  - japonezi
+  - 日本人
+  - japoneză
+  - ياباني
+  - ژاپنی
+  - Japonaise
+  - Ιάπωνας
+  - japonesa
+  - Japonaises
+  - יפני
+  - Japoniano
+  - Japanse
+  - sedripun
+  - japonez
+  - giappunisa
+  - японець
+  - японка
+  - japoneza
+  - japonezo
+  - Yapänan
+  - xaponesa
+  - xaponeso
+  - японец
+  - японка
+  - японци
+  - জাপানি
+  - japonesa
+  - Γιαπωνέζα
 ISNI: 0000000123649740
 motto_text:
 - "Y Darganfod Diddiwedd"
 - "Endless discovery"
 MeSH_tree_code:
-- Z01.252.474.463
-- Z01.639.595
+  - Z01.252.474.463
+  - Z01.639.595
 urban_population:
-- 115058684
-- 115459909
-- 115884871
-- 116119928
+  - 115058684
+  - 115459909
+  - 115884871
+  - 116119928
 coordinates_of_westernmost_point: "Point(122.9325 24.451388888)"
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
@@ -389,25 +389,25 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 mains_voltage: 100
 VAT_rate: 10
 age_of_candidacy:
-- 30
-- 25
+  - 30
+  - 25
 unemployment_rate: 4
 retirement_age: 60
 compulsory_education_minimum_age_: 6
 birth_rate:
-- 7
-- 6.3
-- 6.6
-- 6.8
+  - 7
+  - 6.3
+  - 6.6
+  - 6.8
 compulsory_education_maximum_age_: 15
 marriageable_age: 18
 age_of_majority: 18
 Inequality_adjusted_Human_Development_Index: 0.85
 death_rate:
-- 11.1
-- 11.2
-- 11.7
-- 12.9
+  - 11.1
+  - 11.2
+  - 11.7
+  - 12.9
 total_fertility_rate: 1.38
 suicide_rate: 14.6
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.jp,39132]]'
@@ -453,17 +453,17 @@ Mastodon_instance_URL:
 UMLS_CUI: C0005984
 short_name:
 - "\U0001F1EF\U0001F1F5"
-- Japan
+  - Japan
 Environmental_Performance_Index: 57.2
 annual_number_of_weddings:
-- 621000
-- 635156
+  - 621000
+  - 635156
 Democracy_Index: 8.15
 Human_Development_Index: 0.925
 GitHub_topic: japan
 X_Twitter_username:
-- japan
-- JapanGov
+  - japan
+  - JapanGov
 CIVICUS_Monitor_country_entry: japan
 subreddit: japan
 maritime_identification_digits:
@@ -482,23 +482,23 @@ licence_plate_code: J
 population: 125440000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg"
 hashtag:
-- Japan
-- 日本
+  - Japan
+  - 日本
 Commons_category: Japan
 Unicode_character: 
 - 🇯🇵 
 - 🗾 
 median_income:
-- 34822
-- 557655
+  - 34822
+  - 557655
 male_population: 60758000
 female_population: 64189000
 IAB_code: 1328
 number_of_out_of_school_children: 153722
 INSEE_countries_and_foreign_territories_code: 99217
 aircraft_registration_prefix:
-- JA
-- JR
+  - JA
+  - JR
 FIPS_10_4_countries_and_regions_: JA
 name: Japan
 HASC: JP
@@ -509,16 +509,16 @@ seal_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Kamon%20of%20the%20Imperial%20House%20of%20Japan.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kamon%20of%20the%20Imperial%20House%20of%20Japan.svg"
 GS1_country_code:
-- 450-459
-- 490-499
+  - 450-459
+  - 490-499
 ISO_3166_1_alpha_3_code: JPN
 IOC_country_code: JPN
 life_expectancy: 83.98488
 rural_population:
-- 10066305
-- 10221684
-- 10376129
-- 10513072
+  - 10066305
+  - 10221684
+  - 10376129
+  - 10513072
 PM20_geo_code: B111
 U_S_National_Archives_Identifier: 10035705
 coordinates_of_easternmost_point: "Point(153.986388888 24.283055555)"
@@ -532,8 +532,8 @@ coordinates_of_northernmost_point: "Point(141.936583333 45.523027777)"
 area: 377972.28
 Commons_gallery: 日本
 name_in_kana:
-- にっぽん
-- にほん
+  - にっぽん
+  - にほん
 coordinates_of_southernmost_point: "Point(136.069722222 20.425277777)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Japan.map"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Carte%20japon.jpg"
@@ -560,11 +560,11 @@ Colon_Classification: SG--42
 Krugosvet_article: strany_mira/YAPONIYA.html
 has_id_wikidata: Q17
 location:
-- 36.8617
-- 137.199
+    - 36.8617
+    - 137.199
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26933
 isDeleted: false
 confidential: public
@@ -581,16 +581,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Japan
-- Japón
-- Japon
-- اليابان
-- 日本
-- Япония
+    - Japan
+    - Japón
+    - Japon
+    - اليابان
+    - 日本
+    - Япония
 - "el Japón"
 - "Japón (el)"
 Languages:
-- ja
+    - ja
 icon: flag-jp
 ---
 

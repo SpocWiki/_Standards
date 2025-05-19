@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12190
 subclass_of:
 - "[[_Standards/WikiData/WD~β-lactam_antibiotic,306264]]"
@@ -10,11 +10,11 @@ natural_product_of_taxon: '[[_Standards/WikiData/WD~Penicillium,843136]]'
 location_of_discovery: "[[_Standards/WikiData/WD~Alexander_Fleming_Laboratory_Museum,6033467]]"
 has_effect: "[[_Standards/WikiData/WD~penicillin_drug_reaction,7162853]]"
 part_of:
-- '[[_Standards/WikiData/WD~penicilina_],21199060]]'
+- '[[_Standards/WikiData/WD~penicilina__,21199060]]'
 - "[[_Standards/WikiData/WD~penicillin_metabolic_process,22276030]]"
 - "[[_Standards/WikiData/WD~penicillin_catabolic_process,22276032]]"
 - "[[_Standards/WikiData/WD~penicillin_biosynthetic_process,22276036]]"
-pregnancy_category: "[[_Standards/WikiData/WD~US_pregnancy_category B,28123616]]"
+pregnancy_category: "[[_Standards/WikiData/WD~US_pregnancy_category_B,28123616]]"
 instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 named_after: "[[_Standards/WikiData/WD~Penicillium_rubens,60969184]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"

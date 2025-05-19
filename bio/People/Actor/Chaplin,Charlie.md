@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles Spencer Chaplin"
 - "Charlie Chaplin"
@@ -117,7 +117,7 @@ has_works_in_the_collection: "[[_Standards/WikiData/WD~Harvard_Film_Archive,1471
 list_of_works: "[[_Standards/WikiData/WD~Charlie_Chaplin_bibliography,16208800]]"
 given_name: '[[_Standards/WikiData/WD~Charlie,16275193]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
 place_of_burial: "[[_Standards/WikiData/WD~cemetery_of_Corsier-sur-Vevey,21451869]]"

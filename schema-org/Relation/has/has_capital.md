@@ -38,7 +38,7 @@ Use it like this:
 The capital for this Country or State. For downloadable machine formats (closed capital, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/place/administrative_area/country|country]], [[../../Class/is_a_/place/administrative_area/state|state]] ]
+[ #has_/domain  :: [[../../Class/is_a_/place/administrative_area/country|country]],[[../../Class/is_a_/place/administrative_area/State|state]]] ]
 ( #has_/name :: has_capital )
 ( #has_/range :: [[../../Class/is_a_/place/administrative_area/city|city]] )
 

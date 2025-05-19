@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8084
 is_the_study_of:
 - "[[_Standards/WikiData/WD~trigonometric_function,93344]]"
@@ -7,7 +7,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 has_part_s_: "[[_Standards/WikiData/WD~trigonometric_table,787322]]"
 partially_coincident_with: "[[_Standards/WikiData/WD~triangle_geometry,1257470]]"
 instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"

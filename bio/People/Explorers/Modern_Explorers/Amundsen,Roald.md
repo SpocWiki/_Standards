@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Roald Amundsen"
 - "Roald Engelbregt Gravning Amundsen"
@@ -38,7 +38,7 @@ award_received:
 - "[[_Standards/WikiData/WD~Grande_Médaille_d'Or_des_Explorations,19904118]]"
 - "[[_Standards/WikiData/WD~Alexander_von_Humboldt_Medal,19971572]]"
 - "[[_Standards/WikiData/WD~Order_of_the_Polar_Star_-_Commander's_Grand_Cross,20899901]]"
-- "[[_Standards/WikiData/WD~Patron’s_Medal,26837312]]"
+- "[[_Standards/WikiData/WD~Patron_s_Medal,26837312]]"
 - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Franz_Joseph,28609445]]"
 - "[[_Standards/WikiData/WD~Medal_of_Merit_in_Gold_with_Crown,114261689]]"
 cause_of_death: "[[_Standards/WikiData/WD~aviation_accident,744913]]"
@@ -60,13 +60,13 @@ occupation:
 - "[[_Standards/WikiData/WD~naval_aviator,108114975]]"
 - '[[_Standards/WikiData/WD~writer,36180]]'
 - '[[_Standards/WikiData/WD~sailor,45199]]'
-participant_in: "[[_Standards/WikiData/WD~The_Gjøa_expedition_(1903–1906),3062320]]"
+participant_in: "[[_Standards/WikiData/WD~The_Gjøa_expedition_(1903_1906),3062320]]"
 father: "[[_Standards/WikiData/WD~Jens_Amundsen,3177180]]"
 different_from: "[[_Standards/WikiData/WD~Roald_Amundsen,3434117]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 family_name: '[[_Standards/WikiData/WD~Amundsen,16148979]]'

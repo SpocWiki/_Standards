@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Georg Wilhelm Friedrich Hegel"
 has_id_wikidata: Q9235
@@ -64,14 +64,14 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
-- "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803–1932,48711337]]"
+- "[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803_1932,48711337]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"

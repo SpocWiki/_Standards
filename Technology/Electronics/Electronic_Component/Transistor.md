@@ -1,9 +1,9 @@
-﻿---
+---
 has_id_wikidata: Q5339
 subclass_of:
 - "[[_Standards/WikiData/WD~semiconductor_device,175805]]"
 - "[[_Standards/WikiData/WD~active_electronic_component,12492106]]"
-has_part_s_: "[[_Standards/WikiData/WD~p–n_junction,176300]]"
+has_part_s_: "[[_Standards/WikiData/WD~p_n_junction,176300]]"
 follows:
 - "[[_Standards/WikiData/WD~gas-filled_tube,1159201]]"
 - "[[_Standards/WikiData/WD~semiconductor_diode,1929430]]"

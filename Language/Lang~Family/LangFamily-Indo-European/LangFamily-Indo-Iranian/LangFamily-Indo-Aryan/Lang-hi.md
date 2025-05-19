@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Hindi-Urdu
@@ -7,7 +7,7 @@ tags:
 has_id_wikidata: Q11051
 linguistic_typology:
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 has_grammatical_gender:
 - '[[_Standards/WikiData/WD~masculine,499327]]'
@@ -18,7 +18,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 instance_of:
 - "[[_Standards/WikiData/WD~modern_language,1288568]]"
 - "[[_Standards/WikiData/WD~common_language,25568481]]"

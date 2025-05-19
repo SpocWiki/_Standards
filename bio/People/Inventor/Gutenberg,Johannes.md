@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Johannes Gutenberg"
 - "Johannes Gensfleisch"
@@ -34,7 +34,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 educated_at: "[[_Standards/WikiData/WD~University_of_Erfurt,702524]]"
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]"

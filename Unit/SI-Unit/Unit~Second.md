@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11574
 subclass_of: "[[_Standards/WikiData/WD~time_interval,186081]]"
 instance_of:
@@ -9,7 +9,7 @@ instance_of:
 part_of:
 - "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
 - '[[_Standards/WikiData/WD~minute,7727]]'
-- "[[_Standards/WikiData/WD~centimeter–gram–second_system_of_units,26240]]"
+- "[[_Standards/WikiData/WD~centimeter_gram_second_system_of_units,26240]]"
 different_from:
 - '[[_Standards/WikiData/WD~second,636099]]'
 - '[[_Standards/WikiData/WD~arcsecond,829073]]'
@@ -20,7 +20,7 @@ measured_physical_quantity:
 - "[[_Standards/WikiData/WD~specific_impulse_by_weight,100828354]]"
 - '[[_Standards/WikiData/WD~half-life,47270]]'
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~decisecond,3251645]]'
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+described_by_source: "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110322053,110322053]]'
 conversion_to_standard_unit:
 - 8.267195767196e-7

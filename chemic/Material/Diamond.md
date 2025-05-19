@@ -31,7 +31,7 @@ mineral_fracture: "[[_Standards/WikiData/WD~conchoidal_fracture,2747476]]"
 instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
 point_group: '[[_Standards/WikiData/WD~cubic-hexoctahedral,13359931]]'
 IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
-cleavage: '[[_Standards/WikiData/WD~{111},14754934]]'
+cleavage: '[[_Standards/WikiData/WD~_111_,14754934]]'
 space_group: "[[_Standards/WikiData/WD~space_group_Fd-3m,15041895]]"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Diamonds.jpg"
 Baidu_Tieba_name: 钻石

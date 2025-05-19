@@ -127,128 +127,128 @@ part_of:
 - "[[_Standards/WikiData/WD~Middle_East,7204]]"
 - "[[_Standards/WikiData/WD~West_Asia,27293]]"
 nominal_GDP:
-- 415021590688
-- 507534921715
+  - 415021590688
+  - 507534921715
 open_data_portal: '[[_Standards/WikiData/WD~bayanat.ae,97097258]]'
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 short_name:
-- VAE
-- УАЕ
-- UAE
-- ЕАЕ
-- IAM
-- АЭЗ
-- VAE
-- EAX
-- ГIЦИ
-- BƏƏ
-- UAE
-- VAE
-- ААЭ
-- ОАЕ
-- EAU
-- UAE
-- АНЭУ
-- EAU
-- ӀЦЭ
-- HEA
-- SAE
-- ѤА҃Є
-- FAE
-- VAE
-- ΗΑΕ
-- UAE
-- UAE
-- EAU
-- É.A.U.
-- EAU
+  - VAE
+  - УАЕ
+  - UAE
+  - ЕАЕ
+  - IAM
+  - АЭЗ
+  - VAE
+  - EAX
+  - ГIЦИ
+  - BƏƏ
+  - UAE
+  - VAE
+  - ААЭ
+  - ОАЕ
+  - EAU
+  - UAE
+  - АНЭУ
+  - EAU
+  - ӀЦЭ
+  - HEA
+  - SAE
+  - ѤА҃Є
+  - FAE
+  - VAE
+  - ΗΑΕ
+  - UAE
+  - UAE
+  - EAU
+  - É.A.U.
+  - EAU
 - "איחוד האמירויות"
-- UAE
-- ZAE
-- EAE
-- ԱՄԷ
-- UEA
-- UAE
-- EAU
-- ア首連
-- KAM
-- BAA’
-- БАӘ
-- 아랍에미리트
-- БАЭ
-- VAE
-- AAU
-- VAE
-- JAE
-- AAE
-- ОАЕ
-- АНЭУ
-- VAE
-- EAU
-- АИЭ
-- ZEA
-- EAU
-- EAU
-- ОАЭ
-- ХАЭ
-- EAU
-- UAE
-- SAE
-- ZAE
-- EBA
-- Uéa
-- FAE
-- BAE
-- BAE
-- БГӘ
-- ОАЕ
-- BAA
-- AÜE
-- 阿联酋
-- 阿聯酋
-- Ahlenzciuz
-- 阿联酋
-- 阿聯酋
-- 阿聯
+  - UAE
+  - ZAE
+  - EAE
+  - ԱՄԷ
+  - UEA
+  - UAE
+  - EAU
+  - ア首連
+  - KAM
+  - BAA’
+  - БАӘ
+  - 아랍에미리트
+  - БАЭ
+  - VAE
+  - AAU
+  - VAE
+  - JAE
+  - AAE
+  - ОАЕ
+  - АНЭУ
+  - VAE
+  - EAU
+  - АИЭ
+  - ZEA
+  - EAU
+  - EAU
+  - ОАЭ
+  - ХАЭ
+  - EAU
+  - UAE
+  - SAE
+  - ZAE
+  - EBA
+  - Uéa
+  - FAE
+  - BAE
+  - BAE
+  - БГӘ
+  - ОАЕ
+  - BAA
+  - AÜE
+  - 阿联酋
+  - 阿聯酋
+  - Ahlenzciuz
+  - 阿联酋
+  - 阿聯酋
+  - 阿聯
 - "\U0001F1E6\U0001F1EA"
 coordinates_of_easternmost_point: "Point(56.38162 25.32361)"
 UMLS_CUI: C0041698
 described_at_URL: "http://68k.news/index.php?section=nation&loc=AE&lang=AR"
 demonym:
-- إماراتي
-- إماراتية
-- إماراتيين
-- إماراتيات
-- Eimíríteach
-- إماراتي
-- إماراتية
-- إماراتيون
+  - إماراتي
+  - إماراتية
+  - إماراتيين
+  - إماراتيات
+  - Eimíríteach
+  - إماراتي
+  - إماراتية
+  - إماراتيون
 - "d’Emiratos Árabes"
 - "d’Emiratos Árabes Xuníos"
-- আমিরাতি
-- Emirati
-- Emiri
-- Emirian
-- Arabemirlandano
-- emiratí
-- اماراتی
-- Émirien
-- Émirienne
-- אמירתי
-- אמירתית
+  - আমিরাতি
+  - Emirati
+  - Emiri
+  - Emirian
+  - Arabemirlandano
+  - emiratí
+  - اماراتی
+  - Émirien
+  - Émirienne
+  - אמירתי
+  - אמירתית
 - "egyesült arab emírségekbeli"
-- emiratina
-- emiratine
-- emiratini
-- emiratino
-- amirati
-- emirian
-- emiriană
-- emirieni
-- emiratin
-- emiratina
-- emiratine
-- emiratini
+  - emiratina
+  - emiratine
+  - emiratini
+  - emiratino
+  - amirati
+  - emirian
+  - emiriană
+  - emirieni
+  - emiratin
+  - emiratina
+  - emiratine
+  - emiratini
 native_label:
 - "الإِمَارات العربِيَّة المُتَّحِدة"
 - "United Arab Emirates"
@@ -282,15 +282,15 @@ mains_voltage: 220
 Gini_coefficient: 26
 Democracy_Index: 2.9
 BTI_Governance_Index:
-- 4.2
-- 5.3
-- 5.04
-- 5.23
-- 5.35
-- 5.36
-- 5.42
-- 5.55
-- 6.38
+  - 4.2
+  - 5.3
+  - 5.04
+  - 5.23
+  - 5.35
+  - 5.36
+  - 5.42
+  - 5.55
+  - 6.38
 suicide_rate: 5.2
 lowest_point: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 retirement_age: 65
@@ -298,15 +298,15 @@ literacy_rate: 93
 Happy_Planet_Index_score: 34.3
 trunk_prefix: 0
 BTI_Status_Index:
-- 5.03
-- 5.23
-- 5.73
-- 5.83
-- 5.95
-- 5.96
-- 6.01
-- 6.05
-- 6.07
+  - 5.03
+  - 5.23
+  - 5.73
+  - 5.83
+  - 5.95
+  - 5.96
+  - 6.01
+  - 6.05
+  - 6.07
 maritime_identification_digits:
 - 470
 - 471
@@ -315,15 +315,15 @@ head_of_government: "[[_Standards/WikiData/WD~Mohammed_bin_Rashid_Al_Maktoum,576
 area: 83600
 Human_Development_Index: 0.911
 birth_rate:
-- 9.75
-- 10.62
-- 9.888
-- 10.307
+  - 9.75
+  - 10.62
+  - 9.888
+  - 10.307
 death_rate:
-- 1.471
-- 1.766
-- 1.865
-- 1.874
+  - 1.471
+  - 1.766
+  - 1.865
+  - 1.874
 total_fertility_rate: 1.784
 geoshape: "http://commons.wikimedia.org/data/main/Data:United+Arab+Emirates.map"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Dubai%20night%20skyline.jpg"
@@ -370,37 +370,37 @@ life_expectancy: 77.256
 social_media_followers: 81817
 population: 9890400
 rural_population:
-- 1202890
-- 1176081
-- 1189467
-- 1216952
+  - 1202890
+  - 1176081
+  - 1189467
+  - 1216952
 PM20_geo_code: B26
 inception: "1971"
 has_time_started: 1971-06 
 female_population:
-- 2767844
-- 2811921
-- 2853108
-- 2893385
+  - 2767844
+  - 2811921
+  - 2853108
+  - 2893385
 male_population:
-- 6443813
-- 6475368
-- 6512037
-- 6547744
+  - 6443813
+  - 6475368
+  - 6512037
+  - 6547744
 urban_population:
-- 7994705
-- 8084399
-- 8175678
-- 8265048
+  - 7994705
+  - 8084399
+  - 8175678
+  - 8265048
 coordinate_location: "Point(54.3 24.4)"
 coordinates_of_northernmost_point: "Point(56.08646 26.05041)"
 has_id_wikidata: Q878
 location:
-- 24.47
-- 54.42
+    - 24.47
+    - 54.42
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26826
 isDeleted: false
 confidential: public
@@ -421,18 +421,18 @@ aliases:
 - "Emiratos Árabes Unidos"
 - "Émirats arabes unis"
 - "الإمارات العربية المتحدة"
-- 阿拉伯联合酋长国
+    - 阿拉伯联合酋长国
 - "Объединенные Арабские Эмираты"
 - "the United Arab Emirates"
 - "United Arab Emirates (the)"
 - "los Emiratos Árabes Unidos"
 - "Emiratos Árabes Unidos (los)"
 Languages:
-- ar-AE
-- fa
-- en
-- hi
-- ur
+    - ar-AE
+    - fa
+    - en
+    - hi
+    - ur
 icon: flag-ae
 ---
 

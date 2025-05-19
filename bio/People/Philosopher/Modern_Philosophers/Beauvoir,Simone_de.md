@@ -47,7 +47,7 @@ given_name: '[[_Standards/WikiData/WD~Simone,602977]]'
 family: "[[_Standards/WikiData/WD~Bertrand_de_Beauvoir_family,2899709]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Metzler_Autorinnen_Lexikon_(1_ed.),113369276]]"

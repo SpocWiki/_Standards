@@ -1,7 +1,8 @@
 ---
 has_id_wikidata: Q101313
 Commons_category: Phanerozoic
-described_by_source: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20age%20fauna%20of%20northern%20Spain%20-%20Mauricio%20Ant%C3%B3n.jpg
 instance_of:
   - "[[_Standards/WikiData/WD~eon,108256]]"
@@ -12,9 +13,33 @@ part_of:
   - "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
   - "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 sRGB_color_hex_triplet: 9AD9DD
-start_time: -538800000 
+start_time: -538800000
 has_time_started: -538800000
 topic_s_main_template: "[[_Standards/WikiData/WD~Q26108156,26108156]]"
+aliases:
+  - Phanerozoic
+  - Фанерозой
+  - Fanerozoikum
+  - Phanerozoisk
+  - Phanerozoikum
+  - Fanerozoico
+  - Fanerosoikum
+  - Fanerotsoikum
+  - Phanérozoïque
+  - fanerozoikum
+  - fanerozoico
+  - 顕生代
+  - Fanerozojus
+  - Phanerozoïcum
+  - Fanerozoikum
+  - Fanerozoik
+  - Fanerozóico
+  - fanerozoikum
+  - fanerozoik
+  - fanerozoikum
+  - 显生宙 
+  
+  
 ---
 
 # [[Eon~4~Phanerozoic]] 

@@ -189,9 +189,9 @@ language_used:
 - "[[_Standards/WikiData/WD~Bukar_Sadong,2927799]]"
 - '[[_Standards/WikiData/WD~Temuan,3025610]]'
 - '[[_Standards/WikiData/WD~Kiput,3038653]]'
-- '[[_Standards/WikiData/WD~Duano’,3040468]]'
-- "[[_Standards/WikiData/WD~Ida'an,3041552]]"
-- "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
+- '[[_Standards/WikiData/WD~Duano_,3040468]]'
+  - "[[_Standards/WikiData/WD~Ida'an,3041552]]"
+  - "[[_Standards/WikiData/WD~Ten'edn,3073453]]"
 - '[[_Standards/WikiData/WD~Semelai,3111827]]'
 - '[[_Standards/WikiData/WD~Semai,3135426]]'
 - '[[_Standards/WikiData/WD~Jehai,3176748]]'
@@ -208,7 +208,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Orang_Kanaq,3449510]]"
 - "[[_Standards/WikiData/WD~Brunei_Bisaya,3450611]]"
 - '[[_Standards/WikiData/WD~Bintulu,3450775]]'
-- "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
+  - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
 - '[[_Standards/WikiData/WD~Temiar,3914693]]'
 - "[[_Standards/WikiData/WD~Negeri_Sembilan_Malay,3915909]]"
 - "[[_Standards/WikiData/WD~Orang_Seletar,4208197]]"
@@ -222,7 +222,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Daro-Matu,5224156]]'
 - '[[_Standards/WikiData/WD~Kadazandusun,5317225]]'
 - "[[_Standards/WikiData/WD~Eastern_Kadazan,5330240]]"
-- '[[_Standards/WikiData/WD~Gana’,5520523]]'
+- '[[_Standards/WikiData/WD~Gana_,5520523]]'
 - '[[_Standards/WikiData/WD~Kajaman,6348863]]'
 - '[[_Standards/WikiData/WD~Kalabakan,6350003]]'
 - '[[_Standards/WikiData/WD~Kanowit,6364300]]'
@@ -263,7 +263,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tringgus,7842365]]'
 - '[[_Standards/WikiData/WD~Tutoh,7856961]]'
 - '[[_Standards/WikiData/WD~Ukit,7878321]]'
-- "[[_Standards/WikiData/WD~Uma’_Lasan,7881227]]"
+- "[[_Standards/WikiData/WD~Uma__Lasan,7881227]]"
 - "[[_Standards/WikiData/WD~Sabah_Malay,10867404]]"
 - "[[_Standards/WikiData/WD~colloquial_Malay,12636082]]"
 - "[[_Standards/WikiData/WD~Malaccan_Creole_Malay,12636092]]"
@@ -334,60 +334,60 @@ highest_judicial_authority: "[[_Standards/WikiData/WD~Federal_Court_of_Malaysia,
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Malaysia,7112344]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_States_and_Federal_Territories_of_Malaysia,7865174]]"
 demonym:
-- malaisi
-- ماليزي
-- ماليزية
-- ماليزيون
-- malasia
-- malasies
-- malasios
-- malasiu
-- মালয়েশীয়
-- malàisia
-- malaysier
-- Malajziano
-- malaya
-- malaisien
-- malaisienne
-- Malaisienne
-- malaisiennes
-- malaisiens
-- מלזי
-- מלזית
-- Malaiziano
-- malaysiana
-- malaysiane
-- malaysiani
-- malaysiano
-- malaisian
+  - malaisi
+  - ماليزي
+  - ماليزية
+  - ماليزيون
+  - malasia
+  - malasies
+  - malasios
+  - malasiu
+  - মালয়েশীয়
+  - malàisia
+  - malaysier
+  - Malajziano
+  - malaya
+  - malaisien
+  - malaisienne
+  - Malaisienne
+  - malaisiennes
+  - malaisiens
+  - מלזי
+  - מלזית
+  - Malaiziano
+  - malaysiana
+  - malaysiane
+  - malaysiani
+  - malaysiano
+  - malaisian
 - "orang Malaysia"
-- Malezyjczyk
-- Malezyjka
-- malaysian
-- malaysiană
-- malaysieni
-- малайзиец
-- малайзийка
-- малайзийцы
-- மலேசியர்
-- małaiyziani
-- małaizian
-- małaiziana
-- małaiziane
-- Malaysiyänan
-- Malezijka
-- ماليزي
-- ماليزية
-- ماليزيات
-- ماليزيين
-- Malezijec
-- Malaeisiach
-- Malaise
-- Malais
-- malayo
-- maláj
-- Malaysian
-- Malaisien
+  - Malezyjczyk
+  - Malezyjka
+  - malaysian
+  - malaysiană
+  - malaysieni
+  - малайзиец
+  - малайзийка
+  - малайзийцы
+  - மலேசியர்
+  - małaiyziani
+  - małaizian
+  - małaiziana
+  - małaiziane
+  - Malaysiyänan
+  - Malezijka
+  - ماليزي
+  - ماليزية
+  - ماليزيات
+  - ماليزيين
+  - Malezijec
+  - Malaeisiach
+  - Malaise
+  - Malais
+  - malayo
+  - maláj
+  - Malaysian
+  - Malaisien
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malaysia,11032893]]'
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject_Malaysia,11046953]]"
@@ -442,11 +442,11 @@ motto_text:
 - "برسکوتو برتمبه موتو"
 short_name:
 - "\U0001F1F2\U0001F1FE"
-- MYS
-- MYS
+  - MYS
+  - MYS
 nominal_GDP:
-- 406305924656
-- 372981073018
+  - 406305924656
+  - 372981073018
 coordinates_of_westernmost_point: "Point(98.937222222 5.684722222)"
 Baidu_Tieba_name: 马来西亚
 ISNI: 0000000121775970
@@ -455,15 +455,15 @@ described_at_URL: "http://68k.news/index.php?section=nation&loc=MY&lang=MS"
 official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 retirement_age: 60
 BTI_Status_Index:
-- 6
-- 6.09
-- 6.13
-- 6.18
-- 6.21
-- 6.24
-- 6.35
-- 6.36
-- 6.57
+  - 6
+  - 6.09
+  - 6.13
+  - 6.18
+  - 6.21
+  - 6.24
+  - 6.35
+  - 6.36
+  - 6.57
 compulsory_education_minimum_age_: 6
 VAT_rate: 6
 compulsory_education_maximum_age_: 12
@@ -471,15 +471,15 @@ age_of_majority: 18
 marriageable_age: 21
 mains_voltage: 240
 BTI_Governance_Index:
-- 5.2
-- 5.7
-- 5.15
-- 5.46
-- 5.57
-- 5.58
-- 5.65
-- 5.68
-- 5.71
+  - 5.2
+  - 5.7
+  - 5.15
+  - 5.46
+  - 5.57
+  - 5.58
+  - 5.65
+  - 5.68
+  - 5.71
 total_fertility_rate: 1.76
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.my,43127]]'
 Happy_Planet_Index_score: 41.7
@@ -492,15 +492,15 @@ Human_Development_Index: 0.803
 highest_point: "[[_Standards/WikiData/WD~Mount_Kota_Kinabalu,60967]]"
 IAB_code: 1347
 birth_rate:
-- 15.24
-- 15.58
-- 15.016
-- 15.417
+  - 15.24
+  - 15.58
+  - 15.016
+  - 15.417
 death_rate:
-- 5.253
-- 5.311
-- 5.443
-- 6.034
+  - 5.253
+  - 5.311
+  - 5.443
+  - 6.034
 ISO_3166_1_numeric_code: 458
 M49_code: 458
 Dewey_Decimal_Classification: 2--5951
@@ -508,8 +508,8 @@ female_population: 15652000
 GS1_country_code: 955
 mobile_country_code: 502
 social_media_followers:
-- 346220
-- 427386
+  - 346220
+  - 427386
 rural_population: 7420200
 maritime_identification_digits: 533
 number_of_out_of_school_children: 1176190
@@ -540,11 +540,11 @@ coordinates_of_easternmost_point: "Point(119.2691 5.2329)"
 coordinates_of_southernmost_point: "Point(110.5761 0.8539)"
 has_id_wikidata: Q833
 location:
-- 3.17
-- 101.7
+    - 3.17
+    - 101.7
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26975
 isDeleted: false
 confidential: public
@@ -561,22 +561,22 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Malaysia
-- Malasia
-- Malaisie
-- ماليزيا
-- 马来西亚
-- Малайзия
+    - Malaysia
+    - Malasia
+    - Malaisie
+    - ماليزيا
+    - 马来西亚
+    - Малайзия
 - "Federación de Malasia"
 Languages:
-- ms-MY
-- en
-- zh
-- ta
-- te
-- ml
-- pa
-- th
+    - ms-MY
+    - en
+    - zh
+    - ta
+    - te
+    - ml
+    - pa
+    - th
 icon: flag-my
 ---
 

@@ -55,7 +55,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Imperial_Statues_and_Public_Spaces_in_Late_Antiquity__Conceptualising_‘Constantine’_at_York_as_an_Ancient_Public_Commission,46997087]]"
+- "[[_Standards/WikiData/WD~Imperial_Statues_and_Public_Spaces_in_Late_Antiquity__Conceptualising__Constantine__at_York_as_an_Ancient_Public_Commission,46997087]]"
 - "[[_Standards/WikiData/WD~The_Long_Shadow_of_Constantine,53932892]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~The_Cambridge_Companion_to_the_Age_of_Constantine,124024367]]"

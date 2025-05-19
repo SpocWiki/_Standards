@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Rosa Luxemburg"
 has_id_wikidata: Q7231
@@ -43,8 +43,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Internationales_Handwörterbuch_des_Gewerkschaftswesens,106881271]]"

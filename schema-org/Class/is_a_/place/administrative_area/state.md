@@ -1,4 +1,4 @@
-﻿---
+---
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -92,7 +92,7 @@ BHCL_UUID: e8931adb-4650-49f1-a2f2-460122c17ac3
 Krugosvet_article: istoriya/GOSUDARSTVO.html
 ---
 
-# [[state]] 
+# [[State]] 
 
 The Class of all states, 
 i.e. state or province of a [[country]].

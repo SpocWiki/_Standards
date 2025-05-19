@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Albrecht Dürer"
 - "Albrecht Durer"
@@ -87,7 +87,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
 - "[[_Standards/WikiData/WD~The_Frick_Collection,682827]]"
 - "[[_Standards/WikiData/WD~Kunsthalle_Bremen,693591]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_South_Australia,705557]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
@@ -232,9 +232,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Teutsche_Academie_der_Edlen_Bau-_Bild-_und_Mahlerey-Künste,15089621]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

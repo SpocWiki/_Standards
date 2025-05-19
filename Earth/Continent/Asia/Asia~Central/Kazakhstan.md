@@ -99,62 +99,62 @@ GitHub_topic: kazakhstan
 CIVICUS_Monitor_country_entry: kazakhstan
 Krugosvet_article: strany_mira/KAZAHSTAN.html
 demonym:
-- كازاخستانية
-- kazaquistanín
-- kazaquistanina
-- কাজাখ/কাজাকিস্তানী
-- Kasache
-- Kasachin
-- kasachisch
-- Kazakhstani
-- kazaĥo
-- Kazakhstanais
-- Kazakhstanaise
-- קזחי
-- Kazakstanano
-- kazake
-- kazah
-- казахстанец
-- казахстанка
-- қазоқ
-- kazaka
-- kazake
-- Kazakistänan
-- كازاخستاني
-- كازاخستانية
-- كازاخستانيين
-- كازاخستانيات
-- Casacstánach
-- kazakh
-- Kazakh
-- kazajo
-- קזחית
-- kazak
-- kazako
-- cazac
-- kazahă
-- kazako
-- kazaki
-- kazahi
-- kazaki
-- kazaka
-- كازاخستانيون
-- казахстанцы
-- كازاخستاني
+  - كازاخستانية
+  - kazaquistanín
+  - kazaquistanina
+  - কাজাখ/কাজাকিস্তানী
+  - Kasache
+  - Kasachin
+  - kasachisch
+  - Kazakhstani
+  - kazaĥo
+  - Kazakhstanais
+  - Kazakhstanaise
+  - קזחי
+  - Kazakstanano
+  - kazake
+  - kazah
+  - казахстанец
+  - казахстанка
+  - қазоқ
+  - kazaka
+  - kazake
+  - Kazakistänan
+  - كازاخستاني
+  - كازاخستانية
+  - كازاخستانيين
+  - كازاخستانيات
+  - Casacstánach
+  - kazakh
+  - Kazakh
+  - kazajo
+  - קזחית
+  - kazak
+  - kazako
+  - cazac
+  - kazahă
+  - kazako
+  - kazaki
+  - kazahi
+  - kazaki
+  - kazaka
+  - كازاخستانيون
+  - казахстанцы
+  - كازاخستاني
 official_name:
 - "la République du Kazakhstan"
 - "Қазақстан Республикасы"
 - "Республика Казахстан"
-- قازاقىستان
-- Қазақстан
-- Казахстан
+  - قازاقىستان
+  - Қазақстан
+  - Казахстан
 native_label:
 - "Қазақстан Республикасы"
-- Қазақстан
+  - Қазақстан
 short_name:
-- 哈萨克斯坦
+  - 哈萨克斯坦
 - "\U0001F1F0\U0001F1FF"
-- Казахстан
+  - Казахстан
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kazakhstan,10815240]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
@@ -171,14 +171,14 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Kazakstan,97062138]]"
 coordinates_of_southernmost_point: "Point(68.583611111 40.568888888)"
 UMLS_CUI: C0022537
 nominal_GDP:
-- 197112255361
-- 220623001967
+  - 197112255361
+  - 220623001967
 ISNI: 0000000121884309
 coordinates_of_easternmost_point: "Point(87.31495857 49.23082634)"
 MeSH_tree_code:
-- Z01.252.100.420
-- Z01.542.931.440
-- Z01.586.950.440
+  - Z01.252.100.420
+  - Z01.542.931.440
+  - Z01.586.950.440
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 - '[[_Standards/WikiData/WD~Armenia,399]]'
@@ -233,28 +233,28 @@ country: '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 unemployment_rate: 4
 VAT_rate: 12
 marriageable_age:
-- 17
-- 18
+  - 17
+  - 18
 mains_voltage: 220
 BTI_Status_Index:
-- 4.7
-- 4.88
-- 4.91
-- 5.05
-- 5.13
-- 5.24
-- 5.48
-- 5.53
+  - 4.7
+  - 4.88
+  - 4.91
+  - 5.05
+  - 5.13
+  - 5.24
+  - 5.48
+  - 5.53
 death_rate:
-- 6.8
-- 8.6
-- 7.19
-- 9.61
+  - 6.8
+  - 8.6
+  - 7.19
+  - 9.61
 birth_rate:
-- 23.5
-- 20.57
-- 21.73
-- 22.76
+  - 23.5
+  - 20.57
+  - 21.73
+  - 22.76
 top_level_Internet_domain:
 - '[[_Standards/WikiData/WD~.kz,40619]]'
 - '[[_Standards/WikiData/WD~.қаз,48137]]'
@@ -263,13 +263,13 @@ Gini_coefficient: 27.8
 Democracy_Index: 3.08
 Happy_Planet_Index_score: 38.6
 BTI_Governance_Index:
-- 4.15
-- 4.27
-- 4.41
-- 4.56
-- 4.67
-- 4.71
-- 4.72
+  - 4.15
+  - 4.27
+  - 4.41
+  - 4.56
+  - 4.67
+  - 4.71
+  - 4.72
 inception: "1991"
 has_time_started: 1991-06 
 Commons_category: Kazakhstan
@@ -306,29 +306,29 @@ WIPO_ST_3: KZ
 UIC_alphabetical_country_code: KZ
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg"
 urban_population:
-- 10816580
-- 10652767
-- 11096634
-- 11386327
+  - 10816580
+  - 10652767
+  - 11096634
+  - 11386327
 ISO_3166_1_alpha_3_code: KAZ
 ITU_letter_code: KAZ
 UNDP_country_code: KAZ
 IOC_country_code: KAZ
 rural_population:
-- 7860906
-- 7939086
-- 8094722
-- 8248656
+  - 7860906
+  - 7939086
+  - 8094722
+  - 8248656
 male_population:
-- 8890215
-- 9012624
-- 9227935
-- 9449147
+  - 8890215
+  - 9012624
+  - 9227935
+  - 9449147
 female_population:
-- 9623458
-- 9743042
-- 9963421
-- 10185836
+  - 9623458
+  - 9743042
+  - 9963421
+  - 10185836
 motto_text:
 - "El meu Kazakhstan"
 - "Менің Қазақстаным"
@@ -337,11 +337,11 @@ coordinate_location: "Point(68.0 48.0)"
 population: 20139914
 has_id_wikidata: Q232
 location:
-- 51.1667
-- 71.4167
+    - 51.1667
+    - 71.4167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26944
 isDeleted: false
 confidential: public
@@ -358,16 +358,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Kazakhstan
-- Kazajstán
-- كازاخستان
-- 哈萨克斯坦
-- Казахстан
+    - Kazakhstan
+    - Kazajstán
+    - كازاخستان
+    - 哈萨克斯坦
+    - Казахстан
 - "the Republic of Kazakhstan"
 - "la República de Kazajstán"
 Languages:
-- kk
-- ru
+    - kk
+    - ru
 icon: flag-kz
 ---
 

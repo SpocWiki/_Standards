@@ -1,10 +1,10 @@
 ---
 location:
-- 41.98
-- 21.43
+  - 41.98
+  - 21.43
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q221
 SpocWebEntityId: 26961
 isDeleted: false
@@ -172,7 +172,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of__Macedonia,678492]]"
 highest_point: '[[_Standards/WikiData/WD~Korab,912579]]'
@@ -206,39 +206,39 @@ VAT_rate: 18
 mains_voltage: 230
 Gini_coefficient: 33
 BTI_Governance_Index:
-- 6.3
-- 6.5
-- 5.24
-- 5.56
-- 5.74
-- 6.17
-- 6.22
-- 6.51
-- 6.55
+  - 6.3
+  - 6.5
+  - 5.24
+  - 5.56
+  - 5.74
+  - 6.17
+  - 6.22
+  - 6.51
+  - 6.55
 Human_Development_Index: 0.77
 birth_rate:
-- 9.2
-- 9.6
-- 9.9
-- 10.2
+  - 9.2
+  - 9.6
+  - 9.9
+  - 10.2
 death_rate:
-- 9.8
-- 12.3
-- 12.4
-- 15.5
+  - 9.8
+  - 12.3
+  - 12.4
+  - 15.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mk,41319]]'
 Happy_Planet_Index_score: 43.9
 trunk_prefix: 0
 Democracy_Index: 5.89
 BTI_Status_Index:
-- 6.76
-- 6.86
-- 7.08
-- 7.17
-- 7.35
-- 7.37
-- 7.52
-- 7.53
+  - 6.76
+  - 6.86
+  - 7.08
+  - 7.17
+  - 7.35
+  - 7.37
+  - 7.52
+  - 7.53
 Inequality_adjusted_Human_Development_Index: 0.686
 UIC_numerical_country_code: 65
 total_fertility_rate: 1.524
@@ -246,18 +246,18 @@ GS1_country_code: 531
 OmegaWiki_Defined_Meaning: 8361
 FIPS_10_4_countries_and_regions_: MK
 NUTS_code:
-- MK
-- MK0
-- MK00
+  - MK
+  - MK0
+  - MK00
 licence_plate_code: MK
 ISO_3166_1_alpha_2_code: MK
 WIPO_ST_3: MK
 UIC_alphabetical_country_code: MK
 unemployment_rate:
-- 14.477
-- 15.801
-- 16.575
-- 17.414
+  - 14.477
+  - 15.801
+  - 16.575
+  - 17.414
 maritime_identification_digits: 274
 culture: "[[_Standards/WikiData/WD~culture_of_North_Macedonia,3007293]]"
 basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
@@ -280,67 +280,67 @@ category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q49834503,49
 open_data_portal: "[[_Standards/WikiData/WD~Open_data_portal_of_the_Government_of_the_Republic_of_North_Macedonia,97097788]]"
 UMLS_CUI: C0206004
 demonym:
-- Makedonec
-- Makedonka
-- مقدوني
-- مقدونية
-- مقدونيات
-- مقدونيين
-- Macédonien
-- Macédonienne
-- Macedonian
-- macedonean
-- macedoneancă
-- macedoneni
-- македонцы
-- Maqedonas
-- Maqedonase
-- македонець
-- македонка
-- македонці
-- macèdona
-- macèdone
-- macèdoni
-- Makedoniyänan
-- مقدوني
-- مقدونية
-- مقدونيون
-- macedonia
-- macedoniu
-- македонец
-- македонка
-- македонцы
-- macedoni
-- macedònia
-- macedònies
-- macedonis
-- makedono
-- macedonia
-- macedonio
-- macédonien
-- macédonienne
-- מקדוני
-- מקדונית
-- macedón
-- macedone
-- macedoni
-- マケドニア人
-- macedonsce
-- Македонец
-- Македонка
-- Македонци
-- Macedończycy
-- Macedończyk
-- Macedonka
-- Macedonki
+  - Makedonec
+  - Makedonka
+  - مقدوني
+  - مقدونية
+  - مقدونيات
+  - مقدونيين
+  - Macédonien
+  - Macédonienne
+  - Macedonian
+  - macedonean
+  - macedoneancă
+  - macedoneni
+  - македонцы
+  - Maqedonas
+  - Maqedonase
+  - македонець
+  - македонка
+  - македонці
+  - macèdona
+  - macèdone
+  - macèdoni
+  - Makedoniyänan
+  - مقدوني
+  - مقدونية
+  - مقدونيون
+  - macedonia
+  - macedoniu
+  - македонец
+  - македонка
+  - македонцы
+  - macedoni
+  - macedònia
+  - macedònies
+  - macedonis
+  - makedono
+  - macedonia
+  - macedonio
+  - macédonien
+  - macédonienne
+  - מקדוני
+  - מקדונית
+  - macedón
+  - macedone
+  - macedoni
+  - マケドニア人
+  - macedonsce
+  - Македонец
+  - Македонка
+  - Македонци
+  - Macedończycy
+  - Macedończyk
+  - Macedonka
+  - Macedonki
 official_website: "https://vlada.mk/"
 ISNI: 000000040581699X
 motto_text:
 - "Diamser yw Gogledd Macedonia"
 - "North Macedonia Timeless"
 nominal_GDP:
-- 13825049832
-- 13563132057
+  - 13825049832
+  - 13563132057
 MeSH_tree_code: Z01.542.248.750
 coordinates_of_easternmost_point: "Point(23.03405464 41.70938891)"
 capital: '[[_Standards/WikiData/WD~Skopje,384]]'
@@ -352,12 +352,12 @@ IAB_code: 1437
 number_of_out_of_school_children: 48258
 CIVICUS_Monitor_country_entry: macedonia
 subreddit:
-- macedonia
-- makedonski
+  - macedonia
+  - makedonski
 short_name:
-- Macedónia
-- Македония
-- Macedônia
+  - Macedónia
+  - Македония
+  - Macedônia
 - "Macedônia do Norte"
 - "Северная Македония"
 - "Maqedonia e Veriut"
@@ -369,30 +369,30 @@ short_name:
 - "Macedonia Północna"
 - "Macedónia do Norte"
 rural_population:
-- 748840
-- 757148
-- 770626
-- 784127
+  - 748840
+  - 757148
+  - 770626
+  - 784127
 life_expectancy: 75.703
 female_population:
-- 918720
-- 921149
-- 930393
-- 940306
+  - 918720
+  - 921149
+  - 930393
+  - 940306
 male_population:
-- 925730
-- 912991
-- 915965
-- 935956
+  - 925730
+  - 912991
+  - 915965
+  - 935956
 Dewey_Decimal_Classification: 2--4976
 INSEE_countries_and_foreign_territories_code: 99156
 coordinates_of_westernmost_point: "Point(20.45247674 41.51886046)"
 coordinates_of_northernmost_point: "Point(22.3 42.37)"
 urban_population:
-- 1079966
-- 1082872
-- 1085498
-- 1092135
+  - 1079966
+  - 1082872
+  - 1085498
+  - 1092135
 population: 1836713
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
 IOC_country_code: MKD

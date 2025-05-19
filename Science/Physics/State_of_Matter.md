@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11430
 is_metaclass_for: '[[_Standards/WikiData/WD~phase,104837]]'
 different_from:
@@ -7,7 +7,7 @@ different_from:
 part_of: '[[_Standards/WikiData/WD~phase,104837]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 has_list: "[[_Standards/WikiData/WD~list_of_states_of_matter,3271631]]"

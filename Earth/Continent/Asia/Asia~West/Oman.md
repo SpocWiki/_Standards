@@ -53,7 +53,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 anthem: "[[_Standards/WikiData/WD~Nashid_as-Salaam_as-Sultani,634111]]"
 lowest_point: "[[_Standards/WikiData/WD~Majlis_al_Jinn,957114]]"
 highest_point: "[[_Standards/WikiData/WD~Jebel_Shams,1261915]]"
@@ -107,43 +107,43 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Muscat,109529041]]'
 - '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
 nominal_GDP:
-- 88191977373
-- 114667360208
+  - 88191977373
+  - 114667360208
 demonym:
-- عوماني
-- عومانيات
-- عومانية
-- عومانيين
-- Ómanach
-- عمانية
-- omaniana
-- omanianu
-- ওমানী
-- Omani
-- Omanais
-- Omanaise
-- עומאני
-- עומאנית
-- ománi
-- Omanano
-- omanita
-- omaniti
-- umani
-- omanez
-- omaneză
-- omanezi
-- оманцы
-- omania
-- omanie
-- omanii
-- omanio
-- omanita
-- omanite
-- omaniti
-- omanito
-- Lomänan
-- عمانيون
-- عماني
+  - عوماني
+  - عومانيات
+  - عومانية
+  - عومانيين
+  - Ómanach
+  - عمانية
+  - omaniana
+  - omanianu
+  - ওমানী
+  - Omani
+  - Omanais
+  - Omanaise
+  - עומאני
+  - עומאנית
+  - ománi
+  - Omanano
+  - omanita
+  - omaniti
+  - umani
+  - omanez
+  - omaneză
+  - omanezi
+  - оманцы
+  - omania
+  - omanie
+  - omanii
+  - omanio
+  - omanita
+  - omanite
+  - omaniti
+  - omanito
+  - Lomänan
+  - عمانيون
+  - عماني
 ISNI: 0000000123150309
 motto_text:
 - "Mae gan Brydferthwch Gyfeiriad"
@@ -181,32 +181,32 @@ marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 240
 BTI_Status_Index:
-- 4.3
-- 5.3
-- 4.22
-- 4.43
-- 4.75
-- 4.91
-- 5.41
-- 5.53
+  - 4.3
+  - 5.3
+  - 4.22
+  - 4.43
+  - 4.75
+  - 4.91
+  - 5.41
+  - 5.53
 suicide_rate: 4.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.om,43132]]'
 BTI_Governance_Index:
-- 3.52
-- 3.54
-- 3.67
-- 3.75
-- 3.78
-- 4.51
-- 4.58
-- 4.79
+  - 3.52
+  - 3.54
+  - 3.67
+  - 3.75
+  - 3.78
+  - 4.51
+  - 4.58
+  - 4.79
 Inequality_adjusted_Human_Development_Index: 0.708
 Human_Development_Index: 0.816
 death_rate:
-- 2.205
-- 3.025
-- 3.279
-- 3.796
+  - 2.205
+  - 3.025
+  - 3.279
+  - 3.796
 total_fertility_rate: 2.774
 area: 309500
 maritime_identification_digits: 461
@@ -214,10 +214,10 @@ ISO_3166_1_numeric_code: 512
 M49_code: 512
 mobile_country_code: 422
 birth_rate:
-- 17.706
-- 18.419
-- 18.791
-- 19.298
+  - 17.706
+  - 18.419
+  - 18.791
+  - 19.298
 number_of_out_of_school_children: 22215
 IAB_code: 1373
 CIVICUS_Monitor_country_entry: oman
@@ -236,31 +236,31 @@ ITU_letter_code: OMA
 population: 4829480
 PM20_geo_code: B33
 rural_population:
-- 560597
-- 585672
-- 623536
-- 670025
+  - 560597
+  - 585672
+  - 623536
+  - 670025
 inception: "1970-07-23"
 has_time_started: "1970-07-23"
 ISO_3166_1_alpha_3_code: OMN
 female_population:
-- 1678067
-- 1722614
-- 1758703
-- 1790804
+  - 1678067
+  - 1722614
+  - 1758703
+  - 1790804
 Commons_category: Oman
 subreddit: Oman
 hashtag: Oman
 male_population:
-- 2761768
-- 2785494
-- 2820785
-- 2924701
+  - 2761768
+  - 2785494
+  - 2820785
+  - 2924701
 urban_population:
-- 3919863
-- 3932743
-- 3934799
-- 4015701
+  - 3919863
+  - 3932743
+  - 3934799
+  - 4015701
 coordinates_of_northernmost_point: "Point(56.38 26.38)"
 ISO_3166_1_alpha_2_code: OM
 WIPO_ST_3: OM
@@ -282,11 +282,11 @@ country_calling_code: +968
 Dewey_Decimal_Classification: 2--5353
 has_id_wikidata: Q842
 location:
-- 23.48
-- 58.55
+    - 23.48
+    - 58.55
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26989
 isDeleted: false
 confidential: public
@@ -303,18 +303,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Oman
-- Omán
-- عمان
-- 阿曼
-- Оман
+    - Oman
+    - Omán
+    - عمان
+    - 阿曼
+    - Оман
 - "the Sultanate of Oman"
 - "la Sultanía de Omán"
 Languages:
-- ar-OM
-- en
-- bal
-- ur
+    - ar-OM
+    - en
+    - bal
+    - ur
 icon: flag-om
 ---
 

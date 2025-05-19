@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Latin
@@ -37,9 +37,9 @@ has_grammatical_case:
 - "[[_Standards/WikiData/WD~vocative_case,185077]]"
 - "[[_Standards/WikiData/WD~locative_case,202142]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 - "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
 - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
 has_tense:
@@ -60,7 +60,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 studied_in:

@@ -97,7 +97,7 @@ sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 cause_of_death: "[[_Standards/WikiData/WD~single-vehicle_accident,7523802]]"
 family_name: "[[_Standards/WikiData/WD~Camus,16865336]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
   - "[[_Standards/WikiData/WD~Medvik,99413897]]"

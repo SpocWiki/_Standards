@@ -1,4 +1,4 @@
-﻿---
+---
 icon: atom_symbol
 has_id_wikidata: Q11344
 Krugosvet_article:
@@ -12,7 +12,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
 - '[[_Standards/WikiData/WD~elemental,1786347]]'

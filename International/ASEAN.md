@@ -9,11 +9,11 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Associati
 official_website: "https://asean.org"
 email_address: "mailto:public@asean.org"
 phone_number:
-- +62-21-7243372
-- +62-21-7262991
+  - +62-21-7243372
+  - +62-21-7262991
 fax_number:
-- +62-21-7243504
-- +62-21-7398234
+  - +62-21-7243504
+  - +62-21-7398234
 Instagram_username: asean
 EU_Corporate_body_code: ASEAN
 X_Twitter_username: ASEAN
@@ -21,14 +21,14 @@ Facebook_username: aseansecretariat
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/ASSOTSIATSIYA_STRAN_YUGO-VOSTOCHNO_AZII_ASEAN.html
 street_address: "70A Jalan Sisingamangaraja, Jakarta 12110"
 short_name:
-- ASEAN
-- អាស៊ាន
-- ອາຊຽນ
-- အာစီယံ
-- ஆசியான்
-- 東盟
-- 亚细安
-- ANASO
+  - ASEAN
+  - អាស៊ាន
+  - ອາຊຽນ
+  - အာစီယံ
+  - ஆசியான்
+  - 東盟
+  - 亚细安
+  - ANASO
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_the_Association_of_Southeast_Asian_Nations,128544]]"
 instance_of:
 - '[[_Standards/WikiData/WD~confederation,170156]]'
@@ -95,8 +95,8 @@ headquarters_location: "[[_Standards/WikiData/WD~South_Jakarta,10114]]"
 operating_area: "[[_Standards/WikiData/WD~Southeast_Asia,11708]]"
 member_count: 10
 social_media_followers:
-- 19800
-- 162581
+  - 19800
+  - 162581
 Commons_category: "Association of Southeast Asian Nations"
 ---
 

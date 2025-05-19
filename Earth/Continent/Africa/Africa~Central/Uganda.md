@@ -220,7 +220,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sabiny,56445]]'
 - '[[_Standards/WikiData/WD~Alur,56507]]'
 - '[[_Standards/WikiData/WD~Aringa,56556]]'
-- "[[_Standards/WikiData/WD~Ma'di,56670]]"
+  - "[[_Standards/WikiData/WD~Ma'di,56670]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'
@@ -250,41 +250,41 @@ has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Robinah_Nabbanja,62481397]]"
 UMLS_CUI: C0041573
 demonym:
-- أوݣاندي
-- أوݣانديات
-- أوݣاندية
-- أوݣانديين
-- Ugandach
-- Ugandčan
-- Ugandčanka
-- أوغندي
-- أوغندية
-- أوغنديون
-- ugandés
-- ugandesa
-- উগান্ডীয়
-- Ugandan
-- Ugandano
-- Ougandais
-- Ougandaise
-- אוגנדי
-- אוגנדית
-- ugandai
-- Ugandano
-- ugandese
-- ugandesi
-- ugandan
-- ugander
-- Oegandees
-- ugandar
-- ugandez
-- ugandeză
-- ugandezi
-- ugandeza
-- ugandeze
-- ugandezi
-- ugandezo
-- Lugandayänan
+  - أوݣاندي
+  - أوݣانديات
+  - أوݣاندية
+  - أوݣانديين
+  - Ugandach
+  - Ugandčan
+  - Ugandčanka
+  - أوغندي
+  - أوغندية
+  - أوغنديون
+  - ugandés
+  - ugandesa
+  - উগান্ডীয়
+  - Ugandan
+  - Ugandano
+  - Ougandais
+  - Ougandaise
+  - אוגנדי
+  - אוגנדית
+  - ugandai
+  - Ugandano
+  - ugandese
+  - ugandesi
+  - ugandan
+  - ugander
+  - Oegandees
+  - ugandar
+  - ugandez
+  - ugandeză
+  - ugandezi
+  - ugandeza
+  - ugandeze
+  - ugandezi
+  - ugandezo
+  - Lugandayänan
 ISNI: 0000000122991309
 motto_text:
 - "Tros Dduw a Fy Ngwlad"
@@ -294,8 +294,8 @@ motto_text:
 coordinate_location: "Point(32.39 1.28)"
 coordinates_of_northernmost_point: "Point(34.0 4.22)"
 nominal_GDP:
-- 45559202049
-- 40510241366
+  - 45559202049
+  - 40510241366
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
@@ -332,15 +332,15 @@ marriageable_age: 18
 VAT_rate: 18
 mains_voltage: 240
 BTI_Governance_Index:
-- 5.7
-- 4.89
-- 5.14
-- 5.31
-- 5.33
-- 5.77
-- 5.82
-- 5.86
-- 6.07
+  - 5.7
+  - 4.89
+  - 5.14
+  - 5.31
+  - 5.33
+  - 5.77
+  - 5.82
+  - 5.86
+  - 6.07
 water_as_percent_of_area: 18.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ug,43122]]'
 Inequality_adjusted_Human_Development_Index: 0.396
@@ -348,22 +348,22 @@ Gini_coefficient: 42.7
 Happy_Planet_Index_score: 44.8
 Democracy_Index: 4.94
 BTI_Status_Index:
-- 5.14
-- 5.42
-- 5.54
-- 5.66
-- 6.19
-- 6.24
-- 6.27
-- 6.34
+  - 5.14
+  - 5.42
+  - 5.54
+  - 5.66
+  - 6.19
+  - 6.24
+  - 6.27
+  - 6.34
 Human_Development_Index: 0.525
 basic_form_of_government: "[[_Standards/WikiData/WD~presidential_system,49892]]"
 head_of_state: "[[_Standards/WikiData/WD~Yoweri_Museveni,57274]]"
 death_rate:
-- 5.579
-- 5.823
-- 5.852
-- 5.877
+  - 5.579
+  - 5.823
+  - 5.852
+  - 5.877
 total_fertility_rate: 5.775
 M49_code: 800
 ISO_3166_1_numeric_code: 800
@@ -371,10 +371,10 @@ maritime_identification_digits: 675
 IAB_code: 1466
 mobile_country_code: 641
 birth_rate:
-- 36.215
-- 36.795
-- 37.252
-- 37.667
+  - 36.215
+  - 36.795
+  - 37.252
+  - 37.667
 OmegaWiki_Defined_Meaning: 7799
 life_expectancy: 59.889
 FIPS_10_4_countries_and_regions_: UG
@@ -396,30 +396,30 @@ native_label:
 - "Republic of Uganda"
 - "Jamhuri ya Uganda"
 official_name:
-- Ouganda
-- Uganda
-- Uganda
+  - Ouganda
+  - Uganda
+  - Uganda
 short_name: "\U0001F1FA\U0001F1EC"
 urban_population:
-- 12360019
-- 10462825
-- 11080727
-- 11717016
+  - 12360019
+  - 10462825
+  - 11080727
+  - 11717016
 male_population:
-- 21241606
-- 22700638
-- 23401332
-- 21973090
+  - 21241606
+  - 22700638
+  - 23401332
+  - 21973090
 female_population:
-- 21707475
-- 23848253
-- 22431520
-- 23153140
+  - 21707475
+  - 23848253
+  - 22431520
+  - 23153140
 rural_population:
-- 32486255
-- 33323884
-- 34136762
-- 34889566
+  - 32486255
+  - 33323884
+  - 34136762
+  - 34889566
 population: 47123531
 hashtag: Uganda
 Commons_category: Uganda

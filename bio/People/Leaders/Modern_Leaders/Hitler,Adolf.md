@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Adolf Hitler"
 has_id_wikidata: Q35236
@@ -12,7 +12,7 @@ occupation:
 - '[[_Standards/WikiData/WD~businessperson,43845]]'
 residence:
 - '[[_Standards/WikiData/WD~Stanford,173813]]'
-- "[[_Standards/WikiData/WD~Hoover–Minthorn_House,5898849]]"
+- "[[_Standards/WikiData/WD~Hoover_Minthorn_House,5898849]]"
 cause_of_death:
 - "[[_Standards/WikiData/WD~colorectal_cancer,188874]]"
 - "[[_Standards/WikiData/WD~internal_bleeding,2361887]]"

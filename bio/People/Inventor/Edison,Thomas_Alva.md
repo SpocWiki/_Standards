@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Thomas Edison"
 - "Thomas Alva Edison"
@@ -53,9 +53,9 @@ described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950–1958),20968284]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Q84648295,84648295]]'

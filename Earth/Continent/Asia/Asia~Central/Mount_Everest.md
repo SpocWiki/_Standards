@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q513
 peak_bagging_classification: '[[_Standards/WikiData/WD~eight-thousander,185552]]'
 part_of:
@@ -32,7 +32,7 @@ has_part_s_:
 - "[[_Standards/WikiData/WD~Southwest_Face,104176172]]"
 located_in_protected_area: "[[_Standards/WikiData/WD~Sagarmatha_National_Park,2211959]]"
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~China–Nepal_border,3089177]]"
+- "[[_Standards/WikiData/WD~China_Nepal_border,3089177]]"
 - '[[_Standards/WikiData/WD~Himalayas,5451]]'
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~death_zone,6171655]]"
 has_list:

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Andy Warhol"
 - "Andrew Warhola Jr"
@@ -202,13 +202,13 @@ mother: "[[_Standards/WikiData/WD~Julia_Warhola,16068019]]"
 given_name: '[[_Standards/WikiData/WD~Andrew,18042461]]'
 owner_of:
 - "[[_Standards/WikiData/WD~Miss_Bentham,19289128]]"
-- "[[_Standards/WikiData/WD~The_Warhol’s_Collection,110147330]]"
+- "[[_Standards/WikiData/WD~The_Warhol_s_Collection,110147330]]"
 father: "[[_Standards/WikiData/WD~Andrej_Warhola,19329824]]"
 documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~Wiki_Loves_Pride_Art_&_Artists,64214265]]"
 - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_—_Smithsonian_Libraries_—_Artists_Files,105757729]]"
+- "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot___Smithsonian_Libraries___Artists_Files,105757729]]"
 - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
 participant_in: "[[_Standards/WikiData/WD~De_Calder_à_Koons,_Bijoux_d'Artistes,_La_Collection_Idéale_de_Diane_Venet,98783111]]"

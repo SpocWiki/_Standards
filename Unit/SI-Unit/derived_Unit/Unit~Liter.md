@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Litre
 has_id_wikidata: Q11582
@@ -11,9 +11,9 @@ said_to_be_the_same_as:
 - "[[_Standards/WikiData/WD~cubic_decimetre,2175964]]"
 - '[[_Standards/WikiData/WD~Maß,48680]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
 different_from: '[[_Standards/WikiData/WD~Litre,59279570]]'
 conversion_to_standard_unit:
 - 1000

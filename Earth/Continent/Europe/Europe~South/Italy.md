@@ -3,12 +3,12 @@ title: Italy
 linkTitle: 
 type: Country
 location:
-- 43.4809
-- 11.8169
+  - 43.4809
+  - 11.8169
 has_id_wikidata: Q38
 SpocWebEntityId: 26930
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: "CC BY-SA 4.0"
@@ -22,22 +22,22 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Italy
-- Italia
-- Italie
-- إيطاليا
-- 意大利
-- Италия
+  - Italy
+  - Italia
+  - Italie
+  - إيطاليا
+  - 意大利
+  - Италия
 - "the Republic of Italy"
 - "la República Italiana"
 Languages:
-- it-IT
-- de-IT
-- fr-IT
-- sc
-- ca
-- co
-- sl
+  - it-IT
+  - de-IT
+  - fr-IT
+  - sc
+  - ca
+  - co
+  - sl
 icon: flag-it
 located_in_on_physical_feature:
 - "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
@@ -340,14 +340,14 @@ anthem: "[[_Standards/WikiData/WD~Il_Canto_degli_Italiani,187]]"
 capital: '[[_Standards/WikiData/WD~Rome,220]]'
 compulsory_education_minimum_age_: 6
 birth_rate:
-- 7
-- 6.7
-- 6.8
+  - 7
+  - 6.7
+  - 6.8
 total_fertility_rate: 1.2
 compulsory_education_maximum_age_: 16
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 18
 VAT_rate: 22
 mains_voltage: 230
@@ -355,10 +355,10 @@ voltage: 230
 suicide_rate: 4.3
 unemployment_rate: 8.1
 death_rate:
-- 10.6
-- 11.9
-- 12.1
-- 12.5
+  - 10.6
+  - 11.9
+  - 12.1
+  - 12.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.it,39155]]'
 flag: "[[_Standards/WikiData/WD~flag_of_Italy,42876]]"
 Gini_coefficient: 35.2
@@ -394,64 +394,64 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Italy,97013442]]"
 different_from: '[[_Standards/WikiData/WD~Italia,121691254]]'
 coordinates_of_westernmost_point: "Point(6.62677288 45.10336498)"
 demonym:
-- طاليانية
-- طالياني
-- طاليانيين
-- طاليانيات
-- Italijan
-- Italijanka
-- Iodálach
-- Italian
-- Italien
-- Włoszka
-- Włoch
-- Italienne
-- إيطالي
-- إيطالية
-- إِيطَالِيُّونَ
-- italiana
-- italianu
-- ইতালীয়
-- Italiener
-- italo
-- italialainen
-- איטלקי
-- איטלקייה
-- olasz
-- Italiano
-- italiana
-- italiane
-- italiani
-- italiano
-- Aṭelyan
-- Iṭelyanen
-- Taṭelyant
-- Tiṭelyanin
-- Italiener
-- Italienerin
-- italian
-- Italiaan
-- italian
-- italiancă
-- italieni
-- итальянец
-- итальянка
-- итальянцы
-- italiensk
-- італієць
-- італійка
-- італійці
-- italian
-- italiana
-- italiane
-- italiani
-- Itałiani
-- Litaliyänan
+  - طاليانية
+  - طالياني
+  - طاليانيين
+  - طاليانيات
+  - Italijan
+  - Italijanka
+  - Iodálach
+  - Italian
+  - Italien
+  - Włoszka
+  - Włoch
+  - Italienne
+  - إيطالي
+  - إيطالية
+  - إِيطَالِيُّونَ
+  - italiana
+  - italianu
+  - ইতালীয়
+  - Italiener
+  - italo
+  - italialainen
+  - איטלקי
+  - איטלקייה
+  - olasz
+  - Italiano
+  - italiana
+  - italiane
+  - italiani
+  - italiano
+  - Aṭelyan
+  - Iṭelyanen
+  - Taṭelyant
+  - Tiṭelyanin
+  - Italiener
+  - Italienerin
+  - italian
+  - Italiaan
+  - italian
+  - italiancă
+  - italieni
+  - итальянец
+  - итальянка
+  - итальянцы
+  - italiensk
+  - італієць
+  - італійка
+  - італійці
+  - italian
+  - italiana
+  - italiane
+  - italiani
+  - Itałiani
+  - Litaliyänan
 Baidu_Tieba_name: 意大利
 Provenio_UUID:
-- e824464b-e885-4cbc-99eb-a52c65e06943
-- 799e6ae0-961c-4472-a891-3b305bd5f798
-- 933edcbc-d695-4e05-b090-a2e39ed96e3f
+  - e824464b-e885-4cbc-99eb-a52c65e06943
+  - 799e6ae0-961c-4472-a891-3b305bd5f798
+  - 933edcbc-d695-4e05-b090-a2e39ed96e3f
 UMLS_CUI: C0036232
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BB%D5%BF%D5%A1%D5%AC%D5%AB%D5%A1%20%28Italy%29.ogg"
 exact_match: "https://w3id.org/italia/controlled-vocabulary/territorial-classifications/countries/italy/ITA"
@@ -465,8 +465,8 @@ pronunciation_audio:
 ISNI: 0000000121869395
 official_website: "https://www.italia.it/"
 nominal_GDP:
-- 2010431598465
-- 2114355756914
+  - 2010431598465
+  - 2114355756914
 MeSH_tree_code: Z01.542.489
 Gregorian_calendar_start_date: "1582-10-15"
 IAB_code: 1326
@@ -489,10 +489,10 @@ social_media_followers: 559808
 number_of_deaths: 713499
 life_expectancy: 82.5439
 native_label:
-- Italia
+  - Italia
 - "Repubblica Italiana"
 official_name:
-- Italia
+  - Italia
 - "Repubblica Italiana"
 Image_Archive_Herder_Institute: Q38
 FIPS_10_4_countries_and_regions_: IT
@@ -500,23 +500,23 @@ NUTS_code: IT
 WIPO_ST_3: IT
 ISO_3166_1_alpha_2_code: IT
 ISBN_identifier_group:
-- 978-88
-- 979-12
+  - 978-88
+  - 979-12
 male_population:
-- 28741550
-- 28821030
-- 28957843
-- 29090818
+  - 28741550
+  - 28821030
+  - 28957843
+  - 29090818
 GS1_country_code: 800-839
 PM20_geo_code: A35
 urban_population:
-- 42234940
-- 42189154
-- 42224765
-- 42249963
+  - 42234940
+  - 42189154
+  - 42224765
+  - 42249963
 hashtag:
-- Italy
-- italy
+  - Italy
+  - italy
 Dreadnought_Project_page: Italy
 Commons_category: Italy
 coordinates_of_northernmost_point: "Point(12.18 47.1)"
@@ -530,8 +530,8 @@ U_S_National_Archives_Identifier:
 - 10041770
 Dewey_Decimal_Classification: 2--45
 BHCL_UUID:
-- 37872850-d9da-4cc4-b1dd-0f54053e8a1e
-- eced42c8-d06d-4ea3-b038-50674f687336
+  - 37872850-d9da-4cc4-b1dd-0f54053e8a1e
+  - eced42c8-d06d-4ea3-b038-50674f687336
 Unicode_character: 🇮🇹 
 Commons_gallery: Italia
 CIVICUS_Monitor_country_entry: italy
@@ -543,18 +543,18 @@ Krugosvet_article: strany_mira/ITALIYA.html
 Gujarati_Vishwakosh_entry: ઇટાલી
 short_name: "\U0001F1EE\U0001F1F9"
 rural_population:
-- 16705485
-- 16944019
-- 17214086
-- 17479118
+  - 16705485
+  - 16944019
+  - 17214086
+  - 17479118
 coordinate_location: "Point(12.5 42.5)"
 inception: "1946-06-18"
 has_time_started: "1946-06-18"
 female_population:
-- 30198875
-- 30312143
-- 30481007
-- 30638263
+  - 30198875
+  - 30312143
+  - 30481007
+  - 30638263
 coordinates_of_southernmost_point: "Point(15.07981896 36.64674684)"
 population: 58850717
 ---

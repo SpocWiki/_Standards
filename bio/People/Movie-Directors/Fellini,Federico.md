@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Federico Fellini"
 has_id_wikidata: Q7371
@@ -17,7 +17,7 @@ influenced_by:
 - "[[_Standards/WikiData/WD~Charlie_Chaplin,882]]"
 - "[[_Standards/WikiData/WD~Pablo_Picasso,5593]]"
 notable_work:
-- '[[_Standards/WikiData/WD~8½,12018]]'
+- '[[_Standards/WikiData/WD~8_,12018]]'
 - "[[_Standards/WikiData/WD~I_Vitelloni,18399]]"
 - "[[_Standards/WikiData/WD~La_Strada,18402]]"
 - "[[_Standards/WikiData/WD~La_Dolce_Vita,18407]]"
@@ -84,7 +84,7 @@ maintained_by_WikiProject:
 - "[[_Standards/WikiData/WD~WikiProject_Actors_and_Filmmakers,15920721]]"
 list_of_works: "[[_Standards/WikiData/WD~Federico_Fellini_bibliography,16152664]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
 given_name: '[[_Standards/WikiData/WD~Federico,17539144]]'

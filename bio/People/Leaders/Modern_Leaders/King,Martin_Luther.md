@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Martin Luther King, Jr."
 - "Michael King Jr."
@@ -115,7 +115,7 @@ topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Martin_Luther_King_Jr.,14407248]]"
 - "[[_Standards/WikiData/WD~Template_Martin_Luther_King_Jr._sidebar,25976273]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 date_of_death: "1968-04-04"
 Commons_gallery: "Martin Luther King, Jr."

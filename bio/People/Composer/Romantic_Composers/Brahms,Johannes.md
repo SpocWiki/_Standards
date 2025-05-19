@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Johannes Brahms"
 has_id_wikidata: Q7294
@@ -51,7 +51,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

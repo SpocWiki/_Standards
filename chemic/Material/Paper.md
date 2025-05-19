@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11472
 hashtag:
 - Papier
@@ -27,7 +27,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_paper,1811550]]"
 subclass_of: "[[_Standards/WikiData/WD~manufactured_product,3406743]]"
 studied_in: "[[_Standards/WikiData/WD~paper_studies,7132695]]"

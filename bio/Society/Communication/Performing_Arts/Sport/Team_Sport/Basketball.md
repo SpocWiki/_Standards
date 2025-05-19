@@ -35,10 +35,10 @@ Library_of_Congress_Classification: GV882-GV889.23
 MeSH_tree_code: I03.450.642.845.117
 country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
 duration:
-- 40
-- 12
-- 32
-- 56
+  - 40
+  - 12
+  - 32
+  - 56
 maximum_number_of_players: 5
 authority: "[[_Standards/WikiData/WD~International_Basketball_Federation,46199]]"
 IAB_code: 547

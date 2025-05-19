@@ -1,10 +1,10 @@
 ---
 location:
-- 43.87
-- 18.43
+  - 43.87
+  - 18.43
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 icon: flag-ba
 has_id_wikidata: Q225
 Libris_URI: pm1358x74smx2mv
@@ -12,67 +12,67 @@ Colon_Classification: SG--592242
 Krugosvet_article: strany_mira/BOSNIYA_I_GERTSEGOVINA.html
 MeSH_tree_code: Z01.542.248.160
 demonym:
-- bosnia
-- bosniu
-- bosnier
-- hercegoviner
-- Herzegovinian
-- Bosnihercegovinano
-- bosnia
-- Bosnienne
-- bosznia-hercegovinai
-- bosniaca
-- bosniache
-- bosniaci
-- боснієць
-- боснійка
-- герцеговинець
-- герцеговинка
-- герцеговинці
-- bosnìaga
-- bosnìaghe
-- bosnìaghi
-- بوصني
-- hersegovasce
-- Bosanac
-- bosnio
-- боснийцы
-- Bosnier
-- боснійці
-- bosniac
-- bosniacă
-- bosniaci
-- босниец
-- боснийка
-- Bosnian
-- Bosnien
-- বসনীয়
-- bosniaco
-- bosnian
-- bosnìago
-- Boisniach
-- Hercegovac
-- بوصنية
-- بوصنيين
-- بوصنيات
+  - bosnia
+  - bosniu
+  - bosnier
+  - hercegoviner
+  - Herzegovinian
+  - Bosnihercegovinano
+  - bosnia
+  - Bosnienne
+  - bosznia-hercegovinai
+  - bosniaca
+  - bosniache
+  - bosniaci
+  - боснієць
+  - боснійка
+  - герцеговинець
+  - герцеговинка
+  - герцеговинці
+  - bosnìaga
+  - bosnìaghe
+  - bosnìaghi
+  - بوصني
+  - hersegovasce
+  - Bosanac
+  - bosnio
+  - боснийцы
+  - Bosnier
+  - боснійці
+  - bosniac
+  - bosniacă
+  - bosniaci
+  - босниец
+  - боснийка
+  - Bosnian
+  - Bosnien
+  - বসনীয়
+  - bosniaco
+  - bosnian
+  - bosnìago
+  - Boisniach
+  - Hercegovac
+  - بوصنية
+  - بوصنيين
+  - بوصنيات
 - "Bosanci in Hercegovci"
 - "Bosanke in Hercegovke"
 short_name:
-- БіГ
-- BiH
-- BiH
-- БиХ
-- BiH
-- БваҲ
-- Бүснә-Һәрсәк
-- 波黑
-- 波黑
-- 波赫
+  - БіГ
+  - BiH
+  - BiH
+  - БиХ
+  - BiH
+  - БваҲ
+  - Бүснә-Һәрсәк
+  - 波黑
+  - 波黑
+  - 波赫
 - "\U0001F1E7\U0001F1E6"
-- BH
-- B&H
-- БиХ
-- BiH
+  - BH
+  - B&H
+  - БиХ
+  - BiH
 motto_text:
 - "The heart shaped land"
 - "Gwlad siap calon"
@@ -127,8 +127,8 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Bosnia_and_Herzegovina,970
 UMLS_CUI: C0006036
 coordinates_of_northernmost_point: "Point(16.93 45.28)"
 nominal_GDP:
-- 23649566069
-- 24527507288
+  - 23649566069
+  - 24527507288
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Romania,218]]'
 - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
@@ -161,26 +161,26 @@ shares_border_with:
 - "[[_Standards/WikiData/WD~European_Union,458]]"
 country: "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
 suicide_rate:
-- 8
-- 8.8
-- 8.9
-- 9.3
-- 10.7
+  - 8
+  - 8.8
+  - 8.9
+  - 9.3
+  - 10.7
 VAT_rate: 17
 age_of_majority: 18
 mains_voltage: 230
 unemployment_rate: 28
 Gini_coefficient: 33
 BTI_Governance_Index:
-- 3.8
-- 4.1
-- 3.78
-- 3.95
-- 4.04
-- 4.09
-- 4.49
-- 4.61
-- 4.71
+  - 3.8
+  - 4.1
+  - 3.78
+  - 3.95
+  - 4.04
+  - 4.09
+  - 4.49
+  - 4.61
+  - 4.71
 retirement_age: 65
 Human_Development_Index: 0.78
 literacy_rate: 97
@@ -195,31 +195,31 @@ UIC_numerical_country_code:
 - 50
 - 49
 BTI_Status_Index:
-- 5.93
-- 6.11
-- 6.28
-- 6.37
-- 6.38
-- 6.41
-- 6.43
-- 6.51
-- 6.61
+  - 5.93
+  - 6.11
+  - 6.28
+  - 6.37
+  - 6.38
+  - 6.41
+  - 6.43
+  - 6.51
+  - 6.61
 Inequality_adjusted_Human_Development_Index: 0.677
 birth_rate:
-- 8.42
-- 8.278
-- 8.611
-- 8.819
+  - 8.42
+  - 8.278
+  - 8.611
+  - 8.819
 total_fertility_rate: 1.263
 maritime_identification_digits: 478
 WIPO_ST_3: BA
 ISO_3166_1_alpha_2_code: BA
 GS1_country_code: 387
 death_rate:
-- 12.266
-- 14.094
-- 15.712
-- 15.865
+  - 12.266
+  - 14.094
+  - 15.712
+  - 15.865
 FIPS_10_4_countries_and_regions_: BK
 IAB_code: 1257
 social_media_followers: 48693
@@ -237,25 +237,25 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosn
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bosnia%20and%20Herzegovina.svg"
 INSEE_countries_and_foreign_territories_code: 99118
 male_population:
-- 1591814
-- 1610168
-- 1632854
-- 1652504
+  - 1591814
+  - 1610168
+  - 1632854
+  - 1652504
 urban_population:
-- 1611622
-- 1616664
-- 1626683
-- 1634179
+  - 1611622
+  - 1616664
+  - 1626683
+  - 1634179
 rural_population:
-- 1621904
-- 1654279
-- 1691724
-- 1726532
+  - 1621904
+  - 1654279
+  - 1691724
+  - 1726532
 female_population:
-- 1641713
-- 1660775
-- 1685553
-- 1708207
+  - 1641713
+  - 1660775
+  - 1685553
+  - 1708207
 U_S_National_Archives_Identifier: 10045294
 OmegaWiki_Defined_Meaning: 355222
 population: 3816459

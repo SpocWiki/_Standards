@@ -1,11 +1,11 @@
-﻿---
+---
 has_id_wikidata: Q12184
 subclass_of:
 - "[[_Standards/WikiData/WD~systemic_risk,1369234]]"
 - "[[_Standards/WikiData/WD~external_risk,5422048]]"
 - '[[_Standards/WikiData/WD~epidemic,44512]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"

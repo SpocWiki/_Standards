@@ -1,10 +1,10 @@
 ---
 location:
-- -8.56667
-- 125.567
+  - -8.56667
+  - 125.567
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q574
 SpocWebEntityId: 27038
 isDeleted: false
@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Timor-Leste
 linkTitle: 
@@ -23,19 +23,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Timor-Leste
+  - Timor-Leste
 - "تيمور- ليشتي"
-- 东帝汶
-- Тимор-Лешти
+  - 东帝汶
+  - Тимор-Лешти
 - "the Democratic Republic of Timor-Leste"
 - "la República Democrática de Timor-Leste"
-- Osttimor
+  - Osttimor
 - "East Timor"
 Languages:
-- tet
-- pt-TL
-- id
-- en
+  - tet
+  - pt-TL
+  - id
+  - en
 coordinate_location: "Point(125.75 -8.966667)"
 shares_border_with:
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -97,7 +97,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Makalero,35729]]'
 - '[[_Standards/WikiData/WD~Mambai,35774]]'
 - '[[_Standards/WikiData/WD~Makasae,35782]]'
-- "[[_Standards/WikiData/WD~Makuv'a,35790]]"
+  - "[[_Standards/WikiData/WD~Makuv'a,35790]]"
 - '[[_Standards/WikiData/WD~Tocodede,36863]]'
 - '[[_Standards/WikiData/WD~Habun,1567033]]'
 - '[[_Standards/WikiData/WD~Adabe,3327339]]'
@@ -135,12 +135,12 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.tl,43153]]'
 total_fertility_rate: 3.98
 maritime_identification_digits: 550
 BTI_Governance_Index:
-- 5.78
-- 5.93
+  - 5.78
+  - 5.93
 Human_Development_Index: 0.607
 BTI_Status_Index:
-- 6.09
-- 6.15
+  - 6.09
+  - 6.15
 Democracy_Index: 7.06
 death_rate: 6.535
 mobile_country_code: 514
@@ -160,10 +160,10 @@ WIPO_ST_3: TL
 licence_plate_code: TL
 ISO_3166_1_alpha_2_code: TL
 urban_population:
-- 396257
-- 407158
-- 418673
-- 430207
+  - 396257
+  - 407158
+  - 418673
+  - 430207
 lowest_point: "[[_Standards/WikiData/WD~Timor_Sea,131418]]"
 replaces:
 - "[[_Standards/WikiData/WD~Portuguese_Timor,142965]]"
@@ -209,45 +209,45 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 UMLS_CUI: C1452561
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/East%20Timor%20location%20map%202003-2015.svg"
 demonym:
-- تيموري
-- تيمورية
-- تيموريين
-- تيموريات
-- timorense
-- تيموري
-- تيمورية
-- تيموريون
-- timorés
-- timoresa
-- তিমুরি
-- østtimorer
-- Osttimoraner
-- Osttimoranerin
-- Osttimorese
+  - تيموري
+  - تيمورية
+  - تيموريين
+  - تيموريات
+  - timorense
+  - تيموري
+  - تيمورية
+  - تيموريون
+  - timorés
+  - timoresa
+  - তিমুরি
+  - østtimorer
+  - Osttimoraner
+  - Osttimoranerin
+  - Osttimorese
 - "East Timorese"
-- Orient-Timorano
-- Timorais
-- Timoraise
-- מזרח-טימורי
-- מזרח-טימורית
-- kelet-timori
-- est-timorese
-- est-timoresi
-- est-timoreza
-- est-timoreze
-- est-timorezi
-- est-timorezo
+  - Orient-Timorano
+  - Timorais
+  - Timoraise
+  - מזרח-טימורי
+  - מזרח-טימורית
+  - kelet-timori
+  - est-timorese
+  - est-timoresi
+  - est-timoreza
+  - est-timoreze
+  - est-timorezi
+  - est-timorezo
 coordinates_of_westernmost_point: "Point(124.04173849 -9.34005816)"
 nominal_GDP:
-- 3163324631
-- 3621222400
+  - 3163324631
+  - 3621222400
 Unicode_character: 🇹🇱 
 ISO_3166_3: TPTL
 MeSH_tree_code: Z01.252.145.900
 official_name:
 - "République démocratique du Timor oriental"
-- Timor-Leste
-- Timor-Leste
+  - Timor-Leste
+  - Timor-Leste
 native_label:
 - "República Democrática de Timor-Leste"
 - "Repúblika Demokrátika Timor-Leste"
@@ -256,20 +256,20 @@ short_name: "\U0001F1F9\U0001F1F1"
 coordinates_of_northernmost_point: "Point(125.63 -8.13)"
 coordinates_of_southernmost_point: "Point(124.28707346 -9.50418829)"
 female_population:
-- 627425
-- 637023
-- 647343
-- 657338
+  - 627425
+  - 637023
+  - 647343
+  - 657338
 male_population:
-- 653013
-- 662972
-- 673598
-- 683957
+  - 653013
+  - 662972
+  - 673598
+  - 683957
 rural_population:
-- 884181
-- 892837
-- 902269
-- 911089
+  - 884181
+  - 892837
+  - 902269
+  - 911089
 population: 1243235
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
 area: 14918.72

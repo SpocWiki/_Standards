@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Marilyn Monroe"
 - "Norma Jeane Mortenson"
@@ -48,7 +48,7 @@ named_after:
 - "[[_Standards/WikiData/WD~Gladys_Monroe,96200519]]"
 place_of_death: '[[_Standards/WikiData/WD~Brentwood,909975]]'
 award_received:
-- "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_–_Musical_or_Comedy,1011564]]"
+- "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture___Musical_or_Comedy,1011564]]"
 - "[[_Standards/WikiData/WD~Henrietta_Award,1534911]]"
 - "[[_Standards/WikiData/WD~Targa_d'Oro,16612253]]"
 - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Speed of light"
 has_id_wikidata: Q2111
@@ -25,9 +25,9 @@ maintained_by_WikiProject:
 - "[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]"
 different_from: "[[_Standards/WikiData/WD~speed_of_light_in_a_medium,9092845]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~IEC_80000-6_2008_Quantities_and_units—Part_6__Electromagnetism,26711936]]"
-- "[[_Standards/WikiData/WD~ISO_80000-7_2008_Quantities_and_units—Part_7__Light,26711937]]"
-- "[[_Standards/WikiData/WD~IEC_80000-6_2022_Quantities_and_units_—_Part_6__Electromagnetism,117847945]]"
+- "[[_Standards/WikiData/WD~IEC_80000-6_2008_Quantities_and_units_Part_6__Electromagnetism,26711936]]"
+- "[[_Standards/WikiData/WD~ISO_80000-7_2008_Quantities_and_units_Part_7__Light,26711937]]"
+- "[[_Standards/WikiData/WD~IEC_80000-6_2022_Quantities_and_units___Part_6__Electromagnetism,117847945]]"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Es-Velocidad%20de%20la%20luz-article-part1.ogg"
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Fizeau.ogv"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%B0%20%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%97.wav"

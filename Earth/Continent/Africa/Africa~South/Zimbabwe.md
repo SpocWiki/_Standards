@@ -14,7 +14,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]"
@@ -113,47 +113,47 @@ coordinates_of_westernmost_point: "Point(25.23728 -17.90943)"
 coordinates_of_southernmost_point: "Point(31.3093 -22.4208)"
 UMLS_CUI: C0043476
 demonym:
-- زيمبابوية
-- زيمبابويين
-- زيمبابويات
-- Zimbabvejec
-- Zimbabvejka
-- Siombábach
-- Zimbabwean
-- Zimbabweans
-- zimbabwei
-- Zimbabweano
-- zimbabwesi
-- zimbabuean
-- zimbabwian
-- zimbabwiană
-- zimbabwieni
-- zinbaueza
-- zinbaueze
-- zinbauezi
-- zinbauezo
-- Zimbabiyänan
-- zimbabwese
-- زيمبابويون
-- زيمبابوي
-- زيمبابوية
-- زيمبابوي
-- zimbabuana
-- zimbabuanu
-- জিম্বাবুয়ীয়
-- zimbabuès
-- zimbabuesa
-- Simbabwaner
-- Simbabwanerin
-- Zimbabwéen
-- Zimbabwéenne
-- זימבבואי
-- זימבבואית
+  - زيمبابوية
+  - زيمبابويين
+  - زيمبابويات
+  - Zimbabvejec
+  - Zimbabvejka
+  - Siombábach
+  - Zimbabwean
+  - Zimbabweans
+  - zimbabwei
+  - Zimbabweano
+  - zimbabwesi
+  - zimbabuean
+  - zimbabwian
+  - zimbabwiană
+  - zimbabwieni
+  - zinbaueza
+  - zinbaueze
+  - zinbauezi
+  - zinbauezo
+  - Zimbabiyänan
+  - zimbabwese
+  - زيمبابويون
+  - زيمبابوي
+  - زيمبابوية
+  - زيمبابوي
+  - zimbabuana
+  - zimbabuanu
+  - জিম্বাবুয়ীয়
+  - zimbabuès
+  - zimbabuesa
+  - Simbabwaner
+  - Simbabwanerin
+  - Zimbabwéen
+  - Zimbabwéenne
+  - זימבבואי
+  - זימבבואית
 ISNI: 0000000122856828
 official_website: "https://www.zim.gov.zw/index.php/"
 nominal_GDP:
-- 28371238666
-- 20678055598
+  - 28371238666
+  - 20678055598
 coordinates_of_northernmost_point: "Point(29.82371 -15.61136)"
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
@@ -185,15 +185,15 @@ part_of:
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 water_as_percent_of_area: 1
 BTI_Governance_Index:
-- 2
-- 1.5
-- 1.85
-- 2.17
-- 2.37
-- 2.71
-- 2.72
-- 3.19
-- 3.21
+  - 2
+  - 1.5
+  - 1.85
+  - 2.17
+  - 2.37
+  - 2.71
+  - 2.72
+  - 3.19
+  - 3.21
 unemployment_rate: 5
 compulsory_education_minimum_age_: 6
 VAT_rate: 15
@@ -203,14 +203,14 @@ mains_voltage: 220
 literacy_rate: 89
 Happy_Planet_Index_score: 28.6
 BTI_Status_Index:
-- 3.01
-- 3.33
-- 3.38
-- 3.39
-- 3.57
-- 3.68
-- 3.83
-- 3.91
+  - 3.01
+  - 3.33
+  - 3.38
+  - 3.39
+  - 3.57
+  - 3.68
+  - 3.83
+  - 3.91
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.zw,42286]]'
 Democracy_Index: 3.16
 Inequality_adjusted_Human_Development_Index: 0.458
@@ -221,16 +221,16 @@ M49_code: 716
 ISO_3166_1_numeric_code: 716
 total_fertility_rate: 3.923
 death_rate:
-- 8.043
-- 8.132
-- 8.943
-- 9.057
+  - 8.043
+  - 8.132
+  - 8.943
+  - 9.057
 OmegaWiki_Defined_Meaning: 8526
 birth_rate:
-- 30.086
-- 30.537
-- 31.009
-- 31.518
+  - 30.086
+  - 30.537
+  - 31.009
+  - 31.518
 maritime_identification_digits: 679
 life_expectancy: 61.163
 IAB_code: 1477
@@ -245,32 +245,32 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Zimbabwe%20on%20the%20globe%20%28Africa%20centered%29.svg"
 area: 390757
 male_population:
-- 7385220
-- 7543690
-- 7231989
-- 7705601
+  - 7385220
+  - 7543690
+  - 7231989
+  - 7705601
 urban_population:
-- 4945719
-- 5052214
-- 5166388
-- 5287038
+  - 4945719
+  - 5052214
+  - 5166388
+  - 5287038
 U_S_National_Archives_Identifier: 10035795
 female_population:
-- 8122618
-- 8284447
-- 8449834
-- 8614935
+  - 8122618
+  - 8284447
+  - 8449834
+  - 8614935
 Commons_gallery: Zimbabwe
 subreddit:
-- Zimbabwe
-- rhodesia
+  - Zimbabwe
+  - rhodesia
 hashtag: Zimbabwe
 Commons_category: Zimbabwe
 rural_population:
-- 10408889
-- 10617452
-- 10827136
-- 11033499
+  - 10408889
+  - 10617452
+  - 10827136
+  - 11033499
 inception: "1980-04-18"
 has_time_started: "1980-04-18"
 Dewey_Decimal_Classification: 2--6891
@@ -281,8 +281,8 @@ WIPO_ST_3: ZW
 licence_plate_code: ZW
 ISO_3166_1_alpha_2_code: ZW
 official_name:
-- Zimbabwe
-- Zimbabwe
+  - Zimbabwe
+  - Zimbabwe
 - "République du Zimbabwe"
 population: 15178979
 IOC_country_code: ZIM

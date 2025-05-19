@@ -1,10 +1,10 @@
 ---
 location:
-- 23.7
-- 90.36
+  - 23.7
+  - 90.36
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q902
 SpocWebEntityId: 26843
 isDeleted: false
@@ -22,15 +22,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Bangladesh
-- بنغلاديش
-- 孟加拉国
-- Бангладеш
+  - Bangladesh
+  - بنغلاديش
+  - 孟加拉国
+  - Бангладеш
 - "the People's Republic of Bangladesh"
 - "la República Popular de Bangladesh"
 Languages:
-- bn-BD
-- en
+  - bn-BD
+  - en
 icon: flag-bd
 different_from: '[[_Standards/WikiData/WD~Bengal,80338]]'
 flag: "[[_Standards/WikiData/WD~flag_of_Bangladesh,127179]]"
@@ -41,7 +41,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,795985]]"
@@ -220,7 +220,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tippera,16115423]]'
 - '[[_Standards/WikiData/WD~Marma,21403256]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
-- "[[_Standards/WikiData/WD~A'Tong,5646]]"
+  - "[[_Standards/WikiData/WD~A'Tong,5646]]"
 - '[[_Standards/WikiData/WD~Bangla,9610]]'
 - '[[_Standards/WikiData/WD~Chakma,32952]]'
 - '[[_Standards/WikiData/WD~Chittagonian,33173]]'
@@ -250,7 +250,7 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bangladesh,3346963]]"
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.বাংলা,4545424]]'
+- '[[_Standards/WikiData/WD~.ব_ল_,4545424]]'
 - '[[_Standards/WikiData/WD~.bd,39144]]'
 participant_in: "[[_Standards/WikiData/WD~Global_System_of_Trade_Preferences_among_Developing_Countries,5570670]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bangladesh,7112197]]"
@@ -275,19 +275,19 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 4
 VAT_rate: 15
 marriageable_age:
-- 18
-- 21
+  - 18
+  - 21
 total_fertility_rate: 2.1
 mains_voltage: 220
 suicide_rate: 3.9
 BTI_Governance_Index:
-- 4.5
-- 4.14
-- 4.27
-- 4.38
-- 4.57
-- 4.73
-- 4.87
+  - 4.5
+  - 4.14
+  - 4.27
+  - 4.38
+  - 4.57
+  - 4.73
+  - 4.87
 life_expectancy: 74
 literacy_rate: 75
 lowest_point: "[[_Standards/WikiData/WD~Bay_of_Bengal,38684]]"
@@ -296,15 +296,15 @@ Gini_coefficient: 32.4
 head_of_government: "[[_Standards/WikiData/WD~Muhammad_Yunus,43969]]"
 social_media_followers: 39600
 BTI_Status_Index:
-- 4.82
-- 5.05
-- 5.11
-- 5.39
-- 5.53
-- 5.69
-- 5.74
-- 5.82
-- 6.01
+  - 4.82
+  - 5.05
+  - 5.11
+  - 5.39
+  - 5.53
+  - 5.69
+  - 5.74
+  - 5.82
+  - 6.01
 trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.503
 mobile_country_code: 470
@@ -328,50 +328,50 @@ ITU_letter_code: BGD
 ISO_3166_1_alpha_3_code: BGD
 Commons_category: Bangladesh
 hashtag:
-- Bangladesh
-- গণপ্রজাতন্ত্রী_বাংলাদেশ
+  - Bangladesh
+  - গণপ্রজাতন্ত্রী_বাংলাদেশ
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
 IOC_country_code: BAN
 GDP_PPP_: 966485000000
 demonym:
-- Bangladeshi
-- Bangladais
-- বাংলাদেশী
-- בנגלי
-- بنغاليون
-- بنغلاديشي
-- بنغلاديشية
-- bangladexín
-- bangladexina
-- bangladeshià
-- bangladeshiana
-- bangladesher
-- Bangladeŝano
-- Bangladaise
-- בנגלית
-- bangladesi
-- Bangladeshano
-- bengalese
-- bengalesi
-- bangla
-- бангладешец
-- бангладешцы
-- bengałeza
-- bengałeze
-- bengałezi
-- bengałezo
-- Bangladejänan
-- بنڭلاديشي
-- بنڭلاديشية
-- بنڭلاديشيات
-- بنڭلاديشيين
-- Banglaidéiseach
+  - Bangladeshi
+  - Bangladais
+  - বাংলাদেশী
+  - בנגלי
+  - بنغاليون
+  - بنغلاديشي
+  - بنغلاديشية
+  - bangladexín
+  - bangladexina
+  - bangladeshià
+  - bangladeshiana
+  - bangladesher
+  - Bangladeŝano
+  - Bangladaise
+  - בנגלית
+  - bangladesi
+  - Bangladeshano
+  - bengalese
+  - bengalesi
+  - bangla
+  - бангладешец
+  - бангладешцы
+  - bengałeza
+  - bengałeze
+  - bengałezi
+  - bengałezo
+  - Bangladejänan
+  - بنڭلاديشي
+  - بنڭلاديشية
+  - بنڭلاديشيات
+  - بنڭلاديشيين
+  - Banglaidéiseach
 inception: "1971-03-26"
 has_time_started: "1971-03-26"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/National%20emblem%20of%20Bangladesh.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%20%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0.jpg"
 native_label:
-- বাংলাদেশ
+  - বাংলাদেশ
 - "গণপ্রজাতন্ত্রী বাংলাদেশ"
 PPP_GDP_per_capita: 5811.571
 coordinates_of_westernmost_point: "Point(88.008 24.6678)"
@@ -403,8 +403,8 @@ motto_text:
 name: ꠛꠣꠋꠟꠣꠖꠦꠡ
 short_name: "\U0001F1E7\U0001F1E9"
 nominal_GDP:
-- 416264802185
-- 460201000095
+  - 416264802185
+  - 460201000095
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~East_Bengal,106300355]]"
 head_of_state: "[[_Standards/WikiData/WD~Mohammad_Shahabuddin,116763154]]"
 coordinates_of_southernmost_point: "Point(92.33542 20.57545)"

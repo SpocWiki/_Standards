@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wolfgang Amadeus Mozart"
 has_id_wikidata: Q254
@@ -83,12 +83,12 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Nouvelle_Biographie_Générale,3345156]]"
 - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Drobné_povídky_dějepisné,19525150]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

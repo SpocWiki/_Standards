@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frank Lloyd Wright"
 has_id_wikidata: Q5604
@@ -36,7 +36,7 @@ member_of: "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281
 employer: "[[_Standards/WikiData/WD~The_New_School,599316]]"
 archives_at: "[[_Standards/WikiData/WD~Avery_Architectural_and_Fine_Arts_Library,790646]]"
 educated_at:
-- "[[_Standards/WikiData/WD~University_of_Wisconsin–Madison,838330]]"
+- "[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]"
 - "[[_Standards/WikiData/WD~Madison_Central_High_School,105764085]]"
 award_received:
 - "[[_Standards/WikiData/WD~Royal_Gold_Medal,920783]]"

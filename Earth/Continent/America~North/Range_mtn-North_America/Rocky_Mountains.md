@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5463
 native_label:
 - "montagnes Rocheuses"
@@ -15,7 +15,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 mountain_range: "[[_Standards/WikiData/WD~American_Cordillera,605761]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Elbert,657225]]"
 instance_of: "[[_Standards/WikiData/WD~non-geologically_related_mountain_range,1437459]]"

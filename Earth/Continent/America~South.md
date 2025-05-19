@@ -1,4 +1,4 @@
-﻿---
+---
 type: Continent
 confidential: public
 has_id_wikidata: Q18
@@ -77,11 +77,11 @@ located_in_or_next_to_body_of_water:
 - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
-- '[[_Standards/WikiData/WD~UTC−02_00,6536]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_02_00,6536]]'
 Commons_gallery: "Sudamérica - América do Sul"
 Libris_URI: xv8bbh3g0d10v0c
 demonym:

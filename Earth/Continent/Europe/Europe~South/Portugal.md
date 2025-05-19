@@ -81,8 +81,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Portugal,322459]]"
 central_bank: "[[_Standards/WikiData/WD~Banco_de_Portugal,378372]]"
@@ -141,49 +141,49 @@ logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Log%C3%B3tipo%20
 UMLS_CUI: C0032729
 coordinate_location: "Point(-9.183333333 38.7)"
 demonym:
-- برطقيزي
-- برطقيزية
-- برطقيزيين
-- برطقيزيات
-- Portaingéalach
-- portuguesa
-- ポルトガル人
-- برتغالي
-- برتغالية
-- برتغاليون
-- portugués
-- portuguesa
-- পর্তুগিজ
-- Portugiese
-- Portugiesin
-- Portuguese
-- portugalo
-- Portugais
-- Portugaise
-- פורטוגזי
-- פורטוגזית
-- portugál
-- Portugalano
-- portoghese
-- portoghesi
-- Portugis
-- Portugisin
-- portuges
-- Portugees
-- português
-- portughez
-- portugheză
-- portughezi
-- португалец
-- португалка
-- португальцы
-- Португалац
-- Португалка
-- portogheza
-- portogheze
-- portoghezi
-- portoghezo
-- Portugänan
+  - برطقيزي
+  - برطقيزية
+  - برطقيزيين
+  - برطقيزيات
+  - Portaingéalach
+  - portuguesa
+  - ポルトガル人
+  - برتغالي
+  - برتغالية
+  - برتغاليون
+  - portugués
+  - portuguesa
+  - পর্তুগিজ
+  - Portugiese
+  - Portugiesin
+  - Portuguese
+  - portugalo
+  - Portugais
+  - Portugaise
+  - פורטוגזי
+  - פורטוגזית
+  - portugál
+  - Portugalano
+  - portoghese
+  - portoghesi
+  - Portugis
+  - Portugisin
+  - portuges
+  - Portugees
+  - português
+  - portughez
+  - portugheză
+  - portughezi
+  - португалец
+  - португалка
+  - португальцы
+  - Португалац
+  - Португалка
+  - portogheza
+  - portogheze
+  - portoghezi
+  - portoghezo
+  - Portugänan
 ISNI: 0000000122428399
 motto_text:
 - "Arfordir Gorllewin Ewrop"
@@ -231,7 +231,7 @@ capital: '[[_Standards/WikiData/WD~Lisbon,597]]'
 official_language:
 - '[[_Standards/WikiData/WD~Portuguese,5146]]'
 - '[[_Standards/WikiData/WD~Mirandese,13330]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Portugal,7790]]"
 located_in_on_physical_feature:
@@ -253,14 +253,14 @@ pronunciation_audio:
 compulsory_education_minimum_age_: 6
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Portugal%20on%20the%20globe%20%28Europe%20centered%29.svg"
 birth_rate:
-- 8
-- 7.7
-- 8.2
-- 8.4
+  - 8
+  - 7.7
+  - 8.2
+  - 8.4
 death_rate:
-- 12
-- 10.9
-- 11.9
+  - 12
+  - 10.9
+  - 11.9
 unemployment_rate: 14
 compulsory_education_maximum_age_: 18
 marriageable_age: 18
@@ -289,12 +289,12 @@ M49_code: 620
 OmegaWiki_Defined_Meaning: 7867
 UIC_numerical_country_code: 94
 ISBN_identifier_group:
-- 978-972
-- 978-989
+  - 978-972
+  - 978-989
 INSEE_countries_and_foreign_territories_code: 99139
 BHCL_UUID:
-- 9f837a06-e7b1-49e9-82ad-84bef5552b06
-- e7794532-7bf2-4ceb-b000-b159dfcd1a56
+  - 9f837a06-e7b1-49e9-82ad-84bef5552b06
+  - e7794532-7bf2-4ceb-b000-b159dfcd1a56
 PM20_geo_code: A32
 licence_plate_code: P
 UIC_alphabetical_country_code: P
@@ -310,8 +310,8 @@ Commons_gallery: Portugal
 hashtag: Portugal
 coordinates_of_easternmost_point: "Point(-6.19021386 41.57488702)"
 nominal_GDP:
-- 251945377529
-- 253982847571
+  - 251945377529
+  - 253982847571
 ISO_3166_1_alpha_3_code: PRT
 ISO_3166_1_alpha_2_code: PT
 NUTS_code: PT
@@ -323,7 +323,7 @@ MeSH_tree_code: Z01.542.727
 official_name:
 - "Portugalská republika"
 - "la République portugaise"
-- Portugal
+  - Portugal
 - "República Portuguesa"
 name_in_native_language:
 - "Portugalská republika"
@@ -331,42 +331,42 @@ name_in_native_language:
 - "República Portuguesa"
 Inequality_adjusted_Human_Development_Index: 0.773
 native_label:
-- Portugal
+  - Portugal
 - "República Portuguesa"
 Human_Development_Index: 0.866
 short_name: "\U0001F1F5\U0001F1F9"
 number_of_out_of_school_children: 19620
 area: 92225
 urban_population:
-- 6926780
-- 6764658
-- 6827994
-- 7014163
+  - 6926780
+  - 6764658
+  - 6827994
+  - 7014163
 rural_population:
-- 3395541
-- 3435051
-- 3469087
-- 3521605
+  - 3395541
+  - 3435051
+  - 3469087
+  - 3521605
 male_population:
-- 4855992
-- 4859349
-- 4888573
-- 4911677
+  - 4855992
+  - 4859349
+  - 4888573
+  - 4911677
 female_population:
-- 5430271
-- 5437732
-- 5473258
-- 5498027
+  - 5430271
+  - 5437732
+  - 5473258
+  - 5498027
 life_expectancy: 81.12683
 population: 10347892
 coordinates_of_southernmost_point: "Point(-7.88698196 36.96024856)"
 has_id_wikidata: Q45
 location:
-- 42.1067
-- -5.10879
+    - 42.1067
+    - -5.10879
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27001
 isDeleted: false
 confidential: public
@@ -383,15 +383,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Portugal
-- البرتغال
-- 葡萄牙
-- Португалия
+    - Portugal
+    - البرتغال
+    - 葡萄牙
+    - Португалия
 - "the Portuguese Republic"
 - "la República Portuguesa"
 Languages:
-- pt-PT
-- mwl
+    - pt-PT
+    - mwl
 icon: flag-pt
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Turkish
@@ -46,8 +46,8 @@ linguistic_typology:
 - "[[_Standards/WikiData/WD~vowel_harmony,147137]]"
 - '[[_Standards/WikiData/WD~postposition,161873]]'
 - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
 - "[[_Standards/WikiData/WD~synthetic_language,48612]]"

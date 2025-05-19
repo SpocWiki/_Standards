@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "John Locke"
 has_id_wikidata: Q9353
@@ -44,11 +44,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]"
@@ -73,9 +73,9 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_hav
 place_of_burial: "[[_Standards/WikiData/WD~High_Laver,83958490]]"
 sibling: "[[_Standards/WikiData/WD~Thomas_Locke,96089783]]"
 depicted_by:
-- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),118992130]]"
-- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),_Philosopher,119737628]]"
-- "[[_Standards/WikiData/WD~John_Locke_(1632–1704),119932629]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632_1704),118992130]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632_1704),_Philosopher,119737628]]"
+- "[[_Standards/WikiData/WD~John_Locke_(1632_1704),119932629]]"
 - "[[_Standards/WikiData/WD~John_Locke,119951956]]"
 ISNI: 0000000121272329
 date_of_death: "1704-11-08"

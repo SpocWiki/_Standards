@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7205
 history_of_topic: "[[_Standards/WikiData/WD~history_of_paleontology,195974]]"
 described_by_source:
@@ -7,7 +7,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 subclass_of: "[[_Standards/WikiData/WD~field_research,1402508]]"
 partially_coincident_with:

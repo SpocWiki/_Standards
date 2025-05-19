@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11016
 Commons_category: Technology
 hashtag: Technology
@@ -16,7 +16,7 @@ part_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~The_Verge,2155442]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 is_the_study_of: '[[_Standards/WikiData/WD~technique,2695280]]'
 uses: '[[_Standards/WikiData/WD~technique,2695280]]'
 has_effect: '[[_Standards/WikiData/WD~convenience,5166129]]'

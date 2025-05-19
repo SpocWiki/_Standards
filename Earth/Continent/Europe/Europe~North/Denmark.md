@@ -1,10 +1,10 @@
 ---
 location:
-- 55.6789
-- 10.5
+  - 55.6789
+  - 10.5
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q35
 SpocWebEntityId: 26880
 isDeleted: false
@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Denmark
-- Dinamarca
-- Danemark
-- الدانمرك
-- 丹麦
-- Дания
+  - Denmark
+  - Dinamarca
+  - Danemark
+  - الدانمرك
+  - 丹麦
+  - Дания
 - "the Kingdom of Denmark"
 - "el Reino de Dinamarca"
 Languages:
-- da-DK
-- en
-- fo
-- de-DK
+  - da-DK
+  - en
+  - fo
+  - de-DK
 icon: flag-dk
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -286,37 +286,37 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Germany,183]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 VAT_rate:
-- 0
-- 25
+  - 0
+  - 25
 marriageable_age:
-- 20
-- 16
-- 18
-- 21
+  - 20
+  - 16
+  - 18
+  - 21
 age_of_majority:
-- 20
-- 18
-- 21
-- 25
+  - 20
+  - 18
+  - 21
+  - 25
 compulsory_education_minimum_age_: 5
 unemployment_rate: 7
 social_media_followers:
-- 12000
-- 62733
+  - 12000
+  - 62733
 water_as_percent_of_area: 1.6
 mains_voltage: 230
 retirement_age: 65
 suicide_rate: 7.6
 death_rate:
-- 9.3
-- 9.4
-- 9.8
-- 10.1
+  - 9.3
+  - 9.4
+  - 9.8
+  - 10.1
 birth_rate:
-- 9.9
-- 10.4
-- 10.5
-- 10.8
+  - 9.9
+  - 10.4
+  - 10.5
+  - 10.8
 total_fertility_rate: 1.67
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.dk,39509]]'
 Gini_coefficient: 27.7
@@ -340,10 +340,10 @@ GS1_country_code:
 mobile_country_code: 238
 median_income: 44360
 rural_population:
-- 686700
-- 698080
-- 688752
-- 693004
+  - 686700
+  - 698080
+  - 688752
+  - 693004
 coastline: 7314
 maritime_identification_digits:
 - 220
@@ -357,10 +357,10 @@ number_of_out_of_school_children: 36238
 water_area: 43094
 FIPS_10_4_countries_and_regions_: DA
 urban_population:
-- 5138400
-- 5116342
-- 5167981
-- 5216337
+  - 5138400
+  - 5116342
+  - 5167981
+  - 5216337
 Commons_category: Denmark
 subreddit: Denmark
 hashtag: Denmark
@@ -379,9 +379,9 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_A
 inception: "0800"
 has_time_started: 0800-06 
 NUTS_code:
-- DK0
-- DK
-- DK00
+  - DK0
+  - DK
+  - DK00
 pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Hu-D%C3%A1nia.ogg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-D%C3%A4nemark.ogg"
@@ -391,99 +391,99 @@ coordinates_of_westernmost_point: "Point(8.0723593 55.5624458)"
 UMLS_CUI: C0015541
 official_website: "http://www.denmark.dk"
 demonym:
-- دانماركي
-- دانماركية
-- دانماركيين
-- دانماركيات
-- Danec
-- Danmhargach
-- Dane
-- Däne
-- דני
-- danès
-- Danish
-- danés
-- Danois
-- דנית
-- dán
-- danese
-- dansce
-- daneze
-- danezo
-- Deen
-- Данкиња
-- Dänen
-- taanlased
-- danesi
-- датчане
-- Данци
-- danezi
-- Danoise
-- danskit
-- daneza
-- danesa
-- δανοί
-- δανός
-- dano
-- Daniano
-- danske
-- danske
-- danez
-- daneză
-- danezi
-- датчанин
-- датчанка
-- Данац
-- dansk
-- Danänan
-- Danka
-- Dänin
-- danés
-- danesa
-- ডেনীয়
-- Danaidd
-- dansker
-- Däninnen
-- dänisch
-- δανή
+  - دانماركي
+  - دانماركية
+  - دانماركيين
+  - دانماركيات
+  - Danec
+  - Danmhargach
+  - Dane
+  - Däne
+  - דני
+  - danès
+  - Danish
+  - danés
+  - Danois
+  - דנית
+  - dán
+  - danese
+  - dansce
+  - daneze
+  - danezo
+  - Deen
+  - Данкиња
+  - Dänen
+  - taanlased
+  - danesi
+  - датчане
+  - Данци
+  - danezi
+  - Danoise
+  - danskit
+  - daneza
+  - danesa
+  - δανοί
+  - δανός
+  - dano
+  - Daniano
+  - danske
+  - danske
+  - danez
+  - daneză
+  - danezi
+  - датчанин
+  - датчанка
+  - Данац
+  - dansk
+  - Danänan
+  - Danka
+  - Dänin
+  - danés
+  - danesa
+  - ডেনীয়
+  - Danaidd
+  - dansker
+  - Däninnen
+  - dänisch
+  - δανή
 coordinates_of_easternmost_point: "Point(15.1975 55.318333333)"
 coat_of_arms_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/National%20coat%20of%20arms%20of%20Denmark.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Coat%20of%20arms%20of%20Denmark%20no%20crown.svg"
 coordinates_of_northernmost_point: "Point(10.6114813 57.7516135)"
 nominal_GDP:
-- 398303272764
-- 395403906582
+  - 398303272764
+  - 395403906582
 coordinate_location: "Point(10.0 56.0)"
 Gregorian_calendar_start_date: "1700-03-01"
 ISO_3166_1_alpha_2_code: DK
 WIPO_ST_3: DK
 UIC_alphabetical_country_code: DK
 short_name:
-- Denmark
-- Danmark
-- Danio
-- Danmark
-- Danmarki
+  - Denmark
+  - Danmark
+  - Danio
+  - Danmark
+  - Danmarki
 - "\U0001F1E9\U0001F1F0"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Denmark.map"
 CIVICUS_Monitor_country_entry: denmark
 GitHub_topic: denmark
 native_label:
-- Danmark
+  - Danmark
 - "Kongeriget Danmark"
 - "Danmarks Rige"
 PM20_geo_code: A15
 male_population:
-- 2890926
-- 2900148
-- 2913397
-- 2936844
+  - 2890926
+  - 2900148
+  - 2913397
+  - 2936844
 female_population:
-- 2923497
-- 2931257
-- 2943337
-- 2966194
+  - 2923497
+  - 2931257
+  - 2943337
+  - 2966194
 ISO_3166_1_alpha_3_code: DNK
 ITU_letter_code: DNK
 area: 42925.46
@@ -638,17 +638,17 @@ with numbers as of 2022-06
 
 Major Cities with Population in 1000s as of @2024
 
-| City                                                                                            | Region                                                             |    Pop/k |
+| City                                                                | Region                                                             |    Pop/k |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------: |
-| [[Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen\|Copenhagen]]                             | [[Denmark/Regions~Denmark/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
-| [[Denmark/Regions~Denmark/Midtjylland/City/Aarhus\|Aarhus]]                                     | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |  295.688 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]    | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |  183.763 |
-| [[Denmark/Regions~Denmark/Nordjylland/City/Aalborg\|Aalborg]]                                   | [[Denmark/Regions~Denmark/Nordjylland\|North Denmark Region]]      |  120.700 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]] | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   71.505 |
-| [[Denmark/Regions~Denmark/Midtjylland/City/Randers\|Randers]]                                   | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   64.158 |
-| [[Horsens]]                                                                                     | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   63.903 |
-| [[Kolding]]                                                                                     | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   62.444 |
-| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]       | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   61.706 |
+| [[Denmark/Regions~Denmark/Hovedstaden/City/Copenhagen\|Copenhagen]] | [[Denmark/Regions~Denmark/Hovedstaden\|Capital Region of Denmark]] | 1378.649 |
+| [[Denmark/Regions~Denmark/Midtjylland/City/Aarhus\|Aarhus]]         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |  295.688 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Odense,County/Odense,City\|Odense]]          | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |  183.763 |
+| [[Denmark/Regions~Denmark/Nordjylland/City/Aalborg\|Aalborg]]       | [[Denmark/Regions~Denmark/Nordjylland\|North Denmark Region]]      |  120.700 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Esbjerg,County/Esbjerg,City\|Esbjerg]]                                   | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   71.505 |
+| [[Denmark/Regions~Denmark/Midtjylland/City/Randers\|Randers]]       | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   64.158 |
+| [[Horsens]]                                                         | [[Denmark/Regions~Denmark/Midtjylland\|Central Denmark Region]]    |   63.903 |
+| [[Kolding]]                                                         | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   62.444 |
+| [[Denmark/Regions~Denmark/Syddanmark/counties~Syddanmark/Vejle,County/Vejle,City\|Vejle]]            | [[Denmark/Regions~Denmark/Syddanmark\|Region of Southern Denmark]] |   61.706 |
 
 
 ## #has_/text_of_/abstract 

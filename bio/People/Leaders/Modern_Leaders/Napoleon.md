@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Napoleon
 - "Napoleone Buonaparte"
@@ -114,7 +114,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
@@ -124,7 +124,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 - "[[_Standards/WikiData/WD~Outstanding_personalities_in_Dresden_and_their_flats,116033998]]"
 - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~deism,620629]]'
 - '[[_Standards/WikiData/WD~Catholicism,1841]]'

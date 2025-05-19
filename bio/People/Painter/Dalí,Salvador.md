@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Salvador Dalí"
 - "Salvador Domingo Felipe Jacinto Dalí i Domènech"
@@ -132,7 +132,7 @@ place_of_burial: "[[_Standards/WikiData/WD~Dalí_Theatre_and_Museum,1143722]]"
 described_by_source:
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'

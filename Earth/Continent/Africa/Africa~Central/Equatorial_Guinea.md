@@ -1,10 +1,10 @@
 ---
 location:
-- 3.75
-- 8.78333
+  - 3.75
+  - 8.78333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26909
 isDeleted: false
 confidential: public
@@ -25,13 +25,13 @@ aliases:
 - "Guinea Ecuatorial"
 - "Guinée équatoriale"
 - "غينيا الاستوائية"
-- 赤道几内亚
+  - 赤道几内亚
 - "Экваториальная Гвинея"
 - "the Republic of Equatorial Guinea"
 - "la República de Guinea Ecuatorial"
 Languages:
-- es-GQ
-- fr
+  - es-GQ
+  - fr
 has_id_wikidata: Q983
 language_used:
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
@@ -107,86 +107,86 @@ VAT_rate: 15
 age_of_majority: 18
 mains_voltage: 220
 suicide_rate:
-- 13.7
-- 15.5
-- 16.4
-- 16.5
-- 16.7
+  - 13.7
+  - 15.5
+  - 16.4
+  - 16.5
+  - 16.7
 Democracy_Index: 1.92
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460]]'
 BTI_Status_Index:
-- 2.97
-- 3.02
+  - 2.97
+  - 3.02
 BTI_Governance_Index:
-- 3.33
-- 3.41
+  - 3.33
+  - 3.41
 Human_Development_Index: 0.596
 head_of_state: "[[_Standards/WikiData/WD~Teodoro_Obiang,57385]]"
 maritime_identification_digits: 631
 total_fertility_rate: 4.835
 mobile_country_code: 627
 death_rate:
-- 8.582
-- 8.708
-- 9.026
-- 9.042
+  - 8.582
+  - 8.708
+  - 9.026
+  - 9.042
 ISO_3166_1_numeric_code: 226
 M49_code: 226
 OmegaWiki_Defined_Meaning: 154211
 area: 28051
 birth_rate:
-- 29.865
-- 30.498
-- 31.174
-- 31.874
+  - 29.865
+  - 30.498
+  - 31.174
+  - 31.874
 IAB_code: 1288
 INSEE_countries_and_foreign_territories_code: 99392
 number_of_out_of_school_children: 50071
 life_expectancy: 57.681
 urban_population:
-- 1127920
-- 1202330
-- 1166712
-- 1239599
+  - 1127920
+  - 1202330
+  - 1166712
+  - 1239599
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg"
 ISO_3166_1_alpha_2_code: GQ
 WIPO_ST_3: GQ
 Libris_URI: jgvxwd224s4ltg3
 Krugosvet_article: strany_mira/EKVATORIALNAYA_GVINEYA.html
 demonym:
-- ecuatoguineana
-- ecuatoguineanu
+  - ecuatoguineana
+  - ecuatoguineanu
 - "বিষুবীয় গিনীয়"
-- equatoguineà
-- ækvatorialguineaner
-- Equatoguinean
-- Ekvatorgvineano
-- ecuatoguineana
-- ecuatoguineano
-- équatoguinéen
-- Équatoguinéen
-- équatoguinéenne
-- Équatoguinéenne
+  - equatoguineà
+  - ækvatorialguineaner
+  - Equatoguinean
+  - Ekvatorgvineano
+  - ecuatoguineana
+  - ecuatoguineano
+  - équatoguinéen
+  - Équatoguinéen
+  - équatoguinéenne
+  - Équatoguinéenne
 - "מגינאה המשוונית"
-- egyenlítői-guineai
-- equatoguineana
-- equatoguineane
-- equatoguineani
-- equatoguineano
-- ecuatoginean
-- Equatoriaal-Guineeër
-- guineoecuatorian
-- guineoecuatoriană
-- guineoecuatorieni
-- ecuatoguinean
-- ecuatoguineana
-- ecuatoguineane
-- ecuatoguineani
+  - egyenlítői-guineai
+  - equatoguineana
+  - equatoguineane
+  - equatoguineani
+  - equatoguineano
+  - ecuatoginean
+  - Equatoriaal-Guineeër
+  - guineoecuatorian
+  - guineoecuatoriană
+  - guineoecuatorieni
+  - ecuatoguinean
+  - ecuatoguineana
+  - ecuatoguineane
+  - ecuatoguineani
 - "غيني ستيوائي"
 - "غينية ستيوائية"
 - "غينيين ستيوائيين"
 - "غينيات ستيوائيات"
-- equatoguineana
+  - equatoguineana
 - "Equatorial Guinean"
 official_name:
 - "República de Guinea Equatorial"
@@ -199,8 +199,8 @@ native_label:
 - "República da Guiné Equatorial"
 motto_text: "Unidad, Paz, Justicia"
 short_name:
-- 赤几
-- 赤幾
+  - 赤几
+  - 赤幾
 - "\U0001F1EC\U0001F1F6"
 coordinates_of_southernmost_point: "Point(5.64233 -1.47368)"
 coordinates_of_northernmost_point: "Point(8.72 3.78)"
@@ -244,8 +244,8 @@ has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 motto: "[[_Standards/WikiData/WD~Unity,_Peace,_Justice,102185452]]"
 head_of_government: "[[_Standards/WikiData/WD~Manuela_Roka,112175210]]"
 nominal_GDP:
-- 12269393392
-- 11813908448
+  - 12269393392
+  - 11813908448
 MeSH_tree_code: Z01.058.290.100.300
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Equatorialguinea%20w1%20locator.svg"
 coordinates_of_westernmost_point: "Point(5.6168 -1.41361)"
@@ -256,22 +256,23 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Cameroon,1009]]'
 different_from: '[[_Standards/WikiData/WD~Guinea,1006]]'
 rural_population:
-- 425111
-- 429337
-- 432136
-- 435309
+  - 425111
+  - 429337
+  - 432136
+  - 435309
 female_population:
-- 731149
-- 751896
-- 771091
-- 790982
+  - 731149
+  - 751896
+  - 771091
+  - 790982
 male_population:
-- 821881
-- 844153
-- 863375
-- 883926
+  - 821881
+  - 844153
+  - 863375
+  - 883926
 inception: "1968-10-12"
 has_time_started: "1968-10-12"
+has_time_started: 1968-10-12T00:00:00Z 
 population: 1847549
 ITU_letter_code: GNE
 IOC_country_code: GEQ

@@ -4,6 +4,7 @@ located_in_or_next_to_body_of_water:
   - "[[_Standards/WikiData/WD~Caspian_Sea,5484]]"
   - "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
 member_of:
+<<<<<<< HEAD
   - "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
   - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
   - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
@@ -23,6 +24,27 @@ member_of:
   - "[[_Standards/WikiData/WD~Interpol,8475]]"
   - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
   - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+=======
+- "[[_Standards/WikiData/WD~Non-Aligned_Movement,83201]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- '[[_Standards/WikiData/WD~BRICS,243630]]'
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 ethnic_group:
   - "[[_Standards/WikiData/WD~Turkic_peoples,83328]]"
   - "[[_Standards/WikiData/WD~Baloch,201501]]"
@@ -82,6 +104,7 @@ contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Isfahan_Province,1367759]]"
 public_holiday:
   - "[[_Standards/WikiData/WD~Tasu'a,141098]]"
+<<<<<<< HEAD
   - "[[_Standards/WikiData/WD~Ashura,183283]]"
   - "[[_Standards/WikiData/WD~Arba'een,310740]]"
   - "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
@@ -91,6 +114,17 @@ public_holiday:
   - "[[_Standards/WikiData/WD~Muhammad's_first_revelation,4115424]]"
   - "[[_Standards/WikiData/WD~Islamic_Republic_Day,5675742]]"
   - "[[_Standards/WikiData/WD~Eid_al-Ghadir,15109140]]"
+=======
+- '[[_Standards/WikiData/WD~Ashura,183283]]'
+  - "[[_Standards/WikiData/WD~Arba'een,310740]]"
+- "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
+- '[[_Standards/WikiData/WD~Novruz,483236]]'
+- "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
+- "[[_Standards/WikiData/WD~Sizdah_Be-dar,1378894]]"
+- "[[_Standards/WikiData/WD~Muhammad's_first_revelation,4115424]]"
+- "[[_Standards/WikiData/WD~Islamic_Republic_Day,5675742]]"
+- "[[_Standards/WikiData/WD~Eid_al-Ghadir,15109140]]"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 diplomatic_relation:
   - "[[_Standards/WikiData/WD~Holy_See,159583]]"
   - "[[_Standards/WikiData/WD~Palestine,219060]]"
@@ -160,6 +194,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Iran,188028]]"
 motto: "[[_Standards/WikiData/WD~Takbir,191811]]"
 anthem: "[[_Standards/WikiData/WD~National_Anthem_of_the_Islamic_Republic_of_Iran,211047]]"
 language_used:
+<<<<<<< HEAD
   - "[[_Standards/WikiData/WD~Bakhtiari,257829]]"
   - "[[_Standards/WikiData/WD~Southern_Kurdish,1496597]]"
   - "[[_Standards/WikiData/WD~Lasgerdi,3218296]]"
@@ -228,6 +263,76 @@ language_used:
   - "[[_Standards/WikiData/WD~Laki,56483]]"
   - "[[_Standards/WikiData/WD~Tat,56489]]"
   - "[[_Standards/WikiData/WD~Salchuq,56752]]"
+=======
+- '[[_Standards/WikiData/WD~Bakhtiari,257829]]'
+- "[[_Standards/WikiData/WD~Southern_Kurdish,1496597]]"
+- '[[_Standards/WikiData/WD~Lasgerdi,3218296]]'
+- '[[_Standards/WikiData/WD~Alviri-Vidari,3327357]]'
+- '[[_Standards/WikiData/WD~Sangsari,3394363]]'
+- "[[_Standards/WikiData/WD~South_Azerbaijani,3449805]]"
+- '[[_Standards/WikiData/WD~Sorkhei,3491964]]'
+- "[[_Standards/WikiData/WD~Iranian_Persian,3513637]]"
+- '[[_Standards/WikiData/WD~Koroshi,3775265]]'
+- '[[_Standards/WikiData/WD~Dezfuli,4115412]]'
+- '[[_Standards/WikiData/WD~Kuhmareyi,5228140]]'
+- '[[_Standards/WikiData/WD~Gazi,5529130]]'
+- '[[_Standards/WikiData/WD~Gozarkhani,5590235]]'
+- '[[_Standards/WikiData/WD~Karingani,6371041]]'
+  - "[[_Standards/WikiData/WD~Kho'ini,6401919]]"
+- '[[_Standards/WikiData/WD~Khunsari,6403030]]'
+- "[[_Standards/WikiData/WD~Koresh-e_Rostam,6432160]]"
+- '[[_Standards/WikiData/WD~Natanzi,6968399]]'
+- '[[_Standards/WikiData/WD~Nayini,6983146]]'
+- '[[_Standards/WikiData/WD~Neo-Mandaic,6991742]]'
+- "[[_Standards/WikiData/WD~Northwestern_Fars,7060307]]"
+- "[[_Standards/WikiData/WD~Iranian_Sign_Language,7170221]]"
+- '[[_Standards/WikiData/WD~Razajerdi,7299461]]'
+- '[[_Standards/WikiData/WD~Shahrudi,7462280]]'
+- '[[_Standards/WikiData/WD~Soi,7930463]]'
+- "[[_Standards/WikiData/WD~Southern_Balochi,12634001]]"
+- "[[_Standards/WikiData/WD~Western_Balochi,12645561]]"
+- '[[_Standards/WikiData/WD~Eshtehardi,12952418]]'
+- "[[_Standards/WikiData/WD~Southern_Luri,12952748]]"
+- '[[_Standards/WikiData/WD~Rudbari,12953072]]'
+- '[[_Standards/WikiData/WD~Shahmirzadi,12953126]]'
+- "[[_Standards/WikiData/WD~Upper_Taromi,12953183]]"
+- '[[_Standards/WikiData/WD~Semnani,14531212]]'
+- '[[_Standards/WikiData/WD~Kajali,14916876]]'
+- "[[_Standards/WikiData/WD~Southern_Pashto,16112855]]"
+- "[[_Standards/WikiData/WD~Northern_Luri,19933293]]"
+- '[[_Standards/WikiData/WD~Takestani,25261947]]'
+- '[[_Standards/WikiData/WD~Parsi-Dari,25559302]]'
+- "[[_Standards/WikiData/WD~Classical_Mandaic,25559314]]"
+- '[[_Standards/WikiData/WD~Kabatei,54312860]]'
+- '[[_Standards/WikiData/WD~Armenian,8785]]'
+- '[[_Standards/WikiData/WD~Persian,9168]]'
+- '[[_Standards/WikiData/WD~Turkmen,9267]]'
+- '[[_Standards/WikiData/WD~Azerbaijani,9292]]'
+- '[[_Standards/WikiData/WD~Qashqai,13192]]'
+- '[[_Standards/WikiData/WD~Sivandi,13269]]'
+- '[[_Standards/WikiData/WD~Mazanderani,13356]]'
+- '[[_Standards/WikiData/WD~Avestan,29572]]'
+- "[[_Standards/WikiData/WD~Zoroastrian_Dari,32389]]"
+- '[[_Standards/WikiData/WD~Vafsi,32611]]'
+- '[[_Standards/WikiData/WD~Bashkardi,33030]]'
+- '[[_Standards/WikiData/WD~Khalaj,33455]]'
+- '[[_Standards/WikiData/WD~Lari,33468]]'
+- '[[_Standards/WikiData/WD~Mandaic,33500]]'
+- '[[_Standards/WikiData/WD~Gilaki,33657]]'
+- '[[_Standards/WikiData/WD~Gorani,33733]]'
+- '[[_Standards/WikiData/WD~Senaya,33914]]'
+- '[[_Standards/WikiData/WD~Talysh,34318]]'
+- "[[_Standards/WikiData/WD~Khorasani_Turkic,35373]]"
+- '[[_Standards/WikiData/WD~Kumzari,36158]]'
+- '[[_Standards/WikiData/WD~Kurmanji,36163]]'
+- '[[_Standards/WikiData/WD~Maraghei,36220]]'
+- '[[_Standards/WikiData/WD~Sorani,36811]]'
+- "[[_Standards/WikiData/WD~Mesopotamian_Arabic,56232]]"
+- '[[_Standards/WikiData/WD~Harzandi,56464]]'
+- '[[_Standards/WikiData/WD~Laki,56483]]'
+- '[[_Standards/WikiData/WD~Tat,56489]]'
+- '[[_Standards/WikiData/WD~Salchuq,56752]]'
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~Supreme_Leader_of_Iran,332486]]"
 legislative_body: "[[_Standards/WikiData/WD~Islamic_Consultative_Assembly,378605]]"
 described_by_source:
@@ -345,10 +450,15 @@ demonym:
   - иранцы
   - Iranien
   - إيرانيون
+<<<<<<< HEAD
 motto_text:
   - استقلال، آزادی، جمهوری اسلامی
 official_name:
   - جمهوری اسلامی ایران
+=======
+motto_text: "استقلال، آزادی، جمهوری اسلامی"
+official_name: "جمهوری اسلامی ایران"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 population: 86758304
 UMLS_CUI: C0022065
 ISNI: 404539679
@@ -365,9 +475,15 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fatima%20Masumeh%20Shr
 nominal_GDP:
   - 359096907773
   - 388544468140
+<<<<<<< HEAD
 official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
 country: "[[_Standards/WikiData/WD~Iran,794]]"
 capital: "[[_Standards/WikiData/WD~Tehran,3616]]"
+=======
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+country: '[[_Standards/WikiData/WD~Iran,794]]'
+capital: '[[_Standards/WikiData/WD~Tehran,3616]]'
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 lowest_point: "[[_Standards/WikiData/WD~Caspian_Sea,5484]]"
 part_of:
   - "[[_Standards/WikiData/WD~Middle_East,7204]]"
@@ -480,8 +596,13 @@ rural_population:
   - 20798288
   - 21059632
   - 21302584
+<<<<<<< HEAD
 country_calling_code: 98
 coordinates_of_westernmost_point: Point(44.1042 39.3492)
+=======
+country_calling_code: +98
+coordinates_of_westernmost_point: "Point(44.1042 39.3492)"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 female_population:
   - 42772045
   - 43155308
@@ -517,6 +638,7 @@ publishDate:
 expiryDate: 
 aliases:
   - Iran
+<<<<<<< HEAD
   - Iran (Islamic Republic of)
   - Irán (República Islámica del)
   - Iran (République islamique d')
@@ -525,6 +647,16 @@ aliases:
   - Иран (Исламская Республика)
   - the Islamic Republic of Iran
   - la República Islámica del Irán
+=======
+- "Iran (Islamic Republic of)"
+- "Irán (República Islámica del)"
+- "Iran (République islamique d')"
+- "إيران (جمهورية - الإسلامية)"
+  - 伊朗(伊斯兰共和国)
+- "Иран (Исламская Республика)"
+- "the Islamic Republic of Iran"
+- "la República Islámica del Irán"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
   - Persia
   - Persien
 Languages:

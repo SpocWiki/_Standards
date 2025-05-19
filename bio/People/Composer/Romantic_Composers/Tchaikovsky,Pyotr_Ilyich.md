@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pyotr Ilyich Tchaikovsky"
 has_id_wikidata: Q7315
@@ -55,7 +55,7 @@ copyright_representative: "[[_Standards/WikiData/WD~American_Society_of_Composer
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"

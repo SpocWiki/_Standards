@@ -10,25 +10,25 @@ has_part_s_: "[[_Standards/WikiData/WD~Einstein_field_equations,273711]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_General_relativity_sidebar,5932282]]"
 has_characteristic: "[[_Standards/WikiData/WD~mass_in_general_relativity,6784057]]"
 short_name:
-- ОТО
-- ДСТ
-- АТА
-- ОТО
-- OTR
-- OTR
-- 一般相対論
-- VRT
-- ЗТВ
-- ОТР
-- OTR
-- ART
-- GR
-- ART
-- GTR
-- STR
-- VTR
-- OTW
-- OTR
+  - ОТО
+  - ДСТ
+  - АТА
+  - ОТО
+  - OTR
+  - OTR
+  - 一般相対論
+  - VRT
+  - ЗТВ
+  - ОТР
+  - OTR
+  - ART
+  - GR
+  - ART
+  - GTR
+  - STR
+  - VTR
+  - OTW
+  - OTR
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cassini-science-br.jpg"
 pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%20%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE.wav"

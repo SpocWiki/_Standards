@@ -1,8 +1,8 @@
 ---
 radius:
-- 1735.97
-- 1738.14
-- 1737.1
+  - 1735.97
+  - 1738.14
+  - 1737.1
 OmegaWiki_Defined_Meaning: 5730
 mass: 73.4767
 Commons_gallery: Moon
@@ -19,8 +19,8 @@ pronunciation_audio:
 3D_model: "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20elevation.stl"
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Night%20view%20of%20THE%20MOON.jpg"
 Unicode_character:
-- ☽
-- ☾
+  - ☽
+  - ☾
 U_S_National_Archives_Identifier: 10046559
 Colon_Classification: B92
 Wolfram_Language_entity_code: "Entity[\"PlanetaryMoon\", \"Moon\"]"
@@ -52,8 +52,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_characteristic:
@@ -89,8 +89,8 @@ parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
 patronage: 12
 attendance: 12
 temperature:
-- 390
-- 95
+  - 390
+  - 95
 flattening: 0.00125
 albedo: 0.136
 surface_gravity: 1.62

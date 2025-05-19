@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5322
 has_characteristic: '[[_Standards/WikiData/WD~capacitance,164399]]'
 subclass_of:
@@ -10,7 +10,7 @@ different_from:
 - '[[_Standards/WikiData/WD~condenser,607569]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 icon: "http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2832%29.svg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/JVC%20MX-J950R%20-%20power%20module-1112%20%28cropped%29%20-%20Elna%20Silmic%20electrolytic%20capacitors.jpg"
 Stack_Exchange_tag: "https://electronics.stackexchange.com/tags/capacitor"

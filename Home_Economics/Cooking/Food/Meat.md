@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q10990
 has_part_s_:
 - "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
@@ -11,7 +11,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 subclass_of:
 - "[[_Standards/WikiData/WD~animal_product,629103]]"
 - "[[_Standards/WikiData/WD~intermediate_good,3955017]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "International Red Cross and Red Crescent Movement"
 - "Red Cross"
@@ -57,11 +57,11 @@ main_regulatory_text:
 - "[[_Standards/WikiData/WD~Seville_Agreement,7458066]]"
 - "[[_Standards/WikiData/WD~Fundamental_Principles_of_the_International_Red_Cross_and_Red_Crescent_Movement,19284407]]"
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-award_received: "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+award_received: "[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]"
 named_after: "[[_Standards/WikiData/WD~red_cross,104863859]]"
 BHCL_UUID:
-- 2a8517e4-a4ad-468a-ac59-a8cccb8c483e
-- 4877eb0e-acb0-4e4c-9ce9-d3b1758010eb
+  - 2a8517e4-a4ad-468a-ac59-a8cccb8c483e
+  - 4877eb0e-acb0-4e4c-9ce9-d3b1758010eb
 official_website:
 - "https://www.ifrc.org/"
 - "https://www.icrc.org/"
@@ -73,8 +73,8 @@ described_at_URL:
 - "https://roter-kreis.de/Rotkreuz-_und_Rothalbmond-Bewegung"
 ISNI: 0000000119414682
 MeSH_tree_code:
-- N03.540.514.642
-- N03.540.630.780.608
+  - N03.540.514.642
+  - N03.540.630.780.608
 Library_of_Congress_Classification: HV560-HV583
 inception: "1863-02-17"
 has_time_started: "1863-02-17"
