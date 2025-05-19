@@ -88,7 +88,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalEvent\", \"TreatyOfVersailles\
 #has_/time_/stopped :: 1920-01-10 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Treaty_of_Versailles,8736]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Treaty_of_Versailles,8736]] 
 
 
 ## #has_/text_of_/abstract 

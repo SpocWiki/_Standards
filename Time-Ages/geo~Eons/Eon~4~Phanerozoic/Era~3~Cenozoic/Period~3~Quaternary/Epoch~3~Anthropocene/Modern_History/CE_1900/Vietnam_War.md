@@ -54,7 +54,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Vietnam_War,8192852]
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Vietnam_War,8740]]  
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Vietnam_War,8740]]  
 
 
 ## #has_/text_of_/abstract 

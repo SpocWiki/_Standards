@@ -120,11 +120,11 @@ Wolfram_Language_entity_code:
 #has_/time_/started :: 1939-09-01 
 #has_/time_/stopped  :: 1945-09-02 
 #has_/next_item  :: [[CE_1900/Cold_War]] 
-#has_/previous_item :: [[Modern_History/World_War_I]]
+#has_/previous_item :: [[CE_1900/World_War_I]]
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
-#is_/same_as :: [[../../../../../../../WikiData/WD~World_War_II,362]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~World_War_II,362]] 
 
 ## #has_/text_of_/abstract 
 
