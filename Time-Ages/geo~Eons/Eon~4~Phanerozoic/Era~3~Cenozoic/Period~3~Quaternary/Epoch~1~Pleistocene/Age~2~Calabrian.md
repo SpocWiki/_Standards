@@ -1,3 +1,30 @@
+---
+has_id_wikidata: Q567911
+aliases:
+  - Calabrian
+  - Калабрий
+  - Calabr
+  - Calabrian
+  - Calabrium
+  - Calabriense
+  - Kalaabria
+  - Calabria
+  - Calabrien
+  - kalabriai
+  - calabriano
+  - カラブリア期
+  - Kalabris
+  - Onder Pleistoceen
+  - Hoog Terras
+  - Calabrium
+  - Kalambr
+  - Calabriano
+  - kalábrian
+  - calabrij
+  - calabr
+  - 卡拉布里亚期
+  
+---
 # [[Age~2~Calabrian]] 
 
 #is_a_/time_/Age 

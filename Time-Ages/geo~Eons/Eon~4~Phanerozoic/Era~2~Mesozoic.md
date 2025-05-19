@@ -1,6 +1,28 @@
 ---
 has_id_wikidata: Q83222
-aliases: []
+aliases:
+  - Mesozoic
+  - Мезозой
+  - Mezozoikum
+  - Mesozoisk
+  - Mesozoikum
+  - Mesozoico
+  - Mesosoikum
+  - Mesotsoikum
+  - Mésozoïque
+  - mezozoikum
+  - mesozoico
+  - 中生代
+  - Mezozojus
+  - Mesozoïcum
+  - Mesozoikum
+  - Mezozoik
+  - Mesozóico
+  - mezozoikum
+  - mezozoik
+  - mesozoikum
+  - 中生代
+  
 Commons_category: Mesozoic
 described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
@@ -17,7 +39,7 @@ OmegaWiki_Defined_Meaning: "952543"
 part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mesozoic%20Mesozoikum.png
 sRGB_color_hex_triplet: 67C5CA
-start_time: -251902000 
+start_time: -251902000
 has_time_started: -251902000
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,101435488]]"
 ---

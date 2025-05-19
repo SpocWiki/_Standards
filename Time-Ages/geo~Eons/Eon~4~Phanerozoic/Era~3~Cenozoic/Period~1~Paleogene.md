@@ -1,3 +1,28 @@
+---
+has_id_wikidata: Q55810
+aliases:
+  - Paleogene
+  - Палеоген
+  - Paleogén
+  - Palæogen
+  - Paläogen
+  - Paleógeno
+  - Paleogeen
+  - Paleogeeni
+  - Paléogène
+  - paleogén
+  - paleogene
+  - 古第三紀
+  - Paleogenas
+  - Paleogeen
+  - Paleogen
+  - Paleogen
+  - Paleogénico
+  - paleogén
+  - paleogen
+  - paleogen
+  - 早第三纪
+---
 
 # [[Period~1~Paleogene]] 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Anthropozän
+has_id_wikidata: Q26841
 ---
 
 #has_/time_/started :: 1492

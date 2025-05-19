@@ -20,8 +20,33 @@ OmegaWiki_Defined_Meaning: "952626"
 part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
 sRGB_color_hex_triplet: 99C08D
-start_time: -538800000 
+start_time: -538800000
 has_time_started: -538800000
+aliases:
+  - Paleozoic
+  - Палеозой
+  - Paleozoikum
+  - Palæozoisk
+  - Paläozoikum
+  - Palaeozoic
+  - Paleozoic
+  - Palozoico
+  - Paleosoikum
+  - Paleotsoikum
+  - Paléozoïque
+  - paleozoikum
+  - paleozoico
+  - 古生代
+  - Paleozojus
+  - Paleozoïcum
+  - Paleozoikum
+  - Paleozoik
+  - Paleozóico
+  - paleozoikum
+  - paleozoik
+  - paleozoikum
+  - 古生代
+  
 ---
 
 # [[Era~1~Paleozoic]] 
