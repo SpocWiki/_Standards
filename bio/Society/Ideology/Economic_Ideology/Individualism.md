@@ -2,7 +2,7 @@
 has_id_wikidata: Q171995
 subclass of: "[[_Standards/WikiData/WD~-ism,158646]]"
 instance of:
-  - "[[_Standards/WikiData/WD~political philosophy,179805]]"
+  - "[[_Standards/WikiData/WD~political_philosophy,179805]]"
   - "[[_Standards/WikiData/WD~ideology,7257]]"
 opposite of: "[[_Standards/WikiData/WD~reductionism,206829]]"
 facet of:
@@ -11,16 +11,16 @@ facet of:
   - "[[_Standards/WikiData/WD~art,735]]"
   - "[[_Standards/WikiData/WD~humanism,46158]]"
 described by source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Red Blue Translator,131935072]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 significant person:
-  - "[[_Standards/WikiData/WD~James Elishama Smith,6133416]]"
-  - "[[_Standards/WikiData/WD~William Maccall,18735765]]"
-part of: "[[_Standards/WikiData/WD~collectivism and individualism,118396467]]"
+  - "[[_Standards/WikiData/WD~James_Elishama_Smith,6133416]]"
+  - "[[_Standards/WikiData/WD~William_Maccall,18735765]]"
+part of: "[[_Standards/WikiData/WD~collectivism_and_individualism,118396467]]"
 OmegaWiki Defined Meaning: "1238683"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stirner02.jpg
 Krugosvet article: gumanitarnye_nauki/sociologiya/INDIVIDUALIZM.html
@@ -32,7 +32,7 @@ Library of Congress Classification: B824.A1-B824.Z
 #has_/creator :: [[../../../People/Philosopher/Early_modern_Philosophers/Locke,John|Locke,John]]  
 #has_/creator :: [[../../../People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques|Rousseau,Jean-Jacques]]  
 
-#is_/same_as :: [[../../../../WikiData/WD~Individualism,171995|WD~Individualism,171995]] 
+#is_/same_as :: [[../../../../WikiData/WD~Individualism,171995_WD~Individualism,171995]] 
 #is_/opposite_of :: [[../../../../../Knowledge/Sociology/Politics/isms/Communitarianism|Communitarianism]]  
 
 ## #has_/text_of_/abstract 

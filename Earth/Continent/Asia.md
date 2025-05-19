@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q48
 type: Continent
 confidential: public
@@ -55,7 +55,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 studied_in:

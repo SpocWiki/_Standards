@@ -21,6 +21,7 @@ Commons_category: "Special relativity"
 time_of_discovery_or_invention: "1905"
 inception: "1905"
 has_time_started: 1905-06 
+has_time_started: 1905-01-01T00:00:00Z 
 ---
 
 ## #has_/text_of_/abstract 

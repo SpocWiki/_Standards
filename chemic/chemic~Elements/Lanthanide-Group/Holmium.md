@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21963
 has_id_wikidata: Q1846
@@ -16,7 +16,7 @@ part_of:
 - '[[_Standards/WikiData/WD~lanthanide,19569]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 made_from_material:
 - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"

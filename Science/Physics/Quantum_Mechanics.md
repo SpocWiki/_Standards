@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Quantum mechanics"
 has_id_wikidata: Q944
@@ -31,7 +31,7 @@ instance_of:
 topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Quantum_mechanics,6534867]]"
 - "[[_Standards/WikiData/WD~Template_Quantum_mechanics_topics,19794166]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 publication_date: "1900"
 practiced_by: "[[_Standards/WikiData/WD~quantum_theoretician,114964328]]"
 Baidu_Tieba_name: 量子力学

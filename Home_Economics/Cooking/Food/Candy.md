@@ -4,7 +4,7 @@ subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
 said_to_be_the_same_as:
 - "[[_Standards/WikiData/WD~sugar_candy,17119302]]"
 - '[[_Standards/WikiData/WD~ame,17238884]]'
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 UMLS_CUI: C0006855
 MeSH_tree_code:
 - G07.203.300.140

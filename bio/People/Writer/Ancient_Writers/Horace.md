@@ -74,7 +74,7 @@ name_in_native_language: Q. Horatius Flaccus
 
 #has_/time_/started :: -0064-12-08
 #has_/time_/started :: -0007-11-27 
-#is_/same_as ::  [[../../../../WikiData/WD~Horace,6197|WD~Horace,6197]]  
+#is_/same_as ::  [[../../../../WikiData/WD~Horace,6197_WD~Horace,6197]]  
 
 ## #has_/text_of_/abstract 
 

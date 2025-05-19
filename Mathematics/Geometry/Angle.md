@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11352
 different_from:
 - '[[_Standards/WikiData/WD~Winkel,348650]]'
@@ -7,13 +7,13 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units_—_Part_2__Mathematics,109490582]]"
+- "[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 is_invariant_under: "[[_Standards/WikiData/WD~conformal_map,850275]]"
 has_characteristic: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
 has_part_s_: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-notation: '[[_Standards/WikiData/WD~∠,87524476]]'
+notation: '[[_Standards/WikiData/WD~_,87524476]]'
 studied_in: "[[_Standards/WikiData/WD~theory_of_angles,114717628]]"
 subclass_of:
 - "[[_Standards/WikiData/WD~two-dimensional_object,118870638]]"

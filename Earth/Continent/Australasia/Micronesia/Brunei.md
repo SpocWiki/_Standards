@@ -40,7 +40,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~History_of_Northern_Dynasties,1188548]]"
 - "[[_Standards/WikiData/WD~Book_of_Liang,1285767]]"
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 language_used:
 - "[[_Standards/WikiData/WD~Standard_Chinese,727694]]"
 - '[[_Standards/WikiData/WD~Belait,2894198]]'

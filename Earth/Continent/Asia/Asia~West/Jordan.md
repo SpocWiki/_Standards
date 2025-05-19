@@ -29,7 +29,7 @@ member_of:
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -120,48 +120,48 @@ category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32414156,32414156]]'
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 head_of_government: "[[_Standards/WikiData/WD~Bisher_Al-Khasawneh,63441935]]"
 nominal_GDP:
-- 45116317042
-- 47451499859
+  - 45116317042
+  - 47451499859
 coordinates_of_westernmost_point: "Point(34.95892 29.36824)"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Jordan%201984-1988.png"
 native_label: "االْمَمْلَكَةُ الْأُرْدُنِيَةُ الْهَاشِمِيَة"
 demonym:
-- Jordanec
-- أردني
-- أردنية
-- أردنيات
-- أردنيين
-- Iordánach
-- Jordanka
-- ירדני
-- ירדנית
-- iordanian
-- iordaniană
-- iordanieni
-- иорданцы
-- zordan
-- zordana
-- zordane
-- zordani
-- Yordänan
-- Jordanian
-- أردني
-- أردنيون
-- Jordanier
-- أردنية
-- xordana
-- xordanu
-- জর্দানীয়
-- Jordanierin
-- Jordanien
-- Jordanienne
-- jordán
-- Jordaniano
-- giordana
-- giordane
-- giordani
-- giordano
-- urduni
+  - Jordanec
+  - أردني
+  - أردنية
+  - أردنيات
+  - أردنيين
+  - Iordánach
+  - Jordanka
+  - ירדני
+  - ירדנית
+  - iordanian
+  - iordaniană
+  - iordanieni
+  - иорданцы
+  - zordan
+  - zordana
+  - zordane
+  - zordani
+  - Yordänan
+  - Jordanian
+  - أردني
+  - أردنيون
+  - Jordanier
+  - أردنية
+  - xordana
+  - xordanu
+  - জর্দানীয়
+  - Jordanierin
+  - Jordanien
+  - Jordanienne
+  - jordán
+  - Jordaniano
+  - giordana
+  - giordane
+  - giordani
+  - giordano
+  - urduni
 ISNI: 0000000406441982
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/17%20Dead%20Sea%20%2813%29%20%2813252089754%29.jpg"
 coordinates_of_southernmost_point: "Point(36.07279 29.18343)"
@@ -179,39 +179,39 @@ marriageable_age: 18
 mains_voltage: 230
 Human_Development_Index: 0.72
 birth_rate:
-- 22.6
-- 21.95
-- 21.616
-- 22.265
+  - 22.6
+  - 21.95
+  - 21.616
+  - 22.265
 named_after: "[[_Standards/WikiData/WD~Jordan_River,40059]]"
 Gini_coefficient: 33.7
 Democracy_Index: 3.49
 Happy_Planet_Index_score: 43.9
 BTI_Governance_Index:
-- 4.43
-- 4.44
-- 4.63
-- 4.68
-- 4.74
-- 4.81
-- 4.84
-- 4.86
+  - 4.43
+  - 4.44
+  - 4.63
+  - 4.68
+  - 4.74
+  - 4.81
+  - 4.84
+  - 4.86
 trunk_prefix: 0
 BTI_Status_Index:
-- 4.98
-- 5.03
-- 5.09
-- 5.12
-- 5.14
-- 5.15
-- 5.22
+  - 4.98
+  - 5.03
+  - 5.09
+  - 5.12
+  - 5.14
+  - 5.15
+  - 5.22
 Inequality_adjusted_Human_Development_Index: 0.617
 head_of_state: '[[_Standards/WikiData/WD~Q57464,57464]]'
 death_rate:
-- 3.148
-- 3.475
-- 3.868
-- 3.957
+  - 3.148
+  - 3.475
+  - 3.868
+  - 3.957
 total_fertility_rate: 3.422
 mobile_country_code: 416
 ISO_3166_1_numeric_code: 400
@@ -233,15 +233,15 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 coordinates_of_northernmost_point: "Point(38.8 33.37)"
 INSEE_countries_and_foreign_territories_code: 99222
 rural_population:
-- 922394
-- 933557
-- 937903
-- 941163
+  - 922394
+  - 933557
+  - 937903
+  - 941163
 urban_population:
-- 9757520
-- 9990818
-- 10214721
-- 10363475
+  - 9757520
+  - 9990818
+  - 10214721
+  - 10363475
 CIVICUS_Monitor_country_entry: jordan
 subreddit: jordan
 GitHub_topic: jordan
@@ -250,15 +250,15 @@ ITU_letter_code: JOR
 ISO_3166_1_alpha_3_code: JOR
 IOC_country_code: JOR
 female_population:
-- 5143079
-- 5257947
-- 5368123
-- 5438953
+  - 5143079
+  - 5257947
+  - 5368123
+  - 5438953
 male_population:
-- 5555605
-- 5670775
-- 5780154
-- 5846915
+  - 5555605
+  - 5670775
+  - 5780154
+  - 5846915
 population: 10428241
 PM20_geo_code: B24b
 short_name: "\U0001F1EF\U0001F1F4"
@@ -288,11 +288,11 @@ motto_text:
 official_name: "المملكة الأردنية الهاشمية"
 has_id_wikidata: Q810
 location:
-- 31.95
-- 35.93
+    - 31.95
+    - 35.93
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26932
 isDeleted: false
 confidential: public
@@ -309,17 +309,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Jordan
-- Jordania
-- Jordanie
-- الأردن
-- 约旦
-- Иордания
+    - Jordan
+    - Jordania
+    - Jordanie
+    - الأردن
+    - 约旦
+    - Иордания
 - "the Hashemite Kingdom of Jordan"
 - "el Reino Hachemita de Jordania"
 Languages:
-- ar-JO
-- en
+    - ar-JO
+    - en
 icon: flag-jo
 ---
 

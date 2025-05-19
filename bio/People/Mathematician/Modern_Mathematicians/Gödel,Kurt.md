@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Kurt Gödel"
 has_id_wikidata: Q41390
@@ -35,7 +35,7 @@ field_of_work:
 - "[[_Standards/WikiData/WD~theory_of_relativity,43514]]"
 notable_work:
 - "[[_Standards/WikiData/WD~Gödel's_incompleteness_theorems,200787]]"
-- "[[_Standards/WikiData/WD~Von_Neumann–Bernays–Gödel_set_theory,278770]]"
+- "[[_Standards/WikiData/WD~Von_Neumann_Bernays_Gödel_set_theory,278770]]"
 - "[[_Standards/WikiData/WD~Gödel's_ontological_proof,598840]]"
 - "[[_Standards/WikiData/WD~Gödel's_completeness_theorem,902052]]"
 - "[[_Standards/WikiData/WD~Gödel's_second_incompleteness_theorem,1031460]]"
@@ -66,7 +66,7 @@ place_of_burial: "[[_Standards/WikiData/WD~Princeton_Cemetery,7244940]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~REGO,125023568]]'
 archives_at: "[[_Standards/WikiData/WD~ETH_Zurich_University_Archives,39934978]]"

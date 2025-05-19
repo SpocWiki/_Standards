@@ -39,7 +39,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Woleaian,34037]]'
 - '[[_Standards/WikiData/WD~Kapingamarangi,35771]]'
 - '[[_Standards/WikiData/WD~Puluwatese,36397]]'
-- "[[_Standards/WikiData/WD~Ngatik_Men’s_Creole,36400]]"
+- "[[_Standards/WikiData/WD~Ngatik_Men_s_Creole,36400]]"
 - '[[_Standards/WikiData/WD~Pingelapese,36421]]'
 - '[[_Standards/WikiData/WD~Ulithian,36842]]'
 - '[[_Standards/WikiData/WD~Mokilese,2335528]]'
@@ -62,8 +62,8 @@ water_as_percent_of_area: 0
 mains_voltage: 120
 compulsory_education_maximum_age_: 14
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 minimum_temperature_record: 17.8
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.fm,40423]]'
 capital: '[[_Standards/WikiData/WD~Palikir,42751]]'
@@ -79,46 +79,46 @@ continent:
 - "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
 total_fertility_rate: 3.243
 death_rate:
-- 5.728
-- 6.065
-- 6.211
-- 6.275
+  - 5.728
+  - 6.065
+  - 6.211
+  - 6.275
 maritime_identification_digits: 510
 birth_rate:
-- 20.684
-- 20.777
-- 20.837
-- 21.059
+  - 20.684
+  - 20.777
+  - 20.837
+  - 21.059
 urban_population:
-- 25408
-- 25709
-- 26097
-- 26505
+  - 25408
+  - 25709
+  - 26097
+  - 26505
 ISO_3166_1_numeric_code: 583
 M49_code: 583
 FIPS_10_4_countries_and_regions_: FM
 ISO_3166_1_alpha_2_code: FM
 FIPS_5_2_alpha_code_US_states_: FM
 female_population:
-- 55307
-- 55694
-- 56233
-- 56777
+  - 55307
+  - 55694
+  - 56233
+  - 56777
 male_population:
-- 56072
-- 56413
-- 56898
-- 57387
+  - 56072
+  - 56413
+  - 56898
+  - 57387
 life_expectancy: 69.195
 rural_population:
-- 85971
-- 86397
-- 87034
-- 87659
+  - 85971
+  - 86397
+  - 87034
+  - 87659
 population: 105544
 OmegaWiki_Defined_Meaning: 153582
 short_name:
-- FM
+  - FM
 - "\U0001F1EB\U0001F1F2"
 INSEE_countries_and_foreign_territories_code: 99516
 U_S_National_Archives_Identifier: 10035700
@@ -168,31 +168,31 @@ executive_body: "[[_Standards/WikiData/WD~Government_of_the_Federated_States_of_
 archives_at: "[[_Standards/WikiData/WD~Federated_States_of_Micronesia_Office_of_National_Archives,_Culture_and_Historic_Preservation,106690283]]"
 coordinates_of_northernmost_point: "Point(139.7 10.08)"
 demonym:
-- ميكرونيزي
-- ميكرونيزية
-- ميكرونيزيين
-- ميكرونيزيات
-- Micrinéiseach
-- micronesiano
-- micronezian
-- microneziana
-- microneziane
-- microneziani
-- micronesia
-- micronesio
-- micronesiu
-- micronesi
-- micronèsia
-- mikroneser
-- Micronesian
-- Micronésien
-- Micronésienne
-- מיקרונזי
-- מיקרונזית
-- mikronéziai
-- micronesiana
-- micronesiane
-- micronesiani
+  - ميكرونيزي
+  - ميكرونيزية
+  - ميكرونيزيين
+  - ميكرونيزيات
+  - Micrinéiseach
+  - micronesiano
+  - micronezian
+  - microneziana
+  - microneziane
+  - microneziani
+  - micronesia
+  - micronesio
+  - micronesiu
+  - micronesi
+  - micronèsia
+  - mikroneser
+  - Micronesian
+  - Micronésien
+  - Micronésienne
+  - מיקרונזי
+  - מיקרונזית
+  - mikronéziai
+  - micronesiana
+  - micronesiane
+  - micronesiani
 ISNI: 0000000121095799
 motto_text:
 - "Heddwch, Undod, Rhyddid"
@@ -201,14 +201,14 @@ motto_text:
 official_website: "https://gov.fm"
 coordinates_of_easternmost_point: "Point(162.973889 5.313333)"
 native_label:
-- Mikronesia
+  - Mikronesia
 - "Federated States of Micronesia"
 inception: "1986-11-03"
 has_time_started: "1986-11-03"
 coordinate_location: "Point(158.183333333 6.916666666)"
 nominal_GDP:
-- 404028900
-- 427094119
+  - 404028900
+  - 427094119
 IOC_country_code: FSM
 ISO_3166_1_alpha_3_code: FSM
 geoshape: "http://commons.wikimedia.org/data/main/Data:Federated+States+of+Micronesia.map"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1239
 instance_of:
 - "[[_Standards/WikiData/WD~geographic_region,82794]]"
@@ -212,7 +212,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Limits_of_Oceans_and_Seas,_3rd_edition,35541239]]"
 - "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"

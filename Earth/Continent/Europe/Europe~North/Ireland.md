@@ -1,10 +1,10 @@
 ---
 location:
-- 53.0702
-- -7.70895
+  - 53.0702
+  - -7.70895
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q27
 SpocWebEntityId: 26923
 isDeleted: false
@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Ireland
 linkTitle: 
@@ -23,17 +23,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Ireland
-- Irlanda
-- Irlande
-- آيرلندا
-- 爱尔兰
-- Ирландия
-- Éire
-- Airlann
+  - Ireland
+  - Irlanda
+  - Irlande
+  - آيرلندا
+  - 爱尔兰
+  - Ирландия
+  - Éire
+  - Airlann
 Languages:
-- en-IE
-- ga-IE
+  - en-IE
+  - ga-IE
 icon: flag-ie
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -188,67 +188,67 @@ Provenio_UUID: cea218bf-ad0d-4a63-a865-8949e176fe7e
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EU-Ireland%20%28orthographic%20projection%29.svg"
 UMLS_CUI: C0022067
 official_name:
-- Airlann
-- Ireland
-- Irska
-- Éire
-- Irsko
-- Ireland
-- Irlande
-- Irland
+  - Airlann
+  - Ireland
+  - Irska
+  - Éire
+  - Irsko
+  - Ireland
+  - Irlande
+  - Irland
 demonym:
-- إرلاندي
-- إرلاندية
-- إرلانديين
-- إرلانديات
-- Irec
-- أيرلندي
-- Irish
-- أيرلندية
-- أيرلنديون
-- irlandés
-- irlandesa
-- Ir
-- Irka
-- Ire
-- Irin
-- Ιρλανδή
-- Ιρλανδός
-- Irlandano
-- Irlandais
-- Éireannach
-- Éireannaigh
-- אירי
-- אירית
-- ír
-- irlandese
-- irlandesi
-- eres
-- Ier
-- Irlandczycy
-- Irlandka
-- irlandez
-- irlandeză
-- irlandezi
-- ирландцы
-- ірландець
-- ірландка
-- ірландці
-- irlandeza
-- irlandeze
-- irlandezi
-- irlandezo
-- Lireyänan
-- Irka
-- Irlandczyk
-- Irlandaise
+  - إرلاندي
+  - إرلاندية
+  - إرلانديين
+  - إرلانديات
+  - Irec
+  - أيرلندي
+  - Irish
+  - أيرلندية
+  - أيرلنديون
+  - irlandés
+  - irlandesa
+  - Ir
+  - Irka
+  - Ire
+  - Irin
+  - Ιρλανδή
+  - Ιρλανδός
+  - Irlandano
+  - Irlandais
+  - Éireannach
+  - Éireannaigh
+  - אירי
+  - אירית
+  - ír
+  - irlandese
+  - irlandesi
+  - eres
+  - Ier
+  - Irlandczycy
+  - Irlandka
+  - irlandez
+  - irlandeză
+  - irlandezi
+  - ирландцы
+  - ірландець
+  - ірландка
+  - ірландці
+  - irlandeza
+  - irlandeze
+  - irlandezi
+  - irlandezo
+  - Lireyänan
+  - Irka
+  - Irlandczyk
+  - Irlandaise
 ISNI: 0000000123591198
 MeSH_tree_code:
-- Z01.542.467
-- Z01.639.587
+  - Z01.542.467
+  - Z01.639.587
 nominal_GDP:
-- 529244870223
-- 504182603276
+  - 529244870223
+  - 504182603276
 part_of:
 - "[[_Standards/WikiData/WD~European_Union,458]]"
 - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
@@ -262,7 +262,7 @@ language_used:
 official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Irish,9142]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Republic_of_Ireland,8062]]"
 different_from:
 - '[[_Standards/WikiData/WD~Ireland,22890]]'
@@ -288,10 +288,10 @@ total_fertility_rate: 1.96
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ie,39382]]'
 trunk_prefix: 0
 unemployment_rate:
-- 4.95
-- 4.479
-- 5.623
-- 6.194
+  - 4.95
+  - 4.479
+  - 5.623
+  - 6.194
 OpenStreetMap_zoom_level: 6
 head_of_state: "[[_Standards/WikiData/WD~Michael_D._Higgins,57276]]"
 Inequality_adjusted_Human_Development_Index: 0.886
@@ -312,37 +312,37 @@ area: 69797
 OmegaWiki_Defined_Meaning: 5744
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg"
 male_population:
-- 2444120
-- 2469767
-- 2494029
-- 2541063
+  - 2444120
+  - 2469767
+  - 2494029
+  - 2541063
 female_population:
-- 2490220
-- 2515614
-- 2539135
-- 2586107
+  - 2490220
+  - 2515614
+  - 2539135
+  - 2586107
 short_name:
-- Ireland
-- Éire
+  - Ireland
+  - Éire
 - "\U0001F1EE\U0001F1EA"
 native_label:
-- Ireland
-- Éire
+  - Ireland
+  - Éire
 INSEE_countries_and_foreign_territories_code: 99136
 licence_plate_code: IRL
 ISO_3166_1_alpha_3_code: IRL
 IOC_country_code: IRL
 UIC_alphabetical_country_code: IRL
 rural_population:
-- 1805722
-- 1812037
-- 1816368
-- 1836398
+  - 1805722
+  - 1812037
+  - 1816368
+  - 1836398
 urban_population:
-- 3128618
-- 3173345
-- 3216796
-- 3290772
+  - 3128618
+  - 3173345
+  - 3216796
+  - 3290772
 Commons_category: "Republic of Ireland"
 Commons_gallery: "Republic of Ireland / Poblacht na hÉireann"
 hashtag: RepublicofIreland
@@ -371,8 +371,8 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Irlanda.wav"
 official_website: "http://www.gov.ie/"
 IPA_transcription:
-- ˈaɪəɹlənd
-- ˈaɪɹlənd
+  - ˈaɪəɹlənd
+  - ˈaɪɹlənd
 country_calling_code: +353
 U_S_National_Archives_Identifier: 10035801
 Dewey_Decimal_Classification: 2--417
@@ -400,12 +400,12 @@ into a Subfolder named `Ireland`, so that this Link into the Sub-Repository work
 List of Constituent States
 with numbers as of 2021-06 
 
-| Province | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                       |
-| -------- | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Province                                         | Pop/M |   kkm² | GVA/G€ |  pP/k€ | Notable Properties                                                                                                                 |
+| ------------------------------------------------ | ----: | -----: | -----: | -----: | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [[Ireland/Ireland,Provinces/Leinster\|Leinster]] | 2.858 | 19.774 |    213 | 74.537 | Includes [[Ireland/Ireland,Provinces/Leinster/Dublin,County/counties~Dublin/Dublin,City\|Dublin]], the capital and economic center |
-| [[Ireland/Ireland,Provinces/Munster\|Munster]]  | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                   |
-| [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                              |
-| [[Ireland/Ireland,Provinces/Ulster\|Ulster]]   | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                             |
+| [[Ireland/Ireland,Provinces/Munster\|Munster]]   | 1.390 | 24.675 |     78 | 56.115 | Known for its cultural heritage and natural landscapes                                                                             |
+| [[Ireland/Ireland,Provinces/Connacht\|Connacht]] | 0.550 | 17.711 |     20 | 36.364 | Rich in history and scenic beauty, lower population density                                                                        |
+| [[Ireland/Ireland,Provinces/Ulster\|Ulster]]     | 2.101 | 22.967 |     46 | 21.899 | Known for its cultural diversity and historical significance                                                                       |
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

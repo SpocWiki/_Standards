@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11432
 subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 has_characteristic: '[[_Standards/WikiData/WD~viscosity,128709]]'
@@ -6,7 +6,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 topic_s_main_category: '[[_Standards/WikiData/WD~Q6509956,6509956]]'
 instance_of: "[[_Standards/WikiData/WD~fundamental_state_of_matter,15831576]]"
 manifestation_of: "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"

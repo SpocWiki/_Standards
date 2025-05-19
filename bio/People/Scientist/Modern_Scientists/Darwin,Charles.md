@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Charles Darwin"
 - "Charles Robert Darwin"
@@ -86,14 +86,14 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
 - "[[_Standards/WikiData/WD~Cartoon_portraits_and_biographical_sketches_of_men_of_the_day,19025033]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
 - "[[_Standards/WikiData/WD~Darwin's_contributions_to_our_understanding_of_emotional_expressions,42663162]]"
 - "[[_Standards/WikiData/WD~Darwin,_deception,_and_facial_expression.,45973348]]"
 - "[[_Standards/WikiData/WD~Ferdinand_von_Mueller's_interactions_with_Charles_Darwin_and_his_response_to_Darwinism,48464213]]"

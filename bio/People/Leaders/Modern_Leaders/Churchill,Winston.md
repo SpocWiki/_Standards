@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Winston Churchill"
 - "Winston Leonard Spencer Churchill"
@@ -27,7 +27,7 @@ award_received:
 - "[[_Standards/WikiData/WD~Military_Medal_of_Luxembourg,121586]]"
 - "[[_Standards/WikiData/WD~Crosses_of_Military_Merit,129508]]"
 - "[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]"
-- "[[_Standards/WikiData/WD~1914–15_Star,430502]]"
+- "[[_Standards/WikiData/WD~1914_15_Star,430502]]"
 - "[[_Standards/WikiData/WD~honorary_citizen_of_the_United_States,494273]]"
 - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
 - "[[_Standards/WikiData/WD~Croix_de_Guerre,869896]]"
@@ -41,7 +41,7 @@ award_received:
 - "[[_Standards/WikiData/WD~King_George_V_Silver_Jubilee_Medal,1885471]]"
 - "[[_Standards/WikiData/WD~Queen's_Sudan_Medal,2014709]]"
 - "[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]"
-- "[[_Standards/WikiData/WD~1939–45_Star,2309070]]"
+- "[[_Standards/WikiData/WD~1939_45_Star,2309070]]"
 - "[[_Standards/WikiData/WD~France_and_Germany_Star,2354625]]"
 - "[[_Standards/WikiData/WD~Victory_Medal,2454427]]"
 - "[[_Standards/WikiData/WD~Queen's_South_Africa_Medal,2469664]]"
@@ -186,7 +186,7 @@ copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copy
 on_focus_list_of_Wikimedia_project:
 - "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
 - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-- '[[_Standards/WikiData/WD~The_Women’s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
 bibliography: "[[_Standards/WikiData/WD~Bibliography_of_Winston_Churchill,124055325]]"
 date_of_birth: "1874-11-30"
 ISNI: 0000000120966628

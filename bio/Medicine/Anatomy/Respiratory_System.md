@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7891
 has_part_s_:
 - "[[_Standards/WikiData/WD~nasal_cavity,156104]]"
@@ -15,7 +15,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 produced_sound: "[[_Standards/WikiData/WD~respiratory_sound,779038]]"
 topic_s_main_template:
 - "[[_Standards/WikiData/WD~Template_Lower_respiratory_system_anatomy,10522033]]"

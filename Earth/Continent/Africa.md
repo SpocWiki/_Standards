@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 0
 - 0
@@ -27,7 +27,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~The_Oxford_Encyclopedia_of_African_Thought,22639418]]"
 different_from:
 - '[[_Standards/WikiData/WD~Afrika,344797]]'
@@ -98,8 +98,8 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Eurasia,5401]]'
 - '[[_Standards/WikiData/WD~Asia,48]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−01_00,6540]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_01_00,6540]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'

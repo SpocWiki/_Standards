@@ -62,8 +62,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 named_after: "[[_Standards/WikiData/WD~John_Marshall,639410]]"
 anthem: "[[_Standards/WikiData/WD~Forever_Marshall_Islands,858826]]"
@@ -97,27 +97,27 @@ hashtag: MarshallIslands
 Krugosvet_article: strany_mira/MARSHALLOVI_OSTROVA.html
 Libris_URI: zw9cb52h513v2ns
 demonym:
-- marxalés
-- marxalesa
-- Marshallaise
+  - marxalés
+  - marxalesa
+  - Marshallaise
 - "מאיי מרשל"
-- marshallesi
-- маршалльцы
-- marshałeza
-- marshałeze
-- marshałezi
-- marshałezo
-- مارشالي
-- مارشالية
-- مارشاليين
-- مارشاليات
-- Mairseallach
-- Marshallais
-- Marshall-szigeteki
-- marshallese
-- majel
-- Marshallese
-- marshallais
+  - marshallesi
+  - маршалльцы
+  - marshałeza
+  - marshałeze
+  - marshałezi
+  - marshałezo
+  - مارشالي
+  - مارشالية
+  - مارشاليين
+  - مارشاليات
+  - Mairseallach
+  - Marshallais
+  - Marshall-szigeteki
+  - marshallese
+  - majel
+  - Marshallese
+  - marshallais
 motto_text:
 - "Постижения чрез обединени усилия"
 - "Accomplishment through joint effort"
@@ -129,7 +129,7 @@ official_name:
 - "Marshall Islands"
 short_name:
 - "\U0001F1F2\U0001F1ED"
-- MH
+  - MH
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Marshall_Islands,13360414]]"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Marshall_Islands_portal,15145524]]"
@@ -181,33 +181,33 @@ maximum_temperature_record: 35.6
 total_fertility_rate: 4.05
 Human_Development_Index: 0.639
 death_rate:
-- 7.29
-- 7.425
-- 7.556
-- 7.919
+  - 7.29
+  - 7.425
+  - 7.556
+  - 7.919
 rural_population:
-- 9640
-- 8929
-- 9183
-- 10101
+  - 9640
+  - 8929
+  - 9183
+  - 10101
 ISO_3166_1_numeric_code: 584
 M49_code: 584
 FIPS_5_2_numeric_code_US_states_: 68
 birth_rate:
-- 19.28
-- 18.524
-- 20.006
-- 20.744
+  - 19.28
+  - 18.524
+  - 20.006
+  - 20.744
 male_population:
-- 22190
-- 21223
-- 21483
-- 22874
+  - 22190
+  - 21223
+  - 21483
+  - 22874
 urban_population:
-- 32640
-- 32867
-- 33773
-- 34627
+  - 32640
+  - 32867
+  - 33773
+  - 34627
 number_of_out_of_school_children: 3624
 IAB_code: 1442
 FIPS_10_4_countries_and_regions_: RM
@@ -216,10 +216,10 @@ ISO_3166_1_alpha_2_code: MH
 FIPS_5_2_alpha_code_US_states_: MH
 area: 181.43
 female_population:
-- 20346
-- 20567
-- 21224
-- 21855
+  - 20346
+  - 20567
+  - 21224
+  - 21855
 mobile_country_code: 551
 population: 53127
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Marshall%20Islands.svg"
@@ -227,8 +227,8 @@ INSEE_countries_and_foreign_territories_code: 99515
 PM20_geo_code: D16
 OmegaWiki_Defined_Meaning: 154432
 nominal_GDP:
-- 259538700
-- 279667900
+  - 259538700
+  - 279667900
 coordinates_of_westernmost_point: "Point(160.9 9.822222222)"
 life_expectancy: 65.23902
 ISO_3166_1_alpha_3_code: MHL
@@ -238,13 +238,14 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%
 Commons_category: "Marshall Islands"
 inception: "1986-10-21"
 has_time_started: "1986-10-21"
+has_time_started: 1986-10-21T00:00:00Z 
 has_id_wikidata: Q709
 location:
-- 9.34833
-- 168.348
+    - 9.34833
+    - 168.348
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26960
 isDeleted: false
 confidential: public
@@ -265,15 +266,15 @@ aliases:
 - "Islas Marshall"
 - "Îles Marshall"
 - "جزر مارشال"
-- 马绍尔群岛
+    - 马绍尔群岛
 - "Маршалловы Острова"
 - "the Republic of the Marshall Islands"
 - "Marshall Islands (the)"
 - "la República de las Islas Marshall"
 - "Islas Marshall (las)"
 Languages:
-- mh
-- en-MH
+    - mh
+    - en-MH
 icon: flag-mh
 ---
 

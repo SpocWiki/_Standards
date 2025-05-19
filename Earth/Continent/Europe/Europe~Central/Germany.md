@@ -38,6 +38,7 @@ aliases:
   - Германия
 Languages:
   - de
+<<<<<<< HEAD
 head_of_state: "[[_Standards/WikiData/WD~Frank_Walter_Steinmeier,76658]]"
 member_of:
   - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co_operation_in_Europe,81299]]"
@@ -415,6 +416,364 @@ BHCL_UUID:
   - 2bde846d-48ca-4ac0-880c-91f4fe24c210
 OmegaWiki_Defined_Meaning: "7118"
 UIC_numerical_country_code: "80"
+=======
+head_of_state: "[[../../../../WikiData/WD~Frank-Walter Steinmeier]]"
+member_of:
+  - "[[../../../../WikiData/WD~Organization for Security and Co-operation in Europe]]"
+  - "[[../../../../WikiData/WD~Food and Agriculture Organization]]"
+  - "[[../../../../WikiData/WD~International Civil Aviation Organization]]"
+  - "[[../../../../WikiData/WD~European Air Transport Command]]"
+  - "[[../../../../WikiData/WD~European Southern Observatory]]"
+  - "[[../../../../WikiData/WD~European Coal and Steel Community]]"
+  - "[[../../../../WikiData/WD~World Meteorological Organization]]"
+  - "[[../../../../WikiData/WD~World Intellectual Property Organization]]"
+  - "[[../../../../WikiData/WD~Asian Development Bank]]"
+  - "[[../../../../WikiData/WD~Western European Union]]"
+  - "[[../../../../WikiData/WD~International Bank for Reconstruction and Development]]"
+  - "[[../../../../WikiData/WD~General Agreement on Tariffs and Trade]]"
+  - "[[../../../../WikiData/WD~International Maritime Organization]]"
+  - "[[../../../../WikiData/WD~International Hydrographic Organization]]"
+  - "[[../../../../WikiData/WD~African Development Bank]]"
+  - "[[../../../../WikiData/WD~Comprehensive Nuclear-Test-Ban Treaty Organization]]"
+  - "[[../../../../WikiData/WD~International Telecommunication Union]]"
+  - "[[../../../../WikiData/WD~United Nations–African Union Hybrid Operation in Darfur]]"
+  - "[[../../../../WikiData/WD~United Nations Industrial Development Organization]]"
+  - "[[../../../../WikiData/WD~International Centre for Migration Policy Development]]"
+  - "[[../../../../WikiData/WD~Organisation for Joint Armament Cooperation]]"
+  - "[[../../../../WikiData/WD~Weimar Triangle]]"
+  - "[[../../../../WikiData/WD~International Finance Corporation]]"
+  - "[[../../../../WikiData/WD~Eurocontrol]]"
+  - "[[../../../../WikiData/WD~International Fund for Agricultural Development]]"
+  - "[[../../../../WikiData/WD~International Commission for the Protection of the Danube River]]"
+  - "[[../../../../WikiData/WD~Australia Group]]"
+  - "[[../../../../WikiData/WD~Council of the Baltic Sea States]]"
+  - "[[../../../../WikiData/WD~International Energy Agency]]"
+  - "[[../../../../WikiData/WD~International Development Association]]"
+  - "[[../../../../WikiData/WD~G4 nations]]"
+  - "[[../../../../WikiData/WD~Organisation for the Prohibition of Chemical Weapons]]"
+  - "[[../../../../WikiData/WD~International Centre for Settlement of Investment Disputes]]"
+  - "[[../../../../WikiData/WD~International Military Sports Council]]"
+  - "[[../../../../WikiData/WD~Multilateral Investment Guarantee Agency]]"
+  - "[[../../../../WikiData/WD~Paris Charter]]"
+  - "[[../../../../WikiData/WD~Missile Technology Control Regime]]"
+  - "[[../../../../WikiData/WD~European Payments Union]]"
+  - "[[../../../../WikiData/WD~Nuclear Suppliers Group]]"
+  - "[[../../../../WikiData/WD~International Commission for the Protection of the Rhine]]"
+  - "[[../../../../WikiData/WD~Schengen Area]]"
+  - "[[../../../../WikiData/WD~Economic, Monetary and Social Union]]"
+  - "[[../../../../WikiData/WD~Caribbean Development Bank]]"
+  - "[[../../../../WikiData/WD~Movement Coordination Centre Europe]]"
+  - "[[../../../../WikiData/WD~United Nations]]"
+  - "[[../../../../WikiData/WD~World Bank]]"
+  - "[[../../../../WikiData/WD~North Atlantic Treaty Organization]]"
+  - "[[../../../../WikiData/WD~International Monetary Fund]]"
+  - "[[../../../../WikiData/WD~UNESCO]]"
+  - "[[../../../../WikiData/WD~World Health Organization]]"
+  - "[[../../../../WikiData/WD~World Trade Organization]]"
+  - "[[../../../../WikiData/WD~Eurozone]]"
+  - "[[../../../../WikiData/WD~Interpol]]"
+  - "[[../../../../WikiData/WD~International Labour Organization]]"
+  - "[[../../../../WikiData/WD~Council of Europe]]"
+  - "[[../../../../WikiData/WD~Universal Postal Union]]"
+  - "[[../../../../WikiData/WD~G20]]"
+  - "[[../../../../WikiData/WD~Group on Earth Observations]]"
+  - "[[../../../../WikiData/WD~European Union]]"
+  - "[[../../../../WikiData/WD~UN Tourism]]"
+  - "[[../../../../WikiData/WD~G8]]"
+  - "[[../../../../WikiData/WD~Organization for Economic Cooperation and Development]]"
+  - "[[../../../../WikiData/WD~International Atomic Energy Agency]]"
+  - "[[../../../../WikiData/WD~European Space Agency]]"
+  - "[[../../../../WikiData/WD~Visa Waiver Program]]"
+ethnic_group:
+  - "[[../../../../WikiData/WD~Turks]]"
+  - "[[../../../../WikiData/WD~Romanians]]"
+  - "[[../../../../WikiData/WD~Syrians]]"
+  - "[[../../../../WikiData/WD~Poles]]"
+  - "[[../../../../WikiData/WD~Germans]]"
+history_of_topic: "[[../../../../WikiData/WD~history of Germany]]"
+language_used:
+  - "[[../../../../WikiData/WD~Alemannic]]"
+  - "[[../../../../WikiData/WD~East Frisian Low Saxon]]"
+  - "[[../../../../WikiData/WD~Swabian]]"
+  - "[[../../../../WikiData/WD~Swiss German]]"
+  - "[[../../../../WikiData/WD~Main-Franconian]]"
+  - "[[../../../../WikiData/WD~Westphalian]]"
+  - "[[../../../../WikiData/WD~Upper Saxon]]"
+  - "[[../../../../WikiData/WD~Yenish]]"
+  - "[[../../../../WikiData/WD~Danish]]"
+  - "[[../../../../WikiData/WD~Luxembourgish]]"
+  - "[[../../../../WikiData/WD~Upper Sorbian]]"
+  - "[[../../../../WikiData/WD~Lower Sorbian]]"
+  - "[[../../../../WikiData/WD~Palatinate German]]"
+  - "[[../../../../WikiData/WD~Low German]]"
+  - "[[../../../../WikiData/WD~Saterland Frisian]]"
+  - "[[../../../../WikiData/WD~North Frisian]]"
+  - "[[../../../../WikiData/WD~Ripuarian]]"
+  - "[[../../../../WikiData/WD~German]]"
+  - "[[../../../../WikiData/WD~Western Yiddish]]"
+  - "[[../../../../WikiData/WD~German Sign Language]]"
+coat_of_arms: "[[../../../../WikiData/WD~coat of arms of Germany]]"
+legislative_body:
+  - "[[../../../../WikiData/WD~Bundesrat]]"
+  - "[[../../../../WikiData/WD~Bundestag of Germany]]"
+geography_of_topic: "[[../../../../WikiData/WD~geography of Germany]]"
+public_holiday:
+  - "[[../../../../WikiData/WD~German Unity Day]]"
+  - "[[../../../../WikiData/WD~New Year's Day]]"
+  - "[[../../../../WikiData/WD~Easter Monday]]"
+  - "[[../../../../WikiData/WD~Whit Monday]]"
+  - "[[../../../../WikiData/WD~Christmas Day]]"
+  - "[[../../../../WikiData/WD~Feast of the Ascension]]"
+  - "[[../../../../WikiData/WD~Second Day of Christmas]]"
+  - "[[../../../../WikiData/WD~Good Friday]]"
+  - "[[../../../../WikiData/WD~International Workers' Day]]"
+central_bank: "[[../../../../WikiData/WD~Deutsche Bundesbank]]"
+different_from:
+  - "[[../../../../WikiData/WD~Deutschland]]"
+  - "[[../../../../WikiData/WD~Germany,183]]"
+  - "[[../../../../WikiData/WD~Germany,183]]"
+described_by_source:
+  - "[[../../../../WikiData/WD~Catholic Encyclopedia]]"
+  - "[[../../../../WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary]]"
+  - "[[../../../../WikiData/WD~Encyclopædia Britannica 11th edition]]"
+  - "[[../../../../WikiData/WD~New International Encyclopedia]]"
+  - "[[../../../../WikiData/WD~Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste]]"
+  - "[[../../../../WikiData/WD~Sytin Military Encyclopedia]]"
+  - "[[../../../../WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron]]"
+  - "[[../../../../WikiData/WD~Granat Encyclopedic Dictionary]]"
+  - "[[../../../../WikiData/WD~The New Student's Reference Work]]"
+  - "[[../../../../WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary]]"
+executive_body:
+  - "[[../../../../WikiData/WD~Government of the Federal Republic of Germany]]"
+  - "[[../../../../WikiData/WD~federal level of Germany]]"
+demographics_of_topic: "[[../../../../WikiData/WD~demographics of Germany]]"
+lowest_point: "[[../../../../WikiData/WD~Neuendorf-Sachsenbande]]"
+replaces:
+  - "[[../../../../WikiData/WD~Trizone]]"
+  - "[[../../../../WikiData/WD~West Germany]]"
+  - "[[../../../../WikiData/WD~German Reich]]"
+  - "[[../../../../WikiData/WD~German Democratic Republic]]"
+archives_at: "[[../../../../WikiData/WD~German Federal Archives]]"
+electrical_plug_type:
+  - "[[../../../../WikiData/WD~Schuko]]"
+  - "[[../../../../WikiData/WD~Europlug]]"
+item_operated: "[[../../../../WikiData/WD~Embassy of Germany, Riga]]"
+coextensive_with: "[[../../../../WikiData/WD~Germany,183]]"
+drainage_basin:
+  - "[[../../../../WikiData/WD~Rhine basin]]"
+  - "[[../../../../WikiData/WD~Oder Basin]]"
+  - "[[../../../../WikiData/WD~Danube basin]]"
+  - "[[../../../../WikiData/WD~Elbe Basin]]"
+  - "[[../../../../WikiData/WD~Weser Basin]]"
+culture: "[[../../../../WikiData/WD~culture of Germany]]"
+significant_event:
+  - "[[../../../../WikiData/WD~Economic, Monetary and Social Union]]"
+  - "[[../../../../WikiData/WD~Saarland,1201]]"
+  - "[[../../../../WikiData/WD~Berlin Wall]]"
+  - "[[../../../../WikiData/WD~Basic Law for the Federal Republic of Germany]]"
+has_characteristic: "[[../../../../WikiData/WD~free country]]"
+instance_of:
+  - "[[../../../../WikiData/WD~sovereign state]]"
+  - "[[../../../../WikiData/WD~country]]"
+topic_s_main_Wikimedia_portal: "[[../../../../WikiData/WD~Portal:Germany]]"
+anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
+basic_form_of_government:
+  - "[[../../../../WikiData/WD~parliamentary republic]]"
+  - "[[../../../../WikiData/WD~republic]]"
+  - "[[../../../../WikiData/WD~federal parliamentary republic]]"
+  - "[[../../../../WikiData/WD~federation]]"
+office_held_by_head_of_government: "[[../../../../WikiData/WD~Federal Chancellor of Germany]]"
+diplomatic_relation:
+  - "[[../../../../WikiData/WD~Jamaica]]"
+  - "[[../../../../WikiData/WD~Guatemala]]"
+  - "[[../../../../WikiData/WD~The Bahamas]]"
+  - "[[../../../../WikiData/WD~Honduras]]"
+  - "[[../../../../WikiData/WD~Haiti]]"
+  - "[[../../../../WikiData/WD~Iran]]"
+  - "[[../../../../WikiData/WD~El Salvador]]"
+  - "[[../../../../WikiData/WD~Iraq]]"
+  - "[[../../../../WikiData/WD~Costa Rica]]"
+  - "[[../../../../WikiData/WD~Israel]]"
+  - "[[../../../../WikiData/WD~Panama]]"
+  - "[[../../../../WikiData/WD~Yemen]]"
+  - "[[../../../../WikiData/WD~Jordan]]"
+  - "[[../../../../WikiData/WD~Nicaragua]]"
+  - "[[../../../../WikiData/WD~Kyrgyzstan]]"
+  - "[[../../../../WikiData/WD~Laos]]"
+  - "[[../../../../WikiData/WD~Kuwait]]"
+  - "[[../../../../WikiData/WD~Lebanon]]"
+  - "[[../../../../WikiData/WD~Maldives]]"
+  - "[[../../../../WikiData/WD~Malaysia]]"
+  - "[[../../../../WikiData/WD~Myanmar]]"
+  - "[[../../../../WikiData/WD~Nepal]]"
+  - "[[../../../../WikiData/WD~Oman]]"
+  - "[[../../../../WikiData/WD~Pakistan]]"
+  - "[[../../../../WikiData/WD~Qatar]]"
+  - "[[../../../../WikiData/WD~Saudi Arabia]]"
+  - "[[../../../../WikiData/WD~Sri Lanka]]"
+  - "[[../../../../WikiData/WD~Tajikistan]]"
+  - "[[../../../../WikiData/WD~Thailand]]"
+  - "[[../../../../WikiData/WD~Turkmenistan]]"
+  - "[[../../../../WikiData/WD~United Arab Emirates]]"
+  - "[[../../../../WikiData/WD~Vietnam]]"
+  - "[[../../../../WikiData/WD~South Korea]]"
+  - "[[../../../../WikiData/WD~Bangladesh]]"
+  - "[[../../../../WikiData/WD~Angola]]"
+  - "[[../../../../WikiData/WD~Brunei]]"
+  - "[[../../../../WikiData/WD~Tanzania]]"
+  - "[[../../../../WikiData/WD~Philippines]]"
+  - "[[../../../../WikiData/WD~Central African Republic]]"
+  - "[[../../../../WikiData/WD~Tunisia]]"
+  - "[[../../../../WikiData/WD~Zimbabwe]]"
+  - "[[../../../../WikiData/WD~South Sudan]]"
+  - "[[../../../../WikiData/WD~Botswana]]"
+  - "[[../../../../WikiData/WD~Burkina Faso]]"
+  - "[[../../../../WikiData/WD~Republic of the Congo]]"
+  - "[[../../../../WikiData/WD~Djibouti]]"
+  - "[[../../../../WikiData/WD~Equatorial Guinea]]"
+  - "[[../../../../WikiData/WD~The Gambia]]"
+  - "[[../../../../WikiData/WD~Cape Verde]]"
+  - "[[../../../../WikiData/WD~Ivory Coast]]"
+  - "[[../../../../WikiData/WD~Liberia]]"
+  - "[[../../../../WikiData/WD~Lesotho]]"
+  - "[[../../../../WikiData/WD~Malawi]]"
+  - "[[../../../../WikiData/WD~Mauritius]]"
+  - "[[../../../../WikiData/WD~Mauritania]]"
+  - "[[../../../../WikiData/WD~Morocco]]"
+  - "[[../../../../WikiData/WD~Mozambique]]"
+  - "[[../../../../WikiData/WD~Nigeria]]"
+  - "[[../../../../WikiData/WD~São Tomé and Príncipe]]"
+  - "[[../../../../WikiData/WD~Uganda]]"
+  - "[[../../../../WikiData/WD~Rwanda]]"
+  - "[[../../../../WikiData/WD~Senegal]]"
+  - "[[../../../../WikiData/WD~Sierra Leone]]"
+  - "[[../../../../WikiData/WD~Eswatini]]"
+  - "[[../../../../WikiData/WD~Sudan]]"
+  - "[[../../../../WikiData/WD~Kosovo]]"
+  - "[[../../../../WikiData/WD~Canada]]"
+  - "[[../../../../WikiData/WD~Japan]]"
+  - "[[../../../../WikiData/WD~Norway]]"
+  - "[[../../../../WikiData/WD~Republic of Ireland]]"
+  - "[[../../../../WikiData/WD~United States of America]]"
+  - "[[../../../../WikiData/WD~Belgium]]"
+  - "[[../../../../WikiData/WD~Hungary]]"
+  - "[[../../../../WikiData/WD~Spain]]"
+  - "[[../../../../WikiData/WD~Sweden]]"
+  - "[[../../../../WikiData/WD~Denmark]]"
+  - "[[../../../../WikiData/WD~Luxembourg]]"
+  - "[[../../../../WikiData/WD~Finland]]"
+  - "[[../../../../WikiData/WD~Italy]]"
+  - "[[../../../../WikiData/WD~Switzerland]]"
+  - "[[../../../../WikiData/WD~Poland]]"
+  - "[[../../../../WikiData/WD~Lithuania]]"
+  - "[[../../../../WikiData/WD~Turkey]]"
+  - "[[../../../../WikiData/WD~Austria]]"
+  - "[[../../../../WikiData/WD~Greece]]"
+  - "[[../../../../WikiData/WD~Portugal]]"
+  - "[[../../../../WikiData/WD~Netherlands]]"
+  - "[[../../../../WikiData/WD~Egypt]]"
+  - "[[../../../../WikiData/WD~Uruguay]]"
+  - "[[../../../../WikiData/WD~Mexico]]"
+  - "[[../../../../WikiData/WD~Kenya]]"
+  - "[[../../../../WikiData/WD~Ethiopia]]"
+  - "[[../../../../WikiData/WD~France]]"
+  - "[[../../../../WikiData/WD~United Kingdom]]"
+  - "[[../../../../WikiData/WD~People's Republic of China]]"
+  - "[[../../../../WikiData/WD~Brazil]]"
+  - "[[../../../../WikiData/WD~Belarus]]"
+  - "[[../../../../WikiData/WD~Estonia]]"
+  - "[[../../../../WikiData/WD~Iceland]]"
+  - "[[../../../../WikiData/WD~Latvia]]"
+  - "[[../../../../WikiData/WD~Slovakia]]"
+  - "[[../../../../WikiData/WD~Slovenia]]"
+  - "[[../../../../WikiData/WD~Ukraine]]"
+  - "[[../../../../WikiData/WD~Czech Republic]]"
+  - "[[../../../../WikiData/WD~Romania]]"
+  - "[[../../../../WikiData/WD~Bulgaria]]"
+  - "[[../../../../WikiData/WD~Moldova]]"
+  - "[[../../../../WikiData/WD~Albania]]"
+  - "[[../../../../WikiData/WD~North Macedonia]]"
+  - "[[../../../../WikiData/WD~Azerbaijan]]"
+  - "[[../../../../WikiData/WD~Croatia]]"
+  - "[[../../../../WikiData/WD~Bosnia and Herzegovina]]"
+  - "[[../../../../WikiData/WD~Georgia]]"
+  - "[[../../../../WikiData/WD~Andorra]]"
+  - "[[../../../../WikiData/WD~Cyprus]]"
+  - "[[../../../../WikiData/WD~Monaco]]"
+  - "[[../../../../WikiData/WD~Kazakhstan]]"
+  - "[[../../../../WikiData/WD~Malta]]"
+  - "[[../../../../WikiData/WD~San Marino]]"
+  - "[[../../../../WikiData/WD~Montenegro]]"
+  - "[[../../../../WikiData/WD~Belize]]"
+  - "[[../../../../WikiData/WD~Cuba]]"
+  - "[[../../../../WikiData/WD~Barbados]]"
+  - "[[../../../../WikiData/WD~Indonesia]]"
+  - "[[../../../../WikiData/WD~South Africa]]"
+  - "[[../../../../WikiData/WD~Algeria]]"
+  - "[[../../../../WikiData/WD~Uzbekistan]]"
+  - "[[../../../../WikiData/WD~Chile]]"
+  - "[[../../../../WikiData/WD~Singapore]]"
+  - "[[../../../../WikiData/WD~Bahrain]]"
+  - "[[../../../../WikiData/WD~Armenia]]"
+  - "[[../../../../WikiData/WD~Serbia]]"
+  - "[[../../../../WikiData/WD~Australia]]"
+  - "[[../../../../WikiData/WD~Argentina]]"
+  - "[[../../../../WikiData/WD~Peru]]"
+  - "[[../../../../WikiData/WD~North Korea]]"
+  - "[[../../../../WikiData/WD~Cambodia]]"
+  - "[[../../../../WikiData/WD~East Timor]]"
+  - "[[../../../../WikiData/WD~New Zealand]]"
+  - "[[../../../../WikiData/WD~India]]"
+  - "[[../../../../WikiData/WD~Tonga]]"
+  - "[[../../../../WikiData/WD~Samoa]]"
+  - "[[../../../../WikiData/WD~Vanuatu]]"
+  - "[[../../../../WikiData/WD~Solomon Islands]]"
+  - "[[../../../../WikiData/WD~Papua New Guinea]]"
+  - "[[../../../../WikiData/WD~Palau]]"
+  - "[[../../../../WikiData/WD~Nauru]]"
+  - "[[../../../../WikiData/WD~Federated States of Micronesia]]"
+  - "[[../../../../WikiData/WD~Mongolia]]"
+  - "[[../../../../WikiData/WD~Marshall Islands]]"
+  - "[[../../../../WikiData/WD~Fiji]]"
+  - "[[../../../../WikiData/WD~Venezuela]]"
+  - "[[../../../../WikiData/WD~Suriname]]"
+  - "[[../../../../WikiData/WD~Guyana]]"
+  - "[[../../../../WikiData/WD~Paraguay]]"
+  - "[[../../../../WikiData/WD~Colombia]]"
+  - "[[../../../../WikiData/WD~Ecuador]]"
+  - "[[../../../../WikiData/WD~Bolivia]]"
+  - "[[../../../../WikiData/WD~Trinidad and Tobago]]"
+contains_the_administrative_territorial_entity:
+  - "[[../../../../WikiData/WD~Baden-Württemberg]]"
+  - "[[../../../../WikiData/WD~Bavaria,980]]"
+  - "[[../../../../WikiData/WD~Berlin,64]]"
+  - "[[../../../../WikiData/WD~Brandenburg,1208]]"
+  - "[[../../../../WikiData/WD~Bremen,1209]]"
+  - "[[../../../../WikiData/WD~Hamburg,1055]]"
+  - "[[../../../../WikiData/WD~Hesse,1199]]"
+  - "[[../../../../WikiData/WD~Lower_Saxony,1197]]"
+  - "[[../../../../WikiData/WD~Mecklenburg-Western_Pomerania,1196]]"
+  - "[[../../../../WikiData/WD~North_Rhine-Westphalia]]"
+  - "[[../../../../WikiData/WD~Rhineland-Palatinate,1201]]"
+  - "[[../../../../WikiData/WD~Saarland,1201]]"
+  - "[[../../../../WikiData/WD~Saxony,1202]]"
+  - "[[../../../../WikiData/WD~Saxony-Anhalt,1206]]"
+  - "[[../../../../WikiData/WD~Schleswig-Holstein,1194]]"
+  - "[[../../../../WikiData/WD~Thuringia,1205]]"
+located_in_or_next_to_body_of_water:
+  - "[[../../../../WikiData/WD~North Sea]]"
+  - "[[../../../../WikiData/WD~Baltic Sea]]"
+highest_point: "[[../../../../WikiData/WD~Zugspitze]]"
+located_in_time_zone:
+  - "[[../../../../WikiData/WD~UTC+01:00]]"
+  - "[[../../../../WikiData/WD~UTC+02:00]]"
+economy_of_topic: "[[../../../../WikiData/WD~economy of Germany]]"
+BHCL_UUID:
+  - 682b10e6-8392-4831-aa5a-1d734846f78f
+  - 2bde846d-48ca-4ac0-880c-91f4fe24c210
+OmegaWiki_Defined_Meaning: 7118
+UIC_numerical_country_code: 80
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 Happy_Planet_Index_score: 52.7
 INSEE_countries_and_foreign_territories_code: "99109"
 PM20_geo_code: A10
@@ -433,8 +792,13 @@ ISO_3166_1_alpha_3_code: DEU
 GitHub_topic: deutschland
 Commons_gallery: Deutschland
 hashtag:
+<<<<<<< HEAD
   - Germany
   - Deutschland
+=======
+  - Deutschland
+  - Germany
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 Wolfram_Language_entity_code: Entity["Country", "Germany"]
 IOC_country_code: GER
 CIVICUS_Monitor_country_entry: germany
@@ -446,6 +810,7 @@ Krugosvet_article: strany_mira/GERMANIYA.html
 OpenStreetMap_tag_or_key: Tag:addr:country=DE
 MeSH_tree_code: Z01.542.315
 demonym:
+<<<<<<< HEAD
   - alemanda
   - alemands
   - alemandas
@@ -479,6 +844,11 @@ demonym:
   - ألمانيات
   - ألمانية
   - ألمانيين
+=======
+  - ألمان
+  - ألماني
+  - ألمانية
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
   - alemán
   - alemana
   - немски
@@ -486,6 +856,7 @@ demonym:
   - alemany
   - alemanya
   - alemanys
+<<<<<<< HEAD
   - Almaenes
   - Almaenwr
   - Almaenwyr
@@ -499,14 +870,67 @@ demonym:
   - გერმანელი
   - deutx
   - Duitse
+=======
+  - Němec
+  - Němka
+  - Almaenes
+  - Almaenwr
+  - Almaenwyr
+  - tysker
+  - Deutsche
+  - Deutscher
+  - γερμανίδα
+  - γερμανίδες
+  - γερμανοί
+  - γερμανός
+  - German
+  - germano
+  - sakslased
+  - allemand
+  - Allemand
+  - allemande
+  - Allemande
+  - גרמני
+  - גרמנייה
+  - Němc
+  - Němcy
+  - Němka
+  - német
+  - Germaniano
+  - tedesca
+  - tedesche
+  - tedeschi
+  - tedesco
+  - გერმანელი
+  - deutx
+  - tysker
+  - Duitse
+  - Duitser
+  - tyskar
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
   - tyskarinne
   - alemã
   - alemão
   - german
   - germani
+<<<<<<< HEAD
   - Немац
   - Немица
   - Немци
+=======
+  - nemțoaică
+  - немец
+  - немка
+  - немцы
+  - ألماني
+  - ألمانية
+  - ألمانيين
+  - ألمانيات
+  - Немац
+  - Немица
+  - Немци
+  - tysk
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
   - німець
   - німкеня
   - німці
@@ -516,6 +940,7 @@ demonym:
   - todesco
   - Döüdschä
   - Deutänan
+<<<<<<< HEAD
   - alemand
   - germană
   - germane
@@ -533,10 +958,24 @@ short_name: Deutschland
 motto_text: Einigkeit und Recht und Freiheit
 highest_judicial_authority: "[[_Standards/WikiData/WD~Federal_Constitutional_Court,56025]]"
 life_expectancy: 81.9
+=======
+official_name: Bundesrepublik Deutschland
+native_label:
+  - Bundesrepublik Deutschland
+  - Deutschland
+name_in_native_language: Bundesrepublik Deutschland
+short_name: Deutschland
+motto_text:
+  - Einigkeit und Recht und Freiheit
+  - Unity and Justice and Freedom
+highest_judicial_authority: "[[../../../../WikiData/WD~Federal Constitutional Court]]"
+life_expectancy: 80.8
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 part_of: "[[../../../../WikiData/WD~European Economic Area]]"
 minimum_temperature_record: -45.9
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~president_of_Germany,25223]]"
 located_in_on_physical_feature:
+<<<<<<< HEAD
   - "[[_Standards/WikiData/WD~Western_Europe,27496]]"
   - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 shares_border_with:
@@ -550,12 +989,28 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~France,142]]"
   - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
 continent: "[[_Standards/WikiData/WD~Europe,46]]"
+=======
+  - "[[../../../../WikiData/WD~Western Europe]]"
+  - "[[../../../../WikiData/WD~Central Europe]]"
+shares_border_with:
+  - "[[../../../../WikiData/WD~Belgium]]"
+  - "[[../../../../WikiData/WD~Denmark]]"
+  - "[[../../../../WikiData/WD~Luxembourg]]"
+  - "[[../../../../WikiData/WD~Switzerland]]"
+  - "[[../../../../WikiData/WD~Poland]]"
+  - "[[../../../../WikiData/WD~Austria]]"
+  - "[[../../../../WikiData/WD~Netherlands]]"
+  - "[[../../../../WikiData/WD~France]]"
+  - "[[../../../../WikiData/WD~Czech Republic]]"
+continent: "[[../../../../WikiData/WD~Europe]]"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 has_capital: "[[../../../../WikiData/WD~Berlin,64]]"
 speed_limit:
   - 100
   - 50
 geoshape: http://commons.wikimedia.org/data/main/Data:Germany.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96tlingen%20-%20Panoramaansicht%20klein%20banner.jpg
+<<<<<<< HEAD
 country: "[[_Standards/WikiData/WD~Germany,183]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Berlin%20%2832881394137%29.jpg
 official_language: "[[_Standards/WikiData/WD~German,188]]"
@@ -590,12 +1045,44 @@ on_focus_list_of_Wikimedia_project:
 open_data_portal:
   - "[[_Standards/WikiData/WD~GovData,59273239]]"
   - "[[_Standards/WikiData/WD~Politik_bei_uns,61171716]]"
+=======
+country: "[[../../../../WikiData/WD~Germany,183]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Berlin%20%2832881394137%29.jpg
+official_language: "[[../../../../WikiData/WD~German]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Germany.svg
+pronunciation_audio:
+  - "[[http: //commons.wikimedia.org/wiki/Special:FilePath/De-Deutschland.ogg]]"
+  - http: //commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-Deutschland.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-ENERGY%20ENCHANTED-Deutschland.wav
+satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Deutschland%20Luftbild.jpg
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Deutschland%20topo.jpg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg
+maintained_by_WikiProject: "[[../../../../WikiData/WD~WikiProject Germany]]"
+Wikimedia_outline: "[[../../../../WikiData/WD~outline of Germany]]"
+topic_s_main_template: "[[../../../../WikiData/WD~Template:Germany topics]]"
+railway_traffic_side: "[[../../../../WikiData/WD~right]]"
+driving_side: "[[../../../../WikiData/WD~right]]"
+permanent_duplicated_item:
+  - "[[../../../../WikiData/WD~Q20825355]]"
+  - "[[../../../../WikiData/WD~Q23653930]]"
+  - "[[../../../../WikiData/WD~Q25681485]]"
+  - "[[../../../../WikiData/WD~Q27868447]]"
+  - "[[../../../../WikiData/WD~Q30277432]]"
+  - "[[../../../../WikiData/WD~Q53673262]]"
+emergency_phone_number: "[[../../../../WikiData/WD~110]]"
+trophy_awarded: "[[../../../../WikiData/WD~Q28669416]]"
+on_focus_list_of_Wikimedia_project: "[[../../../../WikiData/WD~WikiProject Zika Corpus]]"
+open_data_portal:
+  - "[[../../../../WikiData/WD~GovData]]"
+  - "[[../../../../WikiData/WD~Politik bei uns]]"
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 coordinates_of_geographic_center: Point(10.447777777 51.163333333)
 Baidu_Tieba_name: 德国
 Provenio_UUID: 25109579-f83d-4205-8a35-383a1387c62c
 UMLS_CUI: C0017480
 coordinate_location: Point(10.0 51.0)
 coordinates_of_easternmost_point: Point(15.04178122 51.27279981)
+<<<<<<< HEAD
 time_of_earliest_written_record: 0919-01-01T00:00:00Z
 ISNI: "0000000122854945"
 compulsory_education_maximum_age_: http://www.wikidata.org/.well-known/genid/74ea97b1ddfcd696f574cf6ab5e78e91
@@ -621,12 +1108,42 @@ coordinates_of_northernmost_point: Point(8.4193 55.0584)
 nominal_GDP: 4121200000000
 inception: 1949-05-23T00:00:00Z
 has_time_started: 1949-05-23
+=======
+time_of_earliest_written_record: "0919"
+ISNI: 122854945
+compulsory_education_maximum_age_: http://www.wikidata.org/.well-known/genid/74ea97b1ddfcd696f574cf6ab5e78e91
+coordinates_of_westernmost_point: Point(5.86636662 51.05110016)
+Democracy_Index: 8.67
+Inequality_adjusted_Human_Development_Index: 0.883
+head_of_government: "[[../../../../WikiData/WD~Olaf Scholz]]"
+minimum_wage:
+  - 9.19
+  - 9.35
+  - 12
+Human_Development_Index: 0.942
+named_after: "[[../../../../WikiData/WD~Germania]]"
+retirement_age: 65.25
+median_income: 33333
+population: 83149300
+coordinates_of_southernmost_point: Point(10.17844677 47.2700279)
+coordinates_of_northernmost_point: Point(8.4193 55.0584)
+nominal_GDP:
+  - 4259934911822
+  - 4072191736090
+inception: 1949-05-23
+has_time_started: 1949-05-23
+has_time_started: 1949-05-23T00:00:00Z 
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 area: 357587.77
 budget: 476290763000
 compulsory_education_minimum_age_:
   - 5
   - 6
+<<<<<<< HEAD
 unemployment_rate: 6.1
+=======
+unemployment_rate: 5
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 detail_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Germany.%20Cities%20in%20landscapes.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Germanymap2.png
@@ -637,14 +1154,20 @@ VAT_rate:
   - 7
   - 19
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Potsdamer%20Platz%2C%20Berlin%2C%20360x180%2C%20160403%2C%20ako.jpg
+<<<<<<< HEAD
 place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/0046%20Zgorzelec%20granica.jpg
 poverty_incidence: 14.8
+=======
+place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Westerwolde%2BHaren%20-%20R%C3%BCtenbrockerweg%20%2B%20Ter%20Apeler%20Stra%C3%9Fe%2001%20ies.jpg
+poverty_incidence: 16
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 water_as_percent_of_area: 2.3
 suicide_rate: 8.3
 literacy_rate: 99
+<<<<<<< HEAD
 total_fertility_rate: 1.455
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.de,37251]]"
 Gini_coefficient: 31.7
@@ -660,6 +1183,23 @@ IAB_code: "1300"
 maritime_identification_digits:
   - "218"
   - "211"
+=======
+total_fertility_rate: 1.39
+top_level_Internet_domain: "[[../../../../WikiData/WD~.de]]"
+Gini_coefficient: 31.7
+maximum_temperature_record: 41.2
+patron_saint: "[[../../../../WikiData/WD~Michael]]"
+Stack_Exchange_tag: https://travel.stackexchange.com/tags/germany
+official_website: https://verwaltung.bund.de
+country_calling_code: 49
+trunk_prefix: 0
+flag: "[[../../../../WikiData/WD~flag of Germany]]"
+U_S_National_Archives_Identifier: 10044480
+IAB_code: 1300
+maritime_identification_digits:
+  - 211
+  - 218
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 has_name:
   _: Germany
   en: Germany
@@ -709,7 +1249,7 @@ rural_population:
 #is_/same_as :: [[../../../../WikiData/WD~Germany,183|WD~Germany,183]]
 
 #has_/time_/started :: 1949-05-23 
-## International Names 
+## International Names
 
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
@@ -803,7 +1343,7 @@ with numbers as of 2023-06
 > and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nord_Rhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
 > Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic|Paleolithic]], 
-> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
+> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
 > 
 > Various Germanic tribes have inhabited the northern parts of modern Germany 
 > since classical antiquity. A region named Germania was documented before AD 100. 
@@ -824,9 +1364,9 @@ with numbers as of 2023-06
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Holocaust|Holocaust]]. 
+> [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Holocaust|Holocaust]]. 
 > 
-> After the end of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 

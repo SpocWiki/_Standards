@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Portuguese
@@ -53,7 +53,7 @@ has_phoneme:
 - "[[_Standards/WikiData/WD~voiceless_bilabial_plosive,237623]]"
 linguistic_typology:
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~pro-drop_language,661936]]"
 - "[[_Standards/WikiData/WD~syllabic_language,7888569]]"
 - '[[_Standards/WikiData/WD~noun-adjective,74835210]]'

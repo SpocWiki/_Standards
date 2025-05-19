@@ -34,42 +34,42 @@ economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_African_Union,5333816
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_African_Union,5535259]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_African_Union,6481073]]"
 short_name:
-- XA
-- AU
-- AU
-- AU
-- АБ
-- АС
-- AA
-- АЦ
-- АБ
-- 非盟
-- 非盟
-- 非盟
-- АУ
-- AU
-- UA
-- UA
-- AU
-- AU
-- AU
-- AU
-- UA
-- UA
-- UA
-- UA
-- UA
-- UA
-- AU
-- UA
-- AA
-- АС
-- АС
-- UA
-- UA
-- UA
-- UA
-- ΑΕ
+  - XA
+  - AU
+  - AU
+  - AU
+  - АБ
+  - АС
+  - AA
+  - АЦ
+  - АБ
+  - 非盟
+  - 非盟
+  - 非盟
+  - АУ
+  - AU
+  - UA
+  - UA
+  - AU
+  - AU
+  - AU
+  - AU
+  - UA
+  - UA
+  - UA
+  - UA
+  - UA
+  - UA
+  - AU
+  - UA
+  - AA
+  - АС
+  - АС
+  - UA
+  - UA
+  - UA
+  - UA
+  - ΑΕ
 has_part_s_:
 - "[[_Standards/WikiData/WD~Regions_of_the_African_Union,17092680]]"
 described_by_source:
@@ -93,8 +93,8 @@ Libris_URI: khw04hq30jrww20
 ISNI:
 - 0000000121899463
 MeSH_tree_code:
-- I01.615.500.125
-- N03.540.089
+  - I01.615.500.125
+  - N03.540.089
 Threads_username: africanunion_official
 Instagram_username: africanunion_official
 EU_Corporate_body_code: UNION_AFR

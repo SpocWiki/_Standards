@@ -21,7 +21,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
 - "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
 - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-- "[[_Standards/WikiData/WD~Belgium–Luxembourg_Economic_Union,1542735]]"
+- "[[_Standards/WikiData/WD~Belgium_Luxembourg_Economic_Union,1542735]]"
 - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
 - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
 - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
@@ -76,7 +76,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Luxembourg,312456]]"
 legislative_body: "[[_Standards/WikiData/WD~Chamber_of_Deputies,517449]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Luxembourg,535710]]"
@@ -116,51 +116,51 @@ permanent_duplicated_item:
 open_data_portal: '[[_Standards/WikiData/WD~data.public.lu,97130240]]'
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Luxembourg,113956811]]"
 demonym:
-- Luksemburžanka
-- Lucsamburgach
-- لوكسمبورغي
-- luxemburgués
-- luxemburguesa
-- লুক্সেমবুর্গীয়
-- Luxembourgian
-- לוקסמבורגי
-- Luxemburgiano
-- lussemburghesi
-- luxemburges
-- Luxemburger
-- luxemburghez
-- luxemburgheză
-- lusenburgheza
-- lusenburghezi
-- lusenburghezo
-- Luxämburgänan
-- luksemburgano
-- لوكسمبورڭي
-- لوكسمبورڭية
-- لوكسمبورڭيين
-- لوكسمبورڭيات
-- Luksemburžan
-- luxemburghezi
-- لوكسمبورغية
-- לוקסמבורגית
-- luxemburgi
-- lussemburghese
-- lusenburgheze
-- Luxembourger
-- Luxembourgeois
-- Luxembourgeoise
-- luxembourgeois
-- Luxembourgish
-- luxembourgeoise
-- لوكسمبورغيون
-- Lëtzebuerger
-- Lëtzebuergerin
+  - Luksemburžanka
+  - Lucsamburgach
+  - لوكسمبورغي
+  - luxemburgués
+  - luxemburguesa
+  - লুক্সেমবুর্গীয়
+  - Luxembourgian
+  - לוקסמבורגי
+  - Luxemburgiano
+  - lussemburghesi
+  - luxemburges
+  - Luxemburger
+  - luxemburghez
+  - luxemburgheză
+  - lusenburgheza
+  - lusenburghezi
+  - lusenburghezo
+  - Luxämburgänan
+  - luksemburgano
+  - لوكسمبورڭي
+  - لوكسمبورڭية
+  - لوكسمبورڭيين
+  - لوكسمبورڭيات
+  - Luksemburžan
+  - luxemburghezi
+  - لوكسمبورغية
+  - לוקסמבורגית
+  - luxemburgi
+  - lussemburghese
+  - lusenburgheze
+  - Luxembourger
+  - Luxembourgeois
+  - Luxembourgeoise
+  - luxembourgeois
+  - Luxembourgish
+  - luxembourgeoise
+  - لوكسمبورغيون
+  - Lëtzebuerger
+  - Lëtzebuergerin
 ISNI: 0000000121929204
 coordinates_of_geographic_center: "Point(6.09528 49.77723)"
 MeSH_tree_code: Z01.542.550
 nominal_GDP:
-- 82274812251
-- 85506243834
+  - 82274812251
+  - 85506243834
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - "[[_Standards/WikiData/WD~European_Union,458]]"
@@ -203,25 +203,25 @@ country: '[[_Standards/WikiData/WD~Luxembourg,32]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 literacy_rate: 100
 birth_rate:
-- 10
-- 9.9
-- 10.2
-- 10.5
+  - 10
+  - 9.9
+  - 10.2
+  - 10.5
 unemployment_rate:
-- 6
-- 6.3
+  - 6
+  - 6.3
 death_rate:
-- 7
-- 6.8
-- 6.9
-- 7.3
+  - 7
+  - 6.8
+  - 6.9
+  - 7.3
 VAT_rate: 17
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 Gini_coefficient:
-- 26
-- 34.9
+  - 26
+  - 34.9
 retirement_age: 65
 life_expectancy: 83
 Inequality_adjusted_Human_Development_Index: 0.85
@@ -239,10 +239,10 @@ IAB_code: 1343
 ISO_3166_1_numeric_code: 442
 M49_code: 442
 NUTS_code:
-- LU0
-- LU000
-- LU00
-- LU
+  - LU0
+  - LU000
+  - LU00
+  - LU
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/EU-Luxembourg.svg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Vianden%20banner.jpg"
 official_website: "https://luxembourg.public.lu"
@@ -262,9 +262,9 @@ official_name:
 - "Grand-Duché de Luxembourg"
 - "Grand-Duché Lëtzebuerg"
 - "Groussherzogtum Lëtzebuerg"
-- Lëtzebuerg
-- Luxembourg
-- Luxemburg
+  - Lëtzebuerg
+  - Luxembourg
+  - Luxemburg
 short_name: "\U0001F1F1\U0001F1FA"
 Provenio_UUID: ed6d6c9a-270e-48a5-b4be-5007fe8b6f3f
 UMLS_CUI: C0024176
@@ -282,9 +282,9 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Greater%
 coordinates_of_easternmost_point: "Point(6.531253 49.805742)"
 UIC_numerical_country_code: 82
 native_label:
-- Lëtzebuerg
-- Luxembourg
-- Luxemburg
+  - Lëtzebuerg
+  - Luxembourg
+  - Luxemburg
 number_of_out_of_school_children: 5946
 mobile_country_code: 270
 maritime_identification_digits: 253
@@ -296,28 +296,28 @@ licence_plate_code: L
 UIC_alphabetical_country_code: L
 median_income: 36084
 rural_population:
-- 53025
-- 53305
-- 53882
-- 54417
+  - 53025
+  - 53305
+  - 53882
+  - 54417
 population: 672050
 area: 2586.36
 female_population:
-- 308156
-- 313207
-- 317924
-- 324394
+  - 308156
+  - 313207
+  - 317924
+  - 324394
 male_population:
-- 311845
-- 317212
-- 322141
-- 328709
+  - 311845
+  - 317212
+  - 322141
+  - 328709
 INSEE_countries_and_foreign_territories_code: 99137
 urban_population:
-- 565584
-- 576537
-- 586759
-- 600078
+  - 565584
+  - 576537
+  - 586759
+  - 600078
 PM20_geo_code: A27
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg"
 ISO_3166_1_alpha_3_code: LUX
@@ -334,11 +334,11 @@ coordinates_of_southernmost_point: "Point(6.041683 49.44775)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:LuxembourgCountry.map"
 has_id_wikidata: Q32
 location:
-- 49.6827
-- 6.07904
+    - 49.6827
+    - 6.07904
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26953
 isDeleted: false
 confidential: public
@@ -355,17 +355,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Luxembourg
-- Luxemburgo
-- لكسمبرغ
-- 卢森堡
-- Люксембург
+    - Luxembourg
+    - Luxemburgo
+    - لكسمبرغ
+    - 卢森堡
+    - Люксембург
 - "the Grand Duchy of Luxembourg"
 - "el Gran Ducado de Luxemburgo"
 Languages:
-- lb
-- de-LU
-- fr-LU
+    - lb
+    - de-LU
+    - fr-LU
 icon: flag-lu
 ---
 

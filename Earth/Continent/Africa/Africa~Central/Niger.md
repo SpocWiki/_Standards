@@ -118,42 +118,42 @@ described_by_source: "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,6
 anthem: "[[_Standards/WikiData/WD~L'Honneur_de_la_Patrie,120170814]]"
 coordinates_of_easternmost_point: "Point(15.99665 20.35306)"
 nominal_GDP:
-- 14915002098
-- 13969605583
+  - 14915002098
+  - 13969605583
 UMLS_CUI: C0028074
 demonym:
-- nigerí
-- nigerina
-- نيجري
-- نيجرية
-- نيجريات
-- نيجريين
-- نيجري
-- نيجرية
-- نيجريون
-- nixerín
-- nixerina
-- নাইজেরীয়
-- Nigerier
-- Nigerierin
-- Nigerien
+  - nigerí
+  - nigerina
+  - نيجري
+  - نيجرية
+  - نيجريات
+  - نيجريين
+  - نيجري
+  - نيجرية
+  - نيجريون
+  - nixerín
+  - nixerina
+  - নাইজেরীয়
+  - Nigerier
+  - Nigerierin
+  - Nigerien
 - "ניז'רי"
 - "ניז'רית"
-- nigeri
-- Nijerano
-- nigerine
-- nigerino
-- nijerien
-- nizerin
-- nizerina
-- nizerine
-- Nigeränan
-- Nigérien
-- Nigérienne
-- Nígireach
-- nigerina
-- nigerini
-- nizerini
+  - nigeri
+  - Nijerano
+  - nigerine
+  - nigerino
+  - nijerien
+  - nizerin
+  - nizerina
+  - nizerine
+  - Nigeränan
+  - Nigérien
+  - Nigérienne
+  - Nígireach
+  - nigerina
+  - nigerini
+  - nizerini
 ISNI: 0000000121881490
 MeSH_tree_code: Z01.058.290.190.560
 motto_text:
@@ -195,30 +195,30 @@ official_language: '[[_Standards/WikiData/WD~French,150]]'
 Human_Development_Index: 0.4
 unemployment_rate: 5
 marriageable_age:
-- 15
-- 18
+  - 15
+  - 18
 VAT_rate: 19
 mains_voltage: 220
 BTI_Status_Index:
-- 4.9
-- 5.4
-- 4.55
-- 5.01
-- 5.13
-- 5.15
-- 5.32
-- 5.36
-- 5.45
+  - 4.9
+  - 5.4
+  - 4.55
+  - 5.01
+  - 5.13
+  - 5.15
+  - 5.32
+  - 5.36
+  - 5.45
 BTI_Governance_Index:
-- 5.1
-- 5.25
-- 5.54
-- 5.63
-- 5.69
-- 5.87
-- 5.94
-- 6.11
-- 6.12
+  - 5.1
+  - 5.25
+  - 5.54
+  - 5.63
+  - 5.69
+  - 5.87
+  - 5.94
+  - 6.11
+  - 6.12
 Inequality_adjusted_Human_Development_Index: 0.292
 Democracy_Index: 3.29
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ne,43158]]'
@@ -247,17 +247,17 @@ Krugosvet_article: strany_mira/NIGER.html
 official_name:
 - "la République du Niger"
 - "Jamhuriyar Nijar"
-- Niger
+  - Niger
 native_label: Nijar
 short_name: "\U0001F1F3\U0001F1EA"
 coordinates_of_westernmost_point: "Point(0.16896 14.52207)"
 area: 1267000
 total_fertility_rate: 7.599
 death_rate:
-- 7.824
-- 7.834
-- 8.141
-- 8.281
+  - 7.824
+  - 7.834
+  - 8.141
+  - 8.281
 maritime_identification_digits: 656
 ISO_3166_1_alpha_2_code: NE
 WIPO_ST_3: NE
@@ -266,10 +266,10 @@ IAB_code: 1444
 ISO_3166_1_numeric_code: 562
 M49_code: 562
 birth_rate:
-- 45.029
-- 45.293
-- 45.588
-- 45.859
+  - 45.029
+  - 45.293
+  - 45.588
+  - 45.859
 life_expectancy: 60.058
 licence_plate_code: RN
 INSEE_countries_and_foreign_territories_code: 99337
@@ -278,17 +278,17 @@ ITU_letter_code: NGR
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
 IOC_country_code: NIG
 male_population:
-- 12342370
-- 11889761
-- 12809135
-- 13293383
+  - 12342370
+  - 11889761
+  - 12809135
+  - 13293383
 coordinate_location: "Point(10.0 17.0)"
 number_of_out_of_school_children: 3410345
 urban_population:
-- 3872145
-- 4045711
-- 4230083
-- 4427576
+  - 3872145
+  - 4045711
+  - 4230083
+  - 4427576
 Commons_category: Niger
 subreddit: Niger
 Commons_gallery: Niger
@@ -296,16 +296,16 @@ hashtag: Niger
 inception: "1960"
 has_time_started: 1960-06 
 female_population:
-- 11553632
-- 11991269
-- 12443587
-- 12914594
+  - 11553632
+  - 11991269
+  - 12443587
+  - 12914594
 PM20_geo_code: C35
 rural_population:
-- 19571248
-- 20287928
-- 21022639
-- 21780401
+  - 19571248
+  - 20287928
+  - 21022639
+  - 21780401
 coordinates_of_northernmost_point: "Point(11.98 23.52)"
 population: 21477348
 geoshape: "http://commons.wikimedia.org/data/main/Data:Niger.map"

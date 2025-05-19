@@ -74,8 +74,8 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Tajikistan,17065464]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Tajikistan,21662238]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103906,27103906]]'
 nominal_GDP:
-- 8937805347
-- 10492123388
+  - 8937805347
+  - 10492123388
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Asia_Dushanbe,63285959]]'
@@ -86,44 +86,44 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Tadjikistan.wav"
 UMLS_CUI: C0039247
 demonym:
-- طادجيكي
-- طادجيكية
-- طادجاكيين
-- طادجيكيات
-- Táidsíceastánach
-- طاجيكستاني
-- طاجيكستانية
-- طاجيكستانيون
-- taxiquistanín
-- তাজিকিস্তানী
-- Tajikistani
-- تاجیک
-- Tadjik
-- Tadjike
+  - طادجيكي
+  - طادجيكية
+  - طادجاكيين
+  - طادجيكيات
+  - Táidsíceastánach
+  - طاجيكستاني
+  - طاجيكستانية
+  - طاجيكستانيون
+  - taxiquistanín
+  - তাজিকিস্তানী
+  - Tajikistani
+  - تاجیک
+  - Tadjik
+  - Tadjike
 - "טג'יקי"
 - "טג'יקית"
-- tádzsik
-- Tajikistanano
-- tagika
-- tagike
-- tagiki
-- tagiko
-- tadjici
-- tadjic
-- tadjică
-- tadjici
-- тоҷик
-- тоҷикбача
-- тоҷикдухтар
-- тоҷикистонӣ
-- тоҷикистониҳо
-- тоҷикон
-- тоҷикҳо
-- tàzega
-- tàzeghe
-- tàzeghi
-- tàzego
-- Tacikistänan
+  - tádzsik
+  - Tajikistanano
+  - tagika
+  - tagike
+  - tagiki
+  - tagiko
+  - tadjici
+  - tadjic
+  - tadjică
+  - tadjici
+  - тоҷик
+  - тоҷикбача
+  - тоҷикдухтар
+  - тоҷикистонӣ
+  - тоҷикистониҳо
+  - тоҷикон
+  - тоҷикҳо
+  - tàzega
+  - tàzeghe
+  - tàzeghi
+  - tàzego
+  - Tacikistänan
 coordinates_of_southernmost_point: "Point(71.7556649 36.6801122)"
 ISNI: 0000000121052676
 MeSH_tree_code: Z01.252.100.900
@@ -189,26 +189,26 @@ age_of_majority: 17
 marriageable_age: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 3.2
-- 2.97
-- 3.27
-- 3.31
-- 3.35
-- 3.51
-- 3.57
-- 4.48
-- 4.49
+  - 3.2
+  - 2.97
+  - 3.27
+  - 3.31
+  - 3.35
+  - 3.51
+  - 3.57
+  - 4.48
+  - 4.49
 Gini_coefficient: 34
 BTI_Status_Index:
-- 3.5
-- 3.6
-- 3.8
-- 3.21
-- 3.31
-- 3.32
-- 3.42
-- 3.45
-- 3.59
+  - 3.5
+  - 3.6
+  - 3.8
+  - 3.21
+  - 3.31
+  - 3.32
+  - 3.42
+  - 3.45
+  - 3.59
 Democracy_Index: 1.94
 highest_point: "[[_Standards/WikiData/WD~Ismoil_Somoni_Peak,41413]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tj,42033]]'
@@ -239,47 +239,47 @@ official_name:
 - "République du Tadjikistan"
 - "Ҷумҳурии Тоҷикистон"
 birth_rate:
-- 27.53
-- 26.025
-- 26.749
-- 28.267
+  - 27.53
+  - 26.025
+  - 26.749
+  - 28.267
 short_name:
-- Таджикистан
-- Тоҷикистон
-- ҶТ
+  - Таджикистан
+  - Тоҷикистон
+  - ҶТ
 - "\U0001F1F9\U0001F1EF"
 native_label:
-- Тоҷикистон
+  - Тоҷикистон
 - "Ҷумҳурии Тоҷикистон"
 name_in_native_language: "Ҷумҳурии Тоҷикистон"
 death_rate:
-- 4.548
-- 4.695
-- 4.843
-- 6.121
+  - 4.548
+  - 4.695
+  - 4.843
+  - 6.121
 population: 9504000
 life_expectancy: 71.051
 number_of_out_of_school_children: 198438
 urban_population:
-- 2549842
-- 2624955
-- 2703303
-- 2783595
+  - 2549842
+  - 2624955
+  - 2703303
+  - 2783595
 female_population:
-- 4640105
-- 4741717
-- 4843921
-- 4944055
+  - 4640105
+  - 4741717
+  - 4843921
+  - 4944055
 male_population:
-- 4696898
-- 4801489
-- 4906143
-- 5008732
+  - 4696898
+  - 4801489
+  - 4906143
+  - 5008732
 rural_population:
-- 6787161
-- 6918252
-- 7046761
-- 7169192
+  - 6787161
+  - 6918252
+  - 7046761
+  - 7169192
 coordinates_of_westernmost_point: "Point(67.3449975 39.3045407)"
 inception: "1991-09-09"
 has_time_started: "1991-09-09"
@@ -287,11 +287,11 @@ coordinates_of_easternmost_point: "Point(75.1600533 37.4116094)"
 coordinate_location: "Point(71.366667 38.583333)"
 has_id_wikidata: Q863
 location:
-- 38.55
-- 68.8
+    - 38.55
+    - 68.8
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27033
 isDeleted: false
 confidential: public
@@ -308,17 +308,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Tajikistan
-- Tayikistán
-- Tadjikistan
-- طاجيكستان
-- 塔吉克斯坦
-- Таджикистан
+    - Tajikistan
+    - Tayikistán
+    - Tadjikistan
+    - طاجيكستان
+    - 塔吉克斯坦
+    - Таджикистан
 - "the Republic of Tajikistan"
 - "la República de Tayikistán"
 Languages:
-- tg
-- ru
+    - tg
+    - ru
 icon: flag-tj
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21905
 has_id_wikidata: Q560
@@ -37,7 +37,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
 antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
 by_product_of: "[[_Standards/WikiData/WD~natural-gas_processing,2287558]]"
@@ -78,7 +78,7 @@ EC_number: 231-168-5
 Common_Procurement_Vocabulary_code: 24111300
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Helium,560|WD~Helium,560]]
+#is_/same_as :: [[../../../WikiData/WD~Helium,560_WD~Helium,560]]
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]

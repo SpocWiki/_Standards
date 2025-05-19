@@ -27,8 +27,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885–1900,15987216]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Men_of_Kent_and_Kentishmen,101589898]]"
 - "[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]"
@@ -52,8 +52,8 @@ position_held:
 depicted_by:
 - "[[_Standards/WikiData/WD~Elizabeth_I_(1533-1603),28027524]]"
 - "[[_Standards/WikiData/WD~Queen_Elizabeth_I,28042820]]"
-- "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533–1603),52152113]]"
-- "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533–1603),52255074]]"
+- "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52152113]]"
+- "[[_Standards/WikiData/WD~Queen_Elizabeth_I_(1533_1603),52255074]]"
 date_of_death: "1603-04-03"
 ISNI: 0000000121446237
 languages_spoken_written_or_signed:

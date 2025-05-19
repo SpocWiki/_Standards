@@ -7,9 +7,9 @@ Archive_of_Our_Own_tag: "Jazz Music"
 Krugosvet_article: kultura_i_obrazovanie/muzyka/DZHAZ.html
 IPTC_NewsCode: mediatopic/20000025
 short_name:
-- Jazz
-- jazz
-- jazz
+  - Jazz
+  - jazz
+  - jazz
 audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Backbay%20Lounge%20%28ISRC%20USUAN1700068%29.mp3"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Alamo%20%281922%2C%20Benson%20Orchestra%20of%20Chicago%29.mp3"

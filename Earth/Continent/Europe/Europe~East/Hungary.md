@@ -1,10 +1,10 @@
 ---
 location:
-- 47.2796
-- 19.1508
+  - 47.2796
+  - 19.1508
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q28
 SpocWebEntityId: 26921
 isDeleted: false
@@ -22,88 +22,88 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Hungary
-- Hungría
-- Hongrie
-- هنغاريا
-- 匈牙利
-- Венгрия
+  - Hungary
+  - Hungría
+  - Hongrie
+  - هنغاريا
+  - 匈牙利
+  - Венгрия
 Languages:
-- hu-HU
+  - hu-HU
 icon: flag-hu
 IPA_transcription:
-- ˈʊŋɡaʁn
-- ˈvʲenɡrʲɪjə
-- ˈmɒɟɒrorsaːɡ
+  - ˈʊŋɡaʁn
+  - ˈvʲenɡrʲɪjə
+  - ˈmɒɟɒrorsaːɡ
 country_calling_code: +36
 Dewey_Decimal_Classification: 2--439
 BHCL_UUID:
-- b9a758ab-6b31-4c7c-a7e9-cd6d94490c4a
-- c1a19b5d-fced-41a5-969d-b31e87e44a30
+  - b9a758ab-6b31-4c7c-a7e9-cd6d94490c4a
+  - c1a19b5d-fced-41a5-969d-b31e87e44a30
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Hungary\"]"
 Colon_Classification: SG--5932
 Krugosvet_article: strany-mira/vengriya
 demonym:
-- مجريون
-- húngara
-- húngaro
-- унгарец
-- унгарка
-- унгарци
-- হাঙ্গেরীয়
-- hongaresa
-- hongaresos
-- Ungarin
-- ungarisch
-- Ουγγαρέζα
-- Ουγγαρέζες
-- Ούγγροι
-- Ούγγρος
-- Hongroise
-- הונגרי
-- הונגרייה
-- mađar
-- mađarica
-- Hungariano
-- ungheresi
-- Hongaar
-- maghiar
-- венгерка
-- венгр
-- венгры
-- ungersk
-- мадяр
-- мадяри
-- мадярка
-- угорець
-- угорка
-- угорці
-- ungareza
-- ungareze
-- ungarezi
-- Macaränan
-- هنڭاري
-- هنڭارية
-- هنڭاريين
-- هنڭاريات
-- Madžarka
-- Ungárach
-- maghiari
-- hungaro
-- مجرية
-- húngaru
-- hongarès
-- magyar
-- ungherese
-- magiar
-- ungarian
-- maghiară
-- ungarezo
-- Madžar
-- مجري
-- Hongrois
-- Hungarian
-- Ungar
+  - مجريون
+  - húngara
+  - húngaro
+  - унгарец
+  - унгарка
+  - унгарци
+  - হাঙ্গেরীয়
+  - hongaresa
+  - hongaresos
+  - Ungarin
+  - ungarisch
+  - Ουγγαρέζα
+  - Ουγγαρέζες
+  - Ούγγροι
+  - Ούγγρος
+  - Hongroise
+  - הונגרי
+  - הונגרייה
+  - mađar
+  - mađarica
+  - Hungariano
+  - ungheresi
+  - Hongaar
+  - maghiar
+  - венгерка
+  - венгр
+  - венгры
+  - ungersk
+  - мадяр
+  - мадяри
+  - мадярка
+  - угорець
+  - угорка
+  - угорці
+  - ungareza
+  - ungareze
+  - ungarezi
+  - Macaränan
+  - هنڭاري
+  - هنڭارية
+  - هنڭاريين
+  - هنڭاريات
+  - Madžarka
+  - Ungárach
+  - maghiari
+  - hungaro
+  - مجرية
+  - húngaru
+  - hongarès
+  - magyar
+  - ungherese
+  - magiar
+  - ungarian
+  - maghiară
+  - ungarezo
+  - Madžar
+  - مجري
+  - Hongrois
+  - Hungarian
+  - Ungar
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
@@ -360,18 +360,18 @@ literacy_rate: 100
 Gini_coefficient: 30
 compulsory_education_minimum_age_: 3
 unemployment_rate:
-- 8
-- 4.2
+  - 8
+  - 4.2
 BTI_Status_Index:
-- 9
-- 6.62
-- 6.99
-- 7.43
-- 7.69
-- 8.05
-- 8.48
-- 9.16
-- 9.18
+  - 9
+  - 6.62
+  - 6.99
+  - 7.43
+  - 7.69
+  - 8.05
+  - 8.48
+  - 9.16
+  - 9.18
 compulsory_education_maximum_age_: 16
 marriageable_age: 18
 age_of_majority: 18
@@ -380,44 +380,44 @@ VAT_rate: 27
 inflation_rate: 5.1
 Democracy_Index: 6.5
 BTI_Governance_Index:
-- 6.7
-- 3.86
-- 4.13
-- 4.44
-- 4.67
-- 4.96
-- 5.47
-- 6.51
-- 6.87
+  - 6.7
+  - 3.86
+  - 4.13
+  - 4.44
+  - 4.67
+  - 4.96
+  - 5.47
+  - 6.51
+  - 6.87
 life_expectancy:
-- 74
-- 76
-- 72.3
-- 70.67707
-- 71.24634
-- 72.24878
-- 72.34878
-- 72.64878
-- 73.09756
-- 73.15122
-- 73.70244
-- 73.90488
-- 74.20732
-- 74.85854
-- 75.06341
-- 75.56585
-- 75.56829
-- 75.76341
+  - 74
+  - 76
+  - 72.3
+  - 70.67707
+  - 71.24634
+  - 72.24878
+  - 72.34878
+  - 72.64878
+  - 73.09756
+  - 73.15122
+  - 73.70244
+  - 73.90488
+  - 74.20732
+  - 74.85854
+  - 75.06341
+  - 75.56585
+  - 75.56829
+  - 75.76341
 birth_rate:
-- 9.3
-- 9.5
-- 9.6
-- 9.7
+  - 9.3
+  - 9.5
+  - 9.6
+  - 9.7
 death_rate:
-- 13.3
-- 14.2
-- 14.5
-- 16.1
+  - 13.3
+  - 14.2
+  - 14.5
+  - 16.1
 total_fertility_rate: 1.35
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.hu,40622]]'
 anthem: '[[_Standards/WikiData/WD~Himnusz,45788]]'
@@ -446,7 +446,7 @@ motto_text:
 official_name:
 - "la Hongrie"
 - "Maďarská republika"
-- Magyarország
+  - Magyarország
 short_name: "\U0001F1ED\U0001F1FA"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Hungary,10625233]]"
 railway_traffic_side:
@@ -484,30 +484,30 @@ ISO_3166_1_alpha_3_code: HUN
 IOC_country_code: HUN
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
 rural_population:
-- 2694980
-- 2646824
-- 2735697
-- 2770705
+  - 2694980
+  - 2646824
+  - 2735697
+  - 2770705
 area: 93011.4
 INSEE_countries_and_foreign_territories_code: 99112
 ITU_letter_code: HNG
 male_population:
-- 4629668
-- 4654334
-- 4672304
-- 4678279
+  - 4629668
+  - 4654334
+  - 4672304
+  - 4678279
 female_population:
-- 5013379
-- 5055557
-- 5077844
-- 5092862
+  - 5013379
+  - 5055557
+  - 5077844
+  - 5092862
 hashtag: Hungary
 Commons_category: Hungary
 urban_population:
-- 6996224
-- 7000436
-- 7014452
-- 7014911
+  - 6996224
+  - 7000436
+  - 7014452
+  - 7014911
 U_S_National_Archives_Identifier: 10045318
 population: 9599744
 PM20_geo_code: A40d

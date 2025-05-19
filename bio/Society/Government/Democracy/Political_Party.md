@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Political party"
 has_id_wikidata: Q7278
@@ -9,7 +9,7 @@ different_from: '[[_Standards/WikiData/WD~Party,230880]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 position_held_by_head_of_the_organization:
 - "[[_Standards/WikiData/WD~party_secretary,836971]]"
 - "[[_Standards/WikiData/WD~party_leader,1553195]]"

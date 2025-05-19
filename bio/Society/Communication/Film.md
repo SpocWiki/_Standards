@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11424
 properties_for_this_type:
 - "Open Media Database film ID"
@@ -113,7 +113,7 @@ properties_for_this_type:
 - "Sratim ID"
 - "Ciné-Ressources film ID"
 model_item:
-- "[[_Standards/WikiData/WD~Star_Wars__Episode_IV_–_A_New_Hope,17738]]"
+- "[[_Standards/WikiData/WD~Star_Wars__Episode_IV___A_New_Hope,17738]]"
 - "[[_Standards/WikiData/WD~Berlin__Symphony_of_a_Metropolis,632362]]"
 - "[[_Standards/WikiData/WD~Elevator_to_the_Gallows,950893]]"
 - "[[_Standards/WikiData/WD~Wild_Tales,16672466]]"

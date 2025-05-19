@@ -1,4 +1,4 @@
-﻿---
+---
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -43,10 +43,10 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~ISO_80000-5_2007_Quantities_and_units_—_Part_5__Thermodynamics,26711934]]"
+- "[[_Standards/WikiData/WD~ISO_80000-5_2007_Quantities_and_units___Part_5__Thermodynamics,26711934]]"
 - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-- "[[_Standards/WikiData/WD~ISO_80000-5_2019_Quantities_and_units_—_Part_5__Thermodynamics,92157468]]"
+- "[[_Standards/WikiData/WD~ISO_80000-5_2019_Quantities_and_units___Part_5__Thermodynamics,92157468]]"
 - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 studied_in: '[[_Standards/WikiData/WD~energetics,719597]]'
 has_use:
@@ -66,7 +66,7 @@ quantity_symbol_LaTeX_:
 Stack_Exchange_tag:
 - "https://worldbuilding.stackexchange.com/tags/energy"
 - "https://physics.stackexchange.com/tags/energy"
-part_of: "[[_Standards/WikiData/WD~mass–energy_equivalence,35875]]"
+part_of: "[[_Standards/WikiData/WD~mass_energy_equivalence,35875]]"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Electric%20power%20transmission.jpg"
 exact_match: "http://purl.obolibrary.org/obo/ENVO_2000015"
 equivalent_class: "https://schema.org/Energy"

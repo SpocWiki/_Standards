@@ -27,13 +27,13 @@ has_id_wikidata: Q25445
 instance of:
   - "[[_Standards/WikiData/WD~series,312468]]"
   - "[[_Standards/WikiData/WD~epoch,754897]]"
-named by: "[[_Standards/WikiData/WD~Paul Gervais,433721]]"
+named by: "[[_Standards/WikiData/WD~Paul_Gervais,433721]]"
 described by source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-significant event: "[[_Standards/WikiData/WD~Middle Bronze Age Cold Epoch,4375138]]"
-part of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+significant event: "[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]"
+part of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 start time: -9700-01-01T00:00:00Z
 sRGB color hex triplet: FEEBD2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg

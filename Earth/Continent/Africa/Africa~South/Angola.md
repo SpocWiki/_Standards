@@ -1,10 +1,10 @@
 ---
 location:
-- -8.8
-- 13.23
+  - -8.8
+  - 13.23
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q916
 SpocWebEntityId: 26833
 isDeleted: false
@@ -22,14 +22,14 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Angola
-- أنغولا
-- 安哥拉
-- Ангола
+  - Angola
+  - أنغولا
+  - 安哥拉
+  - Ангола
 - "the Republic of Angola"
 - "la República de Angola"
 Languages:
-- pt-AO
+  - pt-AO
 flag: "[[_Standards/WikiData/WD~flag_of_Angola,124329]]"
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Cabinda_Province,168787]]"
@@ -150,51 +150,51 @@ studied_in: "[[_Standards/WikiData/WD~Angolan_studies,115669295]]"
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Angola%20%28orthographic%20projection%29.svg"
 UMLS_CUI: C0003023
 demonym:
-- أنڭولي
-- أنڭولية
-- أنڭوليات
-- أنڭوليين
-- Angólach
-- أنغولي
-- أنغولية
-- أنغوليون
-- angolana
-- angolanu
-- অ্যাঙ্গোলীয়
-- angolès
-- angolesa
-- Angolan
-- Angolanka
-- angolaner
-- Angolan
-- Angolano
-- Angolais
-- Angolaise
-- אנגולי
-- אנגולית
-- angolai
-- Angolano
-- angolana
-- angolane
-- angolani
-- angolano
-- angolan
-- angolez
-- angoleză
-- angolezi
-- анголец
-- анголка
-- ангольцы
-- angołan
-- angołana
-- angołane
-- angołani
-- Langolänan
+  - أنڭولي
+  - أنڭولية
+  - أنڭوليات
+  - أنڭوليين
+  - Angólach
+  - أنغولي
+  - أنغولية
+  - أنغوليون
+  - angolana
+  - angolanu
+  - অ্যাঙ্গোলীয়
+  - angolès
+  - angolesa
+  - Angolan
+  - Angolanka
+  - angolaner
+  - Angolan
+  - Angolano
+  - Angolais
+  - Angolaise
+  - אנגולי
+  - אנגולית
+  - angolai
+  - Angolano
+  - angolana
+  - angolane
+  - angolani
+  - angolano
+  - angolan
+  - angolez
+  - angoleză
+  - angolezi
+  - анголец
+  - анголка
+  - ангольцы
+  - angołan
+  - angołana
+  - angołane
+  - angołani
+  - Langolänan
 ISNI: 0000000404983083
 MeSH_tree_code: Z01.058.290.175.095
 nominal_GDP:
-- 65685435100
-- 106713618735
+  - 65685435100
+  - 106713618735
 coordinates_of_northernmost_point: "Point(12.75 -4.37)"
 image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Angola%20-%20Location%20Map%20%282013%29%20-%20AGO%20-%20UNOCHA.svg"
@@ -251,15 +251,15 @@ marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 3.6
-- 3.11
-- 3.56
-- 3.61
-- 3.96
-- 4.03
-- 4.18
-- 4.23
-- 4.46
+  - 3.6
+  - 3.11
+  - 3.56
+  - 3.61
+  - 3.96
+  - 4.03
+  - 4.18
+  - 4.23
+  - 4.46
 suicide_rate: 4.7
 literacy_rate: 66
 ISO_3166_1_alpha_3_code: AGO
@@ -288,43 +288,43 @@ official_name:
 - "Angolská republika"
 motto_text: "Virtus Unita Fortior"
 native_label:
-- Angola
+  - Angola
 - "República de Angola"
 short_name: "\U0001F1E6\U0001F1F4"
 death_rate:
-- 7.811
-- 7.821
-- 7.863
-- 8.009
+  - 7.811
+  - 7.821
+  - 7.863
+  - 8.009
 area: 1246700
 birth_rate:
-- 38.809
-- 39.271
-- 39.725
-- 38.2
+  - 38.809
+  - 39.271
+  - 39.725
+  - 38.2
 life_expectancy: 61.547
 rural_population:
-- 11089900
-- 10942954
-- 11227528
-- 11359649
+  - 11089900
+  - 10942954
+  - 11227528
+  - 11359649
 female_population:
-- 17998220
-- 16370553
-- 16910989
-- 17452283
+  - 17998220
+  - 16370553
+  - 16910989
+  - 17452283
 number_of_out_of_school_children: 2088363
 coordinates_of_westernmost_point: "Point(11.7 -16.5833)"
 male_population:
-- 15983035
-- 16517497
-- 17051491
-- 17590767
+  - 15983035
+  - 16517497
+  - 17051491
+  - 17590767
 urban_population:
-- 21410634
-- 22338586
-- 23276246
-- 24229338
+  - 21410634
+  - 22338586
+  - 23276246
+  - 24229338
 inception: "1992-08-25"
 has_time_started: "1992-08-25"
 coordinates_of_southernmost_point: "Point(20.825527777 -18.0385)"
@@ -332,14 +332,14 @@ population: 36749906
 coordinate_location: "Point(17.35 -12.35)"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ao,39006]]'
 BTI_Status_Index:
-- 3.41
-- 3.82
-- 3.94
-- 4.16
-- 4.21
-- 4.44
-- 4.56
-- 4.92
+  - 3.41
+  - 3.82
+  - 3.94
+  - 4.16
+  - 4.21
+  - 4.44
+  - 4.56
+  - 4.92
 Democracy_Index: 3.66
 Inequality_adjusted_Human_Development_Index: 0.407
 maximum_temperature_record: 43.5

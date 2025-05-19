@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q319
 speed: 13.07
 density: 1326
@@ -43,7 +43,7 @@ longitude_of_ascending_node: 100.47390909
 child_astronomical_body:
 - "[[_Standards/WikiData/WD~S_2003_J_24,107643667]]"
 - "[[_Standards/WikiData/WD~rings_of_Jupiter,3060]]"
-- "[[_Standards/WikiData/WD~Comet_Shoemaker–Levy_9,3076]]"
+- "[[_Standards/WikiData/WD~Comet_Shoemaker_Levy_9,3076]]"
 - '[[_Standards/WikiData/WD~Io,3123]]'
 - '[[_Standards/WikiData/WD~Callisto,3134]]'
 - '[[_Standards/WikiData/WD~Europa,3143]]'

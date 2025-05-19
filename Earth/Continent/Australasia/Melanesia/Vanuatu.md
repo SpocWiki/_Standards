@@ -1,10 +1,10 @@
 ---
 location:
-- -17.75
-- 168.3
+  - -17.75
+  - 168.3
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q686
 SpocWebEntityId: 27056
 isDeleted: false
@@ -22,16 +22,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Vanuatu
-- فانواتو
-- 瓦努阿图
-- Вануату
+  - Vanuatu
+  - فانواتو
+  - 瓦努阿图
+  - Вануату
 - "the Republic of Vanuatu"
 - "la República de Vanuatu"
 Languages:
-- bi
-- en-VU
-- fr-VU
+  - bi
+  - en-VU
+  - fr-VU
 icon: flag-vu
 instance_of:
 - "[[_Standards/WikiData/WD~island_country,112099]]"
@@ -133,7 +133,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Saa,3460352]]'
 - "[[_Standards/WikiData/WD~Southwest_Tanna,3504488]]"
 - '[[_Standards/WikiData/WD~Unua,3552042]]'
-- "[[_Standards/WikiData/WD~Vera'a,3555689]]"
+  - "[[_Standards/WikiData/WD~Vera'a,3555689]]"
 - '[[_Standards/WikiData/WD~Vurës,3563857]]'
 - "[[_Standards/WikiData/WD~North_Efate,3580152]]"
 - '[[_Standards/WikiData/WD~Bieria,4904607]]'
@@ -225,39 +225,39 @@ ISO_3166_1_alpha_3_code: VUT
 ITU_letter_code: VUT
 MeSH_tree_code: Z01.639.760.590.736
 demonym:
-- فانواتوي
-- فانواتوية
-- فانواتويون
-- vanuatuana
-- vanuatuanu
-- ভানুয়াটীয়
-- ভানুয়াটু
-- Vanuatuaner
-- Vanuatuanerin
-- Ni-Vanuatu
-- Vanuatuan
-- Vanuatuans
-- Vanuatuano
-- Vanouatais
-- Vanouataise
-- ונואטי
-- ונואטית
-- vanuatui
-- Vanuatuano
-- vanatuana
-- vanatuane
-- vanatuani
-- vanatuano
-- vanuatu
-- vanatuan
-- vanatuana
-- vanatuane
-- vanatuani
-- ڤانواتوي
-- ڤانواتوية
-- ڤانواتويين
-- ڤانواتويات
-- Vanuatúach
+  - فانواتوي
+  - فانواتوية
+  - فانواتويون
+  - vanuatuana
+  - vanuatuanu
+  - ভানুয়াটীয়
+  - ভানুয়াটু
+  - Vanuatuaner
+  - Vanuatuanerin
+  - Ni-Vanuatu
+  - Vanuatuan
+  - Vanuatuans
+  - Vanuatuano
+  - Vanouatais
+  - Vanouataise
+  - ונואטי
+  - ונואטית
+  - vanuatui
+  - Vanuatuano
+  - vanatuana
+  - vanatuane
+  - vanatuani
+  - vanatuano
+  - vanuatu
+  - vanatuan
+  - vanatuana
+  - vanatuane
+  - vanatuani
+  - ڤانواتوي
+  - ڤانواتوية
+  - ڤانواتويين
+  - ڤانواتويات
+  - Vanuatúach
 motto_text:
 - "С Бог удържаме"
 - "Long God yumi stanap"
@@ -265,55 +265,55 @@ motto_text:
 - "Safwn Gyda Duw"
 official_name:
 - "Ripablik blong Vanuatu"
-- Vanuatu
+  - Vanuatu
 - "Republic of Vanuatu"
-- Vanuatu
+  - Vanuatu
 - "la République du Vanuatu"
 - "République du Vanuatu"
-- Vanuatu
+  - Vanuatu
 native_label:
 - "Ripablik blong Vanuatu"
-- Vanuatu
+  - Vanuatu
 - "Republic of Vanuatu"
 - "République du Vanuatu"
 short_name: "\U0001F1FB\U0001F1FA"
 total_fertility_rate: 3.347
 death_rate:
-- 5.312
-- 5.395
-- 5.487
-- 5.663
+  - 5.312
+  - 5.395
+  - 5.487
+  - 5.663
 number_of_out_of_school_children: 12208
 rural_population:
-- 237230
-- 227104
-- 232127
-- 242389
+  - 237230
+  - 227104
+  - 232127
+  - 242389
 birth_rate:
-- 28.968
-- 29.438
-- 29.939
-- 30.4
+  - 28.968
+  - 29.438
+  - 29.939
+  - 30.4
 life_expectancy: 72.133
 urban_population:
-- 79558
-- 81907
-- 84351
-- 77300
+  - 79558
+  - 81907
+  - 84351
+  - 77300
 female_population:
-- 151256
-- 154903
-- 158631
-- 162433
+  - 151256
+  - 154903
+  - 158631
+  - 162433
 male_population:
-- 153149
-- 156782
-- 160506
-- 164308
+  - 153149
+  - 156782
+  - 160506
+  - 164308
 population: 300019
 nominal_GDP:
-- 971636098
-- 983582865
+  - 971636098
+  - 983582865
 inception: "1980-07-30"
 has_time_started: "1980-07-30"
 coordinates_of_northernmost_point: "Point(166.546527777 -13.072444444)"

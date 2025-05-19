@@ -1,9 +1,10 @@
 ---
 aliases:
   - Anthropozän
+has_id_wikidata: Q26841
 ---
 
-#has_/time_/started :: 1492  
+#has_/time_/started :: 1492
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().has_time_started))` 
 #has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.has_time_started` 
@@ -70,7 +71,7 @@ aliases:
 ## Indicators 
 
 Proponents argue that evidence for the Anthropocene includes:
-- **Climate Change**: Accelerated climate change attributed to human activities, primarily the increase of greenhouse gases in the atmosphere since the [[Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial Revolution]].
+- **Climate Change**: Accelerated climate change attributed to human activities, primarily the increase of greenhouse gases in the atmosphere since the [[Epoch~3~Anthropocene/Early_modern_History/CE_1700/Industrial_Revolution|Industrial Revolution]].
 - **Biodiversity Loss**: Increased rates of species extinctions and biodiversity loss linked to habitat destruction, pollution, and other anthropogenic factors.
 - **Sediment Changes**: Changes in sedimentation patterns due to urbanization, agriculture, and industrial processes.
 - **Chemical Signatures**: The presence of new materials like plastics, concrete, and nuclear fallout in the geologic record, which may serve as markers for the Anthropocene.
@@ -81,6 +82,6 @@ Proponents argue that evidence for the Anthropocene includes:
 The onset of the Anthropocene epoch is still debated. Proposed starting points include:
 - Neolithic Revolution (12,000–15,000 years ago): 
 - the [[Epoch~2~Holocene|Holocene Calendar]] or  Human Era as proposed by Cesare Emiliani 
-- **[[Epoch~3~Anthropocene/Modern_History/Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
+- **[[Epoch~3~Anthropocene/Early_modern_History/CE_1700/Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
 - **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts.
 

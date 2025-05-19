@@ -15,7 +15,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -57,7 +57,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 twinned_administrative_body: '[[_Standards/WikiData/WD~Tsushima,816736]]'
 lowest_point: "[[_Standards/WikiData/WD~Bight_of_Biafra,999031]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Cameroon,1143972]]"
@@ -175,9 +175,9 @@ language_used:
 - '[[_Standards/WikiData/WD~Esimbi,35260]]'
 - '[[_Standards/WikiData/WD~Dzodinka,35266]]'
 - '[[_Standards/WikiData/WD~Gidar,35265]]'
-- "[[_Standards/WikiData/WD~Ghomala',35271]]"
+  - "[[_Standards/WikiData/WD~Ghomala',35271]]"
 - '[[_Standards/WikiData/WD~Hijuk,35274]]'
-- "[[_Standards/WikiData/WD~Fe'fe',35276]]"
+  - "[[_Standards/WikiData/WD~Fe'fe',35276]]"
 - '[[_Standards/WikiData/WD~Bamum,35280]]'
 - '[[_Standards/WikiData/WD~Dowayo,35299]]'
 - '[[_Standards/WikiData/WD~Ekoi,35296]]'
@@ -192,13 +192,13 @@ language_used:
 - '[[_Standards/WikiData/WD~Kare,35554]]'
 - '[[_Standards/WikiData/WD~Kemezung,35562]]'
 - '[[_Standards/WikiData/WD~Nzime,35566]]'
-- '[[_Standards/WikiData/WD~Kwa’,35567]]'
+- '[[_Standards/WikiData/WD~Kwa_,35567]]'
 - '[[_Standards/WikiData/WD~Kol,35582]]'
 - '[[_Standards/WikiData/WD~Korop,35626]]'
 - '[[_Standards/WikiData/WD~Kwakum,35624]]'
 - '[[_Standards/WikiData/WD~Koma,35634]]'
 - '[[_Standards/WikiData/WD~Koshin,35632]]'
-- '[[_Standards/WikiData/WD~Fa’,35643]]'
+- '[[_Standards/WikiData/WD~Fa_,35643]]'
 - '[[_Standards/WikiData/WD~Kwanja,35641]]'
 - '[[_Standards/WikiData/WD~Kuteb,35645]]'
 - '[[_Standards/WikiData/WD~Kenyang,35650]]'
@@ -218,20 +218,20 @@ language_used:
 - '[[_Standards/WikiData/WD~Mbule,35843]]'
 - '[[_Standards/WikiData/WD~Vere,35862]]'
 - '[[_Standards/WikiData/WD~Nkongho,35863]]'
-- '[[_Standards/WikiData/WD~Mbu’,35868]]'
+- '[[_Standards/WikiData/WD~Mbu_,35868]]'
 - '[[_Standards/WikiData/WD~Njem,35898]]'
 - '[[_Standards/WikiData/WD~Mpiemo,35908]]'
 - '[[_Standards/WikiData/WD~Mengisa,35917]]'
 - '[[_Standards/WikiData/WD~Mpumpong,35924]]'
 - '[[_Standards/WikiData/WD~Mbo,36011]]'
 - '[[_Standards/WikiData/WD~Medumba,36019]]'
-- '[[_Standards/WikiData/WD~Nda’nda’,36016]]'
+- '[[_Standards/WikiData/WD~Nda_nda_,36016]]'
 - '[[_Standards/WikiData/WD~Məgaka,36017]]'
 - '[[_Standards/WikiData/WD~Moundang,36032]]'
 - '[[_Standards/WikiData/WD~Ngwo,36051]]'
-- "[[_Standards/WikiData/WD~Meta',36054]]"
+  - "[[_Standards/WikiData/WD~Meta',36054]]"
 - '[[_Standards/WikiData/WD~Mboa,36064]]'
-- "[[_Standards/WikiData/WD~Nga'ka,36068]]"
+  - "[[_Standards/WikiData/WD~Nga'ka,36068]]"
 - '[[_Standards/WikiData/WD~Nimbari,36069]]'
 - '[[_Standards/WikiData/WD~Noni,36072]]'
 - '[[_Standards/WikiData/WD~Menka,36078]]'
@@ -273,7 +273,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuk,6442398]]'
 - '[[_Standards/WikiData/WD~Kung,6444510]]'
 - '[[_Standards/WikiData/WD~Kuo,6445233]]'
-- "[[_Standards/WikiData/WD~La'bi,6460637]]"
+  - "[[_Standards/WikiData/WD~La'bi,6460637]]"
 - '[[_Standards/WikiData/WD~Laimbue,6473933]]'
 - '[[_Standards/WikiData/WD~Majera,6737666]]'
 - '[[_Standards/WikiData/WD~Mangbai,6748872]]'
@@ -292,7 +292,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Weh,7979690]]'
 - '[[_Standards/WikiData/WD~Yambeta,8048020]]'
 - '[[_Standards/WikiData/WD~Zhoa,8070885]]'
-- "[[_Standards/WikiData/WD~Mbe',10964025]]"
+  - "[[_Standards/WikiData/WD~Mbe',10964025]]"
 - '[[_Standards/WikiData/WD~Dugun,11015189]]'
 - '[[_Standards/WikiData/WD~Gimnime,11016905]]'
 - '[[_Standards/WikiData/WD~Mono,11031964]]'
@@ -390,20 +390,20 @@ part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 4
 marriageable_age:
-- 15
-- 18
+  - 15
+  - 18
 age_of_majority: 21
 mains_voltage: 220
 BTI_Status_Index:
-- 4.4
-- 4.08
-- 4.11
-- 4.23
-- 4.26
-- 4.29
-- 4.31
-- 4.43
-- 4.46
+  - 4.4
+  - 4.08
+  - 4.11
+  - 4.23
+  - 4.26
+  - 4.29
+  - 4.31
+  - 4.43
+  - 4.46
 literacy_rate: 75
 suicide_rate: 12.2
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Cameroon,7112220]]"
@@ -422,40 +422,40 @@ coordinates_of_easternmost_point: "Point(16.19101 2.21962)"
 official_website: "https://www.prc.cm/fr/"
 UMLS_CUI: C0006802
 demonym:
-- كاميروني
-- كاميرونيات
-- كاميرونية
-- كاميرونيين
-- Camarúnach
-- كاميروني
-- كاميرونية
-- كاميرونيون
-- camerunés
-- camerunesa
-- ক্যামেরুনীয়
-- camerouner
-- Καμερουνέζα
-- Καμερουνέζος
-- Cameroonian
-- Kamerunano
-- camerounais
-- Camerounais
-- Camerounaise
-- קמרוני
-- קמרונית
-- kameruni
-- Kamerunano
-- camerunese
-- camerunesi
-- camerunes
-- camerunez
-- cameruneză
-- camerunezi
-- cameruneza
-- cameruneze
-- camerunezi
-- camerunezo
-- Kamerunänan
+  - كاميروني
+  - كاميرونيات
+  - كاميرونية
+  - كاميرونيين
+  - Camarúnach
+  - كاميروني
+  - كاميرونية
+  - كاميرونيون
+  - camerunés
+  - camerunesa
+  - ক্যামেরুনীয়
+  - camerouner
+  - Καμερουνέζα
+  - Καμερουνέζος
+  - Cameroonian
+  - Kamerunano
+  - camerounais
+  - Camerounais
+  - Camerounaise
+  - קמרוני
+  - קמרונית
+  - kameruni
+  - Kamerunano
+  - camerunese
+  - camerunesi
+  - camerunes
+  - camerunez
+  - cameruneză
+  - camerunezi
+  - cameruneza
+  - cameruneze
+  - camerunezi
+  - camerunezo
+  - Kamerunänan
 ISNI: 0000000121800777
 coordinates_of_westernmost_point: "Point(8.49915 4.53634)"
 motto_text:
@@ -469,23 +469,23 @@ coordinates_of_northernmost_point: "Point(14.08 13.08)"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.cm,40698]]'
 Democracy_Index: 2.77
 BTI_Governance_Index:
-- 3.24
-- 3.25
-- 3.32
-- 3.39
-- 3.46
-- 3.63
-- 3.95
+  - 3.24
+  - 3.25
+  - 3.32
+  - 3.39
+  - 3.46
+  - 3.63
+  - 3.95
 Inequality_adjusted_Human_Development_Index: 0.393
 Happy_Planet_Index_score: 39.9
 Gini_coefficient: 46.6
 Human_Development_Index: 0.576
 head_of_state: "[[_Standards/WikiData/WD~Paul_Biya,57272]]"
 death_rate:
-- 8.16
-- 8.225
-- 8.419
-- 8.582
+  - 8.16
+  - 8.225
+  - 8.419
+  - 8.582
 total_fertility_rate: 4.704
 mobile_country_code: 624
 M49_code: 120
@@ -493,10 +493,10 @@ ISO_3166_1_numeric_code: 120
 maritime_identification_digits: 613
 OmegaWiki_Defined_Meaning: 7993
 birth_rate:
-- 34.352
-- 34.938
-- 35.507
-- 36.147
+  - 34.352
+  - 34.938
+  - 35.507
+  - 36.147
 IAB_code: 1268
 life_expectancy: 58.073
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
@@ -505,8 +505,8 @@ IOC_country_code: CMR
 licence_plate_code: CAM
 WIPO_ST_3: CM
 subreddit:
-- cameroun
-- Cameroon
+  - cameroun
+  - Cameroon
 Commons_gallery: "Cameroun / Cameroon"
 Unicode_character: 🇨🇲 
 Krugosvet_article: strany_mira/KAMERUN.html
@@ -515,7 +515,7 @@ official_name:
 - "Republic of Cameroon"
 - "Hautugo Kamerun"
 - "République du Cameroun"
-- Cameroun
+  - Cameroun
 native_label: "République du Cameroun"
 short_name: "\U0001F1E8\U0001F1F2"
 ISO_3166_1_alpha_2_code: CM
@@ -524,35 +524,35 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Cameroon%20bann
 area: 475442
 INSEE_countries_and_foreign_territories_code: 99322
 rural_population:
-- 11383170
-- 11094657
-- 11242817
-- 11519492
+  - 11383170
+  - 11094657
+  - 11242817
+  - 11519492
 female_population:
-- 13280460
-- 12926852
-- 13634397
-- 13992014
+  - 13280460
+  - 12926852
+  - 13634397
+  - 13992014
 urban_population:
-- 15248270
-- 14687684
-- 15815458
-- 16395044
+  - 15248270
+  - 14687684
+  - 15815458
+  - 16395044
 number_of_out_of_school_children: 1773968
 nominal_GDP:
-- 44341646509
-- 45338285386
-inception: "1960"
+  - 44341646509
+  - 45338285386
+inception: 1960-06 
 has_time_started: 1960-06 
 PM20_geo_code: C65
 hashtag: Cameroon
 Commons_category: Cameroon
 ITU_letter_code: CME
 male_population:
-- 12855489
-- 13210626
-- 13564231
-- 13922522
+  - 12855489
+  - 13210626
+  - 13564231
+  - 13922522
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cameroon.svg"
 population: 28372687
 U_S_National_Archives_Identifier: 10035828

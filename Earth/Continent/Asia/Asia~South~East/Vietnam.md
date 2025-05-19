@@ -25,7 +25,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Hmong_Njua,3138831]]"
 - '[[_Standards/WikiData/WD~Khao,3196077]]'
 - '[[_Standards/WikiData/WD~Muong,3236789]]'
-- '[[_Standards/WikiData/WD~O’du,3347428]]'
+- '[[_Standards/WikiData/WD~O_du,3347428]]'
 - '[[_Standards/WikiData/WD~Rade,3429088]]'
 - '[[_Standards/WikiData/WD~Qabiao,3436700]]'
 - "[[_Standards/WikiData/WD~Northern_Roglai,3439680]]"

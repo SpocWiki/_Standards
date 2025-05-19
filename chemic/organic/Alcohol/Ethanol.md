@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 confidential: private
 isDeleted: false
@@ -46,7 +46,7 @@ found_in_taxon:
 - '[[_Standards/WikiData/WD~Matsutake,509308]]'
 - "[[_Standards/WikiData/WD~Vaccinium_angustifolium,512441]]"
 - "[[_Standards/WikiData/WD~Parthenium_argentatum,536839]]"
-- "[[_Standards/WikiData/WD~Rosa_×_damascena,578904]]"
+- "[[_Standards/WikiData/WD~Rosa___damascena,578904]]"
 - "[[_Standards/WikiData/WD~Spondias_mombin,794969]]"
 - "[[_Standards/WikiData/WD~Tuber_melanosporum,1093314]]"
 - "[[_Standards/WikiData/WD~Plumeria_rubra,1097328]]"
@@ -83,7 +83,7 @@ found_in_taxon:
 - "[[_Standards/WikiData/WD~Geum_heterocarpum,17243044]]"
 - '[[_Standards/WikiData/WD~watermelon,17507129]]'
 - "[[_Standards/WikiData/WD~Malus_domestica,18674606]]"
-- "[[_Standards/WikiData/WD~Citrus_×_deliciosa,20686225]]"
+- "[[_Standards/WikiData/WD~Citrus___deliciosa,20686225]]"
 - "[[_Standards/WikiData/WD~Citrus_grandis,21004587]]"
 - "[[_Standards/WikiData/WD~Vaccinium_ashei,41778446]]"
 - "[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273]]"
@@ -99,7 +99,7 @@ found_in_taxon:
 - "[[_Standards/WikiData/WD~Apium_graveolens,28298]]"
 - "[[_Standards/WikiData/WD~Daucus_carota,30056]]"
 - "[[_Standards/WikiData/WD~Carica_papaya,34887]]"
-- "[[_Standards/WikiData/WD~Citrus_×_paradisi,41350]]"
+- "[[_Standards/WikiData/WD~Citrus___paradisi,41350]]"
 - "[[_Standards/WikiData/WD~Coffea_arabica,47685]]"
 has_use:
 - '[[_Standards/WikiData/WD~solvent,146505]]'
@@ -127,7 +127,7 @@ safety_classification_and_labelling:
 described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 chemical_structure:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Ethanol-2D-flat.svg"

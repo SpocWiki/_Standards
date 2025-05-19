@@ -1,10 +1,10 @@
 ---
 location:
-- 6.78
-- -58.17
+  - 6.78
+  - -58.17
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q734
 SpocWebEntityId: 26915
 isDeleted: false
@@ -22,14 +22,14 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Guyana
-- غيانا
-- 圭亚那
-- Гайана
+  - Guyana
+  - غيانا
+  - 圭亚那
+  - Гайана
 - "the Republic of Guyana"
 - "la República de Guyana"
 Languages:
-- en-GY
+  - en-GY
 icon: flag-gy
 member_of:
 - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
@@ -125,43 +125,43 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103830,27103830]]'
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Guyana,63225363]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 head_of_state: "[[_Standards/WikiData/WD~Irfaan_Ali,64840184]]"
 head_of_government: "[[_Standards/WikiData/WD~Mark_Phillips,98053664]]"
 UMLS_CUI: C0018408
 demonym:
-- ڭوياني
-- ڭويانية
-- ڭويانيين
-- ڭويانيات
-- guyanès
-- guyanesa
-- Guánach
-- غياني
-- غيانية
-- guyanés
-- guyanesa
-- গায়ানি
-- guyaner
-- Gujanano
-- Guyanien
-- Guyanienne
-- גיאני
-- גיאנית
-- guyanai
-- Guyanano
-- guyanese
-- guyanesi
-- guyanez
-- guyaneză
-- guyanezi
-- guyaneza
-- guyaneze
-- guyanezo
-- Gvayänan
-- غيانيون
-- Guyanese
-- guyanezi
+  - ڭوياني
+  - ڭويانية
+  - ڭويانيين
+  - ڭويانيات
+  - guyanès
+  - guyanesa
+  - Guánach
+  - غياني
+  - غيانية
+  - guyanés
+  - guyanesa
+  - গায়ানি
+  - guyaner
+  - Gujanano
+  - Guyanien
+  - Guyanienne
+  - גיאני
+  - גיאנית
+  - guyanai
+  - Guyanano
+  - guyanese
+  - guyanesi
+  - guyanez
+  - guyaneză
+  - guyanezi
+  - guyaneza
+  - guyaneze
+  - guyanezo
+  - Gvayänan
+  - غيانيون
+  - Guyanese
+  - guyanezi
 coordinates_of_northernmost_point: "Point(-59.98 8.53)"
 ISNI: 0000000121607790
 coordinates_of_westernmost_point: "Point(-61.406293 5.962424)"
@@ -169,15 +169,15 @@ official_name:
 - "Gajanos Kooperacinė Respublika"
 - "Co-operative Republic of Guyana"
 - "République coopérative du Guyana"
-- Guyana
+  - Guyana
 motto_text:
 - "Un Bobl, Un Cenedl, Un Tynged"
 - "Един народ,една нация, една съдба"
 - "One People, One Nation, One Destiny"
 - "South America Undiscovered"
 nominal_GDP:
-- 15357537068
-- 8044498801
+  - 15357537068
+  - 8044498801
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
@@ -233,10 +233,10 @@ Unicode_character: 🇬🇾
 INSEE_countries_and_foreign_territories_code: 99428
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guyana.svg"
 urban_population:
-- 213179
-- 213539
-- 216404
-- 218534
+  - 213179
+  - 213539
+  - 216404
+  - 218534
 Commons_category: Guyana
 Commons_gallery: Guyana
 subreddit: Guyana
@@ -249,20 +249,20 @@ official_website: "https://parliament.gov.gy/"
 coordinate_location: "Point(-59.316667 5.733333)"
 coordinates_of_southernmost_point: "Point(-58.82578 1.16492)"
 male_population:
-- 389899
-- 392821
-- 393635
-- 395982
+  - 389899
+  - 392821
+  - 393635
+  - 395982
 female_population:
-- 405932
-- 407303
-- 410932
-- 412743
+  - 405932
+  - 407303
+  - 410932
+  - 412743
 rural_population:
-- 583663
-- 585574
-- 588163
-- 590192
+  - 583663
+  - 585574
+  - 588163
+  - 590192
 population: 777859
 inception: "1966"
 has_time_started: 1966-06 

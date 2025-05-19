@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8161
 handled_mitigated_or_managed_by:
 - "[[_Standards/WikiData/WD~tax_avoidance,329303]]"
@@ -15,7 +15,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~taxation,1964442]]'
 - "[[_Standards/WikiData/WD~type_of_tax,130109687]]"

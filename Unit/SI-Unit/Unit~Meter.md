@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11573
 unit_symbol:
 - m
@@ -70,8 +70,8 @@ part_of:
 - "[[_Standards/WikiData/WD~International_System_of_Units,12457]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
 different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876]]'
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg"

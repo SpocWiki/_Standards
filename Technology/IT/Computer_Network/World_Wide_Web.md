@@ -37,8 +37,8 @@ U_S_National_Archives_Identifier: 10644635
 Commons_gallery: "World Wide Web"
 Commons_category: "World Wide Web"
 short_name:
-- WWW
-- TTT
+  - WWW
+  - TTT
 inception: "1989-03-12"
 has_time_started: "1989-03-12"
 time_of_discovery_or_invention: "1990"

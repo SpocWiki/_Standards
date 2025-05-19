@@ -63,24 +63,24 @@ shares_border_with:
 - "[[_Standards/WikiData/WD~Arab_League,7172]]"
 unemployment_rate: 7
 BTI_Governance_Index:
-- 1.2
-- 1.12
-- 1.13
-- 1.34
-- 1.78
-- 2.07
-- 2.19
-- 2.27
+  - 1.2
+  - 1.12
+  - 1.13
+  - 1.34
+  - 1.78
+  - 2.07
+  - 2.19
+  - 2.27
 BTI_Status_Index:
-- 1.7
-- 1.68
-- 1.71
-- 1.76
-- 1.82
-- 1.84
-- 2.37
-- 2.68
-- 2.94
+  - 1.7
+  - 1.68
+  - 1.71
+  - 1.76
+  - 1.82
+  - 1.84
+  - 2.37
+  - 2.68
+  - 2.94
 marriageable_age: 18
 mains_voltage: 230
 suicide_rate: 7.9
@@ -93,28 +93,28 @@ area: 117600
 population: 3497000
 total_fertility_rate: 4.284
 death_rate:
-- 6.309
-- 6.424
-- 6.727
-- 6.729
+  - 6.309
+  - 6.424
+  - 6.727
+  - 6.729
 IAB_code: 1289
 maritime_identification_digits: 625
 mobile_country_code: 657
 birth_rate:
-- 28.426
-- 28.624
-- 28.706
-- 28.941
+  - 28.426
+  - 28.624
+  - 28.706
+  - 28.941
 ISO_3166_1_numeric_code: 232
 M49_code: 232
 PM20_geo_code: C126
 life_expectancy: 65.092
 INSEE_countries_and_foreign_territories_code: 99317
 male_population:
-- 1724860
-- 1785840
-- 1753513
-- 1817878
+  - 1724860
+  - 1785840
+  - 1753513
+  - 1817878
 OmegaWiki_Defined_Meaning: 8348
 ISO_3166_1_alpha_3_code: ERI
 IOC_country_code: ERI
@@ -123,48 +123,48 @@ IPA_transcription: "ɛɾɪ'tɾeːɑ"
 Libris_URI: khwzxfh35lb4g66
 Colon_Classification: SG--681
 hashtag:
-- State-of-Eritrea
-- Eritrea
+  - State-of-Eritrea
+  - Eritrea
 Krugosvet_article: strany_mira/ERITREYA.html
 official_name:
 - "دولة إرتريا"
 - "État d'Érythrée"
 - "ሃገረ ኤርትራ"
 demonym:
-- eritrea
-- eritréu
-- ইরিত্রিয়
-- eritreer
-- Eritreano
-- Érythréenne
-- אריתריאי
-- אריתריאית
-- eritreai
-- Eritreano
-- eritrea
-- eritree
-- eritrei
-- eritreo
-- ertri
-- ኤርትራዊ
-- eritrea
-- eritree
-- eritrei
-- eritreo
-- Lerütränan
-- إريتري
-- إريترية
-- إريتريين
-- إريتريات
-- Eiritréach
-- إِرِتْرِيٌّ
-- إرترية
-- إرتريون
-- Eritrean
-- Érythréen
+  - eritrea
+  - eritréu
+  - ইরিত্রিয়
+  - eritreer
+  - Eritreano
+  - Érythréenne
+  - אריתריאי
+  - אריתריאית
+  - eritreai
+  - Eritreano
+  - eritrea
+  - eritree
+  - eritrei
+  - eritreo
+  - ertri
+  - ኤርትራዊ
+  - eritrea
+  - eritree
+  - eritrei
+  - eritreo
+  - Lerütränan
+  - إريتري
+  - إريترية
+  - إريتريين
+  - إريتريات
+  - Eiritréach
+  - إِرِتْرِيٌّ
+  - إرترية
+  - إرتريون
+  - Eritrean
+  - Érythréen
 native_label:
-- ኤርትራ
-- إرترة
+  - ኤርትራ
+  - إرترة
 short_name: "\U0001F1EA\U0001F1F7"
 ISNI: 0000000121869846
 MeSH_tree_code: Z01.058.290.120.292
@@ -227,25 +227,25 @@ Dewey_Decimal_Classification: 2--635
 GitHub_topic: eritrea
 CIVICUS_Monitor_country_entry: eritrea
 subreddit:
-- Eritrean
-- Eritrea
+  - Eritrean
+  - Eritrea
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg"
 number_of_out_of_school_children: 968035
 urban_population:
-- 1424439
-- 1470245
-- 1519988
-- 1570319
+  - 1424439
+  - 1470245
+  - 1519988
+  - 1570319
 female_population:
-- 1773958
-- 1802355
-- 1834472
-- 1866154
+  - 1773958
+  - 1802355
+  - 1834472
+  - 1866154
 rural_population:
-- 2074379
-- 2085623
-- 2100324
-- 2113713
+  - 2074379
+  - 2085623
+  - 2100324
+  - 2113713
 Unicode_character: 🇪🇷 
 licence_plate_code: ER
 ISO_3166_1_alpha_2_code: ER

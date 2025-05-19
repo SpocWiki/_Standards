@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q573
 has_part_s_:
 - '[[_Standards/WikiData/WD~sunset,166564]]'
@@ -22,8 +22,8 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Parts_of_a_day,8981578
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~nychthemeron,11034997]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units_—_Part_3__Space_and_time,26711932]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110300059,110300059]]'

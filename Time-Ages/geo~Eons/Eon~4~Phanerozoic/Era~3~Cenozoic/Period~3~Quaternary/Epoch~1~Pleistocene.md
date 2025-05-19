@@ -21,6 +21,7 @@ aliases:
   - pleistocen
   - pleistocen
   - 更新世
+has_id_wikidata: Q25546
 ---
 
 ﻿

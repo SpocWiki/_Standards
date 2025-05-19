@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Joseph Stalin"
 - "Joseph Vissarionovich Stalin"
@@ -24,14 +24,14 @@ award_received:
 - "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
 - "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
 - "[[_Standards/WikiData/WD~Hero_of_Socialist_Labour,208167]]"
-- "[[_Standards/WikiData/WD~Medal__For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941–1945_,278798]]"
+- "[[_Standards/WikiData/WD~Medal__For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941_1945_,278798]]"
 - "[[_Standards/WikiData/WD~Order_of_the_Red_Banner,337463]]"
 - "[[_Standards/WikiData/WD~Order_of_Victory,465316]]"
 - "[[_Standards/WikiData/WD~Order_of_Sukhbaatar,530008]]"
 - "[[_Standards/WikiData/WD~Medal__For_the_Defence_of_Moscow_,1069798]]"
 - "[[_Standards/WikiData/WD~Medal__For_the_Victory_over_Japan_,1081449]]"
 - "[[_Standards/WikiData/WD~Jubilee_Medal__XX_Years_of_the_Workers'_and_Peasants'_Red_Army_,1710776]]"
-- "[[_Standards/WikiData/WD~Czechoslovak_War_Cross_1939–1945,2297431]]"
+- "[[_Standards/WikiData/WD~Czechoslovak_War_Cross_1939_1945,2297431]]"
 - "[[_Standards/WikiData/WD~Medal__In_Commemoration_of_the_800th_Anniversary_of_Moscow_,2634074]]"
 - "[[_Standards/WikiData/WD~Order_of_the_Red_Star,2760953]]"
 - "[[_Standards/WikiData/WD~Hero_of_the_Mongolian_People's_Republic,4137459]]"
@@ -74,7 +74,7 @@ child:
 - "[[_Standards/WikiData/WD~Alexander_Davydov,105756206]]"
 - "[[_Standards/WikiData/WD~unnamed_boy_Jughashvili_(1916),108722703]]"
 political_ideology: '[[_Standards/WikiData/WD~Stalinism,179121]]'
-movement: '[[_Standards/WikiData/WD~Marxism–Leninism,211930]]'
+movement: '[[_Standards/WikiData/WD~Marxism_Leninism,211930]]'
 spouse:
 - "[[_Standards/WikiData/WD~Nadezhda_Alliluyeva,233999]]"
 - "[[_Standards/WikiData/WD~Ekaterina_Svanidze,254673]]"
@@ -137,7 +137,7 @@ educated_at:
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'

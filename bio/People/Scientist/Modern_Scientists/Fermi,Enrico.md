@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Enrico Fermi"
 has_id_wikidata: Q8753
@@ -72,9 +72,9 @@ doctoral_student:
 - "[[_Standards/WikiData/WD~Robert_A._Schluter,107303710]]"
 cause_of_death: "[[_Standards/WikiData/WD~stomach_cancer,189588]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Fermi–Dirac_statistics,274072]]"
-- "[[_Standards/WikiData/WD~Fermi–Pasta–Ulam–Tsingou_problem,462254]]"
-- "[[_Standards/WikiData/WD~Thomas–Fermi_model,900431]]"
+- "[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]"
+- "[[_Standards/WikiData/WD~Fermi_Pasta_Ulam_Tsingou_problem,462254]]"
+- "[[_Standards/WikiData/WD~Thomas_Fermi_model,900431]]"
 - "[[_Standards/WikiData/WD~Fermi's_golden_rule,1073295]]"
 - "[[_Standards/WikiData/WD~Fermi_problem,1192374]]"
 - "[[_Standards/WikiData/WD~Fermi's_interaction,1406423]]"
@@ -104,8 +104,8 @@ archives_at: "[[_Standards/WikiData/WD~University_of_Chicago_Library,7895259]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 given_name: '[[_Standards/WikiData/WD~Enrico,16908530]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
 family_name: '[[_Standards/WikiData/WD~Fermi,76912274]]'

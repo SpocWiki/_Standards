@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11214
 part_of:
 - "[[_Standards/WikiData/WD~differential_calculus,149999]]"
@@ -7,7 +7,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Method_of_Fluxions,3074567]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:
 - "[[_Standards/WikiData/WD~recurrence_relation,740970]]"
 - "[[_Standards/WikiData/WD~theory_of_differential_equations,28575007]]"

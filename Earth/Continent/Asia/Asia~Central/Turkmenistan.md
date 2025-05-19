@@ -76,24 +76,24 @@ marriageable_age: 16
 age_of_majority: 16
 mains_voltage: 220
 BTI_Governance_Index:
-- 2.2
-- 1.85
-- 2.02
-- 2.19
-- 2.28
-- 2.32
-- 2.41
-- 2.51
+  - 2.2
+  - 1.85
+  - 2.02
+  - 2.19
+  - 2.28
+  - 2.32
+  - 2.41
+  - 2.51
 BTI_Status_Index:
-- 3.2
-- 2.67
-- 2.71
-- 3.14
-- 3.34
-- 3.39
-- 3.45
-- 3.54
-- 3.55
+  - 3.2
+  - 2.67
+  - 2.71
+  - 3.14
+  - 3.34
+  - 3.39
+  - 3.45
+  - 3.54
+  - 3.55
 Happy_Planet_Index_score: 33
 water_as_percent_of_area: 4.9
 Democracy_Index: 1.66
@@ -107,62 +107,62 @@ literacy_rate: 99.6
 total_fertility_rate: 2.301
 GS1_country_code: 483
 death_rate:
-- 6.583
-- 6.585
-- 6.836
+  - 6.583
+  - 6.585
+  - 6.836
 Dewey_Decimal_Classification: 2--585
 maritime_identification_digits: 434
 UIC_numerical_country_code: 67
 M49_code: 795
 ISO_3166_1_numeric_code: 795
 demonym:
-- تركمانية
-- turcman
-- Turkmen
-- Turkmène
-- טורקמנית
-- türkmén
-- turkmeno
-- turcmen
-- turkmen
-- turcomana
-- turcomanu
-- তুর্কমেন
-- turcmana
-- Turkmene
-- Turkmenin
-- Turkmenistani
-- טורקמני
-- Turkmenistanano
-- turkmena
-- turkmene
-- turkmeni
-- turkmen
-- turkmenă
-- turkmeni
-- туркменистанец
-- туркменистанка
-- туркменистанцы
-- туркман
-- turkmena
-- turkmene
-- Turkmenänan
-- توركماني
-- توركمانية
-- توركمانيين
-- توركمانيات
-- turcomannicus
-- Tuircméanastánach
-- تركمان
-- تركماني
-- turcmans
-- ترکمن
-- turkmeni
+  - تركمانية
+  - turcman
+  - Turkmen
+  - Turkmène
+  - טורקמנית
+  - türkmén
+  - turkmeno
+  - turcmen
+  - turkmen
+  - turcomana
+  - turcomanu
+  - তুর্কমেন
+  - turcmana
+  - Turkmene
+  - Turkmenin
+  - Turkmenistani
+  - טורקמני
+  - Turkmenistanano
+  - turkmena
+  - turkmene
+  - turkmeni
+  - turkmen
+  - turkmenă
+  - turkmeni
+  - туркменистанец
+  - туркменистанка
+  - туркменистанцы
+  - туркман
+  - turkmena
+  - turkmene
+  - Turkmenänan
+  - توركماني
+  - توركمانية
+  - توركمانيين
+  - توركمانيات
+  - turcomannicus
+  - Tuircméanastánach
+  - تركمان
+  - تركماني
+  - turcmans
+  - ترکمن
+  - turkmeni
 birth_rate:
-- 20.755
-- 21.592
-- 22.294
-- 23.055
+  - 20.755
+  - 21.592
+  - 22.294
+  - 23.055
 mobile_country_code: 438
 area: 491210
 life_expectancy: 67.835
@@ -173,7 +173,7 @@ GitHub_topic: turkmenistan
 Commons_gallery: Türkmenistan
 IPA_transcription: tʉɾkˈmeːnɪstɑːn
 native_label:
-- Türkmenistan
+  - Türkmenistan
 - "Türkmenistan Respublikasi"
 official_name: Türkmenistan
 short_name: "\U0001F1F9\U0001F1F2"
@@ -215,23 +215,23 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ashgabat%20from%20Arch%20of%20Neutrality%20%2841652998734%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20turkmen%20wedding%20of%20the%20bride.jpg"
 MeSH_tree_code:
-- Z01.252.100.940
-- Z01.586.200.940
+  - Z01.252.100.940
+  - Z01.586.200.940
 coordinate_location: "Point(60.0 39.0)"
 coordinates_of_southernmost_point: "Point(62.3136979 35.1378165)"
 IAB_code: 1463
 OmegaWiki_Defined_Meaning: 8294
 INSEE_countries_and_foreign_territories_code: 99260
 male_population:
-- 3185860
-- 3050231
-- 3096157
-- 3141729
+  - 3185860
+  - 3050231
+  - 3096157
+  - 3141729
 urban_population:
-- 3282480
-- 3205334
-- 3361056
-- 3440076
+  - 3282480
+  - 3205334
+  - 3361056
+  - 3440076
 ITU_letter_code: TKM
 IOC_country_code: TKM
 ISO_3166_1_alpha_3_code: TKM
@@ -241,15 +241,15 @@ UIC_alphabetical_country_code: TM
 licence_plate_code: TM
 ISO_3166_1_alpha_2_code: TM
 rural_population:
-- 2953086
-- 2967958
-- 2980799
-- 2990694
+  - 2953086
+  - 2967958
+  - 2980799
+  - 2990694
 female_population:
-- 3108189
-- 3154282
-- 3200126
-- 3244911
+  - 3108189
+  - 3154282
+  - 3200126
+  - 3244911
 population: 6117933
 FIPS_10_4_countries_and_regions_: TX
 Unicode_character: 🇹🇲 
@@ -273,11 +273,11 @@ RIA_Novosti_reference:
 - 57490365
 has_id_wikidata: Q874
 location:
-- 37.9667
-- 58.3333
+    - 37.9667
+    - 58.3333
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27035
 isDeleted: false
 confidential: public
@@ -294,16 +294,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Turkmenistan
-- Turkmenistán
-- Turkménistan
-- تركمانستان
-- 土库曼斯坦
-- Туркменистан
+    - Turkmenistan
+    - Turkmenistán
+    - Turkménistan
+    - تركمانستان
+    - 土库曼斯坦
+    - Туркменистан
 Languages:
-- tk
-- ru
-- uz
+    - tk
+    - ru
+    - uz
 icon: flag-tm
 ---
 

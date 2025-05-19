@@ -39,7 +39,7 @@ coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Mauritius,271183]]"
 anthem: '[[_Standards/WikiData/WD~Motherland,336273]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Rivière_Noire_District,873740]]"
 - "[[_Standards/WikiData/WD~Grand_Port_District,911635]]"
@@ -95,44 +95,44 @@ has_boundary: "[[_Standards/WikiData/WD~borders_of_Mauritius,65201449]]"
 head_of_state: "[[_Standards/WikiData/WD~Prithvirajsing_Roopun,77311543]]"
 UMLS_CUI: C0001766
 demonym:
-- موريشيوسي
-- موريشيوسية
-- موريشيوسيين
-- موريشيوسيات
-- Muiríseach
-- Mauritian
-- موريشيوسي
-- موريشيوسية
-- موريشيوسيون
-- mauriciana
-- mauriciano
-- mauricianu
-- মরিশাসীয়
-- mauricien
-- Mauricien
-- mauricienne
-- Mauricienne
-- mauriciennes
-- mauriciens
-- מאוריציאני
-- מאוריציאנית
-- mauritiusi
-- Mauricano
-- mauriziana
-- mauriziane
-- mauriziani
-- mauriziano
-- maurisian
-- mauritian
-- mauritiană
-- mauritieni
-- маврикиец
-- маврикийцы
-- maurisian
-- maurisiana
-- maurisiane
-- maurisiani
-- Moriseänan
+  - موريشيوسي
+  - موريشيوسية
+  - موريشيوسيين
+  - موريشيوسيات
+  - Muiríseach
+  - Mauritian
+  - موريشيوسي
+  - موريشيوسية
+  - موريشيوسيون
+  - mauriciana
+  - mauriciano
+  - mauricianu
+  - মরিশাসীয়
+  - mauricien
+  - Mauricien
+  - mauricienne
+  - Mauricienne
+  - mauriciennes
+  - mauriciens
+  - מאוריציאני
+  - מאוריציאנית
+  - mauritiusi
+  - Mauricano
+  - mauriziana
+  - mauriziane
+  - mauriziani
+  - mauriziano
+  - maurisian
+  - mauritian
+  - mauritiană
+  - mauritieni
+  - маврикиец
+  - маврикийцы
+  - maurisian
+  - maurisiana
+  - maurisiane
+  - maurisiani
+  - Moriseänan
 ISNI:
 - 0000000123591219
 - 0000000123589127
@@ -146,8 +146,8 @@ motto_text:
 official_website: "http://www.govmu.org/"
 escutcheon_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Insigne%20Mauritiae.svg"
 nominal_GDP:
-- 11476433604
-- 12898307089
+  - 11476433604
+  - 12898307089
 coordinate_location: "Point(57.5 -20.2)"
 coordinates_of_westernmost_point: "Point(56.583333333 -10.416666666)"
 diplomatic_relation:
@@ -187,38 +187,38 @@ VAT_rate: 15
 marriageable_age: 18
 mains_voltage: 230
 death_rate:
-- 8.7
-- 8.8
-- 10.2
-- 10.5
+  - 8.7
+  - 8.8
+  - 10.2
+  - 10.5
 birth_rate:
-- 9.6
-- 10.2
-- 10.3
-- 10.6
+  - 9.6
+  - 10.2
+  - 10.3
+  - 10.6
 total_fertility_rate: 1.43
 area: 2040
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mu,43076]]'
 Gini_coefficient: 36.8
 Happy_Planet_Index_score: 51.5
 BTI_Governance_Index:
-- 6.64
-- 6.65
-- 6.74
-- 6.76
-- 6.94
-- 6.99
-- 7.13
-- 7.63
+  - 6.64
+  - 6.65
+  - 6.74
+  - 6.76
+  - 6.94
+  - 6.99
+  - 7.13
+  - 7.63
 Inequality_adjusted_Human_Development_Index: 0.666
 BTI_Status_Index:
-- 7.94
-- 8.09
-- 8.11
-- 8.17
-- 8.25
-- 8.26
-- 8.33
+  - 7.94
+  - 8.09
+  - 8.11
+  - 8.17
+  - 8.25
+  - 8.26
+  - 8.33
 Human_Development_Index: 0.802
 Democracy_Index: 8.14
 IAB_code: 1353
@@ -231,42 +231,42 @@ mobile_country_code: 617
 maritime_identification_digits: 645
 OmegaWiki_Defined_Meaning: 8360
 female_population:
-- 640430
-- 639989
-- 640852
-- 641465
+  - 640430
+  - 639989
+  - 640852
+  - 641465
 ISO_3166_1_alpha_2_code: MU
 WIPO_ST_3: MU
 ISO_3166_1_alpha_3_code: MUS
 IOC_country_code: MRI
 urban_population:
-- 515236
-- 516027
-- 516091
-- 516348
+  - 515236
+  - 516027
+  - 516091
+  - 516348
 INSEE_countries_and_foreign_territories_code: 99390
 male_population:
-- 622533
-- 624869
-- 625161
-- 625555
+  - 622533
+  - 624869
+  - 625161
+  - 625555
 rural_population:
-- 747287
-- 749894
-- 749986
-- 749987
+  - 747287
+  - 749894
+  - 749986
+  - 749987
 population: 1264613
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritius.svg"
 inception: "1968-03-12"
 has_time_started: "1968-03-12"
 official_name:
-- Mauritius
+  - Mauritius
 - "République de Maurice"
-- Mauritius
+  - Mauritius
 coordinates_of_northernmost_point: "Point(56.58 -10.33)"
 hashtag:
-- Maurice
-- Mauritius
+  - Maurice
+  - Mauritius
 coordinates_of_southernmost_point: "Point(57.5301 -20.5256)"
 FIPS_10_4_countries_and_regions_: MP
 life_expectancy: 74.39488

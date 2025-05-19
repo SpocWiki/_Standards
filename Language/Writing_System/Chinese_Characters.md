@@ -43,7 +43,7 @@ subclass_of: "[[_Standards/WikiData/WD~writing_system,8192]]"
 country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 ISO_15924_numeric_code: 500
 name:
-- Han
+  - Han
 - "Han (Hanzi, Kanji, Hanja)"
 - "idéogrammes han (sinogrammes)"
 ISO_15924_alpha_4_code: Hani

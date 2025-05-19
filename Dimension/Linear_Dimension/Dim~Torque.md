@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q48103
 subclass_of:
 - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
@@ -10,9 +10,9 @@ recommended_unit_of_measurement:
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units—Part_4__Mechanics,26711933]]"
-- "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_—_Part_4__Mechanics,73391977]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 different_from: "[[_Standards/WikiData/WD~moment_of_force,17232562]]"

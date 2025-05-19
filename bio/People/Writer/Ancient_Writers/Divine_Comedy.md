@@ -256,7 +256,7 @@ full_work_available_at_URL: https://www.projekt-gutenberg.org/dante/goettko2/goe
 Libris_URI: 97mqw83t1tj6j6c
 ---
 
-#is_/same_as :: [[../../../../WikiData/WD~The_Divine_Comedy,40185|WD~The_Divine_Comedy,40185]]
+#is_/same_as :: [[../../../../WikiData/WD~The_Divine_Comedy,40185_WD~The_Divine_Comedy,40185]]
 
 #has_/time_/started :: 1308-06 
 

@@ -2,10 +2,10 @@
 trunk_prefix: 0
 madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 death_rate:
-- 4.99
-- 5.033
-- 5.047
-- 5.117
+  - 4.99
+  - 5.033
+  - 5.047
+  - 5.117
 basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
 Inequality_adjusted_Human_Development_Index: 0.553
 Human_Development_Index: 0.577
@@ -34,49 +34,49 @@ FIPS_10_4_countries_and_regions_: SY
 ISO_3166_1_alpha_2_code: SY
 WIPO_ST_3: SY
 demonym:
-- סורית
-- szír
-- Syrer
-- سوري
-- سوری
-- Siriano
-- Siriano
-- سوريون
-- siriani
-- сирийцы
-- siriani
-- siria
-- siriu
-- সিরিয়
-- siriana
-- sirians
-- Syrerin
-- Syrien
-- Syrienne
-- סורי
-- siriana
-- siriane
-- siriano
-- suri
-- sirian
-- siriancă
-- sirieni
-- sirian
-- siriana
-- siriane
-- Süriyänan
-- Suriyeli
-- سوري
-- سورية
-- سوريين
-- سوريات
-- Syrian
-- سورية
-- sirià
-- Siriach
-- сірыйцы
-- sûrî
-- Σῦρος
+  - סורית
+  - szír
+  - Syrer
+  - سوري
+  - سوری
+  - Siriano
+  - Siriano
+  - سوريون
+  - siriani
+  - сирийцы
+  - siriani
+  - siria
+  - siriu
+  - সিরিয়
+  - siriana
+  - sirians
+  - Syrerin
+  - Syrien
+  - Syrienne
+  - סורי
+  - siriana
+  - siriane
+  - siriano
+  - suri
+  - sirian
+  - siriancă
+  - sirieni
+  - sirian
+  - siriana
+  - siriane
+  - Süriyänan
+  - Suriyeli
+  - سوري
+  - سورية
+  - سوريين
+  - سوريات
+  - Syrian
+  - سورية
+  - sirià
+  - Siriach
+  - сірыйцы
+  - sûrî
+  - Σῦρος
 ISO_3166_1_numeric_code: 760
 M49_code: 760
 licence_plate_code: SYR
@@ -87,18 +87,18 @@ IOC_country_code: SYR
 INSEE_countries_and_foreign_territories_code: 99206
 country_calling_code: +963
 official_name:
-- Syria
+  - Syria
 - "الجمهورية العربية السورية"
 - "Syrian Arab Republic"
 - "la République arabe syrienne"
 - "Suriye Arap Cumhuriyeti"
-- سوريا
-- Syria
+  - سوريا
+  - Syria
 - "Republik Arab Syria"
 number_of_out_of_school_children: 2416365
 native_label:
 - "الجمهورية العربية السورية"
-- سوريا
+  - سوريا
 - "Komara Erebî ya Sûriyê"
 rural_population: 9564966
 female_population: 11883845
@@ -106,8 +106,8 @@ male_population: 11981578
 urban_population: 12560283
 CIVICUS_Monitor_country_entry: syria
 subreddit:
-- syria
-- Syria
+  - syria
+  - Syria
 GitHub_topic: syria
 Commons_category: Syria
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Levant,81483]]'
@@ -245,7 +245,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Damascus%2C%20Syria%2
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Syrian%20revolution.svg"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Sy-map.png"
 ISNI:
-- 000000012369316X
+  - 000000012369316X
 - 0000000123695958
 hashtag: Syria
 Commons_gallery: "Syria - سوريا"

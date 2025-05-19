@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - German
@@ -19,13 +19,13 @@ studied_in:
 - "[[_Standards/WikiData/WD~German_studies,166153]]"
 - "[[_Standards/WikiData/WD~theological_languages,108000026]]"
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - '[[_Standards/WikiData/WD~stress,181767]]'
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~V2_word_order,1516105]]"
-- '[[_Standards/WikiData/WD~time–manner–place,7806656]]'
+- '[[_Standards/WikiData/WD~time_manner_place,7806656]]'
 - "[[_Standards/WikiData/WD~stress-timed_language,7888721]]"
 - '[[_Standards/WikiData/WD~adjective-noun,74834637]]'
 indigenous_to:
@@ -69,7 +69,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 writing_system:
 - "[[_Standards/WikiData/WD~German_alphabet,912243]]"
@@ -134,13 +134,13 @@ has_paradigm_class:
 - '[[_Standards/WikiData/WD~n-declension,104023380]]'
 - "[[_Standards/WikiData/WD~n-declension_with_genitive_s,105099779]]"
 - '[[_Standards/WikiData/WD~-_(e)n,105571268]]'
-- '[[_Standards/WikiData/WD~-_¨e,105627457]]'
+- '[[_Standards/WikiData/WD~-__e,105627457]]'
 - '[[_Standards/WikiData/WD~-_s,105628811]]'
 - '[[_Standards/WikiData/WD~-(e)s_s,105658318]]'
 - '[[_Standards/WikiData/WD~-(e)s_-,105683521]]'
-- '[[_Standards/WikiData/WD~-_-¨,124328315]]'
+- '[[_Standards/WikiData/WD~-_-_,124328315]]'
 - '[[_Standards/WikiData/WD~-(e)s_-e,124328320]]'
-- '[[_Standards/WikiData/WD~-(e)s_-¨e,124328321]]'
+- '[[_Standards/WikiData/WD~-(e)s_-_e,124328321]]'
 edition_or_translation_of: "[[_Standards/WikiData/WD~Histoire_des_dalaï-lamas,106463729]]"
 subclass_of:
 - "[[_Standards/WikiData/WD~South_Germanic,106937689]]"

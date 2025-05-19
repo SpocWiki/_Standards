@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Pablo Picasso"
 - "Pablo Ruiz Picasso"
@@ -47,7 +47,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Beyeler_Foundation,673833]]"
 - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
 - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~Museum_Ludwig,703640]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
@@ -264,7 +264,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Accademia_delle_Arti_del_Disegno,1760178]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Guggenheim_Collection_Online,22443755]]"
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

@@ -22,7 +22,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Encountering_Ovid's_Phaedra_in_House_V.2.10–11,_Pompeii,47068496]]"
+- "[[_Standards/WikiData/WD~Encountering_Ovid's_Phaedra_in_House_V.2.10_11,_Pompeii,47068496]]"
 - "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
 - "[[_Standards/WikiData/WD~La_selección_de_Ovidio_en_los__Versus_Sententiosi__de_Bartholomeus_Schönborn__el_término__amor_,51799764]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"

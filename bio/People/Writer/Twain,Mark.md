@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mark Twain"
 - "Samuel Langhorne Clemens"
@@ -21,8 +21,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
 - "[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
@@ -36,7 +36,7 @@ has_works_in_the_collection:
 archives_at:
 - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
 - "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]"
-- "[[_Standards/WikiData/WD~University_of_Wisconsin–Madison_Libraries,33122195]]"
+- "[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]"
 genre: "[[_Standards/WikiData/WD~historical_fiction,1196408]]"
 occupation:
 - '[[_Standards/WikiData/WD~journalist,1930187]]'
@@ -79,7 +79,7 @@ award_received:
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 present_in_work:
 - "[[_Standards/WikiData/WD~The_Autobiography_of_Jean-Luc_Picard,73402184]]"
-- "[[_Standards/WikiData/WD~Assimilation²,_Issue_1,83879450]]"
+- "[[_Standards/WikiData/WD~Assimilation_,_Issue_1,83879450]]"
 mother: "[[_Standards/WikiData/WD~Jane_Lampton_Clemens,96322060]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Harry_Ransom_Center,105936481]]"

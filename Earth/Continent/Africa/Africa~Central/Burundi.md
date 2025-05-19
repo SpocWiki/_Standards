@@ -1,10 +1,10 @@
 ---
 location:
-- -3.5
-- 30
+  - -3.5
+  - 30
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q967
 SpocWebEntityId: 26848
 isDeleted: false
@@ -22,47 +22,47 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Burundi
-- بوروندي
-- 布隆迪
-- Бурунди
+  - Burundi
+  - بوروندي
+  - 布隆迪
+  - Бурунди
 - "the Republic of Burundi"
 - "la República de Burundi"
 Languages:
-- fr-BI
-- rn
+  - fr-BI
+  - rn
 demonym:
-- Burúnach
-- بوروندي
-- بوروندية
-- بورونديون
-- بوروندي
-- burundiana
-- burundianu
-- বুরুন্ডীয়
-- burundier
-- Burundian
-- Burundano
-- burundés
-- burundesa
-- Burundais
-- Burundaise
-- בורונדי
-- בורונדית
-- burundi
-- Burundiano
-- burundese
-- burundesi
-- burundes
-- burundez
-- burundeză
-- burundezi
-- burundezi
-- burundezo
-- Rundiyänan
-- بوروندية
-- بورونديات
-- بورونديين
+  - Burúnach
+  - بوروندي
+  - بوروندية
+  - بورونديون
+  - بوروندي
+  - burundiana
+  - burundianu
+  - বুরুন্ডীয়
+  - burundier
+  - Burundian
+  - Burundano
+  - burundés
+  - burundesa
+  - Burundais
+  - Burundaise
+  - בורונדי
+  - בורונדית
+  - burundi
+  - Burundiano
+  - burundese
+  - burundesi
+  - burundes
+  - burundez
+  - burundeză
+  - burundezi
+  - burundezi
+  - burundezo
+  - Rundiyänan
+  - بوروندية
+  - بورونديات
+  - بورونديين
 coordinates_of_southernmost_point: "Point(29.753 -4.469)"
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
@@ -93,7 +93,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -122,36 +122,36 @@ language_used:
 - '[[_Standards/WikiData/WD~Swahili,3197533]]'
 unemployment_rate: 7
 marriageable_age:
-- 18
-- 21
+  - 18
+  - 21
 VAT_rate: 18
 age_of_majority: 21
 mains_voltage: 220
 named_after: '[[_Standards/WikiData/WD~Kirundi,33583]]'
 BTI_Governance_Index:
-- 4.8
-- 2.77
-- 3.23
-- 3.25
-- 3.29
-- 4.07
-- 4.14
-- 4.46
-- 4.55
+  - 4.8
+  - 2.77
+  - 3.23
+  - 3.25
+  - 3.29
+  - 4.07
+  - 4.14
+  - 4.46
+  - 4.55
 suicide_rate: 9.1
 Democracy_Index: 2.14
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bi,41988]]'
 Inequality_adjusted_Human_Development_Index: 0.302
 BTI_Status_Index:
-- 3.38
-- 3.49
-- 3.58
-- 3.97
-- 4.36
-- 4.41
-- 4.54
-- 4.59
-- 4.78
+  - 3.38
+  - 3.49
+  - 3.58
+  - 3.97
+  - 4.36
+  - 4.41
+  - 4.54
+  - 4.59
+  - 4.78
 Happy_Planet_Index_score: 37.7
 Gini_coefficient: 38.6
 Human_Development_Index: 0.426
@@ -162,20 +162,20 @@ ISO_3166_1_numeric_code: 108
 M49_code: 108
 total_fertility_rate: 5.948
 death_rate:
-- 7.311
-- 7.352
-- 7.474
-- 7.562
+  - 7.311
+  - 7.352
+  - 7.474
+  - 7.562
 licence_plate_code: RU
 IAB_code: 1265
 ISO_3166_1_alpha_2_code: BI
 WIPO_ST_3: BI
 area: 27834
 birth_rate:
-- 34.109
-- 34.842
-- 35.603
-- 36.323
+  - 34.109
+  - 34.842
+  - 35.603
+  - 36.323
 OmegaWiki_Defined_Meaning: 8307
 life_expectancy: 57.481
 mobile_country_code: 642
@@ -192,45 +192,45 @@ motto_text:
 official_name:
 - "Republic of Burundi"
 - "République du Burundi"
-- Uburundi
+  - Uburundi
 short_name:
-- Burundi
+  - Burundi
 - "\U0001F1E7\U0001F1EE"
 native_label: Uburundi
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"
 Unicode_character: 🇧🇮 
 urban_population:
-- 1764450
-- 1858290
-- 1587191
-- 1675149
+  - 1764450
+  - 1858290
+  - 1587191
+  - 1675149
 FIPS_10_4_countries_and_regions_: BY
 female_population:
-- 5980560
-- 6488650
-- 6153627
-- 6319427
+  - 5980560
+  - 6488650
+  - 6153627
+  - 6319427
 INSEE_countries_and_foreign_territories_code: 99321
 population: 13689450
 coordinate_location: "Point(29.816667 -3.666667)"
 nominal_GDP:
-- 2775798697
-- 3338722830
+  - 2775798697
+  - 3338722830
 male_population:
-- 5894278
-- 6066599
-- 6231786
-- 6400926
+  - 5894278
+  - 6066599
+  - 6231786
+  - 6400926
 ISO_3166_1_alpha_3_code: BDI
 ITU_letter_code: BDI
 IOC_country_code: BDI
 inception: "1962-07-01"
 has_time_started: "1962-07-01"
 rural_population:
-- 10287647
-- 10545078
-- 10786763
-- 11031286
+  - 10287647
+  - 10545078
+  - 10786763
+  - 11031286
 Commons_category: Burundi
 subreddit: Burundi
 hashtag: Burundi
@@ -419,7 +419,7 @@ Capital :: [[Bujumbura]]
 > **Burundi**, officially the Republic of Burundi, is a landlocked country in the Great Rift Valley 
 > at the junction between the African Great Lakes region and Southeast Africa, 
 > with population of over 14 million people. 
-> 
+>
 > It is bordered by Rwanda to the north, Tanzania to the east and southeast, 
 > and the Democratic Republic of the Congo to the west; 
 > Lake Tanganyika lies along its southwestern border. 
@@ -427,7 +427,7 @@ Capital :: [[Bujumbura]]
 >
 > The Twa, Hutu and Tutsi peoples have lived in Burundi for at least 500 years. 
 > For more than 200 of those years, Burundi was an independent kingdom. 
-> 
+>
 > In 1885, it became part of the German colony of German East Africa. 
 > After the First World War and Germany's defeat, the League of Nations 
 > mandated the territories of Burundi and neighboring Rwanda 

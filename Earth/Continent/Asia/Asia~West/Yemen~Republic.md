@@ -1,6 +1,6 @@
 ---
 madhhab:
-- '[[_Standards/WikiData/WD~Shafi`i,82245]]'
+- '[[_Standards/WikiData/WD~Shafi_i,82245]]'
 - '[[_Standards/WikiData/WD~Zaidism,144333]]'
 capital:
 - '[[_Standards/WikiData/WD~Aden,131694]]'
@@ -10,7 +10,7 @@ member_of:
 - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -51,7 +51,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Raymah_Governorate,475033]]"
 - "[[_Standards/WikiData/WD~Marib_Governorate,498465]]"
 - "[[_Standards/WikiData/WD~Socotra_Archipelago_Governorate,15728745]]"
-- "[[_Standards/WikiData/WD~Amanat_al_Asimah_Sana`a,116997223]]"
+- "[[_Standards/WikiData/WD~Amanat_al_Asimah_Sana_a,116997223]]"
 currency: "[[_Standards/WikiData/WD~Yemeni_Rial,240512]]"
 replaces: "[[_Standards/WikiData/WD~Yemen_Arab_Republic,267584]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Yemen,318966]]"
@@ -114,40 +114,40 @@ image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Sanaa%20HDR%20%2816482367935%29.jpg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/MallaDistrict.jpg"
 demonym:
-- Jemenec
-- Jemenka
-- ياماني
-- يامانية
-- يامانيات
-- يامانيين
-- Éimineach
-- Yéménite
-- תימני
-- תימנייה
-- jemeni
-- Yemenano
-- yemenita
-- yemeniti
-- iamani
-- yemenit
-- yemenită
-- yemeniți
-- йеменцы
-- jemenia
-- jemenie
-- jemenii
-- jemenio
-- Yämänan
-- يمني
-- يمنيات
-- يمنية
-- يمنيون
-- yemenín
-- yemenina
-- ইয়ামেনি
-- iemenita
-- iemenites
-- Yemeni
+  - Jemenec
+  - Jemenka
+  - ياماني
+  - يامانية
+  - يامانيات
+  - يامانيين
+  - Éimineach
+  - Yéménite
+  - תימני
+  - תימנייה
+  - jemeni
+  - Yemenano
+  - yemenita
+  - yemeniti
+  - iamani
+  - yemenit
+  - yemenită
+  - yemeniți
+  - йеменцы
+  - jemenia
+  - jemenie
+  - jemenii
+  - jemenio
+  - Yämänan
+  - يمني
+  - يمنيات
+  - يمنية
+  - يمنيون
+  - yemenín
+  - yemenina
+  - ইয়ামেনি
+  - iemenita
+  - iemenites
+  - Yemeni
 ISNI: 0000000404023787
 motto_text:
 - "Duw, Gwlad, Chwyldro, Undod"
@@ -207,27 +207,27 @@ unemployment_rate: 60
 marriageable_age: 15
 age_of_majority: 16
 BTI_Governance_Index:
-- 1.7
-- 4.5
-- 1.51
-- 1.63
-- 3.66
-- 3.82
-- 3.85
-- 3.95
-- 4.04
+  - 1.7
+  - 4.5
+  - 1.51
+  - 1.63
+  - 3.66
+  - 3.82
+  - 3.85
+  - 3.95
+  - 4.04
 mains_voltage: 230
 coastline: 2500
 BTI_Status_Index:
-- 1.41
-- 1.52
-- 1.72
-- 2.91
-- 3.08
-- 3.82
-- 3.85
-- 3.91
-- 4.08
+  - 1.41
+  - 1.52
+  - 1.72
+  - 2.91
+  - 3.08
+  - 3.82
+  - 3.85
+  - 3.91
+  - 4.08
 Democracy_Index: 1.95
 Inequality_adjusted_Human_Development_Index: 0.307
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ye,42842]]'
@@ -244,19 +244,19 @@ maritime_identification_digits:
 - 475
 - 473
 death_rate:
-- 6.416
-- 6.509
-- 6.824
-- 6.845
+  - 6.416
+  - 6.509
+  - 6.824
+  - 6.845
 rural_population: 17955000
 social_media_followers: 21678
 ISO_3166_1_numeric_code: 887
 M49_code: 887
 birth_rate:
-- 29.919
-- 30.544
-- 31.252
-- 31.778
+  - 29.919
+  - 30.544
+  - 31.252
+  - 31.778
 IAB_code: 1475
 life_expectancy: 64.953
 OmegaWiki_Defined_Meaning: 8456
@@ -269,13 +269,13 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%2
 INSEE_countries_and_foreign_territories_code: 99251
 FIPS_10_4_countries_and_regions_: YM
 female_population:
-- 16313210
-- 15593113
-- 15963067
-- 16673411
+  - 16313210
+  - 15593113
+  - 15963067
+  - 16673411
 number_of_out_of_school_children: 2337346
 short_name:
-- اليمن
+  - اليمن
 - "\U0001F1FE\U0001F1EA"
 population: 28250420
 licence_plate_code: YAR
@@ -283,10 +283,10 @@ PM20_geo_code: B31
 ISO_3166_1_alpha_2_code: YE
 WIPO_ST_3: YE
 male_population:
-- 15953578
-- 16320979
-- 16668432
-- 17023203
+  - 15953578
+  - 16320979
+  - 16668432
+  - 17023203
 U_S_National_Archives_Identifier: 10044503
 coordinates_of_easternmost_point: "Point(53.108916666 16.650472222)"
 inception: "1990-05-22"
@@ -314,11 +314,11 @@ official_name: "الجمهورية اليمنية"
 native_label: "الجمهوريّة اليمنية"
 has_id_wikidata: Q805
 location:
-- 14.06
-- 44.61
+    - 14.06
+    - 44.61
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27059
 isDeleted: false
 confidential: public

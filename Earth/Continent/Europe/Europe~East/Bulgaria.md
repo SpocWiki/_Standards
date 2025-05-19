@@ -1,11 +1,11 @@
 ---
 location:
-- 42.9342
-- 25.3029
+  - 42.9342
+  - 25.3029
 type: Country
 has_id_wikidata: Q219
 tags:
-- geo/Country
+  - geo/Country
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -21,17 +21,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Bulgaria
-- Bulgarie
-- بلغاريا
-- 保加利亚
-- Болгария
+  - Bulgaria
+  - Bulgarie
+  - بلغاريا
+  - 保加利亚
+  - Болгария
 - "the Republic of Bulgaria"
 - "la República de Bulgaria"
 Languages:
-- bg
-- tr-BG
-- rom
+  - bg
+  - tr-BG
+  - rom
 icon: flag-bg
 central_bank: "[[_Standards/WikiData/WD~Bulgarian_National_Bank,74687]]"
 member_of:
@@ -118,7 +118,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Encyclopedia_“Bulgaria”,12277139]]"
+- "[[_Standards/WikiData/WD~Great_Encyclopedia__Bulgaria_,12277139]]"
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
@@ -182,51 +182,51 @@ Colon_Classification: SG--5926
 Krugosvet_article: strany_mira/BOLGARIYA.html
 Libris_URI: xv8b9p1g14q9h82
 demonym:
-- بلغاري
-- búlgara
-- бъ̀лгари
-- бъ̀лгарин
-- бъ̀лгарка
-- বুলগেরীয়
-- bulgarer
-- Bulgarier
-- Bulgarierin
-- bulgaro
-- bulgares
-- Bulgárach
-- בולגרי
-- בולגרייה
-- Bulgariano
-- bulgara
-- bulgare
-- Bulgaar
-- bulgar
-- bulgăroaică
-- bùlgara
-- bùlgare
-- bùlgari
-- Bulgaränan
-- بلغاري
-- بلغارية
-- بلغاريين
-- بلغاريات
-- بلغارية
-- búlgaru
-- búlgar
-- Bulgarian
-- bulgare
-- Bulgare
-- بلغاريون
-- búlgars
-- bulgari
-- болгарин
-- болгарка
-- болгары
-- bolgár
-- bulgaro
-- balgarsce
-- bùlgaro
-- bulgari
+  - بلغاري
+  - búlgara
+  - бъ̀лгари
+  - бъ̀лгарин
+  - бъ̀лгарка
+  - বুলগেরীয়
+  - bulgarer
+  - Bulgarier
+  - Bulgarierin
+  - bulgaro
+  - bulgares
+  - Bulgárach
+  - בולגרי
+  - בולגרייה
+  - Bulgariano
+  - bulgara
+  - bulgare
+  - Bulgaar
+  - bulgar
+  - bulgăroaică
+  - bùlgara
+  - bùlgare
+  - bùlgari
+  - Bulgaränan
+  - بلغاري
+  - بلغارية
+  - بلغاريين
+  - بلغاريات
+  - بلغارية
+  - búlgaru
+  - búlgar
+  - Bulgarian
+  - bulgare
+  - Bulgare
+  - بلغاريون
+  - búlgars
+  - bulgari
+  - болгарин
+  - болгарка
+  - болгары
+  - bolgár
+  - bulgaro
+  - balgarsce
+  - bùlgaro
+  - bulgari
 motto_text:
 - "A discovery to share"
 - "Darganfyddiad i'w rannu"
@@ -307,8 +307,8 @@ official_symbol: '[[_Standards/WikiData/WD~lion,140]]'
 lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 VAT_rate:
-- 20
-- 9
+  - 20
+  - 9
 country: '[[_Standards/WikiData/WD~Bulgaria,219]]'
 marriageable_age: 18
 age_of_majority: 18
@@ -317,15 +317,15 @@ unemployment_rate: 4.1
 suicide_rate: 6.5
 life_expectancy: 74
 BTI_Status_Index:
-- 7.8
-- 7.46
-- 7.76
-- 7.91
-- 7.98
-- 8.14
-- 8.29
-- 8.36
-- 8.44
+  - 7.8
+  - 7.46
+  - 7.76
+  - 7.91
+  - 7.98
+  - 8.14
+  - 8.29
+  - 8.36
+  - 8.44
 birth_rate: 8.8
 literacy_rate: 98
 total_fertility_rate: 1.58
@@ -336,15 +336,15 @@ Gini_coefficient: 40.3
 maximum_temperature_record: 45.2
 trunk_prefix: 0
 BTI_Governance_Index:
-- 5.87
-- 5.98
-- 6.02
-- 6.18
-- 6.38
-- 6.53
-- 6.65
-- 6.73
-- 6.76
+  - 5.87
+  - 5.98
+  - 6.02
+  - 6.18
+  - 6.38
+  - 6.53
+  - 6.65
+  - 6.73
+  - 6.76
 Democracy_Index: 6.71
 Inequality_adjusted_Human_Development_Index: 0.701
 Human_Development_Index: 0.795
@@ -379,26 +379,26 @@ ITU_letter_code: BUL
 geoshape: "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
 native_label: България
 rural_population:
-- 1528155
-- 1648939
-- 1685936
-- 1719734
+  - 1528155
+  - 1648939
+  - 1685936
+  - 1719734
 OmegaWiki_Defined_Meaning: 160307
 male_population:
-- 3135133
-- 3335414
-- 3363373
-- 3383675
+  - 3135133
+  - 3335414
+  - 3363373
+  - 3383675
 female_population:
-- 3329964
-- 3542329
-- 3570641
-- 3592085
+  - 3329964
+  - 3542329
+  - 3570641
+  - 3592085
 urban_population:
-- 4936942
-- 5228804
-- 5248079
-- 5256027
+  - 4936942
+  - 5228804
+  - 5248079
+  - 5256027
 PM20_geo_code: A46
 population: 6795803
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Rila%20Monastery%2C%20August%202013.jpg"

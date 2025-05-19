@@ -110,7 +110,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~101,25648794]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Nouakchott,4689519]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mauritania,4753810]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mauritania,7112352]]"
 lowest_point: "[[_Standards/WikiData/WD~Sebkha_de_Ndrhamcha,7442787]]"
@@ -123,20 +123,20 @@ M49_code: 478
 mobile_country_code: 609
 total_fertility_rate: 4.603
 death_rate:
-- 7.003
-- 7.203
-- 7.466
-- 7.44
+  - 7.003
+  - 7.203
+  - 7.466
+  - 7.44
 ISO_3166_1_alpha_2_code: MR
 FIPS_10_4_countries_and_regions_: MR
 WIPO_ST_3: MR
 area: 1030700
 maritime_identification_digits: 654
 birth_rate:
-- 32.953
-- 33.194
-- 33.427
-- 33.723
+  - 32.953
+  - 33.194
+  - 33.427
+  - 33.723
 IAB_code: 1352
 life_expectancy: 63.238
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
@@ -146,64 +146,64 @@ subreddit: Mauritania
 hashtag: Mauritania
 Unicode_character: 🇲🇷 
 male_population:
-- 2145130
-- 2260590
-- 2202418
-- 2321228
+  - 2145130
+  - 2260590
+  - 2202418
+  - 2321228
 INSEE_countries_and_foreign_territories_code: 99336
 number_of_out_of_school_children: 451856
 short_name:
-- RIM
+  - RIM
 - "\U0001F1F2\U0001F1F7"
 demonym:
-- Mauritanian
-- موريطانية
-- موريتاني
-- موريتانية
-- موريتانيون
-- mauritana
-- mauritanu
-- মৌরিতানীয়
-- mauritano
-- Mauritanien
-- Mauritanienne
-- מאוריטני
-- מאוריטנית
-- mauritániai
-- Mauritaniano
-- mauritana
-- mauritane
-- mauritani
-- mauritano
-- muritani
-- mauritanian
-- mauritaniană
-- mauritanieni
-- мавританцы
-- mauritan
-- mauritana
-- mauritane
-- mauritani
-- Moritänan
-- موريطانيين
-- موريطاني
-- موريطانيات
-- Máratánach
+  - Mauritanian
+  - موريطانية
+  - موريتاني
+  - موريتانية
+  - موريتانيون
+  - mauritana
+  - mauritanu
+  - মৌরিতানীয়
+  - mauritano
+  - Mauritanien
+  - Mauritanienne
+  - מאוריטני
+  - מאוריטנית
+  - mauritániai
+  - Mauritaniano
+  - mauritana
+  - mauritane
+  - mauritani
+  - mauritano
+  - muritani
+  - mauritanian
+  - mauritaniană
+  - mauritanieni
+  - мавританцы
+  - mauritan
+  - mauritana
+  - mauritane
+  - mauritani
+  - Moritänan
+  - موريطانيين
+  - موريطاني
+  - موريطانيات
+  - Máratánach
 rural_population:
-- 1994344
-- 2009661
-- 2024451
-- 2040187
+  - 1994344
+  - 2009661
+  - 2024451
+  - 2040187
 female_population:
-- 2238719
-- 2296186
-- 2354385
-- 2414911
+  - 2238719
+  - 2296186
+  - 2354385
+  - 2414911
 urban_population:
-- 2389505
-- 2488943
-- 2590523
-- 2695952
+  - 2389505
+  - 2488943
+  - 2590523
+  - 2695952
 population: 4614974
 ISO_3166_1_alpha_3_code: MRT
 inception: "1960-11-28"
@@ -212,8 +212,8 @@ IOC_country_code: MTN
 ITU_letter_code: MTN
 licence_plate_code: RIM
 nominal_GDP:
-- 9996240419
-- 10375460680
+  - 9996240419
+  - 10375460680
 coordinates_of_southernmost_point: "Point(-12.0548 14.721)"
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationMauritania.svg"
@@ -283,24 +283,24 @@ official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 BTI_Governance_Index:
-- 4
-- 4.2
-- 3.45
-- 4.06
-- 4.46
-- 5.39
+  - 4
+  - 4.2
+  - 3.45
+  - 4.06
+  - 4.46
+  - 5.39
 VAT_rate: 14
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 220
 unemployment_rate: 31
 BTI_Status_Index:
-- 4.3
-- 3.73
-- 4.22
-- 4.35
-- 4.36
-- 4.41
+  - 4.3
+  - 3.73
+  - 4.22
+  - 4.35
+  - 4.36
+  - 4.41
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mr,42653]]'
 Gini_coefficient: 32.6
 Happy_Planet_Index_score: 34.7

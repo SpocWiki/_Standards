@@ -7,7 +7,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
 - "[[_Standards/WikiData/WD~Group_of_77,477328]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
@@ -132,47 +132,47 @@ coordinates_of_northernmost_point: "Point(30.42895 -8.27494)"
 UMLS_CUI: C0043445
 coordinates_of_easternmost_point: "Point(33.7095 -10.56768)"
 demonym:
-- زامبي
-- زامبية
-- زامبيين
-- زامبيات
-- Zambijec
-- Zambijka
-- Zambià
-- zambiana
-- Saimbiach
-- زامبي
-- زامبية
-- زامبيون
-- zambiana
-- zambianu
-- জাম্বীয়
-- Sambier
-- Sambierin
-- Sambierinnen
-- Zambian
-- Zambians
-- Zambiano
-- Zambien
-- Zambienne
-- זמבי
-- זמבית
-- zambiai
-- Zambiano
-- zambiana
-- zambiane
-- zambiani
-- zambiano
-- zambian
-- zambian
-- zambiană
-- zambieni
-- замбийцы
-- zanbian
-- zanbiana
-- zanbiane
-- zanbiani
-- Zambiyänan
+  - زامبي
+  - زامبية
+  - زامبيين
+  - زامبيات
+  - Zambijec
+  - Zambijka
+  - Zambià
+  - zambiana
+  - Saimbiach
+  - زامبي
+  - زامبية
+  - زامبيون
+  - zambiana
+  - zambianu
+  - জাম্বীয়
+  - Sambier
+  - Sambierin
+  - Sambierinnen
+  - Zambian
+  - Zambians
+  - Zambiano
+  - Zambien
+  - Zambienne
+  - זמבי
+  - זמבית
+  - zambiai
+  - Zambiano
+  - zambiana
+  - zambiane
+  - zambiani
+  - zambiano
+  - zambian
+  - zambian
+  - zambiană
+  - zambieni
+  - замбийцы
+  - zanbian
+  - zanbiana
+  - zanbiane
+  - zanbiani
+  - Zambiyänan
 ISNI: 0000000406484413
 motto_text:
 - "Un Sambia, Un Genedl"
@@ -180,8 +180,8 @@ motto_text:
 - "Una Zàmbia, una nació"
 - "One Zambia, One Nation"
 nominal_GDP:
-- 22147649569
-- 29784454056
+  - 22147649569
+  - 29784454056
 coordinate_location: "Point(28.0 -14.0)"
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
@@ -236,25 +236,25 @@ mains_voltage: 230
 marriageable_age: 25
 Inequality_adjusted_Human_Development_Index: 0.39
 BTI_Governance_Index:
-- 5.5
-- 3.91
-- 4.48
-- 5.06
-- 5.19
-- 5.49
-- 5.53
-- 5.69
-- 5.77
+  - 5.5
+  - 3.91
+  - 4.48
+  - 5.06
+  - 5.19
+  - 5.49
+  - 5.53
+  - 5.69
+  - 5.77
 BTI_Status_Index:
-- 5.7
-- 5.9
-- 4.34
-- 5.16
-- 5.45
-- 5.96
-- 5.97
-- 5.99
-- 6.07
+  - 5.7
+  - 5.9
+  - 4.34
+  - 5.16
+  - 5.45
+  - 5.96
+  - 5.97
+  - 5.99
+  - 6.07
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.zm,41842]]'
 lowest_point: "[[_Standards/WikiData/WD~Zambezi_River,43106]]"
 Happy_Planet_Index_score: 34.4
@@ -266,10 +266,10 @@ OmegaWiki_Defined_Meaning: 8527
 total_fertility_rate: 5.353
 Dewey_Decimal_Classification: 2--6894
 death_rate:
-- 6.571
-- 6.602
-- 6.716
-- 6.973
+  - 6.571
+  - 6.602
+  - 6.716
+  - 6.973
 ISO_3166_1_numeric_code: 894
 M49_code: 894
 mobile_country_code: 645
@@ -277,10 +277,10 @@ maritime_identification_digits: 678
 licence_plate_code: Z
 FIPS_10_4_countries_and_regions_: ZA
 birth_rate:
-- 34.127
-- 34.511
-- 34.953
-- 35.462
+  - 34.127
+  - 34.511
+  - 34.953
+  - 35.462
 IOC_country_code: ZAM
 life_expectancy: 61.874
 INSEE_countries_and_foreign_territories_code: 99346
@@ -288,15 +288,15 @@ ISO_3166_1_alpha_2_code: ZM
 WIPO_ST_3: ZM
 area: 752618
 urban_population:
-- 8447250
-- 8100644
-- 8800295
-- 9160288
+  - 8447250
+  - 8100644
+  - 8800295
+  - 9160288
 rural_population:
-- 10672830
-- 10279833
-- 10480465
-- 10857387
+  - 10672830
+  - 10279833
+  - 10480465
+  - 10857387
 Commons_category: Zambia
 Commons_gallery: Zambia
 Unicode_character: 🇿🇲 
@@ -305,7 +305,7 @@ ITU_letter_code: ZMB
 native_label: "Republic of Zambia"
 official_name:
 - "République de Zambie"
-- Zambia
+  - Zambia
 short_name: "\U0001F1FF\U0001F1F2"
 subreddit: Zambia
 hashtag: Zambia
@@ -314,15 +314,15 @@ inception: "1964-10-24"
 has_time_started: "1964-10-24"
 coordinates_of_southernmost_point: "Point(26.6935 -18.0759)"
 male_population:
-- 9066397
-- 9338613
-- 9609004
-- 9877642
+  - 9066397
+  - 9338613
+  - 9609004
+  - 9877642
 female_population:
-- 9314079
-- 9589102
-- 9864121
-- 10140033
+  - 9314079
+  - 9589102
+  - 9864121
+  - 10140033
 U_S_National_Archives_Identifier: 10035690
 population: 19610769
 geoshape: "http://commons.wikimedia.org/data/main/Data:Zambia.map"
