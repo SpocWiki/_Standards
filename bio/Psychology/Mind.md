@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q450
 has_characteristic:
 - "[[_Standards/WikiData/WD~mental_health,317309]]"
@@ -8,7 +8,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 studied_in: "[[_Standards/WikiData/WD~cognitive_neuroscience,1138951]]"
 subclass_of: "[[_Standards/WikiData/WD~abstract_entity,7048977]]"
 said_to_be_the_same_as:

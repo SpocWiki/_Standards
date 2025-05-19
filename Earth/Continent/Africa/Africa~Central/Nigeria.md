@@ -47,7 +47,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -143,7 +143,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Glavda,3441285]]'
 - '[[_Standards/WikiData/WD~Dass,3441293]]'
 - '[[_Standards/WikiData/WD~Nzanyi,3441299]]'
-- "[[_Standards/WikiData/WD~Pa'a,3441315]]"
+  - "[[_Standards/WikiData/WD~Pa'a,3441315]]"
 - '[[_Standards/WikiData/WD~Mburku,3441324]]'
 - '[[_Standards/WikiData/WD~Uvbie,3441344]]'
 - '[[_Standards/WikiData/WD~Guduf-Gava,3441350]]'
@@ -176,7 +176,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Obulom,3813403]]'
 - '[[_Standards/WikiData/WD~Ogbia,3813400]]'
 - '[[_Standards/WikiData/WD~Ogbogolo,3813405]]'
-- '[[_Standards/WikiData/WD~O’chi’chi’,3813833]]'
+- '[[_Standards/WikiData/WD~O_chi_chi_,3813833]]'
 - '[[_Standards/WikiData/WD~Rigwe,3912756]]'
 - '[[_Standards/WikiData/WD~Lemoro,3912761]]'
 - '[[_Standards/WikiData/WD~Tyap,3912765]]'
@@ -259,7 +259,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dadiya,3914436]]'
 - '[[_Standards/WikiData/WD~Idun,3914441]]'
 - '[[_Standards/WikiData/WD~Jibu,3914448]]'
-- '[[_Standards/WikiData/WD~Sur–Myet,3914453]]'
+- '[[_Standards/WikiData/WD~Sur_Myet,3914453]]'
 - '[[_Standards/WikiData/WD~Gade,3914459]]'
 - '[[_Standards/WikiData/WD~Etkywan,3914462]]'
 - '[[_Standards/WikiData/WD~Ubang,3914467]]'
@@ -537,7 +537,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Shoo-Minda-Nye,36548]]'
 - '[[_Standards/WikiData/WD~Obolo,36614]]'
 - '[[_Standards/WikiData/WD~Akpet,36618]]'
-- "[[_Standards/WikiData/WD~ut-Ma'in,36627]]"
+  - "[[_Standards/WikiData/WD~ut-Ma'in,36627]]"
 - '[[_Standards/WikiData/WD~Ubaghara,36625]]'
 - '[[_Standards/WikiData/WD~Ukwuani-Aboh-Ndoni,36636]]'
 - '[[_Standards/WikiData/WD~Ukaan,36651]]'
@@ -558,7 +558,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Margi,56241]]'
 - '[[_Standards/WikiData/WD~Hdi,56246]]'
 - '[[_Standards/WikiData/WD~Fali,56244]]'
-- "[[_Standards/WikiData/WD~Ga'anda,56245]]"
+  - "[[_Standards/WikiData/WD~Ga'anda,56245]]"
 - "[[_Standards/WikiData/WD~Marghi_South,56248]]"
 - '[[_Standards/WikiData/WD~Bata,56254]]'
 - '[[_Standards/WikiData/WD~Zumbun,56252]]'
@@ -642,75 +642,75 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 population: 211400708
 studied_in: "[[_Standards/WikiData/WD~Nigerian_studies,115669647]]"
 nominal_GDP:
-- 477386120636
-- 440833583992
+  - 477386120636
+  - 440833583992
 UMLS_CUI: C0028075
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20City%20Gate%20of%20Abuja.jpg"
 rural_population:
-- 99300013
-- 100084652
-- 100840661
-- 101575770
+  - 99300013
+  - 100084652
+  - 100840661
+  - 101575770
 demonym:
-- نيجيري
-- نيجيرية
-- نيجيريين
-- نيجيريات
-- Nigéarach
-- Nigerian
-- nizerian
-- nizeriana
-- nizeriane
-- nizeriani
-- Nigeriyänan
-- نيجيري
-- نيجيرية
-- نيجيريون
-- nixeriana
-- nixerianu
-- নাইজেরীয়
-- Nigerianer
-- Nigerianerin
-- Nigerians
-- Niĝeriano
-- nigérian
-- Nigérian
-- nigériane
-- Nigériane
-- ניגרי
-- ניגרית
-- nigériai
-- Nigeriano
-- nigeriana
-- nigeriane
-- nigeriani
-- nigeriano
-- nijerian
-- Nigeriaan
-- Nigeriaanse
-- nigerian
-- nigeriancă
-- nigerieni
-- нигериец
-- нигерийка
-- нигерийцы
+  - نيجيري
+  - نيجيرية
+  - نيجيريين
+  - نيجيريات
+  - Nigéarach
+  - Nigerian
+  - nizerian
+  - nizeriana
+  - nizeriane
+  - nizeriani
+  - Nigeriyänan
+  - نيجيري
+  - نيجيرية
+  - نيجيريون
+  - nixeriana
+  - nixerianu
+  - নাইজেরীয়
+  - Nigerianer
+  - Nigerianerin
+  - Nigerians
+  - Niĝeriano
+  - nigérian
+  - Nigérian
+  - nigériane
+  - Nigériane
+  - ניגרי
+  - ניגרית
+  - nigériai
+  - Nigeriano
+  - nigeriana
+  - nigeriane
+  - nigeriani
+  - nigeriano
+  - nijerian
+  - Nigeriaan
+  - Nigeriaanse
+  - nigerian
+  - nigeriancă
+  - nigerieni
+  - нигериец
+  - нигерийка
+  - нигерийцы
 ISNI: 0000000121578678
 female_population:
-- 100623652
-- 103084231
-- 108093075
-- 105574310
+  - 100623652
+  - 103084231
+  - 108093075
+  - 105574310
 male_population:
-- 102680839
-- 105243174
-- 107827012
-- 110448136
+  - 102680839
+  - 105243174
+  - 107827012
+  - 110448136
 coordinates_of_northernmost_point: "Point(5.52982 13.88564)"
 urban_population:
-- 104004479
-- 108242753
-- 112560662
-- 116965442
+  - 104004479
+  - 108242753
+  - 112560662
+  - 116965442
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~South_Africa,258]]"
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -758,28 +758,28 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 BTI_Governance_Index:
-- 5
-- 5.3
-- 3.95
-- 4.04
-- 4.06
-- 4.59
-- 4.94
-- 5.53
+  - 5
+  - 5.3
+  - 3.95
+  - 4.04
+  - 4.06
+  - 4.59
+  - 4.94
+  - 5.53
 unemployment_rate: 8
 marriageable_age: 18
 mains_voltage: 230
 Democracy_Index: 4.1
 BTI_Status_Index:
-- 4.6
-- 4.9
-- 3.91
-- 4.63
-- 4.69
-- 4.88
-- 4.99
-- 5.38
-- 5.67
+  - 4.6
+  - 4.9
+  - 3.91
+  - 4.63
+  - 4.69
+  - 4.88
+  - 4.99
+  - 5.38
+  - 5.67
 suicide_rate: 6.9
 VAT_rate: 7.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ng,43151]]'
@@ -793,17 +793,17 @@ Human_Development_Index: 0.535
 total_fertility_rate: 5.65
 GS1_country_code: 615
 death_rate:
-- 12.431
-- 12.989
-- 12.997
-- 13.083
+  - 12.431
+  - 12.989
+  - 12.997
+  - 13.083
 maritime_identification_digits: 657
 mobile_country_code: 621
 birth_rate:
-- 36.611
-- 37.117
-- 37.467
-- 37.849
+  - 36.611
+  - 37.117
+  - 37.467
+  - 37.849
 M49_code: 566
 ISO_3166_1_numeric_code: 566
 OmegaWiki_Defined_Meaning: 8284
@@ -813,8 +813,8 @@ FIPS_10_4_countries_and_regions_: NI
 social_media_followers: 93449
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
 short_name:
-- NG
-- Nigeria
+  - NG
+  - Nigeria
 - "\U0001F1F3\U0001F1EC"
 country_calling_code: +234
 WIPO_ST_3: NG
@@ -828,18 +828,18 @@ Commons_gallery: Nigeria
 hashtag: Nigeria
 Commons_category: Nigeria
 PM20_geo_code:
-- C54
-- C60
+  - C54
+  - C60
 ITU_letter_code: NIG
 area: 923768
 official_name:
-- Nigeria
-- Nàìjíríà
+  - Nigeria
+  - Nàìjíríà
 - "Orílẹ̀-èdè Olómìniira Aláàpapọ̀ Nàìjíríà"
 - "Federal Republic of Nigeria"
 - "République fédérale du Nigéria"
-- Nijeriya
-- Naigeria
+  - Nijeriya
+  - Naigeria
 inception: "1963-10-01"
 has_time_started: "1963-10-01"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Nigeria.svg"
@@ -856,9 +856,9 @@ seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%
 U_S_National_Archives_Identifier: 10035781
 Dewey_Decimal_Classification: 2--669
 native_label:
-- Nàìjíríà
-- Nijeriya
-- Naigeria
+  - Nàìjíríà
+  - Nijeriya
+  - Naigeria
 coordinates_of_southernmost_point: "Point(6.08705 4.27031)"
 coordinates_of_easternmost_point: "Point(14.67801 12.16414)"
 coordinate_location: "Point(8.0 9.0)"

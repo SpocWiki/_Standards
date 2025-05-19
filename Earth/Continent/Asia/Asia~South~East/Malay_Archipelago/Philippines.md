@@ -123,7 +123,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902–1905),20089963]]"
+- "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
 highest_point: "[[_Standards/WikiData/WD~Mount_Apo,455963]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Philippines,514212]]"
 language_used:

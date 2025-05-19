@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mao Zedong"
 - "Chairman Mao"
@@ -20,8 +20,8 @@ residence:
 - "[[_Standards/WikiData/WD~Mao_Zedong's_Former_Residence,14505721]]"
 - "[[_Standards/WikiData/WD~Former_residence_of_Mao_Zedong_during_his_first_stay_in_Beijing,15929957]]"
 military_branch:
-- "[[_Standards/WikiData/WD~People’s_Liberation_Army,200106]]"
-- "[[_Standards/WikiData/WD~Chinese_Workers’_and_Peasants’_Red_Army,1036830]]"
+- "[[_Standards/WikiData/WD~People_s_Liberation_Army,200106]]"
+- "[[_Standards/WikiData/WD~Chinese_Workers__and_Peasants__Red_Army,1036830]]"
 - "[[_Standards/WikiData/WD~New_Army,1186887]]"
 spouse:
 - "[[_Standards/WikiData/WD~He_Zizhen,272321]]"
@@ -72,9 +72,9 @@ student_of: "[[_Standards/WikiData/WD~Li_Yuanfu,11095429]]"
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~atheist,13211738]]'
 - '[[_Standards/WikiData/WD~atheism,7066]]'
-movement: '[[_Standards/WikiData/WD~Marxism–Leninism–Maoism,18127879]]'
+movement: '[[_Standards/WikiData/WD~Marxism_Leninism_Maoism,18127879]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'

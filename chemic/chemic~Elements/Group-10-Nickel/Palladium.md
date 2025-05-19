@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21944
 has_id_wikidata: Q1089
@@ -23,7 +23,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 UMLS_CUI: C0030230
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm"
 electron_configuration:

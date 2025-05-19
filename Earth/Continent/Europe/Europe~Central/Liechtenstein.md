@@ -63,7 +63,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 highest_point: '[[_Standards/WikiData/WD~Grauspitz,665000]]'
 named_after: "[[_Standards/WikiData/WD~House_of_Liechtenstein,698530]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Liechtenstein,943167]]"
@@ -103,42 +103,42 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein%20asv20
 UMLS_CUI: C0023668
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein.ogg"
 demonym:
-- ليخطنشطايني
-- ليخطنشطاينية
-- ليخطنشطاينيين
-- ليخطنشطاينيات
-- liechtensteinî
-- Lichtinstéanach
-- Liechtensteiner
-- ليختنشتايني
-- ليختنشتاينية
-- ليختنشتاينيون
+  - ليخطنشطايني
+  - ليخطنشطاينية
+  - ليخطنشطاينيين
+  - ليخطنشطاينيات
+  - liechtensteinî
+  - Lichtinstéanach
+  - Liechtensteiner
+  - ليختنشتايني
+  - ليختنشتاينية
+  - ليختنشتاينيون
 - "de Liechtenstein"
-- লিশটেনস্টাইনীয়
-- liechtensteinès
-- liechtensteinesa
-- liechtensteinesos
-- Liechtensteinerin
-- Liechtensteiner
-- liĥtenŝtejnano
-- Liechtensteinois
-- liechtensteinoise
-- Liechtensteinoise
-- ליכטנשטייני
-- ליכטנשטיינית
-- liechtensteini
-- Liechtensteinano
-- liechtensteinese
-- liechtensteinesi
-- lictenstaines
-- liechtensteinian
-- liechtensteiniană
-- liechtensteinieni
-- liechtensteineza
-- liechtensteineze
-- liechtensteinezi
-- liechtensteinezo
-- Ligtänstänan
+  - লিশটেনস্টাইনীয়
+  - liechtensteinès
+  - liechtensteinesa
+  - liechtensteinesos
+  - Liechtensteinerin
+  - Liechtensteiner
+  - liĥtenŝtejnano
+  - Liechtensteinois
+  - liechtensteinoise
+  - Liechtensteinoise
+  - ליכטנשטייני
+  - ליכטנשטיינית
+  - liechtensteini
+  - Liechtensteinano
+  - liechtensteinese
+  - liechtensteinesi
+  - lictenstaines
+  - liechtensteinian
+  - liechtensteiniană
+  - liechtensteinieni
+  - liechtensteineza
+  - liechtensteineze
+  - liechtensteinezi
+  - liechtensteinezo
+  - Ligtänstänan
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Liechtenstein\"]"
 ISNI: 0000000121617972
 MeSH_tree_code: Z01.542.524
@@ -172,43 +172,43 @@ age_of_majority: 18
 mains_voltage: 230
 retirement_age: 64
 death_rate:
-- 6.8
-- 6.9
-- 7.1
-- 8.2
+  - 6.8
+  - 6.9
+  - 7.1
+  - 8.2
 VAT_rate: 7.7
 birth_rate:
-- 9.1
-- 9.2
-- 9.6
+  - 9.1
+  - 9.2
+  - 9.6
 total_fertility_rate: 1.45
 number_of_out_of_school_children: 245
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.li,42641]]'
 urban_population:
-- 5530
-- 5587
-- 5649
-- 5717
+  - 5530
+  - 5587
+  - 5649
+  - 5717
 head_of_state: "[[_Standards/WikiData/WD~Hans-Adam_II,_Prince_of_Liechtenstein,57454]]"
 Human_Development_Index: 0.935
 rural_population:
-- 33390
-- 33610
-- 32952
-- 33169
+  - 33390
+  - 33610
+  - 32952
+  - 33169
 maritime_identification_digits: 252
 budget: 1486800000
 male_population:
-- 19102
-- 19223
-- 19354
-- 19502
+  - 19102
+  - 19223
+  - 19354
+  - 19502
 female_population:
-- 19381
-- 19534
-- 19686
-- 19825
+  - 19381
+  - 19534
+  - 19686
+  - 19825
 mobile_country_code: 295
 IAB_code: 1341
 ISO_3166_1_numeric_code: 438
@@ -220,10 +220,10 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liec
 Unicode_character: 🇱🇮 
 ISO_3166_1_alpha_2_code: LI
 NUTS_code:
-- LI
-- LI0
-- LI00
-- LI000
+  - LI
+  - LI0
+  - LI00
+  - LI000
 WIPO_ST_3: LI
 FIPS_10_4_countries_and_regions_: LS
 ISO_3166_1_alpha_3_code: LIE
@@ -236,17 +236,17 @@ GS1_country_code: 760-769
 PM20_geo_code: A39
 U_S_National_Archives_Identifier: 10044939
 official_name:
-- Liechtenstein
+  - Liechtenstein
 - "Fürstentum Liechtenstein"
 - "la Principauté du Liechtenstein"
 - "Furstendömet Liechtenstein"
 native_label:
-- Liechtenstein
+  - Liechtenstein
 - "Fürstentum Liechtenstein"
 coordinate_location: "Point(9.553889 47.145)"
 subreddit:
-- liechtenstein
-- Liechtenstein
+  - liechtenstein
+  - Liechtenstein
 GitHub_topic: liechtenstein
 CIVICUS_Monitor_country_entry: liechtenstein
 inception: "1806-07-12"
@@ -267,8 +267,8 @@ Commons_category: Liechtenstein
 Commons_gallery: Liechtenstein
 hashtag: Liechtenstein
 IPA_transcription:
-- lɪçtn̩ˈʂtæɪn
-- lʲɪxtɛnˈʂtɛjn
+  - lɪçtn̩ˈʂtæɪn
+  - lʲɪxtɛnˈʂtɛjn
 Krugosvet_article: strany_mira/LIHTENSHTEN.html
 motto_text: "Für Gott, Fürst und Vaterland"
 short_name: "\U0001F1F1\U0001F1EE"

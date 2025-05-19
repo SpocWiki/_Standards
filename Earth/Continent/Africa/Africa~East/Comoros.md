@@ -82,51 +82,51 @@ official_website: "https://beit-salam.km/"
 UMLS_CUI: C0009490
 coordinates_of_southernmost_point: "Point(44.516 -12.38475)"
 demonym:
-- قوموري
-- قومورية
-- قوموريين
-- قوموريات
-- Comórach
-- Komorano
-- Comorien
-- Comorienne
-- קומורואי
-- קומורואית
-- Comore-szigeteki
-- Komoriano
-- comoriana
-- comoriane
-- comoriani
-- comoriano
-- comori
-- comorez
-- comoreză
-- comorezi
-- коморцы
-- comorian
-- comoriana
-- comoriane
-- comoriani
-- قمري
-- قمرية
-- Comorian
-- قمريون
-- comorana
-- comoranu
-- কমোরীয়
-- comorer
-- Comoran
-- Comorans
-- Comorians
+  - قوموري
+  - قومورية
+  - قوموريين
+  - قوموريات
+  - Comórach
+  - Komorano
+  - Comorien
+  - Comorienne
+  - קומורואי
+  - קומורואית
+  - Comore-szigeteki
+  - Komoriano
+  - comoriana
+  - comoriane
+  - comoriani
+  - comoriano
+  - comori
+  - comorez
+  - comoreză
+  - comorezi
+  - коморцы
+  - comorian
+  - comoriana
+  - comoriane
+  - comoriani
+  - قمري
+  - قمرية
+  - Comorian
+  - قمريون
+  - comorana
+  - comoranu
+  - কমোরীয়
+  - comorer
+  - Comoran
+  - Comorans
+  - Comorians
 ISNI: 0000000122964845
 MeSH_tree_code:
-- Z01.058.290.120.228
-- Z01.639.520.200
+  - Z01.058.290.120.228
+  - Z01.639.520.200
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Un-comoros.png"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Fish%20Harvest.jpg"
 nominal_GDP:
-- 1242519407
-- 1296089479
+  - 1242519407
+  - 1296089479
 diplomatic_relation:
 - "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
@@ -154,10 +154,10 @@ mains_voltage: 220
 Inequality_adjusted_Human_Development_Index: 0.31
 suicide_rate: 6.8
 birth_rate:
-- 30.4
-- 28.887
-- 29.398
-- 29.896
+  - 30.4
+  - 28.887
+  - 29.398
+  - 29.896
 Democracy_Index: 3.09
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.km,42843]]'
 Happy_Planet_Index_score: 42.4
@@ -170,49 +170,49 @@ FIPS_10_4_countries_and_regions_: CN
 Human_Development_Index: 0.558
 area: 2034
 death_rate:
-- 8.203
-- 8.274
-- 8.528
-- 8.718
+  - 8.203
+  - 8.274
+  - 8.528
+  - 8.718
 mobile_country_code: 654
 ISO_3166_1_numeric_code: 174
 M49_code: 174
 IAB_code: 1429
 female_population:
-- 393860
-- 401263
-- 408923
-- 416416
+  - 393860
+  - 401263
+  - 408923
+  - 416416
 rural_population:
-- 586880
-- 560303
-- 569314
-- 578317
+  - 586880
+  - 560303
+  - 569314
+  - 578317
 number_of_out_of_school_children: 61523
 life_expectancy: 63.701
 ISO_3166_1_alpha_2_code: KM
 WIPO_ST_3: KM
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grande%20Comore%20banner.jpg"
 urban_population:
-- 230683
-- 236852
-- 243308
-- 249894
+  - 230683
+  - 236852
+  - 243308
+  - 249894
 IOC_country_code: COM
 ISO_3166_1_alpha_3_code: COM
 ITU_letter_code: COM
 INSEE_countries_and_foreign_territories_code: 99397
 male_population:
-- 397126
-- 404903
-- 412703
-- 420357
+  - 397126
+  - 404903
+  - 412703
+  - 420357
 OmegaWiki_Defined_Meaning: 153601
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Comoros.svg"
 official_name:
 - "Union of the Comoros"
 - "l’Union des Comores"
-- Comores
+  - Comores
 native_label:
 - "Union des Comores"
 - "الاتحاد القمري"

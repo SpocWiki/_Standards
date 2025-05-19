@@ -34,14 +34,14 @@ country: '[[_Standards/WikiData/WD~Switzerland,39]]'
 employees: 640
 member_count: 164
 social_media_followers:
-- 33900
-- 580396
+  - 33900
+  - 580396
 budget: 197200000
 EU_Corporate_body_code: WTO
 short_name:
-- OMC
-- OMC
-- WTO
+  - OMC
+  - OMC
+  - WTO
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Trade%20Organization%20%28logo%20and%20wordmark%29.svg"
 coordinate_location: "Point(6.09 46.12)"
 Commons_gallery: "World Trade Organization"

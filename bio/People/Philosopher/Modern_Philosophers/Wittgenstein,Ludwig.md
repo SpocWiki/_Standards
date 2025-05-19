@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Ludwig Wittgenstein"
 has_id_wikidata: Q9391
@@ -16,7 +16,7 @@ occupation:
 - '[[_Standards/WikiData/WD~philosopher,4964182]]'
 - '[[_Standards/WikiData/WD~teacher,37226]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"

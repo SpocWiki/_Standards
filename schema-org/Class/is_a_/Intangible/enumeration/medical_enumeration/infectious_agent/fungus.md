@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,7 +36,7 @@ Tag Instances like this:
 #is_a_/fungus
 #is_an_/infectious_agent
 
-#has_/sub_classes :: [[../../../../../../../WikiData/WD~Mushroom,83093|WD~Mushroom,83093]] 
+#has_/sub_classes :: [[../../../../../../../WikiData/WD~Mushroom,83093_WD~Mushroom,83093]] 
 
 Pathogenic fungus.
 

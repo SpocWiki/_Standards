@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6223
 Commons_category: Fascism
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mussolini%20and%20Hitler%201940%20%28retouched%29.jpg"
@@ -76,7 +76,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Fascism,12340760]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fascism,6640299]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
 practiced_by: '[[_Standards/WikiData/WD~fascist,88110348]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_fascism,109677916]]"

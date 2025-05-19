@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q765633
 has_use:
 - '[[_Standards/WikiData/WD~recreation,184872]]'
@@ -25,7 +25,7 @@ practiced_by:
 part_of: "[[_Standards/WikiData/WD~transportation_industry,2516512]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aviation-stub,6705836]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Aviation,8206366]]'

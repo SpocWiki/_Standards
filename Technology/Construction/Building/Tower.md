@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12518
 subclass_of:
 - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
@@ -6,7 +6,7 @@ subclass_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q22845830,22845830]]'
 instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"

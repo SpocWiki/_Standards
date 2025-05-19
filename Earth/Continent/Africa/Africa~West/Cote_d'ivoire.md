@@ -1,10 +1,10 @@
 ---
 location:
-- 6.85
-- -5.3
+  - 6.85
+  - -5.3
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q1008
 SpocWebEntityId: 26866
 isDeleted: false
@@ -54,7 +54,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Fromager,818774]]'
 - "[[_Standards/WikiData/WD~Dix-Huit_Montagnes,820486]]"
 - "[[_Standards/WikiData/WD~Marahoué_Region,839083]]"
-- "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
+  - "[[_Standards/WikiData/WD~N'zi-Comoé,842491]]"
 - '[[_Standards/WikiData/WD~Sud-Comoé,842495]]'
 - '[[_Standards/WikiData/WD~Moyen-Cavally,842499]]'
 - "[[_Standards/WikiData/WD~Lacs_Region,845706]]"
@@ -178,7 +178,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~170,25743493]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Abidjan,4689469]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q10707367,10707367]]'
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ivory_Coast,11170150]]"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -191,46 +191,46 @@ EAGLE_id: dates/lod/351
 Wolfram_Language_entity_code: "Entity[\"Concept\", \"CoteDIvoire::xrhh5\"]"
 UMLS_CUI: C0022326
 demonym:
-- إڤواري
-- إڤوارية
-- إڤواريين
-- إڤوارييات
-- Ivorian
-- إيفواري
-- إيفوارية
-- إيفواريون
-- costamarfiliega
-- costamarfiliegu
-- আইভোরীয়
-- ivorià
-- ivoriana
-- ivorianes
-- ivorians
-- ivorianer
-- Ivoirian
-- Ebur-Bordano
-- marfileña
-- marfileño
-- Ivoirien
-- Ivoirienne
+  - إڤواري
+  - إڤوارية
+  - إڤواريين
+  - إڤوارييات
+  - Ivorian
+  - إيفواري
+  - إيفوارية
+  - إيفواريون
+  - costamarfiliega
+  - costamarfiliegu
+  - আইভোরীয়
+  - ivorià
+  - ivoriana
+  - ivorianes
+  - ivorians
+  - ivorianer
+  - Ivoirian
+  - Ebur-Bordano
+  - marfileña
+  - marfileño
+  - Ivoirien
+  - Ivoirienne
 - "מחוף השנהב"
-- elefántcsontparti
-- ivoriana
-- ivoriane
-- ivoriani
-- ivoriano
-- ivorian
-- ivorian
-- ivoriană
-- ivorieni
-- ивуариец
-- ивуарийка
-- ивуарийцы
-- ivorian
-- ivoriana
-- ivoriane
-- ivoriani
-- Viorajolänan
+  - elefántcsontparti
+  - ivoriana
+  - ivoriane
+  - ivoriani
+  - ivoriano
+  - ivorian
+  - ivorian
+  - ivoriană
+  - ivorieni
+  - ивуариец
+  - ивуарийка
+  - ивуарийцы
+  - ivorian
+  - ivoriana
+  - ivoriane
+  - ivoriani
+  - Viorajolänan
 ISNI: 0000000123317877
 coordinates_of_easternmost_point: "Point(-2.493027777 8.206472222)"
 motto_text:
@@ -270,35 +270,35 @@ continent: '[[_Standards/WikiData/WD~Africa,15]]'
 located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 marriageable_age:
-- 20
-- 18
+  - 20
+  - 18
 VAT_rate: 18
 age_of_majority: 21
 mains_voltage: 230
 BTI_Governance_Index:
-- 4.4
-- 5.4
-- 1.83
-- 1.84
-- 2.17
-- 2.91
-- 5.13
-- 5.47
-- 5.54
+  - 4.4
+  - 5.4
+  - 1.83
+  - 1.84
+  - 2.17
+  - 2.91
+  - 5.13
+  - 5.47
+  - 5.54
 Human_Development_Index: 0.55
 suicide_rate: 14.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ci,40333]]'
 lowest_point: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
 BTI_Status_Index:
-- 3.14
-- 3.22
-- 3.31
-- 3.53
-- 4.53
-- 4.97
-- 5.09
-- 5.38
-- 5.49
+  - 3.14
+  - 3.22
+  - 3.31
+  - 3.53
+  - 4.53
+  - 4.97
+  - 5.09
+  - 5.38
+  - 5.49
 Inequality_adjusted_Human_Development_Index: 0.358
 Gini_coefficient: 37.2
 Happy_Planet_Index_score: 39.6
@@ -313,17 +313,17 @@ ISO_3166_1_alpha_2_code: CI
 WIPO_ST_3: CI
 total_fertility_rate: 5.001
 death_rate:
-- 8.728
-- 8.817
-- 8.843
-- 9.001
+  - 8.728
+  - 8.817
+  - 8.843
+  - 9.001
 FIPS_10_4_countries_and_regions_: IV
 GS1_country_code: 618
 birth_rate:
-- 33.492
-- 33.934
-- 34.197
-- 34.554
+  - 33.492
+  - 33.934
+  - 34.197
+  - 34.554
 IAB_code: 1276
 life_expectancy: 53.582
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
@@ -333,35 +333,35 @@ OmegaWiki_Defined_Meaning: 7929
 INSEE_countries_and_foreign_territories_code: 99326
 Dewey_Decimal_Classification: 2--6668
 PM20_geo_code:
-- C37
-- C33
+  - C37
+  - C33
 area: 322463
 ISO_3166_1_alpha_3_code: CIV
 IOC_country_code: CIV
 male_population:
-- 14215570
-- 13218128
-- 13547621
-- 13877714
+  - 14215570
+  - 13218128
+  - 13547621
+  - 13877714
 urban_population:
-- 14338150
-- 13397744
-- 13863304
-- 14829623
+  - 14338150
+  - 13397744
+  - 13863304
+  - 14829623
 U_S_National_Archives_Identifier: 10035718
 ITU_letter_code: CTI
 inception: "1960"
 has_time_started: 1960-06 
 rural_population:
-- 12749807
-- 12948486
-- 13140099
-- 13330919
+  - 12749807
+  - 12948486
+  - 13140099
+  - 13330919
 female_population:
-- 12929424
-- 13264169
-- 13600535
-- 13944972
+  - 12929424
+  - 13264169
+  - 13600535
+  - 13944972
 Commons_category: "Ivory Coast"
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationCotedIvoire.svg"
@@ -375,8 +375,8 @@ official_name:
 coordinate_location: "Point(-6.0 8.0)"
 population: 31165654
 nominal_GDP:
-- 71811075955
-- 70018715017
+  - 71811075955
+  - 70018715017
 geoshape: "http://commons.wikimedia.org/data/main/Data:Ivory+Coast.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ivory%20Coast%20%282%29.svg"
 pronunciation_audio:
@@ -390,8 +390,8 @@ Libris_URI: 53hkj1tp10n5rtj
 Commons_gallery: "Côte d'Ivoire"
 CIVICUS_Monitor_country_entry: cote-divoire
 subreddit:
-- Cotedivoire
-- IvoryCoast
+  - Cotedivoire
+  - IvoryCoast
 hashtag: IvoryCoast
 Krugosvet_article: strany-mira/kot-divuar
 MeSH_tree_code: Z01.058.290.190.272

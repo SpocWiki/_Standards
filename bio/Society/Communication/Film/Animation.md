@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11425
 product_material_or_service_produced_or_provided:
 - "[[_Standards/WikiData/WD~animated_film,202866]]"
@@ -15,7 +15,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animation,6679926]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Animation,11249923]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_animation,15272421]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - '[[_Standards/WikiData/WD~Q131308011,131308011]]'
 different_from: '[[_Standards/WikiData/WD~animation,130285417]]'
 time_of_discovery_or_invention:

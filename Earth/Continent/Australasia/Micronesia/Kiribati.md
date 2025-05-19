@@ -70,40 +70,40 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103603,27103603]]'
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Kiribati,98058686]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 nominal_GDP:
-- 223352943
-- 227610035
+  - 223352943
+  - 227610035
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Nuevo%20banner%20Kiribati.jpg"
 coordinates_of_southernmost_point: "Point(-151.81087 -11.44655)"
 demonym:
-- Kiribatijec
-- Kiribatijka
-- كيريباتية
-- كيريباتيين
-- كيريباتيات
-- كيريباتي
-- كيريباتية
-- كيريباتيون
-- كيريباتي
-- kiribatiana
-- kiribatianu
-- কিরিবাতীয়
-- I-Kiribati
-- Kiribatano
-- Gilbertin
-- Gilbertine
-- קיריבטי
-- קיריבטית
-- kiribati
-- Kiribatiano
-- gilbertese
-- gilbertesi
-- ciribas
-- zilberteza
-- zilberteze
-- zilbertezi
-- zilbertezo
+  - Kiribatijec
+  - Kiribatijka
+  - كيريباتية
+  - كيريباتيين
+  - كيريباتيات
+  - كيريباتي
+  - كيريباتية
+  - كيريباتيون
+  - كيريباتي
+  - kiribatiana
+  - kiribatianu
+  - কিরিবাতীয়
+  - I-Kiribati
+  - Kiribatano
+  - Gilbertin
+  - Gilbertine
+  - קיריבטי
+  - קיריבטית
+  - kiribati
+  - Kiribatiano
+  - gilbertese
+  - gilbertesi
+  - ciribas
+  - zilberteza
+  - zilberteze
+  - zilbertezi
+  - zilbertezo
 ISNI:
-- 000000012295548X
+  - 000000012295548X
 - 0000000404587152
 motto_text:
 - "I deithwyr"
@@ -113,7 +113,7 @@ official_name:
 - "Republika Kiribati"
 - "Republic of Kiribati"
 - "la République des Kiribati"
-- Kiribati
+  - Kiribati
 MeSH_tree_code: Z01.639.760.295
 coordinates_of_westernmost_point: "Point(169.536944444 -0.859444444)"
 continent:
@@ -153,7 +153,7 @@ Commons_gallery: Kiribati
 subreddit: Kiribati
 Krugosvet_article: strany_mira/KIRIBATI.html
 short_name:
-- Kiribati
+  - Kiribati
 - "\U0001F1F0\U0001F1EE"
 native_label: "Ribaberiki ni Kiribati"
 coordinates_of_easternmost_point: "Point(-150.2115 -9.936980555)"
@@ -175,31 +175,31 @@ area: 811
 ISO_3166_1_alpha_2_code: KI
 WIPO_ST_3: KI
 male_population:
-- 60390
-- 61495
-- 62724
-- 63943
+  - 60390
+  - 61495
+  - 62724
+  - 63943
 death_rate: 6.182
 female_population:
-- 66150
-- 63851
-- 64968
-- 67289
+  - 66150
+  - 63851
+  - 64968
+  - 67289
 maritime_identification_digits: 529
 FIPS_10_4_countries_and_regions_: KR
 ISO_3166_1_numeric_code: 296
 M49_code: 296
 birth_rate: 26.723
 rural_population:
-- 56113
-- 56157
-- 56273
-- 56354
+  - 56113
+  - 56157
+  - 56273
+  - 56354
 urban_population:
-- 68128
-- 70306
-- 72601
-- 74878
+  - 68128
+  - 70306
+  - 72601
+  - 74878
 IAB_code: 1333
 OmegaWiki_Defined_Meaning: 7986
 population: 119438
@@ -220,11 +220,11 @@ pronunciation_audio:
 official_website: "https://www.kiribati.gov.ki"
 has_id_wikidata: Q710
 location:
-- 1.4
-- 172.967
+    - 1.4
+    - 172.967
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26937
 isDeleted: false
 confidential: public
@@ -241,15 +241,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Kiribati
-- كيريباس
-- 基里巴斯
-- Кирибати
+    - Kiribati
+    - كيريباس
+    - 基里巴斯
+    - Кирибати
 - "the Republic of Kiribati"
 - "la República de Kiribati"
 Languages:
-- en-KI
-- gil
+    - en-KI
+    - gil
 icon: flag-ki
 ---
 

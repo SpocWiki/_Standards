@@ -1,11 +1,11 @@
 ---
 location:
-- 42.5167
-- 1.51333
+  - 42.5167
+  - 1.51333
 type: Country
 has_id_wikidata: Q228
 tags:
-- geo/Country
+  - geo/Country
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -21,64 +21,64 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Andorra
-- Andorre
-- أندورا
-- 安道尔
-- Андорра
+  - Andorra
+  - Andorre
+  - أندورا
+  - 安道尔
+  - Андорра
 - "the Principality of Andorra"
 - "el Principado de Andorra"
 Languages:
-- ca
+  - ca
 icon: flag-ad
 PM20_geo_code: A30a
 demonym:
-- Andórach
-- أندوري
-- أندورية
-- أندوريون
-- andorrana
-- andorranu
-- অ্যান্ডোরীয়
-- andorrà
-- andorrana
-- Andořan
-- Andořanka
-- andorraner
-- Andorano
-- andorrana
-- andorrano
-- andorran
-- andorrane
-- andorranes
-- andorrans
-- אנדורי
-- אנדורית
-- andorrai
-- Andorano
-- andorrana
-- andorrane
-- andorrani
-- andorrano
-- アンドラ人
-- andoran
-- андорранец
-- андорранка
-- andoran
-- andorana
-- andorane
-- andorani
-- Landoränan
-- أنضوري
-- أنضوريات
-- أنضورية
-- أنضوريين
-- 안도라인
-- андорранцы
-- андоррцы
-- Andorran
-- Andorran
-- Andorrane
+  - Andórach
+  - أندوري
+  - أندورية
+  - أندوريون
+  - andorrana
+  - andorranu
+  - অ্যান্ডোরীয়
+  - andorrà
+  - andorrana
+  - Andořan
+  - Andořanka
+  - andorraner
+  - Andorano
+  - andorrana
+  - andorrano
+  - andorran
+  - andorrane
+  - andorranes
+  - andorrans
+  - אנדורי
+  - אנדורית
+  - andorrai
+  - Andorano
+  - andorrana
+  - andorrane
+  - andorrani
+  - andorrano
+  - アンドラ人
+  - andoran
+  - андорранец
+  - андорранка
+  - andoran
+  - andorana
+  - andorane
+  - andorani
+  - Landoränan
+  - أنضوري
+  - أنضوريات
+  - أنضورية
+  - أنضوريين
+  - 안도라인
+  - андорранцы
+  - андоррцы
+  - Andorran
+  - Andorran
+  - Andorrane
 MeSH_tree_code: Z01.542.049
 coordinates_of_easternmost_point: "Point(1.786388888 42.574166666)"
 coordinates_of_westernmost_point: "Point(1.4090395 42.48627658)"
@@ -132,14 +132,14 @@ water_as_percent_of_area: 0
 literacy_rate: 100
 country: '[[_Standards/WikiData/WD~Andorra,228]]'
 birth_rate:
-- 7
-- 6.2
+  - 7
+  - 6.2
 marriageable_age: 16
 mains_voltage: 220
 maximum_temperature_record: 36
 death_rate:
-- 3.9
-- 4.6
+  - 3.9
+  - 4.6
 VAT_rate: 4.5
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ad,36552]]'
 total_fertility_rate: 1.27
@@ -151,36 +151,36 @@ head_of_state:
 Human_Development_Index: 0.858
 highest_point: "[[_Standards/WikiData/WD~Coma_Pedrosa,62467]]"
 rural_population:
-- 9730
-- 9173
-- 9389
-- 9596
+  - 9730
+  - 9173
+  - 9389
+  - 9596
 motto_text:
 - "Virtus Unita Fortior"
 - "El País dels Pirineus"
 urban_population:
-- 67170
-- 68311
-- 69438
-- 70094
+  - 67170
+  - 68311
+  - 69438
+  - 70094
 nominal_GDP:
-- 3325145407
-- 3352032737
+  - 3325145407
+  - 3352032737
 ISO_3166_1_numeric_code: 020
 M49_code: 020
 mobile_country_code: 213
 FIPS_10_4_countries_and_regions_: AN
 IAB_code: 1234
 female_population:
-- 37502
-- 38084
-- 38673
-- 39038
+  - 37502
+  - 38084
+  - 38673
+  - 39038
 male_population:
-- 38842
-- 39615
-- 40361
-- 40786
+  - 38842
+  - 39615
+  - 40361
+  - 40786
 OmegaWiki_Defined_Meaning: 5757
 population: 87097
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"

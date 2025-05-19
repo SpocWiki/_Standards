@@ -66,7 +66,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_São_Tomé_and_
 has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Sao_Tome,4689522]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_São_Tomé_and_Príncipe,7112474]]"
 replaces: "[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q9480941,9480941]]'
@@ -79,35 +79,35 @@ head_of_state: "[[_Standards/WikiData/WD~Carlos_Vila_Nova,27982047]]"
 coordinates_of_northernmost_point: "Point(7.4 1.7)"
 coordinates_of_easternmost_point: "Point(7.462138888 1.625638888)"
 demonym:
-- سانطومي
-- سانطومية
-- سانطومييات
-- سانطوميين
-- saotomensa
-- saotomense
-- saotomensi
-- saotomenso
+  - سانطومي
+  - سانطومية
+  - سانطومييات
+  - سانطوميين
+  - saotomensa
+  - saotomense
+  - saotomensi
+  - saotomenso
 - "de Santu Tomé y Príncipe"
 - "Sao Tomeans"
 - "São Toméans"
 - "সাও তুমীয়"
-- Santomean
+  - Santomean
 - "Sao Tomean"
 - "São Toméan"
-- Saotomeprincipeano
-- Santoméen
-- Santoméenne
+  - Saotomeprincipeano
+  - Santoméen
+  - Santoméenne
 - "מסאו טומה ופרינסיפה"
 - "São Tomé és Príncipe-i"
-- saotomense
-- saotomensi
-- santomense
+  - saotomense
+  - saotomensi
+  - santomense
 ISNI: 0000000123430458
 Libris_URI: 53hkksqp1px6w8p
 coordinate_location: "Point(6.6 0.316667)"
 nominal_GDP:
-- 526653791
-- 546680342
+  - 526653791
+  - 546680342
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20administrative%20divisions%2Blocation%20in%20Africa.svg"
 coordinates_of_westernmost_point: "Point(6.460611111 0.244777777)"
 coordinates_of_southernmost_point: "Point(6.523361111 -0.013277777)"
@@ -146,43 +146,43 @@ maritime_identification_digits: 668
 number_of_out_of_school_children: 4104
 total_fertility_rate: 4.576
 death_rate:
-- 5.838
-- 5.876
-- 6.294
-- 6.387
+  - 5.838
+  - 5.876
+  - 6.294
+  - 6.387
 ISO_3166_1_alpha_2_code: ST
 WIPO_ST_3: ST
 ISO_3166_1_numeric_code: 678
 M49_code: 678
 FIPS_10_4_countries_and_regions_: TP
 birth_rate:
-- 27.974
-- 28.263
-- 28.435
-- 28.917
+  - 27.974
+  - 28.263
+  - 28.435
+  - 28.917
 mobile_country_code: 626
 PM20_geo_code: C71
 rural_population:
-- 55128
-- 55614
-- 56073
-- 56658
+  - 55128
+  - 55614
+  - 56073
+  - 56658
 life_expectancy: 66.624
 male_population:
-- 107123
-- 109112
-- 111305
-- 113407
+  - 107123
+  - 109112
+  - 111305
+  - 113407
 female_population:
-- 107476
-- 109528
-- 111802
-- 113972
+  - 107476
+  - 109528
+  - 111802
+  - 113972
 urban_population:
-- 157941
-- 162568
-- 167493
-- 172252
+  - 157941
+  - 162568
+  - 167493
+  - 172252
 population: 204327
 OmegaWiki_Defined_Meaning: 154381
 INSEE_countries_and_foreign_territories_code: 99394
@@ -225,8 +225,8 @@ IPA_transcription: "sɑu'tumeː ɔ pɾɪn'siːp"
 Unicode_character: 🇸🇹 
 Krugosvet_article: strany_mira/SAN-TOME_I_PRINSIPI.html
 MeSH_tree_code:
-- Z01.058.290.100.690
-- Z01.639.040.847
+  - Z01.058.290.100.690
+  - Z01.639.040.847
 native_label: "República Democrática de São Tomé e Príncipe"
 has_id_wikidata: Q1039
 location:

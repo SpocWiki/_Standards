@@ -108,10 +108,10 @@ maritime_identification_digits:
 - 212
 - 210
 death_rate:
-- 6.93
-- 6.769
-- 6.971
-- 7.257
+  - 6.93
+  - 6.769
+  - 6.971
+  - 7.257
 Democracy_Index: 7.56
 Inequality_adjusted_Human_Development_Index: 0.819
 has_part_s_:
@@ -136,60 +136,60 @@ M49_code: 196
 BHCL_UUID: 5107be86-5156-462d-aabc-bb6eea760acf
 Unicode_character: 🇨🇾 
 NUTS_code:
-- CY0
-- CY00
-- CY
+  - CY0
+  - CY00
+  - CY
 CIVICUS_Monitor_country_entry: cyprus
 subreddit: cyprus
 GitHub_topic: cyprus
 IPA_transcription:
-- kʲipr
-- ˈcipros
-- ˈkɯbɾɯs
+  - kʲipr
+  - ˈcipros
+  - ˈkɯbɾɯs
 Krugosvet_article: strany-mira/kipr
 Commons_gallery: "Κύπρος - Kıbrıs"
 demonym:
-- قبرصي
-- قبرصية
-- قبرصيون
-- xipriota
-- সাইপ্রাসীয়
-- xipriota
-- xipriotes
-- cypriot
-- Κύπρια
-- Κύπριες
-- Κύπριοι
-- Κύπριος
-- Kiprano
-- Chypriote
-- Cypriote
-- קפריסאי
-- קפריסאית
-- ciprusi
-- Chiprano
-- ciprioti
-- ciprica
-- cipriot
-- cipriotă
-- ciprioți
-- киприоты
-- قبرصي
-- قبرصية
-- قبرصيين
-- قبرصيات
-- Cipireach
-- Kıbrıslı
-- кіпріот
-- кіпріоти
-- кіпріотка
-- cipriota
-- cipriote
-- ciprioti
-- ciprioto
-- Sipreänan
-- cipriota
-- Cypriot
+  - قبرصي
+  - قبرصية
+  - قبرصيون
+  - xipriota
+  - সাইপ্রাসীয়
+  - xipriota
+  - xipriotes
+  - cypriot
+  - Κύπρια
+  - Κύπριες
+  - Κύπριοι
+  - Κύπριος
+  - Kiprano
+  - Chypriote
+  - Cypriote
+  - קפריסאי
+  - קפריסאית
+  - ciprusi
+  - Chiprano
+  - ciprioti
+  - ciprica
+  - cipriot
+  - cipriotă
+  - ciprioți
+  - киприоты
+  - قبرصي
+  - قبرصية
+  - قبرصيين
+  - قبرصيات
+  - Cipireach
+  - Kıbrıslı
+  - кіпріот
+  - кіпріоти
+  - кіпріотка
+  - cipriota
+  - cipriote
+  - ciprioti
+  - ciprioto
+  - Sipreänan
+  - cipriota
+  - Cypriot
 official_name:
 - "Republik Zypern"
 - "Κυπριακή Δημοκρατία"
@@ -202,9 +202,9 @@ native_label:
 - "Κυπριακή Δημοκρατία"
 - "Kıbrıs Cumhuriyeti"
 short_name:
-- Κύπρος
+  - Κύπρος
 - "\U0001F1E8\U0001F1FE"
-- Kıbrıs
+  - Kıbrıs
 motto_text:
 - "Cyprus in your heart"
 - "Cyprus yn dy galon"
@@ -248,20 +248,20 @@ satellite_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cyprus%20sen
 ISNI: 0000000123315214
 coordinates_of_northernmost_point: "Point(34.587777777 35.695833333)"
 MeSH_tree_code:
-- Z01.542.580.500.300
-- Z01.639.640.300
+  - Z01.542.580.500.300
+  - Z01.639.640.300
 coordinate_location: "Point(33.0 35.0)"
 nominal_GDP:
-- 28439052741
-- 28408064462
+  - 28439052741
+  - 28408064462
 coordinates_of_easternmost_point: "Point(34.588611111 35.695)"
 coordinates_of_southernmost_point: "Point(32.963333333 34.6325)"
 GS1_country_code: 529
 birth_rate:
-- 10.023
-- 10.313
-- 10.583
-- 10.794
+  - 10.023
+  - 10.313
+  - 10.583
+  - 10.794
 mobile_country_code: 280
 social_media_followers: 31859
 IAB_code: 1280
@@ -272,27 +272,27 @@ ITU_letter_code: CYP
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg"
 Dewey_Decimal_Classification: 2--5693
 rural_population:
-- 407912
-- 410602
-- 412374
-- 414105
+  - 407912
+  - 410602
+  - 412374
+  - 414105
 PM20_geo_code: B18
 OmegaWiki_Defined_Meaning: 1460441
 female_population:
-- 613199
-- 617605
-- 621034
-- 624713
+  - 613199
+  - 617605
+  - 621034
+  - 624713
 male_population:
-- 615637
-- 619932
-- 623154
-- 626775
+  - 615637
+  - 619932
+  - 623154
+  - 626775
 urban_population:
-- 820924
-- 826935
-- 831814
-- 837383
+  - 820924
+  - 826935
+  - 831814
+  - 837383
 area: 9242.45
 INSEE_countries_and_foreign_territories_code: 99254
 population: 1344976
@@ -319,11 +319,11 @@ official_website: "http://www.cyprus.gov.cy/"
 country_calling_code: +357
 has_id_wikidata: Q229
 location:
-- 35.1333
-- 33.4667
+    - 35.1333
+    - 33.4667
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -339,18 +339,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Cyprus
-- Chipre
-- Chypre
-- قبرص
-- 塞浦路斯
-- Кипр
+    - Cyprus
+    - Chipre
+    - Chypre
+    - قبرص
+    - 塞浦路斯
+    - Кипр
 - "the Republic of Cyprus"
 - "la República de Chipre"
 Languages:
-- el-CY
-- tr-CY
-- en
+    - el-CY
+    - tr-CY
+    - en
 icon: flag-cy
 ---
 

@@ -1,3 +1,29 @@
+---
+has_id_wikidata: Q26185
+aliases:
+  - Quaternary
+  - Кватернер
+  - Kvartér
+  - Kvartær
+  - Quartär
+  - Cuaternario
+  - Kvaternaar
+  - Kvartääri
+  - Quaternaire
+  - negyedidőszak
+  - quaternario
+  - 第四紀
+  - Kvarteras
+  - Kwartair
+  - Kvartær
+  - Czwartorzęd
+  - Quaternário
+  - kvartér
+  - kvartar
+  - kvartär
+  - 第四纪
+  
+---
 
 # [[Period~3~Quaternary]] 
 

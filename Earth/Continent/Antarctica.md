@@ -32,7 +32,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Antarctica,722537]]"
 lowest_point: "[[_Standards/WikiData/WD~Bentley_Subglacial_Trench,818322]]"
@@ -69,9 +69,9 @@ coordinates_of_northernmost_point: "Point(-57.302194444 -63.213305555)"
 coordinates_of_southernmost_point: "Point(0.0 -90.0)"
 coordinate_location: "Point(0.0 -90.0)"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 - '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
 - '[[_Standards/WikiData/WD~UTC+06_00,6906]]'

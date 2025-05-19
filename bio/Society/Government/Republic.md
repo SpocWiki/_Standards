@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7270
 instance_of:
 - "[[_Standards/WikiData/WD~form_of_state,183039]]"
@@ -6,7 +6,7 @@ instance_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 different_from: '[[_Standards/WikiData/WD~Republika,1769193]]'
 named_after: "[[_Standards/WikiData/WD~Res_publica,1994847]]"
 subclass_of: '[[_Standards/WikiData/WD~regime,5589178]]'

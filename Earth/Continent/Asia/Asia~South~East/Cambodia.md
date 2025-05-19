@@ -1,10 +1,10 @@
 ---
 location:
-- 11.55
-- 104.917
+  - 11.55
+  - 104.917
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q424
 SpocWebEntityId: 26936
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Cambodia
-- Camboya
-- Cambodge
-- كمبوديا
-- 柬埔寨
-- Камбоджа
+  - Cambodia
+  - Camboya
+  - Cambodge
+  - كمبوديا
+  - 柬埔寨
+  - Камбоджа
 - "the Kingdom of Cambodia"
 - "el Reino de Camboya"
 Languages:
-- km
-- fr
-- en
+  - km
+  - fr
+  - en
 icon: flag-kh
 lowest_point: "[[_Standards/WikiData/WD~Gulf_of_Thailand,131217]]"
 member_of:
@@ -42,7 +42,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
 - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -123,10 +123,10 @@ language_used:
 - '[[_Standards/WikiData/WD~Kraol,3199593]]'
 - '[[_Standards/WikiData/WD~Tampuan,3514882]]'
 - '[[_Standards/WikiData/WD~Brao,4957737]]'
-- '[[_Standards/WikiData/WD~Kaco’,6344767]]'
+- '[[_Standards/WikiData/WD~Kaco_,6344767]]'
 - '[[_Standards/WikiData/WD~Samre,6583615]]'
 - '[[_Standards/WikiData/WD~Somray,6583612]]'
-- "[[_Standards/WikiData/WD~Sa'och,6583617]]"
+  - "[[_Standards/WikiData/WD~Sa'och,6583617]]"
 - '[[_Standards/WikiData/WD~Pear,6583669]]'
 - '[[_Standards/WikiData/WD~Suoy,7641864]]'
 - "[[_Standards/WikiData/WD~Western_Cham,12645578]]"
@@ -154,50 +154,50 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+07_00,6940]]'
 coordinates_of_southernmost_point: "Point(104.49837572 10.40455121)"
 nominal_GDP:
-- 26961061152
-- 29956769529
+  - 26961061152
+  - 29956769529
 coordinate_location: "Point(105.0 12.5)"
 UMLS_CUI: C0006797
 demonym:
-- كامبودجي
-- كامبودجية
-- كامبودجيين
-- كامبودجيات
-- Kambodžan
-- Kambodžanka
-- Cambódach
-- Cambodian
-- Cambodgien
-- קמבודית
-- kambodzsai
-- Kambodjano
-- cambogiana
-- cambogiane
-- cambogiani
-- cambogiano
-- camputxa
-- cambodgian
-- cambodgiană
-- cambodgieni
-- камбоджийцы
-- canbojan
-- canbojana
-- canbojane
-- Kambocänan
-- canbojani
-- كمبودي
-- كمبودية
-- كمبوديون
-- camboyana
-- camboyanu
-- কম্বোডীয়
-- cambodianer
-- cambodjaner
-- Kambodschaner
-- Kambodschanerin
-- Kamboĝano
-- Cambodgienne
-- קמבודי
+  - كامبودجي
+  - كامبودجية
+  - كامبودجيين
+  - كامبودجيات
+  - Kambodžan
+  - Kambodžanka
+  - Cambódach
+  - Cambodian
+  - Cambodgien
+  - קמבודית
+  - kambodzsai
+  - Kambodjano
+  - cambogiana
+  - cambogiane
+  - cambogiani
+  - cambogiano
+  - camputxa
+  - cambodgian
+  - cambodgiană
+  - cambodgieni
+  - камбоджийцы
+  - canbojan
+  - canbojana
+  - canbojane
+  - Kambocänan
+  - canbojani
+  - كمبودي
+  - كمبودية
+  - كمبوديون
+  - camboyana
+  - camboyanu
+  - কম্বোডীয়
+  - cambodianer
+  - cambodjaner
+  - Kambodschaner
+  - Kambodschanerin
+  - Kamboĝano
+  - Cambodgienne
+  - קמבודי
 ISNI: 0000000404860534
 Gujarati_Vishwakosh_entry: કમ્બોડિયા
 PM20_geo_code: B91b
@@ -252,27 +252,27 @@ significant_event: "[[_Standards/WikiData/WD~Internet_censorship,22696]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 10
 BTI_Status_Index:
-- 4
-- 3.86
-- 4.12
-- 4.18
-- 4.29
-- 4.41
-- 4.48
+  - 4
+  - 3.86
+  - 4.12
+  - 4.18
+  - 4.29
+  - 4.41
+  - 4.48
 marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 230
 Democracy_Index: 2.9
 BTI_Governance_Index:
-- 3.5
-- 3.05
-- 3.14
-- 3.23
-- 3.42
-- 3.54
-- 3.67
-- 3.79
-- 3.82
+  - 3.5
+  - 3.05
+  - 3.14
+  - 3.23
+  - 3.42
+  - 3.54
+  - 3.67
+  - 3.79
+  - 3.82
 Happy_Planet_Index_score: 48
 suicide_rate: 5.5
 literacy_rate: 81
@@ -285,17 +285,17 @@ Human_Development_Index: 0.593
 head_of_state: "[[_Standards/WikiData/WD~Norodom_Sihamoni,57319]]"
 licence_plate_code: K
 birth_rate:
-- 20.28
-- 18.969
-- 19.334
-- 19.849
+  - 20.28
+  - 18.969
+  - 19.334
+  - 19.849
 M49_code: 116
 ISO_3166_1_numeric_code: 116
 death_rate:
-- 5.947
-- 6.228
-- 6.785
-- 6.838
+  - 5.947
+  - 6.228
+  - 6.785
+  - 6.838
 OmegaWiki_Defined_Meaning: 7930
 number_of_out_of_school_children: 904800
 maritime_identification_digits:
@@ -331,8 +331,8 @@ coordinates_of_easternmost_point: "Point(107.62762785 13.36703242)"
 country_calling_code: +855
 official_name:
 - "कम्बोडिया की राजशाही"
-- ព្រះរាជាណាចក្រកម្ពុជា
-- 柬埔寨王國
+  - ព្រះរាជាណាចក្រកម្ពុជា
+  - 柬埔寨王國
 - "Kingdom of Cambodia"
 - "le Royaume du Cambodge"
 native_label: កម្ពុជា

@@ -8,8 +8,8 @@ native_label:
 - "International Court of Justice"
 - "Cour internationale de Justice"
 social_media_followers:
-- 129671
-- 13800
+  - 129671
+  - 13800
 EU_Corporate_body_code: ICJ
 inception: "1945"
 has_time_started: 1945-06 

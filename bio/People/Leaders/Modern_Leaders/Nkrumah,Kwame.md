@@ -52,7 +52,7 @@ place_of_burial:
 place_of_birth: '[[_Standards/WikiData/WD~Nkroful,1994408]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"

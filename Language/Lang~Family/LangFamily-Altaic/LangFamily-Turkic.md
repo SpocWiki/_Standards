@@ -1,8 +1,8 @@
-﻿---
+---
 has_id_wikidata: Q34090
 linguistic_typology:
 - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-- '[[_Standards/WikiData/WD~subject–object–verb,539808]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 has_part_s_:
 - "[[_Standards/WikiData/WD~Common_Turkic,1126028]]"

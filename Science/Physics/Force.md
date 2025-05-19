@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11402
 has_cause: "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
 subclass_of:
@@ -10,8 +10,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units—Part_4__Mechanics,26711933]]"
-- "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_—_Part_4__Mechanics,73391977]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]"
+- "[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]"
 has_characteristic:
 - '[[_Standards/WikiData/WD~orientation,2235286]]'
 - "[[_Standards/WikiData/WD~scalar_magnitude,28733284]]"

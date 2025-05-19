@@ -1,10 +1,10 @@
 ---
 location:
-- 41.7167
-- 44.7833
+  - 41.7167
+  - 44.7833
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
@@ -157,7 +157,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Autonomous_Republic_of_Abkhazia,2914461]]"
 - '[[_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[_Standards/WikiData/WD~Guria,19038]]'
-- '[[_Standards/WikiData/WD~Samtskhe–Javakheti,19039]]'
+- '[[_Standards/WikiData/WD~Samtskhe_Javakheti,19039]]'
 - "[[_Standards/WikiData/WD~Racha-Lechkhumi_and_Kvemo_Svaneti,38893]]"
 - '[[_Standards/WikiData/WD~Adjara,45693]]'
 basic_form_of_government:
@@ -213,7 +213,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Georgia,843405]]"
 electrical_plug_type:
@@ -243,7 +243,7 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Georgia,17588367]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia_(जॉर्जिया),21287329]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Georgia_(ज_र्ज_य_),21287329]]"
 head_of_government: "[[_Standards/WikiData/WD~Irakli_Kobakhidze,27885302]]"
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: '[[_Standards/WikiData/WD~opendata.ge,97095681]]'
@@ -252,73 +252,73 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kazbeg%20banner
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20Georgia.svg"
 Commons_gallery:
 - "Géorgie (pays)"
-- საქართველო
+  - საქართველო
 IPA_transcription: gɛˈɔɾgjɑ
 subreddit: Sakartvelo
 Colon_Classification: SG--5858
 Krugosvet_article: strany_mira/GRUZIYA.html
 MeSH_tree_code:
-- Z01.542.900.420
-- Z01.542.931.420
-- Z01.586.950.420
+  - Z01.542.900.420
+  - Z01.542.931.420
+  - Z01.586.950.420
 demonym:
-- xeorxana
-- xeorxanu
-- জর্জীয়
-- georgià
-- georgiana
-- georgier
-- Georgierin
-- kartvelo
-- Géorgien
-- Géorgienne
-- גאורגית
-- grúz
-- Gruziano
-- georgiana
-- georgiane
-- georgiano
-- cartuli
-- jorjian
-- georgian
-- georgiană
-- georgieni
-- zeorzan
-- zeorzana
-- zeorzane
-- Grusiyänan
-- djeyordjin
-- djeyordjinne
-- جورجي
-- جورجية
-- جورجيين
-- جورجيات
-- Seoirseach
-- Georgian
-- géorgien
-- جورجي
-- גאורגי
-- جورجيون
-- Georgier
-- Géorgiens
-- georgiani
-- ქართველი
-- грузин
-- грузинка
-- грузин
-- грузини
-- грузинка
-- zeorzani
-- جورجية
+  - xeorxana
+  - xeorxanu
+  - জর্জীয়
+  - georgià
+  - georgiana
+  - georgier
+  - Georgierin
+  - kartvelo
+  - Géorgien
+  - Géorgienne
+  - גאורגית
+  - grúz
+  - Gruziano
+  - georgiana
+  - georgiane
+  - georgiano
+  - cartuli
+  - jorjian
+  - georgian
+  - georgiană
+  - georgieni
+  - zeorzan
+  - zeorzana
+  - zeorzane
+  - Grusiyänan
+  - djeyordjin
+  - djeyordjinne
+  - جورجي
+  - جورجية
+  - جورجيين
+  - جورجيات
+  - Seoirseach
+  - Georgian
+  - géorgien
+  - جورجي
+  - גאורגי
+  - جورجيون
+  - Georgier
+  - Géorgiens
+  - georgiani
+  - ქართველი
+  - грузин
+  - грузинка
+  - грузин
+  - грузини
+  - грузинка
+  - zeorzani
+  - جورجية
 official_name:
-- Gruzie
+  - Gruzie
 - "Géorgie (la)"
-- Gruzija
-- Sakartvelas
-- Georgia
-- Грузия
-- საქართველო
-- Georgien
+  - Gruzija
+  - Sakartvelas
+  - Georgia
+  - Грузия
+  - საქართველო
+  - Georgien
 short_name: "\U0001F1EC\U0001F1EA"
 capital: '[[_Standards/WikiData/WD~Tbilisi,994]]'
 different_from:
@@ -339,29 +339,29 @@ continent: '[[_Standards/WikiData/WD~Europe,46]]'
 lowest_point: "[[_Standards/WikiData/WD~Black_Sea,166]]"
 country: '[[_Standards/WikiData/WD~Georgia,230]]'
 BTI_Status_Index:
-- 6
-- 6.6
-- 5.73
-- 5.88
-- 6.03
-- 6.16
-- 6.31
-- 6.39
-- 6.42
+  - 6
+  - 6.6
+  - 5.73
+  - 5.88
+  - 6.03
+  - 6.16
+  - 6.31
+  - 6.39
+  - 6.42
 speed_limit: 110
 marriageable_age: 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 5.9
-- 5.38
-- 5.55
-- 5.68
-- 5.72
-- 5.76
-- 5.86
-- 5.87
-- 6.36
+  - 5.9
+  - 5.38
+  - 5.55
+  - 5.68
+  - 5.72
+  - 5.76
+  - 5.86
+  - 5.87
+  - 6.36
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ge,40683]]'
 Gini_coefficient: 34.5
 Happy_Planet_Index_score: 44.3

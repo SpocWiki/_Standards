@@ -1,40 +1,28 @@
 ---
-has_id_wikidata: Q192710
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-Commons_category: Tapirus indicus
-Commons_gallery: Tapirus indicus
-EPPO_Code: TPIRIN
-gestation_period: 396
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir.JPG
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "624998"
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Endangered_status,96377276]]"
-longest_observed_lifespan: 36.5
-protonym_of: "[[_Standards/WikiData/WD~Acrocodia_indica,27868283]]"
-sequenced_genome_URL: https://www.dnazoo.org/assemblies/Tapirus_indicus
-short_name: T. indicus
-subject_has_role: "[[_Standards/WikiData/WD~protonym,10640897]]"
-taxon_common_name:
-  - Asian tapir
-  - Asian Tapir
-  - Asiatic Tapir
-  - Asiatischer Tapir
-  - Indian Tapir
-  - indijski tapir
-  - Malay Tapir
-  - Malayan Tapir
-  - Malaysischer Tapir
-  - Schabrackentapir
-  - Tapir à dos blanc
-  - Tapir àcChabraque
-  - Tapir de l'Inde
-  - Tapir Malais
-  - Tapir Malayo
-taxon_name: Tapirus indicus
-taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Malayan%20Tapir%20area.png
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Acrocodia_indica,27868283]]"
-UMLS_CUI: C0325182
+has_id_wikidata: Q9283
+aliases:
+  - Proterozoic
+  - Протерозой
+  - Proterozoikum
+  - Proterozoikum
+  - Proterozoikum
+  - Proterozoico
+  - Proterosoikum
+  - Proterotsoikum
+  - Protérozoïque
+  - proterozoos
+  - proterozoico
+  - 原生代
+  - Proterozojus
+  - Proterozoïcum
+  - Proterozoisk
+  - Proterozoik
+  - Proterozóico
+  - proterozoikum
+  - proterozoik
+  - proterozoikum
+  - 元古宙
+  
 ---
 
 # [[Eon~3~Proterozoic]] 

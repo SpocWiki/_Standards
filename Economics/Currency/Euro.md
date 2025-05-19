@@ -1,17 +1,17 @@
 ---
 has_id_wikidata: Q4916
-award received: "[[_Standards/WikiData/WD~Charlemagne Prize,152337]]"
+award received: "[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]"
 different from: "[[_Standards/WikiData/WD~Euro,231952]]"
-history of topic: "[[_Standards/WikiData/WD~history of the euro,2293337]]"
+history of topic: "[[_Standards/WikiData/WD~history_of_the_euro,2293337]]"
 subdivision of this unit: "[[_Standards/WikiData/WD~eurocent,2377701]]"
 topic's main template:
   - "[[_Standards/WikiData/WD~Template_Euro,10347768]]"
   - "[[_Standards/WikiData/WD~Q62683097,62683097]]"
 instance of:
-  - "[[_Standards/WikiData/WD~decimal currency,25401445]]"
+  - "[[_Standards/WikiData/WD~decimal_currency,25401445]]"
   - "[[_Standards/WikiData/WD~currency,8142]]"
 permanent duplicated item: "[[_Standards/WikiData/WD~Q25681519,25681519]]"
-described by source: "[[_Standards/WikiData/WD~Canon of Flanders,111845748]]"
+described by source: "[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]"
 short name:
   - euro
   - Euro
@@ -55,13 +55,13 @@ country:
   - "[[_Standards/WikiData/WD~Cyprus,229]]"
   - "[[_Standards/WikiData/WD~Monaco,235]]"
   - "[[_Standards/WikiData/WD~Malta,233]]"
-  - "[[_Standards/WikiData/WD~San Marino,238]]"
+  - "[[_Standards/WikiData/WD~San_Marino,238]]"
   - "[[_Standards/WikiData/WD~Montenegro,236]]"
-  - "[[_Standards/WikiData/WD~Vatican City,237]]"
+  - "[[_Standards/WikiData/WD~Vatican_City,237]]"
 applies to jurisdiction: "[[_Standards/WikiData/WD~eurozone,8268]]"
-central bank/issuer: "[[_Standards/WikiData/WD~European Central Bank,8901]]"
-depicted by: "[[_Standards/WikiData/WD~euro sign,18100]]"
-currency symbol description: "[[_Standards/WikiData/WD~euro sign,18100]]"
+central bank/issuer: "[[_Standards/WikiData/WD~European_Central_Bank,8901]]"
+depicted by: "[[_Standards/WikiData/WD~euro_sign,18100]]"
+currency symbol description: "[[_Standards/WikiData/WD~euro_sign,18100]]"
 named after: "[[_Standards/WikiData/WD~Europe,46]]"
 price:
   - 24.5

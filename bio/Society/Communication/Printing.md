@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11034
 practiced_by:
 - '[[_Standards/WikiData/WD~printer,175151]]'
@@ -15,7 +15,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 product_material_or_service_produced_or_provided: "[[_Standards/WikiData/WD~printed_matter,1261026]]"

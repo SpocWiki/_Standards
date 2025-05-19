@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21972
 has_id_wikidata: Q751
@@ -17,7 +17,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 UMLS_CUI: C0029383
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20osmium%20collides%20with%20each%20other%20and%20makes%20a%20crisp%20sound.webm"
 Common_Procurement_Vocabulary_code:

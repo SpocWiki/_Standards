@@ -1,17 +1,17 @@
 ---
 location:
-- -26.3167
-- 31.1333
+  - -26.3167
+  - 31.1333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q1050
 SpocWebEntityId: 27027
 isDeleted: false
 confidential: public
 aliases:
-- Eswatini
-- Swaziland
+  - Eswatini
+  - Swaziland
 capital:
 - '[[_Standards/WikiData/WD~Lobamba,101418]]'
 - '[[_Standards/WikiData/WD~Mbabane,3904]]'
@@ -100,41 +100,41 @@ official_website: "http://www.gov.sz/"
 country_calling_code: +268
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Swaziland\"]"
 subreddit:
-- eswatini
-- Swaziland
+  - eswatini
+  - Swaziland
 GitHub_topic: eswatini
 Krugosvet_article: strany_mira/SVAZILEND.html
 CIVICUS_Monitor_country_entry: swaziland
 demonym:
-- suazilandés
-- suazilandesa
-- Eswatinier
-- Eswatinierin
-- eswatinisch
-- Eswatinien
-- Eswatinienne
-- אסוואטיני
-- אסוואטינית
-- szváziföldi
-- Swazilandano
-- swazilandese
-- swaziłandeza
-- swaziłandeze
-- swaziłandezi
-- swaziłandezo
-- Svasiyänan
-- سوازي
-- سوازيات
-- سوازية
-- سوازيين
-- emaSwati
-- liSwati
-- Swazis
-- emaSwati
-- liSwati
-- Suasach
-- Swazi
-- suazi
+  - suazilandés
+  - suazilandesa
+  - Eswatinier
+  - Eswatinierin
+  - eswatinisch
+  - Eswatinien
+  - Eswatinienne
+  - אסוואטיני
+  - אסוואטינית
+  - szváziföldi
+  - Swazilandano
+  - swazilandese
+  - swaziłandeza
+  - swaziłandeze
+  - swaziłandezi
+  - swaziłandezo
+  - Svasiyänan
+  - سوازي
+  - سوازيات
+  - سوازية
+  - سوازيين
+  - emaSwati
+  - liSwati
+  - Swazis
+  - emaSwati
+  - liSwati
+  - Suasach
+  - Swazi
+  - suazi
 motto_text:
 - "Ние сме укреплението"
 - "Som la fortalesa"
@@ -142,14 +142,14 @@ motto_text:
 - "A royal experience"
 - "We are a fortress"
 - "Մենք ամրոց ենք"
-- Siyinqaba
-- "'Da Ni'n Gaer!"
+  - Siyinqaba
+  - "'Da Ni'n Gaer!"
 official_name:
 - "Kingdom of Eswatini"
 - "Umbuso weSwatini"
 short_name:
-- Эсватини
-- eSwatini
+  - Эсватини
+  - eSwatini
 - "\U0001F1F8\U0001F1FF"
 native_label: "Umbuso weSwatini"
 UMLS_CUI: C0038983
@@ -157,31 +157,31 @@ Libris_URI: 1zcffl3k3d9llt7
 ISNI: 0000000121107657
 MeSH_tree_code: Z01.058.290.175.300
 female_population:
-- 594739
-- 600441
-- 605504
-- 589812
+  - 594739
+  - 600441
+  - 605504
+  - 589812
 male_population:
-- 596167
-- 579801
-- 585916
-- 591831
+  - 596167
+  - 579801
+  - 585916
+  - 591831
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationEswatini.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Eswatini.png"
 rural_population:
-- 889128
-- 895279
-- 901726
-- 906348
+  - 889128
+  - 895279
+  - 901726
+  - 906348
 population: 1230506
 inception: "1968-09-06"
 has_time_started: "1968-09-06"
 OmegaWiki_Defined_Meaning: 153704
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
 nominal_GDP:
-- 4854167638
-- 4748702401
+  - 4854167638
+  - 4748702401
 PM20_geo_code: C97
 Unicode_character: 🇸🇿 
 ISO_3166_1_alpha_3_code: SWZ
@@ -214,23 +214,23 @@ official_language:
 part_of: "[[_Standards/WikiData/WD~Southern_Africa,27394]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 suicide_rate:
-- 12
-- 11.6
-- 11.9
-- 13.1
-- 13.3
+  - 12
+  - 11.6
+  - 11.9
+  - 13.1
+  - 13.3
 marriageable_age: 21
 age_of_majority: 21
 unemployment_rate: 22
 mains_voltage: 230
 BTI_Governance_Index:
-- 3.06
-- 3.12
+  - 3.06
+  - 3.12
 Democracy_Index: 3.08
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149]]'
 BTI_Status_Index:
-- 3.51
-- 3.56
+  - 3.51
+  - 3.56
 Happy_Planet_Index_score: 35.3
 Inequality_adjusted_Human_Development_Index: 0.424
 Gini_coefficient: 54.6
@@ -239,17 +239,17 @@ head_of_state: "[[_Standards/WikiData/WD~Mswati_III,57340]]"
 licence_plate_code: SD
 total_fertility_rate: 3.266
 death_rate:
-- 8.923
-- 9.603
-- 11.356
-- 11.883
+  - 8.923
+  - 9.603
+  - 11.356
+  - 11.883
 maritime_identification_digits: 669
 area: 17364
 birth_rate:
-- 23.642
-- 24.134
-- 24.615
-- 25.118
+  - 23.642
+  - 24.134
+  - 24.615
+  - 25.118
 mobile_country_code: 653
 ISO_3166_1_alpha_2_code: SZ
 WIPO_ST_3: SZ
@@ -261,10 +261,10 @@ FIPS_10_4_countries_and_regions_: WZ
 IAB_code: 1417
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Eswatini.svg"
 urban_population:
-- 280485
-- 285376
-- 290545
-- 295322
+  - 280485
+  - 285376
+  - 290545
+  - 295322
 INSEE_countries_and_foreign_territories_code: 99391
 ---
 

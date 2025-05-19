@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8003
 aliases:
 - "Sergei Eisenstein"
@@ -11,7 +11,7 @@ genre: "[[_Standards/WikiData/WD~socialist_realism,180902]]"
 award_received:
 - "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
 - "[[_Standards/WikiData/WD~Order_of_the_Badge_of_Honour,960966]]"
-- "[[_Standards/WikiData/WD~Medal__For_Valiant_Labour_in_the_Great_Patriotic_War_1941–1945_,1600457]]"
+- "[[_Standards/WikiData/WD~Medal__For_Valiant_Labour_in_the_Great_Patriotic_War_1941_1945_,1600457]]"
 - "[[_Standards/WikiData/WD~Medal__In_Commemoration_of_the_800th_Anniversary_of_Moscow_,2634074]]"
 - "[[_Standards/WikiData/WD~Honored_art_worker_of_the_Russian_Soviet_Federative_Socialist_Republic,13418138]]"
 has_works_in_the_collection:
@@ -47,8 +47,8 @@ given_name: '[[_Standards/WikiData/WD~Sergey,12902079]]'
 family_name: '[[_Standards/WikiData/WD~Eisenstein,16834815]]'
 academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Sciences_in_History_of_art,17281180]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950–1958),20968284]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Philip_Cavendish__The_Men_with_the_Movie_Camera._The_Poetics_of_Visual_Style_in_Soviet_Avant-Garde_Cinema_of_the_1920s,37071879]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

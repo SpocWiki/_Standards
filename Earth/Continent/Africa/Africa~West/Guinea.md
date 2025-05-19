@@ -43,7 +43,7 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Conakry,3733]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Schuko,1123613]]'
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
@@ -103,7 +103,7 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~442-020,60057142]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Conakry,4689487]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guinea,7112281]]"
 culture: "[[_Standards/WikiData/WD~culture_of_Guinea,7884258]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8050375,8050375]]'
@@ -120,43 +120,43 @@ head_of_state: "[[_Standards/WikiData/WD~Mamady_Doumbouya,108418519]]"
 coordinates_of_southernmost_point: "Point(-9.10802 7.19067)"
 UMLS_CUI: C0018381
 demonym:
-- غيني
-- غينية
-- غينيين
-- غينيات
-- Guineach
-- غيني
-- غينية
-- غينيون
-- guineana
-- guineanu
-- গিনিয়
-- guineaner
-- Guinean
-- Gvineano
-- Gine
-- guinéen
-- Guinéen
-- guinéenne
-- Guinéenne
-- גינאי
-- גינאית
-- guineai
-- Guineano
-- guineana
-- guineane
-- guineani
-- guineano
-- ginean
-- guineean
-- guineeană
-- guineeni
-- гвинейцы
-- guinean
-- guineana
-- guineane
-- guineani
-- Gineyänan
+  - غيني
+  - غينية
+  - غينيين
+  - غينيات
+  - Guineach
+  - غيني
+  - غينية
+  - غينيون
+  - guineana
+  - guineanu
+  - গিনিয়
+  - guineaner
+  - Guinean
+  - Gvineano
+  - Gine
+  - guinéen
+  - Guinéen
+  - guinéenne
+  - Guinéenne
+  - גינאי
+  - גינאית
+  - guineai
+  - Guineano
+  - guineana
+  - guineane
+  - guineani
+  - guineano
+  - ginean
+  - guineean
+  - guineeană
+  - guineeni
+  - гвинейцы
+  - guinean
+  - guineana
+  - guineane
+  - guineani
+  - Gineyänan
 ISNI: 0000000404586379
 MeSH_tree_code: Z01.058.290.190.375
 motto_text:
@@ -195,25 +195,25 @@ age_of_majority: 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Status_Index:
-- 4.2
-- 4.6
-- 3.42
-- 3.72
-- 4.55
-- 4.66
-- 5.08
-- 5.28
-- 5.33
+  - 4.2
+  - 4.6
+  - 3.42
+  - 3.72
+  - 4.55
+  - 4.66
+  - 5.08
+  - 5.28
+  - 5.33
 BTI_Governance_Index:
-- 2.14
-- 2.62
-- 3.86
-- 4.98
-- 5.07
-- 5.15
-- 5.82
-- 5.83
-- 5.98
+  - 2.14
+  - 2.62
+  - 3.86
+  - 4.98
+  - 5.07
+  - 5.15
+  - 5.82
+  - 5.83
+  - 5.98
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gn,41761]]'
 Gini_coefficient: 29.6
 Inequality_adjusted_Human_Development_Index: 0.299
@@ -231,9 +231,9 @@ subreddit: GuineaRepublic
 Commons_gallery: Guinée
 Krugosvet_article: strany_mira/GVINEYA.html
 official_name:
-- Guinée
+  - Guinée
 - "République de Guinée"
-- ߖߌ߬ߣߍ߫
+  - ߖߌ߬ߣߍ߫
 - "ߖߌ߬ߣߍ߬ ߞߊ߲ߓߍ߲"
 native_label: "République de Guinée"
 name_in_native_language: "République de Guinée"
@@ -241,15 +241,15 @@ short_name: "\U0001F1EC\U0001F1F3"
 population: 12717176
 coordinates_of_easternmost_point: "Point(-7.63789 8.37788)"
 nominal_GDP:
-- 16091817842
-- 21227749389
+  - 16091817842
+  - 21227749389
 coordinates_of_northernmost_point: "Point(-13.7 12.67)"
 coordinate_location: "Point(-11.0 10.0)"
 death_rate:
-- 9.87
-- 9.99
-- 9.712
-- 9.847
+  - 9.87
+  - 9.99
+  - 9.712
+  - 9.847
 total_fertility_rate: 5.013
 IAB_code: 1310
 mobile_country_code: 611
@@ -258,30 +258,30 @@ licence_plate_code: RG
 ISO_3166_1_numeric_code: 324
 M49_code: 324
 birth_rate:
-- 33.855
-- 34.425
-- 34.944
-- 35.436
+  - 33.855
+  - 34.425
+  - 34.944
+  - 35.436
 urban_population:
-- 4869400
-- 4700302
-- 5042529
-- 5220537
+  - 4869400
+  - 4700302
+  - 5042529
+  - 5220537
 life_expectancy: 60.015
 male_population:
-- 6685900
-- 6854020
-- 6349991
-- 6518034
+  - 6685900
+  - 6854020
+  - 6349991
+  - 6518034
 INSEE_countries_and_foreign_territories_code: 99314
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Guinea.svg"
 OmegaWiki_Defined_Meaning: 7848
 area: 245857
 female_population:
-- 7005320
-- 6527547
-- 6687118
-- 6846006
+  - 7005320
+  - 6527547
+  - 6687118
+  - 6846006
 number_of_out_of_school_children: 1490614
 PM20_geo_code: C31
 ITU_letter_code: GUI
@@ -291,10 +291,10 @@ Commons_category: Guinea
 hashtag: Guinea
 FIPS_10_4_countries_and_regions_: GV
 rural_population:
-- 8177237
-- 8335753
-- 8489377
-- 8638804
+  - 8177237
+  - 8335753
+  - 8489377
+  - 8638804
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
 inception: "1958-10-02"
 has_time_started: "1958-10-02"

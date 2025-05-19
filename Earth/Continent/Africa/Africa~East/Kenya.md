@@ -6,7 +6,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -126,7 +126,7 @@ instance_of:
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Africa_Nairobi,4689515]]'
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-replaces: "[[_Standards/WikiData/WD~Kenya_(1963–1964),6392538]]"
+replaces: "[[_Standards/WikiData/WD~Kenya_(1963_1964),6392538]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Kenya,7112324]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kenya,11247426]]'
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
@@ -192,15 +192,15 @@ shares_border_with:
 - "[[_Standards/WikiData/WD~Lake_Victoria,5505]]"
 - "[[_Standards/WikiData/WD~Arab_League,7172]]"
 BTI_Governance_Index:
-- 5
-- 4.24
-- 4.51
-- 4.53
-- 4.77
-- 4.84
-- 4.87
-- 4.92
-- 5.03
+  - 5
+  - 4.24
+  - 4.51
+  - 4.53
+  - 4.77
+  - 4.84
+  - 4.87
+  - 4.92
+  - 5.03
 unemployment_rate: 9
 suicide_rate: 11
 VAT_rate: 16
@@ -208,14 +208,14 @@ marriageable_age: 18
 age_of_majority: 18
 mains_voltage: 240
 BTI_Status_Index:
-- 5.8
-- 5.05
-- 5.16
-- 5.33
-- 5.57
-- 5.76
-- 5.78
-- 5.89
+  - 5.8
+  - 5.05
+  - 5.16
+  - 5.33
+  - 5.57
+  - 5.76
+  - 5.78
+  - 5.89
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.ke,42695]]'
 Gini_coefficient: 40.8
 Inequality_adjusted_Human_Development_Index: 0.426
@@ -224,16 +224,16 @@ trunk_prefix: 0
 Democracy_Index: 5.05
 Human_Development_Index: 0.575
 death_rate:
-- 7.29
-- 7.83
-- 7.456
-- 8.056
+  - 7.29
+  - 7.83
+  - 7.456
+  - 8.056
 maritime_identification_digits: 634
 birth_rate:
-- 27.54
-- 28.46
-- 27.685
-- 27.998
+  - 27.54
+  - 28.46
+  - 27.685
+  - 27.998
 total_fertility_rate: 4.334
 M49_code: 404
 ISO_3166_1_numeric_code: 404
@@ -248,8 +248,8 @@ life_expectancy: 67.032
 open_data_portal: "[[_Standards/WikiData/WD~Kenya_open_data,97149647]]"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Kenya%20%28Official%29.svg"
 nominal_GDP:
-- 113420008179
-- 109703659313
+  - 113420008179
+  - 109703659313
 coordinates_of_westernmost_point: "Point(33.94457817 0.08617398)"
 coordinates_of_southernmost_point: "Point(39.21844482 -4.67955646)"
 UMLS_CUI: C0022558
@@ -258,49 +258,49 @@ locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Kenya%20%28orthographic%20projection%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationKenya.svg"
 demonym:
-- كيني
-- كينية
-- كينيين
-- كينيات
-- Kenijec
-- Kenijka
-- Céiniach
-- كينية
-- keniana
-- kenianu
-- কেনীয়
-- Kenianer
-- Kenianerin
-- Kenyan
-- Kenjano
-- keniana
-- keniano
-- Kényan
-- Kényane
-- קנייתי
-- קנייתית
-- kenyai
-- Keniano
-- keniota
-- keniote
-- kenioti
-- cenian
-- kenyaner
-- kenyanar
-- kenyan
-- kenyană
-- kenyeni
-- kenyan
-- кенієць
-- кенійка
-- кенійці
-- keniota
-- keniote
-- kenioti
-- kenioto
-- Kenyänan
-- كينيون
-- كيني
+  - كيني
+  - كينية
+  - كينيين
+  - كينيات
+  - Kenijec
+  - Kenijka
+  - Céiniach
+  - كينية
+  - keniana
+  - kenianu
+  - কেনীয়
+  - Kenianer
+  - Kenianerin
+  - Kenyan
+  - Kenjano
+  - keniana
+  - keniano
+  - Kényan
+  - Kényane
+  - קנייתי
+  - קנייתית
+  - kenyai
+  - Keniano
+  - keniota
+  - keniote
+  - kenioti
+  - cenian
+  - kenyaner
+  - kenyanar
+  - kenyan
+  - kenyană
+  - kenyeni
+  - kenyan
+  - кенієць
+  - кенійка
+  - кенійці
+  - keniota
+  - keniote
+  - kenioti
+  - kenioto
+  - Kenyänan
+  - كينيون
+  - كيني
 ISNI: 0000000123530985
 MeSH_tree_code: Z01.058.290.120.400
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kenya%20-%20Location%20Map%20%282013%29%20-%20KEN%20-%20UNOCHA.svg"
@@ -330,10 +330,10 @@ native_label: "Republic of Kenya"
 official_name: "Republic of Kenya"
 short_name: "\U0001F1F0\U0001F1EA"
 rural_population:
-- 36936235
-- 37432361
-- 37902724
-- 38358435
+  - 36936235
+  - 37432361
+  - 37902724
+  - 38358435
 population: 48468138
 coordinates_of_easternmost_point: "Point(41.90674782 3.98293711)"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg"
@@ -341,10 +341,10 @@ aircraft_registration_prefix: 5Y
 area: 581309
 INSEE_countries_and_foreign_territories_code: 99332
 urban_population:
-- 15102890
-- 14015215
-- 14553419
-- 15669052
+  - 15102890
+  - 14015215
+  - 14553419
+  - 15669052
 number_of_out_of_school_children: 1999614
 ISO_3166_1_alpha_3_code: KEN
 ITU_letter_code: KEN
@@ -355,15 +355,15 @@ inception: "1963"
 has_time_started: 1963-06 
 PM20_geo_code: C116
 male_population:
-- 25272193
-- 25780698
-- 26279184
-- 26777549
+  - 25272193
+  - 25780698
+  - 26279184
+  - 26777549
 female_population:
-- 25679257
-- 26205082
-- 26726429
-- 27249938
+  - 25679257
+  - 26205082
+  - 26726429
+  - 27249938
 coordinates_of_northernmost_point: "Point(35.32 5.5)"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Kenya.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Kenya%20banner%20Lioness%20and%20cub.jpg"

@@ -1,10 +1,10 @@
 ---
 location:
-- 41.33
-- 69.3
+  - 41.33
+  - 69.3
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q265
 SpocWebEntityId: 27049
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Uzbekistan
-- Uzbekistán
-- Ouzbékistan
-- أوزبكستان
-- 乌兹别克斯坦
-- Узбекистан
+  - Uzbekistan
+  - Uzbekistán
+  - Ouzbékistan
+  - أوزبكستان
+  - 乌兹别克斯坦
+  - Узбекистан
 - "the Republic of Uzbekistan"
 - "la República de Uzbekistán"
 Languages:
-- uz
-- ru
-- tg
+  - uz
+  - ru
+  - tg
 icon: flag-uz
 ethnic_group:
 - '[[_Standards/WikiData/WD~Kazakhs,80040]]'
@@ -135,55 +135,55 @@ open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Uzbekistan,97062054]]"
 coordinates_of_easternmost_point: "Point(73.1375 40.816666666)"
 UMLS_CUI: C0042177
 demonym:
-- ؤزباكي
-- ؤزباكيات
-- ؤزباكية
-- ؤزباكيين
-- Úisbéiceastánach
-- Uzbekistani
-- উজবেকিস্তানি
-- Usbekistaner
-- Usbekistanerin
-- Uzbek
-- uzbeko
-- ازبک
-- Ouzbek
-- Ouzbekèke
-- אוזבקי
-- אוזבקית
-- üzbég
-- Uzbekistanano
-- uzbeka
-- uzbeke
-- uzbeki
-- uzbeko
-- uzbec
-- uzbec
-- uzbecă
-- uzbeci
-- ӯзбек
-- узбек
-- узбеки
-- узбечка
-- uzbeka
-- uzbeke
-- uzbeki
-- uzbeko
-- Lusbekänan
-- أوزبكستاني
-- أوزبكستانية
-- أوزبكستانيون
-- uzbequistanín
-- uzbequistanina
-- উজবেক
+  - ؤزباكي
+  - ؤزباكيات
+  - ؤزباكية
+  - ؤزباكيين
+  - Úisbéiceastánach
+  - Uzbekistani
+  - উজবেকিস্তানি
+  - Usbekistaner
+  - Usbekistanerin
+  - Uzbek
+  - uzbeko
+  - ازبک
+  - Ouzbek
+  - Ouzbekèke
+  - אוזבקי
+  - אוזבקית
+  - üzbég
+  - Uzbekistanano
+  - uzbeka
+  - uzbeke
+  - uzbeki
+  - uzbeko
+  - uzbec
+  - uzbec
+  - uzbecă
+  - uzbeci
+  - ӯзбек
+  - узбек
+  - узбеки
+  - узбечка
+  - uzbeka
+  - uzbeke
+  - uzbeki
+  - uzbeko
+  - Lusbekänan
+  - أوزبكستاني
+  - أوزبكستانية
+  - أوزبكستانيون
+  - uzbequistanín
+  - uzbequistanina
+  - উজবেক
 name_in_native_language: "O‘zbekiston Respublikasi"
 official_name: "O‘zbekiston Respublikasi"
 ISNI: 0000000406118341
 coordinate_location: "Point(66.0 41.0)"
 MeSH_tree_code:
-- Z01.252.100.975
-- Z01.542.931.975
-- Z01.586.950.975
+  - Z01.252.100.975
+  - Z01.542.931.975
+  - Z01.586.950.975
 country: '[[_Standards/WikiData/WD~Uzbekistan,265]]'
 capital: '[[_Standards/WikiData/WD~Tashkent,269]]'
 diplomatic_relation:
@@ -218,41 +218,41 @@ part_of: "[[_Standards/WikiData/WD~Central_Asia,27275]]"
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 VAT_rate: 20
 death_rate:
-- 5
-- 4.6
-- 4.8
-- 5.1
+  - 5
+  - 4.6
+  - 4.8
+  - 5.1
 unemployment_rate: 11
 age_of_majority: 16
 marriageable_age: 17
 BTI_Governance_Index:
-- 2.1
-- 1.78
-- 1.94
-- 1.95
-- 2.17
-- 2.24
-- 2.55
-- 3.58
-- 3.83
+  - 2.1
+  - 1.78
+  - 1.94
+  - 1.95
+  - 2.17
+  - 2.24
+  - 2.55
+  - 3.58
+  - 3.83
 mains_voltage: 220
 total_fertility_rate: 2.2
 BTI_Status_Index:
-- 3.4
-- 3.01
-- 3.09
-- 3.25
-- 3.46
-- 3.68
-- 3.73
-- 4.08
-- 4.15
+  - 3.4
+  - 3.01
+  - 3.09
+  - 3.25
+  - 3.46
+  - 3.68
+  - 3.73
+  - 4.08
+  - 4.15
 Democracy_Index: 2.12
 birth_rate:
-- 24.3
-- 24.6
-- 25.9
-- 26.2
+  - 24.3
+  - 24.6
+  - 25.9
+  - 26.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.uz,41846]]'
 Gini_coefficient: 35.3
 trunk_prefix: 8
@@ -280,32 +280,32 @@ ITU_letter_code: UZB
 area: 448978
 nominal_GDP: 69238900000
 rural_population:
-- 16973620
-- 17657930
-- 16644772
-- 17308463
+  - 16973620
+  - 17657930
+  - 16644772
+  - 17308463
 male_population:
-- 17124410
-- 16797144
-- 17468992
-- 17838536
+  - 17124410
+  - 16797144
+  - 17468992
+  - 17838536
 urban_population:
-- 17258430
-- 17990170
-- 16935578
-- 17606637
+  - 17258430
+  - 17990170
+  - 16935578
+  - 17606637
 seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Uzbekistan.svg"
 PM20_geo_code: B15
 coordinates_of_northernmost_point: "Point(58.65 45.6)"
 native_label:
-- Oʻzbekiston
+  - Oʻzbekiston
 - "Oʻzbekiston Respublikasi"
 female_population:
-- 16783206
-- 17107641
-- 17446107
-- 17809564
+  - 16783206
+  - 17107641
+  - 17446107
+  - 17809564
 U_S_National_Archives_Identifier: 10045283
 inception: "1991"
 has_time_started: 1991-06 

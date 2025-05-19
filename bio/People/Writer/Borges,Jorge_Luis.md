@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jorge Luis Borges"
 - "Jorge Francisco Isidoro Luis Borges Acevedo"
@@ -76,7 +76,7 @@ place_of_burial: "[[_Standards/WikiData/WD~Cemetery_of_Kings,665815]]"
 educated_at: "[[_Standards/WikiData/WD~Collège_Calvin,672022]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]"
 - '[[_Standards/WikiData/WD~Q131401229,131401229]]'

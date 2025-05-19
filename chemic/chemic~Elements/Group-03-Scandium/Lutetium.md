@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21967
 has_id_wikidata: Q1857
@@ -11,7 +11,7 @@ part_of:
 named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]"
 UMLS_CUI: C0024170
 Common_Procurement_Vocabulary_code:

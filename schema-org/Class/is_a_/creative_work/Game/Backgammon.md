@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11411
 instance_of:
 - "[[_Standards/WikiData/WD~board_game,131436]]"
@@ -12,7 +12,7 @@ has_use:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 partially_coincident_with: '[[_Standards/WikiData/WD~Tavli,968853]]'
 subclass_of: "[[_Standards/WikiData/WD~mind_sport,1188693]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"

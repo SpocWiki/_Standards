@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Vincent van Gogh"
 - "Vincent Willem van Gogh"
@@ -48,14 +48,14 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Statens_Museum_for_Kunst,671384]]"
 - "[[_Standards/WikiData/WD~Beyeler_Foundation,673833]]"
 - "[[_Standards/WikiData/WD~Hammer_Museum,677561]]"
-- "[[_Standards/WikiData/WD~Musée_d’Art_et_d’Histoire_de_Genève,679075]]"
+- "[[_Standards/WikiData/WD~Musée_d_Art_et_d_Histoire_de_Genève,679075]]"
 - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
 - "[[_Standards/WikiData/WD~Museum_collection_Am_Römerholz,682406]]"
 - "[[_Standards/WikiData/WD~Kunstmuseum_Solothurn,683163]]"
 - "[[_Standards/WikiData/WD~Villa_Flora,684556]]"
 - "[[_Standards/WikiData/WD~Kunsthaus_Zürich,685038]]"
 - "[[_Standards/WikiData/WD~Kunsthalle_Bremen,693591]]"
-- "[[_Standards/WikiData/WD~Wallraf–Richartz_Museum,700959]]"
+- "[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_New_South_Wales,705551]]"
 - "[[_Standards/WikiData/WD~Shchusev_State_Museum_of_Architecture,714163]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
@@ -233,7 +233,7 @@ owner_of:
 described_by_source:
 - "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'

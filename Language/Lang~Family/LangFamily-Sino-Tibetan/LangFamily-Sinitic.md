@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Chinese language"
 has_id_wikidata: Q7850
@@ -33,7 +33,7 @@ writing_system:
 - "[[_Standards/WikiData/WD~Chinese_characters,8201]]"
 linguistic_typology:
 - "[[_Standards/WikiData/WD~analytic_language,209544]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~isolating_language,7423311]]"
 studied_in: '[[_Standards/WikiData/WD~sinology,269915]]'
 has_part_s_:

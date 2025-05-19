@@ -1,10 +1,10 @@
-﻿---
+---
 has_id_wikidata: Q8146
 manufacturer:
 - "[[_Standards/WikiData/WD~National_Printing_Bureau,130035]]"
 - "[[_Standards/WikiData/WD~Japan_Mint,1130777]]"
 currency_symbol_description:
-- '[[_Standards/WikiData/WD~¥,249321]]'
+- '[[_Standards/WikiData/WD~_,249321]]'
 - '[[_Standards/WikiData/WD~円,3594938]]'
 central_bank_issuer: "[[_Standards/WikiData/WD~Bank_of_Japan,333101]]"
 described_by_source:

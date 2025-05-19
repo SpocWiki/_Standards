@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Immanuel Kant"
 has_id_wikidata: Q9312
@@ -62,10 +62,10 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]"
@@ -145,6 +145,9 @@ name_in_native_language: "Immanuel Kant"
 #has_/time_/stopped  :: 1804-02-12 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/previous_item :: [[Hume,David]] 
+#has_/created :: [[../../../Society/Social_Issues/Human_Rights|Human_Rights]] 
+
+## #has_/text_of_/abstract 
 
 > **Immanuel Kant** (born Emanuel Kant; 22 April 1724 – 12 February 1804) 
 > was a German philosopher and one of the central [[Enlightenment]] thinkers. 

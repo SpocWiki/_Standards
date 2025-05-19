@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q584
 located_in_on_physical_feature:
 - "[[_Standards/WikiData/WD~Alpine_Rhine_Valley,95747]]"
@@ -82,7 +82,7 @@ tributary:
 - '[[_Standards/WikiData/WD~Strunde,875510]]'
 - '[[_Standards/WikiData/WD~Breitbach,905730]]'
 - '[[_Standards/WikiData/WD~Buersbach,1001872]]'
-- "[[_Standards/WikiData/WD~Marne–Rhine_Canal,1032612]]"
+- "[[_Standards/WikiData/WD~Marne_Rhine_Canal,1032612]]"
 - '[[_Standards/WikiData/WD~Morgenbach,1123121]]'
 - '[[_Standards/WikiData/WD~Dickelsbach,1209926]]'
 - '[[_Standards/WikiData/WD~Dickopsbach,1210086]]'
@@ -180,7 +180,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 different_from:
 - '[[_Standards/WikiData/WD~Reno,658594]]'
 - '[[_Standards/WikiData/WD~Rhin,21198444]]'
@@ -188,11 +188,11 @@ origin_of_the_watercourse: '[[_Standards/WikiData/WD~Tomasee,690343]]'
 drainage_basin: "[[_Standards/WikiData/WD~Rhine_basin,1434368]]"
 part_of:
 - "[[_Standards/WikiData/WD~Rhine_basin,1434368]]"
-- "[[_Standards/WikiData/WD~France–Germany_border,1991225]]"
-- "[[_Standards/WikiData/WD~Austria–Switzerland_border,1991486]]"
-- "[[_Standards/WikiData/WD~Germany–Switzerland_border,1991810]]"
-- "[[_Standards/WikiData/WD~Liechtenstein–Switzerland_border,1991951]]"
-- "[[_Standards/WikiData/WD~European_Union–Switzerland_border,3088984]]"
+- "[[_Standards/WikiData/WD~France_Germany_border,1991225]]"
+- "[[_Standards/WikiData/WD~Austria_Switzerland_border,1991486]]"
+- "[[_Standards/WikiData/WD~Germany_Switzerland_border,1991810]]"
+- "[[_Standards/WikiData/WD~Liechtenstein_Switzerland_border,1991951]]"
+- "[[_Standards/WikiData/WD~European_Union_Switzerland_border,3088984]]"
 has_part_s_:
 - "[[_Standards/WikiData/WD~Rhine_delta,1517075]]"
 - "[[_Standards/WikiData/WD~Rhine_Mouth,14277156]]"

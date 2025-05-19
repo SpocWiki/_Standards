@@ -1,10 +1,10 @@
 ---
 location:
-- 12.1
-- 16.0333
+  - 12.1
+  - 16.0333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q657
 SpocWebEntityId: 27029
 isDeleted: false
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Chad
-- Tchad
-- تشاد
-- 乍得
-- Чад
+  - Chad
+  - Tchad
+  - تشاد
+  - 乍得
+  - Чад
 - "the Republic of Chad"
 - "la República del Chad"
 - "Chad (el)"
 Languages:
-- fr-TD
-- ar-TD
-- sre
+  - fr-TD
+  - ar-TD
+  - sre
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Sahel,66065]]'
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -92,7 +92,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Bahr_el_Gazel,1050621]]"
 - '[[_Standards/WikiData/WD~Borkou,1139666]]'
 - "[[_Standards/WikiData/WD~Sila_Region,1149611]]"
-- "[[_Standards/WikiData/WD~N'Djamena,3659]]"
+  - "[[_Standards/WikiData/WD~N'Djamena,3659]]"
 coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Chad,188084]]"
 central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
 anthem: "[[_Standards/WikiData/WD~La_Tchadienne,213733]]"
@@ -272,45 +272,45 @@ motto_text:
 - "Unité, Travail, Progrès"
 - "Единство, труд, прогрес"
 demonym:
-- تشاديون
-- chadiana
-- chadianu
-- চাদীয়
-- txadià
-- txadiana
-- txadianes
-- txadians
-- tchader
-- Ĉadano
-- tchadien
-- Tchadien
-- Tchadienne
+  - تشاديون
+  - chadiana
+  - chadianu
+  - চাদীয়
+  - txadià
+  - txadiana
+  - txadianes
+  - txadians
+  - tchader
+  - Ĉadano
+  - tchadien
+  - Tchadien
+  - Tchadienne
 - "צ'אדי"
 - "צ'אדית"
-- csádi
-- Chadano
-- ciadiana
-- ciadiane
-- ciadiani
-- ciadiano
-- txadi
-- ciadian
-- ciadiana
-- ciadiane
-- ciadiani
-- Tjadänan
-- تشادي
-- تشادية
-- تشاديين
-- تشاديات
-- Seadach
-- Chadian
-- تشادي
-- تشادية
+  - csádi
+  - Chadano
+  - ciadiana
+  - ciadiane
+  - ciadiani
+  - ciadiano
+  - txadi
+  - ciadian
+  - ciadiana
+  - ciadiane
+  - ciadiani
+  - Tjadänan
+  - تشادي
+  - تشادية
+  - تشاديين
+  - تشاديات
+  - Seadach
+  - Chadian
+  - تشادي
+  - تشادية
 official_name:
 - "Republic of Chad"
 - "la République du Tchad"
-- Tchad
+  - Tchad
 native_label:
 - "République du Tchad"
 - "جُمْهُورِيَّة تشاد"
@@ -329,8 +329,8 @@ coordinates_of_northernmost_point: "Point(15.99996802 23.44922574)"
 coordinate_location: "Point(19.4 15.466667)"
 Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"Chad\"]"
 nominal_GDP:
-- 12704149842
-- 11779981332
+  - 12704149842
+  - 11779981332
 ISNI: 0000000121851881
 MeSH_tree_code: Z01.058.290.100.130
 coordinates_of_easternmost_point: "Point(23.99999604 15.6988081)"
@@ -363,29 +363,29 @@ part_of: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 7
 marriageable_age:
-- 15
-- 18
+  - 15
+  - 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 2.2
-- 2.55
-- 2.61
-- 2.63
-- 2.71
-- 2.79
-- 2.84
-- 3.25
+  - 2.2
+  - 2.55
+  - 2.61
+  - 2.63
+  - 2.71
+  - 2.79
+  - 2.84
+  - 3.25
 BTI_Status_Index:
-- 3.5
-- 3.01
-- 3.07
-- 3.15
-- 3.24
-- 3.31
-- 3.32
-- 3.44
-- 3.86
+  - 3.5
+  - 3.01
+  - 3.07
+  - 3.15
+  - 3.24
+  - 3.31
+  - 3.32
+  - 3.44
+  - 3.86
 suicide_rate: 8.8
 Democracy_Index: 1.55
 Inequality_adjusted_Human_Development_Index: 0.251
@@ -397,10 +397,10 @@ madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 inception: "1960-08-11"
 has_time_started: "1960-08-11"
 rural_population:
-- 12372693
-- 12729867
-- 13094226
-- 13458554
+  - 12372693
+  - 12729867
+  - 13094226
+  - 13458554
 population: 19319064
 Unicode_character: 🇹🇩 
 coordinates_of_westernmost_point: "Point(13.47035408 14.41655905)"
@@ -412,20 +412,20 @@ head_of_government: "[[_Standards/WikiData/WD~Idriss_Déby,57350]]"
 area: 1284000
 total_fertility_rate: 6.156
 death_rate:
-- 12.157
-- 12.369
-- 12.486
-- 12.504
+  - 12.157
+  - 12.369
+  - 12.486
+  - 12.504
 IOC_country_code: CHA
 ISO_3166_1_numeric_code: 148
 M49_code: 148
 mobile_country_code: 622
 maritime_identification_digits: 670
 birth_rate:
-- 43.184
-- 43.357
-- 43.849
-- 44.229
+  - 43.184
+  - 43.357
+  - 43.849
+  - 44.229
 IAB_code: 1270
 life_expectancy: 52.903
 FIPS_10_4_countries_and_regions_: CD
@@ -434,31 +434,31 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad
 OmegaWiki_Defined_Meaning: 7322
 PM20_geo_code: C76
 female_population:
-- 8556210
-- 8032044
-- 8289666
-- 8827313
+  - 8556210
+  - 8032044
+  - 8289666
+  - 8827313
 male_population:
-- 8623530
-- 8094822
-- 8355035
-- 8896002
+  - 8623530
+  - 8094822
+  - 8355035
+  - 8896002
 Commons_category: Chad
 hashtag: Chad
 subreddit: Chad
 Commons_gallery: Tchad
 number_of_out_of_school_children: 1757281
 licence_plate_code:
-- TD
-- TCH
+  - TD
+  - TCH
 ISO_3166_1_alpha_2_code: TD
 WIPO_ST_3: TD
 U_S_National_Archives_Identifier: 10035839
 urban_population:
-- 3754173
-- 3914834
-- 4085514
-- 4264761
+  - 3754173
+  - 3914834
+  - 4085514
+  - 4264761
 ISO_3166_1_alpha_3_code: TCD
 ITU_letter_code: TCD
 ---

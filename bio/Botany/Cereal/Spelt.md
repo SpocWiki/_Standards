@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q158767
 taxon_common_name:
 - Spelttivehnä
@@ -38,7 +38,7 @@ has_effect: "[[_Standards/WikiData/WD~gluten-related_disorder,1367782]]"
 subclass_of:
 - '[[_Standards/WikiData/WD~wheat,15645384]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 inflorescence: "[[_Standards/WikiData/WD~spike_of_spikelets,28771787]]"
 instance_of:
 - "[[_Standards/WikiData/WD~grain_crop,113976623]]"

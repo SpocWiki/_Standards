@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Paul Dirac"
 has_id_wikidata: Q47480
@@ -70,10 +70,10 @@ relative:
 - "[[_Standards/WikiData/WD~Eugene_Wigner,155790]]"
 - "[[_Standards/WikiData/WD~Gabriel_Andrew_Dirac,1007178]]"
 notable_work:
-- "[[_Standards/WikiData/WD~Complete_Fermi–Dirac_integral,167476]]"
+- "[[_Standards/WikiData/WD~Complete_Fermi_Dirac_integral,167476]]"
 - "[[_Standards/WikiData/WD~Dirac_delta_function,209675]]"
 - "[[_Standards/WikiData/WD~Dirac_equation,272621]]"
-- "[[_Standards/WikiData/WD~Fermi–Dirac_statistics,274072]]"
+- "[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]"
 - "[[_Standards/WikiData/WD~Dirac_comb,385599]]"
 - "[[_Standards/WikiData/WD~Dirac_spinor,688945]]"
 - "[[_Standards/WikiData/WD~Dirac_operator,907439]]"
@@ -83,7 +83,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~Dirac_large_numbers_hypothesis,1370759]]"
 - "[[_Standards/WikiData/WD~reduced_Planck_constant,2115969]]"
 - "[[_Standards/WikiData/WD~Dirac_adjoint,2824495]]"
-- "[[_Standards/WikiData/WD~Kapitsa–Dirac_effect,3720173]]"
+- "[[_Standards/WikiData/WD~Kapitsa_Dirac_effect,3720173]]"
 - "[[_Standards/WikiData/WD~Dirac_bracket,3895805]]"
 - "[[_Standards/WikiData/WD~Abraham-Lorentz-Dirac_force,4893644]]"
 doctoral_student:
@@ -115,7 +115,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 father: "[[_Standards/WikiData/WD~Charles_Dirac,12346131]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 - "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5456
 significant_event: "[[_Standards/WikiData/WD~Zonda_wind,219855]]"
 described_by_source:
@@ -9,10 +9,10 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 mountain_range: "[[_Standards/WikiData/WD~American_Cordillera,605761]]"
 BHCL_UUID: cab2207f-240e-43d5-bb3f-bc5a4ce221c6
 country:

@@ -82,7 +82,7 @@ award_received:
 - "[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Africa__An_Encyclopedic_Reference,115653803]]"
