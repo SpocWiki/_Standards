@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Jawaharlal Nehru"
 has_id_wikidata: Q1047
@@ -36,7 +36,7 @@ sibling:
 - "[[_Standards/WikiData/WD~Krishna_Hutheesing,6437416]]"
 place_of_burial: "[[_Standards/WikiData/WD~Raj_Ghat_and_associated_memorials,1210083]]"
 honorific_prefix: '[[_Standards/WikiData/WD~pandit,1336494]]'
-family: "[[_Standards/WikiData/WD~Nehru–Gandhi_family,1441340]]"
+family: "[[_Standards/WikiData/WD~Nehru_Gandhi_family,1441340]]"
 ethnic_group: "[[_Standards/WikiData/WD~Kashmiri_Pandits,1996554]]"
 notable_work:
 - "[[_Standards/WikiData/WD~The_Discovery_of_India,3595074]]"
@@ -46,7 +46,7 @@ spouse: "[[_Standards/WikiData/WD~Kamala_Nehru,3633365]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 mother: "[[_Standards/WikiData/WD~Swarup_Rani_Nehru,62572509]]"

@@ -1,10 +1,10 @@
 ---
 location:
-- 1.28
-- 103.85
+  - 1.28
+  - 103.85
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q334
 SpocWebEntityId: 27014
 isDeleted: false
@@ -13,7 +13,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Singapore
 linkTitle: 
@@ -23,20 +23,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Singapore
-- Singapur
-- Singapour
-- سنغافورة
-- 新加坡
-- Сингапур
+  - Singapore
+  - Singapur
+  - Singapour
+  - سنغافورة
+  - 新加坡
+  - Сингапур
 - "the Republic of Singapore"
 - "la República de Singapur"
 Languages:
-- cmn
-- en-SG
-- ms-SG
-- ta-SG
-- zh-SG
+  - cmn
+  - en-SG
+  - ms-SG
+  - ta-SG
+  - zh-SG
 icon: flag-sg
 instance_of:
 - "[[/_Standards/WikiData/WD~island_country,112099]]"
@@ -168,59 +168,59 @@ has_characteristic: "[[/_Standards/WikiData/WD~partly_free_country,47185145]]"
 on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 open_data_portal: "[[/_Standards/WikiData/WD~Singapore_Open_Data,97131149]]"
 demonym:
-- Singapurec
-- Singapurka
-- سنغافوري
-- سنغافورية
-- سنغافوريين
-- سنغافوريات
-- Singapuriano
-- Singapuriana
-- singaporian
-- singaporiana
-- Singeapórach
-- سنغافوري
-- سنغافورية
-- سنغافوريون
-- singapurana
-- singapuranu
-- সিঙ্গাপুরীয়
-- Singapurer
-- Singapurerin
-- Singapurerinnen
-- Singaporean
-- Singapurano
-- singapourien
-- Singapourien
-- singapourienne
-- Singapourienne
-- singapouriennes
-- singapouriens
-- סינגפורי
-- סינגפורית
-- szingapúri
-- Singapurano
-- singaporiana
-- singaporiane
-- singaporiani
-- singaporiano
-- singapor
-- singaporez
-- singaporeză
-- singaporezi
-- сингапурцы
-- சிங்கப்பூரர்
-- singaporan
-- singaporana
-- singaporane
-- singaporani
-- Singapuränan
+  - Singapurec
+  - Singapurka
+  - سنغافوري
+  - سنغافورية
+  - سنغافوريين
+  - سنغافوريات
+  - Singapuriano
+  - Singapuriana
+  - singaporian
+  - singaporiana
+  - Singeapórach
+  - سنغافوري
+  - سنغافورية
+  - سنغافوريون
+  - singapurana
+  - singapuranu
+  - সিঙ্গাপুরীয়
+  - Singapurer
+  - Singapurerin
+  - Singapurerinnen
+  - Singaporean
+  - Singapurano
+  - singapourien
+  - Singapourien
+  - singapourienne
+  - Singapourienne
+  - singapouriennes
+  - singapouriens
+  - סינגפורי
+  - סינגפורית
+  - szingapúri
+  - Singapurano
+  - singaporiana
+  - singaporiane
+  - singaporiani
+  - singaporiano
+  - singapor
+  - singaporez
+  - singaporeză
+  - singaporezi
+  - сингапурцы
+  - சிங்கப்பூரர்
+  - singaporan
+  - singaporana
+  - singaporane
+  - singaporani
+  - Singapuränan
 ISNI: 0000000121851814
 coordinates_of_southernmost_point: "Point(103.66002649 1.14085049)"
 coordinates_of_westernmost_point: "Point(103.60570371 1.24248421)"
 nominal_GDP:
-- 423796995373
-- 466788539652
+  - 423796995373
+  - 466788539652
 diplomatic_relation:
 - "[[/_Standards/WikiData/WD~South_Africa,258]]"
 - '[[/_Standards/WikiData/WD~Armenia,399]]'
@@ -280,7 +280,7 @@ Krugosvet_article: strany_mira/SINGAPUR.html
 MeSH_tree_code: Z01.252.145.774
 nickname:
 - "Lion City"
-- 狮城
+  - 狮城
 motto_text:
 - "Onward, Singapore"
 - "Majulah Singapura"
@@ -288,22 +288,22 @@ native_label:
 - "Republic of Singapore"
 - "Republik Singapura"
 - "சிங்கப்பூர் குடியரசு"
-- 新加坡共和国
+  - 新加坡共和国
 official_name:
 - "Republic of Singapore"
 - "Republik Singapura"
 - "சிங்கப்பூர் குடியரசு"
-- 新加坡共和国
+  - 新加坡共和国
 short_name: "\U0001F1F8\U0001F1EC"
 coordinate_location: "Point(103.8 1.3)"
 coordinates_of_easternmost_point: "Point(104.08549324 1.41009071)"
 Baidu_Tieba_name: 新加坡
 rural_population: 0
 death_rate:
-- 5
-- 5.2
-- 5.8
-- 6.3
+  - 5
+  - 5.2
+  - 5.8
+  - 6.3
 VAT_rate: 7
 compulsory_education_minimum_age_: 7
 compulsory_education_maximum_age_: 15
@@ -312,10 +312,10 @@ age_of_majority: 21
 unemployment_rate: 2.1
 mains_voltage: 230
 birth_rate:
-- 7.9
-- 8.5
-- 8.6
-- 8.8
+  - 7.9
+  - 8.5
+  - 8.6
+  - 8.8
 suicide_rate: 9.7
 total_fertility_rate: 1.25
 office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President_of_Singapore,39021]]"
@@ -323,22 +323,22 @@ top_level_Internet_domain: '[[/_Standards/WikiData/WD~.sg,41851]]'
 Happy_Planet_Index_score: 45.5
 mobile_country_code: 525
 BTI_Governance_Index:
-- 5.78
-- 5.94
-- 5.95
-- 5.96
-- 5.98
-- 6.96
+  - 5.78
+  - 5.94
+  - 5.95
+  - 5.96
+  - 5.98
+  - 6.96
 Democracy_Index: 6.23
 BTI_Status_Index:
-- 7.05
-- 7.07
-- 7.15
-- 7.17
-- 7.22
-- 7.25
-- 7.28
-- 7.47
+  - 7.05
+  - 7.07
+  - 7.15
+  - 7.17
+  - 7.22
+  - 7.25
+  - 7.28
+  - 7.47
 Inequality_adjusted_Human_Development_Index: 0.817
 Human_Development_Index: 0.939
 literacy_rate: 96.8
@@ -370,10 +370,10 @@ female_population: 2083027
 inception: "1965-08-09"
 has_time_started: "1965-08-09"
 urban_population:
-- 5453566
-- 5637022
-- 5685807
-- 5703569
+  - 5453566
+  - 5637022
+  - 5685807
+  - 5703569
 population: 5866139
 hashtag: Singapore
 Commons_gallery: Singapore

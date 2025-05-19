@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7260
 instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'
@@ -9,7 +9,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 subclass_of: '[[_Standards/WikiData/WD~expansionism,1031250]]'
 opposite_of: '[[_Standards/WikiData/WD~anti-imperialism,1144178]]'
 practiced_by: '[[_Standards/WikiData/WD~imperialist,120327993]]'

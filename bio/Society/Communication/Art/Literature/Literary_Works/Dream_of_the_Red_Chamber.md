@@ -11,8 +11,8 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hongloumeng2.jpg"
 Commons_category: "Dream of the Red Chamber"
 first_line: 卻說那女媧氏煉石補天之時，於大荒山無稽崖煉成高十二丈、見方二十四丈大的頑石三萬六千五百零一塊。那媧皇只用了三萬六千五百塊，單單剩下一塊未用，棄在青埂峰下。誰知此石自經鍛煉之後，靈性已通，自去自來，可大可小。因見眾石俱得補天，獨自己無才，不得入選，遂自怨自愧，日夜悲哀。
 title:
-- 石頭記
-- 紅樓夢
+  - 石頭記
+  - 紅樓夢
 publication_date:
 - "1800"
 - "1792"
@@ -30,7 +30,7 @@ characters:
 - "[[_Standards/WikiData/WD~Granny_Liu,5596002]]"
 - "[[_Standards/WikiData/WD~Jia_Tanchun,6191409]]"
 - '[[_Standards/WikiData/WD~Miaoyu,6827742]]'
-- "[[_Standards/WikiData/WD~Ping'er,7195647]]"
+  - "[[_Standards/WikiData/WD~Ping'er,7195647]]"
 - '[[_Standards/WikiData/WD~Qingwen,7229081]]'
 - "[[_Standards/WikiData/WD~Shi_Xiangyun,7495932]]"
 - '[[_Standards/WikiData/WD~Xiangling,8044164]]'

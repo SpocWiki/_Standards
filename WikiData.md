@@ -499,7 +499,7 @@ The Lists are a union of individual Lists by Domain:
 80. [[_Standards/WikiData/WD~Philip_K.Dick,171091]] 
 81. [[_Standards/WikiData/WD~Rabindranath_Tagore,7241]] 
 82. [[_Standards/WikiData/WD~Rainer_Maria_Rilke,76483]] 
-83. [[_Standards/WikiData/WD~Gabriele_D’Annunzio,193236]] 
+83. [[_Standards/WikiData/WD~Gabriele_D_Annunzio,193236]] 
 84. [[_Standards/WikiData/WD~Brontë_family,835808]] 
 85. [[_Standards/WikiData/WD~Robert_A.Heinlein,123078]] 
 86. [[_Standards/WikiData/WD~Saadi_Shirazi,170302]] 
@@ -852,7 +852,7 @@ Art music
 
 ##### Rock
 
-1. [[_Standards/WikiData/WD~AC/DC,27593]] 
+1. [[_Standards/WikiData/WD~AC_DC,27593]] 
 2. [[_Standards/WikiData/WD~The_Beatles,1299]] 
     1. [[_Standards/WikiData/WD~John_Lennon,1203]] 
     2. [[_Standards/WikiData/WD~Paul_McCartney,2599]] 
@@ -1484,7 +1484,7 @@ Art music
 1. [[_Standards/WikiData/WD~Muhammad_al-Bukhari,241026]] 
 2. [[_Standards/WikiData/WD~Muslim_ibn_al-Hajjaj,140124]] 
 3. [[_Standards/WikiData/WD~Al-Nawawi,293571]] 
-4. [[_Standards/WikiData/WD~Al-Shafi‘i,294281]] 
+4. [[_Standards/WikiData/WD~Al-Shafi_i,294281]] 
 5. [[_Standards/WikiData/WD~Malik_ibn_Anas,312299]] 
 6. [[_Standards/WikiData/WD~Ahmad_ibn_Hanbal,194442]] 
 7. [[_Standards/WikiData/WD~Abū_Ḥanīfa,190896]] 
@@ -4516,7 +4516,7 @@ Only those not treated previously
 458. [[_Standards/WikiData/WD~Laws_of_war,6833880]] 
 459. [[_Standards/WikiData/WD~Medal,131647]] 
 460. [[_Standards/WikiData/WD~Militarism,177266]] 
-461. [[_Standards/WikiData/WD~Military–industrial_complex,744593]] 
+461. [[_Standards/WikiData/WD~Military_industrial_complex,744593]] 
 462. [[_Standards/WikiData/WD~Military_uniform,1196123]] 
 463. [[_Standards/WikiData/WD~Mercenary,178197]] 
 464. [[_Standards/WikiData/WD~Operational_level_of_war,2287072]] 
@@ -4866,7 +4866,7 @@ See also: _Scientists, inventors and mathematicians_
 684. [[_Standards/WikiData/WD~Mathematical_constant,186509]] 
     8. [[_Standards/WikiData/WD~0_(number),204]] 
     9. [[_Standards/WikiData/WD~1_(number),199]] 
-    10. [[_Standards/WikiData/WD~−1_(number),310395]] 
+    10. [[_Standards/WikiData/WD~_1_(number),310395]] 
     11. [[_Standards/WikiData/WD~Pi,167]] 
     12. [[_Standards/WikiData/WD~e_(mathematical_constant),82435]] 
 685. [[_Standards/WikiData/WD~Numerical_digit,82990]] 
@@ -5030,7 +5030,7 @@ See also: _Scientists, inventors and mathematicians_
     1. [[_Standards/WikiData/WD~Cartesian_coordinate_system,62912]] 
     2. [[_Standards/WikiData/WD~Polar_coordinate_system,62494]] 
 723. [[_Standards/WikiData/WD~Differential_geometry,188444]] 
-    1. [[_Standards/WikiData/WD~Atiyah–Singer_index_theorem,755991]] 
+    1. [[_Standards/WikiData/WD~Atiyah_Singer_index_theorem,755991]] 
 724. [[_Standards/WikiData/WD~Dimension_(mathematics_and_physics),4440864]] 
 725. [[_Standards/WikiData/WD~Distance,126017]] 
 726. [[_Standards/WikiData/WD~Area,11500]] 
@@ -5366,7 +5366,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 904. [[_Standards/WikiData/WD~Omega_Centauri,14275]] 
 905. [[_Standards/WikiData/WD~Orion_Nebula,13903]] 
 906. [[_Standards/WikiData/WD~Pleiades,13423]] 
-907. [[_Standards/WikiData/WD~Sagittarius_A*,237284]] 
+907. [[_Standards/WikiData/WD~Sagittarius_A_,237284]] 
 
 ##### Galaxies 
 
@@ -5514,7 +5514,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 998. [[_Standards/WikiData/WD~Brown_dwarf,101600]] 
 999. [[_Standards/WikiData/WD~Circumstellar_habitable_zone,215913]] 
 1000. [[_Standards/WikiData/WD~Gamma-ray_burst,22247]] 
-1001. [[_Standards/WikiData/WD~Hertzsprung–Russell_diagram,3270143]] 
+1001. [[_Standards/WikiData/WD~Hertzsprung_Russell_diagram,3270143]] 
 1002. [[_Standards/WikiData/WD~Metallicity,217030]] 
 1003. [[_Standards/WikiData/WD~Planetary_system,206717]] 
 1004. [[_Standards/WikiData/WD~Spectral_class,179600]] 
@@ -5526,7 +5526,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
     5. [[_Standards/WikiData/WD~Red_giant,50081]] 
     6. [[_Standards/WikiData/WD~Giant_star,5875]] 
     7. [[_Standards/WikiData/WD~Supergiant,193599]] 
-    8. [[_Standards/WikiData/WD~Wolf–Rayet_star,6251]] 
+    8. [[_Standards/WikiData/WD~Wolf_Rayet_star,6251]] 
     9. [[_Standards/WikiData/WD~Compact_star,368442]] 
         1. [[_Standards/WikiData/WD~White_dwarf,5871]] 
         2. [[_Standards/WikiData/WD~Neutron_star,4202]] 
@@ -5573,7 +5573,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 
 1028. [[_Standards/WikiData/WD~Physics,413]] 
 1029. [[_Standards/WikiData/WD~Energy,11379]] 
-    1. [[_Standards/WikiData/WD~Mass–energy_equivalence,35875]] 
+    1. [[_Standards/WikiData/WD~Mass_energy_equivalence,35875]] 
 1030. [[_Standards/WikiData/WD~Matter,35758]] 
 1031. [[_Standards/WikiData/WD~Radiation,18335]] 
 1032. [[_Standards/WikiData/WD~Spacetime,133327]] 
@@ -5584,7 +5584,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 1035. [[_Standards/WikiData/WD~Theory_of_relativity,43514]] 
 1036. [[_Standards/WikiData/WD~General_relativity,11452]] 
 1037. [[_Standards/WikiData/WD~Special_relativity,11455]] 
-1038. [[_Standards/WikiData/WD~Michelson–Morley_experiment,154844]] 
+1038. [[_Standards/WikiData/WD~Michelson_Morley_experiment,154844]] 
 
 ##### Theory of physics 
 
@@ -5598,7 +5598,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 1046. [[_Standards/WikiData/WD~Uncertainty_principle,44746]] 
 1047. [[_Standards/WikiData/WD~Schrödinger_equation,165498]] 
 1048. [[_Standards/WikiData/WD~Wave_function,2362761]] 
-1049. [[_Standards/WikiData/WD~Wave–particle_duality,193068]] 
+1049. [[_Standards/WikiData/WD~Wave_particle_duality,193068]] 
 
 #### Mechanics
 
@@ -5748,7 +5748,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 1123. [[_Standards/WikiData/WD~Diffusion,163214]] 
 1124. [[_Standards/WikiData/WD~Fluid_dynamics,216320]] 
 1125. [[_Standards/WikiData/WD~Fluid_statics,177807]] 
-1126. [[_Standards/WikiData/WD~Navier–Stokes_equations,201321]] 
+1126. [[_Standards/WikiData/WD~Navier_Stokes_equations,201321]] 
 1127. [[_Standards/WikiData/WD~Reynolds_number,178932]] 
 1128. [[_Standards/WikiData/WD~Surface_tension,170749]] 
 1129. [[_Standards/WikiData/WD~Turbulence,190132]] 
@@ -5961,7 +5961,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 
 ###### Novel quantum and electromagnetic materials 
 
-1268. [[_Standards/WikiData/WD~Bose–Einstein_condensate,46202]] 
+1268. [[_Standards/WikiData/WD~Bose_Einstein_condensate,46202]] 
 1269. [[_Standards/WikiData/WD~Electromagnetic_force,849919]] 
 1270. [[_Standards/WikiData/WD~Metamaterial,497166]] 
 1271. [[_Standards/WikiData/WD~Superconductivity,124131]] 
@@ -5998,8 +5998,8 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
     2. [[_Standards/WikiData/WD~Synchrotron,689863]] 
     3. [[_Standards/WikiData/WD~Synchrotron_radiation,212871]] 
     4. [[_Standards/WikiData/WD~Tevatron,944533]] 
-1295. [[_Standards/WikiData/WD~Quark–gluon_plasma,733096]] 
-1296. [[_Standards/WikiData/WD~Geiger–Marsden_experiment,1648751]] 
+1295. [[_Standards/WikiData/WD~Quark_gluon_plasma,733096]] 
+1296. [[_Standards/WikiData/WD~Geiger_Marsden_experiment,1648751]] 
 
 ###### Subatomic particles 
 
@@ -6181,7 +6181,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Physic
 1414. [[_Standards/WikiData/WD~Chemical_engineering,83588]] 
 1415. [[_Standards/WikiData/WD~Chemical_industry,207652]] 
 1416. [[_Standards/WikiData/WD~Chemical_reaction,36534]] 
-    9. [[_Standards/WikiData/WD~Acid–base_reaction,378751]] 
+    9. [[_Standards/WikiData/WD~Acid_base_reaction,378751]] 
     10. [[_Standards/WikiData/WD~Catalysis,82264]] 
     11. [[_Standards/WikiData/WD~Chemical_equation,182527]] 
     12. [[_Standards/WikiData/WD~Chemical_equilibrium,189520]] 
@@ -6639,8 +6639,8 @@ For specific geographical objects see Geography
 1703. [[_Standards/WikiData/WD~Geologic_time_scale,43521]] 
 1704. [[_Standards/WikiData/WD~Pangaea,4398]] 
 1705. [[_Standards/WikiData/WD~Extinction_event,55814]] 
-1706. [[_Standards/WikiData/WD~Permian–Triassic_extinction_event,141118]] 
-1707. [[_Standards/WikiData/WD~Cretaceous–Paleogene_extinction_event,55811]] 
+1706. [[_Standards/WikiData/WD~Permian_Triassic_extinction_event,141118]] 
+1707. [[_Standards/WikiData/WD~Cretaceous_Paleogene_extinction_event,55811]] 
 1708. [[_Standards/WikiData/WD~Ice_age,49367]] 
 1709. [[_Standards/WikiData/WD~Precambrian,103910]] 
 1710. [[_Standards/WikiData/WD~Phanerozoic,101313]] 
@@ -6805,7 +6805,7 @@ For specific geographical objects see Geography
 
 1814. [[_Standards/WikiData/WD~Climatology,52139]] 
 1815. [[_Standards/WikiData/WD~Climate,7937]] 
-1816. [[_Standards/WikiData/WD~El_Niño–Southern_Oscillation,7939]] 
+1816. [[_Standards/WikiData/WD~El_Niño_Southern_Oscillation,7939]] 
 1817. [[_Standards/WikiData/WD~Global_warming,7942]] 
 1818. [[_Standards/WikiData/WD~Köppen_climate_classification,124095]] 
 1819. [[_Standards/WikiData/WD~Temperateness,167466]] 
@@ -6863,7 +6863,7 @@ For specific geographical objects see Geography
 1853. [[_Standards/WikiData/WD~Blizzard,205418]] 
 1854. [[_Standards/WikiData/WD~Dust_storm,182878]] 
 1855. [[_Standards/WikiData/WD~Lightning,33741]] 
-1856. [[_Standards/WikiData/WD~Saffir–Simpson_hurricane_scale,205801]] 
+1856. [[_Standards/WikiData/WD~Saffir_Simpson_hurricane_scale,205801]] 
 1857. [[_Standards/WikiData/WD~Thunderstorm,2857578]] 
 1858. [[_Standards/WikiData/WD~Tornado,8081]] 
 1859. [[_Standards/WikiData/WD~Tropical_cyclone,8092]] 
@@ -8225,7 +8225,7 @@ See also "Biology" for e.g. anatomy
     9. [[_Standards/WikiData/WD~Pharmacokinetics,323936]] 
     10. [[_Standards/WikiData/WD~Antibacterial,12187]] 
         1. [[_Standards/WikiData/WD~Penicillin,12190]] 
-    11. [[_Standards/WikiData/WD~Management_of_HIV/AIDS,583050]] 
+    11. [[_Standards/WikiData/WD~Management_of_HIV_AIDS,583050]] 
 2559. [[_Standards/WikiData/WD~Psychiatry,7867]] 
 2560. [[_Standards/WikiData/WD~Pulmonology,203337]] 
 2561. [[_Standards/WikiData/WD~Reproductive_health,1981388]] 
@@ -9284,7 +9284,7 @@ Car models
 ##### Airports
 
 3173. [[_Standards/WikiData/WD~Beijing_Capital_International_Airport,32190]] 
-3174. [[_Standards/WikiData/WD~Hartsfield–Jackson_Atlanta_International_Airport,214861]] 
+3174. [[_Standards/WikiData/WD~Hartsfield_Jackson_Atlanta_International_Airport,214861]] 
 3175. [[_Standards/WikiData/WD~Los_Angeles_International_Airport,8731]] 
 
 #### Robotics
@@ -9978,12 +9978,12 @@ See also Arts>Architecture section
     1. [[_Standards/WikiData/WD~Akashi_Kaikyō_Bridge,184213]] 
     2. [[_Standards/WikiData/WD~Bang_Na_Expressway,806452]] 
     3. [[_Standards/WikiData/WD~Brooklyn_Bridge,125006]] 
-    4. [[_Standards/WikiData/WD~Danyang–Kunshan_Grand_Bridge,595768]] 
+    4. [[_Standards/WikiData/WD~Danyang_Kunshan_Grand_Bridge,595768]] 
     5. [[_Standards/WikiData/WD~Fehmarn_Belt_Fixed_Link,18541]] 
     6. [[_Standards/WikiData/WD~George_Washington_Bridge,125821]] 
     7. [[_Standards/WikiData/WD~Golden_Gate_Bridge,44440]] 
     8. [[_Standards/WikiData/WD~Great_Belt_Fixed_Link,213962]] 
-    9. [[_Standards/WikiData/WD~Hong_Kong–Zhuhai–Macao_Bridge,1191515]] 
+    9. [[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macao_Bridge,1191515]] 
     10. [[_Standards/WikiData/WD~Lake_Pontchartrain_Causeway,1132510]] 
     11. [[_Standards/WikiData/WD~London_Bridge,130206]] 
     12. [[_Standards/WikiData/WD~Øresund_connection,297871]] 
@@ -10163,9 +10163,9 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Arts](
 ##### Sculpture
 
 3672. _[[_Standards/WikiData/WD~The_Thinker,18003128]] _
-3673. [[_Standards/WikiData/WD~_David_ (Michelangelo),179900]] 
+3673. [[_Standards/WikiData/WD~_David__(Michelangelo),179900]] 
 3674. _[[_Standards/WikiData/WD~Manneken_Pis,152072]] _
-3675. [[_Standards/WikiData/WD~_The_Little_Mermaid_ (statue),214619]] 
+3675. [[_Standards/WikiData/WD~_The_Little_Mermaid__(statue),214619]] 
 3676. _[[_Standards/WikiData/WD~Venus_de_Milo,151952]] _
 
 ##### Films
@@ -10176,7 +10176,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Arts](
 3680. _[[_Standards/WikiData/WD~The_Sound_of_Music,60072]] _
 3681. _[[_Standards/WikiData/WD~Casablanca,132689]] _
 3682. _[[_Standards/WikiData/WD~Gone_with_the_Wind,2875]] _
-3683. _[[_Standards/WikiData/WD~2001:_A_Space_Odyssey,103474]] _
+3683. _[[_Standards/WikiData/WD~2001__A_Space_Odyssey,103474]] _
 3684. _[[_Standards/WikiData/WD~Star_Wars,462]] _
 3685. _[[_Standards/WikiData/WD~The_Godfather,47703]] _
 
@@ -10509,7 +10509,7 @@ See also Tecnology>Construction section
 
 ##### Classical
 
-3900. [[_Standards/WikiData/WD~_The_Four_Seasons_ (Vivaldi),12016]] 
+3900. [[_Standards/WikiData/WD~_The_Four_Seasons__(Vivaldi),12016]] 
 3901. [[_Standards/WikiData/WD~Symphony_No.5_(Beethoven),188709]] 
 3902. [[_Standards/WikiData/WD~Symphony_No.9_(Beethoven),11989]] 
 
@@ -10530,7 +10530,7 @@ See also Tecnology>Construction section
 
 3910. _[[_Standards/WikiData/WD~The_Dark_Side_of_the_Moon,150901]] _
 3911. _[[_Standards/WikiData/WD~Sgt.Pepper's_Lonely_Hearts_Club_Band,169226]] _
-3912. [[_Standards/WikiData/WD~_Thriller_ (Michael_Jackson_album),44320]] 
+3912. [[_Standards/WikiData/WD~_Thriller__(Michael_Jackson_album),44320]] 
 
 ### Performing arts
 
@@ -10903,8 +10903,8 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Arts](
         3. [[_Standards/WikiData/WD~Romance_languages,19814]] 
         4. [[_Standards/WikiData/WD~Slavic_languages,23526]] 
     8. [[_Standards/WikiData/WD~Khoisan_languages,33614]] 
-    9. [[_Standards/WikiData/WD~Kra–Dai_languages,34171]] 
-    10. [[_Standards/WikiData/WD~Niger–Congo_languages,33838]] 
+    9. [[_Standards/WikiData/WD~Kra_Dai_languages,34171]] 
+    10. [[_Standards/WikiData/WD~Niger_Congo_languages,33838]] 
     11. [[_Standards/WikiData/WD~Nilo-Saharan_languages,33705]] 
     12. [[_Standards/WikiData/WD~Pama-Nyungan_languages,33942]] 
     13. [[_Standards/WikiData/WD~Quechua_languages,5218]] 
@@ -11142,7 +11142,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Arts](
 4232. _[[_Standards/WikiData/WD~The_Old_Man_and_the_Sea,26505]] _
 4233. _[[_Standards/WikiData/WD~One_Hundred_Years_of_Solitude,178869]] _
 4234. _[[_Standards/WikiData/WD~Pride_and_Prejudice,170583]] _
-4235. [[_Standards/WikiData/WD~_Ulysses_ (novel),6511]] 
+4235. [[_Standards/WikiData/WD~_Ulysses__(novel),6511]] 
 4236. _[[_Standards/WikiData/WD~Waiting_for_Godot,19871]] _
 4237. _[[_Standards/WikiData/WD~War_and_Peace,161531]] _
 4238. _[[_Standards/WikiData/WD~Asterix,42490]] _
@@ -11494,7 +11494,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4478. [[_Standards/WikiData/WD~Medes,8735]] 
 4479. [[_Standards/WikiData/WD~Parthian_Empire,1986139]] 
 4480. [[_Standards/WikiData/WD~Persepolis,129072]] 
-4481. [[_Standards/WikiData/WD~Roman–Persian_Wars,500409]] 
+4481. [[_Standards/WikiData/WD~Roman_Persian_Wars,500409]] 
 4482. [[_Standards/WikiData/WD~Saka,673001]] 
 4483. [[_Standards/WikiData/WD~Sassanid_Empire,83891]] 
 4484. [[_Standards/WikiData/WD~Sogdiana,486244]] 
@@ -11587,7 +11587,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
     12. [[_Standards/WikiData/WD~Fall_of_the_Western_Roman_Empire,608613]] 
     13. [[_Standards/WikiData/WD~Crisis_of_the_Third_Century,329838]] 
     14. [[_Standards/WikiData/WD~Julio-Claudian_dynasty,192841]] 
-    15. [[_Standards/WikiData/WD~Nerva–Antonine_dynasty,193254]] 
+    15. [[_Standards/WikiData/WD~Nerva_Antonine_dynasty,193254]] 
     16. [[_Standards/WikiData/WD~Gallic_Wars,202161]] 
     17. [[_Standards/WikiData/WD~Macedonian_Wars,75813]] 
     18. [[_Standards/WikiData/WD~Roman_civil_wars,1747183]] 
@@ -11667,8 +11667,8 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4579. [[_Standards/WikiData/WD~Goryeo,28208]] 
 4580. [[_Standards/WikiData/WD~Han_Dynasty,7209]] 
 4581. [[_Standards/WikiData/WD~Heian_period,193292]] 
-4582. [[_Standards/WikiData/WD~Jin_Dynasty_(265–420),7352]] 
-4583. [[_Standards/WikiData/WD~Jin_Dynasty_(1115–1234),5066]] 
+4582. [[_Standards/WikiData/WD~Jin_Dynasty_(265_420),7352]] 
+4583. [[_Standards/WikiData/WD~Jin_Dynasty_(1115_1234),5066]] 
 4584. [[_Standards/WikiData/WD~Liao_Dynasty,4958]] 
 4585. [[_Standards/WikiData/WD~Mongol_Empire,12557]] 
 4586. [[_Standards/WikiData/WD~Ninja,9402]] 
@@ -11715,7 +11715,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 #### Middle Ages,Europe
 
 4616. [[_Standards/WikiData/WD~Black_Death,42005]] 
-4617. [[_Standards/WikiData/WD~East–West_Schism,51648]] 
+4617. [[_Standards/WikiData/WD~East_West_Schism,51648]] 
 4618. [[_Standards/WikiData/WD~House_of_Habsburg,65968]] 
 4619. [[_Standards/WikiData/WD~House_of_Medici,170022]] 
 4620. [[_Standards/WikiData/WD~Normans,83418]] 
@@ -11728,11 +11728,11 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4624. [[_Standards/WikiData/WD~First_Bulgarian_Empire,203817]] 
 4625. [[_Standards/WikiData/WD~Second_Bulgarian_Empire,420759]] 
 4626. [[_Standards/WikiData/WD~Byzantine_Empire,12544]] 
-    1. [[_Standards/WikiData/WD~Arab–Byzantine_Wars,29100]] 
-    2. [[_Standards/WikiData/WD~Byzantine–Bulgarian_wars,2288144]] 
-    3. [[_Standards/WikiData/WD~Byzantine–Ottoman_Wars,630259]] 
+    1. [[_Standards/WikiData/WD~Arab_Byzantine_Wars,29100]] 
+    2. [[_Standards/WikiData/WD~Byzantine_Bulgarian_wars,2288144]] 
+    3. [[_Standards/WikiData/WD~Byzantine_Ottoman_Wars,630259]] 
     4. [[_Standards/WikiData/WD~Fall_of_Constantinople,160077]] 
-4627. [[_Standards/WikiData/WD~Kingdom_of_Galicia–Volhynia,239502]] 
+4627. [[_Standards/WikiData/WD~Kingdom_of_Galicia_Volhynia,239502]] 
 4628. [[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]] 
 4629. [[_Standards/WikiData/WD~Grand_Duchy_of_Moscow,170770]] 
 4630. [[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]] 
@@ -11741,13 +11741,13 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4633. [[_Standards/WikiData/WD~Kievan_Rus',1108445]] 
 4634. [[_Standards/WikiData/WD~Great_Moravia,193152]] 
 4635. [[_Standards/WikiData/WD~Novgorod_Republic,151536]] 
-4636. [[_Standards/WikiData/WD~Cretan_War_(1645–69),699602]] 
+4636. [[_Standards/WikiData/WD~Cretan_War_(1645_69),699602]] 
 4637. [[_Standards/WikiData/WD~Pechenegs,181752]] 
 4638. [[_Standards/WikiData/WD~Teutonic_Knights,48189]] 
 4639. [[_Standards/WikiData/WD~Vladimir-Suzdal,83546]] 
 4640. [[_Standards/WikiData/WD~Volga_Bulgaria,185488]] 
 4641. [[_Standards/WikiData/WD~Kingdom_of_Bohemia,42585]] 
-4642. [[_Standards/WikiData/WD~Polish–Lithuanian–Teutonic_War,937255]] 
+4642. [[_Standards/WikiData/WD~Polish_Lithuanian_Teutonic_War,937255]] 
 4643. [[_Standards/WikiData/WD~Rurik_Dynasty,210398]] 
 
 ##### Middle Ages,Western Europe
@@ -11793,7 +11793,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4671. [[_Standards/WikiData/WD~Investiture_Controversy,154764]] 
 4672. [[_Standards/WikiData/WD~Kingdom_of_Germany,175211]] 
 4673. [[_Standards/WikiData/WD~Wends,158281]] 
-4674. [[_Standards/WikiData/WD~Gothic_War_(535–554),477973]] 
+4674. [[_Standards/WikiData/WD~Gothic_War_(535_554),477973]] 
 4675. [[_Standards/WikiData/WD~Guelphs_and_Ghibellines,187742]] 
 4676. [[_Standards/WikiData/WD~Neustria,106577]] 
 4677. [[_Standards/WikiData/WD~Salic_law,152507]] 
@@ -11906,16 +11906,16 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4751. [[_Standards/WikiData/WD~Khanate_of_Kazan,186537]] 
 4752. [[_Standards/WikiData/WD~Livonian_War,246863]] 
 4753. [[_Standards/WikiData/WD~Partitions_of_Poland,152006]] 
-4754. [[_Standards/WikiData/WD~Polish–Lithuanian_Commonwealth,172107]] 
+4754. [[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]] 
 4755. [[_Standards/WikiData/WD~The_Great_Game,216702]] 
 4756. [[_Standards/WikiData/WD~Tsardom_of_Russia,186096]] 
     2. [[_Standards/WikiData/WD~Oprichnina,611162]] 
 4757. [[_Standards/WikiData/WD~History_of_the_Russo-Turkish_wars,743046]] 
 4758. [[_Standards/WikiData/WD~Ottoman_wars_in_Europe,698985]] 
 4759. [[_Standards/WikiData/WD~Union_of_Lublin,963303]] 
-4760. [[_Standards/WikiData/WD~Muscovite–Lithuanian_Wars,1567698]] 
-4761. [[_Standards/WikiData/WD~Polish–Muscovite_War_(1605–18),1044829]] 
-4762. [[_Standards/WikiData/WD~Russo-Polish_War_(1654–1667),631991]] 
+4760. [[_Standards/WikiData/WD~Muscovite_Lithuanian_Wars,1567698]] 
+4761. [[_Standards/WikiData/WD~Polish_Muscovite_War_(1605_18),1044829]] 
+4762. [[_Standards/WikiData/WD~Russo-Polish_War_(1654_1667),631991]] 
 
 ### Modern History
 
@@ -11929,12 +11929,12 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4768. [[_Standards/WikiData/WD~Cold_War,8683]] 
 4769. [[_Standards/WikiData/WD~COVID-19_pandemic,81068910]] 
 4770. [[_Standards/WikiData/WD~Decolonization,230533]] 
-4771. [[_Standards/WikiData/WD~Financial_crisis_of_2007–2008,896666]] 
+4771. [[_Standards/WikiData/WD~Financial_crisis_of_2007_2008,896666]] 
 4772. [[_Standards/WikiData/WD~Great_Depression,8698]] 
 4773. [[_Standards/WikiData/WD~Industrial_Revolution,2269]] 
 4774. [[_Standards/WikiData/WD~Information_Age,956129]] 
 4775. [[_Standards/WikiData/WD~Interwar_period,154611]] 
-4776. [[_Standards/WikiData/WD~Kellogg–Briand_Pact,205073]] 
+4776. [[_Standards/WikiData/WD~Kellogg_Briand_Pact,205073]] 
 4777. [[_Standards/WikiData/WD~New_Imperialism,304121]] 
 4778. [[_Standards/WikiData/WD~Space_exploration,180046]] 
 4779. [[_Standards/WikiData/WD~Space_Race,1932]] 
@@ -11954,7 +11954,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4784. [[_Standards/WikiData/WD~World_War_II,362]] 
     10. [[_Standards/WikiData/WD~Allies_of_World_War_II,329888]] 
     11. [[_Standards/WikiData/WD~Axis_powers,43056]] 
-    12. [[_Standards/WikiData/WD~Molotov–Ribbentrop_Pact,130796]] 
+    12. [[_Standards/WikiData/WD~Molotov_Ribbentrop_Pact,130796]] 
     13. [[_Standards/WikiData/WD~Invasion_of_Poland,150812]] 
     14. [[_Standards/WikiData/WD~Western_Front,216184]] 
     15. [[_Standards/WikiData/WD~Battle_of_the_Atlantic,157627]] 
@@ -11974,7 +11974,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4786. [[_Standards/WikiData/WD~Arab_Spring,33761]] 
 4787. [[_Standards/WikiData/WD~Algerian_War,200790]] 
 4788. [[_Standards/WikiData/WD~Angolan_Civil_War,12055176]] 
-4789. [[_Standards/WikiData/WD~Anglo–Zulu_War,228911]] 
+4789. [[_Standards/WikiData/WD~Anglo_Zulu_War,228911]] 
 4790. [[_Standards/WikiData/WD~Apartheid_in_South_Africa,11409]] 
 4791. [[_Standards/WikiData/WD~Biafra,178469]] 
 4792. [[_Standards/WikiData/WD~Congo_Free_State,76048]] 
@@ -11987,7 +11987,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4799. [[_Standards/WikiData/WD~Scramble_for_Africa,179848]] 
 4800. [[_Standards/WikiData/WD~Second_Boer_War,215112]] 
 4801. [[_Standards/WikiData/WD~Second_Congo_War,75756]] 
-4802. [[_Standards/WikiData/WD~Second_Italo–Ethiopian_War,94916]] 
+4802. [[_Standards/WikiData/WD~Second_Italo_Ethiopian_War,94916]] 
 4803. [[_Standards/WikiData/WD~Sokoto_Caliphate,600524]] 
 
 #### Modern History,Americas
@@ -12006,9 +12006,9 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4815. [[_Standards/WikiData/WD~Manhattan_Project,127050]] 
 4816. [[_Standards/WikiData/WD~Mexican_War_of_Independence,68750]] 
 4817. [[_Standards/WikiData/WD~Mexican_Revolution,214426]] 
-4818. [[_Standards/WikiData/WD~Mexican–American_War,6683]] 
+4818. [[_Standards/WikiData/WD~Mexican_American_War,6683]] 
 4819. [[_Standards/WikiData/WD~September_11_attacks,10806]] 
-4820. [[_Standards/WikiData/WD~Spanish–American_War,12583]] 
+4820. [[_Standards/WikiData/WD~Spanish_American_War,12583]] 
 4821. [[_Standards/WikiData/WD~Wall_Street_Crash_of_1929,201684]] 
 4822. [[_Standards/WikiData/WD~War_of_1812,26013]] 
 4823. [[_Standards/WikiData/WD~Paraguayan_War,58947]] 
@@ -12062,7 +12062,7 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4860. [[_Standards/WikiData/WD~Dutch_East_Indies,188161]] 
 4861. [[_Standards/WikiData/WD~French_Indochina,185682]] 
 4862. [[_Standards/WikiData/WD~Indonesian_National_Revolution,1332160]] 
-4863. [[_Standards/WikiData/WD~Philippine–American_War,214456]] 
+4863. [[_Standards/WikiData/WD~Philippine_American_War,214456]] 
 4864. [[_Standards/WikiData/WD~Philippine_Revolution,422082]] 
 4865. [[_Standards/WikiData/WD~Vietnam_War,8740]] 
 4866. [[_Standards/WikiData/WD~Khmer_Rouge,191764]] 
@@ -12074,14 +12074,14 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4869. [[_Standards/WikiData/WD~Turkish_War_of_Independence,234738]] 
 4870. [[_Standards/WikiData/WD~Armenian_Genocide,80034]] 
 4871. [[_Standards/WikiData/WD~Mandatory_Palestine,193714]] 
-4872. [[_Standards/WikiData/WD~Arab–Israeli_conflict,8669]] 
+4872. [[_Standards/WikiData/WD~Arab_Israeli_conflict,8669]] 
 4873. [[_Standards/WikiData/WD~North_Yemen_Civil_War,521199]] 
 4874. [[_Standards/WikiData/WD~Lebanese_Civil_War,208484]] 
 4875. [[_Standards/WikiData/WD~Iranian_Revolution,126065]] 
 4876. [[_Standards/WikiData/WD~Soviet_war_in_Afghanistan,83085]] 
-4877. [[_Standards/WikiData/WD~Iran–Iraq_War,82664]] 
+4877. [[_Standards/WikiData/WD~Iran_Iraq_War,82664]] 
 4878. [[_Standards/WikiData/WD~Gulf_War,37643]] 
-4879. [[_Standards/WikiData/WD~War_in_Afghanistan_(2001–2021),182865]] 
+4879. [[_Standards/WikiData/WD~War_in_Afghanistan_(2001_2021),182865]] 
 4880. [[_Standards/WikiData/WD~Iraq_War,545449]] 
 4881. [[_Standards/WikiData/WD~Syrian_Civil_War,178810]] 
 
@@ -12113,19 +12113,19 @@ _Transcluded from [List of articles every Wikipedia should have/Expanded/Histor
 4898. [[_Standards/WikiData/WD~East_Germany,16957]] 
 4899. [[_Standards/WikiData/WD~French_invasion_of_Russia,179250]] 
 4900. [[_Standards/WikiData/WD~Great_Purge,187650]] 
-4901. [[_Standards/WikiData/WD~Greco-Turkish_War_(1919–22),87138]] 
+4901. [[_Standards/WikiData/WD~Greco-Turkish_War_(1919_22),87138]] 
 4902. [[_Standards/WikiData/WD~Greek_War_of_Independence,182062]] 
 4903. [[_Standards/WikiData/WD~Gulag,161448]] 
 4904. [[_Standards/WikiData/WD~Holodomor,165058]] 
 4905. [[_Standards/WikiData/WD~Hungarian_Revolution_of_1956,164348]] 
-4906. [[_Standards/WikiData/WD~Polish–Soviet_War,186284]] 
+4906. [[_Standards/WikiData/WD~Polish_Soviet_War,186284]] 
 4907. [[_Standards/WikiData/WD~Prague_Spring,162401]] 
 4908. [[_Standards/WikiData/WD~Revolutions_of_1989,382861]] 
 4909. [[_Standards/WikiData/WD~Russian_Civil_War,79911]] 
 4910. [[_Standards/WikiData/WD~Russian_Empire,34266]] 
 4911. [[_Standards/WikiData/WD~Revolution_of_1905,184928]] 
 4912. [[_Standards/WikiData/WD~Russian_Revolution,8729]] 
-4913. [[_Standards/WikiData/WD~Russo-Turkish_War_(1877–1878),174205]] 
+4913. [[_Standards/WikiData/WD~Russo-Turkish_War_(1877_1878),174205]] 
 4914. [[_Standards/WikiData/WD~Russo-Ukrainian_war,15860072]] 
 4915. [[_Standards/WikiData/WD~Solidarity_(Polish_trade_union),1003]] 
 4916. [[_Standards/WikiData/WD~Eastern_Bloc,170541]] 
@@ -12830,7 +12830,7 @@ See also Physical sciences/Earth science.
 5289. [[_Standards/WikiData/WD~Yosemite_National_Park,180402]] 
 5290. [[_Standards/WikiData/WD~Olympic_National_Park,372093]] 
 5291. [[_Standards/WikiData/WD~Everglades_National_Park,274131]] 
-5292. [[_Standards/WikiData/WD~Kluane_Wrangell–St.Elias_Glacier_Bay_Tatshenshini-Alsek,604604]] 
+5292. [[_Standards/WikiData/WD~Kluane_Wrangell_St.Elias_Glacier_Bay_Tatshenshini-Alsek,604604]] 
 5293. [[_Standards/WikiData/WD~La_Amistad_International_Park,379217]] 
 5294. [[_Standards/WikiData/WD~Sian_Ka'an,559789]] 
 5295. [[_Standards/WikiData/WD~Great_Smoky_Mountains_National_Park,464004]] 

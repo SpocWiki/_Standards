@@ -95,49 +95,49 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q111313426,111313426]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_El_Salvador,63286062]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 replaces: "[[_Standards/WikiData/WD~State_of_El_Salvador,65182752]]"
 open_data_portal: "[[_Standards/WikiData/WD~El_Salvador_open_data,97150530]]"
 coordinate_location: "Point(-88.866111 13.668889)"
 demonym:
-- صالڤادوري
-- صالڤادورية
-- صالڤادوريين
-- صالڤادوريات
-- Salvadoran
-- سلفادوري
-- سلفادورية
-- سلفادوريون
-- salvadoriana
-- salvadorianu
-- সালভাদোরীয়
-- salvadoraner
-- Salvadorano
-- Salvadorien
-- Salvadorienne
+  - صالڤادوري
+  - صالڤادورية
+  - صالڤادوريين
+  - صالڤادوريات
+  - Salvadoran
+  - سلفادوري
+  - سلفادورية
+  - سلفادوريون
+  - salvadoriana
+  - salvadorianu
+  - সালভাদোরীয়
+  - salvadoraner
+  - Salvadorano
+  - Salvadorien
+  - Salvadorienne
 - "אל סלוודורי"
 - "אל סלוודורית"
-- salvadori
-- Salvadorano
-- salvadoregna
-- salvadoregne
-- salvadoregni
-- salvadoregno
-- salvadoran
-- salvadorian
-- salvadoriană
-- salvadorieni
-- сальвадорец
-- сальвадорка
-- сальвадорцы
-- salvadoregna
-- salvadoregne
-- salvadoregni
-- salvadoregno
-- Salvadoränan
-- Salvadórach
-- salvadorenc
-- salvadorenca
+  - salvadori
+  - Salvadorano
+  - salvadoregna
+  - salvadoregne
+  - salvadoregni
+  - salvadoregno
+  - salvadoran
+  - salvadorian
+  - salvadoriană
+  - salvadorieni
+  - сальвадорец
+  - сальвадорка
+  - сальвадорцы
+  - salvadoregna
+  - salvadoregne
+  - salvadoregni
+  - salvadoregno
+  - Salvadoränan
+  - Salvadórach
+  - salvadorenc
+  - salvadorenca
 ISNI: 0000000123752529
 GS1_country_code: 741
 licence_plate_code: ES
@@ -147,34 +147,34 @@ ISO_3166_1_alpha_2_code: SV
 WIPO_ST_3: SV
 OmegaWiki_Defined_Meaning: 7865
 rural_population:
-- 1711610
-- 1598862
-- 1634233
-- 1671098
+  - 1711610
+  - 1598862
+  - 1634233
+  - 1671098
 number_of_out_of_school_children: 172164
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20El%20Salvador.svg"
 male_population:
-- 2997430
-- 2992539
-- 3006692
-- 3016535
+  - 2997430
+  - 2992539
+  - 3006692
+  - 3016535
 urban_population:
-- 4737530
-- 4568607
-- 4621633
-- 4679934
+  - 4737530
+  - 4568607
+  - 4621633
+  - 4679934
 INSEE_countries_and_foreign_territories_code: 99414
 official_name:
 - "El Salvador"
 - "la République du Salvador"
 nominal_GDP:
-- 29451240000
-- 32488720000
+  - 29451240000
+  - 32488720000
 female_population:
-- 3287678
-- 3307476
-- 3319856
-- 3295300
+  - 3287678
+  - 3307476
+  - 3319856
+  - 3295300
 ISO_3166_1_alpha_3_code: SLV
 ITU_letter_code: SLV
 PM20_geo_code: E66
@@ -202,7 +202,7 @@ GitHub_topic: el-salvador
 CIVICUS_Monitor_country_entry: el-salvador
 hashtag: ElSalvador
 subreddit:
-- ElSalvador
+  - ElSalvador
 IPA_transcription: "ɛl'sɑlʋɑdoːɾ"
 Colon_Classification: SG--753
 Krugosvet_article: strany_mira/SALVADOR.html
@@ -243,28 +243,28 @@ continent: "[[_Standards/WikiData/WD~North_America,49]]"
 lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 unemployment_rate: 6
 BTI_Status_Index:
-- 7
-- 6.8
-- 6.9
-- 7.2
-- 6.46
-- 6.88
-- 6.99
-- 7.14
-- 7.23
+  - 7
+  - 6.8
+  - 6.9
+  - 7.2
+  - 6.46
+  - 6.88
+  - 6.99
+  - 7.14
+  - 7.23
 VAT_rate: 13
 marriageable_age: 18
 age_of_majority: 18
 Democracy_Index: 5.9
 BTI_Governance_Index:
-- 6.3
-- 5.63
-- 6.21
-- 6.24
-- 6.54
-- 6.57
-- 6.79
-- 6.84
+  - 6.3
+  - 5.63
+  - 6.21
+  - 6.24
+  - 6.54
+  - 6.57
+  - 6.79
+  - 6.84
 mains_voltage: 115
 suicide_rate: 13.7
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.sv,42665]]'
@@ -275,15 +275,15 @@ Human_Development_Index: 0.675
 maritime_identification_digits: 359
 total_fertility_rate: 1.931
 death_rate:
-- 7.451
-- 8.173
-- 8.442
-- 8.661
+  - 7.451
+  - 8.173
+  - 8.442
+  - 8.661
 birth_rate:
-- 15.803
-- 16.025
-- 16.188
-- 16.416
+  - 15.803
+  - 16.025
+  - 16.188
+  - 16.416
 area: 20742
 ISO_3166_1_numeric_code: 222
 M49_code: 222
@@ -298,11 +298,11 @@ aliases:
 - "the Republic of El Salvador"
 - "la República de El Salvador"
 location:
-- 13.6667
-- -89.1667
+    - 13.6667
+    - -89.1667
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27025
 isDeleted: false
 confidential: public
@@ -319,7 +319,7 @@ draft: false
 publishDate: 
 expiryDate: 
 Languages:
-- es-SV
+    - es-SV
 icon: flag-sv
 ---
 

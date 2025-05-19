@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12453
 has_characteristic:
 - "[[_Standards/WikiData/WD~measurement_error,196372]]"
@@ -9,7 +9,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 - "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
-- "[[_Standards/WikiData/WD~ISO_3534-2_2006(en)_Statistics_—_Vocabulary_and_symbols_—_Part_2__Applied_statistics,113715213]]"
+- "[[_Standards/WikiData/WD~ISO_3534-2_2006(en)_Statistics___Vocabulary_and_symbols___Part_2__Applied_statistics,113715213]]"
 subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
 instance_of: "[[_Standards/WikiData/WD~academic_major,4671286]]"
 image:

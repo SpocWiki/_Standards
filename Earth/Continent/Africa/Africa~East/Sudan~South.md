@@ -37,7 +37,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Opuo,3354339]]'
 - '[[_Standards/WikiData/WD~Homa,3449953]]'
 - '[[_Standards/WikiData/WD~Baleesi,5364424]]'
-- '[[_Standards/WikiData/WD~Olu’bo,6589401]]'
+- '[[_Standards/WikiData/WD~Olu_bo,6589401]]'
 - '[[_Standards/WikiData/WD~Mittu,6883573]]'
 - '[[_Standards/WikiData/WD~Morokodo,6913216]]'
 - '[[_Standards/WikiData/WD~Moru,6915014]]'
@@ -46,7 +46,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Keliko,11275553]]'
 - '[[_Standards/WikiData/WD~Jumjum,11283696]]'
 - '[[_Standards/WikiData/WD~Nyamusa-Molo,12747951]]'
-- "[[_Standards/WikiData/WD~Mo'da,12755683]]"
+  - "[[_Standards/WikiData/WD~Mo'da,12755683]]"
 - '[[_Standards/WikiData/WD~Mabaan,20526385]]'
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Malay,9237]]'
@@ -76,7 +76,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Dinka,56466]]'
 - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
 - "[[_Standards/WikiData/WD~Sudanese_Arabic,56573]]"
-- "[[_Standards/WikiData/WD~Ma'di,56670]]"
+  - "[[_Standards/WikiData/WD~Ma'di,56670]]"
 - '[[_Standards/WikiData/WD~Kresh,56674]]'
 - '[[_Standards/WikiData/WD~Lotuko,56672]]'
 - "[[_Standards/WikiData/WD~Belanda_Bor,56678]]"
@@ -169,27 +169,27 @@ official_name:
 - "la République du Soudan du Sud"
 - "South Sudan"
 demonym:
-- sursudanés
-- sursudanesa
-- Südsudanese
-- Südsudanesin
-- Sud-Sudanano
-- Sud-soudanais
-- Sud-soudanaise
-- Sudsoudanais
-- Sudsoudanaise
-- דרום-סודאני
-- דרום-סודאנית
-- dél-szudáni
-- Sud-Sudanano
-- sudsudanese
-- sudsudanesi
-- sul-sudanês
-- sul-sudanesa
-- sudsudaneza
-- sudsudaneze
-- sudsudanezi
-- sudsudanezo
+  - sursudanés
+  - sursudanesa
+  - Südsudanese
+  - Südsudanesin
+  - Sud-Sudanano
+  - Sud-soudanais
+  - Sud-soudanaise
+  - Sudsoudanais
+  - Sudsoudanaise
+  - דרום-סודאני
+  - דרום-סודאנית
+  - dél-szudáni
+  - Sud-Sudanano
+  - sudsudanese
+  - sudsudanesi
+  - sul-sudanês
+  - sul-sudanesa
+  - sudsudaneza
+  - sudsudaneze
+  - sudsudanezi
+  - sudsudanezo
 - "سوداني جنوبي"
 - "سودانية جنوبية"
 - "سودانيين جنوبيين"
@@ -240,70 +240,70 @@ part_of:
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 marriageable_age: 18
 BTI_Status_Index:
-- 2.3
-- 2.26
-- 2.27
-- 2.82
-- 3.08
+  - 2.3
+  - 2.26
+  - 2.27
+  - 2.82
+  - 3.08
 BTI_Governance_Index:
-- 2.3
-- 2.15
-- 2.99
-- 3.52
+  - 2.3
+  - 2.15
+  - 2.99
+  - 3.52
 Inequality_adjusted_Human_Development_Index: 0.245
 Human_Development_Index: 0.385
 Gini_coefficient: 44.1
 head_of_state: "[[_Standards/WikiData/WD~Salva_Kiir_Mayardit,57315]]"
 head_of_government: "[[_Standards/WikiData/WD~Salva_Kiir_Mayardit,57315]]"
 death_rate:
-- 11.05
-- 10.531
-- 10.745
-- 10.759
+  - 11.05
+  - 10.531
+  - 10.745
+  - 10.759
 total_fertility_rate: 5.022
 maritime_identification_digits: 638
 unemployment_rate:
-- 12.395
-- 12.642
-- 13.868
-- 14.204
+  - 12.395
+  - 12.642
+  - 13.868
+  - 14.204
 mobile_country_code: 659
 ISO_3166_1_alpha_2_code: SS
 WIPO_ST_3: SS
 ISO_3166_1_numeric_code: 728
 M49_code: 728
 birth_rate:
-- 28.857
-- 29.058
-- 29.107
-- 29.166
+  - 28.857
+  - 29.058
+  - 29.107
+  - 29.166
 IAB_code: 1411
 life_expectancy: 56.811
 FIPS_10_4_countries_and_regions_: OD
 male_population:
-- 5167140
-- 5248072
-- 5320584
-- 5404538
+  - 5167140
+  - 5248072
+  - 5320584
+  - 5404538
 area: 644329
 INSEE_countries_and_foreign_territories_code: 99343
 urban_population:
-- 2078981
-- 2142352
-- 2204901
-- 2274958
+  - 2078981
+  - 2142352
+  - 2204901
+  - 2274958
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Sudan.svg"
 female_population:
-- 5280526
-- 5358155
-- 5427688
-- 5508626
+  - 5280526
+  - 5358155
+  - 5427688
+  - 5508626
 OmegaWiki_Defined_Meaning: 1308789
 rural_population:
-- 8368685
-- 8463875
-- 8543371
-- 8638206
+  - 8368685
+  - 8463875
+  - 8543371
+  - 8638206
 ISO_3166_1_alpha_3_code: SSD
 ITU_letter_code: SSD
 IOC_country_code: SSD
@@ -332,7 +332,7 @@ linkTitle:
 keywords: 
 layout: 
 draft: false
-publishDate: 
+publishDate:
 expiryDate: 
 tags:
 - geo/Country

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21960
 has_id_wikidata: Q1832
@@ -22,7 +22,7 @@ named_after: "[[_Standards/WikiData/WD~Johan_Gadolin,312571]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 made_from_material:
 - '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
 - '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'

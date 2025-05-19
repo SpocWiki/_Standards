@@ -3,12 +3,12 @@ title: Austria
 linkTitle: 
 type: Country
 location:
-- 47.712
-- 14.381
+  - 47.712
+  - 14.381
 has_id_wikidata: Q40
 SpocWebEntityId: 26837
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: "CC BY-SA 4.0"
@@ -22,18 +22,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Austria
-- Autriche
-- النمسا
-- 奥地利
-- Австрия
+  - Austria
+  - Autriche
+  - النمسا
+  - 奥地利
+  - Австрия
 - "the Republic of Austria"
 - "la República de Austria"
 Languages:
-- de-AT
-- hr
-- hu
-- sl
+  - de-AT
+  - hr
+  - hu
+  - sl
 icon: flag-at
 head_of_state: "[[_Standards/WikiData/WD~Alexander_Van_der_Bellen,78869]]"
 instance_of:
@@ -97,7 +97,7 @@ demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Austria,671856]
 executive_body: "[[_Standards/WikiData/WD~Austrian_Federal_Government,695599]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
@@ -122,52 +122,52 @@ topic_s_main_template:
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Austria,7112193]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Austria,11343046]]"
 demonym:
-- austriac
-- نمساويون
-- австрийцы
-- österrikare
-- австрієць
-- австрійка
-- австрійці
-- نمساوي
-- نمساوية
-- austriaca
-- austriacu
-- অস্ট্রীয়
-- østriger
-- Aŭstrio
-- austriaco
-- אוסטרי
-- אוסטרית
-- Austriano
-- austriaca
-- austriache
-- austriaci
-- osteraices
-- Oostenrijker
-- austerrikar
-- austrieci
-- австріяка
-- австріяки
-- австріячка
-- austrìaga
-- austrìaghe
-- austrìaghi
-- austrìago
-- Lösteränan
-- ؤطريشي
-- ؤطريشية
-- ؤطريشين
-- ؤطريشيات
-- Ostarach
-- Österreicherin
-- Österreicher
-- Autrichien
-- Autrichienne
-- osztrák
-- Austrian
-- austriacă
-- austriaco
+  - austriac
+  - نمساويون
+  - австрийцы
+  - österrikare
+  - австрієць
+  - австрійка
+  - австрійці
+  - نمساوي
+  - نمساوية
+  - austriaca
+  - austriacu
+  - অস্ট্রীয়
+  - østriger
+  - Aŭstrio
+  - austriaco
+  - אוסטרי
+  - אוסטרית
+  - Austriano
+  - austriaca
+  - austriache
+  - austriaci
+  - osteraices
+  - Oostenrijker
+  - austerrikar
+  - austrieci
+  - австріяка
+  - австріяки
+  - австріячка
+  - austrìaga
+  - austrìaghe
+  - austrìaghi
+  - austrìago
+  - Lösteränan
+  - ؤطريشي
+  - ؤطريشية
+  - ؤطريشين
+  - ؤطريشيات
+  - Ostarach
+  - Österreicherin
+  - Österreicher
+  - Autrichien
+  - Autrichienne
+  - osztrák
+  - Austrian
+  - austriacă
+  - austriaco
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q13179133,13179133]]'
 - '[[_Standards/WikiData/WD~Q110738714,110738714]]'
@@ -196,8 +196,8 @@ detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Population%20den
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Reliefkarte%20%C3%96sterreich.png"
 country_calling_code: +43
 BHCL_UUID:
-- 1a0f8a2d-f920-45df-a84a-8133298922a7
-- 2285dfd1-af26-4be8-bdfc-ccc0f10ead80
+  - 1a0f8a2d-f920-45df-a84a-8133298922a7
+  - 2285dfd1-af26-4be8-bdfc-ccc0f10ead80
 Dewey_Decimal_Classification: 2--436
 Swedish_Anbytarforum: 6397.0
 Colon_Classification: SG--5931
@@ -206,7 +206,7 @@ MeSH_tree_code: Z01.542.088
 Gujarati_Vishwakosh_entry: ઑસ્ટ્રિયા
 native_label:
 - "Republik Österreich"
-- Österreich
+  - Österreich
 motto_text:
 - "Arrive and revive"
 - "Cyrraedd ac Adfer"
@@ -275,12 +275,12 @@ age_of_majority: 18
 mains_voltage: 230
 life_expectancy: 81
 birth_rate:
-- 9.1
-- 9.4
-- 9.6
+  - 9.1
+  - 9.4
+  - 9.6
 death_rate:
-- 9.4
-- 10.3
+  - 9.4
+  - 10.3
 literacy_rate: 99
 total_fertility_rate: 1.48
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.at,37715]]'
@@ -332,8 +332,8 @@ located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Austria,8085]]"
 replaces: '[[_Standards/WikiData/WD~Austria-Hungary,28513]]'
 nominal_GDP:
-- 480368403893
-- 471400066091
+  - 480368403893
+  - 471400066091
 coordinate_location: "Point(14.0 48.0)"
 coordinates_of_westernmost_point: "Point(9.530797 47.270554)"
 inception: "1918-11-12"
@@ -352,34 +352,34 @@ UNDP_country_code: AUS
 INSEE_countries_and_foreign_territories_code: 99110
 budget: 123488300000
 rural_population:
-- 3672325
-- 3678385
-- 3683835
-- 3684012
+  - 3672325
+  - 3678385
+  - 3683835
+  - 3684012
 male_population:
-- 4367938
-- 4387322
-- 4407703
-- 4451539
+  - 4367938
+  - 4387322
+  - 4407703
+  - 4451539
 female_population:
-- 4511982
-- 4529542
-- 4548093
-- 4590312
+  - 4511982
+  - 4529542
+  - 4548093
+  - 4590312
 GS1_country_code: 900-919
 urban_population:
-- 5196085
-- 5238479
-- 5283472
-- 5357839
+  - 5196085
+  - 5238479
+  - 5283472
+  - 5357839
 FIPS_10_4_countries_and_regions_: AU
 Commons_category: Austria
 hashtag:
-- Austria
-- Österreich
+  - Austria
+  - Österreich
 subreddit:
-- Austria
-- austria
+  - Austria
+  - austria
 area: 83878.99
 population: 8979894
 official_name: Österreich
@@ -492,7 +492,7 @@ Major Cities with Population in 1000s as of @2020
 > Austria was its part with the name Cisleithania.
 >
 > After the assassination of Archduke Franz Ferdinand in 1914, 
-> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_I|World War I]]. 
+> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_I|World War I]]. 
 > 
 > The empire's defeat and subsequent collapse 
 > led to the proclamation of the Republic of German-Austria in 1918 
@@ -502,7 +502,7 @@ Major Cities with Population in 1000s as of @2020
 > culminated in the formation of an Austrofascist dictatorship 
 > under Engelbert Dollfuss in 1934. 
 > 
-> A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Nazi_Germany|Nazi Germany]] 
+> A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Nazi_Germany|Nazi Germany]] 
 > by [[../../../../bio/People/Leaders/Modern_Leaders/Hitler,Adolf|Adolf Hitler]], and it became a sub-national division. 
 > 
 > After its liberation in 1945 and a decade of Allied occupation, 

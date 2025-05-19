@@ -4,8 +4,8 @@ Commons_category: Paleozoic
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
 end_time: -251902000
@@ -20,8 +20,33 @@ OmegaWiki_Defined_Meaning: "952626"
 part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
 sRGB_color_hex_triplet: 99C08D
-start_time: -538800000 
+start_time: -538800000
 has_time_started: -538800000
+aliases:
+  - Paleozoic
+  - Палеозой
+  - Paleozoikum
+  - Palæozoisk
+  - Paläozoikum
+  - Palaeozoic
+  - Paleozoic
+  - Palozoico
+  - Paleosoikum
+  - Paleotsoikum
+  - Paléozoïque
+  - paleozoikum
+  - paleozoico
+  - 古生代
+  - Paleozojus
+  - Paleozoïcum
+  - Paleozoikum
+  - Paleozoik
+  - Paleozóico
+  - paleozoikum
+  - paleozoik
+  - paleozoikum
+  - 古生代
+  
 ---
 
 # [[Era~1~Paleozoic]] 

@@ -1,61 +1,61 @@
 ---
 demonym:
-- Crótach
-- Chorvatka
-- Chorvatky
-- كرواتي
-- كرواتية
-- كرواتيين
-- كرواتيات
-- كرواتية
-- croata
-- Croatian
-- Croate
-- קרואטית
-- horvát
-- croato
-- corvatsce
-- хрватски
-- croato
-- كرواتي
-- ক্রোয়েশীয়
-- kroat
-- kroater
-- Kroatin
-- kroatisch
-- kroato
-- Kroatiano
-- croata
-- croate
-- croați
-- хрватска
-- kroatisk
-- хорват
-- хорвати
-- хорватка
-- croata
-- croate
-- Kroasänan
-- Hrvatica
-- Hrvat
-- Chorvati
-- كروات
-- Chorvat
-- Kroate
-- kroatoj
-- קרואטי
-- croati
-- Kroaat
-- croat
-- croată
-- хорваты
-- croati
+  - Crótach
+  - Chorvatka
+  - Chorvatky
+  - كرواتي
+  - كرواتية
+  - كرواتيين
+  - كرواتيات
+  - كرواتية
+  - croata
+  - Croatian
+  - Croate
+  - קרואטית
+  - horvát
+  - croato
+  - corvatsce
+  - хрватски
+  - croato
+  - كرواتي
+  - ক্রোয়েশীয়
+  - kroat
+  - kroater
+  - Kroatin
+  - kroatisch
+  - kroato
+  - Kroatiano
+  - croata
+  - croate
+  - croați
+  - хрватска
+  - kroatisk
+  - хорват
+  - хорвати
+  - хорватка
+  - croata
+  - croate
+  - Kroasänan
+  - Hrvatica
+  - Hrvat
+  - Chorvati
+  - كروات
+  - Chorvat
+  - Kroate
+  - kroatoj
+  - קרואטי
+  - croati
+  - Kroaat
+  - croat
+  - croată
+  - хорваты
+  - croati
 coordinate_location: "Point(15.466667 45.25)"
 MeSH_tree_code: Z01.542.248.295
 IPA_transcription:
-- xɔrˈvät͡sjä
-- kɾuːˈɑtsɪɑ
-- xɐrˈvatʲɪjə
+  - xɔrˈvät͡sjä
+  - kɾuːˈɑtsɪɑ
+  - xɐrˈvatʲɪjə
 coordinates_of_easternmost_point: "Point(19.4480136 45.19537138)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Chile,298]]'
@@ -193,24 +193,24 @@ mains_voltage: 230
 VAT_rate: 25
 Democracy_Index: 6.5
 BTI_Status_Index:
-- 8.3
-- 7.91
-- 7.93
-- 8.07
-- 8.13
-- 8.17
-- 8.25
-- 8.57
-- 8.71
+  - 8.3
+  - 7.91
+  - 7.93
+  - 8.07
+  - 8.13
+  - 8.17
+  - 8.25
+  - 8.57
+  - 8.71
 birth_rate:
-- 8.8
-- 8.9
-- 9.4
+  - 8.8
+  - 8.9
+  - 9.4
 death_rate:
-- 12.7
-- 14.1
-- 14.8
-- 16.2
+  - 12.7
+  - 14.1
+  - 14.8
+  - 16.2
 total_fertility_rate: 1.46
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.hr,41008]]'
 Gini_coefficient: 28.9
@@ -260,14 +260,14 @@ ISNI: 0000000121120050
 Happy_Planet_Index_score: 46.2
 trunk_prefix: 0
 BTI_Governance_Index:
-- 5.98
-- 6.04
-- 6.07
-- 6.39
-- 6.46
-- 6.61
-- 6.87
-- 6.88
+  - 5.98
+  - 6.04
+  - 6.07
+  - 6.39
+  - 6.46
+  - 6.61
+  - 6.87
+  - 6.88
 Inequality_adjusted_Human_Development_Index: 0.797
 head_of_state: "[[_Standards/WikiData/WD~Zoran_Milanović,57687]]"
 Human_Development_Index: 0.858
@@ -288,8 +288,8 @@ licence_plate_code: HR
 ISO_3166_1_alpha_2_code: HR
 FIPS_10_4_countries_and_regions_: HR
 NUTS_code:
-- HR
-- HR0
+  - HR
+  - HR0
 WIPO_ST_3: HR
 UIC_alphabetical_country_code: HR
 ISO_3166_1_alpha_3_code: HRV
@@ -297,10 +297,10 @@ ITU_letter_code: HRV
 IOC_country_code: CRO
 INSEE_countries_and_foreign_territories_code: 99119
 rural_population:
-- 1610925
-- 1633904
-- 1718119
-- 1738221
+  - 1610925
+  - 1633904
+  - 1718119
+  - 1738221
 Commons_category: Croatia
 hashtag: Croatia
 Unicode_character: 🇭🇷 
@@ -314,34 +314,34 @@ official_name:
 - "Republika Hrvatska"
 - "Republica Croația"
 - "Republiken Kroatien"
-- Хрватска
-- Hrvatska
+  - Хрватска
+  - Hrvatska
 motto_text:
 - "Llawn bywyd"
 - "Full of life"
 native_label:
 - "Republika Hrvatska"
-- Hrvatska
+  - Hrvatska
 short_name:
-- Croația
+  - Croația
 - "\U0001F1ED\U0001F1F7"
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Croatia%20location%20map.svg"
 male_population:
-- 1877942
-- 1888646
-- 1969718
-- 1976146
+  - 1877942
+  - 1888646
+  - 1969718
+  - 1976146
 female_population:
-- 1977699
-- 1990335
-- 2077963
-- 2089106
+  - 1977699
+  - 1990335
+  - 2077963
+  - 2089106
 geoshape: "http://commons.wikimedia.org/data/main/Data:Croatia.map"
 urban_population:
-- 2244716
-- 2245077
-- 2327032
-- 2329561
+  - 2244716
+  - 2245077
+  - 2327032
+  - 2329561
 population: 3871833
 life_expectancy: 78.02195
 PM20_geo_code: A40g
@@ -364,11 +364,11 @@ U_S_National_Archives_Identifier: 10045284
 BHCL_UUID: bbcd115b-c5ae-49ac-8b3c-ab8e07472b22
 has_id_wikidata: Q224
 location:
-- 45.8
-- 15.97
+    - 45.8
+    - 15.97
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -384,17 +384,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Croatia
-- Croacia
-- Croatie
-- كرواتيا
-- 克罗地亚
-- Хорватия
+    - Croatia
+    - Croacia
+    - Croatie
+    - كرواتيا
+    - 克罗地亚
+    - Хорватия
 - "the Republic of Croatia"
 - "la República de Croacia"
 Languages:
-- hr-HR
-- sr
+    - hr-HR
+    - sr
 icon: flag-hr
 ---
 

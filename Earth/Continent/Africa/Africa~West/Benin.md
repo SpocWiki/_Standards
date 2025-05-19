@@ -37,7 +37,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Benin,661564]]"
@@ -130,8 +130,8 @@ permanent_duplicated_item:
 coordinates_of_westernmost_point: "Point(0.777777777 10.377777777)"
 coordinate_location: "Point(2.183333333 8.833333333)"
 nominal_GDP:
-- 17401746309
-- 17690083520
+  - 17401746309
+  - 17690083520
 UMLS_CUI: C0005005
 motto_text:
 - "Bratstvo, pravica, delo"
@@ -140,44 +140,44 @@ motto_text:
 - "Fraternity, Justice, Labour"
 - "Fraternité, Justice, Travail"
 demonym:
-- Beninec
-- Beninka
-- بينيني
-- بينينية
-- بينينيات
-- بينينيين
-- Beinineach
-- بنيني
-- بنينية
-- بنينيون
-- beninés
-- beninesa
-- বেনিনীয়
-- beniner
-- Beninese
-- Beninano
-- Béninien
-- Béninienne
-- Béniniennes
-- Béniniens
-- Béninois
-- Béninoise
-- Béninoises
-- בניני
-- בנינית
-- benini
-- Beninano
-- beninese
-- beninesi
-- benines
-- beninez
-- benineză
-- beninezi
-- benineza
-- benineze
-- beninezi
-- beninezo
-- Beninänan
+  - Beninec
+  - Beninka
+  - بينيني
+  - بينينية
+  - بينينيات
+  - بينينيين
+  - Beinineach
+  - بنيني
+  - بنينية
+  - بنينيون
+  - beninés
+  - beninesa
+  - বেনিনীয়
+  - beniner
+  - Beninese
+  - Beninano
+  - Béninien
+  - Béninienne
+  - Béniniennes
+  - Béniniens
+  - Béninois
+  - Béninoise
+  - Béninoises
+  - בניני
+  - בנינית
+  - benini
+  - Beninano
+  - beninese
+  - beninesi
+  - benines
+  - beninez
+  - benineză
+  - beninezi
+  - benineza
+  - benineze
+  - beninezi
+  - beninezo
+  - Beninänan
 ISNI: 0000000123423987
 coordinates_of_easternmost_point: "Point(3.84321 10.59263)"
 coordinates_of_northernmost_point: "Point(2.8 12.42)"
@@ -221,15 +221,15 @@ marriageable_age: 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-- 6.2
-- 5.42
-- 5.68
-- 5.85
-- 5.86
-- 6.04
-- 6.07
-- 6.08
-- 6.42
+  - 6.2
+  - 5.42
+  - 5.68
+  - 5.85
+  - 5.86
+  - 6.04
+  - 6.07
+  - 6.08
+  - 6.42
 suicide_rate: 9.9
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bj,41100]]'
 Inequality_adjusted_Human_Development_Index: 0.334
@@ -241,14 +241,14 @@ lowest_point: "[[_Standards/WikiData/WD~Bight_of_Benin,47530]]"
 named_after: "[[_Standards/WikiData/WD~Bight_of_Benin,47530]]"
 Human_Development_Index: 0.525
 BTI_Status_Index:
-- 6.08
-- 6.26
-- 6.28
-- 6.31
-- 6.34
-- 6.36
-- 6.43
-- 6.44
+  - 6.08
+  - 6.26
+  - 6.28
+  - 6.31
+  - 6.34
+  - 6.36
+  - 6.43
+  - 6.44
 maritime_identification_digits: 610
 FIPS_10_4_countries_and_regions_: BN
 ISO_3166_1_numeric_code: 204
@@ -258,18 +258,18 @@ Dewey_Decimal_Classification: 2--6683
 ISO_3166_1_alpha_2_code: BJ
 WIPO_ST_3: BJ
 death_rate:
-- 9.248
-- 9.323
-- 9.364
-- 9.434
+  - 9.248
+  - 9.323
+  - 9.364
+  - 9.434
 IAB_code: 1251
 mobile_country_code: 616
 OmegaWiki_Defined_Meaning: 8306
 birth_rate:
-- 36.071
-- 36.608
-- 37.114
-- 37.675
+  - 36.071
+  - 36.608
+  - 37.114
+  - 37.675
 IOC_country_code: BEN
 ISO_3166_1_alpha_3_code: BEN
 ITU_letter_code: BEN
@@ -282,32 +282,32 @@ INSEE_countries_and_foreign_territories_code: 99327
 official_name:
 - "Republic of Benin"
 - "République du Bénin"
-- Bénin
+  - Bénin
 - "Beninská republika"
 male_population:
-- 4887820
-- 6152125
-- 6330776
-- 6509711
-- 6689295
+  - 4887820
+  - 6152125
+  - 6330776
+  - 6509711
+  - 6689295
 number_of_out_of_school_children: 827619
 licence_plate_code: DY
 female_population:
-- 5120929
-- 6138319
-- 6312347
-- 6487184
-- 6663569
+  - 5120929
+  - 6138319
+  - 6312347
+  - 6487184
+  - 6663569
 urban_population:
-- 5882329
-- 6121168
-- 6364839
-- 6614208
+  - 5882329
+  - 6121168
+  - 6364839
+  - 6614208
 rural_population:
-- 6408115
-- 6521955
-- 6632056
-- 6738656
+  - 6408115
+  - 6521955
+  - 6632056
+  - 6738656
 PM20_geo_code: C38
 Commons_category: Benin
 hashtag: Benin

@@ -1,10 +1,10 @@
 ---
 location:
-- 8.96667
-- -79.5333
+  - 8.96667
+  - -79.5333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26990
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Panama
 linkTitle: 
@@ -22,16 +22,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Panama
-- Panamá
-- بنما
-- 巴拿马
-- Панама
+  - Panama
+  - Panamá
+  - بنما
+  - 巴拿马
+  - Панама
 - "the Republic of Panama"
 - "la República de Panamá"
 Languages:
-- es-PA
-- en
+  - es-PA
+  - en
 icon: flag-pa
 has_id_wikidata: Q804
 member_of:
@@ -97,7 +97,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of:
 - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
 - "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
@@ -138,52 +138,52 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q111452788,111452788]]'
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Panama,63286069]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 open_data_portal: "[[_Standards/WikiData/WD~Panama_Open_Data,97073910]]"
 nominal_GDP:
-- 67406738052
-- 76522511781
+  - 67406738052
+  - 76522511781
 head_of_state: "[[_Standards/WikiData/WD~José_Raúl_Mulino,108454869]]"
 different_from: '[[_Standards/WikiData/WD~Panama,124822168]]'
 demonym:
-- پانامي
-- پانامية
-- پاناميين
-- پاناميات
-- panamenc
-- panamenca
-- Panamach
-- panamense
-- panamensi
-- panamenso
-- Panamänan
-- بنميون
-- Panamanian
-- بنمي
-- بنمية
-- panamiega
-- panamiegu
-- পানামীয়
-- Panamanano
-- Panaméen
-- Panaméenne
-- פנמי
-- פנמית
-- panamai
-- Panamano
-- panamense
-- panamensi
-- panaman
-- panamiana
-- panamiano
-- panamenha
-- panamenho
-- panamense
-- panamez
-- panameză
-- panamezi
-- панамцы
-- panamensa
+  - پانامي
+  - پانامية
+  - پاناميين
+  - پاناميات
+  - panamenc
+  - panamenca
+  - Panamach
+  - panamense
+  - panamensi
+  - panamenso
+  - Panamänan
+  - بنميون
+  - Panamanian
+  - بنمي
+  - بنمية
+  - panamiega
+  - panamiegu
+  - পানামীয়
+  - Panamanano
+  - Panaméen
+  - Panaméenne
+  - פנמי
+  - פנמית
+  - panamai
+  - Panamano
+  - panamense
+  - panamensi
+  - panaman
+  - panamiana
+  - panamiano
+  - panamenha
+  - panamenho
+  - panamense
+  - panamez
+  - panameză
+  - panamezi
+  - панамцы
+  - panamensa
 ISNI: 0000000121869854
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Panama%20flag.png"
 MeSH_tree_code: Z01.107.169.772
@@ -220,39 +220,39 @@ marriageable_age: 18
 age_of_majority: 18
 water_as_percent_of_area: 2.9
 BTI_Governance_Index:
-- 5.7
-- 5.35
-- 5.42
-- 5.62
-- 5.65
-- 5.72
-- 5.78
-- 5.79
-- 5.91
+  - 5.7
+  - 5.35
+  - 5.42
+  - 5.62
+  - 5.65
+  - 5.72
+  - 5.78
+  - 5.79
+  - 5.91
 Inequality_adjusted_Human_Development_Index: 0.64
 BTI_Status_Index:
-- 7.1
-- 6.58
-- 6.94
-- 7.07
-- 7.11
-- 7.32
-- 7.39
-- 7.42
-- 7.49
+  - 7.1
+  - 6.58
+  - 6.94
+  - 7.07
+  - 7.11
+  - 7.32
+  - 7.39
+  - 7.42
+  - 7.49
 life_expectancy: 77
 birth_rate:
-- 17.4
-- 17.692
-- 17.919
-- 18.228
+  - 17.4
+  - 17.692
+  - 17.919
+  - 18.228
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.pa,41948]]'
 Gini_coefficient: 49.8
 death_rate:
-- 5.12
-- 5.747
-- 5.904
-- 6.067
+  - 5.12
+  - 5.747
+  - 5.904
+  - 6.067
 maritime_identification_digits:
 - 352
 - 354
@@ -285,36 +285,36 @@ ISO_3166_1_alpha_3_code: PAN
 IOC_country_code: PAN
 OmegaWiki_Defined_Meaning: 8082
 female_population:
-- 2114030
-- 2204170
-- 2145526
-- 2174744
+  - 2114030
+  - 2204170
+  - 2145526
+  - 2174744
 FIPS_10_4_countries_and_regions_: PM
 male_population:
-- 2148870
-- 2204410
-- 2118501
-- 2176523
+  - 2148870
+  - 2204410
+  - 2118501
+  - 2176523
 INSEE_countries_and_foreign_territories_code: 99413
 official_name:
-- Panamá
+  - Panamá
 - "la République du Panama"
 PM20_geo_code: E71
 ITU_letter_code: PNR
 area: 74177.3
 rural_population:
-- 1351913
-- 1356428
-- 1358683
-- 1360444
+  - 1351913
+  - 1356428
+  - 1358683
+  - 1360444
 CIVICUS_Monitor_country_entry: panama
 GitHub_topic: panama
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg"
 urban_population:
-- 2880619
-- 2937968
-- 2992584
-- 3048137
+  - 2880619
+  - 2937968
+  - 2992584
+  - 3048137
 population: 4098587
 U_S_National_Archives_Identifier: 10044642
 subreddit: Panama

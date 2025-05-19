@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12206
 has_part_s_:
 - "[[_Standards/WikiData/WD~type-1_diabetes,124407]]"
@@ -38,7 +38,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~polydipsia,635195]]'

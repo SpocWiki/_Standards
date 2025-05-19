@@ -183,45 +183,45 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Platform,97097198]]"
 demonym:
-- szaúd-arábiai
-- سعودي
-- سعودية
-- سعوديات
-- سواعدا
-- Saudijec
-- Saudec
-- Saudijka
-- Saudka
+  - szaúd-arábiai
+  - سعودي
+  - سعودية
+  - سعوديات
+  - سواعدا
+  - Saudijec
+  - Saudec
+  - Saudijka
+  - Saudka
 - "orang Arab Saudi"
-- سعودي
-- سعودية
-- سعوديون
-- saudita
-- সৌদি
+  - سعودي
+  - سعودية
+  - سعوديون
+  - saudita
+  - সৌদি
 - "সৌদি আরবীয়"
-- saudita
-- Saud-Arabiano
-- Saoudien
-- Saoudienne
-- סעודי
-- סעודית
-- Saudi-Arabiano
-- saudita
-- saudite
-- sauditi
-- saudi
-- saudit
-- saudită
-- saudiți
-- саудит
-- саудитка
-- саудиты
-- saudia
-- saudie
-- saudii
-- saudio
+  - saudita
+  - Saud-Arabiano
+  - Saoudien
+  - Saoudienne
+  - סעודי
+  - סעודית
+  - Saudi-Arabiano
+  - saudita
+  - saudite
+  - sauditi
+  - saudi
+  - saudit
+  - saudită
+  - saudiți
+  - саудит
+  - саудитка
+  - саудиты
+  - saudia
+  - saudie
+  - saudii
+  - saudio
 - "Saudi Arabian"
-- Saudi
+  - Saudi
 UMLS_CUI: C0036243
 described_at_URL: "http://68k.news/index.php?section=nation&loc=SA&lang=AR"
 ISNI: 000000040402371X
@@ -231,7 +231,7 @@ native_label:
 - "Arab Saudi"
 - "Saudi Arabia"
 - "المملكة العربية السعودية"
-- السعودية
+  - السعودية
 continent: '[[_Standards/WikiData/WD~Asia,48]]'
 shares_border_with:
 - '[[_Standards/WikiData/WD~Egypt,79]]'
@@ -245,18 +245,18 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Qatar,846]]'
 - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
 BTI_Status_Index:
-- 4
-- 4.26
-- 4.27
-- 4.31
-- 4.33
-- 4.35
-- 4.36
-- 4.39
-- 4.63
+  - 4
+  - 4.26
+  - 4.27
+  - 4.31
+  - 4.33
+  - 4.35
+  - 4.36
+  - 4.39
+  - 4.63
 VAT_rate:
-- 5
-- 15
+  - 5
+  - 15
 retirement_age: 60
 compulsory_education_minimum_age_: 6
 unemployment_rate: 11
@@ -264,19 +264,19 @@ compulsory_education_maximum_age_: 18
 age_of_majority: 18
 age_of_consent: 21
 mains_voltage:
-- 220
-- 230
+  - 220
+  - 230
 population: 33000000
 BTI_Governance_Index:
-- 3.8
-- 3.54
-- 3.64
-- 3.81
-- 3.82
-- 3.93
-- 3.94
-- 3.99
-- 4.02
+  - 3.8
+  - 3.54
+  - 3.64
+  - 3.81
+  - 3.82
+  - 3.93
+  - 3.94
+  - 3.99
+  - 4.02
 suicide_rate: 5.4
 Democracy_Index: 2.08
 area: 2250000
@@ -287,19 +287,19 @@ Human_Development_Index: 0.875
 mobile_country_code: 420
 median_income: 24980
 death_rate:
-- 2.656
-- 2.752
-- 2.864
-- 2.913
+  - 2.656
+  - 2.752
+  - 2.864
+  - 2.913
 total_fertility_rate: 2.765
 maritime_identification_digits: 403
 ISO_3166_1_numeric_code: 682
 M49_code: 682
 birth_rate:
-- 16.919
-- 17.473
-- 18.238
-- 18.451
+  - 16.919
+  - 17.473
+  - 18.238
+  - 18.451
 GS1_country_code: 628
 IAB_code: 1398
 motto_text:
@@ -330,7 +330,7 @@ MeSH_tree_code: Z01.252.245.500.750
 official_name:
 - "الْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُودِيَّة"
 - "المملكة العربية السعودية"
-- السعودية
+  - السعودية
 short_name: "\U0001F1F8\U0001F1E6"
 Dewey_Decimal_Classification: 2--538
 ISO_3166_1_alpha_2_code: SA
@@ -346,37 +346,37 @@ licence_plate_code: KSA
 IOC_country_code: KSA
 number_of_out_of_school_children: 372396
 rural_population:
-- 5709090
-- 5559991
-- 5569435
-- 5656225
+  - 5709090
+  - 5559991
+  - 5569435
+  - 5656225
 ITU_letter_code: ARS
 female_population:
-- 15184150
-- 14991273
-- 15110254
-- 15429586
+  - 15184150
+  - 14991273
+  - 15110254
+  - 15429586
 number_of_households: 4643151
 PM20_geo_code: B32
 U_S_National_Archives_Identifier: 10035778
 Commons_category: "Saudi Arabia"
 Commons_gallery: السعودية
 male_population:
-- 20766246
-- 20836089
-- 20886852
-- 20979233
+  - 20766246
+  - 20836089
+  - 20886852
+  - 20979233
 Unicode_character: 🇸🇦 
 coordinates_of_easternmost_point: "Point(55.66667 22.0)"
 coordinate_location: "Point(44.116667 23.716667)"
 urban_population:
-- 30118272
-- 30340882
-- 30380961
-- 30848829
+  - 30118272
+  - 30340882
+  - 30380961
+  - 30848829
 nominal_GDP:
-- 868585871465
-- 1108148978218
+  - 868585871465
+  - 1108148978218
 coordinates_of_southernmost_point: "Point(42.26979 16.40961)"
 name_in_native_language: "المملكة العربية السعودية"
 CIVICUS_Monitor_country_entry: saudi-arabia
@@ -392,11 +392,11 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/saudi_arabia"
 official_website: "http://www.saudi.gov.sa"
 has_id_wikidata: Q851
 location:
-- 23.05
-- 43.27
+    - 23.05
+    - 43.27
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27009
 isDeleted: false
 confidential: public
@@ -417,13 +417,13 @@ aliases:
 - "Arabia Saudita"
 - "Arabie saoudite"
 - "المملكة العربية السعودية"
-- 沙特阿拉伯
+    - 沙特阿拉伯
 - "Саудовская Аравия"
 - "the Kingdom of Saudi Arabia"
 - "el Reino de la Arabia Saudita"
 - "Arabia Saudita (la)"
 Languages:
-- ar-SA
+    - ar-SA
 icon: flag-sa
 ---
 

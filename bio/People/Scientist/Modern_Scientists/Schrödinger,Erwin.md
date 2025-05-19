@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Erwin Schrödinger"
 - "Erwin Schrodinger"
@@ -49,7 +49,7 @@ award_received:
 - "[[_Standards/WikiData/WD~Prize_of_the_City_of_Vienna_for_Natural_Sciences,1804550]]"
 - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
 - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
-- "[[_Standards/WikiData/WD~Prix_Paul_Doistau-Émile_Blutet_de_l’Information_Scientifique,15148547]]"
+- "[[_Standards/WikiData/WD~Prix_Paul_Doistau-Émile_Blutet_de_l_Information_Scientifique,15148547]]"
 - "[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]"
 - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
 notable_work:
@@ -69,7 +69,7 @@ place_of_burial: '[[_Standards/WikiData/WD~Alpbach,671394]]'
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
 - "[[_Standards/WikiData/WD~Memorial_Book_for_the_Victims_of_National_Socialism_at_the_Austrian_Academy_of_Sciences,105047190]]"

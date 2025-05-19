@@ -1,4 +1,4 @@
-﻿---
+---
 type: Continent
 confidential: public
 isDeleted: false
@@ -35,7 +35,7 @@ located_in_time_zone:
 - "[[_Standards/WikiData/WD~Newfoundland_Standard_time,2420151]]"
 - "[[_Standards/WikiData/WD~Mountain_Time_Zone,3134980]]"
 - "[[_Standards/WikiData/WD~Alaska_Time_Zone,3238805]]"
-- "[[_Standards/WikiData/WD~Hawaii–Aleutian_Time_Zone,3241537]]"
+- "[[_Standards/WikiData/WD~Hawaii_Aleutian_Time_Zone,3241537]]"
 instance_of:
 - '[[_Standards/WikiData/WD~subcontinent,855697]]'
 - '[[_Standards/WikiData/WD~continent,5107]]'

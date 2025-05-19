@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7347
 outflows: "[[_Standards/WikiData/WD~St._Lawrence_River,134750]]"
 described_by_source:
@@ -11,7 +11,7 @@ different_from:
 - "[[_Standards/WikiData/WD~Great_Lakes_Megalopolis,967322]]"
 - '[[_Standards/WikiData/WD~Q3278280,3278280]]'
 has_part_s_:
-- "[[_Standards/WikiData/WD~Lake_Michigan–Huron,1377732]]"
+- "[[_Standards/WikiData/WD~Lake_Michigan_Huron,1377732]]"
 - "[[_Standards/WikiData/WD~Lake_Ontario,1062]]"
 - "[[_Standards/WikiData/WD~Lake_Superior,1066]]"
 - "[[_Standards/WikiData/WD~Lake_Erie,5492]]"

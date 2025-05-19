@@ -1,17 +1,17 @@
 ---
 location:
-- -4.26667
-- 15.2833
+  - -4.26667
+  - 15.2833
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q971
 SpocWebEntityId: 26864
 isDeleted: false
 confidential: public
 aliases:
 - "Republic of the Congo"
-- Congo-Brazzaville
+  - Congo-Brazzaville
 - "Congo Republic"
 member_of:
 - "[[_Standards/WikiData/WD~African_Union,7159]]"
@@ -115,27 +115,27 @@ language_used:
 - "[[_Standards/WikiData/WD~Kituba_(Congo),12953639]]"
 - '[[_Standards/WikiData/WD~Teke-Tsaayi,33123613]]'
 BTI_Governance_Index:
-- 3
-- 2.93
-- 3.43
-- 3.49
-- 3.69
-- 3.77
+  - 3
+  - 2.93
+  - 3.43
+  - 3.49
+  - 3.69
+  - 3.77
 VAT_rate: 16
 marriageable_age:
-- 18
-- 21
+  - 18
+  - 21
 age_of_majority: 18
 mains_voltage: 230
 BTI_Status_Index:
-- 3.6
-- 3.32
-- 3.36
-- 3.38
-- 3.58
-- 3.62
-- 3.73
-- 3.78
+  - 3.6
+  - 3.32
+  - 3.36
+  - 3.38
+  - 3.58
+  - 3.62
+  - 3.73
+  - 3.78
 suicide_rate: 5.9
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.cg,39906]]'
 Democracy_Index: 3.11
@@ -148,31 +148,31 @@ Human_Development_Index: 0.571
 head_of_state: "[[_Standards/WikiData/WD~Denis_Sassou-Nguesso,57418]]"
 total_fertility_rate: 4.869
 death_rate:
-- 6.923
-- 7.063
-- 7.275
-- 7.388
+  - 6.923
+  - 7.063
+  - 7.275
+  - 7.388
 maritime_identification_digits: 615
 ISO_3166_1_numeric_code: 178
 M49_code: 178
 male_population:
-- 2981800
-- 2781753
-- 2847552
-- 2914434
+  - 2981800
+  - 2781753
+  - 2847552
+  - 2914434
 birth_rate:
-- 30.175
-- 30.691
-- 31.155
-- 31.676
+  - 30.175
+  - 30.691
+  - 31.155
+  - 31.676
 ISO_3166_1_alpha_3_code: COG
 life_expectancy: 64.625
 INSEE_countries_and_foreign_territories_code: 99324
 urban_population:
-- 3753170
-- 3867728
-- 3984863
-- 4103831
+  - 3753170
+  - 3867728
+  - 3984863
+  - 4103831
 FIPS_10_4_countries_and_regions_: CF
 PM20_geo_code: C77
 population: 6142180
@@ -188,16 +188,16 @@ official_name:
 - "Repubilika ya Kongo"
 - "Republíki ya Kongó"
 rural_population:
-- 1817563
-- 1834446
-- 1850943
-- 1866593
+  - 1817563
+  - 1834446
+  - 1850943
+  - 1866593
 OmegaWiki_Defined_Meaning: 154138
 female_population:
-- 2788979
-- 2854622
-- 2921372
-- 2988624
+  - 2788979
+  - 2854622
+  - 2921372
+  - 2988624
 inception: "1960"
 has_time_started: 1960-06 
 motto_text:
@@ -207,24 +207,24 @@ motto_text:
 - "Undeb, Gwaith, Datblygiad"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20Republic%20of%20the%20Congo.svg"
 demonym:
-- Congolese
-- Congolais
-- Congolaise
-- congolés
-- קונגולזי
-- קונגולזית
-- congołeze
-- congołezi
-- congolesa
-- কঙ্গোলীয়
-- Respublikkongano
-- kongói
+  - Congolese
+  - Congolais
+  - Congolaise
+  - congolés
+  - קונגולזי
+  - קונגולזית
+  - congołeze
+  - congołezi
+  - congolesa
+  - কঙ্গোলীয়
+  - Respublikkongano
+  - kongói
 - "congolese (Repubblica del Congo)"
 - "congolesi (Repubblica del Congo)"
-- congolez
-- congoleză
-- congolezi
-- Congólach
+  - congolez
+  - congoleză
+  - congolezi
+  - Congólach
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg"
 coordinate_location: "Point(15.383330555 -0.75)"
 coordinates_of_northernmost_point: "Point(17.48 3.7)"
@@ -235,8 +235,8 @@ native_label:
 Unicode_character: 🇨🇬 
 U_S_National_Archives_Identifier: 10035680
 nominal_GDP:
-- 13366230821
-- 14615532210
+  - 13366230821
+  - 14615532210
 contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Cuvette-Ouest_Department,125711]]"
 - '[[_Standards/WikiData/WD~Pointe-Noire,223920]]'
@@ -298,7 +298,7 @@ official_website: "https://gouvernement.cg/"
 country_calling_code: +242
 GitHub_topic: republic-of-the-congo
 subreddit:
-- RepublicofCongo
+  - RepublicofCongo
 CIVICUS_Monitor_country_entry: republicofthecongo
 hashtag: RepublicoftheCongo
 IPA_transcription: "rɛpʉ'blɪkən 'kɔŋgu"

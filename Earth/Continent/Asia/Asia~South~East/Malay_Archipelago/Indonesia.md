@@ -116,7 +116,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
 - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
@@ -184,12 +184,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Kangeanic,2071325]]'
 - '[[_Standards/WikiData/WD~Mor,2122792]]'
 - "[[_Standards/WikiData/WD~Dusun_Witu,2190327]]"
-- "[[_Standards/WikiData/WD~Palu'e,2196866]]"
+  - "[[_Standards/WikiData/WD~Palu'e,2196866]]"
 - '[[_Standards/WikiData/WD~Meax,2262353]]'
-- "[[_Standards/WikiData/WD~Ma'ya,2291492]]"
+  - "[[_Standards/WikiData/WD~Ma'ya,2291492]]"
 - '[[_Standards/WikiData/WD~Nage,2295569]]'
 - '[[_Standards/WikiData/WD~Hawu,2319877]]'
-- "[[_Standards/WikiData/WD~Ma'anyan,2328761]]"
+  - "[[_Standards/WikiData/WD~Ma'anyan,2328761]]"
 - '[[_Standards/WikiData/WD~Tause,2356440]]'
 - '[[_Standards/WikiData/WD~Wanukaka,2370136]]'
 - "[[_Standards/WikiData/WD~Dusun_Witu,2381310]]"
@@ -233,7 +233,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tolaki,3033597]]'
 - "[[_Standards/WikiData/WD~Ot_Danum,3033781]]"
 - '[[_Standards/WikiData/WD~Mairasi,3038645]]'
-- '[[_Standards/WikiData/WD~Duano’,3040468]]'
+- '[[_Standards/WikiData/WD~Duano_,3040468]]'
 - "[[_Standards/WikiData/WD~Dusun_Malang,3041711]]"
 - '[[_Standards/WikiData/WD~Kambera,3053279]]'
 - '[[_Standards/WikiData/WD~Rejang,3056339]]'
@@ -251,7 +251,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Hukumina,3142988]]'
 - '[[_Standards/WikiData/WD~Sumbawa,3182585]]'
 - '[[_Standards/WikiData/WD~Kao,3192799]]'
-- "[[_Standards/WikiData/WD~Ke'o,3195346]]"
+  - "[[_Standards/WikiData/WD~Ke'o,3195346]]"
 - '[[_Standards/WikiData/WD~Kerinci,3195442]]'
 - '[[_Standards/WikiData/WD~Kisar,3197441]]'
 - '[[_Standards/WikiData/WD~Kodeoha,3198209]]'
@@ -287,7 +287,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Bakumpai,3436626]]'
 - '[[_Standards/WikiData/WD~Aghu,3436645]]'
 - '[[_Standards/WikiData/WD~Sentani,3441672]]'
-- '[[_Standards/WikiData/WD~Bakati’,3441683]]'
+- '[[_Standards/WikiData/WD~Bakati_,3441683]]'
 - '[[_Standards/WikiData/WD~Banggainese,3441692]]'
 - "[[_Standards/WikiData/WD~Uab_Meto,3441962]]"
 - '[[_Standards/WikiData/WD~Awbono,3446684]]'
@@ -299,9 +299,9 @@ language_used:
 - "[[_Standards/WikiData/WD~West_Damar,3450459]]"
 - '[[_Standards/WikiData/WD~Bolango,3450578]]'
 - '[[_Standards/WikiData/WD~Saweru,3474649]]'
-- "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
+  - "[[_Standards/WikiData/WD~Sa'ban,3474891]]"
 - '[[_Standards/WikiData/WD~Siang,3482903]]'
-- '[[_Standards/WikiData/WD~Ulumanda’,3501892]]'
+- '[[_Standards/WikiData/WD~Ulumanda_,3501892]]'
 - '[[_Standards/WikiData/WD~Barakai,3502030]]'
 - '[[_Standards/WikiData/WD~Bahau,3502039]]'
 - '[[_Standards/WikiData/WD~Kapori,3502575]]'
@@ -471,7 +471,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kemtuik,6387179]]'
 - '[[_Standards/WikiData/WD~Kanayatn,6388963]]'
 - '[[_Standards/WikiData/WD~Keninjal,6389309]]'
-- "[[_Standards/WikiData/WD~Kepo',6393217]]"
+  - "[[_Standards/WikiData/WD~Kepo',6393217]]"
 - '[[_Standards/WikiData/WD~Kimki,6410160]]'
 - '[[_Standards/WikiData/WD~Kirikiri,6415159]]'
 - '[[_Standards/WikiData/WD~Koba,6424249]]'
@@ -552,7 +552,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Muna,6935584]]'
 - '[[_Standards/WikiData/WD~Munggui,6936018]]'
 - '[[_Standards/WikiData/WD~Nafri,6958211]]'
-- "[[_Standards/WikiData/WD~Naka'ela,6960073]]"
+  - "[[_Standards/WikiData/WD~Naka'ela,6960073]]"
 - '[[_Standards/WikiData/WD~Nalca,6960839]]'
 - '[[_Standards/WikiData/WD~Nasal,6966574]]'
 - '[[_Standards/WikiData/WD~Ndom,6983791]]'
@@ -617,7 +617,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sikaritai,7513600]]'
 - "[[_Standards/WikiData/WD~South_Lembata,7567815]]"
 - '[[_Standards/WikiData/WD~Sowanda,7571845]]'
-- '[[_Standards/WikiData/WD~So’a,7572120]]'
+- '[[_Standards/WikiData/WD~So_a,7572120]]'
 - '[[_Standards/WikiData/WD~Suabo,7630429]]'
 - '[[_Standards/WikiData/WD~Suwawa,7650588]]'
 - '[[_Standards/WikiData/WD~Tabla,7673105]]'
@@ -626,17 +626,17 @@ language_used:
 - '[[_Standards/WikiData/WD~Tajio,7676870]]'
 - '[[_Standards/WikiData/WD~Talaud,7678964]]'
 - '[[_Standards/WikiData/WD~Kadai,7679471]]'
-- '[[_Standards/WikiData/WD~Talondo’,7680293]]'
+- '[[_Standards/WikiData/WD~Talondo_,7680293]]'
 - '[[_Standards/WikiData/WD~Tamagario,7680531]]'
 - '[[_Standards/WikiData/WD~Taman,7680671]]'
 - '[[_Standards/WikiData/WD~Tandia,7682454]]'
 - '[[_Standards/WikiData/WD~Tangko,7682993]]'
 - '[[_Standards/WikiData/WD~Taworta,7689337]]'
-- "[[_Standards/WikiData/WD~Te'un,7690709]]"
+  - "[[_Standards/WikiData/WD~Te'un,7690709]]"
 - '[[_Standards/WikiData/WD~Tebi,7692059]]'
 - '[[_Standards/WikiData/WD~Tefaro,7694618]]'
 - '[[_Standards/WikiData/WD~Tehit,7694851]]'
-- '[[_Standards/WikiData/WD~Tela’a,7695666]]'
+- '[[_Standards/WikiData/WD~Tela_a,7695666]]'
 - '[[_Standards/WikiData/WD~Termanu,7702572]]'
 - '[[_Standards/WikiData/WD~Tii,7801784]]'
 - '[[_Standards/WikiData/WD~Tobati,7811556]]'
@@ -649,7 +649,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Tsaukambo,7849438]]'
 - '[[_Standards/WikiData/WD~Tulehu,7852006]]'
 - '[[_Standards/WikiData/WD~Uma,7881036]]'
-- "[[_Standards/WikiData/WD~Uma’_Lasan,7881227]]"
+- "[[_Standards/WikiData/WD~Uma__Lasan,7881227]]"
 - '[[_Standards/WikiData/WD~Uruangnirin,7901389]]'
 - '[[_Standards/WikiData/WD~Viid,7929052]]'
 - '[[_Standards/WikiData/WD~Vitou,7937210]]'
@@ -696,7 +696,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Semimi,10950308]]'
 - '[[_Standards/WikiData/WD~Ketengban,10990152]]'
 - '[[_Standards/WikiData/WD~Kehu,10994953]]'
-- '[[_Standards/WikiData/WD~Nyadu’,11173588]]'
+- '[[_Standards/WikiData/WD~Nyadu_,11173588]]'
 - '[[_Standards/WikiData/WD~Anasi,11207813]]'
 - "[[_Standards/WikiData/WD~Asue_Awyu,11266334]]"
 - '[[_Standards/WikiData/WD~Moskona,11288953]]'
@@ -736,12 +736,12 @@ language_used:
 - '[[_Standards/WikiData/WD~Rongga,12473464]]'
 - '[[_Standards/WikiData/WD~Seberuang,12473470]]'
 - '[[_Standards/WikiData/WD~Tengger,12473479]]'
-- '[[_Standards/WikiData/WD~Tae’,12473476]]'
+- '[[_Standards/WikiData/WD~Tae_,12473476]]'
 - '[[_Standards/WikiData/WD~Wotu,12473488]]'
 - "[[_Standards/WikiData/WD~Riau_Malay,12497930]]"
 - "[[_Standards/WikiData/WD~Central_Awyu,12628801]]"
 - "[[_Standards/WikiData/WD~Edera_Awyu,12630425]]"
-- "[[_Standards/WikiData/WD~Ili'uun,12632888]]"
+  - "[[_Standards/WikiData/WD~Ili'uun,12632888]]"
 - "[[_Standards/WikiData/WD~South_Awyu,12633986]]"
 - '[[_Standards/WikiData/WD~Kemberano,12634399]]'
 - '[[_Standards/WikiData/WD~Kur,12635082]]'
@@ -863,7 +863,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Ledo_Kaili,35877]]"
 - '[[_Standards/WikiData/WD~Mandar,35995]]'
 - '[[_Standards/WikiData/WD~Madurese,36213]]'
-- '[[_Standards/WikiData/WD~Toraja-Sa’dan,36673]]'
+- '[[_Standards/WikiData/WD~Toraja-Sa_dan,36673]]'
 - "[[_Standards/WikiData/WD~Lampung_Api,49215]]"
 - '[[_Standards/WikiData/WD~Komering,49224]]'
 - '[[_Standards/WikiData/WD~Bauzi,56360]]'
@@ -963,7 +963,7 @@ main_regulatory_text:
 - "[[_Standards/WikiData/WD~Law_of_the_Republic_of_Indonesia,19752986]]"
 - "[[_Standards/WikiData/WD~Constitution_of_Indonesia,49373]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
 executive_body: "[[_Standards/WikiData/WD~Government_of_Indonesia,20716634]]"
 permanent_duplicated_item:
@@ -973,71 +973,71 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: "[[_Standards/WikiData/WD~Indonesian_Data_in_One_Portal,97277078]]"
 demonym:
 - "orang Indonesia"
-- Indonezijec
-- Indonezijka
-- أندونيسي
-- أندونيسية
-- أندونيسيين
-- أندونيسيات
+  - Indonezijec
+  - Indonezijka
+  - أندونيسي
+  - أندونيسية
+  - أندونيسيين
+  - أندونيسيات
 - "orang Indonesia"
-- Indinéiseach
-- индонезийка
-- индонезийцы
-- indonezian
-- indoneziana
-- indoneziane
-- indoneziani
-- إندونيسي
-- إندونيسية
-- إندونيسيون
-- indonesia
-- indonesiu
-- ইন্দোনেশীয়
-- indoneser
-- Indonesier
-- Indonesierin
-- Indonesian
-- indoneziano
-- Indoneziano
-- indonésien
-- Indonésien
-- Indonésienne
-- אינדונזי
-- אינדונזית
-- indonéz
-- Indoneziano
-- indonesiana
-- indonesiane
-- indonesiani
-- indonesiano
-- indonesian
-- indonezian
-- indoneziană
-- indonezieni
-- индонезиец
+  - Indinéiseach
+  - индонезийка
+  - индонезийцы
+  - indonezian
+  - indoneziana
+  - indoneziane
+  - indoneziani
+  - إندونيسي
+  - إندونيسية
+  - إندونيسيون
+  - indonesia
+  - indonesiu
+  - ইন্দোনেশীয়
+  - indoneser
+  - Indonesier
+  - Indonesierin
+  - Indonesian
+  - indoneziano
+  - Indoneziano
+  - indonésien
+  - Indonésien
+  - Indonésienne
+  - אינדונזי
+  - אינדונזית
+  - indonéz
+  - Indoneziano
+  - indonesiana
+  - indonesiane
+  - indonesiani
+  - indonesiano
+  - indonesian
+  - indonezian
+  - indoneziană
+  - indonezieni
+  - индонезиец
 native_label:
 - "Unitary State of the Republic of Indonesia"
 - "Negara Kesatuan Republik Indonesia"
-- Indonesia
+  - Indonesia
 - "Republic of Indonesia"
-- Indonesia
+  - Indonesia
 - "Negara Kesatuan Republik Indonesia"
 - "Republik Indonesia"
-- Indonesia
+  - Indonesia
 - "Republik Indonesia"
 described_at_URL: "http://68k.news/index.php?section=nation&loc=ID&lang=ID"
 ISNI: 0000000403921382
 MeSH_tree_code:
-- Z01.252.145.380
-- Z01.639.580
+  - Z01.252.145.380
+  - Z01.639.580
 rural_population:
-- 115892393
-- 116919988
-- 117874897
-- 118656904
+  - 115892393
+  - 116919988
+  - 117874897
+  - 118656904
 nominal_GDP:
-- 1186505455721
-- 1319100220389
+  - 1186505455721
+  - 1319100220389
 coordinates_of_easternmost_point: "Point(141.01955295 -9.12690641)"
 coordinates_of_westernmost_point: "Point(95.01106918 5.72395034)"
 female_population: 133542018
@@ -1073,24 +1073,24 @@ unemployment_rate: 6
 compulsory_education_minimum_age_: 6
 compulsory_education_maximum_age_: 15
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 21
 mains_voltage:
-- 230
-- 127
+  - 230
+  - 127
 suicide_rate: 2.6
 retirement_age: 58
 BTI_Governance_Index:
-- 5.8
-- 4.84
-- 5.17
-- 5.27
-- 5.39
-- 5.45
-- 5.58
-- 5.77
-- 5.87
+  - 5.8
+  - 4.84
+  - 5.17
+  - 5.27
+  - 5.39
+  - 5.45
+  - 5.58
+  - 5.77
+  - 5.87
 total_fertility_rate: 2.04
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.id,41102]]'
 currency: '[[_Standards/WikiData/WD~rupiah,41588]]'
@@ -1104,29 +1104,29 @@ ISO_3166_1_alpha_2_code: ID
 FIPS_10_4_countries_and_regions_: ID
 Inequality_adjusted_Human_Development_Index: 0.585
 BTI_Status_Index:
-- 6.04
-- 6.14
-- 6.17
-- 6.25
-- 6.28
-- 6.39
-- 6.47
-- 6.53
-- 6.67
+  - 6.04
+  - 6.14
+  - 6.17
+  - 6.25
+  - 6.28
+  - 6.39
+  - 6.47
+  - 6.53
+  - 6.67
 Democracy_Index: 6.71
 Human_Development_Index: 0.705
 named_after: "[[_Standards/WikiData/WD~Indian_subcontinent,60140]]"
 literacy_rate: 95.7
 death_rate:
-- 9.59
-- 7.539
-- 8.964
-- 10.065
+  - 9.59
+  - 7.539
+  - 8.964
+  - 10.065
 birth_rate:
-- 16.91
-- 16.196
-- 16.425
-- 16.649
+  - 16.91
+  - 16.196
+  - 16.425
+  - 16.649
 ISO_3166_1_numeric_code: 360
 M49_code: 360
 mobile_country_code: 510
@@ -1163,18 +1163,18 @@ motto_text:
 - "Yr Hyfryd Indonesia"
 - "Wonderful Indonesia"
 short_name:
-- 印尼
-- 印尼
+  - 印尼
+  - 印尼
 - "\U0001F1EE\U0001F1E9"
-- Éng-nà̤
-- 印尼
-- 인니
-- Ìn-nî
+  - Éng-nà̤
+  - 印尼
+  - 인니
+  - Ìn-nî
 urban_population:
-- 150925974
-- 153983073
-- 156833203
-- 159608946
+  - 150925974
+  - 153983073
+  - 156833203
+  - 159608946
 inception: "1945-08-17"
 has_time_started: "1945-08-17"
 coordinates_of_northernmost_point: "Point(95.22 5.9)"
@@ -1188,21 +1188,21 @@ subreddit: indonesia
 Colon_Classification: SG--436
 Krugosvet_article: strany_mira/INDONEZIYA.html
 official_name:
-- إندونيسيا
+  - إندونيسيا
 - "جمهورية إندونيسيا"
 - "République d’Indonésie"
-- Indonesia
+  - Indonesia
 - "Republik Indonesia"
-- Indonésia
-- Indonesia
+  - Indonésia
+  - Indonesia
 - "Republik Indonesia"
 has_id_wikidata: Q252
 location:
-- -6.695
-- 109.755
+    - -6.695
+    - 109.755
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26922
 isDeleted: false
 confidential: public
@@ -1219,18 +1219,18 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Indonesia
-- Indonésie
-- إندونيسيا
-- 印度尼西亚
-- Индонезия
+    - Indonesia
+    - Indonésie
+    - إندونيسيا
+    - 印度尼西亚
+    - Индонезия
 - "the Republic of Indonesia"
 - "la República de Indonesia"
 Languages:
-- id
-- en
-- nl
-- jv
+    - id
+    - en
+    - nl
+    - jv
 icon: flag-id
 ---
 

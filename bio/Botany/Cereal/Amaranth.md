@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q156344
 taxon_common_name:
 - ヒユ属
@@ -30,8 +30,8 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
 - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(2),112869403]]"
 different_from: "[[_Standards/WikiData/WD~Szarłat,_Masovian_Voivodeship,770638]]"

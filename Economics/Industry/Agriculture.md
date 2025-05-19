@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11451
 U_S_National_Archives_Identifier: 10640158
 Iconclass_notation: 47I1
@@ -47,7 +47,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_agriculture,952080]]"
 follows: '[[_Standards/WikiData/WD~gathering,2991771]]'

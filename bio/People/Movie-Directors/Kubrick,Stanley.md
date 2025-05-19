@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Stanley Kubrick"
 has_id_wikidata: Q2001
@@ -68,7 +68,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 member_of: "[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459]]"
 filmography: "[[_Standards/WikiData/WD~filmography_and_awards_of_Stanley_Kubrick,17065472]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 family_name: '[[_Standards/WikiData/WD~Kubrick,18375239]]'
 copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"

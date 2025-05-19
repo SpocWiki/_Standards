@@ -1,10 +1,10 @@
 ---
 location:
-- -20.7333
-- -45.9467
+  - -20.7333
+  - -45.9467
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q155
 SpocWebEntityId: 26853
 isDeleted: false
@@ -22,20 +22,20 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Brazil
-- Brasil
-- Brésil
-- البرازيل
-- 巴西
-- Бразилия
+  - Brazil
+  - Brasil
+  - Brésil
+  - البرازيل
+  - 巴西
+  - Бразилия
 - "the Federative Republic of Brazil"
 - "la República Federativa del Brasil"
 - "Brasil (el)"
 Languages:
-- pt-BR
-- es
-- en
-- fr
+  - pt-BR
+  - es
+  - en
+  - fr
 icon: flag-br
 flag: "[[_Standards/WikiData/WD~flag_of_Brazil,82194]]"
 contains_the_administrative_territorial_entity:
@@ -101,7 +101,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Summit_of_South_American-Arab_Countries,2836400]]"
 - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
 - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-- "[[_Standards/WikiData/WD~Forum_of_East_Asia–Latin_America_Cooperation,17076232]]"
+- "[[_Standards/WikiData/WD~Forum_of_East_Asia_Latin_America_Cooperation,17076232]]"
 - "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
 - '[[_Standards/WikiData/WD~Mercosur,4264]]'
@@ -248,7 +248,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Matsés,2981620]]'
 - '[[_Standards/WikiData/WD~Cubeo,3006705]]'
 - '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
-- '[[_Standards/WikiData/WD~Wari’,3027909]]'
+- '[[_Standards/WikiData/WD~Wari_,3027909]]'
 - '[[_Standards/WikiData/WD~Xokleng,3027930]]'
 - '[[_Standards/WikiData/WD~Guató,3027940]]'
 - '[[_Standards/WikiData/WD~Maxakalí,3029682]]'
@@ -257,7 +257,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Xerénte,3073436]]'
 - '[[_Standards/WikiData/WD~Xakriabá,3073441]]'
 - '[[_Standards/WikiData/WD~Palikúr,3073448]]'
-- "[[_Standards/WikiData/WD~Ye'kuana,3082027]]"
+  - "[[_Standards/WikiData/WD~Ye'kuana,3082027]]"
 - '[[_Standards/WikiData/WD~Mẽbêngôkre,3101212]]'
 - '[[_Standards/WikiData/WD~Kaiwá,3111883]]'
 - '[[_Standards/WikiData/WD~Karitiâna,3112184]]'
@@ -311,7 +311,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Sabanês,3460478]]'
 - '[[_Standards/WikiData/WD~Siriano,3485264]]'
 - '[[_Standards/WikiData/WD~Mehinaku,3501838]]'
-- "[[_Standards/WikiData/WD~Ucayali–Yurúa_Ashéninka,3501858]]"
+- "[[_Standards/WikiData/WD~Ucayali_Yurúa_Ashéninka,3501858]]"
 - '[[_Standards/WikiData/WD~Paresí,3504312]]'
 - '[[_Standards/WikiData/WD~Suyá,3505859]]'
 - '[[_Standards/WikiData/WD~Anambé,3507873]]'
@@ -379,7 +379,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Wayampi,7975842]]'
 - "[[_Standards/WikiData/WD~Xingú_Asuriní,8044571]]"
 - '[[_Standards/WikiData/WD~Yanomamö,8048928]]'
-- "[[_Standards/WikiData/WD~Zo'é,8073148]]"
+  - "[[_Standards/WikiData/WD~Zo'é,8073148]]"
 - '[[_Standards/WikiData/WD~Kambiwá,9006744]]'
 - '[[_Standards/WikiData/WD~Xukuru,9096758]]'
 - '[[_Standards/WikiData/WD~Ikpeng,9344891]]'
@@ -521,10 +521,10 @@ shares_border_with:
 capital: '[[_Standards/WikiData/WD~Brasília,2844]]'
 official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-- '[[_Standards/WikiData/WD~UTC−03_00,6513]]'
-- '[[_Standards/WikiData/WD~UTC−02_00,6536]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~UTC_02_00,6536]]'
 minimum_temperature_record: -14
 continent: "[[_Standards/WikiData/WD~South_America,18]]"
 lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
@@ -534,8 +534,8 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Botafogo%20bann
 locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/BRA%20orthographic.svg"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21286972,21286972]]'
 nominal_GDP:
-- 1649622972159
-- 1920095560995
+  - 1649622972159
+  - 1920095560995
 coordinates_of_westernmost_point: "Point(-73.98274899 -7.53472218)"
 coordinates_of_southernmost_point: "Point(-53.390277777 -33.75)"
 UMLS_CUI: C0006137
@@ -543,68 +543,68 @@ Mastodon_instance_URL:
 - "https://mastodon.com.br"
 - "https://masto.donte.com.br"
 demonym:
-- بريزيلي
-- بريزيلية
-- بريزيليين
-- بريزيليات
-- Brazilec
-- Brazilka
-- Brasaíleach
-- برازيلي
-- برازيلية
-- برازيليون
-- brasilana
-- brasilanu
-- ব্রাজিলীয়
-- brasilianer
-- Brasilianer
-- Brasilianerin
-- Brazilian
-- Brazilians
-- brazilano
-- brasileña
-- brasileño
-- Brésilien
-- Brésilienne
-- ברזילאי
-- ברזילאים
-- ברזילאית
-- brazil
-- Braziliano
-- brasiliana
-- brasiliane
-- brasiliani
-- brasiliano
-- Brasilianer
-- Brasilianerin
-- brasilera
-- brasileira
-- brasileiro
-- brazilian
-- braziliancă
-- brazilieni
-- бразилец
-- бразильцы
-- бразильянка
-- бразилець
-- бразилійка
-- бразильці
-- brazilian
-- braziliana
-- braziliane
-- braziliani
-- Brasilänan
+  - بريزيلي
+  - بريزيلية
+  - بريزيليين
+  - بريزيليات
+  - Brazilec
+  - Brazilka
+  - Brasaíleach
+  - برازيلي
+  - برازيلية
+  - برازيليون
+  - brasilana
+  - brasilanu
+  - ব্রাজিলীয়
+  - brasilianer
+  - Brasilianer
+  - Brasilianerin
+  - Brazilian
+  - Brazilians
+  - brazilano
+  - brasileña
+  - brasileño
+  - Brésilien
+  - Brésilienne
+  - ברזילאי
+  - ברזילאים
+  - ברזילאית
+  - brazil
+  - Braziliano
+  - brasiliana
+  - brasiliane
+  - brasiliani
+  - brasiliano
+  - Brasilianer
+  - Brasilianerin
+  - brasilera
+  - brasileira
+  - brasileiro
+  - brazilian
+  - braziliancă
+  - brazilieni
+  - бразилец
+  - бразильцы
+  - бразильянка
+  - бразилець
+  - бразилійка
+  - бразильці
+  - brazilian
+  - braziliana
+  - braziliane
+  - braziliani
+  - Brasilänan
 ISNI: 0000000121766679
 male_population:
-- 104119798
-- 104779288
-- 105291292
-- 105733027
+  - 104119798
+  - 104779288
+  - 105291292
+  - 105733027
 female_population:
-- 108417015
-- 109034931
-- 109580471
-- 107663080
+  - 108417015
+  - 109034931
+  - 109580471
+  - 107663080
 coordinate_location: "Point(-53.0 -14.0)"
 coordinates_of_northernmost_point: "Point(-60.204166666 5.27)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cidade%20Maravilhosa.jpg"
@@ -617,33 +617,33 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Pt-br-B
 external_data_available_at_URL: "http://dados.gov.br"
 compulsory_education_maximum_age_: 14
 marriageable_age:
-- 16
-- 18
+  - 16
+  - 18
 age_of_majority: 18
 mains_voltage:
-- 220
-- 127
+  - 220
+  - 127
 suicide_rate: 6.4
 BTI_Governance_Index:
-- 6.7
-- 4.42
-- 5.58
-- 5.95
-- 6.76
-- 6.88
-- 7.18
-- 7.27
-- 7.32
+  - 6.7
+  - 4.42
+  - 5.58
+  - 5.95
+  - 6.76
+  - 6.88
+  - 7.18
+  - 7.27
+  - 7.32
 BTI_Status_Index:
-- 7.6
-- 7.9
-- 6.83
-- 7.15
-- 7.29
-- 7.84
-- 8.02
-- 8.05
-- 8.06
+  - 7.6
+  - 7.9
+  - 6.83
+  - 7.15
+  - 7.29
+  - 7.84
+  - 8.02
+  - 8.05
+  - 8.06
 head_of_state: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
 head_of_government: "[[_Standards/WikiData/WD~Luiz_Inácio_Lula_da_Silva,37181]]"
 total_fertility_rate: 1.74
@@ -689,11 +689,11 @@ Wolfram_Language_entity_code:
 Happy_Planet_Index_score: 54.6
 X_Twitter_username: govbrazil
 aircraft_registration_prefix:
-- PT
-- PR
-- PU
-- PS
-- PP
+  - PT
+  - PR
+  - PU
+  - PS
+  - PP
 Colon_Classification: SG--7918
 Krugosvet_article: strany_mira/BRAZILIYA.html
 Inequality_adjusted_Human_Development_Index: 0.576
@@ -704,7 +704,7 @@ Human_Development_Index: 0.754
 official_name: "República Federativa do Brasil"
 native_label: "República Federativa do Brasil"
 short_name:
-- BRA
+  - BRA
 - "\U0001F1E7\U0001F1F7"
 minimum_wage: 1518
 death_rate: 8.139
@@ -712,22 +712,22 @@ literacy_rate: 93.22
 birth_rate: 12.649
 life_expectancy: 75.723
 social_media_followers:
-- 88095
-- 1446954
+  - 88095
+  - 1446954
 number_of_out_of_school_children: 3181989
 area: 8515767
 inception: "1822-09-07"
 has_time_started: "1822-09-07"
 rural_population:
-- 26795765
-- 27182995
-- 27559886
-- 27904512
+  - 26795765
+  - 27182995
+  - 27559886
+  - 27904512
 urban_population:
-- 183878366
-- 185636418
-- 187143228
-- 188517733
+  - 183878366
+  - 185636418
+  - 187143228
+  - 188517733
 coordinates_of_easternmost_point: "Point(-34.793055555 -7.155555555)"
 time_of_discovery_or_invention: "1500-05-02"
 population: 203062512

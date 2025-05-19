@@ -19,80 +19,80 @@ position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_o
 general_secretary: "[[_Standards/WikiData/WD~Haitham_al-Ghais,110415087]]"
 different_from: '[[_Standards/WikiData/WD~OPEC+,121826282]]'
 short_name:
-- אָפּע״ק
-- 油組
-- ABEP
-- 歐佩克
-- 欧佩克
-- OPUL
-- OPEP
-- OPEP
-- ОПЕК
-- АПЕК
-- OPEC
-- OPEL
-- OPEP
-- LPEE
-- OPEP
-- ETOP
-- OPEP
-- אופ״ק
-- ՆԱԵԿ
-- ONEP
-- ოპეკი
-- МЭЕҰ
-- OPEP
-- OPEP
-- ОПЕК
-- ОПЕК
-- 油组
-- 油組
+  - אָפּע״ק
+  - 油組
+  - ABEP
+  - 歐佩克
+  - 欧佩克
+  - OPUL
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - АПЕК
+  - OPEC
+  - OPEL
+  - OPEP
+  - LPEE
+  - OPEP
+  - ETOP
+  - OPEP
+  - אופ״ק
+  - ՆԱԵԿ
+  - ONEP
+  - ოპეკი
+  - МЭЕҰ
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - ОПЕК
+  - 油组
+  - 油組
 native_label:
-- 欧佩克
-- 歐佩克
-- ОПЕК
-- OPEK
-- OPUL
-- ኦፔክ
-- OPEP
-- أوبك
-- OPEP
-- ОПЕК
-- АПЕК
-- OPEP
-- ΟΠΕΚ
-- OPEC
-- OPEL
-- OPEP
-- LPEE
-- اُپِک
-- OPEP
-- ETOP
-- OPEP
-- אופ״ק
-- ओपेक
-- ՆԱԵԿ
-- ONEP
-- ოპეკი
-- مەيەۇ
-- МЭЕҰ
-- MÉEU
-- ОПЕК
-- ОПЕК
-- ОПЕК
-- OPEP
-- OPEP
-- OPEP
-- ОПЕК
-- ОПЕК
-- ОПЕК
-- اوپیک
-- אפעק
-- 油组
-- 油組
+  - 欧佩克
+  - 歐佩克
+  - ОПЕК
+  - OPEK
+  - OPUL
+  - ኦፔክ
+  - OPEP
+  - أوبك
+  - OPEP
+  - ОПЕК
+  - АПЕК
+  - OPEP
+  - ΟΠΕΚ
+  - OPEC
+  - OPEL
+  - OPEP
+  - LPEE
+  - اُپِک
+  - OPEP
+  - ETOP
+  - OPEP
+  - אופ״ק
+  - ओपेक
+  - ՆԱԵԿ
+  - ONEP
+  - ოპეკი
+  - مەيەۇ
+  - МЭЕҰ
+  - MÉEU
+  - ОПЕК
+  - ОПЕК
+  - ОПЕК
+  - OPEP
+  - OPEP
+  - OPEP
+  - ОПЕК
+  - ОПЕК
+  - ОПЕК
+  - اوپیک
+  - אפעק
+  - 油组
+  - 油組
 ISNI:
 - 0000000123646718
-- 000000012365059X
+  - 000000012365059X
 has_part_s_:
 - '[[_Standards/WikiData/WD~Algeria,262]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'

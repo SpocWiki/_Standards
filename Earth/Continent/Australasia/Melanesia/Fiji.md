@@ -82,37 +82,37 @@ head_of_state: "[[_Standards/WikiData/WD~Wiliame_Katonivere,109012733]]"
 coordinates_of_northernmost_point: "Point(176.98 -12.47)"
 UMLS_CUI: C0016080
 demonym:
-- فيدجية
-- فيدجيين
-- فيدجيات
-- Fidsíoch
-- فيجية
-- fijià
-- Fijian
-- Fidjien
-- figiano
-- fijian
-- viti
-- فيجيون
-- فيجي
-- فيدجي
-- fixana
-- fixanu
-- ফিজিয়ান
-- fijiana
-- fijianer
-- Fidjienne
+  - فيدجية
+  - فيدجيين
+  - فيدجيات
+  - Fidsíoch
+  - فيجية
+  - fijià
+  - Fijian
+  - Fidjien
+  - figiano
+  - fijian
+  - viti
+  - فيجيون
+  - فيجي
+  - فيدجي
+  - fixana
+  - fixanu
+  - ফিজিয়ান
+  - fijiana
+  - fijianer
+  - Fidjienne
 - "פיג'יאני"
 - "פיג'יאנית"
-- Fidzsi-szigeteki
-- figiana
-- figiane
-- figiani
-- фиджийцы
-- fizan
-- fizana
-- fizane
-- fizani
+  - Fidzsi-szigeteki
+  - figiana
+  - figiane
+  - figiani
+  - фиджийцы
+  - fizan
+  - fizana
+  - fizane
+  - fizani
 ISNI: 0000000405566054
 motto_text:
 - "Ble mae Hapusrwydd yn eich Canfod"
@@ -179,47 +179,47 @@ area: 18274
 birth_rate: 19.131
 IAB_code: 1293
 rural_population:
-- 390740
-- 388373
-- 393508
-- 397236
+  - 390740
+  - 388373
+  - 393508
+  - 397236
 male_population:
-- 466140
-- 461366
-- 461878
-- 463683
+  - 466140
+  - 461366
+  - 461878
+  - 463683
 urban_population:
-- 533870
-- 521229
-- 526914
-- 541393
+  - 533870
+  - 521229
+  - 526914
+  - 541393
 INSEE_countries_and_foreign_territories_code: 99508
 female_population:
-- 457099
-- 458543
-- 460926
-- 463626
+  - 457099
+  - 458543
+  - 460926
+  - 463626
 Krugosvet_article: strany_mira/FIDZHI.html
 MeSH_tree_code: Z01.639.760.590.373
 native_label:
 - "Republic of Fiji"
 - "Matanitu Tugalala o Viti"
-- Viti
+  - Viti
 - "Fidźi Ganaradźja"
 official_name:
 - "Republic of Fiji"
 - "Matanitu ko Viti"
-- Viti
+  - Viti
 - "République des Fidji"
-- Fiji
+  - Fiji
 short_name:
-- Viti
+  - Viti
 - "\U0001F1EB\U0001F1EF"
-- Fiji
+  - Fiji
 coordinates_of_southernmost_point: "Point(174.64 -21.73833)"
 nominal_GDP:
-- 4943248200
-- 4296235428
+  - 4943248200
+  - 4296235428
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Fiji.svg"
 PM20_geo_code: D40
 population: 926276
@@ -254,11 +254,11 @@ subreddit: FijiIslands
 Unicode_character: 🇫🇯 
 has_id_wikidata: Q712
 location:
-- -18.1667
-- 178.45
+    - -18.1667
+    - 178.45
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26892
 isDeleted: false
 confidential: public
@@ -275,16 +275,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Fiji
-- Fidji
-- فيجي
-- 斐济
-- Фиджи
+    - Fiji
+    - Fidji
+    - فيجي
+    - 斐济
+    - Фиджи
 - "the Republic of Fiji"
 - "la República de Fiji"
 Languages:
-- en-FJ
-- fj
+    - en-FJ
+    - fj
 icon: flag-fj
 ---
 

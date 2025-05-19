@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11367
 different_from:
 - '[[_Standards/WikiData/WD~fat,127980]]'
@@ -6,7 +6,7 @@ different_from:
 subclass_of: "[[_Standards/WikiData/WD~organic_compound,174211]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lipids,14336537]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Glosariusz_nazw_klas_związków_organicznych_i_reaktywnych_produktów_pośrednich_oparty_na_strukturze,56826519]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 instance_of: "[[_Standards/WikiData/WD~imprecise_class_of_chemical_entities,74892521]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Chinese
@@ -8,7 +8,7 @@ tags:
 - Lang/zh
 has_id_wikidata: Q9192
 linguistic_typology:
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 - "[[_Standards/WikiData/WD~isolating_language,7423311]]"
 replaces: "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
 different_from:

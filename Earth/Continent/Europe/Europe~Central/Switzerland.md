@@ -2,19 +2,19 @@
 title: Switzerland
 type: Country
 location:
-- 46.8963
-- 8.46058
+  - 46.8963
+  - 8.46058
 has_id_wikidata: Q39
 SpocWebEntityId: 26865
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 linkTitle: 
 keywords: 
@@ -23,22 +23,22 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Switzerland
-- Suiza
-- Suisse
-- سويسرا
-- 瑞士
-- Швейцария
+  - Switzerland
+  - Suiza
+  - Suisse
+  - سويسرا
+  - 瑞士
+  - Швейцария
 - "the Swiss Confederation"
 - "la Confederación Suiza"
-- Svizzera
-- Svizra
-- Helvetica
+  - Svizzera
+  - Svizra
+  - Helvetica
 Languages:
-- de-CH
-- fr-CH
-- it-CH
-- rm
+  - de-CH
+  - fr-CH
+  - it-CH
+  - rm
 icon: flag-ch
 member_of:
 - "[[_Standards/WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -209,69 +209,69 @@ locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Switzerla
 country_calling_code: +41
 Dewey_Decimal_Classification: 2--494
 BHCL_UUID:
-- 33066f03-7ef2-489d-97b1-dde7f5fe59ef
-- d67bdc7e-4310-41d6-95ae-4ee5cee3e82c
+  - 33066f03-7ef2-489d-97b1-dde7f5fe59ef
+  - d67bdc7e-4310-41d6-95ae-4ee5cee3e82c
 Provenio_UUID: b06a0af1-b509-41e1-ab18-570cd236f584
 NUTS_code:
-- CH0
-- CH
+  - CH0
+  - CH
 Libris_URI: nl0229c6538hjvc
 hashtag:
-- Schweiz
-- Svizzera
-- Svizra
-- Switzerland
-- Suisse
+  - Schweiz
+  - Svizzera
+  - Svizra
+  - Switzerland
+  - Suisse
 Colon_Classification: SG--594
 Krugosvet_article: strany_mira/SHVETSARIYA.html
 demonym:
-- سويسري
-- سويسرية
-- suiza
-- suizu
-- সুইজারল্যান্ডীয়
-- sviso
-- suiza
-- Suissesse
-- שווייצרי
-- שווייצרית
-- svájci
-- Suisiano
-- svizzere
-- svizzeri
-- svizzero
-- suiz
-- Zwitser
-- швейцарец
-- швейцарка
-- schweizisk
-- швейцарець
-- швейцарка
-- швейцарці
-- svìsara
-- svìsare
-- svìsari
-- svìsaro
-- Jveizänan
-- سويسري
-- سويسرية
-- سويسريين
-- سويسريات
-- Švicarka
-- سويسريون
-- Schweizer
-- Schweizerin
-- Swiss
-- スイス人
-- elvețian
-- elvețiancă
-- elvețieni
-- швейцарцы
-- Suisse
-- Eilvéiseach
-- svizzera
-- suizo
-- Švicar
+  - سويسري
+  - سويسرية
+  - suiza
+  - suizu
+  - সুইজারল্যান্ডীয়
+  - sviso
+  - suiza
+  - Suissesse
+  - שווייצרי
+  - שווייצרית
+  - svájci
+  - Suisiano
+  - svizzere
+  - svizzeri
+  - svizzero
+  - suiz
+  - Zwitser
+  - швейцарец
+  - швейцарка
+  - schweizisk
+  - швейцарець
+  - швейцарка
+  - швейцарці
+  - svìsara
+  - svìsare
+  - svìsari
+  - svìsaro
+  - Jveizänan
+  - سويسري
+  - سويسرية
+  - سويسريين
+  - سويسريات
+  - Švicarka
+  - سويسريون
+  - Schweizer
+  - Schweizerin
+  - Swiss
+  - スイス人
+  - elvețian
+  - elvețiancă
+  - elvețieni
+  - швейцарцы
+  - Suisse
+  - Eilvéiseach
+  - svizzera
+  - suizo
+  - Švicar
 native_label:
 - "Schweizerische Eidgenossenschaft"
 - "Confederazione Svizzera"
@@ -340,13 +340,13 @@ country: '[[_Standards/WikiData/WD~Switzerland,39]]'
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital: '[[_Standards/WikiData/WD~Bern,70]]'
 birth_rate:
-- 10
-- 9.4
-- 9.9
-- 10.3
+  - 10
+  - 9.4
+  - 9.9
+  - 10.3
 age_of_majority:
-- 20
-- 18
+  - 20
+  - 18
 unemployment_rate: 4
 marriageable_age: 18
 mains_voltage: 230
@@ -375,17 +375,17 @@ inception: "1848-09-12"
 has_time_started: "1848-09-12"
 coordinates_of_northernmost_point: "Point(8.57 47.8)"
 VAT_rate:
-- 2.5
-- 2.6
-- 3.7
-- 3.8
-- 7.7
-- 8.1
+  - 2.5
+  - 2.6
+  - 3.7
+  - 3.8
+  - 7.7
+  - 8.1
 death_rate:
-- 7.9
-- 8.2
-- 8.5
-- 8.8
+  - 7.9
+  - 8.2
+  - 8.5
+  - 8.8
 suicide_rate: 9.8
 total_fertility_rate: 1.52
 Gini_coefficient: 33.1
@@ -414,10 +414,10 @@ FIPS_10_4_countries_and_regions_: SZ
 number_of_out_of_school_children: 69459
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
 rural_population:
-- 2263530
-- 2242521
-- 2253266
-- 2273624
+  - 2263530
+  - 2242521
+  - 2253266
+  - 2273624
 IOC_country_code: SUI
 ITU_letter_code: SUI
 PM20_geo_code: A34
@@ -428,20 +428,20 @@ INSEE_countries_and_foreign_territories_code: 99140
 coordinate_location: "Point(8.231973 46.798562)"
 GS1_country_code: 760-769
 male_population:
-- 4253063
-- 4285784
-- 4320511
-- 4357959
+  - 4253063
+  - 4285784
+  - 4320511
+  - 4357959
 female_population:
-- 4322218
-- 4352384
-- 4384035
-- 4417801
+  - 4322218
+  - 4352384
+  - 4384035
+  - 4417801
 urban_population:
-- 6332759
-- 6384901
-- 6441016
-- 6502136
+  - 6332759
+  - 6384901
+  - 6441016
+  - 6502136
 life_expectancy: 82.89756
 population: 8902308
 logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20der%20Schweizerischen%20Eidgenossenschaft.svg"

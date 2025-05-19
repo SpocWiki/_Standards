@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Karl Marx"
 has_id_wikidata: Q9061
@@ -53,7 +53,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~The_Communist_Manifesto,40591]]"
 - "[[_Standards/WikiData/WD~Capital__A_Critique_of_Political_Economy,58784]]"
 contributed_to_creative_work:
-- "[[_Standards/WikiData/WD~Deutsch–Französische_Jahrbücher,387223]]"
+- "[[_Standards/WikiData/WD~Deutsch_Französische_Jahrbücher,387223]]"
 - "[[_Standards/WikiData/WD~Rheinische_Zeitung,519542]]"
 employer:
 - "[[_Standards/WikiData/WD~Neue_Rheinische_Zeitung,429850]]"
@@ -67,11 +67,11 @@ described_by_source:
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - '[[_Standards/WikiData/WD~Q56604985,56604985]]'
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"

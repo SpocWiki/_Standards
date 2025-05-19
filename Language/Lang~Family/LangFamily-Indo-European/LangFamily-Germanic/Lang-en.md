@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - English
@@ -81,7 +81,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 number_of_speakers_writers_or_signers:
 - 753359540
 - 379007140
@@ -219,10 +219,10 @@ instance_of:
 - "[[_Standards/WikiData/WD~natural_language,33742]]"
 - '[[_Standards/WikiData/WD~language,34770]]'
 linguistic_typology:
-- "[[_Standards/WikiData/WD~nominative–accusative_language,178435]]"
+- "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
 - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-- '[[_Standards/WikiData/WD~subject–verb–object,651641]]'
-- '[[_Standards/WikiData/WD~place–manner–time,7200373]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~place_manner_time,7200373]]'
 - "[[_Standards/WikiData/WD~stress-timed_language,7888721]]"
 has_phoneme:
 - "[[_Standards/WikiData/WD~voiced_bilabial_nasal,201817]]"
@@ -245,7 +245,7 @@ has_phoneme:
 - "[[_Standards/WikiData/WD~voiceless_palato-alveolar_affricate,518603]]"
 - "[[_Standards/WikiData/WD~voiced_labio-velar_approximant,565654]]"
 - "[[_Standards/WikiData/WD~voiced_dental_fricative,654641]]"
-- "[[_Standards/WikiData/WD~voiced_palato‐alveolar_sibilant,654660]]"
+- "[[_Standards/WikiData/WD~voiced_palato_alveolar_sibilant,654660]]"
 - "[[_Standards/WikiData/WD~voiceless_labiodental_fricative,654705]]"
 - "[[_Standards/WikiData/WD~voiced_labiodental_fricative,654787]]"
 - "[[_Standards/WikiData/WD~open_back_rounded_vowel,740714]]"

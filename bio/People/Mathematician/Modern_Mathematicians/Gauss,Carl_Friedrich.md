@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Carl Friedrich Gauss"
 - "Johann Carl Friedrich Gauss"
@@ -50,7 +50,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~normal_distribution,133871]]"
 - "[[_Standards/WikiData/WD~Gauss's_law,173356]]"
 - '[[_Standards/WikiData/WD~gauss,177493]]'
-- "[[_Standards/WikiData/WD~Gauss–Seidel_method,1069090]]"
+- "[[_Standards/WikiData/WD~Gauss_Seidel_method,1069090]]"
 - "[[_Standards/WikiData/WD~Gauss's_law_for_magnetism,1195250]]"
 - "[[_Standards/WikiData/WD~Gauss's_law_for_gravity,3180597]]"
 employer: "[[_Standards/WikiData/WD~University_of_Göttingen,152838]]"
@@ -94,10 +94,10 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"

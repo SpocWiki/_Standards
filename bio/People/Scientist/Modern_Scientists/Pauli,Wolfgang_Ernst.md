@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Wolfgang Ernst Pauli"
 has_id_wikidata: Q65989
@@ -32,8 +32,8 @@ notable_work:
 - "[[_Standards/WikiData/WD~Pauli_equation,604572]]"
 - "[[_Standards/WikiData/WD~Pauli_effect,2063697]]"
 - "[[_Standards/WikiData/WD~Pauli_group,7154882]]"
-- "[[_Standards/WikiData/WD~Pauli–Villars_regularization,7155157]]"
-- "[[_Standards/WikiData/WD~Pauli–Lubanski_pseudovector,13596609]]"
+- "[[_Standards/WikiData/WD~Pauli_Villars_regularization,7155157]]"
+- "[[_Standards/WikiData/WD~Pauli_Lubanski_pseudovector,13596609]]"
 employer:
 - "[[_Standards/WikiData/WD~University_of_Göttingen,152838]]"
 - "[[_Standards/WikiData/WD~University_of_Hamburg,156725]]"
@@ -78,7 +78,7 @@ educated_at:
 father: "[[_Standards/WikiData/WD~Wolfgang_Joseph_Pauli,16509270]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]"
 occupation: "[[_Standards/WikiData/WD~theoretical_physicist,19350898]]"

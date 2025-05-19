@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Francisco José de Goya y Lucientes"
 - "Francisco Goya"
@@ -47,7 +47,7 @@ has_works_in_the_collection:
 - "[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]"
 - "[[_Standards/WikiData/WD~Museum_collection_Am_Römerholz,682406]]"
 - "[[_Standards/WikiData/WD~The_Frick_Collection,682827]]"
-- "[[_Standards/WikiData/WD~Kunst_Museum_Winterthur_|_Reinhart_am_Stadtgarten,689829]]"
+- "[[_Standards/WikiData/WD~Kunst_Museum_Winterthur___Reinhart_am_Stadtgarten,689829]]"
 - "[[_Standards/WikiData/WD~Art_Gallery_of_South_Australia,705557]]"
 - "[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]"
 - "[[_Standards/WikiData/WD~Biblioteca_Nacional_de_España,750403]]"
@@ -157,7 +157,7 @@ notable_work:
 - "[[_Standards/WikiData/WD~Portrait_of_Don_Ramón_Satué,16594979]]"
 - "[[_Standards/WikiData/WD~General_José_de_Palafox_on_Horseback,59685067]]"
 - "[[_Standards/WikiData/WD~Portrait_of_Mariano_Goya,_the_Artist's_Grandson,83808748]]"
-- "[[_Standards/WikiData/WD~Portrait_of_Mariano_Goya,_the_Artist’s_Grandson,84045740]]"
+- "[[_Standards/WikiData/WD~Portrait_of_Mariano_Goya,_the_Artist_s_Grandson,84045740]]"
 - "[[_Standards/WikiData/WD~Portrait_of__Mariano_Goya,84046685]]"
 - "[[_Standards/WikiData/WD~Regina_Martyrum,112799390]]"
 described_by_source:

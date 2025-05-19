@@ -1,4 +1,4 @@
-﻿---
+---
 license: "CC BY-SA 4.0"
 confidential: public
 isDeleted: false
@@ -57,14 +57,14 @@ history_of_topic: "[[_Standards/WikiData/WD~history_of_Palestine,556079]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 language_used:
 - "[[_Standards/WikiData/WD~Jewish_Palestinian_Aramaic,948909]]"
 - "[[_Standards/WikiData/WD~South_Levantine_Arabic,55633582]]"

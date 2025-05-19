@@ -1,10 +1,10 @@
 ---
 location:
-- -17.7667
-- -66.7
+  - -17.7667
+  - -66.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 has_id_wikidata: Q750
 SpocWebEntityId: 26852
 isDeleted: false
@@ -22,19 +22,19 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Bolivia
+  - Bolivia
 - "Bolivia (Plurinational State of)"
 - "Bolivia (Estado Plurinacional de)"
 - "Bolivie (État plurinational de)"
 - "بوليفيا (دولة - المتعددة القوميات)"
-- 玻利维亚(多民族国)
+  - 玻利维亚(多民族国)
 - "Боливия (Многонациональное Государство)"
 - "the Plurinational State of Bolivia"
 - "Estado Plurinacional de Bolivia"
 Languages:
-- es-BO
-- qu
-- ay
+  - es-BO
+  - qu
+  - ay
 icon: flag-bo
 instance_of:
 - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
@@ -165,56 +165,56 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_La_Paz,63286077]]'
 - '[[_Standards/WikiData/WD~America_Cochabamba,111534089]]'
-- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_portal_Bolivia,97063703]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Q109829420,109829420]]'
 nominal_GDP:
-- 40408208524
-- 43068885673
+  - 40408208524
+  - 43068885673
 demonym:
-- بوليڤي
-- بوليڤية
-- بوليڤيين
-- بوليڤيات
-- Bolivijec
-- Bolivijka
-- Bolavach
-- بوليفي
-- بوليفية
-- بوليفيون
-- boliviana
-- bolivianu
-- балівіец
-- балівійка
-- балівійцы
-- বলিভীয়
-- bolivianer
-- Bolivianer
-- Bolivianerin
-- Bolivian
-- Boliviano
-- Bolivien
-- Bolivienne
-- בוליבאני
-- בוליבאנית
-- bolíviai
-- Boliviano
-- boliviana
-- boliviane
-- boliviani
-- boliviano
-- bolivian
-- bolivian
-- boliviană
-- bolivieni
-- боливиец
-- боливийка
-- боливийцы
-- bołivian
-- bołiviana
-- bołiviane
-- bołiviani
-- Bolivänan
+  - بوليڤي
+  - بوليڤية
+  - بوليڤيين
+  - بوليڤيات
+  - Bolivijec
+  - Bolivijka
+  - Bolavach
+  - بوليفي
+  - بوليفية
+  - بوليفيون
+  - boliviana
+  - bolivianu
+  - балівіец
+  - балівійка
+  - балівійцы
+  - বলিভীয়
+  - bolivianer
+  - Bolivianer
+  - Bolivianerin
+  - Bolivian
+  - Boliviano
+  - Bolivien
+  - Bolivienne
+  - בוליבאני
+  - בוליבאנית
+  - bolíviai
+  - Boliviano
+  - boliviana
+  - boliviane
+  - boliviani
+  - boliviano
+  - bolivian
+  - bolivian
+  - boliviană
+  - bolivieni
+  - боливиец
+  - боливийка
+  - боливийцы
+  - bołivian
+  - bołiviana
+  - bołiviane
+  - bołiviani
+  - Bolivänan
 motto_text:
 - "Cryfder yr Undeb"
 - "Адзінства — сіла"
@@ -267,39 +267,39 @@ VAT_rate: 13
 age_of_majority: 18
 marriageable_age: 21
 mains_voltage:
-- 230
-- 115
+  - 230
+  - 115
 Happy_Planet_Index_score: 45
 BTI_Status_Index:
-- 6.5
-- 5.75
-- 5.98
-- 6.07
-- 6.17
-- 6.22
-- 6.23
-- 6.46
-- 6.58
+  - 6.5
+  - 5.75
+  - 5.98
+  - 6.07
+  - 6.17
+  - 6.22
+  - 6.23
+  - 6.46
+  - 6.58
 literacy_rate: 92
 death_rate:
-- 9.3
-- 7.127
-- 9.062
-- 9.945
+  - 9.3
+  - 7.127
+  - 9.062
+  - 9.945
 suicide_rate: 12.2
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.bo,40510]]'
 Gini_coefficient: 43.6
 Democracy_Index: 4.65
 BTI_Governance_Index:
-- 4.72
-- 4.73
-- 5.22
-- 5.27
-- 5.34
-- 5.45
-- 5.54
-- 5.63
-- 5.66
+  - 4.72
+  - 4.73
+  - 5.22
+  - 5.27
+  - 5.34
+  - 5.45
+  - 5.54
+  - 5.63
+  - 5.66
 Inequality_adjusted_Human_Development_Index: 0.549
 Human_Development_Index: 0.692
 social_media_followers: 26990
@@ -308,10 +308,10 @@ maritime_identification_digits: 720
 GS1_country_code: 777
 FIPS_10_4_countries_and_regions_: BL
 birth_rate:
-- 21.599
-- 21.836
-- 22.056
-- 22.323
+  - 21.599
+  - 21.836
+  - 22.056
+  - 22.323
 mobile_country_code: 736
 ISO_3166_1_alpha_2_code: BO
 WIPO_ST_3: BO
@@ -351,30 +351,31 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%2
 aircraft_registration_prefix: CP
 PM20_geo_code: E80
 rural_population:
-- 3559929
-- 3565773
-- 3566167
-- 3566464
+  - 3559929
+  - 3565773
+  - 3566167
+  - 3566464
 female_population:
-- 5860919
-- 5943886
-- 6020925
-- 6097747
+  - 5860919
+  - 5943886
+  - 6020925
+  - 6097747
 male_population:
-- 5916395
-- 5992275
-- 6058547
-- 6126364
+  - 5916395
+  - 5992275
+  - 6058547
+  - 6126364
 Commons_category: Bolivia
 Commons_gallery: Bolivia
 hashtag: Bolivia
 urban_population:
-- 8217386
-- 8369995
-- 8513008
-- 8658337
+  - 8217386
+  - 8369995
+  - 8513008
+  - 8658337
 inception: "1825"
 has_time_started: 1825-06 
+has_time_started: 1825-01-01T00:00:00Z 
 population: 12244159
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
 CIVICUS_Monitor_country_entry: bolivia

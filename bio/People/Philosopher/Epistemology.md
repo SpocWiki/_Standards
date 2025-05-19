@@ -1,10 +1,10 @@
-﻿---
+---
 has_id_wikidata: Q9471
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 - "[[_Standards/WikiData/WD~Tamil_Encyclopedia,7681254]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 subclass_of: "[[_Standards/WikiData/WD~theoretical_philosophy,2166096]]"
 said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~gnoseology,2560959]]'

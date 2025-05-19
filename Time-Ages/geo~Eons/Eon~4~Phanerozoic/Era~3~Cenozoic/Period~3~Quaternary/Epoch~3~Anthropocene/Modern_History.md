@@ -21,7 +21,12 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern_history,1
 U_S_National_Archives_Identifier: 10647222
 ---
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534|WD~Modern_history,3281534]] 
+
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534_WD~Modern_history,3281534]] 
+
+#has_/time_/started :: `=this.has_time_started`
+
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 

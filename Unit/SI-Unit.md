@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12457
 instance_of:
 - "[[_Standards/WikiData/WD~metric_system,232405]]"
@@ -7,7 +7,7 @@ instance_of:
 - "[[_Standards/WikiData/WD~coherent_system_of_units,99734981]]"
 based_on: "[[_Standards/WikiData/WD~MKS_system_of_units,512417]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219]]"
 - "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
 - "[[_Standards/WikiData/WD~DIN_1301,105424877]]"

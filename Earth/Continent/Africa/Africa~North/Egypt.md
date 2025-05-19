@@ -20,7 +20,7 @@ member_of:
 - '[[_Standards/WikiData/WD~BRICS,243630]]'
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -99,7 +99,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- '[[_Standards/WikiData/WD~Pauly–Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
 - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
@@ -192,51 +192,51 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13052740,13052740]]'
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20banner%20Camels%20and%20pyramids.jpg"
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 demonym:
-- মিশরীয়
-- مِصْرِيّ
-- مِصْرّيَّة
-- مِصْرِيُّونَ
-- exipciana
-- exipcianu
-- Egypťan
-- Egypťanka
-- Egypťanky
-- ægypter
-- egypter
-- Ägypterinnen
-- מצרי
-- Égyptienne
-- מצרית
-- egyiptomi
-- Egypťané
-- Ägypterin
-- Ägypter
-- Egiptiano
-- egiziana
-- egiziane
-- egiziani
-- egiziano
-- egipsian
-- misri
-- egiptean
-- egipteancă
-- egipteni
-- египтяне
-- єгиптяни
-- єгиптянин
-- єгиптянка
-- ezisian
-- ezisiana
-- ezisiane
-- ezisiani
-- Lägüptänan
-- مصري
-- مصراوا
-- مصريات
-- مصرية
-- Éigipteach
-- Egyptian
-- Égyptien
+  - মিশরীয়
+  - مِصْرِيّ
+  - مِصْرّيَّة
+  - مِصْرِيُّونَ
+  - exipciana
+  - exipcianu
+  - Egypťan
+  - Egypťanka
+  - Egypťanky
+  - ægypter
+  - egypter
+  - Ägypterinnen
+  - מצרי
+  - Égyptienne
+  - מצרית
+  - egyiptomi
+  - Egypťané
+  - Ägypterin
+  - Ägypter
+  - Egiptiano
+  - egiziana
+  - egiziane
+  - egiziani
+  - egiziano
+  - egipsian
+  - misri
+  - egiptean
+  - egipteancă
+  - egipteni
+  - египтяне
+  - єгиптяни
+  - єгиптянин
+  - єгиптянка
+  - ezisian
+  - ezisiana
+  - ezisiane
+  - ezisiani
+  - Lägüptänan
+  - مصري
+  - مصراوا
+  - مصريات
+  - مصرية
+  - Éigipteach
+  - Egyptian
+  - Égyptien
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Egypt,15618993]]"
 Commons_gallery: مصر
@@ -264,27 +264,27 @@ age_of_majority: 21
 mains_voltage: 220
 suicide_rate: 3.4
 BTI_Status_Index:
-- 4.2
-- 4.4
-- 4.13
-- 4.28
-- 4.29
-- 4.76
-- 4.82
-- 4.88
+  - 4.2
+  - 4.4
+  - 4.13
+  - 4.28
+  - 4.29
+  - 4.76
+  - 4.82
+  - 4.88
 literacy_rate: 71
 Democracy_Index: 2.93
 Gini_coefficient: 31.5
 BTI_Governance_Index:
-- 3.77
-- 3.86
-- 3.88
-- 3.96
-- 4.16
-- 4.23
-- 4.32
-- 4.44
-- 4.52
+  - 3.77
+  - 3.86
+  - 3.88
+  - 3.96
+  - 4.16
+  - 4.23
+  - 4.32
+  - 4.44
+  - 4.52
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~122,25648812]]'
 - '[[_Standards/WikiData/WD~123,25648825]]'
@@ -299,53 +299,53 @@ pronunciation_audio:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%84gypten2.ogg"
 country_calling_code: +20
 BHCL_UUID:
-- 72455193-deee-4f8f-a15d-e9e6cf83a403
-- b997c02d-f72a-432e-8778-b2b0ae982e55
+  - 72455193-deee-4f8f-a15d-e9e6cf83a403
+  - b997c02d-f72a-432e-8778-b2b0ae982e55
 Colon_Classification: SG--677
 Krugosvet_article: strany_mira/EGIPET.html
 Gujarati_Vishwakosh_entry: ઇજિપ્ત
 native_label:
 - "جُمهورِيّةُ مِصرَ العَرَبيّةِ"
 - "Arab Republic of Egypt"
-- Mesir
+  - Mesir
 - "Republik Arab Mesir"
-- Egypt
-- مصر
+  - Egypt
+  - مصر
 official_name: "جُمهورِيّةُ مِصرَ العَرَبيّةِ"
 subreddit: Egypt
 hashtag: Egypt
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/All%20Gizah%20Pyramids.jpg"
 Unicode_character: 🇪🇬 
 nominal_GDP:
-- 424671765456
-- 476747720365
+  - 424671765456
+  - 476747720365
 coordinates_of_westernmost_point: "Point(24.70069885 30.15462722)"
 coordinates_of_easternmost_point: "Point(36.89432144 22.05445965)"
 U_S_National_Archives_Identifier: 10046273
 coordinates_of_northernmost_point: "Point(25.9 31.63)"
 urban_population:
-- 45130858
-- 45976808
-- 46831955
-- 47689118
+  - 45130858
+  - 45976808
+  - 46831955
+  - 47689118
 relief_location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Egypt%20relief%20location%20map.jpg"
 inception: "1922-02-28"
 has_time_started: "1922-02-28"
 female_population:
-- 52189268
-- 53107732
-- 54001891
-- 54865512
+  - 52189268
+  - 53107732
+  - 54001891
+  - 54865512
 male_population:
-- 53429404
-- 54357401
-- 55260287
-- 56124592
+  - 53429404
+  - 54357401
+  - 55260287
+  - 56124592
 rural_population:
-- 60487813
-- 61488326
-- 62430223
-- 63300985
+  - 60487813
+  - 61488326
+  - 62430223
+  - 63300985
 coordinates_of_southernmost_point: "Point(33.55602264 21.72569656)"
 short_name: "\U0001F1EA\U0001F1EC"
 has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
@@ -367,10 +367,10 @@ madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 OpenStreetMap_zoom_level: 4
 Inequality_adjusted_Human_Development_Index: 0.519
 death_rate:
-- 6.39
-- 5.581
-- 5.851
-- 6.327
+  - 6.39
+  - 5.581
+  - 5.851
+  - 6.327
 Human_Development_Index: 0.731
 UIC_numerical_country_code: 90
 total_fertility_rate: 3.338
@@ -379,10 +379,10 @@ M49_code: 818
 GS1_country_code: 622
 maritime_identification_digits: 622
 birth_rate:
-- 22.107
-- 22.558
-- 23.051
-- 23.568
+  - 22.107
+  - 22.558
+  - 23.051
+  - 23.568
 mobile_country_code: 602
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Egypt%20%28Official%29.svg"
 life_expectancy: 71.484
@@ -562,16 +562,16 @@ Capital ::[[Cairo]]]
 
 > **Egypt** (Arabic: مصر Miṣr [mesˁr] , Egyptian Arabic : [mɑsˤr]), officially the Arab Republic of Egypt, 
 > is a country spanning the northeast of Africa and southwest of Asia via the Sinai Peninsula. 
-> 
+>
 > It is bordered by the Mediterranean Sea to the north, the Gaza Strip of Palestine and Israel to the northeast, the Red Sea to the east, Sudan to the south, and Libya to the west; the Gulf of Aqaba in the northeast separates Egypt from Jordan and Saudi Arabia. 
-> 
+>
 > Cairo is the capital, largest city, and leading cultural center, while Alexandria is the second-largest city and an important hub of industry and tourism. At approximately 107 million inhabitants, Egypt is the third-most populous country in Africa and 14th-most populated in the world.
 >
 > Egypt has one of the longest histories of any country, 
 > tracing its heritage along the Nile Delta back to the 6th–4th millennia BCE. 
 > Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, 
 > agriculture, urbanisation, organised religion and central government. 
-> 
+>
 > Egypt was an early and important centre of Christianity, 
 > later adopting Islam from the seventh century onwards. 
 > Cairo became the capital of the Fatimid Caliphate in the tenth century 

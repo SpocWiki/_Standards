@@ -29,7 +29,7 @@ highest_point: '[[_Standards/WikiData/WD~Niulakita,632489]]'
 anthem: "[[_Standards/WikiData/WD~Tuvalu_mo_te_Atua,756708]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Tuvalu,897278]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Tuvalu,897500]]"
@@ -49,38 +49,38 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~Pacific_Funafuti,63285989]]'
 - '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
 demonym:
-- توڤالوي
-- توڤالوية
-- توڤالويين
-- توڤالويات
-- توفالي
-- توفالية
-- توفاليون
-- tuvaluana
-- tuvaluanu
-- টুভালীয়
-- Tuvaliana
-- Tuvalano
-- Tuvalais
-- Tuvalaise
-- טובאלואני
-- טובאלואנית
-- Tuvaluano
-- tuvaluana
-- tuvaluane
-- tuvaluani
-- tuvaluan
-- tuvaluană
-- tuvaluani
-- tuvałuan
-- tuvałuana
-- tuvałuane
-- tuvałuani
-- Tuvalià
-- Tuvaluan
-- tuvalui
-- tuvaluano
-- tuvalu
+  - توڤالوي
+  - توڤالوية
+  - توڤالويين
+  - توڤالويات
+  - توفالي
+  - توفالية
+  - توفاليون
+  - tuvaluana
+  - tuvaluanu
+  - টুভালীয়
+  - Tuvaliana
+  - Tuvalano
+  - Tuvalais
+  - Tuvalaise
+  - טובאלואני
+  - טובאלואנית
+  - Tuvaluano
+  - tuvaluana
+  - tuvaluane
+  - tuvaluani
+  - tuvaluan
+  - tuvaluană
+  - tuvaluani
+  - tuvałuan
+  - tuvałuana
+  - tuvałuane
+  - tuvałuani
+  - Tuvalià
+  - Tuvaluan
+  - tuvalui
+  - tuvaluano
+  - tuvalu
 ISNI: 0000000121822167
 motto_text:
 - "Twfalw yr Hollalluog"
@@ -107,15 +107,15 @@ marriageable_age: 21
 mains_voltage: 220
 area: 26
 rural_population:
-- 3900
-- 4030
-- 3945
-- 3983
+  - 3900
+  - 4030
+  - 3945
+  - 3983
 capital: '[[_Standards/WikiData/WD~Funafuti,34126]]'
 number_of_out_of_school_children: 510
 life_expectancy:
-- 64
-- 65
+  - 64
+  - 65
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Polynesia,35942]]'
 part_of: '[[_Standards/WikiData/WD~Polynesia,35942]]'
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tv,40373]]'
@@ -132,47 +132,47 @@ hashtag: Tuvalu
 Unicode_character: 🇹🇻 
 official_name:
 - "les Tuvalu"
-- Tuvalu
+  - Tuvalu
 short_name: "\U0001F1F9\U0001F1FB"
 coordinates_of_northernmost_point: "Point(176.07 -5.65)"
 coordinates_of_easternmost_point: "Point(-176.198888888 -13.185)"
 nominal_GDP:
-- 60196367
-- 60349391
+  - 60196367
+  - 60349391
 total_fertility_rate:
-- 3.144
-- 3.163
-- 3.188
-- 3.199
+  - 3.144
+  - 3.163
+  - 3.188
+  - 3.199
 ISO_3166_1_numeric_code: 798
 M49_code: 798
 female_population:
-- 5301
-- 5367
-- 5449
-- 5513
+  - 5301
+  - 5367
+  - 5449
+  - 5513
 male_population:
-- 5654
-- 5702
-- 5755
-- 5799
+  - 5654
+  - 5702
+  - 5755
+  - 5799
 urban_population:
-- 6926
-- 7086
-- 7259
-- 7412
+  - 6926
+  - 7086
+  - 7259
+  - 7412
 death_rate:
-- 10.103
-- 10.159
-- 10.161
-- 10.188
+  - 10.103
+  - 10.159
+  - 10.161
+  - 10.188
 population: 11792
 IAB_code: 1464
 birth_rate:
-- 23.318
-- 23.484
-- 23.619
-- 23.632
+  - 23.318
+  - 23.484
+  - 23.619
+  - 23.632
 maritime_identification_digits: 572
 FIPS_10_4_countries_and_regions_: TV
 ISO_3166_1_alpha_2_code: TV
@@ -200,11 +200,11 @@ locator_map_image:
 country_calling_code: +688
 has_id_wikidata: Q672
 location:
-- -8.51667
-- 179.217
+    - -8.51667
+    - 179.217
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27041
 isDeleted: false
 confidential: public
@@ -221,15 +221,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Tuvalu
-- توفالو
-- 图瓦卢
-- Тувалу
+    - Tuvalu
+    - توفالو
+    - 图瓦卢
+    - Тувалу
 Languages:
-- tvl
-- en
-- sm
-- gil
+    - tvl
+    - en
+    - sm
+    - gil
 icon: flag-tv
 ---
 

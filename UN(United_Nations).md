@@ -1,7 +1,7 @@
 ---
 icon: flag-un
 aliases:
-- UNO
+  - UNO
 - "United Nations"
 - "United Nations Organization"
 has_id_wikidata: Q1065
@@ -58,7 +58,7 @@ founded_by:
 - '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 - '[[_Standards/WikiData/WD~Yugoslavia,36704]]'
 - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
-- "[[_Standards/WikiData/WD~Republic_of_China_(1912–1949),13426199]]"
+- "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
 has_goal:
 - '[[_Standards/WikiData/WD~peace,454]]'
 - '[[_Standards/WikiData/WD~donation,1124860]]'
@@ -116,7 +116,7 @@ headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
 replaces: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
 award_received:
 - "[[_Standards/WikiData/WD~Sakharov_Prize,48786]]"
-- "[[_Standards/WikiData/WD~Four_Freedoms_Award_–_Freedom_Medal,20203866]]"
+- "[[_Standards/WikiData/WD~Four_Freedoms_Award___Freedom_Medal,20203866]]"
 Commons_category: "United Nations"
 Archive_of_Our_Own_tag: "United Nations"
 DPLA_subject_term: "United Nations"
@@ -137,7 +137,7 @@ chairperson: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
 general_secretary: "[[_Standards/WikiData/WD~António_Guterres,311440]]"
 creator: "[[_Standards/WikiData/WD~Allies_of_the_Second_World_War,329888]]"
 partnership_with:
-- "[[_Standards/WikiData/WD~Asian–African_Legal_Consultative_Organization,333536]]"
+- "[[_Standards/WikiData/WD~Asian_African_Legal_Consultative_Organization,333536]]"
 - "[[_Standards/WikiData/WD~Association_for_Progressive_Communications,743611]]"
 political_ideology: '[[_Standards/WikiData/WD~internationalism,695838]]'
 part_of: "[[_Standards/WikiData/WD~United_Nations_System,854218]]"
@@ -162,36 +162,36 @@ personal_library_at: "[[_Standards/WikiData/WD~United_Nations_Digital_Library,11
 foundational_text: '[[_Standards/WikiData/WD~Q122828042,122828042]]'
 anthem: "[[_Standards/WikiData/WD~Hymn_to_the_United_Nations,125726814]]"
 short_name:
-- ANO
+  - ANO
 - "או\"מ"
-- VN
-- VN
-- UN
-- ONU
-- ONU
-- FN
-- ONU
-- UN
-- OSN
-- PBB
-- ÜRO
-- YK
-- ONI
-- 国連
-- PBB
-- ONZ
-- ООН
-- BM
+  - VN
+  - VN
+  - UN
+  - ONU
+  - ONU
+  - FN
+  - ONU
+  - UN
+  - OSN
+  - PBB
+  - ÜRO
+  - YK
+  - ONI
+  - 国連
+  - PBB
+  - ONZ
+  - ООН
+  - BM
 - "\U0001F1FA\U0001F1F3"
-- БДО
-- UN
+  - БДО
+  - UN
 official_shop_URL: "https://shop.un.org"
 spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Birl%C9%99%C5%9Fmi%C5%9F%20Mill%C9%99tl%C9%99r%20T%C9%99%C5%9Fkilat%C4%B1.wav"
 ISNI: 0000000123317789
 Bilibili_UID: 1649919642
 native_label:
 - "האומות המאוחדות"
-- 联合国
+  - 联合国
 - "United Nations"
 - "الأمم المتحدة"
 - "Verenigde Naties"
@@ -201,7 +201,7 @@ native_label:
 - "Vereinte Nationen"
 - "Naciones Unidas"
 official_name:
-- 联合国
+  - 联合国
 - "United Nations"
 - "Organización de las Naciones Unidas"
 - "Organisation des Nations unies"
@@ -240,17 +240,17 @@ Krugosvet_article: istoriya/ORGANIZATSIYA_OBEDINENNIH_NATSI_OON.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/33275
 MeSH_tree_code: N03.540.514.718
 Instagram_username:
-- nacionesunidas
-- nations_unies
-- unitednations
-- unitednations_arabic
-- unitednationsrussian
+  - nacionesunidas
+  - nations_unies
+  - unitednations
+  - unitednations_arabic
+  - unitednationsrussian
 Facebook_username:
-- nacionesunidas
-- nationsunies
-- unitednations
-- UnitedNationsArabic
-- UnitedNationsRussian
+  - nacionesunidas
+  - nationsunies
+  - unitednations
+  - UnitedNationsArabic
+  - UnitedNationsRussian
 hashtag: onu
 ISO_SWIFT_BIC_code: UNATUS33XXX
 GitHub_username: UNGlobalPlatform

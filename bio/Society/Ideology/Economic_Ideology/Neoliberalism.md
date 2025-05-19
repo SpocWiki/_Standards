@@ -4,7 +4,8 @@
 ## #has_/text_of_/abstract 
 
 > **Neoliberalism** is both a political philosophy and a term used to signify the 
-> late-20th-century political reappearance of 19th-century ideas associated with free-market capitalism. 
+> late-20th-century political reappearance of 19th-century ideas 
+> associated with free-market capitalism. 
 > 
 > The term has multiple, competing definitions, and is often used pejoratively. 
 > In scholarly use, the term is often left undefined or used to describe a multitude of phenomena; 

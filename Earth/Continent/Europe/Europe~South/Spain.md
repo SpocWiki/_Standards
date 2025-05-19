@@ -175,7 +175,7 @@ contains_the_administrative_territorial_entity:
 - "[[_Standards/WikiData/WD~Valencian_Community,5720]]"
 - "[[_Standards/WikiData/WD~La_Rioja,5727]]"
 - "[[_Standards/WikiData/WD~Castile_and_León,5739]]"
-- "[[_Standards/WikiData/WD~Castilla–La_Mancha,5748]]"
+- "[[_Standards/WikiData/WD~Castilla_La_Mancha,5748]]"
 - "[[_Standards/WikiData/WD~Community_of_Madrid,5756]]"
 - "[[_Standards/WikiData/WD~Region_of_Murcia,5772]]"
 - '[[_Standards/WikiData/WD~Extremadura,5777]]'
@@ -218,7 +218,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Achter_Band,131447403]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Spain,844587]]"
 motto: "[[_Standards/WikiData/WD~Plus_ultra,1045726]]"
 studied_in:
@@ -241,7 +241,7 @@ highest_judicial_authority:
 - "[[_Standards/WikiData/WD~Constitutional_Court_of_Spain,1566394]]"
 - "[[_Standards/WikiData/WD~Supreme_Court_of_Spain,19746]]"
 part_of:
-- "[[_Standards/WikiData/WD~Pyrenees–Mediterranean_Euroregion,1849394]]"
+- "[[_Standards/WikiData/WD~Pyrenees_Mediterranean_Euroregion,1849394]]"
 - '[[_Standards/WikiData/WD~Europe,46]]'
 - "[[_Standards/WikiData/WD~European_Union,458]]"
 - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
@@ -255,7 +255,7 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Spain,3847454
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Spain,4521133]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~Europe_Madrid,5412114]]'
-- '[[_Standards/WikiData/WD~UTC±00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 coordinates_of_northernmost_point:

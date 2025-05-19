@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "James Joyce"
 - "James Augustine Aloysius Joyce"
@@ -53,8 +53,8 @@ educated_at:
 described_by_source:
 - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
 - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
-- "[[_Standards/WikiData/WD~Marketing_Modernism_for_Children;_or_How_Joyce’s_The_Cat_and_the_Devil_and_Woolf’s_Nurse_Lugton…_Were_Made_into_Picture_Story_Books_in_English,_Italian,_and_French,48768932]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+- "[[_Standards/WikiData/WD~Marketing_Modernism_for_Children;_or_How_Joyce_s_The_Cat_and_the_Devil_and_Woolf_s_Nurse_Lugton__Were_Made_into_Picture_Story_Books_in_English,_Italian,_and_French,48768932]]"
 - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - "[[_Standards/WikiData/WD~James_Joyce,129665523]]"

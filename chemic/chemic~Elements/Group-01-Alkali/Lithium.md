@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21906
 has_id_wikidata: Q558
@@ -32,7 +32,7 @@ social_media_followers: 43663
 date_of_birth: "1968-07-05"
 ---
 
-#is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]] 
+#is_/same_as :: [[../../../WikiData/WD~Lithium,568_WD~Lithium,568]] 
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]

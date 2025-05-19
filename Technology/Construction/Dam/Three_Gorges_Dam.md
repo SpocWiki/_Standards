@@ -24,11 +24,11 @@ located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Yangtze,5413]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 watershed_area: 1000000
 width:
-- 40
-- 115
+  - 40
+  - 115
 elevation_above_sea_level:
-- 4
-- 185
+  - 4
+  - 185
 capacity_factor: 45
 discharge: 116000
 height: 181
@@ -46,8 +46,8 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/ThreeGorgesDam-China2
 Commons_gallery: "Three Gorges Dam"
 Commons_category: "Three Gorges Dam"
 native_label:
-- 三峽大壩
-- 三峡大坝
+  - 三峽大壩
+  - 三峡大坝
 ---
 
 ## #has_/text_of_/abstract 

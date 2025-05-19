@@ -40,9 +40,9 @@ office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Malta,79659
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Malta,851997]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Erster_Band,126374795]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 award_received: "[[_Standards/WikiData/WD~George_Cross,1143510]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Malta,1354023]]"
 owner_of:
@@ -85,51 +85,51 @@ open_data_portal: "[[_Standards/WikiData/WD~Malta_Data_Portal,97012118]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_Malta,119988571]]"
 coordinate_location: "Point(14.5 35.883333333)"
 demonym:
-- مالطية
-- Maltežanka
-- مالطي
-- مالطيين
-- مالطيات
-- Máltach
-- Maltanka
-- مالطي
-- مالطية
-- مالطيون
-- maltés
-- maltesa
-- মাল্টীয়
-- Maltese
-- Maltano
-- Maltais
-- Maltaise
-- מלטזי
-- מלטזית
-- máltai
-- Maltano
-- maltese
-- maltesi
-- malti
-- maltez
-- malteză
-- maltezi
-- мальтийцы
-- мальтієць
-- мальтійка
-- мальтійці
-- malteza
-- malteze
-- maltezi
-- maltezo
-- Malteänan
-- Maltańczyk
-- Maltežan
+  - مالطية
+  - Maltežanka
+  - مالطي
+  - مالطيين
+  - مالطيات
+  - Máltach
+  - Maltanka
+  - مالطي
+  - مالطية
+  - مالطيون
+  - maltés
+  - maltesa
+  - মাল্টীয়
+  - Maltese
+  - Maltano
+  - Maltais
+  - Maltaise
+  - מלטזי
+  - מלטזית
+  - máltai
+  - Maltano
+  - maltese
+  - maltesi
+  - malti
+  - maltez
+  - malteză
+  - maltezi
+  - мальтийцы
+  - мальтієць
+  - мальтійка
+  - мальтійці
+  - malteza
+  - malteze
+  - maltezi
+  - maltezo
+  - Malteänan
+  - Maltańczyk
+  - Maltežan
 Provenio_UUID: fbbf66bb-e720-457c-8e28-127f9ff812d0
 UMLS_CUI: C0024653
 X_Twitter_username: MaltaGov
 ISNI: 0000000120975364
 MeSH_tree_code:
-- Z01.542.580.500.650
-- Z01.639.640.650
+  - Z01.542.580.500.650
+  - Z01.639.640.650
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Serbia,403]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
@@ -188,9 +188,9 @@ unemployment_rate: 6
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Malta%20Valletta%20banner.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Malta%2C%202010%20-%20panoramio%20-%20Bengt%20Nyman%20%2823%29.jpg"
 death_rate:
-- 8
-- 7.3
-- 7.9
+  - 8
+  - 7.3
+  - 7.9
 marriageable_age: 18
 age_of_majority: 18
 VAT_rate: 18
@@ -200,9 +200,9 @@ Gini_coefficient: 31
 suicide_rate: 5.3
 retirement_age: 62
 birth_rate:
-- 8.1
-- 8.5
-- 8.6
+  - 8.1
+  - 8.5
+  - 8.6
 total_fertility_rate: 1.38
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856]]'
 area: 316
@@ -231,10 +231,10 @@ licence_plate_code: M
 GitHub_topic: malta
 CIVICUS_Monitor_country_entry: malta
 urban_population:
-- 477236
-- 488246
-- 491624
-- 503893
+  - 477236
+  - 488246
+  - 491624
+  - 503893
 population: 553214
 inception: "1964-09-21"
 has_time_started: "1964-09-21"
@@ -251,9 +251,9 @@ ISO_3166_1_alpha_3_code: MLT
 IOC_country_code: MLT
 ITU_letter_code: MLT
 NUTS_code:
-- MT
-- MT0
-- MT00
+  - MT
+  - MT0
+  - MT00
 ISO_3166_1_alpha_2_code: MT
 FIPS_10_4_countries_and_regions_: MT
 WIPO_ST_3: MT
@@ -268,29 +268,29 @@ Inequality_adjusted_Human_Development_Index: 0.849
 Human_Development_Index: 0.918
 short_name: "\U0001F1F2\U0001F1F9"
 rural_population:
-- 27220
-- 26826
-- 26912
-- 27086
+  - 27220
+  - 26826
+  - 26912
+  - 27086
 number_of_out_of_school_children: 2795
 coordinates_of_southernmost_point: "Point(14.51625165 35.80623721)"
 female_population:
-- 244207
-- 248434
-- 248831
-- 254244
+  - 244207
+  - 248434
+  - 248831
+  - 254244
 male_population:
-- 259854
-- 266898
-- 269705
-- 276869
+  - 259854
+  - 266898
+  - 269705
+  - 276869
 has_id_wikidata: Q233
 location:
-- 35.9
-- 14.52
+    - 35.9
+    - 14.52
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26970
 isDeleted: false
 confidential: public
@@ -307,16 +307,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Malta
-- Malte
-- مالطة
-- 马耳他
-- Мальта
+    - Malta
+    - Malte
+    - مالطة
+    - 马耳他
+    - Мальта
 - "the Republic of Malta"
 - "la República de Malta"
 Languages:
-- mt
-- en-MT
+    - mt
+    - en-MT
 icon: flag-mt
 ---
 

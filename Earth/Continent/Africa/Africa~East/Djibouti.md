@@ -9,7 +9,7 @@ member_of:
 - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
 - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -77,36 +77,36 @@ studied_in: "[[_Standards/WikiData/WD~Djiboutian_studies,115669401]]"
 coordinate_location: "Point(42.433333 11.8)"
 UMLS_CUI: C0012836
 demonym:
-- دجيبوتية
-- دجيبوتيين
-- دجيبوتيات
-- جيبوتية
-- جيبوتيون
-- xibutiana
-- xibutianu
-- জিবুতীয়
-- djiboutier
-- Djiboutian
-- Ĝibutiano
-- Djiboutien
-- Djiboutienne
+  - دجيبوتية
+  - دجيبوتيين
+  - دجيبوتيات
+  - جيبوتية
+  - جيبوتيون
+  - xibutiana
+  - xibutianu
+  - জিবুতীয়
+  - djiboutier
+  - Djiboutian
+  - Ĝibutiano
+  - Djiboutien
+  - Djiboutienne
 - "ג'יבוטית"
-- dzsibuti
-- Djibutiano
-- gibutiana
-- gibutiane
-- gibutiani
-- gibutiano
-- djiboutian
-- djiboutiană
-- djiboutieni
-- zibutan
-- zibutana
-- zibutane
-- zibutani
-- Cibutänan
-- جيبوتي
-- دجيبوتي
+  - dzsibuti
+  - Djibutiano
+  - gibutiana
+  - gibutiane
+  - gibutiani
+  - gibutiano
+  - djiboutian
+  - djiboutiană
+  - djiboutieni
+  - zibutan
+  - zibutana
+  - zibutane
+  - zibutani
+  - Cibutänan
+  - جيبوتي
+  - دجيبوتي
 - "ג'יבוטי"
 ISNI: 0000000107292948
 MeSH_tree_code: Z01.058.290.120.275
@@ -114,7 +114,7 @@ motto_text:
 - "Undod, Cydraddoldeb, Heddwch"
 - "اتحاد، مساواة، سلام"
 - "Единство, равенство, мир"
-- Djibeauty
+  - Djibeauty
 - "Unity, Equality, Peace"
 - "Unité, Égalité, Paix"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20view%20of%20Djibouti%20City.jpg"
@@ -162,34 +162,34 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.dj,41012]]'
 Democracy_Index: 2.71
 Inequality_adjusted_Human_Development_Index: 0.309
 BTI_Status_Index:
-- 4.12
-- 4.16
+  - 4.12
+  - 4.16
 Gini_coefficient: 41.6
 Human_Development_Index: 0.509
 ISO_3166_1_numeric_code: 262
 M49_code: 262
 BTI_Governance_Index:
-- 5.14
-- 5.17
+  - 5.14
+  - 5.17
 head_of_state: "[[_Standards/WikiData/WD~Ismail_Omar_Guelleh,57390]]"
 total_fertility_rate: 3.195
 death_rate:
-- 8.421
-- 8.821
-- 8.962
-- 9.147
+  - 8.421
+  - 8.821
+  - 8.962
+  - 9.147
 mobile_country_code: 638
 birth_rate:
-- 21.911
-- 22.205
-- 22.477
-- 22.748
+  - 21.911
+  - 22.205
+  - 22.477
+  - 22.748
 maritime_identification_digits: 621
 male_population:
-- 548890
-- 533626
-- 541471
-- 556264
+  - 548890
+  - 533626
+  - 541471
+  - 556264
 life_expectancy: 62.465
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Djibouti.svg"
 IAB_code: 1283
@@ -200,36 +200,36 @@ number_of_out_of_school_children: 137785
 OmegaWiki_Defined_Meaning: 8120
 INSEE_countries_and_foreign_territories_code: 99399
 rural_population:
-- 237192
-- 239158
-- 240823
-- 242328
+  - 237192
+  - 239158
+  - 240823
+  - 242328
 ISO_3166_1_alpha_2_code: DJ
 FIPS_10_4_countries_and_regions_: DJ
 WIPO_ST_3: DJ
 female_population:
-- 540367
-- 548686
-- 556667
-- 564584
+  - 540367
+  - 548686
+  - 556667
+  - 564584
 urban_population:
-- 836802
-- 850998
-- 864734
-- 878521
+  - 836802
+  - 850998
+  - 864734
+  - 878521
 Commons_gallery: "جيبوتي / Djibouti"
 official_name:
 - "جمهورية جيبوتي"
 - "République de Djibouti"
-- Jabuuti
+  - Jabuuti
 native_label:
 - "جمهورية جيبوتي"
 - "République de Djibouti"
-- Jabuuti
+  - Jabuuti
 short_name: "\U0001F1E9\U0001F1EF"
 nominal_GDP:
-- 3372287462
-- 3515109075
+  - 3372287462
+  - 3515109075
 coordinates_of_southernmost_point: "Point(41.94673 10.9131)"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Djibouti.svg"
 population: 1152944

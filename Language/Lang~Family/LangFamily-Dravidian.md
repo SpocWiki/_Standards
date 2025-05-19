@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags:
 - Lang_Family
@@ -11,7 +11,7 @@ writing_system: "[[_Standards/WikiData/WD~Brahmic_scripts,467037]]"
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 studied_in: "[[_Standards/WikiData/WD~Dravidian_studies,1128227]]"
 has_grammatical_case: "[[_Standards/WikiData/WD~antessive_case,4771446]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alexander Pushkin"
 - "Alexander Sergeyevich Pushkin"
@@ -83,15 +83,15 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 - "[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]"
-- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929—1939,4263804]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Literary_Encyclopedia_1929_1939,4263804]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]"
 - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-- "[[_Standards/WikiData/WD~Russian_writers__XIX_c. [2_2],125555366]]"
+- "[[_Standards/WikiData/WD~Russian_writers__XIX_c._2_2_,125555366]]"
 killed_by: "[[_Standards/WikiData/WD~Georges-Charles_de_Heeckeren_d'Anthès,709997]]"
 has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
 civil_rank: "[[_Standards/WikiData/WD~titular_councillor,1336636]]"

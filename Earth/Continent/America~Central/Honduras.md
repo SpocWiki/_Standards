@@ -1,10 +1,10 @@
 ---
 location:
-- 14.1
-- -87.2167
+  - 14.1
+  - -87.2167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26918
 isDeleted: false
 confidential: public
@@ -12,7 +12,7 @@ license: "CC BY-SA 4.0"
 isReadOnly: false
 source: "https://datahub.io/core/country-codes"
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Honduras
 linkTitle: 
@@ -22,16 +22,16 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Honduras
-- هندوراس
-- 洪都拉斯
-- Гондурас
+  - Honduras
+  - هندوراس
+  - 洪都拉斯
+  - Гондурас
 - "the Republic of Honduras"
 - "la República de Honduras"
 Languages:
-- es-HN
-- cab
-- miq
+  - es-HN
+  - cab
+  - miq
 icon: flag-hn
 has_id_wikidata: Q783
 flag: "[[_Standards/WikiData/WD~flag_of_Honduras,102939]]"
@@ -121,7 +121,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Honduran_Sign_Language,3915496]]"
 - '[[_Standards/WikiData/WD~Paya,4898889]]'
 - '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Ch’orti’,35177]]'
+- '[[_Standards/WikiData/WD~Ch_orti_,35177]]'
 - '[[_Standards/WikiData/WD~Garifuna,35490]]'
 - '[[_Standards/WikiData/WD~Lencan,36189]]'
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Honduras,2366847]]"
@@ -153,47 +153,47 @@ permanent_duplicated_item:
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Tegucigalpa,63286065]]'
-- '[[_Standards/WikiData/WD~UTC−06_00,5385]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 coordinates_of_northernmost_point: "Point(-85.85 16.52)"
 nominal_GDP:
-- 28488721296
-- 31717700115
+  - 28488721296
+  - 31717700115
 coordinates_of_easternmost_point: "Point(-83.12912 15.00647)"
 demonym:
-- هوندوراسي
-- هوندوراسية
-- هوندوراسيين
-- هوندوراسيات
-- Hondúrach
-- هندوراسي
-- هندوراسية
-- هندوراسيون
-- hondurana
-- honduranu
-- হন্ডুরীয়
-- Catracho
-- Honduran
-- Hondurano
-- Hondurien
-- Hondurienne
-- הונדורסי
-- הונדורסית
-- hondurasi
-- Hondurasano
-- honduregna
-- honduregne
-- honduregni
-- honduregno
-- onduran
-- Hondurees
-- гондурасец
-- гондураска
-- гондурасцы
-- onduregna
-- onduregne
-- onduregni
-- onduregno
-- Honduränan
+  - هوندوراسي
+  - هوندوراسية
+  - هوندوراسيين
+  - هوندوراسيات
+  - Hondúrach
+  - هندوراسي
+  - هندوراسية
+  - هندوراسيون
+  - hondurana
+  - honduranu
+  - হন্ডুরীয়
+  - Catracho
+  - Honduran
+  - Hondurano
+  - Hondurien
+  - Hondurienne
+  - הונדורסי
+  - הונדורסית
+  - hondurasi
+  - Hondurasano
+  - honduregna
+  - honduregne
+  - honduregni
+  - honduregno
+  - onduran
+  - Hondurees
+  - гондурасец
+  - гондураска
+  - гондурасцы
+  - onduregna
+  - onduregne
+  - onduregni
+  - onduregno
+  - Honduränan
 ISNI: 0000000122428161
 MeSH_tree_code: Z01.107.169.534
 coordinates_of_southernmost_point: "Point(-87.30844 12.98765)"
@@ -209,15 +209,15 @@ coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Honduras,4722]]"
 basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 BTI_Governance_Index:
-- 4
-- 5.5
-- 4.33
-- 4.98
-- 4.99
-- 5.01
-- 5.12
-- 5.42
-- 5.56
+  - 4
+  - 5.5
+  - 4.33
+  - 4.98
+  - 4.99
+  - 5.01
+  - 5.12
+  - 5.42
+  - 5.56
 unemployment_rate: 4
 mains_voltage: 110
 VAT_rate: 15
@@ -225,31 +225,31 @@ marriageable_age: 18
 age_of_majority: 21
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.hn,41025]]'
 BTI_Status_Index:
-- 4.71
-- 4.94
-- 5.51
-- 5.88
-- 5.94
-- 5.95
-- 5.97
-- 6.04
-- 6.09
+  - 4.71
+  - 4.94
+  - 5.51
+  - 5.88
+  - 5.94
+  - 5.95
+  - 5.97
+  - 6.04
+  - 6.09
 Inequality_adjusted_Human_Development_Index: 0.479
 Gini_coefficient: 48.2
 Democracy_Index: 5.36
 Happy_Planet_Index_score: 57.7
 Human_Development_Index: 0.621
 birth_rate:
-- 20.85
-- 21.071
-- 21.353
-- 21.628
+  - 20.85
+  - 21.071
+  - 21.353
+  - 21.628
 total_fertility_rate: 2.382
 death_rate:
-- 4.315
-- 4.945
-- 5.404
-- 5.608
+  - 4.315
+  - 4.945
+  - 5.404
+  - 5.608
 maritime_identification_digits: 334
 OmegaWiki_Defined_Meaning: 5751
 ISO_3166_1_numeric_code: 340
@@ -266,37 +266,37 @@ WIPO_ST_3: HN
 number_of_out_of_school_children: 369528
 INSEE_countries_and_foreign_territories_code: 99411
 male_population:
-- 5112980
-- 5031794
-- 5190703
-- 5267354
+  - 5112980
+  - 5031794
+  - 5190703
+  - 5267354
 ISO_3166_1_alpha_3_code: HND
 ITU_letter_code: HND
 urban_population:
-- 5906960
-- 5749232
-- 6062373
-- 6217985
+  - 5906960
+  - 5749232
+  - 6062373
+  - 6217985
 PM20_geo_code: E68
 official_name:
-- Honduras
+  - Honduras
 - "la République du Honduras"
 IOC_country_code: HON
 CIVICUS_Monitor_country_entry: honduras
 GitHub_topic: honduras
 U_S_National_Archives_Identifier: 10044629
 rural_population:
-- 4209597
-- 4214803
-- 4214875
-- 4215972
+  - 4209597
+  - 4214803
+  - 4214875
+  - 4215972
 female_population:
-- 4927035
-- 5008783
-- 5087643
-- 5165506
+  - 4927035
+  - 5008783
+  - 5087643
+  - 5165506
 population: 10062994
-inception: "1821"
+inception: 1821-06 
 has_time_started: 1821-06 
 Commons_category: Honduras
 subreddit: Honduras

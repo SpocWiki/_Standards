@@ -43,9 +43,9 @@ properties_for_this_type:
 - "language of work or name"
 - "date of first performance"
 - "location of first performance"
-- librettist
-- composer
-- genre
+  - librettist
+  - composer
+  - genre
 country_of_origin: '[[_Standards/WikiData/WD~Europe,46]]'
 IAB_code: 208
 social_media_followers: 23082

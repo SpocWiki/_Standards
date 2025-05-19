@@ -25,7 +25,7 @@ TableByName:
 > It has observer status at the United Nations.
 >
 > The OSCE had its origins in 1975: 
-> its predecessors came together during the era of the [Cold War](../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/Cold_War.md) 
+> its predecessors came together during the era of the [Cold War](../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/Cold_War.md) 
 > to form a forum for discussion between the Western Bloc and the Eastern Bloc. 
 > 
 > Most of its 57 participating countries are in [[../Earth/Continent/Europe|Europe]], 

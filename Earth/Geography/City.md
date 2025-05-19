@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5152
 country_of_citizenship:
 - '[[_Standards/WikiData/WD~Turkey,43]]'
@@ -83,7 +83,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~mareşal,16151507]]'
 eye_color: '[[_Standards/WikiData/WD~blue,17122834]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969–1978),17378135]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
 - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 permanent_duplicated_item:

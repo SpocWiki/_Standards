@@ -103,7 +103,7 @@ member_of:
 - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
 - "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
 - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-- "[[_Standards/WikiData/WD~United_Nations–African_Union_Hybrid_Operation_in_Darfur,384535]]"
+- "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
 - "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207]]"
 - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
@@ -267,8 +267,8 @@ continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 5
 retirement_age: 60
 age_of_majority:
-- 16
-- 18
+  - 16
+  - 18
 railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pakistan,13211550]]'
@@ -279,71 +279,71 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Pakistan,97062473]]"
 urban_population: 75670837
 nominal_GDP:
-- 348262544719
-- 376532751807
+  - 348262544719
+  - 376532751807
 Baidu_Tieba_name: 巴基斯坦
 UMLS_CUI: C0030211
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Pakistan%20Base%20Map.png"
 demonym:
-- پاكيستاني
-- پاكيستانية
-- پاكيستانيين
-- پاكيستانيات
-- Pacastánach
-- باكستاني
-- باكستانية
-- paquistanín
-- paquistanina
-- পাকিস্তানী
-- Pakistaner
-- Pakistanerin
-- Pakistanano
-- pakistaní
-- Pakistanaise
-- פקיסטני
-- פקיסטנית
-- pakisztáni
-- Pakistanano
-- pakistana
-- pakistane
-- pakistani
-- pakistano
-- pacistani
-- Pakistaan
-- Pakistani
-- pakistanez
-- pakistaneză
-- pakistanezi
-- пакистанка
-- pakistan
-- pakistana
-- pakistane
-- pakistani
-- Pakistänan
-- باكستانيون
-- pakistaníes
-- Pakistanais
-- पाकिस्तानी
-- пакистанец
-- пакистанцы
-- پاکستانی
-- Pakistani
+  - پاكيستاني
+  - پاكيستانية
+  - پاكيستانيين
+  - پاكيستانيات
+  - Pacastánach
+  - باكستاني
+  - باكستانية
+  - paquistanín
+  - paquistanina
+  - পাকিস্তানী
+  - Pakistaner
+  - Pakistanerin
+  - Pakistanano
+  - pakistaní
+  - Pakistanaise
+  - פקיסטני
+  - פקיסטנית
+  - pakisztáni
+  - Pakistanano
+  - pakistana
+  - pakistane
+  - pakistani
+  - pakistano
+  - pacistani
+  - Pakistaan
+  - Pakistani
+  - pakistanez
+  - pakistaneză
+  - pakistanezi
+  - пакистанка
+  - pakistan
+  - pakistana
+  - pakistane
+  - pakistani
+  - Pakistänan
+  - باكستانيون
+  - pakistaníes
+  - Pakistanais
+  - पाकिस्तानी
+  - пакистанец
+  - пакистанцы
+  - پاکستانی
+  - Pakistani
 female_population: 101344632
 PM20_geo_code: B42b
 native_label:
-- پاڪستان
-- Pákistán
-- پاکستان
-- پاکِستان
-- پاکستان
-- پاکستان
-- پاکستان
-- پاڪستان
-- Pakistan
-- پاکستان
+  - پاڪستان
+  - Pákistán
+  - پاکستان
+  - پاکِستان
+  - پاکستان
+  - پاکستان
+  - پاکستان
+  - پاڪستان
+  - Pakistan
+  - پاکستان
 subreddit:
-- explorepakistan
-- pakistan
+  - explorepakistan
+  - pakistan
 MeSH_tree_code: Z01.252.245.782.968
 coordinates_of_westernmost_point: "Point(60.8848891 29.8563804)"
 coordinates_of_northernmost_point: "Point(74.68 37.1)"
@@ -355,24 +355,24 @@ official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 VAT_rate: 17
 mains_voltage: 230
 BTI_Governance_Index:
-- 3.1
-- 3.18
-- 3.19
-- 3.32
-- 3.48
-- 3.51
-- 3.54
-- 4.33
-- 4.38
+  - 3.1
+  - 3.18
+  - 3.19
+  - 3.32
+  - 3.48
+  - 3.51
+  - 3.54
+  - 4.33
+  - 4.38
 BTI_Status_Index:
-- 3.7
-- 3.9
-- 3.81
-- 3.89
-- 3.96
-- 4.01
-- 4.41
-- 4.43
+  - 3.7
+  - 3.9
+  - 3.81
+  - 3.89
+  - 3.96
+  - 4.01
+  - 4.41
+  - 4.43
 Inequality_adjusted_Human_Development_Index: 0.38
 literacy_rate: 58
 suicide_rate: 9.8
@@ -432,8 +432,8 @@ U_S_National_Archives_Identifier: 10035763
 Dewey_Decimal_Classification: 2--5491
 BHCL_UUID: 38c8f8fa-3049-4628-8353-9db8c0f81fdf
 ISBN_identifier_group:
-- 978-627
-- 978-969
+  - 978-627
+  - 978-969
 Wolfram_Language_entity_code:
 - "Entity[\"Concept\", \"IslamicRepublicOfPakistan::gcd4v\"]"
 - "Entity[\"Country\", \"Pakistan\"]"
@@ -441,11 +441,11 @@ GitHub_topic: pakistan
 CIVICUS_Monitor_country_entry: pakistan
 has_id_wikidata: Q843
 location:
-- 29.2633
-- 70.1033
+    - 29.2633
+    - 70.1033
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26995
 isDeleted: false
 confidential: public
@@ -462,21 +462,21 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Pakistan
-- Pakistán
-- باكستان
-- 巴基斯坦
-- Пакистан
+    - Pakistan
+    - Pakistán
+    - باكستان
+    - 巴基斯坦
+    - Пакистан
 - "the Islamic Republic of Pakistan"
 - "la República Islámica del Pakistán"
 - "Pakistán (el)"
 Languages:
-- ur-PK
-- en-PK
-- pa
-- sd
-- ps
-- brh
+    - ur-PK
+    - en-PK
+    - pa
+    - sd
+    - ps
+    - brh
 icon: flag-pk
 ---
 

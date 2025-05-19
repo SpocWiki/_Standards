@@ -140,7 +140,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Minica_Huitoto,948514]]"
 - '[[_Standards/WikiData/WD~Desano,962392]]'
 - '[[_Standards/WikiData/WD~Ticuna,1815205]]'
-- "[[_Standards/WikiData/WD~San_Andrés–Providencia_Creole,2044587]]"
+- "[[_Standards/WikiData/WD~San_Andrés_Providencia_Creole,2044587]]"
 - '[[_Standards/WikiData/WD~Bora,2375468]]'
 - "[[_Standards/WikiData/WD~Northern_Embera,2391297]]"
 - '[[_Standards/WikiData/WD~Tuyuca,2520538]]'
@@ -246,61 +246,61 @@ has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Bogota,63286092]]'
-- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
 coordinates_of_easternmost_point: "Point(-66.8512 1.229)"
 demonym:
-- كولومبي
-- كولومبية
-- كولومبيين
-- كولومبيات
-- Kolumbijec
-- Kolumbijka
-- Colómach
-- كولومبي
-- كولومبية
-- كولومبيون
-- colombiana
-- colombianu
-- কলম্বীয়
-- colombianer
-- Kolumbianer
-- Kolumbianerin
-- Kolombiano
-- colombiana
-- colombianas
-- colombiano
-- colombianos
-- colombien
-- colombienne
-- colombiennes
-- colombiens
-- קולומביאני
-- קולומביאנית
-- kolumbiai
-- Kolumbiano
-- colombiana
-- colombiane
-- colombiani
-- colombiano
-- colombian
-- Kolumbijczyk
-- Kolumbijka
-- columbian
-- columbiană
-- columbieni
-- колумбийцы
-- colombian
-- ኮሎምብያዊ
-- колумбієць
-- колумбійка
-- колумбійці
-- cołonbian
-- cołonbiana
-- cołonbiane
-- cołonbiani
-- Kolumbänan
-- Colombian
+  - كولومبي
+  - كولومبية
+  - كولومبيين
+  - كولومبيات
+  - Kolumbijec
+  - Kolumbijka
+  - Colómach
+  - كولومبي
+  - كولومبية
+  - كولومبيون
+  - colombiana
+  - colombianu
+  - কলম্বীয়
+  - colombianer
+  - Kolumbianer
+  - Kolumbianerin
+  - Kolombiano
+  - colombiana
+  - colombianas
+  - colombiano
+  - colombianos
+  - colombien
+  - colombienne
+  - colombiennes
+  - colombiens
+  - קולומביאני
+  - קולומביאנית
+  - kolumbiai
+  - Kolumbiano
+  - colombiana
+  - colombiane
+  - colombiani
+  - colombiano
+  - colombian
+  - Kolumbijczyk
+  - Kolumbijka
+  - columbian
+  - columbiană
+  - columbieni
+  - колумбийцы
+  - colombian
+  - ኮሎምብያዊ
+  - колумбієць
+  - колумбійка
+  - колумбійці
+  - cołonbian
+  - cołonbiana
+  - cołonbiane
+  - cołonbiani
+  - Kolumbänan
+  - Colombian
 motto_text:
 - "Liberdade e orde"
 - "Rhyddid a Threfn"
@@ -314,8 +314,8 @@ UMLS_CUI: C3245499
 MeSH_tree_code: Z01.107.757.284
 coordinate_location: "Point(-73.25 4.0)"
 nominal_GDP:
-- 318511813577
-- 343939445259
+  - 318511813577
+  - 343939445259
 shares_border_with:
 - '[[_Standards/WikiData/WD~Peru,419]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
@@ -343,34 +343,34 @@ short_name: "\U0001F1E8\U0001F1F4"
 inception: "1810"
 has_time_started: 1810-06 
 male_population:
-- 24779301
-- 25139588
-- 25415242
-- 25575607
+  - 24779301
+  - 25139588
+  - 25415242
+  - 25575607
 female_population:
-- 25408106
-- 25791075
-- 26101321
-- 26298417
+  - 25408106
+  - 25791075
+  - 26101321
+  - 26298417
 urban_population:
-- 40703994
-- 41470292
-- 42109638
-- 42562637
+  - 40703994
+  - 41470292
+  - 42109638
+  - 42562637
 population: 52321152
 coordinates_of_southernmost_point: "Point(-69.94792 -4.23167)"
 GS1_country_code: 770-771
 rural_population:
-- 9311387
-- 9406924
-- 9483412
-- 9460370
+  - 9311387
+  - 9406924
+  - 9483412
+  - 9460370
 PM20_geo_code: E76
 coordinates_of_northernmost_point: "Point(-81.37 13.38)"
 coordinates_of_westernmost_point: "Point(-81.7 12.58333333)"
 aircraft_registration_prefix:
-- HJ
-- HK
+  - HJ
+  - HK
 ITU_letter_code: CLM
 geoshape: "http://commons.wikimedia.org/data/main/Data:Colombia.map"
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Colombia.svg"
@@ -388,27 +388,27 @@ age_of_majority: 18
 VAT_rate: 19
 suicide_rate: 3.7
 BTI_Governance_Index:
-- 5.4
-- 5.14
-- 5.24
-- 5.36
-- 5.71
-- 5.88
-- 6.13
-- 6.14
+  - 5.4
+  - 5.14
+  - 5.24
+  - 5.36
+  - 5.71
+  - 5.88
+  - 6.13
+  - 6.14
 retirement_age:
-- 57
-- 62
+  - 57
+  - 62
 BTI_Status_Index:
-- 6.1
-- 6.21
-- 6.28
-- 6.33
-- 6.45
-- 6.56
-- 6.59
-- 6.65
-- 6.67
+  - 6.1
+  - 6.21
+  - 6.28
+  - 6.33
+  - 6.45
+  - 6.56
+  - 6.59
+  - 6.65
+  - 6.67
 life_expectancy: 74
 unemployment_rate: 9.4
 total_fertility_rate: 1.94
@@ -444,11 +444,11 @@ Commons_gallery: Colombia
 subreddit: Colombia
 has_id_wikidata: Q739
 location:
-- 3.525
-- -75.225
+    - 3.525
+    - -75.225
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26871
 isDeleted: false
 confidential: public
@@ -465,15 +465,15 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- Colombia
-- Colombie
-- كولومبيا
-- 哥伦比亚
-- Колумбия
+    - Colombia
+    - Colombie
+    - كولومبيا
+    - 哥伦比亚
+    - Колумбия
 - "the Republic of Colombia"
 - "la República de Colombia"
 Languages:
-- es-CO
+    - es-CO
 icon: flag-co
 ---
 

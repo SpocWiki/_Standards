@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12195
 ICD_9_CM:
 - 045.90
@@ -53,7 +53,7 @@ possible_treatment:
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 medical_examination:
 - "[[_Standards/WikiData/WD~physical_examination,835153]]"
@@ -68,7 +68,7 @@ subclass_of:
 - "[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]"
 - '[[_Standards/WikiData/WD~disease,12136]]'
 disease_transmission_process:
-- "[[_Standards/WikiData/WD~fecal–oral_route,2272069]]"
+- "[[_Standards/WikiData/WD~fecal_oral_route,2272069]]"
 - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
 has_cause: '[[_Standards/WikiData/WD~poliovirus,12438936]]'

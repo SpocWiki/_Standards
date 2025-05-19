@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21945
 has_id_wikidata: Q1091
@@ -25,8 +25,8 @@ has_use:
 - '[[_Standards/WikiData/WD~pigment,161179]]'
 - '[[_Standards/WikiData/WD~photodetector,210765]]'
 - "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
-- "[[_Standards/WikiData/WD~nickel–cadmium_battery,898377]]"
-- "[[_Standards/WikiData/WD~helium–cadmium_laser,1271190]]"
+- "[[_Standards/WikiData/WD~nickel_cadmium_battery,898377]]"
+- "[[_Standards/WikiData/WD~helium_cadmium_laser,1271190]]"
 - "[[_Standards/WikiData/WD~quantum_dot_display,1969361]]"
 - '[[_Standards/WikiData/WD~electroplating,3503392]]'
 - "[[_Standards/WikiData/WD~Silver-cadmium_battery,48798855]]"
@@ -50,7 +50,7 @@ described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
 - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 found_in_taxon: "[[_Standards/WikiData/WD~Tedania_charcoti,1809628]]"

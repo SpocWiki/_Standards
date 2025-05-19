@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11577
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 has_use:
@@ -58,7 +58,7 @@ parent_taxon: '[[_Standards/WikiData/WD~Hordeum,518044]]'
 described_by_source:
 - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
 - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]"
