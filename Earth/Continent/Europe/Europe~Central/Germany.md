@@ -792,13 +792,8 @@ ISO_3166_1_alpha_3_code: DEU
 GitHub_topic: deutschland
 Commons_gallery: Deutschland
 hashtag:
-<<<<<<< HEAD
   - Germany
   - Deutschland
-=======
-  - Deutschland
-  - Germany
->>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 Wolfram_Language_entity_code: Entity["Country", "Germany"]
 IOC_country_code: GER
 CIVICUS_Monitor_country_entry: germany
@@ -1167,23 +1162,7 @@ mains_voltage: 230
 water_as_percent_of_area: 2.3
 suicide_rate: 8.3
 literacy_rate: 99
-<<<<<<< HEAD
 total_fertility_rate: 1.455
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.de,37251]]"
-Gini_coefficient: 31.7
-maximum_temperature_record: 41.2
-patron_saint: "[[_Standards/WikiData/WD~Archangel_Michael,45581]]"
-Stack_Exchange_tag: https://travel.stackexchange.com/tags/germany
-official_website: https://verwaltung.bund.de
-country_calling_code: "+49"
-trunk_prefix: "0"
-flag: "[[_Standards/WikiData/WD~flag_of_Germany,48160]]"
-U_S_National_Archives_Identifier: "10044480"
-IAB_code: "1300"
-maritime_identification_digits:
-  - "218"
-  - "211"
-=======
 total_fertility_rate: 1.39
 top_level_Internet_domain: "[[../../../../WikiData/WD~.de]]"
 Gini_coefficient: 31.7
@@ -1199,7 +1178,6 @@ IAB_code: 1300
 maritime_identification_digits:
   - 211
   - 218
->>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 has_name:
   _: Germany
   en: Germany
@@ -1269,7 +1247,7 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-> [!warning] This can considerably increase the total size and depth of your wiki!
+> [!warning] This can considerably increase the total size and depth of this wiki!
 
 
 ### #has_/image_for_/flag 
