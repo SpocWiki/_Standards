@@ -4,7 +4,7 @@ aliases:
   - Jules Gabriel Verne
 ---
 
-Verne had a Notes system, similar to [[../../../../_orga/Zettelkasten]] that he destroyed before his death. 
+Verne had a Notes system, similar to [[../../../../../_orga/Zettelkasten]] that he destroyed before his death. 
 He had a regular monthly income from a contract with his publisher. 
 His Novels were used to educate children on Technology. 
 

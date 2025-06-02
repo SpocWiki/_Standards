@@ -201,7 +201,7 @@ date_of_birth: "1265"
 > His depictions of Hell, Purgatory, and Heaven provided inspiration 
 > for the larger body of Western art and literature. 
 > 
-> He influenced English writers such as [[../Chaucer,Geoffrey|Geoffrey Chaucer]], John Milton, and Alfred Tennyson, 
+> He influenced English writers such as [[Chaucer,Geoffrey|Geoffrey Chaucer]], John Milton, and Alfred Tennyson, 
 > among many others. 
 > 
 > In addition, the first use of the interlocking three-line rhyme scheme, 

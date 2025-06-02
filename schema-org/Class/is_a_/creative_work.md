@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 ---
-is_sub_class_of: "[Thing](../Thing.md)"
-=======
-﻿---
 is_sub_class_of: '[Thing](../Thing.md)'
->>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false

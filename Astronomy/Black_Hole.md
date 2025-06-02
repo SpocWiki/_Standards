@@ -50,9 +50,28 @@ studied_in: '[[_Standards/WikiData/WD~astrophysics,37547]]'
 OmegaWiki_Defined_Meaning: 8329
 ---
 
+[[../../_Standards/Astronomy/Black_Hole|Black_Hole]]s convert Matter into Energy much more efficiently than Suns do. 
+Non-rotating Black Holes convert 50% of the mass into energy, 
+but rotating Holes can convert most of the mass. 
+
+
+
 ## #has_/text_of_/abstract 
 
-> A **Black hole** is a region of spacetime where gravity is so strong that nothing, not even light, can escape it. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of no escape is called the event horizon. A black hole has a great effect on the fate and circumstances of an object crossing it, but has no locally detectable features according to general relativity. In many ways, a black hole acts like an ideal black body, as it reflects no light. Quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. This temperature is of the order of billionths of a kelvin for stellar black holes, making it essentially impossible to observe directly.
+> A **Black hole** is a region of spacetime 
+> where gravity is so strong that nothing, not even light, can escape it. 
+> 
+> Albert Einstein's theory of general relativity predicts 
+> that a sufficiently compact mass can deform spacetime to form a black hole. 
+> 
+> The boundary of no escape is called the event horizon. 
+> A black hole has a great effect on the fate and circumstances of an object crossing it, 
+> but has no locally detectable features according to general relativity. 
+> 
+> In many ways, a black hole acts like an ideal black body, as it reflects no light. 
+> Quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, 
+> with the same spectrum as a black body of a temperature inversely proportional to its mass. 
+> This temperature is of the order of billionths of a kelvin for stellar black holes, making it essentially impossible to observe directly.
 >
 > Objects whose gravitational fields are too strong for light to escape were first considered in the 18th century by John Michell and Pierre-Simon Laplace. In 1916, Karl Schwarzschild found the first modern solution of general relativity that would characterise a black hole. Due to his influential research, the Schwarzschild metric is named after him. David Finkelstein, in 1958, first published the interpretation of "black hole" as a region of space from which nothing can escape. Black holes were long considered a mathematical curiosity; it was not until the 1960s that theoretical work showed they were a generic prediction of general relativity. The discovery of neutron stars by Jocelyn Bell Burnell in 1967 sparked interest in gravitationally collapsed compact objects as a possible astrophysical reality. The first black hole known was Cygnus X-1, identified by several researchers independently in 1971.
 >

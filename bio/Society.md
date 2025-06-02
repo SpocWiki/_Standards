@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8425
 instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 has_characteristic:

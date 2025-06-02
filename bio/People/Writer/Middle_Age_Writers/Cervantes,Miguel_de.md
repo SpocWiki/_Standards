@@ -111,9 +111,13 @@ name: "Cervantes Saavedra, Miguel de"
 nickname: "El manco de Lepanto"
 ---
 
+#has_/time_/started  :: `=this.date_of_birth` 
+#has_/time_/stopped :: `=this.date_of_death` 
+
 ## #has_/text_of_/abstract 
 
-> **Miguel de Cervantes** Saavedra ( sur-VAN-teez, -⁠tiz; Spanish: [miˈɣel de θeɾˈβantes saaˈβeðɾa]; 29 September 1547 (assumed) – 22 April 1616 NS) was a Spanish writer 
+> **Miguel de Cervantes** Saavedra ( sur-VAN-teez, -⁠tiz; Spanish: [miˈɣel de θeɾˈβantes saaˈβeðɾa]; 
+> 29 September 1547 (assumed) – 22 April 1616 NS) was a Spanish writer 
 > widely regarded as the greatest writer in the Spanish language 
 > and one of the world's pre-eminent novelists. 
 > He is best known for his novel Don Quixote, a work considered as the first modern novel. 

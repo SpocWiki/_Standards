@@ -53,17 +53,10 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 ## Confidential Links & Embeds: 
-<<<<<<< HEAD:schema-org/Property/has_value_for/has_place_elevation_meters.md
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_place_elevation_meters|has_place_elevation_meters]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_place_elevation_meters.public|has_place_elevation_meters.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_place_elevation_meters.internal|has_place_elevation_meters.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_place_elevation_meters.protect|has_place_elevation_meters.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_place_elevation_meters.private|has_place_elevation_meters.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_place_elevation_meters.personal|has_place_elevation_meters.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_place_elevation_meters.secret|has_place_elevation_meters.secret]] 
-=======
 
-### [has_place_elevation_in_meters](/_public/schema-org/Property/has_value_for/has_place_elevation_in_meters.md) 
+### [has_place_elevation_in_meters](/_Standards/schema-org/Predicate/Quantities/has_place_elevation_meters.md) 
+
+### [has_place_elevation_meters.public](/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public.md) 
 
 ### [has_place_elevation_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_elevation_in_meters.internal.md) 
 
@@ -74,4 +67,3 @@ Predicate describes that:
 ### [has_place_elevation_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_elevation_in_meters.personal.md) 
 
 ### [has_place_elevation_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_elevation_in_meters.secret.md) 
->>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb:schema-org/Property/has_value_for/has_place_elevation_in_meters.md

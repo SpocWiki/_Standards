@@ -324,7 +324,7 @@ female_population:
 short_name:
   - Ireland
   - Éire
-- "\U0001F1EE\U0001F1EA"
+  - "\U0001F1EE\U0001F1EA"
 native_label:
   - Ireland
   - Éire

@@ -78,7 +78,7 @@ Commons_gallery: Hydrogen
 #chemic/Element 
 [GroupName::Group-01-Alkali]
 [Group::[[Group-01-Alkali]]]
-
+#has_/created :: [[Hydrogen/Hydrogen_Embrittlement]] 
 
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]
@@ -153,7 +153,27 @@ Commons_gallery: Hydrogen
 > Hydrogen's interaction with metals may cause embrittlement.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen)
-## #has_/text_of_/abstract 
+
+
+## Hydrogen_Source
+
+Hydrogen is classified by **"color labels"** to indicate the **primary energy source** and **carbon emissions profile** associated with its production. 
+
+| **Color**      | **Primary Energy Source**          | **Production Method**                  | **CO₂ Emissions (kg CO₂/kg H₂)** | % Global H₂ Production (2023) |
+| -------------- | ---------------------------------- | -------------------------------------- | -------------------------------- | ----------------------------- |
+| **Grey**       | Fossil fuels (usually natural gas) | Steam Methane Reforming (SMR)          | 9–12 kg CO₂/kg H₂                | 76                            |
+| **Blue**       | ^                                  | SMR + CCS (Carbon Capture and Storage) | 1–4 kg CO₂/kg H₂                 | 3–6                           |
+| **Turquoise**  | ^                                  | Pyrolysis (produces solid carbon)      | 0–2 kg CO₂/kg H₂                 | <1                            |
+| **Green**      | Renewable electricity              | Water electrolysis                     | ≈ 0 kg CO₂/kg H₂                 | 1–2                           |
+| **Yellow**     | Grid electricity (mixed sources)   | Water electrolysis                     | Varies (depends on grid mix)     | <1                            |
+| **Pink / Red** | Nuclear power                      | Electrolysis or thermochemical         | ≈ 0 kg CO₂/kg H₂                 | <1                            |
+| **White**      | Natural geologic hydrogen          | Extraction/mining                      | ≈ 0 kg CO₂/kg H₂                 | <<1 (experimental)            |
+ 
+### 
+
+## TriHydrogen 
+
+### #has_/text_of_/abstract 
 
 
 > The trihydrogen cation or protonated molecular hydrogen is a cation (positive ion) 
@@ -168,7 +188,7 @@ Commons_gallery: Hydrogen
 > because its two electrons are the only valence electrons in the system. 
 > It is also the simplest example of a three-center two-electron bond system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation) 
 
 ## Confidential Links & Embeds: 
 
