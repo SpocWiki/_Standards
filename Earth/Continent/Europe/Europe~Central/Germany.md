@@ -668,7 +668,7 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-> [!warning] This can considerably increase the total size and depth of your wiki!
+> [!warning] This can increase the total size and depth of your wiki considerably!
 
 
 ### #has_/image_for_/flag 
