@@ -1,0 +1,240 @@
+---
+title: Caryophyllales
+---
+
+-   « Ancestral Groups 
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](Eukaryotes/Green_plants/Embryophytes/Spermatopsida/Angiosperms/eudicots/Eudicots.md)
+    -   [Angiosperms](Angiosperms.md)
+    -   [Spermatopsida](Spermatopsida.md)
+    -   [Embryophytes](Embryophytes.md)
+    -   [Green plants](Green_plants)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Core Eudicots
+    -   [Santalales](Santalales.md)
+    -   [Saxifragales](Saxifragales.md)
+    -   [Berberidopsidales](Berberidopsidales.md)
+    -   [Rosids](Rosids.md)
+    -   Caryophyllales
+    -   [Asterids](Asterids.md)
+
+-   » Sub-Groups
+    -   [non-core Caryophyllales](non-core_Caryophyllales)
+    -   [core Caryophyllales](core_Caryophyllales)
+
+# Caryophyllales
+
+## caryophyllids 
+
+[Pam Soltis and Doug Soltis](#AboutThisPage)
+
+![Polygonum orientale](Polygonum_orientale05589_002.jpg)
+![](Stellaria-4_002.JPG)
+![ ](Drosera_capensis05318_002.jpg)
+
+Relationships after Cuénoud et al. (2002)
+
+Containing group: [Core Eudicots](Eukaryotes/Green_plants/Embryophytes/Spermatopsida/Angiosperms/eudicots/Eudicots.md)
+
+### Introduction
+
+Caryophyllales have long been recognized as a natural assemblage (e.g.,
+Braun 1864; Eichler 1875-1878). Previous circumscriptions based on
+morphological and embryological characters recognized up to nine
+families, and subsequent classifications that pioneered the use of
+chemical and anatomical characters included 12 families (e.g., Dahlgren
+1975, 1980; Takhtajan 1980; Cronquist 1981; Thorne 1983, 1992a, 1992b).
+These circumscriptions remained largely intact for the past 30 years
+until recently when molecular phylogenetic analyses started reshaping
+concepts of Caryophyllales. Most notable is the discovery that certain
+carnivorous plants---the sundews and Venus flytrap (Droseraceae) and Old
+World pitcher plants (Nepenthaceae)---are closely related to Cronquist's
+Caryophyllidae (Albert *et al.* 1992; Chase *et al*. 1993; Williams *et
+al*. 1994; Meimberg *et al*. 2000; Cuénoud *et al*. 2002). In addition,
+many families previously considered distantly related to Caryophyllales
+have been found to form a large clade with Caryophyllales (e.g.,
+Asteropeiaceae and Physenaceae, Morton *et al.* 1997; Rhabdodendraceae,
+Fay *et al*. 1997a; Simmondsiaceae, e.g., D. Soltis *et al*. 2000). The
+strong support for this clade in recent multigene analyses (e.g., D.
+Soltis *et al.* 2000; Cuénoud *et al.* 2002) has led to a revised---and
+broader---circumscription of Caryophyllales by APG (1998) and APG II
+(2003).
+
+Because of the potential confusion introduced by applying the name
+Caryophyllales to a large clade, not all investigators have accepted
+this circumscription. For example, Judd *et al*. (2002) continue to use
+Caryophyllales in a narrow sense (= core Caryophyllales in APG and APG
+II) and refer to the larger, more inclusive clade as the caryophyllid
+clade. Although morphological and anatomical characters are generally
+consistent with these expanded circumscriptions, nonDNA synapomorphies
+for this newly recognized expanded Caryophyllales have not yet been
+discovered. Caryophyllales *sensu* APG II (2003) comprise 29 families,
+including Caryophyllaceae, Nyctaginaceae, Phytolaccaceae, Aizoaceae,
+Amaranthaceae (including Chenopodiaceae), Molluginaceae, Basellaceae,
+Cactaceae, Didiereaceae, a polyphyletic "Portulacaceae" and several
+small families, some of them of problematic placement, such as
+Frankeniaceae, Tamaricaceae, Asteropeiaceae, Rhabdodendraceae,
+Simmondsiaceae, Nepenthaceae and Droseraceae.  Two other families have
+been proposed: "Agdestidaceae" and "Petiveriaceae".
+
+### Characteristics
+
+Many members of Caryophyllales are adapted structurally or
+physiologically to extreme environments such as deserts, high-alkaline
+soils, high-saline substrates, and nutrient-poor soils. They have
+conquered these habitats through a variety of adaptations such as
+unusual photosynthetic pathways (crassulacean acid metabolism, CAM, and
+C~4~ as opposed to C~3~ photosynthesis), unusual morphologies (e.g.,
+succulence), secretion of excessive salt by special glands, and unusual
+methods of nutrient uptake (e.g., carnivory). Given the distributions of
+these adaptations across Caryophyllales, it appears that most of these
+adaptations have arisen many times.
+
+### Relationships of Caryophyllales to Other Clades of Eudicots
+
+Relationships of Caryophyllales to other major clades of eudicots remain
+unclear. Cronquist (1981) and Takhtajan (1980, 1997), on the basis of
+floral characters, viewed Caryophyllidae as being derived from
+Ranunculales-type ancestors. However, phylogenetic analyses using many
+gene sequences place Caryophyllales firmly within the core eudicots.
+They have alternatively been considered to be close relatives of rosids,
+asterids, or Santalales and are best regarded at this time simply as one
+of the major clades of core eudicots (e.g., D. Soltis *et al.* 2000).
+The sister group of Caryophyllales may be Dilleniaceae (e.g., D. Soltis
+*et al*. 2000), although this relationship had not previously been
+suggested. Further investigation is needed to assess this potential
+relationship between Dilleniaceae and Caryophyllales.
+
+### Discussion of Phylogenetic Relationships
+
+Although many aspects of core Caryophyllales have been thoroughly
+investigated during the past several decades (e.g., chemistry by Mabry
+and colleagues, pollen by Nowicke and colleagues, wood anatomy by
+Carlquist and colleagues), revised views on the phylogenetic
+relationships of Caryophyllales require renewed efforts to identify
+synapomorphies and to reconstruct patterns of morphological, chemical,
+and anatomical evolution. Furthermore, the poly- and paraphyly of
+several important families of core Caryophyllales demonstrate that
+additional phylogenetic studies with increased taxon sampling are needed
+to resolve relationships and develop a truly phylogenetic
+classification.
+
+The most comprehensive phylogenetic study of Caryophyllales to date is
+that of Cuénoud *et al*. (2002), in which 127 taxa of Caryophyllales
+representing all 29 families were sampled for *matK* sequence analysis.
+A subset of this matrix was combined with sequences from *rbcL*, *atpB*,
+and *18S rDNA* to provide a four-gene matrix for 26 genera of
+Caryophyllales. This combination of analyses strongly supported the
+monophyly of the expanded Caryophyllales *sensu* APG II. Within
+Caryophyllales are two large clades (core and noncore Caryophyllales,
+which Judd *et al*. 2002 referred to as Caryophyllales and Polygonales,
+respectively), with *Rhabdodendron* (of the monogeneric
+Rhabdodendraceae) and *Simmondsia* (of the monospecific Simmondsiaceae)
+unplaced.
+
+### References
+
+Albert, V. A. Williams, S. E., and M. W. Chase. 1992. Carnivorous
+plants: phylogeny and structural evolution. Science 257: 1491-1495.
+
+Angiosperm Phylogeny Group (APG). 1998. An ordinal classification for
+the families of flowering plants. Annals of the Missouri Botanical
+Garden 85:531-553.
+
+Angiosperm Phylogeny Group (APG II). 2003. An update of the Angiosperm
+Phylogeny Group classification for the orders and families of flowering
+plants: APG II. Botanical Journal of the Linnean Society 141:399-436.
+
+Braun, A. 1864. Uebersicht der naturlichen Systems nach der Anordnung
+derselben. In: P. Ascherson \[ed.\], Flora der Provinz Brandenburg, der
+Altmark und des Herzogthums Magdeburg, vol. 1, 22-67. Hirschwald,
+Berlin, Germany.
+
+Chase, M., Soltis, D. and R. E. A. Olmstead. 1993. Phylogenetics of seed
+plants: an anlysis of nucleotide sequences from the plastid gene rbcL.
+Ann. Miss. Bot. Gard. 80: 526-580.
+
+Cronquist. 1981. An integrated system of classification of flowering
+plants. Columbia University Press, New York.
+
+Cuènoud, P., Savolainen, V. Chatrou, L. W., Grayer, P. M., R. J., and M.
+Chase. 2002. Molecular
+
+Dahlgren, R. 1975. The distribution of characters within an angiosperm
+system. I. Some embryological characters. Botaniska Notiser 128:
+181-197.
+
+Dahlgren, R. 1980. A revised system of classification of the
+angiosperms. Botanical Journal of the Linnean Society 80: 91-124.
+
+Eichler, A. 1875-1878. Blüthendiagramme I/II. Engelmann, Leipzig.
+
+Fay, M. F., Cameron, K. M., Prance, G. T., Lledo, M. D. and M. W. Chase.
+1997. Familial relationships of Rhabdodendron (Rhabdodendraceae):
+Plastid rbcL sequences indicate a caryophyllid placement. Kew Bulletin
+52:923-932.
+
+Judd, W. S., Campbell, C. S., Kellogg, E. A. and P. F. Stevens. 2002.
+Plant systematics: a phylogenetic approach. Sinauer Associates, Inc.,
+Sunderland, Massachusetts.
+
+Meimberg, H., P. Dittrich, G. Bringmann, J. Schlauer, and G. Heubl.
+2000. Molecular phylogeny of Caryophyllidae s. l. based on matK
+sequences with special emphasis on carnivorous taxa. Plant Biology
+2:218-228.
+
+Morton, C. M., Chase, M. W. and K. G. Karol. 1997. Phylogenetic
+relationships of two anomalous dicot genera, Physena and Asteropeia:
+evidence from rbcL plastid DNA sequences. Botanical Review 63: 231-239.
+
+Soltis, D., Soltis P., Chase, M., Mort, M., Albach, D., Zanis, M.,
+Savolainen, V., Hahn, W., Hoot, S., Fay, M. Axtell, M., Swensen, S.,
+Nixon, K., and J. Farris. 2000. Angiosperm phylogeny inferred from a
+combined data set of 18S rDNA, rbcL and atpB sequences. Botanical
+Journal of the Linnaean Society 133: 381-461.
+
+Takhtajan, A. 1980. Outline of the classification of flowering plants
+(Magnoliophyta). Botanical Review 46: 225-359.
+
+Takhtajan. A. 1997. Diversity and classification of flowering plants.
+Columbia University Press, New York.
+
+Thorne, R. F. 1983. Proposed new realignments in the angiosperms. Nordic
+Journal of Botany 3:85-117.
+
+Thorne. R. F. 1992a. Classification and geography of the flowering
+plants. Botanical Review 58: 225-348.
+
+Thorne, R. F. 1992b. An updated phylogenetic classification of the
+flowering plants. Aliso 13: 365-389.
+
+Williams, S., Albert, V., and M. Chase. 1994. Relationships of
+Droseraceae: a cladistic analysis of rbcL sequence and morphological
+data. American Journal of Botany 81: 1027-1037.
+
+##### Title Illustrations
+
+![Polygonum orientale](Polygonum_orientale05589.jpg)
+
+  ---------------------------------------------------------------------
+  Scientific Name ::  Polygonum orientale
+  Comments          Polygonaceae
+  Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+  ---------------------------------------------------------------------
+![](Stellaria-4.JPG)
+
+  ---------------------------------------------------------------------------
+  Scientific Name ::     Stellaria holostea
+  Specimen Condition   Live Specimen
+  Identified By        Ilisoi Gabriel
+  Body Part            Aerial - flowers
+  Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+  ---------------------------------------------------------------------------
+![](Drosera_capensis05318.jpg)
+
+  ----------------------------------------------------------------------
+  Scientific Name ::  Drosera capensis
+  Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
+  ----------------------------------------------------------------------

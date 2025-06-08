@@ -1,0 +1,77 @@
+---
+title: Bravaisia
+---
+
+-   « Ancestral Groups 
+    -   [Ruellieae](Ruellieae.md)
+    -   [Acanthaceae](Acanthaceae.md)
+    -   [Lamiales](Lamiales.md)
+    -   [Asterids](Asterids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [eudicots](Eukaryotes/Green_plants/Embryophytes/Spermatopsida/Angiosperms/eudicots.md)
+    -   [Angiosperms](Angiosperms.md)
+    -   [Spermatopsida](Spermatopsida.md)
+    -   [Embryophytes](Embryophytes.md)
+    -   [Green plants](Green_plants)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Ruellieae
+    -   [Ruellia s. l.](Ruellia_s._l.)
+    -   [Acanthopale](Acanthopale.md)
+    -   [Brillantaisia](Brillantaisia.md)
+    -   [Hemigraphis + Strobilanthes +         relatives](Hemigraphis_%2B_Strobilanthes_%2B_relatives)
+    -   Bravaisia
+    -   [Suessenguthia](Suessenguthia.md)
+    -   [Sanchezia](Sanchezia.md)
+    -   [Louteridium](Louteridium.md)
+    -   [Dyschoriste](Dyschoriste.md)
+    -   [Phaulopsis](Phaulopsis.md)
+
+-   »
+
+# *Bravaisia* 
+
+[Erin Tripp](#AboutThisPage)
+
+![ ](Eukaryotes/Green_plants/Embryophytes/Spermatopsida/Angiosperms/eudicots/Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Bravaisia/Bravasia_integerrima.jpg)
+![](Bravasia_integerrima_002.jpg)
+
+Containing group: [Ruellieae](Ruellieae.md)
+
+### Introduction
+
+*Bravaisia* is a genus of three species native to Mexico through
+northern South America. They are distinct among Acanthaceae in being
+moderately-sized trees, with *Bravaisia integerrima* reaching some 20 m
+in height (a few other genera contain small trees, e.g. *Louteridium,
+Ruellia,* and *Trichanthera*). *Bravaisia* species inhabit riparian or
+mangrove environments and possess prop roots (see photo above) to 8 m
+above ground level (Daniel 1988). Flowers of *B. integerrima* are
+possibly fragrant, also notable in Acanthaceae.
+
+\
+\
+
+### References
+
+Daniel, T.F. 1988. A systematic study of Bravaisia DC. (Acanthaceae).
+Proc. Cal. Acad. Sci. 45(8): 111-132.
+
+##### Title Illustrations
+
+![](Bravasia_integerrima_003.jpg)
+
+  ----------------------------------------------------------------------
+  Scientific Name ::  Bravaisia integerrima Standl.
+  Location ::        La Selva, Costa Rica
+  Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  ----------------------------------------------------------------------
+![](Bravasia_integerrima_004.jpg)
+
+  -----------------------------------------------------------------------
+  Scientific Name ::     Bravaisia integerrima Standl.
+  Location ::           La Selva, Costa Rica
+  Specimen Condition   Live Specimen
+  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  -----------------------------------------------------------------------

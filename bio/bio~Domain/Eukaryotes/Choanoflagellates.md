@@ -1,0 +1,296 @@
+---
+title: Choanoflagellates
+---
+
+-   « Ancestral Groups 
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Eukaryotes
+    -   Choanoflagellates
+    -   [Animals](Animals)
+    -   [Fungi](Fungi)
+    -   [Stramenopiles](Stramenopiles)
+    -   [Alveolates](Alveolates)
+    -   [Rhodophyta](Rhodophyta)
+    -   [Green plants](Green_plants)
+    -   [The other protists](The_other_protists)
+
+-   »
+
+# Choanoflagellates
+
+## Choanoflagellida, collared-flagellates 
+
+[Stephen Fairclough and Nicole King](#AboutThisPage)
+
+![ ](MonosigaTOL_002.jpg)
+![ ](ProterospongiaTOL.jpg)
+
+-   *Codosigidae*
+-   *Salpingoecidae*
+-   *Acanthoecidae*
+
+Containing group: [Eukaryotes](Eukaryotes.md)
+
+### Information on the Internet
+
+-   [Introduction to the     Choanoflagellata](http://www.ucmp.berkeley.edu/protista/choanos.html)
+-   [Animation of     Choanoflagellates](http://www.biology.ualberta.ca/facilities/multimedia/uploads/zoology/choanoflagellate.html)
+-   [OBIS Choanoflagellate     Database](http://www.iobis.org/OBISWEB/ObisControllerServlet?searchCategory=/SciNameServlet&category=PrCh&names=all&sciCount=40)
+-   [Choanobase](http://mcb.berkeley.edu/labs/king/blast/)
+-   [Protist Image     Database](http://www.bch.umontreal.ca/protists/gallery.html)
+
+[](http://www.bch.umontreal.ca/protists/gallery.html)
+
+[](http://www.bch.umontreal.ca/protists/gallery.html)
+
+### Introduction
+
+![ ](choanodiagram3.jpg)\
+
+Choanoflagellate cell morphology. © [Stephen Fairclough](mailto:srfairclough@berkeley.edu)
+
+Choanoflagellates are free-living, single-cell and colony forming
+eukaryotes ubiquitous in aquatic environments. As their name implies,
+choanoflagellates (collared flagellates) have a distinctive cell
+morphology characterized by an ovoid or spherical cell body 3-10 µm in
+diameter with a single apical flagellum surrounded by a collar of 30-40
+microvilli (see figure). Movement of the flagellum creates water
+currents that can propel free-swimming choanoflagellates through the
+water column and trap bacteria and detritus against the collar of
+microvilli where these foodstuffs are engulfed (see this animation from
+the University of Alberta).
+[](http://www.biology.ualberta.ca/facilities/multimedia/uploads/zoology/choanoflagellate.html)
+
+Choanoflagellates are found globally in marine, brackish and freshwater
+environments from the Arctic to the tropics, occupying both pelagic and
+benthic zones. Although most sampling of choanoflagellates has occurred
+between 0 m and 25 m, they have been recovered from as deep as 300 m in
+open water (Thomsen, 1982) and 100 m under Antarctic ice sheets (Buck
+and Garrison, 1988). Many species are hypothesized to be cosmopolitan on
+a global scale \[e.g., *Diaphanoeca grandis* has been reported from
+North America, Europe and Australia (OBIS)\], while other species are
+reported to have restricted regional distributions (Thomsen, et al.,
+1991). Co-distributed choanoflagellate species can occupy quite
+different microenvironments, but in general, the factors that influence
+the distribution and dispersion of choanoflagellates remain to be
+elucidated. Irrespective of their distribution, choanoflagellates are in
+high abundance relative to other nanoplankton members in their
+communities, and there is a positive correlation between primary
+producers and choanoflagellate densities, supporting a model in which
+choanoflagellates play a pivotal role in the microbial food web and
+carbon cycling (Buck and Garrison, 1988).
+
+In addition to their critical ecological roles, choanoflagellates are of
+particular interest to evolutionary biologists studying the origins of
+multicellularity in animals. As one of the closest living relatives of
+animals, choanoflagellates serve as a useful model for reconstructions
+of the last unicellular ancestor of animals.
+
+### Characteristics
+
+In addition to the single apical flagellum surrounded by actin-filled
+microvilli that characterizes choanoflagellates, the internal
+organization of organelles in the cytoplasm is constant (Leadbeater and
+Thomsen, 2000). A flagellar basal body sits at the base of the apical
+flagellum, and a second, non-flagellar basal body rests at a right angle
+to the flagellar base. The nucleus occupies an apical-to-central
+position in the cell, and food vacuoles are positioned in the basal
+region of the cytoplasm (Leadbeater and Thomsen, 2000; Karpov and
+Leadbeater, 1998). Additionally, the cell body of many choanoflagellates
+is surrounded by a distinguishing extracelluar matrix or periplast.
+These cell coverings vary greatly in structure and composition and are
+used by taxonomists for classification purposes. The functional
+significance of the periplast is unknown, but in sessile organisms, it
+is thought to aid in attachment to the substrate. In planktonic
+organisms, there is speculation that the periplast increases drag,
+thereby counteracting the force generated by the flagellum and
+increasing feeding efficiency (Leadbeater and Kelly, 2001).
+
+Choanoflagellates are either free-swimming in the water column or
+sessile, adhering to the substrate directly or through either the
+periplast or a thin pedicel (Leadbeater, 1983). Although
+choanoflagellates are thought to be strictly free-living and
+heterotrophic, a number of choanoflagellate relatives such as members of
+Ichthyosporea or Mesomycetozoa follow a parasitic or pathogenic
+lifestyle (Mendoza, 2002). The life histories of choanoflagellates are
+poorly understood. Many species are thought to be solitary; however
+coloniality seems to have arisen independently several times within the
+group and colonial species retain a solitary stage (Leadbeater, 1983).
+
+Choanoflagellates grow vegetatively, with many species undergoing
+longitudinal fission (Karpov and Leadbeater, 1998); however, the
+reproductive life cycle of choanoflagellates remains to be elucidated.
+Currently, it is unclear whether there is a sexual phase to the
+choanoflagellate life cycle. Interestingly, some choanoflagellates can
+undergo encystment, which involves the retraction of the flagellum and
+collar and encasement in an electron dense fibrillar wall. Upon transfer
+to fresh media excystment occurs, though it remains to be directly
+observed (Leadbeater and Karpov, 2000). Further examination of the
+choanoflagellate life cycle will be informative about mechanisms of
+colony formation and attributes present before the transition to
+multicellularity.
+
+### Classification
+
+Members of the order Choanoflagellida are divided into three families
+based upon the composition and structure of their periplast:
+Codosigidae, Salpingoecidae and Acanthoecidae. Members of the family
+Codosigidae appear to lack a periplast when examined by light
+microscopy, but may have a fine outer coat visible only by electron
+microscopy. The family Salpingoecidae consists of species whose cells
+are encased in a firm theca that is visible by both light and electron
+microscopy. The theca is a secreted covering predominately comprised of
+cellulose or other polysaccharides (Adl, et al., 2005). The third family
+of choanoflagellates, the Acanthoecidae, contains species whose cells
+rest in a basket-like lorica composed of siliceous ribs or "costae"
+(Leadbeater and Kelly, 2001; Leadbeater and Thomsen, 2000).
+
+### Discussion of Phylogenetic Relationships
+
+The choanoflagellate families and their relationships to each other have
+not been tested within a phylogenetic framework. The reconstruction of
+the internal relationships of choanoflagellates is central to the goal
+of polarizing character evolution within the clade. Resolution of the
+internal relationships and character polarity within choanoflagellates
+will be informative about the character states that are ancestral within
+choanoflagellates and suggestive of the characteristics of the last
+unicellular ancestor of animals.
+
+### Relationship of Choanoflagellates to Metazoans
+
+Dujardin, a French biologist interested in protozoan evolution, recorded
+the morphological similarities of choanoflagellates and sponge
+choanocytes and proposed the possibility of a close relationship as
+early as 1841 (Leadbeater and Kelly, 2001). Over the past decade, this
+hypothesized relationship between choanoflagellates and animals has been
+upheld by independent analyses of multiple unlinked sequences: 18S rDNA,
+nuclear protein-coding genes, and mitochondrial genomes (Steenkamp, et
+al., 2006; Burger, et al., 2003; Mendoza, et al., 2002; Wainright, et
+al., 1993). Importantly, comparisons of mitochondrial genome sequences
+from a choanoflagellate and three sponges confirm the placement of
+choanoflagellates as an outgroup to Metazoa and negate the possibility
+that choanoflagellates evolved from metazoans (Lavrov, et al., 2005).
+Finally, recent studies of genes expressed in choanoflagellates have
+revealed that choanoflagellates synthesize homologues of metazoan cell
+signaling and adhesion genes (King, 2003). Because choanoflagellates and
+metazoans are closely related, comparisons between the two groups
+promise to provide insights into the biology of their last common
+ancestor and the earliest events in metazoan evolution.
+
+### References
+
+Adl, S., Simpson, A. G. B., Farmer, M. A., Adersen, R. A., Anderson, O.
+R., Barta, J. R., Bowser, S. S., Brugerolle, G., Fensome, R. A.,
+Fredericq, S., James, T. Y., Karpov, S., Kugrens, P., Krug, J., Lane, C.
+E., Lewis, L. A., Lodge, J., Lynn, D. H., Mann, D. G., McCourt, R. M.,
+Mendoza, L., Moestrup, Ø., Mozley-Standridge, S. E., Nerad, T. A.,
+Shearer, C. A., Smirnov, A. V., Spiegel, F. W., and Taylor, M. F. J. R.
+2005. The new higher level classification of eukaryotes with emphasis on
+the taxonomy of protists. J. Eukaryot. Microbiol. 52:399--451.
+
+Bell, G. (1988) Sex and Death in Protozoa: The History of an Obsession.
+Cambridge : University Press.
+
+Borchiellini, C. and Chombard, C. and Manuel, M. and Alivon, E. and
+Vacelet, J. and Boury-Esnault, N. (2004) Molecular phylogeny of
+Demospongiae: implications for classification and scenarios of character
+evolution. Mol. Phylogenet. Evol. , 32 pp. 823-37.
+
+Buck, K. and Garrison, D. (1988) Distribution and abundance of
+choanoflagellates (Acanthoecidae) across the ice-edge zone in the
+Weddell Sea, Antarctica. Mar. Biol. , 98 pp. 263-269.
+
+Burger, G. and Forget, L. and Zhu, Y. and Gray, M. and Lang, B. and
+(2003) Unique mitochondrial genome architecture in unicellular relatives
+of animals. P. Natl. Acad. Sci. USA, 100 pp. 892-897
+
+Karpov, S. and Leadbeater, B. (1998) Cytoskeleton structure and
+composition in choanoflagellates. J. Eukaryot. Microbiol., 45 pp.
+361--367
+
+King, N. (2005) Choanoflagellates. Curr. Biol., 15 pp. 113-114
+
+King, N. (2004) The unicellular ancestry of animal development. Dev.
+Cell., 7 pp.313-325
+
+King, N. and Carroll, S. (2001) A receptor tyrosine kinase from
+choanoflagellates: molecular insights into early animal evolution. P.
+Natl. Acad. Sci. USA., 98 pp. 15032-15037
+
+King, N. and Christopher, H. and Carroll, S. (2003) Evolution of key
+cell signaling and adhesion protein families predates animal origins.
+Science, 301 pp. 361-363
+
+Lavrov, D. and Forget, L. and Kelly, M. and Lang, B. (2005)
+Mitochondrial genomes of two Demosponges provide insights into an early
+stage of animal evolution. Mol. Biol. Evol., 22 pp. 1231-1239.
+
+Leadbeater, B. (1983) Life-History and Ultrastrucutre of a New Marine
+Species of Proterospongia (Choanoflagellida). J. Mar. Biol. Ass. U.K.,
+63 pp. 135-160
+
+Leadbeater, B. and Karpov, S. (2000) Cyst Formation in a Freshwater
+Strain of the Choanoflagellate Desmarella moniliformis Kent. J.
+Eukaryot. Microbiol., 47 pp. 433-439
+
+Leadbeater, B. and Kelly, M. (2001) Evolution of animals
+choanoflagellates and sponges. Water and Atmosphere Online. 9 pp. 9-11
+
+Leadbeater, B. and Thomsen, H. (2000) Order choanoflagellida. In An
+Illustrated Guide to the Protozoa, Second Edition. (pp. 14 -38 ).
+Lawrence : Society of Protozoologists.
+
+Mendoza, L. and Taylor, J. and Ajello, L. (2002) The class
+mesomycetozoea: a heterogeneous group of microorganisms at the
+animal-fungal boundary. Ann. Rev. Microbiol., 56 pp. 315-44.
+
+Nerad, A. and Daggett, P. (1992) Cultivation of Choanoflagellates. In
+Protocols In Protozoology. (pp. A-20.1-A-20.4). Lawerence : Society of
+Protozoologists.
+
+Ocean Biogeographic Information System. (2006). www.iobis.org
+
+Patterson, D. (1996) Free-Living Freshwater Protozoa: A Colour Guide.
+Washington, D.C. : ASM Press
+
+Reid, P. and Turley, C. and Burkhill, P. (1988) Protozoa and Their Role
+in Marine Processes. Berling Heidelberg : Springer-Verlag
+
+Rokas, A. and King, N. and Finnerty, J, and Carroll, S. (2003)
+Conflicting phylogenetic signals at the base of the metazoan tree. Evol.
+& Dev., 5 pp. 346-359
+
+Steenkamp, E. and Wright, J. and Baldauf, S. (2006) The Protistan
+Origins of Animals and Fungi. Mol. Bio. Evol., 23 pp. 93-106.
+
+Thomsen, H. and Buck, K. and Chavez, F. (1991) Choanoflagellates of the
+central California waters: Taxonomy, morphology and species assemblages.
+Ophelia, 33 pp. 131-164.
+
+Thomsen, H. (1982) Planktonic choanoflagellates from Disko Bugt, West
+Greenland, with a survey of the marine nanoplankton of the area.
+Meddelelser om Gronland, Bioscience, 8 pp. 3-36
+
+Wainright, P. and Hinkle, G. and Sogin, M. and Stickle, S. (1993)
+Monophyletic origins of the metazoa: an evolutionary link with fungi.
+Science, 260 pp. 340-342.
+
+##### Title Illustrations
+
+![](MonosigaTOL.jpg)
+
+  ---------------------
+  Scientific Name ::     Monosiga brevicollis
+  Specimen Condition   Live Specimen
+  Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
+  ---------------------
+![](ProterospongiaTOL_002.jpg)
+
+  ---------------------
+  Scientific Name ::     Proterospongia sp.
+  Specimen Condition   Live Specimen
+  Life Cycle Stage ::     Colony
+  Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
+  ---------------------

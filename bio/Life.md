@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3
 Commons_category: Life
 Colon_Classification: G1
@@ -69,13 +69,48 @@ spoken_text_audio:
 OmegaWiki_Defined_Meaning: 8408
 ---
 
+
 ## #has_/text_of_/abstract 
 
-> **Life** is a quality that distinguishes matter that has biological processes, such as signaling and self-sustaining processes, from matter that does not. It is defined descriptively by the capacity for homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. All life over time eventually reaches a state of death, and none is immortal. Many philosophical definitions of living systems have been proposed, such as self-organizing systems. Viruses in particular make definition difficult as they replicate only in host cells. Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. Some of these are harsh environments occupied only by extremophiles.
+
+> **Life** is a quality that distinguishes matter that has biological processes, 
+> such as signaling and self-sustaining processes, from matter that does not. 
+> 
+> It is defined descriptively by the capacity for 
+> homeostasis, organisation, metabolism, growth, adaptation, response to stimuli, and reproduction. 
+> 
+> All life over time eventually reaches a state of death, and none is immortal. 
+> Many philosophical definitions of living systems have been proposed, such as self-organizing systems. 
+> 
+> Viruses in particular make definition difficult as they replicate only in host cells. 
+> Life exists all over the Earth in air, water, and soil, with many ecosystems forming the biosphere. 
+> Some of these are harsh environments occupied only by extremophiles.
 >
-> Life has been studied since ancient times, with theories such as Empedocles's materialism asserting that it was composed of four eternal elements, and Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. This evolved into all the species that exist now, by way of many extinct species, some of which have left traces as fossils. Attempts to classify living things, too, began with Aristotle. Modern classification began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
+> Life has been studied since ancient times, with theories such as 
+> - Empedocles's materialism asserting that it was composed of four eternal elements, and 
+> - Aristotle's hylomorphism asserting that living things have souls and embody both form and matter. 
+> 
+> Life originated at least 3.5 billion years ago, resulting in a universal common ancestor. 
+> This evolved into all the species that exist now, by way of many extinct species, 
+> some of which have left traces as fossils. 
+> 
+> Attempts to classify living things, too, began with Aristotle. 
+> Modern [[Biological_Classification]] began with Carl Linnaeus's system of binomial nomenclature in the 1740s.
 >
-> Living things are composed of biochemical molecules, formed mainly from a few core chemical elements. All living things contain two types of large molecule, proteins and nucleic acids, the latter usually both DNA and RNA: these carry the information needed by each species, including the instructions to make each type of protein. The proteins, in turn, serve as the machinery which carries out the many chemical processes of life. The cell is the structural and functional unit of life. Smaller organisms, including prokaryotes (bacteria and archaea), consist of small single cells. Larger organisms, mainly eukaryotes, can consist of single cells or may be multicellular with more complex structure. Life is only known to exist on Earth but extraterrestrial life is thought probable. Artificial life is being simulated and explored by scientists and engineers.
+> Living things are composed of biochemical molecules, formed mainly from a few core chemical elements. 
+> All living things contain two types of large molecule, proteins and nucleic acids, 
+> the latter usually both DNA and RNA: these carry the information needed by each species, 
+> including the instructions to make each type of protein. 
+> 
+> The proteins, in turn, serve as the machinery which carries out the many chemical processes of life. 
+> The cell is the structural and functional unit of life. 
+> 
+> Smaller organisms, including prokaryotes (bacteria and archaea), consist of small single cells. 
+> Larger organisms, mainly eukaryotes, can consist of single cells 
+> or may be multicellular with more complex structure. 
+> 
+> Life is only known to exist on Earth but extraterrestrial life is thought probable. 
+> Artificial life is being simulated and explored by scientists and engineers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Life)
 
