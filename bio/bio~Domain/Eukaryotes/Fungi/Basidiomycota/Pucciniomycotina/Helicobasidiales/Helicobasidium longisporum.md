@@ -2,7 +2,10 @@
 title: Helicobasidium longisporum
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)
     -   [Basidiomycota](Basidiomycota)
@@ -17,7 +20,7 @@ title: Helicobasidium longisporum
     -   Helicobasidium longisporum
     -   [Helicobasidium mompa](Helicobasidium_mompa)
 
--   »
+-   » Sub-Groups 
 
 # *Helicobasidium longisporum* [Wakef.]
 

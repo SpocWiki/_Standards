@@ -2,7 +2,10 @@
 title: Leotiomycetes
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)
     -   [Fungi](Fungi)
@@ -16,7 +19,7 @@ title: Leotiomycetes
     -   [Geoglossaceae](Geoglossaceae)
     -   [Dothideomycetes](Dothideomycetes)
 
--   »
+-   » Sub-Groups 
 
 # Leotiomycetes 
 

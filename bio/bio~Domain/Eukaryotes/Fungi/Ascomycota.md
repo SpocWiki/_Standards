@@ -2,7 +2,10 @@
 title: Ascomycota
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../../Tree_of_Life.md)
@@ -21,10 +24,10 @@ title: Ascomycota
 
 ## Sac Fungi 
 
-[John W. Taylor, Joey Spatafora, and Mary Berbee](#AboutThisPage)
+[John W. Taylor, Joey Spatafora, and Mary Berbee](http://www.tolweb.org/)
 
 ![ ](t_002.gif)
-![ ](Eukaryotes/Fungi/Ascomycota/s.gif)
+![ ](Ascomycota/scarlet_cup_fungus.gif)
 ![ ](Eukaryotes/Fungi/Ascomycota/m_002.gif)
 ![](Eukaryotes/Fungi/Ascomycota/p_002.gif)
 
@@ -430,7 +433,8 @@ edit internet links
 
 ##### Title Illustrations
 
-![](t.gif)
+
+![](t.gif)
 
   ---------------------
   Scientific Name ::  Taphrina
@@ -438,14 +442,16 @@ edit internet links
   Body Part         asci
   Copyright ::         © 1996 K. Wells
   ---------------------
-![](s_002.gif)
+
+![](s_002.gif)
 
   --------------------
   Scientific Name ::  Saccharomyces
   Comments          Budding cells of the baker\'s and brewer\'s yeast
   Copyright ::         © 1996 K. Wells
   --------------------
-![](m.gif)
+
+![](m.gif)
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Morchella
@@ -453,11 +459,12 @@ edit internet links
   Body Part         fruiting bodies (ascomata)
   Copyright ::         © 1996 [John W. Taylor](http://plantbio.berkeley.edu/%7Etaylor/) 
   -----------------------------------------------------------------------------
-![](p.gif)
+
+![](p.gif)
 
   -------------------------
   Scientific Name ::  Penicillium
   Comments          Mitospores (conidia) of Penicillium, one of the asexual Ascomycota
   Body Part         Mitospores (conidia)
   Copyright ::         © 1996 K. Wells
-  -------------------------
+  -------------------------

@@ -2,7 +2,10 @@
 title: Protanthea
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Protantheae](Protantheae)
     -   [Actiniaria](Actiniaria)
     -   [Zoantharia](Zoantharia)
@@ -16,7 +19,7 @@ title: Protanthea
     -   [Gonactinia](Gonactinia)
     -   Protanthea
 
--   »
+-   » Sub-Groups 
 
 # *Protanthea* 
 

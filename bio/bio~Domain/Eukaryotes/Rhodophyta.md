@@ -1,8 +1,62 @@
 ---
 title: Rhodophyta
+aliases:
+  - Rhodophyta
+  - Red Algae
 ---
 
--   « Ancestral Groups 
+
+# [[Rhodophyta]]
+
+Red Algae 
+
+![Kallymenia perforata](Rhodophyta/Kallymenia_perforata.jpg) ![](Rhodophyta/Gibsmithia_hawaiiensis.jpg) ![](Rhodophyta/Porphyra_carolinensis.jpg) 
+
+
+## #has_/text_of_/abstract 
+
+> **Red Algae**, or Rhodophyta (from Ancient Greek  ῥόδον (rhódon) 'rose' and  φυτόν (phutón) 'plant'), 
+> make up one of the oldest groups of eukaryotic algae. 
+> 
+> The Rhodophyta comprises one of the largest phyla of algae, 
+> containing over 7,000 recognized species within over 900 genera amidst ongoing taxonomic revisions. 
+> The majority of species (6,793) are Florideophyceae, 
+> and mostly consist of multicellular, marine algae, including many notable seaweeds. 
+> 
+> Red algae are abundant in marine habitats. 
+> Approximately 5% of red algae species occur in freshwater environments, 
+> with greater concentrations in warmer areas. 
+> Except for two coastal cave dwelling species in the asexual class Cyanidiophyceae, 
+> no terrestrial species exist, 
+> which may be due to an evolutionary bottleneck in which the last common ancestor 
+> lost about 25% of its core genes and much of its evolutionary plasticity.
+>
+> Red algae form a distinct group characterized by eukaryotic cells without flagella and centrioles, 
+> chloroplasts without external endoplasmic reticulum or unstacked (stroma) thylakoids, 
+> and use phycobiliproteins as accessory pigments, which give them their red color. 
+> 
+> Despite their name, red algae can vary in color from bright green, soft pink, resembling brown algae, 
+> to shades of red and purple, and may be almost black at greater depths. 
+> 
+> Unlike green algae, red algae store sugars as food reserves outside the chloroplasts as floridean starch, 
+> a type of starch that consists of highly branched amylopectin without amylose. 
+> 
+> Most red algae are multicellular, macroscopic, and reproduce sexually. 
+> The life history of red algae is typically an alternation of generations 
+> that may have three generations rather than two. 
+> Coralline algae, which secrete calcium carbonate and play a major role in building coral reefs, 
+> belong there. 
+>
+> Red algae such as Palmaria palmata (dulse) and Porphyra species (laver/nori/gim) 
+> are a traditional part of European and Asian cuisines 
+> and are used to make products such as agar, carrageenans, and other food additives.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Red%20algae) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -13,21 +67,11 @@ title: Rhodophyta
     -   [Stramenopiles](Stramenopiles)
     -   [Alveolates](Alveolates)
     -   Rhodophyta
-    -   [Green plants](Green_plants)
+    -   [Green plants](Plants.md)
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups
     -   [Florideophyceae](Florideophyceae.md)
-
-# Rhodophyta
-
-## Red Algae 
-
-[D. Wilson Freshwater](#AboutThisPage)
-
-![Kallymenia perforata](redtitle1a.jpg)
-![](redtitle2a.jpg)
-![](redtitle3a.jpg)
 
 -   *Cyanidium*
 -   *Porphyridiales* [\*]
@@ -35,35 +79,10 @@ title: Rhodophyta
 -   *Bangiales* [\*]
 -   *[Florideophyceae](Florideophyceae.md "go to ToL page")*
 
-Taxa indicated by \'\*\' are members of the traditional
-Bangiophyceae/Bangiophycidae that is now considered to be paraphyletic.
 
-Containing group: [Eukaryotes](Eukaryotes.md)
+## Introduction
 
-### Information on the Internet
-
--   [Introduction to the     Rhodophyta](http://www.ucmp.berkeley.edu/protista/rhodophyta.html).
-    UCMP Berkeley, California, USA.
--   [The Seaweeds Home     Page](http://morayeel.louisiana.edu/SeaweedsLab/phycomirth.html).
-    University of Louisiana at Lafayette, Louisiana, USA.
--   [The Seaweed Homepage](http://seaweed.ucg.ie/seaweed.html). Michael
-    Guiry, University College of Ireland-Galway, Ireland.
--   [Algae](http://www.nmnh.si.edu/botany/projects/algae/). National
-    Museum of Natural History. Smithsonian Institution. Washington, D.
-    C., USA.
--   [The World of Algae](http://www.botany.uwc.ac.za/algae/). Derek
-    Keats, University of the Western Cape, Bellville (Cape Town), South
-    Africa.
--   [Algae Home Page](http://vis-pc.plantbio.ohiou.edu/algaeindex.htm).
-    Ohio University, Athens, Ohio, USA.
--   [Algae: The Forgotten Treasure of Tide     Pools](http://www.sonoma.edu/biology/algae/algae.html). Images of
-    California seaweeds. Sonoma State University, California, USA.
--   [The Nature-Printed British Sea-Weeds. Volume 1.     (1868)](http://caliban.mpiz-koeln.mpg.de/%7Estueber/johnstone/band1/index.html).
-    A history, accompanied by figures and dissections, of the algae of
-    the British Isles, William Grosart Johnstone, Alexander Croall.
-    [Kurt Stüber\'s Online Library](http://www.biolib.de/).
-
-### Introduction
+[D. Wilson Freshwater](http://tolweb.org/Rhodophyta/2381#AboutThisPage) 
 
 The Rhodophyta (red algae) are a distinct eukaryotic lineage
 characterized by the accessory photosynthetic pigments phycoerythrin,
@@ -126,47 +145,27 @@ considered to be monophyletic based on two synapomorphic characters -
 presence of a filamentous gonimoblast and tetrasporangia (Garbary &
 Gabrielson 1990 \[and references within\], Ragan et al. 1994).
 
-### References
+## Title Illustrations
 
-Garbary, D.J. & Gabrielson, P.W. 1990. Taxonomy and evolution. Pages
-477-498 in Biology of the red algae (K.M. Cole and R.G. Sheath, eds.).
-Cambridge University Press, Cambridge.
-
-Lüning, K. 1990. Seaweeds: Their environment, biogeography, and
-ecophysiology. Wiley, New York.
-
-Ragan, M.A., C.J. Bird, E.L. Rice, R.R. Gutell, C.A. Murphy and R.K.
-Singh. 1994. A molecular phylogeny of the marine red algae (Rhodophyta)
-based on the nuclear small-subunit rRNA gene. Proc. Natl. Acad. Sci. USA
-91:7276-7280.
-
-Woelkerling, W.J. 1990. An introduction. Pages 1-6 in Biology of the red
-algae (K.M. Cole and R.G. Sheath, eds.). Cambridge University Press,
-Cambridge.
-
-##### Title Illustrations
-
-![Kallymenia perforata](redtitle1a_002.jpg)
-
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![Kallymenia perforata](Rhodophyta/Kallymenia_perforata.jpg) 
   Scientific Name ::  Kallymenia perforata
   Location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
   Comments          Florideophyceae
   Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
-  ---------------------------------------------------------------------------
-![Gibsmithia hawaiiensis](redtitle2a_002.jpg)
 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![Gibsmithia hawaiiensis](Rhodophyta/Gibsmithia_hawaiiensis.jpg) 
   Scientific Name ::  Gibsmithia hawaiiensis
   Location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
   Comments          Florideophyceae
   Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
-  ---------------------------------------------------------------------------
-![Porphyra carolinensis](redtitle3a_002.jpg)
 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![Porphyra carolinensis](Rhodophyta/Porphyra_carolinensis.jpg)
   Scientific Name ::  Porphyra carolinensis
   Location ::        Masonboro Island, North Carolina, USA
   Comments          Bangiales. Growing on rocks in the upper intertidal zone.
   Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
-  ---------------------------------------------------------------------------
+
+

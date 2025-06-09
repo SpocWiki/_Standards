@@ -2,7 +2,21 @@
 title: Thermomicrobium
 ---
 
--   « Ancestral Groups 
+# [[Thermomicrobia]] 
+
+## #has_/text_of_/abstract 
+
+> The **Thermomicrobia** is a group of thermophilic green non-sulfur bacteria.  Based on species Thermomicrobium roseum (type species) and Sphaerobacter thermophilus, this bacteria class has the following description:
+>
+> The class Thermomicrobia subdivides into two orders with validly published names: Thermomicrobiales Garrity and Holt 2001 and Sphaerobacterales Stackebrandt, Rainey and Ward-Rainey 1997. Gram negative. Pleomorphic, non-motile, non-spore-forming rods. Non-sporulating. No diamino acid present. No peptidoglycan in significant amount. Atypical proteinaceous cell walls. Hyper-thermophilic, optimum growth temperature at 70-75 °C. Obligatory aerobic and chemoorganotrophic. 
+>
+> As thermophilic bacteria, members of this class are usually found in environments which are distant from human activity. However, they have features like improved growth in antibiotics and CO oxidizing activity, making them interesting topics of research (e.g. for biotechnology application).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Thermomicrobia) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,25 +46,10 @@ title: Thermomicrobium
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Thermomicrobium roseum*
+	-   *Thermomicrobium fosteri* 
+	 - *Thermomicrobium* 
 
-## Thermomicrobia 
 
-# *Thermomicrobium* 
 
--   *Thermomicrobium roseum*
--   *Thermomicrobium fosteri*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Hugenholtz, P. and E. Stackebrandt. 2004. Reclassification of
-Sphaerobacter thermophilus from the subclass Sphaerobacteridae in the
-phylum Actinobacteria to the class Thermomicrobia (emended description)
-in the phylum Chloroflexi (emended description). International Journal
-of Systematic and Evolutionary Microbiology 54(6):2049-2051.

@@ -1,8 +1,34 @@
 ---
 title: Dictyoglomi
+aliases:
+  - Dictyoglomi
+  - Dictyoglomus
+  - Dictyoglomerota
 ---
 
--   « Ancestral Groups 
+# [[Dictyoglomi]] 
+
+
+## #has_/text_of_/abstract 
+
+> Dictyoglomus is a genus of bacterium, given its own phylum, called the Dictyoglomerota. 
+> 
+> This organism is extremely thermophilic, meaning it thrives at extremely high temperatures. 
+> It is chemoorganotrophic, meaning it derives energy by metabolizing organic molecules. 
+> This organism is of interest because it elaborates an enzyme, xylanase, 
+> which digests xylan, a heteropolymer of the pentose sugar xylose. 
+> 
+> By pretreating wood pulp with this enzyme, 
+> paper manufacturers can achieve comparable levels of whiteness with much less chlorine bleach.
+>
+> It has been described as gram-negative, with a triple-layered wall.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dictyoglomus) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,17 +58,8 @@ title: Dictyoglomi
     -   Dictyoglomi
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Dictyoglomus thermophilum*
+	-   *Dictyoglomus turgidum*
 
-# Dictyoglomi 
 
--   *Dictyoglomus thermophilum*
--   *Dictyoglomus turgidum*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

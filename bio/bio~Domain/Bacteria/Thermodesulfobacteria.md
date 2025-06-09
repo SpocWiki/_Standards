@@ -2,7 +2,21 @@
 title: Thermodesulfobacteria
 ---
 
--   « Ancestral Groups 
+# [[Thermodesulfobacteria]] 
+
+
+## #has_/text_of_/abstract 
+
+> The **Thermodesulfobacteria** are a class of anaerobic, thermophilic, sulfate-reducing bacteria 
+> within the phylum Desulfobacterota.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Thermodesulfobacteria) 
+
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,17 +46,8 @@ title: Thermodesulfobacteria
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Thermodesulfobacterium*
+	-   *Thermodesulfatator*
 
-# Thermodesulfobacteria 
 
--   *Thermodesulfobacterium*
--   *Thermodesulfatator*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

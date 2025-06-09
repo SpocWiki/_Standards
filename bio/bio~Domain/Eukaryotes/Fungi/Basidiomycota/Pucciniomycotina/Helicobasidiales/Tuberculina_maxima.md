@@ -2,7 +2,10 @@
 title: Tuberculina maxima
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)
     -   [Basidiomycota](Basidiomycota)
@@ -17,7 +20,7 @@ title: Tuberculina maxima
     -   [Helicobasidium         longisporum](Helicobasidium_longisporum)
     -   [Helicobasidium mompa](Helicobasidium_mompa)
 
--   »
+-   » Sub-Groups 
 
 # *Tuberculina maxima* [Rostr.] 
 

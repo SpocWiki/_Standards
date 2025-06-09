@@ -2,7 +2,10 @@
 title: Helicobasidium mompa
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)
     -   [Basidiomycota](Basidiomycota)
@@ -17,7 +20,7 @@ title: Helicobasidium mompa
     -   [Helicobasidium         longisporum](Helicobasidium_longisporum)
     -   Helicobasidium mompa
 
--   »
+-   » Sub-Groups 
 
 # *Helicobasidium mompa* [Tanaka] 
 

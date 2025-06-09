@@ -2,7 +2,10 @@
 title: Scleractinia
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Zoantharia](Zoantharia)
     -   [Anthozoa](Anthozoa)
     -   [Cnidaria](Cnidaria)
@@ -24,7 +27,7 @@ title: Scleractinia
 
 ## Stony star corals 
 
-[Sandra L. Romano and Stephen D. Cairns](#AboutThisPage)
+[Sandra L. Romano and Stephen D. Cairns](http://www.tolweb.org/)
 
 ![ ](Tubastraea_micrantha_002.jpg)
 †

@@ -2,7 +2,10 @@
 title: Helicobasidium purpureum
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)
     -   [Basidiomycota](Basidiomycota)
@@ -17,7 +20,7 @@ title: Helicobasidium purpureum
     -   [Helicobasidium         longisporum](Helicobasidium_longisporum)
     -   [Helicobasidium mompa](Helicobasidium_mompa)
 
--   »
+-   » Sub-Groups 
 
 # *Helicobasidium purpureum* [Pat.]
 

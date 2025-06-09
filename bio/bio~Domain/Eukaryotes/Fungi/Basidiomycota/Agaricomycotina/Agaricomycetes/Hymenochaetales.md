@@ -2,7 +2,10 @@
 title: Hymenochaetoid clade
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Agaricomycetes](Agaricomycetes)
     -   [Agaricomycotina](Agaricomycotina)
     -   [Basidiomycota](Basidiomycota)
@@ -20,7 +23,7 @@ title: Hymenochaetoid clade
     -   Hymenochaetoid clade
     -   [Trechisporales](Trechisporales)
 
--   »
+-   » Sub-Groups 
 
 ## Hymenochaetales 
 
@@ -28,7 +31,7 @@ title: Hymenochaetoid clade
 
 ## Hymenochaetaceae 
 
-[Aristóteles Góes-Neto and Cláudia Groposo](#AboutThisPage)
+[Aristóteles Góes-Neto and Cláudia Groposo](http://www.tolweb.org/)
 
 ![ ](Aurificaria_luteoumbrina.jpg)
 

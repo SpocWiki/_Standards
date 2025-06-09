@@ -1,12 +1,23 @@
+---
+has_id_wikidata: Q146481
+aliases:
+  - dominion
+  - superkingdom
+  - realm
+  - empire
+  - regio
+---
+
+#is_/same_as :: [[../WikiData/WD~Domain,146481]] 
 
 #has_/time_/started : 1990-06 
+#has_/next_item :: [[bio~Domain/Eukaryotes/bio~Kingdom]] 
 
-Top-Level Distinction of [[Life]], rooted at [[LUCA(Last_Universal_Common_Ancestor)]] . 
-
+Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
 
 ## #has_/text_of_/abstract 
 
-> In biological taxonomy, a domain ( or ) (Latin: regio), also dominion, superkingdom, realm, or empire, 
+> In biological taxonomy, a domain Latin: regio, also dominion, superkingdom, realm, or empire, 
 > is the highest taxonomic rank of all organisms taken together. 
 > It was introduced in the three-domain system of taxonomy devised 
 > by Carl Woese, Otto Kandler and Mark Wheelis in 1990.
@@ -27,4 +38,6 @@ Top-Level Distinction of [[Life]], rooted at [[LUCA(Last_Universal_Common_Ancest
 > - the earlier two-empire system (with the empires Prokaryota and Eukaryota), and 
 > - the eocyte hypothesis (with two domains of Bacteria and Archaea, with Eukarya included as a branch of Archaea).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Domain%20(biology))
+> [Wikipedia](https://en.wikipedia.org/wiki/Domain%20(biology)) 
+
+

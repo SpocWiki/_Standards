@@ -1,8 +1,23 @@
 ---
 title: Deferribacteres
+aliases:
+  - Deferribacteres
 ---
 
--   « Ancestral Groups 
+# [[Deferribacteres]] 
+
+
+## #has_/text_of_/abstract 
+
+> The Deferribacteraceae are a family of gram-negative bacteria 
+> which make energy by anaerobic respiration.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Deferribacteraceae) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,21 +47,13 @@ title: Deferribacteres
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Deferribacter*
+	-   *Denitrovibrio*
+	-   *Flexistipes*
+	-   *Geovibrio*
+	-   *Synergistes*[ (incertae sedis) ]
+	-   *Caldithrix*[ (incertae sedis) ]
 
-# Deferribacteres 
 
--   *Deferribacter*
--   *Denitrovibrio*
--   *Flexistipes*
--   *Geovibrio*
--   *Synergistes*[ (incertae sedis) ]
--   *Caldithrix*[ (incertae sedis) ]
 
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

@@ -2,7 +2,10 @@
 title: Anthozoa
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Cnidaria](Cnidaria)
     -   [Animals](Animals)
     -   [Eukaryotes](Eukaryotes)
@@ -18,7 +21,7 @@ title: Anthozoa
 
 ## Sea Anemones, Corals, Sea Pens 
 
-[Daphne G. Fautin and Sandra L. Romano](#AboutThisPage)
+[Daphne G. Fautin and Sandra L. Romano](http://www.tolweb.org/)
 
 ![ ](img0077_002.jpg)
 ![ ](octocorallia_002.jpg)

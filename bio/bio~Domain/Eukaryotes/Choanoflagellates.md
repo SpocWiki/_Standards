@@ -2,54 +2,29 @@
 title: Choanoflagellates
 ---
 
--   « Ancestral Groups 
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../Tree_of_Life.md)
+# [[Choanoflagellates]] 
 
--   ◊ Sibling Groups of  Eukaryotes
-    -   Choanoflagellates
-    -   [Animals](Animals)
-    -   [Fungi](Fungi)
-    -   [Stramenopiles](Stramenopiles)
-    -   [Alveolates](Alveolates)
-    -   [Rhodophyta](Rhodophyta)
-    -   [Green plants](Green_plants)
-    -   [The other protists](The_other_protists)
+Choanoflagellida, collared-flagellates 
 
--   »
+![Monosiga_brevicollis](Choanoflagellates/Monosiga_brevicollis.jpg) ![Proterospongia](Choanoflagellates/Proterospongia.jpg) 
 
-# Choanoflagellates
+## #has_/text_of_/abstract 
 
-## Choanoflagellida, collared-flagellates 
+> **Choanoflagellates** are a group of free-living unicellular and colonial flagellate eukaryotes considered to be the closest living relatives of animals. The name refers to the characteristic funnel-shaped "collar" of interconnected microvilli and the presence of a flagellum. Choanoflagellates are found globally in aquatic environments, and they are of particular interest to evolutionary biologists studying the origins of multicellularity in animals.
+>
+> The flagellum of choanoflagellates is surrounded by microvilli at its base. Movement of the flagellum creates water currents that can propel free-swimming choanoflagellates through the water column and trap bacteria and detritus against the microvilli, where these foodstuffs are engulfed. This feeding plays an ecological role in the carbon cycle by linking different trophic levels.
+>
+> Choanoflagellates bear morphological similarities to the choanocyte, a type of cell in sponges. As the proposed sister group to Animalia, choanoflagellates serve as a useful model for reconstructions of the last unicellular ancestor of animals. According to a 2021 study, crown group craspedids (and perhaps crown group choanoflagellates if Acanthoecida arose within Craspedida) appeared 422.78 million years ago, although a previous study from 2017 recovered the divergence of the crown group choanoflagellates (craspedids) at 786.62 million years.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Choanoflagellate) 
 
-[Stephen Fairclough and Nicole King](#AboutThisPage)
 
-![ ](MonosigaTOL_002.jpg)
-![ ](ProterospongiaTOL.jpg)
+## Introduction
 
--   *Codosigidae*
--   *Salpingoecidae*
--   *Acanthoecidae*
-
-Containing group: [Eukaryotes](Eukaryotes.md)
-
-### Information on the Internet
-
--   [Introduction to the     Choanoflagellata](http://www.ucmp.berkeley.edu/protista/choanos.html)
--   [Animation of     Choanoflagellates](http://www.biology.ualberta.ca/facilities/multimedia/uploads/zoology/choanoflagellate.html)
--   [OBIS Choanoflagellate     Database](http://www.iobis.org/OBISWEB/ObisControllerServlet?searchCategory=/SciNameServlet&category=PrCh&names=all&sciCount=40)
--   [Choanobase](http://mcb.berkeley.edu/labs/king/blast/)
--   [Protist Image     Database](http://www.bch.umontreal.ca/protists/gallery.html)
-
-[](http://www.bch.umontreal.ca/protists/gallery.html)
-
-[](http://www.bch.umontreal.ca/protists/gallery.html)
-
-### Introduction
-
+[Stephen Fairclough and Nicole King](http://tolweb.org/Choanoflagellates/2375#AboutThisPage)
 ![ ](choanodiagram3.jpg)\
 
-Choanoflagellate cell morphology. © [Stephen Fairclough](mailto:srfairclough@berkeley.edu)
+Choanoflagellate cell morphology. 
 
 Choanoflagellates are free-living, single-cell and colony forming
 eukaryotes ubiquitous in aquatic environments. As their name implies,
@@ -179,118 +154,42 @@ metazoans are closely related, comparisons between the two groups
 promise to provide insights into the biology of their last common
 ancestor and the earliest events in metazoan evolution.
 
-### References
+## Phylogeny 
 
-Adl, S., Simpson, A. G. B., Farmer, M. A., Adersen, R. A., Anderson, O.
-R., Barta, J. R., Bowser, S. S., Brugerolle, G., Fensome, R. A.,
-Fredericq, S., James, T. Y., Karpov, S., Kugrens, P., Krug, J., Lane, C.
-E., Lewis, L. A., Lodge, J., Lynn, D. H., Mann, D. G., McCourt, R. M.,
-Mendoza, L., Moestrup, Ø., Mozley-Standridge, S. E., Nerad, T. A.,
-Shearer, C. A., Smirnov, A. V., Spiegel, F. W., and Taylor, M. F. J. R.
-2005. The new higher level classification of eukaryotes with emphasis on
-the taxonomy of protists. J. Eukaryot. Microbiol. 52:399--451.
 
-Bell, G. (1988) Sex and Death in Protozoa: The History of an Obsession.
-Cambridge : University Press.
+-   « Ancestral Groups  
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../Tree_of_Life.md)
 
-Borchiellini, C. and Chombard, C. and Manuel, M. and Alivon, E. and
-Vacelet, J. and Boury-Esnault, N. (2004) Molecular phylogeny of
-Demospongiae: implications for classification and scenarios of character
-evolution. Mol. Phylogenet. Evol. , 32 pp. 823-37.
+-   ◊ Sibling Groups of  Eukaryotes
+    -   Choanoflagellates
+    -   [Animals](Animals)
+    -   [Fungi](Fungi)
+    -   [Stramenopiles](Stramenopiles)
+    -   [Alveolates](Alveolates)
+    -   [Rhodophyta](Rhodophyta)
+    -   [Green plants](Plants.md)
+    -   [The other protists](The_other_protists)
 
-Buck, K. and Garrison, D. (1988) Distribution and abundance of
-choanoflagellates (Acanthoecidae) across the ice-edge zone in the
-Weddell Sea, Antarctica. Mar. Biol. , 98 pp. 263-269.
+-   » Sub-Groups 
+	-   *Codosigidae*
+	-   *Salpingoecidae*
+	-   *Acanthoecidae*
 
-Burger, G. and Forget, L. and Zhu, Y. and Gray, M. and Lang, B. and
-(2003) Unique mitochondrial genome architecture in unicellular relatives
-of animals. P. Natl. Acad. Sci. USA, 100 pp. 892-897
 
-Karpov, S. and Leadbeater, B. (1998) Cytoskeleton structure and
-composition in choanoflagellates. J. Eukaryot. Microbiol., 45 pp.
-361--367
+## Title Illustrations
 
-King, N. (2005) Choanoflagellates. Curr. Biol., 15 pp. 113-114
-
-King, N. (2004) The unicellular ancestry of animal development. Dev.
-Cell., 7 pp.313-325
-
-King, N. and Carroll, S. (2001) A receptor tyrosine kinase from
-choanoflagellates: molecular insights into early animal evolution. P.
-Natl. Acad. Sci. USA., 98 pp. 15032-15037
-
-King, N. and Christopher, H. and Carroll, S. (2003) Evolution of key
-cell signaling and adhesion protein families predates animal origins.
-Science, 301 pp. 361-363
-
-Lavrov, D. and Forget, L. and Kelly, M. and Lang, B. (2005)
-Mitochondrial genomes of two Demosponges provide insights into an early
-stage of animal evolution. Mol. Biol. Evol., 22 pp. 1231-1239.
-
-Leadbeater, B. (1983) Life-History and Ultrastrucutre of a New Marine
-Species of Proterospongia (Choanoflagellida). J. Mar. Biol. Ass. U.K.,
-63 pp. 135-160
-
-Leadbeater, B. and Karpov, S. (2000) Cyst Formation in a Freshwater
-Strain of the Choanoflagellate Desmarella moniliformis Kent. J.
-Eukaryot. Microbiol., 47 pp. 433-439
-
-Leadbeater, B. and Kelly, M. (2001) Evolution of animals
-choanoflagellates and sponges. Water and Atmosphere Online. 9 pp. 9-11
-
-Leadbeater, B. and Thomsen, H. (2000) Order choanoflagellida. In An
-Illustrated Guide to the Protozoa, Second Edition. (pp. 14 -38 ).
-Lawrence : Society of Protozoologists.
-
-Mendoza, L. and Taylor, J. and Ajello, L. (2002) The class
-mesomycetozoea: a heterogeneous group of microorganisms at the
-animal-fungal boundary. Ann. Rev. Microbiol., 56 pp. 315-44.
-
-Nerad, A. and Daggett, P. (1992) Cultivation of Choanoflagellates. In
-Protocols In Protozoology. (pp. A-20.1-A-20.4). Lawerence : Society of
-Protozoologists.
-
-Ocean Biogeographic Information System. (2006). www.iobis.org
-
-Patterson, D. (1996) Free-Living Freshwater Protozoa: A Colour Guide.
-Washington, D.C. : ASM Press
-
-Reid, P. and Turley, C. and Burkhill, P. (1988) Protozoa and Their Role
-in Marine Processes. Berling Heidelberg : Springer-Verlag
-
-Rokas, A. and King, N. and Finnerty, J, and Carroll, S. (2003)
-Conflicting phylogenetic signals at the base of the metazoan tree. Evol.
-& Dev., 5 pp. 346-359
-
-Steenkamp, E. and Wright, J. and Baldauf, S. (2006) The Protistan
-Origins of Animals and Fungi. Mol. Bio. Evol., 23 pp. 93-106.
-
-Thomsen, H. and Buck, K. and Chavez, F. (1991) Choanoflagellates of the
-central California waters: Taxonomy, morphology and species assemblages.
-Ophelia, 33 pp. 131-164.
-
-Thomsen, H. (1982) Planktonic choanoflagellates from Disko Bugt, West
-Greenland, with a survey of the marine nanoplankton of the area.
-Meddelelser om Gronland, Bioscience, 8 pp. 3-36
-
-Wainright, P. and Hinkle, G. and Sogin, M. and Stickle, S. (1993)
-Monophyletic origins of the metazoa: an evolutionary link with fungi.
-Science, 260 pp. 340-342.
-
-##### Title Illustrations
-
-![](MonosigaTOL.jpg)
-
-  ---------------------
+---------------------
+![Monosiga brevicollis](Choanoflagellates/Monosiga_brevicollis.jpg)  
   Scientific Name ::     Monosiga brevicollis
   Specimen Condition   Live Specimen
   Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
-  ---------------------
-![](ProterospongiaTOL_002.jpg)
 
-  ---------------------
+---------------------
+![Proterospongia](Choanoflagellates/Proterospongia.jpg) 
   Scientific Name ::     Proterospongia sp.
   Specimen Condition   Live Specimen
   Life Cycle Stage ::     Colony
   Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
-  ---------------------
+
+  

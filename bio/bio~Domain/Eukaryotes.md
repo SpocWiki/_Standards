@@ -1,75 +1,119 @@
 ---
-generator: Tapestry Application Framework, version 4.0.2
 title: Eukaryotes
+aliases:
+  - Eukaryotes
+  - Eukaryota
+  - Eukarya
+has_id_wikidata: Q19088
+taxon_rank:
+  - "[[_Standards/WikiData/WD~domain,146481]]"
+  - "[[_Standards/WikiData/WD~superkingdom,19858692]]"
+parent_taxon: "[[_Standards/WikiData/WD~Cytota,3322575]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Eukaryota,13421047]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+described_by_source: "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+has_characteristic: "[[_Standards/WikiData/WD~eukaryality,115254102]]"
+subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+OmegaWiki_Defined_Meaning: "796039"
+taxon_common_name:
+  - eukaryote
+  - eukarionty
+  - jądrowce
+  - karionty
+  - karioty
+  - organizmy eukariotyczne
+  - organizmy jądrowe
+  - evkarionti
+  - 真核域
+MeSH_tree_code: B01
+start_time: -2700000000-01-01T00:00:00Z
+video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-Intron-rich-Eukaryotic-Ancestors-Inferred-from-a-Global-Survey-of-100-pcbi.1002150.s003.ogv
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Eukaryota%20diversity%202.jpg
+equivalent_class:
+  - http://dbpedia.org/ontology/Eukaryote
+  - http://kbpedia.org/kko/rc/EukaryoticOrganism
+AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=86701
+IPA_transcription: ˈjukɛɚiˈɑtə
+UMLS_CUI: C0684063
+Commons_category: Eukaryota
+taxon_name: Eukaryota
 ---
 
-# Eukaryotes
+# [[Eukaryotes]]
 
-## Eukaryota, Organisms with nucleated cells 
-
+Eukaryota, Organisms with nucleated cells 
 
 ![pair of saguaros](saguaro.jpg) ![Acantharea](acantb.jpg) ![Ithomiine butterfly feeding on Senecio flowers](clearwing.jpg) 
 
+#is_/same_as :: [[../../WikiData/WD~Eukaryote,19088]] 
+
+## #has_/text_of_/abstract 
+
+> The **Eukaryotes** ( yoo-KARR-ee-ohts, -⁠əts) constitute the domain of Eukaryota or Eukarya, 
+> organisms whose cells have a membrane-bound nucleus. 
+> 
+> All animals, plants, fungi, seaweeds, and many unicellular organisms are eukaryotes. 
+> They constitute a major group of life forms alongside the two groups of prokaryotes: 
+> the Bacteria and the Archaea. 
+> 
+> Eukaryotes represent a small __minority of the number__ of organisms, 
+> but given their generally much larger size, 
+> their collective global __biomass is much larger__ than that of prokaryotes.
+>
+> The eukaryotes emerged within the archaeal kingdom Promethearchaeati 
+> and its sole phylum Promethearchaeota. 
+> 
+> This implies that there are only two domains of life, Bacteria and Archaea, 
+> with eukaryotes incorporated among the Archaea. 
+> 
+> Eukaryotes first emerged during the Paleoproterozoic, likely as flagellated cells. 
+> 
+> The leading evolutionary theory is they were created by symbiogenesis between 
+> - an anaerobic Promethearchaeati archaean and 
+> - an aerobic proteobacterium, which formed the mitochondria. 
+> A second episode of symbiogenesis with a cyanobacterium created the plants, with chloroplasts.
+>
+> Eukaryotic cells contain membrane-bound organelles such as the nucleus, 
+> the endoplasmic reticulum, and the Golgi apparatus. 
+> 
+> Eukaryotes may be either unicellular or multicellular. 
+> In comparison, prokaryotes are typically unicellular. 
+> Unicellular eukaryotes are sometimes called protists. 
+> Eukaryotes can reproduce both asexually through mitosis 
+> and sexually through meiosis and gamete fusion (fertilization).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Eukaryote) 
 
 ## Phylogeny 
 
 
--   « Ancestral Groups 
+-   « Ancestral Groups  
     -   [Tree of Life](Tree_of_Life.md)
 -   ◊ Sibling Groups of  Life on Earth
     -   [Bacteria](Bacteria.md)
     -   Eukaryotes
     -   [Archaea](Archaea)
-    -   [Viruses](Viruses)
+    -   [Virus](Virus.md)
 
--   »
-    -   Subgroups
+-   » Sub-Groups
+
     -   [Choanoflagellates](Choanoflagellates.md)
     -   [Animals](Animals.md)
     -   [Fungi](Eukaryotes/Fungi.md)
     -   [Stramenopiles](Stramenopiles.md)
     -   [Alveolates](Alveolates.md)
     -   [Rhodophyta](Rhodophyta.md)
-    -   [Green plants](Green_plants)
-    -   [The other protists](protists.md)
+    -   [Green plants](Eukaryotes/Plants.md)
+    -   [The other protists](Eukaryotes/Protist.md)
 
-### Information on the Internet
 
--   [Eu-Tree](http://www.biology.uiowa.edu/eu_tree/). Assembling the
-    Tree of Eukaryotic Diversity.
--   [Protsville](http://www.bio.usyd.edu.au/Protsvil/). Protist Research
-    Laboratory, University of Sydney, Australia.
--   [Protist Information     Server](http://protist.i.hosei.ac.jp/Protist_menuE.html). Japan
-    Science and Technology Corporation.
-    -   [Protistologist\'s Home         Pages](http://protist.i.hosei.ac.jp/Servers/ProtistologistsE.html).
-    -   [Digital Specimen         Archives](http://protist.i.hosei.ac.jp/PDB/Images/menuE.html).
--   [Eukaryota:     Systematics](http://www.ucmp.berkeley.edu/alllife/eukaryotasy.html).
-    Museum of Paleontology, University of California, Berkeley, USA.
--   [Malaria, Algae, Amoeba and You: Unravelling Eukaryotic     Relationships](http://www.actionbioscience.org/evolution/dacks.html).
-    Joel B. Dacks. ActionBioScience.org
--   [Exploring Early Eukaryotic Evolution: Diversity and Relationships     Among Novel Deep-Branching     Lineages](http://astrobiology.mbl.edu/priorwork-bioprospect.html) .
-    Virginia Edgcomb, Andrew Roger, Alastair G.B. Simpson, Jeffrey
-    Silberman and Mitchell Sogin, Marine Biological Laboratory, Woods
-    Hole, USA.
--   [Microbial Life - Educational     Resources](http://serc.carleton.edu/microbelife/). Teaching and
-    learning about the diversity, ecology and evolution of the microbial
-    world; discover the connections between microbial life, the history
-    of the earth and our dependence on micro-organisms.
--   [Eukaryotes in extreme     environments](http://www.nhm.ac.uk/zoology/extreme.html). Dave
-    Roberts, the Natural History Museum, London, UK.
--   [The Homeobox Page](http://www.biosci.ki.se/groups/tbu/homeo.html).
-    Thomas R. Bürglin\'s page about the homeobox genes which play
-    important roles in the development of multicellular organisms.
--   [Protist Image Data](http://megasun.bch.umontreal.ca/protists/).
-    Molecular Evolution and Organelle Genomics program at the University
-    of Montreal, Canada.
+## Introduction
 
-### Introduction
-
-[David J. Patterson and Mitchell L. Sogin](#AboutThisPage)
+[Patrick Keeling and Brian S. Leander](http://tolweb.org/tree?group=Eukaryotes&contgroup=Life_on_Earth#AboutThisPage) 
 
 The eukaryotes include ourselves, other animals, plants and fungi 
-and a rich variety of micro-organisms (protists). 
+and a rich variety of single-cellular micro-organisms (protists). 
 
 The protists include parasites that are so successful 
 as to compromise the economies of entire countries. 
@@ -113,7 +157,7 @@ another (the Viridaeplantae) is formed of the green algae and the land plants.
 The majority of the lines of eukaryotes are traditionally classified 
 in a paraphyletic assemblage of mostly unicellular organisms referred to as [the protists](#TheProtista).
 
-### Characteristics
+### Characteristics 
 
 Eukaryotes are distinguished from prokaryotes by the structural complexity of the cells -
 characterized by having many functions 
@@ -122,8 +166,8 @@ segregated into semi-autonomous regions of the cells (organelles), and by the cy
 The most evident organelle in most cells is the nucleus, 
 and it is from the presence of this organelle that the eukaryotes get their name. 
 Most cells have a single nucleus, some have more (some have thousands) 
-and others like red blood cells of ourselves have none - 
-but they can be shown to derive from cells with nuclei. 
+and others like red blood cells of ourselves have none, to be most flexible - 
+but they are derive from cells by removing the nucleus. 
 
 Nuclei contain most of the genetic material of a cell - 
 with other elements of the genome located in mitchondria and plastids 

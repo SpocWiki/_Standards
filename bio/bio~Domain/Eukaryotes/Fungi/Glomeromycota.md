@@ -2,7 +2,10 @@
 title: Glomeromycota
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../../Tree_of_Life.md)
@@ -14,13 +17,13 @@ title: Glomeromycota
     -   [Chytridiomycota](Chytridiomycota)
     -   [Zygomycota](Zygomycota)
 
--   »
+-   » Sub-Groups 
 
 # Glomeromycota
 
 ## Arbuscular mycorrhizal fungi and their relative(s) 
 
-[Dirk Redecker](#AboutThisPage)
+[Dirk Redecker](http://www.tolweb.org/)
 
 ![ ](s328_small_002.jpg)
 ![ ](arbuscule_002.jpg)

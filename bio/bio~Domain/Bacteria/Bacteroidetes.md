@@ -1,8 +1,39 @@
 ---
 title: Bacteroidetes
+aliases:
+  - Bacteroidetes
 ---
 
--   « Ancestral Groups 
+# [[Bacteroidetes]] 
+
+
+## #has_/text_of_/abstract 
+
+> The phylum Bacteroidota (synonym **Bacteroidetes**) is composed of 
+> three large classes of Gram-negative, nonsporeforming, anaerobic or aerobic, and rod-shaped bacteria 
+> that are widely distributed in the environment, including in soil, sediments, and sea water, 
+> as well as in the guts and on the skin of animals.
+>
+> Although some Bacteroides spp. can be opportunistic pathogens, 
+> many Bacteroidota are symbiotic species highly adjusted to the gastrointestinal tract. 
+> 
+> Bacteroides are highly abundant in intestines, reaching up to 10^11 cells/g of intestinal material. 
+> They perform metabolic conversions that are essential for the host, 
+> such as degradation of proteins or complex sugar polymers. 
+> 
+> Bacteroidota colonize the gastrointestinal tract already in infants, 
+> as non-digestible oligosaccharides in mother milk 
+> support the growth of both Bacteroides and Bifidobacterium spp. 
+> 
+> Bacteroides spp. are selectively recognized by the immune system of the host 
+> through specific interactions.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bacteroidota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,91 +63,74 @@ title: Bacteroidetes
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Acetofilamentum*
+	-   *Acetomicrobium*
+	-   *Acetothermus*
+	-   *Alistipes*
+	-   *Anaerophaga*
+	-   *Anaerorhabdus*
+	-   *Bacteroides*
+	-   *Belliella*
+	-   *Dysgonomonas*
+	-   *Marinilabilia*
+	-   *Megamonas*
+	-   *Porphyromonas*
+	-   *Prevotella*
+	-   *Rikenella*
+	-   *Tannerella*
+	-   *Aequorivita*
+	-   *Arenibacter*
+	-   *Bergeyella*
+	-   *Blattabacterium*
+	-   *Capnocytophaga*
+	-   *Cellulophaga*
+	-   *Chitinophaga*
+	-   *Chryseobacterium*
+	-   *Coenonia*
+	-   *Crenothrix*
+	-   *Croceibacter*
+	-   *Cyclobacterium*
+	-   *Cytophaga*
+	-   *Dyadobacter*
+	-   *Empedobacter*
+	-   *Flammeovirga*
+	-   *Flavobacterium*
+	-   *Flectobacillus*
+	-   *Flexibacter*
+	-   *Flexithrix*
+	-   *Gelidibacter*
+	-   *Gillisia*
+	-   *Haliscomenobacter*
+	-   *Hongiella*
+	-   *Hymenobacter*
+	-   *Lewinella*
+	-   *Meniscus*
+	-   *Mesonia*
+	-   *Microscilla*
+	-   *Muricauda*
+	-   *Myroides*
+	-   *Ornithobacterium*
+	-   *Pedobacter*
+	-   *Persicobacter*
+	-   *Polaribacter*
+	-   *Psychroflexus*
+	-   *Psychroserpens*
+	-   *Reichenbachia*
+	-   *Rhodothermus*
+	-   *Riemerella*
+	-   *Runella*
+	-   *Salegentibacter*
+	-   *Salinibacter*
+	-   *Saprospira*
+	-   *Sphingobacterium*
+	-   *Spirosoma*
+	-   *Sporocytophaga*
+	-   *Tenacibaculum*
+	-   *Thermonema*
+	-   *Toxothrix*
+	-   *Weeksella*
+	-   *Zobellia*
 
-# Bacteroidetes 
 
--   *Acetofilamentum*
--   *Acetomicrobium*
--   *Acetothermus*
--   *Alistipes*
--   *Anaerophaga*
--   *Anaerorhabdus*
--   *Bacteroides*
--   *Belliella*
--   *Dysgonomonas*
--   *Marinilabilia*
--   *Megamonas*
--   *Porphyromonas*
--   *Prevotella*
--   *Rikenella*
--   *Tannerella*
--   *Aequorivita*
--   *Arenibacter*
--   *Bergeyella*
--   *Blattabacterium*
--   *Capnocytophaga*
--   *Cellulophaga*
--   *Chitinophaga*
--   *Chryseobacterium*
--   *Coenonia*
--   *Crenothrix*
--   *Croceibacter*
--   *Cyclobacterium*
--   *Cytophaga*
--   *Dyadobacter*
--   *Empedobacter*
--   *Flammeovirga*
--   *Flavobacterium*
--   *Flectobacillus*
--   *Flexibacter*
--   *Flexithrix*
--   *Gelidibacter*
--   *Gillisia*
--   *Haliscomenobacter*
--   *Hongiella*
--   *Hymenobacter*
--   *Lewinella*
--   *Meniscus*
--   *Mesonia*
--   *Microscilla*
--   *Muricauda*
--   *Myroides*
--   *Ornithobacterium*
--   *Pedobacter*
--   *Persicobacter*
--   *Polaribacter*
--   *Psychroflexus*
--   *Psychroserpens*
--   *Reichenbachia*
--   *Rhodothermus*
--   *Riemerella*
--   *Runella*
--   *Salegentibacter*
--   *Salinibacter*
--   *Saprospira*
--   *Sphingobacterium*
--   *Spirosoma*
--   *Sporocytophaga*
--   *Tenacibaculum*
--   *Thermonema*
--   *Toxothrix*
--   *Weeksella*
--   *Zobellia*
 
-Containing group: [Bacteria](../Bacteria.md)
-
-### Information on the Internet
-
--   [The Bacteroides Web     Page](http://borg.med.ecu.edu/%7Ewebpage/bacteroides.html)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Paster, B. J., W. Ludwig, W. G. Weisburg, E. Stackebrandt, R. B.
-Hespell, C. M. Hahn, H. Reichenbach, K. O. Stetter, and C. R. Woese.
-1985. A phylogenetic grouping of the Bacteroides, Cytophagas, and
-certain Flavobacteria. Syst. Appl. Microbiol. 6:34--42.

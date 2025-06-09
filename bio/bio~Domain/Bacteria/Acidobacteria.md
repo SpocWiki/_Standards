@@ -2,7 +2,21 @@
 title: Acidobacteria
 ---
 
--   « Ancestral Groups 
+# [[Acidobacteria]] 
+
+
+## #has_/text_of_/abstract 
+
+> Acidobacteriota is a phylum of [[Gram-negative]] bacteria. 
+> Its members are physiologically diverse and ubiquitous, especially in soils, 
+> but are under-represented in culture.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acidobacteriota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,23 +46,8 @@ title: Acidobacteria
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Acidobacterium capsulatum*
+	-   *Geothrix fermentans*
+	-   *Holophaga foetida*
 
-# Acidobacteria 
-
--   *Acidobacterium capsulatum*
--   *Geothrix fermentans*
--   *Holophaga foetida*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Quaiser, A., T. Ochsenreiter, C. Lanz, S. C. Schuster, A. H. Treusch, J.
-Eck, and C. Schleper. 2003. Acidobacteria form a coherent but highly
-diverse group within the bacterial domain: evidence from environmental
-genomics. Mol. Microbiol. 50(2):563-75.

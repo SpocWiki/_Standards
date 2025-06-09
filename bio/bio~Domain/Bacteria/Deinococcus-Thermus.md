@@ -1,8 +1,27 @@
 ---
 title: Deinococcus-Thermus
+aliases:
+  - Deinococcota
+  - Deinococci
 ---
 
--   « Ancestral Groups 
+# [[Deinococcus-Thermus]] 
+
+
+## #has_/text_of_/abstract 
+
+> Deinococcota (synonym, **Deinococcus-Thermus**) is a phylum of bacteria with a single class, 
+> Deinococci, that are highly resistant to environmental hazards, also known as extremophiles.
+>
+> These bacteria have thick cell walls that give them gram-positive stains, 
+> but they include a second membrane and so are closer in structure to those of gram-negative bacteria.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Deinococcota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,26 +51,13 @@ title: Deinococcus-Thermus
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Deinococcus*
+	-   *Thermus*
+	-   *Marinithermus*
+	-   *Meiothermus*
+	-   *Oceanithermus*
+	-   *Vulcanithermus*
 
-# Deinococcus-Thermus 
 
--   *Deinococcus*
--   *Thermus*
--   *Marinithermus*
--   *Meiothermus*
--   *Oceanithermus*
--   *Vulcanithermus*
 
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Griffiths, E. and R. S. Gupta. 2004. Distinctive protein signatures
-provide molecular markers and evidence for the monophyletic nature of
-the Deinococcus-thermus phylum. Journal of Bacteriology
-186(10):3097-3107.

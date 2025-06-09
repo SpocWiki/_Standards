@@ -2,7 +2,10 @@
 title: Eurotiomycetes
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)
     -   [Fungi](Fungi)
@@ -16,7 +19,7 @@ title: Eurotiomycetes
     -   [Geoglossaceae](Geoglossaceae)
     -   [Dothideomycetes](Dothideomycetes)
 
--   »
+-   » Sub-Groups 
 
 # Eurotiomycetes 
 

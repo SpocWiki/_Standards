@@ -2,7 +2,30 @@
 title: Cnidaria
 ---
 
--   « Ancestral Groups 
+# [[Cnidaria]]
+
+Sea anemones, corals, jellyfish, sea pens, hydra 
+
+![ ](Cnidaria/Heteractis_malu.jpg) ![ ](Cnidaria/Aglantha_digitale.gif) 
+
+## #has_/text_of_/abstract 
+
+> **Cnidaria** ( nih-DAIR-ee-ə, ny-) is a phylum under kingdom Animalia containing over 11,000 species of aquatic invertebrates found both in freshwater and marine environments (predominantly the latter), including jellyfish, hydroids, sea anemones, corals and some of the smallest marine parasites. Their distinguishing features are an uncentralized nervous system distributed throughout a gelatinous body and the presence of cnidocytes or cnidoblasts, specialized cells with ejectable flagella used mainly for envenomation and capturing prey. Their bodies consist of mesoglea, a non-living, jelly-like substance, sandwiched between two layers of epithelium that are mostly one cell thick. Cnidarians are also some of the few animals that can reproduce both sexually and asexually.
+>
+> Cnidarians mostly have two basic body forms: swimming medusae and sessile polyps, both of which are radially symmetrical with mouths surrounded by tentacles that bear cnidocytes, which are specialized stinging cells used to capture prey. Both forms have a single orifice and body cavity that are used for digestion and respiration. Many cnidarian species produce colonies that are single organisms composed of medusa-like or polyp-like zooids, or both (hence they are trimorphic). Cnidarians' activities are coordinated by a decentralized nerve net and simple receptors. Cnidarians also have rhopalia, which are involved in gravity sensing and sometimes chemoreception. Several free-swimming species of Cubozoa and Scyphozoa possess balance-sensing statocysts, and some have simple eyes. Not all cnidarians reproduce sexually, but many species have complex life cycles of asexual polyp stages and sexual medusae stages. Some, however, omit either the polyp or the medusa stage, and the parasitic classes evolved to have neither form.
+>
+> Cnidarians were formerly grouped with ctenophores, also known as comb jellies, in the phylum Coelenterata, but increasing awareness of their differences caused them to be placed in separate phyla. Most cnidarians are classified into four main groups: the almost wholly sessile Anthozoa (sea anemones, corals, sea pens); swimming Scyphozoa (jellyfish); Cubozoa (box jellies); and Hydrozoa (a diverse group that includes all the freshwater cnidarians as well as many marine forms, and which has both sessile members, such as Hydra, and colonial swimmers (such as the Portuguese man o' war)). Staurozoa have recently been recognised as a class in their own right rather than a sub-group of Scyphozoa, and the highly derived parasitic Myxozoa and Polypodiozoa were firmly recognized as cnidarians only in 2007.
+>
+> Most cnidarians prey on organisms ranging in size from plankton to animals several times larger than themselves, but many obtain much of their nutrition from symbiotic dinoflagellates, and a few are parasites. Many are preyed on by other animals including starfish, sea slugs, fish, turtles, and even other cnidarians. Many scleractinian corals—which form the structural foundation for coral reefs—possess polyps that are filled with symbiotic photo-synthetic zooxanthellae. While reef-forming corals are almost entirely restricted to warm and shallow marine waters, other cnidarians can be found at great depths, in polar regions, and in freshwater.
+>
+> Cnidarians are a very ancient phylum, with fossils having been found in rocks formed about 580 million years ago during the Ediacaran period, preceding the Cambrian Explosion. Other fossils show that corals may have been present shortly before 490 million years ago and diversified a few million years later. Molecular clock analysis of mitochondrial genes suggests an even older age for the crown group of cnidarians, estimated around 741 million years ago, almost 200 million years before the Cambrian period, as well as before any fossils. Recent phylogenetic analyses support monophyly of cnidarians, as well as the position of cnidarians as the sister group of bilaterians.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cnidaria) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Animals](Animals)
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../../Tree_of_Life.md)
@@ -13,30 +36,14 @@ title: Cnidaria
     -   Cnidaria
     -   [Ctenophora](Ctenophora)
     -   [Placozoa](Placozoa)
-    -   [Porifera](Porifera)
+    -   [Sponge](Sponge.md)
 
 -   » Sub-Groups
     -   [Anthozoa](Anthozoa.md)
 
-# Cnidaria
+## Introduction
 
-## Sea anemones, corals, jellyfish, sea pens, hydra 
-
-[Daphne G. Fautin and Sandra L. Romano](#AboutThisPage)
-
-![ ](malu_002.jpg)
-![ ](aglantha.gif)
-
-Tree following Werner (1973) and Bridge et al. (1995).
-
-Containing group: [Animals](Animals.md)
-
-### Information on the Internet
-
-[Cnidaria Home Page](http://www.ucihs.uci.edu/biochem/steele/default.html). University
-of California, Irvine.
-
-### Introduction
+[Daphne G. Fautin and Sandra L. Romano](http://www.tolweb.org/)
 
 The exclusively aquatic phylum Cnidaria is represented by polyps such as
 sea anemones and corals, and by medusae such as jellyfish. A polypoid or
@@ -217,157 +224,19 @@ benthic ctenophores do not resemble cnidarians at all. Cnidaria,
 therefore, is a well circumscribed taxon; it is considered by many to be
 a sister group of all metazoans other than sponges.
 
-### References
+## Title Illustrations
 
-Ax, P. 1989. Basic phylogenetic systematization of Metazoa. Pp. 453-470
-in K. B. B. Fernholm and H. Jornvall (eds.). The Hierarchy of Life.
-Elsevier, Amsterdam.
+--------------------------------------------
+[Heteractis malu](Cnidaria/Heteractis_malu.jpg) 
+Scientific Name ::     Heteractis malu
+Comments             A sea anemone (Anthozoa)
+Reference            From D. G. Fautin and G. R. Allen. 1992. Field Guide to Anemonefishes and their Host Sea Anemones. Western Australia Museum.
+Creator              photographed by Art Reed
+Specimen Condition   Live Specimen
+Copyright ::            © 1992 Western Australia Museum
 
-Bridge, D., C. W. Cunningham, R. DeSalle, and L. W. Buss. 1995.
-Class-level relationships in the phylum Cnidaria: Molecular and
-morphological evidence. Molec. Biol. Evol. 12:679-689.
-
-Bridge, D., C. W. Cunningham, B. Schierwater, R. DeSalle, and L. W.
-
-Buss. 1992. Class-level relationships in the phylum Cnidaria: Evidence
-from mitochondrial genome structure. Proc. Nat. Acad. Sci. USA
-89:8750-8753.
-
-Brusca, C. B. and G. J. Brusca. 1990. Invertebrates. Sinauer Associates,
-Sunderland MA.
-
-Dunn, D. F. 1982. Cnidaria. Pp. 669-705 in S. P. Parker (ed.) Synopsis
-and Classification of Living organisms. McGraw-Hill, New York.
-
-Fautin, D. G. and R. N. Mariscal. 1991. Cnidaria: Anthozoa. Pp. 267-358
-in F. W. Harrison and J. A. Westfall (eds.) Microscopic Anatomy of
-Invertebrates, volume 2: Placozoa, Porifera, Cnidaria, and Ctenophora.
-Wiley-Liss, New York and other cities.
-
-Hand, C. 1959. On the origin and phylogeny of the Coelenterata. Syst.
-Zool. 8:192-202.
-
-Hessinger, D. A. and H. M. Lenhoff. 1988. Preface. Pp. xi-xii in D. A.
-Hessinger and H. M. Lenhoff (eds.) The Biology of Nematocysts. Academic
-Press, San Diego and other cities.
-
-Hill, D. and J. W. Wells. 1956. Cnidaria \-- general features. Pp. F5-F9
-in R. C. Moore (ed.) Treatise on Invertebrate Paleontology: Part F,
-Coelenterata. Geological Society of America and University of Kansas
-Press.
-
-Hyman, L. H. 1940. The Invertebrates: Protozoa through Ctenophora.
-McGraw-Hill, New York. 726 pp.
-
-Hyman, L. H. 1956. Morphology of living coelenterates. Pp. F10-F20 in R.
-C. Moore (ed.) Treatise on Invertebrate Paleontology: Part F,
-Coelenterata. Geological Society of America and University of Kansas
-Press.
-
-Jagersten, G. 1955. On the early phylogeny of the Metazoa: the
-bilaterogastraea theory. Zool. Bidr. Uppsala 30: 321-354.
-
-Mackie, G. O. (ed.). 1976. Coelenterate Ecology and Behavior (Selected
-papers from the Third International Symposium on Coelenterate Biology,
-held at the University of Victoria, Victoria, British Columbia, May
-10-13, 1976). Plenum Press, New York and London. 744 pp.
-
-Meglitsch, P. A. and F. R. Schram. 1991. Invertebrate Zoology (3rd ed.).
-Oxford University Press, New York and Oxford. 623 pp.
-
-Mills, C. E. and R. L. Miller. 1984. Ingestion of a medusa (Aegina
-citrea) by the nematocyst-containing ctenophore Haeckelia rubra
-(formerly Euchlora rubra): phylogenetic implications. Mar. Biol.
-78:215-221.
-
-Muscatine, L. and H. M. Lenhoff (eds.). 1974. Coelenterate Biology:
-Reviews and New Perspectives. Academic Press, New York and other cities.
-501 pp.
-
-Nielsen, C. 1995. Animal Evolution: Interrelationships of the Living
-Phyla. Oxford University Press, Oxford. 467 pp.
-
-Pantin, C. 1960. Diploblastic animals. Proc. Linn. Soc.171:1-14.
-
-Pearse, J. S. and V. B. Pearse. 1978. Vision in cubomedusan jellyfishes.
-Science 199: 458.
-
-Pearse, V., J. Pearse, M. Buchsbaum, and R. Buchsbaum. 1986. Living
-Invertebrates. Blackwell Scientific Publications, Palo Alto, CA. 848 pp.
-
-Petersen, K. W. 1979. Development of coloniality in Hydrozoa. Pp.
-105-139 in G. Larwood and B. R. Rosen (eds.). Biology and Systematics of
-Colonial Organisms. Academic Press, New York.
-
-Rees, W. J. (ed.). 1966. The Cnidaria and their Evolution (The
-Proceedings of a Symposium held at The Zoological Society of London on 3
-and 4 March 1965). Zoological Society of London and Academic Press,
-London and other cities. 449 pp.
-
-Robson, E. A. 1985. Speculations on coelenterates. Pp. 60-77 in S.
-Conway Morris, J. D. George, R. Gibson, and H. M. Platt (eds). The
-Origins and Relationships of Lower Invertebrates. Clarendon Press,
-Oxford.
-
-Ruppert, E. E. and R. D. Barnes. 1994. Invertebrate Zoology (6th ed.).
-Harcourt Brace College Publishers, Fort Worth. 1056 pp.
-
-Schlichter, D. 1975. The importance of dissolved organic compounds in
-sea water for the nutrition of Anemonia sulcata Pennant (Coelenterata).
-Pp. 395-405 in H. Barnes (ed.). Proceedings of the 9th European Marine
-Biolological Symposium.
-
-Schuchert, P. 1993. Phylogenetic analysis of the Cnidaria. Z. Zool.
-Syst. Evolut.-forsch. 31:161-173.
-
-Scrutton, C. T. 1979. Early Fossil Cnidarians. Pp. 161-207 in M. R.
-House (ed.) The Origin of Major Invertebrate Groups. Academic Press,
-London.
-
-Shick, J. M. 1991. A Functional Biology of Sea Anemones. Chapman and
-Hall, London and other cities. 395 pp.
-
-Tardent, P. and R. Tardent (eds.). 1980. Developmental and Cellular
-Biology of Coelenterates (Proceedings of the 4th International
-Coelenterate Conference held in Interlaken, Switzerland, 4-8 September,
-1979). Elsevier/North-Holland Biomedical Press, Amsterdam and other
-cities. 499 pp.
-
-Tokioka, T. and S. Nishimura (eds). 1973. Proceedings of the Second
-International Symposium on Cnidaria. Publ. Seto Mar. Biol. Lab.
-20:1-793.
-
-Watson, G. M. 1988. Ultrastructure and cytochemistry of developing
-nematocysts. Pp. 143-164 in D. A. Hessinger and H. M. Lenhoff (eds.) The
-Biology of Nematocysts. Academic Press, San Diego and other cities.
-
-Werner, B. 1973. New investigations on systematics and evolution of the
-class Scyphozoa and the phylum Cnidaria. Publ. Seto Mar. Biol. Lab.
-(Proceedings of the Second International Symposium on Cnidaria)
-20:35-61.
-
-Williams, R. B., P. F. S. Cornelius, R. G. Hughes, and E. A. Robson
-(eds.). 1991. Coelenterate Biology: Recent Research on Cnidaria and
-Ctenophora (Proceedings of the Fifth International Conference on
-Coelenterate Biology, 1989). Kluwer Academic Publishers, Dordrecht and
-other cities. 742 pp.
-
-##### Title Illustrations
-
-![](malu.jpg)
-
-  --------------------------------------------
-  Scientific Name ::     Heteractis malu
-  Comments             A sea anemone (Anthozoa)
-  Reference            From D. G. Fautin and G. R. Allen. 1992. Field Guide to Anemonefishes and their Host Sea Anemones. Western Australia Museum.
-  Creator              photographed by Art Reed
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1992 Western Australia Museum
-  --------------------------------------------
-![](aglantha_002.gif)
-
-  ---------------------------------------------
-  Scientific Name ::  Aglantha digitale
-  Comments          A direct-developing holoplanktonic hydromedusa (Hydrozoa) that has no polyp. The gonads are visible through the transparent bell.
-  Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)
-  ---------------------------------------------
+---------------------------------------------
+![Aglantha digitale](Cnidaria/Aglantha_digitale.gif) 
+Scientific Name ::  Aglantha digitale
+Comments          A direct-developing holoplanktonic hydromedusa (Hydrozoa) that has no polyp. The gonads are visible through the transparent bell.
+Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)

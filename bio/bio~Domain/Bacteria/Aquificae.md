@@ -2,7 +2,19 @@
 title: Aquificae
 ---
 
--   « Ancestral Groups 
+# [[Aquificae]] 
+
+
+## #has_/text_of_/abstract 
+
+> The Aquificota phylum is a diverse collection of bacteria that live in harsh environmental settings. The name Aquificota was given to this phylum based on an early genus identified within this group, Aquifex (“water maker”), which is able to produce water by oxidizing hydrogen. They have been found in springs, pools, and oceans. They are autotrophs, and are the primary carbon fixers in their environments. These bacteria are Gram-negative, non-spore-forming rods. They are true bacteria (domain Bacteria) as opposed to the other inhabitants of extreme environments, the Archaea.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Aquificota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,54 +44,17 @@ title: Aquificae
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Aquifex*
+	-   *Calderobacterium*
+	-   *Hydrogenobacter*
+	-   *Thermocrinis*
+	-   *Hydrogenothermus*
+	-   *Persephonella*
+	-   *Sulfurihydrogenibium*
+	-   *Balnearium*[ (incertae sedis) ]
+	-   *Desulfurobacterium*[ (incertae sedis) ]
+	-   *Thermovibrio*[ (incertae sedis) ]
 
-# Aquificae 
 
--   *Aquifex*
--   *Calderobacterium*
--   *Hydrogenobacter*
--   *Thermocrinis*
--   *Hydrogenothermus*
--   *Persephonella*
--   *Sulfurihydrogenibium*
--   *Balnearium*[ (incertae sedis) ]
--   *Desulfurobacterium*[ (incertae sedis) ]
--   *Thermovibrio*[ (incertae sedis) ]
 
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Bocchetta, M., S. Gribaldo, A. Sanangelantoni, and P. Cammarano. 2000.
-Phylogenetic depth of the bacterial genera Aquifex and Thermotoga
-inferred from analysis of ribosomal protein, elongation factor, and RNA
-polymerase subunit sequences. Journal of Molecular Evolution 50
-(4):366-380.
-
-Coenye, T. and P. Vandamme. 2004. A genomic perspective on the
-relationship between the Aquificales and the epsilon-Proteobacteria.
-Systematic and Applied Microbiology 27(3): 313-322.
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Griffiths, E. and R. S. Gupta. 2004. Signature sequences in diverse
-proteins provide evidence for the late divergence of the order
-Aquificales. International Microbiology 7(1):41-52.
-
-Griffiths, E. and R. S. Gupta. 2006. Molecular signatures in protein
-sequences that are characteristics of the phylum Aquificae.
-International Journal of Systematic and Evolutionary Microbiology 56:
-99-107.
-
-Huber, H., S. Diller, C. Horn, and R. Rachel. 2002. Thermovibrio ruber
-gen. nov., sp nov., an extremely thermophilic, chemolithoautotrophic,
-nitrate-reducing bacterium that forms a deep branch within the phylum
-Aquificae. International Journal of Systematic and Evolutionary
-Microbiology 52: 1859-1865.
-
-Huber, R. K. O. and Stetter. 1999. Aquificales. In: Encyclopedia of Life
-Sciences. John Wiley & Sons, Ltd: Chichester http://www.els.net/
-\[doi:10.1038/npg.els.0000442\]

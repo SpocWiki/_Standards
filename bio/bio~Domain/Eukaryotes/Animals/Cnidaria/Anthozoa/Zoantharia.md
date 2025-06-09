@@ -2,7 +2,10 @@
 title: Zoantharia
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Anthozoa](Anthozoa)
     -   [Cnidaria](Cnidaria)
     -   [Animals](Animals)
@@ -20,7 +23,7 @@ title: Zoantharia
 
 ## Sea Anemones and Corals 
 
-[Daphne G. Fautin, Sandra L. Romano, and William A. Oliver, Jr.](#AboutThisPage)
+[Daphne G. Fautin, Sandra L. Romano, and William A. Oliver, Jr.](http://www.tolweb.org/)
 
 ![ ](pseudocorynactis.jpg)
 

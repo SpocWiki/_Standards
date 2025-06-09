@@ -2,7 +2,20 @@
 title: Chrysiogenes arsenatis
 ---
 
--   « Ancestral Groups 
+# [[Chrysiogenetes]] 
+
+
+## #has_/text_of_/abstract 
+
+> Chrysiogenaceae is a family of bacteria.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Chrysiogenaceae) 
+
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,16 +45,7 @@ title: Chrysiogenes arsenatis
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	- *Chrysiogenes arsenatis* 
 
-## Chrysiogenetes 
 
-# *Chrysiogenes arsenatis* 
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

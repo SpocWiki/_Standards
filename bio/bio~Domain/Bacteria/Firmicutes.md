@@ -1,8 +1,25 @@
 ---
 title: Firmicutes
+aliases:
+  - Firmicutes
+  - Bacillota
 ---
 
--   « Ancestral Groups 
+# [[Firmicutes]]
+
+low G+C Gram positives 
+
+## #has_/text_of_/abstract 
+
+> The Bacillota (synonym **Firmicutes**) are a phylum of bacteria, 
+> most of which have Gram-positive cell wall structure. They have round cells, called cocci (singular coccus), or rod-like forms (bacillus). A few Bacillota, such as Megasphaera, Pectinatus, Selenomonas, and Zymophilus from the class Negativicutes, have a porous pseudo-outer membrane that causes them to stain Gram-negative. Many Bacillota produce endospores, which are resistant to desiccation and can survive extreme conditions. They are found in various environments, and the group includes some notable pathogens. Those in one family, the Heliobacteria, produce energy through anoxygenic photosynthesis. Bacillota play an important role in beer, wine, and cider spoilage.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bacillota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -37,18 +54,3 @@ title: Firmicutes
     -   [Mollicutes](Mollicutes)
     -   [Bacilli](Bacilli)
 
-# Firmicutes
-
-## low G+C Gram positives 
-
--   *[Clostridia](Clostridia)*
--   *[Mollicutes](Mollicutes)*
--   *[Bacilli](Bacilli)*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

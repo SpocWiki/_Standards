@@ -1,25 +1,27 @@
 ---
 aliases:
   - Procaryote
+  - prokaryotic
 ---
 
 This is a Super-[[../Taxon~Domain]]. 
 
 #is_/opposite_of :: [[Eukaryote]] 
 #has_/parts :: [[Archaea]] 
-#has_/parts :: [[../../schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria]] 
+#has_/parts :: [[Bacteria|Bacteria]] 
 
-[[Archaea]] are anaerobic 
-wheras [[../bio~Tree/Bacteria|Bacteria]] are aerobic. 
-It is possible that [[Archaea]]  incorporated  [[../../schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria]] that slowly mutated into Mitochondria. (Endosymbiosis)
+## Genesis of [[Eukaryotes]] from [[Procaryote]]s 
+[[Archaea]] are anaerobic, 
+while [[../bio~Tree/Bacteria|Bacteria]] are aerobic. 
+
+It is possible that [[Archaea]]  incorporated  [[Bacteria|Bacteria]] 
+which slowly mutated into Mitochondria. (Endosymbiosis)
 Internal Surfaces like Mitochondria raised the inner surface which allows for greater Energy Production. 
 
-Protein-Length and Gene-Length increased proportionally, 
-until it hit a Plateau at 500 Amino-Acids corresponding to 1500 Genes. 
+Protein-Length and Gene-Length increases proportionally, 
+until it hits a Plateau at 500 Amino-Acids corresponding to 1500 Genes. 
 
 Until Eucariotes DNA was entirely used for Protein-Encoding. 
-Genes 
-
 The number of Protein Foldings grows exponentially with Protein Length, 
 the Search-space was bigger than could be explored with Individuals. 
 
@@ -28,7 +30,8 @@ Non-coding DNA consists of:
 - Regulation 
 - Introns for flexible Splicing  
 
-The Endosymbiosis of a Cyano-Bacterium in an Eucariote resulted in the forming of Plant Cells. 
+The additional Endosymbiosis of a Cyano-Bacterium in an Eucariote 
+resulted in the forming of Plant Cells. 
 
 
 ## #has_/text_of_/abstract 
@@ -43,7 +46,7 @@ The Endosymbiosis of a Cyano-Bacterium in an Eucariote resulted in the forming o
 > prokaryotes were classified within the empire Prokaryota. 
 > 
 > However, in the three-domain system, based upon molecular phylogenetics, 
-> prokaryotes are divided into two domains: [[../../schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria|Bacteria]] and [[Archaea]]. 
+> prokaryotes are divided into two domains: [[Bacteria|Bacteria]] and [[Archaea]]. 
 > A third domain, Eukaryota, consists of organisms with nuclei.
 >
 > Prokaryotes evolved before eukaryotes, and lack nuclei, mitochondria, 

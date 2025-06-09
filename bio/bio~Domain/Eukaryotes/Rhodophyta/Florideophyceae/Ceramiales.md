@@ -2,7 +2,18 @@
 title: Ceramiales
 ---
 
--   « Ancestral Groups 
+# [[Ceramiales]] 
+
+## #has_/text_of_/abstract 
+
+> **Ceramiales** is an order of red algae. It was established by Friedrich Oltmanns in 1904.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ceramiales) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Florideophyceae](Florideophyceae)
     -   [Rhodophyta](Rhodophyta)
     -   [Eukaryotes](Eukaryotes)
@@ -15,8 +26,4 @@ title: Ceramiales
 -   » Sub-Groups
     -   [Rhodomelaceae](Rhodomelaceae.md)
 
-# Ceramiales 
 
-[Yde de Jong and D. Wilson Freshwater](#AboutThisPage) ![](Ceramiales.png)
-
-Containing group: [Florideophyceae](Florideophyceae.md)

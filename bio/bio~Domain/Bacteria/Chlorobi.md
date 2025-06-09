@@ -1,8 +1,33 @@
 ---
 title: Chlorobi
+aliases:
+  - Chlorobi
 ---
 
--   « Ancestral Groups 
+# [[Chlorobi]] 
+
+green sulfur bacteria 
+
+
+## #has_/text_of_/abstract 
+
+> The green sulfur bacteria are a phylum, **Chlorobi**ota, 
+> of obligately anaerobic photoautotrophic bacteria that metabolize sulfur.
+>
+> Green sulfur bacteria are nonmotile (except Chloroherpeton thalassium, which may glide) 
+> and capable of anoxygenic photosynthesis. 
+> 
+> They live in anaerobic aquatic environments. 
+> In contrast to plants, green sulfur bacteria mainly use sulfide ions as electron donors. 
+> They are autotrophs that utilize the reverse tricarboxylic acid cycle to perform carbon fixation.  
+> They are also mixotrophs and reduce nitrogen.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Green%20sulfur%20bacteria) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,27 +57,12 @@ title: Chlorobi
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
+	-   *Chlorobium*
+	-   *Ancalochloris*
+	-   *Chlorobaculum*
+	-   *Chloroherpeton*
+	-   *Pelodictyon*
+	-   *Prosthecochloris*
 
-# Chlorobi
 
-## green sulfur bacteria 
-
--   *Chlorobium*
--   *Ancalochloris*
--   *Chlorobaculum*
--   *Chloroherpeton*
--   *Pelodictyon*
--   *Prosthecochloris*
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Overmann, J. 1999. Green Sulfur Bacteria. In: Encyclopedia of Life
-Sciences. John Wiley & Sons, Ltd: Chichester http://www.els.net/
-\[doi:10.1038/npg.els.0000458\]

@@ -2,7 +2,10 @@
 title: Florideophyceae
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Rhodophyta](Rhodophyta)
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../../Tree_of_Life.md)
@@ -14,32 +17,30 @@ title: Florideophyceae
     -   [Ceramiales](Ceramiales.md)
     -   [Gelidiales](Gelidiales.md)
 
-# Florideophyceae 
+# [[Florideophyceae]] 
 
-[D. Wilson Freshwater](#AboutThisPage)
 
-![Botryocladia pseudodichotoma](flortitle1a_002.jpg)
-![](flortitle2a.jpg)
-![ ](flortitle3a.jpg)
+![Botryocladia pseudodichotoma](Florideophyceae/Botryocladia_pseudodichotoma.jpg) ![](Florideophyceae/Mazaella_cornucopiae.jpg) ![ ](Florideophyceae/Gracilaria.jpg) 
 
-Tree based on Freshwater et al. 1994, Pueschel 1994, Ragan et al. 1994,
-Saunders and Bailey 1997, and unpublished analyses of S. Fredericq, D.W.
-Freshwater, and M.H. Hommersand.
+## #has_/text_of_/abstract 
 
-Containing group: [Rhodophyta](Rhodophyta.md)
+> **Florideophyceae** is a class of exclusively multicellular red algae. 
+> 
+> They were once thought to be the only algae to bear pit connections, 
+> but these have since been found in the filamentous stage of the Bangiaceae. 
+> 
+> They were also thought only to exhibit apical growth, 
+> but there are genera known to grow by intercalary growth. 
+> 
+> Most, but not all, genera have three phases to the life cycle. 
+> In the subclass Nemaliophycidae there are three orders, 
+> Balbianiales, Batrachospermales, and Thoreales, which lives exclusively in freshwater.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Florideophyceae) 
 
-### Information on the Internet
+## Introduction
 
--   [Introduction to Coralline     Algae](http://www.botany.uwc.ac.za/clines). Derek Keats,
-    University of the Western Cape, Bellville (Cape Town), South Africa.
--   [Fossil Coralline Algae](http://www.paleoweb.net/algae). Michael
-    Rasser. University of Graz, Austria.
--   [Polysiphonia](http://www.microscopy-uk.net/mag/artmar99/red.html).
-    Micscape Magazine article by Jan Parmentier.
--   [Batrachospermum](http://www.microscopy-uk.net/mag/artmay99/gbalgae.html).
-    Micscape Magazine article by Gary Baird.\
-
-### Introduction
+[D. Wilson Freshwater](http://tolweb.org/Florideophyceae/21781#AboutThisPage) 
 
 The Florideophyceae is a well-defined assemblage of red algae that share
 a number of characters including the presence of tetrasporangia, and a
@@ -132,83 +133,30 @@ Kraft (1997). More taxon replete analyses of both SSU and rbcL data are
 in progress and should result in a well-defined hypothesis of evolution
 in the Florideophyceae.
 
-### References
-
-Fredericq, S., J.N. Norris, E.A. Zimmer, D.W. Freshwater and M.H.
-Hommersand. 1996. Proposal of the Dumontiales ord. nov. and
-reinstatement of the Sphaerococcales Sjoestedt emend. based on family
-complexes previously placed in the marine red algal order Gigartinales.
-J. Phycol. 32(3)suppl.:16.
-
-Freshwater, D.W., S. Fredericq, B.S. Butler, M.H. Hommersand and M.W.
-Chase 1994. A gene phylogeny of the red algae (Rhodophyta) based on
-plastid rbcL. Proc. Natl. Acad. Sci. USA 91:7281-7285.
-
-Gabrielson, P.W. and D.J. Garbary. 1985. Systematics of red algae
-(Rhodophyta). CRC crit. Rev. Plant Sci. 3:325-366.
-
-Gabrielson, P.W. and D.J. Garbary. 1987. A cladistic analysis of
-Rhodophyta: Florideophycidean orders. Br. Phycol. J. 22:125-138.
-
-Garbary, D.J. and P.W. Gabrielson. 1990. Taxonomy and evolution. Pages
-477-498 in Biology of the red algae (K.M. Cole and R.G. Sheath, eds.).
-Cambridge University Press, Cambridge.
-
-Pueschel, C.M. 1994. Systematic significance of the absence of pit-plug
-cap membranes in the Batrachospermales (Rhodophyta). J. Phycol.
-30:310-315.
-
-Pueschel, C.M. and K.M. Cole. 1982. Rhodophycean pit plugs: an
-ultrastructural survey with taxonomic implications. Am. J. Bot.
-69:703-720.
-
-Ragan, M.A., C.J. Bird, E.L. Rice, R.R. Gutell, C.A. Murphy and R.K.
-Singh. 1994. A molecular phylogeny of the marine red algae (Rhodophyta)
-based on the nuclear small-subunit rRNA gene. Proc. Natl. Acad. Sci. USA
-91:7276-7280.
-
-Saunders, G.W. and G.T. Kraft. 1994. Small-subunit rRNA gene sequences
-from representatives of selected families of the Gigartinales and
-Rhodymeniales (Rhodophyta). 1. Evidence for the Plocamiales ord. nov.
-Can. J. Bot. 72:1250-1263.
-
-Saunders, G.W. and G.T. Kraft. 1996. Small-subunit rRNA gene sequences
-from representatives of selected families of the Gigartinales and
-Rhodymeniales (Rhodophyta). 1. Evidence for the Halymeniales ord. nov.
-Can. J. Bot. 74:694-707.
-
-Saunders, G.W. and G.T. Kraft. 1997. A molecular perspective on red
-algal evolution: Focus on the Florideophycidae. Pages 115-138 in The
-origins of algae and their plastids (D. Bhattacharya, ed.). Pl. Syst.
-Evol. Suppl. 11.
-
-Saunders, G.W. and J.C. Bailey. 1997. Phylogenesis of
-pit-plug-associated features in the Rhodophyta: inferences from
-molecular systematic data. Can. J. Bot. 75:1436-1447.
 
 ##### Title Illustrations
 
-![Botryocladia pseudodichotoma](flortitle1a.jpg)
+----------------
+![Botryocladia pseudodichotoma](Florideophyceae/Botryocladia_pseudodichotoma.jpg) 
+Scientific Name ::  Botryocladia pseudodichotoma
+Location ::        collected at Monterey, California, USA
+Comments          Rhodymeniales
+Copyright ::         © 2000 J. L. Woodhead
 
-  ----------------
-  Scientific Name ::  Botryocladia pseudodichotoma
-  Location ::        collected at Monterey, California, USA
-  Comments          Rhodymeniales
-  Copyright ::         © 2000 J. L. Woodhead
-  ----------------
-![Band of Mazaella cornucopiae](flortitle2a_002.jpg)
+![Band of Mazaella cornucopiae](flortitle2a_002.jpg)
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::  Mazaella cornucopiae
-  Location ::        Botanical Beach, Vancouver Island, Canada
-  Comments          Band of Mazaella cornucopiae (Gigartinales) growing on intertidal rocks
-  Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
-  ---------------------------------------------------------------------------
-![](flortitle3a_002.jpg)
+---------------------------------------------------------------------------
+![Mazaella cornucopiae](Florideophyceae/Mazaella_cornucopiae.jpg) 
+Scientific Name ::  Mazaella cornucopiae
+Location ::        Botanical Beach, Vancouver Island, Canada
+Comments          Band of Mazaella cornucopiae (Gigartinales) growing on intertidal rocks
+Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
-  --------------------------------
-  Scientific Name ::  Gracilaria
-  Location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
-  Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
-  Copyright ::         © 2000 K. T. Bird
-  --------------------------------
+![](flortitle3a_002.jpg)
+
+--------------------------------
+![Gracilaria](Florideophyceae/Gracilaria.jpg) 
+Scientific Name ::  Gracilaria
+Location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
+Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
+Copyright ::         © 2000 K. T. Bird

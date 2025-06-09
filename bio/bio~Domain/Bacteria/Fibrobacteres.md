@@ -1,8 +1,28 @@
 ---
 title: Fibrobacteres
+aliases:
+  - Fibrobacteres
+  - Fibrobacterota
 ---
 
--   « Ancestral Groups 
+# [[Fibrobacteres]] 
+
+
+## #has_/text_of_/abstract 
+
+> Fibrobacterota is a small bacterial phylum which includes many of the major rumen bacteria, 
+> allowing for the degradation of plant-based cellulose in ruminant animals. 
+> 
+> Members of this phylum were categorized in other phyla.  
+> The genus Fibrobacter (the only genus of Fibrobacterota) 
+> was removed from the genus Bacteroides in 1988.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fibrobacterota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,14 +52,5 @@ title: Fibrobacteres
     -   [Dictyoglomi](Dictyoglomi.md)
     -   [Gemmatimonas aurantiaca](Gemmatimonas_aurantiaca)
 
--   »
+-   » Sub-Groups 
 
-# Fibrobacteres 
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.

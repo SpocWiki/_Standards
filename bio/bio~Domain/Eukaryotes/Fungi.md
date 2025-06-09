@@ -1,17 +1,100 @@
 ---
 title: Fungi
+aliases:
+  - fungus
+  - Fungi
+  - funguses
+has_id_wikidata: Q764
+FoodEx2_code: A0ETG
+MeSH_tree_code: B01.300
+UMLS_CUI:
+  - C0016832
+  - C0369241
+Krugosvet_article: nauka_i_tehnika/biologiya/GRIBI.html
+Library_of_Congress_Classification: QK600-QK638
+Dewey_Decimal_Classification:
+  - "579.6"
+  - "579"
+  - "664.001579"
+  - "579.5"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~mushroom,83093]]"
+  - "[[_Standards/WikiData/WD~mycelium,326228]]"
+mode_of_reproduction:
+  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
+  - "[[_Standards/WikiData/WD~sexual_reproduction,182353]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Nomenclature_for_algae,_fungi,_and_plants,693148]]"
+parent_taxon: "[[_Standards/WikiData/WD~Holomycota,2943473]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fungi,10814969]]"
+topic_s_main_template:
+  - "[[_Standards/WikiData/WD~Template_Fungus_navs,10977052]]"
+  - "[[_Standards/WikiData/WD~Template_Fungus,14403518]]"
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_fungi,39087041]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~plant_based_food,107122728]]"
+start_time: -410000000-01-01T00:00:00Z
+different_from: "[[_Standards/WikiData/WD~plant,756]]"
+studied_by: "[[_Standards/WikiData/WD~mycology,7175]]"
+subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+properties_for_this_type: mode of reproduction
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[_Standards/WikiData/WD~kingdom,36732]]"
+OmegaWiki_Defined_Meaning: "1588"
+ITIS_TSN: "555705"
+Colon_Classification: I23
+montage_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20collage.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fungi%20Diversity.jpg
+Commons_gallery: Fungi
+Commons_category: Fungi
+taxon_name: Fungi
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-08-09%20Amanita%20citrina%2046465%20cropped.jpg
+AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
+EPPO_Code: 1FUNGK
+Iconclass_notation: 25G54
 ---
 # [[Fungi]] 
 
+Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 
 
+![Chytridium](Fungi/Chytridium.gif) ![Pilobolus crystallinus](Fungi/Pilobolus_crystallinus.gif) ![Laetiporus sulphureus](Fungi/Laetiporus_sulphureus.gif) ![](s_002.gif) 
 
-![](c.gif) ![](Eukaryotes/Fungi/p_002.gif) ![](l.gif) ![](s_002.gif) 
+#is_/same_as :: [[../../../WikiData/WD~Fungus,764]] 
+
+## #has_/text_of_/abstract 
+
+> A fungus (pl.: **Fungi** or funguses) is any member of the group of eukaryotic organisms 
+> that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms. 
+> 
+> These organisms are classified as one of the traditional eukaryotic kingdoms, 
+> along with Animalia, Plantae, and either Protista or Protozoa and Chromista.
+>
+> A characteristic that places fungi in a different kingdom from plants, bacteria, 
+> and some protists is __chitin in their cell walls__. 
+> 
+> Fungi, like animals, are heterotrophs; they acquire their food by absorbing dissolved molecules, typically by secreting digestive enzymes into their environment. Fungi do not photosynthesize. Growth is their means of mobility, except for spores (a few of which are flagellated), which may travel through the air or water. Fungi are the principal decomposers in ecological systems. These and other differences place fungi in a single group of related organisms, named the Eumycota (true fungi or Eumycetes), that share a common ancestor (i.e. they form a monophyletic group), an interpretation that is also strongly supported by molecular phylogenetics. This fungal group is distinct from the structurally similar myxomycetes (slime molds) and oomycetes (water molds). The discipline of biology devoted to the study of fungi is known as mycology (from the Greek μύκης mykes, mushroom). In the past, mycology was regarded as a branch of botany, although it is now known that fungi are genetically more closely related to animals than to plants.
+>
+> Abundant worldwide, most fungi are inconspicuous because of the small size of their structures, and their cryptic lifestyles in soil or on dead matter. Fungi include symbionts of plants, animals, or other fungi and also parasites. They may become noticeable when fruiting, either as mushrooms or as molds. Fungi perform an essential role in the decomposition of organic matter and have fundamental roles in nutrient cycling and exchange in the environment. They have long been used as a direct source of human food, in the form of mushrooms and truffles; as a leavening agent for bread; and in the fermentation of various food products, such as wine, beer, and soy sauce. Since the 1940s, fungi have been used for the production of antibiotics, and, more recently, various enzymes produced by fungi are used industrially and in detergents. Fungi are also used as biological pesticides to control weeds, plant diseases, and insect pests. Many species produce bioactive compounds called mycotoxins, such as alkaloids and polyketides, that are toxic to animals, including humans. The fruiting structures of a few species contain psychotropic compounds and are consumed recreationally or in traditional spiritual ceremonies. Fungi can break down manufactured materials and buildings, and become significant pathogens of humans and other animals. Losses of crops due to fungal diseases (e.g., rice blast disease) or food spoilage can have a large impact on human food supplies and local economies.
+>
+> The fungus kingdom encompasses an enormous diversity of taxa with varied ecologies, life cycle strategies, and morphologies ranging from unicellular aquatic chytrids to large mushrooms. However, little is known of the true biodiversity of the fungus kingdom, which has been estimated at 2.2 million to 3.8 million species. Of these, only about 148,000 have been described, with over 8,000 species known to be detrimental to plants and at least 300 that can be pathogenic to humans. Ever since the pioneering 18th and 19th century taxonomical works of Carl Linnaeus, Christiaan Hendrik Persoon, and Elias Magnus Fries, fungi have been classified according to their morphology (e.g., characteristics such as spore color or microscopic features) or physiology. Advances in molecular genetics have opened the way for DNA analysis to be incorporated into taxonomy, which has sometimes challenged the historical groupings based on morphology and other traits. Phylogenetic studies published in the first decade of the 21st century have helped reshape the classification within the fungi kingdom, which is divided into one subkingdom, seven phyla, and ten subphyla.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fungus)
 
 ## Phylogeny 
 
-modified from Bruns et al. 1991, 1993
 
--   « Ancestral Groups 
+-   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -22,7 +105,7 @@ modified from Bruns et al. 1991, 1993
     -   [Stramenopiles](Stramenopiles)
     -   [Alveolates](Alveolates)
     -   [Rhodophyta](Rhodophyta)
-    -   [Green plants](Green_plants)
+    -   [Green plants](Plants.md)
     -   [The other protists](The_other_protists)
 
 -   » Sub-Groups
@@ -32,160 +115,9 @@ modified from Bruns et al. 1991, 1993
     -   [Chytridiomycota](Chytridiomycota)
     -   [Zygomycota](Zygomycota.md)
 
-## Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 
+## Introduction
 
-[Meredith Blackwell, Rytas Vilgalys, and John W. Taylor](#AboutThisPage)
-
-
-### Information on the Internet
-
-#### Popular Sites
-
--   [MykoWeb](http://www.mykoweb.com/). WWW pages devoted to the science
-    of mycology and the hobby of mushrooming.
--   [Introduction to the     Fungi](http://www.ucmp.berkeley.edu/fungi/fungi.html). UCMP
-    Berkeley.
--   [Mycological Society of San Francisco](http://www.mssf.org/). North
-    America\'s largest local amateur mycological association.
--   [The Fungal Jungal](http://www.fungaljungal.org/index.html). To
-    further educate people about fungi, edible and otherwise, To
-    encourage sustainable and responsible mushroom harvest, and preserve
-    mushroom habitat.
--   [Tom Volk\'s Fungi](http://tomvolkfungi.net/).
--   [Dave Fischer\'s North American Mushroom     Basics](http://members.aol.com/xerula/basics.html).
--   [MushroomExpert.Com](http://www.bluewillowpages.com/mushroomexpert/).
--   [Forest Fungi](http://www.hiddenforest.co.nz/fungi/index.htm).
--   [Pilze, Pilze, Pilze](http://www.pilzepilze.de/). In deutsch.
--   [Westfälischen Pilzbriefe](http://www.pilzbriefe.de/index.html). In
-    deutsch.
--   [Micologi Associati](http://www.micologi.it/). Nell\'italiano.
-
-#### Directories, Databases & Collections
-
--   [The WWW Virtual Library: Mycology](http://mycology.cornell.edu/). A
-    well indexed entrance to almost all mycology and fungal biology
-    resources on the Internet.
--   [Mycology.Net](http://www.mycology.net/). An internet site
-    containing information about diversity of fungi.
--   [Mycorrhiza Information Exchange](http://mycorrhiza.ag.utk.edu/).
--   [Mycology Online](http://www.mycology.adelaide.edu.au/). A WWW
-    resource of clinically significant mycological information.
--   [Yahoo Mycology](http://dir.yahoo.com/Science/Biology/Mycology/).
--   [Mycologists Online](http://www.savba.sk/web/botu/myco/default.asp).
-    World-wide directory for mycology and lichenology.
--   [Fungal     Databases](http://nt.ars-grin.gov/fungaldatabases/databaseframe.cfm).
-    Systematic Botany and Mycology Laboratory. Agricultural Research
-    Service. United States Department of Agriculture. Beltsville,
-    Maryland, USA.
--   [The Fifth Kingdom online](http://www.mycolog.com/fifthtoc.html). A
-    mycological encyclopedia.
--   [Mycological and Lichenological Collection     Catalogs](http://www.ucmp.berkeley.edu/collections/otherfun.html).
-    UCMP Berkeley.
--   [University of Alberta Microfungus Collection & Herbarium     (UAMH)](http://www.devonian.ualberta.ca/uamh/).
--   [University of Michigan Fungus     Collection](http://www.herb.lsa.umich.edu/index.htm).
--   [Mycological Herbarium](http://www.nhm.uio.no/botanisk/sopp/). The
-    Natural History Museums and Botanical Garden, University of Oslo.
--   [Herbarium     Mycologicum](http://www.br.fgov.be/SCIENCE/COLLECTIONS/HERBARIUMS/FUNGI/SURVEY/index.html).
-    National Botanic Garden of Belgium.
--   [Index Fungorum](http://www.indexfungorum.org/Names/Names.asp).
-    Names of fungi.
--   [Centraalbureau voor Schimmelcultures     (CBS)](http://www.cbs.knaw.nl/). Fungal Biodiversity Center -
-    Utrecht, The Netherlands.
--   [Fungal Genetics Stock Center](http://www.fgsc.net/).
--   [Canadian Collection of Fungal     Cultures](http://sis.agr.gc.ca/brd/ccc/).
-
-#### Images
-
--   [Treasures from the Kingdom of Fungi](http://www.fungiphoto.com/).
-    Taylor Lockwood\'s mushroom photography.
--   [Fungus plates painted under the supervision of Elias     Fries](http://www.nrm.se/kbo/saml/fries/welcome.html.en). Department
-    of Cryptogamic Botany, SwedishMuseumof NaturalHistory.
--   [Fungi Images on the Net](http://www.in2.dk/fungi/).
--   [Fungi, Moulds and     Lichens](http://www.bioimages.org.uk/HTML/T74.HTM). BioImages: The
-    Virtual Field-Guide (UK).
--   [Kinok-ya: Portraits of Mushrooms from     Japan](http://www.cx.sakura.ne.jp/%7Ekinoko/01eng/0e_home.htm).
--   [George Barron\'s Website on Mushrooms and other     Fungi](http://www.uoguelph.ca/%7Egbarron/index.htm).
--   [Eileen\'s Mushroom     Mania](http://www.geocities.com/kitonka/MushroomMania/).
--   [Herrera\'s Microfungi Home     Page](http://microfungi.truman.edu/Default.asp).
--   [Nathan\'s Fungi Page](http://www.collectivesource.com/fungi/).
--   [Pamela\'s Mushrooms](http://www.pamelasmushrooms.com/).
-
-#### Research Labs & Projects
-
--   [Deep Hypha](http://ocid.nacse.org/research/deephyphae/). NSF-funded
-    Research Coordination Network (RCN) that is focused on developing
-    robust phylogenetic hypotheses for the deep branches within Kingdom
-    Fungi and enhanced research and educational tools in fungal
-    systematics.
--   [AFTOL: Assembling the Fungal Tree of     Life](http://ocid.nacse.org/research/aftol/). Collaborative research
-    in fungal phylogenetics.
--   [Systematic Botany and Mycology     Laboratory](http://nt.ars-grin.gov/). Agricultural Research Service.
-    United States Department of Agriculture. Beltsville, Maryland, USA.
--   [Forest Mycology and Mycorrhiza Research     Team](http://mgd.nacse.org/fsl/index.html). Forestry Sciences
-    Laboratory, Corvallis, OR, USA.
--   [Cornell Center for Fungal Biology     (CCFB)](http://ccfb.cornell.edu/about.html).
--   [IUCN SSC Fungi Specialist Group     Website](http://www.rbg.vic.gov.au/iucnsscfungi/welcome_to_iucn).
--   [Bruns Lab](http://plantbio.berkeley.edu/%7Ebruns/). University of
-    California at Berkeley. Ecology and evolution of fungi.
--   [Spatafora     Lab](http://www.bcc.orst.edu/bpp/faculty/spatafora/index.html).
-    Oregon State University. Systematics and evolutionary biology of
-    fungi.
--   [Taylor Lab](http://plantbio.berkeley.edu/%7Etaylor/). University of
-    California at Berkeley. Evolutionary relationships of fungi,
-    concentrating on the fungi that cause human disease.
--   [Thorn Lab](http://publish.uwo.ca/%7Ergthorn/). University of
-    Western Ontario. Fungal ecology and systematics.
--   [Vilgalys Lab](http://www.biology.duke.edu/fungi/mycolab/). Duke
-    University. Natural history of fungi, including all aspects of their
-    evolutionary biology, population genetics, and systematics.
--   [MycoSite](http://biologi.uio.no/bot/ascomycetes/index.html).
-    University of Oslo, Norway.
--   [University of Georgia     Mycology](http://www.plant.uga.edu/mycology-herbarium/welcome_eng.htm).
--   [University of Tennessee Mycology     Lab](http://fp.bio.utk.edu/mycology/).
--   [Fungal Mitochondrial Genome Project     (FMGP)](http://megasun.bch.umontreal.ca/People/lang/FMGP/FMGP.html). B.
-    Franz Lang, Université de Montréal.
--   [Fungimap Australia](http://fungimap.rbg.vic.gov.au/). A
-    collaborative project between professional and amateur mycologists
-    and naturalists to gather information about the distribution of
-    fungi throughout Australia.
--   [The Fungi of New     Zealand](http://www.landcareresearch.co.nz/research/biodiversity/fungiprog/).
-    Manaaki Whenua Landcare Research.
--   [MycoKey](http://www.mycokey.com/). Thomas Læssøe & Jens H.
-    Petersen, University of Aarhus provide:
-    -   [Systematic Overview of the Kingdom         Mycota](http://www.mycokey.com/AAU/Systematics/SysFrameset.html)
-    -   [Synoptic key for determination of Northern European genera of         fungi](http://www.mycokey.com/Mycokey/MycokeyFrameset.html).
-    -   [History of         Mycology](http://www.mycokey.com/AAU/HistoryOfMycology/HisFrameset.html)
-    -   [MycoBase: records of Danish         fungi](http://www.mycokey.com/AAU/Mycobase/BaseFrameset.html)
-    -   [Fungi of Burkina Faso (West         Africa)](http://www.mycokey.com/AAU/WestAfrica/AfricaFrameset.html)
--   [Mapping of Macromycetes in     Norway](http://www.toyen.uio.no/botanisk/bot-mus/sopp/h-mapp.htm). A
-    co-operation between the Norwegian Mycological Society and the
-    Norwegian Ethno-Botanical Society with their local associations and
-    the Museums of Natural History in Oslo, Bergen, Trondheim and
-    Tromsø.
--   [Comparative Studies on the Macrofungi of China and Eastern North     America](http://www.fieldmuseum.org/research_collections/botany/botany_sites/US-China_macrofungi/homepage.html).
-    Qiuxin Wu & Gregory M. Mueller, The Field Museum, Chicago.
--   [Survey of Northern Illinois and Indiana     Fungi](http://www.fmnh.org/research_collections/botany/botany_sites/sniif/localfungi.htm).
-    John F. Murphy & Gregory M. Mueller. The Field Museum, Chicago.
--   [Macrofungi of Costa     Rica](http://www.nybg.org/bsci/res/hall/costaric.html). Roy E.
-    Halling & Gregory M. Mueller.
--   [The Fungi of Kenya](http://www.kenyafungi.org/).
--   [Malawi Fungi](http://www.malawifungi.org/).
--   [Moulds. Isolation, Cultivation,     Identification](http://www.botany.utoronto.ca/ResearchLabs/MallochLab/Malloch/Moulds/Contents.html).
-    David Malloch, Department of Botany, University of Toronto.
-
-#### Professional Societies
-
--   [The International Mycological     Association](http://lsb380.plbio.lsu.edu/ima/index.html). A group
-    that represents mycologists and fungal biologists throughout the
-    world.
--   [British Mycological Society](http://www.britmycolsoc.org.uk/).
--   [Mycological Society of America](http://www.msafungi.org/).
--   [Asociación Latinoamericana de Micología](http://www.alm.org.br/).
--   [Australasian Mycological     Society](http://bugs.bio.usyd.edu.au/AustMycolSoc/Home/ams.html).
--   [The International Society for Mushroom     Science](http://www.hri.ac.uk/isms/). To further the cultivation of
-    edible (including medicinal) macrofungi.
-
-### Introduction
+[Meredith Blackwell, Rytas Vilgalys, Timothy Y. James, and John W. Taylor](http://tolweb.org/Fungi/2377#AboutThisPage) 
 
 The organisms of the fungal lineage include mushrooms, rusts, smuts,
 puffballs, truffles, morels, molds, and yeasts, as well as many less
@@ -518,164 +450,34 @@ slime molds (Myxomycota, Plasmodiomycota, Dictyosteliomycota,
 Acrasiomycota) (Bhattacharya et al., 1992; Leipe et al., 1994; Van der
 Auwera et al., 1995).
 
-### References
 
-Alexopoulos, C. J., C. W. Mims, and M. Blackwell. 1996. Introductory
-Mycology (4th Ed.). John Wiley and Sons, New York, USA. 868p.
+## Title Illustrations
 
-Baldauf, S. L., and J. D. Palmer. 1993. Animals and fungi are each
-other\'s closest relatives: congruent evidence form multiple proteins.
-Proceedings of the National Academy of Sciences (USA) 90:11558-11562.
-
-Barr, D. J. S. 1992. Evolution and kingdoms of organisms from the
-perspective of a mycologist. Mycologia 84:1-11.
-
-Berbee, M. L., and J. W. Taylor. 1992. Two ascomycete classes based on
-fruiting-body characters and ribosomal DNA sequence. Molecular Biology
-and Evolution 9:278-284.
-
-Berbee, M. L., and J. W. Taylor. 1993. Dating the evolutionary
-radiations of the true fungi. Canadian Journal of Botany 71:1114-1127.
-
-Bhattacharya, D., L. Medlin, P. O. Wainright, E. V. Ariztia, C. Bibeau,
-S. K. Stickel, and M. L. Sogin. 1992. Algae containing chlorophylls a +c
-are paraphyletic: molecular evolutionary analysis of the Chromophyta.
-Evolution 46:801-1817.
-
-Bruns, T. D., T. J. White, and J. W. Taylor. 1991. Fungal molecular
-systematics. Annual Review of Ecology and Systematics 22:525-564.
-
-Bruns, T. D., R. Vilgalys, S. M. Barns, D. Gonzalez, D. S. Hibbett, D.
-J. Lane, L. Simon, S. Stickel, T. M. Szaro, W. G. Weisburg, and M. L.
-Sogin. 1993. Evolutionary relationships within the fungi: analysis of
-nuclear small subunit rRNA sequences. Molecular Phylogenetics and
-Evolution 1:231 241.
-
-Carroll, G.C., and D.T. Wicklow. 1992. The Fungal Community: Its
-Organization and Role in the Ecosystem. Marcel Deker, Inc., New York.
-
-Cavalier-Smith, T. 1987. The origin of Fungi and Pseudofungi. Pp.
-339-353. In: Evolutionary Biology of the Fungi. Eds. A. D. M. Rayner, C.
-M. Brasier, and D. Moore. Cambridge University Press, Cambridge, United
-Kingdom.
-
-Cooke, R.C., and J.M. Whipps. 1993. Ecophysiology of Fungi. Blackwell
-Scientific Pub., London, U.K.
-
-Dix, N.J., and J.W. Webster. 1995. Fungal Ecology. Capman and Hall.
-London, U.K.
-
-Griffin, D. 1993. Fungal Physiology (2nd Ed.). Wiley-Liss. New York.
-
-Hasegawa, M., T. Hashimoto, J. Adachi, N. Iwabe, and T. Miyata. 1993.
-Early branchings in the evolution of eukaryotes: ancient divergence of
-Entamoeba that lacks mitochondria revealed by protein sequence data.
-Journal of Molecular Evolution 36:380-388.
-
-Hass, H., T. N. Taylor, and W. Remy. 1994. Fungi from the Lower Devonian
-Rhynie Chert - mycoparasitism. American Journal of Botany 81:29-37.
-
-Hawksworth, D. L. 1991. The fungal dimension of biodiversity: magnitude,
-significance, and conservation. Mycological Research 95:641-655.
-
-Hawksworth, D. L., P. M. Kirk, B. C. Sutton, and D. N. Pegler. 1995.
-Ainsworth and Bisby\'s Dictionary of the Fungi (8th Ed.). CAB
-International, Wallingford, United Kingdom. 616p.
-
-Isaac, S., J. C. Frankland, R. Watling, and A. J. S. Whalley. 1993.
-Aspects of Tropical Mycology. Cambridge University Press, Cambridge,
-U.K.
-
-Kwon-Chung, K.J., and J.E. Bennett. 1992. Medical Mycology. Lea and
-Febiger, Philadelphia.
-
-Leipe, D. D., P. O. Wainright, J. H. Gunderson, D. Porter, D. J.
-Patterson, F. Valois, S. Himmerich, and M. L. Sogin. 1994. The
-straminopiles from a molecular perspective: 16S-like rRNA sequences from
-Labyrinthula minuta and Cafeteria roenbergensis. Phycologia 33:369-377.
-
-Nagahama, T., H. Sato, M. Shimazu, and J. Sugiyama. 1995. Phylogenetic
-divergence of the entomophthoralean fungi: evidence from nuclear 18S
-ribosomal RNA gene sequences. Mycologia 87:203-209.
-
-Matthews, P. (Ed.). 1994. Guinness Book of Records. Bantum Books, New
-York. 819p.
-
-Remy, W., T. N. Taylor, and H. Hass. 1994a. Early Devonian fungi - a
-blastocladalean fungus with sexual reproduction. American Journal of
-Botany 81:690-702.
-
-Remy, W., T. N. Taylor, H. Hass, and H. Kerp. 1994b. Four
-hundred-million-year-old vesicular arbuscular mycorrhizae. Proceedings
-of the National Academy of Sciences (USA) 91:11841-11843.
-
-Rodrigo, A. G., P. R. Bergquist, and P. I. Bergquist. 1994. Inadequate
-support for an evolutionary link between the metazoa and the fungi.
-Systematic Biology 43:578-584.
-
-Sherwood-Pike, M. A., and J. Gray. 1985. Silurian fungal remains:
-probable records of the class Ascomycota. Lethaia 18:1-20.
-
-Sidow, A., and W. K. Thomas. 1994. A molecular evolutionary framework
-for eukaryotic model organisms. Current Biology 4:596-603.
-
-Taylor, J. W., B. Bowman, M. L. Berbee, and T. J. White. 1993. Fungal
-model organisms: phylogenetics of Saccharomyces, Aspergillus and
-Neurospora.. Systematic Biology 42:440-457.
-
-Taylor, T. N., W. Remy, H. Hass 1994a. Allomyces in the Devonian. Nature
-367:601-601.
-
-Taylor, T. N., J. Galtier, B. J. Axsmith. 1994b. Fungi from the Lower
-Carboniferous of central France. Review of Palaeobotany and Palynology
-83:253-260.
-
-Taylor, T. N., W. Remy, H. Hass, H. Kerp. 1995a. Fossil arbuscular
-mycorrhizae from the Early Devonian. Mycologia 87:560-573.
-
-Van der Auwera, G., R. De Baere, Y. Van de Peer, P. De Rijk, I. Van den
-Broeck, and R. De Wachter. 1995. The phylogeny of Hyphochytriomycota as
-deduced from ribosomal RNA sequences of Hyphochytrium catenoides.
-Molecular Biology and Evolution 12:671-678.
-
-Wainright, P. O., G. Hinkle, M. L. Sogin, and S. K. Stickel. 1993.
-Monophyletic origins of the Metazoa: an evolutionary link with fungi.
-Science 260:340-342.
-
-##### Title Illustrations
-
-
-![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](c_002.gif)
-
-  --------------------------------------------------
+--------------------------------------------------
+![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Chytridium.gif)
   Scientific Name ::  Chytridium (Chytridiomycota)
   Comments          Individual growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.
   Copyright ::         © 1996 H. Whisler, M. Fuller
-  --------------------------------------------------
 
-![Black sporangium atop swollen Pilobolus sporangiophore](p.gif)
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------
+![Black sporangium atop swollen Pilobolus sporangiophore](Pilobolus_crystallinus.gif)
   Scientific Name ::     Pilobolus crystallinus (Mucoromycotina)
   Comments             Black sporangium atop swollen sporangiophore. Shortly, the swollen subsporangial vesicle will burst to send the sporangium flying. Herbivores eat the sporangium, and the enclosed mitospores germinate in the dung. The bright yellow carotenoid pigment enables the sporangium to orient to light (phototropism). If you look closely, you can see masses of nematodes on the vesicle; probably herbivore pathogens hoping to hitch a ride.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Massed fruiting bodies of the chicken-of-the-woods](l_002.gif)
-
-  ----------------------------------------------------------------------------------------------------
+  
+---------------------------------------------------------------------------------------------------------------------------------------------
+![Massed fruiting bodies of the chicken-of-the-woods](Laetiporus_sulphureus.gif)
   Scientific Name ::     Laetiporus sulphureus (Basidiomycota, Agaricomycetes, Polyporales)
   Comments             Massed fruiting bodies of the chicken-of-the-woods. The tiny tubular filaments (hyphae) that make the body of this fungus (mycelium) are growing in the old, dead wood of a large cherry tree. Laetiporus is not a parasite, but the decay may weaken the tree so much that wind or ice storms can topple it.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
-  ----------------------------------------------------------------------------------------------------
 
-![Fruiting body of the scarlet cup fungus](Eukaryotes/Fungi/Ascomycota/s.gif)
-
-  -----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+![Fruiting body of the scarlet cup fungus](Fungi/Ascomycota/scarlet_cup_fungus.gif) 
   Scientific Name ::     Sarcoscypha coccinea (Ascomycota, Pezizomycotina, Pezizales)
   Comments             Fruiting body of the scarlet cup fungus. Hundreds of millions of meiospores (ascospores) are discharged from this cup, usually in puffs that produce visible clouds of spores.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Joey Spatafora](http://www.bcc.orst.edu/bpp/faculty/spatafora/index.html) 
-  -----------------------------------------------------------------------------------
+
+

@@ -2,7 +2,10 @@
 title: Agaricomycetes
 ---
 
--   « Ancestral Groups 
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Agaricomycotina](Agaricomycotina)
     -   [Basidiomycota](Basidiomycota)
     -   [Fungi](Fungi)
@@ -26,7 +29,7 @@ title: Agaricomycetes
 
 ## Mushroom-Forming Fungi 
 
-[David S. Hibbett](#AboutThisPage)
+[David S. Hibbett](http://www.tolweb.org/)
 
 ![Lepista mushrooms](Lepista.jpg)
 ![](earthstar200.jpg)

@@ -2,7 +2,20 @@
 title: Gemmatimonas aurantiaca
 ---
 
--   « Ancestral Groups 
+## [[Gemmatimonadetes]] 
+
+
+## #has_/text_of_/abstract 
+
+> The Gemmatimonadota are a phylum of bacteria established in 2003. 
+> The phylum contains two classes **Gemmatimonadetes** and Longimicrobia.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gemmatimonadota) 
+
+## Phylogeny 
+
+
+-   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
 
@@ -32,33 +45,7 @@ title: Gemmatimonas aurantiaca
     -   [Dictyoglomi](Dictyoglomi.md)
     -   Gemmatimonas aurantiaca
 
--   »
+-   » Sub-Groups 
+	- *Gemmatimonas aurantiaca* 
 
-## Gemmatimonadetes 
 
-# *Gemmatimonas aurantiaca* 
-
-Containing group: [Bacteria](../Bacteria.md)
-
-### References
-
-Garrity, G. M., J. A. Bell, and T. G. Lilburn. 2004. Taxonomic Outline
-of the Prokaryotes. Bergey\'s Manual of Systematic Bacteriology, Second
-Edition. Release 5.0.
-
-Hugenholtz, P., G. W. Tyson, R. I. Webb, A. M. Wagner, and L. L.
-Blackall. 2001. Investigation of candidate division TM7, a recently
-recognized major lineage of the domain Bacteria with no known
-pure-culture representatives. Appl. Environ. Microbiol. 67: 411--419.
-
-Madrid, V. M., J. Y. Aller, R. C. Aller, and A. Y. Christoserdov. 2001.
-High prokaryote diversity and analysis of community structure in mobile
-mud deposits off French Guiana identification of two new bacterial
-candidate divisions. Environ. Microbiol. 37:197--209.
-
-Zhang, H., Y. Sekiguchi, S. Hanada, P. Hugenholtz, H. Kim, Y. Kamagata,
-and K. Nakamura. 2003. Gemmatimonas aurantiaca gen. nov., sp. nov., a
-gram-negative, aerobic, polyphosphate-accumulating micro-organism, the
-first cultured representative of the new bacterial phylum
-Gemmatimonadetes phyl. nov. International Journal of Systematic and
-Evolutionary Microbiology 53(4):1155-1163.
