@@ -2,6 +2,35 @@
 title: Zygophyllales
 ---
 
+# [[Zygophyllales]] 
+
+![](Zygophyllales/Larrea_tridentata0100.jpg)
+![](Zygophyllales/Krameria_grayi0032.jpg)
+
+## #has_/text_of_/abstract 
+
+> The **Zygophyllales** are an order of dicotyledonous plants, comprising the following two families:
+> - Family Zygophyllaceae
+> - Family Krameriaceae
+>
+> According to the Angiosperm Phylogeny Group (APG II) both families are unplaced to order, 
+> but nevertheless included in the Eurosids I. 
+> The APG III system of 2009, however, recognized this order. 
+> 
+> Even if the monogeneric family Krameriaceae 
+> shares few common traits with the family Zygophyllaceae, 
+> researchers see little advantage in keeping it as a separate family (e.g. Sheahan and Chase). 
+> 
+> The name Zygophyllales can be used 
+> if one finds it appropriate to place both families into an order. 
+> The order remains unchanged in the APG IV system.
+>
+> Under the Cronquist system, the Zygophyllaceae were included within the Sapindales, 
+> and the Krameriaceae within the Polygalales.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Zygophyllales) 
+
+
 ## Phylogeny 
 
 
@@ -35,31 +64,12 @@ title: Zygophyllales
 
 -   » Sub-Groups 
 
-# Zygophyllales 
 
-![](Zygophyllales/Larrea_tridentata0100.jpg)
-![](Zygophyllales/Krameria_grayi0032.jpg)
-
-Containing group: [Rosids](../Rosids.md)
-
-### Information on the Internet
-
--   [Krameriaceae](http://www.science.siu.edu/parasitic-plants/Krameriaceae/index.html).
-    Parasitic Plant Connection. Dan Nickrent, Southern Illinois
-    University at Carbondale.
-
-### References
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
 
 ##### Title Illustrations
 
-![South American creosote bush, Larrea tridentata](Larrea_tridentata0100_002.jpg)
+
+![South American creosote bush, Larrea tridentata](Larrea_tridentata0100_002.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Larrea tridentata
@@ -70,7 +80,8 @@ complete familial analysis based on rbcl gene sequences. Kew Bulletin
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
   ------------------------------------------------------------------------------
-![White rhatany](Krameria_grayi0032_002.jpg)
+
+![White rhatany](Krameria_grayi0032_002.jpg)
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Krameria grayi
@@ -79,4 +90,4 @@ complete familial analysis based on rbcl gene sequences. Kew Bulletin
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
-  ---------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------

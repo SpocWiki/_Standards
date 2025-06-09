@@ -4,6 +4,24 @@ aliases:
   - Rosids
 ---
 
+# [[Rosids]] 
+
+![Euphorbia_coerulescens](Rosids/Euphorbia_coerulescens.jpg) 
+![Rosa rugosa](Rosids/Rosa_rugosa.jpg) 
+![ ](Rosids/Acer_buergerianum.jpg)
+
+## #has_/text_of_/abstract 
+
+> The **Rosids** are members of a large clade (monophyletic group) of flowering plants, containing about 70,000 species, more than a quarter of all angiosperms.
+>
+> The clade is divided into 16 to 20 orders, depending upon circumscription and classification. These orders, in turn, together comprise about 140 families.
+>
+> Fossil rosids are known from the Cretaceous period. Molecular clock estimates indicate that the rosids may have originated in the Aptian or Albian stages of the Cretaceous, between 125 and 99.6 million years ago.
+>
+> Today's broadleaved forests are dominated by rosid species, which in turn help with diversification in many other living lineages. Additionally, rosid herbs and shrubs are a significant part of arctic/alpine and temperate floras. The clade also includes some aquatic, desert and parasitic plants.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rosids) 
+
 ## Phylogeny 
 
 
@@ -41,24 +59,6 @@ aliases:
     -   [Brassicales](Rosids/Brassicales.md)
     -   [Malvales](Rosids/Malvales.md)
     -   [Sapindales](Rosids/Sapindales.md)
-
-# [[Rosids]] 
-
-![Euphorbia_coerulescens](Rosids/Euphorbia_coerulescens.jpg) 
-![Rosa rugosa](Rosids/Rosa_rugosa.jpg) 
-![ ](Rosids/Acer_buergerianum.jpg)
-
-## #has_/text_of_/abstract 
-
-> The **Rosids** are members of a large clade (monophyletic group) of flowering plants, containing about 70,000 species, more than a quarter of all angiosperms.
->
-> The clade is divided into 16 to 20 orders, depending upon circumscription and classification. These orders, in turn, together comprise about 140 families.
->
-> Fossil rosids are known from the Cretaceous period. Molecular clock estimates indicate that the rosids may have originated in the Aptian or Albian stages of the Cretaceous, between 125 and 99.6 million years ago.
->
-> Today's broadleaved forests are dominated by rosid species, which in turn help with diversification in many other living lineages. Additionally, rosid herbs and shrubs are a significant part of arctic/alpine and temperate floras. The clade also includes some aquatic, desert and parasitic plants.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Rosids) 
 
 
 ## Title Illustrations

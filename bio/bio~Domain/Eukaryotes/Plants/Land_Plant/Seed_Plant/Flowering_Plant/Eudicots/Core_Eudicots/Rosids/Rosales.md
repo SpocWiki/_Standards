@@ -1,7 +1,26 @@
 ---
 title: Rosales
+aliases:
+  - Rosales
 ---
 
+# [[Rosales]] 
+
+![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg) 
+![Rosa_davurica](Rosales/Rosa_davurica.jpg) 
+![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Rosales** (, roh-ZAY-leez) are an order of flowering plants. Well-known members of Rosales include: 
+> roses, strawberries, blackberries and raspberries, apples and pears, plums, peaches and apricots, 
+> almonds, rowan and hawthorn, jujube, elms, banyans, figs, mulberries, breadfruit, nettles, hops, and cannabis.
+>
+> Rosales contain about 7,700 species, distributed into nine families and about 260 genera. 
+> Their type family is the rose family, Rosaceae. 
+> The largest families are Rosaceae (91/4828) and Urticaceae (53/2625).
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rosales) 
 ## Phylogeny 
 
 
@@ -35,74 +54,32 @@ title: Rosales
 
 -   » Sub-Groups 
 
-# Rosales 
 
-![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica1675.jpg)
-![](Rosales/Rosa_davurica_002.jpg)
-![](Rosales/Cannabis_sativa4144.jpg)
+## Title Illustrations
 
-Relationships after Savolainen et al. (2000a), Soltis et al. (2000),
-Sytsma et al. (2002), and Hilu et al. (2003).
 
-Containing group: [Rosids](../Rosids.md)
+------------------------------------------------------------------------
+![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg) 
+Scientific Name ::   Urtica dioica
+Location ::         Allschwil, Basel, Switzerland
+Comments           Stinging nettle (Urticaceae). Flowering.
+Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
+Sex ::              Female
+Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
-### References
 
-Hilu, K. W., T. Borsch, K. Müller, D. E. Soltis, P. S. Soltis, V.
-Savolainen, M. W. Chase, M. P. Powell, L. A. Alice, R. Evans, H.
-Sauquet, C. Neinhuis, T. A. B. Slotta, J. G. Rohwer, C. S. Campbell, and
-L. W. Chatrou. 2003. Angiosperm phylogeny based on matK sequence
-information. American Journal of Botany 90(12):1758-1776.
+-------------------------------------------------------------------------
+![Daurian rose, Rosa davurica](Rosa_davurica.jpg)
+Scientific Name ::    Rosa davurica
+Location ::          Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
+Comments            Daurian rose (Rosaceae)
+Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
-Savolainen, V., M. W. Chase, S. B. Hoot, C. M. Morton, D. E. Soltis, C.
-Bayer, M. F. Fay, A. Y. De Bruijn, S. Sullivan, and Y. L. Qiu. 2000a.
-Phylogenetics of flowering plants based on combined analysis of plastid
-atpB and rbcL gene sequences. Systematic Biology 49:306-362.
+------------------------------------------------------------------------
+![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
+Scientific Name ::   Cannabis sativa
+Comments           Marijuana plant (Cannabaceae), cultivated at the Botanical Garden Basel, Switzerland.
+Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
+Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000b. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
-
-Sytsma K., J. J. Morawetz, J. C. Pires, M. Nepokroeff, E. Conti, M.
-Zjhra, J. C. Hall, and M. W. Chase. 2002. Urticalean rosids:
-circumscription, rosid ancestry, and phylogenetics based on rbcL, trnLF,
-and ndhF sequences. American Journal of Botany 89:1531-1531.
-
-##### Title Illustrations
-
-![Stinging nettle, Urtica dioica](Urtica_dioica1675_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::   Urtica dioica
-  Location ::         Allschwil, Basel, Switzerland
-  Comments           Stinging nettle (Urticaceae). Flowering.
-  Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Sex ::              Female
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------
-![Daurian rose, Rosa davurica](Rosa_davurica.jpg)
-
-  -------------------------------------------------------------------------
-  Scientific Name ::    Rosa davurica
-  Location ::          Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
-  Comments            Daurian rose (Rosaceae)
-  Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
-  -------------------------------------------------------------------------
-![Marijuana plant, Cannabis sativa](Cannabis_sativa4144_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::   Cannabis sativa
-  Comments           Marijuana plant (Cannabaceae), cultivated at the Botanical Garden Basel, Switzerland.
-  Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------

@@ -1,6 +1,51 @@
 ---
 title: Brassicales
+aliases:
+  - Brassicales
 ---
+
+# [[Brassicales]] 
+
+![](Brassicales/Erysimum_ammophilum.jpg)
+![](Brassicales/Tropaeolum_minus05199.jpg)
+![](Brassicales/Carica_papaya2193.jpg)
+
+## #has_/text_of_/abstract 
+
+> The **Brassicales** (or Cruciales) are an order of flowering plants, 
+> belonging to the malvid group of eudicotyledons under the APG IV system. 
+> 
+> Well-known members of Brassicales include 
+> cabbage, cauliflower, Brussels sprout, broccoli, kale, mustard, turnip, bok choy, rapeseed, radish, 
+> horseradish, caper, papaya, moringa or drumstick tree, mignonette, nasturtium, and arabidopsis.
+>
+> One character common to many members of the order 
+> is the production of isothiocyanate (mustard oil) compounds. 
+> Most systems of classification have included this order, 
+> although sometimes under the name Capparales 
+> (the name chosen depending on which is thought to have priority).
+>
+> The order typically contains the following families:
+> - Akaniaceae – two species of turnipwood trees, native to Asia and eastern Australia
+> - Bataceae – salt-tolerant shrubs from America and Australasia
+> - Brassicaceae – mustard and cabbage family; may include the Cleomaceae
+> - Capparaceae – caper family, sometimes included in Brassicaceae
+> - Caricaceae – papaya family
+> - Cleomaceae
+> - Emblingiaceae
+> - Gyrostemonaceae – several genera of small shrubs and trees endemic to temperate parts of Australia
+> - Koeberliniaceae – one species of thorn bush native to Mexico and the US Southwest
+> - Limnanthaceae – meadowfoam family
+> - Moringaceae – thirteen species of trees from Africa and India including the drumstick
+> - Pentadiplandraceae – African species whose berries have two highly sweet tasting proteins
+> - Resedaceae – mignonette family
+> - Salvadoraceae – three genera found from Africa to Java
+> - Setchellanthaceae
+> - Tiganophytaceae
+> - Tovariaceae
+> - Tropaeolaceae – nasturtium family
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Brassicales) 
 
 ## Phylogeny 
 
@@ -35,61 +80,11 @@ title: Brassicales
 
 -   » Sub-Groups 
 
-# Brassicales 
-
-![](Brassicales/Erysimum_ammophilum.jpg)
-![](Brassicales/Tropaeolum_minus05199.jpg)
-![](Brassicales/Carica_papaya2193.jpg)
-
-Containing group: [Rosids](../Rosids.md)
-
-### References
-
-Bailey, C. D. , M. A. Koch, M. Mayer, K. Mummenhoff, S. L. O\'Kane, Jr.,
-S. I. Warwick, M. D. Windham, and I. A. Al-Shehbaz. 2006. Toward a
-global phylogeny of the Brassicaceae. Molecular Biology and Evolution
-23:2142-2160.
-
-Rodman, J., R. A. Price, K. Karol, E. Conti, K. J. Systma, and J. D.
-Palmer. 1993. Nucleotide sequences of the rbcL gene indicate monophyly
-of mustard oil plants. Annals of the Missouri Botanical Garden
-80:686-699.
-
-Rodman, J., P. S. Soltis, D. E. Soltis, K. J. Sytsma, and K. G. Karol.
-1998. Parallel evolution of glucosinolate biosynthesis inferred from
-congruent nuclear and plastid gene phylogenies. American Journal of
-Botany 87:997-1006.
-
-Ronse De Craene L. P. 2002. Floral development and anatomy of
-Pentadiplandra (Pentadiplandraceae): a key genus in the identification
-of floral morphological trends in the core Brassicales. Canadian Journal
-of Botany 80:443-459.
-
-Ronse De Craene, L. P. 2005. Floral developmental evidence for the
-systematic position of Batis (Bataceae). American Journal of Botany
-92:752-760.
-
-Savolainen, V., M. W. Chase, S. B. Hoot, C. M. Morton, D. E. Soltis, C.
-Bayer, M. F. Fay, A. Y. De Bruijn, S. Sullivan, and Y. L. Qiu. 2000a.
-Phylogenetics of flowering plants based on combined analysis of plastid
-atpB and rbcL gene sequences. Systematic Biology 49:306-362.
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000b. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
 
 ##### Title Illustrations
 
-![Coast wallflower, Erysimum ammophilum](Erysimum_ammophilum_002.jpg)
+
+![Coast wallflower, Erysimum ammophilum](Erysimum_ammophilum_002.jpg)
 
   -------------------------------
   Scientific Name ::     Erysimum ammophilum
@@ -99,14 +94,16 @@ sequences. Botanical Journal of the Linnean Society 133:381-461.
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
   -------------------------------
-![Indian cress, Tropaeolum minus](Tropaeolum_minus05199_002.jpg)
+
+![Indian cress, Tropaeolum minus](Tropaeolum_minus05199_002.jpg)
 
   ---------------------------------------------------------------------
   Scientific Name ::  Tropaeolum minus
   Comments          Indian cress (Tropaeolaceae)
   Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
   ---------------------------------------------------------------------
-![Papaya tree, Carica papaya](Carica_papaya2193_002.jpg)
+
+![Papaya tree, Carica papaya](Carica_papaya2193_002.jpg)
 
   ------------------------------------------------------------------------
   Scientific Name ::   Carica papaya
@@ -114,4 +111,4 @@ sequences. Botanical Journal of the Linnean Society 133:381-461.
   Comments           Papaya tree (Caricaceae).
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
   Copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------

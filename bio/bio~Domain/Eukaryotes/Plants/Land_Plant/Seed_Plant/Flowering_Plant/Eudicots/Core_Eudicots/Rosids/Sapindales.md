@@ -1,10 +1,69 @@
 ---
 title: Sapindales
+aliases:
+  - Sapindales
 ---
+
+# [[Sapindales]] 
+
+![](Sapindales/Aesculus_californica67.jpg)
+![](Sapindales/Dictamnus_dasycarpus_002.jpg)
+![](Sapindales/Bursera_microphylla0036_002.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Sapindales**  is an order of flowering plants. 
+> Well-known members of Sapindales include citrus; maples, horse-chestnuts, lychees and rambutans; mangos and cashews; frankincense and myrrh; mahogany and neem.
+>
+> 
+>
+> The APG III system of 2009 includes it in the clade malvids (in rosids, in eudicots) 
+> with the following nine families:
+> - Anacardiaceae
+> - Biebersteiniaceae
+> - Burseraceae
+> - Kirkiaceae
+> - Meliaceae
+> - Nitrariaceae (including Peganaceae and Tetradiclidaceae)
+> - Rutaceae
+> - Sapindaceae
+> - Simaroubaceae
+>
+> The APG II system of 2003 allowed the optional segregation of families now included in the Nitrariaceae.
+>
+> In the classification system of Dahlgren the Rutaceae were placed in the order Rutales, 
+> in the superorder Rutiflorae (also called Rutanae). 
+> The Cronquist system of 1981 used a somewhat different circumscription, 
+> including the following families:
+> -Staphyleaceae
+> -Melianthaceae
+> -Bretschneideraceae
+> -Akaniaceae
+> -Sapindaceae- 
+> -Hippocastanaceae
+> -Aceraceae
+> -Burseraceae
+> -Anacardiaceae
+> -Julianiaceae
+> -Simaroubaceae
+> -Cneoraceae
+> -Meliaceae
+> -Rutaceae
+> -Zygophyllaceae
+>
+> The difference from the APG III system is not as large as may appear, 
+> as the plants in the families Aceraceae and Hippocastanaceae stay in this order at APG III 
+> (both included in family Sapindaceae). 
+> 
+> The species now composing the family Nitrariaceae in APG III 
+> also belonged to this order in the Cronquist system as part of the family Zygophyllaceae, 
+> while those now in the family Kirkiaceae were present as part of the family Simaroubaceae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sapindales) 
 
 ## Phylogeny 
 
-
+-
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
     -   [Core Eudicots](Core_Eudicots)
@@ -37,43 +96,11 @@ title: Sapindales
     -   [Anacardiaceae](Anacardiaceae)
     -   [Burseraceae](Burseraceae)
 
-# Sapindales 
 
-![](Sapindales/Aesculus_californica67.jpg)
-![](Sapindales/Dictamnus_dasycarpus_002.jpg)
-![](Sapindales/Bursera_microphylla0036_002.jpg)
+## Title Illustrations
 
-Tree after Savolainen et al. (2000b) and Soltis et al. (2000)
 
-Containing group: [Rosids](../Rosids.md)
-
-### References
-
-Gadek, P. A., E. S. Fernando, C. J. Quinn, S. B. Hoot, T. Terrazas, M.
-C. Sheahan, and M. W. Chase. 1996. Sapindales: Molecular delimitation
-and infraordinal groups. American Journal of Botany 83:802-811.
-
-Savolainen, V., M. W. Chase, S. B. Hoot, C. M. Morton, D. E. Soltis, C.
-Bayer, M. F. Fay, A. Y. De Bruijn, S. Sullivan, and Y. L. Qiu. 2000a.
-Phylogenetics of flowering plants based on combined analysis of plastid
-atpB and rbcL gene sequences. Systematic Biology 49:306-362.
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000b. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
-
-##### Title Illustrations
-
-![California buckeye, Aesculus californica](Aesculus_californica67_002.jpg)
+![California buckeye, Aesculus californica](Aesculus_californica67_002.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Aesculus californica
@@ -83,7 +110,8 @@ sequences. Botanical Journal of the Linnean Society 133:381-461.
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
   ------------------------------------------------------------------------------
-![Dictamnus dasycarpus](Dictamnus_dasycarpus.jpg)
+
+![Dictamnus dasycarpus](Dictamnus_dasycarpus.jpg)
 
   -------------------------------------------------------------------------
   Scientific Name ::     Dictamnus dasycarpus
@@ -93,7 +121,8 @@ sequences. Botanical Journal of the Linnean Society 133:381-461.
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
   -------------------------------------------------------------------------
-![Elephant tree, Bursera microphylla](Bursera_microphylla0036.jpg)
+
+![Elephant tree, Bursera microphylla](Bursera_microphylla0036.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Bursera microphylla
@@ -103,4 +132,4 @@ sequences. Botanical Journal of the Linnean Society 133:381-461.
   Specimen Condition   Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
