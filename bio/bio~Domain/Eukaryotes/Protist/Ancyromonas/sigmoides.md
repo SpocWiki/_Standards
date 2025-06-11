@@ -26,7 +26,7 @@ title: Ancyromonas sigmoides
 
 Containing group: *[Ancyromonas](../Ancyromonas.md)*
 
-### Introduction
+## Introduction
 
 Ancyromonas sigmoides is the most widely reported species in the genus,
 as well as being the type species. It has been reported from
@@ -55,7 +55,7 @@ Natural History 34:483-562.
 Kent, W. S. 1880-1882. Manual of the Infusoria. Three volumes, Bogue,
 London.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](fancyrosig_002.gif)
 

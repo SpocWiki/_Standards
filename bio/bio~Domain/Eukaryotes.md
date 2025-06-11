@@ -880,7 +880,7 @@ Yang, D., Y. Oyaizu, H. Oyaizu, G. J. Olsen, and C. R. Woese. 1985.
 Mitochondrial origins. Proceedings of the National Academy of Sciences
 (USA) 82:4443-4447.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![pair of saguaros](saguaro.jpg)
 

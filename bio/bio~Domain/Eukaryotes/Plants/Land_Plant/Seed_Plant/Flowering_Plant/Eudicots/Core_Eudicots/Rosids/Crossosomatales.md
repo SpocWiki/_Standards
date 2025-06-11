@@ -1,5 +1,7 @@
 ---
 title: Crossosomatales
+aliases:
+  - Crossosomatales
 ---
 
 ## Phylogeny 
@@ -35,69 +37,46 @@ title: Crossosomatales
 
 -   » Sub-Groups 
 
-# Crossosomatales 
+# [[Crossosomatales]] 
 
-![](Crossosomatales/Crossosoma_californicum.jpg)
-![](Crossosomatales/Stachyurus_chinensis00057_002.jpg)
-![](Crossosomatales/Staphylea_bolanderi0075.jpg)
+![Crossosoma_californicum](Crossosomatales/Crossosoma_californicum.jpg)  ![Stachyurus_chinensis](Crossosomatales/Stachyurus_chinensis.jpg)  ![Staphylea_bolanderi](Crossosomatales/Staphylea_bolanderi.jpg) 
 
-Relationships after Matthews & Endress 2005 and Cameron 2003.
+## #has_/text_of_/abstract 
 
-Containing group: [Rosids](../Rosids.md)
+> The **Crossosomatales** are an order, first recognized as such by APG II. 
+> They are flowering plants included within the Rosid eudicots.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Crossosomatales) 
 
-### References
 
-Cameron, K. M. 2003. On the phylogenetic position of the New Caledonian
-endemic families Paracryphiaceae, Oncothecaceae, and Strasburgeriaceae:
-a comparison of molecules and morphology. Botanical Review 68:428-443.
+## Title Illustrations
 
-Matthews, M. L. and P. K. Endress. 2005. Comparative floral structure
-and systematics in Crossosomatales (Crossosomataceae, Stachyuraceae,
-Staphyleaceae, Aphloiaceae, Geissolomataceae, Ixerbaceae,
-Strasburgeriaceae). Botanical Journal of the Linnean Society
-147(1):1-46.
 
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
+------------------------------------------------------------------------------
+![California rockflower, Crossosoma californicum](Crossosoma_californicum.jpg)
+Scientific Name ::     Crossosoma californicum
+Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
+Comments             California rockflower (Crossosomataceae)
+Creator              Photograph by Angelika Brinkman-Busi
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
 
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
+---------------------------------------------------------------------
+![Stachyurus chinensis](Stachyurus_chinensis.jpg)
+Scientific Name ::  Stachyurus chinensis
+Comments          Stachyuraceae
+Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
-##### Title Illustrations
+---------------------------------------------------------------------------------
+![Bladdernut, Staphylea bolanderi ](Staphylea_bolanderi.jpg)
+Scientific Name ::     Staphylea bolanderi
+Location ::           California, USA
+Comments             Bladdernut (Staphyleaceae)
+Creator              Photograph by Brother Alfred Brousseau
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
 
-![California rockflower, Crossosoma californicum](Crossosoma_californicum_002.jpg)
 
-  ------------------------------------------------------------------------------
-  Scientific Name ::     Crossosoma californicum
-  Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
-  Comments             California rockflower (Crossosomataceae)
-  Creator              Photograph by Angelika Brinkman-Busi
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
-  ------------------------------------------------------------------------------
-![Stachyurus chinensis](Stachyurus_chinensis00057.jpg)
 
-  ---------------------------------------------------------------------
-  Scientific Name ::  Stachyurus chinensis
-  Comments          Stachyuraceae
-  Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
-  ---------------------------------------------------------------------
-![Bladdernut, Staphylea bolanderi ](Staphylea_bolanderi0075_002.jpg)
-
-  ---------------------------------------------------------------------------------
-  Scientific Name ::     Staphylea bolanderi
-  Location ::           California, USA
-  Comments             Bladdernut (Staphyleaceae)
-  Creator              Photograph by Brother Alfred Brousseau
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
-  ---------------------------------------------------------------------------------

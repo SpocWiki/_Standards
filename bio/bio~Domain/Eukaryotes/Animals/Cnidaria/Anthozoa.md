@@ -36,7 +36,7 @@ Containing group: [Cnidaria](Cnidaria.md)
 
 [Images of Cnidarians](http://biodidac.bio.uottawa.ca/index.htm)
 
-### Introduction
+## Introduction
 
 Anthozoans are exclusively marine, polypoid cnidarians. They include the
 familiar sea anemones, and other anemone-like groups with skeletons
@@ -278,7 +278,7 @@ F161-F165 in: R. C. Moore (ed.), Treatise on Invertebrate Paleontology
 Part F: Coelenterata. Geological Society of America and University of
 Kansas Press, Lawrence.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](img0077.jpg)
 

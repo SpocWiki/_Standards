@@ -52,7 +52,7 @@ The bananas, gingers, and relatives.
 > [Wikipedia](https://en.wikipedia.org/wiki/Zingiberales) 
 
 
-### Introduction
+## Introduction
 
 [W. John Kress and William J. Hahn](http://www.tolweb.org/) 
 

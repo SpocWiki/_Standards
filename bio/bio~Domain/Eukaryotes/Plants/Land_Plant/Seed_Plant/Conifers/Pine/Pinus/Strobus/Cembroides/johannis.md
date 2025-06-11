@@ -30,7 +30,7 @@ title: Pinus johannis
 
 Containing group: [subsection Cembroides](../Cembroides.md)
 
-### Introduction
+## Introduction
 
 The validity of this species is in question. For example, Farjon and
 Styles (1997) consider it a variety of *P. cembroides* (subspecies
@@ -56,7 +56,7 @@ Price, R. A., A. Liston, and S. H. Strauss. 1998. Phylogeny and
 systematics of Pinus. Pp. 49\--68 in: Richardson, D. M. (ed.), Ecology
 and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](johanniscone_002.jpg)
 

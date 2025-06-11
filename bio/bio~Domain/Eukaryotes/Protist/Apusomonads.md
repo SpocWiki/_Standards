@@ -33,7 +33,7 @@ title: Apusomonads
 
 Containing group: [The other protists](../Protist.md)
 
-### Introduction
+## Introduction
 
 The apusomonads (also called thecamonads) include two genera and about
 10 species of small gliding flagellates. They occur in soils, freshwater
@@ -93,7 +93,7 @@ European Journal of Protistology, 27, 386-396.
 Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 154: S96-124.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](pamasdeb.jpg)
 

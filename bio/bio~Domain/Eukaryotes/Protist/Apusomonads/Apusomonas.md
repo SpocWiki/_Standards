@@ -32,7 +32,7 @@ title: Apusomonas
 
 Containing group: [Apusomonads](../Apusomonads.md)
 
-### Introduction
+## Introduction
 
 The genus *Apusomonas* includes flattened gliding flagellates in which
 the anterior flagellum emerges from a projecting mastigophore. There are
@@ -93,7 +93,7 @@ Vickerman, K., Darbyshire, J.F. and Ogden, C.G. 1974. Apusomonas
 proboscidea Aléxéieff 1924, An Unusual Phagotrophic Flagellate from
 Soil. Archiv für Protistenkunde 116:254-269.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](papusprobs.jpg)
 

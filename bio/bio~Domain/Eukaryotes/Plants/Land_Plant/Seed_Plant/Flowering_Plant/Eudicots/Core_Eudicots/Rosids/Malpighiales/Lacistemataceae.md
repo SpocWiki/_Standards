@@ -2,6 +2,37 @@
 title: Lacistemataceae
 ---
 
+# [[Lacistemataceae]] 
+
+![Lacistema](Lacistemataceae/Lacistema.jpg) 
+![Lacistema_Fruit](Lacistemataceae/Lacistema_Fruit.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Lacistemataceae** is a small flowering plant family.  There are two genera:
+> - Lacistema (12 species)
+> - Lozania (5 species)
+>
+> They are small trees (to 15 metres tall) and shrubs (to 5 metres tall) that are native to the 
+> subtropical and tropical regions of the Americas (also known as the Neotropics).
+>
+> The leaves are on alternate sides of the stem and maybe surrounded by a pair of stipules.
+>
+> The Inflorescence located between the leaf and the stem (axil) 
+> are either catkins (in Lacistema) or racemes (in Lozania).
+>
+> Each flower (mostly bisexual) approximately one millimetre in length 
+> consist of a disc with attached bract (in Lacistema) and sepals (in Lozania). 
+> 
+> Attached to the disc is a single stamen divided into two anthers, 
+> the single superior ovary has a single style with three stigmas.
+>
+> The fruit is a capsule that splits on drying into three parts 
+> and contains one seed surrounded by an aril.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lacistemataceae) 
+
+
 ## Phylogeny 
 
 
@@ -25,16 +56,10 @@ title: Lacistemataceae
 
 -   » Sub-Groups 
 
-# Lacistemataceae 
+
+## Introduction
 
 [Mac H. Alford](http://www.tolweb.org/)
-
-![ ](Lacistemataceae/Lacistema_ToL1_002.jpg)
-![ ](Lacistemataceae/Lacistema_ToL2.jpg)
-
-Containing group: [Malpighiales](../Malpighiales.md)
-
-### Introduction
 
 Lacistemataceae are a small neotropical family consisting of two genera
 and 14 species. The family is characterized by catkin-like cylindrical
@@ -60,37 +85,24 @@ long, stigmas (two or) three. *Fruit* berry-like, but eventually
 dehiscent by three loculicidal valves. *Seeds* one or few, arillate,
 embryo straight, cotyledons foliaceous.
 
-### References
 
-Chase, M. W., S. Zmarzty, M. D. Lledó, K. J. Wurdack, S. M. Swensen, and
-M. F. Fay. 2002. When in doubt, put it in Flacourtiaceae: a molecular
-phylogenetic analysis based on plastid rbcL DNA sequences. Kew Bulletin
-57: 141-181.
+## Title Illustrations
 
-Chirtoiü, M. 1918. Observations sur les Lacistema et la situation
-systématique de ce genre. Bull. Soc. Bot. Genève, sér. 2, 10: 317-349.
 
-Sleumer, H. O. 1980. Flacourtiaceae. Flora Neotropica No. 22. Bronx: New
-York Botanical Garden.
+-------------------------------------------------------------------------
+![Lacistema](Lacistema.jpg)
+Scientific Name ::     Lacistema aggregatum
+Location ::           Costa Rica: Guanacaste: 25 km NE of Liberia
+Specimen Condition   Live Specimen
+Identified By        Mac H. Alford
+Collection           BH
+Collector            Mac H. Alford
+Copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/) 
 
-##### Title Illustrations
+--------------------------
+![Lacistema_Fruit](Lacistema_Fruit.jpg)
+Scientific Name ::  Lacistema aggregatum
+Location ::        Panama: Barro Colorado Island
+Creator           Steven Paton
+Copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:patons@si.edu)
 
-![](Lacistema_ToL1.jpg)
-
-  -------------------------------------------------------------------------
-  Scientific Name ::     Lacistema aggregatum
-  Location ::           Costa Rica: Guanacaste: 25 km NE of Liberia
-  Specimen Condition   Live Specimen
-  Identified By        Mac H. Alford
-  Collection           BH
-  Collector            Mac H. Alford
-  Copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/) 
-  -------------------------------------------------------------------------
-![](Lacistema_ToL2_002.jpg)
-
-  --------------------------
-  Scientific Name ::  Lacistema aggregatum
-  Location ::        Panama: Barro Colorado Island
-  Creator           Steven Paton
-  Copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:patons@si.edu)
-  --------------------------

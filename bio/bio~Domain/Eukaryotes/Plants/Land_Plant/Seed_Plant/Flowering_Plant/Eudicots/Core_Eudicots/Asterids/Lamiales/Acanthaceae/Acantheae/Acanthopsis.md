@@ -2,6 +2,16 @@
 title: Acanthopsis
 ---
 
+# [[Acanthopsis]] 
+
+![ ](Acanthopsis/acanthopsis-2-1.jpg)
+	
+## #has_/text_of_/abstract 
+
+> **Acanthopsis** is a genus of flowering plants in the family Acanthaceae. It includes 20 species native to Namibia and the Cape Provinces of South Africa.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acanthopsis) 
+
 ## Phylogeny 
 
 
@@ -33,27 +43,13 @@ title: Acanthopsis
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	-   *Acanthopsis carduifolia*[ Shinz]
+	-   *Acanthopsis hoffmannseggiana*[ C. B. Clarke]
+	-   *Acanthopsis disperma*[ Nees]
 
-# *Acanthopsis* 
+## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
-
-![ ](Acanthopsis/acanthopsis-2-1.jpg)
-
--   *Acanthopsis carduifolia*[ Shinz]
--   *Acanthopsis hoffmannseggiana*[ C. B. Clarke]
--   *Acanthopsis disperma*[ Nees]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known *Acanthopsis* subgroups.
-
-The list above includes only taxa that were sampled by McDade et al.
-(2005).  There are a few other species of *Acanthopsis* that likely
-belong to this clade but this needs to be confirmed with further study.
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 The small southern African genus *Acanthopsis* is monophyletic in
 phylogenetic studies to date (McDade et al. 2005).  These plants have
@@ -66,20 +62,15 @@ branched hygroscopic trichomes on their seeds (the seeds of *Acanthus*
 are glabrous or puberulous) would suggest a closer relationship between
 the former two genera than is supported by our results.
 
-### References
 
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
+## Title Illustrations
 
-##### Title Illustrations
 
-![](acanthopsis-2-1_002.jpg)
+--------------------------------------------------------------------------
+![](acanthopsis-2-1.jpg)
+Scientific Name ::     Acanthopsis sp. Harv.
+Location ::           South Africa
+Specimen Condition   Live Specimen
+Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  --------------------------------------------------------------------------
-  Scientific Name ::     Acanthopsis sp. Harv.
-  Location ::           South Africa
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------
+

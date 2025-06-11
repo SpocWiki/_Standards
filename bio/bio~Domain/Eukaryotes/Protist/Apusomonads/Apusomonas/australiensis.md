@@ -27,7 +27,7 @@ title: Apusomonas australiensis
 
 Containing group: *[Apusomonas](../Apusomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Apusomonas* has a pointed bulge at the left anterior
 corner of the theca. It also has a very flexible mastigophore. It has
@@ -63,7 +63,7 @@ Ekelund, F. and Patterson, D. J. 1997. Some flagellates from a
 cultivated garden soil in Australia. Archiv für Protistenkunde
 148:461-478.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](fapusoa_002.jpg)
 

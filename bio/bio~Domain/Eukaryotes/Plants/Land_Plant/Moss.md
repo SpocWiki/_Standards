@@ -73,7 +73,7 @@ Mosses
 
 ![An epiphyte Barbella,Hypnales moss hanging on a tree branch from the cloud forest near Xalapa, Veracruz, Mexico](Moss/Barbella,Hypnales.jpg)  ![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum_002.jpg)  ![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum_002.jpg)
 
-### Introduction
+## Introduction
 
 [Efrain De Luna, Angela E. Newton, and Brent D. Mishler](http://www.tolweb.org/)
 

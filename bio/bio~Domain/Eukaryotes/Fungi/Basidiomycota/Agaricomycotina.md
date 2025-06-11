@@ -61,7 +61,7 @@ Containing group: [Basidiomycota](Basidiomycota.md)
     resources about the medically important hymenomycete,
     *Filobasidiella (Cryptococcus) neoformans*.
 
-### Introduction
+## Introduction
 
 The Agaricomycotina is one of three major clades of Basidiomycota (the
 others are the Pucciniomycotina and Ustilaginomycotina). The
@@ -455,7 +455,7 @@ Wells, K., and Bandoni, R. J. 2001. Heterobasidiomycetes. Pp. 85-120.
 In: The Mycota VII. Systematics and Evolution. Part B. (Mclaughlin, D.
 J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Calocera viscosa](Calocera_viscosa_002.jpg)
 

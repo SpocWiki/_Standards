@@ -43,7 +43,7 @@ both fossil and Recent taxa.
 
 Containing group: [Caryophylliina](Caryophylliina.md)
 
-### Introduction
+## Introduction
 
 Representatives of this family occur from the early Jurassic (about 180
 million years ago) to the Recent, and are widespread in the world
@@ -103,7 +103,7 @@ Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C. (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
 of Kansas Press, Lawrence.
 
-##### Title Illustrations
+## Title Illustrations
 
 From left to right:
 

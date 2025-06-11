@@ -29,7 +29,7 @@ title: Amastigomonas debruynei
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Amastigomonas* is distinguished by its size, by the
 lack of any excrescences, and by the short anterior flagellum.
@@ -86,7 +86,7 @@ Lee, W. J. and Patterson, D. J. 2000. Heterotrophic flagellates
 (Protista) from marine sediments of Botany Bay, Australia. Journal of
 Natural History 34: 483-562.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](famastigod_002.gif)
 

@@ -35,7 +35,7 @@ Containing group: [Anthozoa](Anthozoa.md)
 
 [Biogeoinformatics of Hexacorallia](http://www.kgs.ukans.edu/Hexacoral/index.html)
 
-### Introduction
+## Introduction
 
 Nearly 4000 of the 6000-plus species of living anthozoans belong to the
 six extant orders of subclass Zoantharia (Hyman 1940), also known as
@@ -847,7 +847,7 @@ Willmer, P. 1990. Invertebrate Relationships: Patterns in Animal
 Evolution. Cambridge University Press, Cambridge and other cities. 400
 pages.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](pseudocorynactis_002.jpg)
 

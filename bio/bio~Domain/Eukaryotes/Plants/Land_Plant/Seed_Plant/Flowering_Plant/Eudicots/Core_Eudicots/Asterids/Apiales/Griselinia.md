@@ -2,6 +2,15 @@
 title: Griselinia
 ---
 
+# [[Griselinia]] 
+
+
+## #has_/text_of_/abstract 
+
+> **Griselinia** is a genus of seven species of shrubs and trees, with a highly disjunct distribution native to New Zealand and South America. It is a classic example of the Antarctic flora. It is the sole genus in the family Griseliniaceae. In the past it was often placed in Cornaceae but differs from that in many features.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Griselinia) 
+
 ## Phylogeny 
 
 
@@ -21,21 +30,12 @@ title: Griselinia
     -   Griselinia
 
 -   » Sub-Groups 
+	-   *Griselinia littoralis*
+	-   *Griselinia lucida*
+	-   *Griselinia jodinifolia*
+	-   *Griselinia scandens*
+	-   *Griselinia carlomunozii*
+	-   *Griselinia racemosa*
+	-   *Griselinia ruscifolia*
 
-# Griselinia 
 
--   *Griselinia littoralis*
--   *Griselinia lucida*
--   *Griselinia jodinifolia*
--   *Griselinia scandens*
--   *Griselinia carlomunozii*
--   *Griselinia racemosa*
--   *Griselinia ruscifolia*
-
-Containing group: [Apiales](../Apiales.md)
-
-### References
-
-Dillon, M.O. and M. Muñoz-Schick. 1993. A revision of the dioecious
-genus Griselinia (Griseliniaceae) including a new species from the
-coastal Atacama Desert of northern Chile. Brittonia 45:261-274.

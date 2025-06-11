@@ -37,7 +37,7 @@ Core Tricolpates
 
 ![Echinocactus_acanthodes](Core_Eudicots/Echinocactus_acanthodes.jpg)  ![Catananche_caerulea](Core_Eudicots/Catananche_caerulea.jpg)  ![Populus_tremuloides](Core_Eudicots/Populus_tremuloides.jpg) 
 
-### Introduction
+## Introduction
 
 [Doug Soltis, Pam Soltis, and Christine Edwards](http://www.tolweb.org/)
 

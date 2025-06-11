@@ -52,12 +52,26 @@ title: Blechum clade
 -   *Ruellia tuxtlensis*[ T. P. Ramamoorthy & Y. Hornelas
     ]
 
-Note: this taxon list is still under construction. It does not yet
-contain all known Blechum clade subgroups.
+## #has_/text_of_/abstract 
 
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
+> Ruellia is a genus of flowering plants commonly known as ruellias or wild petunias. 
+> They are not closely related to petunias (Petunia) 
+> although both genera belong to the same euasterid clade. 
+> 
+> The genus was named in honor of Jean Ruelle (1474–1537), 
+> herbalist and physician to Francis I of France and translator of several works of Dioscorides.
+>
+> Numerous formerly independent genera are nowadays considered synonymous with Ruellia, 
+> including **Blechum**, Eusiphon,  and Ulleria. Acanthopale and Polylychnis are considered a distinct genera.
+>
+> Ruellias are popular ornamental plants. 
+> Some are used as medicinal plants, but many are known or suspected to be poisonous. 
+> Their leaves are food for the caterpillars of several Lepidoptera (butterflies and moths), 
+> typically Nymphalinae and in particular members of their tribe Junoniini, such as the larvae of the banded peacock (Anartia fatima). Nymphalinae using Ruellia as host plants include the common buckeye (Junonia coenia), recorded on R. nodiflora, the lemon pansy (Junonia lemonias), recorded on R. tuberosa, and the malachite butterfly (Siproeta stelenes) and Australian lurcher (Yoma sabina), which are recorded on several species.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ruellia) 
 
-### Introduction
+## Introduction
 
 The *Blechum* clade contains species of *Blechum* that are distributed
 widely across the neotropics, as well as species of *Ruellia* that are
@@ -84,9 +98,10 @@ country. Brittonia, in press.
 Tripp, E. A. Evolutionary relationships within the species-rich genus
 Ruellia (Acanthaceae). Systematic Botany, in press.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](Blechum_pyramidatum_T_87A84-1.jpg)
+
+![](Blechum_pyramidatum_T_87A84-1.jpg)
 
   -----------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -95,7 +110,8 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collector            E. Tripp
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   -----------------------------------------------------------------------
-![](blechum_002.jpg)
+
+![](blechum_002.jpg)
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -104,20 +120,23 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Identified By        L. A. McDade
   Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
   ---------------------------------------------------------------------------
-![](leavesflowers.jpg)
+
+![](leavesflowers.jpg)
 
   ---------------------------------
   Scientific Name ::     Blechum costaricense Oerst.
   Specimen Condition   Live Specimen
   Copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
   ---------------------------------
-![](R_maya_et157_002.jpg)
+
+![](R_maya_et157_002.jpg)
 
   ----------------------------------------------------------------------
   Scientific Name ::  Ruellia maya T.F. Daniel
   Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   ----------------------------------------------------------------------
-![](picture927.jpg)
+
+![](picture927.jpg)
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia longepetiolata (Oerst.) Hemsl.
@@ -125,4 +144,4 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Identified By        Erin A. Tripp
   Collection           donated as living material to DUKE greenhouses
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------

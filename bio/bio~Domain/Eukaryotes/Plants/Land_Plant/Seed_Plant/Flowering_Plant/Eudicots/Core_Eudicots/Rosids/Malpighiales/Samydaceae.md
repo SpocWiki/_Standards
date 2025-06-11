@@ -2,49 +2,29 @@
 title: Samydaceae
 ---
 
-## Phylogeny 
+# [[Samydaceae]] 
+
+![Casearia arborea](Samydaceae/Casearia_arborea.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Fruit.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Samydaceae** is a family of tropical and subtropical woody plants, 
+> its best known genus being Casearia. 
+> 
+> It has always been of uncertain placement, in the past 
+> usually being submerged in the family Flacourtiaceae.
+>
+> A 2002 paper included the Samydaceae in the family Salicaceae, 
+> a placement accepted in the APG III system onwards 
+> and also by Plants of the World Online as of March 2021. 
+> This placement has by no means been universally accepted.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Samydaceae) 
 
 
--   « Ancestral Groups  
-    -   [Malpighiales](../Malpighiales.md)
-    -   [Rosids](../../Rosids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
+## Introduction
 
--   ◊ Sibling Groups of  Malpighiales
-    -   [Salicaceae](Salicaceae)
-    -   [Scyphostegia borneensis](Scyphostegia_borneensis.md)
-    -   [Lacistemataceae](Lacistemataceae.md)
-    -   Samydaceae
-
--   » Sub-Groups 
-
-# Samydaceae 
-
-[Mac H. Alford](http://www.tolweb.org/)
-
-![ ](Samydaceae/Casearia_ToL3_002.jpg)
-![ ](Samydaceae/Casearia_ToL1_002.jpg)
-![](Samydaceae/Casearia_ToL2_002.jpg)
-
-Containing group: [Malpighiales](../Malpighiales.md)
-
-### Information on the Internet
-
--   [PlantSystematics.Org](http://www.plantsystematics.org/). Electronic
-    key to all taxa formerly placed in Flacourtiaceae, including all
-    Samydaceae treated here.
--   [Royal Botanic Gardens,     Kew.](http://www.rbgkew.org.uk/herbarium/keys/flacs/index.html)
-    Electronic keys to most taxa formerly placed in Flacourtiaceae,
-    including all Samydaceae treated here.
-
-### Introduction
+[Mac H. Alford](http://www.tolweb.org/) 
 
 Samydaceae are a family of flowering plants formerly placed in the
 polyphyletic Flacourtiaceae. Samydaceae have sometimes been segregated
@@ -101,99 +81,47 @@ or dry 3-valved capsules, occasionally indehiscent. *Seeds* arillate
 (except *Tetrathylacium*) or with long, cottony hairs (*Casearia* sect.
 *Gossypiospermum*).
 
-### References
+## Phylogeny 
 
-Alford, M. H. 2005. Systematic studies in Flacourtiaceae. Dissertation.
-Cornell University, Ithaca, New York, USA. 290 pp.
+-   « Ancestral Groups  
+    -   [Malpighiales](../Malpighiales.md)
+    -   [Rosids](../../Rosids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
-Bernhard, A., and P. K. Endress. 1999. Androecial development and
-systematics in Flacourtiaceae s.l. Plant Systematics and Evolution 215:
-141---155.
+-   ◊ Sibling Groups of  Malpighiales
+    -   [Salicaceae](Salicaceae)
+    -   [Scyphostegia borneensis](Scyphostegia_borneensis.md)
+    -   [Lacistemataceae](Lacistemataceae.md)
+    -   Samydaceae
 
-Chase, M. W., S. Zmarzty, M. D. Lledó, K. J. Wurdack, S. M. Swensen, and
-M. F. Fay. 2002. When in doubt, put it in Flacourtiaceae: a molecular
-phylogenetic analysis based on plastid rbcL DNA sequences. Kew Bulletin
-57: 141---181.
+-   » Sub-Groups 
 
-de Wilde, W. J. J. O. 1971. The systematic position of tribe Paropsieae,
-in particular the genus Ancistrothyrsus, and a key to the genera of
-Passifloraceae. Blumea 19: 99---104.
 
-Gilg, E. 1925. Flacourtiaceae. Pages 377---457 in Vol. 21, Die
-natürlichen Pflanzenfamilien, 2nd ed. (A. Engler, and K. Prantl, eds.),
-Berlin.
+## Title Illustrations
 
-Grill, I. 1990. Beiträge zur Karyosystematik der Flacourtiaceae.
-Dissertation. Universität Wien, Vienna, Austria. 55 pp.
+--------------------
+![Casearia arborea](Casearia_arborea.jpg)
+Scientific Name ::  Casearia arborea
+Location ::        Costa Rica: Heredia: Estacion Biologica La Selva
+Copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
-Hallé, N., and J. J. F. E. de Wilde. 1978. Trichostephanus acuminatus
-Gilg (Flacourtiacées), une approche biosystématique. Adansonia, ser. 2,
-18: 167---182.
+--------------------
+![Casearia corymbosa](Casearia_corymbosa-Leaf.jpg)
+Scientific Name ::  Casearia corymbosa
+Location ::        Costa Rica: Guanacaste: Palo Verde
+Copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
-Judd, W. S. 1997. The Flacourtiaceae in the southeastern United States.
-Harvard Papers in Botany 10:65-79.
+---------------------
+![Casearia_corymbosa](Casearia_corymbosa-Fruit.jpg) 
+Scientific Name ::  Casearia corymbosa
+Location ::        Costa Rica: Guanacaste: Palo Verde
+Body Part         Fruit with arillate seed
+Copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
 
-Keating, R. C. 1973. Pollen morphology and relationships of the
-Flacourtiaceae. Annals of the Missouri Botanical Garden 60: 273---305.
-
-Keating, R. C. 1975. Trends of specialization in pollen of
-Flacourtiaceae with comparative observations of Cochlospermaceae and
-Bixaceae. Grana 15: 29---49.
-
-Kiger, R. W. 1972. The genus Samyda (Flacourtiaceae). Dissertation.
-University of Maryland, College Park, Maryland. 266 pp.
-
-Kiger, R. W. 1984. Exclusions from Samyda Jacq. (Flacourtiaceae). Taxon
-33: 445---468.
-
-Lemke, D. E. 1988. A synopsis of Flacourtiaceae. Aliso 12: 29---43.
-
-Miller, R. B. 1968. Systematic wood anatomy of the American Casearia
-Jacq. (Flacourtiaceae). M.S. Thesis. University of Wisconsin, Madison.
-56 pp.
-
-Miller, R. B. 1975. Systematic anatomy of the xylem and comments on the
-relationships of Flacourticeae. Journal of the Arnold Arboretum 56:
-20---102.
-
-Sleumer, H. O. 1954. Flacourtiaceae. Pages 1---106 in Flora Malesiana,
-Series 1 (C. G. G. J. van Steenis, ed.) Noordhoff-Kilff N.V., Djakarta.
-
-Sleumer, H. O. 1980. Flacourtiaceae. Flora Neotropica 22: 1---499.
-
-Spencer, K. C., and D. S. Seigler. 1985. Cyanogenic glycosides and the
-systematics of the Flacourtiaceae. Biochemical Systematics and Ecology
-13: 421---431.
-
-van Heel, W. A. 1979. Flowers and fruits in Flacourtiaceae. IV.
-Hydnocarpus spp., Kiggelaria africana L., Casearia spp., Berberidopsis
-corallina Hook.f. Blumea 25: 513---529.
-
-Warburg, O. 1894. Flacourtiaceae. Pages 1---56 in Vol. 3(6a), Die
-natürlichen Pflanzenfamilien, 1st ed. (A. Engler, and K. Prantl, eds.).
-Wilhelm Englemann, Leipzig.
-
-##### Title Illustrations
-
-![](Casearia_ToL3.jpg)
-
-  --------------------
-  Scientific Name ::  Casearia arborea
-  Location ::        Costa Rica: Heredia: Estacion Biologica La Selva
-  Copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
-  --------------------
-![](Casearia_ToL1.jpg)
-
-  --------------------
-  Scientific Name ::  Casearia corymbosa
-  Location ::        Costa Rica: Guanacaste: Palo Verde
-  Copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
-  --------------------
-![](Casearia_ToL2.jpg)
-
-  ---------------------
-  Scientific Name ::  Casearia corymbosa
-  Location ::        Costa Rica: Guanacaste: Palo Verde
-  Body Part         Fruit with arillate seed
-  Copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
-  ---------------------

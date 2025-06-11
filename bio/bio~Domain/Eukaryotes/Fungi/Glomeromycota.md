@@ -43,7 +43,7 @@ Containing group: [Fungi](Eukaryotes/Fungi.md)
 -   [Janusz Blaszkowki\'s     website](http://www.agro.ar.szczecin.pl/%7Ejblaszkowski/)
 -   [5th International Conference on Mycorrhizas (Granada, Spain,     2006)](http://www.eez.csic.es/icom5/)
 
-### Introduction
+## Introduction
 
 Although the Glomeromycota comprise a group of fungi virtually unknown
 to the broad public, they are essential for terrestrial ecosystem
@@ -504,7 +504,7 @@ family in the Glomeromycota. Mycological Research 108, 707-718.
 Walker, C., Schüßler, A., 2004. Nomenclatural clarifications and new
 taxa in the Glomeromycota. Mycological Research 108, in press.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](s328_small.jpg)
 

@@ -6,9 +6,7 @@ aliases:
 
 # [[Brassicales]] 
 
-![](Brassicales/Erysimum_ammophilum.jpg)
-![](Brassicales/Tropaeolum_minus05199.jpg)
-![](Brassicales/Carica_papaya2193.jpg)
+![](Brassicales/Erysimum_ammophilum.jpg)  ![](Brassicales/Tropaeolum_minus05199.jpg)  ![](Brassicales/Carica_papaya2193.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -81,7 +79,7 @@ aliases:
 -   » Sub-Groups 
 
 
-##### Title Illustrations
+## Title Illustrations
 
 
 ![Coast wallflower, Erysimum ammophilum](Erysimum_ammophilum_002.jpg)

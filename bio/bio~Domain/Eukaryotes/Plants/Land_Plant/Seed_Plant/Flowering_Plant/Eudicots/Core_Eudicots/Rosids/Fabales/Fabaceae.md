@@ -1,6 +1,65 @@
 ---
 title: Fabaceae
+aliases:
+  - Fabaceae
+  - Leguminosae
+  - legume
 ---
+
+# [[Fabaceae]]
+
+Legumes 
+
+![Bauhinia_blakeana](Fabaceae/Bauhinia_blakeana.jpg) 
+![Lablab_purpureus](Fabaceae/Lablab_purpureus.jpg) 
+![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Fabaceae** or Leguminosae, commonly known as the legume, pea, or bean family, 
+> is a large and agriculturally important family of flowering plants. 
+> 
+> It includes trees, shrubs, and perennial or annual herbaceous plants, 
+> which are easily recognized by their fruit (legume) and their compound, stipulate leaves. 
+> 
+> The family is widely distributed, and is the third-largest land plant family in number of species, 
+> behind only the Orchidaceae and Asteraceae, with about 765 genera and nearly 20,000 known species.
+>
+> The five largest genera of the family are 
+> - Astragalus (over 3,000 species), 
+> - Acacia (over 1,000 species), 
+> - Indigofera (around 700 species), 
+> - Crotalaria (around 700 species), and 
+> - Mimosa (around 400 species), 
+> which constitute about a quarter of all legume species. 
+> The c. 19,000 known legume species amount to about 7% of flowering plant species. 
+> Fabaceae is the most common family found in tropical rainforests and dry forests of the Americas and Africa.
+>
+> Recent molecular and morphological evidence 
+> supports the fact that the Fabaceae is a single monophyletic family. 
+> This conclusion has been supported 
+> not only by the degree of interrelation shown by different groups within the family 
+> compared with that found among the Leguminosae and their closest relations, 
+> but also by all the recent phylogenetic studies based on DNA sequences. 
+> These studies confirm that the Fabaceae are a monophyletic group 
+> that is closely related to the families Polygalaceae, Surianaceae and Quillajaceae 
+> and that they belong to the order Fabales.
+>
+> Along with the cereals, some fruits and tropical roots, 
+> a number of Leguminosae have been a staple human food for millennia 
+> and their use is closely related to human evolution.
+>
+> The family Fabaceae includes a number of plants that are common in agriculture including 
+> Glycine max (soybean), Phaseolus (beans), Pisum sativum (pea), Cicer arietinum (chickpeas), 
+> Vicia faba (broad bean), Medicago sativa (alfalfa), Arachis hypogaea (peanut), 
+> Ceratonia siliqua (carob), Trigonella foenum-graecum (fenugreek), and Glycyrrhiza glabra (liquorice). 
+> 
+> A number of species are also weedy pests in different parts of the world, including 
+> Cytisus scoparius (broom), Robinia pseudoacacia (black locust), Ulex europaeus (gorse), 
+> Pueraria montana (kudzu), and a number of Lupinus species.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fabaceae) 
+
 
 ## Phylogeny 
 
@@ -30,63 +89,23 @@ title: Fabaceae
     -   [Caesalpinieae s.l. & s.s., Cassieae sensu stricto,         Mimosoideae](Caesalpinieae_s.l._%26_s.s.%2C_Cassieae_sensu_stricto%2C_Mimosoideae)
     -   [Papilionoideae](Fabaceae/Papilionoideae.md)
 
-# Fabaceae
 
-## legumes 
+## Introduction
 
-[Martin F. Wojciechowski, Johanna Mahn, and Bruce Jones](http://www.tolweb.org/)
+[Martin F. Wojciechowski, Johanna Mahn, and Bruce Jones](http://www.tolweb.org/) 
 
-![ ](Fabaceae/bau_x_bla_7124_002.jpg)
-![ ](Fabaceae/Lablab_purpureus111.JPG)
-![](Fabaceae/pro_pal.jpg)
+The **Fabaceae** (also called Leguminosae) or bean and pea family, 
+is the third largest family of angiosperms 
+after Orchidaceae (orchids) and Asteraceae (daisies, sunflowers), 
+and second only to Poaceae (grasses) in terms of agricultural and economic importance. 
 
-The phylogenetic relationships of Fabaceae, presented on this and
-subsequent pages, are based on a \"supertree\" of the family compiled
-from several recent analyses, including Doyle et al. (2000), Crisp et
-al. (2000), Kajita et al. (2001), Lavin et al. (2001), Pennington et al.
-(2001), Herendeen et al. (2003), Luckow et al. (2003), Wojciechowski
-(2003), and Wojciechowski et al. (2000, 2004), for the treatise Legumes
-of the World, by Lewis, Schrire, Mackinder, & Lock (2005).
+Legumes includes a large number of domesticated species 
+harvested as crops for human and animal consumption 
+as well as for oils, fiber, fuel, fertilizers, timber, medicinals, chemicals, 
+and horticultural varieties (Lewis et al., 2005). 
 
-Containing group: [Fabales](../Fabales.md)
-
-### Information on the Internet
-
--   [Angiosperm Phylogeny     Website](http://www.mobot.org/MOBOT/research/APweb/). For more
-    information on the family, search for Fabaceae.
--   [Bean Bag](http://www.rbgkew.org.uk/herbarium/legumes/beanbag.html).
-    A newsletter to promote communication among research scientists
-    concerned with the systematics of the Leguminosae/Fabaceae.
--   [Fabaceae on Wikipedia](http://en.wikipedia.org/wiki/Fabaceae)
--   [International Legume Database & Information     Service](http://www.ildis.org/). The International Legume Database &
-    Information Service (ILDIS) is an international project which aims
-    to document and catalog the world\'s legume species diversity in a
-    readily accessible form, including publications, electronic
-    resources, and enquiry services.
--   [Medicago.org](http://medicago.org/). Medicago truncatula, A model
-    for legume genomic research website.
--   [Legume Information Service at     NCGR](http://www.comparative-legumes.org/). The Legume Information
-    System (LIS) is a publicly accessible legume resource that
-    integrates genetic and molecular data from multiple legume species.
--   [Pierre Guertin\'s Philatelic Herbarium](http://aildoux.tripod.com/)
-    shows examples of stamps that species of plants have appeared on,
-    many of which belong to Leguminosae. Click on Liste Taxonomique and
-    scroll down about halfway to get to the stamps with pictures of
-    legumes on them.
--   [USDA Germplasm Resources Information     Network](http://www.ars-grin.gov/cgi-bin/npgs/html/family.pl?440)
-    website, information on Fabaceae
-
-### Introduction
-
-The **Fabaceae** (also called Leguminosae) or bean and pea family, is
-the third largest family of angiosperms after Orchidaceae (orchids) and
-Asteraceae (daisies, sunflowers), and second only to Poaceae (grasses)
-in terms of agricultural and economic importance. Legumes includes a
-large number of domesticated species harvested as crops for human and
-animal consumption as well as for oils, fiber, fuel, fertilizers,
-timber, medicinals, chemicals, and horticultural varieties (Lewis et
-al., 2005). In addition, the family includes several species studied as
-genetic and genomic model systems (e.g., pea, *Pisum sativum*, barrel
+In addition, the family includes several species 
+studied as genetic and genomic model systems (e.g., pea, *Pisum sativum*, barrel
 medic, *Medicago truncatula*, and trefoil, *Lotus corniculatus*).
 
 Legumes vary in habit from annual and perennial herbs to shrubs, trees,
@@ -395,321 +414,24 @@ studied for use in postmenopausal hormone replacement therapy (Graham
 and Vance, 2003). Legumes also produce a hypoglycemic effect when eaten,
 making them a recommended food for diabetics (Gepts et al., 2005).
 
-### References
 
-Allan, G. J., and J. M. Porter. 2000. Tribal delimitation and
-phylogenetic relationships of Loteae and Coronilleae (Faboideae:
-Fabaceae) with special reference to *Lotus*: evidence from nuclear
-ribosomal ITS sequences. American J. Botany 87: 1871-1881.
-
-Angiosperm Phylogeny Group \[APG\]. 2003. An update of the Angiosperm
-Phylogeny Group classification for the orders and families of flowering
-plants: APG II. Botanical J. Linnean Society 141: 399-436.
-
-Bruneau, A., F. Forest, P. S. Herendeen, B. B. Klitgaard, and G. P.
-Lewis. 2001. Phylogenetic relationships in the Caesalpinioideae
-(Leguminosae) as inferred from chloroplast *trnL* intron sequences.
-Systematic Botany 26: 487-514.
-
-Chappill, J. A. 1995. Cladistic analysis of the Leguminosae: the
-development of an explicit hypothesis. Pages 1-10 in Advances in Legume
-Systematics, part 7, phylogeny (M. D. Crisp and J. J. Doyle, eds.).
-Royal Botanic Gardens, Kew, UK.
-
-Chase, M. W., D. E. Soltis, R. G. Olmstead, D. Morgan, D. H. Les, B. D.
-Mishler, M. R. Duvall, R. A. Price, H. G. Hills, Y.-L. Qiu, K. A. Kron,
-J. H. Rettig, E. Conti, J. D. Palmer, J. R. Manhart, K. J. Sytsma, H. J.
-Michaels, W. J. Kress, K. G. Karol, W. D. Clark, M. Hedrén, B. S. Gaut,
-R. K. Jansen, K.-J. Kim, C. F. Wimpee, J. F. Smith, G. R. Furnier, S. H.
-Strauss, Q.-Y. Xiang, G. M. Plunkett, P. S. Soltis, S. M. Swensen, S. E.
-Williams, P. A. Gadek, C. J. Quinn, L. E. Eguiarte, E. Golenberg, G. H.
-Learn Jr., S. W. Graham, S. C. H. Barrett, S. Dayanandan, and V. A.
-Albert. 1993. Phylogenetics of seed plants: An analysis of nucleotide
-sequences from the plastid gene *rbcL*. Annals of the Missouri Botanic
-Garden 80: 528-580.
-
-Crepet, W. L., and D. W. Taylor. 1985. The diversification of the
-Leguminosae: first fossil evidence of the Mimosoideae and
-Papilionoideae. Science 288: 1087-1089.
-
-Crepet, W. L., and D. W. Taylor. 1986. Primitive mimosoid flowers from
-the Paleocene-Eocene and their systematic and evolutionary implications.
-American J. Botany 73: 548-563.
-
-Crepet, W. L., and P. S. Herendeen. 1992. Papilionoid flowers from the
-early Eocene of southeastern North America. Pages 43--55 in Advances in
-Legume Systematics, part 4, the fossil record (P. S. Herendeen and D. L.
-Dilcher, eds.). Royal Botanic Gardens, Kew, UK.
-
-Crisp, M. D., S. Gilmore, and B-E. Van Wyk. 2000. Molecular phylogeny of
-the genistoid tribes of papilionoid legumes. Pages 249-276 in Advances
-in Legume Systematics, part 9 (P. S. Herendeen and A. Bruneau, eds.).
-Royal Botanic Garden, Kew, UK.
-
-Dickison, W. C. 1981. The evolutionary relationships of the Leguminosae.
-Pages 35-54 in Advances in Legumes Systematics, part 1 (R. M. Polhill
-and P. H. Raven, eds.) Royal Botanic Gardens, Kew, UK.
-
-Dilcher, D. L., P. S. Herendeen, and F. Hueber. 1992. Pages 33-42 in
-Advances in Legume Systematics, part 4, the fossil record (P. S.
-Herendeen and D. L. Dilcher, eds.). Royal Botanic Gardens, Kew, UK.
-
-Doyle, J.J., J.L. Doyle, J.A. Ballenger, E.E. Dickson, T. Kajita, and H.
-Ohashi. 1997. A phylogeny of the chloroplast gene *rbcL* in the
-Leguminosae: taxonomic correlations and insights into the evolution of
-nodulation. American J. Botany 84: 541-554.
-
-Doyle, J. J., J. A. Chappill, C. D. Bailey, and T. Kajita. 2000. Towards
-a comprehensive phylogeny of legumes: evidence from *rbcL* sequences and
-non-molecular data. Pages 1 -20 in Advances in legume systematics, part
-9, (P. S. Herendeen and A. Bruneau, eds.). Royal Botanic Gardens, Kew,
-UK.
-
-Gepts, P., W. D. Beavis, E. C. Brummer, R. C. Shoemaker, H. T. Stalker,
-N. F. Weeden, and N. D. Young. 2005. Legumes as a model plant family.
-Genomics for food and feed report of the cross-legume advances through
-genomics conference. Plant Physiology 137: 1228--1235.
-
-Graham, P. H., and C. P. Vance. 2003. Legumes: importance and
-constraints to greater use. Plant Physiol. 131: 872 -- 877.
-
-Herendeen, P. S. 1992. The fossil history of Leguminosae from the Eocene
-of southeastern North America. Pages 85-160 in Advances in Legume
-Systematics, part 4, the fossil record (Herendeen, P. S., and D. L.
-Dilcher, eds.). Royal Botanic Gardens, Kew, UK.
-
-Herendeen, P. S. 2001. The fossil record of the Leguminosae: recent
-advances. In Legumes Down Under: the Fourth International Legume
-conference, Abstracts, 34--35. Australian National University, Canberra,
-Australia.
-
-Herendeen, P. S., W. L. Crepet, and D. L. Dilcher. 1992. The fossil
-history of the Leguminosae: phylogenetic and biogeographic implications.
-Pages 303 -- 316 in Advances in Legume Systematics, part 4, the fossil
-record (P. S. Herendeen and D .L. Dilcher, eds). Royal Botanic Gardens,
-Kew, UK.
-
-Herendeen, P. S., and D. L. Dilcher. 1990. *Diplotropis* (Leguminosae,
-Papilionoideae) from the Middle Eocene of southeastern North America.
-Systematic Botany 15: 526-533.
-
-Herendeen, P. S., and D. L. Dilcher. 1991. *Caesalpinia* subgenus
-*Mezoneuron* (Leguminosae, Caesalpinioideae) from the Tertiary of North
-America. American J. Botany 78: 1-12.
-
-Herendeen, P. S., and S. Wing. 2001. Papilionoid legume fruits and
-leaves from the Paleocene of northwestern Wyoming. Botany 2001
-Abstracts, published by Botanical Society of America
-(http://www.botany2001.org/).
-
-Herendeen, P. S., A. Bruneau, and G. P. Lewis. 2003. Phylogenetic
-relationships in caesalpinioid legumes: a preliminary analysis based on
-morphological and molecular data. Pages 37-62 in Advances in Legume
-Systematics, part 10, higher level systematics (B.B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Hu, J.-M., M. Lavin, M. F. Wojciechowski, and M.J. Sanderson. 2000.
-Phylogenetic systematics of the tribe Millettieae (Leguminosae) based on
-*matK* sequences, and implications for evolutionary patterns in
-Papilionoideae. American J. Botany 87: 418-430.
-
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and allies. Systematic Botany 26: 515-536.
-
-Käss, E., and M. Wink. 1996. Molecular evolution of the Leguminosae:
-phylogeny of the three subfamilies based on *rbcL* sequences.
-Biochemical Systematics and Evolution 24: 365-378.
-
-Käss, E., and M. Wink. 1997. Phylogenetic relationships in the
-Papilionoideae (Family Leguminosae) based on nucleotide sequences of
-cpDNA (*rbcL*) and ncDNA (ITS1 and 2). Molecular Phylogenetics and
-Evolution 8:65-88.
-
-Lavin, M., J. J. Doyle, and J. D. Palmer. 1990. Evolutionary
-significance of the loss of the chloroplast\--DNA inverted repeat in the
-Leguminosae subfamily Papilionoideae. Evolution 44: 390-402.
-
-Lavin. M., R. T. Pennington, B. B. Klitgaard, J. I. Sprent, H. C. de
-Lima, and P. E. Grasson. 2001. The Dalbergioid legumes (Fabaceae):
-delimitation of a pantropical monophyletic clade. American J. Botany 88:
-503-533.
-
-Lavin, M., M. F. Wojciechowski, P. Gasson, C. E. Hughes, and E. Wheeler.
-2003. Phylogeny of robinioid legumes (Fabaceae) revisited: *Coursetia*
-and *Gliricidia* recircumscribed, and a biogeographical appraisal of the
-Caribbean endemics. Systematic Botany 28: 387--409.
-
-Lavin, M., P. S. Herendeen, and M. F. Wojciechowski. 2005. Evolutionary
-rates analysis of Leguminosae implicates a rapid diversification of
-lineages during the Tertiary. Systematic Biology 54: 530-549.
-
-Lewis, G., B. Schrire, B. MacKinder, and M. Lock (eds). 2005. Legumes of
-the world. Royal Botanical Gardens, Kew, UK.
-
-Luckow, M., J. T. Miller, D. J. Murphy, and T. Livshultz. 2003. A
-phylogenetic analysis of the Mimosoideae (Leguminosae) based on
-chloroplast DNA sequence data. Pages 197-220 in Advances in Legumes
-Systematics, part 10, higher level systematics (B. B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-McKey, D. 1994. Legumes and nitrogen: the evolutionary ecology of a
-nitrogen-demanding lifestyle. Pages 211--228 in Advances in Legume
-Systematics, part 5, the nitrogen factor (J. I. Sprent and D. McKey,
-eds.). Royal Botanic Gardens, Kew, UK.
-
-Manos, P. S., and A. M. Standford. 2001. The biogeography of Fagaceae:
-tracking the Tertiary history of temperate and subtropical forests of
-the Northern Hemisphere. International J. of Plant Sciences 162:
-S77-S93.
-
-Morley, R. J. 2000. *Origin and Evolution of Tropical Rain Forests*.
-John Wiley & Sons. Pp. 378.
-
-Müller-Stoll W. R. and E. Mädel. 1967. Die fossilen Leguminosen-Hölzer.
-Eine revision der mit Leguminosen verglichenen fossilen Hölzer und
-Beschreibungen älterer und neuer Arten. Palaeontographica, Abt. B, 119:
-95-174.
-
-Pennington, R. T., M. Lavin, H. Ireland, B. B. Klitgaard, and J.
-Preston. 2001. Phylogenetic relationships of basal papilionoid legumes
-based upon sequences of the chloroplast *trnL* intron. Systematic Botany
-26: 537-566.
-
-Persson, C. 2001. Phylogenetic relationships in Polygalaceae based on
-plastid DNA sequences from the *trnL-F* region. Taxon 50: 763-779.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages
-xxxv--xlviii in Phytochemical Dictionary of the Leguminosae (F. A.
-Bisby, J. Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New
-York, NY.
-
-Polhill, R. M., and P. H. Raven (eds.). 1981. Advances in legume
-systematics, parts 1 and 2. Royal Botanic Gardens, Kew, UK.
-
-Polhill, R. M., P. H. Raven, and C. H. Stirton. 1981. Evolution and
-systematics of the Leguminosae. Pages 1-26 in Advances in Legume
-Systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Raven, P. H. and D. I. Axelrod. 1974. Angiosperm biogeography and past
-continental movements. Annals of the Missouri Botanic Garden 61:
-539-657.
-
-Rundel, P. W. 1989. Ecological success in relation to plant form and
-function in the woody legumes. In C.H. Stirton and J.L. Zarucchi (eds.).
-Advances in legume biology, Monographs in Systematic Botany from the
-Missouri Botanical Gardens 29: 377-398.
-
-Sanderson, M. J., and M. F. Wojciechowski. 1996. Diversification rates
-in a temperate legume clade: are there \"so many species\" of
-*Astragalus* (Fabaceae)? American J. Botany 83: 1488-1502.
-
-Savolainen, V., M. W. Chase, S. B. Hoot, C. M. Morton, D. E. Soltis, C.
-Bayer, M. F. Fay, A. Y. de Bruijn, S. Sulllivan, and Y.-L. Qiu. 2000.
-Phylogenetics of flowering plants based on combined analysis of plastid
-*atpB* and *rbcL* sequences. Systematic Biology 49: 306-362.
-
-Soltis, D.E., P.S. Soltis, D.R. Morgan, S.M. Swensen, B.C. Mullin, J.M.
-Dowd, and P.G. Martin. 1995. Chloroplast gene sequence data suggest a
-single origin of the predisposition for symbiotic nitrogen fixation in
-angiosperms. Proceedings of the National Academy of Sciences USA 92:
-2647-2651.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swenson, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, *rbcL*, and *atpB*
-sequences. Botanical J. Linnean Society 133: 381-461.
-
-Sprent, J. I. 2001. Nodulation in legumes. Royal Botanic Gardens, Kew,
-UK.
-
-Steele, K. P., E. Tizon, R. C. Evan, C. S. Campbell, and M. F.
-Wojciechowski. 2000. Sister group relationships of Fabaceae and
-Rosaceae: phylogenetic relationships of Eurosids I. American J. Botnay
-87: S160 (abstract).
-
-Thorne, R. F. 1992. Classification and geography of the flowering
-plants. Botanical Review 58: 225-348.
-
-Wikström, N., V. Savolainen, and M. W. Chase. 2001. Evolution of the
-angiosperms: calibrating the family tree. Proceedings of the Royal
-Society of London, Series B 268: 2211-2220.
-
-Wing, S. L., F. Herrera, and C. Jaramillo. 2004. A Paleocene flora from
-the Cerrajón Formation, Guajíra Peninsula, northeastern Colombia. Pages
-146-147 in VII International Organization of Paleobotany Conference
-Abstracts (21-26 March). Museo Egidio Feruglio, Trelew, Argentina.
-
-Wojciechowski, M. F. 2003. Reconstructing the phylogeny of legumes
-(Leguminosae): an early 21st century perspective. Pages 5-35 in Advances
-in Legume Systematics, part 10, higher level systematics (B. B.
-Klitgaard and A. Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American J.
-Botany 91: 1846-1862.
-
-Wojciechowski, M. F., M. J. Sanderson, K. P. Steele, and A. Liston.
-2000. Molecular phylogeny of the "temperate herbaceous tribes" of
-papilionoid legumes: a supertree approach. Pages 277-298 in Advances in
-Legume Systematics, part 9 (P. S. Herendeen and A. Bruneau, eds.). Royal
-Botanic Gardens, Kew, UK.
-
-**The Advances in Legume Systematics series, published by the Royal
-Botanic Gardens, Kew, London, UK**
-
-Polhill, R. M., and P. H. Raven (eds.). 1981. Advances in legume
-systematics, parts 1 and 2. Royal Botanic Gardens, Kew.
-
-Stirton, C. H. (ed.). 1987. Advances in legume systematics, part 3.
-Royal Botanic Gardens, Kew.
-
-Herendeen, P. S., and D. L. Dilcher (eds.). 1992. Advances in legume
-systematics, part 4, The fossil record. Royal Botanic Gardens, Kew.
-
-Sprent, J. I., and D. McKey (eds.). 1994. Advances in legume
-systematics, part 5, The nitrogen factor. Royal Botanic Gardens, Kew.
-
-Ferguson, K. I., and S. C. Tucker (eds.). 1994. Advances in legume
-systematics, part 6, Structural biology. Royal Botanic Gardens, Kew.
-
-Crisp, M. D., and J. J. Doyle (eds.). 1995. Advances in legume
-systematics, part 7, Phylogeny. Royal Botanic Gardens, Kew.
-
-Pickersgill, B., and J. M. Lock (eds.). Advances in legume systematics,
-part 8, Legumes of economic importance. Royal Botanic Gardens, Kew.
-
-Herendeen, P. S., and A. Bruneau (eds.). 2000. Advances in legume
-systematics, part 9. Royal Botanic Gardens, Kew.
-
-Klitgaard, B. B., and A. Bruneau (eds.). 2003. Advances in legume
-systematics, part 10, Higher level systematics. Royal Botanic Gardens,
-Kew.
-
-##### Title Illustrations
-
-![](bau_x_bla_7124.jpg)
-
-  ----------------------
-  Scientific Name ::  Bauhinia x blakeana Dunn
-  Body Part         flower
-  Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr/)
-  ----------------------
-![](Lablab_purpureus111_002.JPG)
-
-  ------------------------
-  Scientific Name ::     Lablab purpureus Sweet
-  Location ::           Bronx Co. Home Gardening Center, New York Botanical, New York
-  Comments             Subf. Papilionoideae
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
-  ------------------------
-![](pro_pal_002.jpg)
-
-  --------------------------
-  Scientific Name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
-  Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
-  --------------------------
+## Title Illustrations
+
+----------------------
+![Bauhinia_blakeana](Bauhinia_blakeana.jpg)
+Scientific Name ::  Bauhinia x blakeana Dunn
+Body Part         flower
+Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr/)
+
+------------------------
+![Lablab_purpureus](Lablab_purpureus.JPG)
+Scientific Name ::     Lablab purpureus Sweet
+Location ::           Bronx Co. Home Gardening Center, New York Botanical, New York
+Comments             Subf. Papilionoideae
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
+
+--------------------------
+![Prosopis pallida](Prosopis_pallida.jpg)
+Scientific Name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
+Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)

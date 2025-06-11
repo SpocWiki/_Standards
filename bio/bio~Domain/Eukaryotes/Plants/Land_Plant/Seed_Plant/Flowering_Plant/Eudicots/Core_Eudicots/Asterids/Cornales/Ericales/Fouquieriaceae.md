@@ -2,6 +2,19 @@
 title: Fouquieria
 ---
 
+# [[Fouquieriaceae]] 
+
+
+![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg) 
+![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg) 
+
+## #has_/text_of_/abstract 
+
+> Fouquieria is a genus of 11 species of desert flowering plants, the sole genus in the family **Fouquieriaceae**. The genus is native to North America and includes the ocotillo (F. splendens) and the Boojum tree or cirio (F. columnaris). They have semi succulent stems with thinner spikes projecting from them, with leaves on the bases spikes. They are unrelated to cacti and do not look much like them; their stems are proportionately thinner than cactus stems and their leaves are larger.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fouquieria) 
+
+
 ## Phylogeny 
 
 
@@ -22,52 +35,30 @@ title: Fouquieria
     -   Fouquieria
 
 -   » Sub-Groups 
+	- *Fouquieria* 
 
-## Fouquieriaceae 
 
-# *Fouquieria* 
+## Title Illustrations
 
-![ ](Fouquieriaceae/Fouquieria_splendens_002.jpg)
-![](Fouquieriaceae/9062136_1d51b36da6_b_002.jpg)
 
-Containing group: [Ericales](../Ericales.md)
+-------------------------------------------------------------
+![Fouquieria_splendens](Fouquieria_splendens.jpg)
+Scientific Name ::     Fouquieria splendens
+Location ::           Anza-Borrego Desert State Park, California, USA
+Specimen Condition   Live Specimen
+Source               [Ocotillo, 2003-04-01B 127](http://flickr.com/photos/anitagould/9061906/)
+Source Collection    [Flickr](http://flickr.com/)
+ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
+Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
-### References
+-------------------------------------------------------------
+![Fouquieria_splendens-blosssom](Fouquieria_splendens-blosssom.jpg)
+Scientific Name ::     Fouquieria splendens
+Location ::           Anza-Borrego Desert State Park, California, USA
+Specimen Condition   Live Specimen
+Body Part            flower
+Source               [Ocotillo, 2003-04-01B 132](http://flickr.com/photos/anitagould/9062136/)
+Source Collection    [Flickr](http://flickr.com/)
+ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
+Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
-Henrickson, J. 1972. A taxonomic revision of Fouquieriaceae. Aliso
-7:439-537.
-
-Kubitzki, K. 2004. Fouquieraceae. Pages 195-198 in Kubitzki, K. (ed.),
-The Families and Genera of Vascular Plants. VI. Flowering Plants.
-Dicotyledons. Celastrales, Oxalidales, Rosales, Cornales, Ericales.
-Springer, Berlin.
-
-Schultheis, L. and B. G. Baldwin. 1999. Molecular phylogenetics of
-Fouquieriaceae: Evidence from nuclear rDNA ITS studies. American Journal
-of Botany 86:578-589.
-
-##### Title Illustrations
-
-![](Fouquieria_splendens.jpg)
-
-  -------------------------------------------------------------
-  Scientific Name ::     Fouquieria splendens
-  Location ::           Anza-Borrego Desert State Park, California, USA
-  Specimen Condition   Live Specimen
-  Source               [Ocotillo, 2003-04-01B 127](http://flickr.com/photos/anitagould/9061906/)
-  Source Collection    [Flickr](http://flickr.com/)
-  ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
-  -------------------------------------------------------------
-![](9062136_1d51b36da6_b.jpg)
-
-  -------------------------------------------------------------
-  Scientific Name ::     Fouquieria splendens
-  Location ::           Anza-Borrego Desert State Park, California, USA
-  Specimen Condition   Live Specimen
-  Body Part            flower
-  Source               [Ocotillo, 2003-04-01B 132](http://flickr.com/photos/anitagould/9062136/)
-  Source Collection    [Flickr](http://flickr.com/)
-  ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
-  -------------------------------------------------------------

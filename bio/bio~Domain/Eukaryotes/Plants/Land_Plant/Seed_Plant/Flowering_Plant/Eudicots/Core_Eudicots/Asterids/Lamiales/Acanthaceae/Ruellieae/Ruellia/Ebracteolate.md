@@ -2,6 +2,26 @@
 title: Ebracteolate clade
 ---
 
+# [[Ebracteolate]]  
+
+![ ](Ebracteolate/dscn0140_002.jpg)
+![ ](Ebracteolate/picture259_002.jpg)
+![](Ebracteolate/dscn0057_002.jpg)
+
+
+## #has_/text_of_/abstract 
+
+> In botany, a bract is a modified or specialized leaf, 
+> associated with a reproductive structure such as a flower, inflorescence axis or cone scale. 
+>
+> Bracts are usually different from foliage leaves in size, color, shape or texture. 
+> They also look different from the parts of the flower, such as the petals or sepals. 
+>
+> A plant having bracts is referred to as bracteate or bracteolate, 
+> while one that lacks them is referred to as ebracteate or **Ebracteolate**.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bract) 
+
 ## Phylogeny 
 
 
@@ -34,53 +54,40 @@ title: Ebracteolate clade
 
 -   » Sub-Groups 
 
-# Ebracteolate clade 
+	-   *Ruellia adenocalyx*[ Leonard]
+	-   *Ruellia alboviolacea*[ Lindau]
+	-   *Ruellia amoena*[ Sesse & Moc.]
+	-   *Ruellia beyrichiana*[ (Nees) S. Moore]
+	-   *Ruellia bulbifera*[ Lindau]
+	-   *Ruellia densa*[ (Nees) Hiern]
+	-   *Ruellia donnell-smithii*[ Leonard]
+	-   *Ruellia eriocalyx*[ Glaz.]
+	-   *Ruellia erythropus*[ (Nees) Lindau]
+	-   *Ruellia foetida*[ Willd.]
+	-   *Ruellia geminiflora*[ H. B. K.]
+	-   *Ruellia hapalotricha*[ Lindau]
+	-   *Ruellia hookeriana*[ (Nees) Hemsl.]
+	-   *Ruellia humboldtiana*[ (Nees) Lindau]
+	-   *Ruellia incompta*[ (Nees) Lindau]
+	-   *Ruellia leucantha*[ Brandegee]
+	-   *Ruellia longifilamentosa*[ Lindau]
+	-   *Ruellia magnifora*[ C. Ezcurra]
+	-   *Ruellia matagalpae*[ Lindau]
+	-   *Ruellia mcvaughii*[ T. F. Daniel]
+	-   *Ruellia novogaliciana*[ T. F. Daniel]
+	-   *Ruellia petiolaris*[ (Nees) T. F. Daniel]
+	-   *Ruellia salviaefolius*[ (Nees) Lindau]
+	-   *Ruellia spissa*[ Leonard]
+	-   *Ruellia tarapotana*[ Lindau]
+	-   *Ruellia tomentosa*[ (Nees) Lindau]
+	-   *Ruellia tubiflora*[ H. B. K.]
+	-   *Ruellia verbasciformis*[ (Nees) C. Ezcurra & Zappi]
+	-   *Ruellia villosa*[ Lindau]
+	-   *Ruellia yurimaguensis*[ Lindau]
 
-[Erin Tripp](http://www.tolweb.org/)
+## Introduction
 
-![ ](Ebracteolate/dscn0140_002.jpg)
-![ ](Ebracteolate/picture259_002.jpg)
-![](Ebracteolate/dscn0057_002.jpg)
-
--   *Ruellia adenocalyx*[ Leonard]
--   *Ruellia alboviolacea*[ Lindau]
--   *Ruellia amoena*[ Sesse & Moc.]
--   *Ruellia beyrichiana*[ (Nees) S. Moore]
--   *Ruellia bulbifera*[ Lindau]
--   *Ruellia densa*[ (Nees) Hiern]
--   *Ruellia donnell-smithii*[ Leonard]
--   *Ruellia eriocalyx*[ Glaz.]
--   *Ruellia erythropus*[ (Nees) Lindau]
--   *Ruellia foetida*[ Willd.]
--   *Ruellia geminiflora*[ H. B. K.]
--   *Ruellia hapalotricha*[ Lindau]
--   *Ruellia hookeriana*[ (Nees) Hemsl.]
--   *Ruellia humboldtiana*[ (Nees) Lindau]
--   *Ruellia incompta*[ (Nees) Lindau]
--   *Ruellia leucantha*[ Brandegee]
--   *Ruellia longifilamentosa*[ Lindau]
--   *Ruellia magnifora*[ C. Ezcurra]
--   *Ruellia matagalpae*[ Lindau]
--   *Ruellia mcvaughii*[ T. F. Daniel]
--   *Ruellia novogaliciana*[ T. F. Daniel]
--   *Ruellia petiolaris*[ (Nees) T. F. Daniel]
--   *Ruellia salviaefolius*[ (Nees) Lindau]
--   *Ruellia spissa*[ Leonard]
--   *Ruellia tarapotana*[ Lindau]
--   *Ruellia tomentosa*[ (Nees) Lindau]
--   *Ruellia tubiflora*[ H. B. K.]
--   *Ruellia verbasciformis*[ (Nees) C. Ezcurra & Zappi]
--   *Ruellia villosa*[ Lindau]
--   *Ruellia yurimaguensis*[ Lindau]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known Ebracteolate clade subgroups.
-
-Only species that were sampled in Tripp\'s study (in press) are listed.
-
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
+[Erin Tripp](http://www.tolweb.org/) 
 
 Members of the Ebracteolate clade are characterized by having reduced
 structures associated with the inflorescence (Ezcurra 1993). For
@@ -124,9 +131,10 @@ combination in the genus Ruellia (Acanthaceae). Kew Bulletin 51(4):
 Tripp, E. A. Evolutionary relationships within the species-rich genus
 Ruellia (Acanthaceae). Systematic Botany, in press.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](dscn0140.jpg)
+
+![](dscn0140.jpg)
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia mcvaughii T. F. Daniel
@@ -136,7 +144,8 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collector            Tripp & Deregibus
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   -----------------------------------------------------------------------
-![](picture259.jpg)
+
+![](picture259.jpg)
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia tubiflora H. B. K.
@@ -146,7 +155,8 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collector            Tripp & McDade
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   -----------------------------------------------------------------------
-![](dscn0057.jpg)
+
+![](dscn0057.jpg)
 
   -----------------------------------------------------------------------
   Scientific Name ::     Ruellia foetida Willd.
@@ -155,4 +165,4 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Identified By        Erin A. Tripp
   Collector            E. Tripp
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+  -----------------------------------------------------------------------

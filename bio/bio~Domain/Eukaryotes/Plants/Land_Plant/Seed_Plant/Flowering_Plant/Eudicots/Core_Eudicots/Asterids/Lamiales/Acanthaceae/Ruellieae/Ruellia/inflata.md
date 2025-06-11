@@ -2,6 +2,25 @@
 title: Ruellia inflata clade
 ---
 
+# Ruellia inflata  
+
+![Ruellia elegans](inflata/Ruellia_elegans.jpg) 
+![Ruellia inflata](inflata/Ruellia_inflata.jpg) 
+
+
+
+## Introduction
+
+[Erin Tripp](http://www.tolweb.org/) 
+
+The *Ruellia inflata* clade contains species having red or greenish-yellow flowers. 
+Those with the latter have floral morphologies
+suggestive of bat-pollination, though next to nothing is known about their pollination biology.
+
+Members of this group occur in South America, especially in Brazil and Venezuela. 
+Three species in this clade are also scrambling vines or lianas 
+which is an unusual habit in *Ruellia*.
+
 ## Phylogeny 
 
 
@@ -34,57 +53,28 @@ title: Ruellia inflata clade
 
 -   » Sub-Groups 
 
-# Ruellia inflata clade 
+	-   *Ruellia acutangula*[ (Nees) Lindau]
+	-   *Ruellia elegans*[ Poir.]
+	-   *Ruellia eurycodon*[ Lindau]
+	-   *Ruellia exserta*[ Wassh.]
+	-   *Ruellia inflata*[ Rich.]
+	-   *Ruellia steyermarkii*[ Wassh.]
+	-   *Ruellia subsessilis*[ (Mart.) Lindau]
 
-[Erin Tripp](http://www.tolweb.org/)
+## Title Illustrations
 
-![ ](inflata/Ruellia_elegans01404_002.jpg)
-![ ](inflata/ruellia.jpg)
+---------------------------------------------------------------------
+![Ruellia elegans](Ruellia_elegans.jpg)
+Scientific Name ::     Ruellia elegans
+Specimen Condition   Live Specimen
+Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
 
--   *Ruellia acutangula*[ (Nees) Lindau]
--   *Ruellia elegans*[ Poir.]
--   *Ruellia eurycodon*[ Lindau]
--   *Ruellia exserta*[ Wassh.]
--   *Ruellia inflata*[ Rich.]
--   *Ruellia steyermarkii*[ Wassh.]
--   *Ruellia subsessilis*[ (Mart.) Lindau]
+-----------
+![Ruellia inflata](Ruellia_inflata.jpg) 
+Scientific Name ::     Ruellia inflata
+Location ::           Bolivia
+Specimen Condition   Live Specimen
+Collector            John L. Clark
+Copyright ::            © 2002 John L. Clark
 
-Note: this taxon list is still under construction. It does not yet
-contain all known Ruellia inflata clade subgroups.
 
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
-
-The *Ruellia inflata* clade contains species having red or
-greenish-yellow flowers. Those with the latter have floral morphologies
-suggestive of bat-pollination, though next to nothing is known about
-their pollination biology.\
-\
-Members of this group occur in South America, especially in Brazil and
-Venezuela. Three species in this clade are also scrambling vines or
-lianas which is an unusual habit in *Ruellia*.\
-
-### References
-
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
-
-##### Title Illustrations
-
-![](Ruellia_elegans01404.jpg)
-
-  ---------------------------------------------------------------------
-  Scientific Name ::     Ruellia elegans
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
-  ---------------------------------------------------------------------
-![](ruellia_002.jpg)
-
-  -----------
-  Scientific Name ::     Ruellia inflata
-  Location ::           Bolivia
-  Specimen Condition   Live Specimen
-  Collector            John L. Clark
-  Copyright ::            © 2002 John L. Clark
-  -----------

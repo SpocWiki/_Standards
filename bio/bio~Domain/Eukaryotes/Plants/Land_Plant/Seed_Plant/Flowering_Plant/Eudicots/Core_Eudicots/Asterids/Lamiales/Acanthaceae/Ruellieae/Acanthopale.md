@@ -2,6 +2,18 @@
 title: Acanthopale
 ---
 
+# [[Acanthopale]] 
+
+![Acanthopale](Acanthopale/Acanthopale_pollen.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Acanthopale** is a plant genus of shrubs or subshrubs  in the Acanthaceae plant family. 
+> The genus name is based on the classic Greek words for thorn ákantha and stake palum. 
+> Some species in the genus are cultivated as ornamental plants.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acanthopale) 
+
 ## Phylogeny 
 
 
@@ -32,56 +44,23 @@ title: Acanthopale
     -   [Phaulopsis](Phaulopsis.md)
 
 -   » Sub-Groups 
+	-   *Acanthopale albosetulosa*[ C. B. Clarke]
+	-   *Acanthopale azaleoides*[ C. B. Clarke]
+	-   *Acanthopale buchholzii*[ C. B. Clarke]
+	-   *Acanthopale confertiflora*[ C. B. Clarke]
+	-   *Acanothpale decempedalis*[ C. B. Clarke]
+	-   *Acanthopale laxiflora*[ C. B. Clarke]
+	-   *Acanthopale pubescens*[ C. B. Clarke ]
 
-# *Acanthopale* 
 
-[Erin Tripp](http://www.tolweb.org/)
+## Title Illustrations
 
-![ ](Acanthopale/13-apube2640_pollen_002.jpg)
+-----------------------------------------------------------------------
+![Acanthopale_pollen](Acanthopale_pollen.jpg)
+Scientific Name ::     Acanthopale decempedalis C. B. Clarke
+Specimen Condition   Dead Specimen
+Identified By        Erin A. Tripp
+Life Cycle Stage ::     pollen
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
--   *Acanthopale albosetulosa*[ C. B. Clarke]
--   *Acanthopale azaleoides*[ C. B. Clarke]
--   *Acanthopale buchholzii*[ C. B. Clarke]
--   *Acanthopale confertiflora*[ C. B. Clarke]
--   *Acanothpale decempedalis*[ C. B. Clarke]
--   *Acanthopale laxiflora*[ C. B. Clarke]
--   *Acanthopale pubescens*[ C. B. Clarke ]
 
-Note: this taxon list is still under construction. It does not yet
-contain all known *Acanthopale* subgroups.
-
-It contains species treated in the genus by Clarke (1900), and likely
-needs revision.
-
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
-
-Based on phylogenetic analyses (Tripp in press), *Acanthopale* is sister
-to *Ruellia* s. l. with strong support. Little is known about plants in
-this genus, but they seem to be easily differentiated from *Ruellia* by
-their echinate (spiny-like) pollen sculpturing, seen above.
-
-In Flora of Tropical Africa, Clarke (1900) mentioned nine species of
-*Acanthopale* (from Africa, Madagascar, and India) and treated the seven
-African species.\
-
-### References
-
-Clarke, C. B. 1900. Acanthaceae, Vol 5. In: Flora of Tropical Africa
-(ed. W. T. Thiselton-Dyer). Lovell Reeve & Co., London.
-
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
-
-##### Title Illustrations
-
-![](13-apube2640_pollen.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Acanthopale decempedalis C. B. Clarke
-  Specimen Condition   Dead Specimen
-  Identified By        Erin A. Tripp
-  Life Cycle Stage ::     pollen
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------

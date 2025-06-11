@@ -2,41 +2,16 @@
 title: Robinioid clade
 ---
 
-## Phylogeny 
+# [[Robinioid]] 
+
+![Robinia pseudoacacia](Robinioid/Robinia_pseudoacacia.jpg) 
+![Lotus australis](Robinioid/Lotus_australis.jpg) 
+![Sesbania punicea](Robinioid/Sesbania_punicea.jpg) 
 
 
--   « Ancestral Groups  
-    -   [Hologalegina](../Hologalegina.md)
-    -   [Papilionoideae](../../Papilionoideae.md)
-    -   [Fabaceae](../../../Fabaceae.md)
-    -   [Fabales](../../../../Fabales.md)
-    -   [Rosids](../../../../../Rosids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
+## Introduction
 
--   ◊ Sibling Groups of  Hologalegina
-    -   [IRLC (Inverted Repeat-lacking         clade)](IRLC_%28Inverted_Repeat-lacking_clade%29)
-    -   Robinioid clade
-
--   » Sub-Groups 
-
-# Robinioid clade 
-
-[Martin F. Wojciechowski and Bruce Jones](http://www.tolweb.org/)
-
-![ ](Robinioid/83.jpg)
-![ ](Robinioid/84_002.jpg)
-![ ](Robinioid/DSCN0868.jpg)
-
-Containing group: [Hologalegina](../Hologalegina.md)
-
-### Introduction
+[Martin F. Wojciechowski and Bruce Jones](http://www.tolweb.org/) 
 
 Traditional tribes Loteae (including Coronilleae; sensu Polhill, 1994)
 and Robinieae (sensu Lavin and Sousa, 1995) comprise the \"Robinioid
@@ -102,86 +77,50 @@ recircumscribed Robinieae, which includes genera such as *Robinia* L.
 been resolved by recent, comprehensive molecular phylogenetic analyses
 (Lavin et al., 2003).
 
-### References
+## Phylogeny 
 
-Allan, G. J., and J. M. Porter. 2000. Tribal delimitation and
-phylogenetic relationships of Loteae and Coronilleae (Faboideae:
-Fabaceae) with special reference to *Lotus*: evidence from nuclear
-ribosomal ITS sequences. American J. Botany 87: 1871-1881.
+-   « Ancestral Groups  
+    -   [Hologalegina](../Hologalegina.md)
+    -   [Papilionoideae](../../Papilionoideae.md)
+    -   [Fabaceae](../../../Fabaceae.md)
+    -   [Fabales](../../../../Fabales.md)
+    -   [Rosids](../../../../../Rosids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
-Allan, G. J., E. A. Zimmer, W. L. Wagner, and D. D. Sokoloff. 2003.
-Molecular phylogenetic analyses of tribe Loteae (Leguminosae):
-implications for classification and biogeography. Pages 371-393 in
-Advances in legume systematics, part 10, higher level systematics (B.B.
-Klitgaard and A. Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
+-   ◊ Sibling Groups of  Hologalegina
+    -   [IRLC (Inverted Repeat-lacking         clade)](IRLC_%28Inverted_Repeat-lacking_clade%29)
+    -   Robinioid clade
 
-Diez, M. J., and I. K. Ferguson. 1990-1996. Studies of the pollen
-morphology and taxonomy of the tribes Loteae and Coronilleae
-(Leguminosae: Papilionoideae). Part 1. (1990) Lagascalia 16: 77-94; Part
-2. (1994). Review of Palaeobotany and Palynology 81: 233-255; Part 3.
-(1996). Review of Palaeobotany and Palynology 94: 239-257.
+-   » Sub-Groups 
 
-Goormachtig, S., W. Capoen, and M. Holsters. 2004. Rhizobium infection:
-lessons from the versatile nodulation behaviour of water-tolerant
-legumes. Trends in Plant Science 9: 518-522.
 
-Lavin, M., and B. D. Schrire. 2005a. Robinieae. Pages 467-473 in Legumes
-of the world (Lewis et al., eds.). Royal Botanic Gardens, Kew, UK.
+## Title Illustrations
 
-Lavin, M., and B. D. Schrire. 2005b. Sesbanieae. Pages 452-453 in
-Legumes of the world (Lewis et al., eds.). Royal Botanic Gardens, Kew,
-UK.
+-------------------------------------------------------------------------
+![Robinia pseudoacacia](Robinia_pseudoacacia.jpg)
+Scientific Name ::     Robinia pseudoacacia L.
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
-Lavin, M., and M. Sousa. 1995. Phylogenetic systematics and biogeography
-of the tribe Robineae (Leguminosae). Systematic Botany Monographs 45:
-1-165.
+---------------------------
+![Lotus australis](Lotus_australis.jpg)
+Scientific Name ::     Lotus australis Andrews
+Location ::           Land\'s End restoration area, Australia
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Jeff Reid](http://homepages.picknowl.com.au/jreid)
 
-Lavin, M., M. F. Wojciechowski, P. Gasson, C. E. Hughes, and E. Wheeler.
-2003. Phylogeny of robinioid legumes (Fabaceae) revisited: *Coursetia*
-and *Gliricidia* recircumscribed, and a biogeographical appraisal of the
-Caribbean endemics. Systematic Botany 28: 387--409.
+----------------------
+![Sesbania punicea](Sesbania_punicea.jpg)
+Scientific Name ::     Sesbania punicea Benth.
+Location ::           Florida, USA
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Frank Farrugia](mailto:Frank.Farruggia@asu.edu)
 
-Polhill, R. M. 1981. Papilionoideae. Pages 191-208 in Advances in legume
-systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
 
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages
-xxxv-xlviii in Phytochemical Dictionary of the Leguminosae (F.A. Bisby,
-J. Buckingham, and J.B. Harborne, eds.). Chapman and Hall, New York, NY.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American J.
-Botany 91: 1846-1862.
-
-Wojciechowski, M. F., M. J. Sanderson, K. P. Steele, and A. Liston.
-2000. Molecular phylogeny of the "temperate herbaceous tribes" of
-papilionoid legumes: a supertree approach. Pages 277-298 in Advances in
-Legume Systematics, part 9 (P. S. Herendeen and A. Bruneau, eds.). Royal
-Botanic Gardens, Kew, UK.
-
-##### Title Illustrations
-
-![](83_002.jpg)
-
-  -------------------------------------------------------------------------
-  Scientific Name ::     Robinia pseudoacacia L.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
-  -------------------------------------------------------------------------
-![](84.jpg)
-
-  ---------------------------
-  Scientific Name ::     Lotus australis Andrews
-  Location ::           Land\'s End restoration area, Australia
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Jeff Reid](http://homepages.picknowl.com.au/jreid)
-  ---------------------------
-![](DSCN0868_002.jpg)
-
-  ----------------------
-  Scientific Name ::     Sesbania punicea Benth.
-  Location ::           Florida, USA
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Frank Farrugia](mailto:Frank.Farruggia@asu.edu)
-  ----------------------

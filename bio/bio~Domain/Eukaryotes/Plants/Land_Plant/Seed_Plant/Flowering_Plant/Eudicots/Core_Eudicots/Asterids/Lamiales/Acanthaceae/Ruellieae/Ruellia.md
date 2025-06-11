@@ -2,6 +2,34 @@
 title: Ruellia s. l.
 ---
 
+# *Ruellia s. l.* 
+
+![ ](Ruellia/Ruellia_affinis23.jpg)  ![ ](Ruellia/et166b.jpg)  ![](Ruellia/Ruellia_bourgaei1.jpg)  ![ ](Ruellia/ruel.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Ruellia** is a genus of flowering plants commonly known as ruellias or wild petunias. 
+> They are not closely related to petunias (Petunia) 
+> although both genera belong to the same euasterid clade. 
+> The genus was named in honor of Jean Ruelle (1474–1537), 
+> herbalist and physician to Francis I of France and translator of several works of Dioscorides.
+>
+> Numerous formerly independent genera are nowadays considered synonymous with Ruellia, 
+> including Blechum, Eusiphon,  and Ulleria. Acanthopale and Polylychnis are considered a distinct genera.
+>
+> Ruellias are popular ornamental plants. 
+> Some are used as medicinal plants, but many are known or suspected to be poisonous. 
+> Their leaves are food for the caterpillars of several Lepidoptera (butterflies and moths), 
+> typically Nymphalinae and in particular members of their tribe Junoniini, 
+> such as the larvae of the banded peacock (Anartia fatima). 
+> Nymphalinae using Ruellia as host plants include 
+> - the common buckeye (Junonia coenia), recorded on R. nodiflora, 
+> - the lemon pansy (Junonia lemonias), recorded on R. tuberosa, and 
+> - the malachite butterfly (Siproeta stelenes) and Australian lurcher (Yoma sabina), 
+>   which are recorded on several species.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ruellia) 
+
 ## Phylogeny 
 
 
@@ -43,18 +71,11 @@ title: Ruellia s. l.
     -   [Ruellia humilis clade](Ruellia_humilis_clade)
     -   [African Ruellia](African_Ruellia)
 
-# *Ruellia s. l.* 
 
-[Erin Tripp](http://www.tolweb.org/)
 
-![ ](Ruellia/Ruellia_affinis23.jpg)
-![ ](Ruellia/et166b.jpg)
-![](Ruellia/Ruellia_bourgaei1.jpg)
-![ ](Ruellia/ruel.jpg)
+## Introduction
 
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
+[Erin Tripp](http://www.tolweb.org/) 
 
 *Ruellia* is a large genus of ca. 300 species. Mexico and Brazil are
 centers of diversity, but the genus is common elsewhere throughout the
@@ -107,79 +128,45 @@ closely related genera. Published images of these glands can be seen in
 Ezcurra (1993), Daniel (1990), and McDade & Tripp (in press), as well as
 in the above photo. Research is needed to determine the taxonomic
 breadth, morphological diversity, and perhaps functional significance of
-these glands.\
+these glands.
 
-### References
+## Title Illustrations
 
-Daniel, T. F. & T. I. Chuang. 1993. Chromosome numbers of New World
-Acanthaceae. Syst. Bot. 18: 283-289.
 
-Daniel, T. F. and T. I. Chuang. 1998. Chromosome number of cultivated
-Acanthaceae and systematic implications. Pp. 309-330 In: Mathew P.,
-Sivadasan M. (eds.) Diversity and taxonomy of tropical flowering plants.
-Mentor Books. Calicut, India.
+------------------------------------------------------------------------
+![](Ruellia_affinis23.jpg)
+Scientific Name ::     Ruellia affinis Lindau
+Location ::           Duke Greenhouses
+Reference            Duke Greenhouses
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Daniel, T. F. 2004. Acanthaceae of Sonora: Taxonomy and Phytogeography.
-Proc. Cal. Acad. Sci. 55(4): 690-805.
+-----------------------------------------------------------------------
+![](et166b.jpg)
+Scientific Name ::     Ruellia cf. lactea Cav.
+Location ::           Estado de Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp & Tom Daniel
+Collector            Tripp, Acosta, & Blanco
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Ezcurra, C. 1993. Systematics of Ruellia (Acanthaceae) in southern South
-America. Ann. Mo. Bot. Gard. 80: 787-845.
+![](Ruellia_bourgaei1_002.jpg)
+------------------------
+Scientific Name ::     Ruellia bourgaei Hemsl.
+Location ::           Ixtlahuacán del Río, Jalisco, Mexico
+Specimen Condition   Live Specimen
+Identified By        E. Tripp
+Life Cycle Stage ::     Flowering
+Body Part            Flower and Habit
+Collection           Ruellia bourgaei Hemsl.
+Collector            P.C. Reyes
+Copyright ::            © 2001 [Pablo Carrillo Reyes](mailto:crassulaceae@gmail.com)
 
-Grant, W. F. 1955. A cytogenetic study of Acanthaceae of Thailand.
-Brittonia. 8: 121-149.
+------------------------
+![](ruel.jpg)
+Scientific Name ::     Ruellia chartacea (T. Anders.) Wassh.
+Location ::           Vicinity of Jatun Sacha, Napo, Ecuador
+Specimen Condition   Live Specimen
+Identified By        L. A. McDade
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-McDade, L. A. and E. A. Tripp. Synopsis of Costa Rican Ruellia L.
-(Acanthaceae): New species, taxonomic concepts, a country record, range
-extensions, and identification aids to the 22 species known from the
-country. Brittonia, in press.
-
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
-
-Wasshausen, D. C. 2005. Chapter 5.6 Acanthus: Family Acanthaceae. Pp.
-112-114. In: G. A. Krupnick and W. J. Kress (eds.). Plant conservation:
-A natural history approach. University of Chicago Press, Chicago.
-
-##### Title Illustrations
-
-![](Ruellia_affinis23_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::     Ruellia affinis Lindau
-  Location ::           Duke Greenhouses
-  Reference            Duke Greenhouses
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  ------------------------------------------------------------------------
-![](et166b_002.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia cf. lactea Cav.
-  Location ::           Estado de Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp & Tom Daniel
-  Collector            Tripp, Acosta, & Blanco
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](Ruellia_bourgaei1_002.jpg)
-
-  ------------------------
-  Scientific Name ::     Ruellia bourgaei Hemsl.
-  Location ::           Ixtlahuacán del Río, Jalisco, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        E. Tripp
-  Life Cycle Stage ::     Flowering
-  Body Part            Flower and Habit
-  Collection           Ruellia bourgaei Hemsl.
-  Collector            P.C. Reyes
-  Copyright ::            © 2001 [Pablo Carrillo Reyes](mailto:crassulaceae@gmail.com)
-  ------------------------
-![](ruel_002.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Ruellia chartacea (T. Anders.) Wassh.
-  Location ::           Vicinity of Jatun Sacha, Napo, Ecuador
-  Specimen Condition   Live Specimen
-  Identified By        L. A. McDade
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------

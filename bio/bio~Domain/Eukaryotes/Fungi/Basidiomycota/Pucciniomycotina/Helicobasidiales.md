@@ -62,7 +62,7 @@ I. Okabe, and N. Matsumoto. 2002. Genetic relationships among violet
 root rot fungi as revealed by hyphal anastomosis and sequencing of the
 rDNA ITS regions. Mycological Research 106: 156-163.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](HpMLutz_002.jpg)
 

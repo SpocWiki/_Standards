@@ -2,8 +2,17 @@
 title: Gesneriaceae
 ---
 
-## Phylogeny 
+# [[Gesneriaceae]] 
 
+![Neomortonia](Gesneriaceae/neomortonia.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Gesneriaceae**, the gesneriad family, is a family of flowering plants consisting of about 152 genera and ca. 3,540 species in the tropics and subtropics of the Old World (almost all Didymocarpoideae) and the New World (most Gesnerioideae), with a very small number extending to temperate areas. Many species have colorful and showy flowers and are cultivated as ornamental plants.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gesneriaceae) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Lamiales](../Lamiales.md)
@@ -24,23 +33,10 @@ title: Gesneriaceae
 
 -   » Sub-Groups 
 
-# Gesneriaceae 
 
-[James F. Smith](http://www.tolweb.org/)
+## Introduction
 
-![Neomortonia](Gesneriaceae/neomortonia.jpg)
-
-Tree based on ndhF gene sequences (Smith et al. 1997)
-
-Containing group: [Lamiales](../Lamiales.md)
-
-### Information on the Internet
-
--   [Additonal web page links relating to     Gesneriaceae](http://www.aggs.org/links.html)
--   [Annotated Bibliography of the     Gesneriaceae](http://persoon.si.edu/gesneriad/)
--   [Gesneriad Reference Web](http://www.gesneriads.ca/)
-
-### Introduction
+[James F. Smith](http://www.tolweb.org/) 
 
 The Gesneriaceae are a mid-sized to large plant family comprising
 approximately 2500-3500 species in 120-135 genera, distributed primarily
@@ -142,67 +138,13 @@ rbcL gene sequences differs in the placement of the Klugieae, however;
 rather than being the sister of the remainder of the family, this group
 is in its traditional place as a member of the Cyrtandroideae.
 
-### References
+## Title Illustrations
 
-BOGGAN, J. K. 1991. A morphological study and cladistic analysis of
-Sinningia and associated genera with particular reference to
-Lembocarpus, Lietzia, Paliavana, and Vanhouttea (Gesneriaceae:
-Gloxinieae) M. S. thesis, Cornell University, Ithaca, NY.
 
-BURTT, B. L. & H. WIEHLER. 1995. Classification of the family
-Gesneriaceae. Gesneriana 1: 1-4.
-
-CRISCI, J. V., M. M. CIGLIANO, J. J. MORRONE, & S.ROIG-JUÑENT. 1991.
-Historical biogeography of southern South America. Syst. Zool.
-40:152-171.
-
-INNIS, M. A., K. B. MYAMBO, D. H. GELFAND, & M. A. D. BROW. 1988. DNA
-sequencing and direct sequencing of polymerase chain reaction-amplified
-DNA. Proc. Natl. Acad. Sci., USA 85: 9436-9440.
-
-IVANINA, L. I. 1965. Application of the carpological method to the
-taxonomy of Gesneriaceae. Notes Roy. Bot. Gard. Edinburgh. 26: 383-402.
-
-KVIST, L. P. 1990. Revision of Heppiella (Gesneriaceae). Syst. Bot. 15:
-720-735.
-
-SMITH, J. F. 1996. Tribal relationships within the Gesneriaceae: A
-cladistic analysis of morphological data. Syst. Bot. 21: 497-513.
-
-SMITH, J. F. & K. J. SYTSMA. 1994a.Evolution in the Andean epiphytic
-genus Columnea (Gesneriaceae):Part I. morphological variation. Syst.
-Bot. 19: 220-235.
-
-SMITH, J. F. & K. J. SYTSMA. 1994b. Evolution in the Andean epiphytic
-genus Columnea (Gesneriaceae): Part II. chloroplast DNA restriction site
-variation. Syst. Bot. 19: 317-336.
-
-SMITH, J. F. & K. J. SYTSMA. 1994c. Molecules and morphology: congruence
-of data in Columnea (Gesneriaceae). Pl. Syst. Evol. 194: 37-52.
-
-SMITH, J. F., J. C. Wolfram, K. D. Brown, C. L. CARROLL, & D. S. DENTON.
-1997 Tribal relationships in the Gesneriaceae: Evidence from DNA
-sequences of the chloroplast gene. Annals of the Missouri Botanical
-Garden 84: 50-66.
-
-SMITH, J. F., K. D. BROWN, C. L. CARROLL, & D. S. DENTON. 1997. Familial
-placement of Cyrtandromoea, Titanotrichum, and Sanango: Three
-problematic genera of the Lamiales. Taxon 46: (in press).
-
-WANG, W.T., K. PAN, & Z. LI. 1992. Keys to the Gesneriaceae of China.
-Edinburgh J. Bot. 49: 5-74.
-
-WIEHLER, H. 1983. A synopsis of the neotropical Gesneriaceae.Selbyana 6:
-1-249.
-
-##### Title Illustrations
-
-![Neomortonia](neomortonia_002.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Neomortonia
-  Location ::           Peru
-  Comments             This plant demonstrates the long, brightly colored corolla common in the neotropical members of the Gesneriaceae.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu) 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![Neomortonia](neomortonia.jpg)
+Scientific Name ::     Neomortonia
+Location ::           Peru
+Comments             This plant demonstrates the long, brightly colored corolla common in the neotropical members of the Gesneriaceae.
+Specimen Condition   Live Specimen
+Copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu) 

@@ -116,7 +116,7 @@ The \"eocyte tree\":
             `==|
                `== Eukaryotes
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Meloid on a yellow composite flower](meloid_002.gif)
 

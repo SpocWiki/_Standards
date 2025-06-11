@@ -28,7 +28,7 @@ title: Amastigomonas terricola
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Amastigomonas* is distinguished by its size, by the
 lack of any excrescences and by the relatively long anterior flagellum.
@@ -65,7 +65,7 @@ Ekelund, F. and Patterson, D. J. 1997. Some flagellates from a
 cultivated garden soil in Australia. Archiv für Protistenkunde 148:
 461-478.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](famastigot.jpg)
 

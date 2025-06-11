@@ -53,7 +53,7 @@ Containing group: [Zoantharia](Zoantharia.md)
 -   [Neogene Marine Biota of Tropical     America](http://porites.geology.uiowa.edu/index.htm)
 -   [NOAA Coral Health and Monitoring     Program](http://wwww.coral.noaa.gov/)
 
-### Introduction
+## Introduction
 
 The Scleractinia (scler = hard, actinia = ray), or stony star corals,
 are polyp animals that are found exclusively in marine habitats. They
@@ -91,7 +91,7 @@ Marine Science, Townsville. 3 vol.
 
 Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 
-##### Title Illustrations
+## Title Illustrations
 
 -   *Tubastraea micrantha*: A living colony having branches about 2 cm
     in diameter, collected from shallow water off Pelau. Although

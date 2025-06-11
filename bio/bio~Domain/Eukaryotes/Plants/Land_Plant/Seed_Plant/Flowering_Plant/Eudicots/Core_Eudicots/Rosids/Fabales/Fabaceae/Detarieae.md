@@ -4,7 +4,6 @@ title: Detarieae sensu lato
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fabaceae](../Fabaceae.md)
     -   [Fabales](../../Fabales.md)
@@ -27,18 +26,29 @@ title: Detarieae sensu lato
 
 -   » Sub-Groups 
 
-# Detarieae sensu lato 
+# [[Detarieae]] sensu lato 
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/)
+![Brownea macrophylla](Detarieae/Brownea_macrophylla.jpg)  ![Tamarindus indica](Detarieae/Tamarindus_indica.jpg)  ![Crudia glaberrima](Detarieae/Crudia_glaberrima.jpg)  ![Berlinia bruneelii](Detarieae/Berlinia_bruneelii.jpg) 
 
-![ ](Detarieae/FABA-brow-ma-ecu-77521_002.jpg)
-![ ](Detarieae/561.jpg)
-![](Detarieae/FABA-crud-gl-ecu-7626.jpg)
-![ ](Detarieae/65.jpg)
+## #has_/text_of_/abstract 
 
-Containing group: [Fabaceae](../Fabaceae.md)
+> The subfamily Detarioideae is one of the subdivisions of the plant family Fabaceae (legumes). 
+> This subfamily includes many tropical trees, some of which are used for timber or have ecological importance. 
+> 
+> The subfamily consists of 84 genera, most of which are native to Africa and Asia. 
+> Pride of Burma (Amherstia nobilis) and tamarind (Tamarindus indica) 
+> are two of the most notable species in Detarioideae. 
+> 
+> It has the following clade-based definition:
+>
+> The most inclusive crown clade containing Goniorrhachis marginata Taub. and Aphanocalyx cynometroides Oliv., but not Cercis canadensis L., Duparquetia orchidacea Baill., or Bobgunnia fistuloides (Harms) J. H. Kirkbr. & Wiersema.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Detarioideae) 
 
-### Introduction
+
+## Introduction
+
+[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
 
 The Detarieae sens. lat. is pantropical in distribution and consists of
 82 genera and c. 750 species, with the majority of genera confined to
@@ -89,81 +99,31 @@ familiar genera such as *Berlinia, Aphanocalyx, Bikinia*, and
 *Tetraberlinia*. *Tamarindus*, the tamarind-producing plant, is also
 included in Amherstieae.
 
-### References
+## Title Illustrations
 
-Bruneau, A., F. J. Breteler, J. J. Weiringa, G. Y. F. Gervais, and F.
-Forest. 2000. Phylogenetic relationships in tribes Macrolobieae and
-Detarieae as inferred from chloroplast *trnL* intron sequences. Pages
-121-149 in Advances in Legume Systematics, part 9 (P.S. Herendeen and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
+--------------------------
+![Brownea macrophylla](Brownea_macrophylla.jpg)
+Scientific Name ::     Brownea macrophylla L.
+Location ::           Ecuador
+Specimen Condition   Live Specimen
+Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/default.asp)
 
-Bruneau, A., F. Forest, P. S. Herendeen, B. B. Klitgaard, and G. P.
-Lewis. 2001. Phylogenetic relationships in the Caesalpinioideae
-(Leguminosae) as inferred from chloroplast *trnL* intron sequences.
-Systematic Botany 26: 487-514.
+--------------------------
+![Tamarindus indica](Tamarindus_indica.jpg)
+Scientific Name ::     Tamarindus indica L.
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
 
-Cowan, R. S. and R. M. Polhill. 1981. Detarieae. Pages 117-134 in
-Advances in Legume Systematics, part 1 (R. M Polhill and P. H. Raven,
-eds.). Royal Botanic Gardens, Kew, UK.
+-----------------------
+![Crudia glaberrima](Crudia_glaberrima.jpg)
+Scientific Name ::     Crudia glaberrima Macbride
+Location ::           Ecuador
+Specimen Condition   Live Specimen
+Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
-Fougere-Danezan, M., S. Maumont, and A. Bruneau. 2003. Phylogenetic
-relationships in the resin-producing Detarieae inferred from molecular
-data and preliminary results from a biogeographic hypothesis. Pages
-161-180 in Advances in Legume Systematics, part 10, higher level
-systematics (B.B. Klitgaard and A. Bruneau, eds.). Royal Botanic
-Gardens, Kew, UK.
 
-Herendeen, P. S., A. Bruneau, G. P. Lewis. 2003. Phylogenetic
-relationships in caesalpinioid legumes: a preliminary analysis based on
-morphological and molecular data. Pages 37-62 in Advances in Legume
-Systematics, part 10, higher level systematics (B. B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Mackinder, B. 2005. Detarieae. Pages 69-109 Legumes of the world (Lewis,
-G., B. Schrire, B. MacKinder, and M. Lock, eds.). The Royal Botanical
-Gardens, Kew, UK.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages
-xxxv-xlviii in Phytochemical Dictionary of the Leguminosae (F. A. Bisby,
-J. Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New York,
-NY.
-
-Wieringa, J. J., and G. Y. F. Gervais. 2003. Phylogenetic analysis of
-combined morphological and molecular data sets on the
-Aphanocalyx-Bikinia-Tetraberlinia group (Leguminosae, Caesalpinioideae,
-Detarieae s.l.). Pages 181-196 in Advances in Legume Systematics, part
-10, higher level systematics (B. B. Klitgaard and A. Bruneau, eds.).
-Royal Botanic Gardens, Kew, UK.
-
-##### Title Illustrations
-
-![](FABA-brow-ma-ecu-77521.jpg)
-
-  --------------------------
-  Scientific Name ::     Brownea macrophylla L.
-  Location ::           Ecuador
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/default.asp)
-  --------------------------
-![](561_002.jpg)
-
-  --------------------------
-  Scientific Name ::     Tamarindus indica L.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
-  --------------------------
-![](FABA-crud-gl-ecu-7626_002.jpg)
-
-  -----------------------
-  Scientific Name ::     Crudia glaberrima Macbride
-  Location ::           Ecuador
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
-  -----------------------
-![](65_002.jpg)
-
-  --------------------------
-  Scientific Name ::     Berlinia bruneelii (De Wild.) Torr. & Hillc.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm)
-  --------------------------
+--------------------------
+![Berlinia bruneelii](Berlinia_bruneelii.jpg)
+Scientific Name ::     Berlinia bruneelii (De Wild.) Torr. & Hillc.
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm)

@@ -38,7 +38,7 @@ cases, fossil species as well.
 
 Containing group: [Scleractinia](Scleractinia.md)
 
-### Introduction
+## Introduction
 
 Dendrophylliids are known from the Early Cretaceous (about 120 million
 years ago) to the Recent, and are widespread in today\'s oceans from the
@@ -251,7 +251,7 @@ Zibrowius, H. and M. J. Grygier. 1985. Diversity and range of
 scleractinian coral hosts of Ascothoracida (Crustacea: maxillopoda).
 Annals de l\'Institut Océanographique, Paris, 61(2): 115-138.
 
-##### Title Illustrations
+## Title Illustrations
 
 -   *Turbinaria sp.*: A living colony about 1 m in diameter, collected
     from shallow water off Pelau. This is an attached, colonial

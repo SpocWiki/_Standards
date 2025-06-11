@@ -37,7 +37,7 @@ title: Thenaria
 
 Containing group: [Nynantheae](Nynantheae.md)
 
-### Introduction
+## Introduction
 
 Carlgren (1949) writes about the classification of Thenaria:
 
@@ -83,7 +83,7 @@ Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
 
-##### Title Illustrations
+## Title Illustrations
 
 From left to right:
 

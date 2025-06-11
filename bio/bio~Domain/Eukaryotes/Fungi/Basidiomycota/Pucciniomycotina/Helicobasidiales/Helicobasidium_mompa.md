@@ -28,7 +28,7 @@ title: Helicobasidium mompa
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](hm_002.jpg)
 

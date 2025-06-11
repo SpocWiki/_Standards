@@ -1,6 +1,23 @@
 ---
 title: Dyschoriste
+aliases:
+  - snakeherb
+  - Dyschoriste
 ---
+
+# [[Dyschoriste]] 
+
+
+![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg)  ![Dyschoriste_linearis](Dyschoriste/Dyschoriste_linearis.jpg)  ![Dyschoriste](Dyschoriste/dyschoriste.jpg)  ![Dyschoriste linearis](Dyschoriste/Dyschoriste_linearis-B.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Dyschoriste** is a genus of flowering plants in the family Acanthaceae. 
+> It includes 98 species native to the tropics and subtropics of the Americas, sub-Saharan Africa, and southern Asia. 
+> Members of the genus are commonly known as snakeherb.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dyschoriste) 
+
 
 ## Phylogeny 
 
@@ -33,57 +50,44 @@ title: Dyschoriste
 
 -   » Sub-Groups 
 
-# *Dyschoriste* 
+
+## Introduction
 
 [Erin Tripp](http://www.tolweb.org/)
-
-![ ](Dyschoriste/Dyschoriste_Tehuantepec-1_002.jpg)
-![](Dyschoriste/Dyschoristelinearis3333_002.jpg)
-![ ](Dyschoriste/dyschoriste.jpg)
-![](Dyschoriste/Dyschoristelinearis_002.JPG)
-
-*\
-*
-
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
 
 *Dyschoriste* is a pantropical genus of perhaps 50 species. Taxa have
 four, fertile stamens with anther appendages. Several species have a
 region of hyaline tissue between calyx lobes, a trait also found in some
 *Duosperma, Petalidium*, and *Suessenguthia*.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](Dyschoriste_Tehuantepec-1.jpg)
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Dyschoriste hirsutissima (Nees) Kuntze
-  Location ::           Oaxaca, Mexico
-  Specimen Condition   Live Specimen
-  Collector            E. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](Dyschoristelinearis3333.jpg)
+-----------------------------------------------------------------------
+![Dyschoriste_Tehuantepec](Dyschoriste_Tehuantepec.jpg)
+Scientific Name ::     Dyschoriste hirsutissima (Nees) Kuntze
+Location ::           Oaxaca, Mexico
+Specimen Condition   Live Specimen
+Collector            E. Tripp
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  ----------------------------------
-  Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
-  Location ::           Taylor County, Texas
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
-  ----------------------------------
-![](dyschoriste_002.jpg)
+----------------------------------
+![Dyschoristelinearis](Dyschoriste_linearis.jpg)
+Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
+Location ::           Taylor County, Texas
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
 
-  --------------------------
-  Scientific Name ::     Dyschoriste oblongifolia Kuntze
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
-  --------------------------
-![](Dyschoristelinearis.JPG)
+--------------------------
+![dyschoriste](dyschoriste.jpg)
+Scientific Name ::     Dyschoriste oblongifolia Kuntze
+Specimen Condition   Live Specimen
+Copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
 
-  ----------------------------------
-  Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
-  ----------------------------------
+----------------------------------
+![](Dyschoriste_linearis-B.JPG)
+Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
+Specimen Condition   Live Specimen
+Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
+
+

@@ -1,9 +1,12 @@
 ---
 title: Papilionoideae
+aliases:
+  - Faboideae
+  - Papilionaceae
+  - Papilionoideae
 ---
 
 ## Phylogeny 
-
 
 -   « Ancestral Groups  
     -   [Fabaceae](../Fabaceae.md)
@@ -32,23 +35,34 @@ title: Papilionoideae
     -   [Millettioid sensu lato clade](Millettioid_clade)
     -   [Hologalegina](Papilionoideae/Hologalegina.md)
 
-# Papilionoideae 
+# [[Papilionoideae]]  
 
-[Martin F. Wojciechowski](http://www.tolweb.org/)
+![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg) 
+![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg) 
+![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg) 
 
-![ ](Papilionoideae/LasFlores0061.jpg)
-![ ](Papilionoideae/16_002.jpg)
-![](Papilionoideae/caliasecundi.jpg)
+## #has_/text_of_/abstract 
 
-Containing group: [Fabaceae](../Fabaceae.md)
+> The Faboideae are a subfamily of the flowering plant family Fabaceae or Leguminosae. 
+> An acceptable alternative name for the subfamily is **Papilionoideae**, 
+> or Papilionaceae when this group of plants is treated as a family.
+>
+> This subfamily is widely distributed, and members are adapted to a wide variety of environments. 
+> Faboideae may be trees, shrubs, or herbaceous plants. 
+> 
+> Members include the pea, the sweet pea, the laburnum, and other legumes. 
+> The pea-shaped flowers are characteristic of the Faboideae subfamily and root nodulation is very common.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Faboideae) 
 
-### Introduction
+## Introduction
 
-Papilionoideae (the \"papilionoids\"), the largest of the three
-subfamilies of Fabaceae with 476 genera and 13,860 species, is also the
-most diverse and widely distributed, and includes most of the familiar
-domesticated food and forage crops and model genetic/genomic species
-(Gepts et al., 2005).
+[Martin F. Wojciechowski](http://www.tolweb.org/) 
+
+Papilionoideae (the \"papilionoids\"), the largest of the three subfamilies of Fabaceae 
+with 476 genera and 13,860 species, is also the most diverse and widely distributed, 
+and includes most of the familiar domesticated food and forage crops 
+and model genetic/genomic species
 
 ### Characteristics
 
@@ -112,67 +126,29 @@ groups such as the \"basal papilionoid\" groups (including members of
 tribes Swartzieae, Sophoreae, Dalbergieae and Dipterygeae), and the
 Baphioid clade.
 
-### References
+## Title Illustrations
 
-Doyle, J.J., J.L. Doyle, J.A. Ballenger, E.E. Dickson, T. Kajita, and H.
-Ohashi. 1997. A phylogeny of the chloroplast gene *rbcL* in the
-Leguminosae: taxonomic correlations and insights into the evolution of
-nodulation. Amer. J. Bot. 84: 541-554.
+------------------------------------------------------------------------
+![Vigna speciosa](Vigna_speciosa.jpg)
+Scientific Name ::     Vigna speciosa (Kunth) Verdc.
+Location ::           Mesa, Arizona
+Comments             Commonly called Snail Vines.
+Specimen Condition   Live Specimen
+Copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
 
-Doyle, J.J., J.A. Chappill, C.D. Bailey, and T. Kajita. 2000. Towards a
-comprehensive phylogeny of legumes: evidence from *rbcL* sequences and
-non-molecular data. Pages 1-20 in Advances in legume systematics, part
-9, (P. S. Herendeen and A. Bruneau, eds.). Royal Botanic Gardens, Kew,
-UK.
+-----------------------
+![Erythrina amazonica](Erythrina_amazonica.jpg)
+Scientific Name ::     Erythrina amazonica Krukoff
+Location ::           Ecuador
+Specimen Condition   Live Specimen
+Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
-Gepts, P., W.D. Beavis, E.C. Brummer, R.C. Shoemaker, H.T. Stalker, N.F.
-Weeden, and N.D. Young. 2005. Legumes as a model plant family. Genomics
-for food and feed report of the cross-legume advances through genomics
-conference. Plant Physiol. 137: 1228 -- 1235.
+------------------------------------------------------------------------------
+![Calia secundiflora](Calia_secundiflora.jpg)
+Scientific Name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
+Location ::           Arizona State University campus
+Specimen Condition   Live Specimen
+Identified By        M F Wojciechowski
+Copyright ::            © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
 
-Lavin, M., P.S. Herendeen, and M.F. Wojciechowski. 2005. Evolutionary
-rates analysis of Leguminosae implicates a rapid diversification of
-lineages during the Tertiary. Syst. Biol. 54: 530-549.
 
-Pennington, R.T., M. Lavin, H. Ireland, B.B. Klitgaard, and J. Preston.
-2001. Phylogenetic relationships of basal papilionoid legumes based upon
-sequences of the chloroplast trnL intron. Syst. Bot. 26: 537-566.
-
-Polhill, R.M. 1994. Classification of the Leguminosae. Pages
-xxxv--xlviii in Phytochemical dictionary of the Leguminosae (F. A.
-Bisby, J. Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New
-York, NY.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American
-Journal of Botany 91: 1846-1862.
-
-##### Title Illustrations
-
-![](LasFlores0061_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::     Vigna speciosa (Kunth) Verdc.
-  Location ::           Mesa, Arizona
-  Comments             Commonly called Snail Vines.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
-  ------------------------------------------------------------------------
-![](16.jpg)
-
-  -----------------------
-  Scientific Name ::     Erythrina amazonica Krukoff
-  Location ::           Ecuador
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
-  -----------------------
-![](caliasecundi_002.jpg)
-
-  ------------------------------------------------------------------------------
-  Scientific Name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
-  Location ::           Arizona State University campus
-  Specimen Condition   Live Specimen
-  Identified By        M F Wojciechowski
-  Copyright ::            © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
-  ------------------------------------------------------------------------------

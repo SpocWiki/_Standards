@@ -6,9 +6,7 @@ aliases:
 
 # [[Rosales]] 
 
-![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg) 
-![Rosa_davurica](Rosales/Rosa_davurica.jpg) 
-![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
+![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg)  ![Rosa_davurica](Rosales/Rosa_davurica.jpg)  ![Cannabis_sativa](Rosales/Cannabis_sativa.jpg) 
 
 ## #has_/text_of_/abstract 
 

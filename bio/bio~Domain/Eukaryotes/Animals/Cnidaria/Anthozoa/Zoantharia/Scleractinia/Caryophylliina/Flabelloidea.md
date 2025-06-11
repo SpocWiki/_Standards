@@ -36,7 +36,7 @@ Classification from Wells (1956).
 
 Containing group: [Caryophylliina](Caryophylliina.md)
 
-### Introduction
+## Introduction
 
 Representatives of this superfamily occur from the Late Jurassic (135
 million years ago) to the Recent, and are widespread in the world oceans
@@ -105,7 +105,7 @@ Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C. (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
 of Kansas Press, Lawrence.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Truncatoflabellum_truncum_002.jpg)
 

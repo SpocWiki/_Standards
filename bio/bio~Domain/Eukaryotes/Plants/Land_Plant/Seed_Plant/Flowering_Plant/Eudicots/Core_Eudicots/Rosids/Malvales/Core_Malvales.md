@@ -2,8 +2,13 @@
 title: Core Malvales
 ---
 
-## Phylogeny 
+# Core Malvales 
 
+
+![Dombeya](Core_Malvales/Dombeya.jpg)  ![Adansonia_grandidieri](Core_Malvales/Adansonia_grandidieri.jpg)  ![](Core_Malvales/Fremontodendroncalifornicum.jpg) 
+
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Malvales](../Malvales.md)
@@ -22,24 +27,10 @@ title: Core Malvales
 
 -   » Sub-Groups 
 
-# Core Malvales 
 
-[Stacey D. Smith and David A. Baum](http://www.tolweb.org/)
+## Introduction
 
-![Dombeya](Malvales/Dombeya.jpg)
-![](Malvales/Adansonia_grandidieri_002.jpg)
-![](Malvales/Fremontodendroncalifornicum.jpg)
-
-Phylogeny of core Malvales based on Alverson et al. (1999). The rankless
-names for each of the clades are indicated by a forward slash.
-
-Containing group: [Malvales](../Malvales.md)
-
-### Information on the Internet
-
-[Malvaceae Info](http://www.malvaceae.info/)
-
-### Introduction
+[Stacey D. Smith and David A. Baum](http://www.tolweb.org/) 
 
 The core Malvales contains taxa traditionally divided among four
 families, Bombacaceae, Malvaceae, Sterculiaceae and Tiliaceae. Molecular
@@ -94,61 +85,32 @@ marshmallow gets its texture from gelatin and not *Althaea*\'s mucilage,
 powdered *Althaea* root is still commonly used in teas to treat colds
 and sore throats.
 
-### References
+## Title Illustrations
 
-Alverson, W. S., K. G. Karol, D. A. Baum, M. W. Chase, S. M. Swensen, R.
-McCourt, and K. J. Sytsma. 1998. Circumscription of the Malvales and
-relationships to other Rosidae: Evidence from rbcL sequence data.
-American Journal of Botany 85:876-887.
+------------------------------------------------------------------------------
+![Dombeya](Core_Malvales/Dombeya.jpg)
+Scientific Name ::     Dombeya
+Location ::           Ranomafana National Park (Madagascar)
+Comments             /Dombeyoideae
+Creator              Photograph by Gerald and Buff Corsi
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
-Baum, D. A. 1995. The comparative pollination and floral biology of
-baobabs (Adansonia- Bombacaceae). Annals of the Missouri Botanical
-Garden 82(2):322-348.
+---------------------------------------------------------------------
+![](Core_Malvales/Adansonia_grandidieri.jpg)
+Scientific Name ::     Adansonia gibbosa, Agrius convolvuli
+Comments             Adansonia gibbosa (/Bombacoideae) flower visited by the hawkmoth Agrius convolvuli.
+Reference            From Baum, D. A. 1995. The comparative pollination and floral biology of baobabs (Adansonia- Bombacaceae). Annals of the Missouri Botanical Garden 82(2):322-348.
+Creator              Photograph by David Baum
+Specimen Condition   Live Specimen
+Copyright ::            © 1995 Missouri Botanical Garden Press 
 
-Baum, D. A., W. A. Alverson, and R. Nyffeler. 1998. A Durian by any
-other name: Taxonomy and nomenclature of the core Malvales. Harvard
-Papers in Botany 3:315-330.
-
-Bayer, C., M. F. Fay, A. Y. De Bruijn, V. Savolainen, C. M. Morton, K.
-Kubitzki, W. S. Alverson, and M. W. Chase. 1999. Support for an expanded
-family concept of Malvaceae with a recircumscribed order Malvales: a
-combined analysis of plastid atpB and rbcL DNA sequences. Botanical
-Journal of the Linnean Society 129:267-303.
-
-Judd, W. S., C. S. Campbell, E. A. Kellogg, and P. F. Stevens. 1999.
-Plant Systematics: A Phylogenetic Approach. Sinauer, Sunderland,
-Massachusetts.
-
-##### Title Illustrations
-
-![Dombeya](Dombeya_002.jpg)
-
-  ------------------------------------------------------------------------------
-  Scientific Name ::     Dombeya
-  Location ::           Ranomafana National Park (Madagascar)
-  Comments             /Dombeyoideae
-  Creator              Photograph by Gerald and Buff Corsi
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
-  ------------------------------------------------------------------------------
-![](Adansonia_grandidieri.jpg)
-
-  ---------------------------------------------------------------------
-  Scientific Name ::     Adansonia gibbosa, Agrius convolvuli
-  Comments             Adansonia gibbosa (/Bombacoideae) flower visited by the hawkmoth Agrius convolvuli.
-  Reference            From Baum, D. A. 1995. The comparative pollination and floral biology of baobabs (Adansonia- Bombacaceae). Annals of the Missouri Botanical Garden 82(2):322-348.
-  Creator              Photograph by David Baum
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1995 Missouri Botanical Garden Press 
-  ---------------------------------------------------------------------
-![Pine Hill Fremontia](Fremontodendroncalifornicum_002.jpg)
-
-  ---------------------------------
-  Scientific Name ::    Fremontodendron californicum ssp. decumbens
-  Location ::          Pine Hill (El Dorado County, California, USA)
-  Comments            Pine Hill Fremontia (/Malvoideae)
-  Creator             Photograph by G. F. Hrusa
-  Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)
-  ---------------------------------
+---------------------------------
+![Pine Hill Fremontia](Core_Malvales/Fremontodendroncalifornicum.jpg)
+Scientific Name ::    Fremontodendron californicum ssp. decumbens
+Location ::          Pine Hill (El Dorado County, California, USA)
+Comments            Pine Hill Fremontia (/Malvoideae)
+Creator             Photograph by G. F. Hrusa
+Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)

@@ -2,8 +2,20 @@
 title: Ruellieae
 ---
 
-## Phylogeny 
+# [[Ruellieae]] 
 
+![ ](Ruellieae/Eremomastaxpolysperma.jpg)
+![Ruellieae](Ruellieae/ruel.jpg) 
+![Blechum_pyramidatum](Ruellieae/Blechum_pyramidatum.jpg) 
+![Bravasia_integerrima](Ruellieae/Bravasia_integerrima.jpg) 
+
+## #has_/text_of_/abstract 
+
+> Acanthoideae is a subfamily of plants in the family Acanthaceae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acanthoideae) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Acanthaceae](../Acanthaceae.md)
@@ -34,24 +46,10 @@ title: Ruellieae
     -   [Dyschoriste](Ruellieae/Dyschoriste.md)
     -   [Phaulopsis](Ruellieae/Phaulopsis.md)
 
-# Ruellieae 
+
+## Introduction
 
 [Erin Tripp](http://www.tolweb.org/)
-
-![ ](Ruellieae/Eremomastaxpolysperma.jpg)
-![ ](Ruellieae/ruel_002.jpg)
-![](Ruellieae/Blechum_pyramidatum_T_87A84-1_002.jpg)
-![](Ruellieae/Bravasia_integerrima.jpg)
-
-This tree is preliminary and is based on research in progress by Erin
-Tripp.  It only includes 21 of 48 genera placed in this lineage by
-Scotland & Vollesen (2000).  The remaining genera are:
-
-*Trichosanchezia, Zygoruellia.*
-
-Containing group: [Acanthaceae](../Acanthaceae.md)
-
-### Introduction
 
 The Ruellieae lineage consists of some 750+ species (ca. 50 genera) that
 are distributed throughout the tropics, New and Old World, and also
@@ -82,38 +80,34 @@ known about evolutionary relationships within Ruellieae. Additional
 research will improve our understanding of this species-rich and
 morphologically diverse lineage.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](Eremomastaxpolysperma_002.jpg)
 
-  ---------------------------------------------------
-  Scientific Name ::     Eremomastax polysperma (Benth.) Dandy
-  Location ::           Jardin Botanique de Lyon
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Gaïa du Rivau](http://www.jardin-botanique-lyon.com/jbot/sections/fr/les_plantes_du_jardi/le_coin_des_artistes/zoom/photos_de_gaia_du_ri/)
-  ---------------------------------------------------
-![](Ruellieae/Ruellia/ruel.jpg)
+---------------------------------------------------
+![](Eremomastaxpolysperma.jpg)
+Scientific Name ::     Eremomastax polysperma (Benth.) Dandy
+Location ::           Jardin Botanique de Lyon
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Gaïa du Rivau](http://www.jardin-botanique-lyon.com/jbot/sections/fr/les_plantes_du_jardi/le_coin_des_artistes/zoom/photos_de_gaia_du_ri/)
 
-  -----------
-  Scientific Name ::     Ruellia inflata
-  Location ::           Bolivia
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2002 John L. Clark
-  -----------
-![](Blechum_pyramidatum_T_87A84-1.jpg)
+-----------
+![](Ruellieae/Ruellia/ruel.jpg)
+Scientific Name ::     Ruellia inflata
+Location ::           Bolivia
+Specimen Condition   Live Specimen
+Copyright ::            © 2002 John L. Clark
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
-  Location ::           Tabasco, Mexico
-  Specimen Condition   Live Specimen
-  Collector            E. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](Ruellieae/Bravaisia/Bravasia_integerrima_002.jpg)
+-----------------------------------------------------------------------
+![Blechum_pyramidatum](Blechum_pyramidatum.jpg)
+Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
+Location ::           Tabasco, Mexico
+Specimen Condition   Live Specimen
+Collector            E. Tripp
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Bravaisia integerrima Standl.
-  Location ::           La Selva, Costa Rica
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+![](Ruellieae/Bravaisia/Bravasia_integerrima.jpg)
+Scientific Name ::     Bravaisia integerrima Standl.
+Location ::           La Selva, Costa Rica
+Specimen Condition   Live Specimen
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 

@@ -34,7 +34,7 @@ superfamilies contain both fossil and Recent taxa.
 
 Containing group: [Scleractinia](Scleractinia.md)
 
-### Introduction
+## Introduction
 
 The caryophylliines are known from the early Jurassic (180 million years
 ago) to the Recent, and occur in most marine environments to a depth of
@@ -132,7 +132,7 @@ Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
 of Kansas Press, Lawrence.
 
-##### Title Illustrations
+## Title Illustrations
 
 Left to right:
 

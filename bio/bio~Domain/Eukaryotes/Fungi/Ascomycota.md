@@ -77,7 +77,7 @@ Containing group: [Fungi](Eukaryotes/Fungi.md)
 -   [Home of the     Xylariaceae](http://mycology.sinica.edu.tw/Xylariaceae/). Washington
     State University.
 
-### Introduction
+## Introduction
 
 The Ascomycota, or sac fungi, is monophyletic and accounts for
 approximately 75% of all described fungi. It includes most of the fungi
@@ -431,7 +431,7 @@ ascosporogenesis in Ascobolus immersus. Mycologia 84:459-466.
 
 edit internet links
 
-##### Title Illustrations
+## Title Illustrations
 
 
 ![](t.gif)

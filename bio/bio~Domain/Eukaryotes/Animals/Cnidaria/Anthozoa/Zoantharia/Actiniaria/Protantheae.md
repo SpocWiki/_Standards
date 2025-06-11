@@ -32,7 +32,7 @@ title: Protantheae
 
 Containing group: [Actiniaria](Actiniaria.md)
 
-### Introduction
+## Introduction
 
 Carlgren\'s catalog (1949) recognized one family of Protantheae, the
 Gonactiniidae, containing the two genera Protanthea and Gonactinia.
@@ -63,7 +63,7 @@ Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
 
-##### Title Illustrations
+## Title Illustrations
 
 Protanthea simplex.\
 Oban (Scotland) taken in Lock Melfort, Scotland.\

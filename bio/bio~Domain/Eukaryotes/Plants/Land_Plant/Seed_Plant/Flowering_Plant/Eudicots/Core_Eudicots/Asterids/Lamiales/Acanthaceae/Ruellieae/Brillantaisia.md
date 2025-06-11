@@ -2,6 +2,25 @@
 title: Brillantaisia
 ---
 
+# [[Brillantaisia]] 
+
+
+![Brillantasia_nyanzarum](Brillantaisia/Brillantasia_nyanzarum.jpg)  ![](Brillantaisia/Brillantasiaowariensis.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Brillantaisia** is a genus of plants in the family Acanthaceae. 
+> They are native to the African tropics and subtropics, including Madagascar. 
+> They may grow from 20 cm to 2 m in height. 
+> Their hirsute stems are square in cross-section 
+> and their heart-shaped leaves have an opposite arrangement. 
+> 
+> Their purple or white pea-like flowers produce long, cigar-shaped seed pods. 
+> They reproduce easily from seeds or vegetatively. 
+> One species, B. lamium, is invasive in Queensland.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Brillantaisia)
+
 ## Phylogeny 
 
 
@@ -33,16 +52,10 @@ title: Brillantaisia
 
 -   » Sub-Groups 
 
-# *Brillantaisia* 
+
+## Introduction
 
 [Erin Tripp](http://www.tolweb.org/)
-
-![ ](Brillantaisia/Brillantasia_nyanzarum3.jpg)
-![](Brillantaisia/Brillantasiaowariensis.jpg)
-
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
 
 The genus *Brillantaisia* contains ca. 20 species distributed in
 tropical Africa and Madagascar. Species are large herbs with prominent,
@@ -57,37 +70,19 @@ stamens (and two staminodes), like other genera in Ruellieae (e.g.
 inward folding of portions of the corolla (Manktelow 2000). This
 morphology probably aids in the floral movement mechcanism.
 
-### References
+## Title Illustrations
 
-Kullenberg, B. 1955. Quelques observations sur les Apides en Côte
-d'Ivoire faites en août 1954. Bull. Inst. Français d'Afrique Noire.
-Série A. 17A(4): 1125-1131.
 
-Manktelow, M. 2000. The filament curtain: a structure important to
-systematics and pollination biology in the Acanthaceae. Bot. Journ.
-Linn. Soc. 133: 129-160.
+------------------------------------------------------------------------
+![Brillantasia_nyanzarum](Brillantasia_nyanzarum.jpg)
+Scientific Name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
+Location ::           Greenhouse, Duke University
+Specimen Condition   Live Specimen
+Identified By        E. A. Tripp
+Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Sidwell, K.J. 1998. A revision of Brillantaisia (Acanthaceae). Bull.
-Nat. Hist. Museum, Botany Series. 28: 67-113.
-
-Sidwell, K.J. Unpublished MS. Notes on the Pollination biology of
-Brillantaisia P. Beauv. (Acanthaceae).
-
-##### Title Illustrations
-
-![](Brillantasia_nyanzarum3_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
-  Location ::           Greenhouse, Duke University
-  Specimen Condition   Live Specimen
-  Identified By        E. A. Tripp
-  Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  ------------------------------------------------------------------------
-![](Brillantasiaowariensis_002.jpg)
-
-  -------------------------------------
-  Scientific Name ::     Brillantaisia owariensis P. Beauv.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html)
-  -------------------------------------
+-------------------------------------
+![](Brillantasiaowariensis.jpg)
+Scientific Name ::     Brillantaisia owariensis P. Beauv.
+Specimen Condition   Live Specimen
+Copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html)

@@ -32,7 +32,7 @@ title: Helicobasidium purpureum
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](hp.jpg)
 

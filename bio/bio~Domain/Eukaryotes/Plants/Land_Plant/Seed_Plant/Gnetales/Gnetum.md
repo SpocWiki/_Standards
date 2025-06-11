@@ -83,7 +83,7 @@ Price, R. A. 1996. Systematics of the Gnetales: a review of
 morphological and molecular evidence. International Journal of Plant
 Sciences157(6, Suppl.): S40-S49.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Gnetum_gnemon.jpg)
 

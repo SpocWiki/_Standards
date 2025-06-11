@@ -54,7 +54,7 @@ title: Edwardsiidae
 
 Containing group: [Athenaria](Athenaria.md)
 
-### Introduction
+## Introduction
 
 Carlgren (1949) referred Halcampogeton and Synhalcampella, which
 previously had been placed in the Halcampoididae to the Edwardsiidae
@@ -78,7 +78,7 @@ Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
 
-##### Title Illustrations
+## Title Illustrations
 
 Nematostella vectensis with egg masses.\
 Photo copyright © 2000, Ron Ates.\

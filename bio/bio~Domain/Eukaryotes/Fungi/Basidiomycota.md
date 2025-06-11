@@ -53,7 +53,7 @@ Containing group: [Fungi](Eukaryotes/Fungi.md)
 -   [AFTOL: Assembling the Fungal Tree of     Life](http://ocid.nacse.org/research/aftol/). Collaborative research
     in fungal phylogenetics.
 
-### Introduction
+## Introduction
 
 The Basidiomycota contains about 30,000 described species, which is 37%
 of the described species of true Fungi (Kirk et al. 2001). The most
@@ -411,7 +411,7 @@ Columbia University Press, New York.
 Yoon, K.S. and McLaughlin, D.J. 1986. Basidiosporogenesis in Boletus
 rubinellus II. Late spore development. Mycologia 78: 185-197.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Spore producing structures of the cedar-apple rust fungus on an apple leaf](Gymnosporangium.jpg)
 

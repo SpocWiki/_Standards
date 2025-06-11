@@ -2,6 +2,19 @@
 title: Blepharis
 ---
 
+# [[Blepharis]] 
+
+![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg)  ![Blepharis](Blepharis/blepharis_copy.jpg)  ![ ](Blepharis/blepharis1_002.jpg) 
+ ![](Blepharis/Blepharis_longispica.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Blepharis** is a genus of plant in family Acanthaceae. It contains around 128 species found in seasonally dry to arid habitats from Africa through Arabia to Southeast Asia. In section Acanthodium, there are 13–15 species that use the C4 carbon fixation pathway. Phylogenetic analysis suggests that this pathway evolved up to three times independently in the genus over the last five million years.
+>
+> The genus is named after the Greek word βλεφαριϛ, which means eyelash. Missouri Botanical Garden
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Blepharis) 
+
 ## Phylogeny 
 
 
@@ -33,42 +46,25 @@ title: Blepharis
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	-   *Blepharis acuminata* [ Oberm.]
+	-   *Blepharis asteracanthus* [ C. B. Clarke]
+	-   *Blepharis buchneri* [ Lindau]
+	-   *Blepharis calcitrapa* [ Benoist]
+	-   *Blepharis diversipina*[ (Nees) C. B. Clarke]
+	-   *Blepharis edulis*[ (Forssk.) Pers.]
+	-   *Blepharis integrifolia*[ (L.f.) E. Mey. ex Schinz]
+	-   *Blepharis katangensis* [ De Wild.]
+	-   *Blepharis maderaspatensis* [ (L.) Roth.]
+	-   *Blepharis natalensis* [ Oberm.]
+	-   *Blepharis sinuata*[ (Nees) C. B. Clarke]
+	-   *Blepharis subvolubilis* [ C. B. Clarke]
+	-   *Blepharis tenuiramea* [ S. Moore]
+	-   *Blepharis trispina* [ Napper]
 
-# *Blepharis* 
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+## Introduction
 
-![ ](Blepharis/Blepharisprostrata1_002.jpg)
-![](Blepharis/blepharis3copy_002.jpg)
-![ ](Blepharis/blepharis1_002.jpg)
-![](Blepharis/blephariscopy23.jpg)
-
--   *Blepharis acuminata* [ Oberm.]
--   *Blepharis asteracanthus* [ C. B. Clarke]
--   *Blepharis buchneri* [ Lindau]
--   *Blepharis calcitrapa* [ Benoist]
--   *Blepharis diversipina*[ (Nees) C. B. Clarke]
--   *Blepharis edulis*[ (Forssk.) Pers.]
--   *Blepharis integrifolia*[ (L.f.) E. Mey. ex Schinz]
--   *Blepharis katangensis* [ De Wild.]
--   *Blepharis maderaspatensis* [ (L.) Roth.]
--   *Blepharis natalensis* [ Oberm.]
--   *Blepharis sinuata*[ (Nees) C. B. Clarke]
--   *Blepharis subvolubilis* [ C. B. Clarke]
--   *Blepharis tenuiramea* [ S. Moore]
--   *Blepharis trispina* [ Napper]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known *Blepharis* subgroups.
-
-The list above includes only taxa that were sampled by McDade et al.
-(2005).  There are many other species of *Blepharis* as treated by
-Vollesen (2000); these likely belong to this clade but this needs to be
-confirmed with further study.
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 *Blepharis* is the largest genus of Acantheae in the Old World; it was
 recently monographed by Vollesen (2000) as containing 129 species. 
@@ -99,53 +95,42 @@ synapomorphies that we have been able to identify.  It is interesting in
 this context that Vollesen suggested that *Acanthodium* is the least
 advanced of the two subgenera.\
 
-### References
 
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
+## Title Illustrations
 
-Vollesen, K. 2000. Blepharis (Acanthaceae): a taxonomic revision. Kew:
-Royal Botanic Gardens.
 
-##### Title Illustrations
+---------------------------------------------------------------------------
+![Blepharis prostrata](Blepharis_prostrata.jpg)
+Scientific Name ::     Blepharis sinuata (Nees) C.B Clarke, McDade & Dold
+Location ::           South Africa
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-![](Blepharisprostrata1.jpg)
+---------------------------------------------------------------------------
+![blepharis3copy](blepharis_copy.jpg)
+Scientific Name ::     Blepharis natalensis Oberm.
+Location ::           Kwazulu-Natal, near Weenen, South Africa
+Specimen Condition   Live Specimen
+Identified By        K. Balkwill
+Collection           J
+Collector            K. Balkwill et al.
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Blepharis sinuata (Nees) C.B Clarke, McDade & Dold
-  Location ::           South Africa
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](blepharis3copy.jpg)
+---------------------------------------------------------------------------
+![Blepharis Juss](Blepharis_Juss.jpg) 
+Scientific Name ::     Blepharis Juss.
+Location ::           Davenham, South Africa
+Specimen Condition   Live Specimen
+Collection           J
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Blepharis natalensis Oberm.
-  Location ::           Kwazulu-Natal, near Weenen, South Africa
-  Specimen Condition   Live Specimen
-  Identified By        K. Balkwill
-  Collection           J
-  Collector            K. Balkwill et al.
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](blepharis1.jpg)
+---------------------------------------------------------------------------
+![Blepharis longispica](Blepharis/Blepharis_longispica.jpg) 
+Scientific Name ::     Blepharis longispica C.B. Clarke
+Location ::           Kwazulu-Natal, Green Fram, South Africa
+Specimen Condition   Live Specimen
+Collection           J
+Collector            K. Balkwill et al
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Blepharis Juss.
-  Location ::           Davenham, South Africa
-  Specimen Condition   Live Specimen
-  Collection           J
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](blephariscopy23_002.jpg)
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Blepharis longispica C.B. Clarke
-  Location ::           Kwazulu-Natal, Green Fram, South Africa
-  Specimen Condition   Live Specimen
-  Collection           J
-  Collector            K. Balkwill et al
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------

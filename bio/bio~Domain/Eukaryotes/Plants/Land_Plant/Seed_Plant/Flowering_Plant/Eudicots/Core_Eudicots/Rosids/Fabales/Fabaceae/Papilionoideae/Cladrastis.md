@@ -4,7 +4,6 @@ title: Cladrastis clade
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Papilionoideae](../Papilionoideae.md)
     -   [Fabaceae](../../Fabaceae.md)
@@ -28,17 +27,40 @@ title: Cladrastis clade
 
 -   » Sub-Groups 
 
-# Cladrastis clade 
+# [[Cladrastis]] 
 
-[Martin F. Wojciechowski](http://www.tolweb.org/)
+![Cladrastis kentukea](Cladrastis/Cladrastis_kentukea.jpg) 
+![Styphnolobium japonicum](Cladrastis/Styphnolobium_japonicum.jpg) 
+![Pickeringia montana](Cladrastis/Pickeringia_montana.jpg) 
 
-![ ](Cladrastis/38_002.jpg)
-![ ](Cladrastis/39.jpg)
-![ ](Cladrastis/371_002.jpg)
+## #has_/text_of_/abstract 
 
-Containing group: [Papilionoideae](../Papilionoideae.md)
+> **Cladrastis** (yellowwood) is a genus of flowering plants in the family Fabaceae. 
+> It includes four species, three native to eastern Asia and one to southeastern North America.
+>
+> Species of Cladrastis are small to medium-sized deciduous trees 
+> typically growing 10–20 m tall, exceptionally to 27 m tall. 
+> The leaves are compound pinnate, with 5–17 alternately arranged leaflets. 
+> The flowers are fragrant, white or pink, produced in racemes or panicles 15–40 cm long. 
+> The fruit is a pod 3–8 cm long, containing one to six seeds.
+>
+> Cladrastis is related to the genus Maackia, 
+> from which it differs in having the buds concealed in the leaf base, 
+> and in the leaflets being arranged alternately on the leaf rachis, not in opposite pairs. 
+> 
+> The genus name derives from the Greek klados, branch, and thraustos, fragile, 
+> referring to the brittle nature of the twigs.  
+> 
+> The combination of Cladrastis, Pickeringia and Styphnolobium form a monophyletic 
+> clade known as the Cladrastis clade; 
+> as the other two originated from within Cladrastis, Cladrastis is paraphyletic.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cladrastis) 
 
-### Introduction
+
+## Introduction
+
+[Martin F. Wojciechowski](http://www.tolweb.org/) 
 
 Tribe Sophoreae has been considered a \"tribe of convenience\" to
 include the heterogenous assemblage of genera within Papilionoideae that
@@ -101,102 +123,29 @@ similar alkaloids in *Cladrastis* and *Styphnolobium* (Kite and
 Pennington, 2003), a finding consistent with the molecular data showing
 a close phylogenetic relationship between these three genera.
 
-### References
 
-Chappill, J. A. 1995. Cladistic analysis of the Leguminosae: development
-of an explicit hypothesis. Pages 1-9 in Advances in Legume Systematics,
-part 7, phylogeny (W.D. Crisp and J.J. Doyle, eds.). Royal Botanic
-Gardens, Kew, UK.
+## Title Illustrations
 
-Doyle, J. J., J. L. Balinger, E. E. Dickson, T. Kajita, and H. Ohashi.
-1997. A phylogeny of the chloroplast gene *rbcL* in the Leguminosae:
-taxonomic correlations and insights into the evolution of nodulation.
-American J. Botany 84: 541-554.
+-----------------------
+![Cladrastis kentukea](Cladrastis_kentukea.jpg)
+Scientific Name ::     Cladrastis kentukea (Dum.-Cours.) Rudd
+Location ::           Ithaca, NY, Cornell University Plantations
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Kevin C. Nixon](http://www.plantsystematics.org/)
 
-Duley, M. L., and M. A. Vincent. 2003. A synopsis of the genus
-*Cladrastis* (Leguminosae). Rhodora 105: 205-239.
+------------------------
+![Styphnolobium japonicum](Styphnolobium_japonicum.jpg)
+Scientific Name ::     Styphnolobium japonicum (L.) Schott
+Comments             Commonly called Japanese Pagodatree or Scholar-tree.
+Specimen Condition   Live Specimen
+Copyright ::            © [Mark Brand](http://www.hort.uconn.edu/plants/index.html)
 
-Ferguson, I. K., B. D. Schrire, and R. Shepperton. 1994. Pollen
-morphology of the tribe Sophoreae and relationships between subfamilies
-Caesalpinioideae and Papilionoideae. Pages 53-96 in Advances in Legume
-Systematics, part 6, structural botany (I. K. Ferguson and S. C. Tucker,
-eds.). Royal Botanic Gardens, Kew, UK.
+------------------------
+![Pickeringia montana](Pickeringia_montana.jpg)
+Scientific Name ::     Pickeringia montana var. tomentosa
+Comments             Commonly called Chaparral Pea.
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1996 [Christopher L. Christie](mailto:refugee2000@qwest.net)
 
-Herendeen, P. S. 1992. The fossil history of Leguminosae from the Eocene
-of southeastern North America. Pages 85-160 in Advances in Legume
-Systematics, part 4, the fossil record (Herendeen, P.S., and D.L.
-Dilcher, eds.). Royal Botanic Gardens, Kew, UK.
 
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and Allies. Systematic Botany 26: 515-536.
-
-Kite, G. C., and R. T. Pennington. 2003. Quinolizidine alkaloid status
-of *Styphnolobium* and *Cladrastis* (Leguminosae). Biochemical
-Systematics and Ecology 31: 1409-1416.
-
-Lavin, M., P. S. Herendeen, and M. F. Wojciechowski. 2005. Evolutionary
-rates analysis of Leguminosae implicates a rapid diversification of
-lineages during the Tertiary. Syst. Biol. 54: 530-549.
-
-Pennington, R. T., M. Lavin, H. Ireland, B. Klitgaard, J. Preston, and
-J.-M. Hu. 2001. Phylogenetic relationships of basal papilionoid legumes
-based upon sequence of the chloroplast *trnL* intron. Systematic Botany
-26: 537-556.
-
-Pennington, R. T., C. H. Stirton, and B. D. Schrire. 2005. Sophoreae.
-Pages 227-249 in Legumes of the World (Lewis et al., eds.). Royal
-Botanic Gardens, Kew, UK.
-
-Polhill, R. M. 1981. Sophoreae. Pages 213-230 in Advances in legume
-systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages xxxv --
-xlviii in Phytochemical dictionary of the Leguminosae (F. A. Bisby, J.
-Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New York, NY.
-
-Raven, R. H., and D. I. Axelrod. 1995. Origin and relationships of the
-California flora. California Native Plant Society, Sacramento,
-California, USA.
-
-Sousa, M., and V. E. Rudd. 1993. Revision del genero *Styphnolobium*
-(Leguminosae: Papilionoideae: Sophoreae). Annals of the Missouri
-Botanical Garden 80: 270-283.
-
-Turner, B. L. 1981. Thermopsideae. Pages 403-407 in Advances in Legume
-Systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. Am. J. Bot.
-91: 1846-1862.
-
-##### Title Illustrations
-
-![](38.jpg)
-
-  -----------------------
-  Scientific Name ::     Cladrastis kentukea (Dum.-Cours.) Rudd
-  Location ::           Ithaca, NY, Cornell University Plantations
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Kevin C. Nixon](http://www.plantsystematics.org/)
-  -----------------------
-![](39_002.jpg)
-
-  ------------------------
-  Scientific Name ::     Styphnolobium japonicum (L.) Schott
-  Comments             Commonly called Japanese Pagodatree or Scholar-tree.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Mark Brand](http://www.hort.uconn.edu/plants/index.html)
-  ------------------------
-![](371.jpg)
-
-  ------------------------
-  Scientific Name ::     Pickeringia montana var. tomentosa
-  Comments             Commonly called Chaparral Pea.
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1996 [Christopher L. Christie](mailto:refugee2000@qwest.net)
-  ------------------------

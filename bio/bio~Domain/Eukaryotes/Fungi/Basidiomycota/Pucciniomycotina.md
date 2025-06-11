@@ -51,7 +51,7 @@ Containing group: [Basidiomycota](Basidiomycota.md)
     A short description of the historical importance of Microbotryum
     violaceum
 
-### Introduction
+## Introduction
 
 Members of the class Urediniomycetes are remarkably diverse, possessing
 a wide range of structural and ecological characters. One characteristic
@@ -93,7 +93,7 @@ For a more thorough overview of the class Urediniomycetes, see Swann et
 al. (2001); see Fell et al. (2001) for additional details of
 urediniomycetous yeasts.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Eo-MIN864444_002.jpg)
 

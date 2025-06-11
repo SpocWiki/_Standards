@@ -2,6 +2,24 @@
 title: Ruellia inundata clade
 ---
 
+# Ruellia inundata  
+
+![Ruellia standleyi](inundata/Ruellia_standleyi.jpg)  ![Ruellia paniculata](inundata/Ruellia_paniculata.jpg)  ![Ruellia inundata](inundata/Ruellia_inundata.jpg)  ![Ruellia galeottii](inundata/Ruellia_galeottii.jpg) 
+
+## Introduction
+
+[Erin Tripp](http://www.tolweb.org/)
+
+Species in the *Ruellia inundata* clade exhibit a disjunct distribution:
+some occur in Mexico and Central America, while others occur in Brazil
+and Ecuador.  All inhabit forests or habitats that experience
+seasonality, i. e., a dry season. Some species in this clade are
+characterized by having clavate fruits with external, maroon splotches.
+Many have a very pungent, vegetative odor. This clade is well supported
+by molecular data (Tripp, in press), and provides an excellent example
+of the floral diversity that is seen even between very closely related
+species in *Ruellia*.
+
 ## Phylogeny 
 
 
@@ -34,79 +52,45 @@ title: Ruellia inundata clade
 
 -   » Sub-Groups 
 
-# Ruellia inundata clade 
+	-   *Ruellia asperula*[ Lindau]
+	-   *Ruellia floribunda*[ Hook.]
+	-   *Ruellia galeottii*[ Leonard]
+	-   *Ruellia inundata*[ H. B. K.]
+	-   *Ruellia paniculata*[ L.]
+	-   *Ruellia standleyi*[ Leonard]
 
-[Erin Tripp](http://www.tolweb.org/)
+## Title Illustrations
 
-![ ](inundata/ruellia.jpg)
-![](inundata/Ruellia_paniculata_Tripp122_002.jpg)
-![](inundata/picture026_002.jpg)
-![ ](inundata/dscn00811.jpg)
+------------------------------------------------------------------------
+![Ruellia standleyi](Ruellia_standleyi.jpg) 
+Scientific Name ::     Ruellia standleyi Leonard
+Location ::           Cartago, Costa Rica
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
--   *Ruellia asperula*[ Lindau]
--   *Ruellia floribunda*[ Hook.]
--   *Ruellia galeottii*[ Leonard]
--   *Ruellia inundata*[ H. B. K.]
--   *Ruellia paniculata*[ L.]
--   *Ruellia standleyi*[ Leonard]
+-----------------------------------------------------------------------
+![Ruellia paniculata](Ruellia_paniculata.jpg)
+Scientific Name ::     Ruellia paniculata L.
+Location ::           Palo Verde Biological Station, Costa Rica
+Specimen Condition   Live Specimen
+Collector            Tripp & E. Deinert
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Note: this taxon list is still under construction. It does not yet
-contain all known Ruellia inundata clade subgroups.
+-----------------------------------------------------------------------
+![Ruellia_inundata](Ruellia_inundata.jpg)
+Scientific Name ::     Ruellia inundata H. B. K.
+Location ::           Palo Verde Biological Station, Costa Rica
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & Deinert
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
+----------------------------------------------------------------------
+![Ruellia galeottii](Ruellia_galeottii.jpg)
+Scientific Name ::  Ruellia galeottii Leonard
+Location ::        Oaxaca, Mexico
+Identified By     Erin A. Tripp
+Collector         E. Tripp
+Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-### Introduction
 
-Species in the *Ruellia inundata* clade exhibit a disjunct distribution:
-some occur in Mexico and Central America, while others occur in Brazil
-and Ecuador.  All inhabit forests or habitats that experience
-seasonality, i. e., a dry season. Some species in this clade are
-characterized by having clavate fruits with external, maroon splotches.
-Many have a very pungent, vegetative odor. This clade is well supported
-by molecular data (Tripp, in press), and provides an excellent example
-of the floral diversity that is seen even between very closely related
-species in *Ruellia*.
-
-### References
-
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
-
-##### Title Illustrations
-
-![](ruellia_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::     Ruellia standleyi Leonard
-  Location ::           Cartago, Costa Rica
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  ------------------------------------------------------------------------
-![](Ruellia_paniculata_Tripp122.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia paniculata L.
-  Location ::           Palo Verde Biological Station, Costa Rica
-  Specimen Condition   Live Specimen
-  Collector            Tripp & E. Deinert
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](picture026.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia inundata H. B. K.
-  Location ::           Palo Verde Biological Station, Costa Rica
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & Deinert
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](dscn00811_002.jpg)
-
-  ----------------------------------------------------------------------
-  Scientific Name ::  Ruellia galeottii Leonard
-  Location ::        Oaxaca, Mexico
-  Identified By     Erin A. Tripp
-  Collector         E. Tripp
-  Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  ----------------------------------------------------------------------

@@ -2,59 +2,16 @@
 title: Ruellia jaliscana clade
 ---
 
-## Phylogeny 
+# Ruellia jaliscana  
+
+![Ruellia speciosa](jaliscana/Ruellia_speciosa.jpg) 
+![Ruellia_bourgaei](jaliscana/Ruellia_bourgaei.jpg) 
+![Ruellia jaliscana](jaliscana/Ruellia_jaliscana.jpg) 
 
 
--   « Ancestral Groups  
-    -   [Ruellia s. l.](Ruellia_s._l.)
-    -   [Ruellieae](../../Ruellieae.md)
-    -   [Acanthaceae](../../../Acanthaceae.md)
-    -   [Lamiales](../../../../Lamiales.md)
-    -   [Asterids](../../../../../Asterids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
+## Introduction
 
--   ◊ Sibling Groups of  Ruellia s. l.
-    -   [Physiruellia clade](Physiruellia_clade)
-    -   [Blechum clade](Blechum_clade)
-    -   [Ruellia inundata clade](Ruellia_inundata_clade)
-    -   [Ebracteolate clade](Ebracteolate_clade)
-    -   [Euruellia clade](Euruellia_clade)
-    -   [Ruellia inflata clade](Ruellia_inflata_clade)
-    -   Ruellia jaliscana clade
-    -   [Ruellia harveyana clade](Ruellia_harveyana_clade)
-    -   [Ruellia humilis clade](Ruellia_humilis_clade)
-    -   [African Ruellia](African_Ruellia)
-
--   » Sub-Groups 
-
-# Ruellia jaliscana clade 
-
-[Erin Tripp](http://www.tolweb.org/)
-
-![ ](jaliscana/dscn0100_002.jpg)
-![ ](jaliscana/dscn0189_002.jpg)
-![](jaliscana/dscn0036_002.jpg)
-
--   *Ruellia bourgaei*[ Hemsl.]
--   *Ruellia conzattii*[ Standl.]
--   *Ruellia fruticosa*[ Sesse & Moc.]
--   *Ruellia jaliscana*[ Standl.]
--   *Ruellia pringlei*[ Fernald]
--   *Ruellia speciosa*[ (Nees) Lindau]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known Ruellia jaliscana clade subgroups.
-
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
+[Erin Tripp](http://www.tolweb.org/) 
 
 All species in the *Ruellia jaliscana* clade sampled by Tripp (in press)
 are endemic to Mexico. Generally, floral color cannot be used to
@@ -91,47 +48,71 @@ unpublished) suggest that the content of sect. Chiropterophila needs
 revisiting, thus a forthcoming revision of this section will be produced
 in subsequent months.
 
-### References
+## Phylogeny 
 
-Daniel, T.F. 2003. New and reconsidered Mexican Acanthaceae X. Flora del
-Bajío region. Novon 13:37---48.
 
-Ramamoorthy, T. P. 1991. Ruellia section Chiropterophila (Acanthaceae):
-A novelty from Mexico. Botanical Journal of the Linnaean Society
-107:79-88.
+-   « Ancestral Groups  
+    -   [Ruellia s. l.](Ruellia_s._l.)
+    -   [Ruellieae](../../Ruellieae.md)
+    -   [Acanthaceae](../../../Acanthaceae.md)
+    -   [Lamiales](../../../../Lamiales.md)
+    -   [Asterids](../../../../../Asterids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
+-   ◊ Sibling Groups of  Ruellia s. l.
+    -   [Physiruellia clade](Physiruellia_clade)
+    -   [Blechum clade](Blechum_clade)
+    -   [Ruellia inundata clade](Ruellia_inundata_clade)
+    -   [Ebracteolate clade](Ebracteolate_clade)
+    -   [Euruellia clade](Euruellia_clade)
+    -   [Ruellia inflata clade](Ruellia_inflata_clade)
+    -   Ruellia jaliscana clade
+    -   [Ruellia harveyana clade](Ruellia_harveyana_clade)
+    -   [Ruellia humilis clade](Ruellia_humilis_clade)
+    -   [African Ruellia](African_Ruellia)
 
-##### Title Illustrations
+-   » Sub-Groups 
 
-![](dscn0100.jpg)
+	-   *Ruellia bourgaei*[ Hemsl.]
+	-   *Ruellia conzattii*[ Standl.]
+	-   *Ruellia fruticosa*[ Sesse & Moc.]
+	-   *Ruellia jaliscana*[ Standl.]
+	-   *Ruellia pringlei*[ Fernald]
+	-   *Ruellia speciosa*[ (Nees) Lindau]
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia speciosa Lindau
-  Location ::           Oaxaca, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & Acosta
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](dscn0189.jpg)
+## Title Illustrations
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia bourgaei Hemsl.
-  Location ::           Jalisco, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & L. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](dscn0036.jpg)
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia jaliscana Standl.
-  Location ::           Jalisco, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & Deregibus
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+![Ruellia speciosa](Ruellia_speciosa.jpg)
+Scientific Name ::     Ruellia speciosa Lindau
+Location ::           Oaxaca, Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & Acosta
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+
+-----------------------------------------------------------------------
+![Ruellia bourgaei](Ruellia_bourgaei.jpg)
+Scientific Name ::     Ruellia bourgaei Hemsl.
+Location ::           Jalisco, Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & L. Tripp
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+
+-----------------------------------------------------------------------
+![Ruellia jaliscana](Ruellia_jaliscana.jpg)
+Scientific Name ::     Ruellia jaliscana Standl.
+Location ::           Jalisco, Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & Deregibus
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 

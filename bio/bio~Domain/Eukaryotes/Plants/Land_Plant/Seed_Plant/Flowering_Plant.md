@@ -387,7 +387,7 @@ mya. Conversely, molecular methods tend to overestimate ages
 (Rodríguez-Trelles et al., 2002), so refinement of dating approaches is
 needed to compensate for this bias.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Nymphaea water lilies](1744waterlilies.jpg)
 

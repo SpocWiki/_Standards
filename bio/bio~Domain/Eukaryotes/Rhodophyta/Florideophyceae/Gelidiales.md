@@ -32,7 +32,7 @@ Freshwater (1997).
 
 Containing group: [Florideophyceae](Florideophyceae.md)
 
-### Introduction
+## Introduction
 
 The Gelidiales is a relatively small order of red algae containing ca.
 130-140 species placed in ten recognized genera. Many gelidialean
@@ -162,7 +162,7 @@ of species in the genera Beckerella and Ptilophora (Gelidiales,
 Rhodophyta) based on molecular and morphological data. Phycologia (in
 press).
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Gelidiella acerosa](gacer.jpg)
 

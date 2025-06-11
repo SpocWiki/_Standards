@@ -65,7 +65,7 @@ Containing group: [Agaricomycotina](Agaricomycotina.md)
     overview of fruiting body diversity in Agaricomycetes and other
     fleshy Fungi.
 
-### Introduction
+## Introduction
 
 The Agaricomycetes contains approximately 16,000 described species,
 which is 98% of the described species in the Agaricomycotina (Kirk et
@@ -549,7 +549,7 @@ sequencing of fungal ribosomal RNA genes for phylogenetics. In: Innis
 MA, Gelfand DH, Sninsky J, White TJ (, eds),. PCR Pprotocols:, a guide
 to methods and applications,. Academic Press, San Diego, pp. 315-322.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Lepista mushrooms](Lepista_002.jpg)
 

@@ -36,7 +36,7 @@ Containing group: [Basidiomycota](Basidiomycota.md)
 
 -   [Lehrstuhl Spezielle Botanik and Mykologie,     Tübingen](http://www.systbot.uni-tuebingen.de/)
 
-### Introduction
+## Introduction
 
 The class Ustilaginomycetes comprises more than 1400 species of
 basidiomycetous plant parasites, which are distributed in approximately
@@ -315,7 +315,7 @@ composition, and production. CRC Crit. Rev. Food Sci. Nutr. 35:191-229.
 Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
 1:1-159.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](entorrhiza.jpg)
 

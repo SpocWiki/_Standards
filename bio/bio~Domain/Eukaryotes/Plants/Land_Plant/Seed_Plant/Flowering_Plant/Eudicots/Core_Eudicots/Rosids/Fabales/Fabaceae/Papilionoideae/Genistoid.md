@@ -3,7 +3,6 @@ title: Genistoid clade
 ---
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Papilionoideae](../Papilionoideae.md)
     -   [Fabaceae](../../Fabaceae.md)
@@ -27,17 +26,14 @@ title: Genistoid clade
 
 -   » Sub-Groups 
 
-# Genistoid clade 
+# [[Genistoid]] 
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/)
+![Lupinus texensis](Genistoid/Lupinus_texensis.jpg)  ![Sophora tomentosa](Genistoid/Sophora_tomentosa.jpg)  ![Baptisia australis](Genistoid/Baptisia_australis.jpg) 
 
-![ ](Genistoid/lupinus_002.jpg)
-![ ](Genistoid/66.jpg)
-![ ](Genistoid/59_002.jpg)
 
-Containing group: [Papilionoideae](../Papilionoideae.md)
+## Introduction
 
-### Introduction
+[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
 
 The \"Genistoid\" clade is an informal name given to a group of
 papilionoids that includes the many genera traditionally classified in
@@ -130,100 +126,23 @@ sister group to genistoids) as well as resolve the issue of whether the
 synthesis of quinolizidine alkaloids is indeed a non-molecular
 synapomorphy for the Genistoid clade.
 
-### References
 
-Crisp, M. D., and P. H. Weston. 1987. Cladistics and legume systematics,
-with an analysis of the Bossiaeeae, Brongniartieae, and Mirbelieae.
-Pages 65-130 in Advances in legume systematics, part 3 (C. H. Stirton,
-ed.). Royal Botanic Gardens, Kew, UK.
+## Title Illustrations
 
-Crisp, M. D., S. Gilmore, and B.-E. Van Wyk. 2000. Molecular phylogeny
-of the genistoid tribes of papilionoid legumes. Pages 249-276 in
-Advances in legume systematics, part 9 (P. S. Herendeen and A. Bruneau,
-eds.). Royal Botanic Garden, Kew, UK.
+----------------------------------
+![Lupinus texensis](Lupinus_texensis.jpg)
+Scientific Name ::  Lupinus texensis Hook.
+Copyright ::         © [Bill Lindemann](http://www.depts.ttu.edu/hillcountry/research/images/LUPINUS%20TEXENSIS.JPG)
 
-Doyle, J. J., J. L. Doyle, J. A. Ballenger, E. E. Dickson, T. Kajita,
-and H. Ohashi. 1997. A phylogeny of the chloroplast gene *rbcL* in the
-Leguminosae: taxonomic correlations and insights into the evolution of
-nodulation. American J. Botany 84: 541-554.
+---------------------------
+![Sophora tomentosa](Sophora_tomentosa.jpg)
+Scientific Name ::  Sophora tomentosa L.
+Copyright ::         © [J. Paul Scurlock Collection](http://www.fairchildgarden.org/index.html)
 
-Hu, J. M., M. Lavin, M. F. Wojciechowski, and M. J. Sanderson. 2000.
-Phylogenetic systematics of the tribe Millettieae (Leguminosae) based on
-*matK* sequences, and implications for evolutionary patterns in
-Papilionoideae. American J. Botany 87: 418-430.
+------------------
+![Baptisia australis](Baptisia_australis.jpg)
+Scientific Name ::     Baptisia australis R.Br.
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)
 
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and Allies. Systematic Botany 26: 515--536.
 
-Käss, E., and M. Wink. 1997. Phylogenetic relationships in the
-Papilionoideae (Family Leguminosae) based on nucleotide sequences of
-cpDNA (*rbcL*) and ncDNA (ITS1 and 2). Molecular Phylogenetics and
-Evolution 8:65-88.
-
-Kinghorn, A. D., and M. F. Balandrin. 1984. Quinolizidine alkaloids in
-the Leguminosae: structural types, analysis, chemotaxonomy and
-biological activities. Pages 105-148 in Alkaloids: chemical and
-biological perspectives (S. W. Pelletier, ed.). John Wiley and Sons, New
-York, NY, USA.
-
-Kite, G. C. 2005. Support for the removal of *Cyclolobium* from tribe
-Millettieae (Leguminosae) from its quinolizidine alkaloid status.
-Biochemical Systematics and Ecology 33: 39-43.
-
-Kite, G. C., and R. T. Pennington. 2003. Quinolizidine alkaloid status
-of *Styphnolobium* and *Cladrastis* (Leguminosae). Biochemical
-Systematics and Ecology 31: 1409--1416.
-
-Lewis, G., B. Schrire, B. MacKinder, and M. Lock (eds). 2005. Legumes of
-the world. Royal Botanical Gardens, Kew, UK.
-
-Pennington, R. T., M. Lavin, H. Ireland, B. Klitgaard, J. Preston, and
-J.-M. Hu. 2001. Phylogenetic relationships of basal papilionoid legumes
-based upon sequences of the chloroplast *trnL* intron. Systematic Botany
-26: 537--556.
-
-Polhill, R. M. 1981. Papilionoideae. Pages 191-208 in Advances in legume
-systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages xxxv -
-xlviii in Phytochemical dictionary of the Leguminosae (F. A. Bisby, J.
-Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New York, NY,
-USA.
-
-Van Wyk, B.-E. 2003. The value of chemosystematics in clarifying
-relationships in the genistoid tribes of papilionoid legumes.
-Biochemical Systematics and Ecology 31: 875--884.
-
-Wink, M, and G. I. A. Mohamed. 2003. Evolution of chemical defense
-traits in the Leguminosae: mapping of distribution patterns of secondary
-metabolites on a molecular phylogeny inferred from nucleotide sequences
-of the *rbcL* gene. Biochemical Systematics and Ecology 31: 897-917.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American J.
-Botany 91: 1846-1862.
-
-##### Title Illustrations
-
-![](lupinus.jpg)
-
-  ----------------------------------
-  Scientific Name ::  Lupinus texensis Hook.
-  Copyright ::         © [Bill Lindemann](http://www.depts.ttu.edu/hillcountry/research/images/LUPINUS%20TEXENSIS.JPG)
-  ----------------------------------
-![](66_002.jpg)
-
-  ---------------------------
-  Scientific Name ::  Sophora tomentosa L.
-  Copyright ::         © [J. Paul Scurlock Collection](http://www.fairchildgarden.org/index.html)
-  ---------------------------
-![](59.jpg)
-
-  ------------------
-  Scientific Name ::     Baptisia australis R.Br.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)
-  ------------------

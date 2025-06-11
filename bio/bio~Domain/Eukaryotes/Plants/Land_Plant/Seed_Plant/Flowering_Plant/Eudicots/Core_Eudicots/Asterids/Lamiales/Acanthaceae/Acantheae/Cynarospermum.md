@@ -2,8 +2,23 @@
 title: Cynarospermum asperrimum
 ---
 
-## Phylogeny 
+## [[Cynarospermum]] 
 
+![Cynarospermum](Cynarospermum/Cynaro.jpg)
+![Cynarospermum](Cynarospermum/Cynarosp_004.jpg)
+![Cynarospermum](Cynarospermum/Cynarosp_003.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Cynarospermum** asperrimum is a species of flowering plant belonging to the family Acanthaceae. It is a subshrub endemic to the Western Ghats of western India. It is the sole species in genus Cynarospermum.
+>
+> Cynarospermum asperrimum is a scrambling or trailing perennial herb, with multiple branches and stems up to 1 meter long. Stems can root in contact with soil. It flowers during the monsoon and post-monsoon season, and attracts several species of butterflies for pollination.
+>
+> It is locally common in the foothills and hill ranges of the Western Ghats in southern Gujarat, Maharashtra, Goa, and Karnataka states. It grows abundantly in partly-shaded and moist areas, including shrub savannas, forest edges, partly-shaded roadsides, and bunds between fields. It is easily cultivated in pots and gardens.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cynarospermum) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
@@ -33,20 +48,12 @@ title: Cynarospermum asperrimum
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	- *Cynarospermum asperrimum* [(Nees) Vollesen] 
 
-## *Cynarospermum* 
 
-# *Cynarospermum asperrimum* [(Nees) Vollesen] 
+## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
-
-![ ](Cynarospermum/Cynaro.jpg)
-![ ](Cynarospermum/Cynarosp_004.jpg)
-![](Cynarospermum/Cynarosp_003.jpg)
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 *Cynarospermum* is an Indian genus with a single species.  This species
 was treated as a member of *Blepharis* until Vollesen (1999) pointed out
@@ -58,37 +65,22 @@ Inflorescences are reduced to solitary or paired flowers in the axils of
 vegetatives leaves, the bracteoles are three parted at the apex, and the
 seeds have conical tubercles.
 
-### References
+## Title Illustrations
 
-Vollesen, K. 1999. Cynarospermum, a new genus of Acanthaceae from India.
-Kew Bulletin 54: 171-177.
+--------------------------------------------------------------------------
+![Cynarospermum](Cynaro.jpg)
+Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
+Location ::           Mysore, India
+Specimen Condition   Dead Specimen
+Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-##### Title Illustrations
+---------------------------------------------------------------------------
+![Cynarospermum](Cynarosp_004.jpg)
+Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
+Location ::           Mysore, India
+Reference            KEW
+Specimen Condition   Dead Specimen
+Collection           KEW
+Collector            Saldanha 1193
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-![](Cynaro_002.jpg)
-
-  --------------------------------------------------------------------------
-  Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
-  Location ::           Mysore, India
-  Specimen Condition   Dead Specimen
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------
-![](Cynarosp.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
-  Location ::           Mysore, India
-  Reference            KEW
-  Specimen Condition   Dead Specimen
-  Collection           KEW
-  Collector            Saldanha 1193
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Cynarosp_002.jpg)
-
-  --------------------------------------------------------------------------
-  Scientific Name ::     Cynarospermum asperrimum (Ness) Vollesen
-  Location ::           Mysore, India
-  Specimen Condition   Dead Specimen
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------

@@ -30,7 +30,7 @@ title: Tuberculina maxima
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](tm837_002.jpg)
 

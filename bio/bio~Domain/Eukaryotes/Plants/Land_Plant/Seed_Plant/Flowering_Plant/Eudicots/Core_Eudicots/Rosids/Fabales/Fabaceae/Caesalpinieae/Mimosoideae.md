@@ -2,8 +2,27 @@
 title: Mimosoideae
 ---
 
-## Phylogeny 
+# [[Mimosoideae]] 
 
+![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg) 
+![Acacia tortilis](Mimosoideae/Acacia_tortilis.jpg) 
+![ ](Mimosoideae/67_002.jpg)
+
+## #has_/text_of_/abstract 
+
+> The **Mimosoideae** are a traditional subfamily of trees, herbs, lianas, and shrubs in the pea family (Fabaceae) 
+> that mostly grow in tropical and subtropical climates.  
+> They are typically characterized by having radially symmetric flowers, 
+> with petals that are twice divided (valvate) in bud and with numerous showy, prominent stamens.
+>
+> Recent work on phylogenetic relationships has found 
+> that the Mimosoideae form a clade nested with subfamily Caesalpinioideae 
+> and the most recent classification by The Legume Phylogeny Working Group 
+> refer to them as the Mimosoid clade within subfamily Caesalpinioideae. 
+> The group includes about 40 genera and 2,500 species.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mimosoideae) 
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Caesalpinieae s.l. & s.s., Cassieae sensu stricto,         Mimosoideae](Caesalpinieae_s.l._%26_s.s.%2C_Cassieae_sensu_stricto%2C_Mimosoideae)
@@ -25,20 +44,10 @@ title: Mimosoideae
 
 -   » Sub-Groups 
 
-# Mimosoideae 
 
-[Martin F. Wojciechowski](http://www.tolweb.org/)
+## Introduction
 
-![ ](Mimosoideae/mimosaflw1_002.jpg)
-![](Mimosoideae/13078acacia1_002.jpg)
-![ ](Mimosoideae/67_002.jpg)
-
-[\
-]
-
-Containing group: [](../Caesalpinieae.md)
-
-### Introduction
+[Martin F. Wojciechowski](http://www.tolweb.org/) 
 
 \"Mimosoids\" form one of the major groups of legumes and have been
 usually recognized as the subfamily Mimosoideae within the family
@@ -118,99 +127,25 @@ in July 2005. This decision, effectively conserving the name *Acacia* so
 that it applies to the Australian species, will require a substantial
 number of changes to generic and infrageneric names in *Acacia* (e.g.
 Luckow et al., 2005).
+## Title Illustrations
 
-### References
 
-Bentham, G. 1875. Revision of the suborder Mimoseae. Transactions of the
-Linnean Society, London 30: 335-664.
+------------------------------------
+![Albizia julibrissin](mimosa-flower.jpg)
+Scientific Name ::     Albizia julibrissin Durazz.
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [Mike Hogan, Todd Langston](http://www.forestry.auburn.edu/samuelson/dendrology/index.html)
 
-Elias, T. S. 1981. Mimosoideae. Pages 143-151 in Advances in legume
-systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
+-----------------------------------------------------------------------------
+![Acacia tortilis](Acacia_tortilis.jpg)
+Scientific Name ::     Acacia tortilis
+Location ::           Southern Serengeti near Ndutu, Tanzania
+Specimen Condition   Live Specimen
+Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
-Lewis, G. P., and T. S. Elias. Mimoseae. Pages 155-168 in Advances in
-Legume Systematics, part 1 (R.M. Polhill and P.H. Raven, eds.). Royal
-Botanic Gardens, Kew, UK.
+------------------------------------------
+![](67.jpg)
+Scientific Name ::     Mimosa pudica Mill.
+Specimen Condition   Live Specimen
+Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
 
-Lewis, G., Schrire, B., Mackinder, B., & Lock, M. (eds). 2005. Legumes
-of the World. Royal Botanic Gardens, Kew.
-
-Luckow, M., P. J. White, and A. Bruneau. 2000. Relationships among the
-basal genera of mimosoid legumes. Pages 165-180 in Advances in Legumes
-Systematics, part 9, (P. S. Herendeen and A. Bruneau, eds.). Royal
-Botanic Gardens, Kew, UK.
-
-Luckow, M., J. T. Miller, D. J. Murphy, and T. Livshultz. 2003. A
-phylogenetic analysis of the Mimosoideae (Leguminosae) based on
-chloroplast DNA sequence data. Pages 197-220 in Advances in Legumes
-Systematics, part 10, higher level systematics (B.B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Luckow, M., C. Hughes, B. Schrire, P. Winter, C. Fagg, R. Fortunato, J.
-Hurter, L. Rico, F. J. Breteler, A. Bruneau, M. Caccavari, L. Craven, M.
-Crisp, A. Delgado S., S. Demissew, J. J. Doyle, R. Grether, S. Harris,
-P. S. Herendeen, H. M. Hernández, A. M. Hirsch, R. Jobson, B. B.
-Klitgaard, J-N. Labat, M. Lock, B. MacKinder, B. Pfeil, B. B. Simpson,
-G. F. Smith, M. Sousa S., J. Timberlake, J. G. van der Maesen, A. E. Van
-Wyk, P. Vorster, C. K. Willis, J. J. Wieringa, and M. F. Wojciechowski.
-2005. *Acacia*: the case against moving the type to Australia. Taxon 54:
-513-519.
-
-Maslin. B. R. 1988. Should *Acacia* be divided? Bull. Groupe Int. Etude
-Mimosoideae 16: 54-76.
-
-Miller , J. T., J. W. Grimes, D. J. Murphy, R. J. Bayer, and P. Y.
-Ladiges. 2003. A phylogenetic analysis of the Acacieae and Ingeae
-(Mimosoideae: Fabaceae) based on *trnK, matK, psbA-trnH*, and
-*trnL-trnF* sequence data. Syst. Bot. 28: 558-566.
-
-Orchard, A. E., and B. R. Maslin. 2003. Proposal to conserve the name
-*Acacia* (Leguminosae: Mimosoideae) with a conserved type. Taxon 52:
-362-363.
-
-Pedley, L. 1986. Derivation and disperal of *Acacia* (Leguminosae), with
-particular reference to Australia, and the recognition of *Senegalia*
-and *Racosperma*. Botanical J. of the Linnean Society 92: 219-254.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages xxxv -
-xlviii in Phytochemical dictionary of the Leguminosae (F.A. Bisby, J.
-Buckingham, and J.B. Harborne, eds.). Chapman and Hall, New York, NY.
-
-Polhill, R. M., and P. H. Raven (eds.). 1981. Advances in legume
-systematics, parts 1 and 2. Royal Botanic Gardens, Kew, UK.
-
-Vassal, J. 1988. Some remarks about the taxonomy of *Acacia*. Bull.
-Groupe Int. Etude Mimosoideae 16: 77-82.
-
-Sprent, J. I. 2001. Nodulation in legumes. Royal Botanic Gardens, Kew,
-UK.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American
-Journal of Botany 91: 1846-1862.
-
-##### Title Illustrations
-
-![](mimosaflw1.jpg)
-
-  ------------------------------------
-  Scientific Name ::     Albizia julibrissin Durazz.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Mike Hogan, Todd Langston](http://www.forestry.auburn.edu/samuelson/dendrology/index.html)
-  ------------------------------------
-![Acacia tortilis](13078acacia1.jpg)
-
-  -----------------------------------------------------------------------------
-  Scientific Name ::     Acacia tortilis
-  Location ::           Southern Serengeti near Ndutu, Tanzania
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
-  -----------------------------------------------------------------------------
-![](67.jpg)
-
-  ------------------------------------------
-  Scientific Name ::     Mimosa pudica Mill.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
-  ------------------------------------------

@@ -29,7 +29,7 @@ title: Amastigomonas mutabilis
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Amastigomonas* is distinguished by its large size and
 by having granules lying adjacent to the trailing flagellum on its
@@ -83,7 +83,7 @@ Molina, F. I. and Nerad, T. A. 1991. Ultrastructure of Amastigomonas
 bermudensis ATCC 50234 sp.nov. - a new heterotrophic marine flagellate.
 European Journal of Protistology 27: 386-396.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](famastigom.jpg)
 

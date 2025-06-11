@@ -39,7 +39,7 @@ Containing group: [Caryophyllales](../Caryophyllales.md)
 -   [International Carnivorous Plant     Society](http://www.carnivorousplants.org/).
 -   [Carnivorous Plant     Database](http://www.omnisterra.com/bot/cp_home.cgi).
 
-### Introduction
+## Introduction
 
 The non-core Caryophyllales clade (*sensu* Cuénoud *et al.* 2002), which
 corresponds to the Polygonales of Judd *et al*. (2002), has only
@@ -123,7 +123,7 @@ Williams, S., Albert, V., and M. Chase. 1994. Relationships of
 Droseraceae: a cladistic analysis of rbcL sequence and morphological
 data. American Journal of Botany 81: 1027-1037.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Polygonum_bistorta01001.jpg)
 

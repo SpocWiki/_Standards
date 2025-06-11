@@ -1,9 +1,33 @@
 ---
 title: Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae
+aliases:
+  - Caesalpinioideae
+  - peacock flower
 ---
 
-## Phylogeny 
+# [[Caesalpinieae]] s.l. & s.s., Cassieae sensu stricto, Mimosoideae 
 
+![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg)  ![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg)  ![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg) 
+
+## #has_/text_of_/abstract 
+
+> Caesalpinioideae is a botanical name at the rank of subfamily, 
+> placed in the large family Fabaceae or Leguminosae. 
+> 
+> Its name is formed from the generic name Caesalpinia. 
+> It is known also as the peacock flower subfamily. 
+> 
+> The Caesalpinioideae are mainly trees distributed in the moist tropics, 
+> but include such temperate species as the honeylocust (Gleditsia triacanthos) 
+> and Kentucky coffeetree (Gymnocladus dioicus). 
+> 
+> It has the following clade-based definition:
+>
+> The most inclusive crown clade containing Arcoa gonavensis Urb. and Mimosa pudica L., but not Bobgunnia fistuloides (Harms) J. H. Kirkbr. & Wiersema, Duparquetia orchidacea Baill., or Poeppigia procera C.Presl In some classifications, for example the Cronquist system, the group is recognized at the rank of family, Caesalpiniaceae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Caesalpinioideae) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Fabaceae](../Fabaceae.md)
@@ -28,17 +52,10 @@ title: Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae
 -   » Sub-Groups
     -   [Mimosoideae](Caesalpinieae/Mimosoideae.md)
 
-# Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae 
 
-[Martin F. Wojciechowski](http://www.tolweb.org/)
+## Introduction
 
-![ ](Caesalpinieae/senna_002.jpg)
-![ ](Caesalpinieae/jam_073_002.jpg)
-![](Caesalpinieae/Ceratonia_002.JPG)
-
-Containing group: [Fabaceae](../Fabaceae.md)
-
-### Introduction
+[Martin F. Wojciechowski](http://www.tolweb.org/) 
 
 The clade shown here, referred to as the \"Caesalpinioid crown\" clade
 (Wojciechowski et al., 2004), containing Cassieae subtribes Cassiinae
@@ -96,111 +113,27 @@ Mora*) comprise the sister group to the Mimosoideae, although
 relationships of lineages near the \'base\' of the mimosoids clade are
 still poorly resolved.
 
-### References
 
-Bruneau, A., F. Forest, P. S. Herendeen, B. B. Klitgaard, and G. P.
-Lewis. 2001. Phylogenetic relationships in the Caesalpinioideae
-(Leguminosae) as inferred from chloroplast *trnL* intron sequences.
-Systematic Botany 26: 487-514.
+## Title Illustrations
 
-Haston, E. M., G. P. Lewis, and J. A. Hawkins. 2003. A phylogenetic
-investigation of the Peltophorum group (Caesalpinieae: Leguminosae).
-Pages 149-159 in Advances in Legume Systematics, part 10, higher level
-systematics (B. B. Klitgaard and A. Bruneau, eds.). Royal Botanic
-Gardens, Kew, UK.
 
-Haston, E. M., G. P. Lewis, and J. A. Hawkins. 2005. A phylogenetic
-reappraisal of the Peltophorum group (Caesalpinieae: Leguminosae) based
-on the chloroplast *trnL-F*, *rbcL*, and *rps16* sequence data. American
-J. Botany 92: 1359-1371.
+---------------------
+![Senna marilandica](Senna_marilandica.jpg)
+Scientific Name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
+Location ::           Konza Prairie, Riley County, Kansas
+Comments             Commonly called Wild Senna or Maryland Senna.
+Specimen Condition   Live Specimen
+Copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
 
-Herendeen, P. S., A. Bruneau, G. P. Lewis. 2003. Phylogenetic
-relationships in caesalpinioid legumes: a preliminary analysis based on
-morphological and molecular data. Pages 37-62 in Advances in Legume
-Systematics, part 10, higher level systematics (B. B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
+----------------------
+![Caesalpinia pulcherrima](Caesalpinia_pulcherrima.jpg)
+Scientific Name ::     Caesalpinia pulcherrima Sw.
+Location ::           Arizona
+Specimen Condition   Live Specimen
+Copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
 
-Herendeen, P. S., A. Bruneau, G. P. Lewis. 2003. Floral morphology in
-caesalpinioid legumes: testing the monophyly of the \"Umtiza clade\".
-International J. Plant Sciences 164 (5 Suppl.) S393-S407.
-
-Irwin, H. S. and R. C. Barneby. 1981. Cassieae Bronn. Pages 97-106 in
-Advances in legume systematics, part 1 (R. M. Polhill and P. H. Raven,
-eds.). Royal Botanic Gardens, Kew, UK.
-
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and Allies. Systematic Botany 26: 515-536.
-
-Lewis, G. P. 2005a. Cassieae. Pages 111-125 in Legumes of the World
-(Lewis, G., B. Schrire, B. MacKinder, and M. Lock, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Lewis, G. P. 2005b. Caesalpinieae. Pages 127-161 in Legumes of the World
-(Lewis, G., B. Schrire, B. MacKinder, and M. Lock, eds.). Royal
-Botanical Gardens, Kew, UK.
-
-Lewis, G. P. and B. D. Schrire. 1995. A reappraisal of the Caesalpinia
-group (Caesalpinioideae: Caesalpinieae) using phylogenetic analysis.
-Pages 41-52 in Advances in Legume Systematics 7, phylogeny (M. D. Crisp
-and J. J. Doyle, eds.). Royal Botanic Gardens, Kew, UK.
-
-Luckow, M., J. T. Miller, D. J. Murphy, and T. Livshultz. 2003. A
-phylogenetic analysis of the Mimosoideae (Leguminosae) based on
-chloroplast DNA sequence data. Pages 197-220 in Advances in Legumes
-Systematics, part 10, higher level systematics (B. B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Marazzi, B., P. K. Endress, L. P. de Queiroz, and E. Conti. 2006.
-Phylogenetic relationships within *Senna* (Leguminosae, Cassinae) based
-on three chloroplast DNA regions: patterns in the evolution of floral
-symmetry and extrafloral nectaries. American J. Botany 93: 288-303.
-
-Polhill, R. M. 1994. Classification of the Leguminosae. Pages xxxv -
-xlviii in Phytochemical dictionary of the Leguminosae (F. A. Bisby, J.
-Buckingham, and J. B. Harborne, eds.). Chapman and Hall, New York, NY.
-
-Polhill, R. M., and J. E. Vidal. 1981. Caesalpinieae. Pages 81-95 in
-Advances in Legume Systematics, part 1 (R. M. Polhill and P. H. Raven,
-eds.). Royal Botanic Gardens, Kew, UK.
-
-Simpson, B. B., L. L. Larkin, and A. Weeks. 2003. Progress towards
-resolving the relationships of the Caesalpinia group (Caesalpinieae:
-Caesalpinioideae: Leguminosae). Pages 123-148 in Advances in Legume
-Systematics, part 10, higher level sytematics (B. B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
-
-Simpson, B. B., and G. P. Lewis. 2003. New combinations in *Pomaria*
-(Caesalpinioideae: Leguminosae). Kew Bulletin 58: 175-184.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American J.
-Botany 91: 1846-1862.
-
-##### Title Illustrations
-
-![](senna.jpg)
-
-  ---------------------
-  Scientific Name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
-  Location ::           Konza Prairie, Riley County, Kansas
-  Comments             Commonly called Wild Senna or Maryland Senna.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
-  ---------------------
-![](jam_073.jpg)
-
-  ----------------------
-  Scientific Name ::     Caesalpinia pulcherrima Sw.
-  Location ::           Arizona
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
-  ----------------------
-![](Ceratonia.JPG)
-
-  ---------------------------
-  Scientific Name ::     Ceratonia siliqua L.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)
-  ---------------------------
+---------------------------
+![Ceratonia siliqua](Ceratonia_siliqua.JPG)
+Scientific Name ::     Ceratonia siliqua L.
+Specimen Condition   Live Specimen
+Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)

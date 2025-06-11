@@ -2,6 +2,18 @@
 title: Acanthus Clade
 ---
 
+# [[Acanthus]]
+
+![Acanthus](Acanthus/A.jpg)  ![ ](Acanthus/Acanthus_spinosus-1.jpg)  ![](Acanthus/A_002.jpg) 
+	
+## #has_/text_of_/abstract 
+
+> **Acanthus** is a genus of about 30 species of flowering plants in the family Acanthaceae, native to tropical and warm temperate regions, with the highest species diversity in the Mediterranean Basin and Asia. This flowering plant is nectar-producing and depends on butterflies, such as Anartia fatima, and other nectar-feeding organisms to distribute its pollen. Common names include Acanthus and bear's breeches. The generic name derives from the Greek term ἄκανθος (akanthos) for Acanthus mollis, a plant that was commonly imitated in Corinthian capitals.
+>
+> The genus comprises herbaceous perennial plants, rarely subshrubs, with spiny leaves and flower spikes bearing white or purplish flowers. Size varies from 0.4 to 2 m (1.3 to 6.6 ft) in height.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acanthus%20(plant)) 
+
 ## Phylogeny 
 
 
@@ -34,34 +46,20 @@ title: Acanthus Clade
 
 -   » Sub-Groups 
 
-# *Acanthus Clade* 
+
+	-   *Acanthus eminens*[ C. B. Clarke]
+	-   *Acanthus ilicifolius*[ L.]
+	-   *Acanthus longifolius*[ Host.]
+	-   *Acanthus mollis*[ L.]
+	-   *Acanthus montanus*[ (Nees) T. Anders.]
+	-   *Acanthus pubescens*[ (Oliver) Engler]
+	-   *Acanthus sennii* [ Chiovenda]
+	-   *Acanthus spinosus*[ L.]
+	-   *Blepharis dhofarensis*[ A. G. Miller]
+
+## Introduction 
 
 [Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
-
-![ ](Acanthus/A.jpg)
-![ ](Acanthus/Acanthus_spinosus-1.jpg)
-![](Acanthus/A_002.jpg)
-
--   *Acanthus eminens*[ C. B. Clarke]
--   *Acanthus ilicifolius*[ L.]
--   *Acanthus longifolius*[ Host.]
--   *Acanthus mollis*[ L.]
--   *Acanthus montanus*[ (Nees) T. Anders.]
--   *Acanthus pubescens*[ (Oliver) Engler]
--   *Acanthus sennii* [ Chiovenda]
--   *Acanthus spinosus*[ L.]
--   *Blepharis dhofarensis*[ A. G. Miller]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known *Acanthus Clade* subgroups.
-
-The list above includes only taxa that were sampled by McDade et al.
-(2005).  There are other species of *Acanthus* that likely belong to
-this clade but this needs to be confirmed with further study.
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
 
 *Acanthus* L. is an Old World genus of about 20 species; most species
 occur in Africa but a few range into southern Europe and one extends
@@ -117,34 +115,33 @@ University Press.
 Vollesen, K. 2000. Blepharis (Acanthaceae): a taxonomic revision. Kew:
 Royal Botanic Gardens.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](Acanthus/A_003.jpg)
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Acanthus polystachyus Delile
-  Location ::           Ethiopia
-  Reference            Herbarium WAG
-  Specimen Condition   Dead Specimen
-  Collection           Plantae Aethiopiae Exsiccatae
-  Collector            W. de Wilde
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Acanthus_spinosus-1_002.jpg)
+---------------------------------------------------------------------------
+![](Acanthus/A_003.jpg)
+Scientific Name ::     Acanthus polystachyus Delile
+Location ::           Ethiopia
+Reference            Herbarium WAG
+Specimen Condition   Dead Specimen
+Collection           Plantae Aethiopiae Exsiccatae
+Collector            W. de Wilde
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Acanthus spinosissimus Desf.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Acanthus/A_004.jpg)
+---------------------------------------------------------------------------
+![](Acanthus_spinosus-1.jpg)
+Scientific Name ::     Acanthus spinosissimus Desf.
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Acanthus eminens C.B. Clarke
-  Location ::           Bebeka Coffee Plantation, Ethiopia
-  Reference            Copenhagen Herbarium (C)
-  Specimen Condition   Dead Specimen
-  Collection           C
-  Collector            Friis et al.
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![](Acanthus/A_004.jpg)
+Scientific Name ::     Acanthus eminens C.B. Clarke
+Location ::           Bebeka Coffee Plantation, Ethiopia
+Reference            Copenhagen Herbarium (C)
+Specimen Condition   Dead Specimen
+Collection           C
+Collector            Friis et al.
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+
+

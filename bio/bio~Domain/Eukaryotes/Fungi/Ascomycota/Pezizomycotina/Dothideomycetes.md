@@ -44,7 +44,7 @@ Containing group: [Pezizomycotina](Pezizomycotina.md)
 -   [Assembling the Fungal Tree of Life](http://www.aftol.org/).
 -   [Myconet: Outline of     Ascomycota](http://www.fieldmuseum.org/myconet/outline.asp).
 
-### Introduction
+## Introduction
 
 The class Dothideomycetes contains the majority of the fungal species
 with ascostromatic development and bitunicate asci that were previously
@@ -233,7 +233,7 @@ Schoch CL, Shoemaker RA, Seifert KA, Hambleton S, Spatafora JW, Crous
 PW. 2006.A multigene phylogeny of the Dothideomycetes using four nuclear
 loci. 2006. Mycologia 98:1043-1054
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](hysteropatellaprostiihb7715b-2crehydr.jpg)
 

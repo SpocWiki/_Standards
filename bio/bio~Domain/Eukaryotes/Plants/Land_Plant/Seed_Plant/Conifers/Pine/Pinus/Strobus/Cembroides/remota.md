@@ -17,7 +17,7 @@ paper-shell pinyon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pinus%20remota) 
 
-### Introduction
+## Introduction
 
 This pinyon\'s thin, easily ruptured seed coat, tasty endosperm, and hardy character 
 have long recommended it for economic development. 

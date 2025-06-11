@@ -46,7 +46,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermoproteota) 
 
-### Introduction
+## Introduction
 
 The kingdom Crenarchaeota has the distinction of including 
 microbial species with the highest known growth temperatures of any organisms.

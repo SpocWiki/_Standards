@@ -51,7 +51,7 @@ Containing group: [Fungi](Eukaryotes/Fungi.md)
 -   [AFTOL: Assembling the Fungal Tree of Life. An NSF-funded project to     facilitate collaborative research in the phylogeny of     Fungi](http://ocid.nacse.org/research/aftol/).
 -   [Index Fungorum. World database on fungal     names](http://www.indexfungorum.org/Names/Names.asp).
 
-### Introduction
+## Introduction
 
 The *Zygomycota* contains approximately 1% of the described species of
 true *Fungi* (\~900 described species; Kirk et al. 2001). The most
@@ -562,7 +562,7 @@ curvatum* is not a green alga, but a lower fungus; *Amobedium
 parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
 253-262.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Phototropic sporangiophores of Pilobolus kleinii](Pilobolus_kleinii1.jpg)
 

@@ -2,44 +2,40 @@
 title: Cercideae
 ---
 
-## Phylogeny 
+# [[Cercideae]] 
+
+![Cercis chinensis](Cercideae/Cercis_chinensis.jpg)  ![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg)  ![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg) 
 
 
--   « Ancestral Groups  
-    -   [Fabaceae](../Fabaceae.md)
-    -   [Fabales](../../Fabales.md)
-    -   [Rosids](../../../Rosids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
+## #has_/text_of_/abstract 
 
--   ◊ Sibling Groups of  Fabaceae
-    -   Cercideae
-    -   [Detarieae sensu lato](Detarieae.md)
-    -   [Cassieae sensu lato (pro         parte)](Cassieae_%28pro_parte%29)
-    -   [Caesalpinieae s.l. & s.s., Cassieae sensu stricto,         Mimosoideae](Caesalpinieae_s.l._%26_s.s.%2C_Cassieae_sensu_stricto%2C_Mimosoideae)
-    -   [Papilionoideae](Papilionoideae.md)
+> Cercidoideae is a subfamily in the pea family, Fabaceae. 
+> 
+> Well-known members include Cercis (redbuds), 
+> including species widely cultivated as ornamental trees in the United States and Europe, 
+> Bauhinia, widely cultivated as an ornamental tree in tropical Asia, 
+> and Tylosema , a semi-woody genus of Africa. 
+> 
+> The subfamily occupies a basal position within the Fabaceae 
+> and is supported as monophyletic in many molecular phylogenies. 
+> 
+> At the 6th International Legume Conference, 
+> the Legume Phylogeny Working Group proposed elevating the tribe Cercidae 
+> to the level of subfamily within the Leguminosae (Fabaceae). 
+> The consensus agreed to the change, which was fully implemented in 2017. 
+> It has the following clade-based definition:
+>
+>
+> The most inclusive crown clade containing Cercis canadensis L. and Bauhinia divaricata L. but not Poeppigia procera C.Presl, Duparquetia orchidacea Baill., or Bobgunnia fistuloides (Harms) J.H.Kirkbr. & Wiersema.
+>
+> Many genera show unique palynology.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cercidoideae) 
 
--   » Sub-Groups 
 
-# Cercideae 
+## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/)
-
-![ ](Cercideae/Cercis_002.JPG)
-![ ](Cercideae/bv1804.jpg)
-![ ](Cercideae/57_002.jpg)
-
-\
-
-Containing group: [Fabaceae](../Fabaceae.md)
-
-### Introduction
+[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
 
 Found across the globe from North America to East Asia, the tribe
 Cercideae is the basally branching lineage in Fabaceae. The tribe is
@@ -101,62 +97,50 @@ addition, relationships among *Lysiphyllum, Phanera, Lasiobema,* and
 *Piliostigma* are poorly resolved, largely due to sparse sampling from
 these genera.
 
-### References
+## Phylogeny 
 
-Bruneau, A., F. Forest, P. S. Herendeen, B. B. Klitgaard, and G. P.
-Lewis. 2001. Phylogenetic relationships in the Caesalpinioideae
-(Leguminosae) as inferred from chloroplast *trnL* intron sequences.
-Systematic Botany 26: 487-514.
+-   « Ancestral Groups  
+    -   [Fabaceae](../Fabaceae.md)
+    -   [Fabales](../../Fabales.md)
+    -   [Rosids](../../../Rosids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../Tree_of_Life.md)
 
-Davis, C. C., P. W. Fritsch, J. Li, and M. J. Donoghue. 2002. Phylogeny
-and biogeography of *Cercis* (Fabaceae): evidence from nuclear ribosomal
-ITS and chloroplast *ndhF* sequence data. Systematic Botany 27: 289-302.
+-   ◊ Sibling Groups of  Fabaceae
+    -   Cercideae
+    -   [Detarieae sensu lato](Detarieae.md)
+    -   [Cassieae sensu lato (pro         parte)](Cassieae_%28pro_parte%29)
+    -   [Caesalpinieae s.l. & s.s., Cassieae sensu stricto,         Mimosoideae](Caesalpinieae_s.l._%26_s.s.%2C_Cassieae_sensu_stricto%2C_Mimosoideae)
+    -   [Papilionoideae](Papilionoideae.md)
 
-Herendeen, P. S., A. Bruneau, G.P. Lewis. 2003. Phylogenetic
-relationships in caesalpinioid legumes: a preliminary analysis based on
-morphological and molecular data. Pages 37-62 in Advances in Legume
-Systematics, part 10, higher level systematics (B.B. Klitgaard and A.
-Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
+-   » Sub-Groups 
 
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and allies. Systematic Botany 26: 515-536.
 
-Lewis, G. P. and F. Forest. 2005. Cercideae. Pages 57-67 in Legumes of
-the World (G. Lewis, B. Schrire, B. MacKinder, and M. Lock, eds.). Royal
-Botanical Gardens, Kew, UK.
+## Title Illustrations
 
-Mabberley, D. J. 1993. The plant-book, a portable dictionary of the
-higher plants. Cambridge University Press. UK.
+------------------------
+![Cercis chinensis](Cercis_chinensis.JPG)
+Scientific Name ::     Cercis chinensis Bunge
+Specimen Condition   Live Specimen
+Body Part            flower
+Copyright ::            © [Annette Hoeggemeier](http://www.boga.ruhr-uni-bochum.de/)
 
-Wunderlin, R., K. Larsen, and S. S. Larsen. 1981. Cercideae. Pages
-107-116 in Advances in legume systematics, part 1 (R. M. Polhill and P.
-H. Raven, eds.). Royal Botanic Gardens, Kew, UK.
+-------------------
+![Bauhinia variegata](Bauhinia_variegata.jpg)
+Scientific Name ::     Bauhinia variegata L. (var. candida)
+Specimen Condition   Live Specimen
+Copyright ::            © [L. Ramsden](http://web.hku.hk/%7Elramsden/)
 
-Wunderlin, R., K. Larsen, and S. S. Larsen. 1987. Reorganizaztion of the
-Cercideae (Fabaceae: Caesalpinioideae). Biol. Skr. 28: 1-40.
+---------------------------
+![Tylosema fassoglensis](Tylosema_fassoglensis.jpg)
+Scientific Name ::  Tylosema fassoglensis (Kotschy) Torre & Hillc.
+Location ::        Vumba rd near Altar Site, Mutare, Zimbabwe
+Copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
 
-##### Title Illustrations
 
-![](Cercis.JPG)
-
-  ------------------------
-  Scientific Name ::     Cercis chinensis Bunge
-  Specimen Condition   Live Specimen
-  Body Part            flower
-  Copyright ::            © [Annette Hoeggemeier](http://www.boga.ruhr-uni-bochum.de/)
-  ------------------------
-![](bv1804_002.jpg)
-
-  -------------------
-  Scientific Name ::     Bauhinia variegata L. (var. candida)
-  Specimen Condition   Live Specimen
-  Copyright ::            © [L. Ramsden](http://web.hku.hk/%7Elramsden/)
-  -------------------
-![](57.jpg)
-
-  ---------------------------
-  Scientific Name ::  Tylosema fassoglensis (Kotschy) Torre & Hillc.
-  Location ::        Vumba rd near Altar Site, Mutare, Zimbabwe
-  Copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
-  ---------------------------

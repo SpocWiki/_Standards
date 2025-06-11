@@ -2,6 +2,39 @@
 title: Geraniales
 ---
 
+# [[Geraniales]] 
+
+![Erodium cicutarium](Geraniales/Erodium_cicutarium.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Geraniales** is a small order of flowering plants, included within the rosid subclade of eudicots. 
+> The largest family in the order is Geraniaceae with over 800 species. 
+> In addition, the order includes the smaller Francoaceae with about 40 species. 
+> Most Geraniales are herbaceous, but there are also shrubs and small trees.
+>
+> Flower morphology of the Geraniales is rather conserved. 
+> They are usually perfectly pentamerous and 
+> pentacyclic without fused organs besides the carpels of the superior gynoecium. 
+> The androecium is obdiplostemonous. 
+> Only a few genera are tetramerous (Francoa, Tetilla, Melianthus). 
+> 
+> In some genera some stamens (Pelargonium) 
+> or a complete whorl of stamens are reduced (Erodium, Melianthus). 
+> 
+> In the genera Hypseocharis and Monsonia there are 15 instead of the usual ten stamens. 
+> Most genera bear nectariferous flowers. 
+> The nectary glands are formed by the receptacle and are localised at the bases of the antesepalous stamens.
+>
+> The economic importance of Geraniales is low. 
+> Some species of the genus Pelargonium (Geraniaceae) 
+> are cultivated for their aromatic oil used in the perfume industry. 
+> 
+> Some other species, also mostly within Geraniaceae, have horticultural or medicinal uses. 
+> A Paleobotanic record is missing.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Geraniales) 
+
 ## Phylogeny 
 
 
@@ -34,50 +67,20 @@ title: Geraniales
     -   [Sapindales](Sapindales.md)
 
 -   » Sub-Groups 
+	-   *Melianthaceae* [(incl. Francoaceae and Greyiaceae)]
+	-   *Geraniaceae* [(geranium family, incl.
+	    Hypseocharitaceae)]
+	-   *Vivianiaceae* [(incl. Ledocarpaceae)]
 
-# Geraniales 
 
-![Erodium cicutarium](Geraniales/Erodium_cicutarium2596.jpg)
+## Title Illustrations
 
--   *Melianthaceae* [(incl. Francoaceae and Greyiaceae)]
--   *Geraniaceae* [(geranium family, incl.
-    Hypseocharitaceae)]
--   *Vivianiaceae* [(incl. Ledocarpaceae)]
+------------------------------------------------------------------------
+![Erodium cicutarium](Erodium_cicutarium.jpg)
+Scientific Name ::   Erodium cicutarium
+Location ::         Westhalten, Strangenberg, Dép. Haut-Rhin, France
+Comments           Geraniaceae
+Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
+Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
-Containing group: [Rosids](../Rosids.md)
 
-### References
-
-Price, R. A. and J. D. Palmer. 1993. Phylogenetic relationships of the
-Geraniaceae and Geraniales from rbcL sequence comparisons. Annals of the
-Missouri Botanical Garden 80:661-671.
-
-Savolainen, V., M. W. Chase, S. B. Hoot, C. M. Morton, D. E. Soltis, C.
-Bayer, M. F. Fay, A. Y. De Bruijn, S. Sullivan, and Y. L. Qiu. 2000a.
-Phylogenetics of flowering plants based on combined analysis of plastid
-atpB and rbcL gene sequences. Systematic Biology 49:306-362.
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000b. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
-
-##### Title Illustrations
-
-![Erodium cicutarium](Erodium_cicutarium2596_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::   Erodium cicutarium
-  Location ::         Westhalten, Strangenberg, Dép. Haut-Rhin, France
-  Comments           Geraniaceae
-  Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------

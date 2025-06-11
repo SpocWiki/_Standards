@@ -28,7 +28,7 @@ title: Chlorarachniophytes
 
 Containing group: [The other protists](../Protist.md)
 
-### Introduction
+## Introduction
 
 If you find a green amoeba in your sea water sample, it may be a member
 of the chlorarachniophytes. The green color is caused by chloroplasts,
@@ -390,7 +390,7 @@ Van de Peer, Y., and R. De Wachter. 1997. Evolutionary relationships
 among the eukaryotic crown taxa taking into account site-to-site rate
 variation in 18S rRNA. J. Mol. Evol. 45:619-630.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![coccoid cells of Gymnochlora stellata](Gste.jpg)
 

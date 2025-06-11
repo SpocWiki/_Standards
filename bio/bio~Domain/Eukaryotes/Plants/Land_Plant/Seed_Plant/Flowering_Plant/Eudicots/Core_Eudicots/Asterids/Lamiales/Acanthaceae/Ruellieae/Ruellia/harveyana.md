@@ -2,6 +2,29 @@
 title: Ruellia harveyana clade
 ---
 
+# Ruellia harveyana  
+
+![Ruellia nobilis](harveyana/Ruellia_nobilis.jpg) 
+
+Note: this taxon list is still under construction. It does not yet
+contain all known Ruellia harveyana clade subgroups.
+
+Containing group: *[Ruellia s. l.](../Ruellia.md)*
+
+## Introduction
+
+[Erin Tripp](http://www.tolweb.org/) 
+
+Phylogenetic analyses from Tripp (in press) revealed a small, moderately
+supported lineage, the Ruellia harveyana clade, that contains four
+species. There are surely other species that belong to this group, but
+these were not included in taxon sampling for the study. There are no
+known synapormorphies to unite these species. *Ruellia nobilis*, a rare
+and endemic species of the Chaco in S. South America, has very long,
+white corolla tubes--the narrow, unexpanded portion of the tube is
+approximately 10 cm long. Other species in this group have purple
+flowers and occur in S. South America, Central America, and Mexico.
+
 ## Phylogeny 
 
 
@@ -33,53 +56,16 @@ title: Ruellia harveyana clade
     -   [African Ruellia](African_Ruellia)
 
 -   » Sub-Groups 
+	-   *Ruellia harveyana*[ Stapf]
+	-   *Ruellia multifolia*[ (Nees) Lindau]
+	-   *Ruellia nobilis*[ Lindau]
+	-   *Ruellia pilosa*[ (Nees) Pav. ex Nees]
 
-# Ruellia harveyana clade 
+## Title Illustrations
 
-[Erin Tripp](http://www.tolweb.org/)
-
-![ ](harveyana/dscn00612.jpg)
-
--   *Ruellia harveyana*[ Stapf]
--   *Ruellia multifolia*[ (Nees) Lindau]
--   *Ruellia nobilis*[ Lindau]
--   *Ruellia pilosa*[ (Nees) Pav. ex Nees]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known Ruellia harveyana clade subgroups.
-
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
-
-Phylogenetic analyses from Tripp (in press) revealed a small, moderately
-supported lineage, the Ruellia harveyana clade, that contains four
-species. There are surely other species that belong to this group, but
-these were not included in taxon sampling for the study. There are no
-known synapormorphies to unite these species. *Ruellia nobilis*, a rare
-and endemic species of the Chaco in S. South America, has very long,
-white corolla tubes--the narrow, unexpanded portion of the tube is
-approximately 10 cm long. Other species in this group have purple
-flowers and occur in S. South America, Central America, and Mexico.
-
-### References
-
-Ezcurra, C. 1993. Systematics of Ruellia (Acanthaceae) in southern South
-America. Annals of the Missouri Botanical Garden 80:787-845.
-
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
-
-Wasshausen, D. C. and J. R. I. Wood. 2004. Acanthaceae of Bolivia.
-Contr. U.S. Nat. Herb. 49: 1-152.
-
-##### Title Illustrations
-
-![](dscn00612_002.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia nobilis (S. Moore) Lindau
-  Specimen Condition   Dead Specimen
-  Identified By        Erin A. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+![Ruellia nobilis](Ruellia_nobilis.jpg) 
+Scientific Name ::     Ruellia nobilis (S. Moore) Lindau
+Specimen Condition   Dead Specimen
+Identified By        Erin A. Tripp
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 

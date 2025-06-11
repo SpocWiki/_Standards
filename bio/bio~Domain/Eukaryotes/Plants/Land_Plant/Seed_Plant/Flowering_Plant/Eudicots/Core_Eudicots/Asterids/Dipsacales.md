@@ -2,6 +2,23 @@
 title: Dipsacales
 ---
 
+# [[Dipsacales]] 
+
+
+![Dipsacus_fullonum](Dipsacales/Dipsacus_fullonum.jpg) 
+![Lonicera_maackii](Dipsacales/Lonicera_maackii.jpg) 
+![Nardostachys jatamansi](Dipsacales/Nardostachys_jatamansi.jpg) 
+
+## #has_/text_of_/abstract 
+
+> The **Dipsacales** are an order of flowering plants, included within the asterid group of dicotyledons. In the APG III system of 2009, the order includes only two families, Adoxaceae and a broadly defined Caprifoliaceae. Some well-known members of the Dipsacales order are honeysuckle, elder, viburnum, and valerian.
+>
+> Under the Cronquist system, the order included Adoxaceae, Caprifoliaceae sensu stricto, Dipsacaceae, and Valerianaceae.  Under the 2003 APG II system, the circumscription of the order was much the same but the system allowed either a broadly circumscribed Caprifoliaceae including the families Diervillaceae, Dipsacaceae, Linnaeaceae, Morinaceae, and Valerianaceae, or these families being kept separate. The APG III system only uses the broadly circumscribed Caprifoliceae.
+>
+> The Dipsacales appear to be most closely related to the Paracryphiales.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dipsacales) 
+
 ## Phylogeny 
 
 
@@ -33,17 +50,10 @@ title: Dipsacales
     -   [Morinaceae](Dipsacales/Morinaceae.md)
     -   [Valerianaceae](Dipsacales/Valerianaceae.md)
 
-# Dipsacales 
+
+## Introduction
 
 [Charles D. Bell](http://www.tolweb.org/)
-
-![](Dipsacales/Dipsacus_fullonum0047.jpg)
-![](Dipsacales/Lonicera_maackii0142.jpg)
-![ ](Dipsacales/nardos1_002.jpg)
-
-Containing group: [Asterids](../Asterids.md)
-
-### Introduction
 
 Dipsacales, with over 1000 species, form a branch within the Asteridae
 related to the Asterales, Apiales, and several smaller lineages (Bremer
@@ -203,142 +213,31 @@ of incongruence with other data sources. Although it is comforting that
 cpDNA and morphological analyses have yielded very similar results, the
 addition of data from nuclear genes would be highly desirable.
 
-### References
 
-Albach, D. C., P. S. Soltis, D. E. Soltis, and R. G. Olmstead. 2001.
-Phylogenetic analysis of asterids based on sequences of four genes.
-Annals of the Missouri Botanical Garden 88:163-212.
+## Title Illustrations
 
-Backlund, A. A. & Bremer, K. 1997. Phylogeny of the Asteridae s. str.
-based on rbcL sequences, with particular reference to the Dipsacales.
-Plant Systematics and Evolution 207:225-254.
 
-Backlund, A. A. & Bremer, K. 1998. To be or not to be- principles of
-classification and monotypic plant families. Taxon 47:391-400.
+--------------------------
+![Fuller\'s teasel, Dipsacus fullonum](Dipsacus_fullonum.jpg)
+Scientific Name ::    Dipsacus fullonum
+Location ::          Mt. Shasta (Siskiyou County, California, USA)
+Comments            Fuller\'s teasel (Dipsacaceae)
+Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::           © 2002 [Molly Elizabeth Bagley](mailto:illustrations@snowcrest.net)
 
-Backlund, A. A. & Donoghue, M. J. 1996. Morphology and phylogeny of the
-order Dipsacales. In Phylogeny of the Dipsacales, A. A. Backlund,
-Doctoral Dissertation. Uppsala: Department of Systematic Botany, Uppsala
-Univ.
+-------------------------------------------------------------------------
+![Amur honeysuckle, Lonicera maackii](Lonicera_maackii.jpg)
+Scientific Name ::    Lonicera maackii
+Location ::          Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
+Comments            Amur honeysuckle (Caprifoliaceae)
+Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
-Backlund A. A. & Pyck, N. 1998. Diervillaceae and Linnaeaceae, two new
-families of caprifolioids. Taxon 47:657-661.
+---------------------------------------------------------------------------
+![Nardostachys jatamansi](Dipsacales/Valerianaceae/Nardostachys_jatamansi.jpg) 
+Scientific Name ::     Nardostachys jatamansi
+Specimen Condition   Live Specimen
+Identified By        C. Bell
+Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
 
-Bell, C. D. and M. J. Donoghue. 2003. Phylogeny and biogeography of
-Morinaceae (Dipsacales) based on nuclear and chloroplast DNA sequences.
-Organisms, Diversity, and Evolution.
 
-Bell, C. D., Edwards, E. J., Kim, S.-T. & Donoghue, M. J. (2001):
-Dipsacales phylogeny based on chloroplast DNA sequences. Harvard Papers
-in Botany 6:481-499.
-
-Blackmore, S. & Cannon, M. J. (1983): Palynology and systematics of
-Morinaceae. Rev. Palaeobot. and Palyn.40:207-226.
-
-Bremer, K., A. Backlund, B. Sennblad, U. Swenson, K. Andreasen, M.
-Hjertson, J. Lundberg, M. Backlund, and B. Bremer. 2001. A phylogenetic
-analysis of 100+ genera and 50+ families of euasterids based on
-morphological and molecular data with notes on possible higher level
-morphological synapomorphies. Plant Systematics and Evolution
-229:137-169.
-
-Bremer, B., K. Bremer, N. Heidari, P. Erixon, R. G. Olmstead, A. A.
-Anderberg, M. K?llersj?, and E. Barkhordarian. 2002. Phylogenetics of
-asterids based on 3 coding and 3 non-coding chloroplast DNA markers and
-the utility of non-coding DNA at higher taxonomic levels. Molecular
-Phylogenetics and Evolution 24:274-301.
-
-Cannon, M. J. & Cannon, J. F. M. (1984): A revision of the Morinaceae
-(Magnoliophyta-Dipsacales). Bull. Brit. Mus. (Nat. Hist.) Bot. 12:1-35.
-
-Caputo, P. & Cozzolino, S. (1994): A cladistic analysis of Dipsacaceae
-(Dipsacales). Pl. Syst. Evol. 189:41-61.
-
-Cronquist, A. (1988): The Evolution and Classification of Flowering
-Plants. New York Botanical Garden, Bronx, New York.
-
-Donoghue, M. J., T. Eriksson, P. A. Reeves, and R. G. Olmstead. 2001.
-Phylogeny and phylogenetic taxonomy of Dipsacales, with special
-reference to Sinadoxa and Tetradoxa (Adoxaceae). Harvard Papers in
-Botany 6:459-479.
-
-Donoghue, M. J., R. G. Olmstead, J. F. Smith, and J. D. Palmer. 1992.
-Phylogenetic relationships of Dipsacales based on rbcL sequences. Annals
-of the Missouri Botanical Garden 79:333-345.
-
-Donoghue, M. J., Bell, C. D., & Winkworth, R. C. (in press): The
-evolution of reproductive characters in Dipsacales. Int. J. Plant Sci.
-
-Hofman, U. & Gottmann, J. (1990): Morina L. und Triplostegia Wall. Ex
-DC. Im vergleich mit Valerianaceae und Dipsacaceae. Bot. Jahrb. Syst.
-111:499-553.
-
-Judd, W. S., Sanders, R. W. & Donoghue, M. J. (1994): Angiosperm family
-pairs preliminary phylogenetiic analyses. Harvard Pap. in Bot. 5:1-51.
-
-Manchester, S. R. & Donoghue, M. J. (1995): Winged fruits of Linnaeeae
-(Caprifoliaceae) in the Tertiary of western North America: Diplodipelta
-gen. nov. International Journal of Plant Sciences 156:709-722.
-
-Olmstead, R. G., K.-J. Kim, R. K. Jansen, and S. J. Wagstaff. 2000. The
-phylogeny of the Asteridae sensu lato based on chloroplast ndhF gene
-sequences. Molecular Phylogenetics and Evolution 16:96-112.
-
-Peng, C.-I., Tobe, H. & Takahashi, M. (1995): Reproductive morphology
-and relationships of Triplostegia (Dipsacales). Bot. Jahrb. Syst.
-116:505-516.
-
-Pyck, N., Roels, P. & Smets, E. (1999): Tribal relationships in
-Caprifoliaceae: evidence from a cladistic analysis using ndhF sequences.
-Syst. Geogr. Pl. 69:145-159.
-
-Pyck, N. & Smets, E. (2000): A search for the position of the seven-son
-flower (Heptacodium, Dipsacales): combining molecular and morphological
-evidence. Pl. Syst. Evol. 225:185-199.
-
-Pyck, N., Van Lysebetten, A., Stessens, J. & Smets, E. (2002): The
-phylogeny of Patrinieae sensu Grabner (Valerianaceae) revisited:
-additional evidence from ndhF sequence data. Pl. Syst. Evol. 233:29-46.
-
-Roels, P. & Smets, E. (1996): A floral ontogenetic study in Dipsacales.
-Int. J. Plant Sci. 157:203-218.
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lled?, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000. Phylogeny of the eudicots: a nearly
-complete familial analysis based on rbcl gene sequences. Kew Bulletin
-55:257-309.
-
-Zhang, W-H., Chen, Z-D., Li, J-H., Chen, H-B. & Tang, Y-C. (2003):
-Phylogeny of the Dipsacales s.l. based on chloroplast trnL-F and ndhF
-sequences. Mol. Phylo. Evol. 26:176-189.
-
-##### Title Illustrations
-
-![Fuller\'s teasel, Dipsacus fullonum](Dipsacus_fullonum0047_002.jpg)
-
-  --------------------------
-  Scientific Name ::    Dipsacus fullonum
-  Location ::          Mt. Shasta (Siskiyou County, California, USA)
-  Comments            Fuller\'s teasel (Dipsacaceae)
-  Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::           © 2002 [Molly Elizabeth Bagley](mailto:illustrations@snowcrest.net)
-  --------------------------
-![Amur honeysuckle, Lonicera maackii](Lonicera_maackii0142_002.jpg)
-
-  -------------------------------------------------------------------------
-  Scientific Name ::    Lonicera maackii
-  Location ::          Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
-  Comments            Amur honeysuckle (Caprifoliaceae)
-  Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
-  -------------------------------------------------------------------------
-![](Dipsacales/Valerianaceae/nardos1.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Nardostachys jatamansi
-  Specimen Condition   Live Specimen
-  Identified By        C. Bell
-  Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
-  ---------------------------------------------------------------------------

@@ -29,7 +29,7 @@ title: Amastigomonas filosa
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Amastigomonas* is distinguished by having fine threads
 emerging from the sides of the body. It has been reported once from
@@ -40,7 +40,7 @@ marine sediments. Otherwise, little known of its biology.
 Larsen, J. and Patterson, D. J. 1990. Some flagellates (Protista) from
 tropical marine sediments. Journal of Natural History 24: 801-937.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](famastigof_002.jpg)
 

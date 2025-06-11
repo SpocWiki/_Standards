@@ -32,7 +32,7 @@ title: Ancyromonas
 
 Containing group: [The other protists](../Protist.md)
 
-### Introduction
+## Introduction
 
 *Ancyromonas* cells are small, less than 10 µm. They glide and have two
 flagella. The posterior flagellum inserts below the apex of the cell and
@@ -86,7 +86,7 @@ Patterson D. J. and Simpson, A. G. B. 1996. Heterotrophic flagellates
 from coastal marine and hypersaline sediments in Western Australia.
 European Journal of Protistology 32:423-448.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Scanning electron micrograph of Ancyromonas sigmoides](ancyroms_002.jpg)
 

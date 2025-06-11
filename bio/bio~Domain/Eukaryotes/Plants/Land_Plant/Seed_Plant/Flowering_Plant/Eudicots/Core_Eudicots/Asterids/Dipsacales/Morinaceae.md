@@ -24,15 +24,41 @@ title: Morinaceae
 
 -   » Sub-Groups 
 
-# Morinaceae 
+# [[Morinaceae]] 
 
-[Charles D. Bell](http://www.tolweb.org/)
 
-![ ](Morinaceae/Morina_longifolia04474.jpg)
+![Morinaceae](Morinaceae/Morina_longifolia.jpg) 
 
 Containing group: [Dipsacales](../Dipsacales.md)
 
-### Introduction
+## #has_/text_of_/abstract 
+
+> Morinoideae is a subfamily of plants in the family Caprifoliaceae, order Dipsacales. 
+> It was at one time recognized as the separate family **Morinaceae**. 
+> The genus Morina has also been included in a separate family Dipsacaceae, 
+> currently included in Caprifoliaceae.  Three genera have been included in this subfamily:
+>
+> 
+>
+> Acanthocalyx
+>
+> A. alba, A. albus, A. delavayi, A. nepalensis.
+>
+> Cryptothladia
+>
+> C. chinensis, C. chlorantha, C. kokonorica, C. polyphylla
+>
+> Morina
+>
+> M. couteriana, M. longifolia, M. persica
+>
+> M. longifolia has the common names "whorl flower" and "Persian steppe flower." This species has cultivars: M. delavaya and M. wallichii.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Morinoideae) 
+
+## Introduction
+
+[Charles D. Bell](http://www.tolweb.org/) 
 
 An excellent taxonomic revision of Morinaceae was published by Cannon
 and Cannon in 1984. They recognized 13 species extending from
@@ -99,87 +125,14 @@ Cryptothladia. However, only one species has been included from each of
 these groups, and it has therefore not been possible to test their
 monophyly.
 
-### References
 
-Backlund, A. A. & Bremer, K. (1997): Phylogeny of the Asteridae s. str.
-based on rbcL sequences, with particular reference to the Dipsacales.
-Pl. Syst. Evol. 207:225-254.
+## Title Illustrations
 
-Backlund, A. A. & Bremer, K. (1998): To be or not to be- principles of
-classification and monotypic plant families. Taxon 47:391-400.
 
-Backlund, A. A. & Donoghue, M. J. (1996): Morphology and phylogeny of
-the order Dipsacales. In Phylogeny of the Dipsacales, A. A. Backlund,
-Doctoral Dissertation. Uppsala: Department of Systematic Botany, Uppsala
-Univ.
+---------------------------------------------------------------------
+![Morinaceae](Morina_longifolia.jpg)
+Scientific Name ::     Morina longifolia
+Specimen Condition   Live Specimen
+Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
 
-Backlund A. A. & Pyck, N. (1998): Diervillaceae and Linnaeaceae, two new
-families of caprifolioids. Taxon 47:657-661.
 
-Bell, C. D. and M. J. Donoghue. Phylogeny and biogeography of Morinaceae
-(Dipsacales) based on nuclear and chloroplast DNA sequences. Organisms,
-Diversity, and Evolution.
-
-Bell, C. D., Edwards, E. J., Kim, S.-T. & Donoghue, M. J. (2001):
-Dipsacales phylogeny based on chloroplast DNA sequences. Harvard Pap. in
-Bot. 6:481-499.
-
-Blackmore, S. & Cannon, M. J. (1983): Palynology and systematics of
-Morinaceae. Rev. Palaeobot. and Palyn.40:207-226.
-
-Cannon, M. J. & Cannon, J. F. M. (1984): A revision of the Morinaceae
-(Magnoliophyta-Dipsacales). Bull. Brit. Mus. (Nat. Hist.) Bot. 12:1-35.
-
-Caputo, P. & Cozzolino, S. (1994): A cladistic analysis of Dipsacaceae
-(Dipsacales). Pl. Syst. Evol. 189:41-61.
-
-Cronquist, A. (1988): The Evolution and Classification of Flowering
-Plants. New York Botanical Garden, Bronx, New York.
-
-Donoghue, M. J. , Eriksson, T., Reeves, P. A. & Olmstead, R. G. (2001):
-Phylogeny and phylogenetic taxonomy of Dipsacales, with special
-reference to Sinadoxa and Tetradoxa (Adoxaceae). Harvard Pap. in
-Bot.6:459-479.
-
-Donoghue, M. J., Bell, C. D., & Winkworth, R. C. (in press): The
-evolution of reproductive characters in Dipsacales. Int. J. Plant Sci.
-
-Hofman, U. & Gottmann, J. (1990): Morina L. und Triplostegia Wall. Ex
-DC. Im vergleich mit Valerianaceae und Dipsacaceae. Bot. Jahrb. Syst.
-111:499-553.
-
-Judd, W. S., Sanders, R. W. & Donoghue, M. J. (1994): Angiosperm family
-pairs preliminary phylogenetiic analyses. Harvard Pap. in Bot. 5:1-51.
-
-Peng, C.-I., Tobe, H. & Takahashi, M. (1995): Reproductive morphology
-and relationships of Triplostegia (Dipsacales). Bot. Jahrb. Syst.
-116:505-516.
-
-Pyck, N., Roels, P. & Smets, E. (1999): Tribal relationships in
-Caprifoliaceae: evidence from a cladistic analysis using ndhF sequences.
-Syst. Geogr. Pl. 69:145-159.
-
-Pyck, N. & Smets, E. (2000): A search for the position of the seven-son
-flower (Heptacodium, Dipsacales): combining molecular and morphological
-evidence. Pl. Syst. Evol. 225:185-199.
-
-Pyck, N., Van Lysebetten, A., Stessens, J. & Smets, E. (2002): The
-phylogeny of Patrinieae sensu Grabner (Valerianaceae) revisited:
-additional evidence from ndhF sequence data. Pl. Syst. Evol. 233:29-46.
-
-Roels, P. & Smets, E. (1996): A floral ontogenetic study in Dipsacales.
-Int. J. Plant Sci. 157:203-218.
-
-Zhang, W-H., Chen, Z-D., Li, J-H., Chen, H-B. & Tang, Y-C. (2003):
-Phylogeny of the Dipsacales s.l. based on chloroplast trnL-F and ndhF
-sequences. Mol. Phylo. Evol. 26:176-189.
-
-##### Title Illustrations
-
-![](Morina_longifolia04474_002.jpg)
-
-  ---------------------------------------------------------------------
-  Scientific Name ::     Morina longifolia
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
-  ---------------------------------------------------------------------

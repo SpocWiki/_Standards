@@ -30,7 +30,7 @@ title: Tuberculina sbrozzii
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Tsb1718.jpg)
 

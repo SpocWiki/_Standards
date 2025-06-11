@@ -34,7 +34,7 @@ Classification after Wells (1956).
 
 Containing group: [Scleractinia](Scleractinia.md)
 
-### Introduction
+## Introduction
 
 The fungiines have fenestrate (porous) septa formed of simple or
 compound trabeculae and united by simple or compound synapticulae. Septa

@@ -36,7 +36,7 @@ Containing group: [Virus](../Virus.md)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/DNA%20virus)
 
-##### Title Illustrations
+## Title Illustrations
 
   ------------------------------------------------------------------------------------------------
 

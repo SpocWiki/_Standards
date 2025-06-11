@@ -32,7 +32,7 @@ title: Helicobasidium longisporum
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](rr_002.jpg)
 

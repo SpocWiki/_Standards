@@ -2,8 +2,21 @@
 title: Streptosiphon hirsutus
 ---
 
-## Phylogeny 
+## [[Streptosiphon]] 
 
+
+![ ](Streptosiphon/Strepto.jpg)
+![ ](Streptosiphon/Strepto_002.jpg)
+![Streptosiphon hirsutus](Streptosiphon/Streptosiphon.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Streptosiphon** hirsutus is a species of flowering plant belonging to the family Acanthaceae. 
+> It is a shrub endemic to Tanzania. It is the sole species in genus Streptosiphon.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Streptosiphon) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
@@ -33,20 +46,12 @@ title: Streptosiphon hirsutus
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	- *Streptosiphon hirsutus* [Mildbr.] 
 
-## *Streptosiphon* 
 
-# *Streptosiphon hirsutus* [Mildbr.] 
+## Introduction
 
 [Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
-
-![ ](Streptosiphon/Strepto.jpg)
-![ ](Streptosiphon/Strepto_002.jpg)
-![](Streptosiphon/Streptosiphon_002.jpg)
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
 
 *Streptosiphon* is a genus of a single species that occurs in Tanzania.
 This plant is unique among Acantheae in having corollas that are
@@ -61,32 +66,31 @@ triangle.  Our molecular data, as well as other morphological
 characters, strongly suggest that this pollen type has evolved several
 times in Acantheae.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](Streptosiphon/Strepto_003.jpg)
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Streptosiphon hirsutus Mildbr.
-  Location ::           Tanzania
-  Specimen Condition   Dead Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Streptosiphon/Strepto_004.jpg)
+---------------------------------------------------------------------------
+![](Streptosiphon/Strepto_003.jpg)
+Scientific Name ::     Streptosiphon hirsutus Mildbr.
+Location ::           Tanzania
+Specimen Condition   Dead Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Streptosiphon hirsutus Mildbr.
-  Location ::           Tanzania
-  Reference            Copenhagen Herbarum (C)
-  Specimen Condition   Dead Specimen
-  Collection           \(C\)
-  Collector            Mwasumbi & Clarke
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Streptosiphon.jpg)
+---------------------------------------------------------------------------
+![](Streptosiphon/Strepto_004.jpg)
+Scientific Name ::     Streptosiphon hirsutus Mildbr.
+Location ::           Tanzania
+Reference            Copenhagen Herbarum (C)
+Specimen Condition   Dead Specimen
+Collection           \(C\)
+Collector            Mwasumbi & Clarke
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Streptosiphon hirsutus Mildbr.
-  Location ::           Tanzania
-  Specimen Condition   Dead Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![](Streptosiphon.jpg)
+Scientific Name ::     Streptosiphon hirsutus Mildbr.
+Location ::           Tanzania
+Specimen Condition   Dead Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+
+

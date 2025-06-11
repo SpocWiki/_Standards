@@ -28,7 +28,7 @@ title: subgenus Strobus
     -   [subsection Cembroides](subsection_Cembroides)
 
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Pinus_monticola(softpine).jpg)
 

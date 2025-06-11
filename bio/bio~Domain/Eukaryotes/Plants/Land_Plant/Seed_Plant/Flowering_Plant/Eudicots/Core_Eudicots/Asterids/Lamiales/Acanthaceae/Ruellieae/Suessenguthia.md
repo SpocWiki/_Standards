@@ -1,6 +1,23 @@
 ---
 title: Suessenguthia
+aliases:
+  - Suessenguthia
 ---
+
+# [[Suessenguthia]] 
+
+![ ](Suessenguthia/5592.jpg)
+![ ](Suessenguthia/5591_002.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Suessenguthia** is a genus of the Acanthaceae plant family comprising eight species of shrubs with showy, tubular flowers arranged in few-flowered heads. It occurs in the lowlands and Andean foothills of southern Peru, Bolivia, and the Brazilian state of Acre, often growing in small groups along rivers.
+>
+> Suessenguthia is similar to and closely related to the better known and larger genus Sanchezia.
+>
+> Suessenguthia multisetosa from eastern Bolivia is one of the more known species as it is cultivated for ornamental use.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Suessenguthia) 
 
 ## Phylogeny 
 
@@ -33,51 +50,37 @@ title: Suessenguthia
 
 -   » Sub-Groups 
 
-# *Suessenguthia* 
 
-[Erin Tripp](http://www.tolweb.org/)
+## Introduction
 
-![ ](Suessenguthia/5592.jpg)
-![ ](Suessenguthia/5591_002.jpg)
-
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
+[Erin Tripp](http://www.tolweb.org/) 
 
 *Suessenguthia* is a small genus of six species (Schmidt-Lebuhn 2003).
 These are shrubs to treelets that genrally occur in wet or riparian
 habitats in the eastern Andean foothills (Bolivia, Peru, and adjacent
-lowlands in western Brazil).\
-\
+lowlands in western Brazil). 
+
 Recent phylogenetic analyses suggest *Suessenguthia* is paraphyletic and
 that *Sanchezia* is monophyletic and nested within it (Schmidt-Lebuhn et
 al. 2005). The two genera bear many morphological similarities, but
 *Suessenguthia* species have 4 fertile stamens with anther appendages
-(vs. 2 fertile, unappendaged stamens in *Sanchezia*).\
+(vs. 2 fertile, unappendaged stamens in *Sanchezia*). 
 
-### References
 
-Schmidt-Lebuhn, A.N. 2003. A taxonomic revision of the genus
-Suessenguthia Merxm. (Acanthaceae). Candollea. 58: 101-128.
+## Title Illustrations
 
-Schmidt, Lebuhn, A.N., M. Kessler, and J. Muller. 2005. Evolution of
-Suessenguthia (Acanthaceae) inferred from morphology, AFLP data, and ITS
-rDNA sequences. Organisms, Diversity & Evolution. 5: 1-13.
 
-##### Title Illustrations
+----------------------
+![](5592.jpg)
+Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
+Location ::           Thailand
+Specimen Condition   Live Specimen
+Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
 
-![](5592_002.jpg)
+----------------------
+![](5591.jpg)
+Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
+Specimen Condition   Live Specimen
+Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
 
-  ----------------------
-  Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
-  Location ::           Thailand
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
-  ----------------------
-![](5591.jpg)
 
-  ----------------------
-  Scientific Name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
-  ----------------------

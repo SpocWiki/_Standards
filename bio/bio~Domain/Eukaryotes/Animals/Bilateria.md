@@ -157,7 +157,7 @@ evidence is championed by Nielsen (2001):
 
 ![](NielsenBilateriaTree.gif)
 
-##### Title Illustrations
+## Title Illustrations
 
 ![Bright red cardinal bird](cardinal_002.gif)
 

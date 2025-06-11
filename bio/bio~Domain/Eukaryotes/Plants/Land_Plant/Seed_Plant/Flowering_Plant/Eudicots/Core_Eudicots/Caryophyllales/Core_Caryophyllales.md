@@ -31,7 +31,7 @@ Caryophyllales sensu stricto
 ![Organ pipe cactus](Core_Caryophyllales/Stenocerus,Organ_pipe_cactus.jpg) 
 ![Delosperma_lineare](Core_Caryophyllales/Delosperma_lineare.jpg) 
 
-### Introduction
+## Introduction
 
 [Pam Soltis, Doug Soltis, and Monica Arakaki](http://www.tolweb.org/)
 

@@ -4,7 +4,6 @@ title: Quillaja
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fabales](../Fabales.md)
     -   [Rosids](../../Rosids.md)
@@ -25,17 +24,24 @@ title: Quillaja
 
 -   » Sub-Groups 
 
-## Quillajaceae 
+## [[Quillajaceae]] 
 
-# *Quillaja* 
+*Quillaja* 
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/)
+![Quillaja saponaria](Quillajaceae/Quillaja_saponaria.jpg) 
 
-![ ](Quillajaceae/Quillaja_saponaria_002.jpg)
+## #has_/text_of_/abstract 
 
-Containing group: [Fabales](../Fabales.md)
+> **Quillajaceae**, the soapbark family, is a family of flowering plants.  
+> It contains a single extant genus Quillaja, containing only two species, 
+> and one fossil species, Dakotanthus cordiformis.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Quillajaceae) 
 
-### Introduction
+
+## Introduction
+
+[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
 
 *Quillaja* Molina, a genus of small evergreen trees with three to four
 species from temperate South America, was included in Rosaceae as part
@@ -43,27 +49,13 @@ of Quillajoideae (Takhtajan, 1997) or as Spiraeaoideae-Quillajeae
 (Robertson, 1974), but wood anatomical data, etc., suggest that it
 should be removed (Lotova & Timonin, 1999; cf. Zhang 1992).
 
-### References
+## Title Illustrations
 
-Lotova, L. I. and A. C. Timonin. 1999. Anatomy of cortex and secondary
-phloem in Rosaceae. 3. Quillajoideae. Bot. Zhurn. 84 (2): 34-41.
 
-Robertson, K. R. 1974. The genera of the Rosaceae in the southeastern
-United States. J. Arnold Arboretum 55: 303-401, 611-662.
+------------------------
+![](Quillaja_saponaria.jpg)
+Scientific Name ::     Quillaja saponaria Molina
+Location ::           Cerro Manquehue, Chile
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/)
 
-Takhtajan, Armen. 1997. Diversity and classification of flowering
-plants. Columbia University Press, New York.
-
-Zhang, S.-Y. 1992. Systematic wood anatomy of the Rosaceae. Blumea 37:
-81-158.
-
-##### Title Illustrations
-
-![](Quillaja_saponaria.jpg)
-
-  ------------------------
-  Scientific Name ::     Quillaja saponaria Molina
-  Location ::           Cerro Manquehue, Chile
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/)
-  ------------------------

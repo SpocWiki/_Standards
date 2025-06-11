@@ -2,6 +2,21 @@
 title: Acantheae
 ---
 
+# [[Acantheae]] 
+
+
+![Aphelandra](Acantheae/Aphelandra.jpg) 
+![ ](Acantheae/Blepharis_Juss.jpg)
+![Holographis_argyrea](Acantheae/Holographis_argyrea.jpg) 
+![sclerock](Acantheae/sclerock.jpg) 
+
+## #has_/text_of_/abstract 
+
+> Acanthoideae is a subfamily of plants in the family Acanthaceae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Acanthoideae) 
+
+
 ## Phylogeny 
 
 
@@ -35,18 +50,10 @@ title: Acantheae
     -   [Stenandrium Clade](Stenandrium_Clade)
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
-# Acantheae 
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+## Introduction
 
-![ ](Acantheae/Aphelandra_002.jpg)
-![ ](Acantheae/blepharis1.jpg)
-![](Acantheae/Holographis_argyrea33_002.jpg)
-![ ](Acantheae/sclerock_002.jpg)
-
-Containing group: [Acanthaceae](../Acanthaceae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 Acantheae are well supported as the basal lineage of core Acanthaceae
 (i.e., those plants with retinaculate fruits) and also as a clade.  The
@@ -97,195 +104,44 @@ all five lobes of the corolla directed ventrally such that the plants
 lack an upper lip (although in some, the dorsal sepal seems to fulfill
 that role functionally).  
 
-### References
 
-Benoist, R. 1930. Descriptons d'espèces nouvelles d'Acanthacées de
-Madagascar. Bulletin de la Société botanique de France 76: 1031-1038.
+## Title Illustrations
 
-Benoist, R. 1967. Acanthacées. In H. Humbert, Flore de Madagascar et des
-Comores 182, tome 1: 1-230.
 
-Bentham, G. and J. D. Hooker. 1876. Genera Plantarum 2: 1060-1122.
-London: Reeve.
+-----------------
+![Aphelandra impressa](Aphelandra_impressa.jpg) 
+Scientific Name ::     Aphelandra impressa Lindau (Acantheae)
+Location ::           Venezuela
+Specimen Condition   Live Specimen
+Identified By        L. A. McDade
+Copyright ::            © 2006 Mark Skinner
 
-Daniel, T. F. 1983. Systematics of Holographis (Acanthaceae). Journal of
-the Arnold Arboretum 64: 129-160.
+![Blepharis](Acantheae/Blepharis/blepharis1_002.jpg) 
+---------------------------------------------------------------------------
+Scientific Name ::     Blepharis Juss.
+Location ::           Davenham, South Africa
+Specimen Condition   Live Specimen
+Collection           J
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+---------------------------------------------------------------------------
 
-Daniel, T. F. 1985. A revision of Stenandrium (Acanthaceae) in Mexico
-and adjacent regions. Annals of the Missouri Botanical Garden 71:
-1028-1043.
+![](Holographis_argyrea33.jpg)
 
-Daniel, T. F. 1991. A revision of Aphelandra (Acanthaceae) in Mexico.
-Proceedings of the California Academy of Sciences 47: 235-274.
+---------------------
+Scientific Name ::     Encephalosphaera lasiandra Mildbr.
+Location ::           Peru
+Comments             Image is on a herbarium at F
+Specimen Condition   Live Specimen
+Collector            J. G. Graham & J. Schunke Vigo
+Copyright ::            © 2006 [Field Museum](mailto:mcdade@acnatsci.org)
+---------------------
 
-Daniel, T. F. 2000. Additional chromosome numbers of American
-Acanthaceae. Systematic Botany 25: 15-25.
+![](Acantheae/sclerock.jpg)
 
-Daniel, T. F. and T. I. Chuang. 1998. Chromosome numbers of cultivated
-Acanthaceae and systematic implications. Pp. 309\--330 in Diversity and
-taxonomy of tropical flowering plants, eds. P. Mathew and M. Sivadasan.
-Calicut, India: Mentor Books.
-
-Daniel, T. F., T. I. Chuang, and M. A. Baker. 1990. Chromosome numbers
-of American Acanthaceae. Systematic Botany 15: 13-25.
-
-Furness, C. A. 1990. Pollen morphology of Crossandra and Crossandrella
-(Acanthaceae: Acantheae). Grana 29: 161-176.
-
-Furness, C. A. 1994. The caveate pollen of Streptosiphon hirsutus
-(Acanthaceae: Acantheae) and its taxonomic significance. Kew Bulletin
-49: 409-414.
-
-Grisebach, A. 1858. Novitiae florae panamensis. Bonplandia 6: 2-12.
-
-Grisebach, A. H. R. 1864. Flora of the British West Indian Islands.
-London: Reeve and Co.
-
-Heine, H. 1966. Acanthacées. Vol. 13 in Flore de Gabon, A. Aubréville
-(ed.). Paris: Muséum National D'Histoire Naturelle.
-
-Hooker, W. J. 1837. Icones Plantarum, Volume 2. London: Longman, Rees,
-Orme, Brown, Green and Longman.
-
-Hooker, W. J. 1845. Curtis's botanical magazine, Volume 71. London:
-Reeve Bros.
-
-Leonard, E. C. 1953. The Acanthaceae of Colombia, II. Contributions from
-the United States National Herbarium 31: 119-322.
-
-Mangenot, S. and G. Mangenot. 1962. Enquête sur les nombres
-chromosomiques dans une collection d\'espèces tropicales. Revue de
-Cytologie et de Biologie Végetales 25: 411-447.
-
-Manktelow, M. 1996. Phaulopsis (Acanthaceae)---a monograph. Symbolae
-Botanicae Upsalienses 31: 1-184.
-
-Manktelow, M., L. A. McDade, B. Oxelman, C. A. Furness, and M.-J.
-Balkwill. 2001. The enigmatic tribe Whitfieldieae (Acanthaceae):
-delimitation and phylogenetic relationships based on molecular and
-morphological data. Systematic Botany 26: 104-119.
-
-McDade, L. A. 1982. Three new species of Aphelandra (Acanthaceae) from
-Central America. Annals of the Missouri Botanical Garden 69: 402-411.
-
-McDade, L. A. 1984. Systematics and reproductive biology of the Central
-American species of the Aphelandra pulcherrima complex (Acanthaceae).
-Annals of the Missouri Botanical Garden 71: 104-165.
-
-McDade, L. A. 1992. Pollinator relationships, biogeography, and
-phylogenetics. BioScience 42: 21-26.
-
-McDade, L. A. and M. L. Moody. 1999. Phylogenetic relationships among
-Acanthaceae: evidence from non-coding trnL-trnF chloroplast DNA
-sequences. American Journal of Botany 86: 70-80.
-
-McDade, L. A. and M. D. Turner. 1997. Extrafloral nectaries in
-Aphelandra: anatomy, development and systematic implications. American
-Journal of Botany 84: 1 15.
-
-McDade, L. A., T. F. Daniel, S. E. Masta, and K. M. Riley. 2000a.
-Phylogenetic relationships within the tribe Justicieae (Acanthaceae):
-evidence from molecular sequences, morphology, and cytology. Annals of
-the Missouri Botanical Garden 87: 435-458.
-
-McDade, L. A., S. E. Masta, M. L. Moody, and E. Waters. 2000b.
-Phylogenetic relationships among Acanthaceae: evidence from two genomes.
-Systematic Botany 25: 105-120.
-
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
-
-Moylan, E. C., J. R. Bennett, M. A. Carine, R. G. Olmstead, and R. W.
-Scotland. 2004. Phylogenetic relationships among Strobilanthes s.l.
-(Acanthaceae): evidence from ITS nrDNA, trnL-F cpDNA, and morphology.
-American Journal of Botany 91: 724-735.
-
-Schwarzbach, A. E. and L. A. McDade. 2002. Phylogenetic relationships of
-the mangrove family Avicenniaceae based on chloroplast and nuclear
-ribosomal DNA sequences. Systematic Botany 27: 84-98.
-
-Scotland, R.W. and K. Vollesen. 2000. Classification of Acanthaceae. Kew
-Bulletin 55: 513-589.
-
-Scotland, R.W., J. A. Sweere, P. A. Reeves, and R. G. Olmstead. 1995.
-Higher-level systematics of Acanthaceae determined by chloroplast DNA
-sequences. American Journal of Botany 82: 266-275.
-
-Swofford, D. L. 2000. PAUP\*. Phylogenetic analysis using parsimony
-(\*And Other Methods). Version 4. Sunderland: Sinauer Associates.
-
-Taberlet, P., L. Gielly, G. Pautou, and J. Bouvet. 1991. Universal
-primers for amplification of three non-coding regions of chloroplast
-DNA. Plant Molecular Biology 17: 1105-1109.
-
-Tomlinson, P. B. 1986. The botany of mangroves. Cambridge: Cambridge
-University Press.
-
-Vollesen, K. 1990a. Notes on Crossandra (Acanthaceae). Kew Bulletin 45:
-121-135.
-
-Vollesen, K. 1990b. The genus Crossandra (Acanthaceae) in the African
-continent. Kew Bulletin 45: 503-534.
-
-Vollesen, K. 1991. A revision of the African genus Sclerochiton
-(Acanthaceae: Acantheae). Kew Bulletin 46: 1-50.
-
-Vollesen, K. 1992. The Old World species of Stenandrium (Acanthaceae:
-Acantheae). Kew Bulletin 47: 169-202.
-
-Vollesen, K. 1994. The genus Streptosiphon (Acanthaceae: Acantheae). Kew
-Bulletin 9: 401-407.
-
-Vollesen, K. 1997. Synopsis of the genus Crossandra (Acanthaceae) in
-Madagascar. Kew Bulletin 52: 379-415.
-
-Vollesen, K. 1999. Cynarospermum, a new genus of Acanthaceae from India.
-Kew Bulletin 54: 171-177.
-
-Vollesen, K. 2000. Blepharis (Acanthaceae): a taxonomic revision. Kew:
-Royal Botanic Gardens.
-
-Wasshausen, D. C. 1975. The genus Aphelandra (Acanthaceae). Smithsonian
-Contributions to Botany no. 18.
-
-##### Title Illustrations
-
-![](Aphelandra.jpg)
-
-  -----------------
-  Scientific Name ::     Aphelandra impressa Lindau (Acantheae)
-  Location ::           Venezuela
-  Specimen Condition   Live Specimen
-  Identified By        L. A. McDade
-  Copyright ::            © 2006 Mark Skinner
-  -----------------
-![](Acantheae/Blepharis/blepharis1_002.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Blepharis Juss.
-  Location ::           Davenham, South Africa
-  Specimen Condition   Live Specimen
-  Collection           J
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Holographis_argyrea33.jpg)
-
-  ---------------------
-  Scientific Name ::     Encephalosphaera lasiandra Mildbr.
-  Location ::           Peru
-  Comments             Image is on a herbarium at F
-  Specimen Condition   Live Specimen
-  Collector            J. G. Graham & J. Schunke Vigo
-  Copyright ::            © 2006 [Field Museum](mailto:mcdade@acnatsci.org)
-  ---------------------
-![](sclerock.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Stenandrium guineensis (Nees) Vollesen
-  Location ::           Greenhouses, Kew Botanical Garden, Richmond England
-  Specimen Condition   Live Specimen
-  Identified By        K. Vollesen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Scientific Name ::     Stenandrium guineensis (Nees) Vollesen
+Location ::           Greenhouses, Kew Botanical Garden, Richmond England
+Specimen Condition   Live Specimen
+Identified By        K. Vollesen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+---------------------------------------------------------------------------

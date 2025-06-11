@@ -34,36 +34,30 @@ title: Euruellia clade
 
 -   » Sub-Groups 
 
-# Euruellia clade 
+	-   *Ruellia brittoniana*[ Leonard]
+	-   *Ruellia ciliatiflora*[ Hook.]
+	-   *Ruellia coerulea*[ Morong]
+	-   *Ruellia drummondiana*[ (Nees) A. Gray]
+	-   *Ruellia edwardsae*[ Tharp & F. A. Barkley]
+	-   *Ruellia hygrophila*[ Mart.]
+	-   *Ruellia jimulcensis*
+	-   *Ruellia lactea*[ Cav.]
+	-   *Ruellia macrosolen*[ Lillo ex. C. Ezcurra]
+	-   *Ruellia malaca*[ Leonard]
+	-   *Ruellia metzae*[ Tharp]
+	-   *Ruellia morongii*[ Britton]
+	-   *Ruellia nudiflora*[ (Englem & A. Gray) Urb.]
+	-   *Ruellia runyonii*[ Tharp & F. A. Barkley]
+	-   *Ruellia tuberosa*[ L.]
+# [[Euruellia]]  
 
-[Erin Tripp](http://www.tolweb.org/)
+![Ruellia nudiflora](Euruellia/Ruellia_nudiflora.jpg) 
+![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg) 
+![Ruellia lactea](Euruellia/Ruellia_lactea.jpg) 
 
-![ ](Euruellia/r_nudiflora_et1626.jpg)
-![ ](Euruellia/dscn0048.jpg)
-![](Euruellia/dscn0022_002.jpg)
+## Introduction
 
--   *Ruellia brittoniana*[ Leonard]
--   *Ruellia ciliatiflora*[ Hook.]
--   *Ruellia coerulea*[ Morong]
--   *Ruellia drummondiana*[ (Nees) A. Gray]
--   *Ruellia edwardsae*[ Tharp & F. A. Barkley]
--   *Ruellia hygrophila*[ Mart.]
--   *Ruellia jimulcensis*
--   *Ruellia lactea*[ Cav.]
--   *Ruellia macrosolen*[ Lillo ex. C. Ezcurra]
--   *Ruellia malaca*[ Leonard]
--   *Ruellia metzae*[ Tharp]
--   *Ruellia morongii*[ Britton]
--   *Ruellia nudiflora*[ (Englem & A. Gray) Urb.]
--   *Ruellia runyonii*[ Tharp & F. A. Barkley]
--   *Ruellia tuberosa*[ L.]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known Euruellia clade subgroups.
-
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
+[Erin Tripp](http://www.tolweb.org/) 
 
 Like *Physiruellia*, species in the *Euruellia* clade are characterized
 by having dichasial, highly branched inflorescences with flowers that
@@ -92,35 +86,33 @@ America. Ann. Mo. Bot. Gard. 80: 787-845.
 Tripp, E. A. Evolutionary relationships within the species-rich genus
 Ruellia (Acanthaceae). Systematic Botany, in press.
 
-##### Title Illustrations
+## Title Illustrations
 
-![](r_nudiflora_et1626_002.jpg)
+-----------------------------------------------------------------------
+![Ruellia_nudiflora](Ruellia_nudiflora.jpg)
+Scientific Name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
+Location ::           Tabasco, Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & Dexter
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
-  Location ::           Tabasco, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & Dexter
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](dscn0048_002.jpg)
+-----------------------------------------------------------------------
+![Ruellia malacosperma](Ruellia_malacosperma.jpg)
+Scientific Name ::     Ruellia malacosperma Greenm.
+Location ::           Oaxaca, Mexico
+Comments             plants cultivated outside a restaurant
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia malacosperma Greenm.
-  Location ::           Oaxaca, Mexico
-  Comments             plants cultivated outside a restaurant
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](dscn0022.jpg)
+-----------------------------------------------------------------------
+![Ruellia_lactea](Ruellia_lactea.jpg) 
+Scientific Name ::     Ruellia lactea Cav.
+Location ::           Puebla, Mexico
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collector            Tripp & Acosta
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia lactea Cav.
-  Location ::           Puebla, Mexico
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collector            Tripp & Acosta
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+

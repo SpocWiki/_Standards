@@ -71,7 +71,7 @@ Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
 
-##### Title Illustrations
+## Title Illustrations
 
 Peachia hastata.\
 Photo copyright © 2000, Ron Ates.\

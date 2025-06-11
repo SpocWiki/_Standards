@@ -2,6 +2,25 @@
 title: Polemoniaceae
 ---
 
+# [[Polemoniaceae]] 
+
+Phlox Family 
+
+![Phlox amoena](Polemoniaceae/phlox_amoena.jpg)  ![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg)  ![Gilia Stellata](Polemoniaceae/Gilia_Stellata.jpg)  ![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg) 
+
+## #has_/text_of_/abstract 
+
+> The **Polemoniaceae** (Jacob's-ladder or phlox family) are a family of flowering plants consisting of about 27 genera with 270–400 species of annuals and perennials native to the Northern Hemisphere and South America, with the center of diversity in western North America.
+>
+> Only one genus (Polemonium) is found in Europe, and two (Phlox and Polemonium) in Asia, where they are confined to cool temperate to arctic regions; both genera also occur more widely in North America, suggesting relatively recent colonization of the Old World from North America.
+>
+> The family can be distinguished from most other eudicot families by the ovary made up of three fused carpels (usually with three chambers, but with one chamber in some species).  The members of the family have five sepals, five petals fused, and five stamens that alternate with the lobes of the corolla.
+>
+> For decades, most sources used a classification of the family published by Grant in 1959, but new evidence, including molecular phylogeny, veins of the corolla, pollen, and the flavonoids present, have led to reclassifications, such as the 1998 classification by Grant.  It recognizes two subfamilies.  The subfamily Cobaeoideae is tropical/subtropical and composed of six genera organized into five tribes.  The subfamily Polemonioideae consists of 13 temperate genera.  Grant divides it into three tribes, but with the disclaimer that it is not clear what the correct division is and that the genus classifications may be more useful in this subfamily.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Polemoniaceae) 
+
+
 ## Phylogeny 
 
 
@@ -25,54 +44,11 @@ title: Polemoniaceae
     -   [Lathrocasis tenerrima](Lathrocasis_tenerrima)
     -   [Saltugilia](Saltugilia)
 
-# Polemoniaceae
 
-## Phlox Family 
+## Introduction
 
 [Leigh Johnson](http://www.tolweb.org/)
 
-![Phlox amoena](Polemoniaceae/phlox0n.jpg)
-![](Polemoniaceae/iagg0n_002.jpg)
-![](Polemoniaceae/gstellata0n_002.jpg)
-![](Polemoniaceae/Pole1n_002.jpg)
-
-Tree compiled from Johnson et al., 1996; Porter 1996; Johnson and Soltis
-1998; Prather et al., 2000, Bell and Patterson, 2000; Fegusson, Johnson
-and Weese 2000; and additional unpublished sequences from L. Johnson and
-J. M. Porter. Generic circumscriptions follow Porter and Johnson 2000.
-Position of fossil genera inferred from Krutzsch (1966) and Lott et al.
-(1998).
-
-Containing group: [Ericales](../Ericales.md)
-
-### Information on the Internet
-
-**Ethnobotany (not restricted to just Polemoniaceae)**
-
--   [Native American Ethnobotany](http://herb.umd.umich.edu/)
--   [Ethnobotany of the     INEEL](http://www.stoller-eser.com/Flora/ethnobotany_table.htm)
--   [Luiseño Ethnobotany](http://daphne.palomar.edu/scrout/luisenob.htm)
--   [Compendium of natural and alternative medicine (in     Spanish)](http://www.podernatural.com/index.html)
-
-**Threatened and Endangered Species**
-
--   [US Fish and Wildlife Service Threatened and Endangered     Species](http://endangered.fws.gov/wildlife.html)
-
-**Family Descriptions**
-
--   [Find Polemoniaceae descriptive information under Ericales at the     Angiosperm Phylogeny     Website](http://www.mobot.org/MOBOT/Research/APweb/welcome.html)
--   [The Families of Flowering Plants - Polemoniaceae     Juss.](http://biodiversity.uno.edu/delta/angio/www/polemoni.htm)
-
-**Images**
-
--   [Texas A&M Vascular Plant Image Library -     Polemoniaceae](http://www.csdl.tamu.edu/FLORA/imaxxplm.htm)
--   [Wild Flowers of Southern     California](http://ww1.clunet.edu/wf/mtn/idxfam43.htm)
-
-**Directories and Data bases**
-
--   [Polemoniaceae (Texas A&M Vascular Plant Family Access     System)](http://www.csdl.tamu.edu/FLORA/cgi/gateway_family?fam=Polemoniaceae)
-
-### Introduction
 
 Polemoniaceae, the phlox family, includes about 400 species of herbs,
 shrubs, small trees, and vines. Some members of this family are common
@@ -399,209 +375,38 @@ classification adheres to a broader definition of monophyly that allows
 paraphyletic groups, and considers phylogenetic patterns of secondary
 importance (Grant 2003a).
 
-### References
 
-Anon. 2003. APNI: Australian Plant Names Index.
-<http://www.anbg.gov.au/cpbr/databases/apni.html>.
+## Title Illustrations
 
-Bell, C. D. and R. W. Patterson. 2000. Molecular phylogeny and
-biogeography of Linanthus (Polemoniaceae). Am. J. Bot. 87:1857-1870.
 
-Brand, A. 1907. Polemoniaceae. Pages 1-203 in A Engler, ed. Das
-Pflanzenreich IV(250). Engelmann, Leipzig.
+------------------------------------------------------------------------
+![Phlox amoena](phlox_amoena.jpg) 
+Scientific Name ::  Phlox amoena
+Location ::        USA: North Carolina Botanic Garden, Cultivated.
+Sex ::             Perfect flowers
+Body Part         Inflorescence
+Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-Campbell, D.R., R. Alarcon, and C. A. Wu. 2003. Reproductive isolation
-and hybrid pollen disadvantage in Ipomopsis. J. Evolution. Biol.
-16:536-540.
+------------------------------------------------------------------------
+![Ipomopsis aggregata](Ipomopsis_aggregata.jpg)
+Scientific Name ::  Ipomopsis aggregata
+Location ::        USA: Utah Co., Utah
+Sex ::             Perfect flowers
+Body Part         Inflorescence
+Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-Carlquist, S., V. M. Eckhart, and D. C. Michener. 1984. Wood anatomy of
-Polemoniaceae. Aliso 10:547-572.
+------------------------------------------------------------------------
+![Gilia Stellata](Gilia_Stellata.jpg) 
+Scientific Name ::  Gilia Stellata
+Location ::        USA: Washington Co., Utah
+Sex ::             Perfect flowers
+Body Part         Full plant
+Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
-Dawson, M. L. 1936. The floral morphology of the Polemoniaceae. Am. J.
-Bot. 23: 501-511.
-
-Ferguson, C. J. and R. K. Jansen. 2002. A chloroplast DNA phylogeny of
-eastern Phlox (Polemoniaceae): implications of congruence and
-incongruence with the ITS phylogeny. Am. J. Bot. 89:1324-1335.
-
-Galen, C. 2000. High and dry: Drought stress, sex-allocation trade-offs,
-and selection on flower size in the alpine wildflower Polemonium
-viscosum (Polemoniaceae). Am. Nat. 156:72-83.
-
-Grant, V. 1981. Plant speciation. Columbia University Press, New York,
-NY.
-
-Grant, V. 2002. Frequency of spontaneous amphiploids in Gilia
-(Polemoniaceae) hybrids. Am. J. Bot. 89:1197-1202.
-
-Grant, V. 1959. Natural history of the phlox family. Martinus Nijhoff,
-The Hague, Netherlands.
-
-Grant, V. 1998a Primary classification and phylogeny of the
-Polemoniaceae, with comments on molecular cladistics. Am. J. Bot.
-85:741-752.
-
-Grant, V. 1998b \[1999\] Classification of the genus Gilia
-(Polemoniaceae). Phytologia 84:69-86.
-
-Grant, V. 2003a. Incongruence between cladistic and taxonomic systems.
-American Journal of Botany 90: 1263-1270.
-
-Grant, V. 2003b. Taxonomy of the Polemoniaceae: the subfamilies and
-tribes. Sida 20: 1371-1385.
-
-Grant, V., and A. G. Day. 1998 \[1999\]. Transfer of some species of
-Gilia to Allophyllum and Tintinabulum, and the effects of the transfer
-on the generic definition of Gilia (Polemoniaceae). Phytologia
-84:368-382.
-
-Grant, V. and K. A. Grant. 1965. Flower pollination in the Phlox family.
-Columbia University Press, New York, NY.
-
-Harborne, J. B., and D. M. Smith. 1978. Correlations between anthocyanin
-chemistry and pollination ecology in the Polemoniaceae. Biochem. Syst.
-Ecol. 6:127-130.
-
-Hussey, B. M. J., G. J. Keighery, R. D. Cousens, J. Dodd, and S. G.
-Lloyd. 1997. Western weeds: a guide to the weeds of Western Australia.
-The Plant Protection Society of Western Australia , Victoria Park.
-
-Hutchinson, J. 1959. The families of flowering plants, 2nd edition.
-Clarendon Press, Oxford.
-
-Huxley, A., M. Griffiths, and M. Levy (eds.) 1992. The New Royal
-Horticultural Society Dictionary of Gardening, Vol. 1. Macmillan Press
-Ltd., London.
-
-Johnson, L. A. and T. L. Weese. 2000. Geographic distribution,
-morphological and molecular characterization, and relationships of
-Lathrocasis tenerrima (Polemoniaceae). W. N. Am. Nat. 60:355-373.
-
-Johnson, L. A., D. E. Soltis, and P. S. Soltis. 1999. Phylogenetic
-affinities of Polemoniaceae inferred from nuclear ribosomal 18S DNA
-sequences. Plant Syst. Evol. 214:65-89.
-
-Johnson, L. A., J. L. Schultz, D. E. Soltis, and P. S. Soltis. 1996.
-Monophyly and generic relationships of Polemoniaceae based on matK
-sequences. Am. J. Bot. 83:1207-1224.
-
-Johnson, L. A., K. H. Holt, and J. M. Porter. 2004. Seed surface
-sculpturing and its systematic significance in Gilia (Polemoniaceae) and
-segregate genera. International Journal of Plant Sciences, in press.
-
-Kapil, R. N., P. N. Rustagi, and R. Venkataraman. 1968. A contribution
-to the embryology of Polemoniaceae. Phytomorphology 18:403-411.
-
-Krutzsch, W. 1966. Zur Kenntnis der präquartären perporaten
-Pollenformen. Geologie 15:16-71.
-
-Lendvai, G., and D. A. Levin. 2003. Rapid response to artificial
-selection on flower size in Phlox. Heredity 90:336-342.
-
-Lott, T.A., S. R. Manchester, D. L. Dilcher. 1998. A unique and complete
-polemoniaceous plant from the middle Eocene of Utah, USA. Rev.
-Palaeobot. Palyn. 104:39-49.
-
-Mayfield, M. M., N. M. Waser, and M.V. Price. 2001. Exploring the \'most
-effective pollinator principle\' with complex flowers: Bumblebees and
-Ipomopsis aggregata. Ann. Bot-London 88:591-596.
-
-Moerman, D. E. 1998. Native American Ethnobotany. Timber Press,
-Portland, OR.
-
-Morrell, P. L., J. M. Porter, and E. A. Friar. 2000. Intercontinental
-dispersal: the origin of the widespread South American plant species
-Gilia laciniata ( Polemoniaceae ) from a rare California and Oregon
-coastal endemic. Plant Syst. Evol. 224:13-32.
-
-Muller, J. 1981. Fossil pollen records of extant angiosperms. Bot. Rev.
-47:1-142.
-
-Plitmann, U. and D. Levin. 1983. Pollen-pistil relationships in the
-Polemoniaceae. Evol. 37:957-967.
-
-Plitmann, U. and D. Levin. 1990. Breeding systems in the Polemoniaceae.
-Pl. Syst. Evol. 170:205-214.
-
-Porter, J. M. 1996 \[1997\]. Phylogeny of Polemoniaceae based on nuclear
-ribosomal internal transcribed spacer DNA sequences. Aliso 15:57-77.
-
-Porter, J. M. and L. A. Johnson. 1998. Phylogenetic relationships of
-Polemoniaceae: inferences from mitochondrial nad1 intron sequences.
-Aliso 17:157-188.
-
-Porter, J. M., and L. A. Johnson. 2000. A phylogenetic classification of
-Polemoniaceae. Aliso 19:55-91.
-
-Prather, L. A. 1999. Systematics of Cobaea (Polemoniaceae). Syst. Bot.
-Monogr. 57:1-81.
-
-Prather, L. A., C. J. Ferguson, and R. K. Jansen. 2000. Polemoniaceae
-phylogeny and classification: implications of sequence data from the
-chloroplast gene ndhF. Am. J. Bot. 87:1300-1308.
-
-Pysek, P., Sadlo J. and B. Mandak. 2002. Catalogue of alien plants of
-the Czech Republic. Preslia, Praha 74:97-186.
-
-Smith, D. M, C. W. Glennie, and J. B. Harborne. 1982. Flavonoid patterns
-in Leptodactylon and Linanthus. Biochem. Syst. Ecol. 10:37-42.
-
-Smith, D. M, C. W. Glennie, J. B. Harborne and C. A. Williams. 1977.
-Flavonoid diversification in the Polemoniaceae. Biochem. Syst. Ecol.
-5:107-115
-
-Steele, K. P., and R. Vilgalys. 1994. Phylogenetic analysis of
-Polemoniaceae using nucleotide sequences of the plastid gene matK. Syst.
-Bot. 19:126-142.
-
-Stuchlik, L. 1967a. Pollen morphology in the Polemoniaceae. Grana
-Palynol. 7:146-240.
-
-Stuchlik, L. 1967b. Pollen morphology and taxonomy of the family
-Polemoniaceae. Rev. Palaeobot. Palynol. 4:325-333.
-
-Taylor, T. N., and D. A. Levin. 1975. Pollen morphology of Polemoniaceae
-in relation to systematics and pollination systems: scanning electron
-microscopy. Grana 15:91-112.
-
-Wherry, E. T. 1940. A provisional key to the Polemoniaceae. Bartonia
-20:14-17.
-
-##### Title Illustrations
-
-![Phlox amoena](phlox0n_002.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::  Phlox amoena
-  Location ::        USA: North Carolina Botanic Garden, Cultivated.
-  Sex ::             Perfect flowers
-  Body Part         Inflorescence
-  Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
-  ------------------------------------------------------------------------
-![Ipomopsis aggregata](iagg0n.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::  Ipomopsis aggregata
-  Location ::        USA: Utah Co., Utah
-  Sex ::             Perfect flowers
-  Body Part         Inflorescence
-  Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
-  ------------------------------------------------------------------------
-![Gilia Stellata](gstellata0n.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::  Gilia Stellata
-  Location ::        USA: Washington Co., Utah
-  Sex ::             Perfect flowers
-  Body Part         Full plant
-  Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
-  ------------------------------------------------------------------------
-![Polemonium occidentale](Pole1n.jpg)
-
-  ------------------------------------------------------------------------
-  Scientific Name ::  Polemonium occidentale
-  Location ::        USA: Juab Co., Utah
-  Sex ::             Perfect flowers
-  Body Part         upper 2/3 of plant
-  Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
-  ------------------------------------------------------------------------
+------------------------------------------------------------------------
+![Polemonium occidentale](Polemonium_occidentale.jpg)
+Scientific Name ::  Polemonium occidentale
+Location ::        USA: Juab Co., Utah
+Sex ::             Perfect flowers
+Body Part         upper 2/3 of plant
+Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 

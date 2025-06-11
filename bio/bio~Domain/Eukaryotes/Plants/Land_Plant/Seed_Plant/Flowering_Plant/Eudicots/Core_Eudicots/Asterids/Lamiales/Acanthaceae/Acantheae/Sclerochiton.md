@@ -2,8 +2,21 @@
 title: Sclerochiton
 ---
 
-## Phylogeny 
+# [[Sclerochiton]] 
 
+![ ](Sclerochiton/sclerochiton.jpg)
+![Sclerochiton ilicifolius](Sclerochiton/Sclerochiton_ilicifolius.jpg) 
+![Streptosiphon](Sclerochiton/Streptosiphon1.jpg)
+![ ](Sclerochiton/Sclero_002.jpg)
+	
+## #has_/text_of_/abstract 
+
+> **Sclerochiton** is a genus of flowering plants in the family Acanthaceae. 
+> It includes 18 species native to tropical and southern Africa.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sclerochiton) 
+
+## Phylogeny 
 
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
@@ -33,31 +46,15 @@ title: Sclerochiton
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	-   *Sclerochiton harveyanus* [ Nees]
+	-   *Sclerochiton ilicifolius* [ Meeuse]
+	-   *Sclerochiton triacanthus* [ Meeuse]
+	-   *Sclerochiton vogelii*[ (Nees) T. Anderson]
 
-# *Sclerochiton* 
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+## Introduction
 
-![ ](Sclerochiton/sclerochiton.jpg)
-![ ](Sclerochiton/Scleroch_002.jpg)
-![](Sclerochiton/Streptosiphon1.jpg)
-![ ](Sclerochiton/Sclero_002.jpg)
-
--   *Sclerochiton harveyanus* [ Nees]
--   *Sclerochiton ilicifolius* [ Meeuse]
--   *Sclerochiton triacanthus* [ Meeuse]
--   *Sclerochiton vogelii*[ (Nees) T. Anderson]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known *Sclerochiton* subgroups.
-
-The list above includes only taxa that were sampled by McDade et al.
-(2005).  There are other species of *Sclerochiton* that likely belong to
-this clade but this needs to be confirmed with further study.
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 *Sclerochiton* is a mostly eastern and southern African genus of 18
 species (Vollesen 1991). There is support from DNA sequence data for
@@ -74,49 +71,37 @@ sheathing, reduced\" calyx with *Cynarospermum* - *Acanthus* clade where
 *Sclerochiton* lacks this trait. It will be interesting to see whether
 more data and/or study of additional characters clarifies these enigmas.
 
-### References
 
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
+## Title Illustrations
 
-Vollesen, K. 1991. A revision of the African genus Sclerochiton
-(Acanthaceae: Acantheae). Kew Bulletin 46: 1-50.
 
-##### Title Illustrations
+---------------------------------------------------------------------------
+![Sclerochiton harveyanus Nees](sclerochiton.jpg)
+Scientific Name ::     Sclerochiton harveyanus Nees
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-![](sclerochiton_002.jpg)
+---------------------------------------------------------------------------
+![Sclerochiton ilicifolius](Sclerochiton_ilicifolius.jpg) 
+Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
+Location ::           South Africa
+Reference            Lieden Herbarium (L)
+Specimen Condition   Dead Specimen
+Collection           L
+Collector            Meeuse 9657
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Sclerochiton harveyanus Nees
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Scleroch.jpg)
+---------------------------------------------------------------------------
+![Sclerochiton bequaertii](Streptosiphon1.jpg)
+Scientific Name ::  Sclerochiton bequaertii De Wild.
+Reference         Vollesen, Kaj. 1991. A revision of the African genus Sclerochiton (Acanthaceae: Acantheae). Kew Bulletin 46(1):38.
+Creator           Drawn by Eleanor Catherine
+Copyright ::         © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
-  Location ::           South Africa
-  Reference            Lieden Herbarium (L)
-  Specimen Condition   Dead Specimen
-  Collection           L
-  Collector            Meeuse 9657
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Streptosiphon1_002.jpg)
+---------------------------------------------------------------------------
+![Sclerochiton ilicifolius](Sclero_002.jpg)
+Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
+Location ::           South Africa
+Specimen Condition   Dead Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::  Sclerochiton bequaertii De Wild.
-  Reference         Vollesen, Kaj. 1991. A revision of the African genus Sclerochiton (Acanthaceae: Acantheae). Kew Bulletin 46(1):38.
-  Creator           Drawn by Eleanor Catherine
-  Copyright ::         © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Sclero.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
-  Location ::           South Africa
-  Specimen Condition   Dead Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------

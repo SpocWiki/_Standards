@@ -28,7 +28,7 @@ title: Single-stranded Negative Sense RNA Virus
 
 Containing group: [Virus](../Virus.md)
 
-##### Title Illustrations
+## Title Illustrations
 
   ---------------------------
 ![](Single-stranded_Negative_RNA_Virus/Ebola_002.jpg)

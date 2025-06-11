@@ -38,23 +38,42 @@ title: Malvales
 
 # Malvales 
 
+![Rock rose, Cistus](Malvales/Cistus.jpg)  ![Adansonia_digitata](Malvales/Adansonia_digitata.jpg)  ![Malva_sylvestris](Malvales/Malva_sylvestris.jpg) 
+
+
+## #has_/text_of_/abstract 
+
+> The **Malvales** are an order of flowering plants. As circumscribed by APG II-system, 
+> the order includes about 6000 species within nine families. 
+> The order is placed in the eurosids II, which are part of the eudicots.
+>
+> The plants are mostly shrubs and trees; 
+> most of its families have a cosmopolitan distribution in the tropics and subtropics, 
+> with limited expansion into temperate regions. 
+> 
+> An interesting distribution occurs in Madagascar, 
+> where three endemic families of Malvales (Sphaerosepalaceae, Sarcolaenaceae and Diegodendraceae) occur.
+>
+> Many species of Malvaceae, sensu lato (in the broad sense), are valued for their wood, 
+> with that of Ochroma (balsa) being known for its lightness, 
+> and that of Tilia (lime, linden, or basswood) as a popular wood for carving. 
+> 
+> Fruit of the cacao tree (Theobroma cacao) are used as an ingredient for chocolate. 
+> Kola nuts (genus Cola) are notable for their high caffeine content 
+> and were commonly used in the past in preparation of various cola drinks. 
+> They are still in use as a stimulant, particularly in West Africa where they are chewed for this effect. 
+> 
+> Other well-known members of Malvales in the APG II sense are 
+> daphnes, hibiscus, hollyhocks, okra, jute, baobab trees, cotton, 
+> kapok (which mostly comes from Ceiba pentandra, 
+> but also from other "Kapok trees" also of Malvales, such as Bombax ceiba), 
+> and durian.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Malvales) 
+
+## Introduction
+
 [Stacey D. Smith and David A. Baum](http://www.tolweb.org/)
-
-![Rock rose, Cistus](Malvales/Cistus0069_002.jpg)
-![](Malvales/Adansonia_digitata0133_002.jpg)
-![](Malvales/Malva_sylvestris0025.jpg)
-
-Phylogeny of expanded Malvales based on Bayer et al. (1999) and Alverson
-et al. (1998). Core Malvales includes the taxa traditionally placed in
-the Bombacaceae, Malvaceae, Sterculiaceae and Tiliaceae.
-
-Containing group: [Rosids](../Rosids.md)
-
-### Information on the Internet
-
-[Malvaceae Info](http://www.malvaceae.info/)
-
-### Introduction
 
 The order Malvales has traditionally included four core families,
 Bombacaceae, Malvaceae, Sterculiaceae and Tiliaceae, although various
@@ -100,55 +119,37 @@ to the Dipterocarpaceae+Sarcolaenaceae+Cistaceace+Muntingiaceae
 most likely to belong at the base of the Malvales, although no studies
 have been able to place it with certainty.
 
-### References
+## Title Illustrations
 
-Alverson, W. S., K. G. Karol, D. A. Baum, M. W. Chase, S. M. Swensen, R.
-McCourt, and K. J. Sytsma. 1998. Circumscription of the Malvales and
-relationships to other Rosidae: Evidence from rbcL sequence data.
-American Journal of Botany 85:876-887.
 
-Bayer, C., M. F. Fay, A. Y. De Bruijn, V. Savolainen, C. M. Morton, K.
-Kubitzki, W. S. Alverson, and M. W. Chase. 1999. Support for an expanded
-family concept of Malvaceae with a recircumscribed order Malvales: a
-combined analysis of plastid atpB and rbcL DNA sequences. Botanical
-Journal of the Linnean Society 129:267-303.
+------------------------------------------------------------------------------
+![Rock rose, Cistus](Cistus.jpg)
+Scientific Name ::     Cistus
+Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
+Comments             Rock rose (Cistaceae)
+Creator              Photograph by G. Dallas and Margaret Hanna
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-Fay, M. F., C. Bayer, W. S. Alverson, A. Y. de Bruijn, and M. W. Chase.
-1998. Plastid rbcL sequence data indicate a close affinity between
-Diegodendron and Bixa. Taxon 47:43-50.
+------------------------------------------------------------------------------
+![Baobab tree, Adansonia digitata](Adansonia_digitata.jpg)
+Scientific Name ::     Adansonia digitata
+Location ::           East Africa
+Comments             Baobab tree (Core Malvales).
+Creator              Photograph by Robert Thomas and Margaret Orr
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
-##### Title Illustrations
+---------------------------------------------------------------------------------
+![High mallow, Malva sylvestris](Malva_sylvestris.jpg)
+Scientific Name ::     Malva sylvestris (Core Malvales)
+Location ::           Bodega Bay (Sonoma County, California, USA)
+Comments             High mallow
+Creator              Photograph by Brother Alfred Brousseau
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
 
-![Rock rose, Cistus](Cistus0069.jpg)
 
-  ------------------------------------------------------------------------------
-  Scientific Name ::     Cistus
-  Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
-  Comments             Rock rose (Cistaceae)
-  Creator              Photograph by G. Dallas and Margaret Hanna
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
-  ------------------------------------------------------------------------------
-![Baobab tree, Adansonia digitata](Adansonia_digitata0133.jpg)
-
-  ------------------------------------------------------------------------------
-  Scientific Name ::     Adansonia digitata
-  Location ::           East Africa
-  Comments             Baobab tree (Core Malvales).
-  Creator              Photograph by Robert Thomas and Margaret Orr
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
-  ------------------------------------------------------------------------------
-![High mallow, Malva sylvestris](Malva_sylvestris0025_002.jpg)
-
-  ---------------------------------------------------------------------------------
-  Scientific Name ::     Malva sylvestris (Core Malvales)
-  Location ::           Bodega Bay (Sonoma County, California, USA)
-  Comments             High mallow
-  Creator              Photograph by Brother Alfred Brousseau
-  Specimen Condition   Live Specimen
-  Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
-  ---------------------------------------------------------------------------------

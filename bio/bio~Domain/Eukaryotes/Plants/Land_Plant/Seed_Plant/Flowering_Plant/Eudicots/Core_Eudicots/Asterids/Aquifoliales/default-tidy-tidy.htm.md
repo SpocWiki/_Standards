@@ -26,7 +26,7 @@ generator: HTML Tidy for Windows (vers 1st November 2003), see
 
 # Aquifoliales 
 
-![Holly, Ilex aquifolium](Ilex_aquifolium0375_002.jpg)
+![Holly, Ilex aquifolium](Ilex_aquifolium.jpg)
 
 Containing group: [Asterids](../../Asterids.md)
 
@@ -82,7 +82,7 @@ M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
 2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
 sequences. Botanical Journal of the Linnean Society 133:381-461.
 
-##### Title Illustrations
+## Title Illustrations
 
 Holly, Ilex aquifolium (Aquifoliaceae). Davis (Yolo County, California,
 US).\

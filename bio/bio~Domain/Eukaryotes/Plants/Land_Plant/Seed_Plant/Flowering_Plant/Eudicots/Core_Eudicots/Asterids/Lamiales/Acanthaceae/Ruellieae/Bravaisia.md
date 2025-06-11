@@ -2,6 +2,11 @@
 title: Bravaisia
 ---
 
+# [[Bravaisia]] 
+
+![Bravasia_integerrima](Bravaisia/Bravasia_integerrima-Blossom.jpg) 
+![Bravasia_integerrima](Bravaisia/Bravasia_integerrima.jpg) 
+
 ## Phylogeny 
 
 
@@ -33,16 +38,9 @@ title: Bravaisia
 
 -   » Sub-Groups 
 
-# *Bravaisia* 
+## Introduction
 
 [Erin Tripp](http://www.tolweb.org/)
-
-![ ](Bravaisia/Bravasia_integerrima.jpg)
-![](Bravaisia/Bravasia_integerrima_002.jpg)
-
-Containing group: [Ruellieae](../Ruellieae.md)
-
-### Introduction
 
 *Bravaisia* is a genus of three species native to Mexico through
 northern South America. They are distinct among Acanthaceae in being
@@ -53,28 +51,18 @@ mangrove environments and possess prop roots (see photo above) to 8 m
 above ground level (Daniel 1988). Flowers of *B. integerrima* are
 possibly fragrant, also notable in Acanthaceae.
 
-\
-\
+## Title Illustrations
 
-### References
+----------------------------------------------------------------------
+![](Bravaisia/Bravasia_integerrima-Blossom.jpg)
+Scientific Name ::  Bravaisia integerrima Standl.
+Location ::        La Selva, Costa Rica
+Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-Daniel, T.F. 1988. A systematic study of Bravaisia DC. (Acanthaceae).
-Proc. Cal. Acad. Sci. 45(8): 111-132.
+-----------------------------------------------------------------------
+![](Bravaisia/Bravasia_integerrima.jpg)
+Scientific Name ::     Bravaisia integerrima Standl.
+Location ::           La Selva, Costa Rica
+Specimen Condition   Live Specimen
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-##### Title Illustrations
-
-![](Bravaisia/Bravasia_integerrima_003.jpg)
-
-  ----------------------------------------------------------------------
-  Scientific Name ::  Bravaisia integerrima Standl.
-  Location ::        La Selva, Costa Rica
-  Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  ----------------------------------------------------------------------
-![](Bravaisia/Bravasia_integerrima_004.jpg)
-
-  -----------------------------------------------------------------------
-  Scientific Name ::     Bravaisia integerrima Standl.
-  Location ::           La Selva, Costa Rica
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------

@@ -2,6 +2,24 @@
 title: Gerrardina
 ---
 
+## [[Gerrardinaceae]] 
+
+![gerrardina](Gerrardinaceae/gerrardina_blossom.jpg)  ![gerrardina_Fruit](Gerrardinaceae/gerrardina_Fruit.jpg) 
+
+## #has_/text_of_/abstract 
+
+> Gerrardina is a genus of two species of trees, shrubs, and scrambling shrubs found in southeastern Africa. 
+> Until recently, the genus was placed in the polyphyletic family Flacourtiaceae, 
+> but it was abnormal there due to its apical placentation, small embryos, and mucilaginous foliar epidermis. 
+> 
+> Analyses of DNA data indicated that the genus did not fit in any known plant family 
+> and not clearly in any then-recognized order, and a new family, **Gerrardinaceae**, was thus created for it. 
+> 
+> Later analyses of additional DNA data and data from wood anatomy 
+> indicated that the family should be placed in the order Huerteales.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gerrardina) 
+> 
 ## Phylogeny 
 
 
@@ -34,19 +52,12 @@ title: Gerrardina
     -   [Sapindales](Sapindales.md)
 
 -   » Sub-Groups 
+	- *Gerrardina* 
 
-## Gerrardinaceae 
 
-# *Gerrardina* 
+## Introduction
 
 [Mac H. Alford](http://www.tolweb.org/)
-
-![ ](Gerrardinaceae/gerrardina_tol1_002.jpg)
-![ ](Gerrardinaceae/gerrardina_tol2.jpg)
-
-Containing group: [Rosids](../Rosids.md)
-
-### Introduction
 
 *Gerrardina* is a genus of two species native to southern and eastern
 Africa. Traditionally, the genus has been placed in the polyphyletic
@@ -75,47 +86,27 @@ bifid stigma; ovary unilocular; ovules 4, anatropous, borne on 2
 placentae, pendulous from near the apex. *Fruits* pendulous, dry or
 fleshy berries with 1-4 seeds. *Seeds* exarillate; embryo minute, erect.
 
-### References
+## Title Illustrations
 
-Alford, M. H. 2006. Gerrardinaceae: a new family of African flowering
-plants unresolved among Brassicales, Huerteales, Malvales, and
-Sapindales. Taxon 55: 959-964.
+-------------------
+[[Gerrardinaceae/gerrardina_blossom.jpg]]
+Scientific Name ::     Gerrardina foliosa
+Location ::           South Africa: Eastern Cape Province: Lupatana
+Specimen Condition   Live Specimen
+Identified By        Tony Dold
+Body Part            Flower
+Collection           USMS, GRA
+Collector            T. Dold
+Copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
 
-Killick, D. J. B. 1976. Flacourtiaceae. Pp. 53-92 in J. H. Ross, ed.
-Flora of South Africa. Vol. 22. Botanical Research Institute, Pretoria.
 
-Milne-Redhead, E. 1939. Gerrardina eylesiana Milne-Redhead. Hooker\'s
-Icon. Pl., Fifth Series 4: 1-2, t. 3390.
+-------------------
+![[Gerrardinaceae/gerrardina_Fruit.jpg]]
+Scientific Name ::     Gerrardina foliosa
+Location ::           South Africa: Eastern Cape Province: Lupatana
+Specimen Condition   Live Specimen
+Identified By        Tony Dold
+Collection           USMS, GRA
+Collector            T. Dold
+Copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
 
-Oliver, D. 1870. Gerrardina foliosa, Oliv. Hooker\'s Icon. Pl., Third
-Series 1: 60. t. 1075.
-
-Sleumer, H. O. 1975. Flacourtiaceae. In R. M. Polhill, ed. Flora of
-Tropical East Africa. Crown Agents for Oversea Governments and
-Administrations, London.
-
-##### Title Illustrations
-
-![](gerrardina_tol1.jpg)
-
-  -------------------
-  Scientific Name ::     Gerrardina foliosa
-  Location ::           South Africa: Eastern Cape Province: Lupatana
-  Specimen Condition   Live Specimen
-  Identified By        Tony Dold
-  Body Part            Flower
-  Collection           USMS, GRA
-  Collector            T. Dold
-  Copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
-  -------------------
-![](gerrardina_tol2_002.jpg)
-
-  -------------------
-  Scientific Name ::     Gerrardina foliosa
-  Location ::           South Africa: Eastern Cape Province: Lupatana
-  Specimen Condition   Live Specimen
-  Identified By        Tony Dold
-  Collection           USMS, GRA
-  Collector            T. Dold
-  Copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
-  -------------------

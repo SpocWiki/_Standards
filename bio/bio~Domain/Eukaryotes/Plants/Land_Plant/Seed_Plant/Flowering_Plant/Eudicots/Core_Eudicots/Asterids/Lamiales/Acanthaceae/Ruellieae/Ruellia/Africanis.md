@@ -2,67 +2,17 @@
 title: African Ruellia
 ---
 
-## Phylogeny 
+# Ruellia_Africanis 
 
 
--   « Ancestral Groups  
-    -   [Ruellia s. l.](Ruellia_s._l.)
-    -   [Ruellieae](../../Ruellieae.md)
-    -   [Acanthaceae](../../../Acanthaceae.md)
-    -   [Lamiales](../../../../Lamiales.md)
-    -   [Asterids](../../../../../Asterids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
+![Ruellia_Africanis](Africanis/Ruellia_Africanis.jpg) 
+![Ruellia_](Africanis/Ruellia_megachlamys.jpg) 
 
--   ◊ Sibling Groups of  Ruellia s. l.
-    -   [Physiruellia clade](Physiruellia_clade)
-    -   [Blechum clade](Blechum_clade)
-    -   [Ruellia inundata clade](Ruellia_inundata_clade)
-    -   [Ebracteolate clade](Ebracteolate_clade)
-    -   [Euruellia clade](Euruellia_clade)
-    -   [Ruellia inflata clade](Ruellia_inflata_clade)
-    -   [Ruellia jaliscana clade](Ruellia_jaliscana_clade)
-    -   [Ruellia harveyana clade](Ruellia_harveyana_clade)
-    -   [Ruellia humilis clade](Ruellia_humilis_clade)
-    -   African Ruellia
 
--   » Sub-Groups 
 
-# African Ruellia 
+## Introduction
 
 [Erin Tripp](http://www.tolweb.org/)
-
-![ ](Africanis/dscn0004_002.jpg)
-![ ](Africanis/r_megachlamys1.jpg)
-
--   *Ruellia anaticollis*[ Benoist]
--   *Ruellia ansericollis*[ Benoist]
--   *Ruellia cordata*[ Thunb.]
--   *Ruellia detonsa*[ Benoist]
--   *Ruellia discifolia*[ Oliver]
--   *Ruellia geayi*[ (Benoist) E. Tripp] [(= Eusiphon
-    geayi Benoist)]
--   *Ruellia insignis*[ Balf.f.]
--   *Ruellia latisepala*[ Benoist]
--   *Ruellia lineari-bracteolata*[ Lindau]
--   *Ruellia malacophylla*[ C. B. Clarke]
--   *Ruellia megachlamys*[ S. Moore]
--   *Ruellia patula*[ Jacq.]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known African Ruellia subgroups.
-
-Only species that were sampled in Tripp\'s study (in press) are listed.
-
-Containing group: *[Ruellia s. l.](../Ruellia.md)*
-
-### Introduction
 
 African *Ruellia* form a grade that is ancestral with respect to New
 World *Ruellia* (Tripp, in press). Species that have been sampled and
@@ -99,39 +49,68 @@ Australia. These were not included in Tripp\'s study (in press) due to a
 lack of herbarium or living material. Little is known about these
 species, and thus they are deserving of further study.
 
-### References
+## Phylogeny 
 
-Benoist, R. 1939. Nouvelles Acanthacées Malgaches. P. 144 In: Notulae
-Systematicae, vol. 8, ed. H. Humbert. Contribution a l\'etude de la
-flore de Madagascar et des Comores. Fasc. 3. Paris.
 
-Benoist, R. 1967. Famille 182 -- Acanthacées. In: Flore de Madagascar et
-des Comores, ed. H. Humbert. Tome I. Mus. Nat. Hist. Nat., Paris.
+-   « Ancestral Groups  
+    -   [Ruellia s. l.](Ruellia_s._l.)
+    -   [Ruellieae](../../Ruellieae.md)
+    -   [Acanthaceae](../../../Acanthaceae.md)
+    -   [Lamiales](../../../../Lamiales.md)
+    -   [Asterids](../../../../../Asterids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
 
-Clarke, C. B. 1900. Acanthaceae, Vol 5. In: Flora of Tropical Africa
-(ed. W. T. Thiselton-Dyer). Lovell Reeve & Co., London.
+-   ◊ Sibling Groups of  Ruellia s. l.
+    -   [Physiruellia clade](Physiruellia_clade)
+    -   [Blechum clade](Blechum_clade)
+    -   [Ruellia inundata clade](Ruellia_inundata_clade)
+    -   [Ebracteolate clade](Ebracteolate_clade)
+    -   [Euruellia clade](Euruellia_clade)
+    -   [Ruellia inflata clade](Ruellia_inflata_clade)
+    -   [Ruellia jaliscana clade](Ruellia_jaliscana_clade)
+    -   [Ruellia harveyana clade](Ruellia_harveyana_clade)
+    -   [Ruellia humilis clade](Ruellia_humilis_clade)
+    -   African Ruellia
 
-Tripp, E. A. Evolutionary relationships within the species-rich genus
-Ruellia (Acanthaceae). Systematic Botany, in press.
+-   » Sub-Groups 
+	-   *Ruellia anaticollis*[ Benoist]
+	-   *Ruellia ansericollis*[ Benoist]
+	-   *Ruellia cordata*[ Thunb.]
+	-   *Ruellia detonsa*[ Benoist]
+	-   *Ruellia discifolia*[ Oliver]
+	-   *Ruellia geayi*[ (Benoist) E. Tripp] [(= Eusiphon
+	    geayi Benoist)]
+	-   *Ruellia insignis*[ Balf.f.]
+	-   *Ruellia latisepala*[ Benoist]
+	-   *Ruellia lineari-bracteolata*[ Lindau]
+	-   *Ruellia malacophylla*[ C. B. Clarke]
+	-   *Ruellia megachlamys*[ S. Moore]
+	-   *Ruellia patula*[ Jacq.]
 
-##### Title Illustrations
 
-![](dscn0004.jpg)
+## Title Illustrations
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia insignis Balf.f.
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collection           Wild collected in Socotra (Yemen)
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
-![](r_megachlamys1_002.jpg)
+-----------------------------------------------------------------------
+![](dscn0004.jpg)
+Scientific Name ::     Ruellia insignis Balf.f.
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collection           Wild collected in Socotra (Yemen)
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-  -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia megachlamys S. Moore
-  Location ::           cultivated, DUKE greenhouses
-  Specimen Condition   Live Specimen
-  Identified By        Erin A. Tripp
-  Collection           native to Ethiopia
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+![Ruellia_](Ruellia_megachlamys.jpg)
+Scientific Name ::     Ruellia megachlamys S. Moore
+Location ::           cultivated, DUKE greenhouses
+Specimen Condition   Live Specimen
+Identified By        Erin A. Tripp
+Collection           native to Ethiopia
+Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+

@@ -4,7 +4,6 @@ title: Stenandrium Clade
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
     -   [Acanthaceae](../../Acanthaceae.md)
@@ -34,38 +33,29 @@ title: Stenandrium Clade
 
 -   » Sub-Groups 
 
-# *Stenandrium Clade* 
+	-   *Aphelandra verticillata* [ Nees]
+	-   *Holographis ehrenbergiana* [ Nees]
+	-   *Holographis pallida* [ Leonard & Gentry]
+	-   *Holographis velutifolia*[ (House) T. F. Daniel]
+	-   *Neriacanthus purdieanus* [ Benth.]
+	-   *Salpixantha coccinea* [ Hook.]
+	-   *Stenandrium mandioccanum* [ Nees]
+	-   *Stenandrium pilosulum*[ (S. F. Blake) T. F. Daniel]
+# [[Stenandrium]] 
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+![Salpix](Stenandrium/Salpix.jpg)  ![Holographis_argyrea](Stenandrium/Holographis_argyrea.jpg)  ![Stenandrium holographis](Stenandrium/holographis.jpg) 
 
-![ ](Stenandrium/Salpix.jpg)
-![ ](Stenandrium/Holographis_argyrea2_002.jpg)
-![](Stenandrium/holographis_002.jpg)
 
--   *Aphelandra verticillata* [ Nees]
--   *Holographis ehrenbergiana* [ Nees]
--   *Holographis pallida* [ Leonard & Gentry]
--   *Holographis velutifolia*[ (House) T. F. Daniel]
--   *Neriacanthus purdieanus* [ Benth.]
--   *Salpixantha coccinea* [ Hook.]
--   *Stenandrium mandioccanum* [ Nees]
--   *Stenandrium pilosulum*[ (S. F. Blake) T. F. Daniel]
+## #has_/text_of_/abstract 
 
-Note: this taxon list is still under construction. It does not yet
-contain all known *Stenandrium Clade* subgroups.
+> **Stenandrium**  is a genus of flowering plants in the family Acanthaceae native to the Americas, with 50 species of perennial herbs ranging from the southern United States to northern Argentina and central Chile.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Stenandrium) 
 
-Only species sampled by McDade et al. (2005) are included in the list
-above.  There are additional New World species of *Stenandrium* and of
-*Holographis* that likely belong here as well.  Note that phylogenetic
-work to date indicates that Old World plants that were treated as
-*Stenandrium* by Vollesen (1992) are part of a separate clade, here
-called the *Stenandriopsis* Clade.  Also, McDade et al. (2005) included
-two other species of *Neriacanthus*; these were placed as part of the
-\"Other New World Acantheae\" Clade.\
 
-Containing group: [Acantheae](../Acantheae.md)
+## Introduction
 
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 The *Stenandrium* clade includes the New World genera *Stenandrium* and
 *Holographis* plus three surprises: the two Jamaican Acantheae,
@@ -83,43 +73,31 @@ so far as is known) have x = 14. Chromosome numbers are not known for
 morphologies, presumably associated with adaptation for different
 pollinators although empirical studies are few.
 
-### References
+## Title Illustrations
 
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
 
-Vollesen, K. 1992. The Old World species of Stenandrium (Acanthaceae:
-Acantheae). Kew Bulletin 47: 169-202.
+--------------------------------------------------------------------------
+![Salpixantha coccinea](Salpix.jpg)
+Scientific Name ::     Salpixantha coccinea Hook.
+Reference            British Museum (BM)
+Specimen Condition   Dead Specimen
+Collection           BM
+Collector            George R. Procter 11046
+Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-##### Title Illustrations
+--------------------------------------------------------------------------
+![Holographis argyrea](Holographis_argyrea.jpg)
+Scientific Name ::     Holographis argyrea (Leonard) T.F. Daniel
+Specimen Condition   Live Specimen
+Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-![](Salpix_002.jpg)
+---------------------------------------------------------------------------
+![Holographis ehrenbergiana](holographis.jpg)
+Scientific Name ::     Holographis ehrenbergiana Nees
+Location ::           Mexico
+Reference            Kew Botanical Gardens (KEW)
+Specimen Condition   Dead Specimen
+Collection           K
+Collector            C. A. Purpose
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-  --------------------------------------------------------------------------
-  Scientific Name ::     Salpixantha coccinea Hook.
-  Reference            British Museum (BM)
-  Specimen Condition   Dead Specimen
-  Collection           BM
-  Collector            George R. Procter 11046
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------
-![](Holographis_argyrea2.jpg)
-
-  --------------------------------------------------------------------------
-  Scientific Name ::     Holographis argyrea (Leonard) T.F. Daniel
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------
-![](holographis.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Holographis ehrenbergiana Nees
-  Location ::           Mexico
-  Reference            Kew Botanical Gardens (KEW)
-  Specimen Condition   Dead Specimen
-  Collection           K
-  Collector            C. A. Purpose
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------

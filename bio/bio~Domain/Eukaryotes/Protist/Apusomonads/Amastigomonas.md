@@ -42,7 +42,7 @@ title: Amastigomonas
 
 Containing group: [Apusomonads](../Apusomonads.md)
 
-### Introduction
+## Introduction
 
 *Amastigomonas* (also called *Thecamonas* (Larsen and Patterson, 1990))
 is a very widespread and common genus. The genus has been reported from
@@ -88,7 +88,7 @@ European Journal of Protistology, 27, 386-396.
 Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 154: S96-124.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](famastigos.jpg)
 

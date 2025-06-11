@@ -29,7 +29,7 @@ title: subsection Cembroides
     -   [Pinus johannis](Pinus_johannis)
     -   [Pinus remota](Pinus_remota)
 
-### Introduction
+## Introduction
 
 Most of the North American pinyon pines are species of *Pinus*
 subsection *Cembroides*. This group of pines are distributed from the

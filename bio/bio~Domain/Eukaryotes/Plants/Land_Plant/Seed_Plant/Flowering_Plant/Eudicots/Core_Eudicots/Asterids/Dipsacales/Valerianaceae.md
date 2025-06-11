@@ -2,6 +2,51 @@
 title: Valerianaceae
 ---
 
+# [[Valerianaceae]] 
+
+![triloba](Valerianaceae/Patrinia_triloba.gif) 
+![Nardostachys_jatamansi](Valerianaceae/Nardostachys_jatamansi.jpg)
+
+## #has_/text_of_/abstract 
+
+> The **Valerianaceae** Batsch, the valerian family, was a family of flowering plants that is now considered part of the Caprifoliaceae. Plants are generally herbaceous, and their foliage often has a strong, disagreeable odor. They are found native in most regions of the world except for Australia. Some species are cultivated as ornamentals or used in herbal medicine for inducing relaxation and sleep.
+>
+> The genera that were placed in this family, along with some species, include:
+>
+> 
+>
+> Centranthus
+>
+> C. ruber (red valerian, spur valerian or red spur valerian)
+>
+> Fedia
+>
+> F. cornucopiae (African valerian, horn of plenty)
+>
+> Nardostachys
+>
+> N. jatamansi (Spikenard)
+>
+> N. chinensis
+>
+> Patrinia
+>
+> Plectritis
+>
+> Valeriana
+>
+> V. dioica (marsh valerian)
+>
+> V. officinalis (valerian)
+>
+> Valerianella
+>
+> V. locusta (corn salad, lamb's lettuce)
+>
+> DNA studies have found Valeriana to be paraphyletic with respect to Centranthus and Valerianella, and Valerianella with respect to Fedia. Some sources now include Centranthus, Fedia and Valerianella within Valeriana.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Valerianaceae) 
+
 ## Phylogeny 
 
 
@@ -24,16 +69,10 @@ title: Valerianaceae
 
 -   » Sub-Groups 
 
-# Valerianaceae 
 
-[Charles D. Bell](http://www.tolweb.org/)
+## Introduction
 
-![ ](Valerianaceae/PatriniaToL_002.gif)
-![ ](Valerianaceae/nardos1.jpg)
-
-Containing group: [Dipsacales](../Dipsacales.md)
-
-### Introduction
+[Charles D. Bell](http://www.tolweb.org/) 
 
 Originally described by Linnaeus (1753); Linnaeus (1754), Valerianaceae
 is traditionally subdivided into three tribes (Graebner, 1906); 1)
@@ -140,116 +179,19 @@ support for the grouping of Fedia and Valerianella as a clade. In
 addition, their data supported a clade consisting of species of
 Valeriana and Centranthus.
 
-### References
 
-Backlund, A. A. (1996): Phylogeny of the Dipsacales. Ph.D. thesis,
-Uppsala University, Sweden.
+## Title Illustrations
 
-Backlund, A. A. & Donoghue, M. J. (1996): Morphology and phylogeny of
-the order Dipsacales. In Phylogeny of the Dipsacales, A. A. Backlund,
-Doctoral Dissertation. Uppsala: Department of Systematic Botany, Uppsala
-University, Sweden.
 
-Backlund, A. & Moritz, T. (1998): Phylogenetic implications of an
-expanded valepotriate distribution in the Valerianaceae. Biochem. Syst.
-and Ecol. 26:309-335.
+----------------------------------------------------------------------------
+![Patrinia triloba](Patrinia_triloba.gif)
+Scientific Name ::  Patrinia triloba
+Comments          Flowers
+Copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 
 
-Bell, C. D. (2004a): Preliminary phylogeny of Valerianaceae (Dipsacales)
-inferred from nuclear and chloroplast DNA sequence data. Mol. Phylogen.
-Evol. 31:340-350.
-
-Bell, C. D. (2004b): Phylogeny and biogeography of Valerina
-(Dipsacales). Ph.D. thesis, Yale University, USA.
-
-Bell, C. D. & Donoghue M. J. (2003): Phylogeny and biogeography of
-
-Morinaceae (Dipsacales) based on nuclear and chloroplast DNA sequences.
-Org. Divers. Evol. 3: 227-237.
-
-Bell, C. D. & Donoghue M. J. (in press): Dating the Dipsacales:
-comparing models, genes, and evolutionary implications. Am. J. Bot.
-
-Bell, C. D., Edwards, E. J., Kim, S-T., & Donoghue, M. J. (2001):
-Dipsacales phylogeny based on chloroplast DNA sequences. Harv. Pap. Bot.
-6:481-499.
-
-Borsini, O. E. (1944): Genera and species plantarum argentinarum,
-chapter Valerianaceae, pp. 275-372. Descole, Buenos Aires. Argentina.
-
-Cronquist, A. (1988): The Evolution and Classification of Flowering
-Plants. New York Botanical Gardens, Bronx, NY, USA.
-
-Donoghue, M.J., Bell, C. D. & Winkworth, R. C. (2003): The evolution of
-reproductive characters in Dipsacales. Int. J. Plant Sci. 164: S453-464.
-
-Donoghue, M. J., Eriksson, T., Reeves, P. A. & Olmstead, R. G. (2001b):
-Phylogeny and phylogenetic taxonomy of Dipsacales, with special
-reference to Sinadoxa and Tetradoxa (Adoxaceae). Harv. Pap. Bot.
-6:459-479.
-
-Donoghue, M. J., Olmstead, R. G, Smith, J. F. & Palmer, J. D. (1992):
-Phylogenetic relationships of Dipsacales based on rbcL sequences. Ann.
-Missouri Bot. Gard. 79:333-345.
-
-Eriksen, B. (1989): Note on the generic and infrageneric delimitation in
-the Valerianaceae. Nord. J. Bot. 9:179-187.
-
-Graebner, P. (1906): Die Gattungen der naturlichen Familie der
-Valerianaceae. Bot. Jahrb. Syst. 37:464-480.
-
-Hildago, O. Garnatje, T., Susana, A. & Mathez, J. (2004): Phylogeny of
-Valerianaceae based on matK and ITS markers, with reference to matK
-individual polymorphisms. Ann. Bot. 93: 283-293.
-
-Larsen, B. B. (1986): A taxonomic revision of Phyllactis and Valeriana
-sect Bracteata (Valerianaceae). Nord. J. Bot. 6:427-446.
-
-Meyer, F. G. (1951): Valeriana in North America and the West Indies
-(Valerianaceae). Ann. Missouri Bot. Gard. 38:377-503.
-
-Ozaki, K. (1980): Late Miocene Tatsumitoge flora of Tottori Prefecture,
-southwest Honshu, Japan. Science Reports of the Yokohama National
-University Sec. 2 2:40-42.
-
-Pyck, N., Roels, P & Smets, E. (1999): Tribal relationships in
-Caprifoliaceae: evidence from a cladistic analysis using ndhF sequences.
-Syst. Geogr. Pl. 69:145-159.
-
-Pyck, N. & Smets, E. (2000): A search for the position of the seven-son
-flower (Heptacodium, Dipsacales): combining molecular and morphological
-evidence. Plant Syst. Evol. 225:185-199.
-
-Pyck, N., van Lysebetten, A., Stessens, J. & Smets, E. (2002): The
-phylogeny of Patrinieae sensu Graebner (Valerianaceae) revisited:
-additional evidence from ndhF sequence data. Plant Syst. Evol.
-233:29-46.
-
-Raymundez, M. B., Mathez, J., Xena de Enrech, N. & Duduisson, J.-Y.
-(2002): Coding of insertion-deletion events of the chloroplast intergene
-atpB-rbcL for the phylogeney of the Valerianeae tribe (Valerianaceae).
-C. R. Biologies pp. 131-139.
-
-Weberling, F. (1970): in: Hegig, Illustrierte Flora von Mitteleuropa,
-Familie Valerianaceae, pp. 97-176. Carl Hansen, Munchen, Germany.
-
-Zhang, W.-H., Chen, Z.-D. , Li, J.-H., Chen, Y.-C. & Tang, H-B. (2003):
-Phylogeny of the Dipsacales s.l. based on chloroplast trnL and ndhF
-sequences. Mol. Phylogen. Evol. 26:176-189.
-
-##### Title Illustrations
-
-![](PatriniaToL.gif)
-
-  ----------------------------------------------------------------------------
-  Scientific Name ::  Patrinia triloba
-  Comments          Flowers
-  Copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 
-  ----------------------------------------------------------------------------
-![](nardos1_002.jpg)
-
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Nardostachys jatamansi
-  Specimen Condition   Live Specimen
-  Identified By        C. Bell
-  Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
-  ---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+![Nardostachys_jatamansi](Nardostachys_jatamansi.jpg)
+Scientific Name ::     Nardostachys jatamansi
+Specimen Condition   Live Specimen
+Identified By        C. Bell
+Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 

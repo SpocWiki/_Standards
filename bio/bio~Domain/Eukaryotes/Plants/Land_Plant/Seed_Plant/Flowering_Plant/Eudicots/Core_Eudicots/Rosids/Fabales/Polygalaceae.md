@@ -1,6 +1,23 @@
 ---
 title: Polygalaceae
+aliases:
+  - milkwort
 ---
+
+# [[Polygalaceae]] 
+
+![Polygala dalmaisiana](Polygalaceae/Polygala_dalmaisiana.jpg) 
+
+## #has_/text_of_/abstract 
+
+> The **Polygalaceae** or the milkwort family are made up of flowering plants in the order Fabales. 
+> They have a near-cosmopolitan range, with about 27 genera 
+> and ca. 900 known species of herbs, shrubs and trees. 
+> Over half of the species are in one genus, Polygala, the milkworts.
+>
+> The family was first described in 1809 by Johann Hoffmansegg and Johann Link. In 1896, Robert Chodat split it into 3 tribes. A fourth tribe was split off from the tribe Polygaleae in 1992.  Under the Cronquist classification system, Polygalaceae were treated in a separate order of their own, Polygalales. Currently, according to the Angiosperm Phylogeny Group, the family belongs in Fabales.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Polygalaceae) 
 
 ## Phylogeny 
 
@@ -25,15 +42,9 @@ title: Polygalaceae
 
 -   » Sub-Groups 
 
-# Polygalaceae 
+## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/)
-
-![ ](Polygalaceae/Polygala_1.jpg)
-
-Containing group: [Fabales](../Fabales.md)
-
-### Introduction
+[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
 
 Polygalaceae R. Br., a widespread family of ca. 18 genera and perhaps
 1050 species, is considered to be monophyletic on the basis of
@@ -46,29 +57,13 @@ those of Fabaceae, however, analyses of molecular data (*rbcL*, 18S rDNA
 and *atpB*; Soltis et al. 2000; Doyle et al. 2000) place the family as
 the sister group of Fabaceae.
 
-### References
+## Title Illustrations
 
-Doyle, J. J., J. A. Chappill, C.D. Bailey, and T. Kajita. 2000. Towards
-a comprehensive phylogeny of legumes: evidence from rbcL sequences and
-non-molecular data. Pages 1-20 in Advances in legume systematics, part 9
-(P.S. Herendeen and A. Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
 
-Persson, C. 2001. Phylogenetic relationships in Polygalaceae based on
-plastid DNA sequences from the trnL-F region. Taxon 50: 763-779.
+-----------------------
+![](Polygalaceae/Polygala_dalmaisiana.jpg)
+Scientific Name ::     Polygala dalmaisiana
+Location ::           Sea World, San Diego, CA
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/)
 
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, rbcL, and atpB
-sequences. Botanical Journal of the Linnean Society 133:381-461.
-
-##### Title Illustrations
-
-![](Polygala_1_002.jpg)
-
-  -----------------------
-  Scientific Name ::     Polygala dalmaisiana
-  Location ::           Sea World, San Diego, CA
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/)
-  -----------------------

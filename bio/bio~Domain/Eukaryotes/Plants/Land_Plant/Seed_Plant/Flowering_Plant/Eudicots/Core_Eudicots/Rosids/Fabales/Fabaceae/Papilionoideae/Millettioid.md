@@ -2,42 +2,15 @@
 title: Millettioid sensu lato clade
 ---
 
-## Phylogeny 
+# [[Millettioid]] sensu lato 
+
+![Phaseolus vulgaris](Millettioid/Phaseolus_vulgaris.jpg) 
+![Erythrina falcata](Millettioid/Erythrina_falcata.jpg) 
 
 
--   « Ancestral Groups  
-    -   [Papilionoideae](../Papilionoideae.md)
-    -   [Fabaceae](../../Fabaceae.md)
-    -   [Fabales](../../../Fabales.md)
-    -   [Rosids](../../../../Rosids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
+## Introduction
 
--   ◊ Sibling Groups of  Papilionoideae
-    -   [Cladrastis clade](Cladrastis_clade)
-    -   [Genistoid clade](Genistoid_clade)
-    -   [Dalbergioid sensu lato clade](Dalbergioid_clade)
-    -   Millettioid sensu lato clade
-    -   [Hologalegina](Hologalegina.md)
-
--   » Sub-Groups 
-
-# Millettioid sensu lato clade 
-
-[Martin F. Wojciechowski](http://www.tolweb.org/)
-
-![ ](Millettioid/29_002.jpg)
-![ ](Millettioid/19.jpg)
-
-Containing group: [Papilionoideae](../Papilionoideae.md)
-
-### Introduction
+[Martin F. Wojciechowski](http://www.tolweb.org/) 
 
 The Millettioid sens. lat. clade includes all genera in the tribes
 Millettieae (except for *Afgekia*, *Callerya*, and *Wisteria* in the
@@ -92,76 +65,45 @@ and Ophrestinae of Phaseoleae are nested within a paraphyletic
 Millettieae, and Desmodieae and Psoraleeae are nested within a
 paraphyletic Phaseoleae.
 
-### References
+## Phylogeny 
 
-Doyle, J. J., J. L. Doyle, J. A. Ballenger, E. E. Dickson, T. Kajita,
-and H. Ohashi. 1997. A phylogeny of the chloroplast gene *rbcL* in the
-Leguminosae: taxonomic correlations and insights into the evolution of
-nodulation. American J. Botany 84: 541-554.
+-   « Ancestral Groups  
+    -   [Papilionoideae](../Papilionoideae.md)
+    -   [Fabaceae](../../Fabaceae.md)
+    -   [Fabales](../../../Fabales.md)
+    -   [Rosids](../../../../Rosids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../Tree_of_Life.md)
 
-Geesink, R. 1981. Tephrosieae. Pages 245-260 in Advances in Legume
-Systematics, part 1 (R. M. Polhill and P. H. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
+-   ◊ Sibling Groups of  Papilionoideae
+    -   [Cladrastis clade](Cladrastis_clade)
+    -   [Genistoid clade](Genistoid_clade)
+    -   [Dalbergioid sensu lato clade](Dalbergioid_clade)
+    -   Millettioid sensu lato clade
+    -   [Hologalegina](Hologalegina.md)
 
-Geesink, R. 1984. Scala Millettiarum. Leiden Bot. Ser. 8: 1-131.
+-   » Sub-Groups 
 
-Hu, J.-M. 2000. Phylogenetic relationships of the tribe Millettieae and
-allies-the current status. Pages 299-310 in Advances in Legume
-Systematics, part 9 (P. S. Herendeen and A. Bruneau, eds.). Royal
-Botanic Gardens, Kew, UK.
 
-Hu, J.-M., M. Lavin, M. F. Wojciechowski, and M. J. Sanderson. 2000.
-Phylogenetic systematics of the tribe Millettieae (Leguminosae) based on
-*matK* sequences, and implications for evolutionary patterns in
-Papilionoideae. American J. Botany 87: 418-430.
+## Title Illustrations
 
-Kajita, T., H. Ohashi, Y. Tateishi, C. D. Bailey, and J. J. Doyle. 2001.
-*rbcL* and legume phylogeny, with particular reference to Phaseoleae,
-Millettieae, and allies. Systematic Botany 26: 515-536.
+----------------------
+![Phaseolus vulgaris](Phaseolus_vulgaris.jpg)
+Scientific Name ::     Phaseolus vulgaris L.
+Specimen Condition   Live Specimen
+Copyright ::            © [Robert Kiedrowski](http://www.danad.com.pl/foto.htm)
 
-Lavin, M., E. Eshbaugh, J.-M. Hu, S. Matthews, and R. A. Sharrock. 1998.
-Monophyletic subgroups of the tribe Milletieae (Leguminosae) as revealed
-by phytochrome nucleotide sequence data. American J. Botany 85: 412-433.
+-----------------------
+![Erythrina falcata](Erythrina_falcata.jpg)
+Scientific Name ::     Erythrina falcata Bentham
+Location ::           Peru
+Comments             Member of tribe Phaseoleae
+Specimen Condition   Live Specimen
+Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
-Lewis, G., B. Schrire, B. MacKinder, and M. Lock (eds). 2005. Legumes of
-the world. The Royal Botanical Gardens, Kew, UK.
-
-Polhill, R. M. 1981. Papilionoideae. Pages 191-208 in Advances in Legume
-Systematics, part 1 (R. M. Polhill and P. Raven, eds.). Royal Botanic
-Gardens, Kew, UK.
-
-Schrire, B. D. 2005a. Indigofereae. Pages 361-365 in Legumes of the
-world (Lewis et al., eds.). Royal Botanic Gardens, Kew, UK.
-
-Schrire, B. D. 2005b. Millettieae. Pages 367-387 in Legumes of the world
-(Lewis et al., eds.). Royal Botanic Gardens, Kew, UK.
-
-Schrire, B. D. 2005c. Abreae. Pages 389-391 in Legumes of the world
-(Lewis et al., eds.). Royal Botanic Gardens, Kew, UK.
-
-Schrire, B. D. 2005d. Phaseoleae. Pages 393-431 in Legumes of the world
-(Lewis et al., eds.). Royal Botanic Gardens, Kew, UK.
-
-Wojciechowski, M. F., M. Lavin, and M. J. Sanderson. 2004. A phylogeny
-of legumes (Leguminosae) based on analysis of the plastid *matK* gene
-resolves many well-supported subclades within the family. American J.
-Botany 91: 1846-1862.
-
-##### Title Illustrations
-
-![](29.jpg)
-
-  ----------------------
-  Scientific Name ::     Phaseolus vulgaris L.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Robert Kiedrowski](http://www.danad.com.pl/foto.htm)
-  ----------------------
-![](19_002.jpg)
-
-  -----------------------
-  Scientific Name ::     Erythrina falcata Bentham
-  Location ::           Peru
-  Comments             Member of tribe Phaseoleae
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
-  -----------------------

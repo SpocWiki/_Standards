@@ -1,6 +1,54 @@
 ---
 title: Fabales
+aliases:
+  - Fabales
 ---
+
+# [[Fabales]] 
+
+![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg)  ![Securidaca](Fabales/Securidaca_diversifolia.jpg)  ![Quillaja saponaria](Fabales/Quillaja_saponaria.jpg)  ![Suriana_maritima](Fabales/Suriana_maritima.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Fabales** is an order of flowering plants included in the rosid group of the eudicots 
+> in the Angiosperm Phylogeny Group II classification system. 
+> In the APG II circumscription, this order includes the families Fabaceae or legumes 
+> (including the subfamilies Caesalpinioideae, Mimosoideae, and Faboideae), 
+> Quillajaceae, Polygalaceae or milkworts 
+> (including the families Diclidantheraceae, Moutabeaceae, and Xanthophyllaceae), 
+> and Surianaceae. 
+> 
+> Under the  Cronquist system and some other plant classification systems, 
+> the order Fabales contains only the family Fabaceae. 
+> 
+> In the classification system of Dahlgren the Fabales were in the superorder Fabiflorae 
+> (also called Fabanae) with three families corresponding to the subfamilies of Fabaceae in APG II. 
+> 
+> The other families treated in the Fabales by the APG II classification 
+> were placed in separate orders by Cronquist, 
+> - the Polygalaceae within its own order, 
+> - the Polygalales, and the Quillajaceae and Surianaceae within the Rosales.
+>
+> The Fabaceae, as the third-largest plant family in the world, 
+> contain most of the diversity of the Fabales, 
+> the other families making up a comparatively small portion of the order's diversity. 
+> 
+> Research in the order is largely focused on the Fabaceae, 
+> due in part to its great biological diversity, and to its importance as food plants. 
+> 
+> The Polygalaceae are fairly well researched among plant families, 
+> in part due to the large diversity of the genus Polygala, 
+> and other members of the family being 
+> food plants for various Lepidoptera (butterfly and moth) species.  
+> 
+> While taxonomists using molecular phylogenetic techniques find strong support for the order, 
+> questions remain about the morphological relationships of the Quillajaceae and Surianaceae 
+> to the rest of the order, due in part to limited research on these families.
+>
+> According to molecular clock calculations, 
+> the lineage that led to Fabales split from other plants about 101 million years ago.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Fabales) 
 
 ## Phylogeny 
 
@@ -39,24 +87,10 @@ title: Fabales
     -   [Polygalaceae](Fabales/Polygalaceae.md)
     -   [Quillaja](Quillaja)
 
-# Fabales 
 
-[Martin F. Wojciechowski, Johanna Mahn, and Bruce Jones](http://www.tolweb.org/)
+## Introduction
 
-![ ](Fabales/Cytisus_scoparius0022099.jpg)
-![ ](Fabales/Securidaca11.jpg)
-![](Fabales/64.jpg)
-![ ](Fabales/Suriana_maritima7.jpg)
-
-Containing group: [Rosids](../Rosids.md)
-
-### Information on the Internet
-
--   [Angiosperm Phylogeny     Website](http://www.mobot.org/MOBOT/Research/APweb/welcome.html);
-    search on \"Fabales\"
--   [International Legume Database & Information     Service](http://www.ildis.org/)
-
-### Introduction
+[Martin F. Wojciechowski, Johanna Mahn, and Bruce Jones](http://www.tolweb.org/) 
 
 The traditional orders Fabales, Rosales, Cucurbitales, and Fagales
 comprise one of the major clades within Eurosids I. This clade is
@@ -90,88 +124,35 @@ Steele et al., 2000; Persson, 2001) have shown the rosacean genus
 *Quillaja* Molina strongly supported as a member of Fabales, although
 relationships within Fabales are still only weakly resolved.
 
-### References
 
-Angiosperm Phylogeny Group \[APG\]. 2003. An update of the Angiosperm
-Phylogeny Group classification for the orders and families of flowering
-plants: APG II. Botanical Journal of the Linnean Society 141: 399-436.
+## Title Illustrations
 
-Crayn, D. M., E. S. Fernando, P.A. Gadek, and C.J. Quinn. 1995. A
-reassessment of the familial affinity of the Mexican genus *Recchia*
-Moçiño & Sessé ex DC. Brittonia 47: 397-402.
 
-Doyle, J. J., J. A. Chappill, C.D. Bailey, and T. Kajita. 2000. Towards
-a comprehensive phylogeny of legumes: evidence from *rbcL* sequences and
-non-molecular data. Pages 1-20 in Advances in legume systematics, part 9
-(P.S. Herendeen and A. Bruneau, eds.). Royal Botanic Gardens, Kew, UK.
+------------------------------
+![Cytisus_scoparius](Cytisus_scoparius.jpg)
+Scientific Name ::     Cytisus scoparius
+Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0022099)
+Specimen Condition   Live Specimen
+Source Collection    [InsectImages.org](http://www.insectimages.org/)
+Copyright ::            © Eric Coombs, Oregon Department of Agriculture
 
-Fernando, E.S., P. A. Gadek, D. M. Crayn, and C. J. Quinn. 1993. Rosid
-affinities of Surianacae: molecular evidence. Molecular Phylogenetics
-and Evolution 2: 344 -- 350.
+------------------------
+![Securidaca diversifolia](Fabales/Securidaca_diversifolia.jpg) 
+Scientific Name ::     Securidaca diversifolia S.F. Blake
+Location ::           Fairchild Tropical Garden, Coral Gables, FL
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Dennis Stevenson](http://www.plantsystematics.org/)
 
-Lotova, L. I. and A. C. Timonin. 1999. Anatomy of cortex and secondary
-phloem in Rosaceae. 3. Quillajoideae. Bot. Zhurn. 84 (2): 34-41.
+-------------------------
+![Quillaja saponaria](Fabales/Quillaja_saponaria.jpg) 
+Scientific Name ::     Quillaja saponaria Poir.
+Specimen Condition   Live Specimen
+Copyright ::            © 2003-2006 [David L. Magney](http://www.magney.org)
 
-Persson, C. 2001. Phylogenetic relationships in Polygalaceae based on
-plastid DNA sequences from the *trnL-F* region. Taxon 50: 763-779.
+----------
+![Suriana_maritima](Fabales/Suriana_maritima.jpg)
+Scientific Name ::     Suriana maritima L.
+Specimen Condition   Live Specimen
+Copyright ::            © Shirley Denton
 
-Robertson, K. R. 1974. The genera of the Rosaceae in the southeastern
-United States. J. Arnold Arboretum 55: 303-401, 611-662.
 
-Savolainen, V., M.W. Chase, S.B. Hoot, C.M. Morton, D.E. Soltis, C.
-Bayer, M.F. Fay, A.Y. De Bruijn, S. Sullivan, and Y.L. Qiu. 2000a.
-Phylogenetics of flowering plants based on combined analysis of plastid
-atpB and rbcL gene sequences. Systematic Biology 49:306-362.
-
-Savolainen, V., M. F. Fay, D. C. Albach, A. Backlund, M. van der Bank,
-K. M. Cameron, S. A. Johnson, M. D. Lledó, J.-C. Pintaud, M. Powell, M.
-C. Sheahan, D. E. Soltis, P. S. Soltis, P. Weston, W. M. Whitten, K. J.
-Wurdack, and M. W. Chase. 2000b. Phylogeny of the eudicots: a nearly
-complete familial analysis based on *rbcL* gene sequences. Kew Bulletin
-55:257-309.
-
-Soltis, D. E., P. S. Soltis, M. W. Chase, M. E. Mort, D. C. Albach, M.
-Zanis, V. Savolainen, W. H. Hahn, S. B. Hoot, M. F. Fay, M. Axtell, S.
-M. Swensen, L. M. Prince, W. J. Kress, K. C. Nixon, and J. S. Farris.
-2000. Angiosperm phylogeny inferred from 18S rDNA, *rbcL*, and *atpB*
-sequences. Botanical Journal of the Linnean Society 133:381-461.
-
-Takhtajan, Armen. 1997. Diversity and classification of flowering
-plants. Columbia University Press, New York.
-
-Zhang, S.-Y. 1992. Systematic wood anatomy of the Rosaceae. Blumea 37:
-81-158.
-
-##### Title Illustrations
-
-![](Cytisus_scoparius0022099_002.jpg)
-
-  ------------------------------
-  Scientific Name ::     Cytisus scoparius
-  Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0022099)
-  Specimen Condition   Live Specimen
-  Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © Eric Coombs, Oregon Department of Agriculture
-  ------------------------------
-![](Securidaca11_002.jpg)
-
-  ------------------------
-  Scientific Name ::     Securidaca diversifolia S.F. Blake
-  Location ::           Fairchild Tropical Garden, Coral Gables, FL
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Dennis Stevenson](http://www.plantsystematics.org/)
-  ------------------------
-![](64_002.jpg)
-
-  -------------------------
-  Scientific Name ::     Quillaja saponaria Poir.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2003-2006 [David L. Magney](http://www.magney.org)
-  -------------------------
-![](Suriana_maritima7_002.jpg)
-
-  ----------
-  Scientific Name ::     Suriana maritima L.
-  Specimen Condition   Live Specimen
-  Copyright ::            © Shirley Denton
-  ----------

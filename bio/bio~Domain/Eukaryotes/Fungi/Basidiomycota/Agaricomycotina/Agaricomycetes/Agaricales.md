@@ -64,7 +64,7 @@ Containing group: [Agaricomycetes](Agaricomycetes.md)
 -   [Mykoweb: mushrooms, fungi, mycology](http://www.mykoweb.com/).
     Devoted to the science of mycology and the hobby of mushrooming.
 
-### Introduction
+## Introduction
 
 The Agaricales, or euagarics clade, is a monophyletic group of
 approximately 8500 mushroom species. As such it forms the largest clade
@@ -438,7 +438,7 @@ Walther, G., Garnica, S., and Weiss, M. 2005. The systematic relevance
 of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 525-544.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](gymnopilus_spectabilis_002.jpg)
 

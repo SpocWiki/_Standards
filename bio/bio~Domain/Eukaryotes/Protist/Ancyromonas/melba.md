@@ -26,7 +26,7 @@ title: Ancyromonas melba
 
 Containing group: *[Ancyromonas](../Ancyromonas.md)*
 
-### Introduction
+## Introduction
 
 Cells are 5-7 µm long, oval shaped and dorso-ventrally flattened with
 the ventral side hollowed. The anterior end of the cell is set off by a
@@ -75,7 +75,7 @@ Patterson D. J. and Simpson, A. G. B. 1996. Heterotrophic flagellates
 from coastal marine and hypersaline sediments in Western Australia.
 European Journal of Protistology 32:423-448.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](fancyromel_002.gif)
 

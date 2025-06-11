@@ -26,7 +26,7 @@ title: Apusomonas proboscidea
 
 Containing group: *[Apusomonas](../Apusomonas.md)*
 
-### Introduction
+## Introduction
 
 This species of *Apusomonas* is distinguished by having a rounded body.
 It has been reported from Australia and Europe.
@@ -71,7 +71,7 @@ Vickerman, K. Darbyshire, J.F. and Ogden, C.G., 1974: Apusomonas
 proboscidea Aléxéieff 1924, An unusual phagotrophic flagellate from
 soil. Archiv für Protistenkunde 116:254-269.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](fapusop.jpg)
 

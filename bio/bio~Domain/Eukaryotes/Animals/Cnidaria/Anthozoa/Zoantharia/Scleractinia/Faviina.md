@@ -35,7 +35,7 @@ Classification after Wells (1956). Family marked with a cross
 
 Containing group: [Scleractinia](Scleractinia.md)
 
-### Introduction
+## Introduction
 
 The faviines have septa formed of one or more fan systems of simple or
 compound trabeculae, ranging from isolated spines to imperforate

@@ -2,6 +2,20 @@
 title: Hemigraphis + Strobilanthes + relatives
 ---
 
+# *Hemigraphis + Strobilanthes + relatives* 
+
+![ ](Hemigraphis/Hemigraphisalternata.jpg)  ![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Hemigraphis** is a genus of plants in the family Acanthaceae, 
+> consisting of 34 species native to tropical Asia. 
+> 
+> Hemigraphis is similar to plants the genus Strobilanthes, with some species now placed there. 
+> Its native range is Nansei-shoto and from Indo-China to New Guinea.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Hemigraphis) 
+
 ## Phylogeny 
 
 
@@ -33,69 +47,54 @@ title: Hemigraphis + Strobilanthes + relatives
 
 -   » Sub-Groups 
 
-# *Hemigraphis + Strobilanthes + relatives* 
+## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp](http://www.tolweb.org/) 
 
-![ ](Hemigraphis/Hemigraphisalternata.jpg)
-![](Hemigraphis/Hemigraphisrepanda1_002.jpg)
+*Hemigraphis* is a taxonomically difficult genus 
+with a center of diversity in the Philippines and Malesia. 
+As of 1998, there were approximately 146 published names, 
+but several of these are likely synonyms (Moylan 1999). 
 
-Containing group: [Ruellieae](../Ruellieae.md)
+*Strobilanthes* is a large genus of ca. 300 species. 
+Species are distributed throughout southern, southeast, 
+and peninsular Asia as well as northern Australia. 
 
-### Introduction
+*Strobilanthes* is commonly characterized 
+by having flowers with two rows of hairs 
+on the posterior corolla surface that retain style. 
 
-*Hemigraphis* is a taxonomically difficult genus with a center of
-diversity in the Philippines and Malesia. As of 1998, there were
-approximately 146 published names, but several of these are likely
-synonyms (Moylan 1999).\
+The filament curtain in *Strobilanthes* is of a particular type, 
+consisting of a partially developed 5th (posterior) filament 
+that forms a small lobe or ridge 
+between the other four, fused filaments (Manktelow 2000). 
 
-*Strobilanthes* is a large genus of ca. 300 species. Species are
-distributed throughout southern, southeast, and peninsular Asia as well
-as northern Australia. *Strobilanthes* is commonly characterized by
-having flowers with two rows of hairs on the posterior corolla surface
-that retain style. The filament curtain in *Strobilanthes* is of a
-particular type, consisting of a partially developed 5th (posterior)
-filament that forms a small lobe or ridge between the other four, fused
-filaments (Manktelow 2000). Some species of *Strobilanthes* and
-*Hemigraphis* are cultivated for their attractive, vegetative
-qualities.\
-\
+Some species of *Strobilanthes* and *Hemigraphis* 
+are cultivated for their attractive, vegetative
+qualities. 
+
 Recent phylogenetic analyses (Moylan et al. 2004) suggest
 *Strobilanthes*, along with *Hemigraphis* and *Sericocalyx* are
 non-monophyletic. These authors proposed an expanded genus
 *Strobilanthes* s.l. to include *Aechmanthera, Clarkeasia, Hemigraphis,
 Sericocalyx*, and *Stenosiphonium*. *Strobilanthes* s.l. replaces
 several small, segregate genera of Strobilanthinae (sensu Bremekamp
-1944).\
+1944).
 
-### References
+## Title Illustrations
 
-Manktelow, M. 2000. The filament curtain: a structure important to
-systematics and pollination biology in the Acanthaceae. Bot. Journ.
-Linn. Soc. 133: 129-160.
 
-Moylan. E. Hemigraphis (Nees) Acanthaceae from the Philippines: An
-example of species delimitation. Oxford Plant Systematics OPS. 7
-December 1999.
+-------------------------------------
+![](Hemigraphisalternata.jpg)
+Scientific Name ::     Hemigraphis alternata T.Anders.
+Specimen Condition   Live Specimen
+Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
 
-Moylan, E.C., J.R. Bennett. M.A. Carine, R.G. Olmstead, and R.W.
-Scotland. 2004. Phylogenetic relationships among Strobilanthes s.l.
-(Acanthaceae): evidence from ITS nrDNA, trnL-F cpDNA, and morphology.
-Am. Journ. Bot. 91(5): 724-735.
+-------------------------
+![Hemigraphis_repanda](Hemigraphis_repanda.jpg)
+Scientific Name ::     Hemigraphis repanda Lindau
+Specimen Condition   Live Specimen
+Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
 
-##### Title Illustrations
 
-![](Hemigraphisalternata_002.jpg)
 
-  -------------------------------------
-  Scientific Name ::     Hemigraphis alternata T.Anders.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
-  -------------------------------------
-![](Hemigraphisrepanda1.jpg)
-
-  -------------------------
-  Scientific Name ::     Hemigraphis repanda Lindau
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
-  -------------------------

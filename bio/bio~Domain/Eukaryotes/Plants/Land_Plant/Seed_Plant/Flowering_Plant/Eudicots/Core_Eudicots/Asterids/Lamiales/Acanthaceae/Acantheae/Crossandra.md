@@ -2,6 +2,16 @@
 title: Crossandra
 ---
 
+# [[Crossandra]] 
+
+![Crossandra](Crossandra/crossandra.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Crossandra** is a genus of plants in the family Acanthaceae, comprising 54  species that occur in Africa, Madagascar, Arabia and the Indian subcontinent. Some species, especially Crossandra infundibuliformis, are cultivated for their brightly colored flowers.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Crossandra) 
+
 ## Phylogeny 
 
 
@@ -33,31 +43,17 @@ title: Crossandra
     -   [Other New World         Acantheae](Other_New_World_Acantheae)
 
 -   » Sub-Groups 
+	-   *Crossandra greenstockii* [ S. Moore]
+	-   *Crossandra horrida* [ Vollesen]
+	-   *Crossandra infundibuliformis*[ (L.) Nees]
+	-   *Crossandra longipes* [ S. Moore]
+	-   *Crossandra pungens* [ Lindau]
+	-   *Crossandra strobilifera*[ (Lam.) Benoist]
+	
 
-# *Crossandra* 
+## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
-
-![ ](Crossandra/crossandra_002.jpg)
-![ ](Crossandra/crossandra_002.jpg)
-
--   *Crossandra greenstockii* [ S. Moore]
--   *Crossandra horrida* [ Vollesen]
--   *Crossandra infundibuliformis*[ (L.) Nees]
--   *Crossandra longipes* [ S. Moore]
--   *Crossandra pungens* [ Lindau]
--   *Crossandra strobilifera*[ (Lam.) Benoist]
-
-Note: this taxon list is still under construction. It does not yet
-contain all known *Crossandra* subgroups.
-
-The list above includes only taxa that were sampled by McDade et al.
-(2005).  There are other species of *Crossandra* that likely belong to
-this clade but this needs to be confirmed with further study.
-
-Containing group: [Acantheae](../Acantheae.md)
-
-### Introduction
+[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
 
 *Crossandra* is a genus of 52 species that occur in Africa, Madagascar,
 Arabia and the Indian subcontinent. A number of species of this genus,
@@ -79,33 +75,21 @@ diagnostic morphological character for at least the African species of
 is apparently lacking or dimorphic in some Malagasy species (Vollesen
 1997).\
 
-### References
 
-McDade, L. A., T. F. Daniel, C. A. Kiel, and K. Vollesen. 2005.
-Phylogenetic relatinships among Acantheae (Acanthaceae): Major lineages
-present contrasting patterns of molecular evolution and morphological
-differentiation. Systematic Botany 30: 834-862.
+## Title Illustrations
 
-Vollesen, K. 1990. The genus Crossandra (Acanthaceae) in the African
-continent. Kew Bulletin 45: 503-534.
 
-Vollesen, K. 1997. Synopsis of the genus Crossandra (Acanthaceae) in
-Madagascar. Kew Bulletin 52: 379-415.
+---------------------------------------------------------------------------
+![Crossandra nilotica](crossandra.jpg)
+Scientific Name ::     Crossandra nilotica Oliv.
+Location ::           Tsombitse Park, Tana, Malagasy Republic, Cultivated
+Specimen Condition   Live Specimen
+Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-##### Title Illustrations
+--------------------------------------------------------------------------
+![Crossandra infundibuliformis](Crossandra.jpg)
+Scientific Name ::     Crossandra infundibuliformis Nees
+Specimen Condition   Live Specimen
+Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
-![](crossandra.jpg)
 
-  ---------------------------------------------------------------------------
-  Scientific Name ::     Crossandra nilotica Oliv.
-  Location ::           Tsombitse Park, Tana, Malagasy Republic, Cultivated
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  ---------------------------------------------------------------------------
-![](Crossandra.jpg)
-
-  --------------------------------------------------------------------------
-  Scientific Name ::     Crossandra infundibuliformis Nees
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
-  --------------------------------------------------------------------------

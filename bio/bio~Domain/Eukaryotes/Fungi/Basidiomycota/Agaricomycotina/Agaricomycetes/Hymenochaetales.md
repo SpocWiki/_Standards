@@ -53,7 +53,7 @@ Containing group: [Agaricomycetes](Agaricomycetes.md)
 -   [AFTOL: Assembling the Fungal Tree of     Life](http://ocid.nacse.org/research/aftol/). Collaborative research
     in fungal phylogenetics.
 
-### Introduction
+## Introduction
 
 The hymenochaetoid clade is one of the eight major clades of
 Homobasidiomycetes suggested by Hibbett and Thorn (2001), and
@@ -382,7 +382,7 @@ Wesenberg, D., Kyriakides, I. and Agathos, S.N. 2003. White-rot fungi
 and their enzymes for the treatment of industrial dye effluents.
 Biotechnology Adv. 22(1-2):161-187.
 
-##### Title Illustrations
+## Title Illustrations
 
 ![](Aurificaria_luteoumbrina_002.jpg)
 

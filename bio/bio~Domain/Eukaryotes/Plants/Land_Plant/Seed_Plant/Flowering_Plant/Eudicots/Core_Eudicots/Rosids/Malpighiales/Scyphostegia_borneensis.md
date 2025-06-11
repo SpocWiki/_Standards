@@ -2,38 +2,25 @@
 title: Scyphostegia borneensis
 ---
 
-## Phylogeny 
+# [[Scyphostegia borneensis]]  
 
+![Scyphostegia borneensis](Scyphostegia_borneensis/Scyphostegia_borneensis.jpg) 
 
--   « Ancestral Groups  
-    -   [Malpighiales](../Malpighiales.md)
-    -   [Rosids](../../Rosids.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
+## #has_/text_of_/abstract 
 
--   ◊ Sibling Groups of  Malpighiales
-    -   [Salicaceae](Salicaceae)
-    -   Scyphostegia borneensis
-    -   [Lacistemataceae](Lacistemataceae.md)
-    -   [Samydaceae](Samydaceae.md)
+> **Scyphostegia borneensis** is a species of shrub or small tree endemic to Borneo. 
+> This unusual plant is the only species in the genus Scyphostegia. 
+> 
+> In many taxonomic classifications the genus was placed in its own family, the Scyphostegiaceae. 
+> 
+> Analyses of DNA data indicated that the species is related 
+> to a group of species of the now defunct Flacourtiaceae, 
+> a group which is now placed in a broadly circumscribed Salicaceae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Scyphostegia) 
+## Introduction
 
--   » Sub-Groups 
-
-# *Scyphostegia borneensis* 
-
-[Mac H. Alford](http://www.tolweb.org/)
-
-![ ](Scyphostegia_borneensis/Scyphostegia_ToL1.jpg)
-
-Containing group: [Malpighiales](../Malpighiales.md)
-
-### Introduction
+[Mac H. Alford](http://www.tolweb.org/) 
 
 *Scyphostegia borneensis* is an enigmatic species endemic to the
 northern part of Borneo. Its unusual combination of dioecy, basal
@@ -72,33 +59,35 @@ evident, perhaps depressed into the center. *Fruits* fleshy capsules
 deshicent from the apex, reminiscent of Monimiaceae. *Seeds* numerous,
 arillate; embryos straight, cotyledons foliaceous.
 
-### References
+## Phylogeny 
 
-Chase, M. W., S. Zmarzty, M. D. Lledó, K. J. Wurdack, S. M. Swensen, and
-M. F. Fay. 2002. When in doubt, put it in Flacourtiaceae: a molecular
-phylogenetic analysis based on plastid rbcL DNA sequences. Kew Bulletin
-57: 141-181.
+-   « Ancestral Groups  
+    -   [Malpighiales](../Malpighiales.md)
+    -   [Rosids](../../Rosids.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../Tree_of_Life.md)
 
-Swamy, B. G. L. 1953. On the floral structure of Scyphostegia.
-Proceedings of the National Institute of Science of India. Part B:
-Biological Science 19: 127-142.
+-   ◊ Sibling Groups of  Malpighiales
+    -   [Salicaceae](Salicaceae)
+    -   Scyphostegia borneensis
+    -   [Lacistemataceae](Lacistemataceae.md)
+    -   [Samydaceae](Samydaceae.md)
 
-van Heel, W. A. 1967. Anatomical and ontogenetic investigations on the
-morphology of the flowers and the fruit of Scyphostegia borneensis Stapf
-(Scyphostegiaceae). Blumea 15: 107-125.
+-   » Sub-Groups 
 
-van Steenis, C. G. G. J. 1957. Scyphostegiaceae. Pp. 297-299 in Vol. 5,
-Flora Malesiana, Series 1.
+## Title Illustrations
 
-##### Title Illustrations
-
-![](Scyphostegia_ToL1_002.jpg)
-
-  --------------
-  Scientific Name ::     Scyphostegia borneensis
-  Location ::           Malaysia: Sabah: Mt. Kinabalu
-  Specimen Condition   Live Specimen
-  Identified By        Read S. Beaman
-  Sex ::                Male
-  Copyright ::            © 2004 Read S. Beaman
-  --------------
+--------------
+![Scyphostegia borneensis](Scyphostegia_borneensis/Scyphostegia_borneensis.jpg)
+Scientific Name ::     Scyphostegia borneensis
+Location ::           Malaysia: Sabah: Mt. Kinabalu
+Specimen Condition   Live Specimen
+Identified By        Read S. Beaman
+Sex ::                Male
+Copyright ::            © 2004 Read S. Beaman
