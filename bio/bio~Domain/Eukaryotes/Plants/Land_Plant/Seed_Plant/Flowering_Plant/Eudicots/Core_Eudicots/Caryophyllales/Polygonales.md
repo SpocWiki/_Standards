@@ -2,42 +2,27 @@
 title: non-core Caryophyllales
 ---
 
-## Phylogeny 
-
-
--   « Ancestral Groups  
-    -   [Caryophyllales](../Caryophyllales.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Caryophyllales
-    -   non-core Caryophyllales
-    -   [core Caryophyllales](core_Caryophyllales)
-
--   » Sub-Groups 
-
 # non-core Caryophyllales
 
 ## Polygonales 
 
-[Pam Soltis, Doug Soltis, and Monica Arakaki](http://www.tolweb.org/)
+## #has_/text_of_/abstract 
 
-![ ](Polygonales/Polygonum_bistorta01001_002.jpg)
-![](Polygonales/Drosera_intermedia-1241028.jpg)
-![ ](Polygonales/cld06073142_002.jpg)
+> **Polygonales** was an order of flowering plants recognized by several older systems 
+> such as the Wettstein system, last revised in 1935, the Engler system, 
+> in its update of 1964, and the Cronquist system, 1981. 
+> Its circumscription was typically:
+> - order Polygonales
+> - family Polygonaceae
+>
+> In these systems the order is placed close to the order Caryophyllales 
+> (or its predecessor Centrospermae). 
+> Cronquist placed this order in his subclass Caryophyllidae of three orders. 
+> Dahlgren placed the order Polygonales within the superorder Polygoniflorae, 
+> alternatively Polygonanae.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Polygonales) 
 
-Containing group: [Caryophyllales](../Caryophyllales.md)
-
-### Information on the Internet
-
--   [International Carnivorous Plant     Society](http://www.carnivorousplants.org/).
--   [Carnivorous Plant     Database](http://www.omnisterra.com/bot/cp_home.cgi).
 
 ## Introduction
 
@@ -88,68 +73,51 @@ well-supported tree with Droseraceae sister to a clade of Nepenthaceae ,
 (*Drosophyllum* , (Dioncophyllaceae , Ancistrocladaceae)) (Meimberg *et
 al*. 2000).
 
-### References
+## Phylogeny 
 
-Albert, V. A., S. E. Williams, and M. W. Chase. 1992. Carnivorous
-plants: phylogeny and structural evolution. Science 257:1491-1495.
+-   « Ancestral Groups  
+    -   [Caryophyllales](../Caryophyllales.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
 
-Chase, M., Soltis, D. and R. E. A. Olmstead. 1993. Phylogenetics of seed
-plants: an anlysis of nucleotide sequences from the plastid gene rbcL.
-Ann. Miss. Bot. Gard. 80: 526-580.
+-   ◊ Sibling Groups of  Caryophyllales
+    -   non-core Caryophyllales
+    -   [core Caryophyllales](core_Caryophyllales)
 
-Cronquist. 1981. An integrated system of classification of flowering
-plants. Columbia University Press, New York.
+-   » Sub-Groups 
 
-Cuènoud, P., Savolainen, V. Chatrou, L. W., Grayer, P. M., R. J., and M.
-Chase. 2002. Molecular
-
-Giannasi, D. E., Zurawski, G., Learn, G. and M. T. Clegg. 1992.
-Evolutionary relationships of the Caryophyllidae based on comparative
-rbcL sequences. Systematic Botany 17: 1-15.
-
-Judd, W. S., Campbell, C. S., Kellogg, E. A. and P. F. Stevens. 2002.
-Plant systematics: a phylogenetic approach. Sinauer Associates, Inc.,
-Sunderland, Massachusetts.
-
-Meimberg, H., P. Dittrich, G. Bringmann, J. Schlauer, and G. Heubl.
-2000. Molecular phylogeny of Caryophyllidae s. l. based on matK
-sequences with special emphasis on carnivorous taxa. Plant Biology
-2:218-228.
-
-Rettig, J. H., Wilson, H. D. and J. M. Manhart. 1992. Phylogeny of the
-Caryophyllales\--Gene sequence data. Taxon 41: 201-209.
-
-Williams, S., Albert, V., and M. Chase. 1994. Relationships of
-Droseraceae: a cladistic analysis of rbcL sequence and morphological
-data. American Journal of Botany 81: 1027-1037.
 
 ## Title Illustrations
 
-![](Polygonum_bistorta01001.jpg)
+----------------------------------------------------------------------
+![](Polygonum_bistorta01001.jpg)
+Scientific Name ::  Polygonum bistorta
+Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
 
-  ----------------------------------------------------------------------
-  Scientific Name ::  Polygonum bistorta
-  Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
-  ----------------------------------------------------------------------
-![](Drosera_intermedia-1241028_002.jpg)
+------------------------------
+![](Drosera_intermedia-1241028_002.jpg)
+Scientific Name ::     Drosera intermedia
+Location ::           coastal Mississippi, USA
+Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241028)
+Specimen Condition   Live Specimen
+Source Collection    [InsectImages.org](http://www.insectimages.org/)
+Copyright ::            © James Henderson, Gulf South Research Corporation
 
-  ------------------------------
-  Scientific Name ::     Drosera intermedia
-  Location ::           coastal Mississippi, USA
-  Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241028)
-  Specimen Condition   Live Specimen
-  Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © James Henderson, Gulf South Research Corporation
-  ------------------------------
-![](cld06073142.jpg)
+-------------------------------------------------------------------------
+![](cld06073142.jpg)
+Scientific Name ::     Nepenthes rajah
+Location ::           Sabah, Malaysia
+Specimen Condition   Live Specimen
+Identified By        Ch\'ien Lee
+Life Cycle Stage ::     Mature plant
+Body Part            Lower pitcher
+Size                 c\. 20 cm long
+Copyright ::            © 2006 [Chien Lee](http://www.wildborneo.com.my/) 
 
-  -------------------------------------------------------------------------
-  Scientific Name ::     Nepenthes rajah
-  Location ::           Sabah, Malaysia
-  Specimen Condition   Live Specimen
-  Identified By        Ch\'ien Lee
-  Life Cycle Stage ::     Mature plant
-  Body Part            Lower pitcher
-  Size                 c\. 20 cm long
-  Copyright ::            © 2006 [Chien Lee](http://www.wildborneo.com.my/) 
-  -------------------------------------------------------------------------
+

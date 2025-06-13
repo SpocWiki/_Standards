@@ -1,5 +1,8 @@
 ---
 has_id_wikidata: Q259438
+aliases:
+  - Hirse
+  - Millet 
 ---
 
 
