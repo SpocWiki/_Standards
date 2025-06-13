@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12147
 Baidu_Tieba_name: 健康
 studied_in:
