@@ -4,7 +4,6 @@ title: Apusomonas proboscidea
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Apusomonas](../Apusomonas.md)
     -   [Apusomonads](../../Apusomonads.md)

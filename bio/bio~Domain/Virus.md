@@ -224,7 +224,6 @@ compared to cellular organisms.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Tree of Life](Tree_of_Life.md)
 

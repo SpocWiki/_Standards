@@ -4,7 +4,6 @@ title: Amastigomonas mutabilis
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)

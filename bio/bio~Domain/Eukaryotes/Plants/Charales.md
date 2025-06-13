@@ -21,7 +21,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Green plants](../Plants.md)
     -   [Eukaryotes](Eukaryotes)

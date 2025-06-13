@@ -20,7 +20,6 @@ title: Piroplasmorida
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Euapicomplexa](Euapicomplexa)
     -   [Alveolates](Alveolates)

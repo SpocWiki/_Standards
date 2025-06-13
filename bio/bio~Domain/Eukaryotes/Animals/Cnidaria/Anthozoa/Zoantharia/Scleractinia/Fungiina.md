@@ -4,7 +4,6 @@ title: Fungiina
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Scleractinia](Scleractinia)
     -   [Zoantharia](Zoantharia)

@@ -4,7 +4,6 @@ title: Glomeromycota
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)

@@ -62,7 +62,6 @@ noctiflora* (Nees) A. Gray.\
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellia s. l.](Ruellia_s._l.)
     -   [Ruellieae](../../Ruellieae.md)

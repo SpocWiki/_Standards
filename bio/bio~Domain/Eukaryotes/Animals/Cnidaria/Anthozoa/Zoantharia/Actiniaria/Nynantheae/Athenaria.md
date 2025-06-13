@@ -4,7 +4,6 @@ title: Athenaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Nynantheae](Nynantheae)
     -   [Actiniaria](Actiniaria)

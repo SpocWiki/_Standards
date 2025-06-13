@@ -4,7 +4,6 @@ title: Dothideomycetidae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Dothideomycetes](Dothideomycetes)
     -   [Pezizomycotina](Pezizomycotina)

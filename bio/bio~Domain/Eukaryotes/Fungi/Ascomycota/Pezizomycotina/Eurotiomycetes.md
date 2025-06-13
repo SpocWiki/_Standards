@@ -4,7 +4,6 @@ title: Eurotiomycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)

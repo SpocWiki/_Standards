@@ -4,7 +4,6 @@ title: Urediniomycotina
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Basidiomycota](Basidiomycota)
     -   [Fungi](Fungi)

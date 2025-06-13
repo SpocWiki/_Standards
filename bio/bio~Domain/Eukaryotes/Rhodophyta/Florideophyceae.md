@@ -4,7 +4,6 @@ title: Florideophyceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Rhodophyta](Rhodophyta)
     -   [Eukaryotes](Eukaryotes)

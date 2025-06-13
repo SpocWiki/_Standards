@@ -10,7 +10,6 @@ title: Euapicomplexa
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Alveolates](Alveolates)
     -   [Eukaryotes](Eukaryotes)

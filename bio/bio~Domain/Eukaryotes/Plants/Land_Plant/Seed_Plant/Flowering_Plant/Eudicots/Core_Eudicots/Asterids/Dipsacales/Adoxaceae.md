@@ -23,7 +23,6 @@ title: Adoxaceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Dipsacales](../Dipsacales.md)
     -   [Asterids](../../Asterids.md)

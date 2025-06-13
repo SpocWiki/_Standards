@@ -4,7 +4,6 @@ title: Hymenochaetoid clade
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Agaricomycetes](Agaricomycetes)
     -   [Agaricomycotina](Agaricomycotina)

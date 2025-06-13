@@ -4,7 +4,6 @@ title: Helicobasidium purpureum
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)

@@ -4,7 +4,6 @@ title: Faviina
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Scleractinia](Scleractinia)
     -   [Zoantharia](Zoantharia)

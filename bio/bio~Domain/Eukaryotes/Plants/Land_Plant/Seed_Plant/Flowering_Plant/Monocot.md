@@ -34,7 +34,6 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Flowering_Plant](../Flowering_Plant.md)
     -   [Seed_Plant](../../Seed_Plant.md)

@@ -4,7 +4,6 @@ title: Atheliales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Agaricomycetes](Agaricomycetes)
     -   [Agaricomycotina](Agaricomycotina)

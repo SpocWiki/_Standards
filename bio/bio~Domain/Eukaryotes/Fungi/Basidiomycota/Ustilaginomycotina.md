@@ -4,7 +4,6 @@ title: Ustilaginomycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Basidiomycota](Basidiomycota)
     -   [Fungi](Fungi)

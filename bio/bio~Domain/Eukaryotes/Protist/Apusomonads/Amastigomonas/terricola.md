@@ -4,7 +4,6 @@ title: Amastigomonas terricola
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)

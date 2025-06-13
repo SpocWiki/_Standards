@@ -4,7 +4,6 @@ title: Tuberculina maxima
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)

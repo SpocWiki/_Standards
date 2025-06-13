@@ -4,7 +4,6 @@ title: Agaricales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Agaricomycetes](Agaricomycetes)
     -   [Agaricomycotina](Agaricomycotina)

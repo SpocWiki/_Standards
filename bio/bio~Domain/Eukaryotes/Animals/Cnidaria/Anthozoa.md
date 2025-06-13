@@ -4,7 +4,6 @@ title: Anthozoa
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Cnidaria](Cnidaria)
     -   [Animals](Animals)

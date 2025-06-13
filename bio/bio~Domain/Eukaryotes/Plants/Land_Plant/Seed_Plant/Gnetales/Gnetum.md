@@ -4,7 +4,6 @@ title: Gnetum
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Gnetales](../Gnetales.md)
     -   [Seed_Plant](../../Seed_Plant.md)

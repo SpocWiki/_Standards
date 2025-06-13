@@ -4,7 +4,6 @@ title: Hyacinthaceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Asparagales](../Asparagales.md)
     -   [Monocot](../../Monocot.md)

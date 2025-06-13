@@ -4,7 +4,6 @@ title: Canellales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Magnoliids](../Magnoliids.md)
     -   [Flowering_Plant](../../Flowering_Plant.md)

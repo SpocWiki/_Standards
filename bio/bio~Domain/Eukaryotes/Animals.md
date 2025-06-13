@@ -202,7 +202,6 @@ of animals and their sibling groups within the broader context of eukaryotic div
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)

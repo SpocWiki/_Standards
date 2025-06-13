@@ -12,7 +12,6 @@ title: Ceramiales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Florideophyceae](Florideophyceae)
     -   [Rhodophyta](Rhodophyta)

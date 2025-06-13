@@ -16,7 +16,6 @@ title: Acanthopale
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellieae](../Ruellieae.md)
     -   [Acanthaceae](../../Acanthaceae.md)

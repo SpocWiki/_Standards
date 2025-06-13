@@ -87,7 +87,6 @@ Eukaryota, Organisms with nucleated cells
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Tree of Life](Tree_of_Life.md)
 -   ◊ Sibling Groups of  Life on Earth

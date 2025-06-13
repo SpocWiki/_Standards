@@ -20,7 +20,6 @@ green nonsulfur bacteria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)
