@@ -48,7 +48,7 @@ aliases:
 > 
 > Novels of social realism such as Kipps (1905) and The History of Mr Polly (1910), 
 > which describe lower-middle-class English life, 
-> led to the suggestion that he was a worthy successor to [[Dickens,Charles|Charles Dickens]],:  
+> led to the suggestion that he was a worthy successor to [[Modern_Writers/Dickens,Charles|Charles Dickens]],:  
 > but Wells described a range of social strata 
 > and even attempted, in Tono-Bungay (1909), a diagnosis of English society as a whole. 
 > Wells was nominated for the [[../../../International/NGO/Nobel_Prize|Nobel Prize]] in Literature four times.

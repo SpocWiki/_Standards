@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q682
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20crystals.webm"
 electron_configuration:

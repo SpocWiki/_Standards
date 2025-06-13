@@ -26,8 +26,8 @@ aliases:
   - بلغاريا
   - 保加利亚
   - Болгария
-- "the Republic of Bulgaria"
-- "la República de Bulgaria"
+  - "the Republic of Bulgaria"
+  - "la República de Bulgaria"
 Languages:
   - bg
   - tr-BG
@@ -377,13 +377,8 @@ area: 110993.6
 IOC_country_code: BUL
 ITU_letter_code: BUL
 geoshape: "http://commons.wikimedia.org/data/main/Data:Bulgaria.map"
-native_label: България
-rural_population:
-  - 1528155
-  - 1648939
-  - 1685936
-  - 1719734
 OmegaWiki_Defined_Meaning: 160307
+native_label: България
 male_population:
   - 3135133
   - 3335414
@@ -394,6 +389,11 @@ female_population:
   - 3542329
   - 3570641
   - 3592085
+rural_population:
+  - 1528155
+  - 1648939
+  - 1685936
+  - 1719734
 urban_population:
   - 4936942
   - 5228804
@@ -411,7 +411,8 @@ GitHub_topic: bulgaria
 
 # [[Bulgaria]] 
 
-Population :: shrank from 9mio in the 1990 down to 5mio in 2020. 
+#has_/number_of_/people :: 
+Population :: shrank from 9mio in the 1990s down to 5mio in 2020. 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bulgaria 
@@ -522,13 +523,60 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 
 ## #has_/text_of_/abstract 
 
-> **Bulgaria**, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania to the north. It covers a territory of 110,994 square kilometres (42,855 sq mi) and is the sixteenth-largest country in Europe. Sofia is the nation's capital and largest city; other major cities include Burgas, Plovdiv, and Varna.
+> **Bulgaria**, officially the Republic of Bulgaria, is a country in Southeast Europe. 
+> It is situated on the eastern portion of the Balkans directly south of the Danube river 
+> and west of the Black Sea. 
+> 
+> Bulgaria is bordered by Greece and Turkey to the south, 
+> Serbia and North Macedonia to the west, and Romania to the north. 
+> It covers a territory of 110,994 square kilometres (42,855 sq mi) 
+> and is the sixteenth-largest country in Europe. 
+> Sofia is the nation's capital and largest city; other major cities include Burgas, Plovdiv, and Varna.
 >
-> One of the earliest societies in the lands of modern-day Bulgaria was the Karanovo culture (6,500 BC). In the 6th to 3rd century BC, the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; stability came when the Roman Empire conquered the region in AD 45. After the Roman state splintered, tribal invasions in the region resumed. Around the 6th century, these territories were settled by the early Slavs. The Bulgars, led by Asparuh, attacked from the lands of Old Great Bulgaria and permanently invaded the Balkans in the late 7th century. They established the First Bulgarian Empire, victoriously recognised by treaty in 681 AD by the Byzantine Empire. It dominated most of the Balkans and significantly influenced Slavic cultures by developing the Cyrillic script. The First Bulgarian Empire lasted until the early 11th century, when Byzantine emperor Basil II conquered and dismantled it. A successful Bulgarian revolt in 1185 established a Second Bulgarian Empire, which reached its apex under Ivan Asen II (1218–1241). After numerous exhausting wars and feudal strife, the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
+> One of the earliest societies in the lands of modern-day Bulgaria 
+> was the Karanovo culture (6,500 BC). 
+> In the 6th to 3rd century BC, 
+> the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; 
+> stability came when the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9972-Roman_Empire|Roman Empire]] conquered the region in AD 45. 
+> 
+> After the Roman state splintered, tribal invasions in the region resumed. 
+> Around the 6th century, these territories were settled by the early Slavs. 
+> The Bulgars, led by Asparuh, attacked from the lands of Old Great Bulgaria 
+> and permanently invaded the Balkans in the late 7th century. 
+> 
+> They established the First Bulgarian Empire, 
+> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]. 
+> It dominated most of the Balkans 
+> and significantly influenced Slavic cultures by developing the Cyrillic script. 
+> 
+> The First Bulgarian Empire lasted until the early 11th century, 
+> when Byzantine emperor Basil II conquered and dismantled it. 
+> A successful Bulgarian revolt in 1185 established a Second Bulgarian Empire, 
+> which reached its apex under Ivan Asen II (1218–1241). 
+> After numerous exhausting wars and feudal strife, 
+> the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
 >
-> The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, which declared independence from the Ottoman Empire in 1908. Many ethnic Bulgarians were left outside the new nation's borders, which stoked irredentist sentiments that led to several conflicts with its neighbours and alliances with Germany in both world wars. In 1946, Bulgaria came under the Soviet-led Eastern Bloc and became a socialist state. The ruling Communist Party gave up its monopoly on power after the revolutions of 1989 and allowed multiparty elections. Bulgaria then transitioned into a democracy.
+> The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, 
+> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire|Ottoman Empire]] in 1908. 
+> Many ethnic Bulgarians were left outside the new nation's borders, 
+> which stoked irredentist sentiments that led to several conflicts with its neighbours 
+> and alliances with Germany in both world wars. 
+> In 1946, Bulgaria came under the Soviet-led Eastern Bloc and became a socialist state. 
+> The ruling Communist Party gave up its monopoly on power after the revolutions of 1989 
+> and allowed multiparty elections. Bulgaria then transitioned into a democracy.
 >
-> Since adopting a democratic constitution in 1991, Bulgaria has been a unitary parliamentary republic composed of 28 provinces, with a high degree of political, administrative, and economic centralisation. Bulgaria has a high-income economy with a market economy that is part of the European Single Market and is largely based on services, followed by manufacturing and mining—and agriculture. The country has been influenced by its role as a transit country for natural gas and oil pipelines, as well as its strategic location on the Black Sea. Bulgaria's foreign relations have been shaped by its geographical location and its modern membership in the European Union and NATO.
+> Since adopting a democratic constitution in 1991, 
+> Bulgaria has been a unitary parliamentary republic composed of 28 provinces, 
+> with a high degree of political, administrative, and economic centralisation. 
+> 
+> Bulgaria has a high-income economy 
+> with a market economy that is part of the European Single Market and is largely based on services, 
+> followed by manufacturing and mining—and agriculture. 
+> 
+> The country has been influenced by its role as a transit country for natural gas and oil pipelines, 
+> as well as its strategic location on the Black Sea. 
+> Bulgaria's foreign relations have been shaped by its geographical location 
+> and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../../Knowledge/Military.internal/NATO|NATO]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria)
 
