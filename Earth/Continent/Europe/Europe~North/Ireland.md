@@ -324,7 +324,7 @@ female_population:
 short_name:
   - Ireland
   - Éire
-- "\U0001F1EE\U0001F1EA"
+  - "\U0001F1EE\U0001F1EA"
 native_label:
   - Ireland
   - Éire
@@ -385,6 +385,10 @@ subreddit: ireland
 
 # [[Ireland]] 
 
+<<<<<<< HEAD
+#is_/same_as :: [[_Standards/WikiData/WD~Ireland,27]]  
+=======
+>>>>>>> 5c624327ba775c68e95922804b7607836fe2bc60
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Ireland)

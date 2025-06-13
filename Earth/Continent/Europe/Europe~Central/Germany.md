@@ -7,10 +7,10 @@ location:
   - 10.1207
 has_id_wikidata: Q183
 SpocWebEntityId: 26878
-WOEID: 23424829
-mobile_country_code: 262
-M49_code: 276
-ISO_3166_1_numeric_code: 276
+WOEID: "23424829"
+mobile_country_code: "262"
+M49_code: "276"
+ISO_3166_1_numeric_code: "276"
 GS1_country_code: 400-440
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -395,7 +395,6 @@ BHCL_UUID:
 OmegaWiki_Defined_Meaning: 7118
 UIC_numerical_country_code: 80
 Happy_Planet_Index_score: 52.7
-INSEE_countries_and_foreign_territories_code: 99109
 PM20_geo_code: A10
 UIC_alphabetical_country_code: D
 licence_plate_code: D
@@ -413,7 +412,6 @@ GitHub_topic: deutschland
 Commons_gallery: Deutschland
 hashtag:
   - Deutschland
-  - Germany
 Wolfram_Language_entity_code: Entity["Country", "Germany"]
 IOC_country_code: GER
 CIVICUS_Monitor_country_entry: germany
@@ -510,7 +508,6 @@ highest_judicial_authority: "[[../../../../WikiData/WD~Federal Constitutional Co
 life_expectancy: 80.8
 part_of: "[[../../../../WikiData/WD~European Economic Area]]"
 minimum_temperature_record: -45.9
-office_held_by_head_of_state: "[[../../../../WikiData/WD~president of Germany]]"
 located_in_on_physical_feature:
   - "[[../../../../WikiData/WD~Western Europe]]"
   - "[[../../../../WikiData/WD~Central Europe]]"
@@ -647,6 +644,8 @@ has_name:
 [has_place_longitude::10.1207] 
 [has_place_latitude::50.8699] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Germany,183|WD~Germany,183]]
+
 #has_/time_/started :: 1949-05-23 
 ## International Names
 
@@ -668,7 +667,7 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-> [!warning] This can considerably increase the total size and depth of your wiki!
+> [!warning] This can increase the total size and depth of your wiki considerably!
 
 
 ### #has_/image_for_/flag 

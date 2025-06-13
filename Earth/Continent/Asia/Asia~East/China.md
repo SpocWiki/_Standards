@@ -27,8 +27,10 @@ aliases:
   - الصين
   - 中国
   - Китай
-- "the People's Republic of China"
-- "la República Popular China"
+  - Kitai
+  - Cathay 
+  - "the People's Republic of China"
+  - "la República Popular China"
 Languages:
   - zh-CN
   - yue
@@ -403,7 +405,7 @@ language_used:
 - '[[_Standards/WikiData/WD~Kuan,6441084]]'
 - "[[_Standards/WikiData/WD~Lama_Bai,6480756]]"
 - '[[_Standards/WikiData/WD~Lamu,6482736]]'
-  - "[[_Standards/WikiData/WD~Lang'e,6485577]]"
+- "[[_Standards/WikiData/WD~Lang'e,6485577]]"
 - '[[_Standards/WikiData/WD~Lashi,6493203]]'
 - '[[_Standards/WikiData/WD~Lawu,6505073]]'
 - '[[_Standards/WikiData/WD~Lachi,6583606]]'
@@ -476,7 +478,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Zuojiang_Zhuang,13848149]]"
 - '[[_Standards/WikiData/WD~Lhomi,14240916]]'
 - "[[_Standards/WikiData/WD~Luopohe_Miao,14468943]]"
-  - "[[_Standards/WikiData/WD~A'ou,16109994]]"
+- "[[_Standards/WikiData/WD~A'ou,16109994]]"
 - "[[_Standards/WikiData/WD~E'ma_Buyang,16115619]]"
 - "[[_Standards/WikiData/WD~Hmong_Shua,16306754]]"
 - '[[_Standards/WikiData/WD~Lavu,16999095]]'

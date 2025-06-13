@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: has_url_for
 linkTitle: has_url_for
@@ -30,6 +29,7 @@ aliases:
   - dbo:wikiPageExternalLink
   - wdt:P856
 ---
+
 # [[has_url_for]] 
 
 
@@ -51,26 +51,15 @@ URL of the item.
 
 Predicate describes that: 
 [ #has_/domain  :: [Thing](../../Class/Thing.md) ]
-( #has_/name :: has_url_for_url )
+( #has_/name :: has_url_for )
 ( #has_/range :: URL )
 
-## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_url|has_url_for_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_url.public|has_url_for_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_url.internal|has_url_for_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_url.protect|has_url_for_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_url.private|has_url_for_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_url.personal|has_url_for_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_url.secret|has_url_for_url.secret]] 
-=======
-﻿# Urls
->>>>>>> bdcd21786d99d3822f7d54cf79592cf46b4725fb
-
-
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for](/_public/schema-org/Property/has_url_for.md) 
+### [has_url_for](/_Standards/schema-org/Predicate/Urls/has_url_for.md) 
+
+### [has_url_for.public](/_public/schema-org/Property/has_url_for.public.md) 
 
 ### [has_url_for.internal](/_internal/schema-org/Property/has_url_for.internal.md) 
 
