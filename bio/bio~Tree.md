@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tree of Life
 ---
 # Tree_of_Life   
@@ -11,6 +11,9 @@ It depicts the evolutionary history of species,
 illustrating how they are related through common ancestors 
 and how they have diversified over time 
 through processes such as genetic divergence and isolation.
+
+This is much more detailed than the 8-Level [[bio~Domain]] [[Taxonomy]] created in the 1990s.  
+
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/TreeOfLife)
