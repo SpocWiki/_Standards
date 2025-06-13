@@ -23,9 +23,9 @@ aliases:
 > From 1934, its equivalence to gold was revised to $35 per troy ounce. 
 > In 1971 all links to gold were repealed. 
 > 
-> The U.S. dollar became an important international reserve currency after the [[../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_I|First World War]], 
+> The U.S. dollar became an important international reserve currency after the [[../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|First World War]], 
 > and displaced the pound sterling as the world's primary reserve currency 
-> by the [[Bretton_Woods_Agreement]] towards the end of the [[../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/World_War_II|Second World War]]. 
+> by the [[Bretton_Woods_Agreement]] towards the end of the [[../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|Second World War]]. 
 > The dollar is the most widely used currency in international transactions, and a free-floating currency. 
 > It is also the official currency in several countries and the de facto currency in many others, 
 > with Federal Reserve Notes (and, in a few cases, U.S. coins) used in circulation.
