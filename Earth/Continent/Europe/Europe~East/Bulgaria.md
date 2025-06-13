@@ -419,6 +419,8 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Bulgaria/ReadMe]] 
 
+#has_/capital :: [[Sofia]] 
+
 [	ISO4217-currency_alphabetic	 :: BGN ]
 [	ISO4217-currency_name	 :: Bulgarian Lev ]
 [	ISO4217-currency_numeric	 :: 975 ]

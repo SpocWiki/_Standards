@@ -274,7 +274,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocial
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Soviet_Union,15180]] 
 
-# [[Soviet_Union]] 
+# [[1922-Soviet_Union]] 
 
 > The Soviet Union, officially the Union of Soviet Socialist Republics (USSR), 
 > was a transcontinental country that spanned much of Eurasia from 1922 to 1991. 
@@ -322,7 +322,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocial
 > forming various satellite states, and undertook rapid economic development 
 > which cemented its status as a superpower.
 >
-> Following World War II, ideological tensions with the United States eventually led to the [[CE_1900/Cold_War]]. 
+> Following World War II, ideological tensions with the United States eventually led to the [[1945-Cold_War]]. 
 > The American-led Western Bloc coalesced into NATO in 1949, 
 > prompting the Soviet Union to form its own military alliance, 
 > commonly known as the Warsaw Pact, in 1955. 

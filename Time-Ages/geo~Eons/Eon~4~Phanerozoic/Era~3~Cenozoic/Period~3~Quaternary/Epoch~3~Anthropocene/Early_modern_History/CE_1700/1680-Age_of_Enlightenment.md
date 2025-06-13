@@ -21,7 +21,7 @@ aliases:
 > was concerned with a range of social ideas and political ideals such as natural law, liberty, and progress, 
 > toleration and fraternity, constitutional government, and the formal separation of church and state.
 >
-> The Enlightenment was preceded by and overlapped the Scientific Revolution, 
+> The __Enlightenment was preceded by and overlapped the Scientific Revolution__, 
 > which included the work of Johannes Kepler, Galileo Galilei, Francis Bacon, 
 > Pierre Gassendi, Christiaan Huygens and Isaac Newton, among others, 
 > as well as the rationalist philosophy of Descartes, Hobbes, Spinoza, Leibniz, and John Locke. 
@@ -37,15 +37,15 @@ aliases:
 > 
 > European historians traditionally dated its beginning with the death of Louis XIV of France in 1715 
 > and its end with the outbreak of the French Revolution in 1789. 
-> Many historians now date the end of the Enlightenment as the start of the 19th century, 
-> with the latest proposed year being the death of Immanuel Kant in 1804. 
+> Many historians now date the __end of the Enlightenment__ as the start of the 19th century, 
+> with the latest proposed year being the __death of Immanuel Kant in 1804__. 
 > In reality, historical periods do not have clearly defined start or end dates.
 >
 > Philosophers and scientists of the period widely circulated their ideas 
 > through meetings at scientific academies, Masonic lodges, literary salons, coffeehouses 
 > and in printed books, journals, and pamphlets. 
 > 
-> The ideas of the Enlightenment undermined the authority of the monarchy and religious officials 
+> The ideas of the Enlightenment __undermined the authority of the monarchy and religious officials__ 
 > and paved the way for the political revolutions of the 18th and 19th centuries. 
 > A variety of 19th-century movements, including liberalism, socialism, and neoclassicism, 
 > trace their intellectual heritage to the Enlightenment. 
