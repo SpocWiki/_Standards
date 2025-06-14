@@ -23,7 +23,7 @@ U_S_National_Archives_Identifier: 10647222
 
 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534_WD~Modern_history,3281534]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534]] 
 
 #has_/time_/started :: `=this.has_time_started`
 

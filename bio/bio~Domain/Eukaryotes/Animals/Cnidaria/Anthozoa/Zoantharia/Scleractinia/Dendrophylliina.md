@@ -4,7 +4,6 @@ title: Dendrophylliidae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Scleractinia](Scleractinia)
     -   [Zoantharia](Zoantharia)

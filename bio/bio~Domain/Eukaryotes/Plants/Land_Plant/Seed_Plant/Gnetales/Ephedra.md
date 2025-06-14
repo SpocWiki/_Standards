@@ -45,7 +45,6 @@ Image copyright © 1995 David R. Maddison
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Gnetales](../Gnetales.md)
     -   [Seed_Plant](../../Seed_Plant.md)

@@ -4,7 +4,6 @@ title: Helicobasidiales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Urediniomycotina](Urediniomycotina)
     -   [Basidiomycota](Basidiomycota)

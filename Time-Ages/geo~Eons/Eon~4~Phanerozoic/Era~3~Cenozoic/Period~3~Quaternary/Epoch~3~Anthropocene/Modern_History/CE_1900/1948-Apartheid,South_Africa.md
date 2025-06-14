@@ -62,7 +62,18 @@ has_time_started: 1948-01-01T00:00:00Z
 
 ## #has_/text_of_/abstract 
 
-> Apartheid ( ə-PART-(h)yte, especially South African English:  ə-PART-(h)ayt, Afrikaans: [aˈpart(ɦ)əit] ; transl. "separateness", lit. 'aparthood') was a system of institutionalised racial segregation that existed in South Africa and South West Africa (now Namibia) from 1948 to the early 1990s. It was characterised by an authoritarian political culture based on baasskap (lit. 'boss-ship' or 'boss-hood'), which ensured that South Africa was dominated politically, socially, and economically by the nation's minority white population. Under this minoritarian system, white citizens held the highest status, followed by Indians, Coloureds and black Africans, in that order. The economic legacy and social effects of apartheid continue to the present day, particularly inequality.
+> Apartheid ( ə-PART-(h)yte, especially South African English:  ə-PART-(h)ayt, 
+> Afrikaans: [aˈpart(ɦ)əit] ; transl. "separateness", lit. 'aparthood') 
+> was a system of institutionalised racial segregation 
+> that existed in South Africa and South West Africa (now Namibia) from 1948 to the early 1990s. 
+> 
+> It was characterised by an authoritarian political culture based on baasskap
+>  (lit. 'boss-ship' or 'boss-hood'), which ensured that South Africa was dominated politically, socially, 
+>  and economically by the nation's minority white population. 
+>  
+>  Under this minoritarian system, white citizens held the highest status, 
+>  followed by Indians, Coloureds and black Africans, in that order. 
+>  The economic legacy and social effects of apartheid continue to the present day, particularly inequality.
 >
 > Broadly speaking, apartheid was delineated into petty apartheid, which entailed the segregation of public facilities and social events, and grand apartheid, which strictly separated housing and employment opportunities by race. The first apartheid law was the Prohibition of Mixed Marriages Act, 1949, followed closely by the Immorality Amendment Act of 1950, which made it illegal for most South African citizens to marry or pursue sexual relationships across racial lines. The Population Registration Act, 1950 classified all South Africans into one of four racial groups based on appearance, known ancestry, socioeconomic status, and cultural lifestyle: "Black", "White", "Coloured", and "Indian", the last two of which included several sub-classifications. Places of residence were determined by racial classification. Between 1960 and 1983, 3.5 million black Africans were removed from their homes and forced into segregated neighbourhoods as a result of apartheid legislation, in some of the largest mass evictions in modern history. Most of these targeted removals were intended to restrict the black population to ten designated "tribal homelands", also known as bantustans, four of which became nominally independent states. The government announced that relocated persons would lose their South African citizenship as they were absorbed into the bantustans.
 >

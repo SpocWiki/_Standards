@@ -23,7 +23,6 @@ Phlox Family
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ericales](../Ericales.md)
     -   [Asterids](../../../Asterids.md)

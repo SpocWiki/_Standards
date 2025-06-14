@@ -4,7 +4,6 @@ title: Tuberculina sbrozzii
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)

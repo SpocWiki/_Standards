@@ -4,7 +4,6 @@ title: Geoglossaceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)

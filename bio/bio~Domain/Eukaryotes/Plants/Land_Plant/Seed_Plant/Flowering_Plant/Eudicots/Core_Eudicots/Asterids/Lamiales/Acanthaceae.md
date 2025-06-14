@@ -17,7 +17,6 @@ title: Acanthaceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Lamiales](../Lamiales.md)
     -   [Asterids](../../Asterids.md)

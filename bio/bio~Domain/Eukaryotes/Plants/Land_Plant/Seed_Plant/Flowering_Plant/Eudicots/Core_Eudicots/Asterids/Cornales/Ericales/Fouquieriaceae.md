@@ -17,7 +17,6 @@ title: Fouquieria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ericales](../Ericales.md)
     -   [Asterids](../../../Asterids.md)

@@ -24,7 +24,6 @@ title: Labyrinthulomycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Stramenopiles](Stramenopiles)
     -   [Eukaryotes](Eukaryotes)

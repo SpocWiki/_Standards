@@ -4,7 +4,6 @@ title: Single-stranded Positive Sense RNA Virus
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Virus](../Virus.md)
     -   [Tree of Life](../Tree_of_Life.md)

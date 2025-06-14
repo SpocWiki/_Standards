@@ -4,7 +4,6 @@ title: Edwardsiidae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Athenaria](Athenaria)
     -   [Nynantheae](Nynantheae)

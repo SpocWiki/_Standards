@@ -35,7 +35,6 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Monocot](../Monocot.md)
     -   [Flowering_Plant](../../Flowering_Plant.md)

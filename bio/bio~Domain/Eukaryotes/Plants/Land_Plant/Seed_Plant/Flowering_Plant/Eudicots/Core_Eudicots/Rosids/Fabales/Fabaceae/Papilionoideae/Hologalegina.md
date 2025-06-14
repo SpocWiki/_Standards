@@ -38,8 +38,7 @@ title: Hologalegina
 [Martin F. Wojciechowski](http://www.tolweb.org/) 
 
 \"Hologalegina\" is an informal name given to the largest of the
-well-supported major clades of papilionoids (Wojciechowski et al.,
-2000). 
+well-supported major clades of papilionoids (Wojciechowski et al., 2000). 
 
 It contains the mainly Old World tribes Galegeae, Carmichaelieae,
 Cicereae, Hedysareae, Trifolieae, Fabeae (a.k.a. Vicieae) 

@@ -4,7 +4,6 @@ title: Amastigomonas filosa
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Amastigomonas](../Amastigomonas.md)
     -   [Apusomonads](../../Apusomonads.md)

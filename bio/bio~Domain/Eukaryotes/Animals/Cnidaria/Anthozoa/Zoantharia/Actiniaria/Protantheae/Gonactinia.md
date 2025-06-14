@@ -4,7 +4,6 @@ title: Gonactinia
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Protantheae](Protantheae)
     -   [Actiniaria](Actiniaria)

@@ -102,7 +102,6 @@ and increased adaptability to various environments.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Animals](Animals) 
     -   [Eukaryotes](Eukaryotes) 
@@ -121,7 +120,7 @@ and increased adaptability to various environments.
     -   [Deuterostomia](Bilateria/Deutero.md)
     -   [Arthropoda](Arthropoda.md)
     -   [Onychophora](Onychophora.md)
-    -   [Tardigrada](Tardigrada.md)
+    -   [Tardigrade](../../../bio~Tree/Tardigrade.md)
     -   [Nematoda](Nematoda.md)
     -   [Nematomorpha](Nematomorpha.md)
     -   [Kinorhyncha](Kinorhyncha.md)

@@ -27,7 +27,6 @@ Pine trees and relatives
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Conifers](../Conifers.md)
     -   [Seed_Plant](../../Seed_Plant.md)

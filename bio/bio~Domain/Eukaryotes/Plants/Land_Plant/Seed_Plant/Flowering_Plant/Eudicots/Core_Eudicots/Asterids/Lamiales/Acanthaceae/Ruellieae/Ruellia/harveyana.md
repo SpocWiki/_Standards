@@ -27,7 +27,6 @@ flowers and occur in S. South America, Central America, and Mexico.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellia s. l.](Ruellia_s._l.)
     -   [Ruellieae](../../Ruellieae.md)

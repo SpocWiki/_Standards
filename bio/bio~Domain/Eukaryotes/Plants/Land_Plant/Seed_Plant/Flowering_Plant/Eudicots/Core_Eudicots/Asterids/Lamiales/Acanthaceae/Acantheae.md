@@ -19,7 +19,6 @@ title: Acantheae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Acanthaceae](../Acanthaceae.md)
     -   [Lamiales](../../Lamiales.md)

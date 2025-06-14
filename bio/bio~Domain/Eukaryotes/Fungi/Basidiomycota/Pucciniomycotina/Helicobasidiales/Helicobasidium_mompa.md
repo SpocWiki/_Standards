@@ -4,7 +4,6 @@ title: Helicobasidium mompa
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)

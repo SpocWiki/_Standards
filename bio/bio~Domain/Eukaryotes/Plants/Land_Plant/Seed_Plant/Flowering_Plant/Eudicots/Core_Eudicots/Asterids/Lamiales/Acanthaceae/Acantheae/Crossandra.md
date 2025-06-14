@@ -14,7 +14,6 @@ title: Crossandra
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
     -   [Acanthaceae](../../Acanthaceae.md)

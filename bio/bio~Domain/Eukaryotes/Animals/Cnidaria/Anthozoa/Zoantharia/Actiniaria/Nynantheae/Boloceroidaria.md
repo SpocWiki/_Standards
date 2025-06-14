@@ -4,7 +4,6 @@ title: Boloceroidaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Nynantheae](Nynantheae)
     -   [Actiniaria](Actiniaria)

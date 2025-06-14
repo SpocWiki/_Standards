@@ -4,7 +4,6 @@ title: Pleosporomycetidae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Dothideomycetes](Dothideomycetes)
     -   [Pezizomycotina](Pezizomycotina)

@@ -4,7 +4,6 @@ title: DNA-RNA Reverse Transcribing Viruses
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Virus](../Virus.md)
     -   [Tree of Life](../Tree_of_Life.md)
