@@ -18,7 +18,6 @@ title: Gomortega nitida
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Laurales](../Laurales.md)
     -   [Magnoliids](../../Magnoliids.md)

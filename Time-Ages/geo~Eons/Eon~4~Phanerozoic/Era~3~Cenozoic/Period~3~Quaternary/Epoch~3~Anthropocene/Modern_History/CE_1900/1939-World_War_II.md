@@ -119,8 +119,8 @@ Wolfram_Language_entity_code:
 
 #has_/time_/started :: 1939-09-01 
 #has_/time_/stopped  :: 1945-09-02 
-#has_/next_item  :: [[CE_1900/Cold_War]] 
-#has_/previous_item :: [[CE_1900/World_War_I]]
+#has_/next_item  :: [[1945-Cold_War]] 
+#has_/previous_item :: [[1914-World_War_I]]
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
@@ -216,7 +216,7 @@ Wolfram_Language_entity_code:
 > becoming the permanent members of its Security Council. 
 > 
 > The Soviet Union and the United States emerged as rival superpowers, 
-> setting the stage for the [[CE_1900/Cold_War]]. 
+> setting the stage for the [[1945-Cold_War]]. 
 > In the wake of European devastation, the influence of its great powers waned, 
 > triggering the decolonisation of Africa and Asia. 
 > Most countries whose industries had been damaged 

@@ -9,7 +9,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Archaea](Archaea)
     -   [Tree of Life](../Tree_of_Life.md)

@@ -18,7 +18,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Euapicomplexa](Euapicomplexa)
     -   [Alveolates](Alveolates)

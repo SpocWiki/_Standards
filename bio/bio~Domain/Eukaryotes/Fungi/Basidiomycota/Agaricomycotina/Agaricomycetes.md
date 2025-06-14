@@ -4,7 +4,6 @@ title: Agaricomycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Agaricomycotina](Agaricomycotina)
     -   [Basidiomycota](Basidiomycota)

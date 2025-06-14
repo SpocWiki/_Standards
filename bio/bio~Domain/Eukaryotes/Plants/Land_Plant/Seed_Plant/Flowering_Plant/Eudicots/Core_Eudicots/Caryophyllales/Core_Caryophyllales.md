@@ -2,27 +2,6 @@
 title: core Caryophyllales
 ---
 
-## Phylogeny 
-
-
--   « Ancestral Groups  
-    -   [Caryophyllales](../Caryophyllales.md)
-    -   [Core Eudicots](Core_Eudicots)
-    -   [Eudicots](../../../Eudicots.md)
-    -   [Flowering_Plant](../../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../../Land_Plant.md)
-    -   [Green plants](../../../../../../../Plants.md)
-    -   [Eukaryotes](Eukaryotes)
-    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Caryophyllales
-    -   [non-core Caryophyllales](non-core_Caryophyllales)
-    -   core Caryophyllales
-
--   » Sub-Groups
-    -   [Sarcobatus](Sarcobatus)
-
 # [[Core_Caryophyllales]]
 
 Caryophyllales sensu stricto 
@@ -124,6 +103,26 @@ relationships and patterns of evolution within core Caryophyllales are
 not entirely clear. In addition, several new families have been proposed
 to accommodate the placement of single genera or small groups of genera
 as sister to larger clades.
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Caryophyllales](../Caryophyllales.md)
+    -   [Core Eudicots](Core_Eudicots)
+    -   [Eudicots](../../../Eudicots.md)
+    -   [Flowering_Plant](../../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../../Land_Plant.md)
+    -   [Green plants](../../../../../../../Plants.md)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Caryophyllales
+    -   [non-core Caryophyllales](non-core_Caryophyllales)
+    -   core Caryophyllales
+
+-   » Sub-Groups
+    -   [Sarcobatus](Sarcobatus)
 
 
 ## Title Illustrations

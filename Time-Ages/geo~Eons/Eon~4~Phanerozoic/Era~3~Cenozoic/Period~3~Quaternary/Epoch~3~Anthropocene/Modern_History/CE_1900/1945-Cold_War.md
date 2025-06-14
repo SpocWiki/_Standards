@@ -43,11 +43,11 @@ union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]"
 ---
 
-# [[Cold_War]] 
+# [[1945-Cold_War]] 
 
 #has_/time_/started :: 1947-06-01 
 #has_/time_/stopped  :: 1991-12-08 
-#has_/previous_item :: [[World_War_II]] 
+#has_/previous_item :: [[1939-World_War_II]] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Cold_War,8683]]
@@ -59,7 +59,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]"
 > that started in 1947, two years after the end of World War II and lasted to 1991, 
 > the fall of the Soviet Union. 
 > The signing of the Belavezha Accords on December 8, 1991, 
-> which effectively dissolved the [[Soviet_Union]]. 
+> which effectively dissolved the [[1922-Soviet_Union]]. 
 > This was followed by 
 > - the resignation of Soviet President Mikhail Gorbachev on December 25, 1991, and 
 > - the lowering of the Soviet flag over the Kremlin in Moscow on the same day.

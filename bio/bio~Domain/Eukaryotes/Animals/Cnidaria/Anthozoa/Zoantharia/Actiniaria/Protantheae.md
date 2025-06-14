@@ -4,7 +4,6 @@ title: Protantheae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Actiniaria](Actiniaria)
     -   [Zoantharia](Zoantharia)

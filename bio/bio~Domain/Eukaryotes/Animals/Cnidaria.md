@@ -24,7 +24,6 @@ Sea anemones, corals, jellyfish, sea pens, hydra
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Animals](Animals)
     -   [Eukaryotes](Eukaryotes)

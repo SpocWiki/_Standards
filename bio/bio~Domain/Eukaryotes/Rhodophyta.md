@@ -55,7 +55,6 @@ Red Algae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)

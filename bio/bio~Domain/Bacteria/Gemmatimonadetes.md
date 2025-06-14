@@ -14,7 +14,6 @@ title: Gemmatimonas aurantiaca
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Bacteria](../Bacteria.md)
     -   [Tree of Life](../Tree_of_Life.md)

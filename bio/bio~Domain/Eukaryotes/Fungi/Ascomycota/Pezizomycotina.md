@@ -4,7 +4,6 @@ title: Pezizomycotina
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ascomycota](Ascomycota)
     -   [Fungi](Fungi)

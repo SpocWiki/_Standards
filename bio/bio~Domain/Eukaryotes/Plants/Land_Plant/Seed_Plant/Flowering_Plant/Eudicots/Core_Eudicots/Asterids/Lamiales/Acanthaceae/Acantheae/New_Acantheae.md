@@ -22,7 +22,6 @@ information presented here for Acantheae.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
     -   [Acanthaceae](../../Acanthaceae.md)

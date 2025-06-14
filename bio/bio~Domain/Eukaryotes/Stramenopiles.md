@@ -60,7 +60,6 @@ Tubulocristate protists with tripartite tubular hairs or derived from such organ
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)

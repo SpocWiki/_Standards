@@ -3,7 +3,6 @@ title: Apusomonads
 ---
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [The other protists](The_other_protists)
     -   [Eukaryotes](Eukaryotes)

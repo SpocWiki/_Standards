@@ -30,7 +30,6 @@ on the South Pacific island of New Caledonia.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Flowering_Plant](../Flowering_Plant.md)
     -   [Seed_Plant](../../Seed_Plant.md)

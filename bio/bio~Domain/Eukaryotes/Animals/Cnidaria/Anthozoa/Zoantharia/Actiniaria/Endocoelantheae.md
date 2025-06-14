@@ -4,7 +4,6 @@ title: Endocoelantheae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Actiniaria](Actiniaria)
     -   [Zoantharia](Zoantharia)

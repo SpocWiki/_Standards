@@ -4,7 +4,6 @@ title: Nynantheae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Actiniaria](Actiniaria)
     -   [Zoantharia](Zoantharia)

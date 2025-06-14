@@ -35,7 +35,6 @@ title: Lacistemataceae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Malpighiales](../Malpighiales.md)
     -   [Rosids](../../Rosids.md)

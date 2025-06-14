@@ -7,7 +7,6 @@ title: section Trifoliae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [subgenus Pinus](subgenus_Pinus)
     -   [Pinus(SubGenus)](../Pinus(SubGenus).md)

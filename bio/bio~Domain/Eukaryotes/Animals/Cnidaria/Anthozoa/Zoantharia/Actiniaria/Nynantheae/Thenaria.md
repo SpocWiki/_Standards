@@ -4,7 +4,6 @@ title: Thenaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Nynantheae](Nynantheae)
     -   [Actiniaria](Actiniaria)

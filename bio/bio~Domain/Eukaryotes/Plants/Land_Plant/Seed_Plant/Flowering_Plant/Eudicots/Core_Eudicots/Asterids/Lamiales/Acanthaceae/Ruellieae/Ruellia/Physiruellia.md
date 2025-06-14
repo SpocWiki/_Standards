@@ -60,7 +60,6 @@ These ants may serve to guard and protect young, developing fruits.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellia s. l.](Ruellia_s._l.)
     -   [Ruellieae](../../Ruellieae.md)

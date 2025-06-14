@@ -156,7 +156,6 @@ ancestor and the earliest events in metazoan evolution.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)

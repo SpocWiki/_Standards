@@ -9,7 +9,6 @@ title: Pinus cembroides
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [subsection Cembroides](subsection_Cembroides)
     -   [subgenus Strobus](subgenus_Strobus)

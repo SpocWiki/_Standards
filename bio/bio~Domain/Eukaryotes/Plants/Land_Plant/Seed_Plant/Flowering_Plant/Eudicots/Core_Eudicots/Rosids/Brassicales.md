@@ -47,7 +47,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
     -   [Core Eudicots](Core_Eudicots)

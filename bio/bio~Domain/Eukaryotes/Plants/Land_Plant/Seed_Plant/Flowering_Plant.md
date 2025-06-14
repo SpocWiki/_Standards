@@ -67,7 +67,6 @@ Flowering Plants
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Seed_Plant](../Seed_Plant.md)
     -   [Land_Plant](../../Land_Plant.md)

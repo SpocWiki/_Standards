@@ -29,7 +29,6 @@ title: Louteridium
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellieae](../Ruellieae.md)
     -   [Acanthaceae](../../Acanthaceae.md)
