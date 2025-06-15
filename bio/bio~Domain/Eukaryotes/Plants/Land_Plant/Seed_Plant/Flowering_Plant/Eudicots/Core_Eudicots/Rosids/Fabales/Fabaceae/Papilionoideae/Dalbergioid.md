@@ -8,7 +8,7 @@ title: Dalbergioid sensu lato clade
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 The \"Dalbergioid sens. lat.\" clade includes the tribe Amorpheae and
 the \"dalbergioid sens. str.\" clade (\"dalbergioids\" sensu Lavin et

@@ -8,7 +8,7 @@ title: Ruellia inundata clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 Species in the *Ruellia inundata* clade exhibit a disjunct distribution:
 some occur in Mexico and Central America, while others occur in Brazil

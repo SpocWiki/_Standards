@@ -63,7 +63,7 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
 
 ## Introduction
 
-[William J. Hahn](http://www.tolweb.org/)
+[William J. Hahn]()
 
 The aroids are a predominantly tropical group of herbaceous terrestrial or epiphytic plants. 
 Edible plants, poisonous species, ornamentals. 

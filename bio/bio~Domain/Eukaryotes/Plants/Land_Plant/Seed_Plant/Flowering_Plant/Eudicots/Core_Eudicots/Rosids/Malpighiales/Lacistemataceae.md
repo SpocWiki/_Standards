@@ -58,7 +58,7 @@ title: Lacistemataceae
 
 ## Introduction
 
-[Mac H. Alford](http://www.tolweb.org/)
+[Mac H. Alford]()
 
 Lacistemataceae are a small neotropical family consisting of two genera
 and 14 species. The family is characterized by catkin-like cylindrical

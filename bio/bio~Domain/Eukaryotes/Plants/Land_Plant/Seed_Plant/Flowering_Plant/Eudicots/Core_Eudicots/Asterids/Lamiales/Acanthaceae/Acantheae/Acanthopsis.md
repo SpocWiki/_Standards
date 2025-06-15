@@ -48,7 +48,7 @@ title: Acanthopsis
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 The small southern African genus *Acanthopsis* is monophyletic in
 phylogenetic studies to date (McDade et al. 2005).  These plants have

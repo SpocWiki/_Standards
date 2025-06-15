@@ -93,7 +93,7 @@ Flowering Plants
 
 ## Introduction
 
-[Pam Soltis, Doug Soltis, and Christine Edwards](http://www.tolweb.org/)
+[Pam Soltis, Doug Soltis, and Christine Edwards]()
 
 The angiosperms, or flowering plants, are one of the major groups of extant seed plants 
 and arguably the most diverse major extant plant group on the planet, 

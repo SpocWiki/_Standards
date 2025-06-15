@@ -62,7 +62,7 @@ aliases:
 
 ## Introduction
 
-[Kathleen M. Pryer and Alan R. Smith](http://www.tolweb.org/)
+[Kathleen M. Pryer and Alan R. Smith]()
 
 Next to the flowering plants, the leptosporangiate ferns are the most
 diverse group of living land plants. Recent estimates place their

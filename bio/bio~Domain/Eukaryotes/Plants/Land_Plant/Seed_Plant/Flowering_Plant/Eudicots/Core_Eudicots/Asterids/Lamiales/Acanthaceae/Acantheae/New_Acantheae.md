@@ -8,7 +8,7 @@ title: Other New World Acantheae
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+[Lucinda A. McDade and Carrie Kiel]()
 
 All other New World members of Acantheae are part of a large, poorly
 resolved clade that includes *Neriacanthus* (except Jamaican *N.

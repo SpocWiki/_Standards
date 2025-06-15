@@ -54,7 +54,7 @@ The bananas, gingers, and relatives.
 
 ## Introduction
 
-[W. John Kress and William J. Hahn](http://www.tolweb.org/) 
+[W. John Kress and William J. Hahn]() 
 
 The gingers, bananas, and relatives form a clearly defined linage of monocots 
 including 8 families, 88 genera, and approximately 2000 species.

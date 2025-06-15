@@ -24,7 +24,7 @@ title: Cassieae sensu lato (pro parte)
 
 ## Introduction
 
-[Martin F. Wojciechowski and Bruce Jones](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Bruce Jones]() 
 
 Tribe Cassieae has long been considered an artificial assemblage of
 unrelated taxa in Caesalpinioideae (Polhill, 1994). In the last formal

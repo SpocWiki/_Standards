@@ -35,7 +35,7 @@ title: Hologalegina
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 \"Hologalegina\" is an informal name given to the largest of the
 well-supported major clades of papilionoids (Wojciechowski et al., 2000). 

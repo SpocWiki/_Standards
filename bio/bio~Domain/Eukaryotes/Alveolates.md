@@ -19,7 +19,7 @@ title: Alveolates
 
 ## Introduction 
 
-[Brian S. Leander](http://tolweb.org/Alveolates/2379#AboutThisPage) 
+[Brian S. Leander](Alveolates) 
 
 This group of protists was hypothesized only relatively recently, 
 and confirmed by molecular studies by Gajadhar et al. (1991). 

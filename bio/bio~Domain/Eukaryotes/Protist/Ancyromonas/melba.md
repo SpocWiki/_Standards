@@ -47,7 +47,7 @@ Australia and from Antarctica (Patterson and Simpson, 1996).
 ### Characteristics
 
 This species is strongly reminiscent of the widespread and common
-[Ancyromonas sigmoides](http://www.tolweb.org/tree?group=Ancyromonas_sigmoides&contgroup=Ancyromonas)
+[Ancyromonas sigmoides](tree?group=Ancyromonas_sigmoides&contgroup=Ancyromonas)
 in size, dorso-ventral flattening, gliding, presence of a groove from
 left margin to right ventral side of cell, refractile granules along the
 snout, posterior flagellum arising from ventral depression, and anterior

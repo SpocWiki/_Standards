@@ -30,7 +30,7 @@ title: Hymenochaetoid clade
 
 ## Hymenochaetaceae 
 
-[Aristóteles Góes-Neto and Cláudia Groposo](http://www.tolweb.org/)
+[Aristóteles Góes-Neto and Cláudia Groposo]()
 
 ![ ](Aurificaria_luteoumbrina.jpg)
 
@@ -117,7 +117,7 @@ confirmed for all the studied species regarded as members of the
 hymenochaetoid clade, they all appear to share at least one nonmolecular
 character in common, the dolipore septa with imperforate parenthesomes
 (Moore, 1985; Oberwinkler, 1985; Langer and Oberwinkler, 1993; Keller,
-1997; Muller et al., 2000, see [Characteristics of Hymenomycetes](http://www.tolweb.org/tree?group=Hymenomycetes#Characteristics)).
+1997; Muller et al., 2000, see [Characteristics of Hymenomycetes](tree?group=Hymenomycetes#Characteristics)).
 
 The Hymenochaetaceae are rather well-defined. They always possess
 clampless generative hyphae (Fig. 6) and brownish basidiomata (Fig. 5)

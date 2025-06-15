@@ -116,7 +116,7 @@ Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc.
 
 ## Introduction
 
-[Meredith Blackwell, Rytas Vilgalys, Timothy Y. James, and John W. Taylor](http://tolweb.org/Fungi/2377#AboutThisPage) 
+[Meredith Blackwell, Rytas Vilgalys, Timothy Y. James, and John W. Taylor](Fungi) 
 
 The organisms of the fungal lineage include mushrooms, rusts, smuts,
 puffballs, truffles, morels, molds, and yeasts, as well as many less

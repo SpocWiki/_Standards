@@ -52,7 +52,7 @@ title: Dipsacales
 
 ## Introduction
 
-[Charles D. Bell](http://www.tolweb.org/)
+[Charles D. Bell]()
 
 Dipsacales, with over 1000 species, form a branch within the Asteridae
 related to the Asterales, Apiales, and several smaller lineages (Bremer

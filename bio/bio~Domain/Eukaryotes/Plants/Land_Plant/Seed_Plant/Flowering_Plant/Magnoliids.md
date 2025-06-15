@@ -55,7 +55,7 @@ title: magnoliids
 
 ## Introduction
 
-[Pam Soltis, Doug Soltis, and Christine Edwards](http://www.tolweb.org/)
+[Pam Soltis, Doug Soltis, and Christine Edwards]()
 
 The magnoliid clade contains several thousand (\~8500) species divided
 into 20 families, including several large, economically important
@@ -139,11 +139,11 @@ Lauraceae, Siparunaceae, and Hernandiaceae. In previous classifications
 (e.g., Cronquist, 1981, 1988), Amborellaceae and Trimeniaceae were
 occasionally placed in Laurales; and in fact, both *Amborella* and
 *Trimenia* have even been considered part of Monimiaceae (Perkins, 1925;
-see [Angiosperms](http://www.tolweb.org/tree?group=Angiosperms) for a
+see [Angiosperms](tree?group=Angiosperms) for a
 discussion of the placement of these families). Chloranthaceae have also
 occasionally been placed in Laurales (e.g., Takhtajan, 1987, 1997;
 Thorne, 1974; see
-[Angiosperms](http://www.tolweb.org/tree?group=Angiosperms) for a
+[Angiosperms](tree?group=Angiosperms) for a
 discussion of its placement). Laurales are united by a perigynous flower
 in which the gynoecium is frequently deeply embedded in a fleshy
 receptacle (Endress and Igersheim, 1997; Renner, 1999). Other apparent

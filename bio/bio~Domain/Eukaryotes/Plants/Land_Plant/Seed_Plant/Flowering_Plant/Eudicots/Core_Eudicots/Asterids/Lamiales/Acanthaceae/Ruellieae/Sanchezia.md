@@ -50,7 +50,7 @@ title: Sanchezia
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 Species of *Sanchezia* are herbs or shrubs with brightly colored
 flowers. In *Sanchezia*, fertile stamens have been reduced from four to

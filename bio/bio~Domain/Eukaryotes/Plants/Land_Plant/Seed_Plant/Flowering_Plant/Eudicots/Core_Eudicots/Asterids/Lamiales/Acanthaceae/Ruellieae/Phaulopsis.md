@@ -42,7 +42,7 @@ Containing group: [Ruellieae](../Ruellieae.md)
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 *Phaulopsis* is predominantly an African genus with a center of diversity in southern Zaire. 
 Most species occur within 10 degrees of the northern and southern parallels. 

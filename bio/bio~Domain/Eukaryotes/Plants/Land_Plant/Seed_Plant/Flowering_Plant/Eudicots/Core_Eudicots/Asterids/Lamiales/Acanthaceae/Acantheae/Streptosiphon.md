@@ -51,7 +51,7 @@ title: Streptosiphon hirsutus
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+[Lucinda A. McDade and Carrie Kiel]()
 
 *Streptosiphon* is a genus of a single species that occurs in Tanzania.
 This plant is unique among Acantheae in having corollas that are

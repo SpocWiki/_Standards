@@ -41,13 +41,13 @@ title: Acanthaceae
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 The large and largely tropical plant family Acanthaceae includes at
 least 4000 species. The group is part of the order
-[Lamiales](http://tolweb.org/Lamiales) which includes plants such as the
+[Lamiales](Lamiales) which includes plants such as the
 familiar snap dragon (Plantaginaceae), mint (Lamiaceae) and African
-violet ([Gesneriaceae](http://tolweb.org/Gesneriaceae)). These plants
+violet ([Gesneriaceae](Gesneriaceae)). These plants
 have sympetalous corollas (i.e., with petals fused into a tube) and four
 stamens (sometimes reduced further to two).\
 

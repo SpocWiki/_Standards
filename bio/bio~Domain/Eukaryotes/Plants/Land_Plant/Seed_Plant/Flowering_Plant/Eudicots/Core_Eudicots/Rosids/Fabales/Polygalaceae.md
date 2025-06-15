@@ -43,7 +43,7 @@ aliases:
 
 ## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Johanna Mahn]() 
 
 Polygalaceae R. Br., a widespread family of ca. 18 genera and perhaps
 1050 species, is considered to be monophyletic on the basis of

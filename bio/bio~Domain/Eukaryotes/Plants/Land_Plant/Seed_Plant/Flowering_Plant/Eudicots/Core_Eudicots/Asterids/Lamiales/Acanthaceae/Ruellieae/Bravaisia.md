@@ -39,7 +39,7 @@ title: Bravaisia
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 *Bravaisia* is a genus of three species native to Mexico through
 northern South America. They are distinct among Acanthaceae in being

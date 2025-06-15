@@ -27,7 +27,7 @@ title: Urediniomycotina
 
 ## A diverse group of fungi, including rusts, yeasts, smut-like and jelly-like fungi 
 
-[Elizabeth M. Frieders, David J. McLaughlin, and Les J. Szabo](http://www.tolweb.org/)
+[Elizabeth M. Frieders, David J. McLaughlin, and Les J. Szabo]()
 
 ![ ](Eo-MIN864444.jpg)
 ![ ](CoffeeRust21_002.jpg)

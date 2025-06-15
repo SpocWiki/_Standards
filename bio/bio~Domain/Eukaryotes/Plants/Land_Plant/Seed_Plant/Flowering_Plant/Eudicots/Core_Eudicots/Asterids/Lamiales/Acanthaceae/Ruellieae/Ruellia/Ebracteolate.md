@@ -86,7 +86,7 @@ title: Ebracteolate clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 Members of the Ebracteolate clade are characterized by having reduced
 structures associated with the inflorescence (Ezcurra 1993). For

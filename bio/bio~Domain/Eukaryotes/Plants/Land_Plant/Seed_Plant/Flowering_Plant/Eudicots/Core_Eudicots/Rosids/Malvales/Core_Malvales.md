@@ -30,7 +30,7 @@ title: Core Malvales
 
 ## Introduction
 
-[Stacey D. Smith and David A. Baum](http://www.tolweb.org/) 
+[Stacey D. Smith and David A. Baum]() 
 
 The core Malvales contains taxa traditionally divided among four
 families, Bombacaceae, Malvaceae, Sterculiaceae and Tiliaceae. Molecular

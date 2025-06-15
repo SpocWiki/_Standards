@@ -95,7 +95,7 @@ start time: -665000000-01-01T00:00:00Z
 # [[Animals]] 
 
 
-![Grasshopper](grasshopper_002.gif) ![](1618ctenophore_002.jpg) ![](haliclona_002.jpg) ![](haliplanella.gif) 
+![Grasshopper](Animals/grasshopper.gif) ![](1618ctenophore_002.jpg) ![](haliclona_002.jpg) ![](haliplanella.gif) 
 
 Animalia and their sibling groups within the domain Eukaryota share a common ancestry.
 
@@ -228,7 +228,7 @@ of animals and their sibling groups within the broader context of eukaryotic div
 ## Title Illustrations
 
 ----------------------------------------------------------------------------------------
-![A colorful grasshopper, Dactylotum variegatum](grasshopper_002.gif)
+![A colorful grasshopper, Dactylotum variegatum](Animals/grasshopper.gif)
   Scientific Name ::  Dactylotum variegatum 
   Location ::        Arizona
   Comments          A colorful grasshopper (Bilateria)

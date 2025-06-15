@@ -23,7 +23,7 @@ title: Ustilaginomycetes
 
 ## The true smut fungi 
 
-[Robert Bauer, Dominik Begerow, and Franz Oberwinkler](http://www.tolweb.org/)
+[Robert Bauer, Dominik Begerow, and Franz Oberwinkler]()
 
 ![ ](entorrhiza_002.jpg)
 ![ ](ustilago_002.jpg)

@@ -54,7 +54,7 @@ title: Crossandrella dusenii
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 *Crossandrella* is a West African genus of two species.  These plants
 are unique among Acantheae in having beaked capsules that crack

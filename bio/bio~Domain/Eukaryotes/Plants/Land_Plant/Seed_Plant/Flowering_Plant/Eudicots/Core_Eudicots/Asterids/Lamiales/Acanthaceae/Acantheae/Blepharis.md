@@ -63,7 +63,7 @@ title: Blepharis
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 *Blepharis* is the largest genus of Acantheae in the Old World; it was
 recently monographed by Vollesen (2000) as containing 129 species. 

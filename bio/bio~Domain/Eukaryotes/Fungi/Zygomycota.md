@@ -23,7 +23,7 @@ title: Zygomycota
 
 ## Microscopic \'Pin\' or \'Sugar\' Molds 
 
-[Timothy Y. James and Kerry O\'Donnell](http://www.tolweb.org/)
+[Timothy Y. James and Kerry O\'Donnell]()
 
 ![](Pilobolus_kleinii1_002.jpg)
 ![](Entomophthora2_002.jpg)
@@ -128,9 +128,9 @@ including the US gulf states.
 *Zygomycota*, like all true fungi, produce cell walls containing chitin.
 They grow primarily as mycelia, or filaments of long cells called
 hyphae. Unlike the so-called \'higher fungi\' comprising the
-[*Ascomycota*](http://www.tolweb.org/tree?group=Ascomycota&contgroup=Fungi)
+[*Ascomycota*](tree?group=Ascomycota&contgroup=Fungi)
 and
-[*Basidiomycota*](http://www.tolweb.org/tree?group=Basidiomycota&contgroup=Fungi)
+[*Basidiomycota*](tree?group=Basidiomycota&contgroup=Fungi)
 which produce regularly septate mycelia, most *Zygomycota* form hyphae
 which are generally coenocytic because they lack cross walls or septa.
 There are, however, several exceptions and septa may form at irregular

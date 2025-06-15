@@ -47,7 +47,7 @@ title: Mimosoideae
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 \"Mimosoids\" form one of the major groups of legumes and have been
 usually recognized as the subfamily Mimosoideae within the family

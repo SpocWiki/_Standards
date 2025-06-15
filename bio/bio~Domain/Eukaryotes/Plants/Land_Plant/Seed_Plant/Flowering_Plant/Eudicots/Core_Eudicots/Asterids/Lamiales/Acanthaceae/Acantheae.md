@@ -52,7 +52,7 @@ title: Acantheae
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 Acantheae are well supported as the basal lineage of core Acanthaceae
 (i.e., those plants with retinaculate fruits) and also as a clade.  The

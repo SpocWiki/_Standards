@@ -26,7 +26,7 @@ title: Scleractinia
 
 ## Stony star corals 
 
-[Sandra L. Romano and Stephen D. Cairns](http://www.tolweb.org/)
+[Sandra L. Romano and Stephen D. Cairns]()
 
 ![ ](Tubastraea_micrantha_002.jpg)
 †

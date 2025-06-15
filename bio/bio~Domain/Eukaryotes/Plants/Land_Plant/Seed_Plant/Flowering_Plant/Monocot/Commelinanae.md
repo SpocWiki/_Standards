@@ -65,7 +65,7 @@ Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu)
 
 ## Introduction
 
-[William J. Hahn](http://www.tolweb.org/)
+[William J. Hahn]()
 
 The Commelinanae includes the grasses, sedges, bromeliads, and relatives. 
 This superorder includes approximately 25 families, 1075 genera, and 24000 species.

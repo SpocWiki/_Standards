@@ -49,7 +49,7 @@ The palms
 
 ## Introduction
 
-[William J. Hahn](http://www.tolweb.org/)
+[William J. Hahn]()
 
 The palms are one of the most distinctive groups of land plants 
 and show some of the greatest morphological diversity among all monocots. 

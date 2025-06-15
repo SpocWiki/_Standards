@@ -48,7 +48,7 @@ title: Detarieae sensu lato
 
 ## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Johanna Mahn]() 
 
 The Detarieae sens. lat. is pantropical in distribution and consists of
 82 genera and c. 750 species, with the majority of genera confined to

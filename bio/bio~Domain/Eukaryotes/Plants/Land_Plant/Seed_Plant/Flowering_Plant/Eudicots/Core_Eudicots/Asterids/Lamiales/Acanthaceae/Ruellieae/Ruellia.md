@@ -74,7 +74,7 @@ title: Ruellia s. l.
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 *Ruellia* is a large genus of ca. 300 species. Mexico and Brazil are
 centers of diversity, but the genus is common elsewhere throughout the

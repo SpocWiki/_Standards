@@ -58,7 +58,7 @@ title: Acanthus Clade
 
 ## Introduction 
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/)
+[Lucinda A. McDade and Carrie Kiel]()
 
 *Acanthus* L. is an Old World genus of about 20 species; most species
 occur in Africa but a few range into southern Europe and one extends
