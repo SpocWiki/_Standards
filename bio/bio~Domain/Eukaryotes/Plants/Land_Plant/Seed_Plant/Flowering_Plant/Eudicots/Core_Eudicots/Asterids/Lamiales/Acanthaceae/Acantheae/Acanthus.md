@@ -16,7 +16,6 @@ title: Acanthus Clade
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Acantheae](../Acantheae.md)
     -   [Acanthaceae](../../Acanthaceae.md)

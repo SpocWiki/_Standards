@@ -4,7 +4,6 @@ title: Scleractinia
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Zoantharia](Zoantharia)
     -   [Anthozoa](Anthozoa)

@@ -51,7 +51,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Land_Plant](../Land_Plant.md)
     -   [Green plants](../../Plants.md)

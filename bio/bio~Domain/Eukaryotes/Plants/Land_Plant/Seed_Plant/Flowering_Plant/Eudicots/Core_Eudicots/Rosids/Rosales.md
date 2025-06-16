@@ -21,7 +21,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosales) 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Rosids](../Rosids.md)
     -   [Core Eudicots](Core_Eudicots)

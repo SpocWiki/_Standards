@@ -4,7 +4,6 @@ title: Acontiaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Thenaria](Thenaria)
     -   [Nynantheae](Nynantheae)

@@ -9,7 +9,6 @@ title: subgenus Strobus
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pinus](../Pinus.md)
     -   [Pine](../../Pine.md)

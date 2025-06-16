@@ -4,7 +4,6 @@ title: Polyporales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Agaricomycetes](Agaricomycetes)
     -   [Agaricomycotina](Agaricomycotina)

@@ -384,7 +384,6 @@ UMLS_CUI: C0003732
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Tree of Life](Tree_of_Life.md)
 

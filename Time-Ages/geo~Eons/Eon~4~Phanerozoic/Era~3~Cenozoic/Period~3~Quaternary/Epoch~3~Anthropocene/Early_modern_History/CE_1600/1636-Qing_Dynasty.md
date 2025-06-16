@@ -118,7 +118,7 @@ has_time_started: 1636-06
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22725674]]"
 ---
 
-#has_/time_/started :: `=this.has_time_started`
+#has_/time_/started :: `=this.has_time_started` 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 

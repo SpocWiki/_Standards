@@ -4,7 +4,6 @@ title: Apusomonas
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Apusomonads](../Apusomonads.md)
     -   [The other protists](The_other_protists)

@@ -4,7 +4,6 @@ title: Leotiomycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)

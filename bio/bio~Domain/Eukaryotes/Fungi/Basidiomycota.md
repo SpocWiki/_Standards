@@ -4,7 +4,6 @@ title: Basidiomycota
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)

@@ -4,7 +4,6 @@ title: Pinus johannis
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [subsection Cembroides](subsection_Cembroides)
     -   [subgenus Strobus](subgenus_Strobus)

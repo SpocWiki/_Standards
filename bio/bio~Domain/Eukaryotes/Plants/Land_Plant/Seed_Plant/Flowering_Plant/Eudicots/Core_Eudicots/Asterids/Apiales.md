@@ -20,7 +20,6 @@ title: Apiales
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Asterids](../Asterids.md)
     -   [Core Eudicots](Core_Eudicots)

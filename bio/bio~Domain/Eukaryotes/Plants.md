@@ -100,7 +100,6 @@ taxon of land plants (McCourt 1995; Melkonian and Surek, 1995).
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Eukaryotes](Eukaryotes)
     -   [Tree of Life](../Tree_of_Life.md)

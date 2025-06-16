@@ -4,7 +4,6 @@ title: Flabelloidea
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Caryophylliina](Caryophylliina)
     -   [Scleractinia](Scleractinia)

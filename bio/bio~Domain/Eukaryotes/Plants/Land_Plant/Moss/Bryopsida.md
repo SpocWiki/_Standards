@@ -30,7 +30,6 @@ Mosses with arthrodontous peristome.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Moss](../Moss.md)
     -   [Land_Plant](../../Land_Plant.md)

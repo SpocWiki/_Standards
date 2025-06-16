@@ -4,7 +4,6 @@ title: Haloclavidae
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Athenaria](Athenaria)
     -   [Nynantheae](Nynantheae)

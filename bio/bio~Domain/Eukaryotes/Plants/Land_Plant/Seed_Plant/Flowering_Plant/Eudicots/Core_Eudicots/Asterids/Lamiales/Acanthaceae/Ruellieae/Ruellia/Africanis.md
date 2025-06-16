@@ -51,7 +51,6 @@ species, and thus they are deserving of further study.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Ruellia s. l.](Ruellia_s._l.)
     -   [Ruellieae](../../Ruellieae.md)

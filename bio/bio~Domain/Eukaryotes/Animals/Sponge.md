@@ -32,7 +32,6 @@ Sponges
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Animals](Animals)
     -   [Eukaryotes](Eukaryotes)

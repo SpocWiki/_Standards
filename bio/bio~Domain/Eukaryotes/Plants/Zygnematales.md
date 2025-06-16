@@ -50,7 +50,6 @@ This order is the largest and most diverse of the living groups of green algae i
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Green plants](../Plants.md)
     -   [Eukaryotes](Eukaryotes)

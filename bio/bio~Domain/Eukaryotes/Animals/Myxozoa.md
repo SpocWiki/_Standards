@@ -35,7 +35,6 @@ title: Myxozoa
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Animals](Animals)
     -   [Eukaryotes](Eukaryotes)

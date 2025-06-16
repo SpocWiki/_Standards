@@ -4,7 +4,6 @@ title: Lecanoromycetes
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pezizomycotina](Pezizomycotina)
     -   [Ascomycota](Ascomycota)

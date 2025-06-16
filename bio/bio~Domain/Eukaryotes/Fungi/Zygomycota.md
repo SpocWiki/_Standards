@@ -4,7 +4,6 @@ title: Zygomycota
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)

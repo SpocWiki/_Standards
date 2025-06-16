@@ -260,7 +260,6 @@ with significant impacts on the environment, human health, and biotechnological 
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Tree of Life](Tree_of_Life.md)
 

@@ -4,7 +4,6 @@ title: Actiniaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Zoantharia](Zoantharia)
     -   [Anthozoa](Anthozoa)

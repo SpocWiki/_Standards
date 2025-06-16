@@ -132,7 +132,6 @@ unplaced.
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Core Eudicots](Core_Eudicots)
     -   [Core_Eudicots](../Core_Eudicots.md)

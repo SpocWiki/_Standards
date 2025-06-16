@@ -9,7 +9,6 @@ title: subsection Cembroides
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [subgenus Strobus](subgenus_Strobus)
     -   [Pinus](../../Pinus.md)

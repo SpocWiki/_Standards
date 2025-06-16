@@ -76,7 +76,6 @@ et al. 1990 using DNA restriction fragments and by Gernandt and Liston
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pine](../Pine.md)
     -   [Conifers](../../Conifers.md)

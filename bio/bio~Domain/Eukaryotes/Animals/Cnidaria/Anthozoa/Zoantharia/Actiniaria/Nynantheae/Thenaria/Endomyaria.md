@@ -4,7 +4,6 @@ title: Endomyaria
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Thenaria](Thenaria)
     -   [Nynantheae](Nynantheae)

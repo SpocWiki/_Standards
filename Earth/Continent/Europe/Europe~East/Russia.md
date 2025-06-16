@@ -869,6 +869,8 @@ official_website: "http://gov.ru/"
 
 # [Russia](Russia.md) 
 
+#is_/same_as :: [[../../../../WikiData/WD~Russia,159]]  
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Russia)
 into a Subfolder named `Russia`, so that this Link into the Sub-Repository works: [[Russia/ReadMe]] 

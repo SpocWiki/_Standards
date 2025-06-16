@@ -4,7 +4,6 @@ title: Ascomycota
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Fungi](Fungi)
     -   [Eukaryotes](Eukaryotes)

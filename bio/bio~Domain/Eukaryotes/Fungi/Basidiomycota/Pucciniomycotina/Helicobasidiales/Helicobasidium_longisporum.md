@@ -4,7 +4,6 @@ title: Helicobasidium longisporum
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Helicobasidiales](Helicobasidiales)
     -   [Urediniomycotina](Urediniomycotina)

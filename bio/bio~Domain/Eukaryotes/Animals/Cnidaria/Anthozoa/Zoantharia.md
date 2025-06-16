@@ -4,7 +4,6 @@ title: Zoantharia
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Anthozoa](Anthozoa)
     -   [Cnidaria](Cnidaria)

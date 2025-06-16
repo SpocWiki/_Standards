@@ -4,7 +4,6 @@ title: Caryophylliina
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Scleractinia](Scleractinia)
     -   [Zoantharia](Zoantharia)

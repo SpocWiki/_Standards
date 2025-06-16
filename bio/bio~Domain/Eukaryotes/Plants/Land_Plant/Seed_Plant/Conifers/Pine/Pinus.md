@@ -9,7 +9,6 @@ aliases:
 
 ## Phylogeny 
 
-
 -   « Ancestral Groups  
     -   [Pine](../Pine.md)
     -   [Conifers](../../Conifers.md)
