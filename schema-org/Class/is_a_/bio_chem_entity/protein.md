@@ -185,6 +185,35 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Protein)
 
+
+## Protein-sources 
+
+plant-based Proteins are healthier because they come with secondary nutrients and ballast, 
+although their resorption is worse. 
+
+Of the 21 Amino-Acids 9 cannot be synthesized 
+- Very important is Leucin, which starts building Muscles. 
+- 
+
+Protein-Powder can substitute Flour. 
+Before eating Carbohydrates you should start with Proteins, to avoid being saturated. 
+
+### Fish 
+
+### Meat 
+
+### Hülsenfrüchte 
+
+- Soy (Tofu, Tempi)
+- Edamame 
+
+it is important to mix different sources. 
+
+### Milk and Cheese 
+
+Whey-Powder is very valuable, but should be acquired pure which makes it also more versatile. 
+
+
 ## Confidential Links & Embeds: 
 
 ### [protein](/_public/schema-org/Class/is_a_/bio_chem_entity/protein.md) 
