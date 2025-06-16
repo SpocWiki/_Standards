@@ -22,7 +22,7 @@ title: Glomeromycota
 
 ## Arbuscular mycorrhizal fungi and their relative(s) 
 
-[Dirk Redecker](http://www.tolweb.org/)
+[Dirk Redecker]()
 
 ![ ](s328_small_002.jpg)
 ![ ](arbuscule_002.jpg)

@@ -52,7 +52,7 @@ aliases:
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 *Dyschoriste* is a pantropical genus of perhaps 50 species. Taxa have
 four, fertile stamens with anther appendages. Several species have a

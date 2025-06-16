@@ -81,7 +81,7 @@ Red Algae
 
 ## Introduction
 
-[D. Wilson Freshwater](http://tolweb.org/Rhodophyta/2381#AboutThisPage) 
+[D. Wilson Freshwater](Rhodophyta) 
 
 The Rhodophyta (red algae) are a distinct eukaryotic lineage
 characterized by the accessory photosynthetic pigments phycoerythrin,

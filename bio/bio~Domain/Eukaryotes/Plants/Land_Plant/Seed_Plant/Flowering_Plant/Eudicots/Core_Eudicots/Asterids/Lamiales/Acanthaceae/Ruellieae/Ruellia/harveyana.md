@@ -13,7 +13,7 @@ Containing group: *[Ruellia s. l.](../Ruellia.md)*
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 Phylogenetic analyses from Tripp (in press) revealed a small, moderately
 supported lineage, the Ruellia harveyana clade, that contains four

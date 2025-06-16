@@ -36,7 +36,7 @@ title: Gesneriaceae
 
 ## Introduction
 
-[James F. Smith](http://www.tolweb.org/) 
+[James F. Smith]() 
 
 The Gesneriaceae are a mid-sized to large plant family comprising
 approximately 2500-3500 species in 120-135 genera, distributed primarily

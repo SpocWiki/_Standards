@@ -57,7 +57,7 @@ Containing group: [Dipsacales](../Dipsacales.md)
 
 ## Introduction
 
-[Charles D. Bell](http://www.tolweb.org/) 
+[Charles D. Bell]() 
 
 An excellent taxonomic revision of Morinaceae was published by Cannon
 and Cannon in 1984. They recognized 13 species extending from

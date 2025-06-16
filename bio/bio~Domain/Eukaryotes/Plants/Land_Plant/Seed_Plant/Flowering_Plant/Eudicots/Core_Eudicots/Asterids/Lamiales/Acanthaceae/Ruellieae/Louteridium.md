@@ -60,7 +60,7 @@ title: Louteridium
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 *Louteridium* is a poorly known genus of ca. 10 species. Mexico is its
 center of distribution, and representatives also occur in moist regions

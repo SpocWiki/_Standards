@@ -33,7 +33,7 @@ title: Genistoid clade
 
 ## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Johanna Mahn]() 
 
 The \"Genistoid\" clade is an informal name given to a group of
 papilionoids that includes the many genera traditionally classified in

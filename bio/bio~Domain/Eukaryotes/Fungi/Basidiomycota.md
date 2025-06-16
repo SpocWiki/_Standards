@@ -25,7 +25,7 @@ title: Basidiomycota
 
 ## The Club Fungi 
 
-[Eric Swann and David S. Hibbett](http://www.tolweb.org/)
+[Eric Swann and David S. Hibbett]()
 
 ![](Gymnosporangium_002.jpg)
 ![](Tilletia_controversa.jpg)

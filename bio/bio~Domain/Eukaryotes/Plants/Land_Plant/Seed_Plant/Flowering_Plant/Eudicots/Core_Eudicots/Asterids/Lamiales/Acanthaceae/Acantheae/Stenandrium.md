@@ -55,7 +55,7 @@ title: Stenandrium Clade
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 The *Stenandrium* clade includes the New World genera *Stenandrium* and
 *Holographis* plus three surprises: the two Jamaican Acantheae,

@@ -20,7 +20,7 @@ title: Anthozoa
 
 ## Sea Anemones, Corals, Sea Pens 
 
-[Daphne G. Fautin and Sandra L. Romano](http://www.tolweb.org/)
+[Daphne G. Fautin and Sandra L. Romano]()
 
 ![ ](img0077_002.jpg)
 ![ ](octocorallia_002.jpg)

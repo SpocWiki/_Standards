@@ -8,7 +8,7 @@ title: IRLC (Inverted Repeat-lacking clade)
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 The Inverted Repeat-lacking clade or IRLC (Wojciechowski et al., 2000),
 so-called because it is uniquely marked by the loss of one copy of the

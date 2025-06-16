@@ -23,7 +23,7 @@ title: Ascomycota
 
 ## Sac Fungi 
 
-[John W. Taylor, Joey Spatafora, and Mary Berbee](http://www.tolweb.org/)
+[John W. Taylor, Joey Spatafora, and Mary Berbee]()
 
 ![ ](t_002.gif)
 ![ ](Ascomycota/scarlet_cup_fungus.gif)

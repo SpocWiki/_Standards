@@ -72,7 +72,7 @@ title: Malvales
 
 ## Introduction
 
-[Stacey D. Smith and David A. Baum](http://www.tolweb.org/)
+[Stacey D. Smith and David A. Baum]()
 
 The order Malvales has traditionally included four core families,
 Bombacaceae, Malvaceae, Sterculiaceae and Tiliaceae, although various

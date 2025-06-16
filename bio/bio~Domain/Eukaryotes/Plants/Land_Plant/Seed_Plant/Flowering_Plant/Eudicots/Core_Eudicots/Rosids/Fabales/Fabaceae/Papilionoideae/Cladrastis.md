@@ -60,7 +60,7 @@ title: Cladrastis clade
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 Tribe Sophoreae has been considered a \"tribe of convenience\" to
 include the heterogenous assemblage of genera within Papilionoideae that

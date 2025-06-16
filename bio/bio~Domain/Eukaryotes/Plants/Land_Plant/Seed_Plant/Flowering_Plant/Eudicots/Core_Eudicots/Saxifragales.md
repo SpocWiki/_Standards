@@ -57,7 +57,7 @@ aliases:
 
 ## Introduction
 
-[Doug Soltis, Pam Soltis, and Monica Arakaki](http://www.tolweb.org/) 
+[Doug Soltis, Pam Soltis, and Monica Arakaki]() 
 
 Saxifragales are a morphologically diverse group, including annual and
 perennial herbs, succulents, aquatics, shrubs, vines, and large trees.

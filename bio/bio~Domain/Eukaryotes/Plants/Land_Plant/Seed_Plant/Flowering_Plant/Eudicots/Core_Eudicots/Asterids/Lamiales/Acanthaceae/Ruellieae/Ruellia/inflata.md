@@ -11,7 +11,7 @@ title: Ruellia inflata clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 The *Ruellia inflata* clade contains species having red or greenish-yellow flowers. 
 Those with the latter have floral morphologies

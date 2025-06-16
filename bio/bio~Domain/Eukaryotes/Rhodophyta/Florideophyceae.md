@@ -39,7 +39,7 @@ title: Florideophyceae
 
 ## Introduction
 
-[D. Wilson Freshwater](http://tolweb.org/Florideophyceae/21781#AboutThisPage) 
+[D. Wilson Freshwater](Florideophyceae) 
 
 The Florideophyceae is a well-defined assemblage of red algae that share
 a number of characters including the presence of tetrasporangia, and a

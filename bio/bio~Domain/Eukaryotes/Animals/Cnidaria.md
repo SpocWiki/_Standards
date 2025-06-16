@@ -42,7 +42,7 @@ Sea anemones, corals, jellyfish, sea pens, hydra
 
 ## Introduction
 
-[Daphne G. Fautin and Sandra L. Romano](http://www.tolweb.org/)
+[Daphne G. Fautin and Sandra L. Romano]()
 
 The exclusively aquatic phylum Cnidaria is represented by polyps such as
 sea anemones and corals, and by medusae such as jellyfish. A polypoid or

@@ -22,7 +22,7 @@ title: Zoantharia
 
 ## Sea Anemones and Corals 
 
-[Daphne G. Fautin, Sandra L. Romano, and William A. Oliver, Jr.](http://www.tolweb.org/)
+[Daphne G. Fautin, Sandra L. Romano, and William A. Oliver, Jr.]()
 
 ![ ](pseudocorynactis.jpg)
 

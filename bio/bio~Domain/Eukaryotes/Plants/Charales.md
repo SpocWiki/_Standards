@@ -36,7 +36,7 @@ aliases:
 
 ## Introduction
 
-[Richard M. McCourt](http://www.tolweb.org/)
+[Richard M. McCourt]()
 
 The green algae in the order Charales are commonly called stoneworts or
 brittleworts. These algae are common in quiet freshwater habitats such

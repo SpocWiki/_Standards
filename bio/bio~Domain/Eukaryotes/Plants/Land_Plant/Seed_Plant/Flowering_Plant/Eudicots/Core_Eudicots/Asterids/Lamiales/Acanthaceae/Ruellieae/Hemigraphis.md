@@ -48,7 +48,7 @@ title: Hemigraphis + Strobilanthes + relatives
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 *Hemigraphis* is a taxonomically difficult genus 
 with a center of diversity in the Philippines and Malesia. 
