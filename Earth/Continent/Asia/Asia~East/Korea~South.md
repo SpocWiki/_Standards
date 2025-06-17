@@ -423,6 +423,8 @@ icon: flag-kr
 
 # [[Korea~South]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~Korean,9176]]  
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~South 
 

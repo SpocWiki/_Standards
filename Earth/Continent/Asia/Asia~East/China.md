@@ -936,6 +936,8 @@ spherical_panorama_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Mu
 
 # [[China]] 
 
+#is_/same_as :: [[_Standards/WikiData/WD~China,148]]  
+
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
 into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
