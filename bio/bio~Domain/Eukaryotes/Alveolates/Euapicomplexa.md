@@ -4,7 +4,7 @@ title: Euapicomplexa
 
 # [[Euapicomplexa]] 
 
-![ ](Cryptosporidium_parvum7829_.jpg) ![](Plasmodium_vivax_002.jpg)
+![ ](Cryptosporidium_parvum7829_.jpg) ![](Euapicomplexa/Plasmodium_vivax.jpg)
 
 
 
@@ -50,7 +50,7 @@ Life Cycle Stage ::     oocysts
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 ---------------------------------------
-![Plasmodium vivax](Plasmodium_vivax_002.jpg)
+![Plasmodium vivax](Euapicomplexa/Plasmodium_vivax.jpg)
 Scientific Name ::     Plasmodium vivax
 Comments             micrograph depicting a red blood cell containing four Plasmodium vivax rings, next to a growing trophozoite
 Creator              CDC/Dr. Mae Melvin

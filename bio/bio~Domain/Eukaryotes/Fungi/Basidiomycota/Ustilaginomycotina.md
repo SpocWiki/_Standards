@@ -25,8 +25,8 @@ title: Ustilaginomycetes
 
 [Robert Bauer, Dominik Begerow, and Franz Oberwinkler]()
 
-![ ](entorrhiza_002.jpg)
-![ ](ustilago_002.jpg)
+![ ](Ustilaginomycotina/entorrhiza.jpg)
+![ ](Ustilaginomycotina/ustilago.jpg)
 ![](exobasidium.jpg)
 
 Containing group: [Basidiomycota](Basidiomycota.md)

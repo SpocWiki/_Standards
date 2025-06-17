@@ -9,7 +9,7 @@ aliases:
 
 # [[Spirochaetes]] 
 
-![Photomicrograph of Borrelia burgdorferi, the bacterium that causes Lyme disease](Spirochaetes/Borrelia_burgdorferi.jpg) ![Scanning electron micrograph of Leptospira interrogans strain RGA](Spirochaetes/Leptospira_interrogans_002.jpg) 
+![Photomicrograph of Borrelia burgdorferi, the bacterium that causes Lyme disease](Spirochaetes/Borrelia_burgdorferi.jpg) ![Scanning electron micrograph of Leptospira interrogans strain RGA](Spirochaetes/Leptospira_interrogans.jpg) 
 
 ## #has_/text_of_/abstract 
 
@@ -95,7 +95,7 @@ aliases:
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 ------------------------------
-![Scanning electron micrograph of Leptospira interrogans strain RGA](Spirochaetes/Leptospira_interrogans_002.jpg)
+![Scanning electron micrograph of Leptospira interrogans strain RGA](Spirochaetes/Leptospira_interrogans.jpg)
   Scientific Name ::     Leptospira interrogans
   Comments             Scanning electron micrograph of Leptospira interrogans strain RGA. Two spirochetes bound to a 0.2 µm filter. Strain RGA was isolated in 1915 by Uhlenhuth and Fromme from the blood of a soldier in Belgium.
   Creator              CDC/NCID/HIP/Janice Carr

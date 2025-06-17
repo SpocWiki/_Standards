@@ -23,7 +23,7 @@ title: Canellales
 
 # [[Canellales]] 
 
-![Winter\'s bark, Drimys winteri](Canellales/drimys_002.jpg)
+![Winter\'s bark, Drimys winteri](Canellales/drimys.jpg)
 Image © 1995 M. J. Donoghue
 
 ## #has_/text_of_/abstract 

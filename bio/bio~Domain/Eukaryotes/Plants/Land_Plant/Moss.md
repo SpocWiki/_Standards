@@ -70,7 +70,7 @@ aliases:
 
 Mosses 
 
-![An epiphyte Barbella,Hypnales moss hanging on a tree branch from the cloud forest near Xalapa, Veracruz, Mexico](Moss/Barbella,Hypnales.jpg)  ![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum_002.jpg)  ![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum_002.jpg)
+![An epiphyte Barbella,Hypnales moss hanging on a tree branch from the cloud forest near Xalapa, Veracruz, Mexico](Moss/Barbella,Hypnales.jpg)  ![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum.jpg)  ![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum.jpg)
 
 ## Introduction
 
@@ -315,7 +315,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 --------------------------------------------------------------------------------
-![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum_002.jpg)
+![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum.jpg)
 Scientific Name ::     Pogonatum, Polytrichopsida
 Location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             a moss growing on soil
@@ -323,7 +323,7 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 --------------------------------------------------------------------------------
-![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum_002.jpg)
+![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum.jpg)
 Scientific Name ::     Pyrrhobryum, Rhizogoniales
 Location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             an epiphyte moss

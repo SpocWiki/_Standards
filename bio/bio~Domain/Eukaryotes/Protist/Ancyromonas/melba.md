@@ -21,7 +21,7 @@ title: Ancyromonas melba
 [David J. Patterson](http://www.tolweb.org/)
 
 ![ ](melba/fancyromel.gif)
-![ ](melba/pancyrom_002.jpg)
+![ ](melba/pancyrom.jpg)
 
 Containing group: *[Ancyromonas](../Ancyromonas.md)*
 

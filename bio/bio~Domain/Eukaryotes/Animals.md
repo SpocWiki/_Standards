@@ -95,7 +95,7 @@ start time: -665000000-01-01T00:00:00Z
 # [[Animals]] 
 
 
-![Grasshopper](Animals/grasshopper.gif) ![](1618ctenophore_002.jpg) ![](haliclona_002.jpg) ![](haliplanella.gif) 
+![Grasshopper](Animals/grasshopper.gif) ![](Animals/1618ctenophore.jpg) ![](Animals/haliclona.jpg) ![](haliplanella.gif) 
 
 Animalia and their sibling groups within the domain Eukaryota share a common ancestry.
 
@@ -235,13 +235,13 @@ of animals and their sibling groups within the broader context of eukaryotic div
   Copyright ::         © 1995 [Joseph L. Spencer](http://www.inhs.uiuc.edu/staff/index.php?action=list&user_name=spencer1) 
 
 ----------------------------------------------------------------------------------------
-![A comb jelly (Ctenophora) from the Texas State Aquarium](1618ctenophore_002.jpg)
+![A comb jelly (Ctenophora) from the Texas State Aquarium](Animals/1618ctenophore.jpg)
   Scientific Name ::  Ctenophora
   Comments          A comb jelly from the Texas State Aquarium
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ----------------------------------------------------------------------------
-![A sponge, Haliclona](haliclona_002.jpg)
+![A sponge, Haliclona](Animals/haliclona.jpg)
   Scientific Name ::  Haliclona
   Comments          A sponge (Porifera)
   Creator           Photograph by David Remsen

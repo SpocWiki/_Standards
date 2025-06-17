@@ -20,7 +20,7 @@ title: Single-stranded Negative Sense RNA Virus
 
 # Single-stranded Negative Sense RNA Viruses 
 
-![](Single-stranded_Negative_RNA_Virus/Ebola_002.jpg)
+![](Single-stranded_Negative_RNA_Virus/Ebola.jpg)
 ![](Single-stranded_Negative_RNA_Virus/PHIL_2174_lores.jpg)
 
 ![](Single-stranded_Negative_Sense_RNA_Viruses.png)
@@ -30,7 +30,7 @@ Containing group: [Virus](../Virus.md)
 ## Title Illustrations
 
   ---------------------------
-![](Single-stranded_Negative_RNA_Virus/Ebola_002.jpg)
+![](Single-stranded_Negative_RNA_Virus/Ebola.jpg)
   Scientific Name ::     Ebolavirus
   Comments             Transmission electron micrograph of the ebola virus, hemorrhagic fever.
   Creator              C. Goldsmith (Center for Disease Control)

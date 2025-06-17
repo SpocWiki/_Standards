@@ -24,7 +24,7 @@ title: Amastigomonas debruynei
 
 ![ ](debruynei/famastigod.gif)
 ![ ](debruynei/pamastigod.jpg)
-![](debruynei/pamastigod2_002.jpg)
+![](debruynei/pamastigod2.jpg)
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 

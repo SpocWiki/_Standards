@@ -29,7 +29,7 @@ aliases:
 
 # Ceratophyllaceae 
 
-![](Ceratophyllaceae/Ceratophyllum_demersum_002.jpg)
+![](Ceratophyllaceae/Ceratophyllum_demersum.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -50,7 +50,7 @@ aliases:
 ## Title Illustrations
 
 ------------------------------------------------------------------------
-![](Ceratophyllaceae/Ceratophyllum_demersum_002.jpg)
+![](Ceratophyllaceae/Ceratophyllum_demersum.jpg)
 Scientific Name ::   Ceratophyllum demersum
 Comments           Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)

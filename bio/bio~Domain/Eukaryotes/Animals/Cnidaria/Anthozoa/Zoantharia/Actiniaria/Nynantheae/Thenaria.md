@@ -26,7 +26,7 @@ title: Thenaria
 
 # Thenaria 
 
-![ ](aurelianidaesm_002.jpg)
+![ ](Thenaria/aurelianidaesm.jpg)
 ![ ](hormathiidaesm.jpg)
 ![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/diadumenidaesm.jpg)
 

@@ -27,7 +27,7 @@ title: Basidiomycota
 
 [Eric Swann and David S. Hibbett]()
 
-![](Gymnosporangium_002.jpg)
+![](Basidiomycota/Gymnosporangium.jpg)
 ![](Tilletia_controversa.jpg)
 ![](Amanita_rubrovaginata.jpg)
 

@@ -32,7 +32,7 @@ title: Athenaria
 
 # Athenaria 
 
-![ ](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/edwardsiidaesm_002.jpg)
+![ ](Athenaria/edwardsiidaesm.jpg)
 ![ ](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/haloclavidaesm.jpg)
 
 -   *[Edwardsiidae](Edwardsiidae.md "go to ToL page")*
@@ -82,7 +82,7 @@ France. Collection and donation of this specimen by Dr. R. Dekker (NIOZ,
 Texel, Netherlands) is gratefully acknowledged.
 
 Photographs copyright © 2000, Ron Ates.
-![](edwardsiidaesm.jpg)
+![](../edwardsiidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

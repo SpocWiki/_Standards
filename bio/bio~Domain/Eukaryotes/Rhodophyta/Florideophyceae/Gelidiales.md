@@ -20,7 +20,7 @@ title: Gelidiales
 
 [D. Wilson Freshwater]()
 
-![Gelidiella acerosa](gacer_002.jpg)
+![Gelidiella acerosa](Gelidiales/gacer.jpg)
 ![](grancanar.jpg)
 
 Tree based on Freshwater et al. 1995, Freshwater and Bailey 1998,

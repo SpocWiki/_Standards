@@ -7,8 +7,8 @@ aliases:
 # [[Sapindales]] 
 
 ![](Sapindales/Aesculus_californica67.jpg)
-![](Sapindales/Dictamnus_dasycarpus_002.jpg)
-![](Sapindales/Bursera_microphylla0036_002.jpg)
+![](Sapindales/Dictamnus_dasycarpus.jpg)
+![](Sapindales/Bursera_microphylla0036.jpg)
 
 ## #has_/text_of_/abstract 
 

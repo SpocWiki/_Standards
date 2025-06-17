@@ -20,7 +20,7 @@ title: Double-stranded RNA Viruses
 
 # Double-stranded RNA Viruses 
 
-![ ](Double-stranded_RNA_Virus/B82-0337_lores_002.jpg)
+![ ](Double-stranded_RNA_Virus/B82-0337_lores.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -39,7 +39,7 @@ title: Double-stranded RNA Viruses
 ## Title Illustrations 
 
   ------------------------------------------
-![ ](Double-stranded_RNA_Virus/B82-0337_lores_002.jpg)
+![ ](Double-stranded_RNA_Virus/B82-0337_lores.jpg)
 
   Scientific Name ::     Rotavirus
   Comments             Transmission electron micrograph of intact rotavirus particles, double-shelled. Distinctive rim of radiating capsomeres.

@@ -28,7 +28,7 @@ aliases:
 
 # [[Santalales]]  
 
-![Osyris alba](Santalales/Osyris_alba3996_002.jpg)
+![Osyris alba](Santalales/Osyris_alba3996.jpg)
 ![](Santalales/Viscum_album2019.jpg)
 
 ## #has_/text_of_/abstract 

@@ -21,7 +21,7 @@ title: Apusomonas proboscidea
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](proboscidea/fapusop_002.jpg)
+![ ](proboscidea/fapusop.jpg)
 
 Containing group: *[Apusomonas](../Apusomonas.md)*
 

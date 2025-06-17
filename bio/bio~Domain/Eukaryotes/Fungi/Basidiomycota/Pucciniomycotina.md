@@ -30,7 +30,7 @@ title: Urediniomycotina
 [Elizabeth M. Frieders, David J. McLaughlin, and Les J. Szabo]()
 
 ![ ](Eo-MIN864444.jpg)
-![ ](CoffeeRust21_002.jpg)
+![ ](Pucciniomycotina/CoffeeRust21.jpg)
 ![](Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/HpMLutz.jpg)
 
 Containing group: [Basidiomycota](Basidiomycota.md)

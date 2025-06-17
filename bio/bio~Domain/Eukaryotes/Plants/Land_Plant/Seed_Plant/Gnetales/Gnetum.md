@@ -20,7 +20,7 @@ title: Gnetum
 
 # Gnetum 
 
-![ ](Gnetum/Gnetum_gnemon_002.jpg)
+![ ](Gnetum/Gnetum_gnemon.jpg)
 
 -   *Gnetum acutum*
 -   *Gnetum africanum*
@@ -84,7 +84,7 @@ Sciences157(6, Suppl.): S40-S49.
 
 ## Title Illustrations
 
-![](Gnetum_gnemon.jpg)
+![](../Gnetum_gnemon.jpg)
 
   ----------------------------------------------------------------------
   Scientific Name ::     Gnetum gnemon

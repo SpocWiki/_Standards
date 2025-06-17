@@ -24,7 +24,7 @@ title: Apusomonads
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](Apusomonads/pamasdeb_002.jpg)
+![ ](Apusomonads/pamasdeb.jpg)
 ![ ](Apusomonads/papuprob.jpg)
 
 -   *[Apusomonas](Apusomonads/Apusomonas.md "go to ToL page")*

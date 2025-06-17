@@ -27,7 +27,7 @@ title: Helicobasidium longisporum
 
 ![ ](rr.jpg)
 ![ ](Hlstgt.jpg)
-![ ](TpGsTUB012677_002.jpg)
+![ ](Helicobasidium_longisporum/TpGsTUB012677.jpg)
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 

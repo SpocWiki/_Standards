@@ -20,13 +20,13 @@ title: DNA-RNA Reverse Transcribing Viruses
 
 # DNA-RNA Reverse Transcribing Viruses 
 
-![ ](DNA-RNA-reverse_transcribing_Virus/PHIL_1842_lores_002.jpg)
+![ ](DNA-RNA-reverse_transcribing_Virus/PHIL_1842_lores.jpg)
 
 Containing group: [Virus](../Virus.md)
 
 ## Title Illustrations
   --------------------------------------------------------
-![ ](DNA-RNA-reverse_transcribing_Virus/PHIL_1842_lores_002.jpg)
+![ ](DNA-RNA-reverse_transcribing_Virus/PHIL_1842_lores.jpg)
 
   Scientific Name ::     Lentivirus
   Comments             Scanning electron micrograph of human immunodeficiency virus (HIV), grown in cultured lymphocytes. Virions are seen as small spheres on the surface of the cells.

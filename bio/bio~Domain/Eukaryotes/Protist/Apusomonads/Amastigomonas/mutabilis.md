@@ -23,7 +23,7 @@ title: Amastigomonas mutabilis
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](mutabilis/famastigom_002.jpg)
+![ ](mutabilis/famastigom.jpg)
 ![ ](mutabilis/pamastigom.jpg)
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*

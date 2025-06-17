@@ -30,7 +30,7 @@ title: Agaricales
 
 ![ ](gymnopilus_spectabilis.jpg)
 ![](lycoperdon_perlatum1.jpg)
-![ ](squamanita_paradoxa_002.jpg)
+![ ](Agaricales/squamanita_paradoxa.jpg)
 
 Relationships after Binder, Matheny & Hibbett (unpublished data),
 Matheny et al. (2006), Binder et al. (2005), Bodensteiner et al. (2004),

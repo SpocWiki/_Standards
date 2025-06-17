@@ -6,8 +6,8 @@ title: Zingiberanae
 
 The bananas, gingers, and relatives. 
 
-![Heliconia](Zingiberanae/Heliconia2_002.jpg)
-![Ginger](Zingiberanae/Ginger2_002.jpg)
+![Heliconia](Zingiberanae/Heliconia2.jpg)
+![Ginger](Zingiberanae/Ginger2.jpg)
 
 ## #has_/text_of_/abstract 
 

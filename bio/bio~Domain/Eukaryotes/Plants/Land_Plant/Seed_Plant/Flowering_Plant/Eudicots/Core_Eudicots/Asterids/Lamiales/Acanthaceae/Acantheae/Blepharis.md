@@ -4,7 +4,7 @@ title: Blepharis
 
 # [[Blepharis]] 
 
-![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg)  ![Blepharis](Blepharis/blepharis_copy.jpg)  ![ ](Blepharis/blepharis1_002.jpg) 
+![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg)  ![Blepharis](Blepharis/blepharis_copy.jpg)  ![ ](Blepharis/blepharis1.jpg) 
  ![](Blepharis/Blepharis_longispica.jpg) 
 
 ## #has_/text_of_/abstract 

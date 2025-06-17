@@ -26,7 +26,7 @@ title: Amastigomonas
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](Amastigomonas/famastigos_002.jpg)
+![ ](Amastigomonas/famastigos.jpg)
 
 -   *Amastigomonas bermudensis*
 -   *[Amastigomonas     debruynei](Amastigomonas_debruynei)*

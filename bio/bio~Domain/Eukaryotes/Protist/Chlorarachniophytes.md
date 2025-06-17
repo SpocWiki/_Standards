@@ -21,9 +21,9 @@ title: Chlorarachniophytes
 
 [Ken-ichiro Ishida and Geoff I. McFadden](http://www.tolweb.org/)
 
-![coccoid cells of Gymnochlora stellata](Chlorarachniophytes/Gste_002.jpg)
-![](Chlorarachniophytes/Lglo_002.jpg)
-![ ](Chlorarachniophytes/Gste2_002.jpg)
+![coccoid cells of Gymnochlora stellata](Chlorarachniophytes/Gste.jpg)
+![](Chlorarachniophytes/Lglo.jpg)
+![ ](Chlorarachniophytes/Gste2.jpg)
 
 Containing group: [The other protists](../Protist.md)
 

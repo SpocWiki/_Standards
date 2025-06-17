@@ -25,9 +25,9 @@ title: Zygomycota
 
 [Timothy Y. James and Kerry O\'Donnell]()
 
-![](Pilobolus_kleinii1_002.jpg)
-![](Entomophthora2_002.jpg)
-![](Genistelloides_helicoides1_002.jpg)
+![](Zygomycota/Pilobolus_kleinii1.jpg)
+![](Zygomycota/Entomophthora2.jpg)
+![](Zygomycota/Genistelloides_helicoides1.jpg)
 
 The tree shown above is based on several phylogenetic analyses of
 nuclear small subunit (SSU) ribosomal DNA (Lutzoni et al. 2004, Nagahama

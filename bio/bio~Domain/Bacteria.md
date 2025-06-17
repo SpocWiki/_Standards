@@ -133,7 +133,7 @@ In [[../../schema-org]]: Pathogenic bacteria that cause bacterial infection.
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
 
-![Scanning Electron Micrograph of Enterococcus](Enterococcus.jpg)  ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Pseudomonas_aeruginosa_002.jpg)  ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacillus_anthracis_002.jpg) 
+![Scanning Electron Micrograph of Enterococcus](Enterococcus.jpg)  ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonas_aeruginosa.jpg)  ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillus_anthracis.jpg) 
 
 Eubacteria, also known as true bacteria or simply bacteria, 
 are one of the two major domains of prokaryotic microorganisms, the other being [[Archaea]]. 
@@ -308,7 +308,7 @@ Specimen Condition   Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
-![Scanning Electron Micrograph of Pseudomonas aeruginosa](Pseudomonas_aeruginosa_002.jpg)
+![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonas_aeruginosa.jpg)
 Scientific Name ::     Pseudomonas aeruginosa
 Comments             Scanning Electron Micrograph of Pseudomonas aeruginosa
 Creator              CDC/Janice Carr
@@ -316,7 +316,7 @@ Specimen Condition   Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
-![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacillus_anthracis_002.jpg)
+![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillus_anthracis.jpg)
 Scientific Name ::     Bacillus anthracis
 Comments             A photomicrograph of the Anthrax bacterium, Bacillus anthracis, using Gram stain technique
 Specimen Condition   Dead Specimen

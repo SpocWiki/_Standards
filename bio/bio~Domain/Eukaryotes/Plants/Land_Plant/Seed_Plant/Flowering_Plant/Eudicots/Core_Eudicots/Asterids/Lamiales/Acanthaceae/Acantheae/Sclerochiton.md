@@ -7,7 +7,7 @@ title: Sclerochiton
 ![ ](Sclerochiton/sclerochiton.jpg)
 ![Sclerochiton ilicifolius](Sclerochiton/Sclerochiton_ilicifolius.jpg) 
 ![Streptosiphon](Sclerochiton/Streptosiphon1.jpg)
-![ ](Sclerochiton/Sclero_002.jpg)
+![ ](Sclerochiton/Sclero.jpg)
 	
 ## #has_/text_of_/abstract 
 
@@ -99,7 +99,7 @@ Creator           Drawn by Eleanor Catherine
 Copyright ::         © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
-![Sclerochiton ilicifolius](Sclero_002.jpg)
+![Sclerochiton ilicifolius](Sclerochiton/Sclero.jpg)
 Scientific Name ::     Sclerochiton ilicifolius A. Meeuse
 Location ::           South Africa
 Specimen Condition   Dead Specimen
