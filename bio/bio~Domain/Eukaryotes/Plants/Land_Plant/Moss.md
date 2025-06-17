@@ -74,7 +74,7 @@ Mosses
 
 ## Introduction
 
-[Efrain De Luna, Angela E. Newton, and Brent D. Mishler](http://www.tolweb.org/)
+[Efrain De Luna, Angela E. Newton, and Brent D. Mishler]()
 
 Diversity of mosses has been classified in approximately 10,000 species,
 700 genera, and about 110-120 families. This places the mosses as the

@@ -12,7 +12,7 @@ title: African Ruellia
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 African *Ruellia* form a grade that is ancestral with respect to New
 World *Ruellia* (Tripp, in press). Species that have been sampled and

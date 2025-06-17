@@ -22,7 +22,7 @@ title: Agaricomycotina
 
 ## Jelly Fungi, Yeasts, and Mushrooms 
 
-[David S. Hibbett](http://www.tolweb.org/)
+[David S. Hibbett]()
 
 ![Calocera viscosa](Calocera_viscosa.jpg)
 ![](Filobasidiella_neoformans.jpg)

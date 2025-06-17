@@ -64,7 +64,7 @@ This order is the largest and most diverse of the living groups of green algae i
 
 ## Introduction
 
-[Richard M. McCourt](http://www.tolweb.org/)
+[Richard M. McCourt]()
 
 The conjugating green algae are among the most common algae in
 freshwater streams, ponds, and lakes. Including such familiar algae as

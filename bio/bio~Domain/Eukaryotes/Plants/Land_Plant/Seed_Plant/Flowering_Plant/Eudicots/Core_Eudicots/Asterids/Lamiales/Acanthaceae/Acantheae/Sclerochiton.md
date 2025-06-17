@@ -54,7 +54,7 @@ title: Sclerochiton
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 *Sclerochiton* is a mostly eastern and southern African genus of 18
 species (Vollesen 1991). There is support from DNA sequence data for

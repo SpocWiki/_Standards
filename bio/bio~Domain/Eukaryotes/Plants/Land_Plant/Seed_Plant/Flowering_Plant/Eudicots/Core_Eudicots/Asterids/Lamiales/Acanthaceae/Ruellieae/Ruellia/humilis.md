@@ -39,7 +39,7 @@ title: Ruellia humilis clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 The *Ruellia humilis* clade is has been resolved as sister to
 *Euruellia*, but this relationships is still tentative and thus is not

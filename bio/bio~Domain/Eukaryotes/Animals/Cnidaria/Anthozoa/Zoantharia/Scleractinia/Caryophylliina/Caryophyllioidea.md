@@ -24,7 +24,7 @@ title: Caryophyllioidea
 
 # Caryophyllioidea [Dana 1846] 
 
-[Stephen D. Cairns](http://www.tolweb.org/)
+[Stephen D. Cairns]()
 
 ![ ](Deltocyathus_calcar.jpg)
 ![ ](Cyathotrochus_pileus.jpg)

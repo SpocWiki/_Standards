@@ -11,7 +11,7 @@ title: Robinioid clade
 
 ## Introduction
 
-[Martin F. Wojciechowski and Bruce Jones](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Bruce Jones]() 
 
 Traditional tribes Loteae (including Coronilleae; sensu Polhill, 1994)
 and Robinieae (sensu Lavin and Sousa, 1995) comprise the \"Robinioid

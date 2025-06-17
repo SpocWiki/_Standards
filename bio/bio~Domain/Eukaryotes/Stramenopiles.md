@@ -34,7 +34,7 @@ aliases:
 
 ## Introduction
 
-[J. Craig Bailey](http://tolweb.org/Stramenopiles/2380#AboutThisPage) 
+[J. Craig Bailey](Stramenopiles) 
 
 This grouping of protists arose largely from molecular studies 
 which categorically confirmed that algae (previously referred to as Heterokonts or Chrysophytes) 

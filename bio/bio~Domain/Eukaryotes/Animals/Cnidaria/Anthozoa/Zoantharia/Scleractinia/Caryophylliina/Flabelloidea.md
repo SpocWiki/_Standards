@@ -24,7 +24,7 @@ title: Flabelloidea
 
 # Flabelloidea [Bourne 1905] 
 
-[Stephen D. Cairns](http://www.tolweb.org/)
+[Stephen D. Cairns]()
 
 ![ ](Truncatoflabellum_truncum.jpg)
 

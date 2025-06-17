@@ -32,7 +32,7 @@ including liverworts, mosses, ferns and other non-seed plants, and seed plants.
 
 ## Introduction
 
-[Richard M. McCourt, R. L. Chapman, Mark Buchheim, and Brent D. Mishler](http://tolweb.org/Green_plants/2382#AboutThisPage)
+[Richard M. McCourt, R. L. Chapman, Mark Buchheim, and Brent D. Mishler](Green_plants)
 
 Green plants as defined here includes a broad assemblage of
 photosynthetic organisms that all contain chlorophylls a and b, store

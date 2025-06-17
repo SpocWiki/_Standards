@@ -11,7 +11,7 @@ title: Ruellia jaliscana clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 All species in the *Ruellia jaliscana* clade sampled by Tripp (in press)
 are endemic to Mexico. Generally, floral color cannot be used to

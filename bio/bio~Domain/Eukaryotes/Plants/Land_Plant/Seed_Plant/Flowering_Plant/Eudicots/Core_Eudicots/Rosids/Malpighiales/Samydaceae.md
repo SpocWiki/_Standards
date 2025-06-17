@@ -24,7 +24,7 @@ title: Samydaceae
 
 ## Introduction
 
-[Mac H. Alford](http://www.tolweb.org/) 
+[Mac H. Alford]() 
 
 Samydaceae are a family of flowering plants formerly placed in the
 polyphyletic Flacourtiaceae. Samydaceae have sometimes been segregated

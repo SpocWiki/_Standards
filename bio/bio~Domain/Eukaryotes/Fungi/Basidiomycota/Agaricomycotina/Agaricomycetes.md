@@ -28,7 +28,7 @@ title: Agaricomycetes
 
 ## Mushroom-Forming Fungi 
 
-[David S. Hibbett](http://www.tolweb.org/)
+[David S. Hibbett]()
 
 ![Lepista mushrooms](Lepista.jpg)
 ![](earthstar200.jpg)
@@ -76,7 +76,7 @@ Agaricomycetes is unmatched.
 Fruiting bodies of Agaricomycetes range from millimeter-scale cyphelloid
 forms, which look like tiny cups, to the giant polypores *Rigidoporus
 ulmarius* (up to 316 kg; see the
-[Fungi](http://www.tolweb.org/tree?group=Fungi&contgroup=Eukaryotes)
+[Fungi](tree?group=Fungi&contgroup=Eukaryotes)
 page) and *Bridgeoporus nobilissimus* (up to 130 kg; Burdsall et al.
 1996). Agaricomycetes include not only the largest fruiting bodies in
 Fungi, but perhaps the largest and oldest individuals in any group of

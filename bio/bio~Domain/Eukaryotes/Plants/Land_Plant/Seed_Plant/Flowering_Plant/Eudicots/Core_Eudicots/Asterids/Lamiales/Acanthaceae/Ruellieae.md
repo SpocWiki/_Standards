@@ -49,7 +49,7 @@ title: Ruellieae
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 The Ruellieae lineage consists of some 750+ species (ca. 50 genera) that
 are distributed throughout the tropics, New and Old World, and also

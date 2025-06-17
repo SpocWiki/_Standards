@@ -41,7 +41,7 @@ title: Quillaja
 
 ## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Johanna Mahn]() 
 
 *Quillaja* Molina, a genus of small evergreen trees with three to four
 species from temperate South America, was included in Rosaceae as part

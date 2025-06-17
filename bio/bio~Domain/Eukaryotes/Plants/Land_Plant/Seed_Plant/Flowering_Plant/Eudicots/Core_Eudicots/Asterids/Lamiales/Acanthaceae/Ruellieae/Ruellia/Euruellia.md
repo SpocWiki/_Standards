@@ -56,7 +56,7 @@ title: Euruellia clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 Like *Physiruellia*, species in the *Euruellia* clade are characterized
 by having dichasial, highly branched inflorescences with flowers that

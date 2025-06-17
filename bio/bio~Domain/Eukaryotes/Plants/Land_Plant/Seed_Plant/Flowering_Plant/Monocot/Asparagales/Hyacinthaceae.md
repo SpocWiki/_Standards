@@ -60,7 +60,7 @@ Hyacinthus, Ornithogalum, Scilla and their relatives
 
 ## Introduction
 
-[M. Pfosser and F. Speta](http://www.tolweb.org/)
+[M. Pfosser and F. Speta]()
 
 The generic names *Hyacinthus*, *Ornithogalum* and *Scilla* 
 have already been in use since ancient Greek times and represent the core genera of Hyacinthaceae. 

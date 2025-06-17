@@ -10,7 +10,7 @@ title: Physiruellia clade
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 The Physiruellia clade is a large group characterized by plants with
 dichasial inflorescences that are often profusely branched and

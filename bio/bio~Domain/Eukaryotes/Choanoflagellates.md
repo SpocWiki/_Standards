@@ -21,7 +21,7 @@ Choanoflagellida, collared-flagellates
 
 ## Introduction
 
-[Stephen Fairclough and Nicole King](http://tolweb.org/Choanoflagellates/2375#AboutThisPage)
+[Stephen Fairclough and Nicole King](Choanoflagellates)
 ![ ](choanodiagram3.jpg)\
 
 Choanoflagellate cell morphology. 

@@ -38,7 +38,7 @@ Core Tricolpates
 
 ## Introduction
 
-[Doug Soltis, Pam Soltis, and Christine Edwards](http://www.tolweb.org/)
+[Doug Soltis, Pam Soltis, and Christine Edwards]()
 
 The core eudicots are an extremely large, diverse assemblage of
 flowering plants, with an enormous range of variation in habit,

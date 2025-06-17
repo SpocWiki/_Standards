@@ -59,7 +59,7 @@ title: Stenandriopsis Clade
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 The basal clade of the \"Two-lipped Corolla\" lineage apparently
 includes all Old World Acantheae that retain the primitive corolla

@@ -54,7 +54,7 @@ title: Brillantaisia
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/)
+[Erin Tripp]()
 
 The genus *Brillantaisia* contains ca. 20 species distributed in
 tropical Africa and Madagascar. Species are large herbs with prominent,

@@ -41,7 +41,7 @@ aliases:
 
 ## Introduction
 
-[David S. Gernandt](http://www.tolweb.org/)
+[David S. Gernandt]()
 
 *Pseudotsuga* is a small genus of approximately five species distributed
 in eastern Asia and western North America. *Pseudotsuga menziesii*, with

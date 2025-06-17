@@ -177,7 +177,7 @@ Tag Instances like this:
 
 ## Introduction
 
-[David P. Mindell](http://tolweb.org/Viruses/5#AboutThisPage) 
+[David P. Mindell](Viruses) 
 
 Viruses do not fit neatly into the traditional tree of life like cellular organisms do. 
 

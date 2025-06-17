@@ -35,7 +35,7 @@ title: Cercideae
 
 ## Introduction
 
-[Martin F. Wojciechowski and Johanna Mahn](http://www.tolweb.org/) 
+[Martin F. Wojciechowski and Johanna Mahn]() 
 
 Found across the globe from North America to East Asia, the tribe
 Cercideae is the basally branching lineage in Fabaceae. The tribe is

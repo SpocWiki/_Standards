@@ -109,7 +109,7 @@ Eukaryota, Organisms with nucleated cells
 
 ## Introduction
 
-[Patrick Keeling and Brian S. Leander](http://tolweb.org/tree?group=Eukaryotes&contgroup=Life_on_Earth#AboutThisPage) 
+[Patrick Keeling and Brian S. Leander](tree?group=Eukaryotes&contgroup=Life_on_Earth#AboutThisPage) 
 
 The eukaryotes include ourselves, other animals, plants and fungi 
 and a rich variety of single-cellular micro-organisms (protists). 
@@ -472,7 +472,7 @@ and whether there are any remnants of pre-mitochondrial euklaryotes.
 Ribosomal RNA trees indicate that the earliest diverging eukaryotes
 (e.g. diplomonads, trichomonads) lack mitochondria and this was thought
 to indicate that these taxa were primitively without mitochondria (see
-[Discussion of Phylogenetic Relationships](http://tolweb.org/tree?group=Eukaryotes#DiscussionofPhylogeneticRelationships)).
+[Discussion of Phylogenetic Relationships](tree?group=Eukaryotes#DiscussionofPhylogeneticRelationships)).
 However, there is now increasing evidence that genes normally found in
 alpha-proteo bacteria are also present in the nucleus of amitochondriate
 prostists and that mitochondria were present much earlier than

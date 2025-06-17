@@ -20,7 +20,7 @@ title: Scyphostegia borneensis
 > [Wikipedia](https://en.wikipedia.org/wiki/Scyphostegia) 
 ## Introduction
 
-[Mac H. Alford](http://www.tolweb.org/) 
+[Mac H. Alford]() 
 
 *Scyphostegia borneensis* is an enigmatic species endemic to the
 northern part of Borneo. Its unusual combination of dioecy, basal

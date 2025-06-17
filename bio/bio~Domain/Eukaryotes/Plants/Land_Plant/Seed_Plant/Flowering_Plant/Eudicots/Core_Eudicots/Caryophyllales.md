@@ -34,7 +34,7 @@ Caryophyllids
 
 ## Introduction
 
-[Pam Soltis and Doug Soltis](http://www.tolweb.org/)
+[Pam Soltis and Doug Soltis]()
 
 Caryophyllales have long been recognized as a natural assemblage (e.g.,
 Braun 1864; Eichler 1875-1878). Previous circumscriptions based on

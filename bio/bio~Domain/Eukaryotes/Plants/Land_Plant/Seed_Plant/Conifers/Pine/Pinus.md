@@ -35,7 +35,7 @@ Pine Trees
 
 ## Introduction
 
-[David S. Gernandt, Aaron Liston, and Robert A. Price](http://www.tolweb.org/)
+[David S. Gernandt, Aaron Liston, and Robert A. Price]()
 
 *Pinus*, with over 100 species, is the largest genus of conifers 
 and the most widespread genus of trees in the Northern Hemisphere. 

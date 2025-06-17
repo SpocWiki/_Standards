@@ -10,7 +10,7 @@ title: Millettioid sensu lato clade
 
 ## Introduction
 
-[Martin F. Wojciechowski](http://www.tolweb.org/) 
+[Martin F. Wojciechowski]() 
 
 The Millettioid sens. lat. clade includes all genera in the tribes
 Millettieae (except for *Afgekia*, *Callerya*, and *Wisteria* in the

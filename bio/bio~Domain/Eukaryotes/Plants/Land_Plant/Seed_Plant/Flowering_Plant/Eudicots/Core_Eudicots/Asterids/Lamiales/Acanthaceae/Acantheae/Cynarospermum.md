@@ -53,7 +53,7 @@ title: Cynarospermum asperrimum
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 *Cynarospermum* is an Indian genus with a single species.  This species
 was treated as a member of *Blepharis* until Vollesen (1999) pointed out

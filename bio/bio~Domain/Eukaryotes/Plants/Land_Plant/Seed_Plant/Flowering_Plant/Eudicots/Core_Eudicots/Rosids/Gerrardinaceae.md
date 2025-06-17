@@ -56,7 +56,7 @@ title: Gerrardina
 
 ## Introduction
 
-[Mac H. Alford](http://www.tolweb.org/)
+[Mac H. Alford]()
 
 *Gerrardina* is a genus of two species native to southern and eastern
 Africa. Traditionally, the genus has been placed in the polyphyletic

@@ -12,7 +12,7 @@ Caryophyllales sensu stricto
 
 ## Introduction
 
-[Pam Soltis, Doug Soltis, and Monica Arakaki](http://www.tolweb.org/)
+[Pam Soltis, Doug Soltis, and Monica Arakaki]()
 
 The core Caryophyllales clade has long been recognized; it corresponds
 generally to the Caryophyllales of recent classifications (e.g.,

@@ -52,7 +52,7 @@ aliases:
 
 ## Introduction
 
-[Erin Tripp](http://www.tolweb.org/) 
+[Erin Tripp]() 
 
 *Suessenguthia* is a small genus of six species (Schmidt-Lebuhn 2003).
 These are shrubs to treelets that genrally occur in wet or riparian

@@ -71,7 +71,7 @@ title: Valerianaceae
 
 ## Introduction
 
-[Charles D. Bell](http://www.tolweb.org/) 
+[Charles D. Bell]() 
 
 Originally described by Linnaeus (1753); Linnaeus (1754), Valerianaceae
 is traditionally subdivided into three tribes (Graebner, 1906); 1)

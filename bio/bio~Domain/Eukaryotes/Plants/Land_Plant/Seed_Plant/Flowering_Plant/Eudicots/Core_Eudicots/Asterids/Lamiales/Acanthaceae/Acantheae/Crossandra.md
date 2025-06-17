@@ -52,7 +52,7 @@ title: Crossandra
 
 ## Introduction
 
-[Lucinda A. McDade and Carrie Kiel](http://www.tolweb.org/) 
+[Lucinda A. McDade and Carrie Kiel]() 
 
 *Crossandra* is a genus of 52 species that occur in Africa, Madagascar,
 Arabia and the Indian subcontinent. A number of species of this genus,
