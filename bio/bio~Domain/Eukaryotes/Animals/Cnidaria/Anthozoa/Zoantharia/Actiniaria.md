@@ -25,8 +25,8 @@ title: Actiniaria
 
 ## Sea Anemones 
 
-![ ](gonactiniidaesm_002.jpg)
-![ ](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/edwardsiidaesm_002.jpg)
+![ ](Actiniaria/gonactiniidaesm.jpg)
+![ ](Actiniaria/edwardsiidaesm.jpg)
 ![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/diadumenidaesm.jpg)
 
 -   *[Protantheae](Protantheae.md "go to ToL page")*
@@ -97,7 +97,7 @@ From left to right:
   --------
   Copyright ::   © 2000 Robin Harvey
   --------
-![](edwardsiidaesm.jpg)
+![](Actiniaria/edwardsiidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

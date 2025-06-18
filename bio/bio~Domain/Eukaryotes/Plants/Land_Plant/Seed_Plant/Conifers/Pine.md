@@ -10,7 +10,7 @@ aliases:
 Pine trees and relatives 
 
 
-![ ](Pine/Tsuga_heterophylla1171008.jpg)  ![](Pine/Pinus_ponderosa1207094_002.jpg)  ![](Pine/Abies_concolor1210012_002.jpg) 
+![ ](Pine/Tsuga_heterophylla1171008.jpg)  ![](Pine/Pinus_ponderosa1207094.jpg)  ![](Pine/Abies_concolor1210012.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -57,7 +57,7 @@ Copyright ::            © Chris Schnepf, University of Idaho
 
 
 -----------------------------
-![](Pine/Pinus_ponderosa1207094_002.jpg) 
+![](Pine/Pinus_ponderosa1207094.jpg) 
 Scientific Name ::     Pinus ponderosa
 Location ::           South Platte Ranger District, Colorado, USA
 Comments             ponderosa pine trees covered with rime (an icy or frosty coating on foliage)
@@ -68,7 +68,7 @@ Copyright ::            © Dave Powell, USDA Forest Service
 
 
 ------------------------
-![](Pine/Abies_concolor1210012_002.jpg) 
+![](Pine/Abies_concolor1210012.jpg) 
 Scientific Name ::     Abies concolor
 Comments             white fir, old tree showing characteristic mature-tree form
 Acknowledgements     Photograph courtesy InsectImages.org (#1210012)

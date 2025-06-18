@@ -12,7 +12,7 @@ aliases:
 
 Seed Plants 
 
-![Cycas circinalis](Seed_Plant/Cycas_circinalis.jpg)  ![Stachys monnieri](Seed_Plant/Stachys_monnieri_002.jpg)  ![Gnetum gnemon cultivated at the Botanical Garden Basel, Switzerland](Seed_Plant/Gnetum_gnemon_002.jpg) 
+![Cycas circinalis](Seed_Plant/Cycas_circinalis.jpg)  ![Stachys monnieri](Seed_Plant/Stachys_monnieri.jpg)  ![Gnetum gnemon cultivated at the Botanical Garden Basel, Switzerland](Seed_Plant/Gnetum_gnemon.jpg) 
 
 
 ## #has_/text_of_/abstract 
@@ -69,14 +69,14 @@ Copyright ::            © University of Basel, Basel, Switzerland
 
 
 ---------------------------------------------------------------------
-![Stachys monnieri](Seed_Plant/Stachys_monnieri_002.jpg) 
+![Stachys monnieri](Seed_Plant/Stachys_monnieri.jpg) 
 Scientific Name ::  Stachys monnieri 
 Comments          Eudicots, Lamiaceae
 Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ----------------------------------------------------------------------
-![Gnetum gnemon cultivated at the Botanical Garden Basel, Switzerland](Seed_Plant/Gnetum_gnemon_002.jpg) 
+![Gnetum gnemon cultivated at the Botanical Garden Basel, Switzerland](Seed_Plant/Gnetum_gnemon.jpg) 
 Scientific Name ::     Gnetum gnemon 
 Location ::           cultivated at the Botanical Garden Basel, Switzerland
 Acknowledgements     courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)

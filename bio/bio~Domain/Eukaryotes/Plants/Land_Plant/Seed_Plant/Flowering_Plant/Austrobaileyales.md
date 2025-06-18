@@ -7,7 +7,7 @@ aliases:
 # [[Austrobaileyales]] 
 
 ![](Austrobaileyales/Illicium_floridanum439.jpg)
-![](Austrobaileyales/Schisandra_glabra1241322_002.jpg)
+![](Austrobaileyales/Schisandra_glabra1241322.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -64,7 +64,7 @@ Creator            Image by Sydenham S. Edwards
 Acknowledgements   Courtesy [National Agricultural Library, ARS, USDA](http://www.nal.usda.gov/curtis/index.shtml)
 
 ------------------------------
-![](Austrobaileyales/Schisandra_glabra1241322_002.jpg)
+![](Austrobaileyales/Schisandra_glabra1241322.jpg)
 Scientific Name ::     Schisandra glabra
 Location ::           West Feliciana Parish, Louisiana
 Comments             bay starvine

@@ -37,11 +37,11 @@ title: Blechum clade
 
 [Erin Tripp](http://www.tolweb.org/)
 
-![ ](Blechum/Blechum_pyramidatum_T_87A84-1_002.jpg)
+![ ](Blechum/Blechum_pyramidatum_T_87A84-1.jpg)
 ![](Blechum/blechum.jpg)
-![ ](Blechum/leavesflowers_002.jpg)
+![ ](Blechum/leavesflowers.jpg)
 ![](Blechum/R_maya_et157.jpg)
-![ ](Blechum/picture927_002.jpg)
+![ ](Blechum/picture927.jpg)
 
 -   *Ruellia blechum*[ L. ] [(= Blechum pyramidatum (Lam.)
     Urb.)]

@@ -37,7 +37,7 @@ title: Haloclavidae
 
 # Haloclavidae 
 
-![ ](haloclavidae_002.jpg)
+![ ](Haloclavidae/haloclavidae.jpg)
 
 -   *[Haloclava](Haloclava)*
 -   *[Anemonactis](Anemonactis)*

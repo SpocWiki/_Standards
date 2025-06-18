@@ -24,7 +24,7 @@ title: Apusomonas
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](Apusomonas/papusprobs_002.jpg)
+![ ](Apusomonas/papusprobs.jpg)
 
 -   *[Apusomonas     proboscidea](Apusomonas_proboscidea)*
 -   *[Apusomonas     australiensis](Apusomonas_australiensis)*

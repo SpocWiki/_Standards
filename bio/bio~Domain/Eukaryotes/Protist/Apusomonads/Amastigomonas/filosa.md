@@ -24,7 +24,7 @@ title: Amastigomonas filosa
 [David J. Patterson](http://www.tolweb.org/)
 
 ![ ](filosa/famastigof.jpg)
-![ ](filosa/pamastigof_002.jpg)
+![ ](filosa/pamastigof.jpg)
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 

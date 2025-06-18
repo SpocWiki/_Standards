@@ -35,7 +35,7 @@ title: Acontiaria
 
 # Acontiaria 
 
-![ ](sagartiidaesm_002.jpg)
+![ ](Acontiaria/sagartiidaesm.jpg)
 ![ ](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Acontiaria/diadumenidaesm.jpg)
 
 -   *[Acontiophoridae](Acontiophoridae)*

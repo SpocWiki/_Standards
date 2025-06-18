@@ -27,8 +27,8 @@ title: Dendrophylliidae
 
 [Stephen D. Cairns]()
 
-![ ](Turbinaria_002.jpg)
-![ ](Tubastraea_micrantha_w_002.jpg)
+![ ](Dendrophylliina/Turbinaria.jpg)
+![ ](Dendrophylliina/Tubastraea_micrantha_w.jpg)
 
 Classification after Cairns (2001). Those genera marked with a cross
 († ) are known only from the

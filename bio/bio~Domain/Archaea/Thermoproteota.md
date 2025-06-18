@@ -8,7 +8,7 @@ aliases:
 # [[Thermoproteota]] 
 
 
-![ ](Thermoproteota/pyrodictium_002.jpg) ![ ](Thermoproteota/pyrolobus_002.jpg) ![](Thermoproteota/pyrobaculum_002.jpg) 
+![ ](Thermoproteota/pyrodictium.jpg) ![ ](Thermoproteota/pyrolobus.jpg) ![](Thermoproteota/pyrobaculum.jpg) 
 
 ## Phylogeny 
 
@@ -214,20 +214,20 @@ do reveal considerably greater phylogenetic breadth than was previously known fo
 ## Title Illustrations
 
   ---------------------------------------
-![](Thermoproteota/pyrodictium_002.jpg)
+![](Thermoproteota/pyrodictium.jpg)
 
   Scientific Name ::  Pyrodictium
   Comments          Scanning electron micrograph of Pyrodictium cells, connected by a network of protein \"fibers\" (Rieger 1995)
   Copyright ::         © 1997 R. Rachel
 
 ---------------------------------------
-![](Thermoproteota/pyrolobus_002.jpg)
+![](Thermoproteota/pyrolobus.jpg)
   Scientific Name ::  Pyrolobus
   Comments          Pyrolobus, the organism with the highest known growth temperature (113°C). Transmission electron micrograph of freeze-etched cells (Bloechl 1997).
   Copyright ::         © 1997 R. Rachel
 
 --------------------------------------------------
-![](Thermoproteota/pyrobaculum_002.jpg)
+![](Thermoproteota/pyrobaculum.jpg)
   Scientific Name ::  Pyrobaculum
   Comments          Pyrobaculum, a rod-shaped organism with flagella. Transmission electron micrograph of a cell, shodowed with platinum (Voelkl 1993).
   Copyright ::         © 1997 R. Rachel

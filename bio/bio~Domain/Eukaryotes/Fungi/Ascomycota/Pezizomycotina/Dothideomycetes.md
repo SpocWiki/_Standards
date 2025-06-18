@@ -27,8 +27,8 @@ title: Dothideomycetes
 
 [Conrad Schoch]()
 
-![ ](hysteropatellaprostiihb7715b-2crehydr_002.jpg)
-![](cucurbitarialaburni30_002.jpg)
+![ ](Dothideomycetes/hysteropatellaprostiihb7715b-2crehydr.jpg)
+![](Dothideomycetes/cucurbitarialaburni30.jpg)
 ![ ](21.jpg)
 
 Dothideomycete tree is based on DNA sequences from the large and small

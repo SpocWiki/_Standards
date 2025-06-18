@@ -22,8 +22,8 @@ title: Anthozoa
 
 [Daphne G. Fautin and Sandra L. Romano]()
 
-![ ](img0077_002.jpg)
-![ ](octocorallia_002.jpg)
+![ ](Anthozoa/img0077.jpg)
+![ ](Anthozoa/octocorallia.jpg)
 
 -   *Alcyonaria* [(soft corals, sea pens)]
 -   *[Zoantharia](Zoantharia.md "go to ToL page")* [(sea

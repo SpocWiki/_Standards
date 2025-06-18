@@ -14,7 +14,7 @@ aliases:
 
 ## Douglas-fir 
 
-![Pseudotsuga_Hidalgo](Pseudotsuga/PseudotsugaHidalgo_002.jpg)
+![Pseudotsuga_Hidalgo](Pseudotsuga/PseudotsugaHidalgo.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -94,7 +94,7 @@ et al. 1990 using DNA restriction fragments and by Gernandt and Liston
 
 
 -------------------------------------------------------------------------------------------
-![Pseudotsuga_Hidalgo](Pseudotsuga/PseudotsugaHidalgo_002.jpg)
+![Pseudotsuga_Hidalgo](Pseudotsuga/PseudotsugaHidalgo.jpg)
 Scientific Name ::     Pseudotsuga menziesii var. glauca
 Location ::           El Chico, Hidalgo
 Specimen Condition   Live Specimen

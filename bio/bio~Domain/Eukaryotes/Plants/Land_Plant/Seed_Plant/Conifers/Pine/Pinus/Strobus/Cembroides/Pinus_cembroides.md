@@ -4,7 +4,7 @@ title: Pinus cembroides
 
 # [[Pinus_cembroides]] 
 
-![ ](Pinus_cembroides/orizabensiscone_002.jpg)
+![ ](Pinus_cembroides/orizabensiscone.jpg)
 
 
 ## Phylogeny 
@@ -30,7 +30,7 @@ title: Pinus cembroides
 
 
 -------------------------------------------------------------------------------------------
-![Pinus cembroides subspecies orizabensis](Pinus_cembroides/orizabensiscone_002.jpg)
+![Pinus cembroides subspecies orizabensis](Pinus_cembroides/orizabensiscone.jpg)
 Scientific Name ::     Pinus cembroides subspecies orizabensis
 Location ::           Puebla-Veracruz border, Mexico
 Specimen Condition   Live Specimen

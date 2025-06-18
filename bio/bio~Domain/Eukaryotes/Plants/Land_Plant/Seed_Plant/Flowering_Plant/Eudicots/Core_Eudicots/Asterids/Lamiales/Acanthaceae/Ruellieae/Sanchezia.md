@@ -5,7 +5,7 @@ title: Sanchezia
 # [[Sanchezia]] 
 
 ![ ](Sanchezia/sancheziaweb.jpg)
-![ ](Sanchezia/sanchezia_002.jpg)  ![](Sanchezia/sanchezia_003.jpg)  ![ ](Sanchezia/san_003.jpg)  ![ ](Sanchezia/san_002.jpg)
+![ ](Sanchezia/sanchezia.jpg)  ![](Sanchezia/sanchezia_003.jpg)  ![ ](Sanchezia/san_003.jpg)  ![ ](Sanchezia/san.jpg)
 
 ## #has_/text_of_/abstract 
 

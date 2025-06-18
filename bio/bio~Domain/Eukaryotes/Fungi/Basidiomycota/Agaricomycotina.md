@@ -26,7 +26,7 @@ title: Agaricomycotina
 
 ![Calocera viscosa](Calocera_viscosa.jpg)
 ![](Filobasidiella_neoformans.jpg)
-![Gomphus](Gomphus_002.jpg)
+![Gomphus](Agaricomycotina/Gomphus.jpg)
 
 This tree represents a consensus among several phylogenetic analyses of
 ribosomal RNA (rRNA) gene sequences (Fell et al. 2001, Hibbett and

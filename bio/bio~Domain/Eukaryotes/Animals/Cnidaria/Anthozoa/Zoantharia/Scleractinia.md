@@ -28,7 +28,7 @@ title: Scleractinia
 
 [Sandra L. Romano and Stephen D. Cairns]()
 
-![ ](Tubastraea_micrantha_002.jpg)
+![ ](Scleractinia/Tubastraea_micrantha.jpg)
 †
 -   *Pachythecalina* †
 -   *Archaeocoeniina*

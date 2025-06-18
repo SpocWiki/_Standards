@@ -23,7 +23,7 @@ title: Amastigomonas terricola
 
 [David J. Patterson](http://www.tolweb.org/)
 
-![ ](terricola/famastigot_002.jpg)
+![ ](terricola/famastigot.jpg)
 
 Containing group: *[Amastigomonas](../Amastigomonas.md)*
 

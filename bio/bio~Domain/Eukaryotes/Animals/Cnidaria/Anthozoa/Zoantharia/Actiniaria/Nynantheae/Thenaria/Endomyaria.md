@@ -35,7 +35,7 @@ title: Endomyaria
 # Endomyaria 
 
 ![ ](thalassianthidae.jpg)
-![ ](actiniidaesm_002.jpg)
+![ ](Endomyaria/actiniidaesm.jpg)
 
 -   *[Aliciidae](Aliciidae)*
 -   *[Condylanthidae](Condylanthidae)*

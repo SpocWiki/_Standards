@@ -7,7 +7,7 @@ aliases:
 # [[Suessenguthia]] 
 
 ![ ](Suessenguthia/5592.jpg)
-![ ](Suessenguthia/5591_002.jpg)
+![ ](Suessenguthia/5591.jpg)
 
 ## #has_/text_of_/abstract 
 

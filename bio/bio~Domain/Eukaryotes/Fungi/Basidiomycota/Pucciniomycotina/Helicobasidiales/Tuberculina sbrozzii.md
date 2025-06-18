@@ -23,9 +23,9 @@ title: Tuberculina sbrozzii
 
 # *Tuberculina sbrozzii* [Cavara & Sacc.] 
 
-![ ](Tsb1718_002.jpg)
+![ ](Tuberculina_sbrozzii/Tsb1718.jpg)
 ![ ](ts1.jpg)
-![ ](Ts2_002.jpg)
+![ ](Tuberculina_sbrozzii/Ts2.jpg)
 
 Containing group: [Helicobasidiales](Helicobasidiales.md)
 

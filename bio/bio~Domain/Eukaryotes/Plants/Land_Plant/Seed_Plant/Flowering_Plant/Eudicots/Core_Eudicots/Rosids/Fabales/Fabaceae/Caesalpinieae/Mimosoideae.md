@@ -6,7 +6,7 @@ title: Mimosoideae
 
 ![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg) 
 ![Acacia tortilis](Mimosoideae/Acacia_tortilis.jpg) 
-![ ](Mimosoideae/67_002.jpg)
+![ ](Mimosoideae/67.jpg)
 
 ## #has_/text_of_/abstract 
 

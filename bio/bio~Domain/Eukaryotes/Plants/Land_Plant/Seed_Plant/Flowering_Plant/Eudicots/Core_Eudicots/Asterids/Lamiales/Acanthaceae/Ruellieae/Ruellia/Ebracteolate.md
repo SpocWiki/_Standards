@@ -4,9 +4,9 @@ title: Ebracteolate clade
 
 # [[Ebracteolate]]  
 
-![ ](Ebracteolate/dscn0140_002.jpg)
-![ ](Ebracteolate/picture259_002.jpg)
-![](Ebracteolate/dscn0057_002.jpg)
+![ ](Ebracteolate/dscn0140.jpg)
+![ ](Ebracteolate/picture259.jpg)
+![](Ebracteolate/dscn0057.jpg)
 
 
 ## #has_/text_of_/abstract 

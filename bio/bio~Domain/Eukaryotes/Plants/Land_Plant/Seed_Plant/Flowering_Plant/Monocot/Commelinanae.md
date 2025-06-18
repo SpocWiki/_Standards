@@ -5,7 +5,7 @@ aliases:
 ---
 # [[Commelinanae]] 
 
-![Pontederia](Commelinanae/Pontederia1.jpg)  ![](Commelinanae/Grass1_002.jpg)  ![](Commelinanae/Tillandsia1.jpg) 
+![Pontederia](Commelinanae/Pontederia1.jpg)  ![](Commelinanae/Grass.jpg)  ![](Commelinanae/Tillandsia1.jpg) 
 Images © 1997 [William J. Hahn](mailto:wjh22@georgetown.edu) 
 
 ## #has_/text_of_/abstract 

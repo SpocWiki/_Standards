@@ -9,7 +9,7 @@ aliases:
 
 # [[Buxaceae]]  
 
-![ ](Buxaceae/Buxussempervirens-2_002.jpg)
+![ ](Buxaceae/Buxussempervirens-2.jpg)
 ![](Buxaceae/153530768_e421e0f9b5_b.jpg)
 
 ## #has_/text_of_/abstract 

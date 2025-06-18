@@ -115,7 +115,7 @@ Specimen Condition   Live Specimen
 Identified By        L. A. McDade
 Copyright ::            © 2006 Mark Skinner
 
-![Blepharis](Acantheae/Blepharis/blepharis1_002.jpg) 
+![Blepharis](Acantheae/Blepharis/blepharis1.jpg) 
 ---------------------------------------------------------------------------
 Scientific Name ::     Blepharis Juss.
 Location ::           Davenham, South Africa

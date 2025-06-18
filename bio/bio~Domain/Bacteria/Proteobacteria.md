@@ -7,7 +7,7 @@ aliases:
 
 # [[Proteobacteria]] 
 
-![electron micrograph of an Escherichia coli cluster](Proteobacteria/Escherichia_coli1355024_002.jpg)
+![electron micrograph of an Escherichia coli cluster](Proteobacteria/Escherichia_coli1355024.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -64,7 +64,7 @@ aliases:
 ## Title Illustrations
 
 ----------------------------------------------
-![electron micrograph of an Escherichia coli cluster](Proteobacteria/Escherichia_coli1355024_002.jpg)
+![electron micrograph of an Escherichia coli cluster](Proteobacteria/Escherichia_coli1355024.jpg)
   Scientific Name ::     Escherichia coli
   Comments             Colorized low-temperature electron micrograph of a cluster bacteria. Individual bacteria in this photo are oblong and colored brown.
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1355024), Colorization by Christopher Pooley

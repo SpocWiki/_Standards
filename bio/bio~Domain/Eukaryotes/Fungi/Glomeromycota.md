@@ -24,9 +24,9 @@ title: Glomeromycota
 
 [Dirk Redecker]()
 
-![ ](s328_small_002.jpg)
-![ ](arbuscule_002.jpg)
-![](lclr_myc_002.jpg)
+![ ](Glomeromycota/s328_small.jpg)
+![ ](Glomeromycota/arbuscule.jpg)
+![](Glomeromycota/lclr_myc.jpg)
 
 Phylogenetic tree based on analyses of ribosomal small subunit
 sequences. *Glomus* subgroups as defined by Schwarzott et al. (2001)

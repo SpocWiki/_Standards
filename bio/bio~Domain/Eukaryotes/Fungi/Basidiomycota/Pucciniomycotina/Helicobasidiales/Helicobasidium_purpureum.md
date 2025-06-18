@@ -25,7 +25,7 @@ title: Helicobasidium purpureum
 
 ## syn.: Helicobasidium brebissonii [(Desm.) Donk] 
 
-![ ](hp_002.jpg)
+![ ](Helicobasidium_purpureum/hp.jpg)
 ![ ](frz.jpg)
 ![ ](sc.jpg)
 

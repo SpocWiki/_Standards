@@ -19,7 +19,7 @@ title: Double-stranded DNA Viruses
 
 # Double-stranded DNA Viruses 
 
-![ ](Double-stranded_DNA_Virus/PHIL_3274_lores_002.jpg) ![ ](Double-stranded_DNA_Virus/PHIL_1877_lores_002.jpg) 
+![ ](Double-stranded_DNA_Virus/PHIL_3274_lores.jpg) ![ ](Double-stranded_DNA_Virus/PHIL_1877_lores.jpg) 
 Containing group: [Virus](../Virus.md)
 
 ## #has_/text_of_/abstract 
@@ -39,7 +39,7 @@ Containing group: [Virus](../Virus.md)
 
   ------------------------------------------------------------------------------------------------
 
-![](Double-stranded_DNA_Virus/PHIL_3274_lores_002.jpg)
+![](Double-stranded_DNA_Virus/PHIL_3274_lores.jpg)
 
   Scientific Name ::     Orthopoxvirus
   Comments             This photograph reveals smallpox virus pocks on the chorioallantoic membrane of a developing embryonic chick. Poxviruses are very easy to isolate, and will grow in a variety of cell cultures, producing characteristic hemorrhagic pocks on the embryonic chicken chorioallantoic membrane (CAM).
@@ -48,7 +48,7 @@ Containing group: [Virus](../Virus.md)
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
   
   ------------------------------------------------------------------------------------------------
-![](Double-stranded_DNA_Virus/PHIL_1877_lores_002.jpg)
+![](Double-stranded_DNA_Virus/PHIL_1877_lores.jpg)
 
   Scientific Name ::     Orthopoxvirus
   Comments             Electron micrograph of a Vaccinia Virus. Vaccinia virus is normally confined to cattle, but is conveyed to humans through vaccination, thereby, imparting immunity to the smallpox virus.
