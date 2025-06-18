@@ -56,7 +56,7 @@ London.
 
 ## Title Illustrations
 
-![](fancyrosig_002.gif)
+![](fancyrosig.gif)
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas sigmoides

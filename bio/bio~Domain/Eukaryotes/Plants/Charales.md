@@ -96,7 +96,7 @@ part of a revision of the Characeae. Verlag von J. Cramer, Weinheim.
 ## Title Illustrations
 
 
-![](chara_002.gif)
+![](chara.gif)
 
   ---------
   Copyright ::   © 1996 R. M. McCourt

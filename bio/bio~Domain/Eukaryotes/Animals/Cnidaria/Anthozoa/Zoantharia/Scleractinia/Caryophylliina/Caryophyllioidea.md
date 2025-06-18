@@ -36,7 +36,7 @@ title: Caryophyllioidea
 -   *Stenocyathidae*
 
 Classification from Wells (1956), as modified by Stolarski (1996). The
-family marked with a cross (![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea/extinct_002.gif){height="9" width="7"}
+family marked with a cross (![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Caryophyllioidea/extinct.gif){height="9" width="7"}
 ) occurs only in the fossil record, whereas the other 3 families contain
 both fossil and Recent taxa.
 

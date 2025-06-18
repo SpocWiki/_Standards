@@ -76,7 +76,7 @@ European Journal of Protistology 32:423-448.
 
 ## Title Illustrations
 
-![](fancyromel_002.gif)
+![](fancyromel.gif)
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Ancyromonas melba

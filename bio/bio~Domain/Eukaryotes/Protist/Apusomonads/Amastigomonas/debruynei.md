@@ -87,7 +87,7 @@ Natural History 34: 483-562.
 
 ## Title Illustrations
 
-![](famastigod_002.gif)
+![](famastigod.gif)
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas debruynei

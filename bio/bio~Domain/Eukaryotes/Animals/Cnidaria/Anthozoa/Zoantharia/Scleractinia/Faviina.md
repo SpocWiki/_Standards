@@ -30,7 +30,7 @@ title: Faviina
 -   *Stylopyllioidea* †
 
 Classification after Wells (1956). Family marked with a cross
-(![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina/extinct_002.gif){height="9" width="7"} ) is exclusively fossil.
+(![](Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina/extinct.gif){height="9" width="7"} ) is exclusively fossil.
 
 Containing group: [Scleractinia](Scleractinia.md)
 

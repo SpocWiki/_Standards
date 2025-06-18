@@ -127,7 +127,7 @@ The \"eocyte tree\":
   Specimen Condition   Live Specimen
   Copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
   ---------------------------------------------------------------------------
-![Fischerella ](fischerella_002.gif)
+![Fischerella ](fischerella.gif)
 
   ----------------------------------------------------------------------
   Scientific Name ::  Fischerella (Eubacteria, Cyanobacteria)

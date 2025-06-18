@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21989
 has_id_wikidata: Q1102
@@ -61,7 +61,6 @@ time_of_discovery_or_invention: "1941"
 [Group::[[Actinide-Group]]]
 
 
-
 [Name-en::Plutonium]
 [Name-de::Plutonium]
 (Abbr::Pu)
@@ -116,9 +115,36 @@ time_of_discovery_or_invention: "1941"
 > 
 > Plutonium-240 has a high rate of spontaneous fission, raising the neutron flux of any sample containing it. The presence of plutonium-240 limits a plutonium sample's usability for weapons or its quality as reactor fuel, and the percentage of plutonium-240 determines its grade (weapons-grade, fuel-grade, or reactor-grade). Plutonium-238 has a half-life of 87.7 years and emits alpha particles. It is a heat source in radioisotope thermoelectric generators, which are used to power some spacecraft. Plutonium isotopes are expensive and inconvenient to separate, so particular isotopes are usually manufactured in specialized reactors.
 >
-> Producing plutonium in useful quantities for the first time was a major part of the Manhattan Project during World War II that developed the first atomic bombs. The Fat Man bombs used in the Trinity nuclear test in July 1945, and in the bombing of Nagasaki in August 1945, had plutonium cores. Human radiation experiments studying plutonium were conducted without informed consent, and several criticality accidents, some lethal, occurred after the war. Disposal of plutonium waste from nuclear power plants and dismantled nuclear weapons built during the Cold War is a nuclear-proliferation and environmental concern. Other sources of plutonium in the environment are fallout from many above-ground nuclear tests, which are now banned.
+> Producing plutonium in useful quantities for the first time was
+>  a major part of the Manhattan Project during World War II 
+>  that developed the first atomic bombs. 
+>  
+>  The Fat Man bombs used in the Trinity nuclear test in July 1945, 
+>  and in the bombing of Nagasaki in August 1945, had plutonium cores. 
+>  
+>  Human radiation experiments studying plutonium 
+>  were conducted without informed consent, and several criticality accidents, 
+>  some lethal, occurred after the war. 
+>  
+>  Disposal of plutonium waste from nuclear power plants 
+>  and dismantled nuclear weapons built during the Cold War 
+>  is a nuclear-proliferation and environmental concern. 
+>  
+>  Other sources of plutonium in the environment 
+>  are fallout from many above-ground nuclear tests, which are now banned.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutonium)
+
+
+| Purity/% | Application      |
+| -------: | ---------------- |
+|        3 | civil Reactor    |
+|       12 | Medical Research |
+|       60 | Atom-U-Boot      |
+|       90 | Atom Bomb        |
+
+
+
 
 ## Confidential Links & Embeds: 
 
