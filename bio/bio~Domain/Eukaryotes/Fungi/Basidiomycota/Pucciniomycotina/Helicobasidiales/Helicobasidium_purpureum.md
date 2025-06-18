@@ -44,7 +44,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](frz_002.jpg)
+![](frz.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia sessilis W. G. Schneider in J. Schröt./Arum maculatum L.
@@ -55,7 +55,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](sc_002.jpg)
+![](sc.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Puccinia coronata Corda/Rhamnus cathartica L.

@@ -87,7 +87,7 @@ Photographs copyright © 2000, Ron Ates.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](haloclavidaesm_002.jpg)
+![](haloclavidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

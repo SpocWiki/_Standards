@@ -29,7 +29,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Title Illustrations
 
-![](hm_002.jpg)
+![](hm.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium mompa Tanaka on the roots of Picea abies (L.) Karst.

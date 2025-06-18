@@ -68,7 +68,7 @@ Iconclass_notation: 25G54
 
 Eumycota: mushrooms, sac fungi, yeast, molds, rusts, smuts, etc. 
 
-![Chytridium](Fungi/Chytridium.gif) ![Pilobolus crystallinus](Fungi/Pilobolus_crystallinus.gif) ![Laetiporus sulphureus](Fungi/Laetiporus_sulphureus.gif) ![](s_002.gif) 
+![Chytridium](Fungi/Chytridium.gif) ![Pilobolus crystallinus](Fungi/Pilobolus_crystallinus.gif) ![Laetiporus sulphureus](Fungi/Laetiporus_sulphureus.gif) ![](Fungi/s.gif) 
 
 #is_/same_as :: [[../../../WikiData/WD~Fungus,764]] 
 

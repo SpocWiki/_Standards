@@ -63,7 +63,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
 
 ## Title Illustrations
 
-![](HpMLutz_002.jpg)
+![](HpMLutz.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
@@ -75,7 +75,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Collector            M. Lutz
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](rr_002.jpg)
+![](rr.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
@@ -87,7 +87,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Collection           2000
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](tpp_002.jpg)
+![](tpp.jpg)
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Tranzschelia pruni-spinosae (Pers.) Dietel/Anemone ranunculoides L.

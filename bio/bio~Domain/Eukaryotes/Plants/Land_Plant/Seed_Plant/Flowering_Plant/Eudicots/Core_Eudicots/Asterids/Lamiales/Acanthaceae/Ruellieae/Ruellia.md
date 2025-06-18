@@ -149,7 +149,7 @@ Identified By        Erin A. Tripp & Tom Daniel
 Collector            Tripp, Acosta, & Blanco
 Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
-![](Ruellia_bourgaei1_002.jpg)
+![](Ruellia_bourgaei1.jpg)
 ------------------------
 Scientific Name ::     Ruellia bourgaei Hemsl.
 Location ::           Ixtlahuacán del Río, Jalisco, Mexico

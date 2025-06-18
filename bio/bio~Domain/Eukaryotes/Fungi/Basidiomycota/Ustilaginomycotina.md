@@ -330,7 +330,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Comments          Corn galls on Zea mays induced by Ustilago maydis
   Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
   ---------------------------------------------------------------------------------
-![](exobasidium_002.jpg)
+![](exobasidium.jpg)
 
   ---------------------------------------------------------------------------------
   Scientific Name ::  Exobasidium vaccinii, Vaccinium vitis-idaea

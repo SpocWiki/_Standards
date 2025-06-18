@@ -75,7 +75,7 @@ is known about reproductive biology of the species.
 ## Title Illustrations
 
 
-![](Louteridiumcostaricense_002.jpg)
+![](Louteridiumcostaricense.jpg)
 
   ---------------------------------------
   Scientific Name ::     Louteridium costaricense Radlk. & Donn.Sm.

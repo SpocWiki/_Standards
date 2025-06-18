@@ -143,4 +143,4 @@ Left to right:
     Philippines (depth 289 m). This species represents the superfamily
     Flabelloidea. Width of corallum 45 mm. Copyright © S. D. Cairns
     2002.
-![](Deltocyathus_rotulus_002.jpg)![](Flabellum_deludens.jpg)::::::::::::::::::::::
+![](Deltocyathus_rotulus.jpg)![](Flabellum_deludens.jpg)::::::::::::::::::::::

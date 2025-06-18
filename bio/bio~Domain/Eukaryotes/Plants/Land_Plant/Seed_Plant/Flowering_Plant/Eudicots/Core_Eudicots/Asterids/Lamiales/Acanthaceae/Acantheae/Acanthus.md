@@ -4,7 +4,7 @@ title: Acanthus Clade
 
 # [[Acanthus]]
 
-![Acanthus](Acanthus/A.jpg)  ![ ](Acanthus/Acanthus_spinosus-1.jpg)  ![](Acanthus/A_002.jpg) 
+![Acanthus](Acanthus/A.jpg)  ![ ](Acanthus/Acanthus_spinosus-1.jpg)  ![](Acanthus/A.jpg) 
 	
 ## #has_/text_of_/abstract 
 

@@ -25,7 +25,7 @@ aliases:
 
 Comb Jellies 
 
-![Mnemiopsis](mnemiopsis_002.gif)
+![Mnemiopsis](Ctenophora/mnemiopsis.gif)
 
 ## #has_/text_of_/abstract 
 
@@ -59,7 +59,7 @@ Comb Jellies
 
 ## Title Illustrations
   --------------------------------------------------------------------------------
-![Mnemiopsis](mnemiopsis_002.gif)
+![Mnemiopsis](Ctenophora/mnemiopsis.gif)
 Scientific Name ::   Mnemiopsis
 Acknowledgements   Photograph from Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 

@@ -56,7 +56,7 @@ aliases:
   Copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
 
-![Mistletoe growing on the trunk of a whitebeam](Viscum_album2019_002.jpg)
+![Mistletoe growing on the trunk of a whitebeam](Viscum_album2019.jpg)
 
   ------------------------------------------------------------------------
   Scientific Name ::   Viscum album, Sorbus aria

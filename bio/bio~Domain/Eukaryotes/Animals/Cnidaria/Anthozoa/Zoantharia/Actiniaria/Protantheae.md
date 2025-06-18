@@ -67,7 +67,7 @@ volume 1, number 1.
 Protanthea simplex.\
 Oban (Scotland) taken in Lock Melfort, Scotland.\
 Copyright © 2000, Robin Harvey, S.M.B.A.
-![](gonactiniidae_002.jpg)
+![](gonactiniidae.jpg)
 
   ------------
   Copyright ::   © 2000 Robin Harvey, S.M.B.A.

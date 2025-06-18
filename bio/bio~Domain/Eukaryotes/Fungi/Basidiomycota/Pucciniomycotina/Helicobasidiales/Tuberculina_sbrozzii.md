@@ -42,7 +42,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2004
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](ts1_002.jpg)
+![](ts1.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.

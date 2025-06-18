@@ -101,7 +101,7 @@ Scientific Name ::  Polygonum bistorta
 Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------
-![](Drosera_intermedia-1241028_002.jpg)
+![](Drosera_intermedia-1241028.jpg)
 Scientific Name ::     Drosera intermedia
 Location ::           coastal Mississippi, USA
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241028)

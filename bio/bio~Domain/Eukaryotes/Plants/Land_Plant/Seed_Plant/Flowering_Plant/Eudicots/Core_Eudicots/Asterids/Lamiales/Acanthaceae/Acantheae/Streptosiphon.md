@@ -6,7 +6,7 @@ title: Streptosiphon hirsutus
 
 
 ![ ](Streptosiphon/Strepto.jpg)
-![ ](Streptosiphon/Strepto_002.jpg)
+![ ](Streptosiphon/Strepto.jpg)
 ![Streptosiphon hirsutus](Streptosiphon/Streptosiphon.jpg) 
 
 ## #has_/text_of_/abstract 

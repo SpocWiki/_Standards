@@ -110,7 +110,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   -----------------------------------------------------------------------
 
-![](blechum_002.jpg)
+![](blechum.jpg)
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
@@ -128,7 +128,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
   ---------------------------------
 
-![](R_maya_et157_002.jpg)
+![](R_maya_et157.jpg)
 
   ----------------------------------------------------------------------
   Scientific Name ::  Ruellia maya T.F. Daniel

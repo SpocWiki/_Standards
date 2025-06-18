@@ -100,7 +100,7 @@ aliases:
 ## Title Illustrations
 
 
-![California buckeye, Aesculus californica](Aesculus_californica67_002.jpg)
+![California buckeye, Aesculus californica](Aesculus_californica67.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Aesculus californica

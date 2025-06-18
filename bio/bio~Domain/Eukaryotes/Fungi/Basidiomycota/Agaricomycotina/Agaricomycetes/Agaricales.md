@@ -439,7 +439,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 
 ## Title Illustrations
 
-![](gymnopilus_spectabilis_002.jpg)
+![](gymnopilus_spectabilis.jpg)
 
   -----------------
   Scientific Name ::     Gymnopilus spectabilis
@@ -449,7 +449,7 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Source Collection    [MykoWeb](http://www.mykoweb.com/)
   Copyright ::            © [Mike Wood](http://www.mykoweb.com/)
   -----------------
-![](lycoperdon_perlatum1_002.jpg)
+![](lycoperdon_perlatum1.jpg)
 
   -------------------------------------------------------------------------
   Scientific Name ::     Lycoperdon perlatum

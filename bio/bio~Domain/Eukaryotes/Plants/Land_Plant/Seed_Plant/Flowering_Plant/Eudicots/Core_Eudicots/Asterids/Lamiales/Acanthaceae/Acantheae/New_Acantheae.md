@@ -4,7 +4,7 @@ title: Other New World Acantheae
 
 # New World Acantheae 
 
-![aphelandra](New_Acantheae/aphelandra.jpg)  ![New_Acantheae](New_Acantheae/aph.jpg)  ![geissomeria](New_Acantheae/geissomeria.jpg)  ![ ](New_Acantheae/aphelandra_002.jpg) 
+![aphelandra](New_Acantheae/aphelandra.jpg)  ![New_Acantheae](New_Acantheae/aph.jpg)  ![geissomeria](New_Acantheae/geissomeria.jpg)  ![ ](New_Acantheae/aphelandra.jpg) 
 
 ## Introduction
 

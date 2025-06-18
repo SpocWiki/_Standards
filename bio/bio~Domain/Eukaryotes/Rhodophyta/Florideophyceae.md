@@ -142,7 +142,7 @@ Location ::        collected at Monterey, California, USA
 Comments          Rhodymeniales
 Copyright ::         © 2000 J. L. Woodhead
 
-![Band of Mazaella cornucopiae](flortitle2a_002.jpg)
+![Band of Mazaella cornucopiae](flortitle2a.jpg)
 
 ---------------------------------------------------------------------------
 ![Mazaella cornucopiae](Florideophyceae/Mazaella_cornucopiae.jpg) 
@@ -151,7 +151,7 @@ Location ::        Botanical Beach, Vancouver Island, Canada
 Comments          Band of Mazaella cornucopiae (Gigartinales) growing on intertidal rocks
 Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
-![](flortitle3a_002.jpg)
+![](flortitle3a.jpg)
 
 --------------------------------
 ![Gracilaria](Florideophyceae/Gracilaria.jpg) 

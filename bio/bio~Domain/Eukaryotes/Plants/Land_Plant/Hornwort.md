@@ -9,7 +9,7 @@ aliases:
 
 Hornworts  
 
-![ ](Hornwort/hornwort_002.gif)
+![ ](Hornwort/hornwort.gif)
 
 
 ## #has_/text_of_/abstract 

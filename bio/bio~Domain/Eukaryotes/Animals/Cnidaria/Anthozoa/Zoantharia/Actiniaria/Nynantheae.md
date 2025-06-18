@@ -69,17 +69,17 @@ From left to right:
     Greece.
 
 Photographs copyright © 2000, Ron Ates.
-![](diadumenidaesm_002.jpg)
+![](diadumenidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](haloclavidaesm_002.jpg)
+![](haloclavidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](boloceroididaesm_002.jpg)
+![](boloceroididaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

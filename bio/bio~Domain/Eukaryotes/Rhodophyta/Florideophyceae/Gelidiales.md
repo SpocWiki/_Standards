@@ -171,7 +171,7 @@ press).
   Comments          5 Colones coin = 2 cm
   Copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
   ---------------------------------------------------------------------------
-![Gelidium arbuscula](grancanar_002.jpg)
+![Gelidium arbuscula](grancanar.jpg)
 
   ---------------------------------------------------------------------------
   Scientific Name ::   Gelidium arbuscula
