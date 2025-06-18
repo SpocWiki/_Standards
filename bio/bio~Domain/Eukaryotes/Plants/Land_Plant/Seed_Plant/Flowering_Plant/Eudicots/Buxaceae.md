@@ -68,7 +68,7 @@ aliases:
   Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
   ---------------------------------------------------------------------------
 
-![](153530768_e421e0f9b5_b_002.jpg)
+![](153530768_e421e0f9b5_b.jpg)
 
   --------------------------------------------------------
   Scientific Name ::     Pachysandra terminalis

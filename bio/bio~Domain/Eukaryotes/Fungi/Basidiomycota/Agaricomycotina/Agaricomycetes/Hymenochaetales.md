@@ -383,7 +383,7 @@ Biotechnology Adv. 22(1-2):161-187.
 
 ## Title Illustrations
 
-![](Aurificaria_luteoumbrina_002.jpg)
+![](Aurificaria_luteoumbrina.jpg)
 
   -------------------------------------------------------------------------
   Scientific Name ::     Aurificaria luteoumbrina (Romell) D.A. Reid

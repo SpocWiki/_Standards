@@ -25,10 +25,10 @@ title: Ascomycota
 
 [John W. Taylor, Joey Spatafora, and Mary Berbee]()
 
-![ ](t_002.gif)
+![ ](Ascomycota/t.gif)
 ![ ](Ascomycota/scarlet_cup_fungus.gif)
-![ ](Eukaryotes/Fungi/Ascomycota/m_002.gif)
-![](Eukaryotes/Fungi/Ascomycota/p_002.gif)
+![ ](Ascomycota/m.gif)
+![](Ascomycota/p.gif)
 
 Containing group: [Fungi](Eukaryotes/Fungi.md)
 
@@ -442,7 +442,7 @@ edit internet links
   Copyright ::         © 1996 K. Wells
   ---------------------
 
-![](s_002.gif)
+![](s.gif)
 
   --------------------
   Scientific Name ::  Saccharomyces
@@ -450,7 +450,7 @@ edit internet links
   Copyright ::         © 1996 K. Wells
   --------------------
 
-![](m.gif)
+![](../../../bio~Tree/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/dentata/M.gif)
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Morchella

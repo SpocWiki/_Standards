@@ -258,7 +258,7 @@ loci. 2006. Mycologia 98:1043-1054
   Body Part            Ascoma
   Copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
   ---------------------------
-![](21_002.jpg)
+![](21.jpg)
 
   ---------------------
   Scientific Name ::     Stylodothis puccinioides

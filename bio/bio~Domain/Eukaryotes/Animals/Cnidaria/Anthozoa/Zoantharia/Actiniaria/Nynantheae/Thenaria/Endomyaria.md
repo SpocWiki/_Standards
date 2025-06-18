@@ -72,7 +72,7 @@ Picture taken in the intertidal near the Bodega Marine Lab, University
 of California.
 
 Photographs copyright © 2000, Ron Ates.
-![](thalassianthidae_002.jpg)
+![](thalassianthidae.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

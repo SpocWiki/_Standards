@@ -90,7 +90,7 @@ European Journal of Protistology 27: 386-396.
   Scientific Name ::  Amastigomonas mutabilis
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   --------------------------------------------------------------------------------
-![](pamastigom_002.jpg)
+![](pamastigom.jpg)
 
   --------------------------------------------------------------------------------
   Scientific Name ::  Amastigomonas mutabilis

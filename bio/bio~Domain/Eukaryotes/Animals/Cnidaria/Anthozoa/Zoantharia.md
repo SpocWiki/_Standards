@@ -848,7 +848,7 @@ pages.
 
 ## Title Illustrations
 
-![](pseudocorynactis_002.jpg)
+![](pseudocorynactis.jpg)
 
   -------------
   Scientific Name ::  Pseudocorynactis caribbeorum

@@ -456,7 +456,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 
 ## Title Illustrations
 
-![Calocera viscosa](Calocera_viscosa_002.jpg)
+![Calocera viscosa](Calocera_viscosa.jpg)
 
   ---------------
   Scientific Name ::    Calocera viscosa
@@ -465,7 +465,7 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Source Collection   [MykoWeb](http://www.mykoweb.com/)
   Copyright ::           © Mike Wood
   ---------------
-![Filobasidiella (Cryptococcus) neoformans](Filobasidiella_neoformans_002.jpg)
+![Filobasidiella (Cryptococcus) neoformans](Filobasidiella_neoformans.jpg)
 
   ---------------------------------------
   Scientific Name ::   Filobasidiella (Cryptococcus) neoformans

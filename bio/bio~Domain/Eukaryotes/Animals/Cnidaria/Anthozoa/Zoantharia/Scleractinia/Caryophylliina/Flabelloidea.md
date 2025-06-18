@@ -106,7 +106,7 @@ of Kansas Press, Lawrence.
 
 ## Title Illustrations
 
-![](Truncatoflabellum_truncum_002.jpg)
+![](Truncatoflabellum_truncum.jpg)
 
   ----------------------------------------------------------------------------
   Scientific Name ::     Truncatoflabellum truncum

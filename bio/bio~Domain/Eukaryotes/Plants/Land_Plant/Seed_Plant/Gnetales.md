@@ -9,7 +9,7 @@ aliases:
 
 # Gnetales 
 
-![welwitschia](Gnetales/welwitschia.gif)  ![Gnetum](Gnetales/gnetum_002.gif) ![Ephedra,Gnetales](Gnetales/Ephedra,Gnetales.gif)  ![](Gnetales/Ephedra/ephedra.gif)   
+![welwitschia](Gnetales/welwitschia.gif)  ![Gnetum](Gnetales/gnetum.gif) ![Ephedra,Gnetales](Gnetales/Ephedra,Gnetales.gif)  ![](Gnetales/Ephedra/ephedra.gif)   
 © 1996 [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
 
 

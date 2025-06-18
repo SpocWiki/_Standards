@@ -427,7 +427,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 
   Copyright ::                           © APS Press
   -----------------------------
-![Teliospores of Tilletia controversa, the dwarf bunt fungus](Tilletia_controversa_002.jpg)
+![Teliospores of Tilletia controversa, the dwarf bunt fungus](Tilletia_controversa.jpg)
 
   -----------------------------------------
   Scientific Name ::   Tilletia controversa
@@ -436,7 +436,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   Life Cycle Stage ::   teliospores
   Copyright ::          © APS Press
   -----------------------------------------
-![Fruiting structures of the mushroom Amanita rubrovaginata](Amanita_rubrovaginata_002.jpg)
+![Fruiting structures of the mushroom Amanita rubrovaginata](Amanita_rubrovaginata.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Amanita rubrovaginata

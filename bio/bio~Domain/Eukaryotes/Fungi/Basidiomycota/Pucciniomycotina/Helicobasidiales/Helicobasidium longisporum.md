@@ -33,7 +33,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Title Illustrations
 
-![](rr_002.jpg)
+![](rr.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
@@ -45,7 +45,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2000
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](Hlstgt_002.jpg)
+![](Hlstgt.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.

@@ -31,7 +31,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Title Illustrations
 
-![](tm837_002.jpg)
+![](tm837.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -43,7 +43,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collector            M. Lutz
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](tmstgt_002.jpg)
+![](tmstgt.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
@@ -55,7 +55,7 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collector            M. Lutz
   Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
-![](tmDAVFP_002.jpg)
+![](tmDAVFP.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Tuberculina maxima Rostr. on Cronartium ribicola J. C. Fisch./Pinus albicaulis Engelm.

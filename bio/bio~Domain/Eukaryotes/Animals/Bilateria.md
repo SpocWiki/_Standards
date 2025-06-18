@@ -168,7 +168,7 @@ evidence is championed by Nielsen (2001):
   Copyright ::            © 1995 D. Brent Burt
   ------------
 
-![A planarian flatworm, Bipalium](1792planarian_002.jpg)
+![A planarian flatworm, Bipalium](1792planarian.jpg)
 
   ----------------------------------------------------------------------------
   Scientific Name ::  Bipalium
@@ -177,7 +177,7 @@ evidence is championed by Nielsen (2001):
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
   ----------------------------------------------------------------------------
 
-![Argiope spider](1793argiope_002.jpg)
+![Argiope spider](1793argiope.jpg)
 
   ----------------------------------------------------------------------------
   Scientific Name ::  Argiope
@@ -186,7 +186,7 @@ evidence is championed by Nielsen (2001):
   Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
   ----------------------------------------------------------------------------
 
-![Flamingo tongue snail, Cyphoma gibbosum](1414flamingotongue_002.jpg)
+![Flamingo tongue snail, Cyphoma gibbosum](1414flamingotongue.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::  Cyphoma gibbosum

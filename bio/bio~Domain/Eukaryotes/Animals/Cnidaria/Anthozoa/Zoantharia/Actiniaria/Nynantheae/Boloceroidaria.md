@@ -51,7 +51,7 @@ volume 1, number 1.
 Bunodeopsis strumosa.\
 Greece.\
 Photo copyright © 2000, Ron Ates.
-![](boloceroididae_002.jpg)
+![](boloceroididae.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

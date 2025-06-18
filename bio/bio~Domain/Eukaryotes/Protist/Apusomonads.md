@@ -101,7 +101,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   Specimen Condition   Dead Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   ---------------------------------------------------------------------------------
-![](papuprob_002.jpg)
+![](papuprob.jpg)
 
   ------------
   Scientific Name ::  Apusomonas proboscidea

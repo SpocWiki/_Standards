@@ -550,14 +550,14 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
 
 ## Title Illustrations
 
-![Lepista mushrooms](Lepista_002.jpg)
+![Lepista mushrooms](Lepista.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Lepista cf. nuda
   Comments          Agaricales
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
   -----------------------------------------------------------------------------
-![Earthstar, Geastrum saccatum](earthstar200_002.jpg)
+![Earthstar, Geastrum saccatum](earthstar200.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::  Geastrum saccatum

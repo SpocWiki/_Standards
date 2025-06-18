@@ -94,7 +94,7 @@ urediniomycetous yeasts.
 
 ## Title Illustrations
 
-![](Eo-MIN864444_002.jpg)
+![](Eo-MIN864444.jpg)
 
   ------------------------
   Scientific Name ::     Eocronartium muscicola
@@ -117,7 +117,7 @@ urediniomycetous yeasts.
   Collection           MIN862012
   Copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
   ------------------------------------------------------------------------------------
-![](HpMLutz_002.jpg)
+![](HpMLutz.jpg)
 
   -----------------------------------------------------------------------------
   Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.

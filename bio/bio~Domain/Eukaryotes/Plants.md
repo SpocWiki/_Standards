@@ -11,7 +11,7 @@ aliases:
 
 # [[Plants]] 
 
-![Chlamydomonas](Plants/chlamydomonas_002.gif)  ![Spirogyra](Plants/spirogyra_002.gif)  ![Coleochaete](Plants/coleochaete.gif)  ![Hepatica](Plants/hepatican_arrow.gif) 
+![Chlamydomonas](Plants/chlamydomonas.gif)  ![Spirogyra](Plants/spirogyra.gif)  ![Coleochaete](Plants/coleochaete.gif)  ![Hepatica](Plants/hepatican_arrow.gif) 
 
 Green plants include all organisms commonly known as green algae and land plants, 
 including liverworts, mosses, ferns and other non-seed plants, and seed plants.
@@ -127,7 +127,7 @@ taxon of land plants (McCourt 1995; Melkonian and Surek, 1995).
 
 
 -----------------------------------------------------------------------------
-![Chlamydomonas](Plants/chlamydomonas_002.gif)  
+![Chlamydomonas](Plants/chlamydomonas.gif)  
 Scientific Name ::  Chlamydomonas
 Comments          Chlorophyceae
 Copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 

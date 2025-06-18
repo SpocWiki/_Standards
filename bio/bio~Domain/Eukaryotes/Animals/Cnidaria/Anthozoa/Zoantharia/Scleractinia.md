@@ -115,7 +115,7 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
   --------------------
   Copyright ::   © 1986 Gary C. Williams, California Academy of Sciences
   --------------------
-![](Euphyllia_ancora_002.jpg)
+![](Euphyllia_ancora.jpg)
 
   ------
   Copyright ::   © D. Faulkner

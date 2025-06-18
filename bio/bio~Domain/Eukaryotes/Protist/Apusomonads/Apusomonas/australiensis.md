@@ -64,14 +64,14 @@ cultivated garden soil in Australia. Archiv für Protistenkunde
 
 ## Title Illustrations
 
-![](fapusoa_002.jpg)
+![](fapusoa.jpg)
 
   ------------
   Scientific Name ::     Apusomonas australiensis
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 Flemming Ekelund
   ------------
-![](papusoaus_002.jpg)
+![](papusoaus.jpg)
 
   -----------------
   Scientific Name ::     Apusomonas australiensis

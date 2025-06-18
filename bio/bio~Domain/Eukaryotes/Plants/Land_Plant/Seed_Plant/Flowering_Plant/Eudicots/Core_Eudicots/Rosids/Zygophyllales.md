@@ -68,7 +68,7 @@ title: Zygophyllales
 ## Title Illustrations
 
 
-![South American creosote bush, Larrea tridentata](Larrea_tridentata0100_002.jpg)
+![South American creosote bush, Larrea tridentata](Larrea_tridentata0100.jpg)
 
   ------------------------------------------------------------------------------
   Scientific Name ::     Larrea tridentata
@@ -80,7 +80,7 @@ title: Zygophyllales
   Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
   ------------------------------------------------------------------------------
 
-![White rhatany](Krameria_grayi0032_002.jpg)
+![White rhatany](Krameria_grayi0032.jpg)
 
   ---------------------------------------------------------------------------------
   Scientific Name ::     Krameria grayi

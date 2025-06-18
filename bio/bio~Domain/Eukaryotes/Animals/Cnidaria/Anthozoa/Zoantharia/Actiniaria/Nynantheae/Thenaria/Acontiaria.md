@@ -77,7 +77,7 @@ Photographs copyright © 2000, Ron Ates.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
-![](diadumenidaesm_002.jpg)
+![](diadumenidaesm.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

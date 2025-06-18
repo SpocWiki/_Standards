@@ -118,7 +118,7 @@ The \"eocyte tree\":
 
 ## Title Illustrations
 
-![Meloid on a yellow composite flower](meloid_002.gif)
+![Meloid on a yellow composite flower](../bio~Tree/Arthropoda/Hexapoda/Insect/Pterygota/Neoptera/Endopterygota/Beetle/Polyphaga/meloid.gif)
 
   ---------------------------------------------------------------------------
   Scientific Name ::     Meloidae

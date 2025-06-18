@@ -57,7 +57,7 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
 
 ## Title Illustrations
 
-![](johanniscone_002.jpg)
+![](johanniscone.jpg)
 
   ------------------------------------------------------------------------------------------
   Scientific Name ::  Pinus johannis

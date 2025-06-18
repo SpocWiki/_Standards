@@ -97,7 +97,7 @@ Figure 2-4. Flagellated cells of *L. globosa*. Each has a single
 flagellum that wraps around the cell body when it swims (Arrow). Images
 copyright © 2001 K. Ishida
 
-![Chloroplast of Lotharella amoeboformis](Chlorarachniophytes/L_002.jpg)
+![Chloroplast of Lotharella amoeboformis](Chlorarachniophytes/L.jpg)
 
 Figure 5. Chloroplast (ch) of *L. amoeboformis* with a projecting
 pyrenoid (py) sheathed by a cytoplasmic storage vesicle (sv) that

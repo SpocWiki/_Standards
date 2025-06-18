@@ -83,7 +83,7 @@ Nematostella vectensis with egg masses.\
 Photo copyright © 2000, Ron Ates.\
 Permission by Prof. C. Hand to take this picture in the Bodega Marine
 Lab, University of California is gratefully acknowledged.
-![](edwardsiidae_002.jpg)
+![](edwardsiidae.jpg)
 
   -------
   Copyright ::   © 2000 Ron Ates

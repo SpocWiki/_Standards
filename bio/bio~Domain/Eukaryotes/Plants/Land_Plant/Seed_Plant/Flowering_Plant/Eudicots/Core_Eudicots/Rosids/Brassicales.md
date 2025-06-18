@@ -81,7 +81,7 @@ aliases:
 ## Title Illustrations
 
 
-![Coast wallflower, Erysimum ammophilum](Erysimum_ammophilum_002.jpg)
+![Coast wallflower, Erysimum ammophilum](Erysimum_ammophilum.jpg)
 
   -------------------------------
   Scientific Name ::     Erysimum ammophilum
@@ -92,7 +92,7 @@ aliases:
   Copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
   -------------------------------
 
-![Indian cress, Tropaeolum minus](Tropaeolum_minus05199_002.jpg)
+![Indian cress, Tropaeolum minus](Tropaeolum_minus05199.jpg)
 
   ---------------------------------------------------------------------
   Scientific Name ::  Tropaeolum minus
@@ -100,7 +100,7 @@ aliases:
   Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
   ---------------------------------------------------------------------
 
-![Papaya tree, Carica papaya](Carica_papaya2193_002.jpg)
+![Papaya tree, Carica papaya](Carica_papaya2193.jpg)
 
   ------------------------------------------------------------------------
   Scientific Name ::   Carica papaya
