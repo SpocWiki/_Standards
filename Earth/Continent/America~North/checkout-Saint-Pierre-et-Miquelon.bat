@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon" Saint-Pierre-et-Miquelon
