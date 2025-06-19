@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Asia-Papua-New_Guinea" Papua-New_Guinea
