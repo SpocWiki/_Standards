@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe" Sao_Tome_and_Principe
