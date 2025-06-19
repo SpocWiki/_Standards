@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Equatorial_Guinea" Equatorial_Guinea

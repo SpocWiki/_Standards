@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Cape_Verde" Cape_Verde
