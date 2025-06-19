@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Mozambique" Mozambique
