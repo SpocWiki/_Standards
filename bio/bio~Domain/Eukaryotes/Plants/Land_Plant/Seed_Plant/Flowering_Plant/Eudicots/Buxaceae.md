@@ -75,6 +75,6 @@ aliases:
   Specimen Condition   Live Specimen
   Source               [Pachysandra terminalis](http://flickr.com/photos/u123072/153530768/)
   Source Collection    [Flickr](http://flickr.com/)
-  ToL Image Use        [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
+  Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
   Copyright ::            © 2006 [Mark](http://flickr.com/people/u123072/)
   --------------------------------------------------------

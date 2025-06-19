@@ -47,7 +47,7 @@ Location ::           Anza-Borrego Desert State Park, California, USA
 Specimen Condition   Live Specimen
 Source               [Ocotillo, 2003-04-01B 127](http://flickr.com/photos/anitagould/9061906/)
 Source Collection    [Flickr](http://flickr.com/)
-ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
+Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
 -------------------------------------------------------------
@@ -58,6 +58,6 @@ Specimen Condition   Live Specimen
 Body Part            flower
 Source               [Ocotillo, 2003-04-01B 132](http://flickr.com/photos/anitagould/9062136/)
 Source Collection    [Flickr](http://flickr.com/)
-ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
+Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 

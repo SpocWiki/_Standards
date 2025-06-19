@@ -889,7 +889,7 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
   Comments             Saguaros, the giant columnar cacti of the Sonoran desert of northwestern Mexico and the southwestern U.S.A.
   Specimen Condition   Live Specimen
   Life Cycle Stage ::     adults
-  ToL Image Use        [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
+  Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
   Copyright ::            © 1994 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
   --------------------------------------------------------------------------
 ![Acantharea](acantb.jpg)

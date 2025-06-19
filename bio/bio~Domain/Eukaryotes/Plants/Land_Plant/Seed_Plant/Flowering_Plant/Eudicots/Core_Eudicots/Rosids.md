@@ -67,7 +67,7 @@ aliases:
 Scientific Name ::     Euphorbia coerulescens
 Location ::           Botanical Garden, Valencia, Spain
 Specimen Condition   Live Specimen
-ToL Image Use        [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
+Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
 Copyright ::            © 2005 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 -------------------------------------------------------------------------

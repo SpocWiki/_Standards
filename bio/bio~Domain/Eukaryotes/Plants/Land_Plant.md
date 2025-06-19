@@ -74,7 +74,7 @@ Location ::           Reed\'s Beach, Cape May County, New Jersey, USA
 Specimen Condition   Live Specimen
 Source               [Dog Rose, P6070047](http://www.flickr.com/photos/anitagould/18619347/)
 Source Collection    [Flickr](http://flickr.com/)
-ToL Image Use        [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
+Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2005 [Anita Gould](http://flickr.com/people/61897811@N00)
 
 ------------------------------------------------------------
@@ -84,6 +84,6 @@ Location ::           Cebu, the Philippines
 Specimen Condition   Live Specimen
 Source               [manao](http://www.flickr.com/photos/colloidfarl/47048529/)
 Source Collection    [Flickr](http://flickr.com/)
-ToL Image Use        [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
+Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
 Copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
 

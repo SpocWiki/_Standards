@@ -60,7 +60,7 @@ Specimen Condition   Live Specimen
 Body Part            fruits
 Source               [Sarcandra glabra](http://flickr.com/photos/jam343/2103091/)
 Source Collection    [Flickr](http://flickr.com/)
-ToL Image Use        [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
+Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
 Copyright ::            © 2004 [Juni A.](http://flickr.com/people/jam343/)
 
 ![Chloranthus japonicus](Chloranthus_japonicus0315.jpg)
