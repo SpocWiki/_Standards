@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Cote_d-ivoire" Cote_d'ivoire

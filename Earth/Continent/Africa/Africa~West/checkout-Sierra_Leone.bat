@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Sierra_Leone" Sierra_Leone
