@@ -1,8 +1,27 @@
 ---
 has_id_wikidata: Q36602
+instance_of:
+  - "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
+  - "[[_Standards/WikiData/WD~rank_in_botany,3100180]]"
+  - "[[_Standards/WikiData/WD~rank_in_zoology,13578154]]"
+described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+part_of:
+  - "[[_Standards/WikiData/WD~subclass,5867051]]"
+  - "[[_Standards/WikiData/WD~superorder,5868144]]"
+  - "[[_Standards/WikiData/WD~grandorder,6462265]]"
+  - "[[_Standards/WikiData/WD~mirorder,7506274]]"
+  - "[[_Standards/WikiData/WD~class,37517]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~order,10861678]]"
+  - "[[_Standards/WikiData/WD~order,105883353]]"
+different_from: "[[_Standards/WikiData/WD~Q24704850,24704850]]"
+OmegaWiki_Defined_Meaning: "797936"
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97.wav
 ---
 
-#is_/same_as :: [[../../../../../WikiData/WD~Order,36602]]  
+# [[bio~Order]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Order,36602|WD~Order,36602]]   
 #has_/prev_item :: [[../bio~Class]]  
 #has_/next_item :: [[bio~Order/bio~Family]]  
 

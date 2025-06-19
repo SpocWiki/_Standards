@@ -1,0 +1,57 @@
+---
+title: Isotomidae
+---
+
+# [[Isotomidae]]  
+
+![Folsomia candida](Isotomidae/Folsomia_candida.jpg)
+![Isotoma viridis](Isotomidae/Isotoma_viridis.jpg) 
+
+## #has_/text_of_/abstract 
+
+> **Isotomidae** is a family of elongate-bodied springtails in the order Entomobryomorpha.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Isotomidae) 
+
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Springtail](../Springtail.md)
+    -   [Hexapoda](Hexapoda)
+    -   [Arthropoda](Arthropoda)
+    -   [Bilateria](Bilateria)
+    -   [Animals](Animals)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Collembola
+    -   [Poduromorpha](Poduromorpha.md)
+    -   [Symphypleona](Symphypleona.md)
+    -   [Neelidae](Neelidae)
+    -   Isotomidae
+    -   [Entomobryidae](Entomobryidae.md)
+    -   [Tomoceridae](Tomoceridae.md)
+
+-   » Sub-Groups 
+	-   *Anurophorinae*
+	-   *Proisotominae*
+	-   *Isotominae*
+	-   *Pachyotominae*
+
+Containing group: [Springtail](../Springtail.md)
+
+## Title Illustrations
+
+------------------------------------------------------------------------
+![Folsomia candida](Isotomidae/Folsomia_candida.jpg) 
+Scientific Name ::     Folsomia candida
+Specimen Condition   Live Specimen
+Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+
+------------------------------------------------------------------------
+![Isotoma viridis](Isotomidae/Isotoma_viridis.jpg) 
+Scientific Name ::     Isotoma viridis
+Specimen Condition   Live Specimen
+Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+

@@ -2,10 +2,29 @@
 has_id_wikidata: Q37517
 aliases:
   - classis
+instance_of:
+  - "[[_Standards/WikiData/WD~taxonomic_rank,427626]]"
+  - "[[_Standards/WikiData/WD~rank_in_botany,3100180]]"
+  - "[[_Standards/WikiData/WD~rank_in_zoology,13578154]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Klass,453341]]"
+  - "[[_Standards/WikiData/WD~Klasse,1744556]]"
+  - "[[_Standards/WikiData/WD~Classis,3307293]]"
+  - "[[_Standards/WikiData/WD~Class,3679160]]"
+  - "[[_Standards/WikiData/WD~Clase,8346739]]"
+  - "[[_Standards/WikiData/WD~Klasa,13085175]]"
+part_of:
+  - "[[_Standards/WikiData/WD~subphylum,1153785]]"
+  - "[[_Standards/WikiData/WD~subdivision,3491997]]"
+  - "[[_Standards/WikiData/WD~superclass,3504061]]"
+OmegaWiki_Defined_Meaning: "797986"
+Dewey_Decimal_Classification: "578.012"
 ---
 
-#is_/same_as :: [[../../../../WikiData/WD~Class,37517]] 
-#has_/prev_item :: [[../bio~Phylum]]  
+# [[bio~Class]] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
+#has_/prev_item :: [[../../bio~Kingdom]]  
 #has_/next_item :: [[bio~Class/bio~Order]]  
 
 ## #has_/text_of_/abstract 
