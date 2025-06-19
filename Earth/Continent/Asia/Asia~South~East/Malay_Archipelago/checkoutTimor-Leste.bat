@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Asia-Timor-Leste" Timor-Leste

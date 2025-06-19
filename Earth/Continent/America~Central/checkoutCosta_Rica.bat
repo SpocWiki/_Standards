@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/America-Costa_Rica" Costa_Rica

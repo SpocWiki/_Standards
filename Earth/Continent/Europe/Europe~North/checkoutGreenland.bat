@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Europe-Greenland" Greenland
