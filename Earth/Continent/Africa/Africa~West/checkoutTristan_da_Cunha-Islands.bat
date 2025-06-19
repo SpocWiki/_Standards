@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Africa-Saint_Helena" Tristan_da_Cunha-Islands
