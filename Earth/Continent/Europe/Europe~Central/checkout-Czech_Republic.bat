@@ -1,0 +1,1 @@
+git clone "https://github.com/SpocWiki/Europe-Czech_Republic" Czech_Republic
