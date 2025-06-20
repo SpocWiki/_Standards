@@ -29,6 +29,8 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Valero%20Three%20Rive
 hashtag: industries
 ---
 
+# [[Industry]] 
+
 ## #has_/text_of_/abstract 
 
 > In macroeconomics, an **Industry** is a branch of an economy that produces a closely related set of raw materials, goods, or services. For example, one might refer to the wood industry or to the insurance industry.
