@@ -1,6 +1,7 @@
 
 # [[Sauropsida]] 
 
+
 ## #has_/text_of_/abstract 
 
 > **Sauropsida** (Greek for "lizard faces") is a clade of amniotes, broadly equivalent to the class Reptilia, though typically used in a broader sense to also include extinct stem-group relatives of modern reptiles and birds (which, as theropod dinosaurs, are nested within reptiles as more closely related to crocodilians than to lizards or turtles). The most popular definition states that Sauropsida is the sibling taxon to Synapsida, the other clade of amniotes which includes mammals as its only modern representatives. Although early synapsids have historically been referred to as "mammal-like reptiles", all synapsids are more closely related to mammals than to any modern reptile. Sauropsids, on the other hand, include all amniotes more closely related to modern reptiles than to mammals. This includes Aves (birds), which are recognized as a subgroup of archosaurian reptiles despite originally being named as a separate class in Linnaean taxonomy.

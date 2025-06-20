@@ -102,9 +102,31 @@ GS1 GPC code: "10005466"
 
 ## #has_/text_of_/abstract 
 
-> **Reptile**s, as commonly defined, are a group of tetrapods with an ectothermic ('cold-blooded') metabolism and amniotic development. Living traditional reptiles comprise four orders: Testudines (turtles), Crocodilia (crocodilians), Squamata (lizards and snakes), and Rhynchocephalia (the tuatara). As of May 2023, about 12,000 living species of reptiles are listed in the Reptile Database. The study of the traditional reptile orders, customarily in combination with the study of modern amphibians, is called herpetology.
+> **Reptile**s, as commonly defined, are a group of tetrapods 
+> with an ectothermic ('cold-blooded') metabolism and amniotic development. 
+> 
+> Living traditional reptiles comprise four orders: 
+> - Testudines (turtles), 
+> - Crocodilia (crocodilians), 
+> - Squamata (lizards and snakes), and 
+> - Rhynchocephalia (the tuatara). 
+> 
+> As of May 2023, about 12,000 living species of reptiles are listed in the Reptile Database. 
+> The study of the traditional reptile orders, 
+> customarily in combination with the study of modern amphibians, is called herpetology.
 >
-> Reptiles have been subject to several conflicting taxonomic definitions. In Linnaean taxonomy, reptiles are gathered together under the class Reptilia ( rep-TIL-ee-ə), which corresponds to common usage. Modern cladistic taxonomy regards that group as paraphyletic, since genetic and paleontological evidence has determined that birds (class Aves), as members of Dinosauria, are more closely related to living crocodilians than to other reptiles, and are thus nested among reptiles from an evolutionary perspective. Many cladistic systems therefore redefine Reptilia as a clade (monophyletic group) including birds, though the precise definition of this clade varies between authors. Others prioritize the clade Sauropsida, which typically refers to all amniotes more closely related to modern reptiles than to mammals.
+> Reptiles have been subject to several conflicting taxonomic definitions. 
+> In Linnaean taxonomy, reptiles are gathered together under the class Reptilia ( rep-TIL-ee-ə), 
+> which corresponds to common usage. 
+> Modern cladistic taxonomy regards that group as paraphyletic, 
+> since genetic and paleontological evidence has determined 
+> that birds (class Aves), as members of Dinosauria, are more closely related to living crocodilians than to other reptiles, 
+> and are thus nested among reptiles from an evolutionary perspective. 
+> Many cladistic systems therefore redefine Reptilia as a clade (monophyletic group) 
+> including birds, though the precise definition of this clade varies between authors. 
+> 
+> Others prioritize the clade Sauropsida, which typically refers to 
+> all amniotes more closely related to modern reptiles than to mammals.
 >
 > The earliest known proto-reptiles originated from the Carboniferous period, having evolved from advanced reptiliomorph tetrapods which became increasingly adapted to life on dry land. The earliest known eureptile ("true reptile") was Hylonomus, a small and superficially lizard-like animal which lived in Nova Scotia during the Bashkirian age of the Late Carboniferous, around 318 million years ago. Genetic and fossil data argues that the two largest lineages of reptiles, Archosauromorpha (crocodilians, birds, and kin) and Lepidosauromorpha (lizards, and kin), diverged during the Permian period. In addition to the living reptiles, there are many diverse groups that are now extinct, in some cases due to mass extinction events. In particular, the Cretaceous–Paleogene extinction event wiped out the pterosaurs, plesiosaurs, and all non-avian dinosaurs alongside many species of crocodyliforms and squamates (e.g., mosasaurs). Modern non-bird reptiles inhabit all the continents except Antarctica.
 >

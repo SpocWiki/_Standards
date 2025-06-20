@@ -2,6 +2,29 @@
 title: Annelida
 ---
 
+# Annelida
+
+ Segmented worms: bristleworms, ragworms, earthworms, leeches and their allies 
+
+![Autolytus pachycerus habitus](Annelida/autolytus_pachycerus.jpg) 
+![Acrocirrus validus](Annelida/Acrocirrus_validus.jpg) 
+![chloeia](Annelida/chloeia.jpg) 
+![unidentified leech](leech.jpg)
+
+## #has_/text_of_/abstract 
+
+> The annelids (), also known as the segmented worms, are animals that comprise the phylum **Annelida** (; from Latin  anellus 'little ring'). The phylum contains over 22,000 extant species, including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
+>
+> The annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
+>
+> The basic annelid form consists of multiple segments. Each segment has the same sets of organs and, in most polychaetes, has a pair of parapodia that many species use for locomotion. Septa separate the segments of many species, but are poorly defined or absent in others, and Echiura and Sipuncula show no obvious signs of segmentation. In species with well-developed septa, the blood circulates entirely within blood vessels, and the vessels in segments near the front ends of these species are often built up with muscles that act as hearts. The septa of such species also enable them to change the shapes of individual segments, which facilitates movement by peristalsis ("ripples" that pass along the body) or by undulations that improve the effectiveness of the parapodia. In species with incomplete septa or none, the blood circulates through the main body cavity without any kind of pump, and there is a wide range of locomotory techniques – some burrowing species turn their pharynges inside out to drag themselves through the sediment.
+>
+> Earthworms are oligochaetes that support terrestrial food chains both as prey and predators, and in some regions are important in aeration and enriching of soil. The burrowing of marine polychaetes, which may constitute up to a third of all species in near-shore environments, encourages the development of ecosystems by enabling water and oxygen to penetrate the sea floor. In addition to improving soil fertility, annelids serve humans as food and as bait. Scientists observe annelids to monitor the quality of marine and fresh water. Although blood-letting is used less frequently by doctors than it once was, some leech species are regarded as endangered because they have been over-harvested for this purpose in the last few centuries. Ragworms' jaws are studied by engineers as they offer an exceptional combination of lightness and strength.
+>
+> Since annelids are soft-bodied, their fossils are rare – mostly jaws and the mineralized tubes that some of the species secreted. Although some late Ediacaran fossils may represent annelids, the oldest known fossil that is identified with confidence comes from about 518 million years ago in the early Cambrian period. Fossils of most modern mobile polychaete groups appeared by the end of the Carboniferous, about 299 million years ago. Palaeontologists disagree about whether some body fossils from the mid Ordovician, about 472 to 461 million years ago, are the remains of oligochaetes, and the earliest indisputable fossils of the group appear in the Paleogene period, which began 66 million years ago.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Annelid) 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -39,29 +62,6 @@ title: Annelida
 
 -   » Sub-Groups
     -   [Phyllodocida](Phyllodocida.md)
-
-# Annelida
-
- Segmented worms: bristleworms, ragworms, earthworms, leeches and their allies 
-
-![Autolytus pachycerus habitus](Annelida/autolytus_pachycerus.jpg) 
-![Acrocirrus validus](Annelida/Acrocirrus_validus.jpg) 
-![chloeia](Annelida/chloeia.jpg) 
-![unidentified leech](leech.jpg)
-
-## #has_/text_of_/abstract 
-
-> The annelids (), also known as the segmented worms, are animals that comprise the phylum **Annelida** (; from Latin  anellus 'little ring'). The phylum contains over 22,000 extant species, including ragworms, earthworms, and leeches. The species exist in and have adapted to various ecologies – some in marine environments as distinct as tidal zones and hydrothermal vents, others in fresh water, and yet others in moist terrestrial environments.
->
-> The annelids are bilaterally symmetrical, triploblastic, coelomate, invertebrate organisms. They also have parapodia for locomotion. Most textbooks still use the traditional division into polychaetes (almost all marine), oligochaetes (which include earthworms) and leech-like species. Cladistic research since 1997 has radically changed this scheme, viewing leeches as a sub-group of oligochaetes and oligochaetes as a sub-group of polychaetes. In addition, the Pogonophora, Echiura and Sipuncula, previously regarded as separate phyla, are now regarded as sub-groups of polychaetes. Annelids are considered members of the Lophotrochozoa, a "super-phylum" of protostomes that also includes molluscs, brachiopods, and nemerteans.
->
-> The basic annelid form consists of multiple segments. Each segment has the same sets of organs and, in most polychaetes, has a pair of parapodia that many species use for locomotion. Septa separate the segments of many species, but are poorly defined or absent in others, and Echiura and Sipuncula show no obvious signs of segmentation. In species with well-developed septa, the blood circulates entirely within blood vessels, and the vessels in segments near the front ends of these species are often built up with muscles that act as hearts. The septa of such species also enable them to change the shapes of individual segments, which facilitates movement by peristalsis ("ripples" that pass along the body) or by undulations that improve the effectiveness of the parapodia. In species with incomplete septa or none, the blood circulates through the main body cavity without any kind of pump, and there is a wide range of locomotory techniques – some burrowing species turn their pharynges inside out to drag themselves through the sediment.
->
-> Earthworms are oligochaetes that support terrestrial food chains both as prey and predators, and in some regions are important in aeration and enriching of soil. The burrowing of marine polychaetes, which may constitute up to a third of all species in near-shore environments, encourages the development of ecosystems by enabling water and oxygen to penetrate the sea floor. In addition to improving soil fertility, annelids serve humans as food and as bait. Scientists observe annelids to monitor the quality of marine and fresh water. Although blood-letting is used less frequently by doctors than it once was, some leech species are regarded as endangered because they have been over-harvested for this purpose in the last few centuries. Ragworms' jaws are studied by engineers as they offer an exceptional combination of lightness and strength.
->
-> Since annelids are soft-bodied, their fossils are rare – mostly jaws and the mineralized tubes that some of the species secreted. Although some late Ediacaran fossils may represent annelids, the oldest known fossil that is identified with confidence comes from about 518 million years ago in the early Cambrian period. Fossils of most modern mobile polychaete groups appeared by the end of the Carboniferous, about 299 million years ago. Palaeontologists disagree about whether some body fossils from the mid Ordovician, about 472 to 461 million years ago, are the remains of oligochaetes, and the earliest indisputable fossils of the group appear in the Paleogene period, which began 66 million years ago.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Annelid) 
 
 
 ## Introduction

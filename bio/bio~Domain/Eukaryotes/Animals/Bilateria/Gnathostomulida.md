@@ -2,6 +2,19 @@
 title: Gnathostomulida
 ---
 
+# [[Gnathostomulida]] 
+
+Jaw Worms 
+
+![Gnathostomulida](Gnathostomulida/Gnathostomulida.gif) 
+
+## #has_/text_of_/abstract 
+
+> Gnathostomulids, or jaw worms, are a small phylum of nearly microscopic marine animals. They inhabit sand and mud beneath shallow coastal waters and can survive in relatively anoxic environments. They were first recognised and described in 1956.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gnathostomulid) 
+
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -38,18 +51,6 @@ title: Gnathostomulida
     -   [Brachiopoda](Brachiopoda)
 
 -   » Sub-Groups 
-
-# [[Gnathostomulida]] 
-
-Jaw Worms 
-
-![Gnathostomulida](Gnathostomulida/Gnathostomulida.gif) 
-
-## #has_/text_of_/abstract 
-
-> Gnathostomulids, or jaw worms, are a small phylum of nearly microscopic marine animals. They inhabit sand and mud beneath shallow coastal waters and can survive in relatively anoxic environments. They were first recognised and described in 1956.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Gnathostomulid) 
 
 
 ## Title Illustrations

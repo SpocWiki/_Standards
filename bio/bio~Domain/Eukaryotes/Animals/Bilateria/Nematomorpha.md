@@ -2,6 +2,19 @@
 title: Nematomorpha
 ---
 
+# [[Nematomorpha]] 
+
+## Horsehair worms 
+
+![Nematomorpha](Nematomorpha/Nematomorpha.gif) 
+
+## #has_/text_of_/abstract 
+
+> **Nematomorpha** (sometimes called Gordiacea, and commonly known as horsehair worms, hairsnakes, or Gordian worms) are a phylum of parasitoid animals superficially similar to nematode worms in morphology, hence the name. Most species range in size from 50 to 100 millimetres (2.0 to 3.9 in), reaching 2 metres (79 in) in extreme cases, and 1 to 3 millimetres (0.039 to 0.118 in) in diameter. Horsehair worms can be discovered in damp areas, such as watering troughs, swimming pools, streams, puddles, and cisterns. The adult worms are free-living, but the larvae are parasitic on arthropods, such as beetles, cockroaches, mantises, orthopterans, and crustaceans. About 351 freshwater species are known and a conservative estimate suggests that there may be about 2000 freshwater species worldwide. The name "Gordian" stems from the legendary Gordian knot. This relates to the fact that nematomorphs often coil themselves in tight balls that resemble knots.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Nematomorpha) 
+
+
 ## Phylogeny 
 
 -   « Ancestral Groups  
@@ -38,18 +51,6 @@ title: Nematomorpha
     -   [Brachiopoda](Brachiopoda)
 
 -   » Sub-Groups 
-
-# [[Nematomorpha]] 
-
-## Horsehair worms 
-
-![Nematomorpha](Nematomorpha/Nematomorpha.gif) 
-
-## #has_/text_of_/abstract 
-
-> **Nematomorpha** (sometimes called Gordiacea, and commonly known as horsehair worms, hairsnakes, or Gordian worms) are a phylum of parasitoid animals superficially similar to nematode worms in morphology, hence the name. Most species range in size from 50 to 100 millimetres (2.0 to 3.9 in), reaching 2 metres (79 in) in extreme cases, and 1 to 3 millimetres (0.039 to 0.118 in) in diameter. Horsehair worms can be discovered in damp areas, such as watering troughs, swimming pools, streams, puddles, and cisterns. The adult worms are free-living, but the larvae are parasitic on arthropods, such as beetles, cockroaches, mantises, orthopterans, and crustaceans. About 351 freshwater species are known and a conservative estimate suggests that there may be about 2000 freshwater species worldwide. The name "Gordian" stems from the legendary Gordian knot. This relates to the fact that nematomorphs often coil themselves in tight balls that resemble knots.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Nematomorpha) 
 
 
 ## Title Illustrations

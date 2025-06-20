@@ -1,5 +1,7 @@
 ---
 title: Echinodermata
+aliases:
+  - echinoderm
 ---
 
 # [[Echinodermata]]
@@ -10,7 +12,18 @@ Spiny-skinned animals: sea urchins, starfish, and their allies
 
 ## #has_/text_of_/abstract 
 
-> An echinoderm () is any animal of the phylum **Echinodermata** (), which includes starfish, brittle stars, sea urchins, sand dollars and sea cucumbers, as well as the sessile sea lilies or "stone lilies". While bilaterally symmetrical as larvae, as adults echinoderms are recognisable by their usually five-pointed radial symmetry (pentamerous symmetry), and are found on the sea bed at every ocean depth from the intertidal zone to the abyssal zone. The phylum contains about 7,600 living species, making it the second-largest group of deuterostomes after the chordates, as well as the largest marine-only phylum. The first definitive echinoderms appeared near the start of the Cambrian.
+> An echinoderm is any animal of the phylum **Echinodermata**, which includes starfish, brittle stars, 
+> sea urchins, sand dollars and sea cucumbers, as well as the sessile sea lilies or "stone lilies". 
+> 
+> While bilaterally symmetrical as larvae, as adults echinoderms are recognisable by their 
+> usually five-pointed radial symmetry (pentamerous symmetry), 
+> and are found on the sea bed at every ocean depth from the intertidal zone to the abyssal zone. 
+> 
+> The phylum contains about 7,600 living species, 
+> making it the second-largest group of deuterostomes after the chordates, 
+> as well as the largest marine-only phylum. 
+> 
+> The first definitive echinoderms appeared near the start of the Cambrian.
 >
 > Echinoderms are important both ecologically and geologically. Ecologically, there are few other groupings so abundant in the deep sea, as well as shallower oceans. Most echinoderms are able to reproduce asexually and regenerate tissue, organs and limbs; in some cases, they can undergo complete regeneration from a single limb. Geologically, the value of echinoderms is in their ossified dermal endoskeletons, which are major contributors to many limestone formations and can provide valuable clues as to the geological environment. They were the most used species in regenerative research in the 19th and 20th centuries. Further, some scientists hold that the radiation of echinoderms was responsible for the Mesozoic Marine Revolution.
 >

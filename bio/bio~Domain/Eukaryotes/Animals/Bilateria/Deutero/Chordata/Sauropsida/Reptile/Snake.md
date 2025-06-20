@@ -36,14 +36,49 @@ subreddit:
   - Sneks
 ---
 
+# [[Snake]] 
+
 
 ## #has_/text_of_/abstract 
 
-> **Snake**s are elongated limbless reptiles of the suborder Serpentes (). Cladistically squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales much like other members of the group. Many species of snakes have skulls with several more joints than their lizard ancestors and relatives, enabling them to swallow prey much larger than their heads (cranial kinesis). To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards. These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae).
+> **Snake**s are elongated limbless reptiles of the suborder Serpentes. 
+> Cladistically squamates, snakes are ectothermic, 
+> amniote vertebrates covered in overlapping scales much like other members of the group. 
+> 
+> Many species of snakes have skulls with several more joints than their lizard ancestors 
+> and relatives, enabling them to swallow prey much larger than their heads (cranial kinesis). 
+> 
+> To accommodate their narrow bodies, snakes' paired organs (such as kidneys) 
+> appear one in front of the other instead of side by side, and most have only one functional lung. 
+> Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. 
+> Lizards have independently evolved elongate bodies without limbs 
+> or with greatly reduced limbs at least twenty-five times via convergent evolution, 
+> leading to many lineages of legless lizards. 
+> These resemble snakes, but several common groups of legless lizards have eyelids 
+> and external ears, which snakes lack, although this rule is not universal 
+> (see Amphisbaenia, Dibamidae, and Pygopodidae).
 >
-> Living snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland, Iceland, Greenland, and the islands of New Zealand, as well as many small islands of the Atlantic and central Pacific oceans. Additionally, sea snakes are widespread throughout the Indian and Pacific oceans. Around thirty families are currently recognized, comprising about 520 genera and about more than 4,170 species. They range in size from the tiny, 10.4 cm-long (4.1 in) Barbados threadsnake to the reticulated python of 6.95 meters (22.8 ft) in length. The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long. Snakes are thought to have evolved from either burrowing or aquatic lizards, perhaps during the Jurassic period, with the earliest known fossils dating to between 143 and 167 Ma ago. The diversity of modern snakes appeared during the Paleocene epoch (c. 66 to 56 Ma ago, after the Cretaceous–Paleogene extinction event). The oldest preserved descriptions of snakes can be found in the Brooklyn Papyrus.
+> Living snakes are found on every continent except Antarctica, and on most smaller land masses; 
+> exceptions include some large islands, such as Ireland, Iceland, Greenland, 
+> and the islands of New Zealand, as well as many small islands of the Atlantic and central Pacific oceans. 
+> Additionally, sea snakes are widespread throughout the Indian and Pacific oceans. 
+> Around thirty families are currently recognized, comprising about 520 genera 
+> and about more than 4,170 species. 
+> They range in size from the tiny, 10.4 cm-long (4.1 in) Barbados threadsnake 
+> to the reticulated python of 6.95 meters (22.8 ft) in length. 
+> The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long. 
+> 
+> Snakes are thought to have evolved from either burrowing or aquatic lizards, 
+> perhaps during the Jurassic period, 
+> with the earliest known fossils dating to between 143 and 167 Ma ago. 
+> The diversity of modern snakes appeared during the Paleocene epoch 
+> (c. 66 to 56 Ma ago, after the Cretaceous–Paleogene extinction event). 
+> The oldest preserved descriptions of snakes can be found in the Brooklyn Papyrus.
 >
-> Most species of snake are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense. Some possess venom that is potent enough to cause painful injury or death to humans. Nonvenomous snakes either swallow prey alive or kill by constriction.
+> Most species of snake are nonvenomous 
+> and those that have venom use it primarily to kill and subdue prey rather than for self-defense. 
+> Some possess venom that is potent enough to cause painful injury or death to humans. 
+> Nonvenomous snakes either swallow prey alive or kill by constriction.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snake) 
 
