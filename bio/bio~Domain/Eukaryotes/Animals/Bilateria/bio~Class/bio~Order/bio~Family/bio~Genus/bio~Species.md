@@ -31,7 +31,9 @@ OmegaWiki_Defined_Meaning: 3580
 U_S_National_Archives_Identifier: 10663903
 ---
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Species,7432]]  
+# [[bio~Species]] 
+
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Species,7432|WD~Species,7432]]  
 #has_/prev_item :: [[../bio~Genus]]  
 #has_/next_item :: [[bio~Species/Subspecies]] 
 
@@ -39,7 +41,7 @@ U_S_National_Archives_Identifier: 10663903
 ## #has_/text_of_/abstract 
 
 > A **Species** (pl.: species) is a population of organisms 
-> in which any two individuals of the appropriate sexes or __mating types can produce fertile offspring__, 
+> in which any two individuals of the sexes or __mating types can produce fertile offspring__, 
 > typically by sexual reproduction. 
 > 
 > It is the basic unit of classification and a taxonomic rank of an organism, as well as a unit of biodiversity. 

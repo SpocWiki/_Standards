@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q156
 has_part_s_: '[[_Standards/WikiData/WD~hydroxyl,104116]]'
 described_by_source:

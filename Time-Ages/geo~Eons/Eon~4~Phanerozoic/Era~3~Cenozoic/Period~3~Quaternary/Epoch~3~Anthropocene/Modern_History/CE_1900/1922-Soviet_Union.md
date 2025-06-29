@@ -291,7 +291,7 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocial
 > that formed earlier that year following the February Revolution 
 > which, in turn had dissolved the Russian Empire. 
 > 
-> The new government, led by [[Lenin,Vladimir]], 
+> The new government, led by [[../../../../../../../../bio/People/Leader/Modern_Leaders/Lenin,Vladimir]], 
 > established the Russian Soviet Federative Socialist Republic (RSFSR), 
 > the world's first constitutionally socialist state. 
 > 

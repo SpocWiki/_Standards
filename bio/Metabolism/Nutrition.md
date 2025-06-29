@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2138622
 has_cause: '[[_Standards/WikiData/WD~nutrient,181394]]'
 has_part_s_:

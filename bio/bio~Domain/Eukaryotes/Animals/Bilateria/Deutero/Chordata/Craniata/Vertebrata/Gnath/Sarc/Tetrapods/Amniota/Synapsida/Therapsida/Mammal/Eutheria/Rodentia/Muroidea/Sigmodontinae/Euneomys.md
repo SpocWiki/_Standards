@@ -1,0 +1,102 @@
+---
+title: Euneomys
+---
+
+# Euneomys
+
+## Patagonian chinchilla mice 
+
+![Euneomys chinchilloides](Euneomys/euneomys.jpg)
+
+## #has_/text_of_/abstract 
+
+> **Euneomys** is a genus of rodents in the family Cricetidae.
+> It contains the following species:
+> - Patagonian chinchilla mouse (Euneomys chinchilloides)
+> - Burrowing chinchilla mouse (Euneomys fossor)
+> - Biting chinchilla mouse (Euneomys mordax)
+> - Peterson's chinchilla mouse (Euneomys petersoni)
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Euneomys) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Sigmodontinae](Sigmodontinae.md)
+    -   [Muroidea](Muroidea.md)
+    -   [Rodentia](Rodentia.md)
+    -   [Eutheria](Eutheria.md)
+    -   [Mammal](Mammal.md)
+    -   [Therapsida](../../../../../../Therapsida.md)
+    -   [Synapsida](../../../../../../../Synapsida.md)
+    -   [Amniota](../../../../../../../../Amniota.md)
+    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
+    -   [Sarcopterygii](../../../../../../../../../../Sarc.md)
+    -   [Gnathostomata](../../../../../../../../../../../Gnath.md)
+    -   [Vertebrata](../../../../../../../../../../../../Vertebrata.md)
+    -   [Craniata](../../../../../../../../../../../../../Craniata.md)
+    -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
+    -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
+    -   [Bilateria](Bilateria)
+    -   [Animals](Animals)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Sigmodontinae
+    -   [Sigmodon](Sigmodon.md)
+    -   [Ichthyomyini](Ichthyomyini.md)
+    -   [Thomasomyine group and Sigmodontinae incertae         sedis](Thomasomyine_group_and_Sigmodontinae_incertae_sedis)
+    -   [Wiedomyini](Wiedomyini.md)
+    -   [Oryzomyini](Oryzomyini.md)
+    -   [Phyllotini](Phyllotini.md)
+    -   [Andinomys edax](Andinomys_edax.md)
+    -   [Reithrodon](Reithrodon.md)
+    -   [Irenomys tarsalis](Irenomys_tarsalis.md)
+    -   Euneomys
+    -   [Abrothicine group](Abrothicine_group)
+    -   [Akodontini](Akodontini.md)
+
+-   » Sub-Groups 
+
+	-   *Euneomys chinchilloides*
+	-   *Euneomys petersoni*
+	-   *Euneomys mordax*
+
+### Information on the Internet
+
+[Mammal Species of the World](http://www.nmnh.si.edu/msw/): a Taxonomic
+and Geographic Reference. Internet version.
+
+### Generic Portrait
+
+  ------------------------------------------------------------------------------------------------------------------
+  [](http://www.tolweb.org/tree/eukaryotes/animals/chordata/mammalia/rodentia/muridae/portraits/eun.dors.jpg)![ ](eun.jpg)   [](http://www.tolweb.org/tree/eukaryotes/animals/chordata/mammalia/rodentia/muridae/portraits/eun.vent.jpg)![ ](eun_005.jpg)   [](http://www.tolweb.org/tree/eukaryotes/animals/chordata/mammalia/rodentia/muridae/portraits/eun.lat.jpg)![ ](eun_004.jpg)
+                                                                                                                                                                                                                                                                    [](http://www.tolweb.org/tree/eukaryotes/animals/chordata/mammalia/rodentia/muridae/portraits/eun.jaw.jpg)![ ](eun_003.jpg)
+  [](http://www.tolweb.org/tree/eukaryotes/animals/chordata/mammalia/rodentia/muridae/portraits/eun.dent.jpg)![ ](eun.jpg)                                                                                                                                        
+  ------------------------------------------------------------------------------------------------------------------
+
+Click on a figure to see a larger version.
+
+Compare the skuls, jaws, or molars of all phyllotine genera by selecting
+the appropriate view below.
+
+\|
+[Dorsal](http://www.tolweb.org/accessory/Phyllotine_Molars?acc_id=562)
+\|
+[Ventral](http://www.tolweb.org/accessory/Ventral_Views_of_Phyllotine_Skulls?acc_id=559)
+\|
+[Lateral](http://www.tolweb.org/accessory/Lateral_Views_of_Phyllotine_Skulls?acc_id=560)
+\|
+[Jaw](http://www.tolweb.org/accessory/Phyllotine_Mandibles?acc_id=561)
+\| [Teeth](http://www.tolweb.org/accessory/Phyllotine_Molars?acc_id=562)
+\|
+
+## Title Illustrations
+
+
+![Euneomys chinchilloides](euneomys.jpg)
+
+  ------------
+  Scientific Name ::  Euneomys chinchilloides
+  Copyright ::         © 1996 O. Pearson
+  ------------

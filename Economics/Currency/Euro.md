@@ -92,6 +92,9 @@ OpenStreetMap tag or key: Key:currency:EUR
 unit symbol: €
 ---
 
+# [[Euro]] 
+
+#is_a_/Currency 
 
 ## #has_/text_of_/abstract 
 

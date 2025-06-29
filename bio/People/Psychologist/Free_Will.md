@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9476
 described_by_source:
 - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
@@ -33,3 +33,7 @@ Commons_category: "Free will"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Free%20will)
 
+MRT-Experiments showed that subconscious decisions can be determined 8-10s before the actual action. 
+On the other hand, conscious decisions can override these in the event of new Data. 
+
+The corresponding Experiment was a traffic-light simulation that allowed participants to speed up whenever they want, but randomly switched to red forcing to stop which mostly worked. 
