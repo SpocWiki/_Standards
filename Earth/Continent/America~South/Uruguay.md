@@ -259,7 +259,7 @@ nickname:
 - "La Suiza de América"
 native_label: "República Oriental del Uruguay"
 short_name:
-- "\U0001F1FA\U0001F1FE"
+  - "\U0001F1FA\U0001F1FE"
   - Uruguay
 compulsory_education_minimum_age_: 6
 unemployment_rate: 7
@@ -392,10 +392,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - Uruguay
-    - أوروغواي
-    - 乌拉圭
-    - Уругвай
+- Uruguay
+- أوروغواي
+- 乌拉圭
+- Уругвай
 - "the Eastern Republic of Uruguay"
 - "la República Oriental del Uruguay"
 - "Uruguay (el)"
