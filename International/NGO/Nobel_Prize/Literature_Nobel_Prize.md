@@ -1,7 +1,28 @@
+---
+aliases:
+  - Nobel Prize in Literature
+  - Nobelpriset i litteratur
+  - Literaturnobelpreis
+---
 
 ## #has_/text_of_/abstract 
 
-> The Nobel Prize in Literature (Swedish: Nobelpriset i litteratur) is awarded annually by the Swedish Academy to authors for outstanding contributions in the field of literature. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, which are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by the Swedish Academy. Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years. In 1901, the first laureate Sully Prudhomme received 150,782 SEK, which is equivalent to 8,823,637.78 SEK in January 2018. The award is presented in Stockholm at an annual ceremony on December 10, the anniversary of Nobel's death.
+> The Nobel Prize in Literature (Swedish: Nobelpriset i litteratur) is awarded annually 
+> by the Swedish Academy to authors for outstanding contributions in the field of literature. 
+> 
+> It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, 
+> which are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. 
+> 
+> As dictated by Nobel's will, the award is administered by the Nobel Foundation 
+> and awarded by the Swedish Academy. 
+> 
+> Each recipient receives a medal, a diploma 
+> and a monetary award prize that has varied throughout the years. 
+> 
+> In 1901, the first laureate Sully Prudhomme received 150,782 SEK, 
+> which is equivalent to 8,823,637.78 SEK in January 2018. 
+> The award is presented in Stockholm at an annual ceremony on December 10, 
+> the anniversary of Nobel's death.
 >
 > As of 2024, the Nobel Prize in Literature has been awarded to 121 individuals. 18 women have been awarded the Nobel Prize in Literature, the second highest number of any of the Nobel Prizes behind the Nobel Peace Prize. As of 2024, there have been 29 English-speaking laureates of the Nobel Prize in Literature, followed by French with 16 laureates and German with 14 laureates. France has the highest number of Nobel laureates.
 >

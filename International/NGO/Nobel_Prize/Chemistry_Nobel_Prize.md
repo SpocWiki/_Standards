@@ -1,11 +1,27 @@
 ---
 aliases:
   - List_of_Nobel_laureates_in_Chemistry
+  - Nobel Prize in Chemistry
+  - Nobelpriset i kemi
 ---
 
 ## #has_/text_of_/abstract 
 
-> The Nobel Prize in Chemistry (Swedish: Nobelpriset i kemi) is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, who died in 1896.  These prizes are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by the Royal Swedish Academy of Sciences. The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff, of the Netherlands. Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years. In 1901, van 't Hoff received 150,782 SEK, which is equal to 7,731,004 SEK in December 2007.  The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death.
+> The Nobel Prize in Chemistry (Swedish: Nobelpriset i kemi) is awarded annually 
+> by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. 
+> 
+> It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, who died in 1896.  
+> These prizes are awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. 
+> 
+> As dictated by Nobel's will, the award is administered by the Nobel Foundation 
+> and awarded by the Royal Swedish Academy of Sciences. 
+> 
+> Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years. 
+> 
+> The first Nobel Prize in Chemistry was awarded in 1901 to Jacobus Henricus van 't Hoff. 
+> In 1901, van 't Hoff received 150,782 SEK, which is equal to 7,731,004 SEK in December 2007.  
+> The award is presented in Stockholm at an annual ceremony on 10 December, 
+> the anniversary of Nobel's death.
 >
 > At least 25 laureates have received the Nobel Prize for contributions in the field of organic chemistry, more than any other field of chemistry. Two Nobel Prize laureates in Chemistry, Germans Richard Kuhn (1938) and Adolf Butenandt (1939), were not allowed by their government to accept the prize. They would later receive a medal and diploma, but not the money. Frederick Sanger is one out of three laureates to be awarded the Nobel Prize twice in the same subject, in 1958 and 1980. John Bardeen, who was awarded the Nobel Prize in Physics in 1956 and 1972, and Karl Barry Sharpless, who won the Nobel Prize for Chemistry in 2001 and 2022, are the others. Two others have won Nobel Prizes twice, one in chemistry and one in another subject: Maria Skłodowska-Curie (physics in 1903, chemistry in 1911) and Linus Pauling (chemistry in 1954, peace in 1962). As of 2023, the prize has been awarded to 192 individuals, including eight women (Maria Skłodowska-Curie being the first to be awarded in 1911).
 >

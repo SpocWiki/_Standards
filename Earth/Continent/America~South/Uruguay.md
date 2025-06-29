@@ -514,15 +514,103 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 ## #has_/text_of_/abstract 
 
-> **Uruguay** (  YOOR-ə-gwy, Spanish: [uɾuˈɣwaj] ), officially the Oriental Republic of Uruguay (Spanish: República Oriental del Uruguay), is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215 square kilometres (68,037 sq mi). It has a population of around 3.4 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.
+> **Uruguay** (YOOR-ə-gwy, Spanish: [uɾuˈɣwaj] ), officially the Oriental Republic of Uruguay 
+> (Spanish: República Oriental del Uruguay), is a country in South America. 
+> It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, 
+> while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. 
 >
-> The area that became Uruguay was first inhabited by groups of hunter-gatherers 13,000 years ago. The predominant tribe at the moment of the arrival of Europeans was the Charrúa people. At the same time, there were also other tribes, such as the Guaraní and the Chaná, when the Portuguese first established Colonia do Sacramento in 1680; Uruguay was colonized by Europeans later than its neighboring countries.
+> It is part of the Southern Cone region of South America. 
+> Uruguay covers an area of approximately 176,215 square kilometres (68,037 sq mi). 
+> It has a population of around 3.4 million people, 
+> of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.
 >
-> The Spanish founded Montevideo as a military stronghold in the early 18th century due to competing claims over the region, while Uruguay won its independence between 1811 and 1828, following a four-way struggle between Portugal and Spain, and later Argentina and Brazil. It remained subject to foreign influence and intervention throughout the first half of the 19th century. From the late 19th century to the early 20th century, numerous pioneering economic, labor, and social reforms were implemented, which led to the creation of a highly developed welfare state, which is why the country began to be known as "Switzerland of the Americas". However, a series of economic crises and the fight against far-left urban guerrilla warfare in the late 1960s and early 1970s culminated in the 1973 coup d'état, which established a civic-military dictatorship until 1985. Uruguay is today a democratic constitutional republic, with a president who serves as both head of state and head of government.
+> The area of Uruguay was first inhabited by groups of hunter-gatherers 13,000 years ago. 
+> The predominant tribe at the moment of the arrival of Europeans was the Charrúa people. 
+> At the same time, there were also other tribes, such as the Guaraní and the Chaná, 
+> when the Portuguese first established Colonia do Sacramento in 1680; 
+> Uruguay was colonized by Europeans later than its neighboring countries.
 >
-> In 2023, Uruguay was categorized as being a "full democracy" in the The Economist Democracy Index, and is highly ranked in international measurements of government transparency, economic freedom, social progress, income equality, per capita income, innovation, and infrastructure. The country has fully legalized cannabis (the first country in the world to do so), as well as same-sex marriage and abortion. It is a founding member of the United Nations, OAS, and Mercosur.
+> The Spanish founded Montevideo as a military stronghold in the early 18th century 
+> due to competing claims over the region, 
+> while Uruguay won its independence between 1811 and 1828, 
+> following a four-way struggle between Portugal and Spain, and later Argentina and Brazil. 
+>
+> It remained subject to foreign  intervention throughout the first half of the 19th century. 
+> From the late 19th century to the early 20th century, numerous pioneering economic, labor, and social reforms were implemented, which led to the creation of a highly developed welfare state, which is why the country began to be known as "__Switzerland of the Americas__". 
+> 
+> However, a series of economic crises and the fight against far-left urban guerrilla warfare 
+> in the late 1960s and early 1970s culminated in the 1973 coup d'état, 
+> which established a civic-military dictatorship until 1985. 
+> Uruguay is today a democratic constitutional republic, 
+> with a president who serves as both head of state and head of government.
+>
+> In 2023, Uruguay was categorized as a "full democracy" in the The Economist Democracy Index, 
+> and is __highly ranked in international measurements of government transparency__, 
+> __economic freedom, social progress, income equality, per capita income, innovation__, and __infrastructure__. 
+> 
+> The country has __fully legalized cannabis (the first country in the world to do so)__, 
+> as well as __same-sex marriage and abortion__. 
+> It is a founding member of the United Nations, OAS, and Mercosur.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uruguay)
+
+
+## #has_/place_/city   
+
+
+| City               |    Pop/k | Department  |
+| ------------------ | -------: | ----------- |
+| Montevideo         | 1319.108 | Montevideo  |
+| Salto              |  104.028 | Salto       |
+| Ciudad de la Costa |  112.443 | Canelones   |
+| Paysandú           |   76.429 | Paysandú    |
+| Las Piedras        |   71.258 | Canelones   |
+| Rivera             |   64.426 | Rivera      |
+| Maldonado          |   58.612 | Maldonado   |
+| Tacuarembó         |   54.757 | Tacuarembó  |
+| Melo               |   51.830 | Cerro Largo |
+
+## #has_/parts  
+
+| Department     | Capital           |    Pop/k | Area/kkm² |   HDI | Notable Properties               |
+| -------------- | ----------------- | -------: | --------: | ----: | -------------------------------- |
+| Artigas        | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
+| Canelones      | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
+| Cerro Largo    | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
+| Colonia        | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
+| Durazno        | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
+| Flores         | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
+| Florida        | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
+| Lavalleja      | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
+| Maldonado      | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
+| Montevideo     | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
+| Paysandú       | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
+| Río Negro      | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
+| Rivera         | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
+| Rocha          | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
+| Salto          | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
+| San José       | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
+| Soriano        | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
+| Tacuarembó     | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
+| Treinta y Tres | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
+
+
+## Economy 
+
+
+#### 1.1 Electricity Generation Mix (2023–2024)
+
+Uruguay has achieved an impressive **94–98 % renewable** electricity share: 
+
+| Source           |    % |    % | Notes                                     |
+| ---------------- | ---: | ---: | ----------------------------------------- |
+| Wind             | 40.0 | 50.0 | ~43 % in 2023; ~50.8 % Jan–Feb 2024       |
+| Hydropower       | 33.0 | 33.0 | ~30.9 % early‑2024                        |
+| Biomass          | 15.0 | 15.0 | 9.3 % in 2023; up to 15.7 % in early 2024 |
+| Solar            |  3.7 |  3.7 | ~3 % range                                |
+| Fossil (thermal) |  7.8 |  7.8 | Limited to dry seasons/back‐up            |
+
+With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods
 
 ## Confidential Links & Embeds: 
 

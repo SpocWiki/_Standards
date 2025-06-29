@@ -20,7 +20,7 @@ publishDate:
 expiryDate: 
 has_time_started: 2024-10-27
 tags:
-  - has_url_for
+  - has_/url_/for
   - class/Property
   - schema-org/Property/Url
 aliases:

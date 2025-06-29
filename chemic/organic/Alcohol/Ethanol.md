@@ -254,3 +254,52 @@ H-C-C-O-H
   H H
 ```
 
+```smiles
+C-C-O
+```
+
+
+## #has_/text_of_/abstract 
+
+> **Ethanol** (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) 
+> is an organic compound with the chemical formula CH3CH2OH. 
+> It is an alcohol, with its formula also written as C2H5OH, C2H6O 
+> or Et-OH, where Et is the pseudoelement symbol for ethyl. 
+> 
+> Ethanol is a volatile, flammable, colorless liquid 
+> with a characteristic wine-like odor and pungent taste. 
+> As a psychoactive depressant, it is the active ingredient in alcoholic beverages, 
+> and the second most consumed drug globally behind caffeine.
+>
+> Ethanol is naturally produced by the fermentation process of sugars by yeasts 
+> or via petrochemical processes such as ethylene hydration. 
+> 
+> Historically it was used as a general anesthetic, and has 
+> modern medical applications as an antiseptic, disinfectant, solvent for some medications, 
+> and antidote for methanol poisoning and ethylene glycol poisoning. 
+> 
+> It is used as a chemical solvent and in the synthesis of organic compounds, 
+> and as a fuel source for lamps, stoves, and internal combustion engines. 
+> Ethanol also can be de-hydrated to make ethylene, an important chemical feedstock. 
+> As of 2023, world production of ethanol fuel was 112.0 gigalitres (2.96×1010 US gallons), 
+> coming mostly from the U.S. (51%) and Brazil (26%).
+>
+> The term “ethanol,” originates from the ethyl group coined in 1834 
+> and was officially adopted in 1892, while “alcohol”—now referring to similar compounds—
+> originally described a powdered cosmetic and only later came to mean ethanol specifically.  
+> 
+> Ethanol occurs naturally as a byproduct of yeast metabolism 
+> in environments like overripe fruit and palm blossoms, 
+> during plant germination under anaerobic conditions, in interstellar space, in human breath, 
+> and in rare cases, is produced internally due to auto-brewery syndrome.
+>
+> Ethanol has been used since ancient times as an intoxicant. 
+> Production through fermentation and distillation evolved over centuries across various cultures. 
+> Chemical identification and synthetic production began by the 19th century.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ethanol) 
+
+Apes developed an Enzyme to digest ethanol 40 times faster ca. 10My ago. 
+Reasons are probably food shortage due to climate Change. 
+Since fallen sugary Fruits are often infected by yeasts, 
+it is advantageous be able to digest them without severe intoxication. 

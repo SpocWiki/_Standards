@@ -72,14 +72,14 @@ Royal_Academy_new_identifier: ovid
 ## #has_/text_of_/abstract 
 
 > Publius **Ovid**ius Naso (Latin: [ˈpuːbliʊs ɔˈwɪdiʊs ˈnaːsoː]; 20 March 43 BC – AD 17/18), 
-> known in English as Ovid ( OV-id), was a Roman poet who lived during the reign of [[../../Leaders/Ancient_Leaders/Augustus|Augustus]]. 
+> known in English as Ovid ( OV-id), was a Roman poet who lived during the reign of [[../../Leader/Ancient_Leaders/Augustus|Augustus]]. 
 > 
 > He was a younger contemporary of [[Virgil]] and [[Horace]], 
 > with whom he is often ranked as one of the three canonical poets of [[Latin literature]]. 
 > The Imperial scholar Quintilian considered him the last of the Latin love elegists. 
 > 
 > Although Ovid enjoyed enormous popularity during his lifetime, 
-> the emperor [[../../Leaders/Ancient_Leaders/Augustus|Augustus]] exiled him to Tomis, 
+> the emperor [[../../Leader/Ancient_Leaders/Augustus|Augustus]] exiled him to Tomis, 
 > the capital of the newly-organised province of Moesia, on the Black Sea, 
 > where he remained for the last nine or ten years of his life. 
 > Ovid himself attributed his banishment to a "poem and a mistake", 

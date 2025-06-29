@@ -3,6 +3,9 @@ aliases:
   - Sociologists
 ---
 
+# [[Sociologist]] 
+
+
 ## #has_/text_of_/abstract 
 
 > Sociology is the scientific study of human society that focuses on society, human social behavior, patterns of social relationships, social interaction, and aspects of culture associated with everyday life. Regarded as a part of both the social sciences and humanities, sociology uses various methods of empirical investigation and critical analysis: 3–5  to develop a body of knowledge about social order and social change.: 32–40  Sociological subject matter ranges from micro-level analyses of individual interaction and agency to macro-level analyses of social systems and social structure. Applied sociological research may be applied directly to social policy and welfare, whereas theoretical approaches may focus on the understanding of social processes and phenomenological method.
