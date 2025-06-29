@@ -560,39 +560,39 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 | City               |    Pop/k | Department  |
 | ------------------ | -------: | ----------- |
-| Montevideo         | 1319.108 | Montevideo  |
-| Salto              |  104.028 | Salto       |
-| Ciudad de la Costa |  112.443 | Canelones   |
-| Paysandú           |   76.429 | Paysandú    |
-| Las Piedras        |   71.258 | Canelones   |
-| Rivera             |   64.426 | Rivera      |
-| Maldonado          |   58.612 | Maldonado   |
-| Tacuarembó         |   54.757 | Tacuarembó  |
+| Montevideo         | 1319.108 | [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]  |
+| Salto              |  104.028 | [[Uruguay/departments~Uruguay/Salto\|Salto]]       |
+| Ciudad de la Costa |  112.443 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
+| Paysandú           |   76.429 | [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]    |
+| Las Piedras        |   71.258 | [[Uruguay/departments~Uruguay/Canelones\|Canelones]]   |
+| Rivera             |   64.426 | [[Uruguay/departments~Uruguay/Rivera\|Rivera]]      |
+| Maldonado          |   58.612 | [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]   |
+| Tacuarembó         |   54.757 | [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]  |
 | Melo               |   51.830 | Cerro Largo |
 
 ## #has_/parts  
 
-| Department     | Capital           |    Pop/k | Area/kkm² |   HDI | Notable Properties               |
-| -------------- | ----------------- | -------: | --------: | ----: | -------------------------------- |
-| Artigas        | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
-| Canelones      | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
-| Cerro Largo    | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
-| Colonia        | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
-| Durazno        | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
-| Flores         | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
-| Florida        | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
-| Lavalleja      | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
-| Maldonado      | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
-| Montevideo     | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
-| Paysandú       | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
-| Río Negro      | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
-| Rivera         | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
-| Rocha          | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
-| Salto          | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
-| San José       | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
-| Soriano        | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
-| Tacuarembó     | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
-| Treinta y Tres | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
+| Department                                                     | Capital           |    Pop/k | Area/kkm² |   HDI | Notable Properties               |
+| -------------------------------------------------------------- | ----------------- | -------: | --------: | ----: | -------------------------------- |
+| [[Uruguay/departments~Uruguay/Artigas\|Artigas]]               | Artigas           |   73.378 |    11.928 | 0.742 | Hot Springs, Amethyst Mines      |
+| [[Uruguay/departments~Uruguay/Canelones\|Canelones]]           | Canelones         |  520.187 |     4.536 | 0.775 | Agroindustry, El Águila          |
+| [[Uruguay/departments~Uruguay/Cerro_Largo\|Cerro Largo]]       | Melo              |   83.536 |    13.648 | 0.740 | Historic Architecture            |
+| [[Uruguay/departments~Uruguay/Colonia\|Colonia]]               | C. del Sacramento |  123.203 |     6.106 | 0.795 | UNESCO World Heritage Site       |
+| [[Uruguay/departments~Uruguay/Durazno\|Durazno]]               | Durazno           |   58.859 |    11.643 | 0.740 | Livestock Production, Festivals  |
+| [[Uruguay/departments~Uruguay/Flores\|Flores]]                 | Trinidad          |   25.050 |     5.144 | 0.758 | Paleontological Sites            |
+| [[Uruguay/departments~Uruguay/Florida_Department\|Florida]]    | Florida           |   69.493 |    10.417 | 0.765 | Historic Sites, Cattle Farming   |
+| [[Uruguay/departments~Uruguay/Lavalleja\|Lavalleja]]           | Minas             |   58.815 |    10.016 | 0.721 | Scenic Landscapes, Mines         |
+| [[Uruguay/departments~Uruguay/Maldonado\|Maldonado]]           | Maldonado         |  190.500 |     4.793 | 0.807 | Punta del Este, Tourism          |
+| [[Uruguay/departments~Uruguay/Montevideo\|Montevideo]]         | Montevideo        | 1319.108 |      .530 | 0.832 | Capital City, Cultural Hub       |
+| [[Uruguay/departments~Uruguay/Paysandú\|Paysandú]]             | Paysandú          |  113.292 |    13.922 | 0.778 | Paper Industry, Tourism          |
+| [[Uruguay/departments~Uruguay/Río_Negro\|Río Negro]]           | Fray Bentos       |   54.765 |     9.282 | 0.747 | UNESCO World Heritage Site       |
+| [[Uruguay/departments~Uruguay/Rivera\|Rivera]]                 | Rivera            |  103.493 |     9.370 | 0.755 | International Border City        |
+| [[Uruguay/departments~Uruguay/Rocha\|Rocha]]                   | Rocha             |   70.374 |    10.551 | 0.749 | Coastal Tourism, Lagoons         |
+| [[Uruguay/departments~Uruguay/Salto\|Salto]]                   | Salto             |  124.878 |    14.163 | 0.781 | Thermal Baths, Agric. Production |
+| [[Uruguay/departments~Uruguay/San_José\|San José]]             | San José de Mayo  |  108.309 |     5.532 | 0.778 | Dairy Industry, Historical Sites |
+| [[Uruguay/departments~Uruguay/Soriano\|Soriano]]               | Mercedes          |   82.594 |     9.008 | 0.777 | Grain Production, Industrial     |
+| [[Uruguay/departments~Uruguay/Tacuarembó\|Tacuarembó]]         | Tacuarembó        |   90.053 |    15.438 | 0.742 | Carnevala, Gaucho Culture        |
+| [[Uruguay/departments~Uruguay/Treinta_y_Tres\|Treinta y Tres]] | Treinta y Tres    |   48.134 |     9.529 | 0.743 | Rural Landscape, Cultural Events |
 
 
 ## Economy 
