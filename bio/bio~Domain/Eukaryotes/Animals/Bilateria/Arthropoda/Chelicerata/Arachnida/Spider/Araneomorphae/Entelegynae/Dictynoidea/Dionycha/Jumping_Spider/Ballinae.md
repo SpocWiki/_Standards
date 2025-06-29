@@ -1,0 +1,81 @@
+---
+title: Ballinae
+---
+
+# [[Ballinae]] 
+
+![ ](Ballinae/ballus.gif)
+Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Jumping_Spider](../Jumping_Spider.md)
+    -   [Dionycha](Dionycha)
+    -   [Entelegynae](Entelegynae)
+    -   [Araneomorphae](Araneomorphae)
+    -   [Spider](../../../../../../Spider.md)
+    -   [Arachnida](Arachnida)
+    -   [Arthropoda](Arthropoda)
+    -   [Bilateria](Bilateria)
+    -   [Animals](Animals)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Salticidae
+    -   [Lyssomaninae](Lyssomaninae.md)
+    -   [Spartaeinae](Spartaeinae.md)
+    -   [Amycinae](Amycinae.md)
+    -   [Thiodininae](Thiodininae.md)
+    -   [Hisponinae](Hisponinae.md)
+    -   [Synemosyninae](Synemosyninae.md)
+    -   [Hyetussinae](Hyetussinae.md)
+    -   [Sitticinae](Sitticinae.md)
+    -   [Plexippinae](Plexippinae.md)
+    -   [Pelleninae](Pelleninae.md)
+    -   [Heliophaninae](Heliophaninae.md)
+    -   [Salticus](Salticus)
+    -   [Miscellaneous salticids with a fixed         embolus](Miscellaneous_salticids_with_a_fixed_embolus)
+    -   [Dendryphantinae](Dendryphantinae.md)
+    -   [Euophryinae](Euophryinae.md)
+    -   [Synagelinae](Synagelinae.md)
+    -   Ballinae
+    -   [Miscellaneous salticids with a free         embolus](Miscellaneous_salticids_with_a_free_embolus)
+
+-   » Sub-Groups
+    -   [Ballus](Ballus)
+    -   [Admestina](Admestina)
+
+	-   *[Ballus](Ballus)*
+	-   *Colaxes*
+	-   *Padilla*
+	-   *Pachyballus*
+	-   *Marengo*
+	-   *[Admestina](Admestina)*
+
+## Introduction
+
+[Wayne Maddison]() 
+
+A tentative grouping of salticids with a specially spiralled embolus. At
+least some are beetle-like or pseudoscorpion-like and bark dwellers.
+
+### Characteristics
+
+Maddison (1988) proposed as synapomorphies for this group two characters
+of the male palpi: (1) a well-coiled embolus lying flat on the tegulum,
+and (2) a tegulum which is divided by a pale longitudinal furrow:
+
+![ ](Ballinae/ballus-pl.gif) ![ ](Ballinae/ballus-pl2.gif)
+
+As well, at least some members share an unusual carapace tegument
+showing a reticulate pattern:
+
+![ ](Ballinae/ballus-integ.gif)
+
+This pattern, however, is also seen in Cheliferoides and Descanso, which
+I have interpreted to be
+[synagelines](tree?group=Synagelinae&contgroup=Salticidae).
+The distinction between synagelines and ballines is clouded by other
+characters as well.
+

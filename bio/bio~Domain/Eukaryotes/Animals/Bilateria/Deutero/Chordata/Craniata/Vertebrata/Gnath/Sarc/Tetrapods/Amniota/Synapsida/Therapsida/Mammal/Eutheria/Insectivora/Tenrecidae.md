@@ -1,0 +1,68 @@
+---
+title: Tenrecidae
+---
+
+# [[Tenrecidae]]
+
+## tenrecs, Madagascar \"hedgehogs\" 
+
+![ ](Tenrecidae/Hemicentetes_semispin.jpg)
+
+## #has_/text_of_/abstract 
+
+> A tenrec is a mammal belonging to any species within the afrotherian family **Tenrecidae**, which is endemic to Madagascar. Tenrecs are a very diverse group, as a result of adaptive radiation, and exhibit convergent evolution, some resemble hedgehogs, shrews, opossums, rats, and mice. They occupy aquatic, arboreal, terrestrial, and fossorial environments. Some of these species, including the greater hedgehog tenrec, can be found in the Madagascar dry deciduous forests. However, the speciation rate in this group has been higher in humid forests.
+>
+> All tenrecs are believed to descend from a common ancestor that lived 29–37 million years ago after rafting over from Africa. The split from their closest relatives, African otter shrews, is estimated to have occurred about 47–53 million years ago.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tenrec)
+
+### Information on the Internet
+
+-   [Family     Tenrecidae](http://animaldiversity.ummz.umich.edu/site/accounts/information/Tenrecidae.html).
+    University of Michigan Animal Diversity Web.
+-   University of Texas Digimorph:
+    -   [Lowland Streaked Tenrec         Skeleton](http://www.digimorph.org/specimens/Hemicentetes_semispinosus/body/)
+    -   [Lowland Streaked Tenrec         Head](http://www.digimorph.org/specimens/Hemicentetes_semispinosus/head/)
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Insectivora](Insectivora.md)
+    -   [Eutheria](Eutheria.md)
+    -   [Mammal](Mammal.md)
+    -   [Therapsida](../../../../Therapsida.md)
+    -   [Synapsida](../../../../../Synapsida.md)
+    -   [Amniota](../../../../../../Amniota.md)
+    -   [Terrestrial Vertebrates](../../../../../../../Terrestrial.md)
+    -   [Sarcopterygii](../../../../../../../../Sarc.md)
+    -   [Gnathostomata](../../../../../../../../../Gnath.md)
+    -   [Vertebrata](../../../../../../../../../../Vertebrata.md)
+    -   [Craniata](../../../../../../../../../../../Craniata.md)
+    -   [Chordata](../../../../../../../../../../../../Chordata.md)
+    -   [Deuterostomia](../../../../../../../../../../../../../Deutero.md)
+    -   [Bilateria](Bilateria)
+    -   [Animals](Animals)
+    -   [Eukaryotes](Eukaryotes)
+    -   [Tree of Life](../../../../../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Insectivora
+    -   [Chrysochloridae](Chrysochloridae.md)
+    -   Tenrecidae
+
+-   » Sub-Groups
+    -   [Micropotamogale](Micropotamogale.md)
+    -   [Oryzorictes](Oryzorictes.md)
+    -   [Microgale](Microgale.md)
+    -   [Geogalinae](Geogalinae.md)
+
+## Title Illustrations
+
+------------------------------------------------------------------------------
+![](Hemicentetes_semispin.jpg)
+Scientific Name ::     Hemicentetes semispinosus (Tenrecidae)
+Location ::           Perinet Reserve (Madagascar)
+Comments             Lowland streaked tenrec
+Creator              Gerald and Buff Corsi
+Specimen Condition   Live Specimen
+Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
+Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 

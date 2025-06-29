@@ -20,7 +20,7 @@ OmegaWiki_Defined_Meaning: "801379"
 
 #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732]] 
 #has_/prev_item :: [[../../bio~Domain]] 
-#has_/next_item :: [[bio~Kingdom]] 
+#has_/next_item :: [[Animals/Bilateria/bio~Class]] 
 
 ## #has_/text_of_/abstract 
 
