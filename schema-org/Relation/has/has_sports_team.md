@@ -33,7 +33,7 @@ Use it like this:
 - [ #has_/sports_team :: SportsTeam ] or 
 - [ has_sports_team :: SportsTeam ] 
 
-A sub property of [[has_participant]]. The sports team that participated on this action.
+A sub property of[[has_participants]]]. The sports team that participated on this action.
 
 Relation describes that: 
 [ #has_/domain  :: ExerciseAction ]

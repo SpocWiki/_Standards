@@ -68,6 +68,10 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg"
 Common_Procurement_Vocabulary_code: 09341000
 ---
 
+
+# [[Uranium]] 
+
+
 #is_/same_as :: [[../../../WikiData/WD~Uranium,1098]] 
 
 
@@ -95,7 +99,6 @@ Common_Procurement_Vocabulary_code: 09341000
 [FormEnergy-kj-mol::477]
 (PeriodNo::7)
 (GroupNo::26)
-[]
 (Charge-e::92)
 
 
@@ -158,6 +161,17 @@ Common_Procurement_Vocabulary_code: 09341000
 > and poses a significant health threat and environmental impact.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uranium)
+
+
+
+| Purity/% | Application      |
+| -------: | ---------------- |
+|        3 | civil Reactor    |
+|       12 | Medical Research |
+|       60 | Atom-U-Boot      |
+|       90 | Atom Bomb        |
+
+
 
 
 ## Confidential Links & Embeds: 

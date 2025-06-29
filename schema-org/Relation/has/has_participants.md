@@ -1,40 +1,53 @@
-﻿---
+---
+has_sub_properties:
+  - [[has_borrower]] 
+  - [[has_lender]] 
+  - [[has_buyer]] 
+  - [[has_seller]] 
+  - [[has_endorsee]] 
+  - [[has_landlord]] 
+  - [[has_loser]] 
+  - [[has_winner]] 
+  - [[has_opponent]] 
+  - [[has_real_estate_agent]] 
+  - [[has_recipient]] 
+  - [[has_sender]] 
+  - [[has_sports_team]] 
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_participant
-
 linkTitle: has_participant
-keywords: [participant]
+keywords:
+  - participant
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- participant
-- participant
-- participant
-- has_participant
+  - participant
+  - participant
+  - participant
+  - has_participant
 ---
 
-Use it like this: 
-- [ #has_/participant :: Organization, Person ] or 
-- [ has_participant :: Organization, Person ] 
+# [[has_participants]] 
 
-Other co-agents that participated in the action indirectly. E.g. John wrote a book with <em>Steve</em>.
+Other co-agents that participated in the action indirectly. 
+E.g. John wrote a book with <em>Steve</em>.
+
+Use it like this: 
+- [ #has_/participants :: Organization, Person ] or 
+- [ has_participants :: Organization, Person ] 
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
@@ -42,6 +55,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 [ #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ] ]
+
 
 ## Confidential Links & Embeds: 
 

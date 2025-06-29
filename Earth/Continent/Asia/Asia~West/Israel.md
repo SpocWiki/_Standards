@@ -282,7 +282,7 @@ native_label:
 - "מְדִינַת יִשְׂרָאֵל"
 official_name:
 - "دَوْلَة إِسْرَائِيل"
-  - ישראל
+- ישראל
 UMLS_CUI: C0022271
 described_at_URL: "http://68k.news/index.php?section=nation&loc=IL&lang=HE"
 name: ꠁꠎꠞꠣꠁꠟ
@@ -436,7 +436,7 @@ subreddit: Israel
 Commons_category: Israel
 short_name:
 - "\U0001F1EE\U0001F1F1"
-  - ישראל
+- ישראל
 minimum_wage:
   - 30.61
   - 5571.75
@@ -503,8 +503,8 @@ aliases:
     - إسرائيل
     - 以色列
     - Израиль
-- "the State of Israel"
-- "el Estado de Israel"
+    - "the State of Israel"
+    - "el Estado de Israel"
 Languages:
     - he
     - ar-IL
@@ -630,8 +630,6 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 > This page is subject to the extended confirmed restriction related to the Arab-**Israel**i conflict.
 >
-> 
->
 > Israel, officially the State of Israel, is a country in West Asia. It is situated in the Southern Levant of the Middle East; and shares borders with Lebanon and Syria to the north, the West Bank and Jordan to the east, the Gaza Strip and Egypt to the southwest, and the Mediterranean Sea to the west. Israel also has a small coastline on the Red Sea at its southernmost point, and part of the Dead Sea lies along its eastern border. Its proclaimed capital is in Jerusalem, while Tel Aviv is the country's largest urban area and economic center.
 >
 > Israel is located in a region known to the Jews as the Land of Israel, synonymous with the Canaan region and the Holy Land. In antiquity, it was home to the Canaanite civilisation followed by the kingdoms of Israel and Judah. Situated at a continental crossroad, the region experienced demographic changes under the rule of empires from the Romans to the Ottomans. European antisemitism in the late 19th century galvanised Zionism, which sought a Jewish homeland in Palestine and gained British support. After World War I, Britain occupied the region and established Mandatory Palestine in 1920. Increased Jewish immigration in the leadup to the Holocaust and British colonial policy led to intercommunal conflict between Jews and Arabs, which escalated into a civil war in 1947 after a proposed partition by the United Nations was rejected by the Palestinians.
@@ -642,6 +640,8 @@ Capital :: [[Israel/Counties/Jerusalem]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Israel)
 
+
+[[Abraham-Accords]] 
 ## Confidential Links & Embeds: 
 
 ### [Israel](/_public/Earth/Continent/Asia/Asia~West/Israel.md) 

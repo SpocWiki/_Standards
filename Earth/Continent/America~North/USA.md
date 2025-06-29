@@ -483,7 +483,7 @@ demonym:
   - ميريكانيات
   - ميريكانية
   - ميريكانيين
-- "d'Estaos Xuníos"
+  - "d'Estaos Xuníos"
   - американски
   - মার্কিন
   - estatunidenc
@@ -909,3 +909,4 @@ Sources:
 ### [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
 
 ### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md) 
+

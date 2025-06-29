@@ -136,15 +136,6 @@ time_of_discovery_or_invention: "1941"
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutonium)
 
 
-| Purity/% | Application      |
-| -------: | ---------------- |
-|        3 | civil Reactor    |
-|       12 | Medical Research |
-|       60 | Atom-U-Boot      |
-|       90 | Atom Bomb        |
-
-
-
 
 ## Confidential Links & Embeds: 
 
