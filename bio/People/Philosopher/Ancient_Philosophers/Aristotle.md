@@ -172,7 +172,7 @@ Experience => Thinking => Reality
 > His father, Nicomachus, died when Aristotle was a child, and he was brought up by a guardian. 
 > At 17 or 18, he joined [[Plato]]'s Academy in Athens and remained there until the age of 37 (c. 347 BC). 
 > Shortly after Plato died, Aristotle left Athens and, at the request of Philip II of Macedon, 
-> tutored his son [[Alexander_the_Great]] beginni[[../../../../../Knowledge/Philosophy/Philosopher/Alexander_the_Great]]ablished a library in the Lyceum, 
+> tutored his son [[../../../../../Knowledge/Philosophy/Philosopher/Alexander_the_Great]] beginni[[../../../../../Knowledge/Philosophy/Philosopher/Alexander_the_Great]]ablished a library in the Lyceum, 
 > which helped him to produce many of his hundreds of books on papyrus scrolls.
 >
 > Though Aristotle wrote many elegant treatises and dialogues for publication, 

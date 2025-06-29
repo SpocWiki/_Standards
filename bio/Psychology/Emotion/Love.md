@@ -67,11 +67,24 @@ Dewey_Decimal_Classification:
 - 177.7
 ---
 
+# [[Love]] 
+
 ## #has_/text_of_/abstract 
 
-> **Love** encompasses a range of strong and positive emotional and mental states, from the most sublime virtue or good habit, or the deepest interpersonal affection, to the simplest pleasure. An example of this range of meanings is that the love of a mother differs from the love of a spouse, which differs from the love of food. Most commonly, love refers to a feeling of strong attraction and emotional attachment.
+> **Love** encompasses a range of strong and positive emotional and mental states, 
+> from the most sublime virtue or good habit, 
+> or the deepest interpersonal affection, to the simplest pleasure. 
+> 
+> An example of this range of meanings is that the love of a mother 
+> differs from the love of a spouse, which differs from the love of food. 
+> Most commonly, love refers to a feeling of strong attraction and emotional attachment.
 >
-> Love is considered to be both positive and negative, with its virtue representing human kindness, compassion, and affection—"the unselfish, loyal, and benevolent concern for the good of another"—and its vice representing a human moral flaw akin to vanity, selfishness, amour-propre, and egotism. It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species.
+> Love is considered to be both positive and negative, 
+> with its virtue representing human kindness, compassion, and affection—
+> "the unselfish, loyal, and benevolent concern for the good of another"—
+> and its vice representing a human moral flaw akin to vanity, selfishness, amour-propre, and egotism. 
+> 
+> It may also describe compassionate and affectionate actions towards other humans, oneself, or animals. In its various forms, love acts as a major facilitator of interpersonal relationships, and owing to its central psychological importance, is one of the most common themes in the creative arts. Love has been postulated to be a function that keeps human beings together against menaces and to facilitate the continuation of the species.
 >
 > Ancient Greek philosophers identified six forms of love: familial love (storge), friendly love or platonic love (philia), romantic love (eros), self-love (philautia), guest love (xenia), and divine or unconditional love (agape). Modern authors have distinguished further varieties of love: fatuous love, unrequited love, empty love, companionate love, consummate love, infatuated love (limerence), amour de soi, and courtly love. Numerous cultures have also distinguished Ren, Yuanfen, Mamihlapinatapai, Cafuné, Kama, Bhakti, Mettā, Ishq, Chesed, Amore, charity, Saudade (and other variants or symbioses of these states), as culturally unique words, definitions, or expressions of love in regard to specified "moments" currently lacking in the English language.
 >

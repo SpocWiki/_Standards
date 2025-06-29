@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11024
 has_characteristic:
 - '[[_Standards/WikiData/WD~media,340169]]'

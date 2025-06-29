@@ -1,11 +1,52 @@
+---
+aliases:
+  - Nobel Prize in Physiology or Medicine 
+  - Nobelpriset i fysiologi eller medicin 
+  - Nobel Prize in Medicine 
+---
 
 ## #has_/text_of_/abstract 
 
-> The Nobel Prize in Physiology or Medicine (Swedish: Nobelpriset i fysiologi eller medicin) is awarded annually by the Swedish Karolinska Institute to scientists in the various fields of physiology or medicine. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel (who died in 1896), awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by a committee that consists of five members and an executive secretary elected by the Karolinska Institute. While commonly referred to as the Nobel Prize in Medicine, Nobel specifically stated that the prize be awarded for "physiology or medicine" in his will. Because of this, the prize can be awarded in a broader range of fields. The first Nobel Prize in Physiology or Medicine was awarded in 1901 to Emil Adolf von Behring, of Germany. Each recipient receives a medal, a diploma and a monetary award that has varied throughout the years. In 1901, von Behring received 150,782 SEK, which was equal to 7,731,004 SEK in December 2008. The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death.
+> The Nobel Prize in Physiology or Medicine (Swedish: Nobelpriset i fysiologi eller medicin) is awarded 
+> annually by the Swedish Karolinska Institute to scientists in the various fields of physiology or medicine. 
+> 
+> It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel (who died in 1896), 
+> awarded for outstanding contributions in chemistry, physics, literature, peace, and physiology or medicine. 
+> As dictated by Nobel's will, the award is administered by the Nobel Foundation 
+> and awarded by a committee that consists of five members and an executive secretary 
+> elected by the Karolinska Institute. 
+> 
+> While commonly referred to as the Nobel Prize in Medicine, 
+> Nobel specifically stated that the prize be awarded for "physiology or medicine" in his will. 
+> 
+> Because of this, the prize can be awarded in a broader range of fields. 
+> The first Nobel Prize in Physiology or Medicine was awarded in 1901 to Emil Adolf von Behring. 
+> 
+> Each recipient receives a medal, a diploma and a monetary award that has varied throughout the years. 
+> In 1901, von Behring received 150,782 SEK, which was equal to 7,731,004 SEK in December 2008. 
+> The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death.
 >
-> Laureates have won the Nobel Prize in a wide range of fields that relate to physiology or medicine. As of 2009, 8 Prizes have been awarded for contributions in the field of signal transduction by G proteins and second messengers, 13 have been awarded for contributions in the field of neurobiology and 13 have been awarded for contributions in intermediary metabolism. In 1939 Gerhard Domagk, a German, was not allowed by his government to accept the prize. He later received a medal and diploma, but not the money. As of 2024, the prize has been awarded to 229 individuals, thirteen of them were women (Gerty Cori being the first to be awarded in 1947).
+> Laureates have won the Nobel Prize in a wide range of fields that relate to physiology or medicine. 
+> As of 2009, 8 Prizes have been awarded for contributions in the field of signal transduction by G proteins and second messengers, 13 have been awarded for contributions in the field of neurobiology 
+> and 13 have been awarded for contributions in intermediary metabolism. 
+> 
+> In 1939 Gerhard Domagk, a German, was not allowed by his government to accept the prize. 
+> He later received a medal and diploma, but not the money. 
+> As of 2024, the prize has been awarded to 229 individuals, 
+> thirteen of them were women (Gerty Cori being the first to be awarded in 1947).
 >
-> There have been nine years in which the Nobel Prize in Physiology or Medicine was not awarded (1915–1918, 1921, 1925, 1940–1942). There were also five years for which the Nobel Prize in Physiology or Medicine was delayed for one year. The Prize was not awarded in 1914, as the Nobel Committee for Physiology or Medicine decided that none of that year's nominations met the necessary criteria, but was awarded to Robert Bárány in 1915 and counted as the 1914 prize. This precedent was followed for the 1922 prize awarded to Archibald Hill and Otto Fritz Meyerhof in 1923, the 1926 prize awarded to Johannes Fibiger in 1927, the 1938 prize awarded to Corneille Heymans in 1939, and the 1943 prize awarded to Henrik Dam and Edward Adelbert Doisy in 1944.
+> There have been nine years in which the Nobel Prize in Physiology or Medicine was not awarded 
+> (1915–1918, 1921, 1925, 1940–1942). 
+> There were also five years for which the Nobel Prize in Physiology or Medicine was delayed for one year. 
+> The Prize was not awarded in 1914, as the Nobel Committee for Physiology or Medicine decided that 
+> none of that year's nominations met the necessary criteria, 
+> but was awarded to Robert Bárány in 1915 and counted as the 1914 prize. 
+> 
+> This precedent was followed for 
+> - the 1922 prize awarded to Archibald Hill and Otto Fritz Meyerhof in 1923, 
+> - the 1926 prize awarded to Johannes Fibiger in 1927, 
+> - the 1938 prize awarded to Corneille Heymans in 1939, and 
+> - the 1943 prize awarded to Henrik Dam and Edward Adelbert Doisy in 1944.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20Nobel%20laureates%20in%20Physiology%20or%20Medicine)
 

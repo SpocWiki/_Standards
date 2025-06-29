@@ -161,7 +161,19 @@ time_of_discovery_or_invention: "-5000"
 >
 > The body of an adult human contains about 4 grams (0.005% body weight) of iron, 
 > mostly in hemoglobin and myoglobin. 
-> These two proteins play essential roles in vertebrate metabolism, respectively oxygen transport by blood and oxygen storage in muscles. To maintain the necessary levels, human iron metabolism requires a minimum of iron in the diet. Iron is also the metal at the active site of many important redox enzymes dealing with cellular respiration and oxidation and reduction in plants and animals.Chemically, the most common oxidation states of iron are iron(II) and iron(III). Iron shares many properties of other transition metals, including the other group 8 elements, ruthenium and osmium. Iron forms compounds in a wide range of oxidation states, −2 to +7. Iron also forms many coordination compounds; some of them, such as ferrocene, ferrioxalate, and Prussian blue have substantial industrial, medical, or research applications.
+> These two proteins play essential roles in vertebrate metabolism, respectively oxygen transport by blood and oxygen storage in muscles. 
+> To maintain the necessary levels, human iron metabolism requires a minimum of iron in the diet. 
+> 
+> Iron is also the metal at the active site of many important redox enzymes 
+> dealing with cellular respiration and oxidation and reduction in plants and animals.
+> 
+> Chemically, the most common oxidation states of iron are iron(II) and iron(III). 
+> 
+> Iron shares many properties of other transition metals, including the other group 8 elements, ruthenium and osmium. 
+> Iron forms compounds in a wide range of oxidation states, −2 to +7. 
+> 
+> Iron also forms many coordination compounds; 
+> some of them, such as ferrocene, ferrioxalate, and [[Prussian blue]] have substantial industrial, medical, or research applications.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron)
 

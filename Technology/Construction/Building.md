@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q41176
 has_part_s_:
 - '[[_Standards/WikiData/WD~roof,83180]]'

@@ -1,7 +1,24 @@
+---
+aliases:
+  - Nobel Prize in Physics
+  - Nobelpriset i fysik
+---
 
 ## #has_/text_of_/abstract 
 
-> The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of physics. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel (who died in 1896), awarded for outstanding contributions in physics. As dictated by Nobel's will, the award is administered by the Nobel Foundation and awarded by the Royal Swedish Academy of Sciences. The award is presented in Stockholm at an annual ceremony on 10 December, the anniversary of Nobel's death. Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years.
+> The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually 
+> by the Royal Swedish Academy of Sciences to scientists in the various fields of physics. 
+> 
+> It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel (who died in 1896), 
+> awarded for outstanding contributions in physics. 
+> 
+> As dictated by Nobel's will, the award is administered by the Nobel Foundation 
+> and awarded by the Royal Swedish Academy of Sciences. 
+> 
+> The award is presented in Stockholm at an annual ceremony on 10 December, 
+> the anniversary of Nobel's death. 
+> 
+> Each recipient receives a medal, a diploma and a monetary award prize that has varied throughout the years.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20Nobel%20laureates%20in%20Physics)
 
