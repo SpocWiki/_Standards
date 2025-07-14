@@ -26,9 +26,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Psychology.public](/_public\bio/Psychology.public.md) 
+### [Psychology.public](/_public/bio/Psychology.public.md) 
 
-### [Psychology.internal](/_internal\bio/Psychology.internal.md) 
+### [Psychology.internal](/_internal/bio/Psychology.internal.md) 
 
 ### [Psychology.protect](/_protect\bio/Psychology.protect.md) 
 

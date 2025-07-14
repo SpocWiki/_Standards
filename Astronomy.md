@@ -88,7 +88,9 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 > Astronomy is one of the few sciences in which amateurs play an active role. This is especially true for the discovery and observation of transient events. Amateur astronomers have helped with many important discoveries, such as finding new comets.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomy)
-> 
+> 
+
+
 
 
 ## Confidential Links & Embeds: 
