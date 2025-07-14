@@ -32,6 +32,8 @@ social_media_followers: 43663
 date_of_birth: "1968-07-05"
 ---
 
+# [[Lithium]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568_WD~Lithium,568]] 
 
 #chemic/Element 
@@ -99,6 +101,10 @@ date_of_birth: "1968-07-05"
 > and antidepressant in the treatment of mental illness such as bipolar disorder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
+
+## Lithium Batteries 
+
+require Graphite instead of amorphous Carbon which can be used with [[Natrium]]
 
 ## Confidential Links & Embeds: 
 

@@ -72,6 +72,10 @@ element_symbol: H
 Commons_gallery: Hydrogen
 ---
 
+
+# [[Hydrogen]] 
+
+
 #is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
 
 
@@ -203,3 +207,5 @@ Hydrogen is classified by **"color labels"** to indicate the **primary energy so
 ### [Hydrogenium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.personal.md) 
 
 ### [Hydrogenium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.secret.md) 
+
+
