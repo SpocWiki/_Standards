@@ -146,8 +146,6 @@ IPTC_NewsCode: mediatopic/20000745
 > [Wikipedia](https://en.wikipedia.org/wiki/Economics) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### [Economics.public](/_public/Economics.public.md) 

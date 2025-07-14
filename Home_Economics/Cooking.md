@@ -71,3 +71,17 @@ MeSH_tree_code: J01.576.423.200.200
 > [Wikipedia](https://en.wikipedia.org/wiki/Cooking) 
 
 
+## Confidential Links & Embeds: 
+
+### [Cooking.public](/_public/\Home_EconomicsCooking.public.md) 
+
+### [Cooking.internal](/_internal/\Home_EconomicsCooking.internal.md) 
+
+### [Cooking.protect](/_protect/\Home_EconomicsCooking.protect.md) 
+
+### [Cooking.private](/_private/\Home_EconomicsCooking.private.md) 
+
+### [Cooking.personal](/_personal/\Home_EconomicsCooking.personal.md) 
+
+### [Cooking.secret](/_secret/\Home_EconomicsCooking.secret.md)
+

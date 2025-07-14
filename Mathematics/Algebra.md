@@ -59,3 +59,17 @@ Library_of_Congress_Classification: Z6654.A5
 > [Wikipedia](https://en.wikipedia.org/wiki/Algebra)
 
 
+## Confidential Links & Embeds: 
+
+### [Algebra.public](/_public/\MathematicsAlgebra.public.md) 
+
+### [Algebra.internal](/_internal/\MathematicsAlgebra.internal.md) 
+
+### [Algebra.protect](/_protect/\MathematicsAlgebra.protect.md) 
+
+### [Algebra.private](/_private/\MathematicsAlgebra.private.md) 
+
+### [Algebra.personal](/_personal/\MathematicsAlgebra.personal.md) 
+
+### [Algebra.secret](/_secret/\MathematicsAlgebra.secret.md)
+

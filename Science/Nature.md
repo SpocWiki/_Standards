@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7860
 opposite_of: '[[_Standards/WikiData/WD~supernatural,80837]]'
 different_from: '[[_Standards/WikiData/WD~Natura,396865]]'
@@ -40,4 +40,19 @@ U_S_National_Archives_Identifier: 10643499
 > Within the various uses of the word today, "nature" often refers to geology and wildlife. Nature can refer to the general realm of living beings, and in some cases to the processes associated with inanimate objects—the way that particular types of things exist and change of their own accord, such as the weather and geology of the Earth. It is often taken to mean the "natural environment" or wilderness—wild animals, rocks, forest, and in general those things that have not been substantially altered by human intervention, or which persist despite human intervention. For example, manufactured objects and human interaction generally are not considered part of nature, unless qualified as, for example, "human nature" or "the whole of nature". This more traditional concept of natural things that can still be found today implies a distinction between the natural and the artificial, with the artificial being understood as that which has been brought into being by a human consciousness or a human mind. Depending on the particular context, the term "natural" might also be distinguished from the unnatural or the supernatural.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nature)
+
+
+## Confidential Links & Embeds: 
+
+### [Nature.public](/_public/\ScienceNature.public.md) 
+
+### [Nature.internal](/_internal/\ScienceNature.internal.md) 
+
+### [Nature.protect](/_protect/\ScienceNature.protect.md) 
+
+### [Nature.private](/_private/\ScienceNature.private.md) 
+
+### [Nature.personal](/_personal/\ScienceNature.personal.md) 
+
+### [Nature.secret](/_secret/\ScienceNature.secret.md)
 

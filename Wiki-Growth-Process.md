@@ -71,7 +71,6 @@ Therefore the Modules should typically be cloned into a temporary Folder and ver
 Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### [Wiki-Growth-Process.public](/_public/Wiki-Growth-Process.public.md) 

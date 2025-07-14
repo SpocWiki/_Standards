@@ -1,4 +1,4 @@
-﻿---
+---
 title: CreativeCommons
 linkTitle: 
 keywords: 
@@ -52,16 +52,19 @@ Examples:
 
 
 Creative Commons is a global nonprofit organization dedicated to expanding the range of creative works available for others to build upon and share legally. It was founded in 2001 by Lawrence Lessig, Hal Abelson, and Eric Eldred, with the goal of providing a legal framework for creators to share their works while retaining some rights.
+
+
 ## Confidential Links & Embeds: 
 
-### [CC-Licenses](/_public/cc/CC-Licenses.md) 
+### [CC-Licenses.public](/_public/\ccCC-Licenses.public.md) 
 
-### [CC-Licenses.internal](/_internal/cc/CC-Licenses.internal.md) 
+### [CC-Licenses.internal](/_internal/\ccCC-Licenses.internal.md) 
 
-### [CC-Licenses.protect](/_protect/cc/CC-Licenses.protect.md) 
+### [CC-Licenses.protect](/_protect/\ccCC-Licenses.protect.md) 
 
-### [CC-Licenses.private](/_private/cc/CC-Licenses.private.md) 
+### [CC-Licenses.private](/_private/\ccCC-Licenses.private.md) 
 
-### [CC-Licenses.personal](/_personal/cc/CC-Licenses.personal.md) 
+### [CC-Licenses.personal](/_personal/\ccCC-Licenses.personal.md) 
 
-### [CC-Licenses.secret](/_secret/cc/CC-Licenses.secret.md) 
+### [CC-Licenses.secret](/_secret/\ccCC-Licenses.secret.md)
+

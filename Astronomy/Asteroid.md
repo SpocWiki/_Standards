@@ -41,3 +41,19 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/ASTEROID.html
 > Near-Earth asteroids have the potential for catastrophic consequences if they strike Earth, with a notable example being the Chicxulub impact, widely thought to have induced the Cretaceous–Paleogene mass extinction. As an experiment to meet this danger, in September 2022 the Double Asteroid Redirection Test spacecraft successfully altered the orbit of the non-threatening asteroid Dimorphos by crashing into it.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asteroid)
+
+
+## Confidential Links & Embeds: 
+
+### [Asteroid.public](/_public/\AstronomyAsteroid.public.md) 
+
+### [Asteroid.internal](/_internal/\AstronomyAsteroid.internal.md) 
+
+### [Asteroid.protect](/_protect/\AstronomyAsteroid.protect.md) 
+
+### [Asteroid.private](/_private/\AstronomyAsteroid.private.md) 
+
+### [Asteroid.personal](/_personal/\AstronomyAsteroid.personal.md) 
+
+### [Asteroid.secret](/_secret/\AstronomyAsteroid.secret.md)
+

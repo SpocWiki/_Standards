@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8091
 subclass_of:
 - '[[_Standards/WikiData/WD~convention,367293]]'
@@ -45,4 +45,18 @@ related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grammar) 
 
+
+## Confidential Links & Embeds: 
+
+### [Grammar.public](/_public/\LanguageGrammar.public.md) 
+
+### [Grammar.internal](/_internal/\LanguageGrammar.internal.md) 
+
+### [Grammar.protect](/_protect/\LanguageGrammar.protect.md) 
+
+### [Grammar.private](/_private/\LanguageGrammar.private.md) 
+
+### [Grammar.personal](/_personal/\LanguageGrammar.personal.md) 
+
+### [Grammar.secret](/_secret/\LanguageGrammar.secret.md)
 

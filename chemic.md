@@ -18,7 +18,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemistry)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### [chemic.public](/_public/chemic.public.md) 

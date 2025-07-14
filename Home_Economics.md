@@ -50,7 +50,6 @@ Commons_category: "Family and consumer science"
 > [Wikipedia](https://en.wikipedia.org/wiki/Home%20economics)
 
 
-
 ## Confidential Links & Embeds: 
 
 ### [Home_Economics.public](/_public/Home_Economics.public.md) 

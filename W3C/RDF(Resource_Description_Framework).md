@@ -1,4 +1,4 @@
-﻿# [[RDF(Resource_Description_Framework)]] 
+# [[RDF(Resource_Description_Framework)]] 
 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#
 #has_/url_for_ :: rdf 
@@ -16,14 +16,15 @@
 
 ## Confidential Links & Embeds: 
 
-### [RDF(Resource_Description_Framework)](/_public/W3C/RDF(Resource_Description_Framework).md) 
+### [RDF(Resource_Description_Framework).public](/_public/\W3CRDF(Resource_Description_Framework).public.md) 
 
-### [RDF(Resource_Description_Framework).internal](/_internal/W3C/RDF(Resource_Description_Framework).internal.md) 
+### [RDF(Resource_Description_Framework).internal](/_internal/\W3CRDF(Resource_Description_Framework).internal.md) 
 
-### [RDF(Resource_Description_Framework).protect](/_protect/W3C/RDF(Resource_Description_Framework).protect.md) 
+### [RDF(Resource_Description_Framework).protect](/_protect/\W3CRDF(Resource_Description_Framework).protect.md) 
 
-### [RDF(Resource_Description_Framework).private](/_private/W3C/RDF(Resource_Description_Framework).private.md) 
+### [RDF(Resource_Description_Framework).private](/_private/\W3CRDF(Resource_Description_Framework).private.md) 
 
-### [RDF(Resource_Description_Framework).personal](/_personal/W3C/RDF(Resource_Description_Framework).personal.md) 
+### [RDF(Resource_Description_Framework).personal](/_personal/\W3CRDF(Resource_Description_Framework).personal.md) 
 
-### [RDF(Resource_Description_Framework).secret](/_secret/W3C/RDF(Resource_Description_Framework).secret.md) 
+### [RDF(Resource_Description_Framework).secret](/_secret/\W3CRDF(Resource_Description_Framework).secret.md)
+

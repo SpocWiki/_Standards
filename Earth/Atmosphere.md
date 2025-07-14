@@ -51,16 +51,18 @@ Below 3km
 - The **Exosphere** gradually transitions into space, so it has no clear boundary, 
   but 10,000 km is often considered the upper limit of Earth's atmosphere.
 
+
 ## Confidential Links & Embeds: 
 
-### [Atmosphere](/_public/Earth/Atmosphere.md) 
+### [Atmosphere.public](/_public/\EarthAtmosphere.public.md) 
 
-### [Atmosphere.internal](/_internal/Earth/Atmosphere.internal.md) 
+### [Atmosphere.internal](/_internal/\EarthAtmosphere.internal.md) 
 
-### [Atmosphere.protect](/_protect/Earth/Atmosphere.protect.md) 
+### [Atmosphere.protect](/_protect/\EarthAtmosphere.protect.md) 
 
-### [Atmosphere.private](/_private/Earth/Atmosphere.private.md) 
+### [Atmosphere.private](/_private/\EarthAtmosphere.private.md) 
 
-### [Atmosphere.personal](/_personal/Earth/Atmosphere.personal.md) 
+### [Atmosphere.personal](/_personal/\EarthAtmosphere.personal.md) 
 
-### [Atmosphere.secret](/_secret/Earth/Atmosphere.secret.md) 
+### [Atmosphere.secret](/_secret/\EarthAtmosphere.secret.md)
+

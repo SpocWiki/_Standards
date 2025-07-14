@@ -1,4 +1,4 @@
-﻿
+
 # [[Planck-Unit]] 
 
 > In particle physics and physical cosmology, 
@@ -45,14 +45,15 @@ such as [[Stoney-Unit]] which set the elementary Charge to 1.
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Unit](/_public/Unit/Planck-Unit.md) 
+### [Planck-Unit.public](/_public/\UnitPlanck-Unit.public.md) 
 
-### [Planck-Unit.internal](/_internal/Unit/Planck-Unit.internal.md) 
+### [Planck-Unit.internal](/_internal/\UnitPlanck-Unit.internal.md) 
 
-### [Planck-Unit.protect](/_protect/Unit/Planck-Unit.protect.md) 
+### [Planck-Unit.protect](/_protect/\UnitPlanck-Unit.protect.md) 
 
-### [Planck-Unit.private](/_private/Unit/Planck-Unit.private.md) 
+### [Planck-Unit.private](/_private/\UnitPlanck-Unit.private.md) 
 
-### [Planck-Unit.personal](/_personal/Unit/Planck-Unit.personal.md) 
+### [Planck-Unit.personal](/_personal/\UnitPlanck-Unit.personal.md) 
 
-### [Planck-Unit.secret](/_secret/Unit/Planck-Unit.secret.md) 
+### [Planck-Unit.secret](/_secret/\UnitPlanck-Unit.secret.md)
+

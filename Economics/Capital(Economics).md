@@ -45,3 +45,18 @@ name: "Capital (economics)"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capital%20(economics))
 
+
+## Confidential Links & Embeds: 
+
+### [Capital(Economics).public](/_public/\EconomicsCapital(Economics).public.md) 
+
+### [Capital(Economics).internal](/_internal/\EconomicsCapital(Economics).internal.md) 
+
+### [Capital(Economics).protect](/_protect/\EconomicsCapital(Economics).protect.md) 
+
+### [Capital(Economics).private](/_private/\EconomicsCapital(Economics).private.md) 
+
+### [Capital(Economics).personal](/_personal/\EconomicsCapital(Economics).personal.md) 
+
+### [Capital(Economics).secret](/_secret/\EconomicsCapital(Economics).secret.md)
+

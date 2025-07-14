@@ -73,9 +73,6 @@ noteOnly: true
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### [goodRelations.public](/_public/goodRelations.public.md) 

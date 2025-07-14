@@ -62,8 +62,6 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Technology)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### [Technology.public](/_public/Technology.public.md) 

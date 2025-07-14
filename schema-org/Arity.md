@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - nullary
   - Unary
@@ -150,18 +150,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Arity)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Arity](/_public/schema-org/Arity.md) 
+### [Arity.public](/_public/\schema-orgArity.public.md) 
 
-### [Arity.internal](/_internal/schema-org/Arity.internal.md) 
+### [Arity.internal](/_internal/\schema-orgArity.internal.md) 
 
-### [Arity.protect](/_protect/schema-org/Arity.protect.md) 
+### [Arity.protect](/_protect/\schema-orgArity.protect.md) 
 
-### [Arity.private](/_private/schema-org/Arity.private.md) 
+### [Arity.private](/_private/\schema-orgArity.private.md) 
 
-### [Arity.personal](/_personal/schema-org/Arity.personal.md) 
+### [Arity.personal](/_personal/\schema-orgArity.personal.md) 
 
-### [Arity.secret](/_secret/schema-org/Arity.secret.md) 
+### [Arity.secret](/_secret/\schema-orgArity.secret.md)
+
