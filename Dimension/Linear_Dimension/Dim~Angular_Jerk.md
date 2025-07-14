@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Dim~Angular_Jerk
   - Dim~Angular_Jolt
@@ -25,14 +25,15 @@ Jump-discontinuity in acceleration can be modeled using a [Dirac delta function]
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Angular_Jerk](/_public/Dimension/Linear_Dimension/Dim~Angular_Jerk.md) 
+### [Dim~Angular_Jerk.public](/_public\Dimension\Linear_Dimension/Dim~Angular_Jerk.public.md) 
 
-### [Dim~Angular_Jerk.internal](/_internal/Dimension/Linear_Dimension/Dim~Angular_Jerk.internal.md) 
+### [Dim~Angular_Jerk.internal](/_internal\Dimension\Linear_Dimension/Dim~Angular_Jerk.internal.md) 
 
-### [Dim~Angular_Jerk.protect](/_protect/Dimension/Linear_Dimension/Dim~Angular_Jerk.protect.md) 
+### [Dim~Angular_Jerk.protect](/_protect\Dimension\Linear_Dimension/Dim~Angular_Jerk.protect.md) 
 
-### [Dim~Angular_Jerk.private](/_private/Dimension/Linear_Dimension/Dim~Angular_Jerk.private.md) 
+### [Dim~Angular_Jerk.private](/_private\Dimension\Linear_Dimension/Dim~Angular_Jerk.private.md) 
 
-### [Dim~Angular_Jerk.personal](/_personal/Dimension/Linear_Dimension/Dim~Angular_Jerk.personal.md) 
+### [Dim~Angular_Jerk.personal](/_personal\Dimension\Linear_Dimension/Dim~Angular_Jerk.personal.md) 
 
-### [Dim~Angular_Jerk.secret](/_secret/Dimension/Linear_Dimension/Dim~Angular_Jerk.secret.md) 
+### [Dim~Angular_Jerk.secret](/_secret\Dimension\Linear_Dimension/Dim~Angular_Jerk.secret.md)
+

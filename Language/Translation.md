@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7553
 practiced_by:
 - '[[_Standards/WikiData/WD~translator,333634]]'
@@ -41,4 +41,19 @@ Commons_category: Translation
 > Because of the laboriousness of the translation process, since the 1940s efforts have been made, with varying degrees of success, to automate translation or to mechanically aid the human translator. More recently, the rise of the Internet has fostered a world-wide market for translation services and has facilitated "language localisation".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Translation) 
+
+
+## Confidential Links & Embeds: 
+
+### [Translation.public](/_public\Language/Translation.public.md) 
+
+### [Translation.internal](/_internal\Language/Translation.internal.md) 
+
+### [Translation.protect](/_protect\Language/Translation.protect.md) 
+
+### [Translation.private](/_private\Language/Translation.private.md) 
+
+### [Translation.personal](/_personal\Language/Translation.personal.md) 
+
+### [Translation.secret](/_secret\Language/Translation.secret.md)
 

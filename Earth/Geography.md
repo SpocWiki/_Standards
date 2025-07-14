@@ -80,3 +80,17 @@ Universal_Decimal_Classification: 91
 > [Wikipedia](https://en.wikipedia.org/wiki/Geography) 
 
 
+## Confidential Links & Embeds: 
+
+### [Geography.public](/_public\Earth/Geography.public.md) 
+
+### [Geography.internal](/_internal\Earth/Geography.internal.md) 
+
+### [Geography.protect](/_protect\Earth/Geography.protect.md) 
+
+### [Geography.private](/_private\Earth/Geography.private.md) 
+
+### [Geography.personal](/_personal\Earth/Geography.personal.md) 
+
+### [Geography.secret](/_secret\Earth/Geography.secret.md)
+

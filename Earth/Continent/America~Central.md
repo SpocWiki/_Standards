@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q27611
 coordinate_location: "Point(-86.0 12.0)"
 described_by_source:
@@ -79,16 +79,18 @@ markerFolder: ./America~Central/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20America) 
 
+
 ## Confidential Links & Embeds: 
 
-### [America~Central](/_public/Earth/Continent/America~Central.md) 
+### [America~Central.public](/_public\Earth\Continent/America~Central.public.md) 
 
-### [America~Central.internal](/_internal/Earth/Continent/America~Central.internal.md) 
+### [America~Central.internal](/_internal\Earth\Continent/America~Central.internal.md) 
 
-### [America~Central.protect](/_protect/Earth/Continent/America~Central.protect.md) 
+### [America~Central.protect](/_protect\Earth\Continent/America~Central.protect.md) 
 
-### [America~Central.private](/_private/Earth/Continent/America~Central.private.md) 
+### [America~Central.private](/_private\Earth\Continent/America~Central.private.md) 
 
-### [America~Central.personal](/_personal/Earth/Continent/America~Central.personal.md) 
+### [America~Central.personal](/_personal\Earth\Continent/America~Central.personal.md) 
 
-### [America~Central.secret](/_secret/Earth/Continent/America~Central.secret.md) 
+### [America~Central.secret](/_secret\Earth\Continent/America~Central.secret.md)
+

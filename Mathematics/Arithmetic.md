@@ -70,3 +70,18 @@ Gujarati_Vishwakosh_entry: અંકગણિત
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic)
 
+
+## Confidential Links & Embeds: 
+
+### [Arithmetic.public](/_public\Mathematics/Arithmetic.public.md) 
+
+### [Arithmetic.internal](/_internal\Mathematics/Arithmetic.internal.md) 
+
+### [Arithmetic.protect](/_protect\Mathematics/Arithmetic.protect.md) 
+
+### [Arithmetic.private](/_private\Mathematics/Arithmetic.private.md) 
+
+### [Arithmetic.personal](/_personal\Mathematics/Arithmetic.personal.md) 
+
+### [Arithmetic.secret](/_secret\Mathematics/Arithmetic.secret.md)
+

@@ -44,3 +44,20 @@ Commons_category: Bases
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Base%20(chemistry))
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Base(chemistry).public](/_public\chemic\inOrganic/Base(chemistry).public.md) 
+
+### [Base(chemistry).internal](/_internal\chemic\inOrganic/Base(chemistry).internal.md) 
+
+### [Base(chemistry).protect](/_protect\chemic\inOrganic/Base(chemistry).protect.md) 
+
+### [Base(chemistry).private](/_private\chemic\inOrganic/Base(chemistry).private.md) 
+
+### [Base(chemistry).personal](/_personal\chemic\inOrganic/Base(chemistry).personal.md) 
+
+### [Base(chemistry).secret](/_secret\chemic\inOrganic/Base(chemistry).secret.md)
+

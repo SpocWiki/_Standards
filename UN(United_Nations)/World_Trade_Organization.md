@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "World Trade Organization"
 has_id_wikidata: Q7825
@@ -77,5 +77,17 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Trade%20Organization)
 
 
+## Confidential Links & Embeds: 
 
+### [World_Trade_Organization.public](/_public\UN(United_Nations)/World_Trade_Organization.public.md) 
+
+### [World_Trade_Organization.internal](/_internal\UN(United_Nations)/World_Trade_Organization.internal.md) 
+
+### [World_Trade_Organization.protect](/_protect\UN(United_Nations)/World_Trade_Organization.protect.md) 
+
+### [World_Trade_Organization.private](/_private\UN(United_Nations)/World_Trade_Organization.private.md) 
+
+### [World_Trade_Organization.personal](/_personal\UN(United_Nations)/World_Trade_Organization.personal.md) 
+
+### [World_Trade_Organization.secret](/_secret\UN(United_Nations)/World_Trade_Organization.secret.md)
 

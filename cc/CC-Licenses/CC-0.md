@@ -1,4 +1,4 @@
-﻿---
+---
 title: CC-0
 linkTitle: 
 keywords: 
@@ -42,16 +42,18 @@ Consider using the [[CC-BY-SA]] used by [[../../../Data/Wikipedia|Wikipedia]].
 Content-License allowing to reuse the data to the max. Extent. 
 Unlike [[CC-BY]] no Sources need to be specified, which [can blur the provenience](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2015-12-02/Op-ed). 
 
+
 ## Confidential Links & Embeds: 
 
-### [CC-0](/_public/cc/CC-Licenses/CC-0.md) 
+### [CC-0.public](/_public\cc\CC-Licenses/CC-0.public.md) 
 
-### [CC-0.internal](/_internal/cc/CC-Licenses/CC-0.internal.md) 
+### [CC-0.internal](/_internal\cc\CC-Licenses/CC-0.internal.md) 
 
-### [CC-0.protect](/_protect/cc/CC-Licenses/CC-0.protect.md) 
+### [CC-0.protect](/_protect\cc\CC-Licenses/CC-0.protect.md) 
 
-### [CC-0.private](/_private/cc/CC-Licenses/CC-0.private.md) 
+### [CC-0.private](/_private\cc\CC-Licenses/CC-0.private.md) 
 
-### [CC-0.personal](/_personal/cc/CC-Licenses/CC-0.personal.md) 
+### [CC-0.personal](/_personal\cc\CC-Licenses/CC-0.personal.md) 
 
-### [CC-0.secret](/_secret/cc/CC-Licenses/CC-0.secret.md) 
+### [CC-0.secret](/_secret\cc\CC-Licenses/CC-0.secret.md)
+

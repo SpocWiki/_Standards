@@ -11,3 +11,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Economist) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Economist.public](/_public\bio\People/Economist.public.md) 
+
+### [Economist.internal](/_internal\bio\People/Economist.internal.md) 
+
+### [Economist.protect](/_protect\bio\People/Economist.protect.md) 
+
+### [Economist.private](/_private\bio\People/Economist.private.md) 
+
+### [Economist.personal](/_personal\bio\People/Economist.personal.md) 
+
+### [Economist.secret](/_secret\bio\People/Economist.secret.md)
+

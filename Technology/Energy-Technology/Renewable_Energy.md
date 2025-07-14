@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12705
 aliases:
 - "Renewable energy"
@@ -41,4 +41,21 @@ GitHub_topic: renewable-energy
 > [Wikipedia](https://en.wikipedia.org/wiki/Renewable%20energy)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Renewable_Energy.public](/_public\Technology\Energy-Technology/Renewable_Energy.public.md) 
+
+### [Renewable_Energy.internal](/_internal\Technology\Energy-Technology/Renewable_Energy.internal.md) 
+
+### [Renewable_Energy.protect](/_protect\Technology\Energy-Technology/Renewable_Energy.protect.md) 
+
+### [Renewable_Energy.private](/_private\Technology\Energy-Technology/Renewable_Energy.private.md) 
+
+### [Renewable_Energy.personal](/_personal\Technology\Energy-Technology/Renewable_Energy.personal.md) 
+
+### [Renewable_Energy.secret](/_secret\Technology\Energy-Technology/Renewable_Energy.secret.md)
 

@@ -28,3 +28,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/International%20Monetary%20Fund)
 
+
+## Confidential Links & Embeds: 
+
+### [IMF(International_Monetary_Fund).public](/_public\UN(United_Nations)/IMF(International_Monetary_Fund).public.md) 
+
+### [IMF(International_Monetary_Fund).internal](/_internal\UN(United_Nations)/IMF(International_Monetary_Fund).internal.md) 
+
+### [IMF(International_Monetary_Fund).protect](/_protect\UN(United_Nations)/IMF(International_Monetary_Fund).protect.md) 
+
+### [IMF(International_Monetary_Fund).private](/_private\UN(United_Nations)/IMF(International_Monetary_Fund).private.md) 
+
+### [IMF(International_Monetary_Fund).personal](/_personal\UN(United_Nations)/IMF(International_Monetary_Fund).personal.md) 
+
+### [IMF(International_Monetary_Fund).secret](/_secret\UN(United_Nations)/IMF(International_Monetary_Fund).secret.md)
+

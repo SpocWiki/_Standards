@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - rdfs:subPropertyOf
   - owl:subPropertyOf
@@ -18,16 +18,18 @@ Relation describes that:
 ( #has_/name :: is_subclass_of)
 ( #has_/range :: [Relation](../../Relation.md))
 
+
 ## Confidential Links & Embeds: 
 
-### [is_sub_relation_of](/_public/schema-org/Relation/is_sub_relation_of.md) 
+### [is_sub_relation_of.public](/_public\schema-org\Relation/is_sub_relation_of.public.md) 
 
-### [is_sub_relation_of.internal](/_internal/schema-org/Relation/is_sub_relation_of.internal.md) 
+### [is_sub_relation_of.internal](/_internal\schema-org\Relation/is_sub_relation_of.internal.md) 
 
-### [is_sub_relation_of.protect](/_protect/schema-org/Relation/is_sub_relation_of.protect.md) 
+### [is_sub_relation_of.protect](/_protect\schema-org\Relation/is_sub_relation_of.protect.md) 
 
-### [is_sub_relation_of.private](/_private/schema-org/Relation/is_sub_relation_of.private.md) 
+### [is_sub_relation_of.private](/_private\schema-org\Relation/is_sub_relation_of.private.md) 
 
-### [is_sub_relation_of.personal](/_personal/schema-org/Relation/is_sub_relation_of.personal.md) 
+### [is_sub_relation_of.personal](/_personal\schema-org\Relation/is_sub_relation_of.personal.md) 
 
-### [is_sub_relation_of.secret](/_secret/schema-org/Relation/is_sub_relation_of.secret.md) 
+### [is_sub_relation_of.secret](/_secret\schema-org\Relation/is_sub_relation_of.secret.md)
+

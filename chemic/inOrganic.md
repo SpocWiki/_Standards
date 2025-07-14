@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Inorganic chemistry"
 has_id_wikidata: Q11165
@@ -41,17 +41,17 @@ Gujarati_Vishwakosh_entry: અકાર્બનિક-રસાયણ
 > [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20chemistry)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [inOrganic](/_public/chemic/inOrganic.md) 
+### [inOrganic.public](/_public\chemic/inOrganic.public.md) 
 
-### [inOrganic.internal](/_internal/chemic/inOrganic.internal.md) 
+### [inOrganic.internal](/_internal\chemic/inOrganic.internal.md) 
 
-### [inOrganic.protect](/_protect/chemic/inOrganic.protect.md) 
+### [inOrganic.protect](/_protect\chemic/inOrganic.protect.md) 
 
-### [inOrganic.private](/_private/chemic/inOrganic.private.md) 
+### [inOrganic.private](/_private\chemic/inOrganic.private.md) 
 
-### [inOrganic.personal](/_personal/chemic/inOrganic.personal.md) 
+### [inOrganic.personal](/_personal\chemic/inOrganic.personal.md) 
 
-### [inOrganic.secret](/_secret/chemic/inOrganic.secret.md) 
+### [inOrganic.secret](/_secret\chemic/inOrganic.secret.md)
+

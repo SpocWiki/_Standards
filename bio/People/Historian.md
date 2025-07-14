@@ -13,3 +13,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Historian.public](/_public\bio\People/Historian.public.md) 
+
+### [Historian.internal](/_internal\bio\People/Historian.internal.md) 
+
+### [Historian.protect](/_protect\bio\People/Historian.protect.md) 
+
+### [Historian.private](/_private\bio\People/Historian.private.md) 
+
+### [Historian.personal](/_personal\bio\People/Historian.personal.md) 
+
+### [Historian.secret](/_secret\bio\People/Historian.secret.md)
+

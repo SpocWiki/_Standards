@@ -169,18 +169,17 @@ has_id_wikidata: Q405
 > [Wikipedia](https://en.wikipedia.org/wiki/Moon)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Moon](/_public/Earth/Moon.md) 
+### [Moon.public](/_public\Earth/Moon.public.md) 
 
-### [Moon.internal](/_internal/Earth/Moon.internal.md) 
+### [Moon.internal](/_internal\Earth/Moon.internal.md) 
 
-### [Moon.protect](/_protect/Earth/Moon.protect.md) 
+### [Moon.protect](/_protect\Earth/Moon.protect.md) 
 
-### [Moon.private](/_private/Earth/Moon.private.md) 
+### [Moon.private](/_private\Earth/Moon.private.md) 
 
-### [Moon.personal](/_personal/Earth/Moon.personal.md) 
+### [Moon.personal](/_personal\Earth/Moon.personal.md) 
 
-### [Moon.secret](/_secret/Earth/Moon.secret.md) 
+### [Moon.secret](/_secret\Earth/Moon.secret.md)
+

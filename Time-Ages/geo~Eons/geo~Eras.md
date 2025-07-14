@@ -46,14 +46,15 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [geo~Eras](/_public/Time-Ages/geo~Eons/geo~Eras.md) 
+### [geo~Eras.public](/_public\Time-Ages\geo~Eons/geo~Eras.public.md) 
 
-### [geo~Eras.internal](/_internal/Time-Ages/geo~Eons/geo~Eras.internal.md) 
+### [geo~Eras.internal](/_internal\Time-Ages\geo~Eons/geo~Eras.internal.md) 
 
-### [geo~Eras.protect](/_protect/Time-Ages/geo~Eons/geo~Eras.protect.md) 
+### [geo~Eras.protect](/_protect\Time-Ages\geo~Eons/geo~Eras.protect.md) 
 
-### [geo~Eras.private](/_private/Time-Ages/geo~Eons/geo~Eras.private.md) 
+### [geo~Eras.private](/_private\Time-Ages\geo~Eons/geo~Eras.private.md) 
 
-### [geo~Eras.personal](/_personal/Time-Ages/geo~Eons/geo~Eras.personal.md) 
+### [geo~Eras.personal](/_personal\Time-Ages\geo~Eons/geo~Eras.personal.md) 
 
-### [geo~Eras.secret](/_secret/Time-Ages/geo~Eons/geo~Eras.secret.md) 
+### [geo~Eras.secret](/_secret\Time-Ages\geo~Eons/geo~Eras.secret.md)
+

@@ -74,3 +74,20 @@ resulted in the forming of Plant Cells.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Procaryote.public](/_public\bio\bio~Domain/Procaryote.public.md) 
+
+### [Procaryote.internal](/_internal\bio\bio~Domain/Procaryote.internal.md) 
+
+### [Procaryote.protect](/_protect\bio\bio~Domain/Procaryote.protect.md) 
+
+### [Procaryote.private](/_private\bio\bio~Domain/Procaryote.private.md) 
+
+### [Procaryote.personal](/_personal\bio\bio~Domain/Procaryote.personal.md) 
+
+### [Procaryote.secret](/_secret\bio\bio~Domain/Procaryote.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Association of Southeast Asian Nations"
 has_id_wikidata: Q7768
@@ -110,4 +110,18 @@ Commons_category: "Association of Southeast Asian Nations"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/ASEAN)
 
+
+## Confidential Links & Embeds: 
+
+### [ASEAN.public](/_public\International/ASEAN.public.md) 
+
+### [ASEAN.internal](/_internal\International/ASEAN.internal.md) 
+
+### [ASEAN.protect](/_protect\International/ASEAN.protect.md) 
+
+### [ASEAN.private](/_private\International/ASEAN.private.md) 
+
+### [ASEAN.personal](/_personal\International/ASEAN.personal.md) 
+
+### [ASEAN.secret](/_secret\International/ASEAN.secret.md)
 

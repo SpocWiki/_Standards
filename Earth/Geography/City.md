@@ -126,3 +126,20 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/City) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [City.public](/_public\Earth\Geography/City.public.md) 
+
+### [City.internal](/_internal\Earth\Geography/City.internal.md) 
+
+### [City.protect](/_protect\Earth\Geography/City.protect.md) 
+
+### [City.private](/_private\Earth\Geography/City.private.md) 
+
+### [City.personal](/_personal\Earth\Geography/City.personal.md) 
+
+### [City.secret](/_secret\Earth\Geography/City.secret.md)
+

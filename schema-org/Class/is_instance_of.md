@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -81,16 +81,18 @@ to the actual Class Definition harder.
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_instance_of](/_public/schema-org/Class/is_instance_of.md) 
+### [is_instance_of.public](/_public\schema-org\Class/is_instance_of.public.md) 
 
-### [is_instance_of.internal](/_internal/schema-org/Class/is_instance_of.internal.md) 
+### [is_instance_of.internal](/_internal\schema-org\Class/is_instance_of.internal.md) 
 
-### [is_instance_of.protect](/_protect/schema-org/Class/is_instance_of.protect.md) 
+### [is_instance_of.protect](/_protect\schema-org\Class/is_instance_of.protect.md) 
 
-### [is_instance_of.private](/_private/schema-org/Class/is_instance_of.private.md) 
+### [is_instance_of.private](/_private\schema-org\Class/is_instance_of.private.md) 
 
-### [is_instance_of.personal](/_personal/schema-org/Class/is_instance_of.personal.md) 
+### [is_instance_of.personal](/_personal\schema-org\Class/is_instance_of.personal.md) 
 
-### [is_instance_of.secret](/_secret/schema-org/Class/is_instance_of.secret.md) 
+### [is_instance_of.secret](/_secret\schema-org\Class/is_instance_of.secret.md)
+

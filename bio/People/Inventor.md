@@ -17,3 +17,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Inventor.public](/_public\bio\People/Inventor.public.md) 
+
+### [Inventor.internal](/_internal\bio\People/Inventor.internal.md) 
+
+### [Inventor.protect](/_protect\bio\People/Inventor.protect.md) 
+
+### [Inventor.private](/_private\bio\People/Inventor.private.md) 
+
+### [Inventor.personal](/_personal\bio\People/Inventor.personal.md) 
+
+### [Inventor.secret](/_secret\bio\People/Inventor.secret.md)
+

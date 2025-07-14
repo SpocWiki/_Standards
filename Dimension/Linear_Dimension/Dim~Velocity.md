@@ -60,3 +60,20 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Velocity)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dim~Velocity.public](/_public\Dimension\Linear_Dimension/Dim~Velocity.public.md) 
+
+### [Dim~Velocity.internal](/_internal\Dimension\Linear_Dimension/Dim~Velocity.internal.md) 
+
+### [Dim~Velocity.protect](/_protect\Dimension\Linear_Dimension/Dim~Velocity.protect.md) 
+
+### [Dim~Velocity.private](/_private\Dimension\Linear_Dimension/Dim~Velocity.private.md) 
+
+### [Dim~Velocity.personal](/_personal\Dimension\Linear_Dimension/Dim~Velocity.personal.md) 
+
+### [Dim~Velocity.secret](/_secret\Dimension\Linear_Dimension/Dim~Velocity.secret.md)
+

@@ -146,3 +146,18 @@ MeSH_tree_code:
 
 ### [[Log-normal_distribution]] 
 
+
+## Confidential Links & Embeds: 
+
+### [Statistics.public](/_public\Mathematics/Statistics.public.md) 
+
+### [Statistics.internal](/_internal\Mathematics/Statistics.internal.md) 
+
+### [Statistics.protect](/_protect\Mathematics/Statistics.protect.md) 
+
+### [Statistics.private](/_private\Mathematics/Statistics.private.md) 
+
+### [Statistics.personal](/_personal\Mathematics/Statistics.personal.md) 
+
+### [Statistics.secret](/_secret\Mathematics/Statistics.secret.md)
+

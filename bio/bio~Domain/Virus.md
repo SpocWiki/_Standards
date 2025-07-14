@@ -271,14 +271,15 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### [virus](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.md) 
+### [Virus.public](/_public\bio\bio~Domain/Virus.public.md) 
 
-### [virus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.internal.md) 
+### [Virus.internal](/_internal\bio\bio~Domain/Virus.internal.md) 
 
-### [virus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.protect.md) 
+### [Virus.protect](/_protect\bio\bio~Domain/Virus.protect.md) 
 
-### [virus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.private.md) 
+### [Virus.private](/_private\bio\bio~Domain/Virus.private.md) 
 
-### [virus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.personal.md) 
+### [Virus.personal](/_personal\bio\bio~Domain/Virus.personal.md) 
 
-### [virus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.secret.md) 
+### [Virus.secret](/_secret\bio\bio~Domain/Virus.secret.md)
+

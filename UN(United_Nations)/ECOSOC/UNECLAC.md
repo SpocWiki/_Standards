@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - ECLAC
   - CEPAL
@@ -13,18 +13,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Latin%20America%20and%20the%20Caribbean)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [UNECLAC](/_public/UN(United_Nations)/ECOSOC/UNECLAC.md) 
+### [UNECLAC.public](/_public\UN(United_Nations)\ECOSOC/UNECLAC.public.md) 
 
-### [UNECLAC.internal](/_internal/UN(United_Nations)/ECOSOC/UNECLAC.internal.md) 
+### [UNECLAC.internal](/_internal\UN(United_Nations)\ECOSOC/UNECLAC.internal.md) 
 
-### [UNECLAC.protect](/_protect/UN(United_Nations)/ECOSOC/UNECLAC.protect.md) 
+### [UNECLAC.protect](/_protect\UN(United_Nations)\ECOSOC/UNECLAC.protect.md) 
 
-### [UNECLAC.private](/_private/UN(United_Nations)/ECOSOC/UNECLAC.private.md) 
+### [UNECLAC.private](/_private\UN(United_Nations)\ECOSOC/UNECLAC.private.md) 
 
-### [UNECLAC.personal](/_personal/UN(United_Nations)/ECOSOC/UNECLAC.personal.md) 
+### [UNECLAC.personal](/_personal\UN(United_Nations)\ECOSOC/UNECLAC.personal.md) 
 
-### [UNECLAC.secret](/_secret/UN(United_Nations)/ECOSOC/UNECLAC.secret.md) 
+### [UNECLAC.secret](/_secret\UN(United_Nations)\ECOSOC/UNECLAC.secret.md)
+

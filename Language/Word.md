@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8171
 different_from:
 - '[[_Standards/WikiData/WD~lexeme,111352]]'
@@ -44,4 +44,18 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20claromontanus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Word) 
 
+
+## Confidential Links & Embeds: 
+
+### [Word.public](/_public\Language/Word.public.md) 
+
+### [Word.internal](/_internal\Language/Word.internal.md) 
+
+### [Word.protect](/_protect\Language/Word.protect.md) 
+
+### [Word.private](/_private\Language/Word.private.md) 
+
+### [Word.personal](/_personal\Language/Word.personal.md) 
+
+### [Word.secret](/_secret\Language/Word.secret.md)
 

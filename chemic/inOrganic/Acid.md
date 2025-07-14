@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11158
 has_effect: '[[_Standards/WikiData/WD~neutralization,337120]]'
 described_by_source:
@@ -37,3 +37,19 @@ MeSH_tree_code: D01.029
 > The second category of acids are Lewis acids, which form a covalent bond with an electron pair. An example is boron trifluoride (BF3), whose boron atom has a vacant orbital that can form a covalent bond by sharing a lone pair of electrons on an atom in a base, for example the nitrogen atom in ammonia (NH3). Lewis considered this as a generalization of the Brønsted definition, so that an acid is a chemical species that accepts electron pairs either directly or by releasing protons (H+) into the solution, which then accept electron pairs. Hydrogen chloride, acetic acid, and most other Brønsted–Lowry acids cannot form a covalent bond with an electron pair, however, and are therefore not Lewis acids. Conversely, many Lewis acids are not Arrhenius or Brønsted–Lowry acids. In modern terminology, an acid is implicitly a Brønsted acid and not a Lewis acid, since chemists almost always refer to a Lewis acid explicitly as such.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acid)
+
+
+## Confidential Links & Embeds: 
+
+### [Acid.public](/_public\chemic\inOrganic/Acid.public.md) 
+
+### [Acid.internal](/_internal\chemic\inOrganic/Acid.internal.md) 
+
+### [Acid.protect](/_protect\chemic\inOrganic/Acid.protect.md) 
+
+### [Acid.private](/_private\chemic\inOrganic/Acid.private.md) 
+
+### [Acid.personal](/_personal\chemic\inOrganic/Acid.personal.md) 
+
+### [Acid.secret](/_secret\chemic\inOrganic/Acid.secret.md)
+

@@ -114,3 +114,20 @@ pronunciation_audio:
 > [Wikipedia](https://en.wikipedia.org/wiki/Food) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Food.public](/_public\Home_Economics\Cooking/Food.public.md) 
+
+### [Food.internal](/_internal\Home_Economics\Cooking/Food.internal.md) 
+
+### [Food.protect](/_protect\Home_Economics\Cooking/Food.protect.md) 
+
+### [Food.private](/_private\Home_Economics\Cooking/Food.private.md) 
+
+### [Food.personal](/_personal\Home_Economics\Cooking/Food.personal.md) 
+
+### [Food.secret](/_secret\Home_Economics\Cooking/Food.secret.md)
+

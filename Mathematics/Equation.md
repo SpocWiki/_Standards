@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11345
 opposite_of: '[[_Standards/WikiData/WD~inequation,165309]]'
 different_from: "[[_Standards/WikiData/WD~chemical_equation,182527]]"
@@ -31,4 +31,19 @@ Krugosvet_article: matematika/uravneniya
 > The "=" symbol, which appears in every equation, was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines with the same length.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equation)
+
+
+## Confidential Links & Embeds: 
+
+### [Equation.public](/_public\Mathematics/Equation.public.md) 
+
+### [Equation.internal](/_internal\Mathematics/Equation.internal.md) 
+
+### [Equation.protect](/_protect\Mathematics/Equation.protect.md) 
+
+### [Equation.private](/_private\Mathematics/Equation.private.md) 
+
+### [Equation.personal](/_personal\Mathematics/Equation.personal.md) 
+
+### [Equation.secret](/_secret\Mathematics/Equation.secret.md)
 

@@ -57,5 +57,17 @@ Colon_Classification: X61
 > [Wikipedia](https://en.wikipedia.org/wiki/Currency)
 
 
+## Confidential Links & Embeds: 
 
+### [Currency.public](/_public\Economics/Currency.public.md) 
+
+### [Currency.internal](/_internal\Economics/Currency.internal.md) 
+
+### [Currency.protect](/_protect\Economics/Currency.protect.md) 
+
+### [Currency.private](/_private\Economics/Currency.private.md) 
+
+### [Currency.personal](/_personal\Economics/Currency.personal.md) 
+
+### [Currency.secret](/_secret\Economics/Currency.secret.md)
 

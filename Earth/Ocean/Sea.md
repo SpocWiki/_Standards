@@ -51,3 +51,20 @@ GeoNames_feature_code: H.SEA
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sea.public](/_public\Earth\Ocean/Sea.public.md) 
+
+### [Sea.internal](/_internal\Earth\Ocean/Sea.internal.md) 
+
+### [Sea.protect](/_protect\Earth\Ocean/Sea.protect.md) 
+
+### [Sea.private](/_private\Earth\Ocean/Sea.private.md) 
+
+### [Sea.personal](/_personal\Earth\Ocean/Sea.personal.md) 
+
+### [Sea.secret](/_secret\Earth\Ocean/Sea.secret.md)
+

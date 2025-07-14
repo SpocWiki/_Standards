@@ -11,3 +11,19 @@
 > About 4 to 7 billion years from now, when hydrogen fusion in the Sun's core diminishes to the point where the Sun is no longer in hydrostatic equilibrium, its core will undergo a marked increase in density and temperature which will cause its outer layers to expand, eventually transforming the Sun into a red giant. This process will make the Sun large enough to render Earth uninhabitable approximately five billion years from the present. After the red giant phase, models suggest the Sun will shed its outer layers and become a dense type of cooling star (a white dwarf), and no longer produce energy by fusion, but will still glow and give off heat from its previous fusion for perhaps trillions of years. After that, it is theorized to become a super dense black dwarf, giving off negligible energy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sun)
+
+
+## Confidential Links & Embeds: 
+
+### [Sun.public](/_public\Astronomy\Solar_System/Sun.public.md) 
+
+### [Sun.internal](/_internal\Astronomy\Solar_System/Sun.internal.md) 
+
+### [Sun.protect](/_protect\Astronomy\Solar_System/Sun.protect.md) 
+
+### [Sun.private](/_private\Astronomy\Solar_System/Sun.private.md) 
+
+### [Sun.personal](/_personal\Astronomy\Solar_System/Sun.personal.md) 
+
+### [Sun.secret](/_secret\Astronomy\Solar_System/Sun.secret.md)
+

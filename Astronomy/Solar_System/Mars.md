@@ -173,3 +173,20 @@ hashtag: Mars
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mars.public](/_public\Astronomy\Solar_System/Mars.public.md) 
+
+### [Mars.internal](/_internal\Astronomy\Solar_System/Mars.internal.md) 
+
+### [Mars.protect](/_protect\Astronomy\Solar_System/Mars.protect.md) 
+
+### [Mars.private](/_private\Astronomy\Solar_System/Mars.private.md) 
+
+### [Mars.personal](/_personal\Astronomy\Solar_System/Mars.personal.md) 
+
+### [Mars.secret](/_secret\Astronomy\Solar_System/Mars.secret.md)
+

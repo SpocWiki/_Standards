@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Physical chemistry"
 has_id_wikidata: Q11372
@@ -60,4 +60,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_FIZICHESKAYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Physical%20chemistry)
 
 
+## Confidential Links & Embeds: 
+
+### [Physical_Chemistry.public](/_public\chemic/Physical_Chemistry.public.md) 
+
+### [Physical_Chemistry.internal](/_internal\chemic/Physical_Chemistry.internal.md) 
+
+### [Physical_Chemistry.protect](/_protect\chemic/Physical_Chemistry.protect.md) 
+
+### [Physical_Chemistry.private](/_private\chemic/Physical_Chemistry.private.md) 
+
+### [Physical_Chemistry.personal](/_personal\chemic/Physical_Chemistry.personal.md) 
+
+### [Physical_Chemistry.secret](/_secret\chemic/Physical_Chemistry.secret.md)
 

@@ -63,3 +63,19 @@ OpenStreetMap_tag_or_key: "Tag:healthcare:speciality=anatomy"
 > The history of anatomy is characterized by a progressive understanding of the functions of the organs and structures of the human body. Methods have also improved dramatically, advancing from the examination of animals by dissection of carcasses and cadavers (corpses) to 20th-century medical imaging techniques, including X-ray, ultrasound, and magnetic resonance imaging.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anatomy)
+
+
+## Confidential Links & Embeds: 
+
+### [Anatomy.public](/_public\bio\Medicine/Anatomy.public.md) 
+
+### [Anatomy.internal](/_internal\bio\Medicine/Anatomy.internal.md) 
+
+### [Anatomy.protect](/_protect\bio\Medicine/Anatomy.protect.md) 
+
+### [Anatomy.private](/_private\bio\Medicine/Anatomy.private.md) 
+
+### [Anatomy.personal](/_personal\bio\Medicine/Anatomy.personal.md) 
+
+### [Anatomy.secret](/_secret\bio\Medicine/Anatomy.secret.md)
+

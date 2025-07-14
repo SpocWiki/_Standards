@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -21,17 +21,17 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%208%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-08-Iron](/_public/chemic/chemic~Elements/Group-08-Iron.md) 
+### [Group-08-Iron.public](/_public\chemic\chemic~Elements/Group-08-Iron.public.md) 
 
-### [Group-08-Iron.internal](/_internal/chemic/chemic~Elements/Group-08-Iron.internal.md) 
+### [Group-08-Iron.internal](/_internal\chemic\chemic~Elements/Group-08-Iron.internal.md) 
 
-### [Group-08-Iron.protect](/_protect/chemic/chemic~Elements/Group-08-Iron.protect.md) 
+### [Group-08-Iron.protect](/_protect\chemic\chemic~Elements/Group-08-Iron.protect.md) 
 
-### [Group-08-Iron.private](/_private/chemic/chemic~Elements/Group-08-Iron.private.md) 
+### [Group-08-Iron.private](/_private\chemic\chemic~Elements/Group-08-Iron.private.md) 
 
-### [Group-08-Iron.personal](/_personal/chemic/chemic~Elements/Group-08-Iron.personal.md) 
+### [Group-08-Iron.personal](/_personal\chemic\chemic~Elements/Group-08-Iron.personal.md) 
 
-### [Group-08-Iron.secret](/_secret/chemic/chemic~Elements/Group-08-Iron.secret.md) 
+### [Group-08-Iron.secret](/_secret\chemic\chemic~Elements/Group-08-Iron.secret.md)
+

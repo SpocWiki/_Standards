@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -370,16 +370,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_CountryStateDB](/_public/Earth/Continent/_CountryStateDB.md) 
+### [_CountryStateDB.public](/_public\Earth\Continent/_CountryStateDB.public.md) 
 
-### [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
+### [_CountryStateDB.internal](/_internal\Earth\Continent/_CountryStateDB.internal.md) 
 
-### [_CountryStateDB.protect](/_protect/Earth/Continent/_CountryStateDB.protect.md) 
+### [_CountryStateDB.protect](/_protect\Earth\Continent/_CountryStateDB.protect.md) 
 
-### [_CountryStateDB.private](/_private/Earth/Continent/_CountryStateDB.private.md) 
+### [_CountryStateDB.private](/_private\Earth\Continent/_CountryStateDB.private.md) 
 
-### [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
+### [_CountryStateDB.personal](/_personal\Earth\Continent/_CountryStateDB.personal.md) 
 
-### [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md) 
+### [_CountryStateDB.secret](/_secret\Earth\Continent/_CountryStateDB.secret.md)
+

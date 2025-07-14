@@ -51,3 +51,20 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/CHASI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Clock) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Clock.public](/_public\Technology\Tool/Clock.public.md) 
+
+### [Clock.internal](/_internal\Technology\Tool/Clock.internal.md) 
+
+### [Clock.protect](/_protect\Technology\Tool/Clock.protect.md) 
+
+### [Clock.private](/_private\Technology\Tool/Clock.private.md) 
+
+### [Clock.personal](/_personal\Technology\Tool/Clock.personal.md) 
+
+### [Clock.secret](/_secret\Technology\Tool/Clock.secret.md)
+

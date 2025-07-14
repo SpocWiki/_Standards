@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q214609
 has_characteristic:
 - "[[_Standards/WikiData/WD~ultimate_tensile_strength,76005]]"
@@ -37,4 +37,19 @@ OpenStreetMap_tag_or_key: "Key:material"
 > In industry, materials are inputs to manufacturing processes to produce products or more complex materials.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Material)
+
+
+## Confidential Links & Embeds: 
+
+### [Material.public](/_public\chemic/Material.public.md) 
+
+### [Material.internal](/_internal\chemic/Material.internal.md) 
+
+### [Material.protect](/_protect\chemic/Material.protect.md) 
+
+### [Material.private](/_private\chemic/Material.private.md) 
+
+### [Material.personal](/_personal\chemic/Material.personal.md) 
+
+### [Material.secret](/_secret\chemic/Material.secret.md)
 

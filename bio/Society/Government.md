@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7188
 Colon_Classification: "W:3"
 Wikidata_usage_instructions:
@@ -76,4 +76,21 @@ IPTC_NewsCode: mediatopic/20000593
 > The main types of modern political systems recognized are democracies, totalitarian regimes, and, sitting between these two, authoritarian regimes with a variety of hybrid regimes. Modern classification systems also include monarchies as a standalone entity or as a hybrid system of the main three. Historically prevalent forms of government include monarchy, aristocracy, timocracy, oligarchy, democracy, theocracy, and tyranny. These forms are not always mutually exclusive, and mixed governments are common. The main aspect of any philosophy of government is how political power is obtained, with the two main forms being electoral contest and hereditary succession.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Government)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Government.public](/_public\bio\Society/Government.public.md) 
+
+### [Government.internal](/_internal\bio\Society/Government.internal.md) 
+
+### [Government.protect](/_protect\bio\Society/Government.protect.md) 
+
+### [Government.private](/_private\bio\Society/Government.private.md) 
+
+### [Government.personal](/_personal\bio\Society/Government.personal.md) 
+
+### [Government.secret](/_secret\bio\Society/Government.secret.md)
 

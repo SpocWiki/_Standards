@@ -36,14 +36,15 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Liebig,Justus_von](/_public/chemic/Chemists/Liebig,Justus_von.md) 
+### [Liebig,Justus_von.public](/_public\chemic\Chemist/Liebig,Justus_von.public.md) 
 
-### [Liebig,Justus_von.internal](/_internal/chemic/Chemists/Liebig,Justus_von.internal.md) 
+### [Liebig,Justus_von.internal](/_internal\chemic\Chemist/Liebig,Justus_von.internal.md) 
 
-### [Liebig,Justus_von.protect](/_protect/chemic/Chemists/Liebig,Justus_von.protect.md) 
+### [Liebig,Justus_von.protect](/_protect\chemic\Chemist/Liebig,Justus_von.protect.md) 
 
-### [Liebig,Justus_von.private](/_private/chemic/Chemists/Liebig,Justus_von.private.md) 
+### [Liebig,Justus_von.private](/_private\chemic\Chemist/Liebig,Justus_von.private.md) 
 
-### [Liebig,Justus_von.personal](/_personal/chemic/Chemists/Liebig,Justus_von.personal.md) 
+### [Liebig,Justus_von.personal](/_personal\chemic\Chemist/Liebig,Justus_von.personal.md) 
 
-### [Liebig,Justus_von.secret](/_secret/chemic/Chemists/Liebig,Justus_von.secret.md) 
+### [Liebig,Justus_von.secret](/_secret\chemic\Chemist/Liebig,Justus_von.secret.md)
+

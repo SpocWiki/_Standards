@@ -27,4 +27,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Organometallic%20chemistry)
 
 
+## Confidential Links & Embeds: 
+
+### [organoMetallic.public](/_public\chemic/organoMetallic.public.md) 
+
+### [organoMetallic.internal](/_internal\chemic/organoMetallic.internal.md) 
+
+### [organoMetallic.protect](/_protect\chemic/organoMetallic.protect.md) 
+
+### [organoMetallic.private](/_private\chemic/organoMetallic.private.md) 
+
+### [organoMetallic.personal](/_personal\chemic/organoMetallic.personal.md) 
+
+### [organoMetallic.secret](/_secret\chemic/organoMetallic.secret.md)
 

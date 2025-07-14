@@ -48,15 +48,15 @@ name: "Capital (economics)"
 
 ## Confidential Links & Embeds: 
 
-### [Capital(Economics).public](/_public/\EconomicsCapital(Economics).public.md) 
+### [Capital(Economics).public](/_public\Economics/Capital(Economics).public.md) 
 
-### [Capital(Economics).internal](/_internal/\EconomicsCapital(Economics).internal.md) 
+### [Capital(Economics).internal](/_internal\Economics/Capital(Economics).internal.md) 
 
-### [Capital(Economics).protect](/_protect/\EconomicsCapital(Economics).protect.md) 
+### [Capital(Economics).protect](/_protect\Economics/Capital(Economics).protect.md) 
 
-### [Capital(Economics).private](/_private/\EconomicsCapital(Economics).private.md) 
+### [Capital(Economics).private](/_private\Economics/Capital(Economics).private.md) 
 
-### [Capital(Economics).personal](/_personal/\EconomicsCapital(Economics).personal.md) 
+### [Capital(Economics).personal](/_personal\Economics/Capital(Economics).personal.md) 
 
-### [Capital(Economics).secret](/_secret/\EconomicsCapital(Economics).secret.md)
+### [Capital(Economics).secret](/_secret\Economics/Capital(Economics).secret.md)
 

@@ -92,17 +92,17 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Super-Eon~Precambrian](/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.md) 
+### [Super-Eon~Precambrian.public](/_public\Time-Ages\geo~Eons/Super-Eon~Precambrian.public.md) 
 
-### [Super-Eon~Precambrian.internal](/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal.md) 
+### [Super-Eon~Precambrian.internal](/_internal\Time-Ages\geo~Eons/Super-Eon~Precambrian.internal.md) 
 
-### [Super-Eon~Precambrian.protect](/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect.md) 
+### [Super-Eon~Precambrian.protect](/_protect\Time-Ages\geo~Eons/Super-Eon~Precambrian.protect.md) 
 
-### [Super-Eon~Precambrian.private](/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private.md) 
+### [Super-Eon~Precambrian.private](/_private\Time-Ages\geo~Eons/Super-Eon~Precambrian.private.md) 
 
-### [Super-Eon~Precambrian.personal](/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal.md) 
+### [Super-Eon~Precambrian.personal](/_personal\Time-Ages\geo~Eons/Super-Eon~Precambrian.personal.md) 
 
-### [Super-Eon~Precambrian.secret](/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret.md) 
+### [Super-Eon~Precambrian.secret](/_secret\Time-Ages\geo~Eons/Super-Eon~Precambrian.secret.md)
+

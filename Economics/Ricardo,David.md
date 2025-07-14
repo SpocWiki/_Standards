@@ -134,5 +134,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Ricardo) 
 
 
+## Confidential Links & Embeds: 
 
+### [Ricardo,David.public](/_public\Economics/Ricardo,David.public.md) 
+
+### [Ricardo,David.internal](/_internal\Economics/Ricardo,David.internal.md) 
+
+### [Ricardo,David.protect](/_protect\Economics/Ricardo,David.protect.md) 
+
+### [Ricardo,David.private](/_private\Economics/Ricardo,David.private.md) 
+
+### [Ricardo,David.personal](/_personal\Economics/Ricardo,David.personal.md) 
+
+### [Ricardo,David.secret](/_secret\Economics/Ricardo,David.secret.md)
 

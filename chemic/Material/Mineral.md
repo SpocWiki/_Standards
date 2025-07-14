@@ -24,3 +24,20 @@ has_id_wikidata: Q7946
 > [Wikipedia](https://en.wikipedia.org/wiki/Mineral)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mineral.public](/_public\chemic\Material/Mineral.public.md) 
+
+### [Mineral.internal](/_internal\chemic\Material/Mineral.internal.md) 
+
+### [Mineral.protect](/_protect\chemic\Material/Mineral.protect.md) 
+
+### [Mineral.private](/_private\chemic\Material/Mineral.private.md) 
+
+### [Mineral.personal](/_personal\chemic\Material/Mineral.personal.md) 
+
+### [Mineral.secret](/_secret\chemic\Material/Mineral.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2023-10-03
 lang: 'en'
 license: CC BY-SA 4.0
@@ -82,16 +82,18 @@ MicroData
 </div>
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [Property](/_public/schema-org/Property.md) 
+### [Property.public](/_public\schema-org/Property.public.md) 
 
-### [Property.internal](/_internal/schema-org/Property.internal.md) 
+### [Property.internal](/_internal\schema-org/Property.internal.md) 
 
-### [Property.protect](/_protect/schema-org/Property.protect.md) 
+### [Property.protect](/_protect\schema-org/Property.protect.md) 
 
-### [Property.private](/_private/schema-org/Property.private.md) 
+### [Property.private](/_private\schema-org/Property.private.md) 
 
-### [Property.personal](/_personal/schema-org/Property.personal.md) 
+### [Property.personal](/_personal\schema-org/Property.personal.md) 
 
-### [Property.secret](/_secret/schema-org/Property.secret.md) 
+### [Property.secret](/_secret\schema-org/Property.secret.md)
+

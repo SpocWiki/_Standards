@@ -1788,3 +1788,20 @@
 | [Moses and Frances Asch Collection](https://en.wikipedia.org/wiki/Smithsonian_Folkways). Center for Folklife and Cultural Heritage, Smithsonian Institution | [[USA]] | [Smithsonian Institution](https://en.wikipedia.org/wiki/Smithsonian_Institution), [[Suitland]]<br> [38°53′10″N 77°01′17″W] | 2015 |
 | The [Villa Ocampo](https://en.wikipedia.org/wiki/Villa_Ocampo) Documentation Center | [[USA]], <br>[[Argentina]] | - UNESCO Villa Ocampo<br> [34°27′29″S 58°31′06″W] | 2017 |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Transatlantic-MoW.public](/_public\UN(United_Nations)\UNESCO/Transatlantic-MoW.public.md) 
+
+### [Transatlantic-MoW.internal](/_internal\UN(United_Nations)\UNESCO/Transatlantic-MoW.internal.md) 
+
+### [Transatlantic-MoW.protect](/_protect\UN(United_Nations)\UNESCO/Transatlantic-MoW.protect.md) 
+
+### [Transatlantic-MoW.private](/_private\UN(United_Nations)\UNESCO/Transatlantic-MoW.private.md) 
+
+### [Transatlantic-MoW.personal](/_personal\UN(United_Nations)\UNESCO/Transatlantic-MoW.personal.md) 
+
+### [Transatlantic-MoW.secret](/_secret\UN(United_Nations)\UNESCO/Transatlantic-MoW.secret.md)
+

@@ -188,16 +188,18 @@ markerFolder: ./Asia/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Asia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Asia](/_public/Earth/Continent/Asia.md) 
+### [Asia.public](/_public\Earth\Continent/Asia.public.md) 
 
-### [Asia.internal](/_internal/Earth/Continent/Asia.internal.md) 
+### [Asia.internal](/_internal\Earth\Continent/Asia.internal.md) 
 
-### [Asia.protect](/_protect/Earth/Continent/Asia.protect.md) 
+### [Asia.protect](/_protect\Earth\Continent/Asia.protect.md) 
 
-### [Asia.private](/_private/Earth/Continent/Asia.private.md) 
+### [Asia.private](/_private\Earth\Continent/Asia.private.md) 
 
-### [Asia.personal](/_personal/Earth/Continent/Asia.personal.md) 
+### [Asia.personal](/_personal\Earth\Continent/Asia.personal.md) 
 
-### [Asia.secret](/_secret/Earth/Continent/Asia.secret.md) 
+### [Asia.secret](/_secret\Earth\Continent/Asia.secret.md)
+

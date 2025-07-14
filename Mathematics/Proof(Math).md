@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mathematical proof"
 has_id_wikidata: Q11538
@@ -44,4 +44,18 @@ Commons_category: "Mathematical proof"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20proof)
 
+
+## Confidential Links & Embeds: 
+
+### [Proof(Math).public](/_public\Mathematics/Proof(Math).public.md) 
+
+### [Proof(Math).internal](/_internal\Mathematics/Proof(Math).internal.md) 
+
+### [Proof(Math).protect](/_protect\Mathematics/Proof(Math).protect.md) 
+
+### [Proof(Math).private](/_private\Mathematics/Proof(Math).private.md) 
+
+### [Proof(Math).personal](/_personal\Mathematics/Proof(Math).personal.md) 
+
+### [Proof(Math).secret](/_secret\Mathematics/Proof(Math).secret.md)
 

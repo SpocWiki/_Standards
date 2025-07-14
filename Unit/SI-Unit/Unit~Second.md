@@ -84,14 +84,15 @@ Unit :: #Unit/SI/s
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Second](/_public/Unit/SI-Unit/Unit~Second.md) 
+### [Unit~Second.public](/_public\Unit\SI-Unit/Unit~Second.public.md) 
 
-### [Unit~Second.internal](/_internal/Unit/SI-Unit/Unit~Second.internal.md) 
+### [Unit~Second.internal](/_internal\Unit\SI-Unit/Unit~Second.internal.md) 
 
-### [Unit~Second.protect](/_protect/Unit/SI-Unit/Unit~Second.protect.md) 
+### [Unit~Second.protect](/_protect\Unit\SI-Unit/Unit~Second.protect.md) 
 
-### [Unit~Second.private](/_private/Unit/SI-Unit/Unit~Second.private.md) 
+### [Unit~Second.private](/_private\Unit\SI-Unit/Unit~Second.private.md) 
 
-### [Unit~Second.personal](/_personal/Unit/SI-Unit/Unit~Second.personal.md) 
+### [Unit~Second.personal](/_personal\Unit\SI-Unit/Unit~Second.personal.md) 
 
-### [Unit~Second.secret](/_secret/Unit/SI-Unit/Unit~Second.secret.md) 
+### [Unit~Second.secret](/_secret\Unit\SI-Unit/Unit~Second.secret.md)
+

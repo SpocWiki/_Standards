@@ -1,4 +1,4 @@
-﻿---
+---
 fields:
   - name: Role
     type: Input
@@ -66,14 +66,15 @@ You can generate a SpecFlow Document from this.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~UserStory](/_public/fileClass/Other/FileClass~UserStory.md) 
+### [FileClass~UserStory.public](/_public\fileClass\Other/FileClass~UserStory.public.md) 
 
-### [FileClass~UserStory.internal](/_internal/fileClass/Other/FileClass~UserStory.internal.md) 
+### [FileClass~UserStory.internal](/_internal\fileClass\Other/FileClass~UserStory.internal.md) 
 
-### [FileClass~UserStory.protect](/_protect/fileClass/Other/FileClass~UserStory.protect.md) 
+### [FileClass~UserStory.protect](/_protect\fileClass\Other/FileClass~UserStory.protect.md) 
 
-### [FileClass~UserStory.private](/_private/fileClass/Other/FileClass~UserStory.private.md) 
+### [FileClass~UserStory.private](/_private\fileClass\Other/FileClass~UserStory.private.md) 
 
-### [FileClass~UserStory.personal](/_personal/fileClass/Other/FileClass~UserStory.personal.md) 
+### [FileClass~UserStory.personal](/_personal\fileClass\Other/FileClass~UserStory.personal.md) 
 
-### [FileClass~UserStory.secret](/_secret/fileClass/Other/FileClass~UserStory.secret.md) 
+### [FileClass~UserStory.secret](/_secret\fileClass\Other/FileClass~UserStory.secret.md)
+

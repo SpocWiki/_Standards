@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,16 +47,18 @@ Use it like this:
 #is_/similar_to :: [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subPropertyOf|rdfs~subPropertyOf]] 
 #is_/inverse_of  :: [[has_sub_properties]]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_sub_property_of](/_public/schema-org/Property/is_sub_property_of.md) 
+### [is_sub_property_of.public](/_public\schema-org\Property/is_sub_property_of.public.md) 
 
-### [is_sub_property_of.internal](/_internal/schema-org/Property/is_sub_property_of.internal.md) 
+### [is_sub_property_of.internal](/_internal\schema-org\Property/is_sub_property_of.internal.md) 
 
-### [is_sub_property_of.protect](/_protect/schema-org/Property/is_sub_property_of.protect.md) 
+### [is_sub_property_of.protect](/_protect\schema-org\Property/is_sub_property_of.protect.md) 
 
-### [is_sub_property_of.private](/_private/schema-org/Property/is_sub_property_of.private.md) 
+### [is_sub_property_of.private](/_private\schema-org\Property/is_sub_property_of.private.md) 
 
-### [is_sub_property_of.personal](/_personal/schema-org/Property/is_sub_property_of.personal.md) 
+### [is_sub_property_of.personal](/_personal\schema-org\Property/is_sub_property_of.personal.md) 
 
-### [is_sub_property_of.secret](/_secret/schema-org/Property/is_sub_property_of.secret.md) 
+### [is_sub_property_of.secret](/_secret\schema-org\Property/is_sub_property_of.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Fundamental interaction"
 has_id_wikidata: Q104934
@@ -48,4 +48,21 @@ Commons_category: "Fundamental forces"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fundamental_Interaction.public](/_public\Science\Physics/Fundamental_Interaction.public.md) 
+
+### [Fundamental_Interaction.internal](/_internal\Science\Physics/Fundamental_Interaction.internal.md) 
+
+### [Fundamental_Interaction.protect](/_protect\Science\Physics/Fundamental_Interaction.protect.md) 
+
+### [Fundamental_Interaction.private](/_private\Science\Physics/Fundamental_Interaction.private.md) 
+
+### [Fundamental_Interaction.personal](/_personal\Science\Physics/Fundamental_Interaction.personal.md) 
+
+### [Fundamental_Interaction.secret](/_secret\Science\Physics/Fundamental_Interaction.secret.md)
 

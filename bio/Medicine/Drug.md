@@ -22,3 +22,20 @@
 The name 'Drug' is derived from the fact that Drugs were traditionally produced from dried Plants. 
 It is believed to originate from the Old French word "drogue", 
 which possibly derives from the Middle Dutch term "droge". 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Drug.public](/_public\bio\Medicine/Drug.public.md) 
+
+### [Drug.internal](/_internal\bio\Medicine/Drug.internal.md) 
+
+### [Drug.protect](/_protect\bio\Medicine/Drug.protect.md) 
+
+### [Drug.private](/_private\bio\Medicine/Drug.private.md) 
+
+### [Drug.personal](/_personal\bio\Medicine/Drug.personal.md) 
+
+### [Drug.secret](/_secret\bio\Medicine/Drug.secret.md)
+

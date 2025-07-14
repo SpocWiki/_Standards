@@ -68,6 +68,17 @@ Universal_Decimal_Classification: 523
 > [Wikipedia](https://en.wikipedia.org/wiki/Solar%20System)
 
 
+## Confidential Links & Embeds: 
 
+### [Solar_System.public](/_public\Astronomy/Solar_System.public.md) 
 
+### [Solar_System.internal](/_internal\Astronomy/Solar_System.internal.md) 
+
+### [Solar_System.protect](/_protect\Astronomy/Solar_System.protect.md) 
+
+### [Solar_System.private](/_private\Astronomy/Solar_System.private.md) 
+
+### [Solar_System.personal](/_personal\Astronomy/Solar_System.personal.md) 
+
+### [Solar_System.secret](/_secret\Astronomy/Solar_System.secret.md)
 

@@ -20,3 +20,17 @@ has_id_wikidata: Q7108
 > [Wikipedia](https://en.wikipedia.org/wiki/Biotechnology) 
 
 
+## Confidential Links & Embeds: 
+
+### [Biotechnology.public](/_public\Technology/Biotechnology.public.md) 
+
+### [Biotechnology.internal](/_internal\Technology/Biotechnology.internal.md) 
+
+### [Biotechnology.protect](/_protect\Technology/Biotechnology.protect.md) 
+
+### [Biotechnology.private](/_private\Technology/Biotechnology.private.md) 
+
+### [Biotechnology.personal](/_personal\Technology/Biotechnology.personal.md) 
+
+### [Biotechnology.secret](/_secret\Technology/Biotechnology.secret.md)
+

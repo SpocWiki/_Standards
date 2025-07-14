@@ -42,3 +42,17 @@ Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_An
 > [Wikipedia](https://en.wikipedia.org/wiki/Domain%20(biology)) 
 
 
+## Confidential Links & Embeds: 
+
+### [bio~Domain.public](/_public\bio/bio~Domain.public.md) 
+
+### [bio~Domain.internal](/_internal\bio/bio~Domain.internal.md) 
+
+### [bio~Domain.protect](/_protect\bio/bio~Domain.protect.md) 
+
+### [bio~Domain.private](/_private\bio/bio~Domain.private.md) 
+
+### [bio~Domain.personal](/_personal\bio/bio~Domain.personal.md) 
+
+### [bio~Domain.secret](/_secret\bio/bio~Domain.secret.md)
+

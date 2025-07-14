@@ -145,16 +145,18 @@ markerFolder: ./Antarctica/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antarctica)
 
+
 ## Confidential Links & Embeds: 
 
-### [Antarctica](/_public/Earth/Continent/Antarctica.md) 
+### [Antarctica.public](/_public\Earth\Continent/Antarctica.public.md) 
 
-### [Antarctica.internal](/_internal/Earth/Continent/Antarctica.internal.md) 
+### [Antarctica.internal](/_internal\Earth\Continent/Antarctica.internal.md) 
 
-### [Antarctica.protect](/_protect/Earth/Continent/Antarctica.protect.md) 
+### [Antarctica.protect](/_protect\Earth\Continent/Antarctica.protect.md) 
 
-### [Antarctica.private](/_private/Earth/Continent/Antarctica.private.md) 
+### [Antarctica.private](/_private\Earth\Continent/Antarctica.private.md) 
 
-### [Antarctica.personal](/_personal/Earth/Continent/Antarctica.personal.md) 
+### [Antarctica.personal](/_personal\Earth\Continent/Antarctica.personal.md) 
 
-### [Antarctica.secret](/_secret/Earth/Continent/Antarctica.secret.md) 
+### [Antarctica.secret](/_secret\Earth\Continent/Antarctica.secret.md)
+

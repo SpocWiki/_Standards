@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7094
 subreddit: Biochemistry
 Commons_category: Biochemistry
@@ -52,4 +52,21 @@ All_Science_Journal_Classification_Codes: 1303
 > Much of biochemistry deals with the structures, functions, and interactions of biological macromolecules such as proteins, nucleic acids, carbohydrates, and lipids. They provide the structure of cells and perform many of the functions associated with life. The chemistry of the cell also depends upon the reactions of small molecules and ions.  These can be inorganic (for example, water and metal ions) or organic (for example, the amino acids, which are used to synthesize proteins). The mechanisms used by cells to harness energy from their environment via chemical reactions are known as metabolism. The findings of biochemistry are applied primarily in medicine, nutrition, and agriculture. In medicine, biochemists investigate the causes and cures of diseases. Nutrition studies how to maintain health and wellness and also the effects of nutritional deficiencies. In agriculture, biochemists investigate soil and fertilizers with the goal of improving crop cultivation, crop storage, and pest control. In recent decades, biochemical principles and methods have been combined with problem-solving approaches from engineering to manipulate living systems in order to produce useful tools for research, industrial processes, and diagnosis and control of disease—the discipline of biotechnology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biochemistry)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Biochemistry.public](/_public\chemic\organic/Biochemistry.public.md) 
+
+### [Biochemistry.internal](/_internal\chemic\organic/Biochemistry.internal.md) 
+
+### [Biochemistry.protect](/_protect\chemic\organic/Biochemistry.protect.md) 
+
+### [Biochemistry.private](/_private\chemic\organic/Biochemistry.private.md) 
+
+### [Biochemistry.personal](/_personal\chemic\organic/Biochemistry.personal.md) 
+
+### [Biochemistry.secret](/_secret\chemic\organic/Biochemistry.secret.md)
 

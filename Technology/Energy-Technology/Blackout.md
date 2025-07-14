@@ -18,3 +18,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Blackout.public](/_public\Technology\Energy-Technology/Blackout.public.md) 
+
+### [Blackout.internal](/_internal\Technology\Energy-Technology/Blackout.internal.md) 
+
+### [Blackout.protect](/_protect\Technology\Energy-Technology/Blackout.protect.md) 
+
+### [Blackout.private](/_private\Technology\Energy-Technology/Blackout.private.md) 
+
+### [Blackout.personal](/_personal\Technology\Energy-Technology/Blackout.personal.md) 
+
+### [Blackout.secret](/_secret\Technology\Energy-Technology/Blackout.secret.md)
+

@@ -126,14 +126,15 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Eon~3~Proterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic.md) 
+### [Eon~3~Proterozoic.public](/_public\Time-Ages\geo~Eons/Eon~3~Proterozoic.public.md) 
 
-### [Eon~3~Proterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic.internal.md) 
+### [Eon~3~Proterozoic.internal](/_internal\Time-Ages\geo~Eons/Eon~3~Proterozoic.internal.md) 
 
-### [Eon~3~Proterozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic.protect.md) 
+### [Eon~3~Proterozoic.protect](/_protect\Time-Ages\geo~Eons/Eon~3~Proterozoic.protect.md) 
 
-### [Eon~3~Proterozoic.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic.private.md) 
+### [Eon~3~Proterozoic.private](/_private\Time-Ages\geo~Eons/Eon~3~Proterozoic.private.md) 
 
-### [Eon~3~Proterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic.personal.md) 
+### [Eon~3~Proterozoic.personal](/_personal\Time-Ages\geo~Eons/Eon~3~Proterozoic.personal.md) 
 
-### [Eon~3~Proterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic.secret.md) 
+### [Eon~3~Proterozoic.secret](/_secret\Time-Ages\geo~Eons/Eon~3~Proterozoic.secret.md)
+

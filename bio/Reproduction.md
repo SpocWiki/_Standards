@@ -24,3 +24,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Reproduction)
 
 
+## Confidential Links & Embeds: 
+
+### [Reproduction.public](/_public\bio/Reproduction.public.md) 
+
+### [Reproduction.internal](/_internal\bio/Reproduction.internal.md) 
+
+### [Reproduction.protect](/_protect\bio/Reproduction.protect.md) 
+
+### [Reproduction.private](/_private\bio/Reproduction.private.md) 
+
+### [Reproduction.personal](/_personal\bio/Reproduction.personal.md) 
+
+### [Reproduction.secret](/_secret\bio/Reproduction.secret.md)
+

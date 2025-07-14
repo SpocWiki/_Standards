@@ -128,15 +128,15 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [African_Union.public](/_public/\InternationalAfrican_Union.public.md) 
+### [African_Union.public](/_public\International/African_Union.public.md) 
 
-### [African_Union.internal](/_internal/\InternationalAfrican_Union.internal.md) 
+### [African_Union.internal](/_internal\International/African_Union.internal.md) 
 
-### [African_Union.protect](/_protect/\InternationalAfrican_Union.protect.md) 
+### [African_Union.protect](/_protect\International/African_Union.protect.md) 
 
-### [African_Union.private](/_private/\InternationalAfrican_Union.private.md) 
+### [African_Union.private](/_private\International/African_Union.private.md) 
 
-### [African_Union.personal](/_personal/\InternationalAfrican_Union.personal.md) 
+### [African_Union.personal](/_personal\International/African_Union.personal.md) 
 
-### [African_Union.secret](/_secret/\InternationalAfrican_Union.secret.md)
+### [African_Union.secret](/_secret\International/African_Union.secret.md)
 

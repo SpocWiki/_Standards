@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Cyrillic
 ---
@@ -14,14 +14,15 @@ Several Languages, especially [[Slavic_Languages]] can be written either in thei
 
 ## Confidential Links & Embeds: 
 
-### [Script~Cyrl](/_public/Language/Scripts/Script~Cyrl.md) 
+### [Script~Cyrl.public](/_public\Language\Scripts/Script~Cyrl.public.md) 
 
-### [Script~Cyrl.internal](/_internal/Language/Scripts/Script~Cyrl.internal.md) 
+### [Script~Cyrl.internal](/_internal\Language\Scripts/Script~Cyrl.internal.md) 
 
-### [Script~Cyrl.protect](/_protect/Language/Scripts/Script~Cyrl.protect.md) 
+### [Script~Cyrl.protect](/_protect\Language\Scripts/Script~Cyrl.protect.md) 
 
-### [Script~Cyrl.private](/_private/Language/Scripts/Script~Cyrl.private.md) 
+### [Script~Cyrl.private](/_private\Language\Scripts/Script~Cyrl.private.md) 
 
-### [Script~Cyrl.personal](/_personal/Language/Scripts/Script~Cyrl.personal.md) 
+### [Script~Cyrl.personal](/_personal\Language\Scripts/Script~Cyrl.personal.md) 
 
-### [Script~Cyrl.secret](/_secret/Language/Scripts/Script~Cyrl.secret.md) 
+### [Script~Cyrl.secret](/_secret\Language\Scripts/Script~Cyrl.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -22,14 +22,15 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Actinide-Group](/_public/chemic/chemic~Elements/Actinide-Group.md) 
+### [Actinide-Group.public](/_public\chemic\chemic~Elements/Actinide-Group.public.md) 
 
-### [Actinide-Group.internal](/_internal/chemic/chemic~Elements/Actinide-Group.internal.md) 
+### [Actinide-Group.internal](/_internal\chemic\chemic~Elements/Actinide-Group.internal.md) 
 
-### [Actinide-Group.protect](/_protect/chemic/chemic~Elements/Actinide-Group.protect.md) 
+### [Actinide-Group.protect](/_protect\chemic\chemic~Elements/Actinide-Group.protect.md) 
 
-### [Actinide-Group.private](/_private/chemic/chemic~Elements/Actinide-Group.private.md) 
+### [Actinide-Group.private](/_private\chemic\chemic~Elements/Actinide-Group.private.md) 
 
-### [Actinide-Group.personal](/_personal/chemic/chemic~Elements/Actinide-Group.personal.md) 
+### [Actinide-Group.personal](/_personal\chemic\chemic~Elements/Actinide-Group.personal.md) 
 
-### [Actinide-Group.secret](/_secret/chemic/chemic~Elements/Actinide-Group.secret.md) 
+### [Actinide-Group.secret](/_secret\chemic\chemic~Elements/Actinide-Group.secret.md)
+

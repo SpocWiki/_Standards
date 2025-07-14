@@ -45,3 +45,20 @@ MeSH_tree_code: J01.576.655.875.400
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metallurgy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Metallurgy.public](/_public\chemic\Material/Metallurgy.public.md) 
+
+### [Metallurgy.internal](/_internal\chemic\Material/Metallurgy.internal.md) 
+
+### [Metallurgy.protect](/_protect\chemic\Material/Metallurgy.protect.md) 
+
+### [Metallurgy.private](/_private\chemic\Material/Metallurgy.private.md) 
+
+### [Metallurgy.personal](/_personal\chemic\Material/Metallurgy.personal.md) 
+
+### [Metallurgy.secret](/_secret\chemic\Material/Metallurgy.secret.md)
+

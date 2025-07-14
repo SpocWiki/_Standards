@@ -1,4 +1,4 @@
-﻿
+
 # [[Planck-Energy]] 
 
 #has_/scale :: 1.9561e9
@@ -16,14 +16,15 @@ in the combustion of the fuel in an automobile fuel tank of 57.2 L.
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Energy](/_public/Unit/Planck-Unit/Planck-Energy.md) 
+### [Planck-Energy.public](/_public\Unit\Planck-Unit/Planck-Energy.public.md) 
 
-### [Planck-Energy.internal](/_internal/Unit/Planck-Unit/Planck-Energy.internal.md) 
+### [Planck-Energy.internal](/_internal\Unit\Planck-Unit/Planck-Energy.internal.md) 
 
-### [Planck-Energy.protect](/_protect/Unit/Planck-Unit/Planck-Energy.protect.md) 
+### [Planck-Energy.protect](/_protect\Unit\Planck-Unit/Planck-Energy.protect.md) 
 
-### [Planck-Energy.private](/_private/Unit/Planck-Unit/Planck-Energy.private.md) 
+### [Planck-Energy.private](/_private\Unit\Planck-Unit/Planck-Energy.private.md) 
 
-### [Planck-Energy.personal](/_personal/Unit/Planck-Unit/Planck-Energy.personal.md) 
+### [Planck-Energy.personal](/_personal\Unit\Planck-Unit/Planck-Energy.personal.md) 
 
-### [Planck-Energy.secret](/_secret/Unit/Planck-Unit/Planck-Energy.secret.md) 
+### [Planck-Energy.secret](/_secret\Unit\Planck-Unit/Planck-Energy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿
+
 # [[Pseudo-Scalar]] 
 
 In n-dimensional [[Geometric_Algebra]], 
@@ -30,14 +30,15 @@ elements of the Algebra with dimension n: __⋀ⁿ Rⁿ__.
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Scalar](/_public/Mathematics/Geometry/Pseudo-Scalar.md) 
+### [Pseudo-Scalar.public](/_public\Mathematics\Geometry/Pseudo-Scalar.public.md) 
 
-### [Pseudo-Scalar.internal](/_internal/Mathematics/Geometry/Pseudo-Scalar.internal.md) 
+### [Pseudo-Scalar.internal](/_internal\Mathematics\Geometry/Pseudo-Scalar.internal.md) 
 
-### [Pseudo-Scalar.protect](/_protect/Mathematics/Geometry/Pseudo-Scalar.protect.md) 
+### [Pseudo-Scalar.protect](/_protect\Mathematics\Geometry/Pseudo-Scalar.protect.md) 
 
-### [Pseudo-Scalar.private](/_private/Mathematics/Geometry/Pseudo-Scalar.private.md) 
+### [Pseudo-Scalar.private](/_private\Mathematics\Geometry/Pseudo-Scalar.private.md) 
 
-### [Pseudo-Scalar.personal](/_personal/Mathematics/Geometry/Pseudo-Scalar.personal.md) 
+### [Pseudo-Scalar.personal](/_personal\Mathematics\Geometry/Pseudo-Scalar.personal.md) 
 
-### [Pseudo-Scalar.secret](/_secret/Mathematics/Geometry/Pseudo-Scalar.secret.md) 
+### [Pseudo-Scalar.secret](/_secret\Mathematics\Geometry/Pseudo-Scalar.secret.md)
+

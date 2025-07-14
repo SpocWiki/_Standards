@@ -1,4 +1,4 @@
-﻿---
+---
 type: Meta
 license: CC BY-SA 4.0
 publish: true
@@ -78,16 +78,18 @@ you can promote consistent Naming.
 
 Derived from [Schema.org](https://schema.org/docs/developers.html) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Predicate](/_public/schema-org/Predicate.md) 
+### [Predicate.public](/_public\schema-org/Predicate.public.md) 
 
-### [Predicate.internal](/_internal/schema-org/Predicate.internal.md) 
+### [Predicate.internal](/_internal\schema-org/Predicate.internal.md) 
 
-### [Predicate.protect](/_protect/schema-org/Predicate.protect.md) 
+### [Predicate.protect](/_protect\schema-org/Predicate.protect.md) 
 
-### [Predicate.private](/_private/schema-org/Predicate.private.md) 
+### [Predicate.private](/_private\schema-org/Predicate.private.md) 
 
-### [Predicate.personal](/_personal/schema-org/Predicate.personal.md) 
+### [Predicate.personal](/_personal\schema-org/Predicate.personal.md) 
 
-### [Predicate.secret](/_secret/schema-org/Predicate.secret.md) 
+### [Predicate.secret](/_secret\schema-org/Predicate.secret.md)
+

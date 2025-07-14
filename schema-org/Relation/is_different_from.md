@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,16 +49,18 @@ Relation describes that:
 ( #has_/name :: is_different_from)
 ( #has_/range :: Product, Service)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_different_from](/_public/schema-org/Relation/is_different_from.md) 
+### [is_different_from.public](/_public\schema-org\Relation/is_different_from.public.md) 
 
-### [is_different_from.internal](/_internal/schema-org/Relation/is_different_from.internal.md) 
+### [is_different_from.internal](/_internal\schema-org\Relation/is_different_from.internal.md) 
 
-### [is_different_from.protect](/_protect/schema-org/Relation/is_different_from.protect.md) 
+### [is_different_from.protect](/_protect\schema-org\Relation/is_different_from.protect.md) 
 
-### [is_different_from.private](/_private/schema-org/Relation/is_different_from.private.md) 
+### [is_different_from.private](/_private\schema-org\Relation/is_different_from.private.md) 
 
-### [is_different_from.personal](/_personal/schema-org/Relation/is_different_from.personal.md) 
+### [is_different_from.personal](/_personal\schema-org\Relation/is_different_from.personal.md) 
 
-### [is_different_from.secret](/_secret/schema-org/Relation/is_different_from.secret.md) 
+### [is_different_from.secret](/_secret\schema-org\Relation/is_different_from.secret.md)
+

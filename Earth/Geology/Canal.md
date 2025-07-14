@@ -54,3 +54,20 @@ Krugosvet_article: tehnologiya-i-promyshlennost/kanal
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Canal.public](/_public\Earth\Geology/Canal.public.md) 
+
+### [Canal.internal](/_internal\Earth\Geology/Canal.internal.md) 
+
+### [Canal.protect](/_protect\Earth\Geology/Canal.protect.md) 
+
+### [Canal.private](/_private\Earth\Geology/Canal.private.md) 
+
+### [Canal.personal](/_personal\Earth\Geology/Canal.personal.md) 
+
+### [Canal.secret](/_secret\Earth\Geology/Canal.secret.md)
+

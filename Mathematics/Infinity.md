@@ -71,3 +71,17 @@ Dewey_Decimal_Classification: 111.6
 > [Wikipedia](https://en.wikipedia.org/wiki/Infinity)
 
 
+## Confidential Links & Embeds: 
+
+### [Infinity.public](/_public\Mathematics/Infinity.public.md) 
+
+### [Infinity.internal](/_internal\Mathematics/Infinity.internal.md) 
+
+### [Infinity.protect](/_protect\Mathematics/Infinity.protect.md) 
+
+### [Infinity.private](/_private\Mathematics/Infinity.private.md) 
+
+### [Infinity.personal](/_personal\Mathematics/Infinity.personal.md) 
+
+### [Infinity.secret](/_secret\Mathematics/Infinity.secret.md)
+

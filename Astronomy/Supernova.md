@@ -33,3 +33,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Supernova) 
 
+
+## Confidential Links & Embeds: 
+
+### [Supernova.public](/_public\Astronomy/Supernova.public.md) 
+
+### [Supernova.internal](/_internal\Astronomy/Supernova.internal.md) 
+
+### [Supernova.protect](/_protect\Astronomy/Supernova.protect.md) 
+
+### [Supernova.private](/_private\Astronomy/Supernova.private.md) 
+
+### [Supernova.personal](/_personal\Astronomy/Supernova.personal.md) 
+
+### [Supernova.secret](/_secret\Astronomy/Supernova.secret.md)
+

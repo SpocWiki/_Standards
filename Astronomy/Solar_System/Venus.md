@@ -124,3 +124,20 @@ Commons_gallery: Venus
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Venus.public](/_public\Astronomy\Solar_System/Venus.public.md) 
+
+### [Venus.internal](/_internal\Astronomy\Solar_System/Venus.internal.md) 
+
+### [Venus.protect](/_protect\Astronomy\Solar_System/Venus.protect.md) 
+
+### [Venus.private](/_private\Astronomy\Solar_System/Venus.private.md) 
+
+### [Venus.personal](/_personal\Astronomy\Solar_System/Venus.personal.md) 
+
+### [Venus.secret](/_secret\Astronomy\Solar_System/Venus.secret.md)
+

@@ -75,3 +75,18 @@ MeSH_tree_code: B01.300
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fungus)
 
+
+## Confidential Links & Embeds: 
+
+### [Fungus.public](/_public\bio/Fungus.public.md) 
+
+### [Fungus.internal](/_internal\bio/Fungus.internal.md) 
+
+### [Fungus.protect](/_protect\bio/Fungus.protect.md) 
+
+### [Fungus.private](/_private\bio/Fungus.private.md) 
+
+### [Fungus.personal](/_personal\bio/Fungus.personal.md) 
+
+### [Fungus.secret](/_secret\bio/Fungus.secret.md)
+

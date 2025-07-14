@@ -198,3 +198,20 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jupiter)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Jupiter.public](/_public\Astronomy\Solar_System/Jupiter.public.md) 
+
+### [Jupiter.internal](/_internal\Astronomy\Solar_System/Jupiter.internal.md) 
+
+### [Jupiter.protect](/_protect\Astronomy\Solar_System/Jupiter.protect.md) 
+
+### [Jupiter.private](/_private\Astronomy\Solar_System/Jupiter.private.md) 
+
+### [Jupiter.personal](/_personal\Astronomy\Solar_System/Jupiter.personal.md) 
+
+### [Jupiter.secret](/_secret\Astronomy\Solar_System/Jupiter.secret.md)
+

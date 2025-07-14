@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q318
 subclass_of: "[[_Standards/WikiData/WD~deep-sky_object,249389]]"
 described_by_source:
@@ -48,4 +48,18 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/GALAKTIKI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galaxy)
 
+
+## Confidential Links & Embeds: 
+
+### [Galaxy.public](/_public\Astronomy/Galaxy.public.md) 
+
+### [Galaxy.internal](/_internal\Astronomy/Galaxy.internal.md) 
+
+### [Galaxy.protect](/_protect\Astronomy/Galaxy.protect.md) 
+
+### [Galaxy.private](/_private\Astronomy/Galaxy.private.md) 
+
+### [Galaxy.personal](/_personal\Astronomy/Galaxy.personal.md) 
+
+### [Galaxy.secret](/_secret\Astronomy/Galaxy.secret.md)
 

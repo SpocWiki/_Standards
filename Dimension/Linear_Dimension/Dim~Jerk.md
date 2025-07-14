@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Dim~Jerk
   - Dim~Jolt
@@ -25,14 +25,15 @@ Jump-discontinuity in acceleration can be modeled using a [Dirac delta function]
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Jerk](/_public/Dimension/Linear_Dimension/Dim~Jerk.md) 
+### [Dim~Jerk.public](/_public\Dimension\Linear_Dimension/Dim~Jerk.public.md) 
 
-### [Dim~Jerk.internal](/_internal/Dimension/Linear_Dimension/Dim~Jerk.internal.md) 
+### [Dim~Jerk.internal](/_internal\Dimension\Linear_Dimension/Dim~Jerk.internal.md) 
 
-### [Dim~Jerk.protect](/_protect/Dimension/Linear_Dimension/Dim~Jerk.protect.md) 
+### [Dim~Jerk.protect](/_protect\Dimension\Linear_Dimension/Dim~Jerk.protect.md) 
 
-### [Dim~Jerk.private](/_private/Dimension/Linear_Dimension/Dim~Jerk.private.md) 
+### [Dim~Jerk.private](/_private\Dimension\Linear_Dimension/Dim~Jerk.private.md) 
 
-### [Dim~Jerk.personal](/_personal/Dimension/Linear_Dimension/Dim~Jerk.personal.md) 
+### [Dim~Jerk.personal](/_personal\Dimension\Linear_Dimension/Dim~Jerk.personal.md) 
 
-### [Dim~Jerk.secret](/_secret/Dimension/Linear_Dimension/Dim~Jerk.secret.md) 
+### [Dim~Jerk.secret](/_secret\Dimension\Linear_Dimension/Dim~Jerk.secret.md)
+

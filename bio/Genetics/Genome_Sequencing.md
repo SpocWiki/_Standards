@@ -75,3 +75,20 @@ Genome sequencing has transitioned from a multi-billion-dollar scientific endeav
 to an affordable and scalable process, largely due to advancements in sequencing technologies, 
 increased automation, and economies of scale. This cost reduction is expected to continue, making genomics more accessible for personalized medicine, agriculture, and biotechnology.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Genome_Sequencing.public](/_public\bio\Genetics/Genome_Sequencing.public.md) 
+
+### [Genome_Sequencing.internal](/_internal\bio\Genetics/Genome_Sequencing.internal.md) 
+
+### [Genome_Sequencing.protect](/_protect\bio\Genetics/Genome_Sequencing.protect.md) 
+
+### [Genome_Sequencing.private](/_private\bio\Genetics/Genome_Sequencing.private.md) 
+
+### [Genome_Sequencing.personal](/_personal\bio\Genetics/Genome_Sequencing.personal.md) 
+
+### [Genome_Sequencing.secret](/_secret\bio\Genetics/Genome_Sequencing.secret.md)
+

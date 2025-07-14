@@ -43,18 +43,18 @@ briefMax: 128
 noteOnly: true
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [Military](/_public/Military.md) 
+### [Military.public](/_public\bio\Society/Military.public.md) 
 
-### [Military.internal](/_internal/Military.internal.md) 
+### [Military.internal](/_internal\bio\Society/Military.internal.md) 
 
-### [Military.protect](/_protect/Military.protect.md) 
+### [Military.protect](/_protect\bio\Society/Military.protect.md) 
 
-### [Military.private](/_private/Military.private.md) 
+### [Military.private](/_private\bio\Society/Military.private.md) 
 
-### [Military.personal](/_personal/Military.personal.md) 
+### [Military.personal](/_personal\bio\Society/Military.personal.md) 
 
-### [Military.secret](/_secret/Military.secret.md) 
-
+### [Military.secret](/_secret\bio\Society/Military.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -73,16 +73,18 @@ This has the Benefit that Translation becomes Conversion.
 Tag Instances like this: 
 #is_a_/quantity
 
+
 ## Confidential Links & Embeds: 
 
-### [Quantity](/_public/schema-org/Predicate/Quantity.md) 
+### [Quantity.public](/_public\schema-org\Predicate/Quantity.public.md) 
 
-### [Quantity.internal](/_internal/schema-org/Predicate/Quantity.internal.md) 
+### [Quantity.internal](/_internal\schema-org\Predicate/Quantity.internal.md) 
 
-### [Quantity.protect](/_protect/schema-org/Predicate/Quantity.protect.md) 
+### [Quantity.protect](/_protect\schema-org\Predicate/Quantity.protect.md) 
 
-### [Quantity.private](/_private/schema-org/Predicate/Quantity.private.md) 
+### [Quantity.private](/_private\schema-org\Predicate/Quantity.private.md) 
 
-### [Quantity.personal](/_personal/schema-org/Predicate/Quantity.personal.md) 
+### [Quantity.personal](/_personal\schema-org\Predicate/Quantity.personal.md) 
 
-### [Quantity.secret](/_secret/schema-org/Predicate/Quantity.secret.md) 
+### [Quantity.secret](/_secret\schema-org\Predicate/Quantity.secret.md)
+

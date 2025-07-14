@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -84,14 +84,15 @@ etc. that can be modeled as both:
 
 ## Confidential Links & Embeds: 
 
-### [is_part_of](/_public/schema-org/Composite/is_part_of.md) 
+### [is_part_of.public](/_public\schema-org\Composite/is_part_of.public.md) 
 
-### [is_part_of.internal](/_internal/schema-org/Composite/is_part_of.internal.md) 
+### [is_part_of.internal](/_internal\schema-org\Composite/is_part_of.internal.md) 
 
-### [is_part_of.protect](/_protect/schema-org/Composite/is_part_of.protect.md) 
+### [is_part_of.protect](/_protect\schema-org\Composite/is_part_of.protect.md) 
 
-### [is_part_of.private](/_private/schema-org/Composite/is_part_of.private.md) 
+### [is_part_of.private](/_private\schema-org\Composite/is_part_of.private.md) 
 
-### [is_part_of.personal](/_personal/schema-org/Composite/is_part_of.personal.md) 
+### [is_part_of.personal](/_personal\schema-org\Composite/is_part_of.personal.md) 
 
-### [is_part_of.secret](/_secret/schema-org/Composite/is_part_of.secret.md) 
+### [is_part_of.secret](/_secret\schema-org\Composite/is_part_of.secret.md)
+

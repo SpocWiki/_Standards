@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -135,14 +135,15 @@ Iterators allow the minimum Access to all elements of a Collection, no matter wh
 
 ## Confidential Links & Embeds: 
 
-### [Collection](/_public/schema-org/Collection.md) 
+### [Collection.public](/_public\schema-org/Collection.public.md) 
 
-### [Collection.internal](/_internal/schema-org/Collection.internal.md) 
+### [Collection.internal](/_internal\schema-org/Collection.internal.md) 
 
-### [Collection.protect](/_protect/schema-org/Collection.protect.md) 
+### [Collection.protect](/_protect\schema-org/Collection.protect.md) 
 
-### [Collection.private](/_private/schema-org/Collection.private.md) 
+### [Collection.private](/_private\schema-org/Collection.private.md) 
 
-### [Collection.personal](/_personal/schema-org/Collection.personal.md) 
+### [Collection.personal](/_personal\schema-org/Collection.personal.md) 
 
-### [Collection.secret](/_secret/schema-org/Collection.secret.md) 
+### [Collection.secret](/_secret\schema-org/Collection.secret.md)
+

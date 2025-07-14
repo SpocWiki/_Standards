@@ -82,3 +82,18 @@ to obtain chemoselectivity in a subsequent chemical reaction, facilitating multi
 - MOM for the methoxymethyl group
 - THP for the 2-tetrahydropyranyl group
 
+
+## Confidential Links & Embeds: 
+
+### [Pseudoelement.public](/_public\chemic/Pseudoelement.public.md) 
+
+### [Pseudoelement.internal](/_internal\chemic/Pseudoelement.internal.md) 
+
+### [Pseudoelement.protect](/_protect\chemic/Pseudoelement.protect.md) 
+
+### [Pseudoelement.private](/_private\chemic/Pseudoelement.private.md) 
+
+### [Pseudoelement.personal](/_personal\chemic/Pseudoelement.personal.md) 
+
+### [Pseudoelement.secret](/_secret\chemic/Pseudoelement.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -19,14 +19,15 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### [Group-15-Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen.md) 
+### [Group-15-Nitrogen.public](/_public\chemic\chemic~Elements/Group-15-Nitrogen.public.md) 
 
-### [Group-15-Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen.internal.md) 
+### [Group-15-Nitrogen.internal](/_internal\chemic\chemic~Elements/Group-15-Nitrogen.internal.md) 
 
-### [Group-15-Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen.protect.md) 
+### [Group-15-Nitrogen.protect](/_protect\chemic\chemic~Elements/Group-15-Nitrogen.protect.md) 
 
-### [Group-15-Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen.private.md) 
+### [Group-15-Nitrogen.private](/_private\chemic\chemic~Elements/Group-15-Nitrogen.private.md) 
 
-### [Group-15-Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen.personal.md) 
+### [Group-15-Nitrogen.personal](/_personal\chemic\chemic~Elements/Group-15-Nitrogen.personal.md) 
 
-### [Group-15-Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen.secret.md) 
+### [Group-15-Nitrogen.secret](/_secret\chemic\chemic~Elements/Group-15-Nitrogen.secret.md)
+

@@ -10,3 +10,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Musician) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Musician.public](/_public\bio\People/Musician.public.md) 
+
+### [Musician.internal](/_internal\bio\People/Musician.internal.md) 
+
+### [Musician.protect](/_protect\bio\People/Musician.protect.md) 
+
+### [Musician.private](/_private\bio\People/Musician.private.md) 
+
+### [Musician.personal](/_personal\bio\People/Musician.personal.md) 
+
+### [Musician.secret](/_secret\bio\People/Musician.secret.md)
+

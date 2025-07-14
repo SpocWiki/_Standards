@@ -82,4 +82,17 @@ Smaller Structures like the Core Family were not robust enough to survive.
 > [Wikipedia](https://en.wikipedia.org/wiki/Society)
 
 
+## Confidential Links & Embeds: 
+
+### [Society.public](/_public\bio/Society.public.md) 
+
+### [Society.internal](/_internal\bio/Society.internal.md) 
+
+### [Society.protect](/_protect\bio/Society.protect.md) 
+
+### [Society.private](/_private\bio/Society.private.md) 
+
+### [Society.personal](/_personal\bio/Society.personal.md) 
+
+### [Society.secret](/_secret\bio/Society.secret.md)
 

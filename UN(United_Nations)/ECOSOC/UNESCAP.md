@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - ESCAP
 ---
@@ -11,16 +11,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific)
 
+
 ## Confidential Links & Embeds: 
 
-### [UNESCAP](/_public/UN(United_Nations)/ECOSOC/UNESCAP.md) 
+### [UNESCAP.public](/_public\UN(United_Nations)\ECOSOC/UNESCAP.public.md) 
 
-### [UNESCAP.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCAP.internal.md) 
+### [UNESCAP.internal](/_internal\UN(United_Nations)\ECOSOC/UNESCAP.internal.md) 
 
-### [UNESCAP.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCAP.protect.md) 
+### [UNESCAP.protect](/_protect\UN(United_Nations)\ECOSOC/UNESCAP.protect.md) 
 
-### [UNESCAP.private](/_private/UN(United_Nations)/ECOSOC/UNESCAP.private.md) 
+### [UNESCAP.private](/_private\UN(United_Nations)\ECOSOC/UNESCAP.private.md) 
 
-### [UNESCAP.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCAP.personal.md) 
+### [UNESCAP.personal](/_personal\UN(United_Nations)\ECOSOC/UNESCAP.personal.md) 
 
-### [UNESCAP.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCAP.secret.md) 
+### [UNESCAP.secret](/_secret\UN(United_Nations)\ECOSOC/UNESCAP.secret.md)
+

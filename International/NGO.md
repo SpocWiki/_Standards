@@ -21,3 +21,18 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Non-governmental%20organization)
 
+
+## Confidential Links & Embeds: 
+
+### [NGO.public](/_public\International/NGO.public.md) 
+
+### [NGO.internal](/_internal\International/NGO.internal.md) 
+
+### [NGO.protect](/_protect\International/NGO.protect.md) 
+
+### [NGO.private](/_private\International/NGO.private.md) 
+
+### [NGO.personal](/_personal\International/NGO.personal.md) 
+
+### [NGO.secret](/_secret\International/NGO.secret.md)
+

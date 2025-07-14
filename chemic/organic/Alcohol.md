@@ -70,3 +70,20 @@ Alcohol und seine Abbauprodukte Acetaldehyd machen betrunken und sind Zellgifte.
 Es gibt keine minimale Dosis, die Schäden sind akkumulativ und nicht alle reversibel. 
 Beeinträchtigt wird Immunsystem, Krebsgefahr steigt. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Alcohol.public](/_public\chemic\organic/Alcohol.public.md) 
+
+### [Alcohol.internal](/_internal\chemic\organic/Alcohol.internal.md) 
+
+### [Alcohol.protect](/_protect\chemic\organic/Alcohol.protect.md) 
+
+### [Alcohol.private](/_private\chemic\organic/Alcohol.private.md) 
+
+### [Alcohol.personal](/_personal\chemic\organic/Alcohol.personal.md) 
+
+### [Alcohol.secret](/_secret\chemic\organic/Alcohol.secret.md)
+

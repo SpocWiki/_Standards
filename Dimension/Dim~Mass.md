@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Inertia
 ---
@@ -18,14 +18,15 @@ There are many Units for Mass, but the SI-Unit is the [[../Unit/SI-Unit/Unit~Gra
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Mass](/_public/Dimension/Dim~Mass.md) 
+### [Dim~Mass.public](/_public\Dimension/Dim~Mass.public.md) 
 
-### [Dim~Mass.internal](/_internal/Dimension/Dim~Mass.internal.md) 
+### [Dim~Mass.internal](/_internal\Dimension/Dim~Mass.internal.md) 
 
-### [Dim~Mass.protect](/_protect/Dimension/Dim~Mass.protect.md) 
+### [Dim~Mass.protect](/_protect\Dimension/Dim~Mass.protect.md) 
 
-### [Dim~Mass.private](/_private/Dimension/Dim~Mass.private.md) 
+### [Dim~Mass.private](/_private\Dimension/Dim~Mass.private.md) 
 
-### [Dim~Mass.personal](/_personal/Dimension/Dim~Mass.personal.md) 
+### [Dim~Mass.personal](/_personal\Dimension/Dim~Mass.personal.md) 
 
-### [Dim~Mass.secret](/_secret/Dimension/Dim~Mass.secret.md) 
+### [Dim~Mass.secret](/_secret\Dimension/Dim~Mass.secret.md)
+

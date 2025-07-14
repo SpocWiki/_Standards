@@ -16,3 +16,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Number%20theory)
 
+
+## Confidential Links & Embeds: 
+
+### [Number_Theory.public](/_public\Mathematics/Number_Theory.public.md) 
+
+### [Number_Theory.internal](/_internal\Mathematics/Number_Theory.internal.md) 
+
+### [Number_Theory.protect](/_protect\Mathematics/Number_Theory.protect.md) 
+
+### [Number_Theory.private](/_private\Mathematics/Number_Theory.private.md) 
+
+### [Number_Theory.personal](/_personal\Mathematics/Number_Theory.personal.md) 
+
+### [Number_Theory.secret](/_secret\Mathematics/Number_Theory.secret.md)
+

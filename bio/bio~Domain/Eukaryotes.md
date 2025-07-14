@@ -908,3 +908,19 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
   ------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Eukaryotes.public](/_public\bio\bio~Domain/Eukaryotes.public.md) 
+
+### [Eukaryotes.internal](/_internal\bio\bio~Domain/Eukaryotes.internal.md) 
+
+### [Eukaryotes.protect](/_protect\bio\bio~Domain/Eukaryotes.protect.md) 
+
+### [Eukaryotes.private](/_private\bio\bio~Domain/Eukaryotes.private.md) 
+
+### [Eukaryotes.personal](/_personal\bio\bio~Domain/Eukaryotes.personal.md) 
+
+### [Eukaryotes.secret](/_secret\bio\bio~Domain/Eukaryotes.secret.md)
+

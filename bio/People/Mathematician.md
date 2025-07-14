@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q170790
 female_form_of_label:
 - matematikistino
@@ -94,15 +94,15 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Mathematician::42t84\"]"
 
 ## Confidential Links & Embeds: 
 
-### [Mathematicians](/_public/Mathematics/Mathematicians.md) 
+### [Mathematician.public](/_public\bio\People/Mathematician.public.md) 
 
-### [Mathematicians.internal](/_internal/Mathematics/Mathematicians.internal.md) 
+### [Mathematician.internal](/_internal\bio\People/Mathematician.internal.md) 
 
-### [Mathematicians.protect](/_protect/Mathematics/Mathematicians.protect.md) 
+### [Mathematician.protect](/_protect\bio\People/Mathematician.protect.md) 
 
-### [Mathematicians.private](/_private/Mathematics/Mathematicians.private.md) 
+### [Mathematician.private](/_private\bio\People/Mathematician.private.md) 
 
-### [Mathematicians.personal](/_personal/Mathematics/Mathematicians.personal.md) 
+### [Mathematician.personal](/_personal\bio\People/Mathematician.personal.md) 
 
-### [Mathematicians.secret](/_secret/Mathematics/Mathematicians.secret.md) 
+### [Mathematician.secret](/_secret\bio\People/Mathematician.secret.md)
 

@@ -110,12 +110,18 @@ Except for the limited purpose of indicating to the public that the Work is lice
 
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
+
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]]
+
+### [License.public](/_public\bio\bio~Domain/License.public.md) 
+
+### [License.internal](/_internal\bio\bio~Domain/License.internal.md) 
+
+### [License.protect](/_protect\bio\bio~Domain/License.protect.md) 
+
+### [License.private](/_private\bio\bio~Domain/License.private.md) 
+
+### [License.personal](/_personal\bio\bio~Domain/License.personal.md) 
+
+### [License.secret](/_secret\bio\bio~Domain/License.secret.md)
 

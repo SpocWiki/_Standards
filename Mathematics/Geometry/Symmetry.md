@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12485
 has_effect: '[[_Standards/WikiData/WD~invariant,188211]]'
 opposite_of: '[[_Standards/WikiData/WD~asymmetry,752641]]'
@@ -42,4 +42,21 @@ Commons_category: Symmetry
 > The opposite of symmetry is asymmetry, which refers to the absence of symmetry.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symmetry)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Symmetry.public](/_public\Mathematics\Geometry/Symmetry.public.md) 
+
+### [Symmetry.internal](/_internal\Mathematics\Geometry/Symmetry.internal.md) 
+
+### [Symmetry.protect](/_protect\Mathematics\Geometry/Symmetry.protect.md) 
+
+### [Symmetry.private](/_private\Mathematics\Geometry/Symmetry.private.md) 
+
+### [Symmetry.personal](/_personal\Mathematics\Geometry/Symmetry.personal.md) 
+
+### [Symmetry.secret](/_secret\Mathematics\Geometry/Symmetry.secret.md)
 

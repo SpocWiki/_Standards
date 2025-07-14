@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,16 +39,18 @@ Relation describes that:
 ( #has_/name :: [is_sub_set_of](is_sub_set_of.md))
 ( #has_/range :: [Collection](../Collection.md))
 
+
 ## Confidential Links & Embeds: 
 
-### [is_sub_set_of](/_public/schema-org/Collection/is_sub_set_of.md) 
+### [is_sub_set_of.public](/_public\schema-org\Collection/is_sub_set_of.public.md) 
 
-### [is_sub_set_of.internal](/_internal/schema-org/Collection/is_sub_set_of.internal.md) 
+### [is_sub_set_of.internal](/_internal\schema-org\Collection/is_sub_set_of.internal.md) 
 
-### [is_sub_set_of.protect](/_protect/schema-org/Collection/is_sub_set_of.protect.md) 
+### [is_sub_set_of.protect](/_protect\schema-org\Collection/is_sub_set_of.protect.md) 
 
-### [is_sub_set_of.private](/_private/schema-org/Collection/is_sub_set_of.private.md) 
+### [is_sub_set_of.private](/_private\schema-org\Collection/is_sub_set_of.private.md) 
 
-### [is_sub_set_of.personal](/_personal/schema-org/Collection/is_sub_set_of.personal.md) 
+### [is_sub_set_of.personal](/_personal\schema-org\Collection/is_sub_set_of.personal.md) 
 
-### [is_sub_set_of.secret](/_secret/schema-org/Collection/is_sub_set_of.secret.md) 
+### [is_sub_set_of.secret](/_secret\schema-org\Collection/is_sub_set_of.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Transportation
 - Transport
@@ -73,4 +73,19 @@ IPTC_NewsCode: mediatopic/20000337
 > Means of transport are any of the different kinds of transport facilities used to carry people or cargo. They may include vehicles, riding animals, and pack animals. Vehicles may include wagons, automobiles, bicycles, buses, trains, trucks, helicopters, watercraft, spacecraft, and aircraft.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transport) 
+
+
+## Confidential Links & Embeds: 
+
+### [Transport.public](/_public\Technology/Transport.public.md) 
+
+### [Transport.internal](/_internal\Technology/Transport.internal.md) 
+
+### [Transport.protect](/_protect\Technology/Transport.protect.md) 
+
+### [Transport.private](/_private\Technology/Transport.private.md) 
+
+### [Transport.personal](/_personal\Technology/Transport.personal.md) 
+
+### [Transport.secret](/_secret\Technology/Transport.secret.md)
 

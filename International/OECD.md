@@ -56,3 +56,18 @@ TableByName:
 dv.view("TableByName", ["OECD.tsv"]);
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [OECD.public](/_public\International/OECD.public.md) 
+
+### [OECD.internal](/_internal\International/OECD.internal.md) 
+
+### [OECD.protect](/_protect\International/OECD.protect.md) 
+
+### [OECD.private](/_private\International/OECD.private.md) 
+
+### [OECD.personal](/_personal\International/OECD.personal.md) 
+
+### [OECD.secret](/_secret\International/OECD.secret.md)
+

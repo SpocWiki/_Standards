@@ -60,3 +60,18 @@ Commons_category: Probability
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Probability)
 
+
+## Confidential Links & Embeds: 
+
+### [Probability.public](/_public\Mathematics/Probability.public.md) 
+
+### [Probability.internal](/_internal\Mathematics/Probability.internal.md) 
+
+### [Probability.protect](/_protect\Mathematics/Probability.protect.md) 
+
+### [Probability.private](/_private\Mathematics/Probability.private.md) 
+
+### [Probability.personal](/_personal\Mathematics/Probability.personal.md) 
+
+### [Probability.secret](/_secret\Mathematics/Probability.secret.md)
+

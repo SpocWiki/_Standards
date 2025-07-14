@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8236
 instance_of:
 - '[[_Standards/WikiData/WD~concept,151885]]'
@@ -37,4 +37,18 @@ Commons_category: Literacy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Literacy) 
 
+
+## Confidential Links & Embeds: 
+
+### [Literacy.public](/_public\Language/Literacy.public.md) 
+
+### [Literacy.internal](/_internal\Language/Literacy.internal.md) 
+
+### [Literacy.protect](/_protect\Language/Literacy.protect.md) 
+
+### [Literacy.private](/_private\Language/Literacy.private.md) 
+
+### [Literacy.personal](/_personal\Language/Literacy.personal.md) 
+
+### [Literacy.secret](/_secret\Language/Literacy.secret.md)
 

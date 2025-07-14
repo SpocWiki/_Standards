@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,16 +41,18 @@ Relation describes that:
 ( #has_/name :: [is_module_of](is_module_of.md))
 ( #has_/range :: [Composite](../Composite.md))
 
+
 ## Confidential Links & Embeds: 
 
-### [is_module_of](/_public/schema-org/Composite/is_module_of.md) 
+### [is_module_of.public](/_public\schema-org\Composite/is_module_of.public.md) 
 
-### [is_module_of.internal](/_internal/schema-org/Composite/is_module_of.internal.md) 
+### [is_module_of.internal](/_internal\schema-org\Composite/is_module_of.internal.md) 
 
-### [is_module_of.protect](/_protect/schema-org/Composite/is_module_of.protect.md) 
+### [is_module_of.protect](/_protect\schema-org\Composite/is_module_of.protect.md) 
 
-### [is_module_of.private](/_private/schema-org/Composite/is_module_of.private.md) 
+### [is_module_of.private](/_private\schema-org\Composite/is_module_of.private.md) 
 
-### [is_module_of.personal](/_personal/schema-org/Composite/is_module_of.personal.md) 
+### [is_module_of.personal](/_personal\schema-org\Composite/is_module_of.personal.md) 
 
-### [is_module_of.secret](/_secret/schema-org/Composite/is_module_of.secret.md) 
+### [is_module_of.secret](/_secret\schema-org\Composite/is_module_of.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8434
 GitHub_topic: education
 subreddit: education
@@ -117,4 +117,21 @@ Iconclass_notation: 49A
 > [Wikipedia](https://en.wikipedia.org/wiki/Education)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Education.public](/_public\bio\Society/Education.public.md) 
+
+### [Education.internal](/_internal\bio\Society/Education.internal.md) 
+
+### [Education.protect](/_protect\bio\Society/Education.protect.md) 
+
+### [Education.private](/_private\bio\Society/Education.private.md) 
+
+### [Education.personal](/_personal\bio\Society/Education.personal.md) 
+
+### [Education.secret](/_secret\bio\Society/Education.secret.md)
 

@@ -31,15 +31,15 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [CEFACT.public](/_public/\UN(United_Nations)CEFACT.public.md) 
+### [CEFACT.public](/_public\UN(United_Nations)/CEFACT.public.md) 
 
-### [CEFACT.internal](/_internal/\UN(United_Nations)CEFACT.internal.md) 
+### [CEFACT.internal](/_internal\UN(United_Nations)/CEFACT.internal.md) 
 
-### [CEFACT.protect](/_protect/\UN(United_Nations)CEFACT.protect.md) 
+### [CEFACT.protect](/_protect\UN(United_Nations)/CEFACT.protect.md) 
 
-### [CEFACT.private](/_private/\UN(United_Nations)CEFACT.private.md) 
+### [CEFACT.private](/_private\UN(United_Nations)/CEFACT.private.md) 
 
-### [CEFACT.personal](/_personal/\UN(United_Nations)CEFACT.personal.md) 
+### [CEFACT.personal](/_personal\UN(United_Nations)/CEFACT.personal.md) 
 
-### [CEFACT.secret](/_secret/\UN(United_Nations)CEFACT.secret.md)
+### [CEFACT.secret](/_secret\UN(United_Nations)/CEFACT.secret.md)
 

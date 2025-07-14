@@ -130,3 +130,20 @@ This refers to physical Architecture.
 type: folder_brief_live
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Architecture.public](/_public\Technology\Construction/Architecture.public.md) 
+
+### [Architecture.internal](/_internal\Technology\Construction/Architecture.internal.md) 
+
+### [Architecture.protect](/_protect\Technology\Construction/Architecture.protect.md) 
+
+### [Architecture.private](/_private\Technology\Construction/Architecture.private.md) 
+
+### [Architecture.personal](/_personal\Technology\Construction/Architecture.personal.md) 
+
+### [Architecture.secret](/_secret\Technology\Construction/Architecture.secret.md)
+

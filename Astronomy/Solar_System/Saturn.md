@@ -225,3 +225,20 @@ parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Saturn.public](/_public\Astronomy\Solar_System/Saturn.public.md) 
+
+### [Saturn.internal](/_internal\Astronomy\Solar_System/Saturn.internal.md) 
+
+### [Saturn.protect](/_protect\Astronomy\Solar_System/Saturn.protect.md) 
+
+### [Saturn.private](/_private\Astronomy\Solar_System/Saturn.private.md) 
+
+### [Saturn.personal](/_personal\Astronomy\Solar_System/Saturn.personal.md) 
+
+### [Saturn.secret](/_secret\Astronomy\Solar_System/Saturn.secret.md)
+

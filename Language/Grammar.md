@@ -48,15 +48,15 @@ related_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Susenbrot.JPG
 
 ## Confidential Links & Embeds: 
 
-### [Grammar.public](/_public/\LanguageGrammar.public.md) 
+### [Grammar.public](/_public\Language/Grammar.public.md) 
 
-### [Grammar.internal](/_internal/\LanguageGrammar.internal.md) 
+### [Grammar.internal](/_internal\Language/Grammar.internal.md) 
 
-### [Grammar.protect](/_protect/\LanguageGrammar.protect.md) 
+### [Grammar.protect](/_protect\Language/Grammar.protect.md) 
 
-### [Grammar.private](/_private/\LanguageGrammar.private.md) 
+### [Grammar.private](/_private\Language/Grammar.private.md) 
 
-### [Grammar.personal](/_personal/\LanguageGrammar.personal.md) 
+### [Grammar.personal](/_personal\Language/Grammar.personal.md) 
 
-### [Grammar.secret](/_secret/\LanguageGrammar.secret.md)
+### [Grammar.secret](/_secret\Language/Grammar.secret.md)
 

@@ -169,16 +169,18 @@ zoomFeatures: false
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20America)
 
+
 ## Confidential Links & Embeds: 
 
-### [America~South](/_public/Earth/Continent/America~South.md) 
+### [America~South.public](/_public\Earth\Continent/America~South.public.md) 
 
-### [America~South.internal](/_internal/Earth/Continent/America~South.internal.md) 
+### [America~South.internal](/_internal\Earth\Continent/America~South.internal.md) 
 
-### [America~South.protect](/_protect/Earth/Continent/America~South.protect.md) 
+### [America~South.protect](/_protect\Earth\Continent/America~South.protect.md) 
 
-### [America~South.private](/_private/Earth/Continent/America~South.private.md) 
+### [America~South.private](/_private\Earth\Continent/America~South.private.md) 
 
-### [America~South.personal](/_personal/Earth/Continent/America~South.personal.md) 
+### [America~South.personal](/_personal\Earth\Continent/America~South.personal.md) 
 
-### [America~South.secret](/_secret/Earth/Continent/America~South.secret.md) 
+### [America~South.secret](/_secret\Earth\Continent/America~South.secret.md)
+

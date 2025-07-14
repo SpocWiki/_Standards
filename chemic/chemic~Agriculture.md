@@ -13,5 +13,17 @@ has_id_wikidata: Q397334
 > [Wikipedia](https://en.wikipedia.org/wiki/Agricultural%20chemistry)
 
 
+## Confidential Links & Embeds: 
 
+### [chemic~Agriculture.public](/_public\chemic/chemic~Agriculture.public.md) 
+
+### [chemic~Agriculture.internal](/_internal\chemic/chemic~Agriculture.internal.md) 
+
+### [chemic~Agriculture.protect](/_protect\chemic/chemic~Agriculture.protect.md) 
+
+### [chemic~Agriculture.private](/_private\chemic/chemic~Agriculture.private.md) 
+
+### [chemic~Agriculture.personal](/_personal\chemic/chemic~Agriculture.personal.md) 
+
+### [chemic~Agriculture.secret](/_secret\chemic/chemic~Agriculture.secret.md)
 

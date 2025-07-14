@@ -60,3 +60,20 @@ ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"blo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Force)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Force.public](/_public\Science\Physics/Force.public.md) 
+
+### [Force.internal](/_internal\Science\Physics/Force.internal.md) 
+
+### [Force.protect](/_protect\Science\Physics/Force.protect.md) 
+
+### [Force.private](/_private\Science\Physics/Force.private.md) 
+
+### [Force.personal](/_personal\Science\Physics/Force.personal.md) 
+
+### [Force.secret](/_secret\Science\Physics/Force.secret.md)
+

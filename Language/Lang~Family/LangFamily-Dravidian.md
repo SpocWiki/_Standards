@@ -60,16 +60,18 @@ GOST_7_75_97_code: "дра 185"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dravidian%20languages)
 
+
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Dravidian](/_public/Language/Lang~Family/LangFamily-Dravidian.md) 
+### [LangFamily-Dravidian.public](/_public\Language\Lang~Family/LangFamily-Dravidian.public.md) 
 
-### [LangFamily-Dravidian.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian.internal.md) 
+### [LangFamily-Dravidian.internal](/_internal\Language\Lang~Family/LangFamily-Dravidian.internal.md) 
 
-### [LangFamily-Dravidian.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian.protect.md) 
+### [LangFamily-Dravidian.protect](/_protect\Language\Lang~Family/LangFamily-Dravidian.protect.md) 
 
-### [LangFamily-Dravidian.private](/_private/Language/Lang~Family/LangFamily-Dravidian.private.md) 
+### [LangFamily-Dravidian.private](/_private\Language\Lang~Family/LangFamily-Dravidian.private.md) 
 
-### [LangFamily-Dravidian.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian.personal.md) 
+### [LangFamily-Dravidian.personal](/_personal\Language\Lang~Family/LangFamily-Dravidian.personal.md) 
 
-### [LangFamily-Dravidian.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian.secret.md) 
+### [LangFamily-Dravidian.secret](/_secret\Language\Lang~Family/LangFamily-Dravidian.secret.md)
+

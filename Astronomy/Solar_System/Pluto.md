@@ -103,3 +103,20 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pluto)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pluto.public](/_public\Astronomy\Solar_System/Pluto.public.md) 
+
+### [Pluto.internal](/_internal\Astronomy\Solar_System/Pluto.internal.md) 
+
+### [Pluto.protect](/_protect\Astronomy\Solar_System/Pluto.protect.md) 
+
+### [Pluto.private](/_private\Astronomy\Solar_System/Pluto.private.md) 
+
+### [Pluto.personal](/_personal\Astronomy\Solar_System/Pluto.personal.md) 
+
+### [Pluto.secret](/_secret\Astronomy\Solar_System/Pluto.secret.md)
+

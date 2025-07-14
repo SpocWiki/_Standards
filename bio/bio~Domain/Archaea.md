@@ -398,3 +398,20 @@ UMLS_CUI: C0003732
     -   [Thermoproteota](Archaea/Thermoproteota.md)
     -   [Methanobacteriota](Archaea/Methanobacteriota.md)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Archaea.public](/_public\bio\bio~Domain/Archaea.public.md) 
+
+### [Archaea.internal](/_internal\bio\bio~Domain/Archaea.internal.md) 
+
+### [Archaea.protect](/_protect\bio\bio~Domain/Archaea.protect.md) 
+
+### [Archaea.private](/_private\bio\bio~Domain/Archaea.private.md) 
+
+### [Archaea.personal](/_personal\bio\bio~Domain/Archaea.personal.md) 
+
+### [Archaea.secret](/_secret\bio\bio~Domain/Archaea.secret.md)
+

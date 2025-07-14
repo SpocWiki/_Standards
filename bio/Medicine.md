@@ -76,5 +76,17 @@ Mastodon_instance_URL: "https://med-mastodon.com"
 > [Wikipedia](https://en.wikipedia.org/wiki/Medicine)
 
 
+## Confidential Links & Embeds: 
 
+### [Medicine.public](/_public\bio/Medicine.public.md) 
+
+### [Medicine.internal](/_internal\bio/Medicine.internal.md) 
+
+### [Medicine.protect](/_protect\bio/Medicine.protect.md) 
+
+### [Medicine.private](/_private\bio/Medicine.private.md) 
+
+### [Medicine.personal](/_personal\bio/Medicine.personal.md) 
+
+### [Medicine.secret](/_secret\bio/Medicine.secret.md)
 

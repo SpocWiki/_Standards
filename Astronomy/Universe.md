@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1
 shape:
 - "http://www.wikidata.org/.well-known/genid/174b843fbdcde70c032c4283b79470a8"
@@ -103,4 +103,19 @@ Commons_category: Universe
 > There are many competing hypotheses about the ultimate fate of the universe and about what, if anything, preceded the Big Bang, while other physicists and philosophers refuse to speculate, doubting that information about prior states will ever be accessible. Some physicists have suggested various multiverse hypotheses, in which the universe might be one among many.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Universe)
+
+
+## Confidential Links & Embeds: 
+
+### [Universe.public](/_public\Astronomy/Universe.public.md) 
+
+### [Universe.internal](/_internal\Astronomy/Universe.internal.md) 
+
+### [Universe.protect](/_protect\Astronomy/Universe.protect.md) 
+
+### [Universe.private](/_private\Astronomy/Universe.private.md) 
+
+### [Universe.personal](/_personal\Astronomy/Universe.personal.md) 
+
+### [Universe.secret](/_secret\Astronomy/Universe.secret.md)
 

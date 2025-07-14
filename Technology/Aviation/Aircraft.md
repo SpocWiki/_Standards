@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11436
 has_part_s_: "[[_Standards/WikiData/WD~aircraft_cockpit,194156]]"
 instance_of: "[[_Standards/WikiData/WD~mode_of_transport,334166]]"
@@ -55,4 +55,21 @@ MeSH_tree_code: J01.937.285.100
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aircraft) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Aircraft.public](/_public\Technology\Aviation/Aircraft.public.md) 
+
+### [Aircraft.internal](/_internal\Technology\Aviation/Aircraft.internal.md) 
+
+### [Aircraft.protect](/_protect\Technology\Aviation/Aircraft.protect.md) 
+
+### [Aircraft.private](/_private\Technology\Aviation/Aircraft.private.md) 
+
+### [Aircraft.personal](/_personal\Technology\Aviation/Aircraft.personal.md) 
+
+### [Aircraft.secret](/_secret\Technology\Aviation/Aircraft.secret.md)
 

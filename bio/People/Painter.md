@@ -18,3 +18,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Painter.public](/_public\bio\People/Painter.public.md) 
+
+### [Painter.internal](/_internal\bio\People/Painter.internal.md) 
+
+### [Painter.protect](/_protect\bio\People/Painter.protect.md) 
+
+### [Painter.private](/_private\bio\People/Painter.private.md) 
+
+### [Painter.personal](/_personal\bio\People/Painter.personal.md) 
+
+### [Painter.secret](/_secret\bio\People/Painter.secret.md)
+

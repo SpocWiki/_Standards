@@ -85,3 +85,17 @@ EU_Corporate_body_code: CMNW
 > [Wikipedia](https://en.wikipedia.org/wiki/Commonwealth%20of%20Nations)
 
 
+## Confidential Links & Embeds: 
+
+### [Commonwealth_of_Nations.public](/_public\International/Commonwealth_of_Nations.public.md) 
+
+### [Commonwealth_of_Nations.internal](/_internal\International/Commonwealth_of_Nations.internal.md) 
+
+### [Commonwealth_of_Nations.protect](/_protect\International/Commonwealth_of_Nations.protect.md) 
+
+### [Commonwealth_of_Nations.private](/_private\International/Commonwealth_of_Nations.private.md) 
+
+### [Commonwealth_of_Nations.personal](/_personal\International/Commonwealth_of_Nations.personal.md) 
+
+### [Commonwealth_of_Nations.secret](/_secret\International/Commonwealth_of_Nations.secret.md)
+

@@ -109,14 +109,15 @@ Unit :: #Unit/SI/m
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Meter](/_public/Unit/SI-Unit/Unit~Meter.md) 
+### [Unit~Meter.public](/_public\Unit\SI-Unit/Unit~Meter.public.md) 
 
-### [Unit~Meter.internal](/_internal/Unit/SI-Unit/Unit~Meter.internal.md) 
+### [Unit~Meter.internal](/_internal\Unit\SI-Unit/Unit~Meter.internal.md) 
 
-### [Unit~Meter.protect](/_protect/Unit/SI-Unit/Unit~Meter.protect.md) 
+### [Unit~Meter.protect](/_protect\Unit\SI-Unit/Unit~Meter.protect.md) 
 
-### [Unit~Meter.private](/_private/Unit/SI-Unit/Unit~Meter.private.md) 
+### [Unit~Meter.private](/_private\Unit\SI-Unit/Unit~Meter.private.md) 
 
-### [Unit~Meter.personal](/_personal/Unit/SI-Unit/Unit~Meter.personal.md) 
+### [Unit~Meter.personal](/_personal\Unit\SI-Unit/Unit~Meter.personal.md) 
 
-### [Unit~Meter.secret](/_secret/Unit/SI-Unit/Unit~Meter.secret.md) 
+### [Unit~Meter.secret](/_secret\Unit\SI-Unit/Unit~Meter.secret.md)
+

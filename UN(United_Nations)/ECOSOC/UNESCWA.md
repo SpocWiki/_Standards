@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - ESCWA
 ---
@@ -17,20 +17,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Western%20Asia)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [UNESCWA](/_public/UN(United_Nations)/ECOSOC/UNESCWA.md) 
+### [UNESCWA.public](/_public\UN(United_Nations)\ECOSOC/UNESCWA.public.md) 
 
-### [UNESCWA.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal.md) 
+### [UNESCWA.internal](/_internal\UN(United_Nations)\ECOSOC/UNESCWA.internal.md) 
 
-### [UNESCWA.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect.md) 
+### [UNESCWA.protect](/_protect\UN(United_Nations)\ECOSOC/UNESCWA.protect.md) 
 
-### [UNESCWA.private](/_private/UN(United_Nations)/ECOSOC/UNESCWA.private.md) 
+### [UNESCWA.private](/_private\UN(United_Nations)\ECOSOC/UNESCWA.private.md) 
 
-### [UNESCWA.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal.md) 
+### [UNESCWA.personal](/_personal\UN(United_Nations)\ECOSOC/UNESCWA.personal.md) 
 
-### [UNESCWA.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret.md) 
+### [UNESCWA.secret](/_secret\UN(United_Nations)\ECOSOC/UNESCWA.secret.md)
+

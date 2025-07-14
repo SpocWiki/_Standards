@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 license: CC BY-SA 4.0
 publish: true
@@ -39,17 +39,17 @@ markerFolder: ./{{EnglishName}}/
 [has_place_latitude::{{y}}]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [_CountryTemplate](/_public/Earth/Continent/_CountryTemplate.md) 
+### [_CountryTemplate.public](/_public\Earth\Continent/_CountryTemplate.public.md) 
 
-### [_CountryTemplate.internal](/_internal/Earth/Continent/_CountryTemplate.internal.md) 
+### [_CountryTemplate.internal](/_internal\Earth\Continent/_CountryTemplate.internal.md) 
 
-### [_CountryTemplate.protect](/_protect/Earth/Continent/_CountryTemplate.protect.md) 
+### [_CountryTemplate.protect](/_protect\Earth\Continent/_CountryTemplate.protect.md) 
 
-### [_CountryTemplate.private](/_private/Earth/Continent/_CountryTemplate.private.md) 
+### [_CountryTemplate.private](/_private\Earth\Continent/_CountryTemplate.private.md) 
 
-### [_CountryTemplate.personal](/_personal/Earth/Continent/_CountryTemplate.personal.md) 
+### [_CountryTemplate.personal](/_personal\Earth\Continent/_CountryTemplate.personal.md) 
 
-### [_CountryTemplate.secret](/_secret/Earth/Continent/_CountryTemplate.secret.md) 
+### [_CountryTemplate.secret](/_secret\Earth\Continent/_CountryTemplate.secret.md)
+

@@ -37,15 +37,15 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Analytical%20inst
 
 ## Confidential Links & Embeds: 
 
-### [Analytical_Chemistry.public](/_public/\chemicAnalytical_Chemistry.public.md) 
+### [Analytical_Chemistry.public](/_public\chemic/Analytical_Chemistry.public.md) 
 
-### [Analytical_Chemistry.internal](/_internal/\chemicAnalytical_Chemistry.internal.md) 
+### [Analytical_Chemistry.internal](/_internal\chemic/Analytical_Chemistry.internal.md) 
 
-### [Analytical_Chemistry.protect](/_protect/\chemicAnalytical_Chemistry.protect.md) 
+### [Analytical_Chemistry.protect](/_protect\chemic/Analytical_Chemistry.protect.md) 
 
-### [Analytical_Chemistry.private](/_private/\chemicAnalytical_Chemistry.private.md) 
+### [Analytical_Chemistry.private](/_private\chemic/Analytical_Chemistry.private.md) 
 
-### [Analytical_Chemistry.personal](/_personal/\chemicAnalytical_Chemistry.personal.md) 
+### [Analytical_Chemistry.personal](/_personal\chemic/Analytical_Chemistry.personal.md) 
 
-### [Analytical_Chemistry.secret](/_secret/\chemicAnalytical_Chemistry.secret.md)
+### [Analytical_Chemistry.secret](/_secret\chemic/Analytical_Chemistry.secret.md)
 

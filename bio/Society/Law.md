@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7748
 subreddit: law
 hashtag: law
@@ -80,4 +80,21 @@ Commons_category: Law
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Law.public](/_public\bio\Society/Law.public.md) 
+
+### [Law.internal](/_internal\bio\Society/Law.internal.md) 
+
+### [Law.protect](/_protect\bio\Society/Law.protect.md) 
+
+### [Law.private](/_private\bio\Society/Law.private.md) 
+
+### [Law.personal](/_personal\bio\Society/Law.personal.md) 
+
+### [Law.secret](/_secret\bio\Society/Law.secret.md)
 

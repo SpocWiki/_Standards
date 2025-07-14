@@ -1,4 +1,4 @@
-﻿# [[EDIFACT]] 
+# [[EDIFACT]] 
 
 EDIFACT stands for "Electronic Data Interchange for Administration, Commerce, and Transport." 
 
@@ -34,14 +34,15 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [EDIFACT](/_public/UN(United_Nations)/EDIFACT.md) 
+### [EDIFACT.public](/_public\UN(United_Nations)/EDIFACT.public.md) 
 
-### [EDIFACT.internal](/_internal/UN(United_Nations)/EDIFACT.internal.md) 
+### [EDIFACT.internal](/_internal\UN(United_Nations)/EDIFACT.internal.md) 
 
-### [EDIFACT.protect](/_protect/UN(United_Nations)/EDIFACT.protect.md) 
+### [EDIFACT.protect](/_protect\UN(United_Nations)/EDIFACT.protect.md) 
 
-### [EDIFACT.private](/_private/UN(United_Nations)/EDIFACT.private.md) 
+### [EDIFACT.private](/_private\UN(United_Nations)/EDIFACT.private.md) 
 
-### [EDIFACT.personal](/_personal/UN(United_Nations)/EDIFACT.personal.md) 
+### [EDIFACT.personal](/_personal\UN(United_Nations)/EDIFACT.personal.md) 
 
-### [EDIFACT.secret](/_secret/UN(United_Nations)/EDIFACT.secret.md) 
+### [EDIFACT.secret](/_secret\UN(United_Nations)/EDIFACT.secret.md)
+

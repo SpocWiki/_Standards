@@ -28,3 +28,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Majorana-Fermion.public](/_public\Science\Physics/Majorana-Fermion.public.md) 
+
+### [Majorana-Fermion.internal](/_internal\Science\Physics/Majorana-Fermion.internal.md) 
+
+### [Majorana-Fermion.protect](/_protect\Science\Physics/Majorana-Fermion.protect.md) 
+
+### [Majorana-Fermion.private](/_private\Science\Physics/Majorana-Fermion.private.md) 
+
+### [Majorana-Fermion.personal](/_personal\Science\Physics/Majorana-Fermion.personal.md) 
+
+### [Majorana-Fermion.secret](/_secret\Science\Physics/Majorana-Fermion.secret.md)
+

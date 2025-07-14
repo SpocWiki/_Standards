@@ -10,3 +10,18 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robotics) 
 
+
+## Confidential Links & Embeds: 
+
+### [Robotics.public](/_public\Technology/Robotics.public.md) 
+
+### [Robotics.internal](/_internal\Technology/Robotics.internal.md) 
+
+### [Robotics.protect](/_protect\Technology/Robotics.protect.md) 
+
+### [Robotics.private](/_private\Technology/Robotics.private.md) 
+
+### [Robotics.personal](/_personal\Technology/Robotics.personal.md) 
+
+### [Robotics.secret](/_secret\Technology/Robotics.secret.md)
+

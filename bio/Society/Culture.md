@@ -72,3 +72,20 @@ exact_match: "http://cv.iptc.org/newscodes/subjectcode/01022000"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Culture.public](/_public\bio\Society/Culture.public.md) 
+
+### [Culture.internal](/_internal\bio\Society/Culture.internal.md) 
+
+### [Culture.protect](/_protect\bio\Society/Culture.protect.md) 
+
+### [Culture.private](/_private\bio\Society/Culture.private.md) 
+
+### [Culture.personal](/_personal\bio\Society/Culture.personal.md) 
+
+### [Culture.secret](/_secret\bio\Society/Culture.secret.md)
+

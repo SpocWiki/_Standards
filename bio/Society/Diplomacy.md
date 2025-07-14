@@ -54,3 +54,20 @@ IPTC_NewsCode: mediatopic/20000639
 > [Wikipedia](https://en.wikipedia.org/wiki/Diplomacy)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diplomacy.public](/_public\bio\Society/Diplomacy.public.md) 
+
+### [Diplomacy.internal](/_internal\bio\Society/Diplomacy.internal.md) 
+
+### [Diplomacy.protect](/_protect\bio\Society/Diplomacy.protect.md) 
+
+### [Diplomacy.private](/_private\bio\Society/Diplomacy.private.md) 
+
+### [Diplomacy.personal](/_personal\bio\Society/Diplomacy.personal.md) 
+
+### [Diplomacy.secret](/_secret\bio\Society/Diplomacy.secret.md)
+

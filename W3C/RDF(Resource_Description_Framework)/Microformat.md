@@ -1,4 +1,4 @@
-﻿Microformat uses these Attributes, but is not used frequently:
+Microformat uses these Attributes, but is not used frequently:
 - `class` :: [Classname](https://en.wikipedia.org/wiki/Class_(computer_programming)) 
 - `rel` :: relationship, description of the target address in an anchor-element (`<a href=... rel=...>...</a>`) [[@rel]] 
 - `rev` :: reverse relationship, description of the referenced document
@@ -52,16 +52,19 @@ HTML Meta-Tags are often used to describe Web Pages using
 <meta name="twitter:image" content="URL to an image">
 
 ```
+
+
 ## Confidential Links & Embeds: 
 
-### [Microformat](/_public/W3C/RDF(Resource_Description_Framework)/Microformat.md) 
+### [Microformat.public](/_public\W3C\RDF(Resource_Description_Framework)/Microformat.public.md) 
 
-### [Microformat.internal](/_internal/W3C/RDF(Resource_Description_Framework)/Microformat.internal.md) 
+### [Microformat.internal](/_internal\W3C\RDF(Resource_Description_Framework)/Microformat.internal.md) 
 
-### [Microformat.protect](/_protect/W3C/RDF(Resource_Description_Framework)/Microformat.protect.md) 
+### [Microformat.protect](/_protect\W3C\RDF(Resource_Description_Framework)/Microformat.protect.md) 
 
-### [Microformat.private](/_private/W3C/RDF(Resource_Description_Framework)/Microformat.private.md) 
+### [Microformat.private](/_private\W3C\RDF(Resource_Description_Framework)/Microformat.private.md) 
 
-### [Microformat.personal](/_personal/W3C/RDF(Resource_Description_Framework)/Microformat.personal.md) 
+### [Microformat.personal](/_personal\W3C\RDF(Resource_Description_Framework)/Microformat.personal.md) 
 
-### [Microformat.secret](/_secret/W3C/RDF(Resource_Description_Framework)/Microformat.secret.md) 
+### [Microformat.secret](/_secret\W3C\RDF(Resource_Description_Framework)/Microformat.secret.md)
+

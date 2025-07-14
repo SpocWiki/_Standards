@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11474
 made_from_material:
 - '[[_Standards/WikiData/WD~polymer,81163]]'
@@ -80,4 +80,21 @@ subreddit: plastic
 | PS                |       6 | Foam cups, insulation             | 1.04–1.10       | Sinks             | Yellow      | Drips, sooty       | Sweet, styrene         | Dissolves in acetone  | ~240               |
 | PC, PLA, ABS, PA, |       7 | Mixed plastics, specialty uses    | 1.20            | Sinks             | Yellow      | Drips, sooty       | Phenolic               | Resists most solvents | ~267               |
 | PAP               |      21 | Paper-based  composites           | Variable        | Variable          | Varies      | Varies             | Neutral or burnt paper | Varies                | Varies             |
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Plastic.public](/_public\chemic\organic/Plastic.public.md) 
+
+### [Plastic.internal](/_internal\chemic\organic/Plastic.internal.md) 
+
+### [Plastic.protect](/_protect\chemic\organic/Plastic.protect.md) 
+
+### [Plastic.private](/_private\chemic\organic/Plastic.private.md) 
+
+### [Plastic.personal](/_personal\chemic\organic/Plastic.personal.md) 
+
+### [Plastic.secret](/_secret\chemic\organic/Plastic.secret.md)
 

@@ -56,3 +56,20 @@ Rust accounts for a lot of degradation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Product%20lifetime) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Product-Lifetime.public](/_public\Economics\Capital(Economics)/Product-Lifetime.public.md) 
+
+### [Product-Lifetime.internal](/_internal\Economics\Capital(Economics)/Product-Lifetime.internal.md) 
+
+### [Product-Lifetime.protect](/_protect\Economics\Capital(Economics)/Product-Lifetime.protect.md) 
+
+### [Product-Lifetime.private](/_private\Economics\Capital(Economics)/Product-Lifetime.private.md) 
+
+### [Product-Lifetime.personal](/_personal\Economics\Capital(Economics)/Product-Lifetime.personal.md) 
+
+### [Product-Lifetime.secret](/_secret\Economics\Capital(Economics)/Product-Lifetime.secret.md)
+

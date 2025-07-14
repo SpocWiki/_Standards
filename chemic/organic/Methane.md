@@ -34,3 +34,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Methane.public](/_public\chemic\organic/Methane.public.md) 
+
+### [Methane.internal](/_internal\chemic\organic/Methane.internal.md) 
+
+### [Methane.protect](/_protect\chemic\organic/Methane.protect.md) 
+
+### [Methane.private](/_private\chemic\organic/Methane.private.md) 
+
+### [Methane.personal](/_personal\chemic\organic/Methane.personal.md) 
+
+### [Methane.secret](/_secret\chemic\organic/Methane.secret.md)
+

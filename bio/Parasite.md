@@ -14,5 +14,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Parasitism) 
 
 
+## Confidential Links & Embeds: 
 
+### [Parasite.public](/_public\bio/Parasite.public.md) 
+
+### [Parasite.internal](/_internal\bio/Parasite.internal.md) 
+
+### [Parasite.protect](/_protect\bio/Parasite.protect.md) 
+
+### [Parasite.private](/_private\bio/Parasite.private.md) 
+
+### [Parasite.personal](/_personal\bio/Parasite.personal.md) 
+
+### [Parasite.secret](/_secret\bio/Parasite.secret.md)
 

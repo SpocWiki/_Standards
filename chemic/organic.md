@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organic chemistry"
 has_id_wikidata: Q11351
@@ -49,14 +49,15 @@ Commons_category: "Organic chemistry"
 
 ## Confidential Links & Embeds: 
 
-### [organic](/_public/chemic/organic.md) 
+### [organic.public](/_public\chemic/organic.public.md) 
 
-### [organic.internal](/_internal/chemic/organic.internal.md) 
+### [organic.internal](/_internal\chemic/organic.internal.md) 
 
-### [organic.protect](/_protect/chemic/organic.protect.md) 
+### [organic.protect](/_protect\chemic/organic.protect.md) 
 
-### [organic.private](/_private/chemic/organic.private.md) 
+### [organic.private](/_private\chemic/organic.private.md) 
 
-### [organic.personal](/_personal/chemic/organic.personal.md) 
+### [organic.personal](/_personal\chemic/organic.personal.md) 
 
-### [organic.secret](/_secret/chemic/organic.secret.md) 
+### [organic.secret](/_secret\chemic/organic.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12131
 has_part_s_:
 - "[[_Standards/WikiData/WD~intellectual_disability,183560]]"
@@ -48,4 +48,21 @@ PhilPapers_topic: the-concept-of-disability
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Disability)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Disability.public](/_public\bio\Medicine/Disability.public.md) 
+
+### [Disability.internal](/_internal\bio\Medicine/Disability.internal.md) 
+
+### [Disability.protect](/_protect\bio\Medicine/Disability.protect.md) 
+
+### [Disability.private](/_private\bio\Medicine/Disability.private.md) 
+
+### [Disability.personal](/_personal\bio\Medicine/Disability.personal.md) 
+
+### [Disability.secret](/_secret\bio\Medicine/Disability.secret.md)
 

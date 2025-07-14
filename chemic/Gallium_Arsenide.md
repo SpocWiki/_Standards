@@ -28,3 +28,18 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallium%20arsenide)
 
+
+## Confidential Links & Embeds: 
+
+### [Gallium_Arsenide.public](/_public\chemic/Gallium_Arsenide.public.md) 
+
+### [Gallium_Arsenide.internal](/_internal\chemic/Gallium_Arsenide.internal.md) 
+
+### [Gallium_Arsenide.protect](/_protect\chemic/Gallium_Arsenide.protect.md) 
+
+### [Gallium_Arsenide.private](/_private\chemic/Gallium_Arsenide.private.md) 
+
+### [Gallium_Arsenide.personal](/_personal\chemic/Gallium_Arsenide.personal.md) 
+
+### [Gallium_Arsenide.secret](/_secret\chemic/Gallium_Arsenide.secret.md)
+

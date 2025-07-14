@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 icon: shopping-cart
@@ -23,16 +23,18 @@ fields:
 
 Items:: {"type":"MultiFile","options":{}}
 
+
 ## Confidential Links & Embeds: 
 
-### [FileClass~Collection](/_public/fileClass/FileClass~Collection.md) 
+### [FileClass~Collection.public](/_public\fileClass/FileClass~Collection.public.md) 
 
-### [FileClass~Collection.internal](/_internal/fileClass/FileClass~Collection.internal.md) 
+### [FileClass~Collection.internal](/_internal\fileClass/FileClass~Collection.internal.md) 
 
-### [FileClass~Collection.protect](/_protect/fileClass/FileClass~Collection.protect.md) 
+### [FileClass~Collection.protect](/_protect\fileClass/FileClass~Collection.protect.md) 
 
-### [FileClass~Collection.private](/_private/fileClass/FileClass~Collection.private.md) 
+### [FileClass~Collection.private](/_private\fileClass/FileClass~Collection.private.md) 
 
-### [FileClass~Collection.personal](/_personal/fileClass/FileClass~Collection.personal.md) 
+### [FileClass~Collection.personal](/_personal\fileClass/FileClass~Collection.personal.md) 
 
-### [FileClass~Collection.secret](/_secret/fileClass/FileClass~Collection.secret.md) 
+### [FileClass~Collection.secret](/_secret\fileClass/FileClass~Collection.secret.md)
+

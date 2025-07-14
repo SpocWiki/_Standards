@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12143
 subclass_of:
 - "[[_Standards/WikiData/WD~geographic_region,82794]]"
@@ -40,4 +40,21 @@ Wikidata_property: "located in time zone"
 > Each time zone is defined by a standard offset from Coordinated Universal Time (UTC). The offsets range from UTC−12:00 to UTC+14:00, and are usually a whole number of hours, but a few zones are offset by an additional 30 or 45 minutes, such as in India and Nepal. Some areas in a time zone may use a different offset for part of the year, typically one hour ahead during spring and summer, a practice known as daylight saving time (DST).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20zone)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Time-Zone.public](/_public\ISO\Calendar/Time-Zone.public.md) 
+
+### [Time-Zone.internal](/_internal\ISO\Calendar/Time-Zone.internal.md) 
+
+### [Time-Zone.protect](/_protect\ISO\Calendar/Time-Zone.protect.md) 
+
+### [Time-Zone.private](/_private\ISO\Calendar/Time-Zone.private.md) 
+
+### [Time-Zone.personal](/_personal\ISO\Calendar/Time-Zone.personal.md) 
+
+### [Time-Zone.secret](/_secret\ISO\Calendar/Time-Zone.secret.md)
 

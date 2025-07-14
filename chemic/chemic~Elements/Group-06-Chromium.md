@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -17,17 +17,17 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%206%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-06-Chromium](/_public/chemic/chemic~Elements/Group-06-Chromium.md) 
+### [Group-06-Chromium.public](/_public\chemic\chemic~Elements/Group-06-Chromium.public.md) 
 
-### [Group-06-Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium.internal.md) 
+### [Group-06-Chromium.internal](/_internal\chemic\chemic~Elements/Group-06-Chromium.internal.md) 
 
-### [Group-06-Chromium.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium.protect.md) 
+### [Group-06-Chromium.protect](/_protect\chemic\chemic~Elements/Group-06-Chromium.protect.md) 
 
-### [Group-06-Chromium.private](/_private/chemic/chemic~Elements/Group-06-Chromium.private.md) 
+### [Group-06-Chromium.private](/_private\chemic\chemic~Elements/Group-06-Chromium.private.md) 
 
-### [Group-06-Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium.personal.md) 
+### [Group-06-Chromium.personal](/_personal\chemic\chemic~Elements/Group-06-Chromium.personal.md) 
 
-### [Group-06-Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium.secret.md) 
+### [Group-06-Chromium.secret](/_secret\chemic\chemic~Elements/Group-06-Chromium.secret.md)
+

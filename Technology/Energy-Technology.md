@@ -14,3 +14,18 @@ OmegaWiki_Defined_Meaning: 1195
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy%20development)
 
+
+## Confidential Links & Embeds: 
+
+### [Energy-Technology.public](/_public\Technology/Energy-Technology.public.md) 
+
+### [Energy-Technology.internal](/_internal\Technology/Energy-Technology.internal.md) 
+
+### [Energy-Technology.protect](/_protect\Technology/Energy-Technology.protect.md) 
+
+### [Energy-Technology.private](/_private\Technology/Energy-Technology.private.md) 
+
+### [Energy-Technology.personal](/_personal\Technology/Energy-Technology.personal.md) 
+
+### [Energy-Technology.secret](/_secret\Technology/Energy-Technology.secret.md)
+

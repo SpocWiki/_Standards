@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,16 +340,18 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_CityDB](/_public/Earth/Continent/_CityDB.md) 
+### [_CityDB.public](/_public\Earth\Continent/_CityDB.public.md) 
 
-### [_CityDB.internal](/_internal/Earth/Continent/_CityDB.internal.md) 
+### [_CityDB.internal](/_internal\Earth\Continent/_CityDB.internal.md) 
 
-### [_CityDB.protect](/_protect/Earth/Continent/_CityDB.protect.md) 
+### [_CityDB.protect](/_protect\Earth\Continent/_CityDB.protect.md) 
 
-### [_CityDB.private](/_private/Earth/Continent/_CityDB.private.md) 
+### [_CityDB.private](/_private\Earth\Continent/_CityDB.private.md) 
 
-### [_CityDB.personal](/_personal/Earth/Continent/_CityDB.personal.md) 
+### [_CityDB.personal](/_personal\Earth\Continent/_CityDB.personal.md) 
 
-### [_CityDB.secret](/_secret/Earth/Continent/_CityDB.secret.md) 
+### [_CityDB.secret](/_secret\Earth\Continent/_CityDB.secret.md)
+

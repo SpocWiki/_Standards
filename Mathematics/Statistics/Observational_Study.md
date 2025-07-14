@@ -25,3 +25,20 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Observational%20study) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Observational_Study.public](/_public\Mathematics\Statistics/Observational_Study.public.md) 
+
+### [Observational_Study.internal](/_internal\Mathematics\Statistics/Observational_Study.internal.md) 
+
+### [Observational_Study.protect](/_protect\Mathematics\Statistics/Observational_Study.protect.md) 
+
+### [Observational_Study.private](/_private\Mathematics\Statistics/Observational_Study.private.md) 
+
+### [Observational_Study.personal](/_personal\Mathematics\Statistics/Observational_Study.personal.md) 
+
+### [Observational_Study.secret](/_secret\Mathematics\Statistics/Observational_Study.secret.md)
+

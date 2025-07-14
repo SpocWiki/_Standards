@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11468
 named_after:
 - '[[_Standards/WikiData/WD~nano,154357]]'
@@ -43,7 +43,17 @@ PhilPapers_topic: nanotechnology
 > [Wikipedia](https://en.wikipedia.org/wiki/Nanotechnology) 
 
 
+## Confidential Links & Embeds: 
 
+### [Nanotechnology.public](/_public\Technology/Nanotechnology.public.md) 
 
+### [Nanotechnology.internal](/_internal\Technology/Nanotechnology.internal.md) 
 
+### [Nanotechnology.protect](/_protect\Technology/Nanotechnology.protect.md) 
+
+### [Nanotechnology.private](/_private\Technology/Nanotechnology.private.md) 
+
+### [Nanotechnology.personal](/_personal\Technology/Nanotechnology.personal.md) 
+
+### [Nanotechnology.secret](/_secret\Technology/Nanotechnology.secret.md)
 

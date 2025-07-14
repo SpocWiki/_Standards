@@ -135,3 +135,20 @@ argument_of_periapsis: 44.96476227
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Neptune.public](/_public\Astronomy\Solar_System/Neptune.public.md) 
+
+### [Neptune.internal](/_internal\Astronomy\Solar_System/Neptune.internal.md) 
+
+### [Neptune.protect](/_protect\Astronomy\Solar_System/Neptune.protect.md) 
+
+### [Neptune.private](/_private\Astronomy\Solar_System/Neptune.private.md) 
+
+### [Neptune.personal](/_personal\Astronomy\Solar_System/Neptune.personal.md) 
+
+### [Neptune.secret](/_secret\Astronomy\Solar_System/Neptune.secret.md)
+

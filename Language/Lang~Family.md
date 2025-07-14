@@ -18,3 +18,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Language%20family) 
 
 
+## Confidential Links & Embeds: 
+
+### [Lang~Family.public](/_public\Language/Lang~Family.public.md) 
+
+### [Lang~Family.internal](/_internal\Language/Lang~Family.internal.md) 
+
+### [Lang~Family.protect](/_protect\Language/Lang~Family.protect.md) 
+
+### [Lang~Family.private](/_private\Language/Lang~Family.private.md) 
+
+### [Lang~Family.personal](/_personal\Language/Lang~Family.personal.md) 
+
+### [Lang~Family.secret](/_secret\Language/Lang~Family.secret.md)
+

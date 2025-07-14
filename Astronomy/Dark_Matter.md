@@ -52,3 +52,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Dark%20matter) 
 
 
+## Confidential Links & Embeds: 
+
+### [Dark_Matter.public](/_public\Astronomy/Dark_Matter.public.md) 
+
+### [Dark_Matter.internal](/_internal\Astronomy/Dark_Matter.internal.md) 
+
+### [Dark_Matter.protect](/_protect\Astronomy/Dark_Matter.protect.md) 
+
+### [Dark_Matter.private](/_private\Astronomy/Dark_Matter.private.md) 
+
+### [Dark_Matter.personal](/_personal\Astronomy/Dark_Matter.personal.md) 
+
+### [Dark_Matter.secret](/_secret\Astronomy/Dark_Matter.secret.md)
+

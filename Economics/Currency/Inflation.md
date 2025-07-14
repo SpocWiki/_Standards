@@ -72,3 +72,20 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 > [Wikipedia](https://en.wikipedia.org/wiki/Inflation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Inflation.public](/_public\Economics\Currency/Inflation.public.md) 
+
+### [Inflation.internal](/_internal\Economics\Currency/Inflation.internal.md) 
+
+### [Inflation.protect](/_protect\Economics\Currency/Inflation.protect.md) 
+
+### [Inflation.private](/_private\Economics\Currency/Inflation.private.md) 
+
+### [Inflation.personal](/_personal\Economics\Currency/Inflation.personal.md) 
+
+### [Inflation.secret](/_secret\Economics\Currency/Inflation.secret.md)
+

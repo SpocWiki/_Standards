@@ -23,3 +23,18 @@ has_id_wikidata: Q11348
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics))
 
+
+## Confidential Links & Embeds: 
+
+### [Function(mathematics).public](/_public\Mathematics/Function(mathematics).public.md) 
+
+### [Function(mathematics).internal](/_internal\Mathematics/Function(mathematics).internal.md) 
+
+### [Function(mathematics).protect](/_protect\Mathematics/Function(mathematics).protect.md) 
+
+### [Function(mathematics).private](/_private\Mathematics/Function(mathematics).private.md) 
+
+### [Function(mathematics).personal](/_personal\Mathematics/Function(mathematics).personal.md) 
+
+### [Function(mathematics).secret](/_secret\Mathematics/Function(mathematics).secret.md)
+

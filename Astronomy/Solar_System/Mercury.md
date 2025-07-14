@@ -17,3 +17,19 @@ aliases:
 > As of the early 2020s, many broad details of Mercury's geological history are still under investigation or pending data from space probes. Like other planets in the Solar System, Mercury was formed approximately 4.5 billion years ago. Its mantle is highly homogeneous, which suggests that Mercury had a magma ocean early in its history, like the Moon. According to current models, Mercury may have a solid silicate crust and mantle overlying a solid outer core, a deeper liquid core layer, and a solid inner core. There are many competing hypotheses about Mercury's origins and development, some of which incorporate collision with planetesimals and rock vaporization.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(planet))
+
+
+## Confidential Links & Embeds: 
+
+### [Mercury.public](/_public\Astronomy\Solar_System/Mercury.public.md) 
+
+### [Mercury.internal](/_internal\Astronomy\Solar_System/Mercury.internal.md) 
+
+### [Mercury.protect](/_protect\Astronomy\Solar_System/Mercury.protect.md) 
+
+### [Mercury.private](/_private\Astronomy\Solar_System/Mercury.private.md) 
+
+### [Mercury.personal](/_personal\Astronomy\Solar_System/Mercury.personal.md) 
+
+### [Mercury.secret](/_secret\Astronomy\Solar_System/Mercury.secret.md)
+

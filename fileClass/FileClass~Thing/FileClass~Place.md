@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -505,14 +505,15 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Place](/_public/fileClass/FileClass~Thing/FileClass~Place.md) 
+### [FileClass~Place.public](/_public\fileClass\FileClass~Thing/FileClass~Place.public.md) 
 
-### [FileClass~Place.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place.internal.md) 
+### [FileClass~Place.internal](/_internal\fileClass\FileClass~Thing/FileClass~Place.internal.md) 
 
-### [FileClass~Place.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place.protect.md) 
+### [FileClass~Place.protect](/_protect\fileClass\FileClass~Thing/FileClass~Place.protect.md) 
 
-### [FileClass~Place.private](/_private/fileClass/FileClass~Thing/FileClass~Place.private.md) 
+### [FileClass~Place.private](/_private\fileClass\FileClass~Thing/FileClass~Place.private.md) 
 
-### [FileClass~Place.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place.personal.md) 
+### [FileClass~Place.personal](/_personal\fileClass\FileClass~Thing/FileClass~Place.personal.md) 
 
-### [FileClass~Place.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place.secret.md) 
+### [FileClass~Place.secret](/_secret\fileClass\FileClass~Thing/FileClass~Place.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -176,17 +176,17 @@ The taxonomic grouping of the organism that expresses, encodes, or in some way r
 TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BioChemEntity](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity.md) 
+### [FileClass~BioChemEntity.public](/_public\fileClass\FileClass~Thing/FileClass~BioChemEntity.public.md) 
 
-### [FileClass~BioChemEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity.internal.md) 
+### [FileClass~BioChemEntity.internal](/_internal\fileClass\FileClass~Thing/FileClass~BioChemEntity.internal.md) 
 
-### [FileClass~BioChemEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity.protect.md) 
+### [FileClass~BioChemEntity.protect](/_protect\fileClass\FileClass~Thing/FileClass~BioChemEntity.protect.md) 
 
-### [FileClass~BioChemEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity.private.md) 
+### [FileClass~BioChemEntity.private](/_private\fileClass\FileClass~Thing/FileClass~BioChemEntity.private.md) 
 
-### [FileClass~BioChemEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity.personal.md) 
+### [FileClass~BioChemEntity.personal](/_personal\fileClass\FileClass~Thing/FileClass~BioChemEntity.personal.md) 
 
-### [FileClass~BioChemEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity.secret.md) 
+### [FileClass~BioChemEntity.secret](/_secret\fileClass\FileClass~Thing/FileClass~BioChemEntity.secret.md)
+

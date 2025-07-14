@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q149972
 has_part_s_:
 - "[[_Standards/WikiData/WD~differential_calculus,149999]]"
@@ -56,4 +56,19 @@ Commons_category: Calculus
 > Infinitesimal calculus was formulated separately in the late 17th century by Isaac Newton and Gottfried Wilhelm Leibniz. Later work, including codifying the idea of limits, put these developments on a more solid conceptual footing. Today, calculus is widely used in science, engineering, biology, and even has applications in social science and other branches of math.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calculus)
+
+
+## Confidential Links & Embeds: 
+
+### [Calculus.public](/_public\Mathematics/Calculus.public.md) 
+
+### [Calculus.internal](/_internal\Mathematics/Calculus.internal.md) 
+
+### [Calculus.protect](/_protect\Mathematics/Calculus.protect.md) 
+
+### [Calculus.private](/_private\Mathematics/Calculus.private.md) 
+
+### [Calculus.personal](/_personal\Mathematics/Calculus.personal.md) 
+
+### [Calculus.secret](/_secret\Mathematics/Calculus.secret.md)
 

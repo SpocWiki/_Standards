@@ -15,3 +15,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scientist.public](/_public\bio\People/Scientist.public.md) 
+
+### [Scientist.internal](/_internal\bio\People/Scientist.internal.md) 
+
+### [Scientist.protect](/_protect\bio\People/Scientist.protect.md) 
+
+### [Scientist.private](/_private\bio\People/Scientist.private.md) 
+
+### [Scientist.personal](/_personal\bio\People/Scientist.personal.md) 
+
+### [Scientist.secret](/_secret\bio\People/Scientist.secret.md)
+

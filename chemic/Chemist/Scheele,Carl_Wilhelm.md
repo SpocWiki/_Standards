@@ -20,3 +20,20 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scheele,Carl_Wilhelm.public](/_public\chemic\Chemist/Scheele,Carl_Wilhelm.public.md) 
+
+### [Scheele,Carl_Wilhelm.internal](/_internal\chemic\Chemist/Scheele,Carl_Wilhelm.internal.md) 
+
+### [Scheele,Carl_Wilhelm.protect](/_protect\chemic\Chemist/Scheele,Carl_Wilhelm.protect.md) 
+
+### [Scheele,Carl_Wilhelm.private](/_private\chemic\Chemist/Scheele,Carl_Wilhelm.private.md) 
+
+### [Scheele,Carl_Wilhelm.personal](/_personal\chemic\Chemist/Scheele,Carl_Wilhelm.personal.md) 
+
+### [Scheele,Carl_Wilhelm.secret](/_secret\chemic\Chemist/Scheele,Carl_Wilhelm.secret.md)
+

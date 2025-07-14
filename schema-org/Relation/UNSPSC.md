@@ -1,4 +1,4 @@
-﻿---
+---
 _context: "https://schema.org/"
 _type: Thing
 name: "Schema.org Ontology"
@@ -36,16 +36,18 @@ Enables procurement teams to conduct spend intelligence, improve strategic sourc
 Login: heuerm
 🔐β 💡yes💡wb+n2j3TLnvM87bL+tRgPZjYVHV0cjb3HF0BycM90SL+C+9suPnYruyHZ4JfL04geQHT/0znehn+ 🔐
 
+
 ## Confidential Links & Embeds: 
 
-### [UNSPSC](/_public/schema-org/Relation/UNSPSC.md) 
+### [UNSPSC.public](/_public\schema-org\Relation/UNSPSC.public.md) 
 
-### [UNSPSC.internal](/_internal/schema-org/Relation/UNSPSC.internal.md) 
+### [UNSPSC.internal](/_internal\schema-org\Relation/UNSPSC.internal.md) 
 
-### [UNSPSC.protect](/_protect/schema-org/Relation/UNSPSC.protect.md) 
+### [UNSPSC.protect](/_protect\schema-org\Relation/UNSPSC.protect.md) 
 
-### [UNSPSC.private](/_private/schema-org/Relation/UNSPSC.private.md) 
+### [UNSPSC.private](/_private\schema-org\Relation/UNSPSC.private.md) 
 
-### [UNSPSC.personal](/_personal/schema-org/Relation/UNSPSC.personal.md) 
+### [UNSPSC.personal](/_personal\schema-org\Relation/UNSPSC.personal.md) 
 
-### [UNSPSC.secret](/_secret/schema-org/Relation/UNSPSC.secret.md) 
+### [UNSPSC.secret](/_secret\schema-org\Relation/UNSPSC.secret.md)
+

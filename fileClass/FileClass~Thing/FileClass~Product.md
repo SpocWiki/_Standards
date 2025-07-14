@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -607,17 +607,17 @@ The width of the item.
 Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Product](/_public/fileClass/FileClass~Thing/FileClass~Product.md) 
+### [FileClass~Product.public](/_public\fileClass\FileClass~Thing/FileClass~Product.public.md) 
 
-### [FileClass~Product.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product.internal.md) 
+### [FileClass~Product.internal](/_internal\fileClass\FileClass~Thing/FileClass~Product.internal.md) 
 
-### [FileClass~Product.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product.protect.md) 
+### [FileClass~Product.protect](/_protect\fileClass\FileClass~Thing/FileClass~Product.protect.md) 
 
-### [FileClass~Product.private](/_private/fileClass/FileClass~Thing/FileClass~Product.private.md) 
+### [FileClass~Product.private](/_private\fileClass\FileClass~Thing/FileClass~Product.private.md) 
 
-### [FileClass~Product.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product.personal.md) 
+### [FileClass~Product.personal](/_personal\fileClass\FileClass~Thing/FileClass~Product.personal.md) 
 
-### [FileClass~Product.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product.secret.md) 
+### [FileClass~Product.secret](/_secret\fileClass\FileClass~Thing/FileClass~Product.secret.md)
+

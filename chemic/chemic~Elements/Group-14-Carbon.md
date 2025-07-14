@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -16,17 +16,17 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20group)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-14-Carbon](/_public/chemic/chemic~Elements/Group-14-Carbon.md) 
+### [Group-14-Carbon.public](/_public\chemic\chemic~Elements/Group-14-Carbon.public.md) 
 
-### [Group-14-Carbon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon.internal.md) 
+### [Group-14-Carbon.internal](/_internal\chemic\chemic~Elements/Group-14-Carbon.internal.md) 
 
-### [Group-14-Carbon.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon.protect.md) 
+### [Group-14-Carbon.protect](/_protect\chemic\chemic~Elements/Group-14-Carbon.protect.md) 
 
-### [Group-14-Carbon.private](/_private/chemic/chemic~Elements/Group-14-Carbon.private.md) 
+### [Group-14-Carbon.private](/_private\chemic\chemic~Elements/Group-14-Carbon.private.md) 
 
-### [Group-14-Carbon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon.personal.md) 
+### [Group-14-Carbon.personal](/_personal\chemic\chemic~Elements/Group-14-Carbon.personal.md) 
 
-### [Group-14-Carbon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon.secret.md) 
+### [Group-14-Carbon.secret](/_secret\chemic\chemic~Elements/Group-14-Carbon.secret.md)
+
