@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [suspend_action](/_public/schema-org/Class/is_a_/action/control_action/suspend_action.md) 
+### [suspend_action](/_Standards/schema-org/Class/is_a_/action/control_action/suspend_action.md) 
+
+### [suspend_action.public](/_public/schema-org/Class/is_a_/action/control_action/suspend_action.public.md) 
 
 ### [suspend_action.internal](/_internal/schema-org/Class/is_a_/action/control_action/suspend_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 ### [suspend_action.personal](/_personal/schema-org/Class/is_a_/action/control_action/suspend_action.personal.md) 
 
-### [suspend_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/suspend_action.secret.md) 
+### [suspend_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/suspend_action.secret.md)
+

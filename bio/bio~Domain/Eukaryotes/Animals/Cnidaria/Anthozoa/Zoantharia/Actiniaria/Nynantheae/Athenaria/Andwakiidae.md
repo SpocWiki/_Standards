@@ -52,3 +52,21 @@ acontia. Acontia with basitrichs and microbasic amastigophors.
 Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
+
+
+## Confidential Links & Embeds: 
+
+### [Andwakiidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.md) 
+
+### [Andwakiidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.public.md) 
+
+### [Andwakiidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.internal.md) 
+
+### [Andwakiidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.protect.md) 
+
+### [Andwakiidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.private.md) 
+
+### [Andwakiidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.personal.md) 
+
+### [Andwakiidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Andwakiidae.secret.md)
+

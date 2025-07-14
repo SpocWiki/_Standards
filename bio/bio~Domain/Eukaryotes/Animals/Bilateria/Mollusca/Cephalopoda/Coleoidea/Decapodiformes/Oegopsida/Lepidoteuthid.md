@@ -152,3 +152,21 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Creator           Octopoteuthis neilseni photograph by R. E. Young
   Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   ---------------------------------------------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Lepidoteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.md) 
+
+### [Lepidoteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.public.md) 
+
+### [Lepidoteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.internal.md) 
+
+### [Lepidoteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.protect.md) 
+
+### [Lepidoteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.private.md) 
+
+### [Lepidoteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.personal.md) 
+
+### [Lepidoteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Lepidoteuthid.secret.md)
+

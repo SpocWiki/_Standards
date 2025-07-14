@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A branch of medicine that is involved in the dental care.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dentistry](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.md) 
+### [dentistry](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.md) 
+
+### [dentistry.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.public.md) 
 
 ### [dentistry.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.internal.md) 
 
@@ -56,4 +59,5 @@ A branch of medicine that is involved in the dental care.
 
 ### [dentistry.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.personal.md) 
 
-### [dentistry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.secret.md) 
+### [dentistry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/dentistry.secret.md)
+

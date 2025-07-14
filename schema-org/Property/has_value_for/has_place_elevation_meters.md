@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,18 +52,20 @@ Predicate describes that:
 ( #has_/name :: has_place_elevation_in_meters )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_place_elevation_in_meters](/_Standards/schema-org/Predicate/Quantities/has_place_elevation_meters.md) 
+### [has_place_elevation_meters](/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters.md) 
 
 ### [has_place_elevation_meters.public](/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public.md) 
 
-### [has_place_elevation_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_elevation_in_meters.internal.md) 
+### [has_place_elevation_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal.md) 
 
-### [has_place_elevation_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_place_elevation_in_meters.protect.md) 
+### [has_place_elevation_meters.protect](/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect.md) 
 
-### [has_place_elevation_in_meters.private](/_private/schema-org/Property/has_value_for/has_place_elevation_in_meters.private.md) 
+### [has_place_elevation_meters.private](/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private.md) 
 
-### [has_place_elevation_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_elevation_in_meters.personal.md) 
+### [has_place_elevation_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal.md) 
 
-### [has_place_elevation_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_elevation_in_meters.secret.md) 
+### [has_place_elevation_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret.md)
+

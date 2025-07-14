@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: category ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accommodation_category](/_public/schema-org/Property/Texts/has_accommodation_category.md) 
+### [has_accommodation_category](/_Standards/schema-org/Property/Texts/has_accommodation_category.md) 
+
+### [has_accommodation_category.public](/_public/schema-org/Property/Texts/has_accommodation_category.public.md) 
 
 ### [has_accommodation_category.internal](/_internal/schema-org/Property/Texts/has_accommodation_category.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_accommodation_category.personal](/_personal/schema-org/Property/Texts/has_accommodation_category.personal.md) 
 
-### [has_accommodation_category.secret](/_secret/schema-org/Property/Texts/has_accommodation_category.secret.md) 
+### [has_accommodation_category.secret](/_secret/schema-org/Property/Texts/has_accommodation_category.secret.md)
+

@@ -75,3 +75,22 @@ subreddit: Cheese
 > [Wikipedia](https://en.wikipedia.org/wiki/Cheese) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cheese](/_Standards/Home_Economics/Cooking/Food/Dairy/Cheese.md) 
+
+### [Cheese.public](/_public/Home_Economics/Cooking/Food/Dairy/Cheese.public.md) 
+
+### [Cheese.internal](/_internal/Home_Economics/Cooking/Food/Dairy/Cheese.internal.md) 
+
+### [Cheese.protect](/_protect/Home_Economics/Cooking/Food/Dairy/Cheese.protect.md) 
+
+### [Cheese.private](/_private/Home_Economics/Cooking/Food/Dairy/Cheese.private.md) 
+
+### [Cheese.personal](/_personal/Home_Economics/Cooking/Food/Dairy/Cheese.personal.md) 
+
+### [Cheese.secret](/_secret/Home_Economics/Cooking/Food/Dairy/Cheese.secret.md)
+

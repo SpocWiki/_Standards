@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -36,10 +36,11 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FundingAgency](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.md) 
+### [FileClass~FundingAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.md) 
+
+### [FileClass~FundingAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.public.md) 
 
 ### [FileClass~FundingAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.internal.md) 
 
@@ -49,4 +50,5 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 
 ### [FileClass~FundingAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.personal.md) 
 
-### [FileClass~FundingAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.secret.md) 
+### [FileClass~FundingAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~FundingAgency.secret.md)
+

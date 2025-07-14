@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_purchase)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_purchase](/_public/schema-org/Property/has_Date_Time/has_time_of_purchase.md) 
+### [has_time_of_purchase](/_Standards/schema-org/Property/has_Date_Time/has_time_of_purchase.md) 
+
+### [has_time_of_purchase.public](/_public/schema-org/Property/has_Date_Time/has_time_of_purchase.public.md) 
 
 ### [has_time_of_purchase.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_purchase.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_purchase.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_purchase.personal.md) 
 
-### [has_time_of_purchase.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_purchase.secret.md) 
+### [has_time_of_purchase.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_purchase.secret.md)
+

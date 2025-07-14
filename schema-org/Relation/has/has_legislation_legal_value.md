@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_legislation_legal_value )
 ( #has_/range :: LegalValueLevel )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legislation_legal_value](/_public/schema-org/Relation/has/has_legislation_legal_value.md) 
+### [has_legislation_legal_value](/_Standards/schema-org/Relation/has/has_legislation_legal_value.md) 
+
+### [has_legislation_legal_value.public](/_public/schema-org/Relation/has/has_legislation_legal_value.public.md) 
 
 ### [has_legislation_legal_value.internal](/_internal/schema-org/Relation/has/has_legislation_legal_value.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_legislation_legal_value.personal](/_personal/schema-org/Relation/has/has_legislation_legal_value.personal.md) 
 
-### [has_legislation_legal_value.secret](/_secret/schema-org/Relation/has/has_legislation_legal_value.secret.md) 
+### [has_legislation_legal_value.secret](/_secret/schema-org/Relation/has/has_legislation_legal_value.secret.md)
+

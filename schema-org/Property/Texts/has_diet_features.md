@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_diet_features )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_diet_features](/_public/schema-org/Property/Texts/has_diet_features.md) 
+### [has_diet_features](/_Standards/schema-org/Property/Texts/has_diet_features.md) 
+
+### [has_diet_features.public](/_public/schema-org/Property/Texts/has_diet_features.public.md) 
 
 ### [has_diet_features.internal](/_internal/schema-org/Property/Texts/has_diet_features.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_diet_features.personal](/_personal/schema-org/Property/Texts/has_diet_features.personal.md) 
 
-### [has_diet_features.secret](/_secret/schema-org/Property/Texts/has_diet_features.secret.md) 
+### [has_diet_features.secret](/_secret/schema-org/Property/Texts/has_diet_features.secret.md)
+

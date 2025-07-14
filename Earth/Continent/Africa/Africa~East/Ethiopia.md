@@ -569,10 +569,11 @@ Capital :: [[Addis_Abeba]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethiopia) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ethiopia](/_public/Earth/Continent/Africa/Africa~East/Ethiopia.md) 
+### [Ethiopia](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia.md) 
+
+### [Ethiopia.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia.public.md) 
 
 ### [Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal.md) 
 
@@ -582,4 +583,5 @@ Capital :: [[Addis_Abeba]]
 
 ### [Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal.md) 
 
-### [Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret.md) 
+### [Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret.md)
+

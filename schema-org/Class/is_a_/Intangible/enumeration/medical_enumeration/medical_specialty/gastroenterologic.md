@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [gastroenterologic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.md) 
+### [gastroenterologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.md) 
+
+### [gastroenterologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.public.md) 
 
 ### [gastroenterologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ### [gastroenterologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.personal.md) 
 
-### [gastroenterologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.secret.md) 
+### [gastroenterologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.secret.md)
+

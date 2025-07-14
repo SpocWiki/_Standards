@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A diagnostic test or procedure offered by this lab.
 AvailableTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DiagnosticLab](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.md) 
+### [FileClass~DiagnosticLab](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.md) 
+
+### [FileClass~DiagnosticLab.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.public.md) 
 
 ### [FileClass~DiagnosticLab.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.internal.md) 
 
@@ -57,4 +58,5 @@ AvailableTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### [FileClass~DiagnosticLab.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.personal.md) 
 
-### [FileClass~DiagnosticLab.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.secret.md) 
+### [FileClass~DiagnosticLab.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~DiagnosticLab.secret.md)
+

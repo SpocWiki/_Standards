@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Relation describes that:
 ( #has_/name :: has_manufacturer )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_manufacturer](/_public/schema-org/Relation/has/has_manufacturer.md) 
+### [has_manufacturer](/_Standards/schema-org/Relation/has/has_manufacturer.md) 
+
+### [has_manufacturer.public](/_public/schema-org/Relation/has/has_manufacturer.public.md) 
 
 ### [has_manufacturer.internal](/_internal/schema-org/Relation/has/has_manufacturer.internal.md) 
 
@@ -50,4 +53,5 @@ Relation describes that:
 
 ### [has_manufacturer.personal](/_personal/schema-org/Relation/has/has_manufacturer.personal.md) 
 
-### [has_manufacturer.secret](/_secret/schema-org/Relation/has/has_manufacturer.secret.md) 
+### [has_manufacturer.secret](/_secret/schema-org/Relation/has/has_manufacturer.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 16.36 , 145.67 ] 
 type: geo-Region
 title: Northern_Islands
@@ -41,7 +41,9 @@ markerFolder: ./Northern_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Northern_Islands](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.md) 
+### [Northern_Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.md) 
+
+### [Northern_Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.public.md) 
 
 ### [Northern_Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Northern_Islands/
 
 ### [Northern_Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.personal.md) 
 
-### [Northern_Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.secret.md) 
+### [Northern_Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.secret.md)
+

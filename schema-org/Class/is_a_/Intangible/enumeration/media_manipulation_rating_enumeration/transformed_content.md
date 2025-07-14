@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -58,9 +58,12 @@ Part or all of the audio has been manipulated to alter the words or sounds, or t
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [transformed_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.md) 
+### [transformed_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.md) 
+
+### [transformed_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.public.md) 
 
 ### [transformed_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.internal.md) 
 
@@ -70,4 +73,5 @@ Part or all of the audio has been manipulated to alter the words or sounds, or t
 
 ### [transformed_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.personal.md) 
 
-### [transformed_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret.md) 
+### [transformed_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret.md)
+

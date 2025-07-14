@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TheaterGroup](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.md) 
+### [FileClass~TheaterGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.md) 
+
+### [FileClass~TheaterGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.public.md) 
 
 ### [FileClass~TheaterGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.internal.md) 
 
@@ -46,4 +47,5 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 ### [FileClass~TheaterGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.personal.md) 
 
-### [FileClass~TheaterGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.secret.md) 
+### [FileClass~TheaterGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~TheaterGroup.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9143
 IEV_number: 171-05-10
 Wolfram_Language_entity_type: ProgrammingLanguage
@@ -91,4 +91,23 @@ Stack_Exchange_tag: "https://stackoverflow.com/tags/programming-languages"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Programming%20language) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Programming_Language](/_Standards/Technology/IT/Software/Programming_Language.md) 
+
+### [Programming_Language.public](/_public/Technology/IT/Software/Programming_Language.public.md) 
+
+### [Programming_Language.internal](/_internal/Technology/IT/Software/Programming_Language.internal.md) 
+
+### [Programming_Language.protect](/_protect/Technology/IT/Software/Programming_Language.protect.md) 
+
+### [Programming_Language.private](/_private/Technology/IT/Software/Programming_Language.private.md) 
+
+### [Programming_Language.personal](/_personal/Technology/IT/Software/Programming_Language.personal.md) 
+
+### [Programming_Language.secret](/_secret/Technology/IT/Software/Programming_Language.secret.md)
 

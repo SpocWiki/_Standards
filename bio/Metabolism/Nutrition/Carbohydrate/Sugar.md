@@ -154,3 +154,22 @@ acceptable_daily_intake: "http://www.wikidata.org/.well-known/genid/50ae34edb819
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sugar](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar.md) 
+
+### [Sugar.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar.public.md) 
+
+### [Sugar.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.internal.md) 
+
+### [Sugar.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar.protect.md) 
+
+### [Sugar.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar.private.md) 
+
+### [Sugar.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.personal.md) 
+
+### [Sugar.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar.secret.md)
+

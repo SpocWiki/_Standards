@@ -1,4 +1,4 @@
-﻿# [[Pacific~East]] 
+# [[Pacific~East]] 
 
 ## Edit
 
@@ -33,7 +33,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Pacific~East](/_public/Earth/Ocean/Ocean~Pacific/Pacific~East.md) 
+### [Pacific~East](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~East.md) 
+
+### [Pacific~East.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~East.public.md) 
 
 ### [Pacific~East.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~East.internal.md) 
 
@@ -43,4 +45,5 @@ noteOnly: true
 
 ### [Pacific~East.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~East.personal.md) 
 
-### [Pacific~East.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~East.secret.md) 
+### [Pacific~East.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~East.secret.md)
+

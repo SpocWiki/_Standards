@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: spatialCoverage ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_announcement_location](/_public/schema-org/Relation/has/has_announcement_location.md) 
+### [has_announcement_location](/_Standards/schema-org/Relation/has/has_announcement_location.md) 
+
+### [has_announcement_location.public](/_public/schema-org/Relation/has/has_announcement_location.public.md) 
 
 ### [has_announcement_location.internal](/_internal/schema-org/Relation/has/has_announcement_location.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_announcement_location.personal](/_personal/schema-org/Relation/has/has_announcement_location.personal.md) 
 
-### [has_announcement_location.secret](/_secret/schema-org/Relation/has/has_announcement_location.secret.md) 
+### [has_announcement_location.secret](/_secret/schema-org/Relation/has/has_announcement_location.secret.md)
+

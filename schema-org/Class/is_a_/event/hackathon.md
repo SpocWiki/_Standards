@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A <a href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a> event.
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hackathon](/_public/schema-org/Class/is_a_/event/hackathon.md) 
+### [hackathon](/_Standards/schema-org/Class/is_a_/event/hackathon.md) 
+
+### [hackathon.public](/_public/schema-org/Class/is_a_/event/hackathon.public.md) 
 
 ### [hackathon.internal](/_internal/schema-org/Class/is_a_/event/hackathon.internal.md) 
 
@@ -56,4 +59,5 @@ A <a href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a> event.
 
 ### [hackathon.personal](/_personal/schema-org/Class/is_a_/event/hackathon.personal.md) 
 
-### [hackathon.secret](/_secret/schema-org/Class/is_a_/event/hackathon.secret.md) 
+### [hackathon.secret](/_secret/schema-org/Class/is_a_/event/hackathon.secret.md)
+

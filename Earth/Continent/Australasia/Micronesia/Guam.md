@@ -315,9 +315,12 @@ Capital :: [[Hagåtña]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guam)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guam](/_public/Earth/Continent/Australasia/Micronesia/Guam.md) 
+### [Guam](/_Standards/Earth/Continent/Australasia/Micronesia/Guam.md) 
+
+### [Guam.public](/_public/Earth/Continent/Australasia/Micronesia/Guam.public.md) 
 
 ### [Guam.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal.md) 
 
@@ -327,4 +330,5 @@ Capital :: [[Hagåtña]]
 
 ### [Guam.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal.md) 
 
-### [Guam.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret.md) 
+### [Guam.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret.md)
+

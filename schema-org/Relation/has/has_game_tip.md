@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_game_tip )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_game_tip](/_public/schema-org/Relation/has/has_game_tip.md) 
+### [has_game_tip](/_Standards/schema-org/Relation/has/has_game_tip.md) 
+
+### [has_game_tip.public](/_public/schema-org/Relation/has/has_game_tip.public.md) 
 
 ### [has_game_tip.internal](/_internal/schema-org/Relation/has/has_game_tip.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_game_tip.personal](/_personal/schema-org/Relation/has/has_game_tip.personal.md) 
 
-### [has_game_tip.secret](/_secret/schema-org/Relation/has/has_game_tip.secret.md) 
+### [has_game_tip.secret](/_secret/schema-org/Relation/has/has_game_tip.secret.md)
+

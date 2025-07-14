@@ -42,9 +42,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_email )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_email](/_public/schema-org/Property/Texts/has_email.md) 
+### [has_email](/_Standards/schema-org/Property/Texts/has_email.md) 
+
+### [has_email.public](/_public/schema-org/Property/Texts/has_email.public.md) 
 
 ### [has_email.internal](/_internal/schema-org/Property/Texts/has_email.internal.md) 
 
@@ -54,4 +57,5 @@ Predicated describes that:
 
 ### [has_email.personal](/_personal/schema-org/Property/Texts/has_email.personal.md) 
 
-### [has_email.secret](/_secret/schema-org/Property/Texts/has_email.secret.md) 
+### [has_email.secret](/_secret/schema-org/Property/Texts/has_email.secret.md)
+

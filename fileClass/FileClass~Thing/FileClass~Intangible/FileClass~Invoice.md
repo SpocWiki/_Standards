@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -185,10 +185,11 @@ The total amount due.
 TotalPaymentDue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Invoice](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.md) 
+### [FileClass~Invoice](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.md) 
+
+### [FileClass~Invoice.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.public.md) 
 
 ### [FileClass~Invoice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.internal.md) 
 
@@ -198,4 +199,5 @@ TotalPaymentDue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~Invoice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.personal.md) 
 
-### [FileClass~Invoice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.secret.md) 
+### [FileClass~Invoice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A radio channel that uses FM.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [fm_radio_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.md) 
+### [fm_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.md) 
+
+### [fm_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.public.md) 
 
 ### [fm_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.internal.md) 
 
@@ -54,4 +57,5 @@ A radio channel that uses FM.
 
 ### [fm_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.personal.md) 
 
-### [fm_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.secret.md) 
+### [fm_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.secret.md)
+

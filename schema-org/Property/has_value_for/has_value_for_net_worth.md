@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_net_worth )
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_net_worth](/_public/schema-org/Property/has_value_for/has_value_for_net_worth.md) 
+### [has_value_for_net_worth](/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth.md) 
+
+### [has_value_for_net_worth.public](/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public.md) 
 
 ### [has_value_for_net_worth.internal](/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_net_worth.personal](/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal.md) 
 
-### [has_value_for_net_worth.secret](/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret.md) 
+### [has_value_for_net_worth.secret](/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret.md)
+

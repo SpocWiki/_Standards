@@ -127,3 +127,22 @@ Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides
 Scientific Name ::     Berlinia bruneelii (De Wild.) Torr. & Hillc.
 Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Detarieae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.md) 
+
+### [Detarieae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.public.md) 
+
+### [Detarieae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.internal.md) 
+
+### [Detarieae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.protect.md) 
+
+### [Detarieae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.private.md) 
+
+### [Detarieae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.personal.md) 
+
+### [Detarieae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Detarieae.secret.md)
+

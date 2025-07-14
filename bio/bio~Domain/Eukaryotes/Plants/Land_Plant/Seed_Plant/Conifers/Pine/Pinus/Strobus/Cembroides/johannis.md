@@ -65,3 +65,21 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
   Body Part         ovulate cone
   Copyright ::         © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
   ------------------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [johannis](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.md) 
+
+### [johannis.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.public.md) 
+
+### [johannis.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.internal.md) 
+
+### [johannis.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.protect.md) 
+
+### [johannis.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.private.md) 
+
+### [johannis.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.personal.md) 
+
+### [johannis.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.secret.md)
+

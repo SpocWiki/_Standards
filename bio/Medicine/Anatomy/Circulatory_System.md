@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11068
 subclass_of:
 - "[[_Standards/WikiData/WD~organ_system,188193]]"
@@ -48,3 +48,22 @@ MeSH_tree_code: A07
 > The circulatory system can be affected by many cardiovascular diseases. Cardiologists are medical professionals which specialise in the heart, and cardiothoracic surgeons specialise in operating on the heart and its surrounding areas. Vascular surgeons focus on disorders of the blood vessels, and lymphatic vessels.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Circulatory%20system)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Circulatory_System](/_Standards/bio/Medicine/Anatomy/Circulatory_System.md) 
+
+### [Circulatory_System.public](/_public/bio/Medicine/Anatomy/Circulatory_System.public.md) 
+
+### [Circulatory_System.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System.internal.md) 
+
+### [Circulatory_System.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System.protect.md) 
+
+### [Circulatory_System.private](/_private/bio/Medicine/Anatomy/Circulatory_System.private.md) 
+
+### [Circulatory_System.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System.personal.md) 
+
+### [Circulatory_System.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System.secret.md)
+

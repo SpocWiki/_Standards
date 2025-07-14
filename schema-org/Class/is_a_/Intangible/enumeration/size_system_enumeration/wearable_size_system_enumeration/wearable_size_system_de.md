@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ German size system for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_size_system_de](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.md) 
+### [wearable_size_system_de](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.md) 
+
+### [wearable_size_system_de.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.public.md) 
 
 ### [wearable_size_system_de.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.internal.md) 
 
@@ -58,4 +61,5 @@ German size system for wearables.
 
 ### [wearable_size_system_de.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.personal.md) 
 
-### [wearable_size_system_de.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.secret.md) 
+### [wearable_size_system_de.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.secret.md)
+

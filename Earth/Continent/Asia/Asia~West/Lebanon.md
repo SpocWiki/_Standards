@@ -469,9 +469,12 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lebanon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lebanon](/_public/Earth/Continent/Asia/Asia~West/Lebanon.md) 
+### [Lebanon](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon.md) 
+
+### [Lebanon.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon.public.md) 
 
 ### [Lebanon.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal.md) 
 
@@ -481,4 +484,5 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 ### [Lebanon.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal.md) 
 
-### [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md) 
+### [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md)
+

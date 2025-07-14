@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_arm](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.md) 
+### [body_measurement_arm](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.md) 
+
+### [body_measurement_arm.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.public.md) 
 
 ### [body_measurement_arm.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.internal.md) 
 
@@ -58,4 +61,5 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 
 ### [body_measurement_arm.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.personal.md) 
 
-### [body_measurement_arm.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.secret.md) 
+### [body_measurement_arm.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.secret.md)
+

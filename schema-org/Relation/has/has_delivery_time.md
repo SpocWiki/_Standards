@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_delivery_time )
 ( #has_/range :: ShippingDeliveryTime )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_delivery_time](/_public/schema-org/Relation/has/has_delivery_time.md) 
+### [has_delivery_time](/_Standards/schema-org/Relation/has/has_delivery_time.md) 
+
+### [has_delivery_time.public](/_public/schema-org/Relation/has/has_delivery_time.public.md) 
 
 ### [has_delivery_time.internal](/_internal/schema-org/Relation/has/has_delivery_time.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_delivery_time.personal](/_personal/schema-org/Relation/has/has_delivery_time.personal.md) 
 
-### [has_delivery_time.secret](/_secret/schema-org/Relation/has/has_delivery_time.secret.md) 
+### [has_delivery_time.secret](/_secret/schema-org/Relation/has/has_delivery_time.secret.md)
+

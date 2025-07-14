@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -140,7 +140,9 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CriticReviewAndNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.md) 
+### [FileClass~CriticReviewAndNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.md) 
+
+### [FileClass~CriticReviewAndNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.public.md) 
 
 ### [FileClass~CriticReviewAndNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.internal.md) 
 
@@ -150,4 +152,5 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~CriticReviewAndNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.personal.md) 
 
-### [FileClass~CriticReviewAndNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.secret.md) 
+### [FileClass~CriticReviewAndNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle.secret.md)
+

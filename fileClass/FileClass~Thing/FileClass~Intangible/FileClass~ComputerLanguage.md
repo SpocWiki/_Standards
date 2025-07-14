@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComputerLanguage](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.md) 
+### [FileClass~ComputerLanguage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.md) 
+
+### [FileClass~ComputerLanguage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.public.md) 
 
 ### [FileClass~ComputerLanguage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.internal.md) 
 
@@ -46,4 +47,5 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 ### [FileClass~ComputerLanguage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.personal.md) 
 
-### [FileClass~ComputerLanguage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.secret.md) 
+### [FileClass~ComputerLanguage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.secret.md)
+

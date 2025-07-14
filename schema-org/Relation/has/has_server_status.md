@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_server_status )
 ( #has_/range :: GameServerStatus )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_server_status](/_public/schema-org/Relation/has/has_server_status.md) 
+### [has_server_status](/_Standards/schema-org/Relation/has/has_server_status.md) 
+
+### [has_server_status.public](/_public/schema-org/Relation/has/has_server_status.public.md) 
 
 ### [has_server_status.internal](/_internal/schema-org/Relation/has/has_server_status.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_server_status.personal](/_personal/schema-org/Relation/has/has_server_status.personal.md) 
 
-### [has_server_status.secret](/_secret/schema-org/Relation/has/has_server_status.secret.md) 
+### [has_server_status.secret](/_secret/schema-org/Relation/has/has_server_status.secret.md)
+

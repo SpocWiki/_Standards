@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is available only at physical locations.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [in_store_only](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.md) 
+### [in_store_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.md) 
+
+### [in_store_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.public.md) 
 
 ### [in_store_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is available only at physical locations.
 
 ### [in_store_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.personal.md) 
 
-### [in_store_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.secret.md) 
+### [in_store_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.secret.md)
+

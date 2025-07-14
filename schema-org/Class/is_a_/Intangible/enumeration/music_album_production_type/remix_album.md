@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ RemixAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [remix_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.md) 
+### [remix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.md) 
+
+### [remix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.public.md) 
 
 ### [remix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.internal.md) 
 
@@ -56,4 +59,5 @@ RemixAlbum.
 
 ### [remix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.personal.md) 
 
-### [remix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.secret.md) 
+### [remix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.secret.md)
+

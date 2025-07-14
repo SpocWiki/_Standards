@@ -79,3 +79,22 @@ Specimen Condition   Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Julida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.md) 
+
+### [Julida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.public.md) 
+
+### [Julida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.internal.md) 
+
+### [Julida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.protect.md) 
+
+### [Julida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.private.md) 
+
+### [Julida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.personal.md) 
+
+### [Julida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Julida.secret.md)
+

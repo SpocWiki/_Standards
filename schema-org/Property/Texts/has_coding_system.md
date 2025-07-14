@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_coding_system )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_coding_system](/_public/schema-org/Property/Texts/has_coding_system.md) 
+### [has_coding_system](/_Standards/schema-org/Property/Texts/has_coding_system.md) 
+
+### [has_coding_system.public](/_public/schema-org/Property/Texts/has_coding_system.public.md) 
 
 ### [has_coding_system.internal](/_internal/schema-org/Property/Texts/has_coding_system.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_coding_system.personal](/_personal/schema-org/Property/Texts/has_coding_system.personal.md) 
 
-### [has_coding_system.secret](/_secret/schema-org/Property/Texts/has_coding_system.secret.md) 
+### [has_coding_system.secret](/_secret/schema-org/Property/Texts/has_coding_system.secret.md)
+

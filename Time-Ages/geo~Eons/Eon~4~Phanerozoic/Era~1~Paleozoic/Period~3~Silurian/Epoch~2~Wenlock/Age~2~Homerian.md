@@ -62,10 +62,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Homerian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.md) 
+### [Age~2~Homerian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.md) 
+
+### [Age~2~Homerian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.public.md) 
 
 ### [Age~2~Homerian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.internal.md) 
 
@@ -75,4 +76,5 @@ noteOnly: true
 
 ### [Age~2~Homerian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.personal.md) 
 
-### [Age~2~Homerian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.secret.md) 
+### [Age~2~Homerian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.secret.md)
+

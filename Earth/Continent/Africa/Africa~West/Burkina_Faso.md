@@ -497,9 +497,12 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burkina%20Faso)
 
+
 ## Confidential Links & Embeds: 
 
-### [Burkina_Faso](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.md) 
+### [Burkina_Faso](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso.md) 
+
+### [Burkina_Faso.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public.md) 
 
 ### [Burkina_Faso.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal.md) 
 
@@ -509,4 +512,5 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 
 ### [Burkina_Faso.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal.md) 
 
-### [Burkina_Faso.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret.md) 
+### [Burkina_Faso.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret.md)
+

@@ -128,3 +128,22 @@ Commons_Creator_page: "Sarah Bernhardt"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sarah%20Bernhardt)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bernhardt,Sarah](/_Standards/bio/People/Actor/Bernhardt,Sarah.md) 
+
+### [Bernhardt,Sarah.public](/_public/bio/People/Actor/Bernhardt,Sarah.public.md) 
+
+### [Bernhardt,Sarah.internal](/_internal/bio/People/Actor/Bernhardt,Sarah.internal.md) 
+
+### [Bernhardt,Sarah.protect](/_protect/bio/People/Actor/Bernhardt,Sarah.protect.md) 
+
+### [Bernhardt,Sarah.private](/_private/bio/People/Actor/Bernhardt,Sarah.private.md) 
+
+### [Bernhardt,Sarah.personal](/_personal/bio/People/Actor/Bernhardt,Sarah.personal.md) 
+
+### [Bernhardt,Sarah.secret](/_secret/bio/People/Actor/Bernhardt,Sarah.secret.md)
+

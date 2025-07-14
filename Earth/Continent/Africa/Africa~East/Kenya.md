@@ -533,9 +533,12 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kenya)
 
+
 ## Confidential Links & Embeds: 
 
-### [Kenya](/_public/Earth/Continent/Africa/Africa~East/Kenya.md) 
+### [Kenya](/_Standards/Earth/Continent/Africa/Africa~East/Kenya.md) 
+
+### [Kenya.public](/_public/Earth/Continent/Africa/Africa~East/Kenya.public.md) 
 
 ### [Kenya.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal.md) 
 
@@ -545,4 +548,5 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 ### [Kenya.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya.personal.md) 
 
-### [Kenya.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret.md) 
+### [Kenya.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret.md)
+

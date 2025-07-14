@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -130,10 +130,11 @@ Assets required to secure loan or credit repayments. It may take form of third p
 RequiredCollateral:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LoanOrCredit](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.md) 
+### [FileClass~LoanOrCredit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.md) 
+
+### [FileClass~LoanOrCredit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.public.md) 
 
 ### [FileClass~LoanOrCredit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.internal.md) 
 
@@ -143,4 +144,5 @@ RequiredCollateral:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ### [FileClass~LoanOrCredit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.personal.md) 
 
-### [FileClass~LoanOrCredit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.secret.md) 
+### [FileClass~LoanOrCredit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q38035
 has_part_s_: '[[_Standards/WikiData/WD~noise,179448]]'
 subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
@@ -24,4 +24,23 @@ Commons_category: Consonants
 > Since the number of speech sounds in the world's languages is much greater than the number of letters in any one alphabet, linguists have devised systems such as the International Phonetic Alphabet (IPA) to assign a unique and unambiguous symbol to each attested consonant. The English alphabet has fewer consonant letters than the English language has consonant sounds, so digraphs like ⟨ch⟩, ⟨sh⟩, ⟨th⟩, and ⟨ng⟩ are used to extend the alphabet, though some letters and digraphs represent more than one consonant. For example, the sound spelled ⟨th⟩ in "this" is a different consonant from the ⟨th⟩ sound in "thin". (In the IPA, these are [ð] and [θ], respectively.)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Consonant) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Consonant](/_Standards/Language/Word/Phoneme/Consonant.md) 
+
+### [Consonant.public](/_public/Language/Word/Phoneme/Consonant.public.md) 
+
+### [Consonant.internal](/_internal/Language/Word/Phoneme/Consonant.internal.md) 
+
+### [Consonant.protect](/_protect/Language/Word/Phoneme/Consonant.protect.md) 
+
+### [Consonant.private](/_private/Language/Word/Phoneme/Consonant.private.md) 
+
+### [Consonant.personal](/_personal/Language/Word/Phoneme/Consonant.personal.md) 
+
+### [Consonant.secret](/_secret/Language/Word/Phoneme/Consonant.secret.md)
 

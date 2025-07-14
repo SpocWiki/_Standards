@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_account_overdraft_limit )
 ( #has_/range :: MonetaryAmount )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_account_overdraft_limit](/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.md) 
+### [has_value_for_account_overdraft_limit](/_Standards/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.md) 
+
+### [has_value_for_account_overdraft_limit.public](/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.public.md) 
 
 ### [has_value_for_account_overdraft_limit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_value_for_account_overdraft_limit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.personal.md) 
 
-### [has_value_for_account_overdraft_limit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret.md) 
+### [has_value_for_account_overdraft_limit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret.md)
+

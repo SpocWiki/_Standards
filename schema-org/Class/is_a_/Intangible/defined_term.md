@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -70,9 +70,12 @@ Tag Term-Classes like this:
 
 #has_/properties :: [ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/Texts/has_alternate_name|alternateName]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/Texts/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Relation/is_same_as|sameAs]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/Texts/has_term-code|termCode]], url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [defined_term](/_public/schema-org/Class/is_a_/Intangible/defined_term.md) 
+### [defined_term](/_Standards/schema-org/Class/is_a_/Intangible/defined_term.md) 
+
+### [defined_term.public](/_public/schema-org/Class/is_a_/Intangible/defined_term.public.md) 
 
 ### [defined_term.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term.internal.md) 
 
@@ -82,4 +85,5 @@ Tag Term-Classes like this:
 
 ### [defined_term.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term.personal.md) 
 
-### [defined_term.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term.secret.md) 
+### [defined_term.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term.secret.md)
+

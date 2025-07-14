@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_eligible_customer_type )
 ( #has_/range :: BusinessEntityType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_eligible_customer_type](/_public/schema-org/Relation/has/has_eligible_customer_type.md) 
+### [has_eligible_customer_type](/_Standards/schema-org/Relation/has/has_eligible_customer_type.md) 
+
+### [has_eligible_customer_type.public](/_public/schema-org/Relation/has/has_eligible_customer_type.public.md) 
 
 ### [has_eligible_customer_type.internal](/_internal/schema-org/Relation/has/has_eligible_customer_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_eligible_customer_type.personal](/_personal/schema-org/Relation/has/has_eligible_customer_type.personal.md) 
 
-### [has_eligible_customer_type.secret](/_secret/schema-org/Relation/has/has_eligible_customer_type.secret.md) 
+### [has_eligible_customer_type.secret](/_secret/schema-org/Relation/has/has_eligible_customer_type.secret.md)
+

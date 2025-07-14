@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_cheat_code )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cheat_code](/_public/schema-org/Relation/has/has_cheat_code.md) 
+### [has_cheat_code](/_Standards/schema-org/Relation/has/has_cheat_code.md) 
+
+### [has_cheat_code.public](/_public/schema-org/Relation/has/has_cheat_code.public.md) 
 
 ### [has_cheat_code.internal](/_internal/schema-org/Relation/has/has_cheat_code.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_cheat_code.personal](/_personal/schema-org/Relation/has/has_cheat_code.personal.md) 
 
-### [has_cheat_code.secret](/_secret/schema-org/Relation/has/has_cheat_code.secret.md) 
+### [has_cheat_code.secret](/_secret/schema-org/Relation/has/has_cheat_code.secret.md)
+

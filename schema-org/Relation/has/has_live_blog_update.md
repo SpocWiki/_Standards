@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_live_blog_update )
 ( #has_/range :: BlogPosting )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_live_blog_update](/_public/schema-org/Relation/has/has_live_blog_update.md) 
+### [has_live_blog_update](/_Standards/schema-org/Relation/has/has_live_blog_update.md) 
+
+### [has_live_blog_update.public](/_public/schema-org/Relation/has/has_live_blog_update.public.md) 
 
 ### [has_live_blog_update.internal](/_internal/schema-org/Relation/has/has_live_blog_update.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_live_blog_update.personal](/_personal/schema-org/Relation/has/has_live_blog_update.personal.md) 
 
-### [has_live_blog_update.secret](/_secret/schema-org/Relation/has/has_live_blog_update.secret.md) 
+### [has_live_blog_update.secret](/_secret/schema-org/Relation/has/has_live_blog_update.secret.md)
+

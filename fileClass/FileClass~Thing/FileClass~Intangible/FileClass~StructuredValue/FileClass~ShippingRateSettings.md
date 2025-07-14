@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -96,10 +96,11 @@ The shipping rate is the cost of shipping to the specified destination. Typicall
 ShippingRate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShippingRateSettings](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.md) 
+### [FileClass~ShippingRateSettings](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.md) 
+
+### [FileClass~ShippingRateSettings.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.public.md) 
 
 ### [FileClass~ShippingRateSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.internal.md) 
 
@@ -109,4 +110,5 @@ ShippingRate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ShippingRateSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.personal.md) 
 
-### [FileClass~ShippingRateSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret.md) 
+### [FileClass~ShippingRateSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret.md)
+

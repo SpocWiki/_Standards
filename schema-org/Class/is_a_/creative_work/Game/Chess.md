@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7181
 named_after: '[[_Standards/WikiData/WD~globe,133792]]'
 has_cause:
@@ -71,4 +71,23 @@ Krugosvet_article: istoriya/GLOBALIZATSIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Chess) 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chess](/_Standards/schema-org/Class/is_a_/creative_work/Game/Chess.md) 
+
+### [Chess.public](/_public/schema-org/Class/is_a_/creative_work/Game/Chess.public.md) 
+
+### [Chess.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Chess.internal.md) 
+
+### [Chess.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Chess.protect.md) 
+
+### [Chess.private](/_private/schema-org/Class/is_a_/creative_work/Game/Chess.private.md) 
+
+### [Chess.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Chess.personal.md) 
+
+### [Chess.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Chess.secret.md)
 

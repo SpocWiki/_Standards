@@ -1,4 +1,4 @@
-﻿
+
 Use it like this: 
 - [ #has_/employer :: [[Organization]] ] or 
 - [ has_employer :: [[Organization]] ] 
@@ -12,9 +12,12 @@ Relation describes that:
 
 #is_/inverse_of :: [[has_employees]] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_employer](/_public/schema-org/Relation/has/has_employer.md) 
+### [has_employer](/_Standards/schema-org/Relation/has/has_employer.md) 
+
+### [has_employer.public](/_public/schema-org/Relation/has/has_employer.public.md) 
 
 ### [has_employer.internal](/_internal/schema-org/Relation/has/has_employer.internal.md) 
 
@@ -24,4 +27,5 @@ Relation describes that:
 
 ### [has_employer.personal](/_personal/schema-org/Relation/has/has_employer.personal.md) 
 
-### [has_employer.secret](/_secret/schema-org/Relation/has/has_employer.secret.md) 
+### [has_employer.secret](/_secret/schema-org/Relation/has/has_employer.secret.md)
+

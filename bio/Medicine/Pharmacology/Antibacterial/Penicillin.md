@@ -49,3 +49,22 @@ time_of_discovery_or_invention: "1928-09-28"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Penicillin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Penicillin](/_Standards/bio/Medicine/Pharmacology/Antibacterial/Penicillin.md) 
+
+### [Penicillin.public](/_public/bio/Medicine/Pharmacology/Antibacterial/Penicillin.public.md) 
+
+### [Penicillin.internal](/_internal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.internal.md) 
+
+### [Penicillin.protect](/_protect/bio/Medicine/Pharmacology/Antibacterial/Penicillin.protect.md) 
+
+### [Penicillin.private](/_private/bio/Medicine/Pharmacology/Antibacterial/Penicillin.private.md) 
+
+### [Penicillin.personal](/_personal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.personal.md) 
+
+### [Penicillin.secret](/_secret/bio/Medicine/Pharmacology/Antibacterial/Penicillin.secret.md)
+

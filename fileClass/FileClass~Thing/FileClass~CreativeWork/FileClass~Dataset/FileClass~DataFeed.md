@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ An item within a data feed. Data feeds may have many elements.
 DataFeedElement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DataFeedItem')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DataFeed](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.md) 
+### [FileClass~DataFeed](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.md) 
+
+### [FileClass~DataFeed.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.public.md) 
 
 ### [FileClass~DataFeed.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.internal.md) 
 
@@ -57,4 +58,5 @@ DataFeedElement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~DataFeed.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.personal.md) 
 
-### [FileClass~DataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.secret.md) 
+### [FileClass~DataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.secret.md)
+

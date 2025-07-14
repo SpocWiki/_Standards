@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ One of the continents (for example, Europe or Africa).
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [continent](/_public/schema-org/Class/is_a_/place/landform/continent.md) 
+### [continent](/_Standards/schema-org/Class/is_a_/place/landform/continent.md) 
+
+### [continent.public](/_public/schema-org/Class/is_a_/place/landform/continent.public.md) 
 
 ### [continent.internal](/_internal/schema-org/Class/is_a_/place/landform/continent.internal.md) 
 
@@ -54,4 +57,5 @@ One of the continents (for example, Europe or Africa).
 
 ### [continent.personal](/_personal/schema-org/Class/is_a_/place/landform/continent.personal.md) 
 
-### [continent.secret](/_secret/schema-org/Class/is_a_/place/landform/continent.secret.md) 
+### [continent.secret](/_secret/schema-org/Class/is_a_/place/landform/continent.secret.md)
+

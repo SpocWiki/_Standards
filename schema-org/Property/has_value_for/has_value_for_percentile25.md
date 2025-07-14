@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_percentile25 )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_percentile25](/_public/schema-org/Property/has_value_for/has_value_for_percentile25.md) 
+### [has_value_for_percentile25](/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25.md) 
+
+### [has_value_for_percentile25.public](/_public/schema-org/Property/has_value_for/has_value_for_percentile25.public.md) 
 
 ### [has_value_for_percentile25.internal](/_internal/schema-org/Property/has_value_for/has_value_for_percentile25.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_percentile25.personal](/_personal/schema-org/Property/has_value_for/has_value_for_percentile25.personal.md) 
 
-### [has_value_for_percentile25.secret](/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret.md) 
+### [has_value_for_percentile25.secret](/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret.md)
+

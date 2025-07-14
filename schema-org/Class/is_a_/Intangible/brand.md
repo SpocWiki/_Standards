@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A brand is a name used by an organization or business person for labeling a prod
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [brand](/_public/schema-org/Class/is_a_/Intangible/brand.md) 
+### [brand](/_Standards/schema-org/Class/is_a_/Intangible/brand.md) 
+
+### [brand.public](/_public/schema-org/Class/is_a_/Intangible/brand.public.md) 
 
 ### [brand.internal](/_internal/schema-org/Class/is_a_/Intangible/brand.internal.md) 
 
@@ -54,4 +57,5 @@ A brand is a name used by an organization or business person for labeling a prod
 
 ### [brand.personal](/_personal/schema-org/Class/is_a_/Intangible/brand.personal.md) 
 
-### [brand.secret](/_secret/schema-org/Class/is_a_/Intangible/brand.secret.md) 
+### [brand.secret](/_secret/schema-org/Class/is_a_/Intangible/brand.secret.md)
+

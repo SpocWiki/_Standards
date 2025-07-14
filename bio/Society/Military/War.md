@@ -99,3 +99,22 @@ Library_of_Congress_Classification: JZ6378-JZ6405
 > [Wikipedia](https://en.wikipedia.org/wiki/War)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [War](/_Standards/bio/Society/Military/War.md) 
+
+### [War.public](/_public/bio/Society/Military/War.public.md) 
+
+### [War.internal](/_internal/bio/Society/Military/War.internal.md) 
+
+### [War.protect](/_protect/bio/Society/Military/War.protect.md) 
+
+### [War.private](/_private/bio/Society/Military/War.private.md) 
+
+### [War.personal](/_personal/bio/Society/Military/War.personal.md) 
+
+### [War.secret](/_secret/bio/Society/Military/War.secret.md)
+

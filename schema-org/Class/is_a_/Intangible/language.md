@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -71,9 +71,12 @@ Alternatively use the RDFa-Lite:
 
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [language](/_public/schema-org/Class/is_a_/Intangible/language.md) 
+### [language](/_Standards/schema-org/Class/is_a_/Intangible/language.md) 
+
+### [language.public](/_public/schema-org/Class/is_a_/Intangible/language.public.md) 
 
 ### [language.internal](/_internal/schema-org/Class/is_a_/Intangible/language.internal.md) 
 
@@ -83,4 +86,5 @@ Alternatively use the RDFa-Lite:
 
 ### [language.personal](/_personal/schema-org/Class/is_a_/Intangible/language.personal.md) 
 
-### [language.secret](/_secret/schema-org/Class/is_a_/Intangible/language.secret.md) 
+### [language.secret](/_secret/schema-org/Class/is_a_/Intangible/language.secret.md)
+

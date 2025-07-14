@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [otolaryngologic](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
+### [otolaryngologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
+
+### [otolaryngologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.public.md) 
 
 ### [otolaryngologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 ### [otolaryngologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
 
-### [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md) 
+### [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md)
+

@@ -241,3 +241,22 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2000 [John White](mailto:reptiles@erols.com)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Spider](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.md) 
+
+### [Spider.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.public.md) 
+
+### [Spider.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.internal.md) 
+
+### [Spider.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.protect.md) 
+
+### [Spider.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.private.md) 
+
+### [Spider.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.personal.md) 
+
+### [Spider.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider.secret.md)
+

@@ -30,7 +30,9 @@ The Name is from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|L
 
 ## Confidential Links & Embeds: 
 
-### [has_Pros](/_public/schema-org/Relation/has/has_Pros.md) 
+### [has_Pros](/_Standards/schema-org/Relation/has/has_Pros.md) 
+
+### [has_Pros.public](/_public/schema-org/Relation/has/has_Pros.public.md) 
 
 ### [has_Pros.internal](/_internal/schema-org/Relation/has/has_Pros.internal.md) 
 
@@ -40,4 +42,5 @@ The Name is from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|L
 
 ### [has_Pros.personal](/_personal/schema-org/Relation/has/has_Pros.personal.md) 
 
-### [has_Pros.secret](/_secret/schema-org/Relation/has/has_Pros.secret.md) 
+### [has_Pros.secret](/_secret/schema-org/Relation/has/has_Pros.secret.md)
+

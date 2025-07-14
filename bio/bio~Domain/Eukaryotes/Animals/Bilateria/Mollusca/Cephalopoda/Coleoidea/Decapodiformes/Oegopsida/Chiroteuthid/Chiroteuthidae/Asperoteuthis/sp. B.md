@@ -113,3 +113,21 @@ Neptune City, NJ, 351pp.
   Reference         Drawing from Clarke, M. R. 1980. Cephalopoda in the diet of sperm whales of the Southern Hemisphere and their bearing on sperm whale biology. Discovery Reports 37: 1-324.
   Copyright ::         © 1980 M.R. Clarke
   ---------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [sp. B](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.md) 
+
+### [sp. B.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.public.md) 
+
+### [sp. B.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.internal.md) 
+
+### [sp. B.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.protect.md) 
+
+### [sp. B.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.private.md) 
+
+### [sp. B.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.personal.md) 
+
+### [sp. B.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/sp. B.secret.md)
+

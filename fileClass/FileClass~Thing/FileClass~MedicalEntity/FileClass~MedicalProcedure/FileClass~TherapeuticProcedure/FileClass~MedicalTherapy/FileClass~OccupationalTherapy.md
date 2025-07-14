@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A treatment of people with physical, emotional, or social problems, using purpos
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OccupationalTherapy](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.md) 
+### [FileClass~OccupationalTherapy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.md) 
+
+### [FileClass~OccupationalTherapy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.public.md) 
 
 ### [FileClass~OccupationalTherapy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.internal.md) 
 
@@ -46,4 +47,5 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 ### [FileClass~OccupationalTherapy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.personal.md) 
 
-### [FileClass~OccupationalTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.secret.md) 
+### [FileClass~OccupationalTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~OccupationalTherapy.secret.md)
+

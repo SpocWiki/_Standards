@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_album_production_type )
 ( #has_/range :: MusicAlbumProductionType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_album_production_type](/_public/schema-org/Relation/has/has_album_production_type.md) 
+### [has_album_production_type](/_Standards/schema-org/Relation/has/has_album_production_type.md) 
+
+### [has_album_production_type.public](/_public/schema-org/Relation/has/has_album_production_type.public.md) 
 
 ### [has_album_production_type.internal](/_internal/schema-org/Relation/has/has_album_production_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_album_production_type.personal](/_personal/schema-org/Relation/has/has_album_production_type.personal.md) 
 
-### [has_album_production_type.secret](/_secret/schema-org/Relation/has/has_album_production_type.secret.md) 
+### [has_album_production_type.secret](/_secret/schema-org/Relation/has/has_album_production_type.secret.md)
+

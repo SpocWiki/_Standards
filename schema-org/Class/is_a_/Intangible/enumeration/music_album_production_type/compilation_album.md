@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ CompilationAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [compilation_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.md) 
+### [compilation_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.md) 
+
+### [compilation_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.public.md) 
 
 ### [compilation_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.internal.md) 
 
@@ -56,4 +59,5 @@ CompilationAlbum.
 
 ### [compilation_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.personal.md) 
 
-### [compilation_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.secret.md) 
+### [compilation_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/compilation_album.secret.md)
+

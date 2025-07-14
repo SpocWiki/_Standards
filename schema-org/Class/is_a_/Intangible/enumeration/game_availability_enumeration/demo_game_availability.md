@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 
 [ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [demo_game_availability](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.md) 
+### [demo_game_availability](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.md) 
+
+### [demo_game_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.public.md) 
 
 ### [demo_game_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 
 ### [demo_game_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.personal.md) 
 
-### [demo_game_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.secret.md) 
+### [demo_game_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Enumerates common size systems for different categories of products, for example
 
 [ #has_/sub_classes :: [ WearableSizeSystemEnumeration ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [size_system_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.md) 
+### [size_system_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.md) 
+
+### [size_system_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.public.md) 
 
 ### [size_system_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Enumerates common size systems for different categories of products, for example
 
 ### [size_system_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.personal.md) 
 
-### [size_system_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.secret.md) 
+### [size_system_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.secret.md)
+

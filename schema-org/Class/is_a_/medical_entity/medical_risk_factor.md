@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, increasesRiskOf, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_risk_factor](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_factor.md) 
+### [medical_risk_factor](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_factor.md) 
+
+### [medical_risk_factor.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_factor.public.md) 
 
 ### [medical_risk_factor.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.internal.md) 
 
@@ -54,4 +57,5 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 ### [medical_risk_factor.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.personal.md) 
 
-### [medical_risk_factor.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_factor.secret.md) 
+### [medical_risk_factor.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_factor.secret.md)
+

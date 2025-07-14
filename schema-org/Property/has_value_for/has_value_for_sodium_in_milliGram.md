@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_sodium_in_milliGram )
 ( #has_/range :: Mass )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_sodium_in_milliGram](/_public/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.md) 
+### [has_value_for_sodium_in_milliGram](/_Standards/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.md) 
+
+### [has_value_for_sodium_in_milliGram.public](/_public/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.public.md) 
 
 ### [has_value_for_sodium_in_milliGram.internal](/_internal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_sodium_in_milliGram.personal](/_personal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.personal.md) 
 
-### [has_value_for_sodium_in_milliGram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.secret.md) 
+### [has_value_for_sodium_in_milliGram.secret](/_secret/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.secret.md)
+

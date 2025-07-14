@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_size_group )
 ( #has_/range :: SizeGroupEnumeration, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_size_group](/_public/schema-org/Relation/has/has_size_group.md) 
+### [has_size_group](/_Standards/schema-org/Relation/has/has_size_group.md) 
+
+### [has_size_group.public](/_public/schema-org/Relation/has/has_size_group.public.md) 
 
 ### [has_size_group.internal](/_internal/schema-org/Relation/has/has_size_group.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_size_group.personal](/_personal/schema-org/Relation/has/has_size_group.personal.md) 
 
-### [has_size_group.secret](/_secret/schema-org/Relation/has/has_size_group.secret.md) 
+### [has_size_group.secret](/_secret/schema-org/Relation/has/has_size_group.secret.md)
+

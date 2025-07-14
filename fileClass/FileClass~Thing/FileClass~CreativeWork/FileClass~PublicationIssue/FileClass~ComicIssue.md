@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -107,10 +107,11 @@ Variant Cover" or "2nd Printing Variant".
 VariantCover:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicIssue](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.md) 
+### [FileClass~ComicIssue](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.md) 
+
+### [FileClass~ComicIssue.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.public.md) 
 
 ### [FileClass~ComicIssue.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.internal.md) 
 
@@ -120,4 +121,5 @@ VariantCover:: {"type":"Input","options":{}}
 
 ### [FileClass~ComicIssue.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.personal.md) 
 
-### [FileClass~ComicIssue.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.secret.md) 
+### [FileClass~ComicIssue.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue/FileClass~ComicIssue.secret.md)
+

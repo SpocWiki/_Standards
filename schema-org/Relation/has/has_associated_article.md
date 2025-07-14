@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_associated_article )
 ( #has_/range :: NewsArticle )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_associated_article](/_public/schema-org/Relation/has/has_associated_article.md) 
+### [has_associated_article](/_Standards/schema-org/Relation/has/has_associated_article.md) 
+
+### [has_associated_article.public](/_public/schema-org/Relation/has/has_associated_article.public.md) 
 
 ### [has_associated_article.internal](/_internal/schema-org/Relation/has/has_associated_article.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_associated_article.personal](/_personal/schema-org/Relation/has/has_associated_article.personal.md) 
 
-### [has_associated_article.secret](/_secret/schema-org/Relation/has/has_associated_article.secret.md) 
+### [has_associated_article.secret](/_secret/schema-org/Relation/has/has_associated_article.secret.md)
+

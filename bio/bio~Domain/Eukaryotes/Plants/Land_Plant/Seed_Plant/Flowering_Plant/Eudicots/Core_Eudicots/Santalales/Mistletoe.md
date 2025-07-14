@@ -31,3 +31,21 @@ aliases:
 > Over the centuries, the term mistletoe has been broadened to include many other species of parasitic plants with similar habits, found in other parts of the world, that are classified in different genera and families such as the Misodendraceae of South America and the mainly southern hemisphere tropical Loranthaceae.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mistletoe)
+
+
+## Confidential Links & Embeds: 
+
+### [Mistletoe](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.md) 
+
+### [Mistletoe.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.public.md) 
+
+### [Mistletoe.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.internal.md) 
+
+### [Mistletoe.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.protect.md) 
+
+### [Mistletoe.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.private.md) 
+
+### [Mistletoe.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.personal.md) 
+
+### [Mistletoe.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Santalales/Mistletoe.secret.md)
+

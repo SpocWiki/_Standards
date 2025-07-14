@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProfessionalService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.md) 
+### [FileClass~ProfessionalService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.md) 
+
+### [FileClass~ProfessionalService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.public.md) 
 
 ### [FileClass~ProfessionalService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.internal.md) 
 
@@ -50,4 +51,5 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ### [FileClass~ProfessionalService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.personal.md) 
 
-### [FileClass~ProfessionalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret.md) 
+### [FileClass~ProfessionalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret.md)
+

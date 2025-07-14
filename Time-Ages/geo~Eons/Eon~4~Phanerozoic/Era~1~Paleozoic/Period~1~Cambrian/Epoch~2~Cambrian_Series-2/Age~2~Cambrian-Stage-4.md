@@ -62,10 +62,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Cambrian-Stage-4](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.md) 
+### [Age~2~Cambrian-Stage-4](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.md) 
+
+### [Age~2~Cambrian-Stage-4.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.public.md) 
 
 ### [Age~2~Cambrian-Stage-4.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.internal.md) 
 
@@ -75,4 +76,5 @@ noteOnly: true
 
 ### [Age~2~Cambrian-Stage-4.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.personal.md) 
 
-### [Age~2~Cambrian-Stage-4.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.secret.md) 
+### [Age~2~Cambrian-Stage-4.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.secret.md)
+

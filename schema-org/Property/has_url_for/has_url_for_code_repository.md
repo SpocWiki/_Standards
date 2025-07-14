@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_code_repository )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_code_repository](/_public/schema-org/Property/has_url_for/has_url_for_code_repository.md) 
+### [has_url_for_code_repository](/_Standards/schema-org/Property/has_url_for/has_url_for_code_repository.md) 
+
+### [has_url_for_code_repository.public](/_public/schema-org/Property/has_url_for/has_url_for_code_repository.public.md) 
 
 ### [has_url_for_code_repository.internal](/_internal/schema-org/Property/has_url_for/has_url_for_code_repository.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_url_for_code_repository.personal](/_personal/schema-org/Property/has_url_for/has_url_for_code_repository.personal.md) 
 
-### [has_url_for_code_repository.secret](/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret.md) 
+### [has_url_for_code_repository.secret](/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret.md)
+

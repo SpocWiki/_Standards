@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Musculoskeletal system clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [musculoskeletal_exam](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md) 
+### [musculoskeletal_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md) 
+
+### [musculoskeletal_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.public.md) 
 
 ### [musculoskeletal_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal.md) 
 
@@ -56,4 +59,5 @@ Musculoskeletal system clinical examination.
 
 ### [musculoskeletal_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.personal.md) 
 
-### [musculoskeletal_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret.md) 
+### [musculoskeletal_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret.md)
+

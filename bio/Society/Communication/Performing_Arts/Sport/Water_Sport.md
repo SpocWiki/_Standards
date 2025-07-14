@@ -35,3 +35,22 @@ Regensburg_Classification: "ZY 6000 - ZY 6849"
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20water%20sports) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Water_Sport](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.md) 
+
+### [Water_Sport.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.public.md) 
+
+### [Water_Sport.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.internal.md) 
+
+### [Water_Sport.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.protect.md) 
+
+### [Water_Sport.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.private.md) 
+
+### [Water_Sport.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.personal.md) 
+
+### [Water_Sport.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Water_Sport.secret.md)
+

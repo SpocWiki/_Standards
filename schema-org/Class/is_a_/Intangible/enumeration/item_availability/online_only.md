@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is available only online.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [online_only](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.md) 
+### [online_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.md) 
+
+### [online_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.public.md) 
 
 ### [online_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is available only online.
 
 ### [online_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.personal.md) 
 
-### [online_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.secret.md) 
+### [online_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/online_only.secret.md)
+

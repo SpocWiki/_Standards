@@ -79,11 +79,11 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Schengen%20Area)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Schengen-Area](/_public/Earth/Continent/Europe/Schengen-Area.md) 
+### [Schengen-Area](/_Standards/Earth/Continent/Europe/Schengen-Area.md) 
+
+### [Schengen-Area.public](/_public/Earth/Continent/Europe/Schengen-Area.public.md) 
 
 ### [Schengen-Area.internal](/_internal/Earth/Continent/Europe/Schengen-Area.internal.md) 
 
@@ -93,4 +93,5 @@ aliases:
 
 ### [Schengen-Area.personal](/_personal/Earth/Continent/Europe/Schengen-Area.personal.md) 
 
-### [Schengen-Area.secret](/_secret/Earth/Continent/Europe/Schengen-Area.secret.md) 
+### [Schengen-Area.secret](/_secret/Earth/Continent/Europe/Schengen-Area.secret.md)
+

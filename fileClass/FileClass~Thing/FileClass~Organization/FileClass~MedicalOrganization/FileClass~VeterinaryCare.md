@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A vet's office.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VeterinaryCare](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.md) 
+### [FileClass~VeterinaryCare](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.md) 
+
+### [FileClass~VeterinaryCare.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.public.md) 
 
 ### [FileClass~VeterinaryCare.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.internal.md) 
 
@@ -46,4 +47,5 @@ A vet's office.
 
 ### [FileClass~VeterinaryCare.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.personal.md) 
 
-### [FileClass~VeterinaryCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.secret.md) 
+### [FileClass~VeterinaryCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.secret.md)
+

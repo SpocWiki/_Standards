@@ -69,3 +69,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Galen)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Galen](/_Standards/bio/People/Scientist/Ancient_Scientists/Galen.md) 
+
+### [Galen.public](/_public/bio/People/Scientist/Ancient_Scientists/Galen.public.md) 
+
+### [Galen.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Galen.internal.md) 
+
+### [Galen.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Galen.protect.md) 
+
+### [Galen.private](/_private/bio/People/Scientist/Ancient_Scientists/Galen.private.md) 
+
+### [Galen.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Galen.personal.md) 
+
+### [Galen.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Galen.secret.md)
+

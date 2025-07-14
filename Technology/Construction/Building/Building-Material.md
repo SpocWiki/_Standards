@@ -18,3 +18,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Building-Material](/_Standards/Technology/Construction/Building/Building-Material.md) 
+
+### [Building-Material.public](/_public/Technology/Construction/Building/Building-Material.public.md) 
+
+### [Building-Material.internal](/_internal/Technology/Construction/Building/Building-Material.internal.md) 
+
+### [Building-Material.protect](/_protect/Technology/Construction/Building/Building-Material.protect.md) 
+
+### [Building-Material.private](/_private/Technology/Construction/Building/Building-Material.private.md) 
+
+### [Building-Material.personal](/_personal/Technology/Construction/Building/Building-Material.personal.md) 
+
+### [Building-Material.secret](/_secret/Technology/Construction/Building/Building-Material.secret.md)
+

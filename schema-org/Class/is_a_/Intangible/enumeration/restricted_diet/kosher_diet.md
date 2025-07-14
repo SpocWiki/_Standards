@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet conforming to Jewish dietary practices.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [kosher_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.md) 
+### [kosher_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.md) 
+
+### [kosher_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.public.md) 
 
 ### [kosher_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet conforming to Jewish dietary practices.
 
 ### [kosher_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.personal.md) 
 
-### [kosher_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.secret.md) 
+### [kosher_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/kosher_diet.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A single item within a larger data feed.
 
 [ #has_/properties :: [ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [data_feed_item](/_public/schema-org/Class/is_a_/Intangible/data_feed_item.md) 
+### [data_feed_item](/_Standards/schema-org/Class/is_a_/Intangible/data_feed_item.md) 
+
+### [data_feed_item.public](/_public/schema-org/Class/is_a_/Intangible/data_feed_item.public.md) 
 
 ### [data_feed_item.internal](/_internal/schema-org/Class/is_a_/Intangible/data_feed_item.internal.md) 
 
@@ -54,4 +57,5 @@ A single item within a larger data feed.
 
 ### [data_feed_item.personal](/_personal/schema-org/Class/is_a_/Intangible/data_feed_item.personal.md) 
 
-### [data_feed_item.secret](/_secret/schema-org/Class/is_a_/Intangible/data_feed_item.secret.md) 
+### [data_feed_item.secret](/_secret/schema-org/Class/is_a_/Intangible/data_feed_item.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Design models for medical trials. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_trial_design](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.md) 
+### [medical_trial_design](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.md) 
+
+### [medical_trial_design.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.public.md) 
 
 ### [medical_trial_design.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.internal.md) 
 
@@ -52,4 +55,5 @@ Design models for medical trials. Enumerated type.
 
 ### [medical_trial_design.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.personal.md) 
 
-### [medical_trial_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.secret.md) 
+### [medical_trial_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design.secret.md)
+

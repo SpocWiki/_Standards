@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of participant. The winner of the action.
 Winner:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LoseAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.md) 
+### [FileClass~LoseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.md) 
+
+### [FileClass~LoseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.public.md) 
 
 ### [FileClass~LoseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.internal.md) 
 
@@ -57,4 +58,5 @@ Winner:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~LoseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.personal.md) 
 
-### [FileClass~LoseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.secret.md) 
+### [FileClass~LoseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~LoseAction.secret.md)
+

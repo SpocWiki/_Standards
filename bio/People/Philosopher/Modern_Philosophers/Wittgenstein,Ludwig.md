@@ -169,3 +169,22 @@ Commons_category: "Ludwig Wittgenstein"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wittgenstein,Ludwig](/_Standards/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.md) 
+
+### [Wittgenstein,Ludwig.public](/_public/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.public.md) 
+
+### [Wittgenstein,Ludwig.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.internal.md) 
+
+### [Wittgenstein,Ludwig.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.protect.md) 
+
+### [Wittgenstein,Ludwig.private](/_private/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.private.md) 
+
+### [Wittgenstein,Ludwig.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.personal.md) 
+
+### [Wittgenstein,Ludwig.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.secret.md)
+

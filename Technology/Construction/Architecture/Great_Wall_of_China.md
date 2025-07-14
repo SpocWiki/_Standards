@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Great Wall of China"
 has_id_wikidata: Q12501
@@ -81,4 +81,23 @@ length: 21195
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Wall%20of%20China) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Great_Wall_of_China](/_Standards/Technology/Construction/Architecture/Great_Wall_of_China.md) 
+
+### [Great_Wall_of_China.public](/_public/Technology/Construction/Architecture/Great_Wall_of_China.public.md) 
+
+### [Great_Wall_of_China.internal](/_internal/Technology/Construction/Architecture/Great_Wall_of_China.internal.md) 
+
+### [Great_Wall_of_China.protect](/_protect/Technology/Construction/Architecture/Great_Wall_of_China.protect.md) 
+
+### [Great_Wall_of_China.private](/_private/Technology/Construction/Architecture/Great_Wall_of_China.private.md) 
+
+### [Great_Wall_of_China.personal](/_personal/Technology/Construction/Architecture/Great_Wall_of_China.personal.md) 
+
+### [Great_Wall_of_China.secret](/_secret/Technology/Construction/Architecture/Great_Wall_of_China.secret.md)
 

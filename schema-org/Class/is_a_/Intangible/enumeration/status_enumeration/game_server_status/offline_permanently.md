@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Game server status: OfflinePermanently. Server is offline and not available.
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offline_permanently](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.md) 
+### [offline_permanently](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.md) 
+
+### [offline_permanently.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.public.md) 
 
 ### [offline_permanently.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.internal.md) 
 
@@ -56,4 +59,5 @@ Game server status: OfflinePermanently. Server is offline and not available.
 
 ### [offline_permanently.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.personal.md) 
 
-### [offline_permanently.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.secret.md) 
+### [offline_permanently.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_permanently.secret.md)
+

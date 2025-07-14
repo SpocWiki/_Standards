@@ -65,3 +65,22 @@ exact_match: "http://cv.iptc.org/newscodes/subjectcode/01006000"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dance) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dance](/_Standards/bio/Society/Communication/Performing_Arts/Dance.md) 
+
+### [Dance.public](/_public/bio/Society/Communication/Performing_Arts/Dance.public.md) 
+
+### [Dance.internal](/_internal/bio/Society/Communication/Performing_Arts/Dance.internal.md) 
+
+### [Dance.protect](/_protect/bio/Society/Communication/Performing_Arts/Dance.protect.md) 
+
+### [Dance.private](/_private/bio/Society/Communication/Performing_Arts/Dance.private.md) 
+
+### [Dance.personal](/_personal/bio/Society/Communication/Performing_Arts/Dance.personal.md) 
+
+### [Dance.secret](/_secret/bio/Society/Communication/Performing_Arts/Dance.secret.md)
+

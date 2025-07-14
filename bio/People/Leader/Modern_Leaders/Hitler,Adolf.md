@@ -116,3 +116,21 @@ Commons_category: "Herbert Hoover"
 > The historian and biographer Ian Kershaw described Hitler as "the embodiment of modern political evil". Under Hitler's leadership and racist ideology, the Nazi regime was responsible for the genocide of an estimated six million Jews and millions of other victims, whom he and his followers deemed Untermenschen (lit. 'subhumans') or socially undesirable. Hitler and the Nazi regime were also responsible for the deliberate killing of an estimated 19.3 million civilians and prisoners of war. In addition, 28.7 million soldiers and civilians died as a result of military action in the European theatre. The number of civilians killed during World War II was unprecedented in warfare, and the casualties constitute the deadliest conflict in history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Adolf%20Hitler)
+
+
+## Confidential Links & Embeds: 
+
+### [Hitler,Adolf](/_Standards/bio/People/Leader/Modern_Leaders/Hitler,Adolf.md) 
+
+### [Hitler,Adolf.public](/_public/bio/People/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
+
+### [Hitler,Adolf.internal](/_internal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
+
+### [Hitler,Adolf.protect](/_protect/bio/People/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
+
+### [Hitler,Adolf.private](/_private/bio/People/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
+
+### [Hitler,Adolf.personal](/_personal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
+
+### [Hitler,Adolf.secret](/_secret/bio/People/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
+

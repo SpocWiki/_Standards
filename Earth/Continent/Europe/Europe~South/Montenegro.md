@@ -476,9 +476,12 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Montenegro) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Montenegro](/_public/Earth/Continent/Europe/Europe~South/Montenegro.md) 
+### [Montenegro](/_Standards/Earth/Continent/Europe/Europe~South/Montenegro.md) 
+
+### [Montenegro.public](/_public/Earth/Continent/Europe/Europe~South/Montenegro.public.md) 
 
 ### [Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal.md) 
 
@@ -488,4 +491,5 @@ Capital :: [[./Montenegro/Counties/Podgorica]]
 
 ### [Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal.md) 
 
-### [Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret.md) 
+### [Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret.md)
+

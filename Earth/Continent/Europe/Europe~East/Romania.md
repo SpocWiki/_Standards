@@ -548,9 +548,12 @@ Capital :: [[Bukarest]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Romania)
 
+
 ## Confidential Links & Embeds: 
 
-### [Romania](/_public/Earth/Continent/Europe/Europe~East/Romania.md) 
+### [Romania](/_Standards/Earth/Continent/Europe/Europe~East/Romania.md) 
+
+### [Romania.public](/_public/Earth/Continent/Europe/Europe~East/Romania.public.md) 
 
 ### [Romania.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania.internal.md) 
 
@@ -560,4 +563,5 @@ Capital :: [[Bukarest]]
 
 ### [Romania.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania.personal.md) 
 
-### [Romania.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania.secret.md) 
+### [Romania.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania.secret.md)
+

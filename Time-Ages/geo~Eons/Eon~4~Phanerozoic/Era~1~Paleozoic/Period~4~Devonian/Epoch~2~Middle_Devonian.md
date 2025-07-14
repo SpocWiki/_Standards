@@ -62,10 +62,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Middle_Devonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.md) 
+### [Epoch~2~Middle_Devonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.md) 
+
+### [Epoch~2~Middle_Devonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.public.md) 
 
 ### [Epoch~2~Middle_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.internal.md) 
 
@@ -75,4 +76,5 @@ noteOnly: true
 
 ### [Epoch~2~Middle_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.personal.md) 
 
-### [Epoch~2~Middle_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.secret.md) 
+### [Epoch~2~Middle_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.secret.md)
+

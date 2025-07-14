@@ -468,3 +468,21 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
   Specimen Condition   Live Specimen
   Copyright ::            © [Juan Santos](http://www.nrm.se/researchandcollections/botany/cryptogamicbotany/staff/juansantos.4.5fdc727f10d795b1c6e80005951.html)
   -----------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Agaricales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.md) 
+
+### [Agaricales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.public.md) 
+
+### [Agaricales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.internal.md) 
+
+### [Agaricales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.protect.md) 
+
+### [Agaricales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.private.md) 
+
+### [Agaricales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.personal.md) 
+
+### [Agaricales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales.secret.md)
+

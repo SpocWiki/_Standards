@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Tag Instances like this:
 
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [data_type](/_public/schema-org/Class/is_a_/data_type.md) 
+### [data_type](/_Standards/schema-org/Class/is_a_/data_type.md) 
+
+### [data_type.public](/_public/schema-org/Class/is_a_/data_type.public.md) 
 
 ### [data_type.internal](/_internal/schema-org/Class/is_a_/data_type.internal.md) 
 
@@ -54,4 +57,5 @@ Tag Instances like this:
 
 ### [data_type.personal](/_personal/schema-org/Class/is_a_/data_type.personal.md) 
 
-### [data_type.secret](/_secret/schema-org/Class/is_a_/data_type.secret.md) 
+### [data_type.secret](/_secret/schema-org/Class/is_a_/data_type.secret.md)
+

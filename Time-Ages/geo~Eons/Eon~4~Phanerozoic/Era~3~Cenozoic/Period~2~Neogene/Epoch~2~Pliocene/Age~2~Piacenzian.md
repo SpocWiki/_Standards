@@ -63,10 +63,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Piacenzian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.md) 
+### [Age~2~Piacenzian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.md) 
+
+### [Age~2~Piacenzian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.public.md) 
 
 ### [Age~2~Piacenzian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.internal.md) 
 
@@ -76,4 +77,5 @@ noteOnly: true
 
 ### [Age~2~Piacenzian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.personal.md) 
 
-### [Age~2~Piacenzian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.secret.md) 
+### [Age~2~Piacenzian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.secret.md)
+

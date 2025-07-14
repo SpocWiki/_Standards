@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -471,7 +471,9 @@ Wheelbase:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Vehicle](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.md) 
+### [FileClass~Vehicle](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.md) 
+
+### [FileClass~Vehicle.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.public.md) 
 
 ### [FileClass~Vehicle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.internal.md) 
 
@@ -481,4 +483,5 @@ Wheelbase:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ### [FileClass~Vehicle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.personal.md) 
 
-### [FileClass~Vehicle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.secret.md) 
+### [FileClass~Vehicle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.secret.md)
+

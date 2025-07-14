@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: providesBroadcastService ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_channel](/_public/schema-org/Relation/has/has_broadcast_channel.md) 
+### [has_broadcast_channel](/_Standards/schema-org/Relation/has/has_broadcast_channel.md) 
+
+### [has_broadcast_channel.public](/_public/schema-org/Relation/has/has_broadcast_channel.public.md) 
 
 ### [has_broadcast_channel.internal](/_internal/schema-org/Relation/has/has_broadcast_channel.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_broadcast_channel.personal](/_personal/schema-org/Relation/has/has_broadcast_channel.personal.md) 
 
-### [has_broadcast_channel.secret](/_secret/schema-org/Relation/has/has_broadcast_channel.secret.md) 
+### [has_broadcast_channel.secret](/_secret/schema-org/Relation/has/has_broadcast_channel.secret.md)
+

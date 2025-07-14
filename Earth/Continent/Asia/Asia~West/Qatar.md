@@ -419,9 +419,12 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qatar)
 
+
 ## Confidential Links & Embeds: 
 
-### [Qatar](/_public/Earth/Continent/Asia/Asia~West/Qatar.md) 
+### [Qatar](/_Standards/Earth/Continent/Asia/Asia~West/Qatar.md) 
+
+### [Qatar.public](/_public/Earth/Continent/Asia/Asia~West/Qatar.public.md) 
 
 ### [Qatar.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal.md) 
 
@@ -431,4 +434,5 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 
 ### [Qatar.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal.md) 
 
-### [Qatar.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret.md) 
+### [Qatar.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret.md)
+

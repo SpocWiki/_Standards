@@ -136,11 +136,11 @@ CAS_Registry_Number: 7440-46-2
 > [Wikipedia](https://en.wikipedia.org/wiki/Caesium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Caesium](/_public/chemic/chemic~Elements/Group-01-Alkali/Caesium.md) 
+### [Caesium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Caesium.md) 
+
+### [Caesium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Caesium.public.md) 
 
 ### [Caesium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Caesium.internal.md) 
 
@@ -150,4 +150,5 @@ CAS_Registry_Number: 7440-46-2
 
 ### [Caesium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Caesium.personal.md) 
 
-### [Caesium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Caesium.secret.md) 
+### [Caesium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Caesium.secret.md)
+

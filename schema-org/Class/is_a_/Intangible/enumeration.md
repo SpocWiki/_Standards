@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration.md) 
+### [enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration.md) 
+
+### [enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration.public.md) 
 
 ### [enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 ### [enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration.personal.md) 
 
-### [enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration.secret.md) 
+### [enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration.secret.md)
+

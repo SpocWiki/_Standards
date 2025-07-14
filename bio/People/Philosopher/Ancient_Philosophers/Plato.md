@@ -245,3 +245,22 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Plato](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Plato.md) 
+
+### [Plato.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Plato.public.md) 
+
+### [Plato.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Plato.internal.md) 
+
+### [Plato.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Plato.protect.md) 
+
+### [Plato.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Plato.private.md) 
+
+### [Plato.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Plato.personal.md) 
+
+### [Plato.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Plato.secret.md)
+

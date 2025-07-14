@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21957
 has_id_wikidata: Q1809
@@ -92,11 +92,11 @@ time_of_discovery_or_invention: "1945"
 > [Wikipedia](https://en.wikipedia.org/wiki/Promethium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Promethium](/_public/chemic/chemic~Elements/Lanthanide-Group/Promethium.md) 
+### [Promethium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Promethium.md) 
+
+### [Promethium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Promethium.public.md) 
 
 ### [Promethium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Promethium.internal.md) 
 
@@ -106,4 +106,5 @@ time_of_discovery_or_invention: "1945"
 
 ### [Promethium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Promethium.personal.md) 
 
-### [Promethium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Promethium.secret.md) 
+### [Promethium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Promethium.secret.md)
+

@@ -233,3 +233,22 @@ Sex ::                Female
 Body Part            Flowers
 Copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mbuzgo/MyPage/mbuzgo.htm)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Magnoliids](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.md) 
+
+### [Magnoliids.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.public.md) 
+
+### [Magnoliids.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.internal.md) 
+
+### [Magnoliids.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.protect.md) 
+
+### [Magnoliids.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.private.md) 
+
+### [Magnoliids.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.personal.md) 
+
+### [Magnoliids.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids.secret.md)
+

@@ -45,3 +45,22 @@ title: Remipedia
 Speleonectes ondinae (Speleonectidae).\
 Drawing by Josée Soucie. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm).
 ![Speleonectes_ondinae](Speleonectes_ondinae.gif)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Remipedia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.md) 
+
+### [Remipedia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.public.md) 
+
+### [Remipedia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.internal.md) 
+
+### [Remipedia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.protect.md) 
+
+### [Remipedia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.private.md) 
+
+### [Remipedia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.personal.md) 
+
+### [Remipedia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.secret.md)
+

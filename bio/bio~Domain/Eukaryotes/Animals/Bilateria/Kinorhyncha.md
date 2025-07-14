@@ -72,3 +72,22 @@ Drawing by Ivy Livingstone. Copyright © 1996
 Copyright ::   © 1996 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kinorhyncha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.md) 
+
+### [Kinorhyncha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.public.md) 
+
+### [Kinorhyncha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.internal.md) 
+
+### [Kinorhyncha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.protect.md) 
+
+### [Kinorhyncha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.private.md) 
+
+### [Kinorhyncha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.personal.md) 
+
+### [Kinorhyncha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Kinorhyncha.secret.md)
+

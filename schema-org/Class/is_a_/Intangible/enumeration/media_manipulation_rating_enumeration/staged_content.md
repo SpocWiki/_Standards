@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Audio that has been created using actors or similarly contrived.
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [staged_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
+### [staged_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
+
+### [staged_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.public.md) 
 
 ### [staged_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md) 
 
@@ -67,4 +70,5 @@ Audio that has been created using actors or similarly contrived.
 
 ### [staged_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md) 
 
-### [staged_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md) 
+### [staged_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md)
+

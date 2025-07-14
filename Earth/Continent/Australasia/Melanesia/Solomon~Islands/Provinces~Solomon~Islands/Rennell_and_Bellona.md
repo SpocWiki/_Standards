@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -11.65 , 160.33 ] 
 type: geo-Region
 title: Rennell_and_Bellona
@@ -41,7 +41,9 @@ markerFolder: ./Rennell_and_Bellona/
 
 ## Confidential Links & Embeds: 
 
-### [Rennell_and_Bellona](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.md) 
+### [Rennell_and_Bellona](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.md) 
+
+### [Rennell_and_Bellona.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.public.md) 
 
 ### [Rennell_and_Bellona.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Rennell_and_Bellona/
 
 ### [Rennell_and_Bellona.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.personal.md) 
 
-### [Rennell_and_Bellona.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.secret.md) 
+### [Rennell_and_Bellona.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.secret.md)
+

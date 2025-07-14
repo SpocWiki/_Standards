@@ -211,9 +211,12 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-ja](/_public/Language/Lang~Family/LangFamily-Japonic/Lang-ja.md) 
+### [Lang-ja](/_Standards/Language/Lang~Family/LangFamily-Japonic/Lang-ja.md) 
+
+### [Lang-ja.public](/_public/Language/Lang~Family/LangFamily-Japonic/Lang-ja.public.md) 
 
 ### [Lang-ja.internal](/_internal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.internal.md) 
 
@@ -223,4 +226,5 @@ short_name:
 
 ### [Lang-ja.personal](/_personal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.personal.md) 
 
-### [Lang-ja.secret](/_secret/Language/Lang~Family/LangFamily-Japonic/Lang-ja.secret.md) 
+### [Lang-ja.secret](/_secret/Language/Lang~Family/LangFamily-Japonic/Lang-ja.secret.md)
+

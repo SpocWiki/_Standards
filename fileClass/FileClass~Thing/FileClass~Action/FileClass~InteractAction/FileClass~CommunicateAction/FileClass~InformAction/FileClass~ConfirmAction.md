@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ Related actions:
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConfirmAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.md) 
+### [FileClass~ConfirmAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.md) 
+
+### [FileClass~ConfirmAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.public.md) 
 
 ### [FileClass~ConfirmAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.internal.md) 
 
@@ -50,4 +51,5 @@ Related actions:
 
 ### [FileClass~ConfirmAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.personal.md) 
 
-### [FileClass~ConfirmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.secret.md) 
+### [FileClass~ConfirmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.secret.md)
+

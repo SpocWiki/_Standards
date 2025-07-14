@@ -47,3 +47,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Cameron) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cameron,James](/_Standards/bio/People/Movie-Directors/Cameron,James.md) 
+
+### [Cameron,James.public](/_public/bio/People/Movie-Directors/Cameron,James.public.md) 
+
+### [Cameron,James.internal](/_internal/bio/People/Movie-Directors/Cameron,James.internal.md) 
+
+### [Cameron,James.protect](/_protect/bio/People/Movie-Directors/Cameron,James.protect.md) 
+
+### [Cameron,James.private](/_private/bio/People/Movie-Directors/Cameron,James.private.md) 
+
+### [Cameron,James.personal](/_personal/bio/People/Movie-Directors/Cameron,James.personal.md) 
+
+### [Cameron,James.secret](/_secret/bio/People/Movie-Directors/Cameron,James.secret.md)
+

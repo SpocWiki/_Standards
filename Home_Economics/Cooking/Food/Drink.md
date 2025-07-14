@@ -21,3 +21,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Drink) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Drink](/_Standards/Home_Economics/Cooking/Food/Drink.md) 
+
+### [Drink.public](/_public/Home_Economics/Cooking/Food/Drink.public.md) 
+
+### [Drink.internal](/_internal/Home_Economics/Cooking/Food/Drink.internal.md) 
+
+### [Drink.protect](/_protect/Home_Economics/Cooking/Food/Drink.protect.md) 
+
+### [Drink.private](/_private/Home_Economics/Cooking/Food/Drink.private.md) 
+
+### [Drink.personal](/_personal/Home_Economics/Cooking/Food/Drink.personal.md) 
+
+### [Drink.secret](/_secret/Home_Economics/Cooking/Food/Drink.secret.md)
+

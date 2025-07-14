@@ -751,7 +751,9 @@ Capital :: [[Helsingfors]]
 
 ## Confidential Links & Embeds: 
 
-### [Finland](/_public/Earth/Continent/Europe/Europe~North/Finland.md) 
+### [Finland](/_Standards/Earth/Continent/Europe/Europe~North/Finland.md) 
+
+### [Finland.public](/_public/Earth/Continent/Europe/Europe~North/Finland.public.md) 
 
 ### [Finland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland.internal.md) 
 
@@ -761,4 +763,5 @@ Capital :: [[Helsingfors]]
 
 ### [Finland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland.personal.md) 
 
-### [Finland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland.secret.md) 
+### [Finland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland.secret.md)
+

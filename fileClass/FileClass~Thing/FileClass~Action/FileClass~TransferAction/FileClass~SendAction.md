@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -52,10 +52,11 @@ A sub property of participant. The participant who is at the receiving end of th
 Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SendAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.md) 
+### [FileClass~SendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.md) 
+
+### [FileClass~SendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.public.md) 
 
 ### [FileClass~SendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.internal.md) 
 
@@ -65,4 +66,5 @@ Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ### [FileClass~SendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.personal.md) 
 
-### [FileClass~SendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.secret.md) 
+### [FileClass~SendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~SendAction.secret.md)
+

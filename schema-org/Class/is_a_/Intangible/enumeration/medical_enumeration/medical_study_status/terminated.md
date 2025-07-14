@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Terminated.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [terminated](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.md) 
+### [terminated](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.md) 
+
+### [terminated.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.public.md) 
 
 ### [terminated.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.internal.md) 
 
@@ -56,4 +59,5 @@ Terminated.
 
 ### [terminated.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.personal.md) 
 
-### [terminated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.secret.md) 
+### [terminated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/terminated.secret.md)
+

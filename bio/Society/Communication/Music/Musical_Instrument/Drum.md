@@ -43,3 +43,22 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/BARABAN.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Drum) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Drum](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Drum.md) 
+
+### [Drum.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Drum.public.md) 
+
+### [Drum.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Drum.internal.md) 
+
+### [Drum.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Drum.protect.md) 
+
+### [Drum.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Drum.private.md) 
+
+### [Drum.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Drum.personal.md) 
+
+### [Drum.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Drum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12167
 health_specialty:
 - '[[_Standards/WikiData/WD~endocrinology,162606]]'
@@ -38,4 +38,23 @@ Commons_category: Malnutrition
 > Most clinical studies use the term 'malnutrition' to refer to undernutrition. However, the use of 'malnutrition' instead of 'undernutrition' makes it impossible to distinguish between undernutrition and overnutrition, a less acknowledged form of malnutrition. Accordingly, a 2019 report by The Lancet Commission suggested expanding the definition of malnutrition to include "all its forms, including obesity, undernutrition, and other dietary risks." The World Health Organization and The Lancet Commission have also identified "[t]he double burden of malnutrition", which occurs from "the coexistence of overnutrition (overweight and obesity) alongside undernutrition (stunted growth and wasting)."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malnutrition)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Malnutrition](/_Standards/bio/Metabolism/Nutrition/Malnutrition.md) 
+
+### [Malnutrition.public](/_public/bio/Metabolism/Nutrition/Malnutrition.public.md) 
+
+### [Malnutrition.internal](/_internal/bio/Metabolism/Nutrition/Malnutrition.internal.md) 
+
+### [Malnutrition.protect](/_protect/bio/Metabolism/Nutrition/Malnutrition.protect.md) 
+
+### [Malnutrition.private](/_private/bio/Metabolism/Nutrition/Malnutrition.private.md) 
+
+### [Malnutrition.personal](/_personal/bio/Metabolism/Nutrition/Malnutrition.personal.md) 
+
+### [Malnutrition.secret](/_secret/bio/Metabolism/Nutrition/Malnutrition.secret.md)
 

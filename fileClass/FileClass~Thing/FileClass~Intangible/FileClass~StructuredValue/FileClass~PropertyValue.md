@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -127,10 +127,11 @@ A secondary value that provides additional information on the original value, e.
 ValueReference:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PropertyValue](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.md) 
+### [FileClass~PropertyValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.md) 
+
+### [FileClass~PropertyValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.public.md) 
 
 ### [FileClass~PropertyValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.internal.md) 
 
@@ -140,4 +141,5 @@ ValueReference:: {"type":"Input","options":{}}
 
 ### [FileClass~PropertyValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.personal.md) 
 
-### [FileClass~PropertyValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.secret.md) 
+### [FileClass~PropertyValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue.secret.md)
+

@@ -460,10 +460,11 @@ Capital :: [[Bujumbura]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Burundi) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Burundi](/_public/Earth/Continent/Africa/Africa~Central/Burundi.md) 
+### [Burundi](/_Standards/Earth/Continent/Africa/Africa~Central/Burundi.md) 
+
+### [Burundi.public](/_public/Earth/Continent/Africa/Africa~Central/Burundi.public.md) 
 
 ### [Burundi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi.internal.md) 
 
@@ -473,4 +474,5 @@ Capital :: [[Bujumbura]]
 
 ### [Burundi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal.md) 
 
-### [Burundi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret.md) 
+### [Burundi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Chinese size system for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_size_system_cn](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.md) 
+### [wearable_size_system_cn](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.md) 
+
+### [wearable_size_system_cn.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.public.md) 
 
 ### [wearable_size_system_cn.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.internal.md) 
 
@@ -58,4 +61,5 @@ Chinese size system for wearables.
 
 ### [wearable_size_system_cn.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.personal.md) 
 
-### [wearable_size_system_cn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.secret.md) 
+### [wearable_size_system_cn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.secret.md)
+

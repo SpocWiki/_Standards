@@ -78,3 +78,22 @@ montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Monta
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Woman)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Woman](/_Standards/bio/Society/Family/Woman.md) 
+
+### [Woman.public](/_public/bio/Society/Family/Woman.public.md) 
+
+### [Woman.internal](/_internal/bio/Society/Family/Woman.internal.md) 
+
+### [Woman.protect](/_protect/bio/Society/Family/Woman.protect.md) 
+
+### [Woman.private](/_private/bio/Society/Family/Woman.private.md) 
+
+### [Woman.personal](/_personal/bio/Society/Family/Woman.personal.md) 
+
+### [Woman.secret](/_secret/bio/Society/Family/Woman.secret.md)
+

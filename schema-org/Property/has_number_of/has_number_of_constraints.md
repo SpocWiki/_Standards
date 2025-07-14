@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_constraints )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_constraints](/_public/schema-org/Property/has_number_of/has_number_of_constraints.md) 
+### [has_number_of_constraints](/_Standards/schema-org/Property/has_number_of/has_number_of_constraints.md) 
+
+### [has_number_of_constraints.public](/_public/schema-org/Property/has_number_of/has_number_of_constraints.public.md) 
 
 ### [has_number_of_constraints.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_constraints.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal.md) 
 
-### [has_number_of_constraints.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret.md) 
+### [has_number_of_constraints.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret.md)
+

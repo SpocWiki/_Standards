@@ -137,7 +137,9 @@ independent	 :: Part of FI ]
 
 ## Confidential Links & Embeds: 
 
-### [Åland-Islands](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands.md) 
+### [Åland-Islands](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands.md) 
+
+### [Åland-Islands.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands.public.md) 
 
 ### [Åland-Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands.internal.md) 
 
@@ -147,4 +149,5 @@ independent	 :: Part of FI ]
 
 ### [Åland-Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands.personal.md) 
 
-### [Åland-Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands.secret.md) 
+### [Åland-Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands.secret.md)
+

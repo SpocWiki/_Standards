@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_imaging_technique](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.md) 
+### [medical_imaging_technique](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.md) 
+
+### [medical_imaging_technique.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.public.md) 
 
 ### [medical_imaging_technique.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md) 
 
@@ -52,4 +55,5 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 ### [medical_imaging_technique.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.personal.md) 
 
-### [medical_imaging_technique.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md) 
+### [medical_imaging_technique.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_version )
 ( #has_/range :: Number, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_version](/_public/schema-org/Property/has_value_for/has_value_for_version.md) 
+### [has_value_for_version](/_Standards/schema-org/Property/has_value_for/has_value_for_version.md) 
+
+### [has_value_for_version.public](/_public/schema-org/Property/has_value_for/has_value_for_version.public.md) 
 
 ### [has_value_for_version.internal](/_internal/schema-org/Property/has_value_for/has_value_for_version.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_version.personal](/_personal/schema-org/Property/has_value_for/has_value_for_version.personal.md) 
 
-### [has_value_for_version.secret](/_secret/schema-org/Property/has_value_for/has_value_for_version.secret.md) 
+### [has_value_for_version.secret](/_secret/schema-org/Property/has_value_for/has_value_for_version.secret.md)
+

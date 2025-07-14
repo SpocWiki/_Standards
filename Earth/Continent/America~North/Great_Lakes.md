@@ -47,3 +47,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Lakes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Great_Lakes](/_Standards/Earth/Continent/America~North/Great_Lakes.md) 
+
+### [Great_Lakes.public](/_public/Earth/Continent/America~North/Great_Lakes.public.md) 
+
+### [Great_Lakes.internal](/_internal/Earth/Continent/America~North/Great_Lakes.internal.md) 
+
+### [Great_Lakes.protect](/_protect/Earth/Continent/America~North/Great_Lakes.protect.md) 
+
+### [Great_Lakes.private](/_private/Earth/Continent/America~North/Great_Lakes.private.md) 
+
+### [Great_Lakes.personal](/_personal/Earth/Continent/America~North/Great_Lakes.personal.md) 
+
+### [Great_Lakes.secret](/_secret/Earth/Continent/America~North/Great_Lakes.secret.md)
+

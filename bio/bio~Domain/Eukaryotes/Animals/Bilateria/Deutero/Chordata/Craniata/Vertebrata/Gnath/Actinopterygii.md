@@ -128,3 +128,22 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © 2005 [Vearl Brown](http://flickr.com/people/80835774@N00/)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Actinopterygii](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.md) 
+
+### [Actinopterygii.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.public.md) 
+
+### [Actinopterygii.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.internal.md) 
+
+### [Actinopterygii.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.protect.md) 
+
+### [Actinopterygii.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.private.md) 
+
+### [Actinopterygii.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.personal.md) 
+
+### [Actinopterygii.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Actinopterygii.secret.md)
+

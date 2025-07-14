@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A tire shop.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TireShop](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.md) 
+### [FileClass~TireShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.md) 
+
+### [FileClass~TireShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.public.md) 
 
 ### [FileClass~TireShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.internal.md) 
 
@@ -46,4 +47,5 @@ A tire shop.
 
 ### [FileClass~TireShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.personal.md) 
 
-### [FileClass~TireShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.secret.md) 
+### [FileClass~TireShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~TireShop.secret.md)
+

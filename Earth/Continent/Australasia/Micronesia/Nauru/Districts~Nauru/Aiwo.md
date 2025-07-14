@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.53 , 166.91 ] 
 type: geo-Region
 title: Aiwo
@@ -41,7 +41,9 @@ markerFolder: ./Aiwo/
 
 ## Confidential Links & Embeds: 
 
-### [Aiwo](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.md) 
+### [Aiwo](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.md) 
+
+### [Aiwo.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.public.md) 
 
 ### [Aiwo.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Aiwo/
 
 ### [Aiwo.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.personal.md) 
 
-### [Aiwo.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.secret.md) 
+### [Aiwo.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.secret.md)
+

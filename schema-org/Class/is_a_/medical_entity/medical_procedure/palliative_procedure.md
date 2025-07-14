@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [palliative_procedure](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md) 
+### [palliative_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md) 
+
+### [palliative_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.public.md) 
 
 ### [palliative_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.internal.md) 
 
@@ -54,4 +57,5 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 ### [palliative_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.personal.md) 
 
-### [palliative_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.secret.md) 
+### [palliative_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.secret.md)
+

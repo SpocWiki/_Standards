@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Africa]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [West_Bank_and_Gaza](/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.md) 
+### [West_Bank_and_Gaza](/_Standards/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.md) 
+
+### [West_Bank_and_Gaza.public](/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.public.md) 
 
 ### [West_Bank_and_Gaza.internal](/_internal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Africa]]
 
 ### [West_Bank_and_Gaza.personal](/_personal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.personal.md) 
 
-### [West_Bank_and_Gaza.secret](/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret.md) 
+### [West_Bank_and_Gaza.secret](/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret.md)
+

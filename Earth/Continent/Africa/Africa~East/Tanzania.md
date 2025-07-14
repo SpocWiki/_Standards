@@ -590,10 +590,11 @@ Capital :: [[Dodoma]]
 [has_place_latitude::-6.17306]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Tanzania](/_public/Earth/Continent/Africa/Africa~East/Tanzania.md) 
+### [Tanzania](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania.md) 
+
+### [Tanzania.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania.public.md) 
 
 ### [Tanzania.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal.md) 
 
@@ -603,4 +604,5 @@ Capital :: [[Dodoma]]
 
 ### [Tanzania.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal.md) 
 
-### [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md) 
+### [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md)
+

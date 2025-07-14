@@ -43,9 +43,12 @@ Properties that take Distances as values are of the form '<Number> <Length unit 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [distance](/_public/schema-org/Predicate/Quantity/distance.md) 
+### [distance](/_Standards/schema-org/Predicate/Quantity/distance.md) 
+
+### [distance.public](/_public/schema-org/Predicate/Quantity/distance.public.md) 
 
 ### [distance.internal](/_internal/schema-org/Predicate/Quantity/distance.internal.md) 
 
@@ -55,4 +58,5 @@ Properties that take Distances as values are of the form '<Number> <Length unit 
 
 ### [distance.personal](/_personal/schema-org/Predicate/Quantity/distance.personal.md) 
 
-### [distance.secret](/_secret/schema-org/Predicate/Quantity/distance.secret.md) 
+### [distance.secret](/_secret/schema-org/Predicate/Quantity/distance.secret.md)
+

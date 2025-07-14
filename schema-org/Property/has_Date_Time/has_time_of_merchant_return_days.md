@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Formal Predicate:
 (name::has_time_of_merchant_return_days)
 (range::Date, DateTime, Integer)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_merchant_return_days](/_public/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.md) 
+### [has_time_of_merchant_return_days](/_Standards/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.md) 
+
+### [has_time_of_merchant_return_days.public](/_public/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.public.md) 
 
 ### [has_time_of_merchant_return_days.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.internal.md) 
 
@@ -59,4 +62,5 @@ Formal Predicate:
 
 ### [has_time_of_merchant_return_days.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.personal.md) 
 
-### [has_time_of_merchant_return_days.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.secret.md) 
+### [has_time_of_merchant_return_days.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 4.92
     - -52.3
@@ -139,10 +139,11 @@ Capital :: [[French_Guiana/City/Cayenne=Franz.]]
 [has_place_latitude::4.92]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [French_Guiana](/_public/Earth/Continent/America~South/French_Guiana.md) 
+### [French_Guiana](/_Standards/Earth/Continent/America~South/French_Guiana.md) 
+
+### [French_Guiana.public](/_public/Earth/Continent/America~South/French_Guiana.public.md) 
 
 ### [French_Guiana.internal](/_internal/Earth/Continent/America~South/French_Guiana.internal.md) 
 
@@ -152,4 +153,5 @@ Capital :: [[French_Guiana/City/Cayenne=Franz.]]
 
 ### [French_Guiana.personal](/_personal/Earth/Continent/America~South/French_Guiana.personal.md) 
 
-### [French_Guiana.secret](/_secret/Earth/Continent/America~South/French_Guiana.secret.md) 
+### [French_Guiana.secret](/_secret/Earth/Continent/America~South/French_Guiana.secret.md)
+

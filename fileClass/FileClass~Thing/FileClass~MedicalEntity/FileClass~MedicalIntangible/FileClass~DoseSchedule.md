@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,10 +73,11 @@ Characteristics of the population for which this is intended, or which typically
 TargetPopulation:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DoseSchedule](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.md) 
+### [FileClass~DoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.md) 
+
+### [FileClass~DoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.public.md) 
 
 ### [FileClass~DoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.internal.md) 
 
@@ -86,4 +87,5 @@ TargetPopulation:: {"type":"Input","options":{}}
 
 ### [FileClass~DoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.personal.md) 
 
-### [FileClass~DoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.secret.md) 
+### [FileClass~DoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule.secret.md)
+

@@ -46,3 +46,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fructose)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fructose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.md) 
+
+### [Fructose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.public.md) 
+
+### [Fructose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.internal.md) 
+
+### [Fructose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.protect.md) 
+
+### [Fructose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.private.md) 
+
+### [Fructose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.personal.md) 
+
+### [Fructose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Fructose.secret.md)
+

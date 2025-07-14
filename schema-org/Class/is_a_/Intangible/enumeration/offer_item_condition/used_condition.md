@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is used.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [used_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.md) 
+### [used_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.md) 
+
+### [used_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.public.md) 
 
 ### [used_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is used.
 
 ### [used_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.personal.md) 
 
-### [used_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.secret.md) 
+### [used_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/used_condition.secret.md)
+

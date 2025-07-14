@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A US-style health insurance plan network.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_plan_network](/_public/schema-org/Class/is_a_/Intangible/health_plan_network.md) 
+### [health_plan_network](/_Standards/schema-org/Class/is_a_/Intangible/health_plan_network.md) 
+
+### [health_plan_network.public](/_public/schema-org/Class/is_a_/Intangible/health_plan_network.public.md) 
 
 ### [health_plan_network.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_network.internal.md) 
 
@@ -56,4 +59,5 @@ A US-style health insurance plan network.
 
 ### [health_plan_network.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_network.personal.md) 
 
-### [health_plan_network.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_network.secret.md) 
+### [health_plan_network.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_network.secret.md)
+

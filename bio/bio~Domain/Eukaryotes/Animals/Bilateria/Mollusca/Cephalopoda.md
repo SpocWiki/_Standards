@@ -59,3 +59,22 @@ Octopods, squids, nautiluses, etc.
 ![Cephalopoda](Cephalopoda.JPG) 
 Copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (7), 1996 (8) R. E. Young, Hawaii Undersea Research Laboratory (2), Mark Norman (3), David Paul (4), Mark Norman (5), Thomas Burch (6), R. E. Young (7), R. E. Young (8)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cephalopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.md) 
+
+### [Cephalopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.public.md) 
+
+### [Cephalopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.internal.md) 
+
+### [Cephalopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.protect.md) 
+
+### [Cephalopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.private.md) 
+
+### [Cephalopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.personal.md) 
+
+### [Cephalopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda.secret.md)
+

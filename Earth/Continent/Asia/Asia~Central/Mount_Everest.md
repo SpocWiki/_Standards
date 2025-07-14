@@ -116,3 +116,22 @@ coordinate_location: "Point(86.925 27.988055555)"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Everest) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mount_Everest](/_Standards/Earth/Continent/Asia/Asia~Central/Mount_Everest.md) 
+
+### [Mount_Everest.public](/_public/Earth/Continent/Asia/Asia~Central/Mount_Everest.public.md) 
+
+### [Mount_Everest.internal](/_internal/Earth/Continent/Asia/Asia~Central/Mount_Everest.internal.md) 
+
+### [Mount_Everest.protect](/_protect/Earth/Continent/Asia/Asia~Central/Mount_Everest.protect.md) 
+
+### [Mount_Everest.private](/_private/Earth/Continent/Asia/Asia~Central/Mount_Everest.private.md) 
+
+### [Mount_Everest.personal](/_personal/Earth/Continent/Asia/Asia~Central/Mount_Everest.personal.md) 
+
+### [Mount_Everest.secret](/_secret/Earth/Continent/Asia/Asia~Central/Mount_Everest.secret.md)
+

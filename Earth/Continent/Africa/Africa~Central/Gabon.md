@@ -458,7 +458,9 @@ Capital :: [[Libreville]]
 
 ## Confidential Links & Embeds: 
 
-### [Gabon](/_public/Earth/Continent/Africa/Africa~Central/Gabon.md) 
+### [Gabon](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon.md) 
+
+### [Gabon.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon.public.md) 
 
 ### [Gabon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal.md) 
 
@@ -468,4 +470,5 @@ Capital :: [[Libreville]]
 
 ### [Gabon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal.md) 
 
-### [Gabon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret.md) 
+### [Gabon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret.md)
+

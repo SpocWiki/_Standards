@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A value indicating which roadwheels will receive torque.
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drive_wheel_configuration_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.md) 
+### [drive_wheel_configuration_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.md) 
+
+### [drive_wheel_configuration_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.public.md) 
 
 ### [drive_wheel_configuration_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.internal.md) 
 
@@ -54,4 +57,5 @@ A value indicating which roadwheels will receive torque.
 
 ### [drive_wheel_configuration_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.personal.md) 
 
-### [drive_wheel_configuration_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.secret.md) 
+### [drive_wheel_configuration_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value.secret.md)
+

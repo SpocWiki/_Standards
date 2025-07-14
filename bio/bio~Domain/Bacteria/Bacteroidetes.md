@@ -133,3 +133,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bacteroidetes](/_Standards/bio/bio~Domain/Bacteria/Bacteroidetes.md) 
+
+### [Bacteroidetes.public](/_public/bio/bio~Domain/Bacteria/Bacteroidetes.public.md) 
+
+### [Bacteroidetes.internal](/_internal/bio/bio~Domain/Bacteria/Bacteroidetes.internal.md) 
+
+### [Bacteroidetes.protect](/_protect/bio/bio~Domain/Bacteria/Bacteroidetes.protect.md) 
+
+### [Bacteroidetes.private](/_private/bio/bio~Domain/Bacteria/Bacteroidetes.private.md) 
+
+### [Bacteroidetes.personal](/_personal/bio/bio~Domain/Bacteria/Bacteroidetes.personal.md) 
+
+### [Bacteroidetes.secret](/_secret/bio/bio~Domain/Bacteria/Bacteroidetes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet appropriate for people with lactose intolerance.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [low_lactose_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.md) 
+### [low_lactose_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.md) 
+
+### [low_lactose_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.public.md) 
 
 ### [low_lactose_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet appropriate for people with lactose intolerance.
 
 ### [low_lactose_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.personal.md) 
 
-### [low_lactose_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.secret.md) 
+### [low_lactose_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_lactose_diet.secret.md)
+

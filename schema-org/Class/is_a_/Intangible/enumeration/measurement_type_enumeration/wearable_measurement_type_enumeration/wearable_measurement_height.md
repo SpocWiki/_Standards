@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Measurement of the height, for example the heel height of a shoe
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_height](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.md) 
+### [wearable_measurement_height](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.md) 
+
+### [wearable_measurement_height.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.public.md) 
 
 ### [wearable_measurement_height.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.internal.md) 
 
@@ -58,4 +61,5 @@ Measurement of the height, for example the heel height of a shoe
 
 ### [wearable_measurement_height.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.personal.md) 
 
-### [wearable_measurement_height.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.secret.md) 
+### [wearable_measurement_height.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_height.secret.md)
+

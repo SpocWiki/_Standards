@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The payment has been received and processed.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_complete](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.md) 
+### [payment_complete](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.md) 
+
+### [payment_complete.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.public.md) 
 
 ### [payment_complete.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal.md) 
 
@@ -56,4 +59,5 @@ The payment has been received and processed.
 
 ### [payment_complete.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.personal.md) 
 
-### [payment_complete.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret.md) 
+### [payment_complete.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_complete.secret.md)
+

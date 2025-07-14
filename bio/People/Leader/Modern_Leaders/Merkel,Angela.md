@@ -79,3 +79,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angela%20Merkel) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Merkel,Angela](/_Standards/bio/People/Leader/Modern_Leaders/Merkel,Angela.md) 
+
+### [Merkel,Angela.public](/_public/bio/People/Leader/Modern_Leaders/Merkel,Angela.public.md) 
+
+### [Merkel,Angela.internal](/_internal/bio/People/Leader/Modern_Leaders/Merkel,Angela.internal.md) 
+
+### [Merkel,Angela.protect](/_protect/bio/People/Leader/Modern_Leaders/Merkel,Angela.protect.md) 
+
+### [Merkel,Angela.private](/_private/bio/People/Leader/Modern_Leaders/Merkel,Angela.private.md) 
+
+### [Merkel,Angela.personal](/_personal/bio/People/Leader/Modern_Leaders/Merkel,Angela.personal.md) 
+
+### [Merkel,Angela.secret](/_secret/bio/People/Leader/Modern_Leaders/Merkel,Angela.secret.md)
+

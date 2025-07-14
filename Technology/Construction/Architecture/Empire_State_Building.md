@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Empire State Building"
 has_id_wikidata: Q9188
@@ -87,4 +87,23 @@ NRHP_reference_number: 82001192
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Empire%20State%20Building) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Empire_State_Building](/_Standards/Technology/Construction/Architecture/Empire_State_Building.md) 
+
+### [Empire_State_Building.public](/_public/Technology/Construction/Architecture/Empire_State_Building.public.md) 
+
+### [Empire_State_Building.internal](/_internal/Technology/Construction/Architecture/Empire_State_Building.internal.md) 
+
+### [Empire_State_Building.protect](/_protect/Technology/Construction/Architecture/Empire_State_Building.protect.md) 
+
+### [Empire_State_Building.private](/_private/Technology/Construction/Architecture/Empire_State_Building.private.md) 
+
+### [Empire_State_Building.personal](/_personal/Technology/Construction/Architecture/Empire_State_Building.personal.md) 
+
+### [Empire_State_Building.secret](/_secret/Technology/Construction/Architecture/Empire_State_Building.secret.md)
 

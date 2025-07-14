@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A service which provides access to media programming like TV or radio. Access ma
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CableOrSatelliteService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.md) 
+### [FileClass~CableOrSatelliteService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.md) 
+
+### [FileClass~CableOrSatelliteService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.public.md) 
 
 ### [FileClass~CableOrSatelliteService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.internal.md) 
 
@@ -46,4 +47,5 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ### [FileClass~CableOrSatelliteService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.personal.md) 
 
-### [FileClass~CableOrSatelliteService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.secret.md) 
+### [FileClass~CableOrSatelliteService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.secret.md)
+

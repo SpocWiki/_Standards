@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A musical composition.
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, composer, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, firstPerformance, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, includedComposition, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, iswcCode, keywords, learningResourceType, license, locationCreated, lyricist, lyrics, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicArrangement, musicCompositionForm, musicalKey, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAs, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [music_composition](/_public/schema-org/Class/is_a_/creative_work/music_composition.md) 
+### [music_composition](/_Standards/schema-org/Class/is_a_/creative_work/music_composition.md) 
+
+### [music_composition.public](/_public/schema-org/Class/is_a_/creative_work/music_composition.public.md) 
 
 ### [music_composition.internal](/_internal/schema-org/Class/is_a_/creative_work/music_composition.internal.md) 
 
@@ -54,4 +57,5 @@ A musical composition.
 
 ### [music_composition.personal](/_personal/schema-org/Class/is_a_/creative_work/music_composition.personal.md) 
 
-### [music_composition.secret](/_secret/schema-org/Class/is_a_/creative_work/music_composition.secret.md) 
+### [music_composition.secret](/_secret/schema-org/Class/is_a_/creative_work/music_composition.secret.md)
+

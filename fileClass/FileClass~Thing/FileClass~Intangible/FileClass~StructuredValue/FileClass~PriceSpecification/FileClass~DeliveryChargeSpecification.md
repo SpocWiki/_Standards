@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,10 +75,11 @@ See also [[eligibleRegion]].
 IneligibleRegion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DeliveryChargeSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.md) 
+### [FileClass~DeliveryChargeSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.md) 
+
+### [FileClass~DeliveryChargeSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.public.md) 
 
 ### [FileClass~DeliveryChargeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.internal.md) 
 
@@ -88,4 +89,5 @@ IneligibleRegion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ### [FileClass~DeliveryChargeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.personal.md) 
 
-### [FileClass~DeliveryChargeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.secret.md) 
+### [FileClass~DeliveryChargeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~DeliveryChargeSpecification.secret.md)
+

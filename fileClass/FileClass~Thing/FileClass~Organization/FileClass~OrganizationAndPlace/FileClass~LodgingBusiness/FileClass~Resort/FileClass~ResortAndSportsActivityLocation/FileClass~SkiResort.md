@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A ski resort.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SkiResort](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.md) 
+### [FileClass~SkiResort](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.md) 
+
+### [FileClass~SkiResort.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.public.md) 
 
 ### [FileClass~SkiResort.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.internal.md) 
 
@@ -46,4 +47,5 @@ A ski resort.
 
 ### [FileClass~SkiResort.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.personal.md) 
 
-### [FileClass~SkiResort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.secret.md) 
+### [FileClass~SkiResort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation/FileClass~SkiResort.secret.md)
+

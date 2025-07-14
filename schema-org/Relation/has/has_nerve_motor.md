@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_nerve_motor )
 ( #has_/range :: Muscle )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nerve_motor](/_public/schema-org/Relation/has/has_nerve_motor.md) 
+### [has_nerve_motor](/_Standards/schema-org/Relation/has/has_nerve_motor.md) 
+
+### [has_nerve_motor.public](/_public/schema-org/Relation/has/has_nerve_motor.public.md) 
 
 ### [has_nerve_motor.internal](/_internal/schema-org/Relation/has/has_nerve_motor.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_nerve_motor.personal](/_personal/schema-org/Relation/has/has_nerve_motor.personal.md) 
 
-### [has_nerve_motor.secret](/_secret/schema-org/Relation/has/has_nerve_motor.secret.md) 
+### [has_nerve_motor.secret](/_secret/schema-org/Relation/has/has_nerve_motor.secret.md)
+

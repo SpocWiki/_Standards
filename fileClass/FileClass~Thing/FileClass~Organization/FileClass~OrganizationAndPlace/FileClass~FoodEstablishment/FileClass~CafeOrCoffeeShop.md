@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A cafe or coffee shop.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CafeOrCoffeeShop](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.md) 
+### [FileClass~CafeOrCoffeeShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.md) 
+
+### [FileClass~CafeOrCoffeeShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.public.md) 
 
 ### [FileClass~CafeOrCoffeeShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.internal.md) 
 
@@ -46,4 +47,5 @@ A cafe or coffee shop.
 
 ### [FileClass~CafeOrCoffeeShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.personal.md) 
 
-### [FileClass~CafeOrCoffeeShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.secret.md) 
+### [FileClass~CafeOrCoffeeShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~CafeOrCoffeeShop.secret.md)
+

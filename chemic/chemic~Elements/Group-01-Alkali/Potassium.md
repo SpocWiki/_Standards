@@ -179,7 +179,9 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Potassium](/_public/chemic/chemic~Elements/Group-01-Alkali/Potassium.md) 
+### [Potassium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Potassium.md) 
+
+### [Potassium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Potassium.public.md) 
 
 ### [Potassium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Potassium.internal.md) 
 
@@ -189,4 +191,5 @@ aliases:
 
 ### [Potassium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Potassium.personal.md) 
 
-### [Potassium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Potassium.secret.md) 
+### [Potassium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Potassium.secret.md)
+

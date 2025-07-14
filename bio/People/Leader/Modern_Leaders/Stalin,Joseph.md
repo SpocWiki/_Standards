@@ -227,3 +227,21 @@ partner_in_business_or_sport:
 > Widely considered one of the 20th century's most significant figures, Stalin was the subject of a pervasive personality cult within the international Marxist–Leninist movement, which revered him as a champion of socialism and the working class. Since the dissolution of the Soviet Union in 1991, Stalin has retained a degree of popularity in post-Soviet states as an economic moderniser and victorious wartime leader who cemented the Soviet Union as a major world power. Conversely, his regime has been widely condemned for overseeing mass repressions, ethnic cleansing, and famines which caused the deaths of millions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Stalin)
+
+
+## Confidential Links & Embeds: 
+
+### [Stalin,Joseph](/_Standards/bio/People/Leader/Modern_Leaders/Stalin,Joseph.md) 
+
+### [Stalin,Joseph.public](/_public/bio/People/Leader/Modern_Leaders/Stalin,Joseph.public.md) 
+
+### [Stalin,Joseph.internal](/_internal/bio/People/Leader/Modern_Leaders/Stalin,Joseph.internal.md) 
+
+### [Stalin,Joseph.protect](/_protect/bio/People/Leader/Modern_Leaders/Stalin,Joseph.protect.md) 
+
+### [Stalin,Joseph.private](/_private/bio/People/Leader/Modern_Leaders/Stalin,Joseph.private.md) 
+
+### [Stalin,Joseph.personal](/_personal/bio/People/Leader/Modern_Leaders/Stalin,Joseph.personal.md) 
+
+### [Stalin,Joseph.secret](/_secret/bio/People/Leader/Modern_Leaders/Stalin,Joseph.secret.md)
+

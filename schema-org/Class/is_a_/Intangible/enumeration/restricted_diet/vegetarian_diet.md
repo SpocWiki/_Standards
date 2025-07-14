@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet exclusive of animal meat.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [vegetarian_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.md) 
+### [vegetarian_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.md) 
+
+### [vegetarian_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.public.md) 
 
 ### [vegetarian_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet exclusive of animal meat.
 
 ### [vegetarian_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.personal.md) 
 
-### [vegetarian_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.secret.md) 
+### [vegetarian_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/vegetarian_diet.secret.md)
+

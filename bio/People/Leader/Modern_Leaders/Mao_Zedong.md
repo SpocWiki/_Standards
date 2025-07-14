@@ -140,3 +140,22 @@ name_in_native_language:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mao%20Zedong)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mao_Zedong](/_Standards/bio/People/Leader/Modern_Leaders/Mao_Zedong.md) 
+
+### [Mao_Zedong.public](/_public/bio/People/Leader/Modern_Leaders/Mao_Zedong.public.md) 
+
+### [Mao_Zedong.internal](/_internal/bio/People/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
+
+### [Mao_Zedong.protect](/_protect/bio/People/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
+
+### [Mao_Zedong.private](/_private/bio/People/Leader/Modern_Leaders/Mao_Zedong.private.md) 
+
+### [Mao_Zedong.personal](/_personal/bio/People/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
+
+### [Mao_Zedong.secret](/_secret/bio/People/Leader/Modern_Leaders/Mao_Zedong.secret.md)
+

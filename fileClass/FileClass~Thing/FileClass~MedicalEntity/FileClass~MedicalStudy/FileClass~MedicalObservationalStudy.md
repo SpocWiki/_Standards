@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,10 +38,11 @@ Specifics about the observational study design (enumerated).
 StudyDesign:: {"type":"Select","options":{"valuesList":{"CaseSeries","CohortStudy","CrossSectional","Longitudinal","Observational","Registry"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalObservationalStudy](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.md) 
+### [FileClass~MedicalObservationalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.md) 
+
+### [FileClass~MedicalObservationalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.public.md) 
 
 ### [FileClass~MedicalObservationalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.internal.md) 
 
@@ -51,4 +52,5 @@ StudyDesign:: {"type":"Select","options":{"valuesList":{"CaseSeries","CohortStud
 
 ### [FileClass~MedicalObservationalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.personal.md) 
 
-### [FileClass~MedicalObservationalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.secret.md) 
+### [FileClass~MedicalObservationalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalObservationalStudy.secret.md)
+

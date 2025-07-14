@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ ParentalSupport: this is a benefit for parental support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parental_support](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.md) 
+### [parental_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.md) 
+
+### [parental_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.public.md) 
 
 ### [parental_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.internal.md) 
 
@@ -58,4 +61,5 @@ ParentalSupport: this is a benefit for parental support.
 
 ### [parental_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.personal.md) 
 
-### [parental_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.secret.md) 
+### [parental_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/parental_support.secret.md)
+

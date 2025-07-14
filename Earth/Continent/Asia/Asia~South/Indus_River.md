@@ -72,3 +72,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indus%20River) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Indus_River](/_Standards/Earth/Continent/Asia/Asia~South/Indus_River.md) 
+
+### [Indus_River.public](/_public/Earth/Continent/Asia/Asia~South/Indus_River.public.md) 
+
+### [Indus_River.internal](/_internal/Earth/Continent/Asia/Asia~South/Indus_River.internal.md) 
+
+### [Indus_River.protect](/_protect/Earth/Continent/Asia/Asia~South/Indus_River.protect.md) 
+
+### [Indus_River.private](/_private/Earth/Continent/Asia/Asia~South/Indus_River.private.md) 
+
+### [Indus_River.personal](/_personal/Earth/Continent/Asia/Asia~South/Indus_River.personal.md) 
+
+### [Indus_River.secret](/_secret/Earth/Continent/Asia/Asia~South/Indus_River.secret.md)
+

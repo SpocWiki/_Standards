@@ -38,3 +38,22 @@ Body Part            ovulate cone
 Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pinus_cembroides](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.md) 
+
+### [Pinus_cembroides.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.public.md) 
+
+### [Pinus_cembroides.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.internal.md) 
+
+### [Pinus_cembroides.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.protect.md) 
+
+### [Pinus_cembroides.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.private.md) 
+
+### [Pinus_cembroides.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.personal.md) 
+
+### [Pinus_cembroides.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.secret.md)
+

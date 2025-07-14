@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_accessibility_control )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accessibility_control](/_public/schema-org/Property/Texts/has_accessibility_control.md) 
+### [has_accessibility_control](/_Standards/schema-org/Property/Texts/has_accessibility_control.md) 
+
+### [has_accessibility_control.public](/_public/schema-org/Property/Texts/has_accessibility_control.public.md) 
 
 ### [has_accessibility_control.internal](/_internal/schema-org/Property/Texts/has_accessibility_control.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_accessibility_control.personal](/_personal/schema-org/Property/Texts/has_accessibility_control.personal.md) 
 
-### [has_accessibility_control.secret](/_secret/schema-org/Property/Texts/has_accessibility_control.secret.md) 
+### [has_accessibility_control.secret](/_secret/schema-org/Property/Texts/has_accessibility_control.secret.md)
+

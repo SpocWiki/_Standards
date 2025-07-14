@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, highPrice, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, lowPrice, mainEntityOfPage, mobileUrl, mpn, name, offerCount, offeredBy, offers, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [aggregate_offer](/_public/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.md) 
+### [aggregate_offer](/_Standards/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.md) 
+
+### [aggregate_offer.public](/_public/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.public.md) 
 
 ### [aggregate_offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.internal.md) 
 
@@ -56,4 +59,5 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 ### [aggregate_offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.personal.md) 
 
-### [aggregate_offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.secret.md) 
+### [aggregate_offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/aggregate_offer.secret.md)
+

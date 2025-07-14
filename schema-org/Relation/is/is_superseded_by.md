@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Reision describes that:
 ( #has_/name :: is_superseded_by )
 ( #has_/range :: Class, Enumeration, Property )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_superseded_by](/_public/schema-org/Relation/is/is_superseded_by.md) 
+### [is_superseded_by](/_Standards/schema-org/Relation/is/is_superseded_by.md) 
+
+### [is_superseded_by.public](/_public/schema-org/Relation/is/is_superseded_by.public.md) 
 
 ### [is_superseded_by.internal](/_internal/schema-org/Relation/is/is_superseded_by.internal.md) 
 
@@ -55,4 +58,5 @@ Reision describes that:
 
 ### [is_superseded_by.personal](/_personal/schema-org/Relation/is/is_superseded_by.personal.md) 
 
-### [is_superseded_by.secret](/_secret/schema-org/Relation/is/is_superseded_by.secret.md) 
+### [is_superseded_by.secret](/_secret/schema-org/Relation/is/is_superseded_by.secret.md)
+

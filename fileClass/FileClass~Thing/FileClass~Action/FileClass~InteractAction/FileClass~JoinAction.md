@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -50,10 +50,11 @@ Upcoming or past event associated with this place, organization, or action.
 Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~JoinAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.md) 
+### [FileClass~JoinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.md) 
+
+### [FileClass~JoinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.public.md) 
 
 ### [FileClass~JoinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.internal.md) 
 
@@ -63,4 +64,5 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~JoinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.personal.md) 
 
-### [FileClass~JoinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.secret.md) 
+### [FileClass~JoinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~JoinAction.secret.md)
+

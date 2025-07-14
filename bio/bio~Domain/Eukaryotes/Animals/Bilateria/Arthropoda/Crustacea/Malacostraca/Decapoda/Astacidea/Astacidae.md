@@ -44,3 +44,22 @@ Photograph copyright © 1995 David Holdich
     -   [Pacifastacus](Pacifastacus.md)
     -   [Astacus](Astacus.md)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Astacidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.md) 
+
+### [Astacidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.public.md) 
+
+### [Astacidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.internal.md) 
+
+### [Astacidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.protect.md) 
+
+### [Astacidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.private.md) 
+
+### [Astacidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.personal.md) 
+
+### [Astacidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae.secret.md)
+

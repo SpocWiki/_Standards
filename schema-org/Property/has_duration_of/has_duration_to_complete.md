@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_duration_to_complete)
 (range::Duration)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_to_complete](/_public/schema-org/Property/has_duration_of/has_duration_to_complete.md) 
+### [has_duration_to_complete](/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete.md) 
+
+### [has_duration_to_complete.public](/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public.md) 
 
 ### [has_duration_to_complete.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_duration_to_complete.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal.md) 
 
-### [has_duration_to_complete.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret.md) 
+### [has_duration_to_complete.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret.md)
+

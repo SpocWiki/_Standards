@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_pregnancy_warning )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_pregnancy_warning](/_public/schema-org/Property/Texts/has_pregnancy_warning.md) 
+### [has_pregnancy_warning](/_Standards/schema-org/Property/Texts/has_pregnancy_warning.md) 
+
+### [has_pregnancy_warning.public](/_public/schema-org/Property/Texts/has_pregnancy_warning.public.md) 
 
 ### [has_pregnancy_warning.internal](/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_pregnancy_warning.personal](/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal.md) 
 
-### [has_pregnancy_warning.secret](/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret.md) 
+### [has_pregnancy_warning.secret](/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recipient](/_public/schema-org/Relation/has/has_recipient.md) 
+### [has_recipient](/_Standards/schema-org/Relation/has/has_recipient.md) 
+
+### [has_recipient.public](/_public/schema-org/Relation/has/has_recipient.public.md) 
 
 ### [has_recipient.internal](/_internal/schema-org/Relation/has/has_recipient.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_recipient.personal](/_personal/schema-org/Relation/has/has_recipient.personal.md) 
 
-### [has_recipient.secret](/_secret/schema-org/Relation/has/has_recipient.secret.md) 
+### [has_recipient.secret](/_secret/schema-org/Relation/has/has_recipient.secret.md)
+

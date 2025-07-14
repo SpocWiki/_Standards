@@ -494,9 +494,12 @@ Capital :: [[Laos/Counties/Vientiane]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Laos)
 
+
 ## Confidential Links & Embeds: 
 
-### [Laos](/_public/Earth/Continent/Asia/Asia~South~East/Laos.md) 
+### [Laos](/_Standards/Earth/Continent/Asia/Asia~South~East/Laos.md) 
+
+### [Laos.public](/_public/Earth/Continent/Asia/Asia~South~East/Laos.public.md) 
 
 ### [Laos.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal.md) 
 
@@ -506,4 +509,5 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 ### [Laos.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal.md) 
 
-### [Laos.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret.md) 
+### [Laos.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret.md)
+

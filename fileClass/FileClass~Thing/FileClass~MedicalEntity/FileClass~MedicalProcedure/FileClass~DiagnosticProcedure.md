@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DiagnosticProcedure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.md) 
+### [FileClass~DiagnosticProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.md) 
+
+### [FileClass~DiagnosticProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.public.md) 
 
 ### [FileClass~DiagnosticProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.internal.md) 
 
@@ -46,4 +47,5 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 ### [FileClass~DiagnosticProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.personal.md) 
 
-### [FileClass~DiagnosticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.secret.md) 
+### [FileClass~DiagnosticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.secret.md)
+

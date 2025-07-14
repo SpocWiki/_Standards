@@ -484,10 +484,11 @@ Capital :: [[Tirana]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Albania) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Albania](/_public/Earth/Continent/Europe/Europe~South/Albania.md) 
+### [Albania](/_Standards/Earth/Continent/Europe/Europe~South/Albania.md) 
+
+### [Albania.public](/_public/Earth/Continent/Europe/Europe~South/Albania.public.md) 
 
 ### [Albania.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania.internal.md) 
 
@@ -497,4 +498,5 @@ Capital :: [[Tirana]]
 
 ### [Albania.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania.personal.md) 
 
-### [Albania.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania.secret.md) 
+### [Albania.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania.secret.md)
+

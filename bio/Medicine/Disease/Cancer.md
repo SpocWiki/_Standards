@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12078
 UMLS_CUI: C0006826
 ICD_10_CM:
@@ -84,3 +84,21 @@ ICD_O: 8000/3
 > The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer, and stomach cancer. In females, the most common types are breast cancer, colorectal cancer, lung cancer, and cervical cancer. If skin cancer other than melanoma were included in total new cancer cases each year, it would account for around 40% of cases. In children, acute lymphoblastic leukemia and brain tumors are most common, except in Africa, where non-Hodgkin lymphoma occurs more often. In 2012, about 165,000 children under 15 years of age were diagnosed with cancer. The risk of cancer increases significantly with age, and many cancers occur more commonly in developed countries. Rates are increasing as more people live to an old age and as lifestyle changes occur in the developing world. The global total economic costs of cancer were estimated at US$1.16 trillion (equivalent to $1.62 trillion in 2023) per year as of 2010.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cancer)
+
+
+## Confidential Links & Embeds: 
+
+### [Cancer](/_Standards/bio/Medicine/Disease/Cancer.md) 
+
+### [Cancer.public](/_public/bio/Medicine/Disease/Cancer.public.md) 
+
+### [Cancer.internal](/_internal/bio/Medicine/Disease/Cancer.internal.md) 
+
+### [Cancer.protect](/_protect/bio/Medicine/Disease/Cancer.protect.md) 
+
+### [Cancer.private](/_private/bio/Medicine/Disease/Cancer.private.md) 
+
+### [Cancer.personal](/_personal/bio/Medicine/Disease/Cancer.personal.md) 
+
+### [Cancer.secret](/_secret/bio/Medicine/Disease/Cancer.secret.md)
+

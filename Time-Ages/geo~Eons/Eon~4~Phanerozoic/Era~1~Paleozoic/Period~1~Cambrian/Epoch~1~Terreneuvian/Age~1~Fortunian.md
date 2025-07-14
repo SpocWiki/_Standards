@@ -65,10 +65,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Fortunian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.md) 
+### [Age~1~Fortunian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.md) 
+
+### [Age~1~Fortunian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.public.md) 
 
 ### [Age~1~Fortunian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.internal.md) 
 
@@ -78,4 +79,5 @@ noteOnly: true
 
 ### [Age~1~Fortunian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.personal.md) 
 
-### [Age~1~Fortunian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.secret.md) 
+### [Age~1~Fortunian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.secret.md)
+

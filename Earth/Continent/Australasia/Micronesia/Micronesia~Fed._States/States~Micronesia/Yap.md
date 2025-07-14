@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 9.5 , 138.1 ] 
 type: geo-Region
 title: Yap
@@ -40,7 +40,9 @@ markerFolder: ./Yap/
 
 ## Confidential Links & Embeds: 
 
-### [Yap](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
+### [Yap](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.md) 
+
+### [Yap.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.public.md) 
 
 ### [Yap.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.internal.md) 
 
@@ -50,4 +52,5 @@ markerFolder: ./Yap/
 
 ### [Yap.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.personal.md) 
 
-### [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md) 
+### [Yap.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Yap.secret.md)
+

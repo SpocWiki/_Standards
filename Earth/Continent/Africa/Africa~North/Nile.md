@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3392
 different_from: '[[_Standards/WikiData/WD~Nil,342513]]'
 described_by_source:
@@ -89,4 +89,23 @@ DPLA_subject_term: "Nile River"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nile) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nile](/_Standards/Earth/Continent/Africa/Africa~North/Nile.md) 
+
+### [Nile.public](/_public/Earth/Continent/Africa/Africa~North/Nile.public.md) 
+
+### [Nile.internal](/_internal/Earth/Continent/Africa/Africa~North/Nile.internal.md) 
+
+### [Nile.protect](/_protect/Earth/Continent/Africa/Africa~North/Nile.protect.md) 
+
+### [Nile.private](/_private/Earth/Continent/Africa/Africa~North/Nile.private.md) 
+
+### [Nile.personal](/_personal/Earth/Continent/Africa/Africa~North/Nile.personal.md) 
+
+### [Nile.secret](/_secret/Earth/Continent/Africa/Africa~North/Nile.secret.md)
 

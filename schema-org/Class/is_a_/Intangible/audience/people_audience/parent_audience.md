@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parent_audience](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.md) 
+### [parent_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.md) 
+
+### [parent_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.public.md) 
 
 ### [parent_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.internal.md) 
 
@@ -54,4 +57,5 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 ### [parent_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.personal.md) 
 
-### [parent_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.secret.md) 
+### [parent_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience/parent_audience.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
   - geo/Country
@@ -33,10 +33,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Akrotiri_and_Dhekelia](/_public/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.md) 
+### [Akrotiri_and_Dhekelia](/_Standards/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.md) 
+
+### [Akrotiri_and_Dhekelia.public](/_public/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.public.md) 
 
 ### [Akrotiri_and_Dhekelia.internal](/_internal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Europe]]
 
 ### [Akrotiri_and_Dhekelia.personal](/_personal/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.personal.md) 
 
-### [Akrotiri_and_Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.secret.md) 
+### [Akrotiri_and_Dhekelia.secret](/_secret/Earth/Continent/Europe/Europe~South/Akrotiri_and_Dhekelia.secret.md)
+

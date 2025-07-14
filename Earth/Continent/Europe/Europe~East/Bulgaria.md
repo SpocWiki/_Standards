@@ -582,9 +582,12 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bulgaria](/_public/Earth/Continent/Europe/Europe~East/Bulgaria.md) 
+### [Bulgaria](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria.md) 
+
+### [Bulgaria.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public.md) 
 
 ### [Bulgaria.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal.md) 
 
@@ -594,4 +597,5 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 
 ### [Bulgaria.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal.md) 
 
-### [Bulgaria.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret.md) 
+### [Bulgaria.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret.md)
+

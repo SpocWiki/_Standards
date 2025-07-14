@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_infectious_agent_class )
 ( #has_/range :: InfectiousAgentClass )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_infectious_agent_class](/_public/schema-org/Relation/has/has_infectious_agent_class.md) 
+### [has_infectious_agent_class](/_Standards/schema-org/Relation/has/has_infectious_agent_class.md) 
+
+### [has_infectious_agent_class.public](/_public/schema-org/Relation/has/has_infectious_agent_class.public.md) 
 
 ### [has_infectious_agent_class.internal](/_internal/schema-org/Relation/has/has_infectious_agent_class.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_infectious_agent_class.personal](/_personal/schema-org/Relation/has/has_infectious_agent_class.personal.md) 
 
-### [has_infectious_agent_class.secret](/_secret/schema-org/Relation/has/has_infectious_agent_class.secret.md) 
+### [has_infectious_agent_class.secret](/_secret/schema-org/Relation/has/has_infectious_agent_class.secret.md)
+

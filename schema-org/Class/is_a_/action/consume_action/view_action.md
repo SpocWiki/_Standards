@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of consuming static visual content.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [view_action](/_public/schema-org/Class/is_a_/action/consume_action/view_action.md) 
+### [view_action](/_Standards/schema-org/Class/is_a_/action/consume_action/view_action.md) 
+
+### [view_action.public](/_public/schema-org/Class/is_a_/action/consume_action/view_action.public.md) 
 
 ### [view_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/view_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of consuming static visual content.
 
 ### [view_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/view_action.personal.md) 
 
-### [view_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/view_action.secret.md) 
+### [view_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/view_action.secret.md)
+

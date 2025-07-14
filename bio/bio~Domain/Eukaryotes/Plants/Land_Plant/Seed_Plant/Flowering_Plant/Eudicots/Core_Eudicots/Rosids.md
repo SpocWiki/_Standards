@@ -88,3 +88,22 @@ source: [flickr: trident maple](http://flickr.com/photos/amehare/211807844/)
 Specimen Condition                  Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
 Copyright ::                           © 2006 [Amehare](http://flickr.com/people/amehare/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rosids](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.md) 
+
+### [Rosids.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.public.md) 
+
+### [Rosids.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.internal.md) 
+
+### [Rosids.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.protect.md) 
+
+### [Rosids.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.private.md) 
+
+### [Rosids.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.personal.md) 
+
+### [Rosids.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids.secret.md)
+

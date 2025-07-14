@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_end_offset )
 ( #has_/range :: HyperTocEntry, Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_end_offset](/_public/schema-org/Relation/has/has_end_offset.md) 
+### [has_end_offset](/_Standards/schema-org/Relation/has/has_end_offset.md) 
+
+### [has_end_offset.public](/_public/schema-org/Relation/has/has_end_offset.public.md) 
 
 ### [has_end_offset.internal](/_internal/schema-org/Relation/has/has_end_offset.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_end_offset.personal](/_personal/schema-org/Relation/has/has_end_offset.personal.md) 
 
-### [has_end_offset.secret](/_secret/schema-org/Relation/has/has_end_offset.secret.md) 
+### [has_end_offset.secret](/_secret/schema-org/Relation/has/has_end_offset.secret.md)
+

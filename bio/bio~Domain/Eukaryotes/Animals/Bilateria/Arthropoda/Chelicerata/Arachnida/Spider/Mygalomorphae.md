@@ -50,3 +50,21 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
   Specimen Condition   Live Specimen
   Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Mygalomorphae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.md) 
+
+### [Mygalomorphae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.public.md) 
+
+### [Mygalomorphae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.internal.md) 
+
+### [Mygalomorphae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.protect.md) 
+
+### [Mygalomorphae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.private.md) 
+
+### [Mygalomorphae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.personal.md) 
+
+### [Mygalomorphae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae.secret.md)
+

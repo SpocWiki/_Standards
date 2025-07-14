@@ -78,3 +78,22 @@ OpenStreetMap_tag_or_key: "Tag:sport=tennis"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tennis) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tennis](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.md) 
+
+### [Tennis.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.public.md) 
+
+### [Tennis.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.internal.md) 
+
+### [Tennis.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.protect.md) 
+
+### [Tennis.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.private.md) 
+
+### [Tennis.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.personal.md) 
+
+### [Tennis.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis.secret.md)
+

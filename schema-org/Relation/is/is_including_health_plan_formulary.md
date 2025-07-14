@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_including_health_plan_formulary)
 ( #has_/range :: HealthPlanFormulary)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_including_health_plan_formulary](/_public/schema-org/Relation/is/is_including_health_plan_formulary.md) 
+### [is_including_health_plan_formulary](/_Standards/schema-org/Relation/is/is_including_health_plan_formulary.md) 
+
+### [is_including_health_plan_formulary.public](/_public/schema-org/Relation/is/is_including_health_plan_formulary.public.md) 
 
 ### [is_including_health_plan_formulary.internal](/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_including_health_plan_formulary.personal](/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal.md) 
 
-### [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md) 
+### [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md)
+

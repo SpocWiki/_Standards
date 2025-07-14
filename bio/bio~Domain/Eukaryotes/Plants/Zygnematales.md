@@ -117,3 +117,22 @@ classification (Surek et al., 1993; Bhattacharya et al., 1994), although
 these studies and that of McCourt et al. (1995) suggest that the two
 families with smooth, unsculptured walls may be polyphyletic.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Zygnematales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.md) 
+
+### [Zygnematales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.public.md) 
+
+### [Zygnematales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.internal.md) 
+
+### [Zygnematales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.protect.md) 
+
+### [Zygnematales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.private.md) 
+
+### [Zygnematales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.personal.md) 
+
+### [Zygnematales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Zygnematales.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_broadcast_timezone )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_timezone](/_public/schema-org/Property/Texts/has_broadcast_timezone.md) 
+### [has_broadcast_timezone](/_Standards/schema-org/Property/Texts/has_broadcast_timezone.md) 
+
+### [has_broadcast_timezone.public](/_public/schema-org/Property/Texts/has_broadcast_timezone.public.md) 
 
 ### [has_broadcast_timezone.internal](/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_broadcast_timezone.personal](/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal.md) 
 
-### [has_broadcast_timezone.secret](/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret.md) 
+### [has_broadcast_timezone.secret](/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret.md)
+

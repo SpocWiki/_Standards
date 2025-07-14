@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An airport.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, iataCode, icaoCode, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [airport](/_public/schema-org/Class/is_a_/place/civic_structure/airport.md) 
+### [airport](/_Standards/schema-org/Class/is_a_/place/civic_structure/airport.md) 
+
+### [airport.public](/_public/schema-org/Class/is_a_/place/civic_structure/airport.public.md) 
 
 ### [airport.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/airport.internal.md) 
 
@@ -54,4 +57,5 @@ An airport.
 
 ### [airport.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/airport.personal.md) 
 
-### [airport.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/airport.secret.md) 
+### [airport.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/airport.secret.md)
+

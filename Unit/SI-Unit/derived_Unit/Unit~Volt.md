@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Volt]] 
 
 #is_a_/unit_/for_/voltage 
@@ -8,7 +8,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Volt](/_public/Unit/SI-Unit/derived_Unit/Unit~Volt.md) 
+### [Unit~Volt](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Volt.md) 
+
+### [Unit~Volt.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Volt.public.md) 
 
 ### [Unit~Volt.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Volt.internal.md) 
 
@@ -18,4 +20,5 @@
 
 ### [Unit~Volt.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Volt.personal.md) 
 
-### [Unit~Volt.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Volt.secret.md) 
+### [Unit~Volt.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Volt.secret.md)
+

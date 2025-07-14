@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The practice or art and science of preparing and dispensing drugs and medicines.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pharmacy_specialty](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.md) 
+### [pharmacy_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.md) 
+
+### [pharmacy_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.public.md) 
 
 ### [pharmacy_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.internal.md) 
 
@@ -56,4 +59,5 @@ The practice or art and science of preparing and dispensing drugs and medicines.
 
 ### [pharmacy_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.personal.md) 
 
-### [pharmacy_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.secret.md) 
+### [pharmacy_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.secret.md)
+

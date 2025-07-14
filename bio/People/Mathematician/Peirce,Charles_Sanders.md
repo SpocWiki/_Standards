@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Charles Sanders Peirce
 ---
@@ -38,16 +38,20 @@ aliases:
 He was a tragic figure, who died poor, 
 because was shunned by the scientific community in Harvard and the US east coast. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Peirce,Charles_Sanders](/_public/Mathematics/Mathematicians/Peirce,Charles_Sanders.md) 
+### [Peirce,Charles_Sanders](/_Standards/bio/People/Mathematician/Peirce,Charles_Sanders.md) 
 
-### [Peirce,Charles_Sanders.internal](/_internal/Mathematics/Mathematicians/Peirce,Charles_Sanders.internal.md) 
+### [Peirce,Charles_Sanders.public](/_public/bio/People/Mathematician/Peirce,Charles_Sanders.public.md) 
 
-### [Peirce,Charles_Sanders.protect](/_protect/Mathematics/Mathematicians/Peirce,Charles_Sanders.protect.md) 
+### [Peirce,Charles_Sanders.internal](/_internal/bio/People/Mathematician/Peirce,Charles_Sanders.internal.md) 
 
-### [Peirce,Charles_Sanders.private](/_private/Mathematics/Mathematicians/Peirce,Charles_Sanders.private.md) 
+### [Peirce,Charles_Sanders.protect](/_protect/bio/People/Mathematician/Peirce,Charles_Sanders.protect.md) 
 
-### [Peirce,Charles_Sanders.personal](/_personal/Mathematics/Mathematicians/Peirce,Charles_Sanders.personal.md) 
+### [Peirce,Charles_Sanders.private](/_private/bio/People/Mathematician/Peirce,Charles_Sanders.private.md) 
 
-### [Peirce,Charles_Sanders.secret](/_secret/Mathematics/Mathematicians/Peirce,Charles_Sanders.secret.md) 
+### [Peirce,Charles_Sanders.personal](/_personal/bio/People/Mathematician/Peirce,Charles_Sanders.personal.md) 
+
+### [Peirce,Charles_Sanders.secret](/_secret/bio/People/Mathematician/Peirce,Charles_Sanders.secret.md)
+

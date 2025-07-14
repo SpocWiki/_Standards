@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -49,10 +49,11 @@ The type of permission granted the person, organization, or audience.
 PermissionType:: {"type":"Select","options":{"valuesList":{"CommentPermission","ReadPermission","WritePermission"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DigitalDocumentPermission](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.md) 
+### [FileClass~DigitalDocumentPermission](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.md) 
+
+### [FileClass~DigitalDocumentPermission.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.public.md) 
 
 ### [FileClass~DigitalDocumentPermission.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.internal.md) 
 
@@ -62,4 +63,5 @@ PermissionType:: {"type":"Select","options":{"valuesList":{"CommentPermission","
 
 ### [FileClass~DigitalDocumentPermission.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.personal.md) 
 
-### [FileClass~DigitalDocumentPermission.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.secret.md) 
+### [FileClass~DigitalDocumentPermission.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.secret.md)
+

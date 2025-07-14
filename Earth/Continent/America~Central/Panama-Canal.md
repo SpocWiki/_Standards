@@ -1,4 +1,4 @@
-﻿
+
 # [[Panama-Canal]] 
 
 
@@ -88,7 +88,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Panama-Canal](/_public/Earth/Continent/America~Central/Panama-Canal.md) 
+### [Panama-Canal](/_Standards/Earth/Continent/America~Central/Panama-Canal.md) 
+
+### [Panama-Canal.public](/_public/Earth/Continent/America~Central/Panama-Canal.public.md) 
 
 ### [Panama-Canal.internal](/_internal/Earth/Continent/America~Central/Panama-Canal.internal.md) 
 
@@ -98,4 +100,5 @@
 
 ### [Panama-Canal.personal](/_personal/Earth/Continent/America~Central/Panama-Canal.personal.md) 
 
-### [Panama-Canal.secret](/_secret/Earth/Continent/America~Central/Panama-Canal.secret.md) 
+### [Panama-Canal.secret](/_secret/Earth/Continent/America~Central/Panama-Canal.secret.md)
+

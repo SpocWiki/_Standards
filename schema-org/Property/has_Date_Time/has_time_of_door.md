@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_door)
 (range::DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_door](/_public/schema-org/Property/has_Date_Time/has_time_of_door.md) 
+### [has_time_of_door](/_Standards/schema-org/Property/has_Date_Time/has_time_of_door.md) 
+
+### [has_time_of_door.public](/_public/schema-org/Property/has_Date_Time/has_time_of_door.public.md) 
 
 ### [has_time_of_door.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_door.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal.md) 
 
-### [has_time_of_door.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret.md) 
+### [has_time_of_door.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret.md)
+

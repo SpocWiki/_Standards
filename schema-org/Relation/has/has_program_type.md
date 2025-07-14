@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_program_type )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_program_type](/_public/schema-org/Relation/has/has_program_type.md) 
+### [has_program_type](/_Standards/schema-org/Relation/has/has_program_type.md) 
+
+### [has_program_type.public](/_public/schema-org/Relation/has/has_program_type.public.md) 
 
 ### [has_program_type.internal](/_internal/schema-org/Relation/has/has_program_type.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_program_type.personal](/_personal/schema-org/Relation/has/has_program_type.personal.md) 
 
-### [has_program_type.secret](/_secret/schema-org/Relation/has/has_program_type.secret.md) 
+### [has_program_type.secret](/_secret/schema-org/Relation/has/has_program_type.secret.md)
+

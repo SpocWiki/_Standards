@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [midwifery](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md) 
+### [midwifery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md) 
+
+### [midwifery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.public.md) 
 
 ### [midwifery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.internal.md) 
 
@@ -56,4 +59,5 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 
 ### [midwifery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.personal.md) 
 
-### [midwifery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.secret.md) 
+### [midwifery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.secret.md)
+

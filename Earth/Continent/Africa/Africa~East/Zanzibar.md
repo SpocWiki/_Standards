@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-6.13333,39.3167]
 type: Country
 tags:
@@ -37,10 +37,11 @@ has_place_continent:: [[Africa]]
 [has_place_latitude::-6.13333]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Zanzibar](/_public/Earth/Continent/Africa/Africa~East/Zanzibar.md) 
+### [Zanzibar](/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar.md) 
+
+### [Zanzibar.public](/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public.md) 
 
 ### [Zanzibar.internal](/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal.md) 
 
@@ -50,4 +51,5 @@ has_place_continent:: [[Africa]]
 
 ### [Zanzibar.personal](/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal.md) 
 
-### [Zanzibar.secret](/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret.md) 
+### [Zanzibar.secret](/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret.md)
+

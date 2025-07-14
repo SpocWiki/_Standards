@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [comment_permission](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.md) 
+### [comment_permission](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.md) 
+
+### [comment_permission.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.public.md) 
 
 ### [comment_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.internal.md) 
 
@@ -60,4 +63,5 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 ### [comment_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.personal.md) 
 
-### [comment_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.secret.md) 
+### [comment_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/comment_permission.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_feature_list )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_feature_list](/_public/schema-org/Property/Texts/has_feature_list.md) 
+### [has_feature_list](/_Standards/schema-org/Property/Texts/has_feature_list.md) 
+
+### [has_feature_list.public](/_public/schema-org/Property/Texts/has_feature_list.public.md) 
 
 ### [has_feature_list.internal](/_internal/schema-org/Property/Texts/has_feature_list.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_feature_list.personal](/_personal/schema-org/Property/Texts/has_feature_list.personal.md) 
 
-### [has_feature_list.secret](/_secret/schema-org/Property/Texts/has_feature_list.secret.md) 
+### [has_feature_list.secret](/_secret/schema-org/Property/Texts/has_feature_list.secret.md)
+

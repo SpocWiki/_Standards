@@ -172,11 +172,11 @@ Common_Procurement_Vocabulary_code: 09341000
 |       90 | Atom Bomb        |
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Uranium](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
+### [Uranium](/_Standards/chemic/chemic~Elements/Actinide-Group/Uranium.md) 
+
+### [Uranium.public](/_public/chemic/chemic~Elements/Actinide-Group/Uranium.public.md) 
 
 ### [Uranium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Uranium.internal.md) 
 
@@ -186,4 +186,5 @@ Common_Procurement_Vocabulary_code: 09341000
 
 ### [Uranium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Uranium.personal.md) 
 
-### [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md) 
+### [Uranium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Uranium.secret.md)
+

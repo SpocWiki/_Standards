@@ -115,3 +115,22 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"AbbasidCaliphate\
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [0750-Abbasid_Caliphate](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.md) 
+
+### [0750-Abbasid_Caliphate.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.public.md) 
+
+### [0750-Abbasid_Caliphate.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.internal.md) 
+
+### [0750-Abbasid_Caliphate.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.protect.md) 
+
+### [0750-Abbasid_Caliphate.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.private.md) 
+
+### [0750-Abbasid_Caliphate.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.personal.md) 
+
+### [0750-Abbasid_Caliphate.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.secret.md)
+

@@ -1,4 +1,4 @@
-﻿# [[Ocean~Indian~West]] 
+# [[Ocean~Indian~West]] 
 
 ## Edit 
 
@@ -35,7 +35,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Indian~West](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.md) 
+### [Ocean~Indian~West](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.md) 
+
+### [Ocean~Indian~West.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.public.md) 
 
 ### [Ocean~Indian~West.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.internal.md) 
 
@@ -45,4 +47,5 @@ noteOnly: true
 
 ### [Ocean~Indian~West.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.personal.md) 
 
-### [Ocean~Indian~West.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.secret.md) 
+### [Ocean~Indian~West.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~West.secret.md)
+

@@ -186,3 +186,22 @@ BHCL_UUID: 81882891-c142-4d01-80eb-439af11c9c73
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nelson%20Mandela)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mandela,Nelson](/_Standards/bio/People/Leader/Modern_Leaders/Mandela,Nelson.md) 
+
+### [Mandela,Nelson.public](/_public/bio/People/Leader/Modern_Leaders/Mandela,Nelson.public.md) 
+
+### [Mandela,Nelson.internal](/_internal/bio/People/Leader/Modern_Leaders/Mandela,Nelson.internal.md) 
+
+### [Mandela,Nelson.protect](/_protect/bio/People/Leader/Modern_Leaders/Mandela,Nelson.protect.md) 
+
+### [Mandela,Nelson.private](/_private/bio/People/Leader/Modern_Leaders/Mandela,Nelson.private.md) 
+
+### [Mandela,Nelson.personal](/_personal/bio/People/Leader/Modern_Leaders/Mandela,Nelson.personal.md) 
+
+### [Mandela,Nelson.secret](/_secret/bio/People/Leader/Modern_Leaders/Mandela,Nelson.secret.md)
+

@@ -668,7 +668,9 @@ Major Cities with Population in 1000s as of @2024
 
 ## Confidential Links & Embeds: 
 
-### [Denmark](/_public/Earth/Continent/Europe/Europe~North/Denmark.md) 
+### [Denmark](/_Standards/Earth/Continent/Europe/Europe~North/Denmark.md) 
+
+### [Denmark.public](/_public/Earth/Continent/Europe/Europe~North/Denmark.public.md) 
 
 ### [Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal.md) 
 
@@ -678,4 +680,5 @@ Major Cities with Population in 1000s as of @2024
 
 ### [Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark.personal.md) 
 
-### [Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark.secret.md) 
+### [Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark.secret.md)
+

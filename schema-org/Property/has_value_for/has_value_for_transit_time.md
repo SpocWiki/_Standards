@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_transit_time )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_transit_time](/_public/schema-org/Property/has_value_for/has_value_for_transit_time.md) 
+### [has_value_for_transit_time](/_Standards/schema-org/Property/has_value_for/has_value_for_transit_time.md) 
+
+### [has_value_for_transit_time.public](/_public/schema-org/Property/has_value_for/has_value_for_transit_time.public.md) 
 
 ### [has_value_for_transit_time.internal](/_internal/schema-org/Property/has_value_for/has_value_for_transit_time.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_transit_time.personal](/_personal/schema-org/Property/has_value_for/has_value_for_transit_time.personal.md) 
 
-### [has_value_for_transit_time.secret](/_secret/schema-org/Property/has_value_for/has_value_for_transit_time.secret.md) 
+### [has_value_for_transit_time.secret](/_secret/schema-org/Property/has_value_for/has_value_for_transit_time.secret.md)
+

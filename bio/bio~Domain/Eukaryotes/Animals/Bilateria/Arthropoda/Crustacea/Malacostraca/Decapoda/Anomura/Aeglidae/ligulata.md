@@ -124,3 +124,22 @@ Sex ::             Male
 View              dorsal
 Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [ligulata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.md) 
+
+### [ligulata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.public.md) 
+
+### [ligulata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.internal.md) 
+
+### [ligulata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.protect.md) 
+
+### [ligulata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.private.md) 
+
+### [ligulata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.personal.md) 
+
+### [ligulata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/ligulata.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or 
 ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/ArchiveComponent')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArchiveOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.md) 
+### [FileClass~ArchiveOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.md) 
+
+### [FileClass~ArchiveOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.public.md) 
 
 ### [FileClass~ArchiveOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.internal.md) 
 
@@ -57,4 +58,5 @@ ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ### [FileClass~ArchiveOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.personal.md) 
 
-### [FileClass~ArchiveOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.secret.md) 
+### [FileClass~ArchiveOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ArchiveOrganization.secret.md)
+

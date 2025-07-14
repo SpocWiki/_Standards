@@ -62,3 +62,22 @@ Comments             giant red hermit crab
 Specimen Condition   Live Specimen
 Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Anomura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.md) 
+
+### [Anomura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.public.md) 
+
+### [Anomura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.internal.md) 
+
+### [Anomura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.protect.md) 
+
+### [Anomura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.private.md) 
+
+### [Anomura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.personal.md) 
+
+### [Anomura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura.secret.md)
+

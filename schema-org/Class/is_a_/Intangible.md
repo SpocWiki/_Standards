@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [Intangible](/_public/schema-org/Class/is_a_/Intangible.md) 
+### [Intangible](/_Standards/schema-org/Class/is_a_/Intangible.md) 
+
+### [Intangible.public](/_public/schema-org/Class/is_a_/Intangible.public.md) 
 
 ### [Intangible.internal](/_internal/schema-org/Class/is_a_/Intangible.internal.md) 
 
@@ -55,4 +58,5 @@ Tag Instances like this:
 
 ### [Intangible.personal](/_personal/schema-org/Class/is_a_/Intangible.personal.md) 
 
-### [Intangible.secret](/_secret/schema-org/Class/is_a_/Intangible.secret.md) 
+### [Intangible.secret](/_secret/schema-org/Class/is_a_/Intangible.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An indication for treating an underlying condition, symptom, etc.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TreatmentIndication](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.md) 
+### [FileClass~TreatmentIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.md) 
+
+### [FileClass~TreatmentIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.public.md) 
 
 ### [FileClass~TreatmentIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.internal.md) 
 
@@ -46,4 +47,5 @@ An indication for treating an underlying condition, symptom, etc.
 
 ### [FileClass~TreatmentIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.personal.md) 
 
-### [FileClass~TreatmentIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.secret.md) 
+### [FileClass~TreatmentIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.secret.md)
+

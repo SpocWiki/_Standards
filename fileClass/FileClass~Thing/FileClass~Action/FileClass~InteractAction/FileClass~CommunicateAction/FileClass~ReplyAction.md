@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -48,10 +48,11 @@ A sub property of result. The Comment created or sent as a result of this action
 ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReplyAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.md) 
+### [FileClass~ReplyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.md) 
+
+### [FileClass~ReplyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.public.md) 
 
 ### [FileClass~ReplyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.internal.md) 
 
@@ -61,4 +62,5 @@ ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### [FileClass~ReplyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.personal.md) 
 
-### [FileClass~ReplyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.secret.md) 
+### [FileClass~ReplyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ReplyAction.secret.md)
+

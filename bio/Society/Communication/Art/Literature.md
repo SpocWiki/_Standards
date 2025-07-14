@@ -76,3 +76,22 @@ MeSH_tree_code: K01.517
 > [Wikipedia](https://en.wikipedia.org/wiki/Literature) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Literature](/_Standards/bio/Society/Communication/Art/Literature.md) 
+
+### [Literature.public](/_public/bio/Society/Communication/Art/Literature.public.md) 
+
+### [Literature.internal](/_internal/bio/Society/Communication/Art/Literature.internal.md) 
+
+### [Literature.protect](/_protect/bio/Society/Communication/Art/Literature.protect.md) 
+
+### [Literature.private](/_private/bio/Society/Communication/Art/Literature.private.md) 
+
+### [Literature.personal](/_personal/bio/Society/Communication/Art/Literature.personal.md) 
+
+### [Literature.secret](/_secret/bio/Society/Communication/Art/Literature.secret.md)
+

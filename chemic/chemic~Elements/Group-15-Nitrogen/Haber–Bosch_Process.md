@@ -234,3 +234,22 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Haber–Bosch_Process](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.md) 
+
+### [Haber–Bosch_Process.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.public.md) 
+
+### [Haber–Bosch_Process.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.internal.md) 
+
+### [Haber–Bosch_Process.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.protect.md) 
+
+### [Haber–Bosch_Process.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.private.md) 
+
+### [Haber–Bosch_Process.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.personal.md) 
+
+### [Haber–Bosch_Process.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.secret.md)
+

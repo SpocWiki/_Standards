@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LikeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.md) 
+### [FileClass~LikeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.md) 
+
+### [FileClass~LikeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.public.md) 
 
 ### [FileClass~LikeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 
 ### [FileClass~LikeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.personal.md) 
 
-### [FileClass~LikeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.secret.md) 
+### [FileClass~LikeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~LikeAction.secret.md)
+

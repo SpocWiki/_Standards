@@ -590,3 +590,21 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   Specimen Condition   Dead Specimen
   Copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
   -----------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Zygomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.md) 
+
+### [Zygomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.public.md) 
+
+### [Zygomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.internal.md) 
+
+### [Zygomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.protect.md) 
+
+### [Zygomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.private.md) 
+
+### [Zygomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.personal.md) 
+
+### [Zygomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Zygomycota.secret.md)
+

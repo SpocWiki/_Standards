@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_identifying_exam )
 ( #has_/range :: PhysicalExam )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_identifying_exam](/_public/schema-org/Relation/has/has_identifying_exam.md) 
+### [has_identifying_exam](/_Standards/schema-org/Relation/has/has_identifying_exam.md) 
+
+### [has_identifying_exam.public](/_public/schema-org/Relation/has/has_identifying_exam.public.md) 
 
 ### [has_identifying_exam.internal](/_internal/schema-org/Relation/has/has_identifying_exam.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_identifying_exam.personal](/_personal/schema-org/Relation/has/has_identifying_exam.personal.md) 
 
-### [has_identifying_exam.secret](/_secret/schema-org/Relation/has/has_identifying_exam.secret.md) 
+### [has_identifying_exam.secret](/_secret/schema-org/Relation/has/has_identifying_exam.secret.md)
+

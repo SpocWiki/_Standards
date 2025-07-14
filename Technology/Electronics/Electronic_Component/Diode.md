@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11656
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 subclass_of:
@@ -26,4 +26,23 @@ Commons_category: Diodes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diode) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diode](/_Standards/Technology/Electronics/Electronic_Component/Diode.md) 
+
+### [Diode.public](/_public/Technology/Electronics/Electronic_Component/Diode.public.md) 
+
+### [Diode.internal](/_internal/Technology/Electronics/Electronic_Component/Diode.internal.md) 
+
+### [Diode.protect](/_protect/Technology/Electronics/Electronic_Component/Diode.protect.md) 
+
+### [Diode.private](/_private/Technology/Electronics/Electronic_Component/Diode.private.md) 
+
+### [Diode.personal](/_personal/Technology/Electronics/Electronic_Component/Diode.personal.md) 
+
+### [Diode.secret](/_secret/Technology/Electronics/Electronic_Component/Diode.secret.md)
 

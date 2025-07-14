@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_restocking_fee )
 ( #has_/range :: MonetaryAmount, Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_restocking_fee](/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.md) 
+### [has_value_for_restocking_fee](/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee.md) 
+
+### [has_value_for_restocking_fee.public](/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public.md) 
 
 ### [has_value_for_restocking_fee.internal](/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_restocking_fee.personal](/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal.md) 
 
-### [has_value_for_restocking_fee.secret](/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret.md) 
+### [has_value_for_restocking_fee.secret](/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret.md)
+

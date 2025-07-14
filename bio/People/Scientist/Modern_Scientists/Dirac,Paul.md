@@ -184,3 +184,22 @@ place_of_birth: '[[_Standards/WikiData/WD~Bristol,23154]]'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Dirac)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dirac,Paul](/_Standards/bio/People/Scientist/Modern_Scientists/Dirac,Paul.md) 
+
+### [Dirac,Paul.public](/_public/bio/People/Scientist/Modern_Scientists/Dirac,Paul.public.md) 
+
+### [Dirac,Paul.internal](/_internal/bio/People/Scientist/Modern_Scientists/Dirac,Paul.internal.md) 
+
+### [Dirac,Paul.protect](/_protect/bio/People/Scientist/Modern_Scientists/Dirac,Paul.protect.md) 
+
+### [Dirac,Paul.private](/_private/bio/People/Scientist/Modern_Scientists/Dirac,Paul.private.md) 
+
+### [Dirac,Paul.personal](/_personal/bio/People/Scientist/Modern_Scientists/Dirac,Paul.personal.md) 
+
+### [Dirac,Paul.secret](/_secret/bio/People/Scientist/Modern_Scientists/Dirac,Paul.secret.md)
+

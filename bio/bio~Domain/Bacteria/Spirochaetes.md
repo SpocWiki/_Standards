@@ -102,3 +102,22 @@ aliases:
   Specimen Condition   Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Spirochaetes](/_Standards/bio/bio~Domain/Bacteria/Spirochaetes.md) 
+
+### [Spirochaetes.public](/_public/bio/bio~Domain/Bacteria/Spirochaetes.public.md) 
+
+### [Spirochaetes.internal](/_internal/bio/bio~Domain/Bacteria/Spirochaetes.internal.md) 
+
+### [Spirochaetes.protect](/_protect/bio/bio~Domain/Bacteria/Spirochaetes.protect.md) 
+
+### [Spirochaetes.private](/_private/bio/bio~Domain/Bacteria/Spirochaetes.private.md) 
+
+### [Spirochaetes.personal](/_personal/bio/bio~Domain/Bacteria/Spirochaetes.personal.md) 
+
+### [Spirochaetes.secret](/_secret/bio/bio~Domain/Bacteria/Spirochaetes.secret.md)
+

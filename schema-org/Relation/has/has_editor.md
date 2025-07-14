@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Relation describes that:
 ( #has_/name :: has_editor )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_editor](/_public/schema-org/Relation/has/has_editor.md) 
+### [has_editor](/_Standards/schema-org/Relation/has/has_editor.md) 
+
+### [has_editor.public](/_public/schema-org/Relation/has/has_editor.public.md) 
 
 ### [has_editor.internal](/_internal/schema-org/Relation/has/has_editor.internal.md) 
 
@@ -50,4 +53,5 @@ Relation describes that:
 
 ### [has_editor.personal](/_personal/schema-org/Relation/has/has_editor.personal.md) 
 
-### [has_editor.secret](/_secret/schema-org/Relation/has/has_editor.secret.md) 
+### [has_editor.secret](/_secret/schema-org/Relation/has/has_editor.secret.md)
+

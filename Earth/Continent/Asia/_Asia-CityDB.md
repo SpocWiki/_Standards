@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,9 +340,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Asia-CityDB](/_public/Earth/Continent/Asia/_Asia-CityDB.md) 
+### [_Asia-CityDB](/_Standards/Earth/Continent/Asia/_Asia-CityDB.md) 
+
+### [_Asia-CityDB.public](/_public/Earth/Continent/Asia/_Asia-CityDB.public.md) 
 
 ### [_Asia-CityDB.internal](/_internal/Earth/Continent/Asia/_Asia-CityDB.internal.md) 
 
@@ -352,4 +355,5 @@ filters:
 
 ### [_Asia-CityDB.personal](/_personal/Earth/Continent/Asia/_Asia-CityDB.personal.md) 
 
-### [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md) 
+### [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md)
+

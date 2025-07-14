@@ -265,3 +265,22 @@ played a significant role in the creation of "War and Peace."
 She meticulously hand-copied the entire manuscript seven times, 
 often working by candlelight after attending to her household and family duties.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tolstoy,Leo](/_Standards/bio/People/Writer/Tolstoy,Leo.md) 
+
+### [Tolstoy,Leo.public](/_public/bio/People/Writer/Tolstoy,Leo.public.md) 
+
+### [Tolstoy,Leo.internal](/_internal/bio/People/Writer/Tolstoy,Leo.internal.md) 
+
+### [Tolstoy,Leo.protect](/_protect/bio/People/Writer/Tolstoy,Leo.protect.md) 
+
+### [Tolstoy,Leo.private](/_private/bio/People/Writer/Tolstoy,Leo.private.md) 
+
+### [Tolstoy,Leo.personal](/_personal/bio/People/Writer/Tolstoy,Leo.personal.md) 
+
+### [Tolstoy,Leo.secret](/_secret/bio/People/Writer/Tolstoy,Leo.secret.md)
+

@@ -124,3 +124,22 @@ Sex ::             Male
 View              dorsal
 Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [obstipa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.md) 
+
+### [obstipa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.public.md) 
+
+### [obstipa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.internal.md) 
+
+### [obstipa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.protect.md) 
+
+### [obstipa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.private.md) 
+
+### [obstipa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.personal.md) 
+
+### [obstipa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/obstipa.secret.md)
+

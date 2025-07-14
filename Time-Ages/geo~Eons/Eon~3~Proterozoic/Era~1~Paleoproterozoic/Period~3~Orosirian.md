@@ -69,10 +69,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~3~Orosirian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+### [Period~3~Orosirian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+
+### [Period~3~Orosirian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.public.md) 
 
 ### [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
 
@@ -82,4 +83,5 @@ noteOnly: true
 
 ### [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
 
-### [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md) 
+### [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md)
+

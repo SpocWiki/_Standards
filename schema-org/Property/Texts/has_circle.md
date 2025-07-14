@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_circle )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_circle](/_public/schema-org/Property/Texts/has_circle.md) 
+### [has_circle](/_Standards/schema-org/Property/Texts/has_circle.md) 
+
+### [has_circle.public](/_public/schema-org/Property/Texts/has_circle.public.md) 
 
 ### [has_circle.internal](/_internal/schema-org/Property/Texts/has_circle.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_circle.personal](/_personal/schema-org/Property/Texts/has_circle.personal.md) 
 
-### [has_circle.secret](/_secret/schema-org/Property/Texts/has_circle.secret.md) 
+### [has_circle.secret](/_secret/schema-org/Property/Texts/has_circle.secret.md)
+

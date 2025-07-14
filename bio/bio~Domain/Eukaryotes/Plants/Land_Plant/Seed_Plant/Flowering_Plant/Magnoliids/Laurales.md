@@ -63,3 +63,22 @@ Comments            Laurel, bay leaf, Lauraceae.
 Reference           Otto Wilhelm Thomé\'s Flora von Deutschland, Österreich und der Schweiz - in Wort und Bild für Schule und Haus (1885 - 1905)
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Laurales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.md) 
+
+### [Laurales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.public.md) 
+
+### [Laurales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.internal.md) 
+
+### [Laurales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.protect.md) 
+
+### [Laurales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.private.md) 
+
+### [Laurales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.personal.md) 
+
+### [Laurales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Laurales.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [molecular_entity](/_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md) 
+### [molecular_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md) 
+
+### [molecular_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.public.md) 
 
 ### [molecular_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md) 
 
@@ -56,4 +59,5 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 ### [molecular_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md) 
 
-### [molecular_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md) 
+### [molecular_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md)
+

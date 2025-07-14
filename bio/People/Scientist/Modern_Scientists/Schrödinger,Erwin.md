@@ -157,3 +157,22 @@ BHCL_UUID: a3cc5fc7-64d3-4017-b788-18cb0922215c
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erwin%20Schr%C3%B6dinger)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Schrödinger,Erwin](/_Standards/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.md) 
+
+### [Schrödinger,Erwin.public](/_public/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.public.md) 
+
+### [Schrödinger,Erwin.internal](/_internal/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.internal.md) 
+
+### [Schrödinger,Erwin.protect](/_protect/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.protect.md) 
+
+### [Schrödinger,Erwin.private](/_private/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.private.md) 
+
+### [Schrödinger,Erwin.personal](/_personal/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.personal.md) 
+
+### [Schrödinger,Erwin.secret](/_secret/bio/People/Scientist/Modern_Scientists/Schrödinger,Erwin.secret.md)
+

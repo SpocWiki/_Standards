@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Search and Rescue organization of some kind.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SearchRescueOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.md) 
+### [FileClass~SearchRescueOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.md) 
+
+### [FileClass~SearchRescueOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.public.md) 
 
 ### [FileClass~SearchRescueOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.internal.md) 
 
@@ -46,4 +47,5 @@ A Search and Rescue organization of some kind.
 
 ### [FileClass~SearchRescueOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.personal.md) 
 
-### [FileClass~SearchRescueOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.secret.md) 
+### [FileClass~SearchRescueOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.secret.md)
+

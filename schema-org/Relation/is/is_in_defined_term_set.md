@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [[is_in_code_set]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_defined_term_set](/_public/schema-org/Relation/is/is_in_defined_term_set.md) 
+### [is_in_defined_term_set](/_Standards/schema-org/Relation/is/is_in_defined_term_set.md) 
+
+### [is_in_defined_term_set.public](/_public/schema-org/Relation/is/is_in_defined_term_set.public.md) 
 
 ### [is_in_defined_term_set.internal](/_internal/schema-org/Relation/is/is_in_defined_term_set.internal.md) 
 
@@ -59,4 +62,5 @@ Relation describes that:
 
 ### [is_in_defined_term_set.personal](/_personal/schema-org/Relation/is/is_in_defined_term_set.personal.md) 
 
-### [is_in_defined_term_set.secret](/_secret/schema-org/Relation/is/is_in_defined_term_set.secret.md) 
+### [is_in_defined_term_set.secret](/_secret/schema-org/Relation/is/is_in_defined_term_set.secret.md)
+

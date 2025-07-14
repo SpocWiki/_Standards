@@ -74,3 +74,22 @@ UMLS_CUI: C0043217
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wood)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wood](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.md) 
+
+### [Wood.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.public.md) 
+
+### [Wood.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.internal.md) 
+
+### [Wood.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.protect.md) 
+
+### [Wood.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.private.md) 
+
+### [Wood.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.personal.md) 
+
+### [Wood.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Wood.secret.md)
+

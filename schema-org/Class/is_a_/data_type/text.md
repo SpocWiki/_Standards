@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,9 +36,12 @@ Data type: Text.
 
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [text](/_public/schema-org/Class/is_a_/data_type/text.md) 
+### [text](/_Standards/schema-org/Class/is_a_/data_type/text.md) 
+
+### [text.public](/_public/schema-org/Class/is_a_/data_type/text.public.md) 
 
 ### [text.internal](/_internal/schema-org/Class/is_a_/data_type/text.internal.md) 
 
@@ -48,4 +51,5 @@ Data type: Text.
 
 ### [text.personal](/_personal/schema-org/Class/is_a_/data_type/text.personal.md) 
 
-### [text.secret](/_secret/schema-org/Class/is_a_/data_type/text.secret.md) 
+### [text.secret](/_secret/schema-org/Class/is_a_/data_type/text.secret.md)
+

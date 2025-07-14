@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Marathi
@@ -47,9 +47,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marathi%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-mr](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.md) 
+### [Lang-mr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.md) 
+
+### [Lang-mr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.public.md) 
 
 ### [Lang-mr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.internal.md) 
 
@@ -59,4 +62,5 @@ tags:
 
 ### [Lang-mr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.personal.md) 
 
-### [Lang-mr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.secret.md) 
+### [Lang-mr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-mr.secret.md)
+

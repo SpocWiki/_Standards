@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Relation describes that:
 #is_/inverse_of :: [[../has/has_next_item]]    
 #is_/inverse_of :: [[is_predecessor_of]]   
 
+
 ## Confidential Links & Embeds: 
 
-### [is_successor_of](/_public/schema-org/Relation/is/is_successor_of.md) 
+### [is_successor_of](/_Standards/schema-org/Relation/is/is_successor_of.md) 
+
+### [is_successor_of.public](/_public/schema-org/Relation/is/is_successor_of.public.md) 
 
 ### [is_successor_of.internal](/_internal/schema-org/Relation/is/is_successor_of.internal.md) 
 
@@ -61,4 +64,5 @@ Relation describes that:
 
 ### [is_successor_of.personal](/_personal/schema-org/Relation/is/is_successor_of.personal.md) 
 
-### [is_successor_of.secret](/_secret/schema-org/Relation/is/is_successor_of.secret.md) 
+### [is_successor_of.secret](/_secret/schema-org/Relation/is/is_successor_of.secret.md)
+

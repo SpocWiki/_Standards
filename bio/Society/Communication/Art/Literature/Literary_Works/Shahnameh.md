@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8279
 characters:
 - '[[_Standards/WikiData/WD~Faranak,137687]]'
@@ -129,4 +129,23 @@ title: شاهنامه
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shahnameh) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Shahnameh](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.md) 
+
+### [Shahnameh.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.public.md) 
+
+### [Shahnameh.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.internal.md) 
+
+### [Shahnameh.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.protect.md) 
+
+### [Shahnameh.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.private.md) 
+
+### [Shahnameh.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.personal.md) 
+
+### [Shahnameh.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.secret.md)
 

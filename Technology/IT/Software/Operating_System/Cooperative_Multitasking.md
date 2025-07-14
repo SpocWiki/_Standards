@@ -24,3 +24,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cooperative%20multitasking) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cooperative_Multitasking](/_Standards/Technology/IT/Software/Operating_System/Cooperative_Multitasking.md) 
+
+### [Cooperative_Multitasking.public](/_public/Technology/IT/Software/Operating_System/Cooperative_Multitasking.public.md) 
+
+### [Cooperative_Multitasking.internal](/_internal/Technology/IT/Software/Operating_System/Cooperative_Multitasking.internal.md) 
+
+### [Cooperative_Multitasking.protect](/_protect/Technology/IT/Software/Operating_System/Cooperative_Multitasking.protect.md) 
+
+### [Cooperative_Multitasking.private](/_private/Technology/IT/Software/Operating_System/Cooperative_Multitasking.private.md) 
+
+### [Cooperative_Multitasking.personal](/_personal/Technology/IT/Software/Operating_System/Cooperative_Multitasking.personal.md) 
+
+### [Cooperative_Multitasking.secret](/_secret/Technology/IT/Software/Operating_System/Cooperative_Multitasking.secret.md)
+

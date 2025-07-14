@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The most generic type of entity related to health and the practice of medicine.
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_entity](/_public/schema-org/Class/is_a_/medical_entity.md) 
+### [medical_entity](/_Standards/schema-org/Class/is_a_/medical_entity.md) 
+
+### [medical_entity.public](/_public/schema-org/Class/is_a_/medical_entity.public.md) 
 
 ### [medical_entity.internal](/_internal/schema-org/Class/is_a_/medical_entity.internal.md) 
 
@@ -56,4 +59,5 @@ The most generic type of entity related to health and the practice of medicine.
 
 ### [medical_entity.personal](/_personal/schema-org/Class/is_a_/medical_entity.personal.md) 
 
-### [medical_entity.secret](/_secret/schema-org/Class/is_a_/medical_entity.secret.md) 
+### [medical_entity.secret](/_secret/schema-org/Class/is_a_/medical_entity.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_value_required )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_value_required](/_public/schema-org/Property/Flags/is_value_required.md) 
+### [is_value_required](/_Standards/schema-org/Property/Flags/is_value_required.md) 
+
+### [is_value_required.public](/_public/schema-org/Property/Flags/is_value_required.public.md) 
 
 ### [is_value_required.internal](/_internal/schema-org/Property/Flags/is_value_required.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_value_required.personal](/_personal/schema-org/Property/Flags/is_value_required.personal.md) 
 
-### [is_value_required.secret](/_secret/schema-org/Property/Flags/is_value_required.secret.md) 
+### [is_value_required.secret](/_secret/schema-org/Property/Flags/is_value_required.secret.md)
+

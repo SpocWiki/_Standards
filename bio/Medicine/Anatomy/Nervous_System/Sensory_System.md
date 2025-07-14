@@ -27,3 +27,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Sensory%20nervous%20system)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sensory_System](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System.md) 
+
+### [Sensory_System.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System.public.md) 
+
+### [Sensory_System.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.internal.md) 
+
+### [Sensory_System.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System.protect.md) 
+
+### [Sensory_System.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System.private.md) 
+
+### [Sensory_System.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System.personal.md) 
+
+### [Sensory_System.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System.secret.md)
+

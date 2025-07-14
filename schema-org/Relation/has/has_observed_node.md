@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_observed_node )
 ( #has_/range :: StatisticalPopulation )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_observed_node](/_public/schema-org/Relation/has/has_observed_node.md) 
+### [has_observed_node](/_Standards/schema-org/Relation/has/has_observed_node.md) 
+
+### [has_observed_node.public](/_public/schema-org/Relation/has/has_observed_node.public.md) 
 
 ### [has_observed_node.internal](/_internal/schema-org/Relation/has/has_observed_node.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_observed_node.personal](/_personal/schema-org/Relation/has/has_observed_node.personal.md) 
 
-### [has_observed_node.secret](/_secret/schema-org/Relation/has/has_observed_node.secret.md) 
+### [has_observed_node.secret](/_secret/schema-org/Relation/has/has_observed_node.secret.md)
+

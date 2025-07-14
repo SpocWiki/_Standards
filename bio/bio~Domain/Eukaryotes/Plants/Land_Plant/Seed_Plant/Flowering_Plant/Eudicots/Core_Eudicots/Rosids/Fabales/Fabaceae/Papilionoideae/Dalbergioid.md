@@ -117,3 +117,22 @@ Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 Scientific Name ::     Inocarpus edulis Forst.
 Specimen Condition   Live Specimen
 Copyright ::            © G. D. Carr
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dalbergioid](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.md) 
+
+### [Dalbergioid.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.public.md) 
+
+### [Dalbergioid.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.internal.md) 
+
+### [Dalbergioid.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.protect.md) 
+
+### [Dalbergioid.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.private.md) 
+
+### [Dalbergioid.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.personal.md) 
+
+### [Dalbergioid.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Papilionoideae/Dalbergioid.secret.md)
+

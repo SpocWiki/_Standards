@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1226,7 +1226,9 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWorkAndSeries](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.md) 
+### [FileClass~CreativeWorkAndSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.md) 
+
+### [FileClass~CreativeWorkAndSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.public.md) 
 
 ### [FileClass~CreativeWorkAndSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.internal.md) 
 
@@ -1236,4 +1238,5 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~CreativeWorkAndSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.personal.md) 
 
-### [FileClass~CreativeWorkAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.secret.md) 
+### [FileClass~CreativeWorkAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.secret.md)
+

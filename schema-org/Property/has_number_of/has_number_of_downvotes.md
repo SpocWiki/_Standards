@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_downvotes )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_downvotes](/_public/schema-org/Property/has_number_of/has_number_of_downvotes.md) 
+### [has_number_of_downvotes](/_Standards/schema-org/Property/has_number_of/has_number_of_downvotes.md) 
+
+### [has_number_of_downvotes.public](/_public/schema-org/Property/has_number_of/has_number_of_downvotes.public.md) 
 
 ### [has_number_of_downvotes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_downvotes.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_downvotes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_downvotes.personal.md) 
 
-### [has_number_of_downvotes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_downvotes.secret.md) 
+### [has_number_of_downvotes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_downvotes.secret.md)
+

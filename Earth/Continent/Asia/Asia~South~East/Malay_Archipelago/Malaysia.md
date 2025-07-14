@@ -703,9 +703,12 @@ Capital :: [[Kuala_Lumpur]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malaysia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Malaysia](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.md) 
+### [Malaysia](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.md) 
+
+### [Malaysia.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public.md) 
 
 ### [Malaysia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal.md) 
 
@@ -715,4 +718,5 @@ Capital :: [[Kuala_Lumpur]]
 
 ### [Malaysia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal.md) 
 
-### [Malaysia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret.md) 
+### [Malaysia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret.md)
+

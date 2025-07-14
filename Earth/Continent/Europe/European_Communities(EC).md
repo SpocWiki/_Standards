@@ -1,4 +1,4 @@
-﻿
+
 > The European Communities (EC) were 3 international organizations 
 > that were governed by the same set of institutions. These were 
 > - the European Coal and Steel Community (ECSC), 
@@ -39,7 +39,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [European_Communities(EC)](/_public/Earth/Continent/Europe/European_Communities(EC).md) 
+### [European_Communities(EC)](/_Standards/Earth/Continent/Europe/European_Communities(EC).md) 
+
+### [European_Communities(EC).public](/_public/Earth/Continent/Europe/European_Communities(EC).public.md) 
 
 ### [European_Communities(EC).internal](/_internal/Earth/Continent/Europe/European_Communities(EC).internal.md) 
 
@@ -49,4 +51,5 @@
 
 ### [European_Communities(EC).personal](/_personal/Earth/Continent/Europe/European_Communities(EC).personal.md) 
 
-### [European_Communities(EC).secret](/_secret/Earth/Continent/Europe/European_Communities(EC).secret.md) 
+### [European_Communities(EC).secret](/_secret/Earth/Continent/Europe/European_Communities(EC).secret.md)
+

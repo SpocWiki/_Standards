@@ -154,11 +154,11 @@ electron_configuration: "[Ar] 3d⁷ 4s²"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cobalt)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cobalt](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
+### [Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
+
+### [Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.public.md) 
 
 ### [Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.internal.md) 
 
@@ -168,4 +168,5 @@ electron_configuration: "[Ar] 3d⁷ 4s²"
 
 ### [Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.personal.md) 
 
-### [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md) 
+### [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md)
+

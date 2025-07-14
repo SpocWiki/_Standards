@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An EducationalAudience.
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, educationalRole, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [educational_audience](/_public/schema-org/Class/is_a_/Intangible/audience/educational_audience.md) 
+### [educational_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/educational_audience.md) 
+
+### [educational_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/educational_audience.public.md) 
 
 ### [educational_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/educational_audience.internal.md) 
 
@@ -54,4 +57,5 @@ An EducationalAudience.
 
 ### [educational_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/educational_audience.personal.md) 
 
-### [educational_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/educational_audience.secret.md) 
+### [educational_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/educational_audience.secret.md)
+

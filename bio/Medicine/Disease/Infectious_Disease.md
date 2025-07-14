@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12198
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~tumor,133212]]'
@@ -79,4 +79,23 @@ Commons_category: "Sexually transmitted diseases and disorders"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Infection) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Infectious_Disease](/_Standards/bio/Medicine/Disease/Infectious_Disease.md) 
+
+### [Infectious_Disease.public](/_public/bio/Medicine/Disease/Infectious_Disease.public.md) 
+
+### [Infectious_Disease.internal](/_internal/bio/Medicine/Disease/Infectious_Disease.internal.md) 
+
+### [Infectious_Disease.protect](/_protect/bio/Medicine/Disease/Infectious_Disease.protect.md) 
+
+### [Infectious_Disease.private](/_private/bio/Medicine/Disease/Infectious_Disease.private.md) 
+
+### [Infectious_Disease.personal](/_personal/bio/Medicine/Disease/Infectious_Disease.personal.md) 
+
+### [Infectious_Disease.secret](/_secret/bio/Medicine/Disease/Infectious_Disease.secret.md)
 

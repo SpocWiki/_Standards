@@ -69,3 +69,22 @@ Scientific Name ::    Veneridae
 Comments            a venus clam
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bivalvia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.md) 
+
+### [Bivalvia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.public.md) 
+
+### [Bivalvia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.internal.md) 
+
+### [Bivalvia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.protect.md) 
+
+### [Bivalvia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.private.md) 
+
+### [Bivalvia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.personal.md) 
+
+### [Bivalvia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.secret.md)
+

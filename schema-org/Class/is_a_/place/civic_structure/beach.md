@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Beach.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [beach](/_public/schema-org/Class/is_a_/place/civic_structure/beach.md) 
+### [beach](/_Standards/schema-org/Class/is_a_/place/civic_structure/beach.md) 
+
+### [beach.public](/_public/schema-org/Class/is_a_/place/civic_structure/beach.public.md) 
 
 ### [beach.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/beach.internal.md) 
 
@@ -54,4 +57,5 @@ Beach.
 
 ### [beach.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/beach.personal.md) 
 
-### [beach.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/beach.secret.md) 
+### [beach.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/beach.secret.md)
+

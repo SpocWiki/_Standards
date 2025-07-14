@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_resizable )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_resizable](/_public/schema-org/Property/Flags/is_resizable.md) 
+### [is_resizable](/_Standards/schema-org/Property/Flags/is_resizable.md) 
+
+### [is_resizable.public](/_public/schema-org/Property/Flags/is_resizable.public.md) 
 
 ### [is_resizable.internal](/_internal/schema-org/Property/Flags/is_resizable.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_resizable.personal](/_personal/schema-org/Property/Flags/is_resizable.personal.md) 
 
-### [is_resizable.secret](/_secret/schema-org/Property/Flags/is_resizable.secret.md) 
+### [is_resizable.secret](/_secret/schema-org/Property/Flags/is_resizable.secret.md)
+

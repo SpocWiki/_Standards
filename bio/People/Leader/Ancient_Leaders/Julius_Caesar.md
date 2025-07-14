@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Julius Caesar"
 - "Gaius Julius Caesar"
@@ -192,4 +192,23 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/5324
 > Caesar was an accomplished author and historian as well as a statesman; much of his life is known from his own accounts of his military campaigns. Other contemporary sources include the letters and speeches of Cicero and the historical writings of Sallust. Later biographies of Caesar by Suetonius and Plutarch are also important sources. Caesar is considered by many historians to be one of the greatest military commanders in history. His cognomen was subsequently adopted as a synonym for "Emperor"; the title "Caesar" was used throughout the Roman Empire, giving rise to modern descendants such as Kaiser and Tsar. He has frequently appeared in literary and artistic works.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Julius%20Caesar)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Julius_Caesar](/_Standards/bio/People/Leader/Ancient_Leaders/Julius_Caesar.md) 
+
+### [Julius_Caesar.public](/_public/bio/People/Leader/Ancient_Leaders/Julius_Caesar.public.md) 
+
+### [Julius_Caesar.internal](/_internal/bio/People/Leader/Ancient_Leaders/Julius_Caesar.internal.md) 
+
+### [Julius_Caesar.protect](/_protect/bio/People/Leader/Ancient_Leaders/Julius_Caesar.protect.md) 
+
+### [Julius_Caesar.private](/_private/bio/People/Leader/Ancient_Leaders/Julius_Caesar.private.md) 
+
+### [Julius_Caesar.personal](/_personal/bio/People/Leader/Ancient_Leaders/Julius_Caesar.personal.md) 
+
+### [Julius_Caesar.secret](/_secret/bio/People/Leader/Ancient_Leaders/Julius_Caesar.secret.md)
 

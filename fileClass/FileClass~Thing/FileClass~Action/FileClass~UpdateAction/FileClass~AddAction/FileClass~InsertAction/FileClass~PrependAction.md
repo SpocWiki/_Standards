@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of inserting at the beginning if an ordered collection.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PrependAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.md) 
+### [FileClass~PrependAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.md) 
+
+### [FileClass~PrependAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.public.md) 
 
 ### [FileClass~PrependAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of inserting at the beginning if an ordered collection.
 
 ### [FileClass~PrependAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.personal.md) 
 
-### [FileClass~PrependAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.secret.md) 
+### [FileClass~PrependAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction/FileClass~PrependAction.secret.md)
+

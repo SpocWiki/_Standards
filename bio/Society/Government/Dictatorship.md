@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q317
 subclass_of:
 - '[[_Standards/WikiData/WD~autocracy,173424]]'
@@ -29,4 +29,23 @@ Colon_Classification: W64
 > [Wikipedia](https://en.wikipedia.org/wiki/Dictatorship)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dictatorship](/_Standards/bio/Society/Government/Dictatorship.md) 
+
+### [Dictatorship.public](/_public/bio/Society/Government/Dictatorship.public.md) 
+
+### [Dictatorship.internal](/_internal/bio/Society/Government/Dictatorship.internal.md) 
+
+### [Dictatorship.protect](/_protect/bio/Society/Government/Dictatorship.protect.md) 
+
+### [Dictatorship.private](/_private/bio/Society/Government/Dictatorship.private.md) 
+
+### [Dictatorship.personal](/_personal/bio/Society/Government/Dictatorship.personal.md) 
+
+### [Dictatorship.secret](/_secret/bio/Society/Government/Dictatorship.secret.md)
 

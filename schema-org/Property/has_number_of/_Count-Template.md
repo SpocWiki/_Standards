@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_Count-Template](/_public/schema-org/Property/has_number_of/_Count-Template.md) 
+### [_Count-Template](/_Standards/schema-org/Property/has_number_of/_Count-Template.md) 
+
+### [_Count-Template.public](/_public/schema-org/Property/has_number_of/_Count-Template.public.md) 
 
 ### [_Count-Template.internal](/_internal/schema-org/Property/has_number_of/_Count-Template.internal.md) 
 
@@ -67,4 +70,5 @@ Predicate describes that:
 
 ### [_Count-Template.personal](/_personal/schema-org/Property/has_number_of/_Count-Template.personal.md) 
 
-### [_Count-Template.secret](/_secret/schema-org/Property/has_number_of/_Count-Template.secret.md) 
+### [_Count-Template.secret](/_secret/schema-org/Property/has_number_of/_Count-Template.secret.md)
+

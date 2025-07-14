@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_no_bylines_policy](/_public/schema-org/Relation/has/has_no_bylines_policy.md) 
+### [has_no_bylines_policy](/_Standards/schema-org/Relation/has/has_no_bylines_policy.md) 
+
+### [has_no_bylines_policy.public](/_public/schema-org/Relation/has/has_no_bylines_policy.public.md) 
 
 ### [has_no_bylines_policy.internal](/_internal/schema-org/Relation/has/has_no_bylines_policy.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_no_bylines_policy.personal](/_personal/schema-org/Relation/has/has_no_bylines_policy.personal.md) 
 
-### [has_no_bylines_policy.secret](/_secret/schema-org/Relation/has/has_no_bylines_policy.secret.md) 
+### [has_no_bylines_policy.secret](/_secret/schema-org/Relation/has/has_no_bylines_policy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -58,10 +58,11 @@ Length of the lease for some [[Accommodation]], either particular to some [[Offe
 LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RealEstateListing](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.md) 
+### [FileClass~RealEstateListing](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.md) 
+
+### [FileClass~RealEstateListing.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.public.md) 
 
 ### [FileClass~RealEstateListing.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.internal.md) 
 
@@ -71,4 +72,5 @@ LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ### [FileClass~RealEstateListing.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.personal.md) 
 
-### [FileClass~RealEstateListing.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.secret.md) 
+### [FileClass~RealEstateListing.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~RealEstateListing.secret.md)
+

@@ -76,3 +76,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20Republic) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [9490-Roman_Republic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.md) 
+
+### [9490-Roman_Republic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.public.md) 
+
+### [9490-Roman_Republic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.internal.md) 
+
+### [9490-Roman_Republic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.protect.md) 
+
+### [9490-Roman_Republic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.private.md) 
+
+### [9490-Roman_Republic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.personal.md) 
+
+### [9490-Roman_Republic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9247-Ancient_Rome/9490-Roman_Republic.secret.md)
+

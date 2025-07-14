@@ -308,3 +308,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Borg,Björn](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.md) 
+
+### [Borg,Björn.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.public.md) 
+
+### [Borg,Björn.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.internal.md) 
+
+### [Borg,Björn.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.protect.md) 
+
+### [Borg,Björn.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.private.md) 
+
+### [Borg,Björn.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.personal.md) 
+
+### [Borg,Björn.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.secret.md)
+

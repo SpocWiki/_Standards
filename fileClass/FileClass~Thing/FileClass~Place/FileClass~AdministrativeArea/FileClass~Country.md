@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A country.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Country](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.md) 
+### [FileClass~Country](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.md) 
+
+### [FileClass~Country.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.public.md) 
 
 ### [FileClass~Country.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.internal.md) 
 
@@ -46,4 +47,5 @@ A country.
 
 ### [FileClass~Country.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.personal.md) 
 
-### [FileClass~Country.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.secret.md) 
+### [FileClass~Country.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.secret.md)
+

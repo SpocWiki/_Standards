@@ -129,3 +129,21 @@ urediniomycetous yeasts.
   Collector            M. Lutz
   Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Pucciniomycotina](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.md) 
+
+### [Pucciniomycotina.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.public.md) 
+
+### [Pucciniomycotina.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.internal.md) 
+
+### [Pucciniomycotina.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.protect.md) 
+
+### [Pucciniomycotina.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.private.md) 
+
+### [Pucciniomycotina.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.personal.md) 
+
+### [Pucciniomycotina.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina.secret.md)
+

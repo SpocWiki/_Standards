@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exem
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c2](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.md) 
+### [nonprofit501c2](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.md) 
+
+### [nonprofit501c2.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.public.md) 
 
 ### [nonprofit501c2.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.internal.md) 
 
@@ -58,4 +61,5 @@ Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exem
 
 ### [nonprofit501c2.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.personal.md) 
 
-### [nonprofit501c2.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.secret.md) 
+### [nonprofit501c2.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.secret.md)
+

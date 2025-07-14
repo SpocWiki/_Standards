@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,10 +66,11 @@ The vasculature the lymphatic structure runs, or efferents, to.
 RunsTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LymphaticVessel](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.md) 
+### [FileClass~LymphaticVessel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.md) 
+
+### [FileClass~LymphaticVessel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.public.md) 
 
 ### [FileClass~LymphaticVessel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.internal.md) 
 
@@ -79,4 +80,5 @@ RunsTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~LymphaticVessel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.personal.md) 
 
-### [FileClass~LymphaticVessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.secret.md) 
+### [FileClass~LymphaticVessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel/FileClass~LymphaticVessel.secret.md)
+

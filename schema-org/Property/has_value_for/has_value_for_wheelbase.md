@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_wheelbase )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_wheelbase](/_public/schema-org/Property/has_value_for/has_value_for_wheelbase.md) 
+### [has_value_for_wheelbase](/_Standards/schema-org/Property/has_value_for/has_value_for_wheelbase.md) 
+
+### [has_value_for_wheelbase.public](/_public/schema-org/Property/has_value_for/has_value_for_wheelbase.public.md) 
 
 ### [has_value_for_wheelbase.internal](/_internal/schema-org/Property/has_value_for/has_value_for_wheelbase.internal.md) 
 
@@ -62,4 +65,5 @@ Predicate describes that:
 
 ### [has_value_for_wheelbase.personal](/_personal/schema-org/Property/has_value_for/has_value_for_wheelbase.personal.md) 
 
-### [has_value_for_wheelbase.secret](/_secret/schema-org/Property/has_value_for/has_value_for_wheelbase.secret.md) 
+### [has_value_for_wheelbase.secret](/_secret/schema-org/Property/has_value_for/has_value_for_wheelbase.secret.md)
+

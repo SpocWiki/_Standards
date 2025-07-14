@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_order)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_order](/_public/schema-org/Property/has_Date_Time/has_time_of_order.md) 
+### [has_time_of_order](/_Standards/schema-org/Property/has_Date_Time/has_time_of_order.md) 
+
+### [has_time_of_order.public](/_public/schema-org/Property/has_Date_Time/has_time_of_order.public.md) 
 
 ### [has_time_of_order.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_order.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_order.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_order.personal.md) 
 
-### [has_time_of_order.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_order.secret.md) 
+### [has_time_of_order.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_order.secret.md)
+

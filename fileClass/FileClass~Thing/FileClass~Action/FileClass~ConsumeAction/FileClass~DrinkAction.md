@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of swallowing liquids.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrinkAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.md) 
+### [FileClass~DrinkAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.md) 
+
+### [FileClass~DrinkAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.public.md) 
 
 ### [FileClass~DrinkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of swallowing liquids.
 
 ### [FileClass~DrinkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.personal.md) 
 
-### [FileClass~DrinkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.secret.md) 
+### [FileClass~DrinkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.secret.md)
+

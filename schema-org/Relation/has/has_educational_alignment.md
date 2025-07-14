@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_educational_alignment )
 ( #has_/range :: AlignmentObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_educational_alignment](/_public/schema-org/Relation/has/has_educational_alignment.md) 
+### [has_educational_alignment](/_Standards/schema-org/Relation/has/has_educational_alignment.md) 
+
+### [has_educational_alignment.public](/_public/schema-org/Relation/has/has_educational_alignment.public.md) 
 
 ### [has_educational_alignment.internal](/_internal/schema-org/Relation/has/has_educational_alignment.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_educational_alignment.personal](/_personal/schema-org/Relation/has/has_educational_alignment.personal.md) 
 
-### [has_educational_alignment.secret](/_secret/schema-org/Relation/has/has_educational_alignment.secret.md) 
+### [has_educational_alignment.secret](/_secret/schema-org/Relation/has/has_educational_alignment.secret.md)
+

@@ -60,10 +60,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~1~Terreneuvian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.md) 
+### [Epoch~1~Terreneuvian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.md) 
+
+### [Epoch~1~Terreneuvian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.public.md) 
 
 ### [Epoch~1~Terreneuvian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.internal.md) 
 
@@ -73,4 +74,5 @@ noteOnly: true
 
 ### [Epoch~1~Terreneuvian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.personal.md) 
 
-### [Epoch~1~Terreneuvian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.secret.md) 
+### [Epoch~1~Terreneuvian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.secret.md)
+

@@ -1,4 +1,4 @@
-﻿# [[Antarctic~African]] 
+# [[Antarctic~African]] 
 
 ## Edit
 
@@ -34,7 +34,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~African](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.md) 
+### [Antarctic~African](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African.md) 
+
+### [Antarctic~African.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.public.md) 
 
 ### [Antarctic~African.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.internal.md) 
 
@@ -44,4 +46,5 @@ noteOnly: true
 
 ### [Antarctic~African.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.personal.md) 
 
-### [Antarctic~African.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret.md) 
+### [Antarctic~African.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret.md)
+

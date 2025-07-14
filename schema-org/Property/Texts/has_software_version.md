@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_software_version )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_software_version](/_public/schema-org/Property/Texts/has_software_version.md) 
+### [has_software_version](/_Standards/schema-org/Property/Texts/has_software_version.md) 
+
+### [has_software_version.public](/_public/schema-org/Property/Texts/has_software_version.public.md) 
 
 ### [has_software_version.internal](/_internal/schema-org/Property/Texts/has_software_version.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_software_version.personal](/_personal/schema-org/Property/Texts/has_software_version.personal.md) 
 
-### [has_software_version.secret](/_secret/schema-org/Property/Texts/has_software_version.secret.md) 
+### [has_software_version.secret](/_secret/schema-org/Property/Texts/has_software_version.secret.md)
+

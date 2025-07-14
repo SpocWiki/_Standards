@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_archived_at )
 ( #has_/range :: URL, WebPage )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_archived_at](/_public/schema-org/Property/has_url_for/has_url_for_archived_at.md) 
+### [has_url_for_archived_at](/_Standards/schema-org/Property/has_url_for/has_url_for_archived_at.md) 
+
+### [has_url_for_archived_at.public](/_public/schema-org/Property/has_url_for/has_url_for_archived_at.public.md) 
 
 ### [has_url_for_archived_at.internal](/_internal/schema-org/Property/has_url_for/has_url_for_archived_at.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_archived_at.personal](/_personal/schema-org/Property/has_url_for/has_url_for_archived_at.personal.md) 
 
-### [has_url_for_archived_at.secret](/_secret/schema-org/Property/has_url_for/has_url_for_archived_at.secret.md) 
+### [has_url_for_archived_at.secret](/_secret/schema-org/Property/has_url_for/has_url_for_archived_at.secret.md)
+

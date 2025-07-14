@@ -152,3 +152,21 @@ waters. Ann. South African Mus., 50: 61-88.
   Reference         From Joubin, L. 1933. Notes préliminaires sur les céphalopodes des croisières du DANA. Ann. Instit. Océanogr. 13:1-49., from Voss, G. L. 1967. Some bathypelagic cephalopods from South African waters. Ann. South African Mus. 50:61-88. (3)
   Creator           J. R. Schroeder (2)
   -------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [mega](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.md) 
+
+### [mega.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.public.md) 
+
+### [mega.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.internal.md) 
+
+### [mega.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.protect.md) 
+
+### [mega.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.private.md) 
+
+### [mega.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.personal.md) 
+
+### [mega.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Chiroteuthis/mega.secret.md)
+

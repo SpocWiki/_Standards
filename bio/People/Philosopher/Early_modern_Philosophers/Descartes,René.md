@@ -168,3 +168,21 @@ described_at_URL: "http://www.digiporta.net/index.php?id=679740498"
 > Descartes's Meditations on First Philosophy (1641) continues to be a standard text at most university philosophy departments. Descartes's influence in mathematics is equally apparent, being the namesake of the Cartesian coordinate system. He is credited as the father of analytic geometry—used in the discovery of infinitesimal calculus and analysis. Descartes was also one of the key figures in the Scientific Revolution.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9%20Descartes)
+
+
+## Confidential Links & Embeds: 
+
+### [Descartes,René](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.md) 
+
+### [Descartes,René.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.public.md) 
+
+### [Descartes,René.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.internal.md) 
+
+### [Descartes,René.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.protect.md) 
+
+### [Descartes,René.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.private.md) 
+
+### [Descartes,René.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.personal.md) 
+
+### [Descartes,René.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Descartes,René.secret.md)
+

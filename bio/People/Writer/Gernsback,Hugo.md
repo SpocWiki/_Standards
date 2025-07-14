@@ -35,3 +35,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gernsback,Hugo](/_Standards/bio/People/Writer/Gernsback,Hugo.md) 
+
+### [Gernsback,Hugo.public](/_public/bio/People/Writer/Gernsback,Hugo.public.md) 
+
+### [Gernsback,Hugo.internal](/_internal/bio/People/Writer/Gernsback,Hugo.internal.md) 
+
+### [Gernsback,Hugo.protect](/_protect/bio/People/Writer/Gernsback,Hugo.protect.md) 
+
+### [Gernsback,Hugo.private](/_private/bio/People/Writer/Gernsback,Hugo.private.md) 
+
+### [Gernsback,Hugo.personal](/_personal/bio/People/Writer/Gernsback,Hugo.personal.md) 
+
+### [Gernsback,Hugo.secret](/_secret/bio/People/Writer/Gernsback,Hugo.secret.md)
+

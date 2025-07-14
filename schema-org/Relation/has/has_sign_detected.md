@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_sign_detected )
 ( #has_/range :: MedicalSign )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sign_detected](/_public/schema-org/Relation/has/has_sign_detected.md) 
+### [has_sign_detected](/_Standards/schema-org/Relation/has/has_sign_detected.md) 
+
+### [has_sign_detected.public](/_public/schema-org/Relation/has/has_sign_detected.public.md) 
 
 ### [has_sign_detected.internal](/_internal/schema-org/Relation/has/has_sign_detected.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_sign_detected.personal](/_personal/schema-org/Relation/has/has_sign_detected.personal.md) 
 
-### [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md) 
+### [has_sign_detected.secret](/_secret/schema-org/Relation/has/has_sign_detected.secret.md)
+

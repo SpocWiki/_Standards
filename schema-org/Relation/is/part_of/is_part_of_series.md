@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ The series to which this episode or season belongs.
 
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_part_of_series](/_public/schema-org/Relation/is/part_of/is_part_of_series.md) 
+### [is_part_of_series](/_Standards/schema-org/Relation/is/part_of/is_part_of_series.md) 
+
+### [is_part_of_series.public](/_public/schema-org/Relation/is/part_of/is_part_of_series.public.md) 
 
 ### [is_part_of_series.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_series.internal.md) 
 
@@ -55,4 +58,5 @@ The series to which this episode or season belongs.
 
 ### [is_part_of_series.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_series.personal.md) 
 
-### [is_part_of_series.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret.md) 
+### [is_part_of_series.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret.md)
+

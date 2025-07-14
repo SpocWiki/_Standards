@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is refurbished.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [refurbished_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.md) 
+### [refurbished_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.md) 
+
+### [refurbished_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.public.md) 
 
 ### [refurbished_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is refurbished.
 
 ### [refurbished_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.personal.md) 
 
-### [refurbished_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.secret.md) 
+### [refurbished_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/refurbished_condition.secret.md)
+

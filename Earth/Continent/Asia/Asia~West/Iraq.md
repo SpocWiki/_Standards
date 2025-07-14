@@ -500,9 +500,12 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iraq)
 
+
 ## Confidential Links & Embeds: 
 
-### [Iraq](/_public/Earth/Continent/Asia/Asia~West/Iraq.md) 
+### [Iraq](/_Standards/Earth/Continent/Asia/Asia~West/Iraq.md) 
+
+### [Iraq.public](/_public/Earth/Continent/Asia/Asia~West/Iraq.public.md) 
 
 ### [Iraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal.md) 
 
@@ -512,4 +515,5 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 
 ### [Iraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq.personal.md) 
 
-### [Iraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret.md) 
+### [Iraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret.md)
+

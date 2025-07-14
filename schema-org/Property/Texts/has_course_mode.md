@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_course_mode )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_course_mode](/_public/schema-org/Property/Texts/has_course_mode.md) 
+### [has_course_mode](/_Standards/schema-org/Property/Texts/has_course_mode.md) 
+
+### [has_course_mode.public](/_public/schema-org/Property/Texts/has_course_mode.public.md) 
 
 ### [has_course_mode.internal](/_internal/schema-org/Property/Texts/has_course_mode.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_course_mode.personal](/_personal/schema-org/Property/Texts/has_course_mode.personal.md) 
 
-### [has_course_mode.secret](/_secret/schema-org/Property/Texts/has_course_mode.secret.md) 
+### [has_course_mode.secret](/_secret/schema-org/Property/Texts/has_course_mode.secret.md)
+

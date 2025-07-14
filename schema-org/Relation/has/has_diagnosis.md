@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_diagnosis )
 ( #has_/range :: MedicalCondition )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_diagnosis](/_public/schema-org/Relation/has/has_diagnosis.md) 
+### [has_diagnosis](/_Standards/schema-org/Relation/has/has_diagnosis.md) 
+
+### [has_diagnosis.public](/_public/schema-org/Relation/has/has_diagnosis.public.md) 
 
 ### [has_diagnosis.internal](/_internal/schema-org/Relation/has/has_diagnosis.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_diagnosis.personal](/_personal/schema-org/Relation/has/has_diagnosis.personal.md) 
 
-### [has_diagnosis.secret](/_secret/schema-org/Relation/has/has_diagnosis.secret.md) 
+### [has_diagnosis.secret](/_secret/schema-org/Relation/has/has_diagnosis.secret.md)
+

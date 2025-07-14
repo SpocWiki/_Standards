@@ -113,10 +113,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~3~Cenozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.md) 
+### [Era~3~Cenozoic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.md) 
+
+### [Era~3~Cenozoic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.public.md) 
 
 ### [Era~3~Cenozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.internal.md) 
 
@@ -126,4 +127,5 @@ noteOnly: true
 
 ### [Era~3~Cenozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.personal.md) 
 
-### [Era~3~Cenozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.secret.md) 
+### [Era~3~Cenozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.secret.md)
+

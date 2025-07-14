@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -49,10 +49,11 @@ A diagnostic test that can identify this sign.
 IdentifyingTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalSign](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.md) 
+### [FileClass~MedicalSign](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.md) 
+
+### [FileClass~MedicalSign.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.public.md) 
 
 ### [FileClass~MedicalSign.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.internal.md) 
 
@@ -62,4 +63,5 @@ IdentifyingTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~MedicalSign.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.personal.md) 
 
-### [FileClass~MedicalSign.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.secret.md) 
+### [FileClass~MedicalSign.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign.secret.md)
+

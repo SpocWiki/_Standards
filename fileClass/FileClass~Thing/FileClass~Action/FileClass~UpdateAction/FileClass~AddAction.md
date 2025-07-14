@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of editing by adding an object to a collection.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AddAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.md) 
+### [FileClass~AddAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.md) 
+
+### [FileClass~AddAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.public.md) 
 
 ### [FileClass~AddAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of editing by adding an object to a collection.
 
 ### [FileClass~AddAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.personal.md) 
 
-### [FileClass~AddAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.secret.md) 
+### [FileClass~AddAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.secret.md)
+

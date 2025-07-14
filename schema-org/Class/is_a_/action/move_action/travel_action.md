@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [travel_action](/_public/schema-org/Class/is_a_/action/move_action/travel_action.md) 
+### [travel_action](/_Standards/schema-org/Class/is_a_/action/move_action/travel_action.md) 
+
+### [travel_action.public](/_public/schema-org/Class/is_a_/action/move_action/travel_action.public.md) 
 
 ### [travel_action.internal](/_internal/schema-org/Class/is_a_/action/move_action/travel_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 
 ### [travel_action.personal](/_personal/schema-org/Class/is_a_/action/move_action/travel_action.personal.md) 
 
-### [travel_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/travel_action.secret.md) 
+### [travel_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/travel_action.secret.md)
+

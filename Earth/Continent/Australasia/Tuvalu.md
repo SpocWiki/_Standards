@@ -356,9 +356,12 @@ Capital :: [[Funafuti]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuvalu)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tuvalu](/_public/Earth/Continent/Australasia/Tuvalu.md) 
+### [Tuvalu](/_Standards/Earth/Continent/Australasia/Tuvalu.md) 
+
+### [Tuvalu.public](/_public/Earth/Continent/Australasia/Tuvalu.public.md) 
 
 ### [Tuvalu.internal](/_internal/Earth/Continent/Australasia/Tuvalu.internal.md) 
 
@@ -368,4 +371,5 @@ Capital :: [[Funafuti]]
 
 ### [Tuvalu.personal](/_personal/Earth/Continent/Australasia/Tuvalu.personal.md) 
 
-### [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md) 
+### [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md)
+

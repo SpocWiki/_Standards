@@ -34,3 +34,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polysaccharide)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Polysaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.md) 
+
+### [Polysaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.public.md) 
+
+### [Polysaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.internal.md) 
+
+### [Polysaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.protect.md) 
+
+### [Polysaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.private.md) 
+
+### [Polysaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.personal.md) 
+
+### [Polysaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide.secret.md)
+

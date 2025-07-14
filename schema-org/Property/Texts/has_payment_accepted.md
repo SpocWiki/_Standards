@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_payment_accepted )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_payment_accepted](/_public/schema-org/Property/Texts/has_payment_accepted.md) 
+### [has_payment_accepted](/_Standards/schema-org/Property/Texts/has_payment_accepted.md) 
+
+### [has_payment_accepted.public](/_public/schema-org/Property/Texts/has_payment_accepted.public.md) 
 
 ### [has_payment_accepted.internal](/_internal/schema-org/Property/Texts/has_payment_accepted.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_payment_accepted.personal](/_personal/schema-org/Property/Texts/has_payment_accepted.personal.md) 
 
-### [has_payment_accepted.secret](/_secret/schema-org/Property/Texts/has_payment_accepted.secret.md) 
+### [has_payment_accepted.secret](/_secret/schema-org/Property/Texts/has_payment_accepted.secret.md)
+

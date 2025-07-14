@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Play mode: MultiPlayer. Requiring or allowing multiple human players to play sim
 
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [multi_player](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.md) 
+### [multi_player](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.md) 
+
+### [multi_player.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.public.md) 
 
 ### [multi_player.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.internal.md) 
 
@@ -56,4 +59,5 @@ Play mode: MultiPlayer. Requiring or allowing multiple human players to play sim
 
 ### [multi_player.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.personal.md) 
 
-### [multi_player.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.secret.md) 
+### [multi_player.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/multi_player.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_payment_url )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_payment](/_public/schema-org/Property/has_url_for/has_url_for_payment.md) 
+### [has_url_for_payment](/_Standards/schema-org/Property/has_url_for/has_url_for_payment.md) 
+
+### [has_url_for_payment.public](/_public/schema-org/Property/has_url_for/has_url_for_payment.public.md) 
 
 ### [has_url_for_payment.internal](/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_url_for_payment.personal](/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal.md) 
 
-### [has_url_for_payment.secret](/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret.md) 
+### [has_url_for_payment.secret](/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret.md)
+

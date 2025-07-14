@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21919
 has_id_wikidata: Q696
@@ -110,9 +110,12 @@ CAS_Registry_Number: 7440-37-1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Argon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Argon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.md) 
+### [Argon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.md) 
+
+### [Argon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.public.md) 
 
 ### [Argon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.internal.md) 
 
@@ -122,4 +125,5 @@ CAS_Registry_Number: 7440-37-1
 
 ### [Argon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.personal.md) 
 
-### [Argon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.secret.md) 
+### [Argon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Argon.secret.md)
+

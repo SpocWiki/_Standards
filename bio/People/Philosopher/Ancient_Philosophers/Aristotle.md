@@ -203,3 +203,22 @@ Experience => Thinking => Reality
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Aristotle](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Aristotle.md) 
+
+### [Aristotle.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Aristotle.public.md) 
+
+### [Aristotle.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.internal.md) 
+
+### [Aristotle.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Aristotle.protect.md) 
+
+### [Aristotle.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Aristotle.private.md) 
+
+### [Aristotle.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.personal.md) 
+
+### [Aristotle.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Aristotle.secret.md)
+

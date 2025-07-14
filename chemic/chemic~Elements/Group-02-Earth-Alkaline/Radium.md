@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21983
 has_id_wikidata: Q1128
@@ -117,7 +117,9 @@ Commons_category: Radium
 
 ## Confidential Links & Embeds: 
 
-### [Radium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.md) 
+### [Radium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.md) 
+
+### [Radium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.public.md) 
 
 ### [Radium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.internal.md) 
 
@@ -127,4 +129,5 @@ Commons_category: Radium
 
 ### [Radium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.personal.md) 
 
-### [Radium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.secret.md) 
+### [Radium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Radium.secret.md)
+

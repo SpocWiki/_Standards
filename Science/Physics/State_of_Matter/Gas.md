@@ -34,3 +34,22 @@ Krugosvet_article: nauka_i_tehnika/himiya/GAZ.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gas)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gas](/_Standards/Science/Physics/State_of_Matter/Gas.md) 
+
+### [Gas.public](/_public/Science/Physics/State_of_Matter/Gas.public.md) 
+
+### [Gas.internal](/_internal/Science/Physics/State_of_Matter/Gas.internal.md) 
+
+### [Gas.protect](/_protect/Science/Physics/State_of_Matter/Gas.protect.md) 
+
+### [Gas.private](/_private/Science/Physics/State_of_Matter/Gas.private.md) 
+
+### [Gas.personal](/_personal/Science/Physics/State_of_Matter/Gas.personal.md) 
+
+### [Gas.secret](/_secret/Science/Physics/State_of_Matter/Gas.secret.md)
+

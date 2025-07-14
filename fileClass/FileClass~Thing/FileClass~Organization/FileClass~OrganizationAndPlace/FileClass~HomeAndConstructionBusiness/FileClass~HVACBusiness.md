@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HVACBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.md) 
+### [FileClass~HVACBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.md) 
+
+### [FileClass~HVACBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.public.md) 
 
 ### [FileClass~HVACBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.internal.md) 
 
@@ -46,4 +47,5 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 
 ### [FileClass~HVACBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.personal.md) 
 
-### [FileClass~HVACBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.secret.md) 
+### [FileClass~HVACBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~HVACBusiness.secret.md)
+

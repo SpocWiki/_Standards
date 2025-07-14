@@ -73,14 +73,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Mesolithic](/_public/Time-Ages/human-ages/Stone-Age/Mesolithic.md) 
+### [0000-Mesolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.md) 
 
-### [Mesolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Mesolithic.internal.md) 
+### [0000-Mesolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.public.md) 
 
-### [Mesolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Mesolithic.protect.md) 
+### [0000-Mesolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.internal.md) 
 
-### [Mesolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Mesolithic.private.md) 
+### [0000-Mesolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.protect.md) 
 
-### [Mesolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Mesolithic.personal.md) 
+### [0000-Mesolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.private.md) 
 
-### [Mesolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Mesolithic.secret.md) 
+### [0000-Mesolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.personal.md) 
+
+### [0000-Mesolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0000-Mesolithic.secret.md)
+

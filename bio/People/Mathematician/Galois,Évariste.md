@@ -73,3 +73,22 @@ BHCL_UUID: a05e33c2-ebe7-46cb-8d94-90baa8fe0c62
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89variste%20Galois)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Galois,Évariste](/_Standards/bio/People/Mathematician/Galois,Évariste.md) 
+
+### [Galois,Évariste.public](/_public/bio/People/Mathematician/Galois,Évariste.public.md) 
+
+### [Galois,Évariste.internal](/_internal/bio/People/Mathematician/Galois,Évariste.internal.md) 
+
+### [Galois,Évariste.protect](/_protect/bio/People/Mathematician/Galois,Évariste.protect.md) 
+
+### [Galois,Évariste.private](/_private/bio/People/Mathematician/Galois,Évariste.private.md) 
+
+### [Galois,Évariste.personal](/_personal/bio/People/Mathematician/Galois,Évariste.personal.md) 
+
+### [Galois,Évariste.secret](/_secret/bio/People/Mathematician/Galois,Évariste.secret.md)
+

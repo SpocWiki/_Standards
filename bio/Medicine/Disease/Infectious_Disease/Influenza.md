@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2840
 symptoms_and_signs:
 - '[[_Standards/WikiData/WD~rhinitis,114085]]'
@@ -104,4 +104,23 @@ Krugosvet_article: medicina/GRIPP.html
 > In a typical year, five to 15 percent of the population contracts influenza. There are 3 to 5 million severe cases annually, with up to 650,000 respiratory-related deaths globally each year. Deaths most commonly occur in high-risk groups, including young children, the elderly, and people with chronic health conditions. In temperate regions, the number of influenza cases peaks during winter, whereas in the tropics, influenza can occur year-round. Since the late 1800s, pandemic outbreaks of novel influenza strains have occurred every 10 to 50 years. Five flu pandemics have occurred since 1900: the Spanish flu from 1918 to 1920, which was the most severe; the Asian flu in 1957; the Hong Kong flu in 1968; the Russian flu in 1977; and the swine flu pandemic in 2009.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Influenza)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Influenza](/_Standards/bio/Medicine/Disease/Infectious_Disease/Influenza.md) 
+
+### [Influenza.public](/_public/bio/Medicine/Disease/Infectious_Disease/Influenza.public.md) 
+
+### [Influenza.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Influenza.internal.md) 
+
+### [Influenza.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Influenza.protect.md) 
+
+### [Influenza.private](/_private/bio/Medicine/Disease/Infectious_Disease/Influenza.private.md) 
+
+### [Influenza.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Influenza.personal.md) 
+
+### [Influenza.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Influenza.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_misses](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md) 
+### [wearable_size_group_misses](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md) 
+
+### [wearable_size_group_misses.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.public.md) 
 
 ### [wearable_size_group_misses.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md) 
 
@@ -58,4 +61,5 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 ### [wearable_size_group_misses.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.personal.md) 
 
-### [wearable_size_group_misses.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.secret.md) 
+### [wearable_size_group_misses.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.secret.md)
+

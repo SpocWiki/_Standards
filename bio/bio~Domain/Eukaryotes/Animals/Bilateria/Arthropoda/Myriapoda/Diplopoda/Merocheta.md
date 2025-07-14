@@ -89,3 +89,22 @@ Specimen Condition   Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Merocheta](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.md) 
+
+### [Merocheta.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.public.md) 
+
+### [Merocheta.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.internal.md) 
+
+### [Merocheta.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.protect.md) 
+
+### [Merocheta.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.private.md) 
+
+### [Merocheta.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.personal.md) 
+
+### [Merocheta.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Merocheta.secret.md)
+

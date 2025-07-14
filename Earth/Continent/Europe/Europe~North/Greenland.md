@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 64.25
     - -51.67
@@ -140,10 +140,11 @@ Capital :: [[Godthab]]
 [has_place_latitude::64.25]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Greenland](/_public/Earth/Continent/Europe/Europe~North/Greenland.md) 
+### [Greenland](/_Standards/Earth/Continent/Europe/Europe~North/Greenland.md) 
+
+### [Greenland.public](/_public/Earth/Continent/Europe/Europe~North/Greenland.public.md) 
 
 ### [Greenland.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal.md) 
 
@@ -153,4 +154,5 @@ Capital :: [[Godthab]]
 
 ### [Greenland.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal.md) 
 
-### [Greenland.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret.md) 
+### [Greenland.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret.md)
+

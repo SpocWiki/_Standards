@@ -140,3 +140,22 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Locke%20Si
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Locke,John](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.md) 
+
+### [Locke,John.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.public.md) 
+
+### [Locke,John.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.internal.md) 
+
+### [Locke,John.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.protect.md) 
+
+### [Locke,John.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.private.md) 
+
+### [Locke,John.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.personal.md) 
+
+### [Locke,John.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Locke,John.secret.md)
+

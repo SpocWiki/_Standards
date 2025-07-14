@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_checkin_time)
 (range::DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_checkin](/_public/schema-org/Property/has_Date_Time/has_time_of_checkin.md) 
+### [has_time_of_checkin](/_Standards/schema-org/Property/has_Date_Time/has_time_of_checkin.md) 
+
+### [has_time_of_checkin.public](/_public/schema-org/Property/has_Date_Time/has_time_of_checkin.public.md) 
 
 ### [has_time_of_checkin.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_checkin.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_checkin.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_checkin.personal.md) 
 
-### [has_time_of_checkin.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_checkin.secret.md) 
+### [has_time_of_checkin.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_checkin.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1059
 studied_in: '[[_Standards/WikiData/WD~immunology,101929]]'
 has_effect: '[[_Standards/WikiData/WD~immunity,182581]]'
@@ -27,4 +27,23 @@ MeSH_tree_code: A15.382
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Immune_System](/_Standards/bio/Medicine/Anatomy/Immune_System.md) 
+
+### [Immune_System.public](/_public/bio/Medicine/Anatomy/Immune_System.public.md) 
+
+### [Immune_System.internal](/_internal/bio/Medicine/Anatomy/Immune_System.internal.md) 
+
+### [Immune_System.protect](/_protect/bio/Medicine/Anatomy/Immune_System.protect.md) 
+
+### [Immune_System.private](/_private/bio/Medicine/Anatomy/Immune_System.private.md) 
+
+### [Immune_System.personal](/_personal/bio/Medicine/Anatomy/Immune_System.personal.md) 
+
+### [Immune_System.secret](/_secret/bio/Medicine/Anatomy/Immune_System.secret.md)
 

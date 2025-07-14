@@ -119,10 +119,11 @@ Krugosvet_article: nauka_i_tehnika/himiya/TEHNETSI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Technetium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Technetium](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
+### [Technetium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Technetium.md) 
+
+### [Technetium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Technetium.public.md) 
 
 ### [Technetium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Technetium.internal.md) 
 
@@ -132,4 +133,5 @@ Krugosvet_article: nauka_i_tehnika/himiya/TEHNETSI.html
 
 ### [Technetium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Technetium.personal.md) 
 
-### [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md) 
+### [Technetium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Technetium.secret.md)
+

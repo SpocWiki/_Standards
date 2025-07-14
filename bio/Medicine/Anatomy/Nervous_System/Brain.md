@@ -81,3 +81,22 @@ OmegaWiki_Defined_Meaning: 6504
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brain](/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain.md) 
+
+### [Brain.public](/_public/bio/Medicine/Anatomy/Nervous_System/Brain.public.md) 
+
+### [Brain.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Brain.internal.md) 
+
+### [Brain.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Brain.protect.md) 
+
+### [Brain.private](/_private/bio/Medicine/Anatomy/Nervous_System/Brain.private.md) 
+
+### [Brain.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Brain.personal.md) 
+
+### [Brain.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Brain.secret.md)
+

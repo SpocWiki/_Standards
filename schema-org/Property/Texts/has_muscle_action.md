@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_muscle_action )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_muscle_action](/_public/schema-org/Property/Texts/has_muscle_action.md) 
+### [has_muscle_action](/_Standards/schema-org/Property/Texts/has_muscle_action.md) 
+
+### [has_muscle_action.public](/_public/schema-org/Property/Texts/has_muscle_action.public.md) 
 
 ### [has_muscle_action.internal](/_internal/schema-org/Property/Texts/has_muscle_action.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_muscle_action.personal](/_personal/schema-org/Property/Texts/has_muscle_action.personal.md) 
 
-### [has_muscle_action.secret](/_secret/schema-org/Property/Texts/has_muscle_action.secret.md) 
+### [has_muscle_action.secret](/_secret/schema-org/Property/Texts/has_muscle_action.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.1 , 167 ] 
 type: geo-Region
 title: Sanma
@@ -41,7 +41,9 @@ markerFolder: ./Sanma/
 
 ## Confidential Links & Embeds: 
 
-### [Sanma](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.md) 
+### [Sanma](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.md) 
+
+### [Sanma.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.public.md) 
 
 ### [Sanma.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Sanma/
 
 ### [Sanma.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.personal.md) 
 
-### [Sanma.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.secret.md) 
+### [Sanma.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Sanma.secret.md)
+

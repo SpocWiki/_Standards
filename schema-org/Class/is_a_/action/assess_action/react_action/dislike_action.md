@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dislike_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.md) 
+### [dislike_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.md) 
+
+### [dislike_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.public.md) 
 
 ### [dislike_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 ### [dislike_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.personal.md) 
 
-### [dislike_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.secret.md) 
+### [dislike_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/dislike_action.secret.md)
+

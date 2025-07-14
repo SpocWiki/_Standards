@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -126,9 +126,12 @@ Data type: URL.
 
 [ #is_/sub_class_of :: [[../Text]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [URL](/_public/schema-org/Class/is_a_/data_type/text/URL.md) 
+### [URL](/_Standards/schema-org/Class/is_a_/data_type/text/URL.md) 
+
+### [URL.public](/_public/schema-org/Class/is_a_/data_type/text/URL.public.md) 
 
 ### [URL.internal](/_internal/schema-org/Class/is_a_/data_type/text/URL.internal.md) 
 
@@ -138,4 +141,5 @@ Data type: URL.
 
 ### [URL.personal](/_personal/schema-org/Class/is_a_/data_type/text/URL.personal.md) 
 
-### [URL.secret](/_secret/schema-org/Class/is_a_/data_type/text/URL.secret.md) 
+### [URL.secret](/_secret/schema-org/Class/is_a_/data_type/text/URL.secret.md)
+

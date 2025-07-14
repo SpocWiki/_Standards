@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturn
 ( #has_/name :: has_merchant_return_policy )
 ( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_merchant_return_policy](/_public/schema-org/Relation/has/has_merchant_return_policy.md) 
+### [has_merchant_return_policy](/_Standards/schema-org/Relation/has/has_merchant_return_policy.md) 
+
+### [has_merchant_return_policy.public](/_public/schema-org/Relation/has/has_merchant_return_policy.public.md) 
 
 ### [has_merchant_return_policy.internal](/_internal/schema-org/Relation/has/has_merchant_return_policy.internal.md) 
 
@@ -57,4 +60,5 @@ Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturn
 
 ### [has_merchant_return_policy.personal](/_personal/schema-org/Relation/has/has_merchant_return_policy.personal.md) 
 
-### [has_merchant_return_policy.secret](/_secret/schema-org/Relation/has/has_merchant_return_policy.secret.md) 
+### [has_merchant_return_policy.secret](/_secret/schema-org/Relation/has/has_merchant_return_policy.secret.md)
+

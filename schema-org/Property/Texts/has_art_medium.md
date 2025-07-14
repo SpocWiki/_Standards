@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: material ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_art_medium](/_public/schema-org/Property/Texts/has_art_medium.md) 
+### [has_art_medium](/_Standards/schema-org/Property/Texts/has_art_medium.md) 
+
+### [has_art_medium.public](/_public/schema-org/Property/Texts/has_art_medium.public.md) 
 
 ### [has_art_medium.internal](/_internal/schema-org/Property/Texts/has_art_medium.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_art_medium.personal](/_personal/schema-org/Property/Texts/has_art_medium.personal.md) 
 
-### [has_art_medium.secret](/_secret/schema-org/Property/Texts/has_art_medium.secret.md) 
+### [has_art_medium.secret](/_secret/schema-org/Property/Texts/has_art_medium.secret.md)
+

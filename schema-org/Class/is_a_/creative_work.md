@@ -45,9 +45,12 @@ before [ has_/sub_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, 
 
 [ #has_/properties :: [ [[about]], abstract, accessMode, [[access_mode_sufficient]], accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [creative_work](/_public/schema-org/Class/is_a_/creative_work.md) 
+### [creative_work](/_Standards/schema-org/Class/is_a_/creative_work.md) 
+
+### [creative_work.public](/_public/schema-org/Class/is_a_/creative_work.public.md) 
 
 ### [creative_work.internal](/_internal/schema-org/Class/is_a_/creative_work.internal.md) 
 
@@ -57,4 +60,5 @@ before [ has_/sub_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, 
 
 ### [creative_work.personal](/_personal/schema-org/Class/is_a_/creative_work.personal.md) 
 
-### [creative_work.secret](/_secret/schema-org/Class/is_a_/creative_work.secret.md) 
+### [creative_work.secret](/_secret/schema-org/Class/is_a_/creative_work.secret.md)
+

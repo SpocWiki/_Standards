@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_legal_status )
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legal_status,medical](/_public/schema-org/Relation/has/has_legal_status,medical.md) 
+### [has_legal_status,medical](/_Standards/schema-org/Relation/has/has_legal_status,medical.md) 
+
+### [has_legal_status,medical.public](/_public/schema-org/Relation/has/has_legal_status,medical.public.md) 
 
 ### [has_legal_status,medical.internal](/_internal/schema-org/Relation/has/has_legal_status,medical.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_legal_status,medical.personal](/_personal/schema-org/Relation/has/has_legal_status,medical.personal.md) 
 
-### [has_legal_status,medical.secret](/_secret/schema-org/Relation/has/has_legal_status,medical.secret.md) 
+### [has_legal_status,medical.secret](/_secret/schema-org/Relation/has/has_legal_status,medical.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_live )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_live](/_public/schema-org/Property/Flags/is_live.md) 
+### [is_live](/_Standards/schema-org/Property/Flags/is_live.md) 
+
+### [is_live.public](/_public/schema-org/Property/Flags/is_live.public.md) 
 
 ### [is_live.internal](/_internal/schema-org/Property/Flags/is_live.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_live.personal](/_personal/schema-org/Property/Flags/is_live.personal.md) 
 
-### [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md) 
+### [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md)
+

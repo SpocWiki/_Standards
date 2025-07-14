@@ -78,3 +78,22 @@ Copyright ::   © 1999 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 ![](Mesozoa/Mesozoa2.gif)
 Copyright ::   © 1998 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mesozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.md) 
+
+### [Mesozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.public.md) 
+
+### [Mesozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.internal.md) 
+
+### [Mesozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.protect.md) 
+
+### [Mesozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.private.md) 
+
+### [Mesozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.personal.md) 
+
+### [Mesozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mesozoa.secret.md)
+

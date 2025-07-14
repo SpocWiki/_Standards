@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_guideline_subject )
 ( #has_/range :: MedicalEntity )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_guideline_subject](/_public/schema-org/Relation/has/has_guideline_subject.md) 
+### [has_guideline_subject](/_Standards/schema-org/Relation/has/has_guideline_subject.md) 
+
+### [has_guideline_subject.public](/_public/schema-org/Relation/has/has_guideline_subject.public.md) 
 
 ### [has_guideline_subject.internal](/_internal/schema-org/Relation/has/has_guideline_subject.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_guideline_subject.personal](/_personal/schema-org/Relation/has/has_guideline_subject.personal.md) 
 
-### [has_guideline_subject.secret](/_secret/schema-org/Relation/has/has_guideline_subject.secret.md) 
+### [has_guideline_subject.secret](/_secret/schema-org/Relation/has/has_guideline_subject.secret.md)
+

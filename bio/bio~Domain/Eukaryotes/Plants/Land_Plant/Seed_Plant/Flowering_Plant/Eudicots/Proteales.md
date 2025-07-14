@@ -74,3 +74,22 @@ Copyright ::            © 1998 [California Academy of Sciences](http://www.cala
 ------------------------------------------------------------------------------
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Proteales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.md) 
+
+### [Proteales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.public.md) 
+
+### [Proteales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.internal.md) 
+
+### [Proteales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.protect.md) 
+
+### [Proteales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.private.md) 
+
+### [Proteales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.personal.md) 
+
+### [Proteales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Proteales.secret.md)
+

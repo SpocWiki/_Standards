@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The airline boards by groups based on check-in time, priority, etc.
 
 [ #is_/enum_of :: [[../BoardingPolicyType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [group_boarding_policy](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.md) 
+### [group_boarding_policy](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.md) 
+
+### [group_boarding_policy.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.public.md) 
 
 ### [group_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md) 
 
@@ -56,4 +59,5 @@ The airline boards by groups based on check-in time, priority, etc.
 
 ### [group_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md) 
 
-### [group_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md) 
+### [group_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md)
+

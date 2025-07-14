@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_down_payment )
 ( #has_/range :: MonetaryAmount, Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_down_payment](/_public/schema-org/Property/has_value_for/has_value_for_down_payment.md) 
+### [has_value_for_down_payment](/_Standards/schema-org/Property/has_value_for/has_value_for_down_payment.md) 
+
+### [has_value_for_down_payment.public](/_public/schema-org/Property/has_value_for/has_value_for_down_payment.public.md) 
 
 ### [has_value_for_down_payment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_down_payment.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_down_payment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_down_payment.personal.md) 
 
-### [has_value_for_down_payment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_down_payment.secret.md) 
+### [has_value_for_down_payment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_down_payment.secret.md)
+

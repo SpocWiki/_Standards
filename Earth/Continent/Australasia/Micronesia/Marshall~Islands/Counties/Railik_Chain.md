@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 11.16 , 166.87 ] 
 type: geo-Region
 title: Railik_Chain
@@ -41,7 +41,9 @@ markerFolder: ./Railik_Chain/
 
 ## Confidential Links & Embeds: 
 
-### [Railik_Chain](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.md) 
+### [Railik_Chain](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.md) 
+
+### [Railik_Chain.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.public.md) 
 
 ### [Railik_Chain.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Railik_Chain/
 
 ### [Railik_Chain.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.personal.md) 
 
-### [Railik_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.secret.md) 
+### [Railik_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Railik_Chain.secret.md)
+

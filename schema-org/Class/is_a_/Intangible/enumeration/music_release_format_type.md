@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [music_release_format_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.md) 
+### [music_release_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.md) 
+
+### [music_release_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.public.md) 
 
 ### [music_release_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.internal.md) 
 
@@ -52,4 +55,5 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 ### [music_release_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.personal.md) 
 
-### [music_release_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.secret.md) 
+### [music_release_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.secret.md)
+

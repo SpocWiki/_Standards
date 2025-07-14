@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_special_commitments )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_special_commitments](/_public/schema-org/Property/Texts/has_special_commitments.md) 
+### [has_special_commitments](/_Standards/schema-org/Property/Texts/has_special_commitments.md) 
+
+### [has_special_commitments.public](/_public/schema-org/Property/Texts/has_special_commitments.public.md) 
 
 ### [has_special_commitments.internal](/_internal/schema-org/Property/Texts/has_special_commitments.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_special_commitments.personal](/_personal/schema-org/Property/Texts/has_special_commitments.personal.md) 
 
-### [has_special_commitments.secret](/_secret/schema-org/Property/Texts/has_special_commitments.secret.md) 
+### [has_special_commitments.secret](/_secret/schema-org/Property/Texts/has_special_commitments.secret.md)
+

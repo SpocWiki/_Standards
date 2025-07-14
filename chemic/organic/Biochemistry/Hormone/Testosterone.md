@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1318776
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Ernst_Laqueur,104369]]"
@@ -149,4 +149,23 @@ ATC_code: G03BA03
 > The World Anti-Doping Agency lists it as S1 Anabolic agent substance "prohibited at all times".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Testosterone)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Testosterone](/_Standards/chemic/organic/Biochemistry/Hormone/Testosterone.md) 
+
+### [Testosterone.public](/_public/chemic/organic/Biochemistry/Hormone/Testosterone.public.md) 
+
+### [Testosterone.internal](/_internal/chemic/organic/Biochemistry/Hormone/Testosterone.internal.md) 
+
+### [Testosterone.protect](/_protect/chemic/organic/Biochemistry/Hormone/Testosterone.protect.md) 
+
+### [Testosterone.private](/_private/chemic/organic/Biochemistry/Hormone/Testosterone.private.md) 
+
+### [Testosterone.personal](/_personal/chemic/organic/Biochemistry/Hormone/Testosterone.personal.md) 
+
+### [Testosterone.secret](/_secret/chemic/organic/Biochemistry/Hormone/Testosterone.secret.md)
 

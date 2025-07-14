@@ -1,4 +1,4 @@
-﻿---
+---
 location: [62,-6.783333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,7 +33,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tórshavn](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.md) 
+### [Tórshavn](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.md) 
+
+### [Tórshavn.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.public.md) 
 
 ### [Tórshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.internal.md) 
 
@@ -43,4 +45,5 @@ maxZoom: 18
 
 ### [Tórshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.personal.md) 
 
-### [Tórshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.secret.md) 
+### [Tórshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.secret.md)
+

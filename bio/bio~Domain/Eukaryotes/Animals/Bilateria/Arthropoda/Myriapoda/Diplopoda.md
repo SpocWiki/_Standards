@@ -103,3 +103,22 @@ Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diplopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.md) 
+
+### [Diplopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.public.md) 
+
+### [Diplopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.internal.md) 
+
+### [Diplopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.protect.md) 
+
+### [Diplopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.private.md) 
+
+### [Diplopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.personal.md) 
+
+### [Diplopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda.secret.md)
+

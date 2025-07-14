@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ population, and does not imply that the population consists of people. For examp
 
 [ #has_/properties :: [ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [statistical_population](/_public/schema-org/Class/is_a_/Intangible/statistical_population.md) 
+### [statistical_population](/_Standards/schema-org/Class/is_a_/Intangible/statistical_population.md) 
+
+### [statistical_population.public](/_public/schema-org/Class/is_a_/Intangible/statistical_population.public.md) 
 
 ### [statistical_population.internal](/_internal/schema-org/Class/is_a_/Intangible/statistical_population.internal.md) 
 
@@ -58,4 +61,5 @@ population, and does not imply that the population consists of people. For examp
 
 ### [statistical_population.personal](/_personal/schema-org/Class/is_a_/Intangible/statistical_population.personal.md) 
 
-### [statistical_population.secret](/_secret/schema-org/Class/is_a_/Intangible/statistical_population.secret.md) 
+### [statistical_population.secret](/_secret/schema-org/Class/is_a_/Intangible/statistical_population.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6235
 has_characteristic:
 - '[[_Standards/WikiData/WD~irredentism,182274]]'
@@ -59,4 +59,23 @@ U_S_National_Archives_Identifier: 10642479
 > A third theory, ethnosymbolism explains nationalism as a product of symbols, myths, and traditions, and is associated with the work of Anthony D. Smith.The moral value of nationalism, the relationship between nationalism and patriotism, and the compatibility of nationalism and cosmopolitanism are all subjects of philosophical debate. Nationalism can be combined with diverse political goals and ideologies such as conservatism (national conservatism and right-wing populism) or socialism (left-wing nationalism). In practice, nationalism is seen as positive or negative depending on its ideology and outcomes. Nationalism has been a feature of movements for freedom and justice, has been associated with cultural revivals, and encourages pride in national achievements. It has also been used to legitimize racial, ethnic, and religious divisions, suppress or attack minorities, undermine human rights and democratic traditions, and start wars, being frequently cited as a cause of both World Wars.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nationalism)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nationalism](/_Standards/bio/Society/Ideology/Nationalism.md) 
+
+### [Nationalism.public](/_public/bio/Society/Ideology/Nationalism.public.md) 
+
+### [Nationalism.internal](/_internal/bio/Society/Ideology/Nationalism.internal.md) 
+
+### [Nationalism.protect](/_protect/bio/Society/Ideology/Nationalism.protect.md) 
+
+### [Nationalism.private](/_private/bio/Society/Ideology/Nationalism.private.md) 
+
+### [Nationalism.personal](/_personal/bio/Society/Ideology/Nationalism.personal.md) 
+
+### [Nationalism.secret](/_secret/bio/Society/Ideology/Nationalism.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,10 +35,11 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FundingScheme](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.md) 
+### [FileClass~FundingScheme](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.md) 
+
+### [FileClass~FundingScheme.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.public.md) 
 
 ### [FileClass~FundingScheme.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.internal.md) 
 
@@ -48,4 +49,5 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 ### [FileClass~FundingScheme.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.personal.md) 
 
-### [FileClass~FundingScheme.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.secret.md) 
+### [FileClass~FundingScheme.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~FundingScheme.secret.md)
+

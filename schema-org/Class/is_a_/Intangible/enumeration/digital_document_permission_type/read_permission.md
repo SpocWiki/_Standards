@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Permission to read or view the document.
 
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [read_permission](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.md) 
+### [read_permission](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.md) 
+
+### [read_permission.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.public.md) 
 
 ### [read_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.internal.md) 
 
@@ -56,4 +59,5 @@ Permission to read or view the document.
 
 ### [read_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.personal.md) 
 
-### [read_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.secret.md) 
+### [read_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_document_permission_type/read_permission.secret.md)
+

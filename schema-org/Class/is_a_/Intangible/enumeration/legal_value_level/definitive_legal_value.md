@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Indicates a document for which the text is conclusively what the law says and is
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [definitive_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.md) 
+### [definitive_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.md) 
+
+### [definitive_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.public.md) 
 
 ### [definitive_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.internal.md) 
 
@@ -59,4 +62,5 @@ Indicates a document for which the text is conclusively what the law says and is
 
 ### [definitive_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.personal.md) 
 
-### [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md) 
+### [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md)
+

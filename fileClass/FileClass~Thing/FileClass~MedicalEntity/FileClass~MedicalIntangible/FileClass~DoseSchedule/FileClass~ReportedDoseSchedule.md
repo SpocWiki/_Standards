@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReportedDoseSchedule](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.md) 
+### [FileClass~ReportedDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.md) 
+
+### [FileClass~ReportedDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.public.md) 
 
 ### [FileClass~ReportedDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.internal.md) 
 
@@ -46,4 +47,5 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 ### [FileClass~ReportedDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.personal.md) 
 
-### [FileClass~ReportedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.secret.md) 
+### [FileClass~ReportedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~ReportedDoseSchedule.secret.md)
+

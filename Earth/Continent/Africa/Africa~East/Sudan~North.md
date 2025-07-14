@@ -427,10 +427,11 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 [has_place_latitude::15.6]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sudan~North](/_public/Earth/Continent/Africa/Africa~East/Sudan~North.md) 
+### [Sudan~North](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~North.md) 
+
+### [Sudan~North.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~North.public.md) 
 
 ### [Sudan~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North.internal.md) 
 
@@ -440,4 +441,5 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 ### [Sudan~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North.personal.md) 
 
-### [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North.secret.md) 
+### [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North.secret.md)
+

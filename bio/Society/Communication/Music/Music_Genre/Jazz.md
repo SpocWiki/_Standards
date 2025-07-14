@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8341
 subreddit: Jazz
 Commons_gallery: Jazz
@@ -60,4 +60,23 @@ PhilPapers_topic: jazz
 > The mid-1950s saw the emergence of hard bop, which introduced influences from rhythm and blues, gospel, and blues to small groups and particularly to saxophone and piano. Modal jazz developed in the late 1950s, using the mode, or musical scale, as the basis of musical structure and improvisation, as did free jazz, which explored playing without regular meter, beat and formal structures. Jazz-rock fusion appeared in the late 1960s and early 1970s, combining jazz improvisation with rock music's rhythms, electric instruments, and highly amplified stage sound. In the early 1980s, a commercial form of jazz fusion called smooth jazz became successful, garnering significant radio airplay. Other styles and genres abound in the 21st century, such as Latin and Afro-Cuban jazz.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jazz) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Jazz](/_Standards/bio/Society/Communication/Music/Music_Genre/Jazz.md) 
+
+### [Jazz.public](/_public/bio/Society/Communication/Music/Music_Genre/Jazz.public.md) 
+
+### [Jazz.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Jazz.internal.md) 
+
+### [Jazz.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Jazz.protect.md) 
+
+### [Jazz.private](/_private/bio/Society/Communication/Music/Music_Genre/Jazz.private.md) 
+
+### [Jazz.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Jazz.personal.md) 
+
+### [Jazz.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Jazz.secret.md)
 

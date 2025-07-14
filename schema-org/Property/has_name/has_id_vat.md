@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_vat )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_vat](/_public/schema-org/Property/has_name/has_id_vat.md) 
+### [has_id_vat](/_Standards/schema-org/Property/has_name/has_id_vat.md) 
+
+### [has_id_vat.public](/_public/schema-org/Property/has_name/has_id_vat.public.md) 
 
 ### [has_id_vat.internal](/_internal/schema-org/Property/has_name/has_id_vat.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_vat.personal](/_personal/schema-org/Property/has_name/has_id_vat.personal.md) 
 
-### [has_id_vat.secret](/_secret/schema-org/Property/has_name/has_id_vat.secret.md) 
+### [has_id_vat.secret](/_secret/schema-org/Property/has_name/has_id_vat.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_smiles](/_public/schema-org/Property/Texts/has_smiles.md) 
+### [has_smiles](/_Standards/schema-org/Property/Texts/has_smiles.md) 
+
+### [has_smiles.public](/_public/schema-org/Property/Texts/has_smiles.public.md) 
 
 ### [has_smiles.internal](/_internal/schema-org/Property/Texts/has_smiles.internal.md) 
 
@@ -61,4 +64,5 @@ Predicated describes that:
 
 ### [has_smiles.personal](/_personal/schema-org/Property/Texts/has_smiles.personal.md) 
 
-### [has_smiles.secret](/_secret/schema-org/Property/Texts/has_smiles.secret.md) 
+### [has_smiles.secret](/_secret/schema-org/Property/Texts/has_smiles.secret.md)
+

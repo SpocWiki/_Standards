@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -39,10 +39,11 @@ Related actions:
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CheckInAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.md) 
+### [FileClass~CheckInAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.md) 
+
+### [FileClass~CheckInAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.public.md) 
 
 ### [FileClass~CheckInAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.internal.md) 
 
@@ -52,4 +53,5 @@ Related actions:
 
 ### [FileClass~CheckInAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.personal.md) 
 
-### [FileClass~CheckInAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.secret.md) 
+### [FileClass~CheckInAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~CheckInAction.secret.md)
+

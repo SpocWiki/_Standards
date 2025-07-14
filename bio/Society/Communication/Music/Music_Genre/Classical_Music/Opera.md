@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1344
 Iconclass_notation: 48C862
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/OPERA.html
@@ -76,4 +76,23 @@ equivalent_class: "http://dbpedia.org/ontology/Opera"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Opera](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.md) 
+
+### [Opera.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.public.md) 
+
+### [Opera.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.internal.md) 
+
+### [Opera.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.protect.md) 
+
+### [Opera.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.private.md) 
+
+### [Opera.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.personal.md) 
+
+### [Opera.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ SingleRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [single_release](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.md) 
+### [single_release](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.md) 
+
+### [single_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.public.md) 
 
 ### [single_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.internal.md) 
 
@@ -56,4 +59,5 @@ SingleRelease.
 
 ### [single_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.personal.md) 
 
-### [single_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.secret.md) 
+### [single_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/single_release.secret.md)
+

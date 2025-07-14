@@ -373,3 +373,22 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"UnionSovietSocial
 > [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1922-Soviet_Union](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.md) 
+
+### [1922-Soviet_Union.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.public.md) 
+
+### [1922-Soviet_Union.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.internal.md) 
+
+### [1922-Soviet_Union.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.protect.md) 
+
+### [1922-Soviet_Union.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.private.md) 
+
+### [1922-Soviet_Union.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.personal.md) 
+
+### [1922-Soviet_Union.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union.secret.md)
+

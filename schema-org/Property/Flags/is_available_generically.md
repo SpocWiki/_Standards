@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_available_generically )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_available_generically](/_public/schema-org/Property/Flags/is_available_generically.md) 
+### [is_available_generically](/_Standards/schema-org/Property/Flags/is_available_generically.md) 
+
+### [is_available_generically.public](/_public/schema-org/Property/Flags/is_available_generically.public.md) 
 
 ### [is_available_generically.internal](/_internal/schema-org/Property/Flags/is_available_generically.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_available_generically.personal](/_personal/schema-org/Property/Flags/is_available_generically.personal.md) 
 
-### [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md) 
+### [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Asia]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [EAST_&_WEST_PAKISTAN](/_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.md) 
+### [EAST_&_WEST_PAKISTAN](/_Standards/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.md) 
+
+### [EAST_&_WEST_PAKISTAN.public](/_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.public.md) 
 
 ### [EAST_&_WEST_PAKISTAN.internal](/_internal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Asia]]
 
 ### [EAST_&_WEST_PAKISTAN.personal](/_personal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.personal.md) 
 
-### [EAST_&_WEST_PAKISTAN.secret](/_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret.md) 
+### [EAST_&_WEST_PAKISTAN.secret](/_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret.md)
+

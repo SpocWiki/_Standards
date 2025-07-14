@@ -19,3 +19,22 @@ has_id_wikidata: Q10987
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Honey) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Honey](/_Standards/Home_Economics/Cooking/Food/Candy/Honey.md) 
+
+### [Honey.public](/_public/Home_Economics/Cooking/Food/Candy/Honey.public.md) 
+
+### [Honey.internal](/_internal/Home_Economics/Cooking/Food/Candy/Honey.internal.md) 
+
+### [Honey.protect](/_protect/Home_Economics/Cooking/Food/Candy/Honey.protect.md) 
+
+### [Honey.private](/_private/Home_Economics/Cooking/Food/Candy/Honey.private.md) 
+
+### [Honey.personal](/_personal/Home_Economics/Cooking/Food/Candy/Honey.personal.md) 
+
+### [Honey.secret](/_secret/Home_Economics/Cooking/Food/Candy/Honey.secret.md)
+

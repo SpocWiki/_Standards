@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: A social dance.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DanceEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.md) 
+### [FileClass~DanceEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.md) 
+
+### [FileClass~DanceEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.public.md) 
 
 ### [FileClass~DanceEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: A social dance.
 
 ### [FileClass~DanceEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.personal.md) 
 
-### [FileClass~DanceEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.secret.md) 
+### [FileClass~DanceEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DanceEvent.secret.md)
+

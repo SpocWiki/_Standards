@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_issued)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_issued](/_public/schema-org/Property/has_Date_Time/has_time_issued.md) 
+### [has_time_issued](/_Standards/schema-org/Property/has_Date_Time/has_time_issued.md) 
+
+### [has_time_issued.public](/_public/schema-org/Property/has_Date_Time/has_time_issued.public.md) 
 
 ### [has_time_issued.internal](/_internal/schema-org/Property/has_Date_Time/has_time_issued.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_issued.personal](/_personal/schema-org/Property/has_Date_Time/has_time_issued.personal.md) 
 
-### [has_time_issued.secret](/_secret/schema-org/Property/has_Date_Time/has_time_issued.secret.md) 
+### [has_time_issued.secret](/_secret/schema-org/Property/has_Date_Time/has_time_issued.secret.md)
+

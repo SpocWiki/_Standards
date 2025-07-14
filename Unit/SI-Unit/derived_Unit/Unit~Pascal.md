@@ -1,4 +1,4 @@
-﻿
+
 
 # [[Unit~Pascal]] 
 
@@ -7,7 +7,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Pascal](/_public/Unit/SI-Unit/derived_Unit/Unit~Pascal.md) 
+### [Unit~Pascal](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Pascal.md) 
+
+### [Unit~Pascal.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Pascal.public.md) 
 
 ### [Unit~Pascal.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Pascal.internal.md) 
 
@@ -17,4 +19,5 @@
 
 ### [Unit~Pascal.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Pascal.personal.md) 
 
-### [Unit~Pascal.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Pascal.secret.md) 
+### [Unit~Pascal.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Pascal.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,10 +55,11 @@ Current location of the item.
 ItemLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArchiveComponent](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.md) 
+### [FileClass~ArchiveComponent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.md) 
+
+### [FileClass~ArchiveComponent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.public.md) 
 
 ### [FileClass~ArchiveComponent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.internal.md) 
 
@@ -68,4 +69,5 @@ ItemLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ArchiveComponent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.personal.md) 
 
-### [FileClass~ArchiveComponent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.secret.md) 
+### [FileClass~ArchiveComponent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.secret.md)
+

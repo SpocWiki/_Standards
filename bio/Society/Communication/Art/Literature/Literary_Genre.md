@@ -14,3 +14,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Literary%20genre) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Literary_Genre](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre.md) 
+
+### [Literary_Genre.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre.public.md) 
+
+### [Literary_Genre.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre.internal.md) 
+
+### [Literary_Genre.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre.protect.md) 
+
+### [Literary_Genre.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre.private.md) 
+
+### [Literary_Genre.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre.personal.md) 
+
+### [Literary_Genre.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre.secret.md)
+

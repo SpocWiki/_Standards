@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Girth of neck. Used, for example, to fit shirts.
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_neck](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.md) 
+### [body_measurement_neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.md) 
+
+### [body_measurement_neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.public.md) 
 
 ### [body_measurement_neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.internal.md) 
 
@@ -58,4 +61,5 @@ Girth of neck. Used, for example, to fit shirts.
 
 ### [body_measurement_neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.personal.md) 
 
-### [body_measurement_neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.secret.md) 
+### [body_measurement_neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_fax_number )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_fax_number](/_public/schema-org/Property/Texts/has_fax_number.md) 
+### [has_fax_number](/_Standards/schema-org/Property/Texts/has_fax_number.md) 
+
+### [has_fax_number.public](/_public/schema-org/Property/Texts/has_fax_number.public.md) 
 
 ### [has_fax_number.internal](/_internal/schema-org/Property/Texts/has_fax_number.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_fax_number.personal](/_personal/schema-org/Property/Texts/has_fax_number.personal.md) 
 
-### [has_fax_number.secret](/_secret/schema-org/Property/Texts/has_fax_number.secret.md) 
+### [has_fax_number.secret](/_secret/schema-org/Property/Texts/has_fax_number.secret.md)
+

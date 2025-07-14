@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ CDFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cd_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.md) 
+### [cd_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.md) 
+
+### [cd_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.public.md) 
 
 ### [cd_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.internal.md) 
 
@@ -56,4 +59,5 @@ CDFormat.
 
 ### [cd_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.personal.md) 
 
-### [cd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.secret.md) 
+### [cd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cd_format.secret.md)
+

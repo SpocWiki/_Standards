@@ -146,10 +146,11 @@ PubChem_CID: 23931
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(element))
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Mercury](/_public/chemic/chemic~Elements/Group-12-Zinc/Mercury.md) 
+### [Mercury](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Mercury.md) 
+
+### [Mercury.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Mercury.public.md) 
 
 ### [Mercury.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Mercury.internal.md) 
 
@@ -159,4 +160,5 @@ PubChem_CID: 23931
 
 ### [Mercury.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Mercury.personal.md) 
 
-### [Mercury.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Mercury.secret.md) 
+### [Mercury.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Mercury.secret.md)
+

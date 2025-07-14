@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A fast-food restaurant.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FastFoodRestaurant](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.md) 
+### [FileClass~FastFoodRestaurant](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.md) 
+
+### [FileClass~FastFoodRestaurant.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.public.md) 
 
 ### [FileClass~FastFoodRestaurant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.internal.md) 
 
@@ -46,4 +47,5 @@ A fast-food restaurant.
 
 ### [FileClass~FastFoodRestaurant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.personal.md) 
 
-### [FileClass~FastFoodRestaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.secret.md) 
+### [FileClass~FastFoodRestaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.secret.md)
+

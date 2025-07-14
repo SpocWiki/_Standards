@@ -165,3 +165,22 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collector            E. Tripp
   Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
   -----------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ebracteolate](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.md) 
+
+### [Ebracteolate.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.public.md) 
+
+### [Ebracteolate.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.internal.md) 
+
+### [Ebracteolate.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.protect.md) 
+
+### [Ebracteolate.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.private.md) 
+
+### [Ebracteolate.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.personal.md) 
+
+### [Ebracteolate.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Ruellia/Ebracteolate.secret.md)
+

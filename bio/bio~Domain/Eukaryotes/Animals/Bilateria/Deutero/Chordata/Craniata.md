@@ -446,3 +446,22 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
   Body Part          skull
   Copyright ::          © 1997 John Kappelman
   ---------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Craniata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.md) 
+
+### [Craniata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.public.md) 
+
+### [Craniata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.internal.md) 
+
+### [Craniata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.protect.md) 
+
+### [Craniata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.private.md) 
+
+### [Craniata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.personal.md) 
+
+### [Craniata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~QAPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.md) 
+### [FileClass~QAPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.md) 
+
+### [FileClass~QAPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.public.md) 
 
 ### [FileClass~QAPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.internal.md) 
 
@@ -46,4 +47,5 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 
 ### [FileClass~QAPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.personal.md) 
 
-### [FileClass~QAPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.secret.md) 
+### [FileClass~QAPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.secret.md)
+

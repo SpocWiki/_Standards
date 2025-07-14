@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,9 +53,12 @@ Predicate describes that:
 ( #has_/name :: is_drive_through_service )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_drive_through_service](/_public/schema-org/Property/Flags/is_drive_through_service.md) 
+### [is_drive_through_service](/_Standards/schema-org/Property/Flags/is_drive_through_service.md) 
+
+### [is_drive_through_service.public](/_public/schema-org/Property/Flags/is_drive_through_service.public.md) 
 
 ### [is_drive_through_service.internal](/_internal/schema-org/Property/Flags/is_drive_through_service.internal.md) 
 
@@ -65,4 +68,5 @@ Predicate describes that:
 
 ### [is_drive_through_service.personal](/_personal/schema-org/Property/Flags/is_drive_through_service.personal.md) 
 
-### [is_drive_through_service.secret](/_secret/schema-org/Property/Flags/is_drive_through_service.secret.md) 
+### [is_drive_through_service.secret](/_secret/schema-org/Property/Flags/is_drive_through_service.secret.md)
+

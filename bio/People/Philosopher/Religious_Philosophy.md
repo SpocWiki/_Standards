@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2054106
 different_from: "[[_Standards/WikiData/WD~philosophy_of_religion,209295]]"
 subclass_of: "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
@@ -17,4 +17,23 @@ Commons_category: "Religious philosophy"
 > [Wikipedia](https://en.wikipedia.org/wiki/Religious%20philosophy)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Religious_Philosophy](/_Standards/bio/People/Philosopher/Religious_Philosophy.md) 
+
+### [Religious_Philosophy.public](/_public/bio/People/Philosopher/Religious_Philosophy.public.md) 
+
+### [Religious_Philosophy.internal](/_internal/bio/People/Philosopher/Religious_Philosophy.internal.md) 
+
+### [Religious_Philosophy.protect](/_protect/bio/People/Philosopher/Religious_Philosophy.protect.md) 
+
+### [Religious_Philosophy.private](/_private/bio/People/Philosopher/Religious_Philosophy.private.md) 
+
+### [Religious_Philosophy.personal](/_personal/bio/People/Philosopher/Religious_Philosophy.personal.md) 
+
+### [Religious_Philosophy.secret](/_secret/bio/People/Philosopher/Religious_Philosophy.secret.md)
 

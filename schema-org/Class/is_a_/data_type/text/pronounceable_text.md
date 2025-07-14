@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Data type: PronounceableText.
 
 [ #has_/properties :: [ inLanguage, phoneticText, speechToTextMarkup, textValue ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pronounceable_text](/_public/schema-org/Class/is_a_/data_type/text/pronounceable_text.md) 
+### [pronounceable_text](/_Standards/schema-org/Class/is_a_/data_type/text/pronounceable_text.md) 
+
+### [pronounceable_text.public](/_public/schema-org/Class/is_a_/data_type/text/pronounceable_text.public.md) 
 
 ### [pronounceable_text.internal](/_internal/schema-org/Class/is_a_/data_type/text/pronounceable_text.internal.md) 
 
@@ -53,4 +56,5 @@ Data type: PronounceableText.
 
 ### [pronounceable_text.personal](/_personal/schema-org/Class/is_a_/data_type/text/pronounceable_text.personal.md) 
 
-### [pronounceable_text.secret](/_secret/schema-org/Class/is_a_/data_type/text/pronounceable_text.secret.md) 
+### [pronounceable_text.secret](/_secret/schema-org/Class/is_a_/data_type/text/pronounceable_text.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21982
 has_id_wikidata: Q671
@@ -104,9 +104,12 @@ time_of_discovery_or_invention: "1939"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Francium](/_public/chemic/chemic~Elements/Group-01-Alkali/Francium.md) 
+### [Francium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Francium.md) 
+
+### [Francium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Francium.public.md) 
 
 ### [Francium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Francium.internal.md) 
 
@@ -116,4 +119,5 @@ time_of_discovery_or_invention: "1939"
 
 ### [Francium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Francium.personal.md) 
 
-### [Francium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Francium.secret.md) 
+### [Francium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Francium.secret.md)
+

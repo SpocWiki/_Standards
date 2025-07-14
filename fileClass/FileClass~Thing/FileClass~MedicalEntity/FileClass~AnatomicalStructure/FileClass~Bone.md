@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Bone](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.md) 
+### [FileClass~Bone](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.md) 
+
+### [FileClass~Bone.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.public.md) 
 
 ### [FileClass~Bone.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.internal.md) 
 
@@ -46,4 +47,5 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 ### [FileClass~Bone.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.personal.md) 
 
-### [FileClass~Bone.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.secret.md) 
+### [FileClass~Bone.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Bone.secret.md)
+

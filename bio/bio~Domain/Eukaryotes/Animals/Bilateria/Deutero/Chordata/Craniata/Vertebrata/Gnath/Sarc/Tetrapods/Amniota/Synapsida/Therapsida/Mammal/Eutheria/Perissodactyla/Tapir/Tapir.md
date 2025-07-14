@@ -79,3 +79,22 @@ Stammesgeschichtlich sind die Tapire im Vergleich zu anderen Säugern eine durch
 - James Oglethorpe: _Tapirs: Status, Survey, and Conservation Action Plan_. IUCN, 1997 [ISBN 2831704227](http://de.wikipedia.org/w/index.php?title=Spezial:ISBN-Suche&isbn=2831704227)
 - Stefan Seitz: _Vergleichende Untersuchungen zu Verhalten und Schauwert von Tapiren (Tapiridae) in Zoologischen Gärten_. Cuvillier, 2001 [ISBN 3898732010](http://de.wikipedia.org/w/index.php?title=Spezial:ISBN-Suche&isbn=3898732010)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tapir](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.md) 
+
+### [Tapir.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.public.md) 
+
+### [Tapir.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.internal.md) 
+
+### [Tapir.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.protect.md) 
+
+### [Tapir.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.private.md) 
+
+### [Tapir.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.personal.md) 
+
+### [Tapir.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Perissodactyla/Tapir/Tapir.secret.md)
+

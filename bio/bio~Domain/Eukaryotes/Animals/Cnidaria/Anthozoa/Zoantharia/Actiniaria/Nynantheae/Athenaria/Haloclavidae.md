@@ -81,3 +81,21 @@ Texel, Netherlands) is gratefully acknowledged.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
+
+
+## Confidential Links & Embeds: 
+
+### [Haloclavidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.md) 
+
+### [Haloclavidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.public.md) 
+
+### [Haloclavidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.internal.md) 
+
+### [Haloclavidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.protect.md) 
+
+### [Haloclavidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.private.md) 
+
+### [Haloclavidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.personal.md) 
+
+### [Haloclavidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Haloclavidae.secret.md)
+

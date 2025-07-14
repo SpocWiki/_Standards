@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [arrive_action](/_public/schema-org/Class/is_a_/action/move_action/arrive_action.md) 
+### [arrive_action](/_Standards/schema-org/Class/is_a_/action/move_action/arrive_action.md) 
+
+### [arrive_action.public](/_public/schema-org/Class/is_a_/action/move_action/arrive_action.public.md) 
 
 ### [arrive_action.internal](/_internal/schema-org/Class/is_a_/action/move_action/arrive_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 ### [arrive_action.personal](/_personal/schema-org/Class/is_a_/action/move_action/arrive_action.personal.md) 
 
-### [arrive_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/arrive_action.secret.md) 
+### [arrive_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/arrive_action.secret.md)
+

@@ -457,9 +457,12 @@ Capital :: [[Lomé]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Togo)
 
+
 ## Confidential Links & Embeds: 
 
-### [Togo](/_public/Earth/Continent/Africa/Africa~West/Togo.md) 
+### [Togo](/_Standards/Earth/Continent/Africa/Africa~West/Togo.md) 
+
+### [Togo.public](/_public/Earth/Continent/Africa/Africa~West/Togo.public.md) 
 
 ### [Togo.internal](/_internal/Earth/Continent/Africa/Africa~West/Togo.internal.md) 
 
@@ -469,4 +472,5 @@ Capital :: [[Lomé]]
 
 ### [Togo.personal](/_personal/Earth/Continent/Africa/Africa~West/Togo.personal.md) 
 
-### [Togo.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo.secret.md) 
+### [Togo.secret](/_secret/Earth/Continent/Africa/Africa~West/Togo.secret.md)
+

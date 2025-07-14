@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_tributary )
 ( #has_/range :: AnatomicalStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_tributary](/_public/schema-org/Relation/has/has_tributary.md) 
+### [has_tributary](/_Standards/schema-org/Relation/has/has_tributary.md) 
+
+### [has_tributary.public](/_public/schema-org/Relation/has/has_tributary.public.md) 
 
 ### [has_tributary.internal](/_internal/schema-org/Relation/has/has_tributary.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_tributary.personal](/_personal/schema-org/Relation/has/has_tributary.personal.md) 
 
-### [has_tributary.secret](/_secret/schema-org/Relation/has/has_tributary.secret.md) 
+### [has_tributary.secret](/_secret/schema-org/Relation/has/has_tributary.secret.md)
+

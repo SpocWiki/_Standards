@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ The number or other unique designator assigned to a Report by the publishing org
 ReportNumber:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Report](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.md) 
+### [FileClass~Report](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.md) 
+
+### [FileClass~Report.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.public.md) 
 
 ### [FileClass~Report.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.internal.md) 
 
@@ -56,4 +57,5 @@ ReportNumber:: {"type":"Input","options":{}}
 
 ### [FileClass~Report.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.personal.md) 
 
-### [FileClass~Report.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.secret.md) 
+### [FileClass~Report.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Report.secret.md)
+

@@ -97,10 +97,11 @@ Commons_category: "Hindustani language"
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindi)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lang-hi](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.md) 
+### [Lang-hi](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.md) 
+
+### [Lang-hi.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.public.md) 
 
 ### [Lang-hi.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.internal.md) 
 
@@ -110,4 +111,5 @@ Commons_category: "Hindustani language"
 
 ### [Lang-hi.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.personal.md) 
 
-### [Lang-hi.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.secret.md) 
+### [Lang-hi.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.secret.md)
+

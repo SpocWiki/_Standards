@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Size group "Extra Short" for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_extra_short](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.md) 
+### [wearable_size_group_extra_short](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.md) 
+
+### [wearable_size_group_extra_short.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.public.md) 
 
 ### [wearable_size_group_extra_short.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.internal.md) 
 
@@ -58,4 +61,5 @@ Size group "Extra Short" for wearables.
 
 ### [wearable_size_group_extra_short.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.personal.md) 
 
-### [wearable_size_group_extra_short.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.secret.md) 
+### [wearable_size_group_extra_short.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_short.secret.md)
+

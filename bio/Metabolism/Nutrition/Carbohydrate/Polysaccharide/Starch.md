@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - amylum
 has_id_wikidata: Q41534
@@ -107,4 +107,23 @@ FoodEx2_code: A068D
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Starch](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.md) 
+
+### [Starch.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public.md) 
+
+### [Starch.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.internal.md) 
+
+### [Starch.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.protect.md) 
+
+### [Starch.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.private.md) 
+
+### [Starch.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.personal.md) 
+
+### [Starch.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.secret.md)
 

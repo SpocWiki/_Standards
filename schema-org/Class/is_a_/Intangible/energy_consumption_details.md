@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [energy_consumption_details](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
+### [energy_consumption_details](/_Standards/schema-org/Class/is_a_/Intangible/energy_consumption_details.md) 
+
+### [energy_consumption_details.public](/_public/schema-org/Class/is_a_/Intangible/energy_consumption_details.public.md) 
 
 ### [energy_consumption_details.internal](/_internal/schema-org/Class/is_a_/Intangible/energy_consumption_details.internal.md) 
 
@@ -56,4 +59,5 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 ### [energy_consumption_details.personal](/_personal/schema-org/Class/is_a_/Intangible/energy_consumption_details.personal.md) 
 
-### [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md) 
+### [energy_consumption_details.secret](/_secret/schema-org/Class/is_a_/Intangible/energy_consumption_details.secret.md)
+

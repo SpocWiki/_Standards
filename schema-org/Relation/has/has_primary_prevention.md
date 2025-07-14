@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_primary_prevention )
 ( #has_/range :: MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_primary_prevention](/_public/schema-org/Relation/has/has_primary_prevention.md) 
+### [has_primary_prevention](/_Standards/schema-org/Relation/has/has_primary_prevention.md) 
+
+### [has_primary_prevention.public](/_public/schema-org/Relation/has/has_primary_prevention.public.md) 
 
 ### [has_primary_prevention.internal](/_internal/schema-org/Relation/has/has_primary_prevention.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_primary_prevention.personal](/_personal/schema-org/Relation/has/has_primary_prevention.personal.md) 
 
-### [has_primary_prevention.secret](/_secret/schema-org/Relation/has/has_primary_prevention.secret.md) 
+### [has_primary_prevention.secret](/_secret/schema-org/Relation/has/has_primary_prevention.secret.md)
+

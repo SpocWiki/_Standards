@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_health_plan_marketing_url )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_health_plan_marketing](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
+### [has_url_for_health_plan_marketing](/_Standards/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
+
+### [has_url_for_health_plan_marketing.public](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public.md) 
 
 ### [has_url_for_health_plan_marketing.internal](/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_health_plan_marketing.personal](/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal.md) 
 
-### [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md) 
+### [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md)
+

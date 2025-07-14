@@ -258,3 +258,21 @@ robusta* (Verrill, 1881). Bull. Mar. Sci. 49:137-147.
   Reference         Drawing from Pfeffer, 1912.
   View              dorsal view
   ------------
+
+
+## Confidential Links & Embeds: 
+
+### [Onychoteuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.md) 
+
+### [Onychoteuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.public.md) 
+
+### [Onychoteuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.internal.md) 
+
+### [Onychoteuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.protect.md) 
+
+### [Onychoteuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.private.md) 
+
+### [Onychoteuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.personal.md) 
+
+### [Onychoteuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Onychoteuthidae.secret.md)
+

@@ -381,3 +381,21 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
   Comments          Modified from Verrill, 1879.
   Reference         Verrill, A. E. 1879. The cephalopods of the north-eastern coast of America. Part I. The gigantic squids (Architeuthis) and their allies; with observations on similar large species from foreign localities. Trans. Connecticut Acad. Sciences 5:23:177-257.
   ------------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Architeuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.md) 
+
+### [Architeuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.public.md) 
+
+### [Architeuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.internal.md) 
+
+### [Architeuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.protect.md) 
+
+### [Architeuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.private.md) 
+
+### [Architeuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.personal.md) 
+
+### [Architeuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Architeuthidae.secret.md)
+

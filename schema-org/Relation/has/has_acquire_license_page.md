@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: usageInfo ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_acquire_license_page](/_public/schema-org/Relation/has/has_acquire_license_page.md) 
+### [has_acquire_license_page](/_Standards/schema-org/Relation/has/has_acquire_license_page.md) 
+
+### [has_acquire_license_page.public](/_public/schema-org/Relation/has/has_acquire_license_page.public.md) 
 
 ### [has_acquire_license_page.internal](/_internal/schema-org/Relation/has/has_acquire_license_page.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_acquire_license_page.personal](/_personal/schema-org/Relation/has/has_acquire_license_page.personal.md) 
 
-### [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md) 
+### [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md)
+

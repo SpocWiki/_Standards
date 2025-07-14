@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [leisure_time_activity](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.md) 
+### [leisure_time_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.md) 
+
+### [leisure_time_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.public.md) 
 
 ### [leisure_time_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.internal.md) 
 
@@ -56,4 +59,5 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 ### [leisure_time_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.personal.md) 
 
-### [leisure_time_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.secret.md) 
+### [leisure_time_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/leisure_time_activity.secret.md)
+

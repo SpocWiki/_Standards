@@ -629,10 +629,11 @@ Congo has 80% of global [[../../../../chemic/chemic~Elements/Group-09-Cobalt/Cob
 > [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20Republic%20of%20the%20Congo) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Congo~Kinshasa](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.md) 
+### [Congo~Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.md) 
+
+### [Congo~Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public.md) 
 
 ### [Congo~Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal.md) 
 
@@ -642,4 +643,5 @@ Congo has 80% of global [[../../../../chemic/chemic~Elements/Group-09-Cobalt/Cob
 
 ### [Congo~Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal.md) 
 
-### [Congo~Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret.md) 
+### [Congo~Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret.md)
+

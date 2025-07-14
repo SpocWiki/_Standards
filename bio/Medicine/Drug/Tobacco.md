@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1566
 has_effect: "[[_Standards/WikiData/WD~tobacco_use_disorder,152100]]"
 subclass_of:
@@ -40,4 +40,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tabak%209290019.JPG"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tobacco)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tobacco](/_Standards/bio/Medicine/Drug/Tobacco.md) 
+
+### [Tobacco.public](/_public/bio/Medicine/Drug/Tobacco.public.md) 
+
+### [Tobacco.internal](/_internal/bio/Medicine/Drug/Tobacco.internal.md) 
+
+### [Tobacco.protect](/_protect/bio/Medicine/Drug/Tobacco.protect.md) 
+
+### [Tobacco.private](/_private/bio/Medicine/Drug/Tobacco.private.md) 
+
+### [Tobacco.personal](/_personal/bio/Medicine/Drug/Tobacco.personal.md) 
+
+### [Tobacco.secret](/_secret/bio/Medicine/Drug/Tobacco.secret.md)
 

@@ -49,3 +49,22 @@ Commons_category: Brahmagupta
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brahmagupta](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.md) 
+
+### [Brahmagupta.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.public.md) 
+
+### [Brahmagupta.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.internal.md) 
+
+### [Brahmagupta.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.protect.md) 
+
+### [Brahmagupta.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.private.md) 
+
+### [Brahmagupta.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.personal.md) 
+
+### [Brahmagupta.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Brahmagupta.secret.md)
+

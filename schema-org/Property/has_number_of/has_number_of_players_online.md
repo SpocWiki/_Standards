@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_players_online )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_players_online](/_public/schema-org/Property/has_number_of/has_number_of_players_online.md) 
+### [has_number_of_players_online](/_Standards/schema-org/Property/has_number_of/has_number_of_players_online.md) 
+
+### [has_number_of_players_online.public](/_public/schema-org/Property/has_number_of/has_number_of_players_online.public.md) 
 
 ### [has_number_of_players_online.internal](/_internal/schema-org/Property/has_number_of/has_number_of_players_online.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_players_online.personal](/_personal/schema-org/Property/has_number_of/has_number_of_players_online.personal.md) 
 
-### [has_number_of_players_online.secret](/_secret/schema-org/Property/has_number_of/has_number_of_players_online.secret.md) 
+### [has_number_of_players_online.secret](/_secret/schema-org/Property/has_number_of/has_number_of_players_online.secret.md)
+

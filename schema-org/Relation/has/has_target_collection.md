@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: object ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_target_collection](/_public/schema-org/Relation/has/has_target_collection.md) 
+### [has_target_collection](/_Standards/schema-org/Relation/has/has_target_collection.md) 
+
+### [has_target_collection.public](/_public/schema-org/Relation/has/has_target_collection.public.md) 
 
 ### [has_target_collection.internal](/_internal/schema-org/Relation/has/has_target_collection.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_target_collection.personal](/_personal/schema-org/Relation/has/has_target_collection.personal.md) 
 
-### [has_target_collection.secret](/_secret/schema-org/Relation/has/has_target_collection.secret.md) 
+### [has_target_collection.secret](/_secret/schema-org/Relation/has/has_target_collection.secret.md)
+

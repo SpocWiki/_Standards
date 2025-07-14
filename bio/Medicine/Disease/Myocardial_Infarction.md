@@ -91,3 +91,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myocardial%20infarction)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Myocardial_Infarction](/_Standards/bio/Medicine/Disease/Myocardial_Infarction.md) 
+
+### [Myocardial_Infarction.public](/_public/bio/Medicine/Disease/Myocardial_Infarction.public.md) 
+
+### [Myocardial_Infarction.internal](/_internal/bio/Medicine/Disease/Myocardial_Infarction.internal.md) 
+
+### [Myocardial_Infarction.protect](/_protect/bio/Medicine/Disease/Myocardial_Infarction.protect.md) 
+
+### [Myocardial_Infarction.private](/_private/bio/Medicine/Disease/Myocardial_Infarction.private.md) 
+
+### [Myocardial_Infarction.personal](/_personal/bio/Medicine/Disease/Myocardial_Infarction.personal.md) 
+
+### [Myocardial_Infarction.secret](/_secret/bio/Medicine/Disease/Myocardial_Infarction.secret.md)
+

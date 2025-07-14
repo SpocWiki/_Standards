@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_education_requirements )
 ( #has_/range :: EducationalOccupationalCredential, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_education_requirements](/_public/schema-org/Relation/has/has_education_requirements.md) 
+### [has_education_requirements](/_Standards/schema-org/Relation/has/has_education_requirements.md) 
+
+### [has_education_requirements.public](/_public/schema-org/Relation/has/has_education_requirements.public.md) 
 
 ### [has_education_requirements.internal](/_internal/schema-org/Relation/has/has_education_requirements.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_education_requirements.personal](/_personal/schema-org/Relation/has/has_education_requirements.personal.md) 
 
-### [has_education_requirements.secret](/_secret/schema-org/Relation/has/has_education_requirements.secret.md) 
+### [has_education_requirements.secret](/_secret/schema-org/Relation/has/has_education_requirements.secret.md)
+

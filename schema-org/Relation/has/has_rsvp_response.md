@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_rsvp_response )
 ( #has_/range :: RsvpResponseType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_rsvp_response](/_public/schema-org/Relation/has/has_rsvp_response.md) 
+### [has_rsvp_response](/_Standards/schema-org/Relation/has/has_rsvp_response.md) 
+
+### [has_rsvp_response.public](/_public/schema-org/Relation/has/has_rsvp_response.public.md) 
 
 ### [has_rsvp_response.internal](/_internal/schema-org/Relation/has/has_rsvp_response.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_rsvp_response.personal](/_personal/schema-org/Relation/has/has_rsvp_response.personal.md) 
 
-### [has_rsvp_response.secret](/_secret/schema-org/Relation/has/has_rsvp_response.secret.md) 
+### [has_rsvp_response.secret](/_secret/schema-org/Relation/has/has_rsvp_response.secret.md)
+

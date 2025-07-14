@@ -224,3 +224,22 @@ Weakness leads to Dishonesty and Resentment when Goals are denied.
 
 #is_/similar_to :: [[Nice_Guy]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nietzsche,Friedrich](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.md) 
+
+### [Nietzsche,Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.public.md) 
+
+### [Nietzsche,Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.internal.md) 
+
+### [Nietzsche,Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.protect.md) 
+
+### [Nietzsche,Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.private.md) 
+
+### [Nietzsche,Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.personal.md) 
+
+### [Nietzsche,Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.secret.md)
+

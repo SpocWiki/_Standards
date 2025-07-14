@@ -555,9 +555,12 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Korea)
 
+
 ## Confidential Links & Embeds: 
 
-### [Korea~North](/_public/Earth/Continent/Asia/Asia~East/Korea~North.md) 
+### [Korea~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North.md) 
+
+### [Korea~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North.public.md) 
 
 ### [Korea~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North.internal.md) 
 
@@ -567,4 +570,5 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 
 ### [Korea~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North.personal.md) 
 
-### [Korea~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North.secret.md) 
+### [Korea~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North.secret.md)
+

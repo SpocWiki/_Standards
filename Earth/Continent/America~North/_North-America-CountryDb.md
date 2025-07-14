@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_North-America-CountryDb](/_public/Earth/Continent/America~North/_North-America-CountryDb.md) 
+### [_North-America-CountryDb](/_Standards/Earth/Continent/America~North/_North-America-CountryDb.md) 
+
+### [_North-America-CountryDb.public](/_public/Earth/Continent/America~North/_North-America-CountryDb.public.md) 
 
 ### [_North-America-CountryDb.internal](/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_North-America-CountryDb.personal](/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal.md) 
 
-### [_North-America-CountryDb.secret](/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret.md) 
+### [_North-America-CountryDb.secret](/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret.md)
+

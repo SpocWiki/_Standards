@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_producer )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_producer](/_public/schema-org/Relation/has/has_producer.md) 
+### [has_producer](/_Standards/schema-org/Relation/has/has_producer.md) 
+
+### [has_producer.public](/_public/schema-org/Relation/has/has_producer.public.md) 
 
 ### [has_producer.internal](/_internal/schema-org/Relation/has/has_producer.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_producer.personal](/_personal/schema-org/Relation/has/has_producer.personal.md) 
 
-### [has_producer.secret](/_secret/schema-org/Relation/has/has_producer.secret.md) 
+### [has_producer.secret](/_secret/schema-org/Relation/has/has_producer.secret.md)
+

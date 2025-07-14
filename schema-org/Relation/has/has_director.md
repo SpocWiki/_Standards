@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: has_director )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_director](/_public/schema-org/Relation/has/has_director.md) 
+### [has_director](/_Standards/schema-org/Relation/has/has_director.md) 
+
+### [has_director.public](/_public/schema-org/Relation/has/has_director.public.md) 
 
 ### [has_director.internal](/_internal/schema-org/Relation/has/has_director.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_director.personal](/_personal/schema-org/Relation/has/has_director.personal.md) 
 
-### [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md) 
+### [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md)
+

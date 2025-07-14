@@ -58,3 +58,22 @@ Source               [Salamandra atra](http://www.flickr.com/photos/philgimp/205
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/66579298@N00)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Salamandra](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.md) 
+
+### [Salamandra.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.public.md) 
+
+### [Salamandra.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.internal.md) 
+
+### [Salamandra.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.protect.md) 
+
+### [Salamandra.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.private.md) 
+
+### [Salamandra.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.personal.md) 
+
+### [Salamandra.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Salamandridae/Salamandra.secret.md)
+

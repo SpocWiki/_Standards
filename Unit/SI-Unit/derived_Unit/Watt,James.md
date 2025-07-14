@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - James Watt
 ---
@@ -38,10 +38,11 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Watt)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Watt,James](/_public/Unit/SI-Unit/derived_Unit/Watt,James.md) 
+### [Watt,James](/_Standards/Unit/SI-Unit/derived_Unit/Watt,James.md) 
+
+### [Watt,James.public](/_public/Unit/SI-Unit/derived_Unit/Watt,James.public.md) 
 
 ### [Watt,James.internal](/_internal/Unit/SI-Unit/derived_Unit/Watt,James.internal.md) 
 
@@ -51,4 +52,5 @@ aliases:
 
 ### [Watt,James.personal](/_personal/Unit/SI-Unit/derived_Unit/Watt,James.personal.md) 
 
-### [Watt,James.secret](/_secret/Unit/SI-Unit/derived_Unit/Watt,James.secret.md) 
+### [Watt,James.secret](/_secret/Unit/SI-Unit/derived_Unit/Watt,James.secret.md)
+

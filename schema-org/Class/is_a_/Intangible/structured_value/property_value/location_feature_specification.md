@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Specifies a location feature by providing a structured value representing a feat
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [location_feature_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.md) 
+### [location_feature_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.md) 
+
+### [location_feature_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.public.md) 
 
 ### [location_feature_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.internal.md) 
 
@@ -54,4 +57,5 @@ Specifies a location feature by providing a structured value representing a feat
 
 ### [location_feature_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.personal.md) 
 
-### [location_feature_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.secret.md) 
+### [location_feature_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value/location_feature_specification.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_region_drained )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_region_drained](/_public/schema-org/Relation/has/has_region_drained.md) 
+### [has_region_drained](/_Standards/schema-org/Relation/has/has_region_drained.md) 
+
+### [has_region_drained.public](/_public/schema-org/Relation/has/has_region_drained.public.md) 
 
 ### [has_region_drained.internal](/_internal/schema-org/Relation/has/has_region_drained.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_region_drained.personal](/_personal/schema-org/Relation/has/has_region_drained.personal.md) 
 
-### [has_region_drained.secret](/_secret/schema-org/Relation/has/has_region_drained.secret.md) 
+### [has_region_drained.secret](/_secret/schema-org/Relation/has/has_region_drained.secret.md)
+

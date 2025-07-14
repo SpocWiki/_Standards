@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Predicate describes that:
 ( #has_/name :: has_location_birth )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_birth](/_public/schema-org/Property/has_location/has_location_birth.md) 
+### [has_location_birth](/_Standards/schema-org/Property/has_location/has_location_birth.md) 
+
+### [has_location_birth.public](/_public/schema-org/Property/has_location/has_location_birth.public.md) 
 
 ### [has_location_birth.internal](/_internal/schema-org/Property/has_location/has_location_birth.internal.md) 
 
@@ -54,4 +57,5 @@ Predicate describes that:
 
 ### [has_location_birth.personal](/_personal/schema-org/Property/has_location/has_location_birth.personal.md) 
 
-### [has_location_birth.secret](/_secret/schema-org/Property/has_location/has_location_birth.secret.md) 
+### [has_location_birth.secret](/_secret/schema-org/Property/has_location/has_location_birth.secret.md)
+

@@ -47,3 +47,22 @@ GS1_GPC_code: 10002926
 
 Potter's wheels were in common use long before the Wheel was applied to carts. 
 New Research indicates that the wheel was used for transport first around the Black Sea ca. 5000BC. 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wheel](/_Standards/Technology/Mechanical_Engineering/Engine/Wheel.md) 
+
+### [Wheel.public](/_public/Technology/Mechanical_Engineering/Engine/Wheel.public.md) 
+
+### [Wheel.internal](/_internal/Technology/Mechanical_Engineering/Engine/Wheel.internal.md) 
+
+### [Wheel.protect](/_protect/Technology/Mechanical_Engineering/Engine/Wheel.protect.md) 
+
+### [Wheel.private](/_private/Technology/Mechanical_Engineering/Engine/Wheel.private.md) 
+
+### [Wheel.personal](/_personal/Technology/Mechanical_Engineering/Engine/Wheel.personal.md) 
+
+### [Wheel.secret](/_secret/Technology/Mechanical_Engineering/Engine/Wheel.secret.md)
+

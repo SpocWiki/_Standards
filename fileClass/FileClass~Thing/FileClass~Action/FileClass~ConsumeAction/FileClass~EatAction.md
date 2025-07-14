@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of swallowing solid objects.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EatAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.md) 
+### [FileClass~EatAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.md) 
+
+### [FileClass~EatAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.public.md) 
 
 ### [FileClass~EatAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of swallowing solid objects.
 
 ### [FileClass~EatAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.personal.md) 
 
-### [FileClass~EatAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.secret.md) 
+### [FileClass~EatAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~EatAction.secret.md)
+

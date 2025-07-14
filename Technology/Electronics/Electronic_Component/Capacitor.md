@@ -39,3 +39,21 @@ aliases:
 > The earliest forms of capacitors were created in the 1740s, when European experimenters discovered that electric charge could be stored in water-filled glass jars that came to be known as Leyden jars. Today, capacitors are widely used in electronic circuits for blocking direct current while allowing alternating current to pass. In analog filter networks, they smooth the output of power supplies. In resonant circuits they tune radios to particular frequencies. In electric power transmission systems, they stabilize voltage and power flow. The property of energy storage in capacitors was exploited as dynamic memory in early digital computers, and still is in modern DRAM.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capacitor)
+
+
+## Confidential Links & Embeds: 
+
+### [Capacitor](/_Standards/Technology/Electronics/Electronic_Component/Capacitor.md) 
+
+### [Capacitor.public](/_public/Technology/Electronics/Electronic_Component/Capacitor.public.md) 
+
+### [Capacitor.internal](/_internal/Technology/Electronics/Electronic_Component/Capacitor.internal.md) 
+
+### [Capacitor.protect](/_protect/Technology/Electronics/Electronic_Component/Capacitor.protect.md) 
+
+### [Capacitor.private](/_private/Technology/Electronics/Electronic_Component/Capacitor.private.md) 
+
+### [Capacitor.personal](/_personal/Technology/Electronics/Electronic_Component/Capacitor.personal.md) 
+
+### [Capacitor.secret](/_secret/Technology/Electronics/Electronic_Component/Capacitor.secret.md)
+

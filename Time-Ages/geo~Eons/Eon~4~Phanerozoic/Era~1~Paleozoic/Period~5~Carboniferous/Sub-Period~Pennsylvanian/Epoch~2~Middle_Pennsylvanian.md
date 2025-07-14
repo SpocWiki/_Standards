@@ -43,10 +43,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Middle_Pennsylvanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.md) 
+### [Epoch~2~Middle_Pennsylvanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.public.md) 
 
 ### [Epoch~2~Middle_Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.internal.md) 
 
@@ -56,4 +57,5 @@ noteOnly: true
 
 ### [Epoch~2~Middle_Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.personal.md) 
 
-### [Epoch~2~Middle_Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.secret.md) 
+### [Epoch~2~Middle_Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.secret.md)
+

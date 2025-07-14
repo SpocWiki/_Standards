@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_issued_through )
 ( #has_/range :: Service )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_issued_through](/_public/schema-org/Relation/is/is_issued_through.md) 
+### [is_issued_through](/_Standards/schema-org/Relation/is/is_issued_through.md) 
+
+### [is_issued_through.public](/_public/schema-org/Relation/is/is_issued_through.public.md) 
 
 ### [is_issued_through.internal](/_internal/schema-org/Relation/is/is_issued_through.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_issued_through.personal](/_personal/schema-org/Relation/is/is_issued_through.personal.md) 
 
-### [is_issued_through.secret](/_secret/schema-org/Relation/is/is_issued_through.secret.md) 
+### [is_issued_through.secret](/_secret/schema-org/Relation/is/is_issued_through.secret.md)
+

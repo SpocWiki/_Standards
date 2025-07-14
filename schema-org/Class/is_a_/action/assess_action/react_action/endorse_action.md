@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An agent approves/certifies/likes/supports/sanctions an object.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [endorse_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.md) 
+### [endorse_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.md) 
+
+### [endorse_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.public.md) 
 
 ### [endorse_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.internal.md) 
 
@@ -54,4 +57,5 @@ An agent approves/certifies/likes/supports/sanctions an object.
 
 ### [endorse_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.personal.md) 
 
-### [endorse_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.secret.md) 
+### [endorse_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.secret.md)
+

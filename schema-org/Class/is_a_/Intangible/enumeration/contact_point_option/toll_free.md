@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The associated telephone number is toll free.
 
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [toll_free](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.md) 
+### [toll_free](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.md) 
+
+### [toll_free.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.public.md) 
 
 ### [toll_free.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.internal.md) 
 
@@ -56,4 +59,5 @@ The associated telephone number is toll free.
 
 ### [toll_free.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.personal.md) 
 
-### [toll_free.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.secret.md) 
+### [toll_free.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.secret.md)
+

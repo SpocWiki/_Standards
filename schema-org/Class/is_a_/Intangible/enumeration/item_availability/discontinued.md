@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item has been discontinued.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [discontinued](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.md) 
+### [discontinued](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.md) 
+
+### [discontinued.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.public.md) 
 
 ### [discontinued.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item has been discontinued.
 
 ### [discontinued.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.personal.md) 
 
-### [discontinued.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.secret.md) 
+### [discontinued.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/discontinued.secret.md)
+

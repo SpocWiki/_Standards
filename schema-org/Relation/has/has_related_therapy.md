@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_related_therapy )
 ( #has_/range :: MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_related_therapy](/_public/schema-org/Relation/has/has_related_therapy.md) 
+### [has_related_therapy](/_Standards/schema-org/Relation/has/has_related_therapy.md) 
+
+### [has_related_therapy.public](/_public/schema-org/Relation/has/has_related_therapy.public.md) 
 
 ### [has_related_therapy.internal](/_internal/schema-org/Relation/has/has_related_therapy.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_related_therapy.personal](/_personal/schema-org/Relation/has/has_related_therapy.personal.md) 
 
-### [has_related_therapy.secret](/_secret/schema-org/Relation/has/has_related_therapy.secret.md) 
+### [has_related_therapy.secret](/_secret/schema-org/Relation/has/has_related_therapy.secret.md)
+

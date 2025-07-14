@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,9 +53,12 @@ can be indicated using [[image]].
 
 [ #has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [floor_plan](/_public/schema-org/Class/is_a_/Intangible/floor_plan.md) 
+### [floor_plan](/_Standards/schema-org/Class/is_a_/Intangible/floor_plan.md) 
+
+### [floor_plan.public](/_public/schema-org/Class/is_a_/Intangible/floor_plan.public.md) 
 
 ### [floor_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/floor_plan.internal.md) 
 
@@ -65,4 +68,5 @@ can be indicated using [[image]].
 
 ### [floor_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/floor_plan.personal.md) 
 
-### [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md) 
+### [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md)
+

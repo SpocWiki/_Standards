@@ -49,3 +49,22 @@ IPTC_NewsCode: mediatopic/20000003
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Animation](/_Standards/bio/Society/Communication/Film/Animation.md) 
+
+### [Animation.public](/_public/bio/Society/Communication/Film/Animation.public.md) 
+
+### [Animation.internal](/_internal/bio/Society/Communication/Film/Animation.internal.md) 
+
+### [Animation.protect](/_protect/bio/Society/Communication/Film/Animation.protect.md) 
+
+### [Animation.private](/_private/bio/Society/Communication/Film/Animation.private.md) 
+
+### [Animation.personal](/_personal/bio/Society/Communication/Film/Animation.personal.md) 
+
+### [Animation.secret](/_secret/bio/Society/Communication/Film/Animation.secret.md)
+

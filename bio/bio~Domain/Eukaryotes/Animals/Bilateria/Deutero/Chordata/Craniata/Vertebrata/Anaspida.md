@@ -166,3 +166,22 @@ The anaspid Pterygolepis nitidus, from the Lower Silurian of Norway.
 
 ![Pterygolepis nitidus fossil](pterygolepis.jpg)
 Copyright ::   © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Anaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.md) 
+
+### [Anaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.public.md) 
+
+### [Anaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.internal.md) 
+
+### [Anaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.protect.md) 
+
+### [Anaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.private.md) 
+
+### [Anaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.personal.md) 
+
+### [Anaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Anaspida.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 17995
 has_id_wikidata: Q897
@@ -153,11 +153,11 @@ OpenStreetMap_tag_or_key: "Tag:resource=gold"
 > [Wikipedia](https://en.wikipedia.org/wiki/Gold)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gold](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
+### [Gold](/_Standards/chemic/chemic~Elements/Group-11-Copper/Gold.md) 
+
+### [Gold.public](/_public/chemic/chemic~Elements/Group-11-Copper/Gold.public.md) 
 
 ### [Gold.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Gold.internal.md) 
 
@@ -167,4 +167,5 @@ OpenStreetMap_tag_or_key: "Tag:resource=gold"
 
 ### [Gold.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Gold.personal.md) 
 
-### [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md) 
+### [Gold.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Gold.secret.md)
+

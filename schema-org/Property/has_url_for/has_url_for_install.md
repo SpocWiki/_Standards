@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_install_url )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_install](/_public/schema-org/Property/has_url_for/has_url_for_install.md) 
+### [has_url_for_install](/_Standards/schema-org/Property/has_url_for/has_url_for_install.md) 
+
+### [has_url_for_install.public](/_public/schema-org/Property/has_url_for/has_url_for_install.public.md) 
 
 ### [has_url_for_install.internal](/_internal/schema-org/Property/has_url_for/has_url_for_install.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_url_for_install.personal](/_personal/schema-org/Property/has_url_for/has_url_for_install.personal.md) 
 
-### [has_url_for_install.secret](/_secret/schema-org/Property/has_url_for/has_url_for_install.secret.md) 
+### [has_url_for_install.secret](/_secret/schema-org/Property/has_url_for/has_url_for_install.secret.md)
+

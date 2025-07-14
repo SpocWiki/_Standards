@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -104,10 +104,11 @@ The variableMeasured property can indicate (repeated as necessary) the  variable
 VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Observation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.md) 
+### [FileClass~Observation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.md) 
+
+### [FileClass~Observation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.public.md) 
 
 ### [FileClass~Observation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.internal.md) 
 
@@ -117,4 +118,5 @@ VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ### [FileClass~Observation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.personal.md) 
 
-### [FileClass~Observation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.secret.md) 
+### [FileClass~Observation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.secret.md)
+

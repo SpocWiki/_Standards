@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Formal Predicate:
 (name::has_time_of_temporal)
 (range::DateTime, Text)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_temporal](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal.md) 
+### [has_time_of_temporal](/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal.md) 
+
+### [has_time_of_temporal.public](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal.public.md) 
 
 ### [has_time_of_temporal.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal.internal.md) 
 
@@ -56,4 +59,5 @@ Formal Predicate:
 
 ### [has_time_of_temporal.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal.personal.md) 
 
-### [has_time_of_temporal.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal.secret.md) 
+### [has_time_of_temporal.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalContraindication](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.md) 
+### [FileClass~MedicalContraindication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.md) 
+
+### [FileClass~MedicalContraindication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.public.md) 
 
 ### [FileClass~MedicalContraindication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.internal.md) 
 
@@ -46,4 +47,5 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 
 ### [FileClass~MedicalContraindication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.personal.md) 
 
-### [FileClass~MedicalContraindication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.secret.md) 
+### [FileClass~MedicalContraindication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalContraindication.secret.md)
+

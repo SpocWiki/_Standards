@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,10 +53,11 @@ The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO\_4217)) us
 SalaryCurrency:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EmployeeRole](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.md) 
+### [FileClass~EmployeeRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.md) 
+
+### [FileClass~EmployeeRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.public.md) 
 
 ### [FileClass~EmployeeRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.internal.md) 
 
@@ -66,4 +67,5 @@ SalaryCurrency:: {"type":"Input","options":{}}
 
 ### [FileClass~EmployeeRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.personal.md) 
 
-### [FileClass~EmployeeRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.secret.md) 
+### [FileClass~EmployeeRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole/FileClass~EmployeeRole.secret.md)
+

@@ -60,10 +60,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Guadalupian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.md) 
+### [Epoch~2~Guadalupian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.md) 
+
+### [Epoch~2~Guadalupian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.public.md) 
 
 ### [Epoch~2~Guadalupian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.internal.md) 
 
@@ -73,4 +74,5 @@ noteOnly: true
 
 ### [Epoch~2~Guadalupian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.personal.md) 
 
-### [Epoch~2~Guadalupian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.secret.md) 
+### [Epoch~2~Guadalupian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian.secret.md)
+

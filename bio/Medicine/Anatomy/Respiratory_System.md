@@ -48,3 +48,22 @@ TA98_Latin_term: "systema respiratorium"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Respiratory_System](/_Standards/bio/Medicine/Anatomy/Respiratory_System.md) 
+
+### [Respiratory_System.public](/_public/bio/Medicine/Anatomy/Respiratory_System.public.md) 
+
+### [Respiratory_System.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System.internal.md) 
+
+### [Respiratory_System.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System.protect.md) 
+
+### [Respiratory_System.private](/_private/bio/Medicine/Anatomy/Respiratory_System.private.md) 
+
+### [Respiratory_System.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System.personal.md) 
+
+### [Respiratory_System.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System.secret.md)
+

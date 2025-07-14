@@ -61,3 +61,22 @@ The head of state is usually an elected or appointed president, not a monarch.
 > [Wikipedia](https://en.wikipedia.org/wiki/Republic)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Republic](/_Standards/bio/Society/Government/Republic.md) 
+
+### [Republic.public](/_public/bio/Society/Government/Republic.public.md) 
+
+### [Republic.internal](/_internal/bio/Society/Government/Republic.internal.md) 
+
+### [Republic.protect](/_protect/bio/Society/Government/Republic.protect.md) 
+
+### [Republic.private](/_private/bio/Society/Government/Republic.private.md) 
+
+### [Republic.personal](/_personal/bio/Society/Government/Republic.personal.md) 
+
+### [Republic.secret](/_secret/bio/Society/Government/Republic.secret.md)
+

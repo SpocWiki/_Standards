@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A volcano, like Fujisan.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Volcano](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.md) 
+### [FileClass~Volcano](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.md) 
+
+### [FileClass~Volcano.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.public.md) 
 
 ### [FileClass~Volcano.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.internal.md) 
 
@@ -46,4 +47,5 @@ A volcano, like Fujisan.
 
 ### [FileClass~Volcano.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.personal.md) 
 
-### [FileClass~Volcano.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.secret.md) 
+### [FileClass~Volcano.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Volcano.secret.md)
+

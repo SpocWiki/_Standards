@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A florist.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Florist](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.md) 
+### [FileClass~Florist](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.md) 
+
+### [FileClass~Florist.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.public.md) 
 
 ### [FileClass~Florist.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.internal.md) 
 
@@ -46,4 +47,5 @@ A florist.
 
 ### [FileClass~Florist.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.personal.md) 
 
-### [FileClass~Florist.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.secret.md) 
+### [FileClass~Florist.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.secret.md)
+

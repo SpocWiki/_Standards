@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Measurement of the cup, for example of a bra
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_cup](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.md) 
+### [wearable_measurement_cup](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.md) 
+
+### [wearable_measurement_cup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.public.md) 
 
 ### [wearable_measurement_cup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.internal.md) 
 
@@ -58,4 +61,5 @@ Measurement of the cup, for example of a bra
 
 ### [wearable_measurement_cup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.personal.md) 
 
-### [wearable_measurement_cup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.secret.md) 
+### [wearable_measurement_cup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Measurement of the outside leg, for example of pants
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_outside_leg](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.md) 
+### [wearable_measurement_outside_leg](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.md) 
+
+### [wearable_measurement_outside_leg.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.public.md) 
 
 ### [wearable_measurement_outside_leg.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.internal.md) 
 
@@ -58,4 +61,5 @@ Measurement of the outside leg, for example of pants
 
 ### [wearable_measurement_outside_leg.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.personal.md) 
 
-### [wearable_measurement_outside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.secret.md) 
+### [wearable_measurement_outside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.secret.md)
+

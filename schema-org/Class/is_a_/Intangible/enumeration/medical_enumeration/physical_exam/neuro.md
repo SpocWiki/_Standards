@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Neurological system clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [neuro](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.md) 
+### [neuro](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.md) 
+
+### [neuro.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.public.md) 
 
 ### [neuro.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.internal.md) 
 
@@ -56,4 +59,5 @@ Neurological system clinical examination.
 
 ### [neuro.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.personal.md) 
 
-### [neuro.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.secret.md) 
+### [neuro.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neuro.secret.md)
+

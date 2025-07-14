@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,10 +53,11 @@ Minimal age of the child.
 ChildMinAge:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ParentAudience](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.md) 
+### [FileClass~ParentAudience](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.md) 
+
+### [FileClass~ParentAudience.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.public.md) 
 
 ### [FileClass~ParentAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.internal.md) 
 
@@ -66,4 +67,5 @@ ChildMinAge:: {"type":"Number","options":{}}
 
 ### [FileClass~ParentAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.personal.md) 
 
-### [FileClass~ParentAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.secret.md) 
+### [FileClass~ParentAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~ParentAudience.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [business_audience](/_public/schema-org/Class/is_a_/Intangible/audience/business_audience.md) 
+### [business_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/business_audience.md) 
+
+### [business_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/business_audience.public.md) 
 
 ### [business_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/business_audience.internal.md) 
 
@@ -54,4 +57,5 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 
 ### [business_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/business_audience.personal.md) 
 
-### [business_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/business_audience.secret.md) 
+### [business_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/business_audience.secret.md)
+

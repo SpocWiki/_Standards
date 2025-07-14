@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: is_translator )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_translator](/_public/schema-org/Relation/has/has_translator.md) 
+### [has_translator](/_Standards/schema-org/Relation/has/has_translator.md) 
+
+### [has_translator.public](/_public/schema-org/Relation/has/has_translator.public.md) 
 
 ### [has_translator.internal](/_internal/schema-org/Relation/has/has_translator.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_translator.personal](/_personal/schema-org/Relation/has/has_translator.personal.md) 
 
-### [has_translator.secret](/_secret/schema-org/Relation/has/has_translator.secret.md) 
+### [has_translator.secret](/_secret/schema-org/Relation/has/has_translator.secret.md)
+

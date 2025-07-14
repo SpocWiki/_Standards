@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ Specifies specific carrier(s) requirements for the application (e.g. an applicat
 CarrierRequirements:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MobileApplication](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.md) 
+### [FileClass~MobileApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.md) 
+
+### [FileClass~MobileApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.public.md) 
 
 ### [FileClass~MobileApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.internal.md) 
 
@@ -56,4 +57,5 @@ CarrierRequirements:: {"type":"Input","options":{}}
 
 ### [FileClass~MobileApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.personal.md) 
 
-### [FileClass~MobileApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.secret.md) 
+### [FileClass~MobileApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~MobileApplication.secret.md)
+

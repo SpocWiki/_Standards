@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_location_address_street )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_address_street](/_public/schema-org/Property/has_location/has_location_address_street.md) 
+### [has_location_address_street](/_Standards/schema-org/Property/has_location/has_location_address_street.md) 
+
+### [has_location_address_street.public](/_public/schema-org/Property/has_location/has_location_address_street.public.md) 
 
 ### [has_location_address_street.internal](/_internal/schema-org/Property/has_location/has_location_address_street.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_location_address_street.personal](/_personal/schema-org/Property/has_location/has_location_address_street.personal.md) 
 
-### [has_location_address_street.secret](/_secret/schema-org/Property/has_location/has_location_address_street.secret.md) 
+### [has_location_address_street.secret](/_secret/schema-org/Property/has_location/has_location_address_street.secret.md)
+

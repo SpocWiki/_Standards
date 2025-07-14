@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A [[NewsArticle]] providing historical context, definition and detail on a speci
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BackgroundNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.md) 
+### [FileClass~BackgroundNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.md) 
+
+### [FileClass~BackgroundNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.public.md) 
 
 ### [FileClass~BackgroundNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.internal.md) 
 
@@ -46,4 +47,5 @@ A [[NewsArticle]] providing historical context, definition and detail on a speci
 
 ### [FileClass~BackgroundNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.personal.md) 
 
-### [FileClass~BackgroundNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.secret.md) 
+### [FileClass~BackgroundNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.secret.md)
+

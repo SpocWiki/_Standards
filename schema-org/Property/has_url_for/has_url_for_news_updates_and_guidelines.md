@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_news_updates_and_guidelines )
 ( #has_/range :: URL, WebContent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_news_updates_and_guidelines](/_public/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.md) 
+### [has_url_for_news_updates_and_guidelines](/_Standards/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.md) 
+
+### [has_url_for_news_updates_and_guidelines.public](/_public/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.public.md) 
 
 ### [has_url_for_news_updates_and_guidelines.internal](/_internal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_news_updates_and_guidelines.personal](/_personal/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.personal.md) 
 
-### [has_url_for_news_updates_and_guidelines.secret](/_secret/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.secret.md) 
+### [has_url_for_news_updates_and_guidelines.secret](/_secret/schema-org/Property/has_url_for/has_url_for_news_updates_and_guidelines.secret.md)
+

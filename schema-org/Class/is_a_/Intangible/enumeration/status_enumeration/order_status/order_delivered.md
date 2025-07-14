@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing successful delivery of an order.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_delivered](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.md) 
+### [order_delivered](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.md) 
+
+### [order_delivered.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.public.md) 
 
 ### [order_delivered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing successful delivery of an order.
 
 ### [order_delivered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.personal.md) 
 
-### [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md) 
+### [order_delivered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_delivered.secret.md)
+

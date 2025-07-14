@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -15.4 , 167.8 ] 
 type: geo-Region
 title: Penama
@@ -41,7 +41,9 @@ markerFolder: ./Penama/
 
 ## Confidential Links & Embeds: 
 
-### [Penama](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.md) 
+### [Penama](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.md) 
+
+### [Penama.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.public.md) 
 
 ### [Penama.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Penama/
 
 ### [Penama.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.personal.md) 
 
-### [Penama.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.secret.md) 
+### [Penama.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Any medical imaging modality typically used for diagnostic purposes.
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, imagingTechnique, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [imaging_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.md) 
+### [imaging_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.md) 
+
+### [imaging_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.public.md) 
 
 ### [imaging_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.internal.md) 
 
@@ -54,4 +57,5 @@ Any medical imaging modality typically used for diagnostic purposes.
 
 ### [imaging_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.personal.md) 
 
-### [imaging_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.secret.md) 
+### [imaging_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.secret.md)
+

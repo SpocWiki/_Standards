@@ -116,3 +116,22 @@ Krugosvet_article: medicina/PNEVMONIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Pneumonia) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pneumonia](/_Standards/bio/Medicine/Disease/Infectious_Disease/Pneumonia.md) 
+
+### [Pneumonia.public](/_public/bio/Medicine/Disease/Infectious_Disease/Pneumonia.public.md) 
+
+### [Pneumonia.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Pneumonia.internal.md) 
+
+### [Pneumonia.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Pneumonia.protect.md) 
+
+### [Pneumonia.private](/_private/bio/Medicine/Disease/Infectious_Disease/Pneumonia.private.md) 
+
+### [Pneumonia.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Pneumonia.personal.md) 
+
+### [Pneumonia.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Pneumonia.secret.md)
+

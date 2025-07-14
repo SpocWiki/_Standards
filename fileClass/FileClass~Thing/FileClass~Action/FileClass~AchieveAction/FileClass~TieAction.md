@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of reaching a draw in a competitive activity.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TieAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.md) 
+### [FileClass~TieAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.md) 
+
+### [FileClass~TieAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.public.md) 
 
 ### [FileClass~TieAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of reaching a draw in a competitive activity.
 
 ### [FileClass~TieAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.personal.md) 
 
-### [FileClass~TieAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.secret.md) 
+### [FileClass~TieAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.secret.md)
+

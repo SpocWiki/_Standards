@@ -186,3 +186,22 @@ birth_name: "Charles Spencer Chaplin"
 > [Wikipedia](https://en.wikipedia.org/wiki/Charlie%20Chaplin)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chaplin,Charlie](/_Standards/bio/People/Actor/Chaplin,Charlie.md) 
+
+### [Chaplin,Charlie.public](/_public/bio/People/Actor/Chaplin,Charlie.public.md) 
+
+### [Chaplin,Charlie.internal](/_internal/bio/People/Actor/Chaplin,Charlie.internal.md) 
+
+### [Chaplin,Charlie.protect](/_protect/bio/People/Actor/Chaplin,Charlie.protect.md) 
+
+### [Chaplin,Charlie.private](/_private/bio/People/Actor/Chaplin,Charlie.private.md) 
+
+### [Chaplin,Charlie.personal](/_personal/bio/People/Actor/Chaplin,Charlie.personal.md) 
+
+### [Chaplin,Charlie.secret](/_secret/bio/People/Actor/Chaplin,Charlie.secret.md)
+

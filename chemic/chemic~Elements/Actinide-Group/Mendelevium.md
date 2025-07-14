@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21996
 has_id_wikidata: Q1898
@@ -104,7 +104,9 @@ time_of_discovery_or_invention: "1955"
 
 ## Confidential Links & Embeds: 
 
-### [Mendelevium](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
+### [Mendelevium](/_Standards/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
+
+### [Mendelevium.public](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.public.md) 
 
 ### [Mendelevium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Mendelevium.internal.md) 
 
@@ -114,4 +116,5 @@ time_of_discovery_or_invention: "1955"
 
 ### [Mendelevium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Mendelevium.personal.md) 
 
-### [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md) 
+### [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md)
+

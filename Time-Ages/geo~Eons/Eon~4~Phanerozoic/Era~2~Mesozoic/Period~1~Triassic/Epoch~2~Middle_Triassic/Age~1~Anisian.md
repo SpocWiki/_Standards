@@ -65,10 +65,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Anisian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.md) 
+### [Age~1~Anisian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.md) 
+
+### [Age~1~Anisian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.public.md) 
 
 ### [Age~1~Anisian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.internal.md) 
 
@@ -78,4 +79,5 @@ noteOnly: true
 
 ### [Age~1~Anisian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.personal.md) 
 
-### [Age~1~Anisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.secret.md) 
+### [Age~1~Anisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.secret.md)
+

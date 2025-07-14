@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A list of possible levels for the legal validity of a legislation.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [legal_value_level](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.md) 
+### [legal_value_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.md) 
+
+### [legal_value_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.public.md) 
 
 ### [legal_value_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.internal.md) 
 
@@ -54,4 +57,5 @@ A list of possible levels for the legal validity of a legislation.
 
 ### [legal_value_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.personal.md) 
 
-### [legal_value_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.secret.md) 
+### [legal_value_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level.secret.md)
+

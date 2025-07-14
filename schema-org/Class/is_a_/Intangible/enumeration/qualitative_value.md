@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A predefined value for a product characteristic, e.g. the power cord plug type '
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [qualitative_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.md) 
+### [qualitative_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.md) 
+
+### [qualitative_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.public.md) 
 
 ### [qualitative_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.internal.md) 
 
@@ -56,4 +59,5 @@ A predefined value for a product characteristic, e.g. the power cord plug type '
 
 ### [qualitative_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.personal.md) 
 
-### [qualitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.secret.md) 
+### [qualitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value.secret.md)
+

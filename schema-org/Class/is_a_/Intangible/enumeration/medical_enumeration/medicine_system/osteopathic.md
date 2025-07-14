@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [osteopathic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md) 
+### [osteopathic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md) 
+
+### [osteopathic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.public.md) 
 
 ### [osteopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.internal.md) 
 
@@ -56,4 +59,5 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 ### [osteopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.personal.md) 
 
-### [osteopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.secret.md) 
+### [osteopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/osteopathic.secret.md)
+

@@ -139,3 +139,22 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20e
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Archimedes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Archimedes](/_Standards/bio/People/Scientist/Ancient_Scientists/Archimedes.md) 
+
+### [Archimedes.public](/_public/bio/People/Scientist/Ancient_Scientists/Archimedes.public.md) 
+
+### [Archimedes.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Archimedes.internal.md) 
+
+### [Archimedes.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Archimedes.protect.md) 
+
+### [Archimedes.private](/_private/bio/People/Scientist/Ancient_Scientists/Archimedes.private.md) 
+
+### [Archimedes.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Archimedes.personal.md) 
+
+### [Archimedes.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Archimedes.secret.md)
+

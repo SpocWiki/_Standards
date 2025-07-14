@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
 - geo/Country
@@ -122,10 +122,11 @@ has_place_continent:: [[Asia]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Macau](/_public/Earth/Continent/Asia/Asia~East/Macau.md) 
+### [Macau](/_Standards/Earth/Continent/Asia/Asia~East/Macau.md) 
+
+### [Macau.public](/_public/Earth/Continent/Asia/Asia~East/Macau.public.md) 
 
 ### [Macau.internal](/_internal/Earth/Continent/Asia/Asia~East/Macau.internal.md) 
 
@@ -135,4 +136,5 @@ has_place_continent:: [[Asia]]
 
 ### [Macau.personal](/_personal/Earth/Continent/Asia/Asia~East/Macau.personal.md) 
 
-### [Macau.secret](/_secret/Earth/Continent/Asia/Asia~East/Macau.secret.md) 
+### [Macau.secret](/_secret/Earth/Continent/Asia/Asia~East/Macau.secret.md)
+

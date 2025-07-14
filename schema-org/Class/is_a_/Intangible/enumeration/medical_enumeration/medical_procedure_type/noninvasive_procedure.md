@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A type of medical procedure that involves noninvasive techniques.
 
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [noninvasive_procedure](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md) 
+### [noninvasive_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md) 
+
+### [noninvasive_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.public.md) 
 
 ### [noninvasive_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal.md) 
 
@@ -56,4 +59,5 @@ A type of medical procedure that involves noninvasive techniques.
 
 ### [noninvasive_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.personal.md) 
 
-### [noninvasive_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret.md) 
+### [noninvasive_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret.md)
+

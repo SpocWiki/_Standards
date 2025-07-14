@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -37,7 +37,9 @@ that occupies only part of a building
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Apartment](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.md) 
+### [FileClass~Apartment](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.md) 
+
+### [FileClass~Apartment.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.public.md) 
 
 ### [FileClass~Apartment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.internal.md) 
 
@@ -47,4 +49,5 @@ that occupies only part of a building
 
 ### [FileClass~Apartment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.personal.md) 
 
-### [FileClass~Apartment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.secret.md) 
+### [FileClass~Apartment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Apartment.secret.md)
+

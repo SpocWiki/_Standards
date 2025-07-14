@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -59,10 +59,11 @@ Status of a game server.
 ServerStatus:: {"type":"Select","options":{"valuesList":{"OfflinePermanently","OfflineTemporarily","Online","OnlineFull"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GameServer](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.md) 
+### [FileClass~GameServer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.md) 
+
+### [FileClass~GameServer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.public.md) 
 
 ### [FileClass~GameServer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.internal.md) 
 
@@ -72,4 +73,5 @@ ServerStatus:: {"type":"Select","options":{"valuesList":{"OfflinePermanently","O
 
 ### [FileClass~GameServer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.personal.md) 
 
-### [FileClass~GameServer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret.md) 
+### [FileClass~GameServer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret.md)
+

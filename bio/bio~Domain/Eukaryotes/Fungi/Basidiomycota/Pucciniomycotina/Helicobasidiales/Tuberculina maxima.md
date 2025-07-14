@@ -67,3 +67,21 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collector            H. P. Koot
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Tuberculina maxima](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.md) 
+
+### [Tuberculina maxima.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.public.md) 
+
+### [Tuberculina maxima.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.internal.md) 
+
+### [Tuberculina maxima.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.protect.md) 
+
+### [Tuberculina maxima.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.private.md) 
+
+### [Tuberculina maxima.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.personal.md) 
+
+### [Tuberculina maxima.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina maxima.secret.md)
+

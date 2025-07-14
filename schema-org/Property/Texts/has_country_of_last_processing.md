@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_country_of_last_processing )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_country_of_last_processing](/_public/schema-org/Property/Texts/has_country_of_last_processing.md) 
+### [has_country_of_last_processing](/_Standards/schema-org/Property/Texts/has_country_of_last_processing.md) 
+
+### [has_country_of_last_processing.public](/_public/schema-org/Property/Texts/has_country_of_last_processing.public.md) 
 
 ### [has_country_of_last_processing.internal](/_internal/schema-org/Property/Texts/has_country_of_last_processing.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_country_of_last_processing.personal](/_personal/schema-org/Property/Texts/has_country_of_last_processing.personal.md) 
 
-### [has_country_of_last_processing.secret](/_secret/schema-org/Property/Texts/has_country_of_last_processing.secret.md) 
+### [has_country_of_last_processing.secret](/_secret/schema-org/Property/Texts/has_country_of_last_processing.secret.md)
+

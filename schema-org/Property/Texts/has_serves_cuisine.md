@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_serves_cuisine )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_serves_cuisine](/_public/schema-org/Property/Texts/has_serves_cuisine.md) 
+### [has_serves_cuisine](/_Standards/schema-org/Property/Texts/has_serves_cuisine.md) 
+
+### [has_serves_cuisine.public](/_public/schema-org/Property/Texts/has_serves_cuisine.public.md) 
 
 ### [has_serves_cuisine.internal](/_internal/schema-org/Property/Texts/has_serves_cuisine.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_serves_cuisine.personal](/_personal/schema-org/Property/Texts/has_serves_cuisine.personal.md) 
 
-### [has_serves_cuisine.secret](/_secret/schema-org/Property/Texts/has_serves_cuisine.secret.md) 
+### [has_serves_cuisine.secret](/_secret/schema-org/Property/Texts/has_serves_cuisine.secret.md)
+

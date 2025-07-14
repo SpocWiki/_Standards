@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -124,10 +124,11 @@ Indicates a dietary restriction or guideline for which this recipe or menu item 
 SuitableForDiet:: {"type":"Select","options":{"valuesList":{"DiabeticDiet","GlutenFreeDiet","HalalDiet","HinduDiet","KosherDiet","LowCalorieDiet","LowFatDiet","LowLactoseDiet","LowSaltDiet","VeganDiet","VegetarianDiet"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Recipe](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.md) 
+### [FileClass~Recipe](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.md) 
+
+### [FileClass~Recipe.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.public.md) 
 
 ### [FileClass~Recipe.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.internal.md) 
 
@@ -137,4 +138,5 @@ SuitableForDiet:: {"type":"Select","options":{"valuesList":{"DiabeticDiet","Glut
 
 ### [FileClass~Recipe.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.personal.md) 
 
-### [FileClass~Recipe.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.secret.md) 
+### [FileClass~Recipe.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo/FileClass~Recipe.secret.md)
+

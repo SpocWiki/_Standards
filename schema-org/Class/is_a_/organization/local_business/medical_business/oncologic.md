@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that deals with benign and malignant tumors
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [oncologic](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.md) 
+### [oncologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.md) 
+
+### [oncologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.public.md) 
 
 ### [oncologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that deals with benign and malignant tumors
 
 ### [oncologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.personal.md) 
 
-### [oncologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.secret.md) 
+### [oncologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.secret.md)
+

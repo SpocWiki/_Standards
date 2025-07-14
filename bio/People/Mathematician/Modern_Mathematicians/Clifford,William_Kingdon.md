@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - William Kingdon Clifford
 ---
@@ -31,14 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Clifford,William_Kingdon](/_public/Mathematics/Mathematicians/Clifford,William_Kingdon.md) 
+### [Clifford,William_Kingdon](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.md) 
 
-### [Clifford,William_Kingdon.internal](/_internal/Mathematics/Mathematicians/Clifford,William_Kingdon.internal.md) 
+### [Clifford,William_Kingdon.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.public.md) 
 
-### [Clifford,William_Kingdon.protect](/_protect/Mathematics/Mathematicians/Clifford,William_Kingdon.protect.md) 
+### [Clifford,William_Kingdon.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.internal.md) 
 
-### [Clifford,William_Kingdon.private](/_private/Mathematics/Mathematicians/Clifford,William_Kingdon.private.md) 
+### [Clifford,William_Kingdon.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.protect.md) 
 
-### [Clifford,William_Kingdon.personal](/_personal/Mathematics/Mathematicians/Clifford,William_Kingdon.personal.md) 
+### [Clifford,William_Kingdon.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.private.md) 
 
-### [Clifford,William_Kingdon.secret](/_secret/Mathematics/Mathematicians/Clifford,William_Kingdon.secret.md) 
+### [Clifford,William_Kingdon.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.personal.md) 
+
+### [Clifford,William_Kingdon.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Clifford,William_Kingdon.secret.md)
+

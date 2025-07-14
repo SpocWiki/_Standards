@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -104,10 +104,11 @@ Characteristics of the population for which this is intended, or which typically
 TargetPopulation:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DietarySupplement](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.md) 
+### [FileClass~DietarySupplement](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.md) 
+
+### [FileClass~DietarySupplement.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.public.md) 
 
 ### [FileClass~DietarySupplement.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.internal.md) 
 
@@ -117,4 +118,5 @@ TargetPopulation:: {"type":"Input","options":{}}
 
 ### [FileClass~DietarySupplement.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.personal.md) 
 
-### [FileClass~DietarySupplement.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.secret.md) 
+### [FileClass~DietarySupplement.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.secret.md)
+

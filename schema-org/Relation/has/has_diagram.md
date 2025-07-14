@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_diagram )
 ( #has_/range :: ImageObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_diagram](/_public/schema-org/Relation/has/has_diagram.md) 
+### [has_diagram](/_Standards/schema-org/Relation/has/has_diagram.md) 
+
+### [has_diagram.public](/_public/schema-org/Relation/has/has_diagram.public.md) 
 
 ### [has_diagram.internal](/_internal/schema-org/Relation/has/has_diagram.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_diagram.personal](/_personal/schema-org/Relation/has/has_diagram.personal.md) 
 
-### [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md) 
+### [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md)
+

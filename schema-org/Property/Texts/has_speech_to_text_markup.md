@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_speech_to_text_markup )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_speech_to_text_markup](/_public/schema-org/Property/Texts/has_speech_to_text_markup.md) 
+### [has_speech_to_text_markup](/_Standards/schema-org/Property/Texts/has_speech_to_text_markup.md) 
+
+### [has_speech_to_text_markup.public](/_public/schema-org/Property/Texts/has_speech_to_text_markup.public.md) 
 
 ### [has_speech_to_text_markup.internal](/_internal/schema-org/Property/Texts/has_speech_to_text_markup.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_speech_to_text_markup.personal](/_personal/schema-org/Property/Texts/has_speech_to_text_markup.personal.md) 
 
-### [has_speech_to_text_markup.secret](/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret.md) 
+### [has_speech_to_text_markup.secret](/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret.md)
+

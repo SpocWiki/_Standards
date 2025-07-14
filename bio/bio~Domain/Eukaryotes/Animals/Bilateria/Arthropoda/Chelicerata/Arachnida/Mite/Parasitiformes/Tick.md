@@ -160,3 +160,22 @@ Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au)
 Scientific Name ::  Otobius megnini
 Comments          Argasidae
 Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tick](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.md) 
+
+### [Tick.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.public.md) 
+
+### [Tick.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.internal.md) 
+
+### [Tick.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.protect.md) 
+
+### [Tick.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.private.md) 
+
+### [Tick.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.personal.md) 
+
+### [Tick.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.secret.md)
+

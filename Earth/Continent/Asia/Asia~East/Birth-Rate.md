@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - natality
 ---
@@ -18,7 +18,9 @@ More descriptive is the [[Fertility-Rate]], which puts it into relation to the N
 
 ## Confidential Links & Embeds: 
 
-### [Birth-Rate](/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.md) 
+### [Birth-Rate](/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate.md) 
+
+### [Birth-Rate.public](/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public.md) 
 
 ### [Birth-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal.md) 
 
@@ -28,4 +30,5 @@ More descriptive is the [[Fertility-Rate]], which puts it into relation to the N
 
 ### [Birth-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal.md) 
 
-### [Birth-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret.md) 
+### [Birth-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret.md)
+

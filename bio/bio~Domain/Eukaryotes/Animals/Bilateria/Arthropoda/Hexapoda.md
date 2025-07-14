@@ -138,3 +138,22 @@ Copyright ::            © 2002 [California Academy of Sciences](http://www.cala
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hexapoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.md) 
+
+### [Hexapoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.public.md) 
+
+### [Hexapoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.internal.md) 
+
+### [Hexapoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.protect.md) 
+
+### [Hexapoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.private.md) 
+
+### [Hexapoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.personal.md) 
+
+### [Hexapoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.secret.md)
+

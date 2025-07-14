@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 
 [ #has_/properties :: [ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [demand](/_public/schema-org/Class/is_a_/Intangible/demand.md) 
+### [demand](/_Standards/schema-org/Class/is_a_/Intangible/demand.md) 
+
+### [demand.public](/_public/schema-org/Class/is_a_/Intangible/demand.public.md) 
 
 ### [demand.internal](/_internal/schema-org/Class/is_a_/Intangible/demand.internal.md) 
 
@@ -54,4 +57,5 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 
 ### [demand.personal](/_personal/schema-org/Class/is_a_/Intangible/demand.personal.md) 
 
-### [demand.secret](/_secret/schema-org/Class/is_a_/Intangible/demand.secret.md) 
+### [demand.secret](/_secret/schema-org/Class/is_a_/Intangible/demand.secret.md)
+

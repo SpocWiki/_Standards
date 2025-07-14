@@ -1,4 +1,4 @@
-﻿# [[Ocean~Atlantic~South]] 
+# [[Ocean~Atlantic~South]] 
 
 ## Edit
 
@@ -35,7 +35,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Atlantic~South](/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.md) 
+### [Ocean~Atlantic~South](/_Standards/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.md) 
+
+### [Ocean~Atlantic~South.public](/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.public.md) 
 
 ### [Ocean~Atlantic~South.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.internal.md) 
 
@@ -45,4 +47,5 @@ noteOnly: true
 
 ### [Ocean~Atlantic~South.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.personal.md) 
 
-### [Ocean~Atlantic~South.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret.md) 
+### [Ocean~Atlantic~South.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret.md)
+

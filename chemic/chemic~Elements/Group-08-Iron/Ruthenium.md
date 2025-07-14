@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21942
 has_id_wikidata: Q1086
@@ -115,11 +115,11 @@ Unicode_character: 釕
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruthenium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ruthenium](/_public/chemic/chemic~Elements/Group-08-Iron/Ruthenium.md) 
+### [Ruthenium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Ruthenium.md) 
+
+### [Ruthenium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Ruthenium.public.md) 
 
 ### [Ruthenium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.internal.md) 
 
@@ -129,4 +129,5 @@ Unicode_character: 釕
 
 ### [Ruthenium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.personal.md) 
 
-### [Ruthenium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Ruthenium.secret.md) 
+### [Ruthenium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Ruthenium.secret.md)
+

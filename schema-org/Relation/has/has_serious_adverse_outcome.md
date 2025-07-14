@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_serious_adverse_outcome )
 ( #has_/range :: MedicalEntity )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_serious_adverse_outcome](/_public/schema-org/Relation/has/has_serious_adverse_outcome.md) 
+### [has_serious_adverse_outcome](/_Standards/schema-org/Relation/has/has_serious_adverse_outcome.md) 
+
+### [has_serious_adverse_outcome.public](/_public/schema-org/Relation/has/has_serious_adverse_outcome.public.md) 
 
 ### [has_serious_adverse_outcome.internal](/_internal/schema-org/Relation/has/has_serious_adverse_outcome.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_serious_adverse_outcome.personal](/_personal/schema-org/Relation/has/has_serious_adverse_outcome.personal.md) 
 
-### [has_serious_adverse_outcome.secret](/_secret/schema-org/Relation/has/has_serious_adverse_outcome.secret.md) 
+### [has_serious_adverse_outcome.secret](/_secret/schema-org/Relation/has/has_serious_adverse_outcome.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 [ #is_/sub_class_of :: [[../EnergyEfficiencyEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [eu_energy_efficiency_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md) 
+### [eu_energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md) 
+
+### [eu_energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.public.md) 
 
 ### [eu_energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 ### [eu_energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.personal.md) 
 
-### [eu_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md) 
+### [eu_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md)
+

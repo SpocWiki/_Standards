@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9404
 studied_in: '[[_Standards/WikiData/WD~neurology,83042]]'
 has_part_s_:
@@ -52,4 +52,23 @@ Colon_Classification: L7
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nervous%20system)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nervous_System](/_Standards/bio/Medicine/Anatomy/Nervous_System.md) 
+
+### [Nervous_System.public](/_public/bio/Medicine/Anatomy/Nervous_System.public.md) 
+
+### [Nervous_System.internal](/_internal/bio/Medicine/Anatomy/Nervous_System.internal.md) 
+
+### [Nervous_System.protect](/_protect/bio/Medicine/Anatomy/Nervous_System.protect.md) 
+
+### [Nervous_System.private](/_private/bio/Medicine/Anatomy/Nervous_System.private.md) 
+
+### [Nervous_System.personal](/_personal/bio/Medicine/Anatomy/Nervous_System.personal.md) 
+
+### [Nervous_System.secret](/_secret/bio/Medicine/Anatomy/Nervous_System.secret.md)
 

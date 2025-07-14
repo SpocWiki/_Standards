@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A medical device used for therapeutic purposes.
 
 [ #is_/enum_of :: [[../MedicalDevicePurpose]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [therapeutic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
+### [therapeutic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
+
+### [therapeutic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.public.md) 
 
 ### [therapeutic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md) 
 
@@ -56,4 +59,5 @@ A medical device used for therapeutic purposes.
 
 ### [therapeutic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md) 
 
-### [therapeutic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md) 
+### [therapeutic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md)
+

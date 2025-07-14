@@ -431,9 +431,12 @@ Capital :: [[Freetown]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sierra%20Leone)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sierra_Leone](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.md) 
+### [Sierra_Leone](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone.md) 
+
+### [Sierra_Leone.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public.md) 
 
 ### [Sierra_Leone.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal.md) 
 
@@ -443,4 +446,5 @@ Capital :: [[Freetown]]
 
 ### [Sierra_Leone.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal.md) 
 
-### [Sierra_Leone.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret.md) 
+### [Sierra_Leone.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret.md)
+

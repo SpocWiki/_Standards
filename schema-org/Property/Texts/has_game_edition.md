@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_game_edition )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_game_edition](/_public/schema-org/Property/Texts/has_game_edition.md) 
+### [has_game_edition](/_Standards/schema-org/Property/Texts/has_game_edition.md) 
+
+### [has_game_edition.public](/_public/schema-org/Property/Texts/has_game_edition.public.md) 
 
 ### [has_game_edition.internal](/_internal/schema-org/Property/Texts/has_game_edition.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_game_edition.personal](/_personal/schema-org/Property/Texts/has_game_edition.personal.md) 
 
-### [has_game_edition.secret](/_secret/schema-org/Property/Texts/has_game_edition.secret.md) 
+### [has_game_edition.secret](/_secret/schema-org/Property/Texts/has_game_edition.secret.md)
+

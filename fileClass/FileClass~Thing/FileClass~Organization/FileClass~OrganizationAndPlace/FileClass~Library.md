@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A library.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Library](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.md) 
+### [FileClass~Library](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.md) 
+
+### [FileClass~Library.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.public.md) 
 
 ### [FileClass~Library.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.internal.md) 
 
@@ -46,4 +47,5 @@ A library.
 
 ### [FileClass~Library.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.personal.md) 
 
-### [FileClass~Library.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.secret.md) 
+### [FileClass~Library.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Library.secret.md)
+

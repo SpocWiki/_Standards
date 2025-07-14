@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An indication for preventing an underlying condition, symptom, etc.
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [prevention_indication](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.md) 
+### [prevention_indication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.md) 
+
+### [prevention_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.public.md) 
 
 ### [prevention_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.internal.md) 
 
@@ -54,4 +57,5 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ### [prevention_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.personal.md) 
 
-### [prevention_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md) 
+### [prevention_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md)
+

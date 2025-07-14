@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_paying_contactless )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_paying_contactless](/_public/schema-org/Property/Flags/is_paying_contactless.md) 
+### [is_paying_contactless](/_Standards/schema-org/Property/Flags/is_paying_contactless.md) 
+
+### [is_paying_contactless.public](/_public/schema-org/Property/Flags/is_paying_contactless.public.md) 
 
 ### [is_paying_contactless.internal](/_internal/schema-org/Property/Flags/is_paying_contactless.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_paying_contactless.personal](/_personal/schema-org/Property/Flags/is_paying_contactless.personal.md) 
 
-### [is_paying_contactless.secret](/_secret/schema-org/Property/Flags/is_paying_contactless.secret.md) 
+### [is_paying_contactless.secret](/_secret/schema-org/Property/Flags/is_paying_contactless.secret.md)
+

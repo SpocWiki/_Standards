@@ -1,4 +1,4 @@
-﻿# [[Pacific~South]] 
+# [[Pacific~South]] 
 
 ## Edit
 
@@ -34,7 +34,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Pacific~South](/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.md) 
+### [Pacific~South](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~South.md) 
+
+### [Pacific~South.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.public.md) 
 
 ### [Pacific~South.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~South.internal.md) 
 
@@ -44,4 +46,5 @@ noteOnly: true
 
 ### [Pacific~South.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~South.personal.md) 
 
-### [Pacific~South.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret.md) 
+### [Pacific~South.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret.md)
+

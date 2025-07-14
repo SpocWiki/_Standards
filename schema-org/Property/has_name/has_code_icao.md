@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_code_icao )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_icao](/_public/schema-org/Property/has_name/has_code_icao.md) 
+### [has_code_icao](/_Standards/schema-org/Property/has_name/has_code_icao.md) 
+
+### [has_code_icao.public](/_public/schema-org/Property/has_name/has_code_icao.public.md) 
 
 ### [has_code_icao.internal](/_internal/schema-org/Property/has_name/has_code_icao.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_code_icao.personal](/_personal/schema-org/Property/has_name/has_code_icao.personal.md) 
 
-### [has_code_icao.secret](/_secret/schema-org/Property/has_name/has_code_icao.secret.md) 
+### [has_code_icao.secret](/_secret/schema-org/Property/has_name/has_code_icao.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An automatic payment system is in place and will be used.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_automatically_applied](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.md) 
+### [payment_automatically_applied](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.md) 
+
+### [payment_automatically_applied.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.public.md) 
 
 ### [payment_automatically_applied.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.internal.md) 
 
@@ -56,4 +59,5 @@ An automatic payment system is in place and will be used.
 
 ### [payment_automatically_applied.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.personal.md) 
 
-### [payment_automatically_applied.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.secret.md) 
+### [payment_automatically_applied.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.secret.md)
+

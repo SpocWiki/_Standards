@@ -117,3 +117,21 @@ of Kansas Press, Lawrence.
   Size                 Greater calicular diameter 30 mm
   Copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
   ----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Flabelloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.md) 
+
+### [Flabelloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public.md) 
+
+### [Flabelloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.internal.md) 
+
+### [Flabelloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.protect.md) 
+
+### [Flabelloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.private.md) 
+
+### [Flabelloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.personal.md) 
+
+### [Flabelloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.secret.md)
+

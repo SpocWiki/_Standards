@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Car repair business.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AutoRepair](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.md) 
+### [FileClass~AutoRepair](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.md) 
+
+### [FileClass~AutoRepair.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.public.md) 
 
 ### [FileClass~AutoRepair.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.internal.md) 
 
@@ -46,4 +47,5 @@ Car repair business.
 
 ### [FileClass~AutoRepair.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.personal.md) 
 
-### [FileClass~AutoRepair.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.secret.md) 
+### [FileClass~AutoRepair.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoRepair.secret.md)
+

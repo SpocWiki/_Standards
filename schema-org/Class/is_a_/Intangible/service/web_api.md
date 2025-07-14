@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An application programming interface accessible over Web/Internet technologies.
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, documentation, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [web_api](/_public/schema-org/Class/is_a_/Intangible/service/web_api.md) 
+### [web_api](/_Standards/schema-org/Class/is_a_/Intangible/service/web_api.md) 
+
+### [web_api.public](/_public/schema-org/Class/is_a_/Intangible/service/web_api.public.md) 
 
 ### [web_api.internal](/_internal/schema-org/Class/is_a_/Intangible/service/web_api.internal.md) 
 
@@ -56,4 +59,5 @@ An application programming interface accessible over Web/Internet technologies.
 
 ### [web_api.personal](/_personal/schema-org/Class/is_a_/Intangible/service/web_api.personal.md) 
 
-### [web_api.secret](/_secret/schema-org/Class/is_a_/Intangible/service/web_api.secret.md) 
+### [web_api.secret](/_secret/schema-org/Class/is_a_/Intangible/service/web_api.secret.md)
+

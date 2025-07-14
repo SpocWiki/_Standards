@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShortStory](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.md) 
+### [FileClass~ShortStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.md) 
+
+### [FileClass~ShortStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.public.md) 
 
 ### [FileClass~ShortStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.internal.md) 
 
@@ -46,4 +47,5 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 ### [FileClass~ShortStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.personal.md) 
 
-### [FileClass~ShortStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret.md) 
+### [FileClass~ShortStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret.md)
+

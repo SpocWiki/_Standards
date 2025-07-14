@@ -56,3 +56,21 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   Specimen Condition   Live Specimen
   Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
   ------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Dicyrtomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.md) 
+
+### [Dicyrtomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.public.md) 
+
+### [Dicyrtomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.internal.md) 
+
+### [Dicyrtomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.protect.md) 
+
+### [Dicyrtomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.private.md) 
+
+### [Dicyrtomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.personal.md) 
+
+### [Dicyrtomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona/Dicyrtomidae.secret.md)
+

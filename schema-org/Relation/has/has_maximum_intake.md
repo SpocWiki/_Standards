@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_maximum_intake )
 ( #has_/range :: MaximumDoseSchedule )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_maximum_intake](/_public/schema-org/Relation/has/has_maximum_intake.md) 
+### [has_maximum_intake](/_Standards/schema-org/Relation/has/has_maximum_intake.md) 
+
+### [has_maximum_intake.public](/_public/schema-org/Relation/has/has_maximum_intake.public.md) 
 
 ### [has_maximum_intake.internal](/_internal/schema-org/Relation/has/has_maximum_intake.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_maximum_intake.personal](/_personal/schema-org/Relation/has/has_maximum_intake.personal.md) 
 
-### [has_maximum_intake.secret](/_secret/schema-org/Relation/has/has_maximum_intake.secret.md) 
+### [has_maximum_intake.secret](/_secret/schema-org/Relation/has/has_maximum_intake.secret.md)
+

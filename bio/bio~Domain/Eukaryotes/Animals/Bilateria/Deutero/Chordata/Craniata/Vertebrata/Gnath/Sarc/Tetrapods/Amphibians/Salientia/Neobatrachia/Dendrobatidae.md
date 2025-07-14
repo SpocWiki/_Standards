@@ -182,3 +182,22 @@ Ranoidea, close to arthroleptid and petropedetine ranoids.
 2. Dendrobates reticulatus; photo copyright © 1995 David Cannatella
 ![](Dendrobatidae/dendrobates_reticulatus.jpg)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dendrobatidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.md) 
+
+### [Dendrobatidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.public.md) 
+
+### [Dendrobatidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.internal.md) 
+
+### [Dendrobatidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.protect.md) 
+
+### [Dendrobatidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.private.md) 
+
+### [Dendrobatidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.personal.md) 
+
+### [Dendrobatidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Neobatrachia/Dendrobatidae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,7 +34,9 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AchieveAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.md) 
+### [FileClass~AchieveAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.md) 
+
+### [FileClass~AchieveAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.public.md) 
 
 ### [FileClass~AchieveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.internal.md) 
 
@@ -44,4 +46,5 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 ### [FileClass~AchieveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.personal.md) 
 
-### [FileClass~AchieveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.secret.md) 
+### [FileClass~AchieveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.secret.md)
+

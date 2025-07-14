@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_clinical_pharmacology )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_clinical_pharmacology](/_public/schema-org/Property/Texts/has_clinical_pharmacology.md) 
+### [has_clinical_pharmacology](/_Standards/schema-org/Property/Texts/has_clinical_pharmacology.md) 
+
+### [has_clinical_pharmacology.public](/_public/schema-org/Property/Texts/has_clinical_pharmacology.public.md) 
 
 ### [has_clinical_pharmacology.internal](/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_clinical_pharmacology.personal](/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal.md) 
 
-### [has_clinical_pharmacology.secret](/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret.md) 
+### [has_clinical_pharmacology.secret](/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret.md)
+

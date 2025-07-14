@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: genre ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legislation_type](/_public/schema-org/Relation/has/has_legislation_type.md) 
+### [has_legislation_type](/_Standards/schema-org/Relation/has/has_legislation_type.md) 
+
+### [has_legislation_type.public](/_public/schema-org/Relation/has/has_legislation_type.public.md) 
 
 ### [has_legislation_type.internal](/_internal/schema-org/Relation/has/has_legislation_type.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_legislation_type.personal](/_personal/schema-org/Relation/has/has_legislation_type.personal.md) 
 
-### [has_legislation_type.secret](/_secret/schema-org/Relation/has/has_legislation_type.secret.md) 
+### [has_legislation_type.secret](/_secret/schema-org/Relation/has/has_legislation_type.secret.md)
+

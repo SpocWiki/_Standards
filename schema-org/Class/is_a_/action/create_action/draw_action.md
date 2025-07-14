@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of producing a visual/graphical representation of an object, typically w
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [draw_action](/_public/schema-org/Class/is_a_/action/create_action/draw_action.md) 
+### [draw_action](/_Standards/schema-org/Class/is_a_/action/create_action/draw_action.md) 
+
+### [draw_action.public](/_public/schema-org/Class/is_a_/action/create_action/draw_action.public.md) 
 
 ### [draw_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/draw_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of producing a visual/graphical representation of an object, typically w
 
 ### [draw_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/draw_action.personal.md) 
 
-### [draw_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/draw_action.secret.md) 
+### [draw_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/draw_action.secret.md)
+

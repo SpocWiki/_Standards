@@ -1195,9 +1195,12 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/China) 
 
+
 ## Confidential Links & Embeds: 
 
-### [China](/_public/Earth/Continent/Asia/Asia~East/China.md) 
+### [China](/_Standards/Earth/Continent/Asia/Asia~East/China.md) 
+
+### [China.public](/_public/Earth/Continent/Asia/Asia~East/China.public.md) 
 
 ### [China.internal](/_internal/Earth/Continent/Asia/Asia~East/China.internal.md) 
 
@@ -1207,4 +1210,5 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 
 ### [China.personal](/_personal/Earth/Continent/Asia/Asia~East/China.personal.md) 
 
-### [China.secret](/_secret/Earth/Continent/Asia/Asia~East/China.secret.md) 
+### [China.secret](/_secret/Earth/Continent/Asia/Asia~East/China.secret.md)
+

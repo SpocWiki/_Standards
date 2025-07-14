@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A comedy club.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComedyClub](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.md) 
+### [FileClass~ComedyClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.md) 
+
+### [FileClass~ComedyClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.public.md) 
 
 ### [FileClass~ComedyClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.internal.md) 
 
@@ -46,4 +47,5 @@ A comedy club.
 
 ### [FileClass~ComedyClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.personal.md) 
 
-### [FileClass~ComedyClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.secret.md) 
+### [FileClass~ComedyClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ComedyClub.secret.md)
+

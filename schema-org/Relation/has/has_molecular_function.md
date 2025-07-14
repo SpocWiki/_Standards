@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_molecular_function )
 ( #has_/range :: DefinedTerm, PropertyValue, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_molecular_function](/_public/schema-org/Relation/has/has_molecular_function.md) 
+### [has_molecular_function](/_Standards/schema-org/Relation/has/has_molecular_function.md) 
+
+### [has_molecular_function.public](/_public/schema-org/Relation/has/has_molecular_function.public.md) 
 
 ### [has_molecular_function.internal](/_internal/schema-org/Relation/has/has_molecular_function.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_molecular_function.personal](/_personal/schema-org/Relation/has/has_molecular_function.personal.md) 
 
-### [has_molecular_function.secret](/_secret/schema-org/Relation/has/has_molecular_function.secret.md) 
+### [has_molecular_function.secret](/_secret/schema-org/Relation/has/has_molecular_function.secret.md)
+

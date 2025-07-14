@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_letterer )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_letterer](/_public/schema-org/Relation/has/has_letterer.md) 
+### [has_letterer](/_Standards/schema-org/Relation/has/has_letterer.md) 
+
+### [has_letterer.public](/_public/schema-org/Relation/has/has_letterer.public.md) 
 
 ### [has_letterer.internal](/_internal/schema-org/Relation/has/has_letterer.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_letterer.personal](/_personal/schema-org/Relation/has/has_letterer.personal.md) 
 
-### [has_letterer.secret](/_secret/schema-org/Relation/has/has_letterer.secret.md) 
+### [has_letterer.secret](/_secret/schema-org/Relation/has/has_letterer.secret.md)
+

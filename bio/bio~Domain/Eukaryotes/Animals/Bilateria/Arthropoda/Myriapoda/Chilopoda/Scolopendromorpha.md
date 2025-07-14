@@ -40,3 +40,21 @@ Minelli, A. 1993. Chilopoda. Pages 57-114 in Microscopic Anatomy of
 Invertebrates. Volume 12. Onychophora, Chilopoda and lesser
 Protostomata. F. W. Harrison and M. E. Rice, eds. Wiley-Liss, New York,
 Chichester, Weinheim, Brisbane, Singapore, Toronto.
+
+
+## Confidential Links & Embeds: 
+
+### [Scolopendromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.md) 
+
+### [Scolopendromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.public.md) 
+
+### [Scolopendromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.internal.md) 
+
+### [Scolopendromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.protect.md) 
+
+### [Scolopendromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.private.md) 
+
+### [Scolopendromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.personal.md) 
+
+### [Scolopendromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Scolopendromorpha.secret.md)
+

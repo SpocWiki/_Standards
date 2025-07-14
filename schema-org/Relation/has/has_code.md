@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: has_code )
 ( #has_/range :: [[medical_code]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code](/_public/schema-org/Relation/has/has_code.md) 
+### [has_code](/_Standards/schema-org/Relation/has/has_code.md) 
+
+### [has_code.public](/_public/schema-org/Relation/has/has_code.public.md) 
 
 ### [has_code.internal](/_internal/schema-org/Relation/has/has_code.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_code.personal](/_personal/schema-org/Relation/has/has_code.personal.md) 
 
-### [has_code.secret](/_secret/schema-org/Relation/has/has_code.secret.md) 
+### [has_code.secret](/_secret/schema-org/Relation/has/has_code.secret.md)
+

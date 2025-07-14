@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_providing_service)
 ( #has_/range :: Service)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_providing_service](/_public/schema-org/Relation/is/is_providing_service.md) 
+### [is_providing_service](/_Standards/schema-org/Relation/is/is_providing_service.md) 
+
+### [is_providing_service.public](/_public/schema-org/Relation/is/is_providing_service.public.md) 
 
 ### [is_providing_service.internal](/_internal/schema-org/Relation/is/is_providing_service.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_providing_service.personal](/_personal/schema-org/Relation/is/is_providing_service.personal.md) 
 
-### [is_providing_service.secret](/_secret/schema-org/Relation/is/is_providing_service.secret.md) 
+### [is_providing_service.secret](/_secret/schema-org/Relation/is/is_providing_service.secret.md)
+

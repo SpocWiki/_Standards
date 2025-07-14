@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_accepted_offer )
 ( #has_/range :: [[Offer]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accepted_offer](/_public/schema-org/Relation/has/has_accepted_offer.md) 
+### [has_accepted_offer](/_Standards/schema-org/Relation/has/has_accepted_offer.md) 
+
+### [has_accepted_offer.public](/_public/schema-org/Relation/has/has_accepted_offer.public.md) 
 
 ### [has_accepted_offer.internal](/_internal/schema-org/Relation/has/has_accepted_offer.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_accepted_offer.personal](/_personal/schema-org/Relation/has/has_accepted_offer.personal.md) 
 
-### [has_accepted_offer.secret](/_secret/schema-org/Relation/has/has_accepted_offer.secret.md) 
+### [has_accepted_offer.secret](/_secret/schema-org/Relation/has/has_accepted_offer.secret.md)
+

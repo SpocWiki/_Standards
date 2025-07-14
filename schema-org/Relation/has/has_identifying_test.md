@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_identifying_test )
 ( #has_/range :: MedicalTest )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_identifying_test](/_public/schema-org/Relation/has/has_identifying_test.md) 
+### [has_identifying_test](/_Standards/schema-org/Relation/has/has_identifying_test.md) 
+
+### [has_identifying_test.public](/_public/schema-org/Relation/has/has_identifying_test.public.md) 
 
 ### [has_identifying_test.internal](/_internal/schema-org/Relation/has/has_identifying_test.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_identifying_test.personal](/_personal/schema-org/Relation/has/has_identifying_test.personal.md) 
 
-### [has_identifying_test.secret](/_secret/schema-org/Relation/has/has_identifying_test.secret.md) 
+### [has_identifying_test.secret](/_secret/schema-org/Relation/has/has_identifying_test.secret.md)
+

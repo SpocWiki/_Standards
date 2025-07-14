@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_free_shipping_threshold )
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_free_shipping_threshold](/_public/schema-org/Relation/has/has_free_shipping_threshold.md) 
+### [has_free_shipping_threshold](/_Standards/schema-org/Relation/has/has_free_shipping_threshold.md) 
+
+### [has_free_shipping_threshold.public](/_public/schema-org/Relation/has/has_free_shipping_threshold.public.md) 
 
 ### [has_free_shipping_threshold.internal](/_internal/schema-org/Relation/has/has_free_shipping_threshold.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_free_shipping_threshold.personal](/_personal/schema-org/Relation/has/has_free_shipping_threshold.personal.md) 
 
-### [has_free_shipping_threshold.secret](/_secret/schema-org/Relation/has/has_free_shipping_threshold.secret.md) 
+### [has_free_shipping_threshold.secret](/_secret/schema-org/Relation/has/has_free_shipping_threshold.secret.md)
+

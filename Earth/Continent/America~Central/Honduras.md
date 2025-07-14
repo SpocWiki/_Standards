@@ -445,9 +445,12 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Honduras)
 
+
 ## Confidential Links & Embeds: 
 
-### [Honduras](/_public/Earth/Continent/America~Central/Honduras.md) 
+### [Honduras](/_Standards/Earth/Continent/America~Central/Honduras.md) 
+
+### [Honduras.public](/_public/Earth/Continent/America~Central/Honduras.public.md) 
 
 ### [Honduras.internal](/_internal/Earth/Continent/America~Central/Honduras.internal.md) 
 
@@ -457,4 +460,5 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 ### [Honduras.personal](/_personal/Earth/Continent/America~Central/Honduras.personal.md) 
 
-### [Honduras.secret](/_secret/Earth/Continent/America~Central/Honduras.secret.md) 
+### [Honduras.secret](/_secret/Earth/Continent/America~Central/Honduras.secret.md)
+

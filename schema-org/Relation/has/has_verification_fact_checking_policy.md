@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_verification_fact_checking_policy](/_public/schema-org/Relation/has/has_verification_fact_checking_policy.md) 
+### [has_verification_fact_checking_policy](/_Standards/schema-org/Relation/has/has_verification_fact_checking_policy.md) 
+
+### [has_verification_fact_checking_policy.public](/_public/schema-org/Relation/has/has_verification_fact_checking_policy.public.md) 
 
 ### [has_verification_fact_checking_policy.internal](/_internal/schema-org/Relation/has/has_verification_fact_checking_policy.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_verification_fact_checking_policy.personal](/_personal/schema-org/Relation/has/has_verification_fact_checking_policy.personal.md) 
 
-### [has_verification_fact_checking_policy.secret](/_secret/schema-org/Relation/has/has_verification_fact_checking_policy.secret.md) 
+### [has_verification_fact_checking_policy.secret](/_secret/schema-org/Relation/has/has_verification_fact_checking_policy.secret.md)
+

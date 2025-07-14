@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,10 +53,11 @@ An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the lat
 Xpath:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SpeakableSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.md) 
+### [FileClass~SpeakableSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.md) 
+
+### [FileClass~SpeakableSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.public.md) 
 
 ### [FileClass~SpeakableSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.internal.md) 
 
@@ -66,4 +67,5 @@ Xpath:: {"type":"Input","options":{}}
 
 ### [FileClass~SpeakableSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.personal.md) 
 
-### [FileClass~SpeakableSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.secret.md) 
+### [FileClass~SpeakableSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~SpeakableSpecification.secret.md)
+

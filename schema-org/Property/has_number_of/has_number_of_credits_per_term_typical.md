@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_credits_per_term_typical )
 ( #has_/range :: Integer, StructuredValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_credits_per_term_typical](/_public/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.md) 
+### [has_number_of_credits_per_term_typical](/_Standards/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.md) 
+
+### [has_number_of_credits_per_term_typical.public](/_public/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.public.md) 
 
 ### [has_number_of_credits_per_term_typical.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_credits_per_term_typical.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.personal.md) 
 
-### [has_number_of_credits_per_term_typical.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.secret.md) 
+### [has_number_of_credits_per_term_typical.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12125
 UMLS_CUI:
 - C0009443
@@ -102,4 +102,23 @@ Dewey_Decimal_Classification: 616.205
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Common_Cold](/_Standards/bio/Medicine/Disease/Infectious_Disease/Common_Cold.md) 
+
+### [Common_Cold.public](/_public/bio/Medicine/Disease/Infectious_Disease/Common_Cold.public.md) 
+
+### [Common_Cold.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Common_Cold.internal.md) 
+
+### [Common_Cold.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Common_Cold.protect.md) 
+
+### [Common_Cold.private](/_private/bio/Medicine/Disease/Infectious_Disease/Common_Cold.private.md) 
+
+### [Common_Cold.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Common_Cold.personal.md) 
+
+### [Common_Cold.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Common_Cold.secret.md)
 

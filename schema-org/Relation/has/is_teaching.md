@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,6 +41,7 @@ Relation describes that:
 ( #has_/name :: is_teaches )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
 ### [is_teaching](/_Standards/schema-org/Relation/has/is_teaching.md) 
@@ -55,4 +56,5 @@ Relation describes that:
 
 ### [is_teaching.personal](/_personal/schema-org/Relation/has/is_teaching.personal.md) 
 
-### [is_teaching.secret](/_secret/schema-org/Relation/has/is_teaching.secret.md) 
+### [is_teaching.secret](/_secret/schema-org/Relation/has/is_teaching.secret.md)
+

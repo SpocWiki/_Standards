@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,9 +56,12 @@ Audio that was created as political or humorous commentary and is presented in t
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [satire_or_parody_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md) 
+### [satire_or_parody_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md) 
+
+### [satire_or_parody_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.public.md) 
 
 ### [satire_or_parody_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md) 
 
@@ -68,4 +71,5 @@ Audio that was created as political or humorous commentary and is presented in t
 
 ### [satire_or_parody_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md) 
 
-### [satire_or_parody_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md) 
+### [satire_or_parody_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_address_postal_service )
 ( #has_/range :: PostalAddress )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_address_postal_service](/_public/schema-org/Property/has_location/has_location_address_postal_service.md) 
+### [has_location_address_postal_service](/_Standards/schema-org/Property/has_location/has_location_address_postal_service.md) 
+
+### [has_location_address_postal_service.public](/_public/schema-org/Property/has_location/has_location_address_postal_service.public.md) 
 
 ### [has_location_address_postal_service.internal](/_internal/schema-org/Property/has_location/has_location_address_postal_service.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_address_postal_service.personal](/_personal/schema-org/Property/has_location/has_location_address_postal_service.personal.md) 
 
-### [has_location_address_postal_service.secret](/_secret/schema-org/Property/has_location/has_location_address_postal_service.secret.md) 
+### [has_location_address_postal_service.secret](/_secret/schema-org/Property/has_location/has_location_address_postal_service.secret.md)
+

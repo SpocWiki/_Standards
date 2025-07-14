@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -37,10 +37,11 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Holy_See~Vatican_State](/_public/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.md) 
+### [Holy_See~Vatican_State](/_Standards/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.md) 
+
+### [Holy_See~Vatican_State.public](/_public/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.public.md) 
 
 ### [Holy_See~Vatican_State.internal](/_internal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.internal.md) 
 
@@ -50,4 +51,5 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ### [Holy_See~Vatican_State.personal](/_personal/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.personal.md) 
 
-### [Holy_See~Vatican_State.secret](/_secret/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.secret.md) 
+### [Holy_See~Vatican_State.secret](/_secret/Earth/Continent/Europe/Europe~South/Holy_See~Vatican_State.secret.md)
+

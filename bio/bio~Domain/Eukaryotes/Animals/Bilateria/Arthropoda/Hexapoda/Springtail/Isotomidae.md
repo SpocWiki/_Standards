@@ -55,3 +55,22 @@ Scientific Name ::     Isotoma viridis
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Isotomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.md) 
+
+### [Isotomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.public.md) 
+
+### [Isotomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.internal.md) 
+
+### [Isotomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.protect.md) 
+
+### [Isotomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.private.md) 
+
+### [Isotomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.personal.md) 
+
+### [Isotomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Isotomidae.secret.md)
+

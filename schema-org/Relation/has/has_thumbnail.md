@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_thumbnail )
 ( #has_/range :: ImageObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_thumbnail](/_public/schema-org/Relation/has/has_thumbnail.md) 
+### [has_thumbnail](/_Standards/schema-org/Relation/has/has_thumbnail.md) 
+
+### [has_thumbnail.public](/_public/schema-org/Relation/has/has_thumbnail.public.md) 
 
 ### [has_thumbnail.internal](/_internal/schema-org/Relation/has/has_thumbnail.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_thumbnail.personal](/_personal/schema-org/Relation/has/has_thumbnail.personal.md) 
 
-### [has_thumbnail.secret](/_secret/schema-org/Relation/has/has_thumbnail.secret.md) 
+### [has_thumbnail.secret](/_secret/schema-org/Relation/has/has_thumbnail.secret.md)
+

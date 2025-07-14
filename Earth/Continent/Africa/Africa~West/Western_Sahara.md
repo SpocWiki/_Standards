@@ -239,9 +239,12 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Western%20Sahara)
 
+
 ## Confidential Links & Embeds: 
 
-### [Western_Sahara](/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.md) 
+### [Western_Sahara](/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara.md) 
+
+### [Western_Sahara.public](/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public.md) 
 
 ### [Western_Sahara.internal](/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal.md) 
 
@@ -251,4 +254,5 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 
 ### [Western_Sahara.personal](/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal.md) 
 
-### [Western_Sahara.secret](/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret.md) 
+### [Western_Sahara.secret](/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret.md)
+

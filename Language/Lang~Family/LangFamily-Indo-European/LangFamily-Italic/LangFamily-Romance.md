@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Romance languages"
 has_id_wikidata: Q19814
@@ -63,4 +63,23 @@ Commons_category: "Romance languages"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Romance%20languages) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [LangFamily-Romance](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.md) 
+
+### [LangFamily-Romance.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.public.md) 
+
+### [LangFamily-Romance.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.internal.md) 
+
+### [LangFamily-Romance.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.protect.md) 
+
+### [LangFamily-Romance.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.private.md) 
+
+### [LangFamily-Romance.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.personal.md) 
+
+### [LangFamily-Romance.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance.secret.md)
 

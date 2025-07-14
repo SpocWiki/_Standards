@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,13 @@ it can actually describe any Cardinality e.g. for scientific Papers.
 
 is_definin
 [[has_defined_term|defined_term]]
+
+
 ## Confidential Links & Embeds: 
 
-### [has_creator](/_public/schema-org/Relation/has/has_creator.md) 
+### [has_creator](/_Standards/schema-org/Relation/has/has_creator.md) 
+
+### [has_creator.public](/_public/schema-org/Relation/has/has_creator.public.md) 
 
 ### [has_creator.internal](/_internal/schema-org/Relation/has/has_creator.internal.md) 
 
@@ -61,4 +65,5 @@ is_definin
 
 ### [has_creator.personal](/_personal/schema-org/Relation/has/has_creator.personal.md) 
 
-### [has_creator.secret](/_secret/schema-org/Relation/has/has_creator.secret.md) 
+### [has_creator.secret](/_secret/schema-org/Relation/has/has_creator.secret.md)
+

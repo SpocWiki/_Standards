@@ -127,3 +127,21 @@ pp.
   Type                 Holotype
   Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
   -------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Australiteuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.md) 
+
+### [Australiteuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.public.md) 
+
+### [Australiteuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.internal.md) 
+
+### [Australiteuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.protect.md) 
+
+### [Australiteuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.private.md) 
+
+### [Australiteuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.personal.md) 
+
+### [Australiteuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Australiteuthidae.secret.md)
+

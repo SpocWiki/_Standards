@@ -554,9 +554,12 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Venezuela)
 
+
 ## Confidential Links & Embeds: 
 
-### [Venezuela](/_public/Earth/Continent/America~South/Venezuela.md) 
+### [Venezuela](/_Standards/Earth/Continent/America~South/Venezuela.md) 
+
+### [Venezuela.public](/_public/Earth/Continent/America~South/Venezuela.public.md) 
 
 ### [Venezuela.internal](/_internal/Earth/Continent/America~South/Venezuela.internal.md) 
 
@@ -566,4 +569,5 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ### [Venezuela.personal](/_personal/Earth/Continent/America~South/Venezuela.personal.md) 
 
-### [Venezuela.secret](/_secret/Earth/Continent/America~South/Venezuela.secret.md) 
+### [Venezuela.secret](/_secret/Earth/Continent/America~South/Venezuela.secret.md)
+

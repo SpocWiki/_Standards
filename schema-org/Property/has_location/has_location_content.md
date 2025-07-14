@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ spatialCoverage ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_content](/_public/schema-org/Property/has_location/has_location_content.md) 
+### [has_location_content](/_Standards/schema-org/Property/has_location/has_location_content.md) 
+
+### [has_location_content.public](/_public/schema-org/Property/has_location/has_location_content.public.md) 
 
 ### [has_location_content.internal](/_internal/schema-org/Property/has_location/has_location_content.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_location_content.personal](/_personal/schema-org/Property/has_location/has_location_content.personal.md) 
 
-### [has_location_content.secret](/_secret/schema-org/Property/has_location/has_location_content.secret.md) 
+### [has_location_content.secret](/_secret/schema-org/Property/has_location/has_location_content.secret.md)
+

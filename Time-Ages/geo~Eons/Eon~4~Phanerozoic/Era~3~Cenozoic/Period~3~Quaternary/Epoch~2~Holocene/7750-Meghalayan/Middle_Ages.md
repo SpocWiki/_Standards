@@ -161,33 +161,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Middle-Ages.md) 
+### [Middle_Ages](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.md) 
 
-### [Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Middle-Ages.internal.md) 
+### [Middle_Ages.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.public.md) 
 
-### [Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Middle-Ages.protect.md) 
+### [Middle_Ages.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.internal.md) 
 
-### [Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Middle-Ages.private.md) 
+### [Middle_Ages.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.protect.md) 
 
-### [Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Middle-Ages.personal.md) 
+### [Middle_Ages.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.private.md) 
 
-### [Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Middle-Ages.secret.md) 
+### [Middle_Ages.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.personal.md) 
 
-# [[Middle_Ages]] 
+### [Middle_Ages.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages.secret.md)
 
-#is_/part_of :: [[Middle-Ages]] 
-
-![[Middle_Ages.svg]]
-
- 
-
-## Embedded Graph 
-
-![[<% tp.file.title %>.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

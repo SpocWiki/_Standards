@@ -1,4 +1,4 @@
-﻿
+
 #has_/time_/started :: 1931-08-08
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 
@@ -20,18 +20,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Penrose)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Penrose,Roger](/_public/Mathematics/Mathematicians/Penrose,Roger.md) 
+### [Penrose,Roger](/_Standards/bio/People/Mathematician/Penrose,Roger.md) 
 
-### [Penrose,Roger.internal](/_internal/Mathematics/Mathematicians/Penrose,Roger.internal.md) 
+### [Penrose,Roger.public](/_public/bio/People/Mathematician/Penrose,Roger.public.md) 
 
-### [Penrose,Roger.protect](/_protect/Mathematics/Mathematicians/Penrose,Roger.protect.md) 
+### [Penrose,Roger.internal](/_internal/bio/People/Mathematician/Penrose,Roger.internal.md) 
 
-### [Penrose,Roger.private](/_private/Mathematics/Mathematicians/Penrose,Roger.private.md) 
+### [Penrose,Roger.protect](/_protect/bio/People/Mathematician/Penrose,Roger.protect.md) 
 
-### [Penrose,Roger.personal](/_personal/Mathematics/Mathematicians/Penrose,Roger.personal.md) 
+### [Penrose,Roger.private](/_private/bio/People/Mathematician/Penrose,Roger.private.md) 
 
-### [Penrose,Roger.secret](/_secret/Mathematics/Mathematicians/Penrose,Roger.secret.md) 
+### [Penrose,Roger.personal](/_personal/bio/People/Mathematician/Penrose,Roger.personal.md) 
+
+### [Penrose,Roger.secret](/_secret/bio/People/Mathematician/Penrose,Roger.secret.md)
+

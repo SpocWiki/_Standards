@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Maximum hand girth (measured over the knuckles of the open right hand excluding 
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_hand](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.md) 
+### [body_measurement_hand](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.md) 
+
+### [body_measurement_hand.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.public.md) 
 
 ### [body_measurement_hand.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.internal.md) 
 
@@ -58,4 +61,5 @@ Maximum hand girth (measured over the knuckles of the open right hand excluding 
 
 ### [body_measurement_hand.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.personal.md) 
 
-### [body_measurement_hand.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.secret.md) 
+### [body_measurement_hand.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.secret.md)
+

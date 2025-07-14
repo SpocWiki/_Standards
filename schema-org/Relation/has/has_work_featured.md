@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ workPerformed, workPresented ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_work_featured](/_public/schema-org/Relation/has/has_work_featured.md) 
+### [has_work_featured](/_Standards/schema-org/Relation/has/has_work_featured.md) 
+
+### [has_work_featured.public](/_public/schema-org/Relation/has/has_work_featured.public.md) 
 
 ### [has_work_featured.internal](/_internal/schema-org/Relation/has/has_work_featured.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_work_featured.personal](/_personal/schema-org/Relation/has/has_work_featured.personal.md) 
 
-### [has_work_featured.secret](/_secret/schema-org/Relation/has/has_work_featured.secret.md) 
+### [has_work_featured.secret](/_secret/schema-org/Relation/has/has_work_featured.secret.md)
+

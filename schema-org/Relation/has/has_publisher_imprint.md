@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_publisher_imprint )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_publisher_imprint](/_public/schema-org/Relation/has/has_publisher_imprint.md) 
+### [has_publisher_imprint](/_Standards/schema-org/Relation/has/has_publisher_imprint.md) 
+
+### [has_publisher_imprint.public](/_public/schema-org/Relation/has/has_publisher_imprint.public.md) 
 
 ### [has_publisher_imprint.internal](/_internal/schema-org/Relation/has/has_publisher_imprint.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_publisher_imprint.personal](/_personal/schema-org/Relation/has/has_publisher_imprint.personal.md) 
 
-### [has_publisher_imprint.secret](/_secret/schema-org/Relation/has/has_publisher_imprint.secret.md) 
+### [has_publisher_imprint.secret](/_secret/schema-org/Relation/has/has_publisher_imprint.secret.md)
+

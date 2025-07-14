@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.916667,158.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,7 +35,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palikir](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.md) 
+### [Palikir](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.md) 
+
+### [Palikir.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public.md) 
 
 ### [Palikir.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal.md) 
 
@@ -45,4 +47,5 @@ maxZoom: 18
 
 ### [Palikir.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal.md) 
 
-### [Palikir.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret.md) 
+### [Palikir.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret.md)
+

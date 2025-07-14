@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_recommended_intake )
 ( #has_/range :: RecommendedDoseSchedule )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recommended_intake](/_public/schema-org/Relation/has/has_recommended_intake.md) 
+### [has_recommended_intake](/_Standards/schema-org/Relation/has/has_recommended_intake.md) 
+
+### [has_recommended_intake.public](/_public/schema-org/Relation/has/has_recommended_intake.public.md) 
 
 ### [has_recommended_intake.internal](/_internal/schema-org/Relation/has/has_recommended_intake.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_recommended_intake.personal](/_personal/schema-org/Relation/has/has_recommended_intake.personal.md) 
 
-### [has_recommended_intake.secret](/_secret/schema-org/Relation/has/has_recommended_intake.secret.md) 
+### [has_recommended_intake.secret](/_secret/schema-org/Relation/has/has_recommended_intake.secret.md)
+

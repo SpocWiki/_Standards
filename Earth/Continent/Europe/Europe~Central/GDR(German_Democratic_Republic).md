@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 ---
 
@@ -8,7 +8,9 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [GDR(German_Democratic_Republic)](/_public/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).md) 
+### [GDR(German_Democratic_Republic)](/_Standards/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).md) 
+
+### [GDR(German_Democratic_Republic).public](/_public/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).public.md) 
 
 ### [GDR(German_Democratic_Republic).internal](/_internal/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).internal.md) 
 
@@ -18,4 +20,5 @@ aliases:
 
 ### [GDR(German_Democratic_Republic).personal](/_personal/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).personal.md) 
 
-### [GDR(German_Democratic_Republic).secret](/_secret/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).secret.md) 
+### [GDR(German_Democratic_Republic).secret](/_secret/Earth/Continent/Europe/Europe~Central/GDR(German_Democratic_Republic).secret.md)
+

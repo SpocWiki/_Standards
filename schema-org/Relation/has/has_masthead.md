@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_masthead](/_public/schema-org/Relation/has/has_masthead.md) 
+### [has_masthead](/_Standards/schema-org/Relation/has/has_masthead.md) 
+
+### [has_masthead.public](/_public/schema-org/Relation/has/has_masthead.public.md) 
 
 ### [has_masthead.internal](/_internal/schema-org/Relation/has/has_masthead.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_masthead.personal](/_personal/schema-org/Relation/has/has_masthead.personal.md) 
 
-### [has_masthead.secret](/_secret/schema-org/Relation/has/has_masthead.secret.md) 
+### [has_masthead.secret](/_secret/schema-org/Relation/has/has_masthead.secret.md)
+

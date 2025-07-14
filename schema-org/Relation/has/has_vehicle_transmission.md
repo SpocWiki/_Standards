@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_vehicle_transmission )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_transmission](/_public/schema-org/Relation/has/has_vehicle_transmission.md) 
+### [has_vehicle_transmission](/_Standards/schema-org/Relation/has/has_vehicle_transmission.md) 
+
+### [has_vehicle_transmission.public](/_public/schema-org/Relation/has/has_vehicle_transmission.public.md) 
 
 ### [has_vehicle_transmission.internal](/_internal/schema-org/Relation/has/has_vehicle_transmission.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_vehicle_transmission.personal](/_personal/schema-org/Relation/has/has_vehicle_transmission.personal.md) 
 
-### [has_vehicle_transmission.secret](/_secret/schema-org/Relation/has/has_vehicle_transmission.secret.md) 
+### [has_vehicle_transmission.secret](/_secret/schema-org/Relation/has/has_vehicle_transmission.secret.md)
+

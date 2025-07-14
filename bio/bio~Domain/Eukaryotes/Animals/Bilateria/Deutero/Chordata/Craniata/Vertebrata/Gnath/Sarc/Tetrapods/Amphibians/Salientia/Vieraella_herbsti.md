@@ -74,3 +74,22 @@ part of the larger group Salientia.
 
 -   » Sub-Groups 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vieraella_herbsti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.md) 
+
+### [Vieraella_herbsti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.public.md) 
+
+### [Vieraella_herbsti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.internal.md) 
+
+### [Vieraella_herbsti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.protect.md) 
+
+### [Vieraella_herbsti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.private.md) 
+
+### [Vieraella_herbsti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.personal.md) 
+
+### [Vieraella_herbsti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Vieraella_herbsti.secret.md)
+

@@ -45,3 +45,22 @@ Commons_category: Negotiation
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Negotiation](/_Standards/bio/Society/Communication/Negotiation.md) 
+
+### [Negotiation.public](/_public/bio/Society/Communication/Negotiation.public.md) 
+
+### [Negotiation.internal](/_internal/bio/Society/Communication/Negotiation.internal.md) 
+
+### [Negotiation.protect](/_protect/bio/Society/Communication/Negotiation.protect.md) 
+
+### [Negotiation.private](/_private/bio/Society/Communication/Negotiation.private.md) 
+
+### [Negotiation.personal](/_personal/bio/Society/Communication/Negotiation.personal.md) 
+
+### [Negotiation.secret](/_secret/bio/Society/Communication/Negotiation.secret.md)
+

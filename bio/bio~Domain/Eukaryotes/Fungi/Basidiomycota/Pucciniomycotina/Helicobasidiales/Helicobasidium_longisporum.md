@@ -69,3 +69,21 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collector            M. Mennicken
   Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Helicobasidium_longisporum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.md) 
+
+### [Helicobasidium_longisporum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.public.md) 
+
+### [Helicobasidium_longisporum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.internal.md) 
+
+### [Helicobasidium_longisporum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.protect.md) 
+
+### [Helicobasidium_longisporum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.private.md) 
+
+### [Helicobasidium_longisporum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.personal.md) 
+
+### [Helicobasidium_longisporum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium_longisporum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A designation that the drug in question has not been assigned a pregnancy catego
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [fd_anot_evaluated](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md) 
+### [fd_anot_evaluated](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md) 
+
+### [fd_anot_evaluated.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.public.md) 
 
 ### [fd_anot_evaluated.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal.md) 
 
@@ -56,4 +59,5 @@ A designation that the drug in question has not been assigned a pregnancy catego
 
 ### [fd_anot_evaluated.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.personal.md) 
 
-### [fd_anot_evaluated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret.md) 
+### [fd_anot_evaluated.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret.md)
+

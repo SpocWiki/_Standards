@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_time_of_day )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_day](/_public/schema-org/Property/has_Date_Time/has_time_of_day.md) 
+### [has_time_of_day](/_Standards/schema-org/Property/has_Date_Time/has_time_of_day.md) 
+
+### [has_time_of_day.public](/_public/schema-org/Property/has_Date_Time/has_time_of_day.public.md) 
 
 ### [has_time_of_day.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_day.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_time_of_day.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_day.personal.md) 
 
-### [has_time_of_day.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_day.secret.md) 
+### [has_time_of_day.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_day.secret.md)
+

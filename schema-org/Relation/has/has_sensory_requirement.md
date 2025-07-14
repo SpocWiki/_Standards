@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_sensory_requirement )
 ( #has_/range :: DefinedTerm, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sensory_requirement](/_public/schema-org/Relation/has/has_sensory_requirement.md) 
+### [has_sensory_requirement](/_Standards/schema-org/Relation/has/has_sensory_requirement.md) 
+
+### [has_sensory_requirement.public](/_public/schema-org/Relation/has/has_sensory_requirement.public.md) 
 
 ### [has_sensory_requirement.internal](/_internal/schema-org/Relation/has/has_sensory_requirement.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_sensory_requirement.personal](/_personal/schema-org/Relation/has/has_sensory_requirement.personal.md) 
 
-### [has_sensory_requirement.secret](/_secret/schema-org/Relation/has/has_sensory_requirement.secret.md) 
+### [has_sensory_requirement.secret](/_secret/schema-org/Relation/has/has_sensory_requirement.secret.md)
+

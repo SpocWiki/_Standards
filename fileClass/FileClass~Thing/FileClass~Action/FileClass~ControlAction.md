@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,7 +34,9 @@ An agent controls a device or application.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ControlAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.md) 
+### [FileClass~ControlAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.md) 
+
+### [FileClass~ControlAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.public.md) 
 
 ### [FileClass~ControlAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.internal.md) 
 
@@ -44,4 +46,5 @@ An agent controls a device or application.
 
 ### [FileClass~ControlAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.personal.md) 
 
-### [FileClass~ControlAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret.md) 
+### [FileClass~ControlAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21973
 has_id_wikidata: Q877
@@ -113,10 +113,11 @@ Common_Procurement_Vocabulary_code: 14761000
 > [Wikipedia](https://en.wikipedia.org/wiki/Iridium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Iridium](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
+### [Iridium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Iridium.md) 
+
+### [Iridium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Iridium.public.md) 
 
 ### [Iridium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.internal.md) 
 
@@ -126,4 +127,5 @@ Common_Procurement_Vocabulary_code: 14761000
 
 ### [Iridium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Iridium.personal.md) 
 
-### [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md) 
+### [Iridium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Iridium.secret.md)
+

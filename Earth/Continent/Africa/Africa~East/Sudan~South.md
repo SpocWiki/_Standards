@@ -449,9 +449,12 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Sudan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sudan~South](/_public/Earth/Continent/Africa/Africa~East/Sudan~South.md) 
+### [Sudan~South](/_Standards/Earth/Continent/Africa/Africa~East/Sudan~South.md) 
+
+### [Sudan~South.public](/_public/Earth/Continent/Africa/Africa~East/Sudan~South.public.md) 
 
 ### [Sudan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South.internal.md) 
 
@@ -461,4 +464,5 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 ### [Sudan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South.personal.md) 
 
-### [Sudan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South.secret.md) 
+### [Sudan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South.secret.md)
+

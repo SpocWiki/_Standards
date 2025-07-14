@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ DJMixAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dj_mix_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.md) 
+### [dj_mix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.md) 
+
+### [dj_mix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.public.md) 
 
 ### [dj_mix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.internal.md) 
 
@@ -56,4 +59,5 @@ DJMixAlbum.
 
 ### [dj_mix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.personal.md) 
 
-### [dj_mix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.secret.md) 
+### [dj_mix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/dj_mix_album.secret.md)
+

@@ -529,10 +529,11 @@ Capital :: [[Minsk]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Belarus) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Belarus](/_public/Earth/Continent/Europe/Europe~East/Belarus.md) 
+### [Belarus](/_Standards/Earth/Continent/Europe/Europe~East/Belarus.md) 
+
+### [Belarus.public](/_public/Earth/Continent/Europe/Europe~East/Belarus.public.md) 
 
 ### [Belarus.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal.md) 
 
@@ -542,4 +543,5 @@ Capital :: [[Minsk]]
 
 ### [Belarus.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus.personal.md) 
 
-### [Belarus.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret.md) 
+### [Belarus.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret.md)
+

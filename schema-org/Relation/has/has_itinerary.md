@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_itinerary )
 ( #has_/range :: ItemList, Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_itinerary](/_public/schema-org/Relation/has/has_itinerary.md) 
+### [has_itinerary](/_Standards/schema-org/Relation/has/has_itinerary.md) 
+
+### [has_itinerary.public](/_public/schema-org/Relation/has/has_itinerary.public.md) 
 
 ### [has_itinerary.internal](/_internal/schema-org/Relation/has/has_itinerary.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_itinerary.personal](/_personal/schema-org/Relation/has/has_itinerary.personal.md) 
 
-### [has_itinerary.secret](/_secret/schema-org/Relation/has/has_itinerary.secret.md) 
+### [has_itinerary.secret](/_secret/schema-org/Relation/has/has_itinerary.secret.md)
+

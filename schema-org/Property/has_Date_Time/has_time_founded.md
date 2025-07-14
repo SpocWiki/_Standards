@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,16 +41,20 @@ Formal Predicate:
 (name::has_time_of_founding)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_founding](/_public/schema-org/Property/has_Date_Time/has_time_of_founding.md) 
+### [has_time_founded](/_Standards/schema-org/Property/has_Date_Time/has_time_founded.md) 
 
-### [has_time_of_founding.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_founding.internal.md) 
+### [has_time_founded.public](/_public/schema-org/Property/has_Date_Time/has_time_founded.public.md) 
 
-### [has_time_of_founding.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_founding.protect.md) 
+### [has_time_founded.internal](/_internal/schema-org/Property/has_Date_Time/has_time_founded.internal.md) 
 
-### [has_time_of_founding.private](/_private/schema-org/Property/has_Date_Time/has_time_of_founding.private.md) 
+### [has_time_founded.protect](/_protect/schema-org/Property/has_Date_Time/has_time_founded.protect.md) 
 
-### [has_time_of_founding.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_founding.personal.md) 
+### [has_time_founded.private](/_private/schema-org/Property/has_Date_Time/has_time_founded.private.md) 
 
-### [has_time_of_founding.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_founding.secret.md) 
+### [has_time_founded.personal](/_personal/schema-org/Property/has_Date_Time/has_time_founded.personal.md) 
+
+### [has_time_founded.secret](/_secret/schema-org/Property/has_Date_Time/has_time_founded.secret.md)
+

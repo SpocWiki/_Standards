@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,9 +56,12 @@ Region = state, canton, prefecture, autonomous community...
 
 [ #has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [defined_region](/_public/schema-org/Class/is_a_/Intangible/structured_value/defined_region.md) 
+### [defined_region](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/defined_region.md) 
+
+### [defined_region.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/defined_region.public.md) 
 
 ### [defined_region.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/defined_region.internal.md) 
 
@@ -68,4 +71,5 @@ Region = state, canton, prefecture, autonomous community...
 
 ### [defined_region.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/defined_region.personal.md) 
 
-### [defined_region.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/defined_region.secret.md) 
+### [defined_region.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/defined_region.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_trial_design )
 ( #has_/range :: MedicalTrialDesign )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_trial_design](/_public/schema-org/Relation/has/has_trial_design.md) 
+### [has_trial_design](/_Standards/schema-org/Relation/has/has_trial_design.md) 
+
+### [has_trial_design.public](/_public/schema-org/Relation/has/has_trial_design.public.md) 
 
 ### [has_trial_design.internal](/_internal/schema-org/Relation/has/has_trial_design.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_trial_design.personal](/_personal/schema-org/Relation/has/has_trial_design.personal.md) 
 
-### [has_trial_design.secret](/_secret/schema-org/Relation/has/has_trial_design.secret.md) 
+### [has_trial_design.secret](/_secret/schema-org/Relation/has/has_trial_design.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [78,]
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::78]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Svalbard](/_public/Earth/Continent/Europe/Europe~North/Svalbard.md) 
+### [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Svalbard.md) 
+
+### [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Svalbard.public.md) 
 
 ### [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Svalbard.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Europe]]
 
 ### [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Svalbard.personal.md) 
 
-### [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Svalbard.secret.md) 
+### [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Svalbard.secret.md)
+

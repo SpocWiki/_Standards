@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_beds )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_beds](/_public/schema-org/Property/has_number_of/has_number_of_beds.md) 
+### [has_number_of_beds](/_Standards/schema-org/Property/has_number_of/has_number_of_beds.md) 
+
+### [has_number_of_beds.public](/_public/schema-org/Property/has_number_of/has_number_of_beds.public.md) 
 
 ### [has_number_of_beds.internal](/_internal/schema-org/Property/has_number_of/has_number_of_beds.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_beds.personal](/_personal/schema-org/Property/has_number_of/has_number_of_beds.personal.md) 
 
-### [has_number_of_beds.secret](/_secret/schema-org/Property/has_number_of/has_number_of_beds.secret.md) 
+### [has_number_of_beds.secret](/_secret/schema-org/Property/has_number_of/has_number_of_beds.secret.md)
+

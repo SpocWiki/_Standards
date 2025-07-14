@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_before_media )
 ( #has_/range :: MediaObject, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_before_media](/_public/schema-org/Relation/has/has_before_media.md) 
+### [has_before_media](/_Standards/schema-org/Relation/has/has_before_media.md) 
+
+### [has_before_media.public](/_public/schema-org/Relation/has/has_before_media.public.md) 
 
 ### [has_before_media.internal](/_internal/schema-org/Relation/has/has_before_media.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_before_media.personal](/_personal/schema-org/Relation/has/has_before_media.personal.md) 
 
-### [has_before_media.secret](/_secret/schema-org/Relation/has/has_before_media.secret.md) 
+### [has_before_media.secret](/_secret/schema-org/Relation/has/has_before_media.secret.md)
+

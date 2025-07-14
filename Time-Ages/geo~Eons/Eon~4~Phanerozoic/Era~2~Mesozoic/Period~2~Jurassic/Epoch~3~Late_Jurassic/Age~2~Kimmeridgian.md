@@ -64,10 +64,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Kimmeridgian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.md) 
+### [Age~2~Kimmeridgian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.md) 
+
+### [Age~2~Kimmeridgian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.public.md) 
 
 ### [Age~2~Kimmeridgian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.internal.md) 
 
@@ -77,4 +78,5 @@ noteOnly: true
 
 ### [Age~2~Kimmeridgian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.personal.md) 
 
-### [Age~2~Kimmeridgian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.secret.md) 
+### [Age~2~Kimmeridgian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.secret.md)
+

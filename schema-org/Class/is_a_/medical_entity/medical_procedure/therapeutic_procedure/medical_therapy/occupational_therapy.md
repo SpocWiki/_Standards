@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [occupational_therapy](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md) 
+### [occupational_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md) 
+
+### [occupational_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.public.md) 
 
 ### [occupational_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md) 
 
@@ -54,4 +57,5 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 ### [occupational_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.personal.md) 
 
-### [occupational_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md) 
+### [occupational_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md)
+

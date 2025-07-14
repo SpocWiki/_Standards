@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_upload)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_upload](/_public/schema-org/Property/has_Date_Time/has_time_of_upload.md) 
+### [has_time_of_upload](/_Standards/schema-org/Property/has_Date_Time/has_time_of_upload.md) 
+
+### [has_time_of_upload.public](/_public/schema-org/Property/has_Date_Time/has_time_of_upload.public.md) 
 
 ### [has_time_of_upload.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_upload.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_upload.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_upload.personal.md) 
 
-### [has_time_of_upload.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_upload.secret.md) 
+### [has_time_of_upload.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_upload.secret.md)
+

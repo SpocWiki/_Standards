@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A notary.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Notary](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.md) 
+### [FileClass~Notary](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.md) 
+
+### [FileClass~Notary.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.public.md) 
 
 ### [FileClass~Notary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.internal.md) 
 
@@ -46,4 +47,5 @@ A notary.
 
 ### [FileClass~Notary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.personal.md) 
 
-### [FileClass~Notary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret.md) 
+### [FileClass~Notary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret.md)
+

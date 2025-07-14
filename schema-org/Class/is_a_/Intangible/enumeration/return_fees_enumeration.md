@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates several kinds of policies for product return fees.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_fees_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.md) 
+### [return_fees_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.md) 
+
+### [return_fees_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.public.md) 
 
 ### [return_fees_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates several kinds of policies for product return fees.
 
 ### [return_fees_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.personal.md) 
 
-### [return_fees_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.secret.md) 
+### [return_fees_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.secret.md)
+

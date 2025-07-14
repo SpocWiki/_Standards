@@ -42,10 +42,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Wuliuan](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.md) 
+### [Age~1~Wuliuan](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.md) 
+
+### [Age~1~Wuliuan.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.public.md) 
 
 ### [Age~1~Wuliuan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.internal.md) 
 
@@ -55,4 +56,5 @@ noteOnly: true
 
 ### [Age~1~Wuliuan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.personal.md) 
 
-### [Age~1~Wuliuan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.secret.md) 
+### [Age~1~Wuliuan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.secret.md)
+

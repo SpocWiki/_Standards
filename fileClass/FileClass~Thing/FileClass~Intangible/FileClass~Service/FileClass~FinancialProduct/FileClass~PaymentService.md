@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PaymentService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.md) 
+### [FileClass~PaymentService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.md) 
+
+### [FileClass~PaymentService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.public.md) 
 
 ### [FileClass~PaymentService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.internal.md) 
 
@@ -46,4 +47,5 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 ### [FileClass~PaymentService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.personal.md) 
 
-### [FileClass~PaymentService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.secret.md) 
+### [FileClass~PaymentService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~PaymentService.secret.md)
+

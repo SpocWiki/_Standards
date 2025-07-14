@@ -98,3 +98,21 @@ Microscop. Soc. 84:177-184.
   Size                 ca. 20-30 cm. high
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Synotaxidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.md) 
+
+### [Synotaxidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.public.md) 
+
+### [Synotaxidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.internal.md) 
+
+### [Synotaxidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.protect.md) 
+
+### [Synotaxidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.private.md) 
+
+### [Synotaxidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.personal.md) 
+
+### [Synotaxidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Synotaxidae.secret.md)
+

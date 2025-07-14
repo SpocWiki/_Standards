@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A venue map (e.g. for malls, auditoriums, museums, etc.).
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [venue_map](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.md) 
+### [venue_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.md) 
+
+### [venue_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.public.md) 
 
 ### [venue_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.internal.md) 
 
@@ -56,4 +59,5 @@ A venue map (e.g. for malls, auditoriums, museums, etc.).
 
 ### [venue_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.personal.md) 
 
-### [venue_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.secret.md) 
+### [venue_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/venue_map.secret.md)
+

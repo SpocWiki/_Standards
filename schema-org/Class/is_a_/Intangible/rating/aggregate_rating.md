@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The average rating based on multiple ratings or reviews.
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [aggregate_rating](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.md) 
+### [aggregate_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.md) 
+
+### [aggregate_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.public.md) 
 
 ### [aggregate_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.internal.md) 
 
@@ -56,4 +59,5 @@ The average rating based on multiple ratings or reviews.
 
 ### [aggregate_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.personal.md) 
 
-### [aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.secret.md) 
+### [aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.secret.md)
+

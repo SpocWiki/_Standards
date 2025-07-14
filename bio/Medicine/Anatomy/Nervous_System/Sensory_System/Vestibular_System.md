@@ -16,3 +16,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vestibular_System](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.md) 
+
+### [Vestibular_System.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.public.md) 
+
+### [Vestibular_System.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.internal.md) 
+
+### [Vestibular_System.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.protect.md) 
+
+### [Vestibular_System.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.private.md) 
+
+### [Vestibular_System.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.personal.md) 
+
+### [Vestibular_System.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Vestibular_System.secret.md)
+

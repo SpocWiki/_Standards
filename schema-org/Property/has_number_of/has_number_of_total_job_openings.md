@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_total_job_openings )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_total_job_openings](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
+### [has_number_of_total_job_openings](/_Standards/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
+
+### [has_number_of_total_job_openings.public](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.public.md) 
 
 ### [has_number_of_total_job_openings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_total_job_openings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal.md) 
 
-### [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md) 
+### [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md)
+

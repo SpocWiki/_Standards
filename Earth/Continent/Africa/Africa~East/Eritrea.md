@@ -414,7 +414,9 @@ Capital :: [[Asmara]]
 
 ## Confidential Links & Embeds: 
 
-### [Eritrea](/_public/Earth/Continent/Africa/Africa~East/Eritrea.md) 
+### [Eritrea](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea.md) 
+
+### [Eritrea.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea.public.md) 
 
 ### [Eritrea.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal.md) 
 
@@ -424,4 +426,5 @@ Capital :: [[Asmara]]
 
 ### [Eritrea.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal.md) 
 
-### [Eritrea.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret.md) 
+### [Eritrea.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret.md)
+

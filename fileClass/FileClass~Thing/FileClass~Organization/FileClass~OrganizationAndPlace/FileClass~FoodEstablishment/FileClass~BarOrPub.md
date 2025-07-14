@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A bar or pub.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BarOrPub](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.md) 
+### [FileClass~BarOrPub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.md) 
+
+### [FileClass~BarOrPub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.public.md) 
 
 ### [FileClass~BarOrPub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.internal.md) 
 
@@ -46,4 +47,5 @@ A bar or pub.
 
 ### [FileClass~BarOrPub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.personal.md) 
 
-### [FileClass~BarOrPub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.secret.md) 
+### [FileClass~BarOrPub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~BarOrPub.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_subtitle_language )
 ( #has_/range :: Language, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_subtitle_language](/_public/schema-org/Relation/has/has_subtitle_language.md) 
+### [has_subtitle_language](/_Standards/schema-org/Relation/has/has_subtitle_language.md) 
+
+### [has_subtitle_language.public](/_public/schema-org/Relation/has/has_subtitle_language.public.md) 
 
 ### [has_subtitle_language.internal](/_internal/schema-org/Relation/has/has_subtitle_language.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_subtitle_language.personal](/_personal/schema-org/Relation/has/has_subtitle_language.personal.md) 
 
-### [has_subtitle_language.secret](/_secret/schema-org/Relation/has/has_subtitle_language.secret.md) 
+### [has_subtitle_language.secret](/_secret/schema-org/Relation/has/has_subtitle_language.secret.md)
+

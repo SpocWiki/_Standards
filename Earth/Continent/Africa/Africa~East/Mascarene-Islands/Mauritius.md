@@ -458,9 +458,12 @@ Capital :: [[Port_Louis]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mauritius)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mauritius](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.md) 
+### [Mauritius](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.md) 
+
+### [Mauritius.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.public.md) 
 
 ### [Mauritius.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.internal.md) 
 
@@ -470,4 +473,5 @@ Capital :: [[Port_Louis]]
 
 ### [Mauritius.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.personal.md) 
 
-### [Mauritius.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.secret.md) 
+### [Mauritius.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.secret.md)
+

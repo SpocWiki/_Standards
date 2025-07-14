@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21935
 has_id_wikidata: Q895
@@ -127,9 +127,12 @@ Krugosvet_article: nauka_i_tehnika/himiya/RUBIDI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rubidium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Rubidium](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
+### [Rubidium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
+
+### [Rubidium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.public.md) 
 
 ### [Rubidium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.internal.md) 
 
@@ -139,4 +142,5 @@ Krugosvet_article: nauka_i_tehnika/himiya/RUBIDI.html
 
 ### [Rubidium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.personal.md) 
 
-### [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md) 
+### [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md)
+

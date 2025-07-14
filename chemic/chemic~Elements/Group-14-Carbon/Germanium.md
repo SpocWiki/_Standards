@@ -126,9 +126,12 @@ DSSTOX_compound_identifier: DTXCID5031056
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Germanium](/_public/chemic/chemic~Elements/Group-14-Carbon/Germanium.md) 
+### [Germanium](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Germanium.md) 
+
+### [Germanium.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Germanium.public.md) 
 
 ### [Germanium.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Germanium.internal.md) 
 
@@ -138,4 +141,5 @@ DSSTOX_compound_identifier: DTXCID5031056
 
 ### [Germanium.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Germanium.personal.md) 
 
-### [Germanium.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Germanium.secret.md) 
+### [Germanium.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Germanium.secret.md)
+

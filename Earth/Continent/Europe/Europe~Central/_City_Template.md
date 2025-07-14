@@ -1,4 +1,4 @@
-﻿---
+---
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -38,7 +38,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [_City_Template](/_public/Earth/Continent/Europe/Europe~Central/_City_Template.md) 
+### [_City_Template](/_Standards/Earth/Continent/Europe/Europe~Central/_City_Template.md) 
+
+### [_City_Template.public](/_public/Earth/Continent/Europe/Europe~Central/_City_Template.public.md) 
 
 ### [_City_Template.internal](/_internal/Earth/Continent/Europe/Europe~Central/_City_Template.internal.md) 
 
@@ -48,4 +50,5 @@ maxZoom: 18
 
 ### [_City_Template.personal](/_personal/Earth/Continent/Europe/Europe~Central/_City_Template.personal.md) 
 
-### [_City_Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Template.secret.md) 
+### [_City_Template.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Template.secret.md)
+

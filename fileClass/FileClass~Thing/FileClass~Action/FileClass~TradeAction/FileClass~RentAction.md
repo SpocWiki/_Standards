@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,10 +55,11 @@ A sub property of participant. The real estate agent involved in the action.
 RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RentAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.md) 
+### [FileClass~RentAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.md) 
+
+### [FileClass~RentAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.public.md) 
 
 ### [FileClass~RentAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.internal.md) 
 
@@ -68,4 +69,5 @@ RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~RentAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.personal.md) 
 
-### [FileClass~RentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret.md) 
+### [FileClass~RentAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~RentAction.secret.md)
+

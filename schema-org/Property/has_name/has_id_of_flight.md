@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_of_flight](/_public/schema-org/Property/has_name/has_id_of_flight.md) 
+### [has_id_of_flight](/_Standards/schema-org/Property/has_name/has_id_of_flight.md) 
+
+### [has_id_of_flight.public](/_public/schema-org/Property/has_name/has_id_of_flight.public.md) 
 
 ### [has_id_of_flight.internal](/_internal/schema-org/Property/has_name/has_id_of_flight.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_id_of_flight.personal](/_personal/schema-org/Property/has_name/has_id_of_flight.personal.md) 
 
-### [has_id_of_flight.secret](/_secret/schema-org/Property/has_name/has_id_of_flight.secret.md) 
+### [has_id_of_flight.secret](/_secret/schema-org/Property/has_name/has_id_of_flight.secret.md)
+

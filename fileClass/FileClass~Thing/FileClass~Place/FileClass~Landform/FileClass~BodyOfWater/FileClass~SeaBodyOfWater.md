@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A sea (for example, the Caspian sea).
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SeaBodyOfWater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.md) 
+### [FileClass~SeaBodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.md) 
+
+### [FileClass~SeaBodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.public.md) 
 
 ### [FileClass~SeaBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.internal.md) 
 
@@ -46,4 +47,5 @@ A sea (for example, the Caspian sea).
 
 ### [FileClass~SeaBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.personal.md) 
 
-### [FileClass~SeaBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.secret.md) 
+### [FileClass~SeaBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.secret.md)
+

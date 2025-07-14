@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents EU Energy Efficiency Class A as defined in EU energy labeling regulat
 
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [eu_energy_efficiency_category_a](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.md) 
+### [eu_energy_efficiency_category_a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.md) 
+
+### [eu_energy_efficiency_category_a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.public.md) 
 
 ### [eu_energy_efficiency_category_a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.internal.md) 
 
@@ -58,4 +61,5 @@ Represents EU Energy Efficiency Class A as defined in EU energy labeling regulat
 
 ### [eu_energy_efficiency_category_a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.personal.md) 
 
-### [eu_energy_efficiency_category_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.secret.md) 
+### [eu_energy_efficiency_category_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_prescription_status )
 ( #has_/range :: DrugPrescriptionStatus, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_prescription_status](/_public/schema-org/Relation/has/has_prescription_status.md) 
+### [has_prescription_status](/_Standards/schema-org/Relation/has/has_prescription_status.md) 
+
+### [has_prescription_status.public](/_public/schema-org/Relation/has/has_prescription_status.public.md) 
 
 ### [has_prescription_status.internal](/_internal/schema-org/Relation/has/has_prescription_status.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_prescription_status.personal](/_personal/schema-org/Relation/has/has_prescription_status.personal.md) 
 
-### [has_prescription_status.secret](/_secret/schema-org/Relation/has/has_prescription_status.secret.md) 
+### [has_prescription_status.secret](/_secret/schema-org/Relation/has/has_prescription_status.secret.md)
+

@@ -135,3 +135,22 @@ Specimen Condition   Fossil
 Copyright ::            © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Heterostraci](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.md) 
+
+### [Heterostraci.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.public.md) 
+
+### [Heterostraci.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.internal.md) 
+
+### [Heterostraci.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.protect.md) 
+
+### [Heterostraci.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.private.md) 
+
+### [Heterostraci.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.personal.md) 
+
+### [Heterostraci.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Heterostraci.secret.md)
+

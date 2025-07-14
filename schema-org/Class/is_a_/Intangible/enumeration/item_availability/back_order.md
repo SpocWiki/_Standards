@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is available on back order.
 
 [[../ItemAvailability| #is_/enum_of :: [../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [back_order](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.md) 
+### [back_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.md) 
+
+### [back_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.public.md) 
 
 ### [back_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is available on back order.
 
 ### [back_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.personal.md) 
 
-### [back_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.secret.md) 
+### [back_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.secret.md)
+

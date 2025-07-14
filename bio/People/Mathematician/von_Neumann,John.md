@@ -51,18 +51,19 @@ has_id_wikidata: Q17455
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20von%20Neumann)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [von_Neumann,John](/_public/Mathematics/Mathematicians/von_Neumann,John.md) 
+### [von_Neumann,John](/_Standards/bio/People/Mathematician/von_Neumann,John.md) 
 
-### [von_Neumann,John.internal](/_internal/Mathematics/Mathematicians/von_Neumann,John.internal.md) 
+### [von_Neumann,John.public](/_public/bio/People/Mathematician/von_Neumann,John.public.md) 
 
-### [von_Neumann,John.protect](/_protect/Mathematics/Mathematicians/von_Neumann,John.protect.md) 
+### [von_Neumann,John.internal](/_internal/bio/People/Mathematician/von_Neumann,John.internal.md) 
 
-### [von_Neumann,John.private](/_private/Mathematics/Mathematicians/von_Neumann,John.private.md) 
+### [von_Neumann,John.protect](/_protect/bio/People/Mathematician/von_Neumann,John.protect.md) 
 
-### [von_Neumann,John.personal](/_personal/Mathematics/Mathematicians/von_Neumann,John.personal.md) 
+### [von_Neumann,John.private](/_private/bio/People/Mathematician/von_Neumann,John.private.md) 
 
-### [von_Neumann,John.secret](/_secret/Mathematics/Mathematicians/von_Neumann,John.secret.md) 
+### [von_Neumann,John.personal](/_personal/bio/People/Mathematician/von_Neumann,John.personal.md) 
+
+### [von_Neumann,John.secret](/_secret/bio/People/Mathematician/von_Neumann,John.secret.md)
+

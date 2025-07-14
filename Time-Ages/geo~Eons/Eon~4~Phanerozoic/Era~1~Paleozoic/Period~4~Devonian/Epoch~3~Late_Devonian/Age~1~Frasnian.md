@@ -77,10 +77,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Frasnian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.md) 
+### [Age~1~Frasnian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.md) 
+
+### [Age~1~Frasnian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.public.md) 
 
 ### [Age~1~Frasnian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.internal.md) 
 
@@ -90,4 +91,5 @@ noteOnly: true
 
 ### [Age~1~Frasnian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.personal.md) 
 
-### [Age~1~Frasnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.secret.md) 
+### [Age~1~Frasnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.secret.md)
+

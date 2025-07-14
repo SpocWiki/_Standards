@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_art_edition )
 ( #has_/range :: Integer, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_art_edition](/_public/schema-org/Property/has_number_of/has_number_of_art_edition.md) 
+### [has_number_of_art_edition](/_Standards/schema-org/Property/has_number_of/has_number_of_art_edition.md) 
+
+### [has_number_of_art_edition.public](/_public/schema-org/Property/has_number_of/has_number_of_art_edition.public.md) 
 
 ### [has_number_of_art_edition.internal](/_internal/schema-org/Property/has_number_of/has_number_of_art_edition.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_art_edition.personal](/_personal/schema-org/Property/has_number_of/has_number_of_art_edition.personal.md) 
 
-### [has_number_of_art_edition.secret](/_secret/schema-org/Property/has_number_of/has_number_of_art_edition.secret.md) 
+### [has_number_of_art_edition.secret](/_secret/schema-org/Property/has_number_of/has_number_of_art_edition.secret.md)
+

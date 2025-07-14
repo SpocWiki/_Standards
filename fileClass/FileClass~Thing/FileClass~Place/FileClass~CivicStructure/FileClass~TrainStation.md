@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A train station.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TrainStation](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.md) 
+### [FileClass~TrainStation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.md) 
+
+### [FileClass~TrainStation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.public.md) 
 
 ### [FileClass~TrainStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.internal.md) 
 
@@ -46,4 +47,5 @@ A train station.
 
 ### [FileClass~TrainStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.personal.md) 
 
-### [FileClass~TrainStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.secret.md) 
+### [FileClass~TrainStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TrainStation.secret.md)
+

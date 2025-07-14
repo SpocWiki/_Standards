@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_in_broadcast_lineup )
 ( #has_/range :: CableOrSatelliteService )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_broadcast_lineup](/_public/schema-org/Relation/is/is_in_broadcast_lineup.md) 
+### [is_in_broadcast_lineup](/_Standards/schema-org/Relation/is/is_in_broadcast_lineup.md) 
+
+### [is_in_broadcast_lineup.public](/_public/schema-org/Relation/is/is_in_broadcast_lineup.public.md) 
 
 ### [is_in_broadcast_lineup.internal](/_internal/schema-org/Relation/is/is_in_broadcast_lineup.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_in_broadcast_lineup.personal](/_personal/schema-org/Relation/is/is_in_broadcast_lineup.personal.md) 
 
-### [is_in_broadcast_lineup.secret](/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret.md) 
+### [is_in_broadcast_lineup.secret](/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret.md)
+

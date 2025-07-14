@@ -42,3 +42,21 @@ Thenaria without acontia. Sphincter mesogloeal.
 Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
+
+
+## Confidential Links & Embeds: 
+
+### [Mesomyaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.md) 
+
+### [Mesomyaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.public.md) 
+
+### [Mesomyaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.internal.md) 
+
+### [Mesomyaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.protect.md) 
+
+### [Mesomyaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.private.md) 
+
+### [Mesomyaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.personal.md) 
+
+### [Mesomyaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Thenaria/Mesomyaria.secret.md)
+

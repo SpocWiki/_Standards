@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_creative_work_status )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_creative_work_status](/_public/schema-org/Relation/has/has_creative_work_status.md) 
+### [has_creative_work_status](/_Standards/schema-org/Relation/has/has_creative_work_status.md) 
+
+### [has_creative_work_status.public](/_public/schema-org/Relation/has/has_creative_work_status.public.md) 
 
 ### [has_creative_work_status.internal](/_internal/schema-org/Relation/has/has_creative_work_status.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_creative_work_status.personal](/_personal/schema-org/Relation/has/has_creative_work_status.personal.md) 
 
-### [has_creative_work_status.secret](/_secret/schema-org/Relation/has/has_creative_work_status.secret.md) 
+### [has_creative_work_status.secret](/_secret/schema-org/Relation/has/has_creative_work_status.secret.md)
+

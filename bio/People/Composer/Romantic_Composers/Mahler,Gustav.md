@@ -120,3 +120,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Mahler)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mahler,Gustav](/_Standards/bio/People/Composer/Romantic_Composers/Mahler,Gustav.md) 
+
+### [Mahler,Gustav.public](/_public/bio/People/Composer/Romantic_Composers/Mahler,Gustav.public.md) 
+
+### [Mahler,Gustav.internal](/_internal/bio/People/Composer/Romantic_Composers/Mahler,Gustav.internal.md) 
+
+### [Mahler,Gustav.protect](/_protect/bio/People/Composer/Romantic_Composers/Mahler,Gustav.protect.md) 
+
+### [Mahler,Gustav.private](/_private/bio/People/Composer/Romantic_Composers/Mahler,Gustav.private.md) 
+
+### [Mahler,Gustav.personal](/_personal/bio/People/Composer/Romantic_Composers/Mahler,Gustav.personal.md) 
+
+### [Mahler,Gustav.secret](/_secret/bio/People/Composer/Romantic_Composers/Mahler,Gustav.secret.md)
+

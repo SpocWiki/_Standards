@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -53,7 +53,9 @@ IcaoCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Airport](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.md) 
+### [FileClass~Airport](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.md) 
+
+### [FileClass~Airport.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.public.md) 
 
 ### [FileClass~Airport.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.internal.md) 
 
@@ -63,4 +65,5 @@ IcaoCode:: {"type":"Input","options":{}}
 
 ### [FileClass~Airport.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.personal.md) 
 
-### [FileClass~Airport.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.secret.md) 
+### [FileClass~Airport.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.secret.md)
+

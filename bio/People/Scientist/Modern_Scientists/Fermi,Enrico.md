@@ -222,3 +222,22 @@ Regensburg_Classification: "UB 2580"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Enrico%20Fermi)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fermi,Enrico](/_Standards/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.md) 
+
+### [Fermi,Enrico.public](/_public/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.public.md) 
+
+### [Fermi,Enrico.internal](/_internal/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.internal.md) 
+
+### [Fermi,Enrico.protect](/_protect/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.protect.md) 
+
+### [Fermi,Enrico.private](/_private/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.private.md) 
+
+### [Fermi,Enrico.personal](/_personal/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.personal.md) 
+
+### [Fermi,Enrico.secret](/_secret/bio/People/Scientist/Modern_Scientists/Fermi,Enrico.secret.md)
+

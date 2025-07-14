@@ -47,3 +47,22 @@ has_id_wikidata: Q8963
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Kepler)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kepler,Johannes](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.md) 
+
+### [Kepler,Johannes.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.public.md) 
+
+### [Kepler,Johannes.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.internal.md) 
+
+### [Kepler,Johannes.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.protect.md) 
+
+### [Kepler,Johannes.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.private.md) 
+
+### [Kepler,Johannes.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.personal.md) 
+
+### [Kepler,Johannes.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Kepler,Johannes.secret.md)
+

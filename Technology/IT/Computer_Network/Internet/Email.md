@@ -55,3 +55,22 @@ U_S_National_Archives_Identifier: 10636085
 > [Wikipedia](https://en.wikipedia.org/wiki/Email) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Email](/_Standards/Technology/IT/Computer_Network/Internet/Email.md) 
+
+### [Email.public](/_public/Technology/IT/Computer_Network/Internet/Email.public.md) 
+
+### [Email.internal](/_internal/Technology/IT/Computer_Network/Internet/Email.internal.md) 
+
+### [Email.protect](/_protect/Technology/IT/Computer_Network/Internet/Email.protect.md) 
+
+### [Email.private](/_private/Technology/IT/Computer_Network/Internet/Email.private.md) 
+
+### [Email.personal](/_personal/Technology/IT/Computer_Network/Internet/Email.personal.md) 
+
+### [Email.secret](/_secret/Technology/IT/Computer_Network/Internet/Email.secret.md)
+

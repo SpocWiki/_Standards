@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -130,10 +130,11 @@ The trailer of a movie or TV/radio series, season, episode, etc.
 Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RadioSeries](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.md) 
+### [FileClass~RadioSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.md) 
+
+### [FileClass~RadioSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.public.md) 
 
 ### [FileClass~RadioSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.internal.md) 
 
@@ -143,4 +144,5 @@ Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### [FileClass~RadioSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.personal.md) 
 
-### [FileClass~RadioSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.secret.md) 
+### [FileClass~RadioSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~RadioSeries.secret.md)
+

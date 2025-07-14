@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates several kinds of product return refund types.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [refund_type_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.md) 
+### [refund_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.md) 
+
+### [refund_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.public.md) 
 
 ### [refund_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates several kinds of product return refund types.
 
 ### [refund_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.personal.md) 
 
-### [refund_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.secret.md) 
+### [refund_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration.secret.md)
+

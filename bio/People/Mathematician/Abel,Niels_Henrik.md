@@ -30,3 +30,22 @@ has_id_wikidata: Q124115
 > [Wikipedia](https://en.wikipedia.org/wiki/Niels%20Henrik%20Abel)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Abel,Niels_Henrik](/_Standards/bio/People/Mathematician/Abel,Niels_Henrik.md) 
+
+### [Abel,Niels_Henrik.public](/_public/bio/People/Mathematician/Abel,Niels_Henrik.public.md) 
+
+### [Abel,Niels_Henrik.internal](/_internal/bio/People/Mathematician/Abel,Niels_Henrik.internal.md) 
+
+### [Abel,Niels_Henrik.protect](/_protect/bio/People/Mathematician/Abel,Niels_Henrik.protect.md) 
+
+### [Abel,Niels_Henrik.private](/_private/bio/People/Mathematician/Abel,Niels_Henrik.private.md) 
+
+### [Abel,Niels_Henrik.personal](/_personal/bio/People/Mathematician/Abel,Niels_Henrik.personal.md) 
+
+### [Abel,Niels_Henrik.secret](/_secret/bio/People/Mathematician/Abel,Niels_Henrik.secret.md)
+

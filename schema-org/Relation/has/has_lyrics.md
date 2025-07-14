@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_lyrics )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_lyrics](/_public/schema-org/Relation/has/has_lyrics.md) 
+### [has_lyrics](/_Standards/schema-org/Relation/has/has_lyrics.md) 
+
+### [has_lyrics.public](/_public/schema-org/Relation/has/has_lyrics.public.md) 
 
 ### [has_lyrics.internal](/_internal/schema-org/Relation/has/has_lyrics.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_lyrics.personal](/_personal/schema-org/Relation/has/has_lyrics.personal.md) 
 
-### [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md) 
+### [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md)
+

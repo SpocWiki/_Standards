@@ -65,3 +65,22 @@ In dieser Situation taucht Sokrates auf.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Socrates](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Socrates.md) 
+
+### [Socrates.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Socrates.public.md) 
+
+### [Socrates.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Socrates.internal.md) 
+
+### [Socrates.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Socrates.protect.md) 
+
+### [Socrates.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Socrates.private.md) 
+
+### [Socrates.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Socrates.personal.md) 
+
+### [Socrates.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Socrates.secret.md)
+

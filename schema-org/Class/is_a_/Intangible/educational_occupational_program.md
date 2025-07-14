@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ A program offered by an institution which determines the learning progress to ac
 
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [educational_occupational_program](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program.md) 
+### [educational_occupational_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program.md) 
+
+### [educational_occupational_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program.public.md) 
 
 ### [educational_occupational_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program.internal.md) 
 
@@ -58,4 +61,5 @@ A program offered by an institution which determines the learning progress to ac
 
 ### [educational_occupational_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program.personal.md) 
 
-### [educational_occupational_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program.secret.md) 
+### [educational_occupational_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program.secret.md)
+

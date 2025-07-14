@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -99,10 +99,11 @@ The lowest value allowed in this rating system. If worstRating is omitted, 1 is 
 WorstRating:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Rating](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.md) 
+### [FileClass~Rating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.md) 
+
+### [FileClass~Rating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.public.md) 
 
 ### [FileClass~Rating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.internal.md) 
 
@@ -112,4 +113,5 @@ WorstRating:: {"type":"Number","options":{}}
 
 ### [FileClass~Rating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.personal.md) 
 
-### [FileClass~Rating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.secret.md) 
+### [FileClass~Rating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.secret.md)
+

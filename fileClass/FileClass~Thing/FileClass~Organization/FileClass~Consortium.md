@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Consortium is a membership [[Organization]] whose members are typically Organi
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Consortium](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.md) 
+### [FileClass~Consortium](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.md) 
+
+### [FileClass~Consortium.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.public.md) 
 
 ### [FileClass~Consortium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.internal.md) 
 
@@ -46,4 +47,5 @@ A Consortium is a membership [[Organization]] whose members are typically Organi
 
 ### [FileClass~Consortium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.personal.md) 
 
-### [FileClass~Consortium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret.md) 
+### [FileClass~Consortium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Ultrasound imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ultrasound](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md) 
+### [ultrasound](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md) 
+
+### [ultrasound.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.public.md) 
 
 ### [ultrasound.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.internal.md) 
 
@@ -56,4 +59,5 @@ Ultrasound imaging.
 
 ### [ultrasound.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.personal.md) 
 
-### [ultrasound.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.secret.md) 
+### [ultrasound.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.secret.md)
+

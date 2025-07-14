@@ -66,3 +66,22 @@ title: Glomeridesmus
 	-   *Glomeridesmus rotundatus*
 	-   *Glomeridesmus sbordoni*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Glomeridesmida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.md) 
+
+### [Glomeridesmida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.public.md) 
+
+### [Glomeridesmida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.internal.md) 
+
+### [Glomeridesmida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.protect.md) 
+
+### [Glomeridesmida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.private.md) 
+
+### [Glomeridesmida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.personal.md) 
+
+### [Glomeridesmida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.secret.md)
+

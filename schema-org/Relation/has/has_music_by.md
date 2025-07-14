@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_music_by )
 ( #has_/range :: MusicGroup, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_music_by](/_public/schema-org/Relation/has/has_music_by.md) 
+### [has_music_by](/_Standards/schema-org/Relation/has/has_music_by.md) 
+
+### [has_music_by.public](/_public/schema-org/Relation/has/has_music_by.public.md) 
 
 ### [has_music_by.internal](/_internal/schema-org/Relation/has/has_music_by.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_music_by.personal](/_personal/schema-org/Relation/has/has_music_by.personal.md) 
 
-### [has_music_by.secret](/_secret/schema-org/Relation/has/has_music_by.secret.md) 
+### [has_music_by.secret](/_secret/schema-org/Relation/has/has_music_by.secret.md)
+

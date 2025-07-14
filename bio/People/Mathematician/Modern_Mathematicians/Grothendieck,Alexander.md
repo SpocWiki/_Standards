@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Alexander Grothendieck
 ---
@@ -37,17 +37,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Grothendieck)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Grothendieck,Alexander](/_public/Mathematics/Mathematicians/Grothendieck,Alexander.md) 
+### [Grothendieck,Alexander](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.md) 
 
-### [Grothendieck,Alexander.internal](/_internal/Mathematics/Mathematicians/Grothendieck,Alexander.internal.md) 
+### [Grothendieck,Alexander.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.public.md) 
 
-### [Grothendieck,Alexander.protect](/_protect/Mathematics/Mathematicians/Grothendieck,Alexander.protect.md) 
+### [Grothendieck,Alexander.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.internal.md) 
 
-### [Grothendieck,Alexander.private](/_private/Mathematics/Mathematicians/Grothendieck,Alexander.private.md) 
+### [Grothendieck,Alexander.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.protect.md) 
 
-### [Grothendieck,Alexander.personal](/_personal/Mathematics/Mathematicians/Grothendieck,Alexander.personal.md) 
+### [Grothendieck,Alexander.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.private.md) 
 
-### [Grothendieck,Alexander.secret](/_secret/Mathematics/Mathematicians/Grothendieck,Alexander.secret.md) 
+### [Grothendieck,Alexander.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.personal.md) 
+
+### [Grothendieck,Alexander.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.secret.md)
+

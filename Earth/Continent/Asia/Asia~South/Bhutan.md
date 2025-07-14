@@ -441,9 +441,12 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bhutan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bhutan](/_public/Earth/Continent/Asia/Asia~South/Bhutan.md) 
+### [Bhutan](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan.md) 
+
+### [Bhutan.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan.public.md) 
 
 ### [Bhutan.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan.internal.md) 
 
@@ -453,4 +456,5 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 
 ### [Bhutan.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan.personal.md) 
 
-### [Bhutan.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret.md) 
+### [Bhutan.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret.md)
+

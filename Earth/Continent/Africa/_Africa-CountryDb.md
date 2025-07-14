@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Africa-CountryDb](/_public/Earth/Continent/Africa/_Africa-CountryDb.md) 
+### [_Africa-CountryDb](/_Standards/Earth/Continent/Africa/_Africa-CountryDb.md) 
+
+### [_Africa-CountryDb.public](/_public/Earth/Continent/Africa/_Africa-CountryDb.public.md) 
 
 ### [_Africa-CountryDb.internal](/_internal/Earth/Continent/Africa/_Africa-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_Africa-CountryDb.personal](/_personal/Earth/Continent/Africa/_Africa-CountryDb.personal.md) 
 
-### [_Africa-CountryDb.secret](/_secret/Earth/Continent/Africa/_Africa-CountryDb.secret.md) 
+### [_Africa-CountryDb.secret](/_secret/Earth/Continent/Africa/_Africa-CountryDb.secret.md)
+

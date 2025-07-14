@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ DemoAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [demo_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.md) 
+### [demo_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.md) 
+
+### [demo_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.public.md) 
 
 ### [demo_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.internal.md) 
 
@@ -56,4 +59,5 @@ DemoAlbum.
 
 ### [demo_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.personal.md) 
 
-### [demo_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.secret.md) 
+### [demo_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.secret.md)
+

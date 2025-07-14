@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q482
 model_item:
 - '[[_Standards/WikiData/WD~tanka,258331]]'
@@ -74,4 +74,23 @@ Colon_Classification: O,1
 >  In first-person poems, the lyrics are spoken by an "I", a character who may be termed the speaker, distinct from the poet (the author). Thus if, for example, a poem asserts, "I killed my enemy in Reno", it is the speaker, not the poet, who is the killer (unless this "confession" is a form of metaphor which needs to be considered in closer context – via close reading).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poetry) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Poetry](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.md) 
+
+### [Poetry.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.public.md) 
+
+### [Poetry.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.internal.md) 
+
+### [Poetry.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.protect.md) 
+
+### [Poetry.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.private.md) 
+
+### [Poetry.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.personal.md) 
+
+### [Poetry.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Magnetic resonance imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [mri](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.md) 
+### [mri](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.md) 
+
+### [mri.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.public.md) 
 
 ### [mri.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.internal.md) 
 
@@ -56,4 +59,5 @@ Magnetic resonance imaging.
 
 ### [mri.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.personal.md) 
 
-### [mri.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.secret.md) 
+### [mri.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.secret.md)
+

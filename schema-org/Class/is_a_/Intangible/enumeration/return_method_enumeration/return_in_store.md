@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that product returns must be made in a store.
 
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_in_store](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.md) 
+### [return_in_store](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.md) 
+
+### [return_in_store.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.public.md) 
 
 ### [return_in_store.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that product returns must be made in a store.
 
 ### [return_in_store.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.personal.md) 
 
-### [return_in_store.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.secret.md) 
+### [return_in_store.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_in_store.secret.md)
+

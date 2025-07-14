@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21998
 has_id_wikidata: Q1905
@@ -109,7 +109,9 @@ Unicode_character: 鐒
 
 ## Confidential Links & Embeds: 
 
-### [Lawrencium](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
+### [Lawrencium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.md) 
+
+### [Lawrencium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.public.md) 
 
 ### [Lawrencium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.internal.md) 
 
@@ -119,4 +121,5 @@ Unicode_character: 鐒
 
 ### [Lawrencium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.personal.md) 
 
-### [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md) 
+### [Lawrencium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lawrencium.secret.md)
+

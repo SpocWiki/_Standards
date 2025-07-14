@@ -158,9 +158,12 @@ Gujarati_Vishwakosh_entry: આર્સેનિક
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
 
+
 ## Confidential Links & Embeds: 
 
-### [Arsenic](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.md) 
+### [Arsenic](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.md) 
+
+### [Arsenic.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.public.md) 
 
 ### [Arsenic.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.internal.md) 
 
@@ -170,4 +173,5 @@ Gujarati_Vishwakosh_entry: આર્સેનિક
 
 ### [Arsenic.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.personal.md) 
 
-### [Arsenic.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.secret.md) 
+### [Arsenic.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Arsenic.secret.md)
+

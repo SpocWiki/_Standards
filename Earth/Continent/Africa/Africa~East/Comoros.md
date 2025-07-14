@@ -402,7 +402,9 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### [Comoros](/_public/Earth/Continent/Africa/Africa~East/Comoros.md) 
+### [Comoros](/_Standards/Earth/Continent/Africa/Africa~East/Comoros.md) 
+
+### [Comoros.public](/_public/Earth/Continent/Africa/Africa~East/Comoros.public.md) 
 
 ### [Comoros.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros.internal.md) 
 
@@ -412,4 +414,5 @@ has_place_continent:: [[Africa]]
 
 ### [Comoros.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros.personal.md) 
 
-### [Comoros.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret.md) 
+### [Comoros.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret.md)
+

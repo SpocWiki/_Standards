@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Atlas](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.md) 
+### [FileClass~Atlas](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.md) 
+
+### [FileClass~Atlas.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.public.md) 
 
 ### [FileClass~Atlas.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.internal.md) 
 
@@ -46,4 +47,5 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ### [FileClass~Atlas.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.personal.md) 
 
-### [FileClass~Atlas.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.secret.md) 
+### [FileClass~Atlas.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A description of an action that is supported.
 
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [potential_action_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
+### [potential_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
+
+### [potential_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.public.md) 
 
 ### [potential_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md) 
 
@@ -56,4 +59,5 @@ A description of an action that is supported.
 
 ### [potential_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal.md) 
 
-### [potential_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md) 
+### [potential_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md)
+

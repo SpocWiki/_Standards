@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_educational_use )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_educational_use](/_public/schema-org/Relation/has/has_educational_use.md) 
+### [has_educational_use](/_Standards/schema-org/Relation/has/has_educational_use.md) 
+
+### [has_educational_use.public](/_public/schema-org/Relation/has/has_educational_use.public.md) 
 
 ### [has_educational_use.internal](/_internal/schema-org/Relation/has/has_educational_use.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_educational_use.personal](/_personal/schema-org/Relation/has/has_educational_use.personal.md) 
 
-### [has_educational_use.secret](/_secret/schema-org/Relation/has/has_educational_use.secret.md) 
+### [has_educational_use.secret](/_secret/schema-org/Relation/has/has_educational_use.secret.md)
+

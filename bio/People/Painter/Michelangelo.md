@@ -239,3 +239,22 @@ place_of_birth: "[[_Standards/WikiData/WD~Caprese_Michelangelo,52069]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michelangelo)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Michelangelo](/_Standards/bio/People/Painter/Michelangelo.md) 
+
+### [Michelangelo.public](/_public/bio/People/Painter/Michelangelo.public.md) 
+
+### [Michelangelo.internal](/_internal/bio/People/Painter/Michelangelo.internal.md) 
+
+### [Michelangelo.protect](/_protect/bio/People/Painter/Michelangelo.protect.md) 
+
+### [Michelangelo.private](/_private/bio/People/Painter/Michelangelo.private.md) 
+
+### [Michelangelo.personal](/_personal/bio/People/Painter/Michelangelo.personal.md) 
+
+### [Michelangelo.secret](/_secret/bio/People/Painter/Michelangelo.secret.md)
+

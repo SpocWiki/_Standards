@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of discovering/finding an object.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DiscoverAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.md) 
+### [FileClass~DiscoverAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.md) 
+
+### [FileClass~DiscoverAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.public.md) 
 
 ### [FileClass~DiscoverAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of discovering/finding an object.
 
 ### [FileClass~DiscoverAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.personal.md) 
 
-### [FileClass~DiscoverAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.secret.md) 
+### [FileClass~DiscoverAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.secret.md)
+

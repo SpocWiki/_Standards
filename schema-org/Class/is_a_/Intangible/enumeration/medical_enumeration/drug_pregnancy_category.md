@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Categories that represent an assessment of the risk of fetal injury due to a dru
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug_pregnancy_category](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.md) 
+### [drug_pregnancy_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.md) 
+
+### [drug_pregnancy_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.public.md) 
 
 ### [drug_pregnancy_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md) 
 
@@ -52,4 +55,5 @@ Categories that represent an assessment of the risk of fetal injury due to a dru
 
 ### [drug_pregnancy_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.personal.md) 
 
-### [drug_pregnancy_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md) 
+### [drug_pregnancy_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md)
+

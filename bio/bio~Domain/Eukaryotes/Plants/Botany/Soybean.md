@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11006
 this_taxon_is_source_of:
 - "[[_Standards/WikiData/WD~soy_bean,61503220]]"
@@ -122,4 +122,23 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biolog
 > Soybeans contain significant amounts of phytic acid, dietary minerals and B vitamins. Soy vegetable oil, used in food and industrial applications, is another product of processing the soybean crop. Soybean is a common protein source in feed for farm animals that in turn yield animal protein for human consumption.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Soybean)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Soybean](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.md) 
+
+### [Soybean.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.public.md) 
+
+### [Soybean.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.internal.md) 
+
+### [Soybean.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.protect.md) 
+
+### [Soybean.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.private.md) 
+
+### [Soybean.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.personal.md) 
+
+### [Soybean.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.secret.md)
 

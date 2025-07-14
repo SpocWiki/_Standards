@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates the usage of the vehicle as a rental car.
 
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rental_vehicle_usage](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.md) 
+### [rental_vehicle_usage](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.md) 
+
+### [rental_vehicle_usage.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.public.md) 
 
 ### [rental_vehicle_usage.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates the usage of the vehicle as a rental car.
 
 ### [rental_vehicle_usage.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md) 
 
-### [rental_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md) 
+### [rental_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md)
+

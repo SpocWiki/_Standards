@@ -57,3 +57,22 @@ The idealised Stirling cycle consists of four [thermodynamic processes](https:/
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Stirling_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
+
+### [Stirling_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
+
+### [Stirling_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
+
+### [Stirling_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
+
+### [Stirling_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
+
+### [Stirling_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
+
+### [Stirling_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
+

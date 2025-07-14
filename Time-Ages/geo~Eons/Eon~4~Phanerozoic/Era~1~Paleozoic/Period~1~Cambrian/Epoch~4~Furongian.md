@@ -60,10 +60,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~4~Furongian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.md) 
+### [Epoch~4~Furongian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.md) 
+
+### [Epoch~4~Furongian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.public.md) 
 
 ### [Epoch~4~Furongian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.internal.md) 
 
@@ -73,4 +74,5 @@ noteOnly: true
 
 ### [Epoch~4~Furongian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.personal.md) 
 
-### [Epoch~4~Furongian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.secret.md) 
+### [Epoch~4~Furongian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.secret.md)
+

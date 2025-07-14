@@ -76,3 +76,22 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Reformation_sidebar,10
 > [Wikipedia](https://en.wikipedia.org/wiki/Reformation) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1517-Protestant_Reformation](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.md) 
+
+### [1517-Protestant_Reformation.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.public.md) 
+
+### [1517-Protestant_Reformation.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.internal.md) 
+
+### [1517-Protestant_Reformation.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.protect.md) 
+
+### [1517-Protestant_Reformation.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.private.md) 
+
+### [1517-Protestant_Reformation.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.personal.md) 
+
+### [1517-Protestant_Reformation.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.secret.md)
+

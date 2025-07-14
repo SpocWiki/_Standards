@@ -14,3 +14,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Casimir%20Funk) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Funk,Casimir](/_Standards/bio/Metabolism/Nutrition/Funk,Casimir.md) 
+
+### [Funk,Casimir.public](/_public/bio/Metabolism/Nutrition/Funk,Casimir.public.md) 
+
+### [Funk,Casimir.internal](/_internal/bio/Metabolism/Nutrition/Funk,Casimir.internal.md) 
+
+### [Funk,Casimir.protect](/_protect/bio/Metabolism/Nutrition/Funk,Casimir.protect.md) 
+
+### [Funk,Casimir.private](/_private/bio/Metabolism/Nutrition/Funk,Casimir.private.md) 
+
+### [Funk,Casimir.personal](/_personal/bio/Metabolism/Nutrition/Funk,Casimir.personal.md) 
+
+### [Funk,Casimir.secret](/_secret/bio/Metabolism/Nutrition/Funk,Casimir.secret.md)
+

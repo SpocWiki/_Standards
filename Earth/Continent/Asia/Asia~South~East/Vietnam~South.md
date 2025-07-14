@@ -1,4 +1,4 @@
-﻿---
+---
 location: [10.75,106.667]
 type: Country
 tags:
@@ -38,10 +38,11 @@ Capital :: [[Saigon]]
 [has_place_latitude::10.75]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Vietnam~South](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
+### [Vietnam~South](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
+
+### [Vietnam~South.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.public.md) 
 
 ### [Vietnam~South.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal.md) 
 
@@ -51,4 +52,5 @@ Capital :: [[Saigon]]
 
 ### [Vietnam~South.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal.md) 
 
-### [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md) 
+### [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md)
+

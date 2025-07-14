@@ -171,3 +171,22 @@ Swedish_Royal_Theater_Archive: Person/317
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Christian%20Andersen)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Andersen,Hans_Christian](/_Standards/bio/People/Writer/Andersen,Hans_Christian.md) 
+
+### [Andersen,Hans_Christian.public](/_public/bio/People/Writer/Andersen,Hans_Christian.public.md) 
+
+### [Andersen,Hans_Christian.internal](/_internal/bio/People/Writer/Andersen,Hans_Christian.internal.md) 
+
+### [Andersen,Hans_Christian.protect](/_protect/bio/People/Writer/Andersen,Hans_Christian.protect.md) 
+
+### [Andersen,Hans_Christian.private](/_private/bio/People/Writer/Andersen,Hans_Christian.private.md) 
+
+### [Andersen,Hans_Christian.personal](/_personal/bio/People/Writer/Andersen,Hans_Christian.personal.md) 
+
+### [Andersen,Hans_Christian.secret](/_secret/bio/People/Writer/Andersen,Hans_Christian.secret.md)
+

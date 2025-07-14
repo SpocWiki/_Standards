@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [open_trial](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.md) 
+### [open_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.md) 
+
+### [open_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.public.md) 
 
 ### [open_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.internal.md) 
 
@@ -56,4 +59,5 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 ### [open_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.personal.md) 
 
-### [open_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.secret.md) 
+### [open_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.secret.md)
+

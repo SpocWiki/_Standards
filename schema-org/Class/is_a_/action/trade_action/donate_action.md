@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of providing goods, services, or money without compensation, often for p
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [donate_action](/_public/schema-org/Class/is_a_/action/trade_action/donate_action.md) 
+### [donate_action](/_Standards/schema-org/Class/is_a_/action/trade_action/donate_action.md) 
+
+### [donate_action.public](/_public/schema-org/Class/is_a_/action/trade_action/donate_action.public.md) 
 
 ### [donate_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/donate_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of providing goods, services, or money without compensation, often for p
 
 ### [donate_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/donate_action.personal.md) 
 
-### [donate_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/donate_action.secret.md) 
+### [donate_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/donate_action.secret.md)
+

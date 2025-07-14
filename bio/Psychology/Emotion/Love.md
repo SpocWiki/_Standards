@@ -91,3 +91,21 @@ Dewey_Decimal_Classification:
 > The color wheel theory of love defines three primary, three secondary, and nine tertiary love styles, describing them in terms of the traditional color wheel. The triangular theory of love suggests intimacy, passion, and commitment are core components of love. Love has additional religious or spiritual meaning. This diversity of uses and meanings, combined with the complexity of the feelings involved, makes love unusually difficult to consistently define, compared to other emotional states.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Love)
+
+
+## Confidential Links & Embeds: 
+
+### [Love](/_Standards/bio/Psychology/Emotion/Love.md) 
+
+### [Love.public](/_public/bio/Psychology/Emotion/Love.public.md) 
+
+### [Love.internal](/_internal/bio/Psychology/Emotion/Love.internal.md) 
+
+### [Love.protect](/_protect/bio/Psychology/Emotion/Love.protect.md) 
+
+### [Love.private](/_private/bio/Psychology/Emotion/Love.private.md) 
+
+### [Love.personal](/_personal/bio/Psychology/Emotion/Love.personal.md) 
+
+### [Love.secret](/_secret/bio/Psychology/Emotion/Love.secret.md)
+

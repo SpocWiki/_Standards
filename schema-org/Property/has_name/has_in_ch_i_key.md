@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_in_ch_i_key](/_public/schema-org/Property/has_name/has_in_ch_i_key.md) 
+### [has_in_ch_i_key](/_Standards/schema-org/Property/has_name/has_in_ch_i_key.md) 
+
+### [has_in_ch_i_key.public](/_public/schema-org/Property/has_name/has_in_ch_i_key.public.md) 
 
 ### [has_in_ch_i_key.internal](/_internal/schema-org/Property/has_name/has_in_ch_i_key.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_in_ch_i_key.personal](/_personal/schema-org/Property/has_name/has_in_ch_i_key.personal.md) 
 
-### [has_in_ch_i_key.secret](/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret.md) 
+### [has_in_ch_i_key.secret](/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret.md)
+

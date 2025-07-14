@@ -208,18 +208,19 @@ name_in_native_language: "David Hilbert"
 > [Wikipedia](https://en.wikipedia.org/wiki/David%20Hilbert)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hilbert,David](/_public/Mathematics/Mathematicians/Hilbert,David.md) 
+### [Hilbert,David](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.md) 
 
-### [Hilbert,David.internal](/_internal/Mathematics/Mathematicians/Hilbert,David.internal.md) 
+### [Hilbert,David.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.public.md) 
 
-### [Hilbert,David.protect](/_protect/Mathematics/Mathematicians/Hilbert,David.protect.md) 
+### [Hilbert,David.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.internal.md) 
 
-### [Hilbert,David.private](/_private/Mathematics/Mathematicians/Hilbert,David.private.md) 
+### [Hilbert,David.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.protect.md) 
 
-### [Hilbert,David.personal](/_personal/Mathematics/Mathematicians/Hilbert,David.personal.md) 
+### [Hilbert,David.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.private.md) 
 
-### [Hilbert,David.secret](/_secret/Mathematics/Mathematicians/Hilbert,David.secret.md) 
+### [Hilbert,David.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.personal.md) 
+
+### [Hilbert,David.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Hilbert,David.secret.md)
+

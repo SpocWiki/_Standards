@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An [[EmployerReview]] is a review of an [[Organization]] regarding its role as a
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EmployerReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.md) 
+### [FileClass~EmployerReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.md) 
+
+### [FileClass~EmployerReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.public.md) 
 
 ### [FileClass~EmployerReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.internal.md) 
 
@@ -46,4 +47,5 @@ An [[EmployerReview]] is a review of an [[Organization]] regarding its role as a
 
 ### [FileClass~EmployerReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.personal.md) 
 
-### [FileClass~EmployerReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.secret.md) 
+### [FileClass~EmployerReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~EmployerReview.secret.md)
+

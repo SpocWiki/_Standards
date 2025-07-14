@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [radio_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.md) 
+### [radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.md) 
+
+### [radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.public.md) 
 
 ### [radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.internal.md) 
 
@@ -56,4 +59,5 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 
 ### [radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.personal.md) 
 
-### [radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.secret.md) 
+### [radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel.secret.md)
+

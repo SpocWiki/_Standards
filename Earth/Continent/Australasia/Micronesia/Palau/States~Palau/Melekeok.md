@@ -1,4 +1,4 @@
-﻿---
+---
 location: [7.35,134.4667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -61,7 +61,9 @@ markerFolder: ./Melekeok/
 
 ## Confidential Links & Embeds: 
 
-### [Melekeok](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.md) 
+### [Melekeok](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.md) 
+
+### [Melekeok.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.public.md) 
 
 ### [Melekeok.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.internal.md) 
 
@@ -71,4 +73,5 @@ markerFolder: ./Melekeok/
 
 ### [Melekeok.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.personal.md) 
 
-### [Melekeok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.secret.md) 
+### [Melekeok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../
 ( #has_/name :: has_event )
 ( #has_/range :: [[../../Class/is_a_/event|Event]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_event](/_public/schema-org/Relation/has/has_event.md) 
+### [has_event](/_Standards/schema-org/Relation/has/has_event.md) 
+
+### [has_event.public](/_public/schema-org/Relation/has/has_event.public.md) 
 
 ### [has_event.internal](/_internal/schema-org/Relation/has/has_event.internal.md) 
 
@@ -57,4 +60,5 @@ Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../
 
 ### [has_event.personal](/_personal/schema-org/Relation/has/has_event.personal.md) 
 
-### [has_event.secret](/_secret/schema-org/Relation/has/has_event.secret.md) 
+### [has_event.secret](/_secret/schema-org/Relation/has/has_event.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_drive_wheel_configuration )
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_drive_wheel_configuration](/_public/schema-org/Relation/has/has_drive_wheel_configuration.md) 
+### [has_drive_wheel_configuration](/_Standards/schema-org/Relation/has/has_drive_wheel_configuration.md) 
+
+### [has_drive_wheel_configuration.public](/_public/schema-org/Relation/has/has_drive_wheel_configuration.public.md) 
 
 ### [has_drive_wheel_configuration.internal](/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_drive_wheel_configuration.personal](/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal.md) 
 
-### [has_drive_wheel_configuration.secret](/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret.md) 
+### [has_drive_wheel_configuration.secret](/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_pre_op )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_pre_op](/_public/schema-org/Property/Texts/has_pre_op.md) 
+### [has_pre_op](/_Standards/schema-org/Property/Texts/has_pre_op.md) 
+
+### [has_pre_op.public](/_public/schema-org/Property/Texts/has_pre_op.public.md) 
 
 ### [has_pre_op.internal](/_internal/schema-org/Property/Texts/has_pre_op.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_pre_op.personal](/_personal/schema-org/Property/Texts/has_pre_op.personal.md) 
 
-### [has_pre_op.secret](/_secret/schema-org/Property/Texts/has_pre_op.secret.md) 
+### [has_pre_op.secret](/_secret/schema-org/Property/Texts/has_pre_op.secret.md)
+

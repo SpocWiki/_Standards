@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_used_to_diagnose )
 ( #has_/range :: MedicalCondition )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_used_to_diagnose](/_public/schema-org/Relation/is/is_used_to_diagnose.md) 
+### [is_used_to_diagnose](/_Standards/schema-org/Relation/is/is_used_to_diagnose.md) 
+
+### [is_used_to_diagnose.public](/_public/schema-org/Relation/is/is_used_to_diagnose.public.md) 
 
 ### [is_used_to_diagnose.internal](/_internal/schema-org/Relation/is/is_used_to_diagnose.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_used_to_diagnose.personal](/_personal/schema-org/Relation/is/is_used_to_diagnose.personal.md) 
 
-### [is_used_to_diagnose.secret](/_secret/schema-org/Relation/is/is_used_to_diagnose.secret.md) 
+### [is_used_to_diagnose.secret](/_secret/schema-org/Relation/is/is_used_to_diagnose.secret.md)
+

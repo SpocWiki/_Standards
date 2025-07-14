@@ -721,10 +721,11 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 [has_place_latitude::46.8963]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Switzerland](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
+### [Switzerland](/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
+
+### [Switzerland.public](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public.md) 
 
 ### [Switzerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal.md) 
 
@@ -734,4 +735,5 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 
 ### [Switzerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal.md) 
 
-### [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md) 
+### [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md)
+

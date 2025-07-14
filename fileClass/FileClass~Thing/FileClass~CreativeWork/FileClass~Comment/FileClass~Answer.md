@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A step-by-step or full explanation about Answer. Can outline how this Answer was
 AnswerExplanation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Answer](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.md) 
+### [FileClass~Answer](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.md) 
+
+### [FileClass~Answer.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.public.md) 
 
 ### [FileClass~Answer.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.internal.md) 
 
@@ -57,4 +58,5 @@ AnswerExplanation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 
 ### [FileClass~Answer.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.personal.md) 
 
-### [FileClass~Answer.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.secret.md) 
+### [FileClass~Answer.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Answer.secret.md)
+

@@ -110,21 +110,19 @@ U.S. National Archives Identifier: "10638013"
 > [Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [[Capitalism]]
-### [Capitalism.public](/_public/Capitalism.public.md) 
+### [Capitalism](/_Standards/bio/Society/Ideology/Capitalism.md) 
 
-### [Capitalism.internal](/_internal/Capitalism.internal.md) 
+### [Capitalism.public](/_public/bio/Society/Ideology/Capitalism.public.md) 
 
-### [Capitalism.protect](/_protect/Capitalism.protect.md) 
+### [Capitalism.internal](/_internal/bio/Society/Ideology/Capitalism.internal.md) 
 
-### [Capitalism.private](/_private/Capitalism.private.md) 
+### [Capitalism.protect](/_protect/bio/Society/Ideology/Capitalism.protect.md) 
 
-### [Capitalism.personal](/_personal/Capitalism.personal.md) 
+### [Capitalism.private](/_private/bio/Society/Ideology/Capitalism.private.md) 
 
-### [Capitalism.secret](/_secret/Capitalism.secret.md) 
+### [Capitalism.personal](/_personal/bio/Society/Ideology/Capitalism.personal.md) 
 
-
+### [Capitalism.secret](/_secret/bio/Society/Ideology/Capitalism.secret.md)
 

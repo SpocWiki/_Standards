@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -34,9 +34,12 @@ Tag Instances like this:
 
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 
+
 ## Confidential Links & Embeds: 
 
-### [date](/_public/schema-org/Class/is_a_/data_type/date.md) 
+### [date](/_Standards/schema-org/Class/is_a_/data_type/date.md) 
+
+### [date.public](/_public/schema-org/Class/is_a_/data_type/date.public.md) 
 
 ### [date.internal](/_internal/schema-org/Class/is_a_/data_type/date.internal.md) 
 
@@ -46,4 +49,5 @@ A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date fo
 
 ### [date.personal](/_personal/schema-org/Class/is_a_/data_type/date.personal.md) 
 
-### [date.secret](/_secret/schema-org/Class/is_a_/data_type/date.secret.md) 
+### [date.secret](/_secret/schema-org/Class/is_a_/data_type/date.secret.md)
+

@@ -50,3 +50,21 @@ transportation to lower level taxa.
 Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C. (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
 of Kansas Press, Lawrence.
+
+
+## Confidential Links & Embeds: 
+
+### [Faviina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.md) 
+
+### [Faviina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.public.md) 
+
+### [Faviina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.internal.md) 
+
+### [Faviina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.protect.md) 
+
+### [Faviina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.private.md) 
+
+### [Faviina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.personal.md) 
+
+### [Faviina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Faviina.secret.md)
+

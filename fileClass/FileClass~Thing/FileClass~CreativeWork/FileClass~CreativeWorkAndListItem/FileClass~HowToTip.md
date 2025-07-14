@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An explanation in the instructions for how to achieve a result. It provides supp
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToTip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.md) 
+### [FileClass~HowToTip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.md) 
+
+### [FileClass~HowToTip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.public.md) 
 
 ### [FileClass~HowToTip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.internal.md) 
 
@@ -46,4 +47,5 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ### [FileClass~HowToTip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.personal.md) 
 
-### [FileClass~HowToTip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.secret.md) 
+### [FileClass~HowToTip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToTip.secret.md)
+

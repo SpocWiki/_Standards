@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An eCommerce site.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OnlineStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.md) 
+### [FileClass~OnlineStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.md) 
+
+### [FileClass~OnlineStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.public.md) 
 
 ### [FileClass~OnlineStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.internal.md) 
 
@@ -46,4 +47,5 @@ An eCommerce site.
 
 ### [FileClass~OnlineStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.personal.md) 
 
-### [FileClass~OnlineStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.secret.md) 
+### [FileClass~OnlineStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness/FileClass~OnlineStore.secret.md)
+

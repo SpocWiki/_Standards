@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Note that the application of these codes is with regard to a piece of media shar
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [media_manipulation_rating_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.md) 
+### [media_manipulation_rating_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.md) 
+
+### [media_manipulation_rating_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.public.md) 
 
 ### [media_manipulation_rating_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.internal.md) 
 
@@ -61,4 +64,5 @@ Note that the application of these codes is with regard to a piece of media shar
 
 ### [media_manipulation_rating_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.personal.md) 
 
-### [media_manipulation_rating_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.secret.md) 
+### [media_manipulation_rating_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration.secret.md)
+

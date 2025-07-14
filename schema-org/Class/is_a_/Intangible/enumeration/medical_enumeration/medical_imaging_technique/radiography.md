@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Radiography is an imaging technique that uses electromagnetic radiation other th
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [radiography](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.md) 
+### [radiography](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.md) 
+
+### [radiography.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.public.md) 
 
 ### [radiography.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.internal.md) 
 
@@ -56,4 +59,5 @@ Radiography is an imaging technique that uses electromagnetic radiation other th
 
 ### [radiography.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.personal.md) 
 
-### [radiography.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.secret.md) 
+### [radiography.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A tattoo parlor.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TattooParlor](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.md) 
+### [FileClass~TattooParlor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.md) 
+
+### [FileClass~TattooParlor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.public.md) 
 
 ### [FileClass~TattooParlor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.internal.md) 
 
@@ -46,4 +47,5 @@ A tattoo parlor.
 
 ### [FileClass~TattooParlor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.personal.md) 
 
-### [FileClass~TattooParlor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.secret.md) 
+### [FileClass~TattooParlor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~TattooParlor.secret.md)
+

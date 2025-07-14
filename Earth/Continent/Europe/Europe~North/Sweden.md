@@ -676,9 +676,12 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sweden)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sweden](/_public/Earth/Continent/Europe/Europe~North/Sweden.md) 
+### [Sweden](/_Standards/Earth/Continent/Europe/Europe~North/Sweden.md) 
+
+### [Sweden.public](/_public/Earth/Continent/Europe/Europe~North/Sweden.public.md) 
 
 ### [Sweden.internal](/_internal/Earth/Continent/Europe/Europe~North/Sweden.internal.md) 
 
@@ -688,4 +691,5 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 
 ### [Sweden.personal](/_personal/Earth/Continent/Europe/Europe~North/Sweden.personal.md) 
 
-### [Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden.secret.md) 
+### [Sweden.secret](/_secret/Earth/Continent/Europe/Europe~North/Sweden.secret.md)
+

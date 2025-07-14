@@ -133,3 +133,22 @@ Venter of acariform mite (Sarcoptiformes: Oribatida, Lohmanniidae:
   --------
   Copyright ::   © 1998 D. Walter
   --------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Acariformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.md) 
+
+### [Acariformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.public.md) 
+
+### [Acariformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.internal.md) 
+
+### [Acariformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.protect.md) 
+
+### [Acariformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.private.md) 
+
+### [Acariformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.personal.md) 
+
+### [Acariformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes.secret.md)
+

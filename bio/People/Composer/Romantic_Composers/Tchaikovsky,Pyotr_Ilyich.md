@@ -166,3 +166,22 @@ NLC_authorities: 000173353
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyotr%20Ilyich%20Tchaikovsky)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tchaikovsky,Pyotr_Ilyich](/_Standards/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.public](/_public/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.public.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.internal](/_internal/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.internal.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.protect](/_protect/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.protect.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.private](/_private/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.private.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.personal](/_personal/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.personal.md) 
+
+### [Tchaikovsky,Pyotr_Ilyich.secret](/_secret/bio/People/Composer/Romantic_Composers/Tchaikovsky,Pyotr_Ilyich.secret.md)
+

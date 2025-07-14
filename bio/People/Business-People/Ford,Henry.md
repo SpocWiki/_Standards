@@ -46,3 +46,21 @@ has_id_wikidata: Q8768
 > and control of the company to his family.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Ford)
+
+
+## Confidential Links & Embeds: 
+
+### [Ford,Henry](/_Standards/bio/People/Business-People/Ford,Henry.md) 
+
+### [Ford,Henry.public](/_public/bio/People/Business-People/Ford,Henry.public.md) 
+
+### [Ford,Henry.internal](/_internal/bio/People/Business-People/Ford,Henry.internal.md) 
+
+### [Ford,Henry.protect](/_protect/bio/People/Business-People/Ford,Henry.protect.md) 
+
+### [Ford,Henry.private](/_private/bio/People/Business-People/Ford,Henry.private.md) 
+
+### [Ford,Henry.personal](/_personal/bio/People/Business-People/Ford,Henry.personal.md) 
+
+### [Ford,Henry.secret](/_secret/bio/People/Business-People/Ford,Henry.secret.md)
+

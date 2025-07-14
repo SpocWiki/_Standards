@@ -98,3 +98,21 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Size                 Spider body length ca. 13 mm.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Pimoidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.md) 
+
+### [Pimoidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.public.md) 
+
+### [Pimoidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.internal.md) 
+
+### [Pimoidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.protect.md) 
+
+### [Pimoidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.private.md) 
+
+### [Pimoidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.personal.md) 
+
+### [Pimoidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Pimoidae.secret.md)
+

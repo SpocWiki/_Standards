@@ -383,9 +383,12 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20the%20Congo)
 
+
 ## Confidential Links & Embeds: 
 
-### [Congo~Brazzaville](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.md) 
+### [Congo~Brazzaville](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.md) 
+
+### [Congo~Brazzaville.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public.md) 
 
 ### [Congo~Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal.md) 
 
@@ -395,4 +398,5 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 ### [Congo~Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal.md) 
 
-### [Congo~Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret.md) 
+### [Congo~Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret.md)
+

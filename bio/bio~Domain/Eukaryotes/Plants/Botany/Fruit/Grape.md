@@ -67,3 +67,22 @@ UNII: 6X543N684K
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grape)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Grape](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.md) 
+
+### [Grape.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.public.md) 
+
+### [Grape.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.internal.md) 
+
+### [Grape.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.protect.md) 
+
+### [Grape.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.private.md) 
+
+### [Grape.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.personal.md) 
+
+### [Grape.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Grape.secret.md)
+

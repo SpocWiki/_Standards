@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A college, university, or other third-level educational institution.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CollegeOrUniversity](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.md) 
+### [FileClass~CollegeOrUniversity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.md) 
+
+### [FileClass~CollegeOrUniversity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.public.md) 
 
 ### [FileClass~CollegeOrUniversity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.internal.md) 
 
@@ -46,4 +47,5 @@ A college, university, or other third-level educational institution.
 
 ### [FileClass~CollegeOrUniversity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.personal.md) 
 
-### [FileClass~CollegeOrUniversity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret.md) 
+### [FileClass~CollegeOrUniversity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret.md)
+

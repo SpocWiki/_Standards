@@ -435,9 +435,12 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oman)
 
+
 ## Confidential Links & Embeds: 
 
-### [Oman](/_public/Earth/Continent/Asia/Asia~West/Oman.md) 
+### [Oman](/_Standards/Earth/Continent/Asia/Asia~West/Oman.md) 
+
+### [Oman.public](/_public/Earth/Continent/Asia/Asia~West/Oman.public.md) 
 
 ### [Oman.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman.internal.md) 
 
@@ -447,4 +450,5 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 
 ### [Oman.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman.personal.md) 
 
-### [Oman.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman.secret.md) 
+### [Oman.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman.secret.md)
+

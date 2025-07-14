@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [tobacco_nicotine_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.md) 
+### [tobacco_nicotine_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.md) 
+
+### [tobacco_nicotine_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.public.md) 
 
 ### [tobacco_nicotine_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 
 ### [tobacco_nicotine_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.personal.md) 
 
-### [tobacco_nicotine_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.secret.md) 
+### [tobacco_nicotine_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.secret.md)
+

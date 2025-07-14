@@ -60,10 +60,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~1~Siderian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.md) 
+### [Period~1~Siderian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.md) 
+
+### [Period~1~Siderian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.public.md) 
 
 ### [Period~1~Siderian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.internal.md) 
 
@@ -73,4 +74,5 @@ noteOnly: true
 
 ### [Period~1~Siderian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.personal.md) 
 
-### [Period~1~Siderian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.secret.md) 
+### [Period~1~Siderian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.secret.md)
+

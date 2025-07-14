@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Georg Cantor
 ---
@@ -58,19 +58,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Cantor)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Cantor,Georg](/_public/Mathematics/Mathematicians/Cantor,Georg.md) 
+### [Cantor,Georg](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.md) 
 
-### [Cantor,Georg.internal](/_internal/Mathematics/Mathematicians/Cantor,Georg.internal.md) 
+### [Cantor,Georg.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.public.md) 
 
-### [Cantor,Georg.protect](/_protect/Mathematics/Mathematicians/Cantor,Georg.protect.md) 
+### [Cantor,Georg.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.internal.md) 
 
-### [Cantor,Georg.private](/_private/Mathematics/Mathematicians/Cantor,Georg.private.md) 
+### [Cantor,Georg.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.protect.md) 
 
-### [Cantor,Georg.personal](/_personal/Mathematics/Mathematicians/Cantor,Georg.personal.md) 
+### [Cantor,Georg.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.private.md) 
 
-### [Cantor,Georg.secret](/_secret/Mathematics/Mathematicians/Cantor,Georg.secret.md) 
+### [Cantor,Georg.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.personal.md) 
+
+### [Cantor,Georg.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Cantor,Georg.secret.md)
+

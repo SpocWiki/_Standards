@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_available_channel )
 ( #has_/range :: ServiceChannel )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_available_channel](/_public/schema-org/Relation/has/has_available_channel.md) 
+### [has_available_channel](/_Standards/schema-org/Relation/has/has_available_channel.md) 
+
+### [has_available_channel.public](/_public/schema-org/Relation/has/has_available_channel.public.md) 
 
 ### [has_available_channel.internal](/_internal/schema-org/Relation/has/has_available_channel.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_available_channel.personal](/_personal/schema-org/Relation/has/has_available_channel.personal.md) 
 
-### [has_available_channel.secret](/_secret/schema-org/Relation/has/has_available_channel.secret.md) 
+### [has_available_channel.secret](/_secret/schema-org/Relation/has/has_available_channel.secret.md)
+

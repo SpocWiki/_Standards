@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A movie rental store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovieRentalStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.md) 
+### [FileClass~MovieRentalStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.md) 
+
+### [FileClass~MovieRentalStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.public.md) 
 
 ### [FileClass~MovieRentalStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.internal.md) 
 
@@ -46,4 +47,5 @@ A movie rental store.
 
 ### [FileClass~MovieRentalStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.personal.md) 
 
-### [FileClass~MovieRentalStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.secret.md) 
+### [FileClass~MovieRentalStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.secret.md)
+

@@ -21,3 +21,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maltose)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Maltose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.md) 
+
+### [Maltose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.public.md) 
+
+### [Maltose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.internal.md) 
+
+### [Maltose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.protect.md) 
+
+### [Maltose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.private.md) 
+
+### [Maltose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.personal.md) 
+
+### [Maltose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Maltose.secret.md)
+

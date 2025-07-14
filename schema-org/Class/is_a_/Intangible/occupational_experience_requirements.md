@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates employment-related experience requirements, e.g. [[monthsOfExperience]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [occupational_experience_requirements](/_public/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.md) 
+### [occupational_experience_requirements](/_Standards/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.md) 
+
+### [occupational_experience_requirements.public](/_public/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.public.md) 
 
 ### [occupational_experience_requirements.internal](/_internal/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates employment-related experience requirements, e.g. [[monthsOfExperience]
 
 ### [occupational_experience_requirements.personal](/_personal/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.personal.md) 
 
-### [occupational_experience_requirements.secret](/_secret/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.secret.md) 
+### [occupational_experience_requirements.secret](/_secret/schema-org/Class/is_a_/Intangible/occupational_experience_requirements.secret.md)
+

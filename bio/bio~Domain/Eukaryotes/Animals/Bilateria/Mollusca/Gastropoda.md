@@ -71,3 +71,22 @@ Creator           P. Crawford, UPEI
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gastropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.md) 
+
+### [Gastropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.public.md) 
+
+### [Gastropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.internal.md) 
+
+### [Gastropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.protect.md) 
+
+### [Gastropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.private.md) 
+
+### [Gastropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.personal.md) 
+
+### [Gastropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda.secret.md)
+

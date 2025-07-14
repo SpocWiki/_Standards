@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, competencyRequired, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, credentialCategory, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recognizedBy, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, validFor, validIn, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [educational_occupational_credential](/_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.md) 
+### [educational_occupational_credential](/_Standards/schema-org/Class/is_a_/creative_work/educational_occupational_credential.md) 
+
+### [educational_occupational_credential.public](/_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.public.md) 
 
 ### [educational_occupational_credential.internal](/_internal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.internal.md) 
 
@@ -56,4 +59,5 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 ### [educational_occupational_credential.personal](/_personal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.personal.md) 
 
-### [educational_occupational_credential.secret](/_secret/schema-org/Class/is_a_/creative_work/educational_occupational_credential.secret.md) 
+### [educational_occupational_credential.secret](/_secret/schema-org/Class/is_a_/creative_work/educational_occupational_credential.secret.md)
+

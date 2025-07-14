@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [computer_language](/_public/schema-org/Class/is_a_/Intangible/computer_language.md) 
+### [computer_language](/_Standards/schema-org/Class/is_a_/Intangible/computer_language.md) 
+
+### [computer_language.public](/_public/schema-org/Class/is_a_/Intangible/computer_language.public.md) 
 
 ### [computer_language.internal](/_internal/schema-org/Class/is_a_/Intangible/computer_language.internal.md) 
 
@@ -54,4 +57,5 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 ### [computer_language.personal](/_personal/schema-org/Class/is_a_/Intangible/computer_language.personal.md) 
 
-### [computer_language.secret](/_secret/schema-org/Class/is_a_/Intangible/computer_language.secret.md) 
+### [computer_language.secret](/_secret/schema-org/Class/is_a_/Intangible/computer_language.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,10 +63,11 @@ The subchannel used for the broadcast.
 BroadcastSubChannel:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BroadcastFrequencySpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.md) 
+### [FileClass~BroadcastFrequencySpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.md) 
+
+### [FileClass~BroadcastFrequencySpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.public.md) 
 
 ### [FileClass~BroadcastFrequencySpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.internal.md) 
 
@@ -76,4 +77,5 @@ BroadcastSubChannel:: {"type":"Input","options":{}}
 
 ### [FileClass~BroadcastFrequencySpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.personal.md) 
 
-### [FileClass~BroadcastFrequencySpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.secret.md) 
+### [FileClass~BroadcastFrequencySpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.secret.md)
+

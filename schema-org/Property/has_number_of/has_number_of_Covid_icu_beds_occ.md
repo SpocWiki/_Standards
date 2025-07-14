@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_icu_beds_occ )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_icu_beds_occ](/_public/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.md) 
+### [has_number_of_Covid_icu_beds_occ](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.md) 
+
+### [has_number_of_Covid_icu_beds_occ.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.public.md) 
 
 ### [has_number_of_Covid_icu_beds_occ.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_Covid_icu_beds_occ.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.personal.md) 
 
-### [has_number_of_Covid_icu_beds_occ.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.secret.md) 
+### [has_number_of_Covid_icu_beds_occ.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_icu_beds_occ.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_expects_acceptance_of )
 ( #has_/range :: Offer )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_expecting_acceptance_of](/_public/schema-org/Relation/is/is_expecting_acceptance_of.md) 
+### [is_expecting_acceptance_of](/_Standards/schema-org/Relation/is/is_expecting_acceptance_of.md) 
+
+### [is_expecting_acceptance_of.public](/_public/schema-org/Relation/is/is_expecting_acceptance_of.public.md) 
 
 ### [is_expecting_acceptance_of.internal](/_internal/schema-org/Relation/is/is_expecting_acceptance_of.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_expecting_acceptance_of.personal](/_personal/schema-org/Relation/is/is_expecting_acceptance_of.personal.md) 
 
-### [is_expecting_acceptance_of.secret](/_secret/schema-org/Relation/is/is_expecting_acceptance_of.secret.md) 
+### [is_expecting_acceptance_of.secret](/_secret/schema-org/Relation/is/is_expecting_acceptance_of.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -78,10 +78,11 @@ The typical delay the order has been sent for delivery and the goods reach the f
 TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShippingDeliveryTime](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.md) 
+### [FileClass~ShippingDeliveryTime](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.md) 
+
+### [FileClass~ShippingDeliveryTime.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.public.md) 
 
 ### [FileClass~ShippingDeliveryTime.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.internal.md) 
 
@@ -91,4 +92,5 @@ TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ### [FileClass~ShippingDeliveryTime.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.personal.md) 
 
-### [FileClass~ShippingDeliveryTime.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.secret.md) 
+### [FileClass~ShippingDeliveryTime.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.secret.md)
+

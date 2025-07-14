@@ -583,9 +583,12 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nepal)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nepal](/_public/Earth/Continent/Asia/Asia~South/Nepal.md) 
+### [Nepal](/_Standards/Earth/Continent/Asia/Asia~South/Nepal.md) 
+
+### [Nepal.public](/_public/Earth/Continent/Asia/Asia~South/Nepal.public.md) 
 
 ### [Nepal.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal.internal.md) 
 
@@ -595,4 +598,5 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 
 ### [Nepal.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal.personal.md) 
 
-### [Nepal.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal.secret.md) 
+### [Nepal.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal.secret.md)
+

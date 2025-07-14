@@ -17,3 +17,22 @@ has_id_wikidata: Q12214
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Smallpox)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Smallpox](/_Standards/bio/Medicine/Disease/Infectious_Disease/Smallpox.md) 
+
+### [Smallpox.public](/_public/bio/Medicine/Disease/Infectious_Disease/Smallpox.public.md) 
+
+### [Smallpox.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Smallpox.internal.md) 
+
+### [Smallpox.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Smallpox.protect.md) 
+
+### [Smallpox.private](/_private/bio/Medicine/Disease/Infectious_Disease/Smallpox.private.md) 
+
+### [Smallpox.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Smallpox.personal.md) 
+
+### [Smallpox.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Smallpox.secret.md)
+

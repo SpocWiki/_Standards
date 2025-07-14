@@ -124,9 +124,12 @@ SpocWebEntityId: 21923
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanadium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Vanadium](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
+### [Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
+
+### [Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.public.md) 
 
 ### [Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.internal.md) 
 
@@ -136,4 +139,5 @@ SpocWebEntityId: 21923
 
 ### [Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.personal.md) 
 
-### [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md) 
+### [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md)
+

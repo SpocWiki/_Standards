@@ -133,3 +133,22 @@ aliases:
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
   ------------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sapindales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.md) 
+
+### [Sapindales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.public.md) 
+
+### [Sapindales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.internal.md) 
+
+### [Sapindales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.protect.md) 
+
+### [Sapindales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.private.md) 
+
+### [Sapindales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.personal.md) 
+
+### [Sapindales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales.secret.md)
+

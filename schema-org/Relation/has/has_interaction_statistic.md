@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Relation describes that:
 
 `Supersedes` `has_interaction_count`.
 
+
 ## Confidential Links & Embeds: 
 
-### [has_interaction_statistic](/_public/schema-org/Relation/has/has_interaction_statistic.md) 
+### [has_interaction_statistic](/_Standards/schema-org/Relation/has/has_interaction_statistic.md) 
+
+### [has_interaction_statistic.public](/_public/schema-org/Relation/has/has_interaction_statistic.public.md) 
 
 ### [has_interaction_statistic.internal](/_internal/schema-org/Relation/has/has_interaction_statistic.internal.md) 
 
@@ -59,4 +62,5 @@ Relation describes that:
 
 ### [has_interaction_statistic.personal](/_personal/schema-org/Relation/has/has_interaction_statistic.personal.md) 
 
-### [has_interaction_statistic.secret](/_secret/schema-org/Relation/has/has_interaction_statistic.secret.md) 
+### [has_interaction_statistic.secret](/_secret/schema-org/Relation/has/has_interaction_statistic.secret.md)
+

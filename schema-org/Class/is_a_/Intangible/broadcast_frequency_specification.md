@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [broadcast_frequency_specification](/_public/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.md) 
+### [broadcast_frequency_specification](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.md) 
+
+### [broadcast_frequency_specification.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.public.md) 
 
 ### [broadcast_frequency_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.internal.md) 
 
@@ -54,4 +57,5 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 
 ### [broadcast_frequency_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.personal.md) 
 
-### [broadcast_frequency_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.secret.md) 
+### [broadcast_frequency_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_frequency_specification.secret.md)
+

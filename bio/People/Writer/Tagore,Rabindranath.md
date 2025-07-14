@@ -54,3 +54,21 @@ has_id_wikidata: Q7241
 > His song "Banglar Mati Banglar Jol" has been adopted as the state anthem of West Bengal.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rabindranath%20Tagore)
+
+
+## Confidential Links & Embeds: 
+
+### [Tagore,Rabindranath](/_Standards/bio/People/Writer/Tagore,Rabindranath.md) 
+
+### [Tagore,Rabindranath.public](/_public/bio/People/Writer/Tagore,Rabindranath.public.md) 
+
+### [Tagore,Rabindranath.internal](/_internal/bio/People/Writer/Tagore,Rabindranath.internal.md) 
+
+### [Tagore,Rabindranath.protect](/_protect/bio/People/Writer/Tagore,Rabindranath.protect.md) 
+
+### [Tagore,Rabindranath.private](/_private/bio/People/Writer/Tagore,Rabindranath.private.md) 
+
+### [Tagore,Rabindranath.personal](/_personal/bio/People/Writer/Tagore,Rabindranath.personal.md) 
+
+### [Tagore,Rabindranath.secret](/_secret/bio/People/Writer/Tagore,Rabindranath.secret.md)
+

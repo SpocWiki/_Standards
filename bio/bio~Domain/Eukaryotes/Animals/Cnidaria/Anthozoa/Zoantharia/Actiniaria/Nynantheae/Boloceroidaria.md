@@ -56,3 +56,21 @@ Photo copyright © 2000, Ron Ates.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
+
+
+## Confidential Links & Embeds: 
+
+### [Boloceroidaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.md) 
+
+### [Boloceroidaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.public.md) 
+
+### [Boloceroidaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.internal.md) 
+
+### [Boloceroidaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.protect.md) 
+
+### [Boloceroidaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.private.md) 
+
+### [Boloceroidaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.personal.md) 
+
+### [Boloceroidaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.secret.md)
+

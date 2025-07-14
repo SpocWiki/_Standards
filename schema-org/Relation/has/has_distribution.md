@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_distribution )
 ( #has_/range :: DataDownload )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_distribution](/_public/schema-org/Relation/has/has_distribution.md) 
+### [has_distribution](/_Standards/schema-org/Relation/has/has_distribution.md) 
+
+### [has_distribution.public](/_public/schema-org/Relation/has/has_distribution.public.md) 
 
 ### [has_distribution.internal](/_internal/schema-org/Relation/has/has_distribution.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_distribution.personal](/_personal/schema-org/Relation/has/has_distribution.personal.md) 
 
-### [has_distribution.secret](/_secret/schema-org/Relation/has/has_distribution.secret.md) 
+### [has_distribution.secret](/_secret/schema-org/Relation/has/has_distribution.secret.md)
+

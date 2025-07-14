@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_distinguishing_sign )
 ( #has_/range :: MedicalSignOrSymptom )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_distinguishing_sign](/_public/schema-org/Relation/has/has_distinguishing_sign.md) 
+### [has_distinguishing_sign](/_Standards/schema-org/Relation/has/has_distinguishing_sign.md) 
+
+### [has_distinguishing_sign.public](/_public/schema-org/Relation/has/has_distinguishing_sign.public.md) 
 
 ### [has_distinguishing_sign.internal](/_internal/schema-org/Relation/has/has_distinguishing_sign.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_distinguishing_sign.personal](/_personal/schema-org/Relation/has/has_distinguishing_sign.personal.md) 
 
-### [has_distinguishing_sign.secret](/_secret/schema-org/Relation/has/has_distinguishing_sign.secret.md) 
+### [has_distinguishing_sign.secret](/_secret/schema-org/Relation/has/has_distinguishing_sign.secret.md)
+

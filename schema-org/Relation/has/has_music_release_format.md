@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_music_release_format )
 ( #has_/range :: MusicReleaseFormatType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_music_release_format](/_public/schema-org/Relation/has/has_music_release_format.md) 
+### [has_music_release_format](/_Standards/schema-org/Relation/has/has_music_release_format.md) 
+
+### [has_music_release_format.public](/_public/schema-org/Relation/has/has_music_release_format.public.md) 
 
 ### [has_music_release_format.internal](/_internal/schema-org/Relation/has/has_music_release_format.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_music_release_format.personal](/_personal/schema-org/Relation/has/has_music_release_format.personal.md) 
 
-### [has_music_release_format.secret](/_secret/schema-org/Relation/has/has_music_release_format.secret.md) 
+### [has_music_release_format.secret](/_secret/schema-org/Relation/has/has_music_release_format.secret.md)
+

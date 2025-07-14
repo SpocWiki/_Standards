@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_associated_media )
 ( #has_/range :: MediaObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_associated_media](/_public/schema-org/Relation/has/has_associated_media.md) 
+### [has_associated_media](/_Standards/schema-org/Relation/has/has_associated_media.md) 
+
+### [has_associated_media.public](/_public/schema-org/Relation/has/has_associated_media.public.md) 
 
 ### [has_associated_media.internal](/_internal/schema-org/Relation/has/has_associated_media.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_associated_media.personal](/_personal/schema-org/Relation/has/has_associated_media.personal.md) 
 
-### [has_associated_media.secret](/_secret/schema-org/Relation/has/has_associated_media.secret.md) 
+### [has_associated_media.secret](/_secret/schema-org/Relation/has/has_associated_media.secret.md)
+

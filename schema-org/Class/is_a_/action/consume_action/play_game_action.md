@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of playing a video game.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, gameAvailabilityType, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [play_game_action](/_public/schema-org/Class/is_a_/action/consume_action/play_game_action.md) 
+### [play_game_action](/_Standards/schema-org/Class/is_a_/action/consume_action/play_game_action.md) 
+
+### [play_game_action.public](/_public/schema-org/Class/is_a_/action/consume_action/play_game_action.public.md) 
 
 ### [play_game_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/play_game_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of playing a video game.
 
 ### [play_game_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/play_game_action.personal.md) 
 
-### [play_game_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/play_game_action.secret.md) 
+### [play_game_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/play_game_action.secret.md)
+

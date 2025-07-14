@@ -851,10 +851,11 @@ Capital :: [[Paris]]
 [has_place_latitude::46.8944]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [France](/_public/Earth/Continent/Europe/Europe~West/France.md) 
+### [France](/_Standards/Earth/Continent/Europe/Europe~West/France.md) 
+
+### [France.public](/_public/Earth/Continent/Europe/Europe~West/France.public.md) 
 
 ### [France.internal](/_internal/Earth/Continent/Europe/Europe~West/France.internal.md) 
 
@@ -864,4 +865,5 @@ Capital :: [[Paris]]
 
 ### [France.personal](/_personal/Earth/Continent/Europe/Europe~West/France.personal.md) 
 
-### [France.secret](/_secret/Earth/Continent/Europe/Europe~West/France.secret.md) 
+### [France.secret](/_secret/Earth/Continent/Europe/Europe~West/France.secret.md)
+

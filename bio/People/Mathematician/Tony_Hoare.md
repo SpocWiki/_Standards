@@ -1,4 +1,4 @@
-﻿
+
 ## #has_/text_of_/abstract 
 
 > Sir Charles Antony Richard Hoare , also known as Tony Hoare or by his initials C. A. R. Hoare 
@@ -104,14 +104,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Tony_Hoare](/_public/Mathematics/Mathematicians/Tony_Hoare.md) 
+### [Tony_Hoare](/_Standards/bio/People/Mathematician/Tony_Hoare.md) 
 
-### [Tony_Hoare.internal](/_internal/Mathematics/Mathematicians/Tony_Hoare.internal.md) 
+### [Tony_Hoare.public](/_public/bio/People/Mathematician/Tony_Hoare.public.md) 
 
-### [Tony_Hoare.protect](/_protect/Mathematics/Mathematicians/Tony_Hoare.protect.md) 
+### [Tony_Hoare.internal](/_internal/bio/People/Mathematician/Tony_Hoare.internal.md) 
 
-### [Tony_Hoare.private](/_private/Mathematics/Mathematicians/Tony_Hoare.private.md) 
+### [Tony_Hoare.protect](/_protect/bio/People/Mathematician/Tony_Hoare.protect.md) 
 
-### [Tony_Hoare.personal](/_personal/Mathematics/Mathematicians/Tony_Hoare.personal.md) 
+### [Tony_Hoare.private](/_private/bio/People/Mathematician/Tony_Hoare.private.md) 
 
-### [Tony_Hoare.secret](/_secret/Mathematics/Mathematicians/Tony_Hoare.secret.md) 
+### [Tony_Hoare.personal](/_personal/bio/People/Mathematician/Tony_Hoare.personal.md) 
+
+### [Tony_Hoare.secret](/_secret/bio/People/Mathematician/Tony_Hoare.secret.md)
+

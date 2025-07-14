@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21993
 has_id_wikidata: Q1888
@@ -105,7 +105,9 @@ Unicode_character: 鉲
 
 ## Confidential Links & Embeds: 
 
-### [Californium](/_public/chemic/chemic~Elements/Actinide-Group/Californium.md) 
+### [Californium](/_Standards/chemic/chemic~Elements/Actinide-Group/Californium.md) 
+
+### [Californium.public](/_public/chemic/chemic~Elements/Actinide-Group/Californium.public.md) 
 
 ### [Californium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Californium.internal.md) 
 
@@ -115,4 +117,5 @@ Unicode_character: 鉲
 
 ### [Californium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Californium.personal.md) 
 
-### [Californium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Californium.secret.md) 
+### [Californium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Californium.secret.md)
+

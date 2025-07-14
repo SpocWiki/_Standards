@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_engine_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_engine_type](/_public/schema-org/Relation/has/has_engine_type.md) 
+### [has_engine_type](/_Standards/schema-org/Relation/has/has_engine_type.md) 
+
+### [has_engine_type.public](/_public/schema-org/Relation/has/has_engine_type.public.md) 
 
 ### [has_engine_type.internal](/_internal/schema-org/Relation/has/has_engine_type.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_engine_type.personal](/_personal/schema-org/Relation/has/has_engine_type.personal.md) 
 
-### [has_engine_type.secret](/_secret/schema-org/Relation/has/has_engine_type.secret.md) 
+### [has_engine_type.secret](/_secret/schema-org/Relation/has/has_engine_type.secret.md)
+

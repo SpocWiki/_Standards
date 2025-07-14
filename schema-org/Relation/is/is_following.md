@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_following )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_following](/_public/schema-org/Relation/is/is_following.md) 
+### [is_following](/_Standards/schema-org/Relation/is/is_following.md) 
+
+### [is_following.public](/_public/schema-org/Relation/is/is_following.public.md) 
 
 ### [is_following.internal](/_internal/schema-org/Relation/is/is_following.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_following.personal](/_personal/schema-org/Relation/is/is_following.personal.md) 
 
-### [is_following.secret](/_secret/schema-org/Relation/is/is_following.secret.md) 
+### [is_following.secret](/_secret/schema-org/Relation/is/is_following.secret.md)
+

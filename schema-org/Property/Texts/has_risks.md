@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_risks )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_risks](/_public/schema-org/Property/Texts/has_risks.md) 
+### [has_risks](/_Standards/schema-org/Property/Texts/has_risks.md) 
+
+### [has_risks.public](/_public/schema-org/Property/Texts/has_risks.public.md) 
 
 ### [has_risks.internal](/_internal/schema-org/Property/Texts/has_risks.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_risks.personal](/_personal/schema-org/Property/Texts/has_risks.personal.md) 
 
-### [has_risks.secret](/_secret/schema-org/Property/Texts/has_risks.secret.md) 
+### [has_risks.secret](/_secret/schema-org/Property/Texts/has_risks.secret.md)
+

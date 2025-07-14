@@ -225,3 +225,22 @@ name_in_native_language: "William Shakespeare"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Shakespeare)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Shakespeare,William](/_Standards/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.md) 
+
+### [Shakespeare,William.public](/_public/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.public.md) 
+
+### [Shakespeare,William.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.internal.md) 
+
+### [Shakespeare,William.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.protect.md) 
+
+### [Shakespeare,William.private](/_private/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.private.md) 
+
+### [Shakespeare,William.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.personal.md) 
+
+### [Shakespeare,William.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Shakespeare,William.secret.md)
+

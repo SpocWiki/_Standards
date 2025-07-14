@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_associated_anatomy )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_associated_anatomy](/_public/schema-org/Relation/has/has_associated_anatomy.md) 
+### [has_associated_anatomy](/_Standards/schema-org/Relation/has/has_associated_anatomy.md) 
+
+### [has_associated_anatomy.public](/_public/schema-org/Relation/has/has_associated_anatomy.public.md) 
 
 ### [has_associated_anatomy.internal](/_internal/schema-org/Relation/has/has_associated_anatomy.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_associated_anatomy.personal](/_personal/schema-org/Relation/has/has_associated_anatomy.personal.md) 
 
-### [has_associated_anatomy.secret](/_secret/schema-org/Relation/has/has_associated_anatomy.secret.md) 
+### [has_associated_anatomy.secret](/_secret/schema-org/Relation/has/has_associated_anatomy.secret.md)
+

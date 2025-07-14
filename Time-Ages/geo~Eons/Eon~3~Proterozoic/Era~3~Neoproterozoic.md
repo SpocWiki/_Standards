@@ -108,10 +108,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~3~Neoproterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.md) 
+### [Era~3~Neoproterozoic](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.md) 
+
+### [Era~3~Neoproterozoic.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.public.md) 
 
 ### [Era~3~Neoproterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.internal.md) 
 
@@ -121,4 +122,5 @@ noteOnly: true
 
 ### [Era~3~Neoproterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.personal.md) 
 
-### [Era~3~Neoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.secret.md) 
+### [Era~3~Neoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.secret.md)
+

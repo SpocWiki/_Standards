@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A radio episode which can be part of a series or season.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RadioEpisode](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.md) 
+### [FileClass~RadioEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.md) 
+
+### [FileClass~RadioEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.public.md) 
 
 ### [FileClass~RadioEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.internal.md) 
 
@@ -46,4 +47,5 @@ A radio episode which can be part of a series or season.
 
 ### [FileClass~RadioEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.personal.md) 
 
-### [FileClass~RadioEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.secret.md) 
+### [FileClass~RadioEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~RadioEpisode.secret.md)
+

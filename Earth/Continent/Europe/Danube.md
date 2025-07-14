@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1653
 tributary:
 - '[[_Standards/WikiData/WD~Isar,106588]]'
@@ -426,4 +426,23 @@ Image_Archive_Herder_Institute: Q1653
 > The Danube river basin is home to such fish species as pike, zander, huchen, Wels catfish, burbot and tench. It is also home to numerous diverse carp and sturgeon, as well as salmon and trout. A few species of euryhaline fish, such as European seabass, mullet, and eel, inhabit the Danube Delta and the lower portion of the river.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Danube) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Danube](/_Standards/Earth/Continent/Europe/Danube.md) 
+
+### [Danube.public](/_public/Earth/Continent/Europe/Danube.public.md) 
+
+### [Danube.internal](/_internal/Earth/Continent/Europe/Danube.internal.md) 
+
+### [Danube.protect](/_protect/Earth/Continent/Europe/Danube.protect.md) 
+
+### [Danube.private](/_private/Earth/Continent/Europe/Danube.private.md) 
+
+### [Danube.personal](/_personal/Earth/Continent/Europe/Danube.personal.md) 
+
+### [Danube.secret](/_secret/Earth/Continent/Europe/Danube.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_delivery_status )
 ( #has_/range :: DeliveryEvent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_delivery_status](/_public/schema-org/Relation/has/has_delivery_status.md) 
+### [has_delivery_status](/_Standards/schema-org/Relation/has/has_delivery_status.md) 
+
+### [has_delivery_status.public](/_public/schema-org/Relation/has/has_delivery_status.public.md) 
 
 ### [has_delivery_status.internal](/_internal/schema-org/Relation/has/has_delivery_status.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_delivery_status.personal](/_personal/schema-org/Relation/has/has_delivery_status.personal.md) 
 
-### [has_delivery_status.secret](/_secret/schema-org/Relation/has/has_delivery_status.secret.md) 
+### [has_delivery_status.secret](/_secret/schema-org/Relation/has/has_delivery_status.secret.md)
+

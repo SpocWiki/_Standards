@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A sidebar section of the page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WPSideBar](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.md) 
+### [FileClass~WPSideBar](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.md) 
+
+### [FileClass~WPSideBar.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.public.md) 
 
 ### [FileClass~WPSideBar.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.internal.md) 
 
@@ -46,4 +47,5 @@ A sidebar section of the page.
 
 ### [FileClass~WPSideBar.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.personal.md) 
 
-### [FileClass~WPSideBar.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.secret.md) 
+### [FileClass~WPSideBar.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPSideBar.secret.md)
+

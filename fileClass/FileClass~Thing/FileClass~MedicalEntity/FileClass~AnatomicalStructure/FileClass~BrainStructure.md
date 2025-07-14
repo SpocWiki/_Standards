@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BrainStructure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.md) 
+### [FileClass~BrainStructure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.md) 
+
+### [FileClass~BrainStructure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.public.md) 
 
 ### [FileClass~BrainStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.internal.md) 
 
@@ -46,4 +47,5 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ### [FileClass~BrainStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.personal.md) 
 
-### [FileClass~BrainStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.secret.md) 
+### [FileClass~BrainStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.secret.md)
+

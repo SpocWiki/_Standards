@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_pet_allowed )
 ( #has_/range :: Boolean, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_pet_allowed](/_public/schema-org/Property/Flags/is_pet_allowed.md) 
+### [is_pet_allowed](/_Standards/schema-org/Property/Flags/is_pet_allowed.md) 
+
+### [is_pet_allowed.public](/_public/schema-org/Property/Flags/is_pet_allowed.public.md) 
 
 ### [is_pet_allowed.internal](/_internal/schema-org/Property/Flags/is_pet_allowed.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_pet_allowed.personal](/_personal/schema-org/Property/Flags/is_pet_allowed.personal.md) 
 
-### [is_pet_allowed.secret](/_secret/schema-org/Property/Flags/is_pet_allowed.secret.md) 
+### [is_pet_allowed.secret](/_secret/schema-org/Property/Flags/is_pet_allowed.secret.md)
+

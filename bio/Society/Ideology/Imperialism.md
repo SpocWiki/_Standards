@@ -29,3 +29,22 @@ Library_of_Congress_Classification: JC359
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Imperialism)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Imperialism](/_Standards/bio/Society/Ideology/Imperialism.md) 
+
+### [Imperialism.public](/_public/bio/Society/Ideology/Imperialism.public.md) 
+
+### [Imperialism.internal](/_internal/bio/Society/Ideology/Imperialism.internal.md) 
+
+### [Imperialism.protect](/_protect/bio/Society/Ideology/Imperialism.protect.md) 
+
+### [Imperialism.private](/_private/bio/Society/Ideology/Imperialism.private.md) 
+
+### [Imperialism.personal](/_personal/bio/Society/Ideology/Imperialism.personal.md) 
+
+### [Imperialism.secret](/_secret/bio/Society/Ideology/Imperialism.secret.md)
+

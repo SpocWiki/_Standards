@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_broadcast_signal_modulation )
 ( #has_/range :: QualitativeValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_signal_modulation](/_public/schema-org/Relation/has/has_broadcast_signal_modulation.md) 
+### [has_broadcast_signal_modulation](/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation.md) 
+
+### [has_broadcast_signal_modulation.public](/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public.md) 
 
 ### [has_broadcast_signal_modulation.internal](/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_broadcast_signal_modulation.personal](/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal.md) 
 
-### [has_broadcast_signal_modulation.secret](/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret.md) 
+### [has_broadcast_signal_modulation.secret](/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret.md)
+

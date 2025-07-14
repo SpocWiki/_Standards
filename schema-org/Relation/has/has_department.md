@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_department )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_department](/_public/schema-org/Relation/has/has_department.md) 
+### [has_department](/_Standards/schema-org/Relation/has/has_department.md) 
+
+### [has_department.public](/_public/schema-org/Relation/has/has_department.public.md) 
 
 ### [has_department.internal](/_internal/schema-org/Relation/has/has_department.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_department.personal](/_personal/schema-org/Relation/has/has_department.personal.md) 
 
-### [has_department.secret](/_secret/schema-org/Relation/has/has_department.secret.md) 
+### [has_department.secret](/_secret/schema-org/Relation/has/has_department.secret.md)
+

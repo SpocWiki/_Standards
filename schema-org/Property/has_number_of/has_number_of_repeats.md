@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_repeats )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_repeats](/_public/schema-org/Property/has_number_of/has_number_of_repeats.md) 
+### [has_number_of_repeats](/_Standards/schema-org/Property/has_number_of/has_number_of_repeats.md) 
+
+### [has_number_of_repeats.public](/_public/schema-org/Property/has_number_of/has_number_of_repeats.public.md) 
 
 ### [has_number_of_repeats.internal](/_internal/schema-org/Property/has_number_of/has_number_of_repeats.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_repeats.personal](/_personal/schema-org/Property/has_number_of/has_number_of_repeats.personal.md) 
 
-### [has_number_of_repeats.secret](/_secret/schema-org/Property/has_number_of/has_number_of_repeats.secret.md) 
+### [has_number_of_repeats.secret](/_secret/schema-org/Property/has_number_of/has_number_of_repeats.secret.md)
+

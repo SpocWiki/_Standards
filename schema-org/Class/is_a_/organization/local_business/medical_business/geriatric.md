@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [geriatric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.md) 
+### [geriatric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.md) 
+
+### [geriatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.public.md) 
 
 ### [geriatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 
 ### [geriatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.personal.md) 
 
-### [geriatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.secret.md) 
+### [geriatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.secret.md)
+

@@ -65,3 +65,22 @@ IPTC_NewsCode: mediatopic/20000470
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pharmaceutical_Drug](/_Standards/bio/Medicine/Drug/Pharmaceutical_Drug.md) 
+
+### [Pharmaceutical_Drug.public](/_public/bio/Medicine/Drug/Pharmaceutical_Drug.public.md) 
+
+### [Pharmaceutical_Drug.internal](/_internal/bio/Medicine/Drug/Pharmaceutical_Drug.internal.md) 
+
+### [Pharmaceutical_Drug.protect](/_protect/bio/Medicine/Drug/Pharmaceutical_Drug.protect.md) 
+
+### [Pharmaceutical_Drug.private](/_private/bio/Medicine/Drug/Pharmaceutical_Drug.private.md) 
+
+### [Pharmaceutical_Drug.personal](/_personal/bio/Medicine/Drug/Pharmaceutical_Drug.personal.md) 
+
+### [Pharmaceutical_Drug.secret](/_secret/bio/Medicine/Drug/Pharmaceutical_Drug.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_css_selector )
 ( #has_/range :: CssSelectorType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_css_selector](/_public/schema-org/Relation/has/has_css_selector.md) 
+### [has_css_selector](/_Standards/schema-org/Relation/has/has_css_selector.md) 
+
+### [has_css_selector.public](/_public/schema-org/Relation/has/has_css_selector.public.md) 
 
 ### [has_css_selector.internal](/_internal/schema-org/Relation/has/has_css_selector.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_css_selector.personal](/_personal/schema-org/Relation/has/has_css_selector.personal.md) 
 
-### [has_css_selector.secret](/_secret/schema-org/Relation/has/has_css_selector.secret.md) 
+### [has_css_selector.secret](/_secret/schema-org/Relation/has/has_css_selector.secret.md)
+

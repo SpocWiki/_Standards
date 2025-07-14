@@ -123,3 +123,21 @@ Zool., 97: 1-159.
   Size               110 mm ML
   Copyright ::          © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   --------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [pyrodes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.md) 
+
+### [pyrodes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.public.md) 
+
+### [pyrodes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.internal.md) 
+
+### [pyrodes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.protect.md) 
+
+### [pyrodes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.private.md) 
+
+### [pyrodes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.personal.md) 
+
+### [pyrodes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/pyrodes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A file composed primarily of text.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TextDigitalDocument](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.md) 
+### [FileClass~TextDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.md) 
+
+### [FileClass~TextDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.public.md) 
 
 ### [FileClass~TextDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.internal.md) 
 
@@ -46,4 +47,5 @@ A file composed primarily of text.
 
 ### [FileClass~TextDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.personal.md) 
 
-### [FileClass~TextDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.secret.md) 
+### [FileClass~TextDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.secret.md)
+

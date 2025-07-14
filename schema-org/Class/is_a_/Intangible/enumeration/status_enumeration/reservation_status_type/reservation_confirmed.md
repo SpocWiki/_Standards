@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The status of a confirmed reservation.
 
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [reservation_confirmed](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.md) 
+### [reservation_confirmed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.md) 
+
+### [reservation_confirmed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.public.md) 
 
 ### [reservation_confirmed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.internal.md) 
 
@@ -56,4 +59,5 @@ The status of a confirmed reservation.
 
 ### [reservation_confirmed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.personal.md) 
 
-### [reservation_confirmed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.secret.md) 
+### [reservation_confirmed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.secret.md)
+

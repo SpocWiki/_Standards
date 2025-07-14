@@ -469,9 +469,12 @@ Capital :: [[Niamey]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niger)
 
+
 ## Confidential Links & Embeds: 
 
-### [Niger](/_public/Earth/Continent/Africa/Africa~Central/Niger.md) 
+### [Niger](/_Standards/Earth/Continent/Africa/Africa~Central/Niger.md) 
+
+### [Niger.public](/_public/Earth/Continent/Africa/Africa~Central/Niger.public.md) 
 
 ### [Niger.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal.md) 
 
@@ -481,4 +484,5 @@ Capital :: [[Niamey]]
 
 ### [Niger.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal.md) 
 
-### [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret.md) 
+### [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret.md)
+

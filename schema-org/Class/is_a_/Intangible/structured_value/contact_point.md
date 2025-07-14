@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A contact point—for example, a Customer Complaints department.
 
 [ #has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [contact_point](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point.md) 
+### [contact_point](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point.md) 
+
+### [contact_point.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point.public.md) 
 
 ### [contact_point.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.internal.md) 
 
@@ -56,4 +59,5 @@ A contact point—for example, a Customer Complaints department.
 
 ### [contact_point.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.personal.md) 
 
-### [contact_point.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point.secret.md) 
+### [contact_point.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point.secret.md)
+

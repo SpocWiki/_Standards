@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,10 +66,11 @@ The item being described is intended to help a person learn the competency or le
 Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EducationEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.md) 
+### [FileClass~EducationEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.md) 
+
+### [FileClass~EducationEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.public.md) 
 
 ### [FileClass~EducationEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.internal.md) 
 
@@ -79,4 +80,5 @@ Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### [FileClass~EducationEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.personal.md) 
 
-### [FileClass~EducationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.secret.md) 
+### [FileClass~EducationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~EducationEvent.secret.md)
+

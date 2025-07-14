@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ Related actions:
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BefriendAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.md) 
+### [FileClass~BefriendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.md) 
+
+### [FileClass~BefriendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.public.md) 
 
 ### [FileClass~BefriendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.internal.md) 
 
@@ -50,4 +51,5 @@ Related actions:
 
 ### [FileClass~BefriendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.personal.md) 
 
-### [FileClass~BefriendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.secret.md) 
+### [FileClass~BefriendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.secret.md)
+

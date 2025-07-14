@@ -41,9 +41,12 @@ Predicated describes that:
 ( #has_/name :: has_name_given )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_name_given](/_public/schema-org/Property/has_name/has_name_given.md) 
+### [has_name_given](/_Standards/schema-org/Property/has_name/has_name_given.md) 
+
+### [has_name_given.public](/_public/schema-org/Property/has_name/has_name_given.public.md) 
 
 ### [has_name_given.internal](/_internal/schema-org/Property/has_name/has_name_given.internal.md) 
 
@@ -53,4 +56,5 @@ Predicated describes that:
 
 ### [has_name_given.personal](/_personal/schema-org/Property/has_name/has_name_given.personal.md) 
 
-### [has_name_given.secret](/_secret/schema-org/Property/has_name/has_name_given.secret.md) 
+### [has_name_given.secret](/_secret/schema-org/Property/has_name/has_name_given.secret.md)
+

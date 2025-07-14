@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that specializes in the care of infants, ch
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pediatric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.md) 
+### [pediatric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.md) 
+
+### [pediatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.public.md) 
 
 ### [pediatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that specializes in the care of infants, ch
 
 ### [pediatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.personal.md) 
 
-### [pediatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.secret.md) 
+### [pediatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.secret.md)
+

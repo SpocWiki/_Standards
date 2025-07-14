@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of ingesting information/resources/food.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [consume_action](/_public/schema-org/Class/is_a_/action/consume_action.md) 
+### [consume_action](/_Standards/schema-org/Class/is_a_/action/consume_action.md) 
+
+### [consume_action.public](/_public/schema-org/Class/is_a_/action/consume_action.public.md) 
 
 ### [consume_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of ingesting information/resources/food.
 
 ### [consume_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action.personal.md) 
 
-### [consume_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action.secret.md) 
+### [consume_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action.secret.md)
+

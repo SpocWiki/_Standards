@@ -80,3 +80,22 @@ Comments            Manna gum
 Creator             Photograph by Charles Webber
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Myrtales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.md) 
+
+### [Myrtales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.public.md) 
+
+### [Myrtales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.internal.md) 
+
+### [Myrtales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.protect.md) 
+
+### [Myrtales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.private.md) 
+
+### [Myrtales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.personal.md) 
+
+### [Myrtales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Myrtales.secret.md)
+

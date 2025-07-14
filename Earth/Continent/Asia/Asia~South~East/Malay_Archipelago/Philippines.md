@@ -757,9 +757,12 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philippines)
 
+
 ## Confidential Links & Embeds: 
 
-### [Philippines](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.md) 
+### [Philippines](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.md) 
+
+### [Philippines.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public.md) 
 
 ### [Philippines.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal.md) 
 
@@ -769,4 +772,5 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 
 ### [Philippines.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal.md) 
 
-### [Philippines.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret.md) 
+### [Philippines.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_instrument](/_public/schema-org/Relation/has/has_instrument.md) 
+### [has_instrument](/_Standards/schema-org/Relation/has/has_instrument.md) 
+
+### [has_instrument.public](/_public/schema-org/Relation/has/has_instrument.public.md) 
 
 ### [has_instrument.internal](/_internal/schema-org/Relation/has/has_instrument.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_instrument.personal](/_personal/schema-org/Relation/has/has_instrument.personal.md) 
 
-### [has_instrument.secret](/_secret/schema-org/Relation/has/has_instrument.secret.md) 
+### [has_instrument.secret](/_secret/schema-org/Relation/has/has_instrument.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_departure_boat_terminal )
 ( #has_/range :: BoatTerminal )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_departure_boat_terminal](/_public/schema-org/Relation/has/has_departure_boat_terminal.md) 
+### [has_departure_boat_terminal](/_Standards/schema-org/Relation/has/has_departure_boat_terminal.md) 
+
+### [has_departure_boat_terminal.public](/_public/schema-org/Relation/has/has_departure_boat_terminal.public.md) 
 
 ### [has_departure_boat_terminal.internal](/_internal/schema-org/Relation/has/has_departure_boat_terminal.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_departure_boat_terminal.personal](/_personal/schema-org/Relation/has/has_departure_boat_terminal.personal.md) 
 
-### [has_departure_boat_terminal.secret](/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret.md) 
+### [has_departure_boat_terminal.secret](/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret.md)
+

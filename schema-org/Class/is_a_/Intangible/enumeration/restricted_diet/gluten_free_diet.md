@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet exclusive of gluten.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [gluten_free_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.md) 
+### [gluten_free_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.md) 
+
+### [gluten_free_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.public.md) 
 
 ### [gluten_free_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet exclusive of gluten.
 
 ### [gluten_free_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.personal.md) 
 
-### [gluten_free_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.secret.md) 
+### [gluten_free_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/gluten_free_diet.secret.md)
+

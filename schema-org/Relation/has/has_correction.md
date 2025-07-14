@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_correction )
 ( #has_/range :: CorrectionComment, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_correction](/_public/schema-org/Relation/has/has_correction.md) 
+### [has_correction](/_Standards/schema-org/Relation/has/has_correction.md) 
+
+### [has_correction.public](/_public/schema-org/Relation/has/has_correction.public.md) 
 
 ### [has_correction.internal](/_internal/schema-org/Relation/has/has_correction.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_correction.personal](/_personal/schema-org/Relation/has/has_correction.personal.md) 
 
-### [has_correction.secret](/_secret/schema-org/Relation/has/has_correction.secret.md) 
+### [has_correction.secret](/_secret/schema-org/Relation/has/has_correction.secret.md)
+

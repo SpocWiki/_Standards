@@ -442,9 +442,12 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jordan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Jordan](/_public/Earth/Continent/Asia/Asia~West/Jordan.md) 
+### [Jordan](/_Standards/Earth/Continent/Asia/Asia~West/Jordan.md) 
+
+### [Jordan.public](/_public/Earth/Continent/Asia/Asia~West/Jordan.public.md) 
 
 ### [Jordan.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal.md) 
 
@@ -454,4 +457,5 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 
 ### [Jordan.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal.md) 
 
-### [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md) 
+### [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md)
+

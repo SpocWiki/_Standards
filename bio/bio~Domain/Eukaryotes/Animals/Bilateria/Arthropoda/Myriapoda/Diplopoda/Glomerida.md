@@ -45,3 +45,22 @@ title: Glomerida
 	-   *Glomeridellidae*
 	-   *Trachysphaeridae*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Glomerida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.md) 
+
+### [Glomerida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.public.md) 
+
+### [Glomerida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.internal.md) 
+
+### [Glomerida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.protect.md) 
+
+### [Glomerida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.private.md) 
+
+### [Glomerida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.personal.md) 
+
+### [Glomerida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomerida.secret.md)
+

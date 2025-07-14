@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Animal shelter.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AnimalShelter](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.md) 
+### [FileClass~AnimalShelter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.md) 
+
+### [FileClass~AnimalShelter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.public.md) 
 
 ### [FileClass~AnimalShelter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.internal.md) 
 
@@ -46,4 +47,5 @@ Animal shelter.
 
 ### [FileClass~AnimalShelter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.personal.md) 
 
-### [FileClass~AnimalShelter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.secret.md) 
+### [FileClass~AnimalShelter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AnimalShelter.secret.md)
+

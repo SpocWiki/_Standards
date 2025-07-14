@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_geographic_area )
 ( #has_/range :: AdministrativeArea )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_geographic_area](/_public/schema-org/Relation/has/has_geographic_area.md) 
+### [has_geographic_area](/_Standards/schema-org/Relation/has/has_geographic_area.md) 
+
+### [has_geographic_area.public](/_public/schema-org/Relation/has/has_geographic_area.public.md) 
 
 ### [has_geographic_area.internal](/_internal/schema-org/Relation/has/has_geographic_area.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_geographic_area.personal](/_personal/schema-org/Relation/has/has_geographic_area.personal.md) 
 
-### [has_geographic_area.secret](/_secret/schema-org/Relation/has/has_geographic_area.secret.md) 
+### [has_geographic_area.secret](/_secret/schema-org/Relation/has/has_geographic_area.secret.md)
+

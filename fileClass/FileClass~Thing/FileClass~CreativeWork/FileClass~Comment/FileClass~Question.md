@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,10 +75,11 @@ An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a
 SuggestedAnswer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Answer')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Question](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.md) 
+### [FileClass~Question](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.md) 
+
+### [FileClass~Question.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.public.md) 
 
 ### [FileClass~Question.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.internal.md) 
 
@@ -88,4 +89,5 @@ SuggestedAnswer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~Question.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.personal.md) 
 
-### [FileClass~Question.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.secret.md) 
+### [FileClass~Question.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~Question.secret.md)
+

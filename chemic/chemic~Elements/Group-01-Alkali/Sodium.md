@@ -191,9 +191,12 @@ aliases:
 Natrium Ions are larger and less movable than [[Lithium]]. 
 But they don't require rare Graphite and can work with amorphous [[../Group-14-Carbon/Carbon|Carbon]]. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Sodium](/_public/chemic/chemic~Elements/Group-01-Alkali/Sodium.md) 
+### [Sodium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Sodium.md) 
+
+### [Sodium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Sodium.public.md) 
 
 ### [Sodium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Sodium.internal.md) 
 
@@ -203,4 +206,5 @@ But they don't require rare Graphite and can work with amorphous [[../Group-14-C
 
 ### [Sodium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Sodium.personal.md) 
 
-### [Sodium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Sodium.secret.md) 
+### [Sodium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Sodium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [assign_action](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.md) 
+### [assign_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.md) 
+
+### [assign_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.public.md) 
 
 ### [assign_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 ### [assign_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.personal.md) 
 
-### [assign_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.secret.md) 
+### [assign_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.secret.md)
+

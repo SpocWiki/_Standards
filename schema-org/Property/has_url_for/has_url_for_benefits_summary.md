@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_benefits_summary_url )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_benefits_summary](/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.md) 
+### [has_url_for_benefits_summary](/_Standards/schema-org/Property/has_url_for/has_url_for_benefits_summary.md) 
+
+### [has_url_for_benefits_summary.public](/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.public.md) 
 
 ### [has_url_for_benefits_summary.internal](/_internal/schema-org/Property/has_url_for/has_url_for_benefits_summary.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_benefits_summary.personal](/_personal/schema-org/Property/has_url_for/has_url_for_benefits_summary.personal.md) 
 
-### [has_url_for_benefits_summary.secret](/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret.md) 
+### [has_url_for_benefits_summary.secret](/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret.md)
+

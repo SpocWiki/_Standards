@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7881
 has_part_s_: '[[_Standards/WikiData/WD~bone,265868]]'
 different_from: '[[_Standards/WikiData/WD~Skeleton,572411]]'
@@ -45,4 +45,23 @@ Commons_category: Skeletons
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Skeleton](/_Standards/bio/Medicine/Anatomy/Skeleton.md) 
+
+### [Skeleton.public](/_public/bio/Medicine/Anatomy/Skeleton.public.md) 
+
+### [Skeleton.internal](/_internal/bio/Medicine/Anatomy/Skeleton.internal.md) 
+
+### [Skeleton.protect](/_protect/bio/Medicine/Anatomy/Skeleton.protect.md) 
+
+### [Skeleton.private](/_private/bio/Medicine/Anatomy/Skeleton.private.md) 
+
+### [Skeleton.personal](/_personal/bio/Medicine/Anatomy/Skeleton.personal.md) 
+
+### [Skeleton.secret](/_secret/bio/Medicine/Anatomy/Skeleton.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8253
 opposite_of: '[[_Standards/WikiData/WD~non-fiction,213051]]'
 described_by_source:
@@ -33,4 +33,23 @@ OmegaWiki_Defined_Meaning: 1640010
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiction) 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fiction](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.md) 
+
+### [Fiction.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.public.md) 
+
+### [Fiction.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.internal.md) 
+
+### [Fiction.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.protect.md) 
+
+### [Fiction.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.private.md) 
+
+### [Fiction.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.personal.md) 
+
+### [Fiction.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction.secret.md)
 

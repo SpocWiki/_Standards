@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [charitable_incorporated_organization](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md) 
+### [charitable_incorporated_organization](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md) 
+
+### [charitable_incorporated_organization.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.public.md) 
 
 ### [charitable_incorporated_organization.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.internal.md) 
 
@@ -58,4 +61,5 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 ### [charitable_incorporated_organization.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.personal.md) 
 
-### [charitable_incorporated_organization.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.secret.md) 
+### [charitable_incorporated_organization.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.secret.md)
+

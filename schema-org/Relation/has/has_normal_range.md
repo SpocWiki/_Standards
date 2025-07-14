@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_normal_range )
 ( #has_/range :: MedicalEnumeration, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_normal_range](/_public/schema-org/Relation/has/has_normal_range.md) 
+### [has_normal_range](/_Standards/schema-org/Relation/has/has_normal_range.md) 
+
+### [has_normal_range.public](/_public/schema-org/Relation/has/has_normal_range.public.md) 
 
 ### [has_normal_range.internal](/_internal/schema-org/Relation/has/has_normal_range.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_normal_range.personal](/_personal/schema-org/Relation/has/has_normal_range.personal.md) 
 
-### [has_normal_range.secret](/_secret/schema-org/Relation/has/has_normal_range.secret.md) 
+### [has_normal_range.secret](/_secret/schema-org/Relation/has/has_normal_range.secret.md)
+

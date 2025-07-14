@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: has_media_authenticity_category )
 ( #has_/range :: [[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_media_authenticity_category](/_public/schema-org/Relation/has/has_media_authenticity_category.md) 
+### [has_media_authenticity_category](/_Standards/schema-org/Relation/has/has_media_authenticity_category.md) 
+
+### [has_media_authenticity_category.public](/_public/schema-org/Relation/has/has_media_authenticity_category.public.md) 
 
 ### [has_media_authenticity_category.internal](/_internal/schema-org/Relation/has/has_media_authenticity_category.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_media_authenticity_category.personal](/_personal/schema-org/Relation/has/has_media_authenticity_category.personal.md) 
 
-### [has_media_authenticity_category.secret](/_secret/schema-org/Relation/has/has_media_authenticity_category.secret.md) 
+### [has_media_authenticity_category.secret](/_secret/schema-org/Relation/has/has_media_authenticity_category.secret.md)
+

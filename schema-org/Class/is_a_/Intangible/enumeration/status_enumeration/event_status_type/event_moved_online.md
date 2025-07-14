@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the event was changed to allow online participation. See [[eventA
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_moved_online](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md) 
+### [event_moved_online](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md) 
+
+### [event_moved_online.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.public.md) 
 
 ### [event_moved_online.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the event was changed to allow online participation. See [[eventA
 
 ### [event_moved_online.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.personal.md) 
 
-### [event_moved_online.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.secret.md) 
+### [event_moved_online.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_moved_online.secret.md)
+

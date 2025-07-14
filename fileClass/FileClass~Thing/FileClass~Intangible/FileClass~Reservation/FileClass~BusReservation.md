@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,10 +35,11 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.md) 
+### [FileClass~BusReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.md) 
+
+### [FileClass~BusReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.public.md) 
 
 ### [FileClass~BusReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.internal.md) 
 
@@ -48,4 +49,5 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ### [FileClass~BusReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.personal.md) 
 
-### [FileClass~BusReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.secret.md) 
+### [FileClass~BusReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~BusReservation.secret.md)
+

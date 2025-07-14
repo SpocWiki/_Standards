@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_train_number )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_of_train](/_public/schema-org/Property/has_name/has_id_of_train.md) 
+### [has_id_of_train](/_Standards/schema-org/Property/has_name/has_id_of_train.md) 
+
+### [has_id_of_train.public](/_public/schema-org/Property/has_name/has_id_of_train.public.md) 
 
 ### [has_id_of_train.internal](/_internal/schema-org/Property/has_name/has_id_of_train.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_of_train.personal](/_personal/schema-org/Property/has_name/has_id_of_train.personal.md) 
 
-### [has_id_of_train.secret](/_secret/schema-org/Property/has_name/has_id_of_train.secret.md) 
+### [has_id_of_train.secret](/_secret/schema-org/Property/has_name/has_id_of_train.secret.md)
+

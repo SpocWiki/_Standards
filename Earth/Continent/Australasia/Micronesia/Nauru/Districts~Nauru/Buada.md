@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.53 , 166.93 ] 
 type: geo-Region
 title: Buada
@@ -41,7 +41,9 @@ markerFolder: ./Buada/
 
 ## Confidential Links & Embeds: 
 
-### [Buada](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.md) 
+### [Buada](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.md) 
+
+### [Buada.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.public.md) 
 
 ### [Buada.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Buada/
 
 ### [Buada.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.personal.md) 
 
-### [Buada.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.secret.md) 
+### [Buada.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.secret.md)
+

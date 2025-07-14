@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Qin Shi Huang"
 has_id_wikidata: Q7192
@@ -84,4 +84,23 @@ Libris_URI: c9prs62w049fwb2
 > Qin Shi Huang has often been portrayed as a tyrant and strict Legalist—characterizations that stem partly from the scathing assessments made during the Han dynasty that succeeded the Qin. Since the mid-20th century, scholars have begun questioning this evaluation, inciting considerable discussion on the actual nature of his policies and reforms. According to the sinologist Michael Loewe "few would contest the view that the achievements of his reign have exercised a paramount influence on the whole of China's subsequent history, marking the start of an epoch that closed in 1911".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qin%20Shi%20Huang)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Qin_Shi_Huang](/_Standards/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.md) 
+
+### [Qin_Shi_Huang.public](/_public/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
+
+### [Qin_Shi_Huang.internal](/_internal/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
+
+### [Qin_Shi_Huang.protect](/_protect/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
+
+### [Qin_Shi_Huang.private](/_private/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
+
+### [Qin_Shi_Huang.personal](/_personal/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
+
+### [Qin_Shi_Huang.secret](/_secret/bio/People/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
 

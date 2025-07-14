@@ -128,3 +128,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cyanobacteria](/_Standards/bio/bio~Domain/Bacteria/Cyanobacteria.md) 
+
+### [Cyanobacteria.public](/_public/bio/bio~Domain/Bacteria/Cyanobacteria.public.md) 
+
+### [Cyanobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Cyanobacteria.internal.md) 
+
+### [Cyanobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Cyanobacteria.protect.md) 
+
+### [Cyanobacteria.private](/_private/bio/bio~Domain/Bacteria/Cyanobacteria.private.md) 
+
+### [Cyanobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Cyanobacteria.personal.md) 
+
+### [Cyanobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Cyanobacteria.secret.md)
+

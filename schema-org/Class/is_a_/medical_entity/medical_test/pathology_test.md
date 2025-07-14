@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A medical test performed by a laboratory that typically involves examination of 
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pathology_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.md) 
+### [pathology_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.md) 
+
+### [pathology_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.public.md) 
 
 ### [pathology_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.internal.md) 
 
@@ -54,4 +57,5 @@ A medical test performed by a laboratory that typically involves examination of 
 
 ### [pathology_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.personal.md) 
 
-### [pathology_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.secret.md) 
+### [pathology_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.secret.md)
+

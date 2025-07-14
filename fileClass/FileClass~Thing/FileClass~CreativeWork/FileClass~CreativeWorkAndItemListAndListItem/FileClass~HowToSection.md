@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToSection](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.md) 
+### [FileClass~HowToSection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.md) 
+
+### [FileClass~HowToSection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.public.md) 
 
 ### [FileClass~HowToSection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.internal.md) 
 
@@ -46,4 +47,5 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 ### [FileClass~HowToSection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.personal.md) 
 
-### [FileClass~HowToSection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.secret.md) 
+### [FileClass~HowToSection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToSection.secret.md)
+

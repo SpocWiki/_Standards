@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [online_full](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.md) 
+### [online_full](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.md) 
+
+### [online_full.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.public.md) 
 
 ### [online_full.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md) 
 
@@ -56,4 +59,5 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 ### [online_full.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.personal.md) 
 
-### [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md) 
+### [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md)
+

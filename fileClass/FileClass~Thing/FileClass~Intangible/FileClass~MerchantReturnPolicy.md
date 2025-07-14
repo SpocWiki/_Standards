@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -204,10 +204,11 @@ Amount of shipping costs for product returns (for any reason). Applicable when p
 ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MerchantReturnPolicy](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.md) 
+### [FileClass~MerchantReturnPolicy](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.md) 
+
+### [FileClass~MerchantReturnPolicy.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.public.md) 
 
 ### [FileClass~MerchantReturnPolicy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.internal.md) 
 
@@ -217,4 +218,5 @@ ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pa
 
 ### [FileClass~MerchantReturnPolicy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.personal.md) 
 
-### [FileClass~MerchantReturnPolicy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret.md) 
+### [FileClass~MerchantReturnPolicy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret.md)
+

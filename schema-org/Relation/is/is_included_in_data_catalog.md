@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: dataset ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_included_in_data_catalog](/_public/schema-org/Relation/is/is_included_in_data_catalog.md) 
+### [is_included_in_data_catalog](/_Standards/schema-org/Relation/is/is_included_in_data_catalog.md) 
+
+### [is_included_in_data_catalog.public](/_public/schema-org/Relation/is/is_included_in_data_catalog.public.md) 
 
 ### [is_included_in_data_catalog.internal](/_internal/schema-org/Relation/is/is_included_in_data_catalog.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [is_included_in_data_catalog.personal](/_personal/schema-org/Relation/is/is_included_in_data_catalog.personal.md) 
 
-### [is_included_in_data_catalog.secret](/_secret/schema-org/Relation/is/is_included_in_data_catalog.secret.md) 
+### [is_included_in_data_catalog.secret](/_secret/schema-org/Relation/is/is_included_in_data_catalog.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -113,7 +113,9 @@ Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/M
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DefinedTermAndMedicalEntity](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.md) 
+### [FileClass~DefinedTermAndMedicalEntity](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.md) 
+
+### [FileClass~DefinedTermAndMedicalEntity.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.public.md) 
 
 ### [FileClass~DefinedTermAndMedicalEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.internal.md) 
 
@@ -123,4 +125,5 @@ Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/M
 
 ### [FileClass~DefinedTermAndMedicalEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.personal.md) 
 
-### [FileClass~DefinedTermAndMedicalEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.secret.md) 
+### [FileClass~DefinedTermAndMedicalEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.secret.md)
+

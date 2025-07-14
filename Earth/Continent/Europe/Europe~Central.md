@@ -25,9 +25,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Europe~Central](/_public/Earth/Continent/Europe/Europe~Central.md) 
+### [Europe~Central](/_Standards/Earth/Continent/Europe/Europe~Central.md) 
+
+### [Europe~Central.public](/_public/Earth/Continent/Europe/Europe~Central.public.md) 
 
 ### [Europe~Central.internal](/_internal/Earth/Continent/Europe/Europe~Central.internal.md) 
 
@@ -37,4 +40,5 @@ type: folder_brief_live
 
 ### [Europe~Central.personal](/_personal/Earth/Continent/Europe/Europe~Central.personal.md) 
 
-### [Europe~Central.secret](/_secret/Earth/Continent/Europe/Europe~Central.secret.md) 
+### [Europe~Central.secret](/_secret/Earth/Continent/Europe/Europe~Central.secret.md)
+

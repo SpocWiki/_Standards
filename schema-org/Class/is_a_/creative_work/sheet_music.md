@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Printed music, as opposed to performed or recorded music.
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sheet_music](/_public/schema-org/Class/is_a_/creative_work/sheet_music.md) 
+### [sheet_music](/_Standards/schema-org/Class/is_a_/creative_work/sheet_music.md) 
+
+### [sheet_music.public](/_public/schema-org/Class/is_a_/creative_work/sheet_music.public.md) 
 
 ### [sheet_music.internal](/_internal/schema-org/Class/is_a_/creative_work/sheet_music.internal.md) 
 
@@ -56,4 +59,5 @@ Printed music, as opposed to performed or recorded music.
 
 ### [sheet_music.personal](/_personal/schema-org/Class/is_a_/creative_work/sheet_music.personal.md) 
 
-### [sheet_music.secret](/_secret/schema-org/Class/is_a_/creative_work/sheet_music.secret.md) 
+### [sheet_music.secret](/_secret/schema-org/Class/is_a_/creative_work/sheet_music.secret.md)
+

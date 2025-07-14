@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q4323994
 subclass_of:
 - '[[_Standards/WikiData/WD~motion,79782]]'
@@ -24,4 +24,23 @@ Commons_gallery: Traffic
 > Organization typically produces a better combination of travel safety and efficiency. Events which disrupt the flow and may cause traffic to degenerate into a disorganized mess include road construction, collisions, and debris in the roadway. On particularly busy freeways, a minor disruption may persist in a phenomenon known as traffic waves. A complete breakdown of organization may result in traffic congestion and gridlock. Simulations of organized traffic frequently involve queuing theory, stochastic processes and equations of mathematical physics applied to traffic flow.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Traffic) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Traffic](/_Standards/Technology/Transport/Road_Transport/Traffic.md) 
+
+### [Traffic.public](/_public/Technology/Transport/Road_Transport/Traffic.public.md) 
+
+### [Traffic.internal](/_internal/Technology/Transport/Road_Transport/Traffic.internal.md) 
+
+### [Traffic.protect](/_protect/Technology/Transport/Road_Transport/Traffic.protect.md) 
+
+### [Traffic.private](/_private/Technology/Transport/Road_Transport/Traffic.private.md) 
+
+### [Traffic.personal](/_personal/Technology/Transport/Road_Transport/Traffic.personal.md) 
+
+### [Traffic.secret](/_secret/Technology/Transport/Road_Transport/Traffic.secret.md)
 

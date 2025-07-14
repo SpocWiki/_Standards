@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit501a](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.md) 
+### [nonprofit501a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.md) 
+
+### [nonprofit501a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.public.md) 
 
 ### [nonprofit501a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.internal.md) 
 
@@ -58,4 +61,5 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 ### [nonprofit501a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.personal.md) 
 
-### [nonprofit501a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.secret.md) 
+### [nonprofit501a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.secret.md)
+

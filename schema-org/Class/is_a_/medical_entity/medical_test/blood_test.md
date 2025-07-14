@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A medical test performed on a sample of a patient's blood.
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [blood_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.md) 
+### [blood_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.md) 
+
+### [blood_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.public.md) 
 
 ### [blood_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.internal.md) 
 
@@ -54,4 +57,5 @@ A medical test performed on a sample of a patient's blood.
 
 ### [blood_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.personal.md) 
 
-### [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md) 
+### [blood_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/blood_test.secret.md)
+

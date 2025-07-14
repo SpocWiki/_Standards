@@ -269,3 +269,22 @@ ArhivX_LOD: 3306
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Darwin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Darwin,Charles](/_Standards/bio/People/Scientist/Modern_Scientists/Darwin,Charles.md) 
+
+### [Darwin,Charles.public](/_public/bio/People/Scientist/Modern_Scientists/Darwin,Charles.public.md) 
+
+### [Darwin,Charles.internal](/_internal/bio/People/Scientist/Modern_Scientists/Darwin,Charles.internal.md) 
+
+### [Darwin,Charles.protect](/_protect/bio/People/Scientist/Modern_Scientists/Darwin,Charles.protect.md) 
+
+### [Darwin,Charles.private](/_private/bio/People/Scientist/Modern_Scientists/Darwin,Charles.private.md) 
+
+### [Darwin,Charles.personal](/_personal/bio/People/Scientist/Modern_Scientists/Darwin,Charles.personal.md) 
+
+### [Darwin,Charles.secret](/_secret/bio/People/Scientist/Modern_Scientists/Darwin,Charles.secret.md)
+

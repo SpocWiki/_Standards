@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21955
 has_id_wikidata: Q1386
@@ -99,9 +99,12 @@ mass: 140.90766
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Praseodymium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Praseodymium](/_public/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.md) 
+### [Praseodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.md) 
+
+### [Praseodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.public.md) 
 
 ### [Praseodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.internal.md) 
 
@@ -111,4 +114,5 @@ mass: 140.90766
 
 ### [Praseodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.personal.md) 
 
-### [Praseodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.secret.md) 
+### [Praseodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Praseodymium.secret.md)
+

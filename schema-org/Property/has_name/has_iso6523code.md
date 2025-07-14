@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_iso6523code )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_iso6523code](/_public/schema-org/Property/has_name/has_iso6523code.md) 
+### [has_iso6523code](/_Standards/schema-org/Property/has_name/has_iso6523code.md) 
+
+### [has_iso6523code.public](/_public/schema-org/Property/has_name/has_iso6523code.public.md) 
 
 ### [has_iso6523code.internal](/_internal/schema-org/Property/has_name/has_iso6523code.internal.md) 
 
@@ -64,4 +67,5 @@ Predicated describes that:
 
 ### [has_iso6523code.personal](/_personal/schema-org/Property/has_name/has_iso6523code.personal.md) 
 
-### [has_iso6523code.secret](/_secret/schema-org/Property/has_name/has_iso6523code.secret.md) 
+### [has_iso6523code.secret](/_secret/schema-org/Property/has_name/has_iso6523code.secret.md)
+

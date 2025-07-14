@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 
 [ #has_/properties :: [ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [opening_hours_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.md) 
+### [opening_hours_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.md) 
+
+### [opening_hours_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.public.md) 
 
 ### [opening_hours_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.internal.md) 
 
@@ -58,4 +61,5 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 
 ### [opening_hours_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.personal.md) 
 
-### [opening_hours_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.secret.md) 
+### [opening_hours_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.secret.md)
+

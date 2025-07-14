@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -176,10 +176,11 @@ The time when a passenger can check into the flight online.
 WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Flight](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.md) 
+### [FileClass~Flight](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.md) 
+
+### [FileClass~Flight.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.public.md) 
 
 ### [FileClass~Flight.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.internal.md) 
 
@@ -189,4 +190,5 @@ WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultIns
 
 ### [FileClass~Flight.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.personal.md) 
 
-### [FileClass~Flight.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret.md) 
+### [FileClass~Flight.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret.md)
+

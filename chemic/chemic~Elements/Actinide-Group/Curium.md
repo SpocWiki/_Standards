@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21991
 has_id_wikidata: Q1876
@@ -110,7 +110,9 @@ Unicode_character: 鋦
 
 ## Confidential Links & Embeds: 
 
-### [Curium](/_public/chemic/chemic~Elements/Actinide-Group/Curium.md) 
+### [Curium](/_Standards/chemic/chemic~Elements/Actinide-Group/Curium.md) 
+
+### [Curium.public](/_public/chemic/chemic~Elements/Actinide-Group/Curium.public.md) 
 
 ### [Curium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Curium.internal.md) 
 
@@ -120,4 +122,5 @@ Unicode_character: 鋦
 
 ### [Curium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Curium.personal.md) 
 
-### [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md) 
+### [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md)
+

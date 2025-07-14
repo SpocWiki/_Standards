@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,7 +34,9 @@ A sports location, such as a playing field.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsActivityLocation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.md) 
+### [FileClass~SportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.md) 
+
+### [FileClass~SportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.public.md) 
 
 ### [FileClass~SportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.internal.md) 
 
@@ -44,4 +46,5 @@ A sports location, such as a playing field.
 
 ### [FileClass~SportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.personal.md) 
 
-### [FileClass~SportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.secret.md) 
+### [FileClass~SportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation.secret.md)
+

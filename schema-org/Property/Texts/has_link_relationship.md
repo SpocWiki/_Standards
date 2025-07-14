@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_link_relationship )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_link_relationship](/_public/schema-org/Property/Texts/has_link_relationship.md) 
+### [has_link_relationship](/_Standards/schema-org/Property/Texts/has_link_relationship.md) 
+
+### [has_link_relationship.public](/_public/schema-org/Property/Texts/has_link_relationship.public.md) 
 
 ### [has_link_relationship.internal](/_internal/schema-org/Property/Texts/has_link_relationship.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_link_relationship.personal](/_personal/schema-org/Property/Texts/has_link_relationship.personal.md) 
 
-### [has_link_relationship.secret](/_secret/schema-org/Property/Texts/has_link_relationship.secret.md) 
+### [has_link_relationship.secret](/_secret/schema-org/Property/Texts/has_link_relationship.secret.md)
+

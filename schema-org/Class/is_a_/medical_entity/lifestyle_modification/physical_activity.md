@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [physical_activity](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
+### [physical_activity](/_Standards/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
+
+### [physical_activity.public](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.public.md) 
 
 ### [physical_activity.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
 
@@ -56,4 +59,5 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 ### [physical_activity.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
 
-### [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md) 
+### [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An indication for a medical therapy that has been formally specified or approved
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [approved_indication](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.md) 
+### [approved_indication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.md) 
+
+### [approved_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.public.md) 
 
 ### [approved_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.internal.md) 
 
@@ -54,4 +57,5 @@ An indication for a medical therapy that has been formally specified or approved
 
 ### [approved_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.personal.md) 
 
-### [approved_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.secret.md) 
+### [approved_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.secret.md)
+

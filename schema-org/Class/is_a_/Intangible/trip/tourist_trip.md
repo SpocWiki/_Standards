@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, touristType, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [tourist_trip](/_public/schema-org/Class/is_a_/Intangible/trip/tourist_trip.md) 
+### [tourist_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/tourist_trip.md) 
+
+### [tourist_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/tourist_trip.public.md) 
 
 ### [tourist_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/tourist_trip.internal.md) 
 
@@ -57,4 +60,5 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 ### [tourist_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/tourist_trip.personal.md) 
 
-### [tourist_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/tourist_trip.secret.md) 
+### [tourist_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/tourist_trip.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Health and beauty.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HealthAndBeautyBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.md) 
+### [FileClass~HealthAndBeautyBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.md) 
+
+### [FileClass~HealthAndBeautyBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.public.md) 
 
 ### [FileClass~HealthAndBeautyBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.internal.md) 
 
@@ -46,4 +47,5 @@ Health and beauty.
 
 ### [FileClass~HealthAndBeautyBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.personal.md) 
 
-### [FileClass~HealthAndBeautyBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.secret.md) 
+### [FileClass~HealthAndBeautyBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness.secret.md)
+

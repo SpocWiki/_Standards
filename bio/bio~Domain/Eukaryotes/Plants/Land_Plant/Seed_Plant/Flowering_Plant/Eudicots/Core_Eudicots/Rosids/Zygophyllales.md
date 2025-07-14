@@ -90,3 +90,22 @@ title: Zygophyllales
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
   ---------------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Zygophyllales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.md) 
+
+### [Zygophyllales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.public.md) 
+
+### [Zygophyllales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.internal.md) 
+
+### [Zygophyllales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.protect.md) 
+
+### [Zygophyllales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.private.md) 
+
+### [Zygophyllales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.personal.md) 
+
+### [Zygophyllales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Zygophyllales.secret.md)
+

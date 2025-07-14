@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_shared_content )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_shared_content](/_public/schema-org/Relation/has/has_shared_content.md) 
+### [has_shared_content](/_Standards/schema-org/Relation/has/has_shared_content.md) 
+
+### [has_shared_content.public](/_public/schema-org/Relation/has/has_shared_content.public.md) 
 
 ### [has_shared_content.internal](/_internal/schema-org/Relation/has/has_shared_content.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_shared_content.personal](/_personal/schema-org/Relation/has/has_shared_content.personal.md) 
 
-### [has_shared_content.secret](/_secret/schema-org/Relation/has/has_shared_content.secret.md) 
+### [has_shared_content.secret](/_secret/schema-org/Relation/has/has_shared_content.secret.md)
+

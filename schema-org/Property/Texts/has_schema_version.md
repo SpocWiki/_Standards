@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_schema_version )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_schema_version](/_public/schema-org/Property/Texts/has_schema_version.md) 
+### [has_schema_version](/_Standards/schema-org/Property/Texts/has_schema_version.md) 
+
+### [has_schema_version.public](/_public/schema-org/Property/Texts/has_schema_version.public.md) 
 
 ### [has_schema_version.internal](/_internal/schema-org/Property/Texts/has_schema_version.internal.md) 
 
@@ -57,4 +60,5 @@ Predicated describes that:
 
 ### [has_schema_version.personal](/_personal/schema-org/Property/Texts/has_schema_version.personal.md) 
 
-### [has_schema_version.secret](/_secret/schema-org/Property/Texts/has_schema_version.secret.md) 
+### [has_schema_version.secret](/_secret/schema-org/Property/Texts/has_schema_version.secret.md)
+

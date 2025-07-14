@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.544 , 166.916 ] 
 type: geo-Region
 title: Boe
@@ -40,7 +40,9 @@ markerFolder: ./Boe/
 
 ## Confidential Links & Embeds: 
 
-### [Boe](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.md) 
+### [Boe](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.md) 
+
+### [Boe.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.public.md) 
 
 ### [Boe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal.md) 
 
@@ -50,4 +52,5 @@ markerFolder: ./Boe/
 
 ### [Boe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal.md) 
 
-### [Boe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret.md) 
+### [Boe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7281
 U_S_National_Archives_Identifier: 10641755
 instance_of:
@@ -71,4 +71,23 @@ OmegaWiki_Defined_Meaning: 673352
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weapon) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Weapon](/_Standards/bio/Society/Military/Military_Engineering/Weapon.md) 
+
+### [Weapon.public](/_public/bio/Society/Military/Military_Engineering/Weapon.public.md) 
+
+### [Weapon.internal](/_internal/bio/Society/Military/Military_Engineering/Weapon.internal.md) 
+
+### [Weapon.protect](/_protect/bio/Society/Military/Military_Engineering/Weapon.protect.md) 
+
+### [Weapon.private](/_private/bio/Society/Military/Military_Engineering/Weapon.private.md) 
+
+### [Weapon.personal](/_personal/bio/Society/Military/Military_Engineering/Weapon.personal.md) 
+
+### [Weapon.secret](/_secret/bio/Society/Military/Military_Engineering/Weapon.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: is_cited_in )
 ( #has_/range :: CreativeWork, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_cited_in](/_public/schema-org/Relation/is/is_cited_in.md) 
+### [is_cited_in](/_Standards/schema-org/Relation/is/is_cited_in.md) 
+
+### [is_cited_in.public](/_public/schema-org/Relation/is/is_cited_in.public.md) 
 
 ### [is_cited_in.internal](/_internal/schema-org/Relation/is/is_cited_in.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [is_cited_in.personal](/_personal/schema-org/Relation/is/is_cited_in.personal.md) 
 
-### [is_cited_in.secret](/_secret/schema-org/Relation/is/is_cited_in.secret.md) 
+### [is_cited_in.secret](/_secret/schema-org/Relation/is/is_cited_in.secret.md)
+

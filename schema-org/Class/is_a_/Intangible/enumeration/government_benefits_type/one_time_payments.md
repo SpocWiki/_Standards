@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ OneTimePayments: this is a benefit for one-time payments for individuals.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [one_time_payments](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.md) 
+### [one_time_payments](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.md) 
+
+### [one_time_payments.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.public.md) 
 
 ### [one_time_payments.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.internal.md) 
 
@@ -58,4 +61,5 @@ OneTimePayments: this is a benefit for one-time payments for individuals.
 
 ### [one_time_payments.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.personal.md) 
 
-### [one_time_payments.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.secret.md) 
+### [one_time_payments.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/one_time_payments.secret.md)
+

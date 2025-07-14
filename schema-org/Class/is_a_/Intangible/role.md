@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [role](/_public/schema-org/Class/is_a_/Intangible/role.md) 
+### [role](/_Standards/schema-org/Class/is_a_/Intangible/role.md) 
+
+### [role.public](/_public/schema-org/Class/is_a_/Intangible/role.public.md) 
 
 ### [role.internal](/_internal/schema-org/Class/is_a_/Intangible/role.internal.md) 
 
@@ -58,4 +61,5 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 ### [role.personal](/_personal/schema-org/Class/is_a_/Intangible/role.personal.md) 
 
-### [role.secret](/_secret/schema-org/Class/is_a_/Intangible/role.secret.md) 
+### [role.secret](/_secret/schema-org/Class/is_a_/Intangible/role.secret.md)
+

@@ -437,7 +437,9 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 
 ## Confidential Links & Embeds: 
 
-### [Cape_Verde](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.md) 
+### [Cape_Verde](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde.md) 
+
+### [Cape_Verde.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public.md) 
 
 ### [Cape_Verde.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal.md) 
 
@@ -447,4 +449,5 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 
 ### [Cape_Verde.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal.md) 
 
-### [Cape_Verde.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret.md) 
+### [Cape_Verde.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret.md)
+

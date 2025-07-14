@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_to_pick_up)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_to_pick_up](/_public/schema-org/Property/has_Date_Time/has_time_to_pick_up.md) 
+### [has_time_to_pick_up](/_Standards/schema-org/Property/has_Date_Time/has_time_to_pick_up.md) 
+
+### [has_time_to_pick_up.public](/_public/schema-org/Property/has_Date_Time/has_time_to_pick_up.public.md) 
 
 ### [has_time_to_pick_up.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_pick_up.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_to_pick_up.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_pick_up.personal.md) 
 
-### [has_time_to_pick_up.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_pick_up.secret.md) 
+### [has_time_to_pick_up.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_pick_up.secret.md)
+

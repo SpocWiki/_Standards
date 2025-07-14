@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A pet store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PetStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.md) 
+### [FileClass~PetStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.md) 
+
+### [FileClass~PetStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.public.md) 
 
 ### [FileClass~PetStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.internal.md) 
 
@@ -46,4 +47,5 @@ A pet store.
 
 ### [FileClass~PetStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.personal.md) 
 
-### [FileClass~PetStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.secret.md) 
+### [FileClass~PetStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PetStore.secret.md)
+

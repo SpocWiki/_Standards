@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is in stock.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [in_stock](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.md) 
+### [in_stock](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.md) 
+
+### [in_stock.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.public.md) 
 
 ### [in_stock.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is in stock.
 
 ### [in_stock.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.personal.md) 
 
-### [in_stock.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.secret.md) 
+### [in_stock.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_stock.secret.md)
+

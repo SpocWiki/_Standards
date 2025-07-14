@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the suggested retail price ("SRP") of an offered product.
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [srp](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.md) 
+### [srp](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.md) 
+
+### [srp.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.public.md) 
 
 ### [srp.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the suggested retail price ("SRP") of an offered product.
 
 ### [srp.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.personal.md) 
 
-### [srp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.secret.md) 
+### [srp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/srp.secret.md)
+

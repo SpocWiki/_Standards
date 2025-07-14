@@ -108,3 +108,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yangtze) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Yangtze_River](/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.md) 
+
+### [Yangtze_River.public](/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.public.md) 
+
+### [Yangtze_River.internal](/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.internal.md) 
+
+### [Yangtze_River.protect](/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.protect.md) 
+
+### [Yangtze_River.private](/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.private.md) 
+
+### [Yangtze_River.personal](/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.personal.md) 
+
+### [Yangtze_River.secret](/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Nonprofit501c6: Non-profit type referring to Business Leagues, Chambers of Comme
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c6](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.md) 
+### [nonprofit501c6](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.md) 
+
+### [nonprofit501c6.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.public.md) 
 
 ### [nonprofit501c6.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.internal.md) 
 
@@ -58,4 +61,5 @@ Nonprofit501c6: Non-profit type referring to Business Leagues, Chambers of Comme
 
 ### [nonprofit501c6.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.personal.md) 
 
-### [nonprofit501c6.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.secret.md) 
+### [nonprofit501c6.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c6.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A roofing contractor.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RoofingContractor](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.md) 
+### [FileClass~RoofingContractor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.md) 
+
+### [FileClass~RoofingContractor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.public.md) 
 
 ### [FileClass~RoofingContractor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.internal.md) 
 
@@ -46,4 +47,5 @@ A roofing contractor.
 
 ### [FileClass~RoofingContractor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.personal.md) 
 
-### [FileClass~RoofingContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.secret.md) 
+### [FileClass~RoofingContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~RoofingContractor.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_program_membership_used )
 ( #has_/range :: ProgramMembership )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_program_membership_used](/_public/schema-org/Relation/has/has_program_membership_used.md) 
+### [has_program_membership_used](/_Standards/schema-org/Relation/has/has_program_membership_used.md) 
+
+### [has_program_membership_used.public](/_public/schema-org/Relation/has/has_program_membership_used.public.md) 
 
 ### [has_program_membership_used.internal](/_internal/schema-org/Relation/has/has_program_membership_used.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_program_membership_used.personal](/_personal/schema-org/Relation/has/has_program_membership_used.personal.md) 
 
-### [has_program_membership_used.secret](/_secret/schema-org/Relation/has/has_program_membership_used.secret.md) 
+### [has_program_membership_used.secret](/_secret/schema-org/Relation/has/has_program_membership_used.secret.md)
+

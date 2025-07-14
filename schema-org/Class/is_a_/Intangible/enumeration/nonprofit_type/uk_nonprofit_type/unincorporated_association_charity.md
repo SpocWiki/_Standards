@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [unincorporated_association_charity](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md) 
+### [unincorporated_association_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md) 
+
+### [unincorporated_association_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.public.md) 
 
 ### [unincorporated_association_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.internal.md) 
 
@@ -58,4 +61,5 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 
 ### [unincorporated_association_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.personal.md) 
 
-### [unincorporated_association_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.secret.md) 
+### [unincorporated_association_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.secret.md)
+

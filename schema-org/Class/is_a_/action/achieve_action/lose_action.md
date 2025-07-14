@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of being defeated in a competitive activity.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url, winner ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [lose_action](/_public/schema-org/Class/is_a_/action/achieve_action/lose_action.md) 
+### [lose_action](/_Standards/schema-org/Class/is_a_/action/achieve_action/lose_action.md) 
+
+### [lose_action.public](/_public/schema-org/Class/is_a_/action/achieve_action/lose_action.public.md) 
 
 ### [lose_action.internal](/_internal/schema-org/Class/is_a_/action/achieve_action/lose_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of being defeated in a competitive activity.
 
 ### [lose_action.personal](/_personal/schema-org/Class/is_a_/action/achieve_action/lose_action.personal.md) 
 
-### [lose_action.secret](/_secret/schema-org/Class/is_a_/action/achieve_action/lose_action.secret.md) 
+### [lose_action.secret](/_secret/schema-org/Class/is_a_/action/achieve_action/lose_action.secret.md)
+

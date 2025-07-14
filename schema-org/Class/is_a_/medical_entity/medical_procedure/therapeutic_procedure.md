@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, description, disambiguatingDescription, doseSchedule, drug, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [therapeutic_procedure](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.md) 
+### [therapeutic_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.md) 
+
+### [therapeutic_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.public.md) 
 
 ### [therapeutic_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.internal.md) 
 
@@ -58,4 +61,5 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 ### [therapeutic_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.personal.md) 
 
-### [therapeutic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md) 
+### [therapeutic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md)
+

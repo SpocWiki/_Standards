@@ -480,3 +480,21 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
   Comments          Agaricomycetes
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Agaricomycotina](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.md) 
+
+### [Agaricomycotina.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.public.md) 
+
+### [Agaricomycotina.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.internal.md) 
+
+### [Agaricomycotina.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.protect.md) 
+
+### [Agaricomycotina.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.private.md) 
+
+### [Agaricomycotina.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.personal.md) 
+
+### [Agaricomycotina.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina.secret.md)
+

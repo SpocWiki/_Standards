@@ -58,3 +58,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Longitudinal%20study) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Longitudinal_Study](/_Standards/Mathematics/Statistics/Observational_Study/Longitudinal_Study.md) 
+
+### [Longitudinal_Study.public](/_public/Mathematics/Statistics/Observational_Study/Longitudinal_Study.public.md) 
+
+### [Longitudinal_Study.internal](/_internal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.internal.md) 
+
+### [Longitudinal_Study.protect](/_protect/Mathematics/Statistics/Observational_Study/Longitudinal_Study.protect.md) 
+
+### [Longitudinal_Study.private](/_private/Mathematics/Statistics/Observational_Study/Longitudinal_Study.private.md) 
+
+### [Longitudinal_Study.personal](/_personal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.personal.md) 
+
+### [Longitudinal_Study.secret](/_secret/Mathematics/Statistics/Observational_Study/Longitudinal_Study.secret.md)
+

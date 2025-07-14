@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - GUID 
 ---
@@ -56,7 +56,9 @@ NanoID
 
 ## Confidential Links & Embeds: 
 
-### [UUID](/_public/schema-org/Class/is_a_/data_type/text/UUID.md) 
+### [UUID](/_Standards/schema-org/Class/is_a_/data_type/text/UUID.md) 
+
+### [UUID.public](/_public/schema-org/Class/is_a_/data_type/text/UUID.public.md) 
 
 ### [UUID.internal](/_internal/schema-org/Class/is_a_/data_type/text/UUID.internal.md) 
 
@@ -66,4 +68,5 @@ NanoID
 
 ### [UUID.personal](/_personal/schema-org/Class/is_a_/data_type/text/UUID.personal.md) 
 
-### [UUID.secret](/_secret/schema-org/Class/is_a_/data_type/text/UUID.secret.md) 
+### [UUID.secret](/_secret/schema-org/Class/is_a_/data_type/text/UUID.secret.md)
+

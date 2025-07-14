@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A crematorium.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Crematorium](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.md) 
+### [FileClass~Crematorium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.md) 
+
+### [FileClass~Crematorium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.public.md) 
 
 ### [FileClass~Crematorium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.internal.md) 
 
@@ -46,4 +47,5 @@ A crematorium.
 
 ### [FileClass~Crematorium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.personal.md) 
 
-### [FileClass~Crematorium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.secret.md) 
+### [FileClass~Crematorium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.secret.md)
+

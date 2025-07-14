@@ -495,3 +495,22 @@ Reference            first published in Discover Magazine
 Creator              Illustration by Alfred Kamajian
 Specimen Condition   Fossil \-- Period: Devonian
 Copyright ::            © 1995 Alfred Kamajian
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tetrapods](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.md) 
+
+### [Tetrapods.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.public.md) 
+
+### [Tetrapods.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.internal.md) 
+
+### [Tetrapods.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.protect.md) 
+
+### [Tetrapods.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.private.md) 
+
+### [Tetrapods.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.personal.md) 
+
+### [Tetrapods.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods.secret.md)
+

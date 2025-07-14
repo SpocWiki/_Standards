@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 36.1
 - -5.35
@@ -134,10 +134,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::36.143]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Gibraltar](/_public/Earth/Continent/Europe/Europe~South/Gibraltar.md) 
+### [Gibraltar](/_Standards/Earth/Continent/Europe/Europe~South/Gibraltar.md) 
+
+### [Gibraltar.public](/_public/Earth/Continent/Europe/Europe~South/Gibraltar.public.md) 
 
 ### [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Gibraltar.internal.md) 
 
@@ -147,4 +148,5 @@ has_place_continent:: [[Europe]]
 
 ### [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Gibraltar.personal.md) 
 
-### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret.md) 
+### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret.md)
+

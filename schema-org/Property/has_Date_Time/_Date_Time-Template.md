@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,9 +56,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_Date_Time-Template](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
+### [_Date_Time-Template](/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
+
+### [_Date_Time-Template.public](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public.md) 
 
 ### [_Date_Time-Template.internal](/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal.md) 
 
@@ -68,4 +71,5 @@ Relation describes that:
 
 ### [_Date_Time-Template.personal](/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal.md) 
 
-### [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md) 
+### [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md)
+

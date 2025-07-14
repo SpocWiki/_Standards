@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.27 , 134.44 ] 
 type: geo-Region
 title: Koror
@@ -41,7 +41,9 @@ markerFolder: ./Koror/
 
 ## Confidential Links & Embeds: 
 
-### [Koror](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.md) 
+### [Koror](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.md) 
+
+### [Koror.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.public.md) 
 
 ### [Koror.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Koror/
 
 ### [Koror.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal.md) 
 
-### [Koror.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret.md) 
+### [Koror.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [music_album_production_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.md) 
+### [music_album_production_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.md) 
+
+### [music_album_production_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.public.md) 
 
 ### [music_album_production_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.internal.md) 
 
@@ -52,4 +55,5 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 ### [music_album_production_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.personal.md) 
 
-### [music_album_production_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.secret.md) 
+### [music_album_production_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type.secret.md)
+

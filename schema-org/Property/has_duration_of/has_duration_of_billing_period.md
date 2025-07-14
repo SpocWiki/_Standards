@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_duration_of_billing_period)
 (range::Duration)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_billing_period](/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.md) 
+### [has_duration_of_billing_period](/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period.md) 
+
+### [has_duration_of_billing_period.public](/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public.md) 
 
 ### [has_duration_of_billing_period.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_duration_of_billing_period.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_billing_period.personal.md) 
 
-### [has_duration_of_billing_period.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret.md) 
+### [has_duration_of_billing_period.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret.md)
+

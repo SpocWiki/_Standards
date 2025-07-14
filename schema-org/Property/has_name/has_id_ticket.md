@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_ticket )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_ticket](/_public/schema-org/Property/has_name/has_id_ticket.md) 
+### [has_id_ticket](/_Standards/schema-org/Property/has_name/has_id_ticket.md) 
+
+### [has_id_ticket.public](/_public/schema-org/Property/has_name/has_id_ticket.public.md) 
 
 ### [has_id_ticket.internal](/_internal/schema-org/Property/has_name/has_id_ticket.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_ticket.personal](/_personal/schema-org/Property/has_name/has_id_ticket.personal.md) 
 
-### [has_id_ticket.secret](/_secret/schema-org/Property/has_name/has_id_ticket.secret.md) 
+### [has_id_ticket.secret](/_secret/schema-org/Property/has_name/has_id_ticket.secret.md)
+

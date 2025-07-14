@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ SpokenWordAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [spoken_word_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.md) 
+### [spoken_word_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.md) 
+
+### [spoken_word_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.public.md) 
 
 ### [spoken_word_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.internal.md) 
 
@@ -56,4 +59,5 @@ SpokenWordAlbum.
 
 ### [spoken_word_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.personal.md) 
 
-### [spoken_word_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.secret.md) 
+### [spoken_word_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.secret.md)
+

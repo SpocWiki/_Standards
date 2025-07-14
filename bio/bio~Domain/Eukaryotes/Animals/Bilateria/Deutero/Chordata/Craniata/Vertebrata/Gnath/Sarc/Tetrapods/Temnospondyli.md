@@ -243,3 +243,22 @@ defined (Gauthier et al., 1989).
   Acknowledgements   Reproduced with permission
   Copyright ::          © 1990 [Douglas Henderson](http://gallery.in-tch.com/%7Eearthhistory/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Temnospondyli](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.md) 
+
+### [Temnospondyli.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.public.md) 
+
+### [Temnospondyli.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.internal.md) 
+
+### [Temnospondyli.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.protect.md) 
+
+### [Temnospondyli.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.private.md) 
+
+### [Temnospondyli.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.personal.md) 
+
+### [Temnospondyli.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli.secret.md)
+

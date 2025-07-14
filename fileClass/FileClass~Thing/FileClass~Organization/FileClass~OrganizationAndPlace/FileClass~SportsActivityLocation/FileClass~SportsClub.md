@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A sports club.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsClub](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.md) 
+### [FileClass~SportsClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.md) 
+
+### [FileClass~SportsClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.public.md) 
 
 ### [FileClass~SportsClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.internal.md) 
 
@@ -46,4 +47,5 @@ A sports club.
 
 ### [FileClass~SportsClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.personal.md) 
 
-### [FileClass~SportsClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.secret.md) 
+### [FileClass~SportsClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.secret.md)
+

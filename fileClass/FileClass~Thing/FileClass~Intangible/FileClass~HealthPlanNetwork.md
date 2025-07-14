@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,10 +63,11 @@ The tier(s) for this network.
 HealthPlanNetworkTier:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HealthPlanNetwork](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.md) 
+### [FileClass~HealthPlanNetwork](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.md) 
+
+### [FileClass~HealthPlanNetwork.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.public.md) 
 
 ### [FileClass~HealthPlanNetwork.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.internal.md) 
 
@@ -76,4 +77,5 @@ HealthPlanNetworkTier:: {"type":"Input","options":{}}
 
 ### [FileClass~HealthPlanNetwork.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.personal.md) 
 
-### [FileClass~HealthPlanNetwork.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.secret.md) 
+### [FileClass~HealthPlanNetwork.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanNetwork.secret.md)
+

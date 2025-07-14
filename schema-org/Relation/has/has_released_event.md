@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_released_event )
 ( #has_/range :: PublicationEvent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_released_event](/_public/schema-org/Relation/has/has_released_event.md) 
+### [has_released_event](/_Standards/schema-org/Relation/has/has_released_event.md) 
+
+### [has_released_event.public](/_public/schema-org/Relation/has/has_released_event.public.md) 
 
 ### [has_released_event.internal](/_internal/schema-org/Relation/has/has_released_event.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_released_event.personal](/_personal/schema-org/Relation/has/has_released_event.personal.md) 
 
-### [has_released_event.secret](/_secret/schema-org/Relation/has/has_released_event.secret.md) 
+### [has_released_event.secret](/_secret/schema-org/Relation/has/has_released_event.secret.md)
+

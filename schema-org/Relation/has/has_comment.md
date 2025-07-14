@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_comment )
 ( #has_/range :: Comment )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_comment](/_public/schema-org/Relation/has/has_comment.md) 
+### [has_comment](/_Standards/schema-org/Relation/has/has_comment.md) 
+
+### [has_comment.public](/_public/schema-org/Relation/has/has_comment.public.md) 
 
 ### [has_comment.internal](/_internal/schema-org/Relation/has/has_comment.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_comment.personal](/_personal/schema-org/Relation/has/has_comment.personal.md) 
 
-### [has_comment.secret](/_secret/schema-org/Relation/has/has_comment.secret.md) 
+### [has_comment.secret](/_secret/schema-org/Relation/has/has_comment.secret.md)
+

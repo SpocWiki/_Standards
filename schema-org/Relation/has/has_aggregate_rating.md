@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_aggregate_rating )
 ( #has_/range :: AggregateRating )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_aggregate_rating](/_public/schema-org/Relation/has/has_aggregate_rating.md) 
+### [has_aggregate_rating](/_Standards/schema-org/Relation/has/has_aggregate_rating.md) 
+
+### [has_aggregate_rating.public](/_public/schema-org/Relation/has/has_aggregate_rating.public.md) 
 
 ### [has_aggregate_rating.internal](/_internal/schema-org/Relation/has/has_aggregate_rating.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_aggregate_rating.personal](/_personal/schema-org/Relation/has/has_aggregate_rating.personal.md) 
 
-### [has_aggregate_rating.secret](/_secret/schema-org/Relation/has/has_aggregate_rating.secret.md) 
+### [has_aggregate_rating.secret](/_secret/schema-org/Relation/has/has_aggregate_rating.secret.md)
+

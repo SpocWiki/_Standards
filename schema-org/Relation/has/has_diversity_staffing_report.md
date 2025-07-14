@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_diversity_staffing_report](/_public/schema-org/Relation/has/has_diversity_staffing_report.md) 
+### [has_diversity_staffing_report](/_Standards/schema-org/Relation/has/has_diversity_staffing_report.md) 
+
+### [has_diversity_staffing_report.public](/_public/schema-org/Relation/has/has_diversity_staffing_report.public.md) 
 
 ### [has_diversity_staffing_report.internal](/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_diversity_staffing_report.personal](/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal.md) 
 
-### [has_diversity_staffing_report.secret](/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret.md) 
+### [has_diversity_staffing_report.secret](/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret.md)
+

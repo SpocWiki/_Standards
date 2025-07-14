@@ -103,3 +103,21 @@ Vertebrate Paleontology 16 (4): 653-665.
   Specimen Condition   Fossil
   Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Ariekanerpeton sigalovi](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.md) 
+
+### [Ariekanerpeton sigalovi.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.public.md) 
+
+### [Ariekanerpeton sigalovi.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.internal.md) 
+
+### [Ariekanerpeton sigalovi.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.protect.md) 
+
+### [Ariekanerpeton sigalovi.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.private.md) 
+
+### [Ariekanerpeton sigalovi.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.personal.md) 
+
+### [Ariekanerpeton sigalovi.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Ariekanerpeton sigalovi.secret.md)
+

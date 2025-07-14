@@ -608,9 +608,12 @@ Capital :: [[./Latvia/Counties/Riga]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latvia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Latvia](/_public/Earth/Continent/Europe/Europe~North/Latvia.md) 
+### [Latvia](/_Standards/Earth/Continent/Europe/Europe~North/Latvia.md) 
+
+### [Latvia.public](/_public/Earth/Continent/Europe/Europe~North/Latvia.public.md) 
 
 ### [Latvia.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal.md) 
 
@@ -620,4 +623,5 @@ Capital :: [[./Latvia/Counties/Riga]]
 
 ### [Latvia.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal.md) 
 
-### [Latvia.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret.md) 
+### [Latvia.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret.md)
+

@@ -539,9 +539,12 @@ Capital :: [[Kiew]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ukraine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ukraine](/_public/Earth/Continent/Europe/Europe~East/Ukraine.md) 
+### [Ukraine](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine.md) 
+
+### [Ukraine.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine.public.md) 
 
 ### [Ukraine.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal.md) 
 
@@ -551,4 +554,5 @@ Capital :: [[Kiew]]
 
 ### [Ukraine.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal.md) 
 
-### [Ukraine.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret.md) 
+### [Ukraine.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret.md)
+

@@ -105,3 +105,21 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
   Size                 105 mm ML
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
   -----------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Myopsida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.md) 
+
+### [Myopsida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.public.md) 
+
+### [Myopsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.internal.md) 
+
+### [Myopsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.protect.md) 
+
+### [Myopsida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.private.md) 
+
+### [Myopsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.personal.md) 
+
+### [Myopsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida.secret.md)
+

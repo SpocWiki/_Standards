@@ -232,3 +232,21 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   Size                 ca. 7 m
   Copyright ::            © NOAA Undersea Research Program, Minerals Management Service and National Energy Technology Lab.
   ------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Magnapinnidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.md) 
+
+### [Magnapinnidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.public.md) 
+
+### [Magnapinnidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.internal.md) 
+
+### [Magnapinnidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.protect.md) 
+
+### [Magnapinnidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.private.md) 
+
+### [Magnapinnidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.personal.md) 
+
+### [Magnapinnidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Magnapinnidae.secret.md)
+

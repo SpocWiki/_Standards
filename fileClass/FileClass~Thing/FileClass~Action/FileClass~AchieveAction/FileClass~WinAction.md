@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of participant. The loser of the action.
 Loser:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WinAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.md) 
+### [FileClass~WinAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.md) 
+
+### [FileClass~WinAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.public.md) 
 
 ### [FileClass~WinAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.internal.md) 
 
@@ -57,4 +58,5 @@ Loser:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/P
 
 ### [FileClass~WinAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.personal.md) 
 
-### [FileClass~WinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.secret.md) 
+### [FileClass~WinAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~WinAction.secret.md)
+

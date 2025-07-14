@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -58,9 +58,12 @@ or editing out large portions from the recording.
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [edited_or_cropped_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md) 
+### [edited_or_cropped_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md) 
+
+### [edited_or_cropped_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.public.md) 
 
 ### [edited_or_cropped_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md) 
 
@@ -70,4 +73,5 @@ or editing out large portions from the recording.
 
 ### [edited_or_cropped_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md) 
 
-### [edited_or_cropped_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md) 
+### [edited_or_cropped_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md)
+

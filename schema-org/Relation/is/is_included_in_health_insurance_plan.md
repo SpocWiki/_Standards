@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_included_in_health_insurance_plan)
 ( #has_/range :: HealthInsurancePlan)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_included_in_health_insurance_plan](/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.md) 
+### [is_included_in_health_insurance_plan](/_Standards/schema-org/Relation/is/is_included_in_health_insurance_plan.md) 
+
+### [is_included_in_health_insurance_plan.public](/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.public.md) 
 
 ### [is_included_in_health_insurance_plan.internal](/_internal/schema-org/Relation/is/is_included_in_health_insurance_plan.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_included_in_health_insurance_plan.personal](/_personal/schema-org/Relation/is/is_included_in_health_insurance_plan.personal.md) 
 
-### [is_included_in_health_insurance_plan.secret](/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret.md) 
+### [is_included_in_health_insurance_plan.secret](/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret.md)
+

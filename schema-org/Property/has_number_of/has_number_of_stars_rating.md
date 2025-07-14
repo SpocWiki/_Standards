@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -61,9 +61,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_stars_rating )
 ( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_stars_rating](/_public/schema-org/Property/has_number_of/has_number_of_stars_rating.md) 
+### [has_number_of_stars_rating](/_Standards/schema-org/Property/has_number_of/has_number_of_stars_rating.md) 
+
+### [has_number_of_stars_rating.public](/_public/schema-org/Property/has_number_of/has_number_of_stars_rating.public.md) 
 
 ### [has_number_of_stars_rating.internal](/_internal/schema-org/Property/has_number_of/has_number_of_stars_rating.internal.md) 
 
@@ -73,4 +76,5 @@ Predicate describes that:
 
 ### [has_number_of_stars_rating.personal](/_personal/schema-org/Property/has_number_of/has_number_of_stars_rating.personal.md) 
 
-### [has_number_of_stars_rating.secret](/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret.md) 
+### [has_number_of_stars_rating.secret](/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret.md)
+

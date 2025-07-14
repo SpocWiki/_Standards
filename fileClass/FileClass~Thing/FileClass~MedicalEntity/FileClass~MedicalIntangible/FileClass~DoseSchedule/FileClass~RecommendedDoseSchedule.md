@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RecommendedDoseSchedule](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.md) 
+### [FileClass~RecommendedDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.md) 
+
+### [FileClass~RecommendedDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.public.md) 
 
 ### [FileClass~RecommendedDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.internal.md) 
 
@@ -46,4 +47,5 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 
 ### [FileClass~RecommendedDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.personal.md) 
 
-### [FileClass~RecommendedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.secret.md) 
+### [FileClass~RecommendedDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~RecommendedDoseSchedule.secret.md)
+

@@ -57,3 +57,22 @@ Commons_category: Snow
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Snow)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Snow](/_Standards/Earth/Atmosphere/Climate/Weather/Snow.md) 
+
+### [Snow.public](/_public/Earth/Atmosphere/Climate/Weather/Snow.public.md) 
+
+### [Snow.internal](/_internal/Earth/Atmosphere/Climate/Weather/Snow.internal.md) 
+
+### [Snow.protect](/_protect/Earth/Atmosphere/Climate/Weather/Snow.protect.md) 
+
+### [Snow.private](/_private/Earth/Atmosphere/Climate/Weather/Snow.private.md) 
+
+### [Snow.personal](/_personal/Earth/Atmosphere/Climate/Weather/Snow.personal.md) 
+
+### [Snow.secret](/_secret/Earth/Atmosphere/Climate/Weather/Snow.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PsychologicalTreatment](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.md) 
+### [FileClass~PsychologicalTreatment](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.md) 
+
+### [FileClass~PsychologicalTreatment.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.public.md) 
 
 ### [FileClass~PsychologicalTreatment.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.internal.md) 
 
@@ -46,4 +47,5 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 ### [FileClass~PsychologicalTreatment.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.personal.md) 
 
-### [FileClass~PsychologicalTreatment.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.secret.md) 
+### [FileClass~PsychologicalTreatment.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~PsychologicalTreatment.secret.md)
+

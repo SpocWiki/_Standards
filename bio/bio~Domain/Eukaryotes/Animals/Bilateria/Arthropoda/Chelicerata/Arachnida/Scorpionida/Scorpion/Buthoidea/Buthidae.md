@@ -86,3 +86,22 @@ Centruroides vittatus. Photograph copyright © Scott A. Stockwell.
 
 ![](buthoidea.jpg)
 Copyright ::   © 1988 Scott A. Stockwell
+
+
+
+## Confidential Links & Embeds: 
+
+### [Buthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.md) 
+
+### [Buthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.public.md) 
+
+### [Buthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.internal.md) 
+
+### [Buthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.protect.md) 
+
+### [Buthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.private.md) 
+
+### [Buthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.personal.md) 
+
+### [Buthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Buthoidea/Buthidae.secret.md)
+

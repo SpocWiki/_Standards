@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A stadium.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~StadiumOrArena](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.md) 
+### [FileClass~StadiumOrArena](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.md) 
+
+### [FileClass~StadiumOrArena.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.public.md) 
 
 ### [FileClass~StadiumOrArena.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.internal.md) 
 
@@ -46,4 +47,5 @@ A stadium.
 
 ### [FileClass~StadiumOrArena.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.personal.md) 
 
-### [FileClass~StadiumOrArena.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.secret.md) 
+### [FileClass~StadiumOrArena.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation/FileClass~StadiumOrArena.secret.md)
+

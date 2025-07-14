@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -293,10 +293,11 @@ The number of credits or units a full-time student would be expected to take in 
 TypicalCreditsPerTerm:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EducationalOccupationalProgram](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.md) 
+### [FileClass~EducationalOccupationalProgram](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.md) 
+
+### [FileClass~EducationalOccupationalProgram.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.public.md) 
 
 ### [FileClass~EducationalOccupationalProgram.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.internal.md) 
 
@@ -306,4 +307,5 @@ TypicalCreditsPerTerm:: {"type":"Number","options":{}}
 
 ### [FileClass~EducationalOccupationalProgram.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.personal.md) 
 
-### [FileClass~EducationalOccupationalProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.secret.md) 
+### [FileClass~EducationalOccupationalProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram.secret.md)
+

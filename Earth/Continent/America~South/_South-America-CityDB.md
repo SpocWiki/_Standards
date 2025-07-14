@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,9 +340,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_South-America-CityDB](/_public/Earth/Continent/America~South/_South-America-CityDB.md) 
+### [_South-America-CityDB](/_Standards/Earth/Continent/America~South/_South-America-CityDB.md) 
+
+### [_South-America-CityDB.public](/_public/Earth/Continent/America~South/_South-America-CityDB.public.md) 
 
 ### [_South-America-CityDB.internal](/_internal/Earth/Continent/America~South/_South-America-CityDB.internal.md) 
 
@@ -352,4 +355,5 @@ filters:
 
 ### [_South-America-CityDB.personal](/_personal/Earth/Continent/America~South/_South-America-CityDB.personal.md) 
 
-### [_South-America-CityDB.secret](/_secret/Earth/Continent/America~South/_South-America-CityDB.secret.md) 
+### [_South-America-CityDB.secret](/_secret/Earth/Continent/America~South/_South-America-CityDB.secret.md)
+

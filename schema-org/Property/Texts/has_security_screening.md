@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_security_screening )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_security_screening](/_public/schema-org/Property/Texts/has_security_screening.md) 
+### [has_security_screening](/_Standards/schema-org/Property/Texts/has_security_screening.md) 
+
+### [has_security_screening.public](/_public/schema-org/Property/Texts/has_security_screening.public.md) 
 
 ### [has_security_screening.internal](/_internal/schema-org/Property/Texts/has_security_screening.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_security_screening.personal](/_personal/schema-org/Property/Texts/has_security_screening.personal.md) 
 
-### [has_security_screening.secret](/_secret/schema-org/Property/Texts/has_security_screening.secret.md) 
+### [has_security_screening.secret](/_secret/schema-org/Property/Texts/has_security_screening.secret.md)
+

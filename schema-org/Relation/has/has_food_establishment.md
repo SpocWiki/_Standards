@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_food_establishment](/_public/schema-org/Relation/has/has_food_establishment.md) 
+### [has_food_establishment](/_Standards/schema-org/Relation/has/has_food_establishment.md) 
+
+### [has_food_establishment.public](/_public/schema-org/Relation/has/has_food_establishment.public.md) 
 
 ### [has_food_establishment.internal](/_internal/schema-org/Relation/has/has_food_establishment.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_food_establishment.personal](/_personal/schema-org/Relation/has/has_food_establishment.personal.md) 
 
-### [has_food_establishment.secret](/_secret/schema-org/Relation/has/has_food_establishment.secret.md) 
+### [has_food_establishment.secret](/_secret/schema-org/Relation/has/has_food_establishment.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ The status of an Action.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [action_status_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.md) 
+### [action_status_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.md) 
+
+### [action_status_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.public.md) 
 
 ### [action_status_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.internal.md) 
 
@@ -52,4 +55,5 @@ The status of an Action.
 
 ### [action_status_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.personal.md) 
 
-### [action_status_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.secret.md) 
+### [action_status_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type.secret.md)
+

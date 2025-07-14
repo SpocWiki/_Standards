@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8251
 part_of_the_series: "[[_Standards/WikiData/WD~Seven_Military_Classics,117229]]"
 genre:
@@ -43,4 +43,23 @@ title: 孫子兵法
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Art%20of%20War) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Art_of_War](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.md) 
+
+### [Art_of_War.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.public.md) 
+
+### [Art_of_War.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.internal.md) 
+
+### [Art_of_War.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.protect.md) 
+
+### [Art_of_War.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.private.md) 
+
+### [Art_of_War.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.personal.md) 
+
+### [Art_of_War.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Art_of_War.secret.md)
 

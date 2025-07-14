@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, domiciledMortgage, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanMortgageMandateAmount, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [mortgage_loan](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.md) 
+### [mortgage_loan](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.md) 
+
+### [mortgage_loan.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.public.md) 
 
 ### [mortgage_loan.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.internal.md) 
 
@@ -56,4 +59,5 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 ### [mortgage_loan.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.personal.md) 
 
-### [mortgage_loan.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.secret.md) 
+### [mortgage_loan.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.secret.md)
+

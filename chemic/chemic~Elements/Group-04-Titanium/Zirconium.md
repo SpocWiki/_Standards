@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21938
 has_id_wikidata: Q1038
@@ -127,9 +127,12 @@ DSSTOX_compound_identifier: DTXCID4029777
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zirconium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Zirconium](/_public/chemic/chemic~Elements/Group-04-Titanium/Zirconium.md) 
+### [Zirconium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Zirconium.md) 
+
+### [Zirconium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Zirconium.public.md) 
 
 ### [Zirconium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.internal.md) 
 
@@ -139,4 +142,5 @@ DSSTOX_compound_identifier: DTXCID4029777
 
 ### [Zirconium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.personal.md) 
 
-### [Zirconium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Zirconium.secret.md) 
+### [Zirconium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Zirconium.secret.md)
+

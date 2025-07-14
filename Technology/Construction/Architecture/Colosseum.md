@@ -14,3 +14,22 @@ has_id_wikidata: Q10285
 > [Wikipedia](https://en.wikipedia.org/wiki/Colosseum) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Colosseum](/_Standards/Technology/Construction/Architecture/Colosseum.md) 
+
+### [Colosseum.public](/_public/Technology/Construction/Architecture/Colosseum.public.md) 
+
+### [Colosseum.internal](/_internal/Technology/Construction/Architecture/Colosseum.internal.md) 
+
+### [Colosseum.protect](/_protect/Technology/Construction/Architecture/Colosseum.protect.md) 
+
+### [Colosseum.private](/_private/Technology/Construction/Architecture/Colosseum.private.md) 
+
+### [Colosseum.personal](/_personal/Technology/Construction/Architecture/Colosseum.personal.md) 
+
+### [Colosseum.secret](/_secret/Technology/Construction/Architecture/Colosseum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_biomechnical_class )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_biomechnical_class](/_public/schema-org/Property/Texts/has_biomechnical_class.md) 
+### [has_biomechnical_class](/_Standards/schema-org/Property/Texts/has_biomechnical_class.md) 
+
+### [has_biomechnical_class.public](/_public/schema-org/Property/Texts/has_biomechnical_class.public.md) 
 
 ### [has_biomechnical_class.internal](/_internal/schema-org/Property/Texts/has_biomechnical_class.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_biomechnical_class.personal](/_personal/schema-org/Property/Texts/has_biomechnical_class.personal.md) 
 
-### [has_biomechnical_class.secret](/_secret/schema-org/Property/Texts/has_biomechnical_class.secret.md) 
+### [has_biomechnical_class.secret](/_secret/schema-org/Property/Texts/has_biomechnical_class.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An observational study design.
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [observational](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.md) 
+### [observational](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.md) 
+
+### [observational.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.public.md) 
 
 ### [observational.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.internal.md) 
 
@@ -56,4 +59,5 @@ An observational study design.
 
 ### [observational.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.personal.md) 
 
-### [observational.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.secret.md) 
+### [observational.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.secret.md)
+

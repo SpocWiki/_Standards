@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, jurisdiction, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOperator, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [government_service](/_public/schema-org/Class/is_a_/Intangible/service/government_service.md) 
+### [government_service](/_Standards/schema-org/Class/is_a_/Intangible/service/government_service.md) 
+
+### [government_service.public](/_public/schema-org/Class/is_a_/Intangible/service/government_service.public.md) 
 
 ### [government_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/government_service.internal.md) 
 
@@ -54,4 +57,5 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 ### [government_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/government_service.personal.md) 
 
-### [government_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/government_service.secret.md) 
+### [government_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/government_service.secret.md)
+

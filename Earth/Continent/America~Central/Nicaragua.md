@@ -446,9 +446,12 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicaragua)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nicaragua](/_public/Earth/Continent/America~Central/Nicaragua.md) 
+### [Nicaragua](/_Standards/Earth/Continent/America~Central/Nicaragua.md) 
+
+### [Nicaragua.public](/_public/Earth/Continent/America~Central/Nicaragua.public.md) 
 
 ### [Nicaragua.internal](/_internal/Earth/Continent/America~Central/Nicaragua.internal.md) 
 
@@ -458,4 +461,5 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 ### [Nicaragua.personal](/_personal/Earth/Continent/America~Central/Nicaragua.personal.md) 
 
-### [Nicaragua.secret](/_secret/Earth/Continent/America~Central/Nicaragua.secret.md) 
+### [Nicaragua.secret](/_secret/Earth/Continent/America~Central/Nicaragua.secret.md)
+

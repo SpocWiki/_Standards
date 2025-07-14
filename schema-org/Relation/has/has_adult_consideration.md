@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_adult_consideration )
 ( #has_/range :: AdultOrientedEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_adult_consideration](/_public/schema-org/Relation/has/has_adult_consideration.md) 
+### [has_adult_consideration](/_Standards/schema-org/Relation/has/has_adult_consideration.md) 
+
+### [has_adult_consideration.public](/_public/schema-org/Relation/has/has_adult_consideration.public.md) 
 
 ### [has_adult_consideration.internal](/_internal/schema-org/Relation/has/has_adult_consideration.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_adult_consideration.personal](/_personal/schema-org/Relation/has/has_adult_consideration.personal.md) 
 
-### [has_adult_consideration.secret](/_secret/schema-org/Relation/has/has_adult_consideration.secret.md) 
+### [has_adult_consideration.secret](/_secret/schema-org/Relation/has/has_adult_consideration.secret.md)
+

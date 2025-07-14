@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing that an order is being processed.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_processing](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.md) 
+### [order_processing](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.md) 
+
+### [order_processing.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.public.md) 
 
 ### [order_processing.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing that an order is being processed.
 
 ### [order_processing.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.personal.md) 
 
-### [order_processing.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.secret.md) 
+### [order_processing.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.secret.md)
+

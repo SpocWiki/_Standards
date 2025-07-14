@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ BasicIncome: this is a benefit for basic income.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [basic_income](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.md) 
+### [basic_income](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.md) 
+
+### [basic_income.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.public.md) 
 
 ### [basic_income.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.internal.md) 
 
@@ -58,4 +61,5 @@ BasicIncome: this is a benefit for basic income.
 
 ### [basic_income.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.personal.md) 
 
-### [basic_income.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.secret.md) 
+### [basic_income.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/basic_income.secret.md)
+

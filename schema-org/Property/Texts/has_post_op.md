@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_post_op )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_post_op](/_public/schema-org/Property/Texts/has_post_op.md) 
+### [has_post_op](/_Standards/schema-org/Property/Texts/has_post_op.md) 
+
+### [has_post_op.public](/_public/schema-org/Property/Texts/has_post_op.public.md) 
 
 ### [has_post_op.internal](/_internal/schema-org/Property/Texts/has_post_op.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_post_op.personal](/_personal/schema-org/Property/Texts/has_post_op.personal.md) 
 
-### [has_post_op.secret](/_secret/schema-org/Property/Texts/has_post_op.secret.md) 
+### [has_post_op.secret](/_secret/schema-org/Property/Texts/has_post_op.secret.md)
+

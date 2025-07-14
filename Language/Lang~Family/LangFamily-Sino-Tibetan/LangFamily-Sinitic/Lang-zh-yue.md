@@ -60,9 +60,12 @@ has_id_wikidata: Q7033959
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yue%20Chinese)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-zh-yue](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
+### [Lang-zh-yue](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
+
+### [Lang-zh-yue.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.public.md) 
 
 ### [Lang-zh-yue.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal.md) 
 
@@ -72,4 +75,5 @@ has_id_wikidata: Q7033959
 
 ### [Lang-zh-yue.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal.md) 
 
-### [Lang-zh-yue.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md) 
+### [Lang-zh-yue.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md)
+

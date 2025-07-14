@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A pond.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Pond](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.md) 
+### [FileClass~Pond](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.md) 
+
+### [FileClass~Pond.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.public.md) 
 
 ### [FileClass~Pond.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.internal.md) 
 
@@ -46,4 +47,5 @@ A pond.
 
 ### [FileClass~Pond.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.personal.md) 
 
-### [FileClass~Pond.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.secret.md) 
+### [FileClass~Pond.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Pond.secret.md)
+

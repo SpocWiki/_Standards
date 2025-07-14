@@ -145,9 +145,12 @@ OmegaWiki_Defined_Meaning: 6227
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-la](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.md) 
+### [Lang-la](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.md) 
+
+### [Lang-la.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.public.md) 
 
 ### [Lang-la.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.internal.md) 
 
@@ -157,4 +160,5 @@ OmegaWiki_Defined_Meaning: 6227
 
 ### [Lang-la.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.personal.md) 
 
-### [Lang-la.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.secret.md) 
+### [Lang-la.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ A hotel is an establishment that provides lodging paid on a short-term basis (so
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hotel](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.md) 
+### [FileClass~Hotel](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.md) 
+
+### [FileClass~Hotel.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.public.md) 
 
 ### [FileClass~Hotel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.internal.md) 
 
@@ -50,4 +51,5 @@ A hotel is an establishment that provides lodging paid on a short-term basis (so
 
 ### [FileClass~Hotel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.personal.md) 
 
-### [FileClass~Hotel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.secret.md) 
+### [FileClass~Hotel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hotel.secret.md)
+

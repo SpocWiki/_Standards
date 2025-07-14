@@ -440,9 +440,12 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Somalia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Somalia](/_public/Earth/Continent/Africa/Africa~East/Somalia.md) 
+### [Somalia](/_Standards/Earth/Continent/Africa/Africa~East/Somalia.md) 
+
+### [Somalia.public](/_public/Earth/Continent/Africa/Africa~East/Somalia.public.md) 
 
 ### [Somalia.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal.md) 
 
@@ -452,4 +455,5 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 
 ### [Somalia.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal.md) 
 
-### [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md) 
+### [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md)
+

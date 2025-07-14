@@ -170,3 +170,22 @@ Europeana_entity: agent/base/60054
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jorge%20Luis%20Borges)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Borges,Jorge_Luis](/_Standards/bio/People/Writer/Borges,Jorge_Luis.md) 
+
+### [Borges,Jorge_Luis.public](/_public/bio/People/Writer/Borges,Jorge_Luis.public.md) 
+
+### [Borges,Jorge_Luis.internal](/_internal/bio/People/Writer/Borges,Jorge_Luis.internal.md) 
+
+### [Borges,Jorge_Luis.protect](/_protect/bio/People/Writer/Borges,Jorge_Luis.protect.md) 
+
+### [Borges,Jorge_Luis.private](/_private/bio/People/Writer/Borges,Jorge_Luis.private.md) 
+
+### [Borges,Jorge_Luis.personal](/_personal/bio/People/Writer/Borges,Jorge_Luis.personal.md) 
+
+### [Borges,Jorge_Luis.secret](/_secret/bio/People/Writer/Borges,Jorge_Luis.secret.md)
+

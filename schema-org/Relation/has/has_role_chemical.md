@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_role_chemical )
 ( #has_/range :: DefinedTerm )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_role_chemical](/_public/schema-org/Relation/has/has_role_chemical.md) 
+### [has_role_chemical](/_Standards/schema-org/Relation/has/has_role_chemical.md) 
+
+### [has_role_chemical.public](/_public/schema-org/Relation/has/has_role_chemical.public.md) 
 
 ### [has_role_chemical.internal](/_internal/schema-org/Relation/has/has_role_chemical.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_role_chemical.personal](/_personal/schema-org/Relation/has/has_role_chemical.personal.md) 
 
-### [has_role_chemical.secret](/_secret/schema-org/Relation/has/has_role_chemical.secret.md) 
+### [has_role_chemical.secret](/_secret/schema-org/Relation/has/has_role_chemical.secret.md)
+

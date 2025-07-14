@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_to](/_public/schema-org/Property/has_location/has_location_to.md) 
+### [has_location_to](/_Standards/schema-org/Property/has_location/has_location_to.md) 
+
+### [has_location_to.public](/_public/schema-org/Property/has_location/has_location_to.public.md) 
 
 ### [has_location_to.internal](/_internal/schema-org/Property/has_location/has_location_to.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_location_to.personal](/_personal/schema-org/Property/has_location/has_location_to.personal.md) 
 
-### [has_location_to.secret](/_secret/schema-org/Property/has_location/has_location_to.secret.md) 
+### [has_location_to.secret](/_secret/schema-org/Property/has_location/has_location_to.secret.md)
+

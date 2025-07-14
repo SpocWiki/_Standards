@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Overview of the content. Contains a summarized view of the topic with the most r
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [overview_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.md) 
+### [overview_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.md) 
+
+### [overview_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.public.md) 
 
 ### [overview_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Overview of the content. Contains a summarized view of the topic with the most r
 
 ### [overview_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.personal.md) 
 
-### [overview_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.secret.md) 
+### [overview_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/overview_health_aspect.secret.md)
+

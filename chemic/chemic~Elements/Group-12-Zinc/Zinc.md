@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21928
 has_id_wikidata: Q758
@@ -154,10 +154,11 @@ CosIng_number: 86562
 > [Wikipedia](https://en.wikipedia.org/wiki/Zinc)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Zinc](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
+### [Zinc](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
+
+### [Zinc.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.public.md) 
 
 ### [Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Zinc.internal.md) 
 
@@ -167,4 +168,5 @@ CosIng_number: 86562
 
 ### [Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Zinc.personal.md) 
 
-### [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md) 
+### [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md)
+

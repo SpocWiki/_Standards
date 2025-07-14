@@ -80,3 +80,22 @@ Comments           Marijuana plant (Cannabaceae), cultivated at the Botanical Ga
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rosales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.md) 
+
+### [Rosales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.public.md) 
+
+### [Rosales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.internal.md) 
+
+### [Rosales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.protect.md) 
+
+### [Rosales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.private.md) 
+
+### [Rosales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.personal.md) 
+
+### [Rosales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales.secret.md)
+

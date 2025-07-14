@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9620
 part_of: "[[_Standards/WikiData/WD~peripheral_nervous_system,169953]]"
 has_part_s_: '[[_Standards/WikiData/WD~axon,178999]]'
@@ -37,4 +37,23 @@ TA98_Latin_term: nervus
 > In the central nervous system, the analogous structures are known as nerve tracts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nerve)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nerve](/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve.md) 
+
+### [Nerve.public](/_public/bio/Medicine/Anatomy/Nervous_System/Nerve.public.md) 
+
+### [Nerve.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Nerve.internal.md) 
+
+### [Nerve.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Nerve.protect.md) 
+
+### [Nerve.private](/_private/bio/Medicine/Anatomy/Nervous_System/Nerve.private.md) 
+
+### [Nerve.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Nerve.personal.md) 
+
+### [Nerve.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Nerve.secret.md)
 

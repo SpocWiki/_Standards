@@ -644,10 +644,11 @@ Major Cities with Population in 1000s as of @2024
 [has_place_latitude::61.8685]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Norway](/_public/Earth/Continent/Europe/Europe~North/Norway.md) 
+### [Norway](/_Standards/Earth/Continent/Europe/Europe~North/Norway.md) 
+
+### [Norway.public](/_public/Earth/Continent/Europe/Europe~North/Norway.public.md) 
 
 ### [Norway.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway.internal.md) 
 
@@ -657,4 +658,5 @@ Major Cities with Population in 1000s as of @2024
 
 ### [Norway.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway.personal.md) 
 
-### [Norway.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway.secret.md) 
+### [Norway.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway.secret.md)
+

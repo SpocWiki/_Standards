@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sports_event](/_public/schema-org/Relation/has/has_sports_event.md) 
+### [has_sports_event](/_Standards/schema-org/Relation/has/has_sports_event.md) 
+
+### [has_sports_event.public](/_public/schema-org/Relation/has/has_sports_event.public.md) 
 
 ### [has_sports_event.internal](/_internal/schema-org/Relation/has/has_sports_event.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_sports_event.personal](/_personal/schema-org/Relation/has/has_sports_event.personal.md) 
 
-### [has_sports_event.secret](/_secret/schema-org/Relation/has/has_sports_event.secret.md) 
+### [has_sports_event.secret](/_secret/schema-org/Relation/has/has_sports_event.secret.md)
+

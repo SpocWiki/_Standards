@@ -564,3 +564,21 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Comments          Earthstar (Gomphoid-Phalloid clade)
   Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Agaricomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.md) 
+
+### [Agaricomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.public.md) 
+
+### [Agaricomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.internal.md) 
+
+### [Agaricomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.protect.md) 
+
+### [Agaricomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.private.md) 
+
+### [Agaricomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.personal.md) 
+
+### [Agaricomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.secret.md)
+

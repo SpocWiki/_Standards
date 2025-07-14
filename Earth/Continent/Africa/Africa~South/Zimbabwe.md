@@ -463,9 +463,12 @@ Capital :: [[Harare]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zimbabwe)
 
+
 ## Confidential Links & Embeds: 
 
-### [Zimbabwe](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.md) 
+### [Zimbabwe](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe.md) 
+
+### [Zimbabwe.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public.md) 
 
 ### [Zimbabwe.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal.md) 
 
@@ -475,4 +478,5 @@ Capital :: [[Harare]]
 
 ### [Zimbabwe.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal.md) 
 
-### [Zimbabwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret.md) 
+### [Zimbabwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret.md)
+

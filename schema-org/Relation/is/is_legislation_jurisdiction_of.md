@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_legislation_jurisdiction_of](/_public/schema-org/Relation/is/is_legislation_jurisdiction_of.md) 
+### [is_legislation_jurisdiction_of](/_Standards/schema-org/Relation/is/is_legislation_jurisdiction_of.md) 
+
+### [is_legislation_jurisdiction_of.public](/_public/schema-org/Relation/is/is_legislation_jurisdiction_of.public.md) 
 
 ### [is_legislation_jurisdiction_of.internal](/_internal/schema-org/Relation/is/is_legislation_jurisdiction_of.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_legislation_jurisdiction_of.personal](/_personal/schema-org/Relation/is/is_legislation_jurisdiction_of.personal.md) 
 
-### [is_legislation_jurisdiction_of.secret](/_secret/schema-org/Relation/is/is_legislation_jurisdiction_of.secret.md) 
+### [is_legislation_jurisdiction_of.secret](/_secret/schema-org/Relation/is/is_legislation_jurisdiction_of.secret.md)
+

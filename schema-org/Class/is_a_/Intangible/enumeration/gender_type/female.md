@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The female gender.
 
 [ #is_/enum_of :: [[../GenderType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [female](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.md) 
+### [female](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.md) 
+
+### [female.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.public.md) 
 
 ### [female.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.internal.md) 
 
@@ -56,4 +59,5 @@ The female gender.
 
 ### [female.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.personal.md) 
 
-### [female.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.secret.md) 
+### [female.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/female.secret.md)
+

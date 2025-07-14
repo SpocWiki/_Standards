@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [co_op](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.md) 
+### [co_op](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.md) 
+
+### [co_op.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.public.md) 
 
 ### [co_op.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.internal.md) 
 
@@ -56,4 +59,5 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 
 ### [co_op.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.personal.md) 
 
-### [co_op.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.secret.md) 
+### [co_op.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,7 +53,9 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.md) 
+### [FileClass~CivicStructureAndEntertainmentBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.md) 
+
+### [FileClass~CivicStructureAndEntertainmentBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.public.md) 
 
 ### [FileClass~CivicStructureAndEntertainmentBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.internal.md) 
 
@@ -63,4 +65,5 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ### [FileClass~CivicStructureAndEntertainmentBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.personal.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.secret.md) 
+### [FileClass~CivicStructureAndEntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.secret.md)
+

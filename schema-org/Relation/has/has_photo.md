@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: image ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_photo](/_public/schema-org/Relation/has/has_photo.md) 
+### [has_photo](/_Standards/schema-org/Relation/has/has_photo.md) 
+
+### [has_photo.public](/_public/schema-org/Relation/has/has_photo.public.md) 
 
 ### [has_photo.internal](/_internal/schema-org/Relation/has/has_photo.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_photo.personal](/_personal/schema-org/Relation/has/has_photo.personal.md) 
 
-### [has_photo.secret](/_secret/schema-org/Relation/has/has_photo.secret.md) 
+### [has_photo.secret](/_secret/schema-org/Relation/has/has_photo.secret.md)
+

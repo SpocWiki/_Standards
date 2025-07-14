@@ -638,9 +638,12 @@ Capital :: [[Hanoe]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vietnam)
 
+
 ## Confidential Links & Embeds: 
 
-### [Vietnam](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.md) 
+### [Vietnam](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam.md) 
+
+### [Vietnam.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public.md) 
 
 ### [Vietnam.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal.md) 
 
@@ -650,4 +653,5 @@ Capital :: [[Hanoe]]
 
 ### [Vietnam.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal.md) 
 
-### [Vietnam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret.md) 
+### [Vietnam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret.md)
+

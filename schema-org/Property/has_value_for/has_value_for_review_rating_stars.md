@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_review_rating_stars )
 ( #has_/range :: Rating )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_review_rating_stars](/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.md) 
+### [has_value_for_review_rating_stars](/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars.md) 
+
+### [has_value_for_review_rating_stars.public](/_public/schema-org/Property/has_value_for/has_value_for_review_rating_stars.public.md) 
 
 ### [has_value_for_review_rating_stars.internal](/_internal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_review_rating_stars.personal](/_personal/schema-org/Property/has_value_for/has_value_for_review_rating_stars.personal.md) 
 
-### [has_value_for_review_rating_stars.secret](/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret.md) 
+### [has_value_for_review_rating_stars.secret](/_secret/schema-org/Property/has_value_for/has_value_for_review_rating_stars.secret.md)
+

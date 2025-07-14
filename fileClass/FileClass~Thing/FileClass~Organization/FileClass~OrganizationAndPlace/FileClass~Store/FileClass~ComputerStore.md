@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A computer store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComputerStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.md) 
+### [FileClass~ComputerStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.md) 
+
+### [FileClass~ComputerStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.public.md) 
 
 ### [FileClass~ComputerStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.internal.md) 
 
@@ -46,4 +47,5 @@ A computer store.
 
 ### [FileClass~ComputerStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.personal.md) 
 
-### [FileClass~ComputerStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.secret.md) 
+### [FileClass~ComputerStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.secret.md)
+

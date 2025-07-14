@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [endorsement_rating](/_public/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.md) 
+### [endorsement_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.md) 
+
+### [endorsement_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.public.md) 
 
 ### [endorsement_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.internal.md) 
 
@@ -59,4 +62,5 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 
 ### [endorsement_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.personal.md) 
 
-### [endorsement_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.secret.md) 
+### [endorsement_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.secret.md)
+

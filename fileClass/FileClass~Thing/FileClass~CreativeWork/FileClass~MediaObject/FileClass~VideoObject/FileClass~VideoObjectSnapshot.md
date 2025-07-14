@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A specific and exact (byte-for-byte) version of a [[VideoObject]]. Two byte-for-
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VideoObjectSnapshot](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.md) 
+### [FileClass~VideoObjectSnapshot](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.md) 
+
+### [FileClass~VideoObjectSnapshot.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.public.md) 
 
 ### [FileClass~VideoObjectSnapshot.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.internal.md) 
 
@@ -46,4 +47,5 @@ A specific and exact (byte-for-byte) version of a [[VideoObject]]. Two byte-for-
 
 ### [FileClass~VideoObjectSnapshot.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.personal.md) 
 
-### [FileClass~VideoObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.secret.md) 
+### [FileClass~VideoObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject/FileClass~VideoObjectSnapshot.secret.md)
+

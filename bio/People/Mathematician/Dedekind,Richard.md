@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Richard Dedekind
   - Julius Wilhelm Richard Dedekind
@@ -19,18 +19,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Dedekind)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dedekind,Richard](/_public/Mathematics/Mathematicians/Dedekind,Richard.md) 
+### [Dedekind,Richard](/_Standards/bio/People/Mathematician/Dedekind,Richard.md) 
 
-### [Dedekind,Richard.internal](/_internal/Mathematics/Mathematicians/Dedekind,Richard.internal.md) 
+### [Dedekind,Richard.public](/_public/bio/People/Mathematician/Dedekind,Richard.public.md) 
 
-### [Dedekind,Richard.protect](/_protect/Mathematics/Mathematicians/Dedekind,Richard.protect.md) 
+### [Dedekind,Richard.internal](/_internal/bio/People/Mathematician/Dedekind,Richard.internal.md) 
 
-### [Dedekind,Richard.private](/_private/Mathematics/Mathematicians/Dedekind,Richard.private.md) 
+### [Dedekind,Richard.protect](/_protect/bio/People/Mathematician/Dedekind,Richard.protect.md) 
 
-### [Dedekind,Richard.personal](/_personal/Mathematics/Mathematicians/Dedekind,Richard.personal.md) 
+### [Dedekind,Richard.private](/_private/bio/People/Mathematician/Dedekind,Richard.private.md) 
 
-### [Dedekind,Richard.secret](/_secret/Mathematics/Mathematicians/Dedekind,Richard.secret.md) 
+### [Dedekind,Richard.personal](/_personal/bio/People/Mathematician/Dedekind,Richard.personal.md) 
+
+### [Dedekind,Richard.secret](/_secret/bio/People/Mathematician/Dedekind,Richard.secret.md)
+

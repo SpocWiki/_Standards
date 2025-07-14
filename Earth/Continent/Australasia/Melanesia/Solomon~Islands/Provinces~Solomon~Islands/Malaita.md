@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9 , 161 ] 
 type: geo-Region
 title: Malaita
@@ -41,7 +41,9 @@ markerFolder: ./Malaita/
 
 ## Confidential Links & Embeds: 
 
-### [Malaita](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.md) 
+### [Malaita](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.md) 
+
+### [Malaita.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.public.md) 
 
 ### [Malaita.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Malaita/
 
 ### [Malaita.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.personal.md) 
 
-### [Malaita.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.secret.md) 
+### [Malaita.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Malaita.secret.md)
+

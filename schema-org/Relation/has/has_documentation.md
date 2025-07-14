@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_documentation )
 ( #has_/range :: CreativeWork, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_documentation](/_public/schema-org/Relation/has/has_documentation.md) 
+### [has_documentation](/_Standards/schema-org/Relation/has/has_documentation.md) 
+
+### [has_documentation.public](/_public/schema-org/Relation/has/has_documentation.public.md) 
 
 ### [has_documentation.internal](/_internal/schema-org/Relation/has/has_documentation.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_documentation.personal](/_personal/schema-org/Relation/has/has_documentation.personal.md) 
 
-### [has_documentation.secret](/_secret/schema-org/Relation/has/has_documentation.secret.md) 
+### [has_documentation.secret](/_secret/schema-org/Relation/has/has_documentation.secret.md)
+

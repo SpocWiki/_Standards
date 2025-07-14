@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_height_in_meters )
 ( #has_/range :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_height_in_meters](/_public/schema-org/Property/has_value_for/has_value_for_height_in_meters.md) 
+### [has_value_for_height_in_meters](/_Standards/schema-org/Property/has_value_for/has_value_for_height_in_meters.md) 
+
+### [has_value_for_height_in_meters.public](/_public/schema-org/Property/has_value_for/has_value_for_height_in_meters.public.md) 
 
 ### [has_value_for_height_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_value_for_height_in_meters.internal.md) 
 
@@ -54,4 +57,5 @@ Predicate describes that:
 
 ### [has_value_for_height_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_value_for_height_in_meters.personal.md) 
 
-### [has_value_for_height_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_height_in_meters.secret.md) 
+### [has_value_for_height_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_height_in_meters.secret.md)
+

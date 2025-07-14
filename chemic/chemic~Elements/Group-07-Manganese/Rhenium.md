@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21971
 has_id_wikidata: Q737
@@ -117,9 +117,12 @@ Commons_category: Rhenium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhenium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Rhenium](/_public/chemic/chemic~Elements/Group-07-Manganese/Rhenium.md) 
+### [Rhenium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Rhenium.md) 
+
+### [Rhenium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Rhenium.public.md) 
 
 ### [Rhenium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.internal.md) 
 
@@ -129,4 +132,5 @@ Commons_category: Rhenium
 
 ### [Rhenium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.personal.md) 
 
-### [Rhenium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Rhenium.secret.md) 
+### [Rhenium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Rhenium.secret.md)
+

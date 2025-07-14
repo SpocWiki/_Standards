@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_lyricist )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_lyricist](/_public/schema-org/Relation/has/has_lyricist.md) 
+### [has_lyricist](/_Standards/schema-org/Relation/has/has_lyricist.md) 
+
+### [has_lyricist.public](/_public/schema-org/Relation/has/has_lyricist.public.md) 
 
 ### [has_lyricist.internal](/_internal/schema-org/Relation/has/has_lyricist.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_lyricist.personal](/_personal/schema-org/Relation/has/has_lyricist.personal.md) 
 
-### [has_lyricist.secret](/_secret/schema-org/Relation/has/has_lyricist.secret.md) 
+### [has_lyricist.secret](/_secret/schema-org/Relation/has/has_lyricist.secret.md)
+

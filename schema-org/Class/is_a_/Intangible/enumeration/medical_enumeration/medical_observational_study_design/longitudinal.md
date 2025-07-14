@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [longitudinal](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.md) 
+### [longitudinal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.md) 
+
+### [longitudinal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.public.md) 
 
 ### [longitudinal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.internal.md) 
 
@@ -56,4 +59,5 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 
 ### [longitudinal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.personal.md) 
 
-### [longitudinal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.secret.md) 
+### [longitudinal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_legislation_responsible )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legislation_responsible](/_public/schema-org/Relation/has/has_legislation_responsible.md) 
+### [has_legislation_responsible](/_Standards/schema-org/Relation/has/has_legislation_responsible.md) 
+
+### [has_legislation_responsible.public](/_public/schema-org/Relation/has/has_legislation_responsible.public.md) 
 
 ### [has_legislation_responsible.internal](/_internal/schema-org/Relation/has/has_legislation_responsible.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_legislation_responsible.personal](/_personal/schema-org/Relation/has/has_legislation_responsible.personal.md) 
 
-### [has_legislation_responsible.secret](/_secret/schema-org/Relation/has/has_legislation_responsible.secret.md) 
+### [has_legislation_responsible.secret](/_secret/schema-org/Relation/has/has_legislation_responsible.secret.md)
+

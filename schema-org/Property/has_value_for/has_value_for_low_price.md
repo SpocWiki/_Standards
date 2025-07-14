@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_low_price )
 ( #has_/range :: Number, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_low_price](/_public/schema-org/Property/has_value_for/has_value_for_low_price.md) 
+### [has_value_for_low_price](/_Standards/schema-org/Property/has_value_for/has_value_for_low_price.md) 
+
+### [has_value_for_low_price.public](/_public/schema-org/Property/has_value_for/has_value_for_low_price.public.md) 
 
 ### [has_value_for_low_price.internal](/_internal/schema-org/Property/has_value_for/has_value_for_low_price.internal.md) 
 
@@ -67,4 +70,5 @@ Predicate describes that:
 
 ### [has_value_for_low_price.personal](/_personal/schema-org/Property/has_value_for/has_value_for_low_price.personal.md) 
 
-### [has_value_for_low_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret.md) 
+### [has_value_for_low_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret.md)
+

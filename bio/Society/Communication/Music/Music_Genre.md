@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Music genre"
 has_id_wikidata: Q188451
@@ -40,4 +40,23 @@ Commons_category: "Musical genres"
 > Music can be divided into genres in numerous ways, sometimes broadly and with polarity, such as for popular music, as opposed to art music or folk music; or, as another example, religious music and secular music. The artistic nature of music means that these classifications are often subjective and controversial, and some genres may overlap. As genres evolve, sometimes new music is lumped into existing categories or else a proliferation of derivative subgenres, fusion genres and "micro genres" starts to accrue.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20genre) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Music_Genre](/_Standards/bio/Society/Communication/Music/Music_Genre.md) 
+
+### [Music_Genre.public](/_public/bio/Society/Communication/Music/Music_Genre.public.md) 
+
+### [Music_Genre.internal](/_internal/bio/Society/Communication/Music/Music_Genre.internal.md) 
+
+### [Music_Genre.protect](/_protect/bio/Society/Communication/Music/Music_Genre.protect.md) 
+
+### [Music_Genre.private](/_private/bio/Society/Communication/Music/Music_Genre.private.md) 
+
+### [Music_Genre.personal](/_personal/bio/Society/Communication/Music/Music_Genre.personal.md) 
+
+### [Music_Genre.secret](/_secret/bio/Society/Communication/Music/Music_Genre.secret.md)
 

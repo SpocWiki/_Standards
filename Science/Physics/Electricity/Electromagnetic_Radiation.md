@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12969754
 part_of: "[[_Standards/WikiData/WD~electromagnetic_field,177625]]"
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -43,4 +43,23 @@ Krugosvet_article: nauka_i_tehnika/fizika/ELEKTROMAGNITNOE_IZLUCHENIE.html
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Electromagnetic_Radiation](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation.md) 
+
+### [Electromagnetic_Radiation.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation.public.md) 
+
+### [Electromagnetic_Radiation.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation.internal.md) 
+
+### [Electromagnetic_Radiation.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation.protect.md) 
+
+### [Electromagnetic_Radiation.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation.private.md) 
+
+### [Electromagnetic_Radiation.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation.personal.md) 
+
+### [Electromagnetic_Radiation.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation.secret.md)
 

@@ -69,3 +69,22 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 Scientific Name ::     Sminthurides aquaticus
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Symphypleona](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.md) 
+
+### [Symphypleona.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.public.md) 
+
+### [Symphypleona.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.internal.md) 
+
+### [Symphypleona.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.protect.md) 
+
+### [Symphypleona.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.private.md) 
+
+### [Symphypleona.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.personal.md) 
+
+### [Symphypleona.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.secret.md)
+

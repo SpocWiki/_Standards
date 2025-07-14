@@ -205,3 +205,22 @@ Specimen Condition   Dead Specimen
 Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Aspidogastrea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.md) 
+
+### [Aspidogastrea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.public.md) 
+
+### [Aspidogastrea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.internal.md) 
+
+### [Aspidogastrea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.protect.md) 
+
+### [Aspidogastrea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.private.md) 
+
+### [Aspidogastrea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.personal.md) 
+
+### [Aspidogastrea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.secret.md)
+

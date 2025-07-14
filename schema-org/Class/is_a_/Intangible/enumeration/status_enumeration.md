@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Lists or enumerations dealing with status types.
 
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [status_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.md) 
+### [status_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.md) 
+
+### [status_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.public.md) 
 
 ### [status_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Lists or enumerations dealing with status types.
 
 ### [status_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.personal.md) 
 
-### [status_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.secret.md) 
+### [status_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.secret.md)
+

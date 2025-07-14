@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -12.7806
 - 45.2278
@@ -131,10 +131,11 @@ Capital :: [[Mamoudzou]]
 [has_place_latitude::-12.7806]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Mayotte](/_public/Earth/Continent/Africa/Africa~East/Mayotte.md) 
+### [Mayotte](/_Standards/Earth/Continent/Africa/Africa~East/Mayotte.md) 
+
+### [Mayotte.public](/_public/Earth/Continent/Africa/Africa~East/Mayotte.public.md) 
 
 ### [Mayotte.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte.internal.md) 
 
@@ -144,4 +145,5 @@ Capital :: [[Mamoudzou]]
 
 ### [Mayotte.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte.personal.md) 
 
-### [Mayotte.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret.md) 
+### [Mayotte.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret.md)
+

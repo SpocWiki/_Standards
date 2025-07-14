@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11004
 Commons_category: Vegetables
 studied_in:
@@ -65,4 +65,23 @@ hashtag: vegetables
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vegetable) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vegetable](/_Standards/Home_Economics/Cooking/Food/Vegetable.md) 
+
+### [Vegetable.public](/_public/Home_Economics/Cooking/Food/Vegetable.public.md) 
+
+### [Vegetable.internal](/_internal/Home_Economics/Cooking/Food/Vegetable.internal.md) 
+
+### [Vegetable.protect](/_protect/Home_Economics/Cooking/Food/Vegetable.protect.md) 
+
+### [Vegetable.private](/_private/Home_Economics/Cooking/Food/Vegetable.private.md) 
+
+### [Vegetable.personal](/_personal/Home_Economics/Cooking/Food/Vegetable.personal.md) 
+
+### [Vegetable.secret](/_secret/Home_Economics/Cooking/Food/Vegetable.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [disagree_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.md) 
+### [disagree_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.md) 
+
+### [disagree_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.public.md) 
 
 ### [disagree_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 ### [disagree_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.personal.md) 
 
-### [disagree_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.secret.md) 
+### [disagree_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action/disagree_action.secret.md)
+

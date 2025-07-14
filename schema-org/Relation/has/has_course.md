@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_course )
 ( #has_/range :: Course )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_course](/_public/schema-org/Relation/has/has_course.md) 
+### [has_course](/_Standards/schema-org/Relation/has/has_course.md) 
+
+### [has_course.public](/_public/schema-org/Relation/has/has_course.public.md) 
 
 ### [has_course.internal](/_internal/schema-org/Relation/has/has_course.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_course.personal](/_personal/schema-org/Relation/has/has_course.personal.md) 
 
-### [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md) 
+### [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md)
+

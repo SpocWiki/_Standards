@@ -162,9 +162,12 @@ ZVG_number: 8170
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titanium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Titanium](/_public/chemic/chemic~Elements/Group-04-Titanium/Titanium.md) 
+### [Titanium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Titanium.md) 
+
+### [Titanium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Titanium.public.md) 
 
 ### [Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Titanium.internal.md) 
 
@@ -174,4 +177,5 @@ ZVG_number: 8170
 
 ### [Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Titanium.personal.md) 
 
-### [Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Titanium.secret.md) 
+### [Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Titanium.secret.md)
+

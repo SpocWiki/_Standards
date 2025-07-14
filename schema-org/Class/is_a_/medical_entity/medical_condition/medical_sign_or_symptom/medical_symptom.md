@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_symptom](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.md) 
+### [medical_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.md) 
+
+### [medical_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.public.md) 
 
 ### [medical_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal.md) 
 
@@ -54,4 +57,5 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ### [medical_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal.md) 
 
-### [medical_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md) 
+### [medical_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md)
+

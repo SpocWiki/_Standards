@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [service](/_public/schema-org/Class/is_a_/Intangible/service.md) 
+### [service](/_Standards/schema-org/Class/is_a_/Intangible/service.md) 
+
+### [service.public](/_public/schema-org/Class/is_a_/Intangible/service.public.md) 
 
 ### [service.internal](/_internal/schema-org/Class/is_a_/Intangible/service.internal.md) 
 
@@ -56,4 +59,5 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 ### [service.personal](/_personal/schema-org/Class/is_a_/Intangible/service.personal.md) 
 
-### [service.secret](/_secret/schema-org/Class/is_a_/Intangible/service.secret.md) 
+### [service.secret](/_secret/schema-org/Class/is_a_/Intangible/service.secret.md)
+

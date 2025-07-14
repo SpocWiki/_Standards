@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -85,10 +85,11 @@ The value of an active ingredient's strength, e.g. 325.
 StrengthValue:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrugStrength](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.md) 
+### [FileClass~DrugStrength](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.md) 
+
+### [FileClass~DrugStrength.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.public.md) 
 
 ### [FileClass~DrugStrength.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.internal.md) 
 
@@ -98,4 +99,5 @@ StrengthValue:: {"type":"Number","options":{}}
 
 ### [FileClass~DrugStrength.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.personal.md) 
 
-### [FileClass~DrugStrength.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.secret.md) 
+### [FileClass~DrugStrength.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DrugStrength.secret.md)
+

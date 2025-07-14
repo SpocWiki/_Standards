@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AskPublicNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.md) 
+### [FileClass~AskPublicNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.md) 
+
+### [FileClass~AskPublicNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.public.md) 
 
 ### [FileClass~AskPublicNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.internal.md) 
 
@@ -46,4 +47,5 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 
 ### [FileClass~AskPublicNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.personal.md) 
 
-### [FileClass~AskPublicNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.secret.md) 
+### [FileClass~AskPublicNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.secret.md)
+

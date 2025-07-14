@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -63,9 +63,12 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [decontextualized_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
+### [decontextualized_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
+
+### [decontextualized_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.public.md) 
 
 ### [decontextualized_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md) 
 
@@ -75,4 +78,5 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 
 ### [decontextualized_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal.md) 
 
-### [decontextualized_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md) 
+### [decontextualized_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md)
+

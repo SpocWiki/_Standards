@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A particular physical or virtual business of an organization for medical purpose
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_business](/_public/schema-org/Class/is_a_/organization/local_business/medical_business.md) 
+### [medical_business](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business.md) 
+
+### [medical_business.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business.public.md) 
 
 ### [medical_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business.internal.md) 
 
@@ -56,4 +59,5 @@ A particular physical or virtual business of an organization for medical purpose
 
 ### [medical_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business.personal.md) 
 
-### [medical_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business.secret.md) 
+### [medical_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business.secret.md)
+

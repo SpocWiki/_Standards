@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Any collection of tests commonly ordered together.
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subTest, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_test_panel](/_public/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md) 
+### [medical_test_panel](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md) 
+
+### [medical_test_panel.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.public.md) 
 
 ### [medical_test_panel.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal.md) 
 
@@ -54,4 +57,5 @@ Any collection of tests commonly ordered together.
 
 ### [medical_test_panel.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.personal.md) 
 
-### [medical_test_panel.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret.md) 
+### [medical_test_panel.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret.md)
+

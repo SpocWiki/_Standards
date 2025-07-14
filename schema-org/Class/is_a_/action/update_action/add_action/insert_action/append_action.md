@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of inserting at the end if an ordered collection.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [append_action](/_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.md) 
+### [append_action](/_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.md) 
+
+### [append_action.public](/_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.public.md) 
 
 ### [append_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of inserting at the end if an ordered collection.
 
 ### [append_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.personal.md) 
 
-### [append_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.secret.md) 
+### [append_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/add_action/insert_action/append_action.secret.md)
+

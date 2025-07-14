@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_scheduled_payment)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_scheduled_payment](/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.md) 
+### [has_time_of_scheduled_payment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.md) 
+
+### [has_time_of_scheduled_payment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.public.md) 
 
 ### [has_time_of_scheduled_payment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_scheduled_payment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.personal.md) 
 
-### [has_time_of_scheduled_payment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret.md) 
+### [has_time_of_scheduled_payment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret.md)
+

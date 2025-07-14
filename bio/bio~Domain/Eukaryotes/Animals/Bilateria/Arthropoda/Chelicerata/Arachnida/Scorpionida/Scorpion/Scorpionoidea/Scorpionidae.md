@@ -49,3 +49,22 @@ Photograph copyright © 1991, Scott A. Stockwell.
 ![](scorpionidae.jpg)
 Copyright ::   © 1991 Scott A. Stockwell
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scorpionidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.md) 
+
+### [Scorpionidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.public.md) 
+
+### [Scorpionidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.internal.md) 
+
+### [Scorpionidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.protect.md) 
+
+### [Scorpionidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.private.md) 
+
+### [Scorpionidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.personal.md) 
+
+### [Scorpionidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Scorpionidae.secret.md)
+

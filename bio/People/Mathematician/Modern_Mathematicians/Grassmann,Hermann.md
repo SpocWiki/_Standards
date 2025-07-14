@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Hermann Grassmann
   - Hermann Graßmann
@@ -28,14 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Grassmann,Hermann](/_public/Mathematics/Mathematicians/Grassmann,Hermann.md) 
+### [Grassmann,Hermann](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.md) 
 
-### [Grassmann,Hermann.internal](/_internal/Mathematics/Mathematicians/Grassmann,Hermann.internal.md) 
+### [Grassmann,Hermann.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.public.md) 
 
-### [Grassmann,Hermann.protect](/_protect/Mathematics/Mathematicians/Grassmann,Hermann.protect.md) 
+### [Grassmann,Hermann.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.internal.md) 
 
-### [Grassmann,Hermann.private](/_private/Mathematics/Mathematicians/Grassmann,Hermann.private.md) 
+### [Grassmann,Hermann.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.protect.md) 
 
-### [Grassmann,Hermann.personal](/_personal/Mathematics/Mathematicians/Grassmann,Hermann.personal.md) 
+### [Grassmann,Hermann.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.private.md) 
 
-### [Grassmann,Hermann.secret](/_secret/Mathematics/Mathematicians/Grassmann,Hermann.secret.md) 
+### [Grassmann,Hermann.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.personal.md) 
+
+### [Grassmann,Hermann.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Grassmann,Hermann.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -39,10 +39,11 @@ for marking up hotels and other forms of accommodations</a>.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Resort](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.md) 
+### [FileClass~Resort](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.md) 
+
+### [FileClass~Resort.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.public.md) 
 
 ### [FileClass~Resort.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.internal.md) 
 
@@ -52,4 +53,5 @@ for marking up hotels and other forms of accommodations</a>.
 
 ### [FileClass~Resort.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.personal.md) 
 
-### [FileClass~Resort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.secret.md) 
+### [FileClass~Resort.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort.secret.md)
+

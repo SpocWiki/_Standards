@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: has_capital )
 ( #has_/range :: [[../../Class/is_a_/place/administrative_area/city|city]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_capital](/_public/schema-org/Relation/has/has_capital.md) 
+### [has_capital](/_Standards/schema-org/Relation/has/has_capital.md) 
+
+### [has_capital.public](/_public/schema-org/Relation/has/has_capital.public.md) 
 
 ### [has_capital.internal](/_internal/schema-org/Relation/has/has_capital.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_capital.personal](/_personal/schema-org/Relation/has/has_capital.personal.md) 
 
-### [has_capital.secret](/_secret/schema-org/Relation/has/has_capital.secret.md) 
+### [has_capital.secret](/_secret/schema-org/Relation/has/has_capital.secret.md)
+

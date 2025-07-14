@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Event type: Sports event.
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sports_event](/_public/schema-org/Class/is_a_/event/sports_event.md) 
+### [sports_event](/_Standards/schema-org/Class/is_a_/event/sports_event.md) 
+
+### [sports_event.public](/_public/schema-org/Class/is_a_/event/sports_event.public.md) 
 
 ### [sports_event.internal](/_internal/schema-org/Class/is_a_/event/sports_event.internal.md) 
 
@@ -54,4 +57,5 @@ Event type: Sports event.
 
 ### [sports_event.personal](/_personal/schema-org/Class/is_a_/event/sports_event.personal.md) 
 
-### [sports_event.secret](/_secret/schema-org/Class/is_a_/event/sports_event.secret.md) 
+### [sports_event.secret](/_secret/schema-org/Class/is_a_/event/sports_event.secret.md)
+

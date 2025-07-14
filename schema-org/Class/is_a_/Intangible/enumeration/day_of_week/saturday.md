@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The day of the week between Friday and Sunday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [saturday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.md) 
+### [saturday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.md) 
+
+### [saturday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.public.md) 
 
 ### [saturday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.internal.md) 
 
@@ -56,4 +59,5 @@ The day of the week between Friday and Sunday.
 
 ### [saturday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.personal.md) 
 
-### [saturday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.secret.md) 
+### [saturday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/saturday.secret.md)
+

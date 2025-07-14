@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,9 +51,12 @@ Relation describes that:
 ( #has_/name :: is_provider )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_provider](/_public/schema-org/Relation/has/has_provider.md) 
+### [has_provider](/_Standards/schema-org/Relation/has/has_provider.md) 
+
+### [has_provider.public](/_public/schema-org/Relation/has/has_provider.public.md) 
 
 ### [has_provider.internal](/_internal/schema-org/Relation/has/has_provider.internal.md) 
 
@@ -63,4 +66,5 @@ Relation describes that:
 
 ### [has_provider.personal](/_personal/schema-org/Relation/has/has_provider.personal.md) 
 
-### [has_provider.secret](/_secret/schema-org/Relation/has/has_provider.secret.md) 
+### [has_provider.secret](/_secret/schema-org/Relation/has/has_provider.secret.md)
+

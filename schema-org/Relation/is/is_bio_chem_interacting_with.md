@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: is_bio_chem_interacting_with )
 ( #has_/range :: BioChemEntity )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_bio_chem_interacting_with](/_public/schema-org/Relation/is/is_bio_chem_interacting_with.md) 
+### [is_bio_chem_interacting_with](/_Standards/schema-org/Relation/is/is_bio_chem_interacting_with.md) 
+
+### [is_bio_chem_interacting_with.public](/_public/schema-org/Relation/is/is_bio_chem_interacting_with.public.md) 
 
 ### [is_bio_chem_interacting_with.internal](/_internal/schema-org/Relation/is/is_bio_chem_interacting_with.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [is_bio_chem_interacting_with.personal](/_personal/schema-org/Relation/is/is_bio_chem_interacting_with.personal.md) 
 
-### [is_bio_chem_interacting_with.secret](/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret.md) 
+### [is_bio_chem_interacting_with.secret](/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret.md)
+

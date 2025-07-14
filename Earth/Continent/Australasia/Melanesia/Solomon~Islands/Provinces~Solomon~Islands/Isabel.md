@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -8 , 159.2 ] 
 type: geo-Region
 title: Isabel
@@ -41,7 +41,9 @@ markerFolder: ./Isabel/
 
 ## Confidential Links & Embeds: 
 
-### [Isabel](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.md) 
+### [Isabel](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.md) 
+
+### [Isabel.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.public.md) 
 
 ### [Isabel.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Isabel/
 
 ### [Isabel.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.personal.md) 
 
-### [Isabel.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.secret.md) 
+### [Isabel.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Isabel.secret.md)
+

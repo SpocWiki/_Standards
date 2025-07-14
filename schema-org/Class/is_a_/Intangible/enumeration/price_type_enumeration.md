@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [price_type_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.md) 
+### [price_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.md) 
+
+### [price_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.public.md) 
 
 ### [price_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 ### [price_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.personal.md) 
 
-### [price_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.secret.md) 
+### [price_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration.secret.md)
+

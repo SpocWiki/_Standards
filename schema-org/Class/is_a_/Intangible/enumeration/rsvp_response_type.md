@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.md) 
+### [rsvp_response_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.md) 
+
+### [rsvp_response_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.public.md) 
 
 ### [rsvp_response_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.internal.md) 
 
@@ -52,4 +55,5 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 ### [rsvp_response_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.personal.md) 
 
-### [rsvp_response_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.secret.md) 
+### [rsvp_response_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.secret.md)
+

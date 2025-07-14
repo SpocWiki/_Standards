@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_number_of_file_bytes )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_file_bytes](/_public/schema-org/Property/has_number_of/has_number_of_file_bytes.md) 
+### [has_number_of_file_bytes](/_Standards/schema-org/Property/has_number_of/has_number_of_file_bytes.md) 
+
+### [has_number_of_file_bytes.public](/_public/schema-org/Property/has_number_of/has_number_of_file_bytes.public.md) 
 
 ### [has_number_of_file_bytes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_file_bytes.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_number_of_file_bytes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_file_bytes.personal.md) 
 
-### [has_number_of_file_bytes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_file_bytes.secret.md) 
+### [has_number_of_file_bytes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_file_bytes.secret.md)
+

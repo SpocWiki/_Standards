@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Giza Necropolis"
 - "Giza pyramid complex"
@@ -41,4 +41,23 @@ Commons_category: "Giza pyramid complex"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Giza_Necropolis](/_Standards/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.md) 
+
+### [Giza_Necropolis.public](/_public/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.public.md) 
+
+### [Giza_Necropolis.internal](/_internal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.internal.md) 
+
+### [Giza_Necropolis.protect](/_protect/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.protect.md) 
+
+### [Giza_Necropolis.private](/_private/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.private.md) 
+
+### [Giza_Necropolis.personal](/_personal/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.personal.md) 
+
+### [Giza_Necropolis.secret](/_secret/Technology/Construction/Architecture/African_Architecture/Giza_Necropolis.secret.md)
 

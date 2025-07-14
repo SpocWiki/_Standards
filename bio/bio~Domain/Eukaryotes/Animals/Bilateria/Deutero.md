@@ -203,3 +203,22 @@ Biology and Evolution 19:762-776.
   Specimen Condition   Dead Specimen
   Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
   ---------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Deutero](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.md) 
+
+### [Deutero.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.public.md) 
+
+### [Deutero.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.internal.md) 
+
+### [Deutero.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.protect.md) 
+
+### [Deutero.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.private.md) 
+
+### [Deutero.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.personal.md) 
+
+### [Deutero.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero.secret.md)
+

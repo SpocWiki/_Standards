@@ -55,17 +55,19 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkic%20languages) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Turkic](/_public/Language/Lang~Family/LangFamily-Turkic.md) 
+### [LangFamily-Turkic](/_Standards/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.md) 
 
-### [LangFamily-Turkic.internal](/_internal/Language/Lang~Family/LangFamily-Turkic.internal.md) 
+### [LangFamily-Turkic.public](/_public/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.public.md) 
 
-### [LangFamily-Turkic.protect](/_protect/Language/Lang~Family/LangFamily-Turkic.protect.md) 
+### [LangFamily-Turkic.internal](/_internal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.internal.md) 
 
-### [LangFamily-Turkic.private](/_private/Language/Lang~Family/LangFamily-Turkic.private.md) 
+### [LangFamily-Turkic.protect](/_protect/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.protect.md) 
 
-### [LangFamily-Turkic.personal](/_personal/Language/Lang~Family/LangFamily-Turkic.personal.md) 
+### [LangFamily-Turkic.private](/_private/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.private.md) 
 
-### [LangFamily-Turkic.secret](/_secret/Language/Lang~Family/LangFamily-Turkic.secret.md) 
+### [LangFamily-Turkic.personal](/_personal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.personal.md) 
+
+### [LangFamily-Turkic.secret](/_secret/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic.secret.md)
+

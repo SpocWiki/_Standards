@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21949
 has_id_wikidata: Q1103
@@ -127,9 +127,12 @@ Commons_category: Iodine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Iodine](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
+### [Iodine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Iodine.md) 
+
+### [Iodine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Iodine.public.md) 
 
 ### [Iodine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Iodine.internal.md) 
 
@@ -139,4 +142,5 @@ Commons_category: Iodine
 
 ### [Iodine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Iodine.personal.md) 
 
-### [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md) 
+### [Iodine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Iodine.secret.md)
+

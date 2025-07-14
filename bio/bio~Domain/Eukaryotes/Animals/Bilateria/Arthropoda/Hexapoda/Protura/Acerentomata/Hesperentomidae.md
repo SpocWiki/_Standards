@@ -32,3 +32,22 @@ title: Hesperentomidae
 	-   *Huhentomon*
 	-   *Ionescuellum*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hesperentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.md) 
+
+### [Hesperentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.public.md) 
+
+### [Hesperentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.internal.md) 
+
+### [Hesperentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.protect.md) 
+
+### [Hesperentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.private.md) 
+
+### [Hesperentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.personal.md) 
+
+### [Hesperentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Hesperentomidae.secret.md)
+

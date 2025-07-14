@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Level of evidence for a medical guideline. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_evidence_level](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
+### [medical_evidence_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
+
+### [medical_evidence_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.public.md) 
 
 ### [medical_evidence_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
 
@@ -52,4 +55,5 @@ Level of evidence for a medical guideline. Enumerated type.
 
 ### [medical_evidence_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
 
-### [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md) 
+### [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md)
+

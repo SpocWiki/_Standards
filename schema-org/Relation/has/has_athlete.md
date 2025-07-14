@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_athlete )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_athlete](/_public/schema-org/Relation/has/has_athlete.md) 
+### [has_athlete](/_Standards/schema-org/Relation/has/has_athlete.md) 
+
+### [has_athlete.public](/_public/schema-org/Relation/has/has_athlete.public.md) 
 
 ### [has_athlete.internal](/_internal/schema-org/Relation/has/has_athlete.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_athlete.personal](/_personal/schema-org/Relation/has/has_athlete.personal.md) 
 
-### [has_athlete.secret](/_secret/schema-org/Relation/has/has_athlete.secret.md) 
+### [has_athlete.secret](/_secret/schema-org/Relation/has/has_athlete.secret.md)
+

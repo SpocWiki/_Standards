@@ -1,4 +1,4 @@
-﻿
+
 > The Pan-American Highway is a network of roads 
 > stretching across the Americas, 
 > measuring about 30,000 kilometres (19,000 mi) in total length. 
@@ -31,7 +31,9 @@ along the length of the Americas.
 
 ## Confidential Links & Embeds: 
 
-### [Pan-American_Highway](/_public/Earth/Continent/America~Central/Pan-American_Highway.md) 
+### [Pan-American_Highway](/_Standards/Earth/Continent/America~Central/Pan-American_Highway.md) 
+
+### [Pan-American_Highway.public](/_public/Earth/Continent/America~Central/Pan-American_Highway.public.md) 
 
 ### [Pan-American_Highway.internal](/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal.md) 
 
@@ -41,4 +43,5 @@ along the length of the Americas.
 
 ### [Pan-American_Highway.personal](/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal.md) 
 
-### [Pan-American_Highway.secret](/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret.md) 
+### [Pan-American_Highway.secret](/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret.md)
+

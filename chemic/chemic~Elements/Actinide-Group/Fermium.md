@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21995
 has_id_wikidata: Q1896
@@ -96,7 +96,9 @@ Unicode_character: 鐨
 
 ## Confidential Links & Embeds: 
 
-### [Fermium](/_public/chemic/chemic~Elements/Actinide-Group/Fermium.md) 
+### [Fermium](/_Standards/chemic/chemic~Elements/Actinide-Group/Fermium.md) 
+
+### [Fermium.public](/_public/chemic/chemic~Elements/Actinide-Group/Fermium.public.md) 
 
 ### [Fermium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Fermium.internal.md) 
 
@@ -106,4 +108,5 @@ Unicode_character: 鐨
 
 ### [Fermium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Fermium.personal.md) 
 
-### [Fermium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Fermium.secret.md) 
+### [Fermium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Fermium.secret.md)
+

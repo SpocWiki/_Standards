@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_constraining_properties )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_constraining_properties](/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.md) 
+### [has_number_of_constraining_properties](/_Standards/schema-org/Property/has_number_of/has_number_of_constraining_properties.md) 
+
+### [has_number_of_constraining_properties.public](/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.public.md) 
 
 ### [has_number_of_constraining_properties.internal](/_internal/schema-org/Property/has_number_of/has_number_of_constraining_properties.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_number_of_constraining_properties.personal](/_personal/schema-org/Property/has_number_of/has_number_of_constraining_properties.personal.md) 
 
-### [has_number_of_constraining_properties.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret.md) 
+### [has_number_of_constraining_properties.secret](/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret.md)
+

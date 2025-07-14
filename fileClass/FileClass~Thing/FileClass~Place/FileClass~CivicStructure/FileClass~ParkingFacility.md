@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A parking lot or other parking facility.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ParkingFacility](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.md) 
+### [FileClass~ParkingFacility](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.md) 
+
+### [FileClass~ParkingFacility.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.public.md) 
 
 ### [FileClass~ParkingFacility.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.internal.md) 
 
@@ -46,4 +47,5 @@ A parking lot or other parking facility.
 
 ### [FileClass~ParkingFacility.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.personal.md) 
 
-### [FileClass~ParkingFacility.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.secret.md) 
+### [FileClass~ParkingFacility.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~ParkingFacility.secret.md)
+

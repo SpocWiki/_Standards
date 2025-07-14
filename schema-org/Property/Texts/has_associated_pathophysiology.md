@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_associated_pathophysiology )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_associated_pathophysiology](/_public/schema-org/Property/Texts/has_associated_pathophysiology.md) 
+### [has_associated_pathophysiology](/_Standards/schema-org/Property/Texts/has_associated_pathophysiology.md) 
+
+### [has_associated_pathophysiology.public](/_public/schema-org/Property/Texts/has_associated_pathophysiology.public.md) 
 
 ### [has_associated_pathophysiology.internal](/_internal/schema-org/Property/Texts/has_associated_pathophysiology.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_associated_pathophysiology.personal](/_personal/schema-org/Property/Texts/has_associated_pathophysiology.personal.md) 
 
-### [has_associated_pathophysiology.secret](/_secret/schema-org/Property/Texts/has_associated_pathophysiology.secret.md) 
+### [has_associated_pathophysiology.secret](/_secret/schema-org/Property/Texts/has_associated_pathophysiology.secret.md)
+

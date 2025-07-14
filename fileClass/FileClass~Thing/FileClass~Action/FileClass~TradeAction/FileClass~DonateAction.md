@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of participant. The participant who is at the receiving end of th
 Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DonateAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.md) 
+### [FileClass~DonateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.md) 
+
+### [FileClass~DonateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.public.md) 
 
 ### [FileClass~DonateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.internal.md) 
 
@@ -57,4 +58,5 @@ Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ### [FileClass~DonateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.personal.md) 
 
-### [FileClass~DonateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.secret.md) 
+### [FileClass~DonateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.secret.md)
+

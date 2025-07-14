@@ -26,3 +26,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Krasikov,Vadim](/_Standards/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.md) 
+
+### [Krasikov,Vadim.public](/_public/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.public.md) 
+
+### [Krasikov,Vadim.internal](/_internal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.internal.md) 
+
+### [Krasikov,Vadim.protect](/_protect/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.protect.md) 
+
+### [Krasikov,Vadim.private](/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private.md) 
+
+### [Krasikov,Vadim.personal](/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal.md) 
+
+### [Krasikov,Vadim.secret](/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_representative_of_page )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_representative_of_page](/_public/schema-org/Property/Flags/is_representative_of_page.md) 
+### [is_representative_of_page](/_Standards/schema-org/Property/Flags/is_representative_of_page.md) 
+
+### [is_representative_of_page.public](/_public/schema-org/Property/Flags/is_representative_of_page.public.md) 
 
 ### [is_representative_of_page.internal](/_internal/schema-org/Property/Flags/is_representative_of_page.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_representative_of_page.personal](/_personal/schema-org/Property/Flags/is_representative_of_page.personal.md) 
 
-### [is_representative_of_page.secret](/_secret/schema-org/Property/Flags/is_representative_of_page.secret.md) 
+### [is_representative_of_page.secret](/_secret/schema-org/Property/Flags/is_representative_of_page.secret.md)
+

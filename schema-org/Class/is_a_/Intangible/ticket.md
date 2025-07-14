@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 [ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ticket](/_public/schema-org/Class/is_a_/Intangible/ticket.md) 
+### [ticket](/_Standards/schema-org/Class/is_a_/Intangible/ticket.md) 
+
+### [ticket.public](/_public/schema-org/Class/is_a_/Intangible/ticket.public.md) 
 
 ### [ticket.internal](/_internal/schema-org/Class/is_a_/Intangible/ticket.internal.md) 
 
@@ -54,4 +57,5 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 ### [ticket.personal](/_personal/schema-org/Class/is_a_/Intangible/ticket.personal.md) 
 
-### [ticket.secret](/_secret/schema-org/Class/is_a_/Intangible/ticket.secret.md) 
+### [ticket.secret](/_secret/schema-org/Class/is_a_/Intangible/ticket.secret.md)
+

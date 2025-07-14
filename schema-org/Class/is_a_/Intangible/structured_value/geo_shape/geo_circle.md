@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 
 [ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [geo_circle](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.md) 
+### [geo_circle](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.md) 
+
+### [geo_circle.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.public.md) 
 
 ### [geo_circle.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.internal.md) 
 
@@ -56,4 +59,5 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 
 ### [geo_circle.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.personal.md) 
 
-### [geo_circle.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.secret.md) 
+### [geo_circle.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape/geo_circle.secret.md)
+

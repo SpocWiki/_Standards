@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Withdrawn.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [withdrawn](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
+### [withdrawn](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
+
+### [withdrawn.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.public.md) 
 
 ### [withdrawn.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md) 
 
@@ -56,4 +59,5 @@ Withdrawn.
 
 ### [withdrawn.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal.md) 
 
-### [withdrawn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md) 
+### [withdrawn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,10 +75,11 @@ The stop or station from which the bus departs.
 DepartureBusStop:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BusStation')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusTrip](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.md) 
+### [FileClass~BusTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.md) 
+
+### [FileClass~BusTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.public.md) 
 
 ### [FileClass~BusTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.internal.md) 
 
@@ -88,4 +89,5 @@ DepartureBusStop:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ### [FileClass~BusTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.personal.md) 
 
-### [FileClass~BusTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.secret.md) 
+### [FileClass~BusTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BusTrip.secret.md)
+

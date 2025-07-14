@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A description of costs to the patient under a given network or formulary.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_plan_cost_sharing_specification](/_public/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.md) 
+### [health_plan_cost_sharing_specification](/_Standards/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.md) 
+
+### [health_plan_cost_sharing_specification.public](/_public/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.public.md) 
 
 ### [health_plan_cost_sharing_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.internal.md) 
 
@@ -56,4 +59,5 @@ A description of costs to the patient under a given network or formulary.
 
 ### [health_plan_cost_sharing_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.personal.md) 
 
-### [health_plan_cost_sharing_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.secret.md) 
+### [health_plan_cost_sharing_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_cost_sharing_specification.secret.md)
+

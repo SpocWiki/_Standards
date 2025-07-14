@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21927
 has_id_wikidata: Q744
@@ -170,10 +170,11 @@ Unicode_character: 鎳
 > [Wikipedia](https://en.wikipedia.org/wiki/Nickel)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Nickel](/_public/chemic/chemic~Elements/Group-10-Nickel/Nickel.md) 
+### [Nickel](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Nickel.md) 
+
+### [Nickel.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Nickel.public.md) 
 
 ### [Nickel.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Nickel.internal.md) 
 
@@ -183,4 +184,5 @@ Unicode_character: 鎳
 
 ### [Nickel.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Nickel.personal.md) 
 
-### [Nickel.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Nickel.secret.md) 
+### [Nickel.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Nickel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -12.5 , 177.1 ] 
 type: geo-Region
 title: Rotuma
@@ -41,7 +41,9 @@ markerFolder: ./Rotuma/
 
 ## Confidential Links & Embeds: 
 
-### [Rotuma](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.md) 
+### [Rotuma](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.md) 
+
+### [Rotuma.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.public.md) 
 
 ### [Rotuma.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Rotuma/
 
 ### [Rotuma.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.personal.md) 
 
-### [Rotuma.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.secret.md) 
+### [Rotuma.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.secret.md)
+

@@ -308,3 +308,22 @@ Body Part         head
 Copyright ::         © 1997 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gnath](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.md) 
+
+### [Gnath.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.public.md) 
+
+### [Gnath.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.internal.md) 
+
+### [Gnath.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.protect.md) 
+
+### [Gnath.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.private.md) 
+
+### [Gnath.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.personal.md) 
+
+### [Gnath.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath.secret.md)
+

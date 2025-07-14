@@ -78,3 +78,22 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 ![Lichas](Trilobites/Lichas.jpg) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Trilobites](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.md) 
+
+### [Trilobites.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.public.md) 
+
+### [Trilobites.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.internal.md) 
+
+### [Trilobites.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.protect.md) 
+
+### [Trilobites.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.private.md) 
+
+### [Trilobites.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.personal.md) 
+
+### [Trilobites.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Trilobites.secret.md)
+

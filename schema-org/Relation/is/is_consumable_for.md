@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_consumable_for)
 ( #has_/range :: Product)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_consumable_for](/_public/schema-org/Relation/is/is_consumable_for.md) 
+### [is_consumable_for](/_Standards/schema-org/Relation/is/is_consumable_for.md) 
+
+### [is_consumable_for.public](/_public/schema-org/Relation/is/is_consumable_for.public.md) 
 
 ### [is_consumable_for.internal](/_internal/schema-org/Relation/is/is_consumable_for.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_consumable_for.personal](/_personal/schema-org/Relation/is/is_consumable_for.personal.md) 
 
-### [is_consumable_for.secret](/_secret/schema-org/Relation/is/is_consumable_for.secret.md) 
+### [is_consumable_for.secret](/_secret/schema-org/Relation/is/is_consumable_for.secret.md)
+

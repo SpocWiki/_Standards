@@ -67,3 +67,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Ming%20dynasty) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1368-Ming_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.md) 
+
+### [1368-Ming_Dynasty.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.public.md) 
+
+### [1368-Ming_Dynasty.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.internal.md) 
+
+### [1368-Ming_Dynasty.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.protect.md) 
+
+### [1368-Ming_Dynasty.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.private.md) 
+
+### [1368-Ming_Dynasty.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.personal.md) 
+
+### [1368-Ming_Dynasty.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1368-Ming_Dynasty.secret.md)
+

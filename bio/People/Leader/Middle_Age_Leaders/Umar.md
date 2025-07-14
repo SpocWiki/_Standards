@@ -22,3 +22,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Umar)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Umar](/_Standards/bio/People/Leader/Middle_Age_Leaders/Umar.md) 
+
+### [Umar.public](/_public/bio/People/Leader/Middle_Age_Leaders/Umar.public.md) 
+
+### [Umar.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Umar.internal.md) 
+
+### [Umar.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Umar.protect.md) 
+
+### [Umar.private](/_private/bio/People/Leader/Middle_Age_Leaders/Umar.private.md) 
+
+### [Umar.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Umar.personal.md) 
+
+### [Umar.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Umar.secret.md)
+

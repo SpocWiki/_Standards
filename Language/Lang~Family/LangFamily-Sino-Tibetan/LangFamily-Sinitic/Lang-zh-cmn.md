@@ -186,9 +186,12 @@ Huizhou: czh
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-zh-cmn](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
+### [Lang-zh-cmn](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
+
+### [Lang-zh-cmn.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.public.md) 
 
 ### [Lang-zh-cmn.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal.md) 
 
@@ -198,4 +201,5 @@ Huizhou: czh
 
 ### [Lang-zh-cmn.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal.md) 
 
-### [Lang-zh-cmn.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md) 
+### [Lang-zh-cmn.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md)
+

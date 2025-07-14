@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A Search and Rescue organization of some kind.
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [search_rescue_organization](/_public/schema-org/Class/is_a_/organization/search_rescue_organization.md) 
+### [search_rescue_organization](/_Standards/schema-org/Class/is_a_/organization/search_rescue_organization.md) 
+
+### [search_rescue_organization.public](/_public/schema-org/Class/is_a_/organization/search_rescue_organization.public.md) 
 
 ### [search_rescue_organization.internal](/_internal/schema-org/Class/is_a_/organization/search_rescue_organization.internal.md) 
 
@@ -56,4 +59,5 @@ A Search and Rescue organization of some kind.
 
 ### [search_rescue_organization.personal](/_personal/schema-org/Class/is_a_/organization/search_rescue_organization.personal.md) 
 
-### [search_rescue_organization.secret](/_secret/schema-org/Class/is_a_/organization/search_rescue_organization.secret.md) 
+### [search_rescue_organization.secret](/_secret/schema-org/Class/is_a_/organization/search_rescue_organization.secret.md)
+

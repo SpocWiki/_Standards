@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of expressing a difference of opinion with the object. An agent disagree
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DisagreeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.md) 
+### [FileClass~DisagreeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.md) 
+
+### [FileClass~DisagreeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.public.md) 
 
 ### [FileClass~DisagreeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 ### [FileClass~DisagreeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.personal.md) 
 
-### [FileClass~DisagreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.secret.md) 
+### [FileClass~DisagreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DisagreeAction.secret.md)
+

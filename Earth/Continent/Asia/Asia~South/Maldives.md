@@ -409,9 +409,12 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maldives)
 
+
 ## Confidential Links & Embeds: 
 
-### [Maldives](/_public/Earth/Continent/Asia/Asia~South/Maldives.md) 
+### [Maldives](/_Standards/Earth/Continent/Asia/Asia~South/Maldives.md) 
+
+### [Maldives.public](/_public/Earth/Continent/Asia/Asia~South/Maldives.public.md) 
 
 ### [Maldives.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives.internal.md) 
 
@@ -421,4 +424,5 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 ### [Maldives.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives.personal.md) 
 
-### [Maldives.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives.secret.md) 
+### [Maldives.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives.secret.md)
+

@@ -141,3 +141,22 @@ U_S_National_Archives_Identifier: 12222222
 
 
 [[Hurricane_Katrina]] 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1929-Great_Depression](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.md) 
+
+### [1929-Great_Depression.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.public.md) 
+
+### [1929-Great_Depression.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.internal.md) 
+
+### [1929-Great_Depression.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.protect.md) 
+
+### [1929-Great_Depression.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.private.md) 
+
+### [1929-Great_Depression.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.personal.md) 
+
+### [1929-Great_Depression.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1929-Great_Depression.secret.md)
+

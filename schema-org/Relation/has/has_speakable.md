@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -62,9 +62,12 @@ Relation describes that:
 ( #has_/name :: is_speakable )
 ( #has_/range :: SpeakableSpecification, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_speakable](/_public/schema-org/Relation/has/has_speakable.md) 
+### [has_speakable](/_Standards/schema-org/Relation/has/has_speakable.md) 
+
+### [has_speakable.public](/_public/schema-org/Relation/has/has_speakable.public.md) 
 
 ### [has_speakable.internal](/_internal/schema-org/Relation/has/has_speakable.internal.md) 
 
@@ -74,4 +77,5 @@ Relation describes that:
 
 ### [has_speakable.personal](/_personal/schema-org/Relation/has/has_speakable.personal.md) 
 
-### [has_speakable.secret](/_secret/schema-org/Relation/has/has_speakable.secret.md) 
+### [has_speakable.secret](/_secret/schema-org/Relation/has/has_speakable.secret.md)
+

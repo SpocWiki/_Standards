@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An ice cream shop.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~IceCreamShop](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.md) 
+### [FileClass~IceCreamShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.md) 
+
+### [FileClass~IceCreamShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.public.md) 
 
 ### [FileClass~IceCreamShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.internal.md) 
 
@@ -46,4 +47,5 @@ An ice cream shop.
 
 ### [FileClass~IceCreamShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.personal.md) 
 
-### [FileClass~IceCreamShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.secret.md) 
+### [FileClass~IceCreamShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.secret.md)
+

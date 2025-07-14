@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.44 , 159.99 ] 
 type: geo-Region
 title: Capital_Territory_(Honiara)
@@ -41,7 +41,9 @@ markerFolder: ./Capital_Territory_(Honiara)/
 
 ## Confidential Links & Embeds: 
 
-### [Capital_Territory_(Honiara)](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).md) 
+### [Capital_Territory_(Honiara)](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).md) 
+
+### [Capital_Territory_(Honiara).public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).public.md) 
 
 ### [Capital_Territory_(Honiara).internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Capital_Territory_(Honiara)/
 
 ### [Capital_Territory_(Honiara).personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).personal.md) 
 
-### [Capital_Territory_(Honiara).secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret.md) 
+### [Capital_Territory_(Honiara).secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret.md)
+

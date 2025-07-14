@@ -136,10 +136,11 @@ mass: 102.90549
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhodium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Rhodium](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
+### [Rhodium](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.md) 
+
+### [Rhodium.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.public.md) 
 
 ### [Rhodium.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.internal.md) 
 
@@ -149,4 +150,5 @@ mass: 102.90549
 
 ### [Rhodium.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.personal.md) 
 
-### [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md) 
+### [Rhodium.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Rhodium.secret.md)
+

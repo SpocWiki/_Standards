@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8492
 different_from:
 - '[[_Standards/WikiData/WD~Sok,1989786]]'
@@ -48,4 +48,23 @@ USDA_NDB_number: 14327
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Juice) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Juice](/_Standards/Home_Economics/Cooking/Food/Drink/Juice.md) 
+
+### [Juice.public](/_public/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
+
+### [Juice.internal](/_internal/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
+
+### [Juice.protect](/_protect/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
+
+### [Juice.private](/_private/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
+
+### [Juice.personal](/_personal/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
+
+### [Juice.secret](/_secret/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
 

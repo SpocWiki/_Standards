@@ -493,9 +493,12 @@ Capital :: [[Dakar]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Senegal)
 
+
 ## Confidential Links & Embeds: 
 
-### [Senegal](/_public/Earth/Continent/Africa/Africa~West/Senegal.md) 
+### [Senegal](/_Standards/Earth/Continent/Africa/Africa~West/Senegal.md) 
+
+### [Senegal.public](/_public/Earth/Continent/Africa/Africa~West/Senegal.public.md) 
 
 ### [Senegal.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal.md) 
 
@@ -505,4 +508,5 @@ Capital :: [[Dakar]]
 
 ### [Senegal.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal.md) 
 
-### [Senegal.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret.md) 
+### [Senegal.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret.md)
+

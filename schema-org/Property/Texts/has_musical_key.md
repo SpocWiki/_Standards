@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_musical_key )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_musical_key](/_public/schema-org/Property/Texts/has_musical_key.md) 
+### [has_musical_key](/_Standards/schema-org/Property/Texts/has_musical_key.md) 
+
+### [has_musical_key.public](/_public/schema-org/Property/Texts/has_musical_key.public.md) 
 
 ### [has_musical_key.internal](/_internal/schema-org/Property/Texts/has_musical_key.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_musical_key.personal](/_personal/schema-org/Property/Texts/has_musical_key.personal.md) 
 
-### [has_musical_key.secret](/_secret/schema-org/Property/Texts/has_musical_key.secret.md) 
+### [has_musical_key.secret](/_secret/schema-org/Property/Texts/has_musical_key.secret.md)
+

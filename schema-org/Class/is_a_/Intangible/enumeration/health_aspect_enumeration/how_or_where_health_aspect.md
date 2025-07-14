@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Information about how or where to find a topic. Also may contain location data t
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [how_or_where_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.md) 
+### [how_or_where_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.md) 
+
+### [how_or_where_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.public.md) 
 
 ### [how_or_where_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Information about how or where to find a topic. Also may contain location data t
 
 ### [how_or_where_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.personal.md) 
 
-### [how_or_where_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.secret.md) 
+### [how_or_where_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/how_or_where_health_aspect.secret.md)
+

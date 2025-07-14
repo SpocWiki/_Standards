@@ -400,10 +400,11 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Belize) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Belize](/_public/Earth/Continent/America~Central/Belize.md) 
+### [Belize](/_Standards/Earth/Continent/America~Central/Belize.md) 
+
+### [Belize.public](/_public/Earth/Continent/America~Central/Belize.public.md) 
 
 ### [Belize.internal](/_internal/Earth/Continent/America~Central/Belize.internal.md) 
 
@@ -413,4 +414,5 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 ### [Belize.personal](/_personal/Earth/Continent/America~Central/Belize.personal.md) 
 
-### [Belize.secret](/_secret/Earth/Continent/America~Central/Belize.secret.md) 
+### [Belize.secret](/_secret/Earth/Continent/America~Central/Belize.secret.md)
+

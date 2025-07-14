@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -79,9 +79,12 @@ The day of the week between Saturday and Monday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [bed_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.md) 
+### [bed_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.md) 
+
+### [bed_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.public.md) 
 
 ### [bed_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.internal.md) 
 
@@ -91,4 +94,5 @@ The day of the week between Saturday and Monday.
 
 ### [bed_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.personal.md) 
 
-### [bed_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.secret.md) 
+### [bed_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/bed_type.secret.md)
+

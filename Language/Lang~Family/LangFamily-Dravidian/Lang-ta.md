@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
   - Tamil
@@ -33,9 +33,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tamil%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-ta](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.md) 
+### [Lang-ta](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.md) 
+
+### [Lang-ta.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.public.md) 
 
 ### [Lang-ta.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.internal.md) 
 
@@ -45,4 +48,5 @@ tags:
 
 ### [Lang-ta.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.personal.md) 
 
-### [Lang-ta.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.secret.md) 
+### [Lang-ta.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.3 , 20.4 ] 
 type: geo-Region
 title: Vårdö
@@ -41,7 +41,9 @@ markerFolder: ./Vårdö/
 
 ## Confidential Links & Embeds: 
 
-### [Vårdö](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.md) 
+### [Vårdö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.md) 
+
+### [Vårdö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.public.md) 
 
 ### [Vårdö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Vårdö/
 
 ### [Vårdö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.personal.md) 
 
-### [Vårdö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.secret.md) 
+### [Vårdö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Vårdö.secret.md)
+

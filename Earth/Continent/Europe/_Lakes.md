@@ -1,4 +1,4 @@
-﻿
+
 ```leaflet
 id: Niedersachsen
 zoomFeatures: true 
@@ -10,7 +10,9 @@ geojsonFolder: ./_LakesTooMany/
 
 ## Confidential Links & Embeds: 
 
-### [_Lakes](/_public/Earth/Continent/Europe/_Lakes.md) 
+### [_Lakes](/_Standards/Earth/Continent/Europe/_Lakes.md) 
+
+### [_Lakes.public](/_public/Earth/Continent/Europe/_Lakes.public.md) 
 
 ### [_Lakes.internal](/_internal/Earth/Continent/Europe/_Lakes.internal.md) 
 
@@ -20,4 +22,5 @@ geojsonFolder: ./_LakesTooMany/
 
 ### [_Lakes.personal](/_personal/Earth/Continent/Europe/_Lakes.personal.md) 
 
-### [_Lakes.secret](/_secret/Earth/Continent/Europe/_Lakes.secret.md) 
+### [_Lakes.secret](/_secret/Earth/Continent/Europe/_Lakes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_dependencies )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_dependencies](/_public/schema-org/Property/Texts/has_dependencies.md) 
+### [has_dependencies](/_Standards/schema-org/Property/Texts/has_dependencies.md) 
+
+### [has_dependencies.public](/_public/schema-org/Property/Texts/has_dependencies.public.md) 
 
 ### [has_dependencies.internal](/_internal/schema-org/Property/Texts/has_dependencies.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_dependencies.personal](/_personal/schema-org/Property/Texts/has_dependencies.personal.md) 
 
-### [has_dependencies.secret](/_secret/schema-org/Property/Texts/has_dependencies.secret.md) 
+### [has_dependencies.secret](/_secret/schema-org/Property/Texts/has_dependencies.secret.md)
+

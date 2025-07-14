@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Enumerated for values for itemListOrder for indicating how an ordered ItemList i
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [item_list_order_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.md) 
+### [item_list_order_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.md) 
+
+### [item_list_order_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.public.md) 
 
 ### [item_list_order_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.internal.md) 
 
@@ -52,4 +55,5 @@ Enumerated for values for itemListOrder for indicating how an ordered ItemList i
 
 ### [item_list_order_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.personal.md) 
 
-### [item_list_order_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.secret.md) 
+### [item_list_order_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type.secret.md)
+

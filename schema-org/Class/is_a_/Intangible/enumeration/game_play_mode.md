@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Indicates whether this game is multi-player, co-op or single-player.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [game_play_mode](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.md) 
+### [game_play_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.md) 
+
+### [game_play_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.public.md) 
 
 ### [game_play_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.internal.md) 
 
@@ -52,4 +55,5 @@ Indicates whether this game is multi-player, co-op or single-player.
 
 ### [game_play_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.personal.md) 
 
-### [game_play_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.secret.md) 
+### [game_play_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode.secret.md)
+

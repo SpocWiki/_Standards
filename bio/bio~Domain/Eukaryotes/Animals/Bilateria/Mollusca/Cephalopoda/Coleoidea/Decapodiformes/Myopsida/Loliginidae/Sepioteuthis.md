@@ -139,3 +139,21 @@ Contr. Zool., 586
   View                 Anterodorsal
   Copyright ::            © Roger Hanlon
   ------------
+
+
+## Confidential Links & Embeds: 
+
+### [Sepioteuthis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.md) 
+
+### [Sepioteuthis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.public.md) 
+
+### [Sepioteuthis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.internal.md) 
+
+### [Sepioteuthis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.protect.md) 
+
+### [Sepioteuthis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.private.md) 
+
+### [Sepioteuthis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.personal.md) 
+
+### [Sepioteuthis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Sepioteuthis.secret.md)
+

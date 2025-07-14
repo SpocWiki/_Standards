@@ -131,9 +131,12 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Carbon](/_public/chemic/chemic~Elements/Group-14-Carbon/Carbon.md) 
+### [Carbon](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Carbon.md) 
+
+### [Carbon.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Carbon.public.md) 
 
 ### [Carbon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Carbon.internal.md) 
 
@@ -143,4 +146,5 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%
 
 ### [Carbon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Carbon.personal.md) 
 
-### [Carbon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Carbon.secret.md) 
+### [Carbon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Carbon.secret.md)
+

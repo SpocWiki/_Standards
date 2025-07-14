@@ -115,9 +115,12 @@ InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Actinium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Actinium](/_public/chemic/chemic~Elements/Actinide-Group/Actinium.md) 
+### [Actinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Actinium.md) 
+
+### [Actinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Actinium.public.md) 
 
 ### [Actinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Actinium.internal.md) 
 
@@ -127,4 +130,5 @@ InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 
 ### [Actinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Actinium.personal.md) 
 
-### [Actinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Actinium.secret.md) 
+### [Actinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Actinium.secret.md)
+

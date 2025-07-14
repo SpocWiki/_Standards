@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_educational_role )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_educational_role](/_public/schema-org/Property/Texts/has_educational_role.md) 
+### [has_educational_role](/_Standards/schema-org/Property/Texts/has_educational_role.md) 
+
+### [has_educational_role.public](/_public/schema-org/Property/Texts/has_educational_role.public.md) 
 
 ### [has_educational_role.internal](/_internal/schema-org/Property/Texts/has_educational_role.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_educational_role.personal](/_personal/schema-org/Property/Texts/has_educational_role.personal.md) 
 
-### [has_educational_role.secret](/_secret/schema-org/Property/Texts/has_educational_role.secret.md) 
+### [has_educational_role.secret](/_secret/schema-org/Property/Texts/has_educational_role.secret.md)
+

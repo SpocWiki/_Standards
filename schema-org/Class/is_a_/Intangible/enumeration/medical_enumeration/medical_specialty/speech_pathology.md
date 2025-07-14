@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [speech_pathology](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.md) 
+### [speech_pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.md) 
+
+### [speech_pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.public.md) 
 
 ### [speech_pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.internal.md) 
 
@@ -56,4 +59,5 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 
 ### [speech_pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.personal.md) 
 
-### [speech_pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.secret.md) 
+### [speech_pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.secret.md)
+

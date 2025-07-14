@@ -434,9 +434,12 @@ Capital :: [[Lilongwe]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malawi)
 
+
 ## Confidential Links & Embeds: 
 
-### [Malawi](/_public/Earth/Continent/Africa/Africa~East/Malawi.md) 
+### [Malawi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi.md) 
+
+### [Malawi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi.public.md) 
 
 ### [Malawi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal.md) 
 
@@ -446,4 +449,5 @@ Capital :: [[Lilongwe]]
 
 ### [Malawi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal.md) 
 
-### [Malawi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret.md) 
+### [Malawi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret.md)
+

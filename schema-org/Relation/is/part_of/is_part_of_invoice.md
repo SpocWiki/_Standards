@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_part_of_invoice )
 ( #has_/range :: Invoice )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_part_of_invoice](/_public/schema-org/Relation/is/part_of/is_part_of_invoice.md) 
+### [is_part_of_invoice](/_Standards/schema-org/Relation/is/part_of/is_part_of_invoice.md) 
+
+### [is_part_of_invoice.public](/_public/schema-org/Relation/is/part_of/is_part_of_invoice.public.md) 
 
 ### [is_part_of_invoice.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_part_of_invoice.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal.md) 
 
-### [is_part_of_invoice.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret.md) 
+### [is_part_of_invoice.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret.md)
+

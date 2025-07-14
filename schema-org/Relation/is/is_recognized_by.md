@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_recognized_by )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_recognized_by](/_public/schema-org/Relation/is/is_recognized_by.md) 
+### [is_recognized_by](/_Standards/schema-org/Relation/is/is_recognized_by.md) 
+
+### [is_recognized_by.public](/_public/schema-org/Relation/is/is_recognized_by.public.md) 
 
 ### [is_recognized_by.internal](/_internal/schema-org/Relation/is/is_recognized_by.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_recognized_by.personal](/_personal/schema-org/Relation/is/is_recognized_by.personal.md) 
 
-### [is_recognized_by.secret](/_secret/schema-org/Relation/is/is_recognized_by.secret.md) 
+### [is_recognized_by.secret](/_secret/schema-org/Relation/is/is_recognized_by.secret.md)
+

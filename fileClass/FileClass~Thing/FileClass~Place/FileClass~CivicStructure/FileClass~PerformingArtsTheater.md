@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A theater or other performing art center.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PerformingArtsTheater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.md) 
+### [FileClass~PerformingArtsTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.md) 
+
+### [FileClass~PerformingArtsTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.public.md) 
 
 ### [FileClass~PerformingArtsTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.internal.md) 
 
@@ -46,4 +47,5 @@ A theater or other performing art center.
 
 ### [FileClass~PerformingArtsTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.personal.md) 
 
-### [FileClass~PerformingArtsTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.secret.md) 
+### [FileClass~PerformingArtsTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PerformingArtsTheater.secret.md)
+

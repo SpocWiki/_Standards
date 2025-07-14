@@ -575,9 +575,12 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Afghanistan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Afghanistan](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.md) 
+### [Afghanistan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan.md) 
+
+### [Afghanistan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan.public.md) 
 
 ### [Afghanistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan.internal.md) 
 
@@ -587,4 +590,5 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 
 ### [Afghanistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal.md) 
 
-### [Afghanistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret.md) 
+### [Afghanistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret.md)
+

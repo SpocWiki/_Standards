@@ -58,3 +58,22 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 Scientific Name ::     Anurida granaria
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Poduromorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.md) 
+
+### [Poduromorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.public.md) 
+
+### [Poduromorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.internal.md) 
+
+### [Poduromorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.protect.md) 
+
+### [Poduromorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.private.md) 
+
+### [Poduromorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.personal.md) 
+
+### [Poduromorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Poduromorpha.secret.md)
+

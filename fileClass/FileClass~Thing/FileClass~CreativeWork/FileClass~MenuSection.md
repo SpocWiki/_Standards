@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,10 +55,11 @@ A subgrouping of the menu (by dishes, course, serving time period, etc.).
 HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MenuSection')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MenuSection](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.md) 
+### [FileClass~MenuSection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.md) 
+
+### [FileClass~MenuSection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.public.md) 
 
 ### [FileClass~MenuSection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.internal.md) 
 
@@ -68,4 +69,5 @@ HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~MenuSection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.personal.md) 
 
-### [FileClass~MenuSection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.secret.md) 
+### [FileClass~MenuSection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.secret.md)
+

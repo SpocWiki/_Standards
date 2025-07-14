@@ -23,3 +23,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypothalamus) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hypothalamus](/_Standards/bio/Medicine/Disease/Headache/Hypothalamus.md) 
+
+### [Hypothalamus.public](/_public/bio/Medicine/Disease/Headache/Hypothalamus.public.md) 
+
+### [Hypothalamus.internal](/_internal/bio/Medicine/Disease/Headache/Hypothalamus.internal.md) 
+
+### [Hypothalamus.protect](/_protect/bio/Medicine/Disease/Headache/Hypothalamus.protect.md) 
+
+### [Hypothalamus.private](/_private/bio/Medicine/Disease/Headache/Hypothalamus.private.md) 
+
+### [Hypothalamus.personal](/_personal/bio/Medicine/Disease/Headache/Hypothalamus.personal.md) 
+
+### [Hypothalamus.secret](/_secret/bio/Medicine/Disease/Headache/Hypothalamus.secret.md)
+

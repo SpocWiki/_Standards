@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates several types of return labels for product returns.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_label_source_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.md) 
+### [return_label_source_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.md) 
+
+### [return_label_source_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.public.md) 
 
 ### [return_label_source_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates several types of return labels for product returns.
 
 ### [return_label_source_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.personal.md) 
 
-### [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md) 
+### [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md)
+

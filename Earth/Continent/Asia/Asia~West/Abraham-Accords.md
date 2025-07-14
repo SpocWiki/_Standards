@@ -59,3 +59,22 @@ has_participants:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Abraham-Accords](/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords.md) 
+
+### [Abraham-Accords.public](/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public.md) 
+
+### [Abraham-Accords.internal](/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal.md) 
+
+### [Abraham-Accords.protect](/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect.md) 
+
+### [Abraham-Accords.private](/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private.md) 
+
+### [Abraham-Accords.personal](/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal.md) 
+
+### [Abraham-Accords.secret](/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret.md)
+

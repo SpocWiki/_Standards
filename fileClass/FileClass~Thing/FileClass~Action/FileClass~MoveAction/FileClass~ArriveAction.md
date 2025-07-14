@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArriveAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.md) 
+### [FileClass~ArriveAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.md) 
+
+### [FileClass~ArriveAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.public.md) 
 
 ### [FileClass~ArriveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 ### [FileClass~ArriveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.personal.md) 
 
-### [FileClass~ArriveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.secret.md) 
+### [FileClass~ArriveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.secret.md)
+

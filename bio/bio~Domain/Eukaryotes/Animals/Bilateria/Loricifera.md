@@ -66,3 +66,22 @@ Drawing by Ivy Livingstone. Copyright © 1995
 ![](Loricifera/Loricifera.gif)
 Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Loricifera](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.md) 
+
+### [Loricifera.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.public.md) 
+
+### [Loricifera.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.internal.md) 
+
+### [Loricifera.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.protect.md) 
+
+### [Loricifera.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.private.md) 
+
+### [Loricifera.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.personal.md) 
+
+### [Loricifera.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Loricifera.secret.md)
+

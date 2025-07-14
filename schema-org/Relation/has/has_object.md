@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 (Links work only in read-mode)
 #has_/sub_properties :: [ [has_actionOption](../../Texts/has_action_option.md) , [has_candidate](has_candidate.md) , [is_in_collection](../is/is_in_collection.md), [is_followee_of](../is/is_followee_of.md), [has_option](../../Texts/has_option.md) , [has_question](has_question.md), [has_replacee](has_replacee.md), [replacer](has_replacer.md) , [has_targetCollection](has_target_collection.md) ] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_object](/_public/schema-org/Relation/has/has_object.md) 
+### [has_object](/_Standards/schema-org/Relation/has/has_object.md) 
+
+### [has_object.public](/_public/schema-org/Relation/has/has_object.public.md) 
 
 ### [has_object.internal](/_internal/schema-org/Relation/has/has_object.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_object.personal](/_personal/schema-org/Relation/has/has_object.personal.md) 
 
-### [has_object.secret](/_secret/schema-org/Relation/has/has_object.secret.md) 
+### [has_object.secret](/_secret/schema-org/Relation/has/has_object.secret.md)
+

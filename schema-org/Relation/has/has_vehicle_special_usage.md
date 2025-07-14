@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_vehicle_special_usage )
 ( #has_/range :: CarUsageType, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_special_usage](/_public/schema-org/Relation/has/has_vehicle_special_usage.md) 
+### [has_vehicle_special_usage](/_Standards/schema-org/Relation/has/has_vehicle_special_usage.md) 
+
+### [has_vehicle_special_usage.public](/_public/schema-org/Relation/has/has_vehicle_special_usage.public.md) 
 
 ### [has_vehicle_special_usage.internal](/_internal/schema-org/Relation/has/has_vehicle_special_usage.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_vehicle_special_usage.personal](/_personal/schema-org/Relation/has/has_vehicle_special_usage.personal.md) 
 
-### [has_vehicle_special_usage.secret](/_secret/schema-org/Relation/has/has_vehicle_special_usage.secret.md) 
+### [has_vehicle_special_usage.secret](/_secret/schema-org/Relation/has/has_vehicle_special_usage.secret.md)
+

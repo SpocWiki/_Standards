@@ -74,3 +74,21 @@ Araneoidea). Zoologica Scripta 32:129-151.
   Behavior             web size ca. 4 cm. Note large number of radii that do not all reach hub.
   Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Symphytognathidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.md) 
+
+### [Symphytognathidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.public.md) 
+
+### [Symphytognathidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.internal.md) 
+
+### [Symphytognathidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.protect.md) 
+
+### [Symphytognathidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.private.md) 
+
+### [Symphytognathidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.personal.md) 
+
+### [Symphytognathidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Symphytognathidae.secret.md)
+

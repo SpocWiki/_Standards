@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Polish
@@ -83,16 +83,20 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polish%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-pl](/_public/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.md) 
+### [Lang-pl](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.md) 
 
-### [Lang-pl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.internal.md) 
+### [Lang-pl.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.public.md) 
 
-### [Lang-pl.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.protect.md) 
+### [Lang-pl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.internal.md) 
 
-### [Lang-pl.private](/_private/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.private.md) 
+### [Lang-pl.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.protect.md) 
 
-### [Lang-pl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.personal.md) 
+### [Lang-pl.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.private.md) 
 
-### [Lang-pl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-pl.secret.md) 
+### [Lang-pl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.personal.md) 
+
+### [Lang-pl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-pl.secret.md)
+

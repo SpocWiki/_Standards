@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 3.04 , 131.16 ] 
 type: geo-Region
 title: Hatobohei
@@ -41,7 +41,9 @@ markerFolder: ./Hatobohei/
 
 ## Confidential Links & Embeds: 
 
-### [Hatohobei](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.md) 
+### [Hatohobei](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.md) 
+
+### [Hatohobei.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.public.md) 
 
 ### [Hatohobei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Hatobohei/
 
 ### [Hatohobei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal.md) 
 
-### [Hatohobei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret.md) 
+### [Hatohobei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q124794
 subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
 instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
@@ -80,4 +80,23 @@ PhilPapers_topic: taste-experience
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taste)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Taste](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.md) 
+
+### [Taste.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.public.md) 
+
+### [Taste.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.internal.md) 
+
+### [Taste.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.protect.md) 
+
+### [Taste.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.private.md) 
+
+### [Taste.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.personal.md) 
+
+### [Taste.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.secret.md)
 

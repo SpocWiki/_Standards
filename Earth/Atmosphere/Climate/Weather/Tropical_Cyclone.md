@@ -17,3 +17,22 @@ has_id_wikidata: Q8092
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20cyclone)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tropical_Cyclone](/_Standards/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.md) 
+
+### [Tropical_Cyclone.public](/_public/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.public.md) 
+
+### [Tropical_Cyclone.internal](/_internal/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.internal.md) 
+
+### [Tropical_Cyclone.protect](/_protect/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.protect.md) 
+
+### [Tropical_Cyclone.private](/_private/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.private.md) 
+
+### [Tropical_Cyclone.personal](/_personal/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.personal.md) 
+
+### [Tropical_Cyclone.secret](/_secret/Earth/Atmosphere/Climate/Weather/Tropical_Cyclone.secret.md)
+

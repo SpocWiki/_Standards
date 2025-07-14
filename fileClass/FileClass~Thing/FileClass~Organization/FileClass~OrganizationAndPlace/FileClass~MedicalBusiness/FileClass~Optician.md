@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A store that sells reading glasses and similar devices for improving vision.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Optician](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.md) 
+### [FileClass~Optician](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.md) 
+
+### [FileClass~Optician.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.public.md) 
 
 ### [FileClass~Optician.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.internal.md) 
 
@@ -46,4 +47,5 @@ A store that sells reading glasses and similar devices for improving vision.
 
 ### [FileClass~Optician.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.personal.md) 
 
-### [FileClass~Optician.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.secret.md) 
+### [FileClass~Optician.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~Optician.secret.md)
+

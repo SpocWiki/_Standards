@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Weak interaction"
 has_id_wikidata: Q11418
@@ -29,4 +29,23 @@ Commons_category: "Weak nuclear force"
 > The effective range of the weak force is limited to subatomic distances and is less than the diameter of a proton.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weak%20interaction)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Weak_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction.md) 
+
+### [Weak_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction.public.md) 
+
+### [Weak_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction.internal.md) 
+
+### [Weak_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction.protect.md) 
+
+### [Weak_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction.private.md) 
+
+### [Weak_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction.personal.md) 
+
+### [Weak_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction.secret.md)
 

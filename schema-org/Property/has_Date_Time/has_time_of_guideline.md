@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_guideline)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_guideline](/_public/schema-org/Property/has_Date_Time/has_time_of_guideline.md) 
+### [has_time_of_guideline](/_Standards/schema-org/Property/has_Date_Time/has_time_of_guideline.md) 
+
+### [has_time_of_guideline.public](/_public/schema-org/Property/has_Date_Time/has_time_of_guideline.public.md) 
 
 ### [has_time_of_guideline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_guideline.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_guideline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_guideline.personal.md) 
 
-### [has_time_of_guideline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_guideline.secret.md) 
+### [has_time_of_guideline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_guideline.secret.md)
+

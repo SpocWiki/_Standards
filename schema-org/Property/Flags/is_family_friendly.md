@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_family_friendly )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_family_friendly](/_public/schema-org/Property/Flags/is_family_friendly.md) 
+### [is_family_friendly](/_Standards/schema-org/Property/Flags/is_family_friendly.md) 
+
+### [is_family_friendly.public](/_public/schema-org/Property/Flags/is_family_friendly.public.md) 
 
 ### [is_family_friendly.internal](/_internal/schema-org/Property/Flags/is_family_friendly.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_family_friendly.personal](/_personal/schema-org/Property/Flags/is_family_friendly.personal.md) 
 
-### [is_family_friendly.secret](/_secret/schema-org/Property/Flags/is_family_friendly.secret.md) 
+### [is_family_friendly.secret](/_secret/schema-org/Property/Flags/is_family_friendly.secret.md)
+

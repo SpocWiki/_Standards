@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of expressing a desire about the object. An agent wants an object.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WantAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.md) 
+### [FileClass~WantAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.md) 
+
+### [FileClass~WantAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.public.md) 
 
 ### [FileClass~WantAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of expressing a desire about the object. An agent wants an object.
 
 ### [FileClass~WantAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.personal.md) 
 
-### [FileClass~WantAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.secret.md) 
+### [FileClass~WantAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~WantAction.secret.md)
+

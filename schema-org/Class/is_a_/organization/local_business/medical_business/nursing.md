@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A health profession of a person formally educated and trained in the care of the
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nursing](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.md) 
+### [nursing](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.md) 
+
+### [nursing.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.public.md) 
 
 ### [nursing.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.internal.md) 
 
@@ -56,4 +59,5 @@ A health profession of a person formally educated and trained in the care of the
 
 ### [nursing.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.personal.md) 
 
-### [nursing.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.secret.md) 
+### [nursing.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.secret.md)
+

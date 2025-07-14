@@ -898,7 +898,9 @@ Sources:
 
 ## Confidential Links & Embeds: 
 
-### [USA](/_public/Earth/Continent/America~North/USA.md) 
+### [USA](/_Standards/Earth/Continent/America~North/USA.md) 
+
+### [USA.public](/_public/Earth/Continent/America~North/USA.public.md) 
 
 ### [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
 
@@ -908,5 +910,5 @@ Sources:
 
 ### [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
 
-### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md) 
+### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md)
 

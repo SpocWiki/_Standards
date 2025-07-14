@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,9 +56,12 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [original_media_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md) 
+### [original_media_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md) 
+
+### [original_media_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.public.md) 
 
 ### [original_media_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md) 
 
@@ -68,4 +71,5 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 ### [original_media_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.personal.md) 
 
-### [original_media_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md) 
+### [original_media_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md)
+

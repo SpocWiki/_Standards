@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -149,7 +149,9 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 ## Confidential Links & Embeds: 
 
-### [corporation](/_public/schema-org/Class/is_a_/organization/corporation.md) 
+### [corporation](/_Standards/schema-org/Class/is_a_/organization/corporation.md) 
+
+### [corporation.public](/_public/schema-org/Class/is_a_/organization/corporation.public.md) 
 
 ### [corporation.internal](/_internal/schema-org/Class/is_a_/organization/corporation.internal.md) 
 
@@ -159,4 +161,5 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 ### [corporation.personal](/_personal/schema-org/Class/is_a_/organization/corporation.personal.md) 
 
-### [corporation.secret](/_secret/schema-org/Class/is_a_/organization/corporation.secret.md) 
+### [corporation.secret](/_secret/schema-org/Class/is_a_/organization/corporation.secret.md)
+

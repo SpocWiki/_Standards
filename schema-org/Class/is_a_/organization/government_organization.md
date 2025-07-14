@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A governmental organization or agency.
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [government_organization](/_public/schema-org/Class/is_a_/organization/government_organization.md) 
+### [government_organization](/_Standards/schema-org/Class/is_a_/organization/government_organization.md) 
+
+### [government_organization.public](/_public/schema-org/Class/is_a_/organization/government_organization.public.md) 
 
 ### [government_organization.internal](/_internal/schema-org/Class/is_a_/organization/government_organization.internal.md) 
 
@@ -54,4 +57,5 @@ A governmental organization or agency.
 
 ### [government_organization.personal](/_personal/schema-org/Class/is_a_/organization/government_organization.personal.md) 
 
-### [government_organization.secret](/_secret/schema-org/Class/is_a_/organization/government_organization.secret.md) 
+### [government_organization.secret](/_secret/schema-org/Class/is_a_/organization/government_organization.secret.md)
+

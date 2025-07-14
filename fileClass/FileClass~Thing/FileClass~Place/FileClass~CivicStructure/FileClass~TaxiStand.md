@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A taxi stand.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TaxiStand](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.md) 
+### [FileClass~TaxiStand](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.md) 
+
+### [FileClass~TaxiStand.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.public.md) 
 
 ### [FileClass~TaxiStand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.internal.md) 
 
@@ -46,4 +47,5 @@ A taxi stand.
 
 ### [FileClass~TaxiStand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.personal.md) 
 
-### [FileClass~TaxiStand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.secret.md) 
+### [FileClass~TaxiStand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.secret.md)
+

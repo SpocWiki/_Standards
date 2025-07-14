@@ -63,3 +63,22 @@ Location ::           Marina di Pietrasanta, Lucca Province, Tuscany, Italy
 Specimen Condition   Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
 Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Penicillata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.md) 
+
+### [Penicillata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.public.md) 
+
+### [Penicillata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.internal.md) 
+
+### [Penicillata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.protect.md) 
+
+### [Penicillata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.private.md) 
+
+### [Penicillata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.personal.md) 
+
+### [Penicillata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Penicillata.secret.md)
+

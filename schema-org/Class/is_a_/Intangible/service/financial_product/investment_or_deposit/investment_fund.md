@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A company or fund that gathers capital from a number of investors to create a po
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [investment_fund](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.md) 
+### [investment_fund](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.md) 
+
+### [investment_fund.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.public.md) 
 
 ### [investment_fund.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.internal.md) 
 
@@ -56,4 +59,5 @@ A company or fund that gathers capital from a number of investors to create a po
 
 ### [investment_fund.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.personal.md) 
 
-### [investment_fund.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.secret.md) 
+### [investment_fund.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit/investment_fund.secret.md)
+

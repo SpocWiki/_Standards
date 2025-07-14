@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_naics )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_naics](/_public/schema-org/Property/Texts/has_naics.md) 
+### [has_naics](/_Standards/schema-org/Property/Texts/has_naics.md) 
+
+### [has_naics.public](/_public/schema-org/Property/Texts/has_naics.public.md) 
 
 ### [has_naics.internal](/_internal/schema-org/Property/Texts/has_naics.internal.md) 
 
@@ -54,4 +57,5 @@ Predicated describes that:
 
 ### [has_naics.personal](/_personal/schema-org/Property/Texts/has_naics.personal.md) 
 
-### [has_naics.secret](/_secret/schema-org/Property/Texts/has_naics.secret.md) 
+### [has_naics.secret](/_secret/schema-org/Property/Texts/has_naics.secret.md)
+

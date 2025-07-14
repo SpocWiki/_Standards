@@ -409,9 +409,12 @@ Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suriname) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Suriname](/_public/Earth/Continent/America~South/Suriname.md) 
+### [Suriname](/_Standards/Earth/Continent/America~South/Suriname.md) 
+
+### [Suriname.public](/_public/Earth/Continent/America~South/Suriname.public.md) 
 
 ### [Suriname.internal](/_internal/Earth/Continent/America~South/Suriname.internal.md) 
 
@@ -421,4 +424,5 @@ Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]
 
 ### [Suriname.personal](/_personal/Earth/Continent/America~South/Suriname.personal.md) 
 
-### [Suriname.secret](/_secret/Earth/Continent/America~South/Suriname.secret.md) 
+### [Suriname.secret](/_secret/Earth/Continent/America~South/Suriname.secret.md)
+

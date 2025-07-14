@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_when_availability_starts)
 (range::Date, DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_when_availability_starts](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.md) 
+### [has_time_when_availability_starts](/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_starts.md) 
+
+### [has_time_when_availability_starts.public](/_public/schema-org/Property/has_Date_Time/has_time_when_availability_starts.public.md) 
 
 ### [has_time_when_availability_starts.internal](/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_when_availability_starts.personal](/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_starts.personal.md) 
 
-### [has_time_when_availability_starts.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret.md) 
+### [has_time_when_availability_starts.secret](/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_starts.secret.md)
+

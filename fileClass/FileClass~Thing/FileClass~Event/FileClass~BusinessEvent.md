@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Business event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusinessEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.md) 
+### [FileClass~BusinessEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.md) 
+
+### [FileClass~BusinessEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.public.md) 
 
 ### [FileClass~BusinessEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Business event.
 
 ### [FileClass~BusinessEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.personal.md) 
 
-### [FileClass~BusinessEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.secret.md) 
+### [FileClass~BusinessEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~BusinessEvent.secret.md)
+

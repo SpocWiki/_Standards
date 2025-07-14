@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ appearance, firstAppearance ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_work_example](/_public/schema-org/Relation/has/has_work_example.md) 
+### [has_work_example](/_Standards/schema-org/Relation/has/has_work_example.md) 
+
+### [has_work_example.public](/_public/schema-org/Relation/has/has_work_example.public.md) 
 
 ### [has_work_example.internal](/_internal/schema-org/Relation/has/has_work_example.internal.md) 
 
@@ -67,4 +70,5 @@ Relation describes that:
 
 ### [has_work_example.personal](/_personal/schema-org/Relation/has/has_work_example.personal.md) 
 
-### [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md) 
+### [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md)
+

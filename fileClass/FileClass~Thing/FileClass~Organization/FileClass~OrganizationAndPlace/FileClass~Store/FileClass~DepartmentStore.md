@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A department store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DepartmentStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.md) 
+### [FileClass~DepartmentStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.md) 
+
+### [FileClass~DepartmentStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.public.md) 
 
 ### [FileClass~DepartmentStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.internal.md) 
 
@@ -46,4 +47,5 @@ A department store.
 
 ### [FileClass~DepartmentStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.personal.md) 
 
-### [FileClass~DepartmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.secret.md) 
+### [FileClass~DepartmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.secret.md)
+

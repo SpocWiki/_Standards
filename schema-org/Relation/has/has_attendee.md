@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_attendee )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_attendee](/_public/schema-org/Relation/has/has_attendee.md) 
+### [has_attendee](/_Standards/schema-org/Relation/has/has_attendee.md) 
+
+### [has_attendee.public](/_public/schema-org/Relation/has/has_attendee.public.md) 
 
 ### [has_attendee.internal](/_internal/schema-org/Relation/has/has_attendee.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_attendee.personal](/_personal/schema-org/Relation/has/has_attendee.personal.md) 
 
-### [has_attendee.secret](/_secret/schema-org/Relation/has/has_attendee.secret.md) 
+### [has_attendee.secret](/_secret/schema-org/Relation/has/has_attendee.secret.md)
+

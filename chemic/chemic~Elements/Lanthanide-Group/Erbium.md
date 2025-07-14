@@ -97,11 +97,11 @@ Unicode_character: 鉺
 > [Wikipedia](https://en.wikipedia.org/wiki/Erbium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Erbium](/_public/chemic/chemic~Elements/Lanthanide-Group/Erbium.md) 
+### [Erbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Erbium.md) 
+
+### [Erbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Erbium.public.md) 
 
 ### [Erbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Erbium.internal.md) 
 
@@ -111,4 +111,5 @@ Unicode_character: 鉺
 
 ### [Erbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Erbium.personal.md) 
 
-### [Erbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Erbium.secret.md) 
+### [Erbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Erbium.secret.md)
+

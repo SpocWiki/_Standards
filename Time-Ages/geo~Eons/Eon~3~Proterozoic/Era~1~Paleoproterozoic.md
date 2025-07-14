@@ -121,10 +121,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~1~Paleoproterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.md) 
+### [Era~1~Paleoproterozoic](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.md) 
+
+### [Era~1~Paleoproterozoic.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.public.md) 
 
 ### [Era~1~Paleoproterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.internal.md) 
 
@@ -134,4 +135,5 @@ noteOnly: true
 
 ### [Era~1~Paleoproterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.personal.md) 
 
-### [Era~1~Paleoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.secret.md) 
+### [Era~1~Paleoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.secret.md)
+

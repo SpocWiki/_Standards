@@ -200,3 +200,22 @@ Regensburg_Classification: "HM 3130"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Joyce)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Joyce,James](/_Standards/bio/People/Writer/Joyce,James.md) 
+
+### [Joyce,James.public](/_public/bio/People/Writer/Joyce,James.public.md) 
+
+### [Joyce,James.internal](/_internal/bio/People/Writer/Joyce,James.internal.md) 
+
+### [Joyce,James.protect](/_protect/bio/People/Writer/Joyce,James.protect.md) 
+
+### [Joyce,James.private](/_private/bio/People/Writer/Joyce,James.private.md) 
+
+### [Joyce,James.personal](/_personal/bio/People/Writer/Joyce,James.personal.md) 
+
+### [Joyce,James.secret](/_secret/bio/People/Writer/Joyce,James.secret.md)
+

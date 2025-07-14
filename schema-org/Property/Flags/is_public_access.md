@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: is_public_access )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_public_access](/_public/schema-org/Property/Flags/is_public_access.md) 
+### [is_public_access](/_Standards/schema-org/Property/Flags/is_public_access.md) 
+
+### [is_public_access.public](/_public/schema-org/Property/Flags/is_public_access.public.md) 
 
 ### [is_public_access.internal](/_internal/schema-org/Property/Flags/is_public_access.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [is_public_access.personal](/_personal/schema-org/Property/Flags/is_public_access.personal.md) 
 
-### [is_public_access.secret](/_secret/schema-org/Property/Flags/is_public_access.secret.md) 
+### [is_public_access.secret](/_secret/schema-org/Property/Flags/is_public_access.secret.md)
+

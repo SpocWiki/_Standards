@@ -9,3 +9,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Maggi) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Maggi](/_Standards/bio/Medicine/Anatomy/Nervous_System/Maggi.md) 
+
+### [Maggi.public](/_public/bio/Medicine/Anatomy/Nervous_System/Maggi.public.md) 
+
+### [Maggi.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Maggi.internal.md) 
+
+### [Maggi.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Maggi.protect.md) 
+
+### [Maggi.private](/_private/bio/Medicine/Anatomy/Nervous_System/Maggi.private.md) 
+
+### [Maggi.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Maggi.personal.md) 
+
+### [Maggi.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Maggi.secret.md)
+

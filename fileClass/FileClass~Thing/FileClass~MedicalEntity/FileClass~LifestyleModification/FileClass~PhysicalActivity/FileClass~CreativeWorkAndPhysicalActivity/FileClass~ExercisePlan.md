@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -119,10 +119,11 @@ Quantitative measure of the physiologic output of the exercise; also referred to
 Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ExercisePlan](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.md) 
+### [FileClass~ExercisePlan](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.md) 
+
+### [FileClass~ExercisePlan.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.public.md) 
 
 ### [FileClass~ExercisePlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.internal.md) 
 
@@ -132,4 +133,5 @@ Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~ExercisePlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.personal.md) 
 
-### [FileClass~ExercisePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.secret.md) 
+### [FileClass~ExercisePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.secret.md)
+

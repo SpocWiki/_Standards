@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -248,10 +248,11 @@ Human-readable terms of service documentation.
 TermsOfService:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Service](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.md) 
+### [FileClass~Service](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.md) 
+
+### [FileClass~Service.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.public.md) 
 
 ### [FileClass~Service.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.internal.md) 
 
@@ -261,4 +262,5 @@ TermsOfService:: {"type":"Input","options":{}}
 
 ### [FileClass~Service.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.personal.md) 
 
-### [FileClass~Service.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.secret.md) 
+### [FileClass~Service.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service.secret.md)
+

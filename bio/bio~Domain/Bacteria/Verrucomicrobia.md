@@ -89,3 +89,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Verrucomicrobia](/_Standards/bio/bio~Domain/Bacteria/Verrucomicrobia.md) 
+
+### [Verrucomicrobia.public](/_public/bio/bio~Domain/Bacteria/Verrucomicrobia.public.md) 
+
+### [Verrucomicrobia.internal](/_internal/bio/bio~Domain/Bacteria/Verrucomicrobia.internal.md) 
+
+### [Verrucomicrobia.protect](/_protect/bio/bio~Domain/Bacteria/Verrucomicrobia.protect.md) 
+
+### [Verrucomicrobia.private](/_private/bio/bio~Domain/Bacteria/Verrucomicrobia.private.md) 
+
+### [Verrucomicrobia.personal](/_personal/bio/bio~Domain/Bacteria/Verrucomicrobia.personal.md) 
+
+### [Verrucomicrobia.secret](/_secret/bio/bio~Domain/Bacteria/Verrucomicrobia.secret.md)
+

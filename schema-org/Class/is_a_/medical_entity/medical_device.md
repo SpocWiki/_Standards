@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, code, contraindication, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, postOp, potentialAction, preOp, procedure, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_device](/_public/schema-org/Class/is_a_/medical_entity/medical_device.md) 
+### [medical_device](/_Standards/schema-org/Class/is_a_/medical_entity/medical_device.md) 
+
+### [medical_device.public](/_public/schema-org/Class/is_a_/medical_entity/medical_device.public.md) 
 
 ### [medical_device.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_device.internal.md) 
 
@@ -56,4 +59,5 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 ### [medical_device.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_device.personal.md) 
 
-### [medical_device.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_device.secret.md) 
+### [medical_device.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_device.secret.md)
+

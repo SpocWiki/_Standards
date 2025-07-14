@@ -47,3 +47,22 @@ Hornworts
     -   [Seed_Plant](Seed_Plant.md)
 
 -   » Sub-Groups 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hornwort](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.md) 
+
+### [Hornwort.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.public.md) 
+
+### [Hornwort.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.internal.md) 
+
+### [Hornwort.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.protect.md) 
+
+### [Hornwort.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.private.md) 
+
+### [Hornwort.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.personal.md) 
+
+### [Hornwort.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Hornwort.secret.md)
+

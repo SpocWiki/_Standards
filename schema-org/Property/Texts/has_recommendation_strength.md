@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_recommendation_strength )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recommendation_strength](/_public/schema-org/Property/Texts/has_recommendation_strength.md) 
+### [has_recommendation_strength](/_Standards/schema-org/Property/Texts/has_recommendation_strength.md) 
+
+### [has_recommendation_strength.public](/_public/schema-org/Property/Texts/has_recommendation_strength.public.md) 
 
 ### [has_recommendation_strength.internal](/_internal/schema-org/Property/Texts/has_recommendation_strength.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_recommendation_strength.personal](/_personal/schema-org/Property/Texts/has_recommendation_strength.personal.md) 
 
-### [has_recommendation_strength.secret](/_secret/schema-org/Property/Texts/has_recommendation_strength.secret.md) 
+### [has_recommendation_strength.secret](/_secret/schema-org/Property/Texts/has_recommendation_strength.secret.md)
+

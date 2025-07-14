@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -85,10 +85,11 @@ The number of payments contractually required at origination to repay the loan. 
 NumberOfLoanPayments:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RepaymentSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.md) 
+### [FileClass~RepaymentSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.md) 
+
+### [FileClass~RepaymentSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.public.md) 
 
 ### [FileClass~RepaymentSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.internal.md) 
 
@@ -98,4 +99,5 @@ NumberOfLoanPayments:: {"type":"Number","options":{}}
 
 ### [FileClass~RepaymentSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.personal.md) 
 
-### [FileClass~RepaymentSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.secret.md) 
+### [FileClass~RepaymentSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_blog_post )
 ( #has_/range :: BlogPosting )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_blog_post](/_public/schema-org/Relation/has/has_blog_post.md) 
+### [has_blog_post](/_Standards/schema-org/Relation/has/has_blog_post.md) 
+
+### [has_blog_post.public](/_public/schema-org/Relation/has/has_blog_post.public.md) 
 
 ### [has_blog_post.internal](/_internal/schema-org/Relation/has/has_blog_post.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_blog_post.personal](/_personal/schema-org/Relation/has/has_blog_post.personal.md) 
 
-### [has_blog_post.secret](/_secret/schema-org/Relation/has/has_blog_post.secret.md) 
+### [has_blog_post.secret](/_secret/schema-org/Relation/has/has_blog_post.secret.md)
+

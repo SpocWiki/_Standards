@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [evidence_level_c](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md) 
+### [evidence_level_c](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md) 
+
+### [evidence_level_c.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.public.md) 
 
 ### [evidence_level_c.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md) 
 
@@ -56,4 +59,5 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 ### [evidence_level_c.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal.md) 
 
-### [evidence_level_c.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md) 
+### [evidence_level_c.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md)
+

@@ -96,3 +96,21 @@ European Journal of Protistology 27: 386-396.
   Scientific Name ::  Amastigomonas mutabilis
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   --------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [mutabilis](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.md) 
+
+### [mutabilis.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.public.md) 
+
+### [mutabilis.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.internal.md) 
+
+### [mutabilis.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.protect.md) 
+
+### [mutabilis.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.private.md) 
+
+### [mutabilis.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.personal.md) 
+
+### [mutabilis.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/mutabilis.secret.md)
+

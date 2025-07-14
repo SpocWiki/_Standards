@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[has_funding]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_funding_item](/_public/schema-org/Relation/is/is_funding_item.md) 
+### [is_funding_item](/_Standards/schema-org/Relation/is/is_funding_item.md) 
+
+### [is_funding_item.public](/_public/schema-org/Relation/is/is_funding_item.public.md) 
 
 ### [is_funding_item.internal](/_internal/schema-org/Relation/is/is_funding_item.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_funding_item.personal](/_personal/schema-org/Relation/is/is_funding_item.personal.md) 
 
-### [is_funding_item.secret](/_secret/schema-org/Relation/is/is_funding_item.secret.md) 
+### [is_funding_item.secret](/_secret/schema-org/Relation/is/is_funding_item.secret.md)
+

@@ -287,3 +287,21 @@ sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 > is the largest museum in the United States dedicated to a single artist.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andy%20Warhol)
+
+
+## Confidential Links & Embeds: 
+
+### [Warhol,Andy](/_Standards/bio/People/Painter/Warhol,Andy.md) 
+
+### [Warhol,Andy.public](/_public/bio/People/Painter/Warhol,Andy.public.md) 
+
+### [Warhol,Andy.internal](/_internal/bio/People/Painter/Warhol,Andy.internal.md) 
+
+### [Warhol,Andy.protect](/_protect/bio/People/Painter/Warhol,Andy.protect.md) 
+
+### [Warhol,Andy.private](/_private/bio/People/Painter/Warhol,Andy.private.md) 
+
+### [Warhol,Andy.personal](/_personal/bio/People/Painter/Warhol,Andy.personal.md) 
+
+### [Warhol,Andy.secret](/_secret/bio/People/Painter/Warhol,Andy.secret.md)
+

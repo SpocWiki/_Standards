@@ -570,9 +570,12 @@ Capital :: [[Pretoria]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Africa)
 
+
 ## Confidential Links & Embeds: 
 
-### [South_Africa](/_public/Earth/Continent/Africa/Africa~South/South_Africa.md) 
+### [South_Africa](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa.md) 
+
+### [South_Africa.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa.public.md) 
 
 ### [South_Africa.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal.md) 
 
@@ -582,4 +585,5 @@ Capital :: [[Pretoria]]
 
 ### [South_Africa.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal.md) 
 
-### [South_Africa.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret.md) 
+### [South_Africa.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret.md)
+

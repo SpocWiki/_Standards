@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [taxi_service](/_public/schema-org/Class/is_a_/Intangible/service/taxi_service.md) 
+### [taxi_service](/_Standards/schema-org/Class/is_a_/Intangible/service/taxi_service.md) 
+
+### [taxi_service.public](/_public/schema-org/Class/is_a_/Intangible/service/taxi_service.public.md) 
 
 ### [taxi_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/taxi_service.internal.md) 
 
@@ -56,4 +59,5 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 ### [taxi_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/taxi_service.personal.md) 
 
-### [taxi_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/taxi_service.secret.md) 
+### [taxi_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/taxi_service.secret.md)
+

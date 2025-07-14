@@ -526,10 +526,11 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Argentina) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Argentina](/_public/Earth/Continent/America~South/Argentina.md) 
+### [Argentina](/_Standards/Earth/Continent/America~South/Argentina.md) 
+
+### [Argentina.public](/_public/Earth/Continent/America~South/Argentina.public.md) 
 
 ### [Argentina.internal](/_internal/Earth/Continent/America~South/Argentina.internal.md) 
 
@@ -539,4 +540,5 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 ### [Argentina.personal](/_personal/Earth/Continent/America~South/Argentina.personal.md) 
 
-### [Argentina.secret](/_secret/Earth/Continent/America~South/Argentina.secret.md) 
+### [Argentina.secret](/_secret/Earth/Continent/America~South/Argentina.secret.md)
+

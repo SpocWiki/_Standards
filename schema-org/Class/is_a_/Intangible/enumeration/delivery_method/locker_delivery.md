@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A DeliveryMethod in which an item is made available via locker.
 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [locker_delivery](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.md) 
+### [locker_delivery](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.md) 
+
+### [locker_delivery.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.public.md) 
 
 ### [locker_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.internal.md) 
 
@@ -56,4 +59,5 @@ A DeliveryMethod in which an item is made available via locker.
 
 ### [locker_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.personal.md) 
 
-### [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md) 
+### [locker_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/locker_delivery.secret.md)
+

@@ -70,3 +70,22 @@ Here’s a look at these additional encoding possibilities:
 For most general cases, `\ansi` with Unicode escape sequences (`\uN`) 
 and code page settings (`\ansicpgN`) offers a comprehensive solution for multilingual support in RTF.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [RTF(Rich_Text_Format)](/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format).md) 
+
+### [RTF(Rich_Text_Format).public](/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public.md) 
+
+### [RTF(Rich_Text_Format).internal](/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal.md) 
+
+### [RTF(Rich_Text_Format).protect](/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect.md) 
+
+### [RTF(Rich_Text_Format).private](/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private.md) 
+
+### [RTF(Rich_Text_Format).personal](/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal.md) 
+
+### [RTF(Rich_Text_Format).secret](/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret.md)
+

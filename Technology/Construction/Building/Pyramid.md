@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12516
 different_from: '[[_Standards/WikiData/WD~Piramida,105574]]'
 described_by_source:
@@ -33,4 +33,23 @@ Commons_category: Pyramids
 > A pyramid has the majority of its mass closer to the ground with less mass towards the pyramidion at the apex. This is due to the gradual decrease in the cross-sectional area along the vertical axis with increasing elevation. This offers a weight distribution that allowed early civilizations to create monumental structures.Civilizations in many parts of the world have built pyramids. The largest pyramid by volume is the Mesoamerican Great Pyramid of Cholula, in the Mexican state of Puebla. For millennia, the largest structures on Earth were pyramids—first the Red Pyramid in the Dashur Necropolis and then the Great Pyramid of Khufu, both in Egypt—the latter is the only extant example of the Seven Wonders of the Ancient World.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyramid) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pyramid](/_Standards/Technology/Construction/Building/Pyramid.md) 
+
+### [Pyramid.public](/_public/Technology/Construction/Building/Pyramid.public.md) 
+
+### [Pyramid.internal](/_internal/Technology/Construction/Building/Pyramid.internal.md) 
+
+### [Pyramid.protect](/_protect/Technology/Construction/Building/Pyramid.protect.md) 
+
+### [Pyramid.private](/_private/Technology/Construction/Building/Pyramid.private.md) 
+
+### [Pyramid.personal](/_personal/Technology/Construction/Building/Pyramid.personal.md) 
+
+### [Pyramid.secret](/_secret/Technology/Construction/Building/Pyramid.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cleaning_fee](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.md) 
+### [cleaning_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.md) 
+
+### [cleaning_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.public.md) 
 
 ### [cleaning_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the cleaning fee part of the total price for an offered product, for 
 
 ### [cleaning_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.personal.md) 
 
-### [cleaning_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md) 
+### [cleaning_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/cleaning_fee.secret.md)
+

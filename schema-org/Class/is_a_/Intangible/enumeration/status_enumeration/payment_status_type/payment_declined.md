@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The payee received the payment, but it was declined for some reason.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_declined](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.md) 
+### [payment_declined](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.md) 
+
+### [payment_declined.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.public.md) 
 
 ### [payment_declined.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal.md) 
 
@@ -56,4 +59,5 @@ The payee received the payment, but it was declined for some reason.
 
 ### [payment_declined.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.personal.md) 
 
-### [payment_declined.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret.md) 
+### [payment_declined.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret.md)
+

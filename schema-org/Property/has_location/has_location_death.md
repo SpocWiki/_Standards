@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_death )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_death](/_public/schema-org/Property/has_location/has_location_death.md) 
+### [has_location_death](/_Standards/schema-org/Property/has_location/has_location_death.md) 
+
+### [has_location_death.public](/_public/schema-org/Property/has_location/has_location_death.public.md) 
 
 ### [has_location_death.internal](/_internal/schema-org/Property/has_location/has_location_death.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_death.personal](/_personal/schema-org/Property/has_location/has_location_death.personal.md) 
 
-### [has_location_death.secret](/_secret/schema-org/Property/has_location/has_location_death.secret.md) 
+### [has_location_death.secret](/_secret/schema-org/Property/has_location/has_location_death.secret.md)
+

@@ -148,3 +148,22 @@ Scientific Name ::     Collembola
 Location ::           USA: Arizona: Iron Springs
 Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Springtail](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.md) 
+
+### [Springtail.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.public.md) 
+
+### [Springtail.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.internal.md) 
+
+### [Springtail.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.protect.md) 
+
+### [Springtail.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.private.md) 
+
+### [Springtail.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.personal.md) 
+
+### [Springtail.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail.secret.md)
+

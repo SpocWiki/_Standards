@@ -59,3 +59,22 @@ Unicode_character: 🌬
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wind](/_Standards/Earth/Atmosphere/Climate/Weather/Wind.md) 
+
+### [Wind.public](/_public/Earth/Atmosphere/Climate/Weather/Wind.public.md) 
+
+### [Wind.internal](/_internal/Earth/Atmosphere/Climate/Weather/Wind.internal.md) 
+
+### [Wind.protect](/_protect/Earth/Atmosphere/Climate/Weather/Wind.protect.md) 
+
+### [Wind.private](/_private/Earth/Atmosphere/Climate/Weather/Wind.private.md) 
+
+### [Wind.personal](/_personal/Earth/Atmosphere/Climate/Weather/Wind.personal.md) 
+
+### [Wind.secret](/_secret/Earth/Atmosphere/Climate/Weather/Wind.secret.md)
+

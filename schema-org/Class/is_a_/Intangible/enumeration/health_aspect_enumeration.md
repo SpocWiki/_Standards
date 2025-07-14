@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_aspect_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.md) 
+### [health_aspect_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.md) 
+
+### [health_aspect_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.public.md) 
 
 ### [health_aspect_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 
 ### [health_aspect_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.personal.md) 
 
-### [health_aspect_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.secret.md) 
+### [health_aspect_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration.secret.md)
+

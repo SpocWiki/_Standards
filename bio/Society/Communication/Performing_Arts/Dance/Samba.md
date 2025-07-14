@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11403
 instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
 subclass_of: "[[_Standards/WikiData/WD~music_of_Brazil,899215]]"
@@ -28,4 +28,23 @@ has_time_started: 1914-01-01T00:00:00Z
 > The modern samba that emerged at the beginning of the 20th century is predominantly in a 24 time signature varied with the conscious use of a sung chorus to a batucada rhythm, with various stanzas of declaratory verses. Its traditional instrumentation is composed of percussion instruments such as the pandeiro, cuíca, tamborim, ganzá and surdo accompaniment – whose inspiration is choro – such as classical guitar and cavaquinho. In 2005 UNESCO declared Samba de Roda part of Intangible Cultural Heritage of Humanity, and in 2007, the Brazilian National Institute of Historic and Artistic Heritage declared Carioca samba and three of its matrixes – samba de terreiro, partido-alto and samba de enredo – as cultural heritage in Brazil.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samba) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Samba](/_Standards/bio/Society/Communication/Performing_Arts/Dance/Samba.md) 
+
+### [Samba.public](/_public/bio/Society/Communication/Performing_Arts/Dance/Samba.public.md) 
+
+### [Samba.internal](/_internal/bio/Society/Communication/Performing_Arts/Dance/Samba.internal.md) 
+
+### [Samba.protect](/_protect/bio/Society/Communication/Performing_Arts/Dance/Samba.protect.md) 
+
+### [Samba.private](/_private/bio/Society/Communication/Performing_Arts/Dance/Samba.private.md) 
+
+### [Samba.personal](/_personal/bio/Society/Communication/Performing_Arts/Dance/Samba.personal.md) 
+
+### [Samba.secret](/_secret/bio/Society/Communication/Performing_Arts/Dance/Samba.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q61476
 has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 subclass_of:
@@ -45,4 +45,23 @@ CXSMILES: "OC([*])=O |$;;R;$|"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fatty%20acid)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fatty_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid.md) 
+
+### [Fatty_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid.public.md) 
+
+### [Fatty_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.internal.md) 
+
+### [Fatty_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid.protect.md) 
+
+### [Fatty_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid.private.md) 
+
+### [Fatty_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid.personal.md) 
+
+### [Fatty_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid.secret.md)
 

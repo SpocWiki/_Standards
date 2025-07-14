@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21922
 has_id_wikidata: Q713
@@ -117,9 +117,12 @@ Commons_category: Scandium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Scandium](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
+### [Scandium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Scandium.md) 
+
+### [Scandium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Scandium.public.md) 
 
 ### [Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Scandium.internal.md) 
 
@@ -129,4 +132,5 @@ Commons_category: Scandium
 
 ### [Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Scandium.personal.md) 
 
-### [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md) 
+### [Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Scandium.secret.md)
+

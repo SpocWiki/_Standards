@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_mpn )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_mpn](/_public/schema-org/Property/Texts/has_mpn.md) 
+### [has_mpn](/_Standards/schema-org/Property/Texts/has_mpn.md) 
+
+### [has_mpn.public](/_public/schema-org/Property/Texts/has_mpn.public.md) 
 
 ### [has_mpn.internal](/_internal/schema-org/Property/Texts/has_mpn.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_mpn.personal](/_personal/schema-org/Property/Texts/has_mpn.personal.md) 
 
-### [has_mpn.secret](/_secret/schema-org/Property/Texts/has_mpn.secret.md) 
+### [has_mpn.secret](/_secret/schema-org/Property/Texts/has_mpn.secret.md)
+

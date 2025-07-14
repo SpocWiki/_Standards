@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the broad notion of Android-based operating systems.
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [android_platform](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+### [android_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.md) 
+
+### [android_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.public.md) 
 
 ### [android_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the broad notion of Android-based operating systems.
 
 ### [android_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
 
-### [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md) 
+### [android_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/android_platform.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ announcementLocation, legislationJurisdiction ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_spatial_coverage](/_public/schema-org/Property/has_location/has_location_spatial_coverage.md) 
+### [has_location_spatial_coverage](/_Standards/schema-org/Property/has_location/has_location_spatial_coverage.md) 
+
+### [has_location_spatial_coverage.public](/_public/schema-org/Property/has_location/has_location_spatial_coverage.public.md) 
 
 ### [has_location_spatial_coverage.internal](/_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal.md) 
 
@@ -62,4 +65,5 @@ Predicate describes that:
 
 ### [has_location_spatial_coverage.personal](/_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal.md) 
 
-### [has_location_spatial_coverage.secret](/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret.md) 
+### [has_location_spatial_coverage.secret](/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret.md)
+

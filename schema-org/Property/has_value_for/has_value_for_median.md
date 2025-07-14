@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_median )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_median](/_public/schema-org/Property/has_value_for/has_value_for_median.md) 
+### [has_value_for_median](/_Standards/schema-org/Property/has_value_for/has_value_for_median.md) 
+
+### [has_value_for_median.public](/_public/schema-org/Property/has_value_for/has_value_for_median.public.md) 
 
 ### [has_value_for_median.internal](/_internal/schema-org/Property/has_value_for/has_value_for_median.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_median.personal](/_personal/schema-org/Property/has_value_for/has_value_for_median.personal.md) 
 
-### [has_value_for_median.secret](/_secret/schema-org/Property/has_value_for/has_value_for_median.secret.md) 
+### [has_value_for_median.secret](/_secret/schema-org/Property/has_value_for/has_value_for_median.secret.md)
+

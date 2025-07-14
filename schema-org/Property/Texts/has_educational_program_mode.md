@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_educational_program_mode )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_educational_program_mode](/_public/schema-org/Property/Texts/has_educational_program_mode.md) 
+### [has_educational_program_mode](/_Standards/schema-org/Property/Texts/has_educational_program_mode.md) 
+
+### [has_educational_program_mode.public](/_public/schema-org/Property/Texts/has_educational_program_mode.public.md) 
 
 ### [has_educational_program_mode.internal](/_internal/schema-org/Property/Texts/has_educational_program_mode.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_educational_program_mode.personal](/_personal/schema-org/Property/Texts/has_educational_program_mode.personal.md) 
 
-### [has_educational_program_mode.secret](/_secret/schema-org/Property/Texts/has_educational_program_mode.secret.md) 
+### [has_educational_program_mode.secret](/_secret/schema-org/Property/Texts/has_educational_program_mode.secret.md)
+

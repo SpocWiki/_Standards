@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_employment_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_employment_type](/_public/schema-org/Property/Texts/has_employment_type.md) 
+### [has_employment_type](/_Standards/schema-org/Property/Texts/has_employment_type.md) 
+
+### [has_employment_type.public](/_public/schema-org/Property/Texts/has_employment_type.public.md) 
 
 ### [has_employment_type.internal](/_internal/schema-org/Property/Texts/has_employment_type.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_employment_type.personal](/_personal/schema-org/Property/Texts/has_employment_type.personal.md) 
 
-### [has_employment_type.secret](/_secret/schema-org/Property/Texts/has_employment_type.secret.md) 
+### [has_employment_type.secret](/_secret/schema-org/Property/Texts/has_employment_type.secret.md)
+

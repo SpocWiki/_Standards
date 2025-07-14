@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -42,10 +42,11 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EventSeries](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.md) 
+### [FileClass~EventSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.md) 
+
+### [FileClass~EventSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.public.md) 
 
 ### [FileClass~EventSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.internal.md) 
 
@@ -55,4 +56,5 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
 
 ### [FileClass~EventSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.personal.md) 
 
-### [FileClass~EventSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.secret.md) 
+### [FileClass~EventSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries/FileClass~EventSeries.secret.md)
+

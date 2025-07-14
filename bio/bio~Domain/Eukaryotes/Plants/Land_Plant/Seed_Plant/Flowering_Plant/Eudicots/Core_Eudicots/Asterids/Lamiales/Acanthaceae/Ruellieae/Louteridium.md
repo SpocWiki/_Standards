@@ -82,3 +82,22 @@ is known about reproductive biology of the species.
   Specimen Condition   Live Specimen
   Copyright ::            © 2006 [www.sagan-gea.org](http://www.sagan-gea.org/hojared_biodiversidad/paginas/hoja2_flora_amenazada.html)
   ---------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Louteridium](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.md) 
+
+### [Louteridium.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.public.md) 
+
+### [Louteridium.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.internal.md) 
+
+### [Louteridium.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.protect.md) 
+
+### [Louteridium.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.private.md) 
+
+### [Louteridium.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.personal.md) 
+
+### [Louteridium.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Louteridium.secret.md)
+

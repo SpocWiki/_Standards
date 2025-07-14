@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Gabriel García Márquez"
 - "Gabriel José García Márquez"
@@ -146,4 +146,23 @@ influenced_by:
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Márquez,Gabriel_García](/_Standards/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.md) 
+
+### [Márquez,Gabriel_García.public](/_public/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.public.md) 
+
+### [Márquez,Gabriel_García.internal](/_internal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.internal.md) 
+
+### [Márquez,Gabriel_García.protect](/_protect/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.protect.md) 
+
+### [Márquez,Gabriel_García.private](/_private/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.private.md) 
+
+### [Márquez,Gabriel_García.personal](/_personal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.personal.md) 
+
+### [Márquez,Gabriel_García.secret](/_secret/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.secret.md)
 

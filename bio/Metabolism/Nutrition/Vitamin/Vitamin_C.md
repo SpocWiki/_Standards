@@ -33,3 +33,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20C) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vitamin_C](/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.md) 
+
+### [Vitamin_C.public](/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.public.md) 
+
+### [Vitamin_C.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.internal.md) 
+
+### [Vitamin_C.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.protect.md) 
+
+### [Vitamin_C.private](/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.private.md) 
+
+### [Vitamin_C.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.personal.md) 
+
+### [Vitamin_C.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_C.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_applicable_in_location )
 ( #has_/range :: AdministrativeArea )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_applicable_in_location](/_public/schema-org/Relation/is/is_applicable_in_location.md) 
+### [is_applicable_in_location](/_Standards/schema-org/Relation/is/is_applicable_in_location.md) 
+
+### [is_applicable_in_location.public](/_public/schema-org/Relation/is/is_applicable_in_location.public.md) 
 
 ### [is_applicable_in_location.internal](/_internal/schema-org/Relation/is/is_applicable_in_location.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_applicable_in_location.personal](/_personal/schema-org/Relation/is/is_applicable_in_location.personal.md) 
 
-### [is_applicable_in_location.secret](/_secret/schema-org/Relation/is/is_applicable_in_location.secret.md) 
+### [is_applicable_in_location.secret](/_secret/schema-org/Relation/is/is_applicable_in_location.secret.md)
+

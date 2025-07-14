@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_geo-Template](/_public/schema-org/Property/has_location/_geo-Template.md) 
+### [_geo-Template](/_Standards/schema-org/Property/has_location/_geo-Template.md) 
+
+### [_geo-Template.public](/_public/schema-org/Property/has_location/_geo-Template.public.md) 
 
 ### [_geo-Template.internal](/_internal/schema-org/Property/has_location/_geo-Template.internal.md) 
 
@@ -67,4 +70,5 @@ Predicate describes that:
 
 ### [_geo-Template.personal](/_personal/schema-org/Property/has_location/_geo-Template.personal.md) 
 
-### [_geo-Template.secret](/_secret/schema-org/Property/has_location/_geo-Template.secret.md) 
+### [_geo-Template.secret](/_secret/schema-org/Property/has_location/_geo-Template.secret.md)
+

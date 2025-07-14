@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_credits )
 ( #has_/range :: Integer, StructuredValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_credits](/_public/schema-org/Property/has_number_of/has_number_of_credits.md) 
+### [has_number_of_credits](/_Standards/schema-org/Property/has_number_of/has_number_of_credits.md) 
+
+### [has_number_of_credits.public](/_public/schema-org/Property/has_number_of/has_number_of_credits.public.md) 
 
 ### [has_number_of_credits.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_credits.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits.personal.md) 
 
-### [has_number_of_credits.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret.md) 
+### [has_number_of_credits.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [interaction_counter](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
+### [interaction_counter](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.md) 
+
+### [interaction_counter.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.public.md) 
 
 ### [interaction_counter.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.internal.md) 
 
@@ -57,4 +60,5 @@ Tag Instances like this:
 
 ### [interaction_counter.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.personal.md) 
 
-### [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md) 
+### [interaction_counter.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/interaction_counter.secret.md)
+

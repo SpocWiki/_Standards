@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Predicate describes that:
 ( #has_/name :: has_location_ineligible_region )
 ( #has_/range :: GeoShape, Place, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_ineligible_region](/_public/schema-org/Property/has_location/has_location_ineligible_region.md) 
+### [has_location_ineligible_region](/_Standards/schema-org/Property/has_location/has_location_ineligible_region.md) 
+
+### [has_location_ineligible_region.public](/_public/schema-org/Property/has_location/has_location_ineligible_region.public.md) 
 
 ### [has_location_ineligible_region.internal](/_internal/schema-org/Property/has_location/has_location_ineligible_region.internal.md) 
 
@@ -62,4 +65,5 @@ Predicate describes that:
 
 ### [has_location_ineligible_region.personal](/_personal/schema-org/Property/has_location/has_location_ineligible_region.personal.md) 
 
-### [has_location_ineligible_region.secret](/_secret/schema-org/Property/has_location/has_location_ineligible_region.secret.md) 
+### [has_location_ineligible_region.secret](/_secret/schema-org/Property/has_location/has_location_ineligible_region.secret.md)
+

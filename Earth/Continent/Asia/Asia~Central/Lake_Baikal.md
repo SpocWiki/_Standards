@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Lake Baikal"
 has_id_wikidata: Q5513
@@ -89,4 +89,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Olkhon%20Island%20and
 > Lake Baikal is home to thousands of species of plants and animals, many of them endemic to the region. It is also home to Buryat tribes, who raise goats, camels, cattle, sheep, and horses on the eastern side of the lake, where the mean temperature varies from a winter minimum of −19 °C (−2 °F) to a summer maximum of 14 °C (57 °F). The region to the east of Lake Baikal is referred to as Transbaikalia or as the Transbaikal, and the loosely defined region around the lake itself is sometimes known as Baikalia. UNESCO declared Baikal a World Heritage Site in 1996.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Baikal) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lake_Baikal](/_Standards/Earth/Continent/Asia/Asia~Central/Lake_Baikal.md) 
+
+### [Lake_Baikal.public](/_public/Earth/Continent/Asia/Asia~Central/Lake_Baikal.public.md) 
+
+### [Lake_Baikal.internal](/_internal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.internal.md) 
+
+### [Lake_Baikal.protect](/_protect/Earth/Continent/Asia/Asia~Central/Lake_Baikal.protect.md) 
+
+### [Lake_Baikal.private](/_private/Earth/Continent/Asia/Asia~Central/Lake_Baikal.private.md) 
+
+### [Lake_Baikal.personal](/_personal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.personal.md) 
+
+### [Lake_Baikal.secret](/_secret/Earth/Continent/Asia/Asia~Central/Lake_Baikal.secret.md)
 

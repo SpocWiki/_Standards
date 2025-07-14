@@ -569,9 +569,12 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Arab%20Emirates)
 
+
 ## Confidential Links & Embeds: 
 
-### [United_Arab_Emirates](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.md) 
+### [United_Arab_Emirates](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.md) 
+
+### [United_Arab_Emirates.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public.md) 
 
 ### [United_Arab_Emirates.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal.md) 
 
@@ -581,4 +584,5 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 
 ### [United_Arab_Emirates.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal.md) 
 
-### [United_Arab_Emirates.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret.md) 
+### [United_Arab_Emirates.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret.md)
+

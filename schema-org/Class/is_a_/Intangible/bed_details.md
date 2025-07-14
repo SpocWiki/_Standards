@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [bed_details](/_public/schema-org/Class/is_a_/Intangible/bed_details.md) 
+### [bed_details](/_Standards/schema-org/Class/is_a_/Intangible/bed_details.md) 
+
+### [bed_details.public](/_public/schema-org/Class/is_a_/Intangible/bed_details.public.md) 
 
 ### [bed_details.internal](/_internal/schema-org/Class/is_a_/Intangible/bed_details.internal.md) 
 
@@ -55,4 +58,5 @@ Tag Instances like this:
 
 ### [bed_details.personal](/_personal/schema-org/Class/is_a_/Intangible/bed_details.personal.md) 
 
-### [bed_details.secret](/_secret/schema-org/Class/is_a_/Intangible/bed_details.secret.md) 
+### [bed_details.secret](/_secret/schema-org/Class/is_a_/Intangible/bed_details.secret.md)
+

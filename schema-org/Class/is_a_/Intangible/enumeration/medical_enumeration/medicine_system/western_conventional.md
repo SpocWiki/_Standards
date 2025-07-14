@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [western_conventional](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.md) 
+### [western_conventional](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.md) 
+
+### [western_conventional.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.public.md) 
 
 ### [western_conventional.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.internal.md) 
 
@@ -56,4 +59,5 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 ### [western_conventional.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.personal.md) 
 
-### [western_conventional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.secret.md) 
+### [western_conventional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/western_conventional.secret.md)
+

@@ -74,14 +74,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Early_Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Early_Middle-Ages.md) 
+### [0750-Early_Middle-Ages](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.md) 
 
-### [Early_Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Early_Middle-Ages.internal.md) 
+### [0750-Early_Middle-Ages.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.public.md) 
 
-### [Early_Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Early_Middle-Ages.protect.md) 
+### [0750-Early_Middle-Ages.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.internal.md) 
 
-### [Early_Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Early_Middle-Ages.private.md) 
+### [0750-Early_Middle-Ages.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.protect.md) 
 
-### [Early_Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Early_Middle-Ages.personal.md) 
+### [0750-Early_Middle-Ages.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.private.md) 
 
-### [Early_Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Early_Middle-Ages.secret.md) 
+### [0750-Early_Middle-Ages.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.personal.md) 
+
+### [0750-Early_Middle-Ages.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.secret.md)
+

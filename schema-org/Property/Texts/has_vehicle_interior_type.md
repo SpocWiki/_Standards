@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_vehicle_interior_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_interior_type](/_public/schema-org/Property/Texts/has_vehicle_interior_type.md) 
+### [has_vehicle_interior_type](/_Standards/schema-org/Property/Texts/has_vehicle_interior_type.md) 
+
+### [has_vehicle_interior_type.public](/_public/schema-org/Property/Texts/has_vehicle_interior_type.public.md) 
 
 ### [has_vehicle_interior_type.internal](/_internal/schema-org/Property/Texts/has_vehicle_interior_type.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_vehicle_interior_type.personal](/_personal/schema-org/Property/Texts/has_vehicle_interior_type.personal.md) 
 
-### [has_vehicle_interior_type.secret](/_secret/schema-org/Property/Texts/has_vehicle_interior_type.secret.md) 
+### [has_vehicle_interior_type.secret](/_secret/schema-org/Property/Texts/has_vehicle_interior_type.secret.md)
+

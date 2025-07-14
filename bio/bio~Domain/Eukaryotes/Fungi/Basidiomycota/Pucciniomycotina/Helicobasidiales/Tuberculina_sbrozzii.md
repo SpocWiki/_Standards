@@ -64,3 +64,21 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2002
   Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Tuberculina_sbrozzii](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.md) 
+
+### [Tuberculina_sbrozzii.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.public.md) 
+
+### [Tuberculina_sbrozzii.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.internal.md) 
+
+### [Tuberculina_sbrozzii.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.protect.md) 
+
+### [Tuberculina_sbrozzii.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.private.md) 
+
+### [Tuberculina_sbrozzii.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.personal.md) 
+
+### [Tuberculina_sbrozzii.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_sbrozzii.secret.md)
+

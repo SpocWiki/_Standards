@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ One of the continents (for example, Europe or Africa).
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Continent](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.md) 
+### [FileClass~Continent](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.md) 
+
+### [FileClass~Continent.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.public.md) 
 
 ### [FileClass~Continent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.internal.md) 
 
@@ -46,4 +47,5 @@ One of the continents (for example, Europe or Africa).
 
 ### [FileClass~Continent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.personal.md) 
 
-### [FileClass~Continent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret.md) 
+### [FileClass~Continent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret.md)
+

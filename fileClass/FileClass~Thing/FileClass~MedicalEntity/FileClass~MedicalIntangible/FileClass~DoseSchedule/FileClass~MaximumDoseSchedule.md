@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MaximumDoseSchedule](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.md) 
+### [FileClass~MaximumDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.md) 
+
+### [FileClass~MaximumDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.public.md) 
 
 ### [FileClass~MaximumDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.internal.md) 
 
@@ -46,4 +47,5 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 
 ### [FileClass~MaximumDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.personal.md) 
 
-### [FileClass~MaximumDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.secret.md) 
+### [FileClass~MaximumDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.secret.md)
+

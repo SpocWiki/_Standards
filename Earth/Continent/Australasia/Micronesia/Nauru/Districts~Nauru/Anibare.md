@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.52 , 166.95 ] 
 type: geo-Region
 title: Anibare
@@ -41,7 +41,9 @@ markerFolder: ./Anibare/
 
 ## Confidential Links & Embeds: 
 
-### [Anibare](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.md) 
+### [Anibare](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.md) 
+
+### [Anibare.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.public.md) 
 
 ### [Anibare.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Anibare/
 
 ### [Anibare.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.personal.md) 
 
-### [Anibare.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret.md) 
+### [Anibare.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret.md)
+

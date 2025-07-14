@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: isPartOf ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_part_of_episode](/_public/schema-org/Relation/is/part_of/is_part_of_episode.md) 
+### [is_part_of_episode](/_Standards/schema-org/Relation/is/part_of/is_part_of_episode.md) 
+
+### [is_part_of_episode.public](/_public/schema-org/Relation/is/part_of/is_part_of_episode.public.md) 
 
 ### [is_part_of_episode.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_episode.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_part_of_episode.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_episode.personal.md) 
 
-### [is_part_of_episode.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_episode.secret.md) 
+### [is_part_of_episode.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_episode.secret.md)
+

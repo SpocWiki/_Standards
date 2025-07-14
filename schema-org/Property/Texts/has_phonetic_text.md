@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_phonetic_text )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_phonetic_text](/_public/schema-org/Property/Texts/has_phonetic_text.md) 
+### [has_phonetic_text](/_Standards/schema-org/Property/Texts/has_phonetic_text.md) 
+
+### [has_phonetic_text.public](/_public/schema-org/Property/Texts/has_phonetic_text.public.md) 
 
 ### [has_phonetic_text.internal](/_internal/schema-org/Property/Texts/has_phonetic_text.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_phonetic_text.personal](/_personal/schema-org/Property/Texts/has_phonetic_text.personal.md) 
 
-### [has_phonetic_text.secret](/_secret/schema-org/Property/Texts/has_phonetic_text.secret.md) 
+### [has_phonetic_text.secret](/_secret/schema-org/Property/Texts/has_phonetic_text.secret.md)
+

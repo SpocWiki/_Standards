@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Design models for observational medical studies. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_observational_study_design](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.md) 
+### [medical_observational_study_design](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.md) 
+
+### [medical_observational_study_design.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.public.md) 
 
 ### [medical_observational_study_design.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.internal.md) 
 
@@ -52,4 +55,5 @@ Design models for observational medical studies. Enumerated type.
 
 ### [medical_observational_study_design.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.personal.md) 
 
-### [medical_observational_study_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.secret.md) 
+### [medical_observational_study_design.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design.secret.md)
+

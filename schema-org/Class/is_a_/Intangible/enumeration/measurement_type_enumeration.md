@@ -1,4 +1,4 @@
-﻿h---
+h---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Enumeration of common measurement types (or dimensions), for example "chest" for
 
 [ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [measurement_type_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.md) 
+### [measurement_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.md) 
+
+### [measurement_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.public.md) 
 
 ### [measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Enumeration of common measurement types (or dimensions), for example "chest" for
 
 ### [measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.personal.md) 
 
-### [measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.secret.md) 
+### [measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.secret.md)
+

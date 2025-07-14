@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_broadcast_channel )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_broadcast_channel](/_public/schema-org/Property/has_name/has_id_broadcast_channel.md) 
+### [has_id_broadcast_channel](/_Standards/schema-org/Property/has_name/has_id_broadcast_channel.md) 
+
+### [has_id_broadcast_channel.public](/_public/schema-org/Property/has_name/has_id_broadcast_channel.public.md) 
 
 ### [has_id_broadcast_channel.internal](/_internal/schema-org/Property/has_name/has_id_broadcast_channel.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_broadcast_channel.personal](/_personal/schema-org/Property/has_name/has_id_broadcast_channel.personal.md) 
 
-### [has_id_broadcast_channel.secret](/_secret/schema-org/Property/has_name/has_id_broadcast_channel.secret.md) 
+### [has_id_broadcast_channel.secret](/_secret/schema-org/Property/has_name/has_id_broadcast_channel.secret.md)
+

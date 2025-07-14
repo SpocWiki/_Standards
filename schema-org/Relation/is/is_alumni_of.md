@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[has_alumni]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_alumni_of](/_public/schema-org/Relation/is/is_alumni_of.md) 
+### [is_alumni_of](/_Standards/schema-org/Relation/is/is_alumni_of.md) 
+
+### [is_alumni_of.public](/_public/schema-org/Relation/is/is_alumni_of.public.md) 
 
 ### [is_alumni_of.internal](/_internal/schema-org/Relation/is/is_alumni_of.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_alumni_of.personal](/_personal/schema-org/Relation/is/is_alumni_of.personal.md) 
 
-### [is_alumni_of.secret](/_secret/schema-org/Relation/is/is_alumni_of.secret.md) 
+### [is_alumni_of.secret](/_secret/schema-org/Relation/is/is_alumni_of.secret.md)
+

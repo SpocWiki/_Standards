@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_nerve )
 ( #has_/range :: Nerve )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nerve](/_public/schema-org/Relation/has/has_nerve.md) 
+### [has_nerve](/_Standards/schema-org/Relation/has/has_nerve.md) 
+
+### [has_nerve.public](/_public/schema-org/Relation/has/has_nerve.public.md) 
 
 ### [has_nerve.internal](/_internal/schema-org/Relation/has/has_nerve.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_nerve.personal](/_personal/schema-org/Relation/has/has_nerve.personal.md) 
 
-### [has_nerve.secret](/_secret/schema-org/Relation/has/has_nerve.secret.md) 
+### [has_nerve.secret](/_secret/schema-org/Relation/has/has_nerve.secret.md)
+

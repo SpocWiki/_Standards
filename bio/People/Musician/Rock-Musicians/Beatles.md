@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "The Beatles"
 has_id_wikidata: Q1299
@@ -150,4 +150,23 @@ work_period_start_: "1960"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Beatles)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Beatles](/_Standards/bio/People/Musician/Rock-Musicians/Beatles.md) 
+
+### [Beatles.public](/_public/bio/People/Musician/Rock-Musicians/Beatles.public.md) 
+
+### [Beatles.internal](/_internal/bio/People/Musician/Rock-Musicians/Beatles.internal.md) 
+
+### [Beatles.protect](/_protect/bio/People/Musician/Rock-Musicians/Beatles.protect.md) 
+
+### [Beatles.private](/_private/bio/People/Musician/Rock-Musicians/Beatles.private.md) 
+
+### [Beatles.personal](/_personal/bio/People/Musician/Rock-Musicians/Beatles.personal.md) 
+
+### [Beatles.secret](/_secret/bio/People/Musician/Rock-Musicians/Beatles.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_inventory_level )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_inventory_level](/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.md) 
+### [has_value_for_inventory_level](/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level.md) 
+
+### [has_value_for_inventory_level.public](/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public.md) 
 
 ### [has_value_for_inventory_level.internal](/_internal/schema-org/Property/has_value_for/has_value_for_inventory_level.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_inventory_level.personal](/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal.md) 
 
-### [has_value_for_inventory_level.secret](/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret.md) 
+### [has_value_for_inventory_level.secret](/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret.md)
+

@@ -407,10 +407,11 @@ Capital :: [[Dili]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Timor-Leste) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Timor-Leste](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.md) 
+### [Timor-Leste](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.md) 
+
+### [Timor-Leste.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.public.md) 
 
 ### [Timor-Leste.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.internal.md) 
 
@@ -420,4 +421,5 @@ Capital :: [[Dili]]
 
 ### [Timor-Leste.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.personal.md) 
 
-### [Timor-Leste.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.secret.md) 
+### [Timor-Leste.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.secret.md)
+

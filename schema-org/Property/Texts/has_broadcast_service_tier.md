@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_broadcast_service_tier )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_service_tier](/_public/schema-org/Property/Texts/has_broadcast_service_tier.md) 
+### [has_broadcast_service_tier](/_Standards/schema-org/Property/Texts/has_broadcast_service_tier.md) 
+
+### [has_broadcast_service_tier.public](/_public/schema-org/Property/Texts/has_broadcast_service_tier.public.md) 
 
 ### [has_broadcast_service_tier.internal](/_internal/schema-org/Property/Texts/has_broadcast_service_tier.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_broadcast_service_tier.personal](/_personal/schema-org/Property/Texts/has_broadcast_service_tier.personal.md) 
 
-### [has_broadcast_service_tier.secret](/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret.md) 
+### [has_broadcast_service_tier.secret](/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret.md)
+

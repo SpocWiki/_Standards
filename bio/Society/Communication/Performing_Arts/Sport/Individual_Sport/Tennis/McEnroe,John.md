@@ -285,3 +285,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20McEnroe)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [McEnroe,John](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.md) 
+
+### [McEnroe,John.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.public.md) 
+
+### [McEnroe,John.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.internal.md) 
+
+### [McEnroe,John.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.protect.md) 
+
+### [McEnroe,John.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.private.md) 
+
+### [McEnroe,John.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.personal.md) 
+
+### [McEnroe,John.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/McEnroe,John.secret.md)
+

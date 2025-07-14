@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.44 , 134.53 ] 
 type: geo-Region
 title: Aimeliik
@@ -41,7 +41,9 @@ markerFolder: ./Aimeliik/
 
 ## Confidential Links & Embeds: 
 
-### [Aimeliik](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.md) 
+### [Aimeliik](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.md) 
+
+### [Aimeliik.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.public.md) 
 
 ### [Aimeliik.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Aimeliik/
 
 ### [Aimeliik.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.personal.md) 
 
-### [Aimeliik.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.secret.md) 
+### [Aimeliik.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.secret.md)
+

@@ -531,10 +531,11 @@ Capital :: [[Praha]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Czech%20Republic) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Czech_Republic](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.md) 
+### [Czech_Republic](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic.md) 
+
+### [Czech_Republic.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public.md) 
 
 ### [Czech_Republic.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal.md) 
 
@@ -544,4 +545,5 @@ Capital :: [[Praha]]
 
 ### [Czech_Republic.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal.md) 
 
-### [Czech_Republic.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret.md) 
+### [Czech_Republic.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret.md)
+

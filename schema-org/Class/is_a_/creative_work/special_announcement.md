@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -122,9 +122,12 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, announcementLocation, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, category, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePosted, datePublished, description, disambiguatingDescription, discussionUrl, diseasePreventionInfo, diseaseSpreadStatistics, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gettingTestedInfo, governmentBenefitsInfo, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, newsUpdatesAndGuidelines, offers, pattern, position, potentialAction, producer, provider, publicTransportClosuresInfo, publication, publisher, publisherImprint, publishingPrinciples, quarantineGuidelines, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, schoolClosuresInfo, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, travelBans, typicalAgeRange, url, usageInfo, version, video, webFeed, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [special_announcement](/_public/schema-org/Class/is_a_/creative_work/special_announcement.md) 
+### [special_announcement](/_Standards/schema-org/Class/is_a_/creative_work/special_announcement.md) 
+
+### [special_announcement.public](/_public/schema-org/Class/is_a_/creative_work/special_announcement.public.md) 
 
 ### [special_announcement.internal](/_internal/schema-org/Class/is_a_/creative_work/special_announcement.internal.md) 
 
@@ -134,4 +137,5 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 ### [special_announcement.personal](/_personal/schema-org/Class/is_a_/creative_work/special_announcement.personal.md) 
 
-### [special_announcement.secret](/_secret/schema-org/Class/is_a_/creative_work/special_announcement.secret.md) 
+### [special_announcement.secret](/_secret/schema-org/Class/is_a_/creative_work/special_announcement.secret.md)
+

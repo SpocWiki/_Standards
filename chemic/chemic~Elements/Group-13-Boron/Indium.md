@@ -122,9 +122,12 @@ InChI: InChI=1S/In
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Indium](/_public/chemic/chemic~Elements/Group-13-Boron/Indium.md) 
+### [Indium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Indium.md) 
+
+### [Indium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Indium.public.md) 
 
 ### [Indium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Indium.internal.md) 
 
@@ -134,4 +137,5 @@ InChI: InChI=1S/In
 
 ### [Indium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Indium.personal.md) 
 
-### [Indium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Indium.secret.md) 
+### [Indium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Indium.secret.md)
+

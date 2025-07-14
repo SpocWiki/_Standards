@@ -277,9 +277,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Micronesia](/_public/Earth/Continent/Australasia/Micronesia.md) 
+### [Micronesia](/_Standards/Earth/Continent/Australasia/Micronesia.md) 
+
+### [Micronesia.public](/_public/Earth/Continent/Australasia/Micronesia.public.md) 
 
 ### [Micronesia.internal](/_internal/Earth/Continent/Australasia/Micronesia.internal.md) 
 
@@ -289,4 +292,5 @@ type: folder_brief_live
 
 ### [Micronesia.personal](/_personal/Earth/Continent/Australasia/Micronesia.personal.md) 
 
-### [Micronesia.secret](/_secret/Earth/Continent/Australasia/Micronesia.secret.md) 
+### [Micronesia.secret](/_secret/Earth/Continent/Australasia/Micronesia.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q37756
 subclass_of:
 - '[[_Standards/WikiData/WD~mixture,169336]]'
@@ -69,3 +69,21 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/SPLAVI.html
 > Alloys are used in a wide variety of applications, from the steel alloys, used in everything from buildings to automobiles to surgical tools, to exotic titanium alloys used in the aerospace industry, to beryllium-copper alloys for non-sparking tools.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alloy)
+
+
+## Confidential Links & Embeds: 
+
+### [Alloy](/_Standards/chemic/Material/Metallurgy/Alloy.md) 
+
+### [Alloy.public](/_public/chemic/Material/Metallurgy/Alloy.public.md) 
+
+### [Alloy.internal](/_internal/chemic/Material/Metallurgy/Alloy.internal.md) 
+
+### [Alloy.protect](/_protect/chemic/Material/Metallurgy/Alloy.protect.md) 
+
+### [Alloy.private](/_private/chemic/Material/Metallurgy/Alloy.private.md) 
+
+### [Alloy.personal](/_personal/chemic/Material/Metallurgy/Alloy.personal.md) 
+
+### [Alloy.secret](/_secret/chemic/Material/Metallurgy/Alloy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 [ #has_/properties :: [ about, abstract, acceptedAnswer, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, answerCount, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, downvoteCount, editEIDR, editor, eduQuestionType, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, parentItem, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, suggestedAnswer, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, upvoteCount, url, usageInfo, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [question](/_public/schema-org/Class/is_a_/creative_work/comment/question.md) 
+### [question](/_Standards/schema-org/Class/is_a_/creative_work/comment/question.md) 
+
+### [question.public](/_public/schema-org/Class/is_a_/creative_work/comment/question.public.md) 
 
 ### [question.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/question.internal.md) 
 
@@ -54,4 +57,5 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 ### [question.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/question.personal.md) 
 
-### [question.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/question.secret.md) 
+### [question.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/question.secret.md)
+

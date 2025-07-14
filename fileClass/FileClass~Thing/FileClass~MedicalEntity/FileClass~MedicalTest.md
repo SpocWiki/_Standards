@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -87,10 +87,11 @@ Device used to perform the test.
 UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalDevice')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalTest](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.md) 
+### [FileClass~MedicalTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.md) 
+
+### [FileClass~MedicalTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.public.md) 
 
 ### [FileClass~MedicalTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.internal.md) 
 
@@ -100,4 +101,5 @@ UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ### [FileClass~MedicalTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.personal.md) 
 
-### [FileClass~MedicalTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret.md) 
+### [FileClass~MedicalTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret.md)
+

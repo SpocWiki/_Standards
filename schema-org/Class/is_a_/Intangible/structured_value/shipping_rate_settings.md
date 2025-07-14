@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [shipping_rate_settings](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.md) 
+### [shipping_rate_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.md) 
+
+### [shipping_rate_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.public.md) 
 
 ### [shipping_rate_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.internal.md) 
 
@@ -56,4 +59,5 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 ### [shipping_rate_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.personal.md) 
 
-### [shipping_rate_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.secret.md) 
+### [shipping_rate_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_rate_settings.secret.md)
+

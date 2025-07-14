@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_tour_booking_page )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_tour_booking_page](/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.md) 
+### [has_url_for_tour_booking_page](/_Standards/schema-org/Property/has_url_for/has_url_for_tour_booking_page.md) 
+
+### [has_url_for_tour_booking_page.public](/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.public.md) 
 
 ### [has_url_for_tour_booking_page.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_tour_booking_page.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.personal.md) 
 
-### [has_url_for_tour_booking_page.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret.md) 
+### [has_url_for_tour_booking_page.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret.md)
+

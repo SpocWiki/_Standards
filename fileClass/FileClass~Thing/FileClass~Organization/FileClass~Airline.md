@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -48,10 +48,11 @@ IATA identifier for an airline or airport.
 IataCode:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Airline](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.md) 
+### [FileClass~Airline](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.md) 
+
+### [FileClass~Airline.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.public.md) 
 
 ### [FileClass~Airline.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.internal.md) 
 
@@ -61,4 +62,5 @@ IataCode:: {"type":"Input","options":{}}
 
 ### [FileClass~Airline.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.personal.md) 
 
-### [FileClass~Airline.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret.md) 
+### [FileClass~Airline.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Airline.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [activate_action](/_public/schema-org/Class/is_a_/action/control_action/activate_action.md) 
+### [activate_action](/_Standards/schema-org/Class/is_a_/action/control_action/activate_action.md) 
+
+### [activate_action.public](/_public/schema-org/Class/is_a_/action/control_action/activate_action.public.md) 
 
 ### [activate_action.internal](/_internal/schema-org/Class/is_a_/action/control_action/activate_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 ### [activate_action.personal](/_personal/schema-org/Class/is_a_/action/control_action/activate_action.personal.md) 
 
-### [activate_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/activate_action.secret.md) 
+### [activate_action.secret](/_secret/schema-org/Class/is_a_/action/control_action/activate_action.secret.md)
+

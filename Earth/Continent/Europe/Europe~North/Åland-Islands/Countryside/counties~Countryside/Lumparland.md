@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.11 , 20.24 ] 
 type: geo-Region
 title: Lumparland
@@ -41,7 +41,9 @@ markerFolder: ./Lumparland/
 
 ## Confidential Links & Embeds: 
 
-### [Lumparland](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.md) 
+### [Lumparland](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.md) 
+
+### [Lumparland.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.public.md) 
 
 ### [Lumparland.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Lumparland/
 
 ### [Lumparland.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.personal.md) 
 
-### [Lumparland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.secret.md) 
+### [Lumparland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lumparland.secret.md)
+

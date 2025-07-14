@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_airbags )
 ( #has_/range :: Number, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_airbags](/_public/schema-org/Property/has_number_of/has_number_of_airbags.md) 
+### [has_number_of_airbags](/_Standards/schema-org/Property/has_number_of/has_number_of_airbags.md) 
+
+### [has_number_of_airbags.public](/_public/schema-org/Property/has_number_of/has_number_of_airbags.public.md) 
 
 ### [has_number_of_airbags.internal](/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_airbags.personal](/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal.md) 
 
-### [has_number_of_airbags.secret](/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret.md) 
+### [has_number_of_airbags.secret](/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret.md)
+

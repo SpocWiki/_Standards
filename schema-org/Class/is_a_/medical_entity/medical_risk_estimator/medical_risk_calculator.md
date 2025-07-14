@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_risk_calculator](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md) 
+### [medical_risk_calculator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md) 
+
+### [medical_risk_calculator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.public.md) 
 
 ### [medical_risk_calculator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.internal.md) 
 
@@ -54,4 +57,5 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 ### [medical_risk_calculator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.personal.md) 
 
-### [medical_risk_calculator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md) 
+### [medical_risk_calculator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md)
+

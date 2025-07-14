@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: position ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_season](/_public/schema-org/Property/has_number_of/has_number_of_season.md) 
+### [has_number_of_season](/_Standards/schema-org/Property/has_number_of/has_number_of_season.md) 
+
+### [has_number_of_season.public](/_public/schema-org/Property/has_number_of/has_number_of_season.public.md) 
 
 ### [has_number_of_season.internal](/_internal/schema-org/Property/has_number_of/has_number_of_season.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_season.personal](/_personal/schema-org/Property/has_number_of/has_number_of_season.personal.md) 
 
-### [has_number_of_season.secret](/_secret/schema-org/Property/has_number_of/has_number_of_season.secret.md) 
+### [has_number_of_season.secret](/_secret/schema-org/Property/has_number_of/has_number_of_season.secret.md)
+

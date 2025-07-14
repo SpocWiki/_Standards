@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_toc_continuation )
 ( #has_/range :: HyperTocEntry )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_toc_continuation](/_public/schema-org/Relation/has/has_toc_continuation.md) 
+### [has_toc_continuation](/_Standards/schema-org/Relation/has/has_toc_continuation.md) 
+
+### [has_toc_continuation.public](/_public/schema-org/Relation/has/has_toc_continuation.public.md) 
 
 ### [has_toc_continuation.internal](/_internal/schema-org/Relation/has/has_toc_continuation.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_toc_continuation.personal](/_personal/schema-org/Relation/has/has_toc_continuation.personal.md) 
 
-### [has_toc_continuation.secret](/_secret/schema-org/Relation/has/has_toc_continuation.secret.md) 
+### [has_toc_continuation.secret](/_secret/schema-org/Relation/has/has_toc_continuation.secret.md)
+

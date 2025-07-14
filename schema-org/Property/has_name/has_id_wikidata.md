@@ -41,9 +41,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_wikidata](/_public/schema-org/Property/has_name/has_id_wikidata.md) 
+### [has_id_wikidata](/_Standards/schema-org/Property/has_name/has_id_wikidata.md) 
+
+### [has_id_wikidata.public](/_public/schema-org/Property/has_name/has_id_wikidata.public.md) 
 
 ### [has_id_wikidata.internal](/_internal/schema-org/Property/has_name/has_id_wikidata.internal.md) 
 
@@ -53,4 +56,5 @@ Predicated describes that:
 
 ### [has_id_wikidata.personal](/_personal/schema-org/Property/has_name/has_id_wikidata.personal.md) 
 
-### [has_id_wikidata.secret](/_secret/schema-org/Property/has_name/has_id_wikidata.secret.md) 
+### [has_id_wikidata.secret](/_secret/schema-org/Property/has_name/has_id_wikidata.secret.md)
+

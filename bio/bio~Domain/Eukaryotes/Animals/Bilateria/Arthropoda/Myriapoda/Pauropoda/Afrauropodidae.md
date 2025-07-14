@@ -31,3 +31,22 @@ title: Afrauropus occiduus
 -   » Sub-Groups 
 	- Afrauropus occiduus 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Afrauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.md) 
+
+### [Afrauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.public.md) 
+
+### [Afrauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.internal.md) 
+
+### [Afrauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.protect.md) 
+
+### [Afrauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.private.md) 
+
+### [Afrauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.personal.md) 
+
+### [Afrauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.secret.md)
+

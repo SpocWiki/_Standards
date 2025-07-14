@@ -27,9 +27,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Europe~West](/_public/Earth/Continent/Europe/Europe~West.md) 
+### [Europe~West](/_Standards/Earth/Continent/Europe/Europe~West.md) 
+
+### [Europe~West.public](/_public/Earth/Continent/Europe/Europe~West.public.md) 
 
 ### [Europe~West.internal](/_internal/Earth/Continent/Europe/Europe~West.internal.md) 
 
@@ -39,4 +42,5 @@ type: folder_brief_live
 
 ### [Europe~West.personal](/_personal/Earth/Continent/Europe/Europe~West.personal.md) 
 
-### [Europe~West.secret](/_secret/Earth/Continent/Europe/Europe~West.secret.md) 
+### [Europe~West.secret](/_secret/Earth/Continent/Europe/Europe~West.secret.md)
+

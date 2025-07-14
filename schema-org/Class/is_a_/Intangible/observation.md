@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [observation](/_public/schema-org/Class/is_a_/Intangible/observation.md) 
+### [observation](/_Standards/schema-org/Class/is_a_/Intangible/observation.md) 
+
+### [observation.public](/_public/schema-org/Class/is_a_/Intangible/observation.public.md) 
 
 ### [observation.internal](/_internal/schema-org/Class/is_a_/Intangible/observation.internal.md) 
 
@@ -57,4 +60,5 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 ### [observation.personal](/_personal/schema-org/Class/is_a_/Intangible/observation.personal.md) 
 
-### [observation.secret](/_secret/schema-org/Class/is_a_/Intangible/observation.secret.md) 
+### [observation.secret](/_secret/schema-org/Class/is_a_/Intangible/observation.secret.md)
+

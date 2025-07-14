@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_bathrooms_total )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_bathrooms_total](/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.md) 
+### [has_number_of_bathrooms_total](/_Standards/schema-org/Property/has_number_of/has_number_of_bathrooms_total.md) 
+
+### [has_number_of_bathrooms_total.public](/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.public.md) 
 
 ### [has_number_of_bathrooms_total.internal](/_internal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_bathrooms_total.personal](/_personal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.personal.md) 
 
-### [has_number_of_bathrooms_total.secret](/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret.md) 
+### [has_number_of_bathrooms_total.secret](/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret.md)
+

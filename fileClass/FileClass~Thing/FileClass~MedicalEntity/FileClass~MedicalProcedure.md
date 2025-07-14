@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -84,10 +84,11 @@ The status of the study (enumerated).
 Status:: {"type":"Select","options":{"valuesList":{"EventCancelled","EventMovedOnline","EventPostponed","EventRescheduled","EventScheduled"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalProcedure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.md) 
+### [FileClass~MedicalProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.md) 
+
+### [FileClass~MedicalProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.public.md) 
 
 ### [FileClass~MedicalProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.internal.md) 
 
@@ -97,4 +98,5 @@ Status:: {"type":"Select","options":{"valuesList":{"EventCancelled","EventMovedO
 
 ### [FileClass~MedicalProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.personal.md) 
 
-### [FileClass~MedicalProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.secret.md) 
+### [FileClass~MedicalProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates some common technology platforms, for use with properties such as [[a
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [digital_platform_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.md) 
+### [digital_platform_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.md) 
+
+### [digital_platform_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.public.md) 
 
 ### [digital_platform_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates some common technology platforms, for use with properties such as [[a
 
 ### [digital_platform_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.personal.md) 
 
-### [digital_platform_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.secret.md) 
+### [digital_platform_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration.secret.md)
+

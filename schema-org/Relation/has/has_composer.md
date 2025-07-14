@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: has_composer )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_composer](/_public/schema-org/Relation/has/has_composer.md) 
+### [has_composer](/_Standards/schema-org/Relation/has/has_composer.md) 
+
+### [has_composer.public](/_public/schema-org/Relation/has/has_composer.public.md) 
 
 ### [has_composer.internal](/_internal/schema-org/Relation/has/has_composer.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_composer.personal](/_personal/schema-org/Relation/has/has_composer.personal.md) 
 
-### [has_composer.secret](/_secret/schema-org/Relation/has/has_composer.secret.md) 
+### [has_composer.secret](/_secret/schema-org/Relation/has/has_composer.secret.md)
+

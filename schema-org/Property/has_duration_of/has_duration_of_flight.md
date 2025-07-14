@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_duration_of_flight)
 (range::Duration, Text)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_flight](/_public/schema-org/Property/has_duration_of/has_duration_of_flight.md) 
+### [has_duration_of_flight](/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight.md) 
+
+### [has_duration_of_flight.public](/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public.md) 
 
 ### [has_duration_of_flight.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_duration_of_flight.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_flight.personal.md) 
 
-### [has_duration_of_flight.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret.md) 
+### [has_duration_of_flight.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret.md)
+

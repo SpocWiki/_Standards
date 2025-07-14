@@ -127,3 +127,22 @@ name_in_native_language: "Simone de Beauvoir"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Simone%20de%20Beauvoir)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Beauvoir,Simone_de](/_Standards/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.md) 
+
+### [Beauvoir,Simone_de.public](/_public/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.public.md) 
+
+### [Beauvoir,Simone_de.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.internal.md) 
+
+### [Beauvoir,Simone_de.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.protect.md) 
+
+### [Beauvoir,Simone_de.private](/_private/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.private.md) 
+
+### [Beauvoir,Simone_de.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.personal.md) 
+
+### [Beauvoir,Simone_de.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Beauvoir,Simone_de.secret.md)
+

@@ -59,7 +59,9 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 
 ## Confidential Links & Embeds: 
 
-### [mass](/_public/schema-org/Predicate/Quantity/mass.md) 
+### [mass](/_Standards/schema-org/Predicate/Quantity/mass.md) 
+
+### [mass.public](/_public/schema-org/Predicate/Quantity/mass.public.md) 
 
 ### [mass.internal](/_internal/schema-org/Predicate/Quantity/mass.internal.md) 
 
@@ -69,4 +71,5 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 
 ### [mass.personal](/_personal/schema-org/Predicate/Quantity/mass.personal.md) 
 
-### [mass.secret](/_secret/schema-org/Predicate/Quantity/mass.secret.md) 
+### [mass.secret](/_secret/schema-org/Predicate/Quantity/mass.secret.md)
+

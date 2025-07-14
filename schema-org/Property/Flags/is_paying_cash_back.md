@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_paying_cash_back )
 ( #has_/range :: Boolean, Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_paying_cash_back](/_public/schema-org/Property/Flags/is_paying_cash_back.md) 
+### [is_paying_cash_back](/_Standards/schema-org/Property/Flags/is_paying_cash_back.md) 
+
+### [is_paying_cash_back.public](/_public/schema-org/Property/Flags/is_paying_cash_back.public.md) 
 
 ### [is_paying_cash_back.internal](/_internal/schema-org/Property/Flags/is_paying_cash_back.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_paying_cash_back.personal](/_personal/schema-org/Property/Flags/is_paying_cash_back.personal.md) 
 
-### [is_paying_cash_back.secret](/_secret/schema-org/Property/Flags/is_paying_cash_back.secret.md) 
+### [is_paying_cash_back.secret](/_secret/schema-org/Property/Flags/is_paying_cash_back.secret.md)
+

@@ -86,3 +86,22 @@ IAB_code: 640
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Television) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Television](/_Standards/bio/Society/Communication/Television.md) 
+
+### [Television.public](/_public/bio/Society/Communication/Television.public.md) 
+
+### [Television.internal](/_internal/bio/Society/Communication/Television.internal.md) 
+
+### [Television.protect](/_protect/bio/Society/Communication/Television.protect.md) 
+
+### [Television.private](/_private/bio/Society/Communication/Television.private.md) 
+
+### [Television.personal](/_personal/bio/Society/Communication/Television.personal.md) 
+
+### [Television.secret](/_secret/bio/Society/Communication/Television.secret.md)
+

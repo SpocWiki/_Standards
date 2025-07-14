@@ -336,9 +336,12 @@ Archive_of_Our_Own_tag: "Français | French"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/French%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-fr](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
+### [Lang-fr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
+
+### [Lang-fr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.public.md) 
 
 ### [Lang-fr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.internal.md) 
 
@@ -348,4 +351,5 @@ Archive_of_Our_Own_tag: "Français | French"
 
 ### [Lang-fr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.personal.md) 
 
-### [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md) 
+### [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md)
+

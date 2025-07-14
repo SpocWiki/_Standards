@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -76,10 +76,11 @@ A symbolic representation of a BioChemEntity. For example, a nucleotide sequence
 HasBioPolymerSequence:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Gene](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.md) 
+### [FileClass~Gene](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.md) 
+
+### [FileClass~Gene.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.public.md) 
 
 ### [FileClass~Gene.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.internal.md) 
 
@@ -89,4 +90,5 @@ HasBioPolymerSequence:: {"type":"Input","options":{}}
 
 ### [FileClass~Gene.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.personal.md) 
 
-### [FileClass~Gene.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.secret.md) 
+### [FileClass~Gene.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.secret.md)
+

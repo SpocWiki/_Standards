@@ -150,19 +150,19 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"KurtGodel::h4724\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20G%C3%B6del)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gödel,Kurt](/_public/Mathematics/Mathematicians/Gödel,Kurt.md) 
+### [Gödel,Kurt](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.md) 
 
-### [Gödel,Kurt.internal](/_internal/Mathematics/Mathematicians/Gödel,Kurt.internal.md) 
+### [Gödel,Kurt.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.public.md) 
 
-### [Gödel,Kurt.protect](/_protect/Mathematics/Mathematicians/Gödel,Kurt.protect.md) 
+### [Gödel,Kurt.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.internal.md) 
 
-### [Gödel,Kurt.private](/_private/Mathematics/Mathematicians/Gödel,Kurt.private.md) 
+### [Gödel,Kurt.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.protect.md) 
 
-### [Gödel,Kurt.personal](/_personal/Mathematics/Mathematicians/Gödel,Kurt.personal.md) 
+### [Gödel,Kurt.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.private.md) 
 
-### [Gödel,Kurt.secret](/_secret/Mathematics/Mathematicians/Gödel,Kurt.secret.md) 
+### [Gödel,Kurt.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.personal.md) 
+
+### [Gödel,Kurt.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Gödel,Kurt.secret.md)
+

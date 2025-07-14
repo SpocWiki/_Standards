@@ -14,3 +14,21 @@ has_id_wikidata: Q506
 > Flowers have long been appreciated for their beauty and pleasant scents, and also hold cultural significance as religious, ritual, or symbolic objects, or sources of medicine and food.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Flower)
+
+
+## Confidential Links & Embeds: 
+
+### [Flower](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.md) 
+
+### [Flower.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.public.md) 
+
+### [Flower.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.internal.md) 
+
+### [Flower.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.protect.md) 
+
+### [Flower.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.private.md) 
+
+### [Flower.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.personal.md) 
+
+### [Flower.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.secret.md)
+

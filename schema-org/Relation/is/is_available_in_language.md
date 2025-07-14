@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_available_in_language )
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_available_in_language](/_public/schema-org/Relation/is/is_available_in_language.md) 
+### [is_available_in_language](/_Standards/schema-org/Relation/is/is_available_in_language.md) 
+
+### [is_available_in_language.public](/_public/schema-org/Relation/is/is_available_in_language.public.md) 
 
 ### [is_available_in_language.internal](/_internal/schema-org/Relation/is/is_available_in_language.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_available_in_language.personal](/_personal/schema-org/Relation/is/is_available_in_language.personal.md) 
 
-### [is_available_in_language.secret](/_secret/schema-org/Relation/is/is_available_in_language.secret.md) 
+### [is_available_in_language.secret](/_secret/schema-org/Relation/is/is_available_in_language.secret.md)
+

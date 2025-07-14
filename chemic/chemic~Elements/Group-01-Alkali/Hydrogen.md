@@ -194,18 +194,20 @@ Hydrogen is classified by **"color labels"** to indicate the **primary energy so
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Hydrogenium](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.md) 
+### [Hydrogen](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.md) 
 
-### [Hydrogenium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.internal.md) 
+### [Hydrogen.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.public.md) 
 
-### [Hydrogenium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.protect.md) 
+### [Hydrogen.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.internal.md) 
 
-### [Hydrogenium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.private.md) 
+### [Hydrogen.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.protect.md) 
 
-### [Hydrogenium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.personal.md) 
+### [Hydrogen.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.private.md) 
 
-### [Hydrogenium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.secret.md) 
+### [Hydrogen.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.personal.md) 
 
+### [Hydrogen.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen.secret.md)
 

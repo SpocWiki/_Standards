@@ -477,10 +477,11 @@ Capital :: [[Cyprus/districts~Cyprus/Nicosia]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyprus) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Cyprus](/_public/Earth/Continent/Europe/Europe~South/Cyprus.md) 
+### [Cyprus](/_Standards/Earth/Continent/Europe/Europe~South/Cyprus.md) 
+
+### [Cyprus.public](/_public/Earth/Continent/Europe/Europe~South/Cyprus.public.md) 
 
 ### [Cyprus.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal.md) 
 
@@ -490,4 +491,5 @@ Capital :: [[Cyprus/districts~Cyprus/Nicosia]]
 
 ### [Cyprus.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal.md) 
 
-### [Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret.md) 
+### [Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret.md)
+

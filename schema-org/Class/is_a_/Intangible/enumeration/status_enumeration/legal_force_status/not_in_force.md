@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates that a legislation is currently not in force.
 
 [ #is_/enum_of :: [[../LegalForceStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [not_in_force](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.md) 
+### [not_in_force](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.md) 
+
+### [not_in_force.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.public.md) 
 
 ### [not_in_force.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates that a legislation is currently not in force.
 
 ### [not_in_force.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.personal.md) 
 
-### [not_in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.secret.md) 
+### [not_in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/not_in_force.secret.md)
+

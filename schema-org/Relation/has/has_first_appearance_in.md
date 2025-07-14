@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: workExample ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_first_appearance_in](/_public/schema-org/Relation/has/has_first_appearance_in.md) 
+### [has_first_appearance_in](/_Standards/schema-org/Relation/has/has_first_appearance_in.md) 
+
+### [has_first_appearance_in.public](/_public/schema-org/Relation/has/has_first_appearance_in.public.md) 
 
 ### [has_first_appearance_in.internal](/_internal/schema-org/Relation/has/has_first_appearance_in.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_first_appearance_in.personal](/_personal/schema-org/Relation/has/has_first_appearance_in.personal.md) 
 
-### [has_first_appearance_in.secret](/_secret/schema-org/Relation/has/has_first_appearance_in.secret.md) 
+### [has_first_appearance_in.secret](/_secret/schema-org/Relation/has/has_first_appearance_in.secret.md)
+

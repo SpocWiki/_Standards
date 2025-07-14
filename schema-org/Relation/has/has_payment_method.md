@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_payment_method )
 ( #has_/range :: PaymentMethod )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_payment_method](/_public/schema-org/Relation/has/has_payment_method.md) 
+### [has_payment_method](/_Standards/schema-org/Relation/has/has_payment_method.md) 
+
+### [has_payment_method.public](/_public/schema-org/Relation/has/has_payment_method.public.md) 
 
 ### [has_payment_method.internal](/_internal/schema-org/Relation/has/has_payment_method.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_payment_method.personal](/_personal/schema-org/Relation/has/has_payment_method.personal.md) 
 
-### [has_payment_method.secret](/_secret/schema-org/Relation/has/has_payment_method.secret.md) 
+### [has_payment_method.secret](/_secret/schema-org/Relation/has/has_payment_method.secret.md)
+

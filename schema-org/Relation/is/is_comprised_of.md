@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../../Composite/is_part_of]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_comprised_of](/_public/schema-org/Relation/is/is_comprised_of.md) 
+### [is_comprised_of](/_Standards/schema-org/Relation/is/is_comprised_of.md) 
+
+### [is_comprised_of.public](/_public/schema-org/Relation/is/is_comprised_of.public.md) 
 
 ### [is_comprised_of.internal](/_internal/schema-org/Relation/is/is_comprised_of.internal.md) 
 
@@ -59,4 +62,5 @@ Relation describes that:
 
 ### [is_comprised_of.personal](/_personal/schema-org/Relation/is/is_comprised_of.personal.md) 
 
-### [is_comprised_of.secret](/_secret/schema-org/Relation/is/is_comprised_of.secret.md) 
+### [is_comprised_of.secret](/_secret/schema-org/Relation/is/is_comprised_of.secret.md)
+

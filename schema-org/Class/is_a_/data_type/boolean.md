@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Boolean: True or False.
 
 [ #has_/sub_classes :: [ False, True ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [boolean](/_public/schema-org/Class/is_a_/data_type/boolean.md) 
+### [boolean](/_Standards/schema-org/Class/is_a_/data_type/boolean.md) 
+
+### [boolean.public](/_public/schema-org/Class/is_a_/data_type/boolean.public.md) 
 
 ### [boolean.internal](/_internal/schema-org/Class/is_a_/data_type/boolean.internal.md) 
 
@@ -52,4 +55,5 @@ Boolean: True or False.
 
 ### [boolean.personal](/_personal/schema-org/Class/is_a_/data_type/boolean.personal.md) 
 
-### [boolean.secret](/_secret/schema-org/Class/is_a_/data_type/boolean.secret.md) 
+### [boolean.secret](/_secret/schema-org/Class/is_a_/data_type/boolean.secret.md)
+

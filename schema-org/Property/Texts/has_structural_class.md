@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_structural_class )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_structural_class](/_public/schema-org/Property/Texts/has_structural_class.md) 
+### [has_structural_class](/_Standards/schema-org/Property/Texts/has_structural_class.md) 
+
+### [has_structural_class.public](/_public/schema-org/Property/Texts/has_structural_class.public.md) 
 
 ### [has_structural_class.internal](/_internal/schema-org/Property/Texts/has_structural_class.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_structural_class.personal](/_personal/schema-org/Property/Texts/has_structural_class.personal.md) 
 
-### [has_structural_class.secret](/_secret/schema-org/Property/Texts/has_structural_class.secret.md) 
+### [has_structural_class.secret](/_secret/schema-org/Property/Texts/has_structural_class.secret.md)
+

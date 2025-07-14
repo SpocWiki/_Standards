@@ -54,3 +54,22 @@ Velvet Worms
 -   » Sub-Groups 
 	-   *Peripatidae*
 	-   *Peripatopsidae*
+
+
+
+## Confidential Links & Embeds: 
+
+### [Onychophora](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.md) 
+
+### [Onychophora.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.public.md) 
+
+### [Onychophora.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.internal.md) 
+
+### [Onychophora.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.protect.md) 
+
+### [Onychophora.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.private.md) 
+
+### [Onychophora.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.personal.md) 
+
+### [Onychophora.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Onychophora.secret.md)
+

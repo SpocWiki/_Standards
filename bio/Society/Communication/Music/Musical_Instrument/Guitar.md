@@ -73,3 +73,22 @@ equivalent_class: "http://dbpedia.org/ontology/Guitar"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guitar) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Guitar](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Guitar.md) 
+
+### [Guitar.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Guitar.public.md) 
+
+### [Guitar.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Guitar.internal.md) 
+
+### [Guitar.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Guitar.protect.md) 
+
+### [Guitar.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Guitar.private.md) 
+
+### [Guitar.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Guitar.personal.md) 
+
+### [Guitar.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Guitar.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,10 +35,11 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BreadcrumbList](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.md) 
+### [FileClass~BreadcrumbList](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.md) 
+
+### [FileClass~BreadcrumbList.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.public.md) 
 
 ### [FileClass~BreadcrumbList.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.internal.md) 
 
@@ -48,4 +49,5 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 ### [FileClass~BreadcrumbList.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.personal.md) 
 
-### [FileClass~BreadcrumbList.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.secret.md) 
+### [FileClass~BreadcrumbList.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.secret.md)
+

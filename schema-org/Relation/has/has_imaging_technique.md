@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_imaging_technique )
 ( #has_/range :: MedicalImagingTechnique )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_imaging_technique](/_public/schema-org/Relation/has/has_imaging_technique.md) 
+### [has_imaging_technique](/_Standards/schema-org/Relation/has/has_imaging_technique.md) 
+
+### [has_imaging_technique.public](/_public/schema-org/Relation/has/has_imaging_technique.public.md) 
 
 ### [has_imaging_technique.internal](/_internal/schema-org/Relation/has/has_imaging_technique.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_imaging_technique.personal](/_personal/schema-org/Relation/has/has_imaging_technique.personal.md) 
 
-### [has_imaging_technique.secret](/_secret/schema-org/Relation/has/has_imaging_technique.secret.md) 
+### [has_imaging_technique.secret](/_secret/schema-org/Relation/has/has_imaging_technique.secret.md)
+

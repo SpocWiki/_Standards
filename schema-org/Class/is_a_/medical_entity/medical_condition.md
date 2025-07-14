@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any condition of the human body that affects the normal functioning of a person,
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_condition](/_public/schema-org/Class/is_a_/medical_entity/medical_condition.md) 
+### [medical_condition](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition.md) 
+
+### [medical_condition.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition.public.md) 
 
 ### [medical_condition.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition.internal.md) 
 
@@ -56,4 +59,5 @@ Any condition of the human body that affects the normal functioning of a person,
 
 ### [medical_condition.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition.personal.md) 
 
-### [medical_condition.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition.secret.md) 
+### [medical_condition.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A business providing entertainment.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EntertainmentBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.md) 
+### [FileClass~EntertainmentBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.md) 
+
+### [FileClass~EntertainmentBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.public.md) 
 
 ### [FileClass~EntertainmentBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.internal.md) 
 
@@ -46,4 +47,5 @@ A business providing entertainment.
 
 ### [FileClass~EntertainmentBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.personal.md) 
 
-### [FileClass~EntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.secret.md) 
+### [FileClass~EntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness.secret.md)
+

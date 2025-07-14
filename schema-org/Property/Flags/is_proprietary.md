@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_proprietary )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_proprietary](/_public/schema-org/Property/Flags/is_proprietary.md) 
+### [is_proprietary](/_Standards/schema-org/Property/Flags/is_proprietary.md) 
+
+### [is_proprietary.public](/_public/schema-org/Property/Flags/is_proprietary.public.md) 
 
 ### [is_proprietary.internal](/_internal/schema-org/Property/Flags/is_proprietary.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_proprietary.personal](/_personal/schema-org/Property/Flags/is_proprietary.personal.md) 
 
-### [is_proprietary.secret](/_secret/schema-org/Property/Flags/is_proprietary.secret.md) 
+### [is_proprietary.secret](/_secret/schema-org/Property/Flags/is_proprietary.secret.md)
+

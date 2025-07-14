@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit501e](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.md) 
+### [nonprofit501e](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.md) 
+
+### [nonprofit501e.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.public.md) 
 
 ### [nonprofit501e.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.internal.md) 
 
@@ -58,4 +61,5 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 ### [nonprofit501e.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.personal.md) 
 
-### [nonprofit501e.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.secret.md) 
+### [nonprofit501e.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.secret.md)
+

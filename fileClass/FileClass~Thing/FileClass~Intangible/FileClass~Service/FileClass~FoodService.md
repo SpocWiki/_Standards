@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A food service, like breakfast, lunch, or dinner.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FoodService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.md) 
+### [FileClass~FoodService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.md) 
+
+### [FileClass~FoodService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.public.md) 
 
 ### [FileClass~FoodService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.internal.md) 
 
@@ -46,4 +47,5 @@ A food service, like breakfast, lunch, or dinner.
 
 ### [FileClass~FoodService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.personal.md) 
 
-### [FileClass~FoodService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.secret.md) 
+### [FileClass~FoodService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.secret.md)
+

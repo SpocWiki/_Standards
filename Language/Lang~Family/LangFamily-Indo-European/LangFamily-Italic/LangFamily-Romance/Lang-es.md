@@ -36,9 +36,12 @@ has_id_wikidata: Q1321
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-es](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.md) 
+### [Lang-es](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.md) 
+
+### [Lang-es.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.public.md) 
 
 ### [Lang-es.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.internal.md) 
 
@@ -48,4 +51,5 @@ has_id_wikidata: Q1321
 
 ### [Lang-es.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.personal.md) 
 
-### [Lang-es.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.secret.md) 
+### [Lang-es.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-es.secret.md)
+

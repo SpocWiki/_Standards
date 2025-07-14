@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,6 +38,7 @@ Relation describes that:
 ( #has_/name :: is_publisher )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
 ### [has_publisher](/_Standards/schema-org/Relation/has/has_publisher.md) 
@@ -52,4 +53,5 @@ Relation describes that:
 
 ### [has_publisher.personal](/_personal/schema-org/Relation/has/has_publisher.personal.md) 
 
-### [has_publisher.secret](/_secret/schema-org/Relation/has/has_publisher.secret.md) 
+### [has_publisher.secret](/_secret/schema-org/Relation/has/has_publisher.secret.md)
+

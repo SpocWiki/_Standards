@@ -66,3 +66,22 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 Scientific Name ::     Tomocerus minor
 Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tomoceridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.md) 
+
+### [Tomoceridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.public.md) 
+
+### [Tomoceridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.internal.md) 
+
+### [Tomoceridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.protect.md) 
+
+### [Tomoceridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.private.md) 
+
+### [Tomoceridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.personal.md) 
+
+### [Tomoceridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Tomoceridae.secret.md)
+

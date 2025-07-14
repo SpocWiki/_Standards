@@ -61,3 +61,22 @@ His Novels were used to educate children on Technology.
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Verne,Jules](/_Standards/bio/People/Writer/Modern_Writers/Verne,Jules.md) 
+
+### [Verne,Jules.public](/_public/bio/People/Writer/Modern_Writers/Verne,Jules.public.md) 
+
+### [Verne,Jules.internal](/_internal/bio/People/Writer/Modern_Writers/Verne,Jules.internal.md) 
+
+### [Verne,Jules.protect](/_protect/bio/People/Writer/Modern_Writers/Verne,Jules.protect.md) 
+
+### [Verne,Jules.private](/_private/bio/People/Writer/Modern_Writers/Verne,Jules.private.md) 
+
+### [Verne,Jules.personal](/_personal/bio/People/Writer/Modern_Writers/Verne,Jules.personal.md) 
+
+### [Verne,Jules.secret](/_secret/bio/People/Writer/Modern_Writers/Verne,Jules.secret.md)
+

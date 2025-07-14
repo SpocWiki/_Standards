@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_breadcrumb )
 ( #has_/range :: BreadcrumbList, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_breadcrumb](/_public/schema-org/Relation/has/has_breadcrumb.md) 
+### [has_breadcrumb](/_Standards/schema-org/Relation/has/has_breadcrumb.md) 
+
+### [has_breadcrumb.public](/_public/schema-org/Relation/has/has_breadcrumb.public.md) 
 
 ### [has_breadcrumb.internal](/_internal/schema-org/Relation/has/has_breadcrumb.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_breadcrumb.personal](/_personal/schema-org/Relation/has/has_breadcrumb.personal.md) 
 
-### [has_breadcrumb.secret](/_secret/schema-org/Relation/has/has_breadcrumb.secret.md) 
+### [has_breadcrumb.secret](/_secret/schema-org/Relation/has/has_breadcrumb.secret.md)
+

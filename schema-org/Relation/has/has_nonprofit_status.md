@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_nonprofit_status )
 ( #has_/range :: NonprofitType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nonprofit_status](/_public/schema-org/Relation/has/has_nonprofit_status.md) 
+### [has_nonprofit_status](/_Standards/schema-org/Relation/has/has_nonprofit_status.md) 
+
+### [has_nonprofit_status.public](/_public/schema-org/Relation/has/has_nonprofit_status.public.md) 
 
 ### [has_nonprofit_status.internal](/_internal/schema-org/Relation/has/has_nonprofit_status.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_nonprofit_status.personal](/_personal/schema-org/Relation/has/has_nonprofit_status.personal.md) 
 
-### [has_nonprofit_status.secret](/_secret/schema-org/Relation/has/has_nonprofit_status.secret.md) 
+### [has_nonprofit_status.secret](/_secret/schema-org/Relation/has/has_nonprofit_status.secret.md)
+

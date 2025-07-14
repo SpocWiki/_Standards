@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alan Turing"
 - "Alan Mathison Turing"
@@ -179,19 +179,19 @@ Erdős_number: 5
 > [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Turing)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Alan Turing](/_public/Mathematics/Mathematicians/Alan Turing.md) 
+### [Turing,Alan](/_Standards/bio/People/Mathematician/Turing,Alan.md) 
 
-### [Alan Turing.internal](/_internal/Mathematics/Mathematicians/Alan Turing.internal.md) 
+### [Turing,Alan.public](/_public/bio/People/Mathematician/Turing,Alan.public.md) 
 
-### [Alan Turing.protect](/_protect/Mathematics/Mathematicians/Alan Turing.protect.md) 
+### [Turing,Alan.internal](/_internal/bio/People/Mathematician/Turing,Alan.internal.md) 
 
-### [Alan Turing.private](/_private/Mathematics/Mathematicians/Alan Turing.private.md) 
+### [Turing,Alan.protect](/_protect/bio/People/Mathematician/Turing,Alan.protect.md) 
 
-### [Alan Turing.personal](/_personal/Mathematics/Mathematicians/Alan Turing.personal.md) 
+### [Turing,Alan.private](/_private/bio/People/Mathematician/Turing,Alan.private.md) 
 
-### [Alan Turing.secret](/_secret/Mathematics/Mathematicians/Alan Turing.secret.md) 
+### [Turing,Alan.personal](/_personal/bio/People/Mathematician/Turing,Alan.personal.md) 
+
+### [Turing,Alan.secret](/_secret/bio/People/Mathematician/Turing,Alan.secret.md)
+

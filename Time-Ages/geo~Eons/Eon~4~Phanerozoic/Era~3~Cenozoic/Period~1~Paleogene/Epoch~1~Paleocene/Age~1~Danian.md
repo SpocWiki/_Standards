@@ -62,10 +62,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Danian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.md) 
+### [Age~1~Danian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.md) 
+
+### [Age~1~Danian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.public.md) 
 
 ### [Age~1~Danian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.internal.md) 
 
@@ -75,4 +76,5 @@ noteOnly: true
 
 ### [Age~1~Danian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.personal.md) 
 
-### [Age~1~Danian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret.md) 
+### [Age~1~Danian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret.md)
+

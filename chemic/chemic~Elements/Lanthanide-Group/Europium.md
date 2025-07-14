@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21959
 has_id_wikidata: Q1396
@@ -85,11 +85,11 @@ InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
 > [Wikipedia](https://en.wikipedia.org/wiki/Europium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Europium](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
+### [Europium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
+
+### [Europium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.public.md) 
 
 ### [Europium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Europium.internal.md) 
 
@@ -99,4 +99,5 @@ InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
 
 ### [Europium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Europium.personal.md) 
 
-### [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md) 
+### [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md)
+

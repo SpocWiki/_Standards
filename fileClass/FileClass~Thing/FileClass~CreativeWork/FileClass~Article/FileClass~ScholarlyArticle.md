@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A scholarly article.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ScholarlyArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.md) 
+### [FileClass~ScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.md) 
+
+### [FileClass~ScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.public.md) 
 
 ### [FileClass~ScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.internal.md) 
 
@@ -46,4 +47,5 @@ A scholarly article.
 
 ### [FileClass~ScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.personal.md) 
 
-### [FileClass~ScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.secret.md) 
+### [FileClass~ScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.secret.md)
+

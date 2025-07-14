@@ -55,3 +55,22 @@ Photograph by David Remsen, copyright © 1995,
 [Marine Biological Laboratory](http://www.mbl.edu/), Woods Hole.
 
 ![saccoglossus](saccoglossus.gif)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hemichordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.md) 
+
+### [Hemichordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.public.md) 
+
+### [Hemichordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.internal.md) 
+
+### [Hemichordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.protect.md) 
+
+### [Hemichordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.private.md) 
+
+### [Hemichordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.personal.md) 
+
+### [Hemichordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Hemichordata.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -39,10 +39,11 @@ Related actions:
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SubscribeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.md) 
+### [FileClass~SubscribeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.md) 
+
+### [FileClass~SubscribeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.public.md) 
 
 ### [FileClass~SubscribeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.internal.md) 
 
@@ -52,4 +53,5 @@ Related actions:
 
 ### [FileClass~SubscribeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.personal.md) 
 
-### [FileClass~SubscribeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.secret.md) 
+### [FileClass~SubscribeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.secret.md)
+

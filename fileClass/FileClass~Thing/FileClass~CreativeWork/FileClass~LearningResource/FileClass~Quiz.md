@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Quiz: A test of knowledge, skills and abilities.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Quiz](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.md) 
+### [FileClass~Quiz](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.md) 
+
+### [FileClass~Quiz.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.public.md) 
 
 ### [FileClass~Quiz.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.internal.md) 
 
@@ -46,4 +47,5 @@ Quiz: A test of knowledge, skills and abilities.
 
 ### [FileClass~Quiz.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.personal.md) 
 
-### [FileClass~Quiz.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.secret.md) 
+### [FileClass~Quiz.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Quiz.secret.md)
+

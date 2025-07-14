@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_iswc )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_iswc](/_public/schema-org/Property/has_name/has_id_iswc.md) 
+### [has_id_iswc](/_Standards/schema-org/Property/has_name/has_id_iswc.md) 
+
+### [has_id_iswc.public](/_public/schema-org/Property/has_name/has_id_iswc.public.md) 
 
 ### [has_id_iswc.internal](/_internal/schema-org/Property/has_name/has_id_iswc.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_iswc.personal](/_personal/schema-org/Property/has_name/has_id_iswc.personal.md) 
 
-### [has_id_iswc.secret](/_secret/schema-org/Property/has_name/has_id_iswc.secret.md) 
+### [has_id_iswc.secret](/_secret/schema-org/Property/has_name/has_id_iswc.secret.md)
+

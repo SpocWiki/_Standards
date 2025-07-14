@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalIntangible](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.md) 
+### [FileClass~MedicalIntangible](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.md) 
+
+### [FileClass~MedicalIntangible.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.public.md) 
 
 ### [FileClass~MedicalIntangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.internal.md) 
 
@@ -46,4 +47,5 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 ### [FileClass~MedicalIntangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.personal.md) 
 
-### [FileClass~MedicalIntangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.secret.md) 
+### [FileClass~MedicalIntangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.secret.md)
+

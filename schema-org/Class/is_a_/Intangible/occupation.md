@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [occupation](/_public/schema-org/Class/is_a_/Intangible/occupation.md) 
+### [occupation](/_Standards/schema-org/Class/is_a_/Intangible/occupation.md) 
+
+### [occupation.public](/_public/schema-org/Class/is_a_/Intangible/occupation.public.md) 
 
 ### [occupation.internal](/_internal/schema-org/Class/is_a_/Intangible/occupation.internal.md) 
 
@@ -54,4 +57,5 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 ### [occupation.personal](/_personal/schema-org/Class/is_a_/Intangible/occupation.personal.md) 
 
-### [occupation.secret](/_secret/schema-org/Class/is_a_/Intangible/occupation.secret.md) 
+### [occupation.secret](/_secret/schema-org/Class/is_a_/Intangible/occupation.secret.md)
+

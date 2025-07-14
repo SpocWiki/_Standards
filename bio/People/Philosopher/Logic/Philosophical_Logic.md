@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q491412
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Philosophical_logic,18676718]]"
 instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
@@ -27,4 +27,23 @@ Commons_category: "Philosophical logic"
 > Deviant logics, in contrast to these forms of extended logics, reject some of the fundamental principles of classical logic and are often seen as its rivals. Intuitionistic logic is based on the idea that truth depends on verification through a proof. This leads it to reject certain rules of inference found in classical logic that are not compatible with this assumption. Free logic modifies classical logic in order to avoid existential presuppositions associated with the use of possibly empty singular terms, like names and definite descriptions. Many-valued logics allow additional truth values besides true and false. They thereby reject the principle of bivalence of truth. Paraconsistent logics are logical systems able to deal with contradictions. They do so by avoiding the principle of explosion found in classical logic. Relevance logic is a prominent form of paraconsistent logic. It rejects the purely truth-functional interpretation of the material conditional by introducing the additional requirement of relevance: for the conditional to be true, its antecedent has to be relevant to its consequent.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophical%20logic)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Philosophical_Logic](/_Standards/bio/People/Philosopher/Logic/Philosophical_Logic.md) 
+
+### [Philosophical_Logic.public](/_public/bio/People/Philosopher/Logic/Philosophical_Logic.public.md) 
+
+### [Philosophical_Logic.internal](/_internal/bio/People/Philosopher/Logic/Philosophical_Logic.internal.md) 
+
+### [Philosophical_Logic.protect](/_protect/bio/People/Philosopher/Logic/Philosophical_Logic.protect.md) 
+
+### [Philosophical_Logic.private](/_private/bio/People/Philosopher/Logic/Philosophical_Logic.private.md) 
+
+### [Philosophical_Logic.personal](/_personal/bio/People/Philosopher/Logic/Philosophical_Logic.personal.md) 
+
+### [Philosophical_Logic.secret](/_secret/bio/People/Philosopher/Logic/Philosophical_Logic.secret.md)
 

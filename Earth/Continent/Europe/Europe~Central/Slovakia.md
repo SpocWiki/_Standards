@@ -512,9 +512,12 @@ Capital :: [[Bratislava]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slovakia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Slovakia](/_public/Earth/Continent/Europe/Europe~Central/Slovakia.md) 
+### [Slovakia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia.md) 
+
+### [Slovakia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public.md) 
 
 ### [Slovakia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal.md) 
 
@@ -524,4 +527,5 @@ Capital :: [[Bratislava]]
 
 ### [Slovakia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal.md) 
 
-### [Slovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret.md) 
+### [Slovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret.md)
+

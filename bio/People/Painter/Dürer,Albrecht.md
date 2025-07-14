@@ -365,3 +365,22 @@ work_period_end_: "1528"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dürer,Albrecht](/_Standards/bio/People/Painter/Dürer,Albrecht.md) 
+
+### [Dürer,Albrecht.public](/_public/bio/People/Painter/Dürer,Albrecht.public.md) 
+
+### [Dürer,Albrecht.internal](/_internal/bio/People/Painter/Dürer,Albrecht.internal.md) 
+
+### [Dürer,Albrecht.protect](/_protect/bio/People/Painter/Dürer,Albrecht.protect.md) 
+
+### [Dürer,Albrecht.private](/_private/bio/People/Painter/Dürer,Albrecht.private.md) 
+
+### [Dürer,Albrecht.personal](/_personal/bio/People/Painter/Dürer,Albrecht.personal.md) 
+
+### [Dürer,Albrecht.secret](/_secret/bio/People/Painter/Dürer,Albrecht.secret.md)
+

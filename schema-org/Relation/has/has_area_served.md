@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_area_served](/_public/schema-org/Relation/has/has_area_served.md) 
+### [has_area_served](/_Standards/schema-org/Relation/has/has_area_served.md) 
+
+### [has_area_served.public](/_public/schema-org/Relation/has/has_area_served.public.md) 
 
 ### [has_area_served.internal](/_internal/schema-org/Relation/has/has_area_served.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_area_served.personal](/_personal/schema-org/Relation/has/has_area_served.personal.md) 
 
-### [has_area_served.secret](/_secret/schema-org/Relation/has/has_area_served.secret.md) 
+### [has_area_served.secret](/_secret/schema-org/Relation/has/has_area_served.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_expected_prognosis )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_expected_prognosis](/_public/schema-org/Property/Texts/has_expected_prognosis.md) 
+### [has_expected_prognosis](/_Standards/schema-org/Property/Texts/has_expected_prognosis.md) 
+
+### [has_expected_prognosis.public](/_public/schema-org/Property/Texts/has_expected_prognosis.public.md) 
 
 ### [has_expected_prognosis.internal](/_internal/schema-org/Property/Texts/has_expected_prognosis.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_expected_prognosis.personal](/_personal/schema-org/Property/Texts/has_expected_prognosis.personal.md) 
 
-### [has_expected_prognosis.secret](/_secret/schema-org/Property/Texts/has_expected_prognosis.secret.md) 
+### [has_expected_prognosis.secret](/_secret/schema-org/Property/Texts/has_expected_prognosis.secret.md)
+

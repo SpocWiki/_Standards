@@ -333,3 +333,22 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 Scientific Name ::     Deinonychus
 Specimen Condition   Fossil
 Copyright ::            © 1995 Chris Brochu
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chordata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.md) 
+
+### [Chordata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.public.md) 
+
+### [Chordata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.internal.md) 
+
+### [Chordata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.protect.md) 
+
+### [Chordata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.private.md) 
+
+### [Chordata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.personal.md) 
+
+### [Chordata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata.secret.md)
+

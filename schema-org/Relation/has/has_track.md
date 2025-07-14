@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_track )
 ( #has_/range :: ItemList, MusicRecording )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_track](/_public/schema-org/Relation/has/has_track.md) 
+### [has_track](/_Standards/schema-org/Relation/has/has_track.md) 
+
+### [has_track.public](/_public/schema-org/Relation/has/has_track.public.md) 
 
 ### [has_track.internal](/_internal/schema-org/Relation/has/has_track.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_track.personal](/_personal/schema-org/Relation/has/has_track.personal.md) 
 
-### [has_track.secret](/_secret/schema-org/Relation/has/has_track.secret.md) 
+### [has_track.secret](/_secret/schema-org/Relation/has/has_track.secret.md)
+

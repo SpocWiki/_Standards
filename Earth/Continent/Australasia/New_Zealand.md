@@ -503,9 +503,12 @@ Capital :: [[Wellington]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Zealand)
 
+
 ## Confidential Links & Embeds: 
 
-### [New_Zealand](/_public/Earth/Continent/Australasia/New_Zealand.md) 
+### [New_Zealand](/_Standards/Earth/Continent/Australasia/New_Zealand.md) 
+
+### [New_Zealand.public](/_public/Earth/Continent/Australasia/New_Zealand.public.md) 
 
 ### [New_Zealand.internal](/_internal/Earth/Continent/Australasia/New_Zealand.internal.md) 
 
@@ -515,4 +518,5 @@ Capital :: [[Wellington]]
 
 ### [New_Zealand.personal](/_personal/Earth/Continent/Australasia/New_Zealand.personal.md) 
 
-### [New_Zealand.secret](/_secret/Earth/Continent/Australasia/New_Zealand.secret.md) 
+### [New_Zealand.secret](/_secret/Earth/Continent/Australasia/New_Zealand.secret.md)
+

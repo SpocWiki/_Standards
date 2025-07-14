@@ -77,3 +77,22 @@ Drawing by Ivy Livingstone. Copyright © 2001
 ![](Priapulida/Priapulida.gif)
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Priapulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.md) 
+
+### [Priapulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.public.md) 
+
+### [Priapulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.internal.md) 
+
+### [Priapulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.protect.md) 
+
+### [Priapulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.private.md) 
+
+### [Priapulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.personal.md) 
+
+### [Priapulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Priapulida.secret.md)
+

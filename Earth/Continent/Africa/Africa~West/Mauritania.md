@@ -465,9 +465,12 @@ Capital :: [[Nouakchott]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mauritania)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mauritania](/_public/Earth/Continent/Africa/Africa~West/Mauritania.md) 
+### [Mauritania](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania.md) 
+
+### [Mauritania.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania.public.md) 
 
 ### [Mauritania.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal.md) 
 
@@ -477,4 +480,5 @@ Capital :: [[Nouakchott]]
 
 ### [Mauritania.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal.md) 
 
-### [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md) 
+### [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md)
+

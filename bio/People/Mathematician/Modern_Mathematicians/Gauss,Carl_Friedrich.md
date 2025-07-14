@@ -202,3 +202,22 @@ date_of_birth: "1777-04-30"
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Friedrich%20Gauss)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gauss,Carl_Friedrich](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.md) 
+
+### [Gauss,Carl_Friedrich.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.public.md) 
+
+### [Gauss,Carl_Friedrich.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.internal.md) 
+
+### [Gauss,Carl_Friedrich.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.protect.md) 
+
+### [Gauss,Carl_Friedrich.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.private.md) 
+
+### [Gauss,Carl_Friedrich.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.personal.md) 
+
+### [Gauss,Carl_Friedrich.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Gauss,Carl_Friedrich.secret.md)
+

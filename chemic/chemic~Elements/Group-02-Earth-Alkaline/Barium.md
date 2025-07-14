@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21952
 has_id_wikidata: Q1112
@@ -125,9 +125,12 @@ Commons_category: Barium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Barium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.md) 
+### [Barium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.md) 
+
+### [Barium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.public.md) 
 
 ### [Barium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.internal.md) 
 
@@ -137,4 +140,5 @@ Commons_category: Barium
 
 ### [Barium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.personal.md) 
 
-### [Barium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.secret.md) 
+### [Barium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.secret.md)
+

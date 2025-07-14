@@ -69,3 +69,22 @@ has_id_wikidata: Q2736
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Association_Football](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.md) 
+
+### [Association_Football.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.public.md) 
+
+### [Association_Football.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.internal.md) 
+
+### [Association_Football.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.protect.md) 
+
+### [Association_Football.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.private.md) 
+
+### [Association_Football.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.personal.md) 
+
+### [Association_Football.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Association_Football.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -61,7 +61,9 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusOrCoach](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.md) 
+### [FileClass~BusOrCoach](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.md) 
+
+### [FileClass~BusOrCoach.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.public.md) 
 
 ### [FileClass~BusOrCoach.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.internal.md) 
 
@@ -71,4 +73,5 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~BusOrCoach.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.personal.md) 
 
-### [FileClass~BusOrCoach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.secret.md) 
+### [FileClass~BusOrCoach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~BusOrCoach.secret.md)
+

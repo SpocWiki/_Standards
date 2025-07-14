@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Slavic languages"
 has_id_wikidata: Q23526
@@ -62,4 +62,23 @@ Commons_category: "Slavic languages"
 > Modern Bulgarian differs from other Slavic languages, because it almost completely lost declension, it developed definite articles from demonstrative pronouns (similar to "the" from "this" in English), and it formed indicative and renarrative tenses for verbs.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slavic%20languages) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [LangFamily-Slavic](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.md) 
+
+### [LangFamily-Slavic.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.public.md) 
+
+### [LangFamily-Slavic.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.internal.md) 
+
+### [LangFamily-Slavic.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.protect.md) 
+
+### [LangFamily-Slavic.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.private.md) 
+
+### [LangFamily-Slavic.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.personal.md) 
+
+### [LangFamily-Slavic.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Slavic.secret.md)
 

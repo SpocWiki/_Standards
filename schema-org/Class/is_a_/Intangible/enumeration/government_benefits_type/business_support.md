@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [business_support](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.md) 
+### [business_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.md) 
+
+### [business_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.public.md) 
 
 ### [business_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.internal.md) 
 
@@ -58,4 +61,5 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 ### [business_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.personal.md) 
 
-### [business_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.secret.md) 
+### [business_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/business_support.secret.md)
+

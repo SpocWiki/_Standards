@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [unclassified_adult_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md) 
+### [unclassified_adult_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md) 
+
+### [unclassified_adult_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.public.md) 
 
 ### [unclassified_adult_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 ### [unclassified_adult_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.personal.md) 
 
-### [unclassified_adult_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.secret.md) 
+### [unclassified_adult_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.secret.md)
+

@@ -71,10 +71,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Carnian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.md) 
+### [Age~1~Carnian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.md) 
+
+### [Age~1~Carnian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.public.md) 
 
 ### [Age~1~Carnian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.internal.md) 
 
@@ -84,4 +85,5 @@ noteOnly: true
 
 ### [Age~1~Carnian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.personal.md) 
 
-### [Age~1~Carnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.secret.md) 
+### [Age~1~Carnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.secret.md)
+

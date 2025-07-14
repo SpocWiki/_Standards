@@ -76,3 +76,22 @@ Copyright ::         © [Department of Entomology, University of Nebraska-Lincol
 Scientific Name ::  Lithobius forficatus
 Comments          Garden centipede, Lithobiidae
 Copyright ::         © [Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chilopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.md) 
+
+### [Chilopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.public.md) 
+
+### [Chilopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.internal.md) 
+
+### [Chilopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.protect.md) 
+
+### [Chilopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.private.md) 
+
+### [Chilopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.personal.md) 
+
+### [Chilopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda.secret.md)
+

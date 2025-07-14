@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ An enumeration of several kinds of Map.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [map_category_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.md) 
+### [map_category_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.md) 
+
+### [map_category_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.public.md) 
 
 ### [map_category_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.internal.md) 
 
@@ -52,4 +55,5 @@ An enumeration of several kinds of Map.
 
 ### [map_category_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.personal.md) 
 
-### [map_category_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.secret.md) 
+### [map_category_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type.secret.md)
+

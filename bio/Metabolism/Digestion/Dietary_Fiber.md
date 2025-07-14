@@ -53,3 +53,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dietary%20fiber) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dietary_Fiber](/_Standards/bio/Metabolism/Digestion/Dietary_Fiber.md) 
+
+### [Dietary_Fiber.public](/_public/bio/Metabolism/Digestion/Dietary_Fiber.public.md) 
+
+### [Dietary_Fiber.internal](/_internal/bio/Metabolism/Digestion/Dietary_Fiber.internal.md) 
+
+### [Dietary_Fiber.protect](/_protect/bio/Metabolism/Digestion/Dietary_Fiber.protect.md) 
+
+### [Dietary_Fiber.private](/_private/bio/Metabolism/Digestion/Dietary_Fiber.private.md) 
+
+### [Dietary_Fiber.personal](/_personal/bio/Metabolism/Digestion/Dietary_Fiber.personal.md) 
+
+### [Dietary_Fiber.secret](/_secret/bio/Metabolism/Digestion/Dietary_Fiber.secret.md)
+

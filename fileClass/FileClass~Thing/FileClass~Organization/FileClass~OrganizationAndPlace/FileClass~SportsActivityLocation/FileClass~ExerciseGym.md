@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A gym.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ExerciseGym](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.md) 
+### [FileClass~ExerciseGym](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.md) 
+
+### [FileClass~ExerciseGym.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.public.md) 
 
 ### [FileClass~ExerciseGym.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.internal.md) 
 
@@ -46,4 +47,5 @@ A gym.
 
 ### [FileClass~ExerciseGym.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.personal.md) 
 
-### [FileClass~ExerciseGym.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.secret.md) 
+### [FileClass~ExerciseGym.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.secret.md)
+

@@ -133,9 +133,12 @@ Unicode_character: 鉭
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tantalum)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tantalum](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
+### [Tantalum](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
+
+### [Tantalum.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.public.md) 
 
 ### [Tantalum.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.internal.md) 
 
@@ -145,4 +148,5 @@ Unicode_character: 鉭
 
 ### [Tantalum.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.personal.md) 
 
-### [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md) 
+### [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md)
+

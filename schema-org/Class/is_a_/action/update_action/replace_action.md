@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of editing a recipient by replacing an old object with a new object.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [replace_action](/_public/schema-org/Class/is_a_/action/update_action/replace_action.md) 
+### [replace_action](/_Standards/schema-org/Class/is_a_/action/update_action/replace_action.md) 
+
+### [replace_action.public](/_public/schema-org/Class/is_a_/action/update_action/replace_action.public.md) 
 
 ### [replace_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/replace_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of editing a recipient by replacing an old object with a new object.
 
 ### [replace_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/replace_action.personal.md) 
 
-### [replace_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/replace_action.secret.md) 
+### [replace_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/replace_action.secret.md)
+

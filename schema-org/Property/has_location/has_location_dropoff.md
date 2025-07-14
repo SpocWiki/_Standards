@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_dropoff )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_dropoff](/_public/schema-org/Property/has_location/has_location_dropoff.md) 
+### [has_location_dropoff](/_Standards/schema-org/Property/has_location/has_location_dropoff.md) 
+
+### [has_location_dropoff.public](/_public/schema-org/Property/has_location/has_location_dropoff.public.md) 
 
 ### [has_location_dropoff.internal](/_internal/schema-org/Property/has_location/has_location_dropoff.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_dropoff.personal](/_personal/schema-org/Property/has_location/has_location_dropoff.personal.md) 
 
-### [has_location_dropoff.secret](/_secret/schema-org/Property/has_location/has_location_dropoff.secret.md) 
+### [has_location_dropoff.secret](/_secret/schema-org/Property/has_location/has_location_dropoff.secret.md)
+

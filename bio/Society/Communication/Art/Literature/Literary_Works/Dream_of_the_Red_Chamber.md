@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Dream of the Red Chamber"
 has_id_wikidata: Q8265
@@ -119,4 +119,23 @@ copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 > Cao apparently began composing it in the 1740s and worked on it until his death in 1763 or 1764. Copies of his uncompleted manuscript circulated in Cao's social circle, under the title Story of a Stone, in slightly varying versions of eighty chapters. It was not published until nearly three decades after Cao's death, when Gao E and Cheng Weiyuan (程偉元) edited the first and second printed editions under the title Dream of the Red Chamber from 1791 to 1792, adding 40 chapters. It is still debated whether Gao and Cheng composed these chapters themselves and the extent to which they did or did not represent Cao's intentions. Their 120-chapter edition became the most widely circulated version. The title has also been translated as Red Chamber Dream and A Dream of Red Mansions. Redology is the field of study devoted to the novel.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dream%20of%20the%20Red%20Chamber) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dream_of_the_Red_Chamber](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.md) 
+
+### [Dream_of_the_Red_Chamber.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.public.md) 
+
+### [Dream_of_the_Red_Chamber.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.internal.md) 
+
+### [Dream_of_the_Red_Chamber.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.protect.md) 
+
+### [Dream_of_the_Red_Chamber.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.private.md) 
+
+### [Dream_of_the_Red_Chamber.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.personal.md) 
+
+### [Dream_of_the_Red_Chamber.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.secret.md)
 

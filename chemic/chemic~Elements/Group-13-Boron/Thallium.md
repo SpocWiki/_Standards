@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21976
 has_id_wikidata: Q932
@@ -107,9 +107,12 @@ Krugosvet_article: nauka_i_tehnika/himiya/TALLI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thallium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Thallium](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
+### [Thallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
+
+### [Thallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.public.md) 
 
 ### [Thallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Thallium.internal.md) 
 
@@ -119,4 +122,5 @@ Krugosvet_article: nauka_i_tehnika/himiya/TALLI.html
 
 ### [Thallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Thallium.personal.md) 
 
-### [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md) 
+### [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A distillery.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Distillery](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.md) 
+### [FileClass~Distillery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.md) 
+
+### [FileClass~Distillery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.public.md) 
 
 ### [FileClass~Distillery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.internal.md) 
 
@@ -46,4 +47,5 @@ A distillery.
 
 ### [FileClass~Distillery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.personal.md) 
 
-### [FileClass~Distillery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.secret.md) 
+### [FileClass~Distillery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Distillery.secret.md)
+

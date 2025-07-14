@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_scheduled)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_scheduled](/_public/schema-org/Property/has_Date_Time/has_time_scheduled.md) 
+### [has_time_scheduled](/_Standards/schema-org/Property/has_Date_Time/has_time_scheduled.md) 
+
+### [has_time_scheduled.public](/_public/schema-org/Property/has_Date_Time/has_time_scheduled.public.md) 
 
 ### [has_time_scheduled.internal](/_internal/schema-org/Property/has_Date_Time/has_time_scheduled.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_scheduled.personal](/_personal/schema-org/Property/has_Date_Time/has_time_scheduled.personal.md) 
 
-### [has_time_scheduled.secret](/_secret/schema-org/Property/has_Date_Time/has_time_scheduled.secret.md) 
+### [has_time_scheduled.secret](/_secret/schema-org/Property/has_Date_Time/has_time_scheduled.secret.md)
+

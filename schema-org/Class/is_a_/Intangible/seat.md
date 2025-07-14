@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Used to describe a seat, such as a reserved seat in an event reservation.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [seat](/_public/schema-org/Class/is_a_/Intangible/seat.md) 
+### [seat](/_Standards/schema-org/Class/is_a_/Intangible/seat.md) 
+
+### [seat.public](/_public/schema-org/Class/is_a_/Intangible/seat.public.md) 
 
 ### [seat.internal](/_internal/schema-org/Class/is_a_/Intangible/seat.internal.md) 
 
@@ -54,4 +57,5 @@ Used to describe a seat, such as a reserved seat in an event reservation.
 
 ### [seat.personal](/_personal/schema-org/Class/is_a_/Intangible/seat.personal.md) 
 
-### [seat.secret](/_secret/schema-org/Class/is_a_/Intangible/seat.secret.md) 
+### [seat.secret](/_secret/schema-org/Class/is_a_/Intangible/seat.secret.md)
+

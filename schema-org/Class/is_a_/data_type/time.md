@@ -56,10 +56,11 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) (s
 > [Wikipedia](https://en.wikipedia.org/wiki/Time)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [time](/_public/schema-org/Class/is_a_/data_type/time.md) 
+### [time](/_Standards/schema-org/Class/is_a_/data_type/time.md) 
+
+### [time.public](/_public/schema-org/Class/is_a_/data_type/time.public.md) 
 
 ### [time.internal](/_internal/schema-org/Class/is_a_/data_type/time.internal.md) 
 
@@ -69,4 +70,5 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) (s
 
 ### [time.personal](/_personal/schema-org/Class/is_a_/data_type/time.personal.md) 
 
-### [time.secret](/_secret/schema-org/Class/is_a_/data_type/time.secret.md) 
+### [time.secret](/_secret/schema-org/Class/is_a_/data_type/time.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: has_nationality )
 ( #has_/range :: Country )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nationality](/_public/schema-org/Relation/has/has_nationality.md) 
+### [has_nationality](/_Standards/schema-org/Relation/has/has_nationality.md) 
+
+### [has_nationality.public](/_public/schema-org/Relation/has/has_nationality.public.md) 
 
 ### [has_nationality.internal](/_internal/schema-org/Relation/has/has_nationality.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_nationality.personal](/_personal/schema-org/Relation/has/has_nationality.personal.md) 
 
-### [has_nationality.secret](/_secret/schema-org/Relation/has/has_nationality.secret.md) 
+### [has_nationality.secret](/_secret/schema-org/Relation/has/has_nationality.secret.md)
+

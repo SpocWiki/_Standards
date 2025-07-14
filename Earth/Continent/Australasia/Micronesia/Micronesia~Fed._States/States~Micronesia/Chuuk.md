@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.44 , 151.88 ] 
 type: geo-Region
 title: Chuuk
@@ -41,7 +41,9 @@ markerFolder: ./Chuuk/
 
 ## Confidential Links & Embeds: 
 
-### [Chuuk](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
+### [Chuuk](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
+
+### [Chuuk.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.public.md) 
 
 ### [Chuuk.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Chuuk/
 
 ### [Chuuk.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal.md) 
 
-### [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md) 
+### [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md)
+

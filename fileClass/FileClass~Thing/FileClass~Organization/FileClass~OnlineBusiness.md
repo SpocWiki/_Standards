@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A particular online business, either standalone or the online part of a broader 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OnlineBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.md) 
+### [FileClass~OnlineBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.md) 
+
+### [FileClass~OnlineBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.public.md) 
 
 ### [FileClass~OnlineBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.internal.md) 
 
@@ -46,4 +47,5 @@ A particular online business, either standalone or the online part of a broader 
 
 ### [FileClass~OnlineBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.personal.md) 
 
-### [FileClass~OnlineBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret.md) 
+### [FileClass~OnlineBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness.secret.md)
+

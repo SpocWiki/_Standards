@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dermatology](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md) 
+### [dermatology](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md) 
+
+### [dermatology.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.public.md) 
 
 ### [dermatology.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
 
@@ -58,4 +61,5 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ### [dermatology.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
 
-### [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md) 
+### [dermatology.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.secret.md)
+

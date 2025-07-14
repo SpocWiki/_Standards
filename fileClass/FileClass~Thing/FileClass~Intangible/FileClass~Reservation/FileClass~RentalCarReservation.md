@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -81,10 +81,11 @@ When a taxi will pick up a passenger or a rental car can be picked up.
 PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RentalCarReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.md) 
+### [FileClass~RentalCarReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.md) 
+
+### [FileClass~RentalCarReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.public.md) 
 
 ### [FileClass~RentalCarReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.internal.md) 
 
@@ -94,4 +95,5 @@ PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ### [FileClass~RentalCarReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.personal.md) 
 
-### [FileClass~RentalCarReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.secret.md) 
+### [FileClass~RentalCarReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~RentalCarReservation.secret.md)
+

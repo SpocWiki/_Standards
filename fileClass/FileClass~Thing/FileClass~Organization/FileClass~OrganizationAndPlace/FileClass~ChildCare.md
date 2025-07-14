@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Childcare center.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ChildCare](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.md) 
+### [FileClass~ChildCare](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.md) 
+
+### [FileClass~ChildCare.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.public.md) 
 
 ### [FileClass~ChildCare.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.internal.md) 
 
@@ -46,4 +47,5 @@ A Childcare center.
 
 ### [FileClass~ChildCare.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.personal.md) 
 
-### [FileClass~ChildCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.secret.md) 
+### [FileClass~ChildCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ChildCare.secret.md)
+

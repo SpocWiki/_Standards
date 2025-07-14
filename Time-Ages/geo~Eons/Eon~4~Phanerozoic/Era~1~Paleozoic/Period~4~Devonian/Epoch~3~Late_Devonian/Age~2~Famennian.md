@@ -67,10 +67,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Famennian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.md) 
+### [Age~2~Famennian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.md) 
+
+### [Age~2~Famennian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.public.md) 
 
 ### [Age~2~Famennian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.internal.md) 
 
@@ -80,4 +81,5 @@ noteOnly: true
 
 ### [Age~2~Famennian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.personal.md) 
 
-### [Age~2~Famennian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.secret.md) 
+### [Age~2~Famennian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.secret.md)
+

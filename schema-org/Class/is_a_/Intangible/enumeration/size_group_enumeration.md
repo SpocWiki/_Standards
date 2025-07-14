@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Enumerates common size groups for various product categories.
 
 [ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [size_group_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.md) 
+### [size_group_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.md) 
+
+### [size_group_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.public.md) 
 
 ### [size_group_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Enumerates common size groups for various product categories.
 
 ### [size_group_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.personal.md) 
 
-### [size_group_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.secret.md) 
+### [size_group_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The invitee may or may not attend.
 
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_maybe](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md) 
+### [rsvp_response_maybe](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md) 
+
+### [rsvp_response_maybe.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.public.md) 
 
 ### [rsvp_response_maybe.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md) 
 
@@ -56,4 +59,5 @@ The invitee may or may not attend.
 
 ### [rsvp_response_maybe.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md) 
 
-### [rsvp_response_maybe.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md) 
+### [rsvp_response_maybe.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_employees )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_employees](/_public/schema-org/Property/has_number_of/has_number_of_employees.md) 
+### [has_number_of_employees](/_Standards/schema-org/Property/has_number_of/has_number_of_employees.md) 
+
+### [has_number_of_employees.public](/_public/schema-org/Property/has_number_of/has_number_of_employees.public.md) 
 
 ### [has_number_of_employees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_employees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal.md) 
 
-### [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md) 
+### [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md)
+

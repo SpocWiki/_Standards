@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ DigitalFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [digital_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.md) 
+### [digital_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.md) 
+
+### [digital_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.public.md) 
 
 ### [digital_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.internal.md) 
 
@@ -56,4 +59,5 @@ DigitalFormat.
 
 ### [digital_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.personal.md) 
 
-### [digital_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.secret.md) 
+### [digital_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/digital_format.secret.md)
+

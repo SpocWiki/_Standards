@@ -61,10 +61,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~Bashkirian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.md) 
+### [Age~Bashkirian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.md) 
+
+### [Age~Bashkirian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.public.md) 
 
 ### [Age~Bashkirian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.internal.md) 
 
@@ -74,4 +75,5 @@ noteOnly: true
 
 ### [Age~Bashkirian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.personal.md) 
 
-### [Age~Bashkirian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret.md) 
+### [Age~Bashkirian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret.md)
+

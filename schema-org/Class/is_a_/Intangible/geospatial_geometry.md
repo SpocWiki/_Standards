@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [geospatial_geometry](/_public/schema-org/Class/is_a_/Intangible/geospatial_geometry.md) 
+### [geospatial_geometry](/_Standards/schema-org/Class/is_a_/Intangible/geospatial_geometry.md) 
+
+### [geospatial_geometry.public](/_public/schema-org/Class/is_a_/Intangible/geospatial_geometry.public.md) 
 
 ### [geospatial_geometry.internal](/_internal/schema-org/Class/is_a_/Intangible/geospatial_geometry.internal.md) 
 
@@ -56,4 +59,5 @@ Tag Instances like this:
 
 ### [geospatial_geometry.personal](/_personal/schema-org/Class/is_a_/Intangible/geospatial_geometry.personal.md) 
 
-### [geospatial_geometry.secret](/_secret/schema-org/Class/is_a_/Intangible/geospatial_geometry.secret.md) 
+### [geospatial_geometry.secret](/_secret/schema-org/Class/is_a_/Intangible/geospatial_geometry.secret.md)
+

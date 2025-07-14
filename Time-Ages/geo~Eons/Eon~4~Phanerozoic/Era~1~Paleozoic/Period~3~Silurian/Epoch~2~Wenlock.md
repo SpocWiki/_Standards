@@ -61,10 +61,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Wenlock](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.md) 
+### [Epoch~2~Wenlock](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.md) 
+
+### [Epoch~2~Wenlock.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.public.md) 
 
 ### [Epoch~2~Wenlock.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.internal.md) 
 
@@ -74,4 +75,5 @@ noteOnly: true
 
 ### [Epoch~2~Wenlock.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.personal.md) 
 
-### [Epoch~2~Wenlock.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.secret.md) 
+### [Epoch~2~Wenlock.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock.secret.md)
+

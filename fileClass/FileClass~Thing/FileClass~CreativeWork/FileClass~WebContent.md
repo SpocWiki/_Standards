@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WebContent](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.md) 
+### [FileClass~WebContent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.md) 
+
+### [FileClass~WebContent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.public.md) 
 
 ### [FileClass~WebContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.internal.md) 
 
@@ -46,4 +47,5 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ### [FileClass~WebContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.personal.md) 
 
-### [FileClass~WebContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret.md) 
+### [FileClass~WebContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret.md)
+

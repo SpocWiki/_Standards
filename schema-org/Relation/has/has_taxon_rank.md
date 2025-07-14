@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 ( #has_/name :: is_taxon_rank )
 ( #has_/range :: PropertyValue, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_taxon_rank](/_public/schema-org/Relation/has/has_taxon_rank.md) 
+### [has_taxon_rank](/_Standards/schema-org/Relation/has/has_taxon_rank.md) 
+
+### [has_taxon_rank.public](/_public/schema-org/Relation/has/has_taxon_rank.public.md) 
 
 ### [has_taxon_rank.internal](/_internal/schema-org/Relation/has/has_taxon_rank.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_taxon_rank.personal](/_personal/schema-org/Relation/has/has_taxon_rank.personal.md) 
 
-### [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md) 
+### [has_taxon_rank.secret](/_secret/schema-org/Relation/has/has_taxon_rank.secret.md)
+

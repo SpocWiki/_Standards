@@ -181,3 +181,22 @@ Acknowledgements     This image is licensed under the [Attribution-NonCommercial
 Specimen Condition   Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bolitoglossa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.md) 
+
+### [Bolitoglossa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public.md) 
+
+### [Bolitoglossa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal.md) 
+
+### [Bolitoglossa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect.md) 
+
+### [Bolitoglossa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private.md) 
+
+### [Bolitoglossa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal.md) 
+
+### [Bolitoglossa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret.md)
+

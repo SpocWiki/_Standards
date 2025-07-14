@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is new.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [new_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.md) 
+### [new_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.md) 
+
+### [new_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.public.md) 
 
 ### [new_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is new.
 
 ### [new_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.personal.md) 
 
-### [new_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.secret.md) 
+### [new_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.secret.md)
+

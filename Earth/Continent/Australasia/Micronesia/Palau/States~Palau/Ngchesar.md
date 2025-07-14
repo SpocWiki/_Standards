@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.46 , 134.59 ] 
 type: geo-Region
 title: Ngchesar
@@ -41,7 +41,9 @@ markerFolder: ./Ngchesar/
 
 ## Confidential Links & Embeds: 
 
-### [Ngchesar](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.md) 
+### [Ngchesar](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.md) 
+
+### [Ngchesar.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.public.md) 
 
 ### [Ngchesar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngchesar/
 
 ### [Ngchesar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.personal.md) 
 
-### [Ngchesar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.secret.md) 
+### [Ngchesar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.secret.md)
+

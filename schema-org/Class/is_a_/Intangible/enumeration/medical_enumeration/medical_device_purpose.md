@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Categories of medical devices, organized by the purpose or intended use of the d
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_device_purpose](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.md) 
+### [medical_device_purpose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.md) 
+
+### [medical_device_purpose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.public.md) 
 
 ### [medical_device_purpose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.internal.md) 
 
@@ -52,4 +55,5 @@ Categories of medical devices, organized by the purpose or intended use of the d
 
 ### [medical_device_purpose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.personal.md) 
 
-### [medical_device_purpose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.secret.md) 
+### [medical_device_purpose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose.secret.md)
+

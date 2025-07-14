@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that a refund can be done as an exchange for the same product.
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [exchange_refund](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
+### [exchange_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
+
+### [exchange_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.public.md) 
 
 ### [exchange_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that a refund can be done as an exchange for the same product.
 
 ### [exchange_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
 
-### [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md) 
+### [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md)
+

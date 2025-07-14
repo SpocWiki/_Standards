@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Book format: Hardcover.
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hardcover](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.md) 
+### [hardcover](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.md) 
+
+### [hardcover.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.public.md) 
 
 ### [hardcover.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.internal.md) 
 
@@ -56,4 +59,5 @@ Book format: Hardcover.
 
 ### [hardcover.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.personal.md) 
 
-### [hardcover.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.secret.md) 
+### [hardcover.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.secret.md)
+

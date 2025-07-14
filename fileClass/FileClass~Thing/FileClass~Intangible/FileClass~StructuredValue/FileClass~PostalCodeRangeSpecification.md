@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,10 +53,11 @@ Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 PostalCodeEnd:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PostalCodeRangeSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.md) 
+### [FileClass~PostalCodeRangeSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.md) 
+
+### [FileClass~PostalCodeRangeSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.public.md) 
 
 ### [FileClass~PostalCodeRangeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.internal.md) 
 
@@ -66,4 +67,5 @@ PostalCodeEnd:: {"type":"Input","options":{}}
 
 ### [FileClass~PostalCodeRangeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.personal.md) 
 
-### [FileClass~PostalCodeRangeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.secret.md) 
+### [FileClass~PostalCodeRangeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PostalCodeRangeSpecification.secret.md)
+

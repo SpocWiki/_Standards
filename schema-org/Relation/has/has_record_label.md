@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_record_label )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_record_label](/_public/schema-org/Relation/has/has_record_label.md) 
+### [has_record_label](/_Standards/schema-org/Relation/has/has_record_label.md) 
+
+### [has_record_label.public](/_public/schema-org/Relation/has/has_record_label.public.md) 
 
 ### [has_record_label.internal](/_internal/schema-org/Relation/has/has_record_label.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_record_label.personal](/_personal/schema-org/Relation/has/has_record_label.personal.md) 
 
-### [has_record_label.secret](/_secret/schema-org/Relation/has/has_record_label.secret.md) 
+### [has_record_label.secret](/_secret/schema-org/Relation/has/has_record_label.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 5.3 , 132.22 ] 
 type: geo-Region
 title: Sonsorol
@@ -41,7 +41,9 @@ markerFolder: ./Sonsorol/
 
 ## Confidential Links & Embeds: 
 
-### [Sonsorol](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.md) 
+### [Sonsorol](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.md) 
+
+### [Sonsorol.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.public.md) 
 
 ### [Sonsorol.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Sonsorol/
 
 ### [Sonsorol.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal.md) 
 
-### [Sonsorol.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret.md) 
+### [Sonsorol.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret.md)
+

@@ -109,3 +109,22 @@ aliases:
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
   Copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brassicales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.md) 
+
+### [Brassicales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.public.md) 
+
+### [Brassicales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.internal.md) 
+
+### [Brassicales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.protect.md) 
+
+### [Brassicales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.private.md) 
+
+### [Brassicales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.personal.md) 
+
+### [Brassicales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales.secret.md)
+

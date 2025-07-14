@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicated that a return label must be downloaded and printed by the customer.
 
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_label_download_and_print](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.md) 
+### [return_label_download_and_print](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.md) 
+
+### [return_label_download_and_print.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.public.md) 
 
 ### [return_label_download_and_print.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.internal.md) 
 
@@ -58,4 +61,5 @@ Indicated that a return label must be downloaded and printed by the customer.
 
 ### [return_label_download_and_print.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.personal.md) 
 
-### [return_label_download_and_print.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.secret.md) 
+### [return_label_download_and_print.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.secret.md)
+

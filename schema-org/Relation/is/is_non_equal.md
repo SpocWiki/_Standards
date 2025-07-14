@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: is_non_equal )
 ( #has_/range :: QualitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_non_equal](/_public/schema-org/Relation/is/is_non_equal.md) 
+### [is_non_equal](/_Standards/schema-org/Relation/is/is_non_equal.md) 
+
+### [is_non_equal.public](/_public/schema-org/Relation/is/is_non_equal.public.md) 
 
 ### [is_non_equal.internal](/_internal/schema-org/Relation/is/is_non_equal.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [is_non_equal.personal](/_personal/schema-org/Relation/is/is_non_equal.personal.md) 
 
-### [is_non_equal.secret](/_secret/schema-org/Relation/is/is_non_equal.secret.md) 
+### [is_non_equal.secret](/_secret/schema-org/Relation/is/is_non_equal.secret.md)
+

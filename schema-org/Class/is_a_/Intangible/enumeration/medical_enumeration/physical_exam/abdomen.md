@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Abdomen clinical examination.
 
 [ #is_/enum_of :: [[../Physical_Exam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [abdomen](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
+### [abdomen](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
+
+### [abdomen.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.public.md) 
 
 ### [abdomen.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md) 
 
@@ -54,4 +57,5 @@ Abdomen clinical examination.
 
 ### [abdomen.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal.md) 
 
-### [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md) 
+### [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md)
+

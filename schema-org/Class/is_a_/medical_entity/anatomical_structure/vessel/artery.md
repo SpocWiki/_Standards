@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 [ #has_/properties :: [ additionalType, alternateName, arterialBranch, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, supplyTo, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [artery](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.md) 
+### [artery](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.md) 
+
+### [artery.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.public.md) 
 
 ### [artery.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.internal.md) 
 
@@ -56,4 +59,5 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 ### [artery.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.personal.md) 
 
-### [artery.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md) 
+### [artery.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md)
+

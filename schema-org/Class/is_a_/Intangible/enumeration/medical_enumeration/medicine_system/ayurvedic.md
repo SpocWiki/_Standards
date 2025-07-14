@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A system of medicine that originated in India over thousands of years and that f
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ayurvedic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md) 
+### [ayurvedic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md) 
+
+### [ayurvedic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.public.md) 
 
 ### [ayurvedic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal.md) 
 
@@ -56,4 +59,5 @@ A system of medicine that originated in India over thousands of years and that f
 
 ### [ayurvedic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.personal.md) 
 
-### [ayurvedic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret.md) 
+### [ayurvedic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.secret.md)
+

@@ -73,10 +73,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~2~Mesoproterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.md) 
+### [Era~2~Mesoproterozoic](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.md) 
+
+### [Era~2~Mesoproterozoic.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.public.md) 
 
 ### [Era~2~Mesoproterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.internal.md) 
 
@@ -86,4 +87,5 @@ noteOnly: true
 
 ### [Era~2~Mesoproterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.personal.md) 
 
-### [Era~2~Mesoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.secret.md) 
+### [Era~2~Mesoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic.secret.md)
+

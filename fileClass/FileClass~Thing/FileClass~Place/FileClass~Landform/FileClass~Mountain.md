@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A mountain, like Mount Whitney or Mount Everest.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Mountain](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.md) 
+### [FileClass~Mountain](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.md) 
+
+### [FileClass~Mountain.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.public.md) 
 
 ### [FileClass~Mountain.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.internal.md) 
 
@@ -46,4 +47,5 @@ A mountain, like Mount Whitney or Mount Everest.
 
 ### [FileClass~Mountain.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.personal.md) 
 
-### [FileClass~Mountain.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.secret.md) 
+### [FileClass~Mountain.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Mountain.secret.md)
+

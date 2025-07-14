@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 #is_a_/use_action 
 ( [[is_sub_Relation_of]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_using_device](/_public/schema-org/Relation/is/is_using_device.md) 
+### [is_using_device](/_Standards/schema-org/Relation/is/is_using_device.md) 
+
+### [is_using_device.public](/_public/schema-org/Relation/is/is_using_device.public.md) 
 
 ### [is_using_device.internal](/_internal/schema-org/Relation/is/is_using_device.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_using_device.personal](/_personal/schema-org/Relation/is/is_using_device.personal.md) 
 
-### [is_using_device.secret](/_secret/schema-org/Relation/is/is_using_device.secret.md) 
+### [is_using_device.secret](/_secret/schema-org/Relation/is/is_using_device.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -57,9 +57,12 @@ Formal Predicate:
 (name::has_time_of_temporal_coverage)
 (range::DateTime, Text, URL)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_temporal_coverage](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
+### [has_time_of_temporal_coverage](/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
+
+### [has_time_of_temporal_coverage.public](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public.md) 
 
 ### [has_time_of_temporal_coverage.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal.md) 
 
@@ -69,4 +72,5 @@ Formal Predicate:
 
 ### [has_time_of_temporal_coverage.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal.md) 
 
-### [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md) 
+### [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md)
+

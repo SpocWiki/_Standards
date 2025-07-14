@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A structured value representing the duration and scope of services that will be 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [warranty_promise](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
+### [warranty_promise](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
+
+### [warranty_promise.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.public.md) 
 
 ### [warranty_promise.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.internal.md) 
 
@@ -54,4 +57,5 @@ A structured value representing the duration and scope of services that will be 
 
 ### [warranty_promise.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.personal.md) 
 
-### [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md) 
+### [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md)
+

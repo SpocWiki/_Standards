@@ -132,3 +132,21 @@ Decapodiforms \...
   Acknowledgements   J. portieri photograph by Frank Parish; Magnapinna (?) photograph from N.U.R.C., others photographed by R. Young.
   Copyright ::          © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   --------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Oegopsida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.md) 
+
+### [Oegopsida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.public.md) 
+
+### [Oegopsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.internal.md) 
+
+### [Oegopsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.protect.md) 
+
+### [Oegopsida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.private.md) 
+
+### [Oegopsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.personal.md) 
+
+### [Oegopsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida.secret.md)
+

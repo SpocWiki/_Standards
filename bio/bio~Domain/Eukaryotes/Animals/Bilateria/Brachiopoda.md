@@ -96,3 +96,22 @@ Copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemaki
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brachiopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.md) 
+
+### [Brachiopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.public.md) 
+
+### [Brachiopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.internal.md) 
+
+### [Brachiopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.protect.md) 
+
+### [Brachiopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.private.md) 
+
+### [Brachiopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.personal.md) 
+
+### [Brachiopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Brachiopoda.secret.md)
+

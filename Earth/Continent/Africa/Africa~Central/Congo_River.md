@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q3503
 tributary:
 - "[[_Standards/WikiData/WD~Lukuga_River,128350]]"
@@ -99,4 +99,23 @@ watershed_area: 401450000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Congo%20River) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Congo_River](/_Standards/Earth/Continent/Africa/Africa~Central/Congo_River.md) 
+
+### [Congo_River.public](/_public/Earth/Continent/Africa/Africa~Central/Congo_River.public.md) 
+
+### [Congo_River.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo_River.internal.md) 
+
+### [Congo_River.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo_River.protect.md) 
+
+### [Congo_River.private](/_private/Earth/Continent/Africa/Africa~Central/Congo_River.private.md) 
+
+### [Congo_River.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo_River.personal.md) 
+
+### [Congo_River.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo_River.secret.md)
 

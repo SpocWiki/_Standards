@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_terms_per_year )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_terms_per_year](/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.md) 
+### [has_value_for_terms_per_year](/_Standards/schema-org/Property/has_value_for/has_value_for_terms_per_year.md) 
+
+### [has_value_for_terms_per_year.public](/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.public.md) 
 
 ### [has_value_for_terms_per_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_terms_per_year.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_terms_per_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_terms_per_year.personal.md) 
 
-### [has_value_for_terms_per_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret.md) 
+### [has_value_for_terms_per_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret.md)
+

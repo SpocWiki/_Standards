@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_molecular_formula )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_molecular_formula](/_public/schema-org/Property/Texts/has_molecular_formula.md) 
+### [has_molecular_formula](/_Standards/schema-org/Property/Texts/has_molecular_formula.md) 
+
+### [has_molecular_formula.public](/_public/schema-org/Property/Texts/has_molecular_formula.public.md) 
 
 ### [has_molecular_formula.internal](/_internal/schema-org/Property/Texts/has_molecular_formula.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_molecular_formula.personal](/_personal/schema-org/Property/Texts/has_molecular_formula.personal.md) 
 
-### [has_molecular_formula.secret](/_secret/schema-org/Property/Texts/has_molecular_formula.secret.md) 
+### [has_molecular_formula.secret](/_secret/schema-org/Property/Texts/has_molecular_formula.secret.md)
+

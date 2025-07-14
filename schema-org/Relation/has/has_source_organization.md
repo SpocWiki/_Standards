@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_source_organization )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_source_organization](/_public/schema-org/Relation/has/has_source_organization.md) 
+### [has_source_organization](/_Standards/schema-org/Relation/has/has_source_organization.md) 
+
+### [has_source_organization.public](/_public/schema-org/Relation/has/has_source_organization.public.md) 
 
 ### [has_source_organization.internal](/_internal/schema-org/Relation/has/has_source_organization.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_source_organization.personal](/_personal/schema-org/Relation/has/has_source_organization.personal.md) 
 
-### [has_source_organization.secret](/_secret/schema-org/Relation/has/has_source_organization.secret.md) 
+### [has_source_organization.secret](/_secret/schema-org/Relation/has/has_source_organization.secret.md)
+

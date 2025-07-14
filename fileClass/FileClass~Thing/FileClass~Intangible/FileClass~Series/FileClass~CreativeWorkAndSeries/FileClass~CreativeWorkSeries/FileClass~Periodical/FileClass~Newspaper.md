@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A publication containing information about varied topics that are pertinent to g
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Newspaper](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.md) 
+### [FileClass~Newspaper](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.md) 
+
+### [FileClass~Newspaper.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.public.md) 
 
 ### [FileClass~Newspaper.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.internal.md) 
 
@@ -46,4 +47,5 @@ A publication containing information about varied topics that are pertinent to g
 
 ### [FileClass~Newspaper.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.personal.md) 
 
-### [FileClass~Newspaper.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.secret.md) 
+### [FileClass~Newspaper.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~Newspaper.secret.md)
+

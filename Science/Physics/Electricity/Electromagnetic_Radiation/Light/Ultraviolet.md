@@ -16,3 +16,22 @@ has_id_wikidata: Q11391
 > [Wikipedia](https://en.wikipedia.org/wiki/Ultraviolet)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ultraviolet](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.md) 
+
+### [Ultraviolet.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.public.md) 
+
+### [Ultraviolet.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.internal.md) 
+
+### [Ultraviolet.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.protect.md) 
+
+### [Ultraviolet.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.private.md) 
+
+### [Ultraviolet.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.personal.md) 
+
+### [Ultraviolet.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Ultraviolet.secret.md)
+

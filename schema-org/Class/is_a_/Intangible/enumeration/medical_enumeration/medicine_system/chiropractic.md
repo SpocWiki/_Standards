@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A system of medicine focused on the relationship between the body's structure, m
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [chiropractic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.md) 
+### [chiropractic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.md) 
+
+### [chiropractic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.public.md) 
 
 ### [chiropractic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.internal.md) 
 
@@ -56,4 +59,5 @@ A system of medicine focused on the relationship between the body's structure, m
 
 ### [chiropractic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.personal.md) 
 
-### [chiropractic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.secret.md) 
+### [chiropractic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/chiropractic.secret.md)
+

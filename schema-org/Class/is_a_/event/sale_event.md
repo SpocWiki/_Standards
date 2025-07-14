@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Event type: Sales event.
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sale_event](/_public/schema-org/Class/is_a_/event/sale_event.md) 
+### [sale_event](/_Standards/schema-org/Class/is_a_/event/sale_event.md) 
+
+### [sale_event.public](/_public/schema-org/Class/is_a_/event/sale_event.public.md) 
 
 ### [sale_event.internal](/_internal/schema-org/Class/is_a_/event/sale_event.internal.md) 
 
@@ -54,4 +57,5 @@ Event type: Sales event.
 
 ### [sale_event.personal](/_personal/schema-org/Class/is_a_/event/sale_event.personal.md) 
 
-### [sale_event.secret](/_secret/schema-org/Class/is_a_/event/sale_event.secret.md) 
+### [sale_event.secret](/_secret/schema-org/Class/is_a_/event/sale_event.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to the study of the respirato
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pulmonary](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
+### [pulmonary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
+
+### [pulmonary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.public.md) 
 
 ### [pulmonary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to the study of the respirato
 
 ### [pulmonary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal.md) 
 
-### [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md) 
+### [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md)
+

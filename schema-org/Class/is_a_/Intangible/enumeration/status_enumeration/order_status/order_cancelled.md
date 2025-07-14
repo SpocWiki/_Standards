@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing cancellation of an order.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_cancelled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.md) 
+### [order_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.md) 
+
+### [order_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.public.md) 
 
 ### [order_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing cancellation of an order.
 
 ### [order_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.personal.md) 
 
-### [order_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md) 
+### [order_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md)
+

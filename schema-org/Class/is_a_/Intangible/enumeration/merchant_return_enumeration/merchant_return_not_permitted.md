@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Specifies that product returns are not permitted.
 
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [merchant_return_not_permitted](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.md) 
+### [merchant_return_not_permitted](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.md) 
+
+### [merchant_return_not_permitted.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.public.md) 
 
 ### [merchant_return_not_permitted.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal.md) 
 
@@ -60,4 +63,5 @@ Specifies that product returns are not permitted.
 
 ### [merchant_return_not_permitted.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.personal.md) 
 
-### [merchant_return_not_permitted.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret.md) 
+### [merchant_return_not_permitted.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 [ #is_/sub_class_of :: [[../NonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nl_nonprofit_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.md) 
+### [nl_nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.md) 
+
+### [nl_nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.public.md) 
 
 ### [nl_nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.internal.md) 
 
@@ -54,4 +57,5 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 ### [nl_nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.personal.md) 
 
-### [nl_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.secret.md) 
+### [nl_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type.secret.md)
+

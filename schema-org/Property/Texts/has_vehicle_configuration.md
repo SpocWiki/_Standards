@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_vehicle_configuration )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_configuration](/_public/schema-org/Property/Texts/has_vehicle_configuration.md) 
+### [has_vehicle_configuration](/_Standards/schema-org/Property/Texts/has_vehicle_configuration.md) 
+
+### [has_vehicle_configuration.public](/_public/schema-org/Property/Texts/has_vehicle_configuration.public.md) 
 
 ### [has_vehicle_configuration.internal](/_internal/schema-org/Property/Texts/has_vehicle_configuration.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_vehicle_configuration.personal](/_personal/schema-org/Property/Texts/has_vehicle_configuration.personal.md) 
 
-### [has_vehicle_configuration.secret](/_secret/schema-org/Property/Texts/has_vehicle_configuration.secret.md) 
+### [has_vehicle_configuration.secret](/_secret/schema-org/Property/Texts/has_vehicle_configuration.secret.md)
+

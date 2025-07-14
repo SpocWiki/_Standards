@@ -90,11 +90,11 @@ UNII: AU0V1LM3JT
 > [Wikipedia](https://en.wikipedia.org/wiki/Gadolinium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gadolinium](/_public/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.md) 
+### [Gadolinium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.md) 
+
+### [Gadolinium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.public.md) 
 
 ### [Gadolinium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.internal.md) 
 
@@ -104,4 +104,5 @@ UNII: AU0V1LM3JT
 
 ### [Gadolinium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.personal.md) 
 
-### [Gadolinium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.secret.md) 
+### [Gadolinium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.secret.md)
+

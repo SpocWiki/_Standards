@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [seek_to_action](/_public/schema-org/Class/is_a_/action/seek_to_action.md) 
+### [seek_to_action](/_Standards/schema-org/Class/is_a_/action/seek_to_action.md) 
+
+### [seek_to_action.public](/_public/schema-org/Class/is_a_/action/seek_to_action.public.md) 
 
 ### [seek_to_action.internal](/_internal/schema-org/Class/is_a_/action/seek_to_action.internal.md) 
 
@@ -56,4 +59,5 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 
 ### [seek_to_action.personal](/_personal/schema-org/Class/is_a_/action/seek_to_action.personal.md) 
 
-### [seek_to_action.secret](/_secret/schema-org/Class/is_a_/action/seek_to_action.secret.md) 
+### [seek_to_action.secret](/_secret/schema-org/Class/is_a_/action/seek_to_action.secret.md)
+

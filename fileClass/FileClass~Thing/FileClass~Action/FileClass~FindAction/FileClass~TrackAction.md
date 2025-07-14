@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ A sub property of instrument. The method of delivery.
 DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TrackAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.md) 
+### [FileClass~TrackAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.md) 
+
+### [FileClass~TrackAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.public.md) 
 
 ### [FileClass~TrackAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.internal.md) 
 
@@ -56,4 +57,5 @@ DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnS
 
 ### [FileClass~TrackAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.personal.md) 
 
-### [FileClass~TrackAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.secret.md) 
+### [FileClass~TrackAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~TrackAction.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the generic notion of the Web Platform. More specific codes include [
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [generic_web_platform](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.md) 
+### [generic_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.md) 
+
+### [generic_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.public.md) 
 
 ### [generic_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the generic notion of the Web Platform. More specific codes include [
 
 ### [generic_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.personal.md) 
 
-### [generic_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.secret.md) 
+### [generic_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/generic_web_platform.secret.md)
+

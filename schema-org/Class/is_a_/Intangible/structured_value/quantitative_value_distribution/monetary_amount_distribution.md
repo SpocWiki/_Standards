@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A statistical distribution of monetary amounts.
 
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [monetary_amount_distribution](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.md) 
+### [monetary_amount_distribution](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.md) 
+
+### [monetary_amount_distribution.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.public.md) 
 
 ### [monetary_amount_distribution.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.internal.md) 
 
@@ -54,4 +57,5 @@ A statistical distribution of monetary amounts.
 
 ### [monetary_amount_distribution.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.personal.md) 
 
-### [monetary_amount_distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.secret.md) 
+### [monetary_amount_distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.secret.md)
+

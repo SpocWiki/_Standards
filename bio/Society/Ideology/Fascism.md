@@ -107,3 +107,22 @@ OmegaWiki_Defined_Meaning: 351598
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fascism)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fascism](/_Standards/bio/Society/Ideology/Fascism.md) 
+
+### [Fascism.public](/_public/bio/Society/Ideology/Fascism.public.md) 
+
+### [Fascism.internal](/_internal/bio/Society/Ideology/Fascism.internal.md) 
+
+### [Fascism.protect](/_protect/bio/Society/Ideology/Fascism.protect.md) 
+
+### [Fascism.private](/_private/bio/Society/Ideology/Fascism.private.md) 
+
+### [Fascism.personal](/_personal/bio/Society/Ideology/Fascism.personal.md) 
+
+### [Fascism.secret](/_secret/bio/Society/Ideology/Fascism.secret.md)
+

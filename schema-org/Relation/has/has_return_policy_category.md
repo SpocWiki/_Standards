@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_return_policy_category )
 ( #has_/range :: MerchantReturnEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_return_policy_category](/_public/schema-org/Relation/has/has_return_policy_category.md) 
+### [has_return_policy_category](/_Standards/schema-org/Relation/has/has_return_policy_category.md) 
+
+### [has_return_policy_category.public](/_public/schema-org/Relation/has/has_return_policy_category.public.md) 
 
 ### [has_return_policy_category.internal](/_internal/schema-org/Relation/has/has_return_policy_category.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_return_policy_category.personal](/_personal/schema-org/Relation/has/has_return_policy_category.personal.md) 
 
-### [has_return_policy_category.secret](/_secret/schema-org/Relation/has/has_return_policy_category.secret.md) 
+### [has_return_policy_category.secret](/_secret/schema-org/Relation/has/has_return_policy_category.secret.md)
+

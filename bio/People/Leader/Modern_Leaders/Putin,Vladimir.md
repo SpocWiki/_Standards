@@ -19,3 +19,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Putin) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Putin,Vladimir](/_Standards/bio/People/Leader/Modern_Leaders/Putin,Vladimir.md) 
+
+### [Putin,Vladimir.public](/_public/bio/People/Leader/Modern_Leaders/Putin,Vladimir.public.md) 
+
+### [Putin,Vladimir.internal](/_internal/bio/People/Leader/Modern_Leaders/Putin,Vladimir.internal.md) 
+
+### [Putin,Vladimir.protect](/_protect/bio/People/Leader/Modern_Leaders/Putin,Vladimir.protect.md) 
+
+### [Putin,Vladimir.private](/_private/bio/People/Leader/Modern_Leaders/Putin,Vladimir.private.md) 
+
+### [Putin,Vladimir.personal](/_personal/bio/People/Leader/Modern_Leaders/Putin,Vladimir.personal.md) 
+
+### [Putin,Vladimir.secret](/_secret/bio/People/Leader/Modern_Leaders/Putin,Vladimir.secret.md)
+

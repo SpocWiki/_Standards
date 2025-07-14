@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A synagogue.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Synagogue](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.md) 
+### [FileClass~Synagogue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.md) 
+
+### [FileClass~Synagogue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.public.md) 
 
 ### [FileClass~Synagogue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.internal.md) 
 
@@ -46,4 +47,5 @@ A synagogue.
 
 ### [FileClass~Synagogue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.personal.md) 
 
-### [FileClass~Synagogue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.secret.md) 
+### [FileClass~Synagogue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Synagogue.secret.md)
+

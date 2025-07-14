@@ -63,10 +63,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~4~Late_Pleistocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.md) 
+### [Age~4~Late_Pleistocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.md) 
+
+### [Age~4~Late_Pleistocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.public.md) 
 
 ### [Age~4~Late_Pleistocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.internal.md) 
 
@@ -76,4 +77,5 @@ noteOnly: true
 
 ### [Age~4~Late_Pleistocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.personal.md) 
 
-### [Age~4~Late_Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.secret.md) 
+### [Age~4~Late_Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.secret.md)
+

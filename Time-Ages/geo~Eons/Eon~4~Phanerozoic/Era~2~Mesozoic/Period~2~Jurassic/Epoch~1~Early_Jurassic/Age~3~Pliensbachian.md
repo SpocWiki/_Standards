@@ -70,10 +70,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~3~Pliensbachian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.md) 
+### [Age~3~Pliensbachian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.md) 
+
+### [Age~3~Pliensbachian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.public.md) 
 
 ### [Age~3~Pliensbachian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.internal.md) 
 
@@ -83,4 +84,5 @@ noteOnly: true
 
 ### [Age~3~Pliensbachian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.personal.md) 
 
-### [Age~3~Pliensbachian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret.md) 
+### [Age~3~Pliensbachian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret.md)
+

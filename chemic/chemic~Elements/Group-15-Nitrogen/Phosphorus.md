@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21916
 has_id_wikidata: Q674
@@ -164,9 +164,12 @@ allowing 5 or even 6 covalent bonds.
 For example, in PO₄³⁻ (phosphate), phosphorus forms 5 bonds by utilizing 3s, 3p³, and 3d orbitals, 
 so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
 
+
 ## Confidential Links & Embeds: 
 
-### [Phosphorus](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.md) 
+### [Phosphorus](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.md) 
+
+### [Phosphorus.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.public.md) 
 
 ### [Phosphorus.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.internal.md) 
 
@@ -176,4 +179,5 @@ so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
 
 ### [Phosphorus.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.personal.md) 
 
-### [Phosphorus.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.secret.md) 
+### [Phosphorus.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.secret.md)
+

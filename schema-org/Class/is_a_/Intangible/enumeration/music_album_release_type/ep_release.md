@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ EPRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ep_release](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.md) 
+### [ep_release](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.md) 
+
+### [ep_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.public.md) 
 
 ### [ep_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.internal.md) 
 
@@ -56,4 +59,5 @@ EPRelease.
 
 ### [ep_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.personal.md) 
 
-### [ep_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.secret.md) 
+### [ep_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/ep_release.secret.md)
+

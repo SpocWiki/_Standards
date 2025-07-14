@@ -108,11 +108,11 @@ Unicode_character: 鋨
 > [Wikipedia](https://en.wikipedia.org/wiki/Osmium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Osmium](/_public/chemic/chemic~Elements/Group-08-Iron/Osmium.md) 
+### [Osmium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Osmium.md) 
+
+### [Osmium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Osmium.public.md) 
 
 ### [Osmium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Osmium.internal.md) 
 
@@ -122,4 +122,5 @@ Unicode_character: 鋨
 
 ### [Osmium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Osmium.personal.md) 
 
-### [Osmium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Osmium.secret.md) 
+### [Osmium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Osmium.secret.md)
+

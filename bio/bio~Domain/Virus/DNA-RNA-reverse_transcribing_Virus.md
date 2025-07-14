@@ -34,3 +34,22 @@ Containing group: [Virus](../Virus.md)
   Specimen Condition   Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [DNA-RNA-reverse_transcribing_Virus](/_Standards/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.public](/_public/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.public.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.internal](/_internal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.internal.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.protect](/_protect/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.protect.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.private](/_private/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.private.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.personal](/_personal/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.personal.md) 
+
+### [DNA-RNA-reverse_transcribing_Virus.secret](/_secret/bio/bio~Domain/Virus/DNA-RNA-reverse_transcribing_Virus.secret.md)
+

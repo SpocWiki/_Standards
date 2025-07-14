@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanDrugTier, identifier, image, mainEntityOfPage, name, offersPrescriptionByMail, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_plan_formulary](/_public/schema-org/Class/is_a_/Intangible/health_plan_formulary.md) 
+### [health_plan_formulary](/_Standards/schema-org/Class/is_a_/Intangible/health_plan_formulary.md) 
+
+### [health_plan_formulary.public](/_public/schema-org/Class/is_a_/Intangible/health_plan_formulary.public.md) 
 
 ### [health_plan_formulary.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_formulary.internal.md) 
 
@@ -56,4 +59,5 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 ### [health_plan_formulary.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_formulary.personal.md) 
 
-### [health_plan_formulary.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_formulary.secret.md) 
+### [health_plan_formulary.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_formulary.secret.md)
+

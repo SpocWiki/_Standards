@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Should not be used where the nature of the alignment can be described using a si
 
 [ #has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [alignment_object](/_public/schema-org/Class/is_a_/Intangible/alignment_object.md) 
+### [alignment_object](/_Standards/schema-org/Class/is_a_/Intangible/alignment_object.md) 
+
+### [alignment_object.public](/_public/schema-org/Class/is_a_/Intangible/alignment_object.public.md) 
 
 ### [alignment_object.internal](/_internal/schema-org/Class/is_a_/Intangible/alignment_object.internal.md) 
 
@@ -56,4 +59,5 @@ Should not be used where the nature of the alignment can be described using a si
 
 ### [alignment_object.personal](/_personal/schema-org/Class/is_a_/Intangible/alignment_object.personal.md) 
 
-### [alignment_object.secret](/_secret/schema-org/Class/is_a_/Intangible/alignment_object.secret.md) 
+### [alignment_object.secret](/_secret/schema-org/Class/is_a_/Intangible/alignment_object.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [delivery_time_settings](/_public/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.md) 
+### [delivery_time_settings](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.md) 
+
+### [delivery_time_settings.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.public.md) 
 
 ### [delivery_time_settings.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.internal.md) 
 
@@ -56,4 +59,5 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 ### [delivery_time_settings.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.personal.md) 
 
-### [delivery_time_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.secret.md) 
+### [delivery_time_settings.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/delivery_time_settings.secret.md)
+

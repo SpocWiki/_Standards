@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ A type of boarding policy used by an airline.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [boarding_policy_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.md) 
+### [boarding_policy_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.md) 
+
+### [boarding_policy_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.public.md) 
 
 ### [boarding_policy_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.internal.md) 
 
@@ -52,4 +55,5 @@ A type of boarding policy used by an airline.
 
 ### [boarding_policy_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.personal.md) 
 
-### [boarding_policy_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.secret.md) 
+### [boarding_policy_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type.secret.md)
+

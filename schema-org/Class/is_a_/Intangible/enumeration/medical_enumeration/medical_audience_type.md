@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Target audiences types for medical web pages. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_audience_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.md) 
+### [medical_audience_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.md) 
+
+### [medical_audience_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.public.md) 
 
 ### [medical_audience_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.internal.md) 
 
@@ -52,4 +55,5 @@ Target audiences types for medical web pages. Enumerated type.
 
 ### [medical_audience_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.personal.md) 
 
-### [medical_audience_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.secret.md) 
+### [medical_audience_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type.secret.md)
+

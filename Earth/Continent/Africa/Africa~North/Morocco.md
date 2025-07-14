@@ -549,9 +549,12 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Morocco)
 
+
 ## Confidential Links & Embeds: 
 
-### [Morocco](/_public/Earth/Continent/Africa/Africa~North/Morocco.md) 
+### [Morocco](/_Standards/Earth/Continent/Africa/Africa~North/Morocco.md) 
+
+### [Morocco.public](/_public/Earth/Continent/Africa/Africa~North/Morocco.public.md) 
 
 ### [Morocco.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal.md) 
 
@@ -561,4 +564,5 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 ### [Morocco.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal.md) 
 
-### [Morocco.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret.md) 
+### [Morocco.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret.md)
+

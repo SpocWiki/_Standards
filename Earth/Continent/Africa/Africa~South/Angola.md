@@ -491,9 +491,12 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angola)
 
+
 ## Confidential Links & Embeds: 
 
-### [Angola](/_public/Earth/Continent/Africa/Africa~South/Angola.md) 
+### [Angola](/_Standards/Earth/Continent/Africa/Africa~South/Angola.md) 
+
+### [Angola.public](/_public/Earth/Continent/Africa/Africa~South/Angola.public.md) 
 
 ### [Angola.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola.internal.md) 
 
@@ -503,4 +506,5 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 ### [Angola.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola.personal.md) 
 
-### [Angola.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola.secret.md) 
+### [Angola.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola.secret.md)
+

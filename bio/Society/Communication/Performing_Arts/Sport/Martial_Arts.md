@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11417
 subclass_of:
 - '[[_Standards/WikiData/WD~tradition,82821]]'
@@ -51,4 +51,23 @@ Baidu_Tieba_name: 武术
 > [Wikipedia](https://en.wikipedia.org/wiki/Martial%20arts) 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Martial_Arts](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.md) 
+
+### [Martial_Arts.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.public.md) 
+
+### [Martial_Arts.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.internal.md) 
+
+### [Martial_Arts.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.protect.md) 
+
+### [Martial_Arts.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.private.md) 
+
+### [Martial_Arts.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.personal.md) 
+
+### [Martial_Arts.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Martial_Arts.secret.md)
 

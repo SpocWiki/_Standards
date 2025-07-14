@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [people_audience](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience.md) 
+### [people_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/people_audience.md) 
+
+### [people_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience.public.md) 
 
 ### [people_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience.internal.md) 
 
@@ -56,4 +59,5 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 ### [people_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience.personal.md) 
 
-### [people_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience.secret.md) 
+### [people_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience.secret.md)
+

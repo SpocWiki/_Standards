@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pre_order_action](/_public/schema-org/Class/is_a_/action/trade_action/pre_order_action.md) 
+### [pre_order_action](/_Standards/schema-org/Class/is_a_/action/trade_action/pre_order_action.md) 
+
+### [pre_order_action.public](/_public/schema-org/Class/is_a_/action/trade_action/pre_order_action.public.md) 
 
 ### [pre_order_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/pre_order_action.internal.md) 
 
@@ -54,4 +57,5 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 
 ### [pre_order_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/pre_order_action.personal.md) 
 
-### [pre_order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/pre_order_action.secret.md) 
+### [pre_order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/pre_order_action.secret.md)
+

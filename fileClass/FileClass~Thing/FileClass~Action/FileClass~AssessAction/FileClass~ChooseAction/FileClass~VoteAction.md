@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of object. The candidate subject of this action.
 Candidate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VoteAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.md) 
+### [FileClass~VoteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.md) 
+
+### [FileClass~VoteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.public.md) 
 
 ### [FileClass~VoteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.internal.md) 
 
@@ -57,4 +58,5 @@ Candidate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ### [FileClass~VoteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.personal.md) 
 
-### [FileClass~VoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.secret.md) 
+### [FileClass~VoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction/FileClass~VoteAction.secret.md)
+

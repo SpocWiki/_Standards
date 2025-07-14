@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11457
 natural_product_of_taxon:
 - "[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]"
@@ -57,4 +57,23 @@ Colon_Classification: J781
 > Current estimates for world production are about 25 million tonnes or 110 million bales annually, accounting for 2.5% of the world's arable land. India is the world's largest producer of cotton. The United States has been the largest exporter for many years.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cotton) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cotton](/_Standards/Economics/Industry/Agriculture/Crop/Cotton.md) 
+
+### [Cotton.public](/_public/Economics/Industry/Agriculture/Crop/Cotton.public.md) 
+
+### [Cotton.internal](/_internal/Economics/Industry/Agriculture/Crop/Cotton.internal.md) 
+
+### [Cotton.protect](/_protect/Economics/Industry/Agriculture/Crop/Cotton.protect.md) 
+
+### [Cotton.private](/_private/Economics/Industry/Agriculture/Crop/Cotton.private.md) 
+
+### [Cotton.personal](/_personal/Economics/Industry/Agriculture/Crop/Cotton.personal.md) 
+
+### [Cotton.secret](/_secret/Economics/Industry/Agriculture/Crop/Cotton.secret.md)
 

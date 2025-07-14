@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -96,10 +96,11 @@ The BroadcastService offered on this channel.
 ProvidesBroadcastService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/BroadcastService')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BroadcastChannel](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.md) 
+### [FileClass~BroadcastChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.md) 
+
+### [FileClass~BroadcastChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.public.md) 
 
 ### [FileClass~BroadcastChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.internal.md) 
 
@@ -109,4 +110,5 @@ ProvidesBroadcastService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pa
 
 ### [FileClass~BroadcastChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.personal.md) 
 
-### [FileClass~BroadcastChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.secret.md) 
+### [FileClass~BroadcastChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel.secret.md)
+

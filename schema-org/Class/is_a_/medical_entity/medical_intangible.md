@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_intangible](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible.md) 
+### [medical_intangible](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible.md) 
+
+### [medical_intangible.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible.public.md) 
 
 ### [medical_intangible.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible.internal.md) 
 
@@ -56,4 +59,5 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 ### [medical_intangible.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible.personal.md) 
 
-### [medical_intangible.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible.secret.md) 
+### [medical_intangible.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible.secret.md)
+

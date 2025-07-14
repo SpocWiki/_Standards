@@ -142,3 +142,21 @@ Ser. 2: 185-202.
   Size                 350 mm ML (to tip of tail)
   Copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
   --------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Batoteuthidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.md) 
+
+### [Batoteuthidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.public.md) 
+
+### [Batoteuthidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.internal.md) 
+
+### [Batoteuthidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.protect.md) 
+
+### [Batoteuthidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.private.md) 
+
+### [Batoteuthidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.personal.md) 
+
+### [Batoteuthidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Batoteuthidae.secret.md)
+

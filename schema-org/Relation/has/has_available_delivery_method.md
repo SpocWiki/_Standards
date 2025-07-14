@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_available_delivery_method )
 ( #has_/range :: DeliveryMethod )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_available_delivery_method](/_public/schema-org/Relation/has/has_available_delivery_method.md) 
+### [has_available_delivery_method](/_Standards/schema-org/Relation/has/has_available_delivery_method.md) 
+
+### [has_available_delivery_method.public](/_public/schema-org/Relation/has/has_available_delivery_method.public.md) 
 
 ### [has_available_delivery_method.internal](/_internal/schema-org/Relation/has/has_available_delivery_method.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_available_delivery_method.personal](/_personal/schema-org/Relation/has/has_available_delivery_method.personal.md) 
 
-### [has_available_delivery_method.secret](/_secret/schema-org/Relation/has/has_available_delivery_method.secret.md) 
+### [has_available_delivery_method.secret](/_secret/schema-org/Relation/has/has_available_delivery_method.secret.md)
+

@@ -479,9 +479,12 @@ Capital :: [[Maputo]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mozambique)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mozambique](/_public/Earth/Continent/Africa/Africa~East/Mozambique.md) 
+### [Mozambique](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique.md) 
+
+### [Mozambique.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique.public.md) 
 
 ### [Mozambique.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal.md) 
 
@@ -491,4 +494,5 @@ Capital :: [[Maputo]]
 
 ### [Mozambique.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal.md) 
 
-### [Mozambique.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret.md) 
+### [Mozambique.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret.md)
+

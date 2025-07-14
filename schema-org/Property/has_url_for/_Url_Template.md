@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_Url_Template](/_public/schema-org/Property/has_url_for/_Url_Template.md) 
+### [_Url_Template](/_Standards/schema-org/Property/has_url_for/_Url_Template.md) 
+
+### [_Url_Template.public](/_public/schema-org/Property/has_url_for/_Url_Template.public.md) 
 
 ### [_Url_Template.internal](/_internal/schema-org/Property/has_url_for/_Url_Template.internal.md) 
 
@@ -67,4 +70,5 @@ Predicate describes that:
 
 ### [_Url_Template.personal](/_personal/schema-org/Property/has_url_for/_Url_Template.personal.md) 
 
-### [_Url_Template.secret](/_secret/schema-org/Property/has_url_for/_Url_Template.secret.md) 
+### [_Url_Template.secret](/_secret/schema-org/Property/has_url_for/_Url_Template.secret.md)
+

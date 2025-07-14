@@ -94,3 +94,21 @@ Hokkaido Imperial University, 20(supplement):357 pages.
   Location ::        Japan
   Copyright ::         © 1996 Yutaka Natsukari
   ------------
+
+
+## Confidential Links & Embeds: 
+
+### [Metasepia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.md) 
+
+### [Metasepia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.public.md) 
+
+### [Metasepia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.internal.md) 
+
+### [Metasepia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.protect.md) 
+
+### [Metasepia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.private.md) 
+
+### [Metasepia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.personal.md) 
+
+### [Metasepia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Sepioidea/Sepiidae/Metasepia.secret.md)
+

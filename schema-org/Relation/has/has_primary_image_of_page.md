@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_primary_image_of_page )
 ( #has_/range :: ImageObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_primary_image_of_page](/_public/schema-org/Relation/has/has_primary_image_of_page.md) 
+### [has_primary_image_of_page](/_Standards/schema-org/Relation/has/has_primary_image_of_page.md) 
+
+### [has_primary_image_of_page.public](/_public/schema-org/Relation/has/has_primary_image_of_page.public.md) 
 
 ### [has_primary_image_of_page.internal](/_internal/schema-org/Relation/has/has_primary_image_of_page.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_primary_image_of_page.personal](/_personal/schema-org/Relation/has/has_primary_image_of_page.personal.md) 
 
-### [has_primary_image_of_page.secret](/_secret/schema-org/Relation/has/has_primary_image_of_page.secret.md) 
+### [has_primary_image_of_page.secret](/_secret/schema-org/Relation/has/has_primary_image_of_page.secret.md)
+

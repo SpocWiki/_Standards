@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: encodesBioChemEntity]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_encoded_by_bio_chem_entity](/_public/schema-org/Relation/is/is_encoded_by_bio_chem_entity.md) 
+### [is_encoded_by_bio_chem_entity](/_Standards/schema-org/Relation/is/is_encoded_by_bio_chem_entity.md) 
+
+### [is_encoded_by_bio_chem_entity.public](/_public/schema-org/Relation/is/is_encoded_by_bio_chem_entity.public.md) 
 
 ### [is_encoded_by_bio_chem_entity.internal](/_internal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_encoded_by_bio_chem_entity.personal](/_personal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.personal.md) 
 
-### [is_encoded_by_bio_chem_entity.secret](/_secret/schema-org/Relation/is/is_encoded_by_bio_chem_entity.secret.md) 
+### [is_encoded_by_bio_chem_entity.secret](/_secret/schema-org/Relation/is/is_encoded_by_bio_chem_entity.secret.md)
+

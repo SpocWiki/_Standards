@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_location_touches )
 ( #has_/range :: GeospatialGeometry, Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_that_touches](/_public/schema-org/Property/has_location/has_location_that_touches.md) 
+### [has_location_that_touches](/_Standards/schema-org/Property/has_location/has_location_that_touches.md) 
+
+### [has_location_that_touches.public](/_public/schema-org/Property/has_location/has_location_that_touches.public.md) 
 
 ### [has_location_that_touches.internal](/_internal/schema-org/Property/has_location/has_location_that_touches.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_location_that_touches.personal](/_personal/schema-org/Property/has_location/has_location_that_touches.personal.md) 
 
-### [has_location_that_touches.secret](/_secret/schema-org/Property/has_location/has_location_that_touches.secret.md) 
+### [has_location_that_touches.secret](/_secret/schema-org/Property/has_location/has_location_that_touches.secret.md)
+

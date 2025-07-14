@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -60,10 +60,11 @@ Gender of something, typically a [[Person]], but possibly also fictional charact
 Gender:: {"type":"Select","options":{"valuesList":{"Female","Male"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsTeam](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.md) 
+### [FileClass~SportsTeam](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.md) 
+
+### [FileClass~SportsTeam.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.public.md) 
 
 ### [FileClass~SportsTeam.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.internal.md) 
 
@@ -73,4 +74,5 @@ Gender:: {"type":"Select","options":{"valuesList":{"Female","Male"},"sourceType"
 
 ### [FileClass~SportsTeam.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.personal.md) 
 
-### [FileClass~SportsTeam.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret.md) 
+### [FileClass~SportsTeam.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret.md)
+

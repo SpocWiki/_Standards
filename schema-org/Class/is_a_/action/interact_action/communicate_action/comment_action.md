@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of generating a comment about a subject.
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [comment_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.md) 
+### [comment_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.md) 
+
+### [comment_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.public.md) 
 
 ### [comment_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of generating a comment about a subject.
 
 ### [comment_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.personal.md) 
 
-### [comment_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.secret.md) 
+### [comment_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.secret.md)
+

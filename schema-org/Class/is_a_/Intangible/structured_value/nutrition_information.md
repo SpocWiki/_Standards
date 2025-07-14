@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Nutritional information about the recipe.
 
 [ #has_/properties :: [ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nutrition_information](/_public/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.md) 
+### [nutrition_information](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.md) 
+
+### [nutrition_information.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.public.md) 
 
 ### [nutrition_information.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.internal.md) 
 
@@ -54,4 +57,5 @@ Nutritional information about the recipe.
 
 ### [nutrition_information.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.personal.md) 
 
-### [nutrition_information.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.secret.md) 
+### [nutrition_information.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/nutrition_information.secret.md)
+

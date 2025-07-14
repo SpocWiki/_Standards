@@ -26,3 +26,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Disaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.md) 
+
+### [Disaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.public.md) 
+
+### [Disaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.internal.md) 
+
+### [Disaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.protect.md) 
+
+### [Disaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.private.md) 
+
+### [Disaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.personal.md) 
+
+### [Disaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.secret.md)
+

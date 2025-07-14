@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ vehicleIdentificationNumber ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_serial](/_public/schema-org/Property/has_name/has_id_serial.md) 
+### [has_id_serial](/_Standards/schema-org/Property/has_name/has_id_serial.md) 
+
+### [has_id_serial.public](/_public/schema-org/Property/has_name/has_id_serial.public.md) 
 
 ### [has_id_serial.internal](/_internal/schema-org/Property/has_name/has_id_serial.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_id_serial.personal](/_personal/schema-org/Property/has_name/has_id_serial.personal.md) 
 
-### [has_id_serial.secret](/_secret/schema-org/Property/has_name/has_id_serial.secret.md) 
+### [has_id_serial.secret](/_secret/schema-org/Property/has_name/has_id_serial.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A posting to a discussion forum.
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, sharedContent, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [discussion_forum_posting](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.md) 
+### [discussion_forum_posting](/_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.md) 
+
+### [discussion_forum_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.public.md) 
 
 ### [discussion_forum_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.internal.md) 
 
@@ -54,4 +57,5 @@ A posting to a discussion forum.
 
 ### [discussion_forum_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.personal.md) 
 
-### [discussion_forum_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.secret.md) 
+### [discussion_forum_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.secret.md)
+

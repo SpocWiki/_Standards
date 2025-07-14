@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Girth of natural waistline (between hip bones and lower ribs). Used, for example
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_waist](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.md) 
+### [body_measurement_waist](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.md) 
+
+### [body_measurement_waist.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.public.md) 
 
 ### [body_measurement_waist.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.internal.md) 
 
@@ -58,4 +61,5 @@ Girth of natural waistline (between hip bones and lower ribs). Used, for example
 
 ### [body_measurement_waist.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.personal.md) 
 
-### [body_measurement_waist.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.secret.md) 
+### [body_measurement_waist.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_waist.secret.md)
+

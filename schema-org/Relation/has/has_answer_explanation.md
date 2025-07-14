@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_answer_explanation )
 ( #has_/range :: Comment, WebContent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_answer_explanation](/_public/schema-org/Relation/has/has_answer_explanation.md) 
+### [has_answer_explanation](/_Standards/schema-org/Relation/has/has_answer_explanation.md) 
+
+### [has_answer_explanation.public](/_public/schema-org/Relation/has/has_answer_explanation.public.md) 
 
 ### [has_answer_explanation.internal](/_internal/schema-org/Relation/has/has_answer_explanation.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_answer_explanation.personal](/_personal/schema-org/Relation/has/has_answer_explanation.personal.md) 
 
-### [has_answer_explanation.secret](/_secret/schema-org/Relation/has/has_answer_explanation.secret.md) 
+### [has_answer_explanation.secret](/_secret/schema-org/Relation/has/has_answer_explanation.secret.md)
+

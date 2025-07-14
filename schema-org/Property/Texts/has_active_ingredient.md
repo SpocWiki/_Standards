@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_active_ingredient )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_active_ingredient](/_public/schema-org/Property/Texts/has_active_ingredient.md) 
+### [has_active_ingredient](/_Standards/schema-org/Property/Texts/has_active_ingredient.md) 
+
+### [has_active_ingredient.public](/_public/schema-org/Property/Texts/has_active_ingredient.public.md) 
 
 ### [has_active_ingredient.internal](/_internal/schema-org/Property/Texts/has_active_ingredient.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_active_ingredient.personal](/_personal/schema-org/Property/Texts/has_active_ingredient.personal.md) 
 
-### [has_active_ingredient.secret](/_secret/schema-org/Property/Texts/has_active_ingredient.secret.md) 
+### [has_active_ingredient.secret](/_secret/schema-org/Property/Texts/has_active_ingredient.secret.md)
+

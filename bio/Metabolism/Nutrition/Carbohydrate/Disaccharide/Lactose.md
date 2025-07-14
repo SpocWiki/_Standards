@@ -22,3 +22,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lactose)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.md) 
+
+### [Lactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.public.md) 
+
+### [Lactose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.internal.md) 
+
+### [Lactose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.protect.md) 
+
+### [Lactose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.private.md) 
+
+### [Lactose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.personal.md) 
+
+### [Lactose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.secret.md)
+

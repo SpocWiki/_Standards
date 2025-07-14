@@ -391,9 +391,12 @@ Capital :: [[Melekeok]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palau)
 
+
 ## Confidential Links & Embeds: 
 
-### [Palau](/_public/Earth/Continent/Australasia/Micronesia/Palau.md) 
+### [Palau](/_Standards/Earth/Continent/Australasia/Micronesia/Palau.md) 
+
+### [Palau.public](/_public/Earth/Continent/Australasia/Micronesia/Palau.public.md) 
 
 ### [Palau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal.md) 
 
@@ -403,4 +406,5 @@ Capital :: [[Melekeok]]
 
 ### [Palau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal.md) 
 
-### [Palau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret.md) 
+### [Palau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret.md)
+

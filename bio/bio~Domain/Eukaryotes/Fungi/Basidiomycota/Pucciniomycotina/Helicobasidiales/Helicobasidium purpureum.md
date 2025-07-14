@@ -66,3 +66,21 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
   Collection           2001
   Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Helicobasidium purpureum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.md) 
+
+### [Helicobasidium purpureum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.public.md) 
+
+### [Helicobasidium purpureum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.internal.md) 
+
+### [Helicobasidium purpureum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.protect.md) 
+
+### [Helicobasidium purpureum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.private.md) 
+
+### [Helicobasidium purpureum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.personal.md) 
+
+### [Helicobasidium purpureum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.secret.md)
+

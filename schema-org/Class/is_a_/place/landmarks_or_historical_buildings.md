@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An historical landmark or building.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [landmarks_or_historical_buildings](/_public/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.md) 
+### [landmarks_or_historical_buildings](/_Standards/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.md) 
+
+### [landmarks_or_historical_buildings.public](/_public/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.public.md) 
 
 ### [landmarks_or_historical_buildings.internal](/_internal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md) 
 
@@ -54,4 +57,5 @@ An historical landmark or building.
 
 ### [landmarks_or_historical_buildings.personal](/_personal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.personal.md) 
 
-### [landmarks_or_historical_buildings.secret](/_secret/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md) 
+### [landmarks_or_historical_buildings.secret](/_secret/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md)
+

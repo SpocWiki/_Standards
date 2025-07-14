@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ The publication format of the book.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [book_format_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.md) 
+### [book_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.md) 
+
+### [book_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.public.md) 
 
 ### [book_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.internal.md) 
 
@@ -52,4 +55,5 @@ The publication format of the book.
 
 ### [book_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.personal.md) 
 
-### [book_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.secret.md) 
+### [book_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.secret.md)
+

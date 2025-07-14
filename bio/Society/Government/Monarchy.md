@@ -33,3 +33,22 @@ Basisklassifikation: 89.33
 > [Wikipedia](https://en.wikipedia.org/wiki/Monarchy)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Monarchy](/_Standards/bio/Society/Government/Monarchy.md) 
+
+### [Monarchy.public](/_public/bio/Society/Government/Monarchy.public.md) 
+
+### [Monarchy.internal](/_internal/bio/Society/Government/Monarchy.internal.md) 
+
+### [Monarchy.protect](/_protect/bio/Society/Government/Monarchy.protect.md) 
+
+### [Monarchy.private](/_private/bio/Society/Government/Monarchy.private.md) 
+
+### [Monarchy.personal](/_personal/bio/Society/Government/Monarchy.personal.md) 
+
+### [Monarchy.secret](/_secret/bio/Society/Government/Monarchy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A table on a Web page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Table](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.md) 
+### [FileClass~Table](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.md) 
+
+### [FileClass~Table.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.public.md) 
 
 ### [FileClass~Table.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.internal.md) 
 
@@ -46,4 +47,5 @@ A table on a Web page.
 
 ### [FileClass~Table.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.personal.md) 
 
-### [FileClass~Table.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.secret.md) 
+### [FileClass~Table.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~Table.secret.md)
+

@@ -83,3 +83,22 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Snake) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Snake](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.md) 
+
+### [Snake.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.public.md) 
+
+### [Snake.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.internal.md) 
+
+### [Snake.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.protect.md) 
+
+### [Snake.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.private.md) 
+
+### [Snake.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.personal.md) 
+
+### [Snake.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile/Snake.secret.md)
+

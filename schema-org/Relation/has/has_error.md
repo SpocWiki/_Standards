@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_error )
 ( #has_/range :: Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_error](/_public/schema-org/Relation/has/has_error.md) 
+### [has_error](/_Standards/schema-org/Relation/has/has_error.md) 
+
+### [has_error.public](/_public/schema-org/Relation/has/has_error.public.md) 
 
 ### [has_error.internal](/_internal/schema-org/Relation/has/has_error.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_error.personal](/_personal/schema-org/Relation/has/has_error.personal.md) 
 
-### [has_error.secret](/_secret/schema-org/Relation/has/has_error.secret.md) 
+### [has_error.secret](/_secret/schema-org/Relation/has/has_error.secret.md)
+

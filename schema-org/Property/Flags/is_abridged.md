@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_abridged )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_abridged](/_public/schema-org/Property/Flags/is_abridged.md) 
+### [is_abridged](/_Standards/schema-org/Property/Flags/is_abridged.md) 
+
+### [is_abridged.public](/_public/schema-org/Property/Flags/is_abridged.public.md) 
 
 ### [is_abridged.internal](/_internal/schema-org/Property/Flags/is_abridged.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_abridged.personal](/_personal/schema-org/Property/Flags/is_abridged.personal.md) 
 
-### [is_abridged.secret](/_secret/schema-org/Property/Flags/is_abridged.secret.md) 
+### [is_abridged.secret](/_secret/schema-org/Property/Flags/is_abridged.secret.md)
+

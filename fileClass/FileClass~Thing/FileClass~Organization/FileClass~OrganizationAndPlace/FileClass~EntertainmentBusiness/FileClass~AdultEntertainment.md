@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An adult entertainment establishment.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AdultEntertainment](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.md) 
+### [FileClass~AdultEntertainment](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.md) 
+
+### [FileClass~AdultEntertainment.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.public.md) 
 
 ### [FileClass~AdultEntertainment.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.internal.md) 
 
@@ -46,4 +47,5 @@ An adult entertainment establishment.
 
 ### [FileClass~AdultEntertainment.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.personal.md) 
 
-### [FileClass~AdultEntertainment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.secret.md) 
+### [FileClass~AdultEntertainment.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AdultEntertainment.secret.md)
+

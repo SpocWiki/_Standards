@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_procedure_type )
 ( #has_/range :: MedicalProcedureType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_procedure_type](/_public/schema-org/Relation/has/has_procedure_type.md) 
+### [has_procedure_type](/_Standards/schema-org/Relation/has/has_procedure_type.md) 
+
+### [has_procedure_type.public](/_public/schema-org/Relation/has/has_procedure_type.public.md) 
 
 ### [has_procedure_type.internal](/_internal/schema-org/Relation/has/has_procedure_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_procedure_type.personal](/_personal/schema-org/Relation/has/has_procedure_type.personal.md) 
 
-### [has_procedure_type.secret](/_secret/schema-org/Relation/has/has_procedure_type.secret.md) 
+### [has_procedure_type.secret](/_secret/schema-org/Relation/has/has_procedure_type.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -35,10 +35,11 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HotelRoom](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.md) 
+### [FileClass~HotelRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.md) 
+
+### [FileClass~HotelRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.public.md) 
 
 ### [FileClass~HotelRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.internal.md) 
 
@@ -48,4 +49,5 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ### [FileClass~HotelRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.personal.md) 
 
-### [FileClass~HotelRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.secret.md) 
+### [FileClass~HotelRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.secret.md)
+

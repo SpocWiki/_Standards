@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing that payment is due on an order.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_payment_due](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.md) 
+### [order_payment_due](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.md) 
+
+### [order_payment_due.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.public.md) 
 
 ### [order_payment_due.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing that payment is due on an order.
 
 ### [order_payment_due.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.personal.md) 
 
-### [order_payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.secret.md) 
+### [order_payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_payment_due.secret.md)
+

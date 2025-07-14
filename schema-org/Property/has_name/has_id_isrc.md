@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_id_isrc_code )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_isrc](/_public/schema-org/Property/has_name/has_id_isrc.md) 
+### [has_id_isrc](/_Standards/schema-org/Property/has_name/has_id_isrc.md) 
+
+### [has_id_isrc.public](/_public/schema-org/Property/has_name/has_id_isrc.public.md) 
 
 ### [has_id_isrc.internal](/_internal/schema-org/Property/has_name/has_id_isrc.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_isrc.personal](/_personal/schema-org/Property/has_name/has_id_isrc.personal.md) 
 
-### [has_id_isrc.secret](/_secret/schema-org/Property/has_name/has_id_isrc.secret.md) 
+### [has_id_isrc.secret](/_secret/schema-org/Property/has_name/has_id_isrc.secret.md)
+

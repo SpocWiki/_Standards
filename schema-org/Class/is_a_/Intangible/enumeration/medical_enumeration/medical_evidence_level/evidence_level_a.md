@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [evidence_level_a](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md) 
+### [evidence_level_a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md) 
+
+### [evidence_level_a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.public.md) 
 
 ### [evidence_level_a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.internal.md) 
 
@@ -56,4 +59,5 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 
 ### [evidence_level_a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.personal.md) 
 
-### [evidence_level_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.secret.md) 
+### [evidence_level_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.secret.md)
+

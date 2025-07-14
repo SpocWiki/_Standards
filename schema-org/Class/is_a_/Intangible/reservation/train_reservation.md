@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [train_reservation](/_public/schema-org/Class/is_a_/Intangible/reservation/train_reservation.md) 
+### [train_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/train_reservation.md) 
+
+### [train_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/train_reservation.public.md) 
 
 ### [train_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.internal.md) 
 
@@ -56,4 +59,5 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ### [train_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.personal.md) 
 
-### [train_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/train_reservation.secret.md) 
+### [train_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/train_reservation.secret.md)
+

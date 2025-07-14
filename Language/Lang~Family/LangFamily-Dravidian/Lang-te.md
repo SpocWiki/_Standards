@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Telugu
@@ -30,9 +30,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Telugu%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-te](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
+### [Lang-te](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
+
+### [Lang-te.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.public.md) 
 
 ### [Lang-te.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.internal.md) 
 
@@ -42,4 +45,5 @@ tags:
 
 ### [Lang-te.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.personal.md) 
 
-### [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md) 
+### [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md)
+

@@ -15,3 +15,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Classical%20music) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Classical_Music](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music.md) 
+
+### [Classical_Music.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music.public.md) 
+
+### [Classical_Music.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music.internal.md) 
+
+### [Classical_Music.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music.protect.md) 
+
+### [Classical_Music.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music.private.md) 
+
+### [Classical_Music.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music.personal.md) 
+
+### [Classical_Music.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music.secret.md)
+

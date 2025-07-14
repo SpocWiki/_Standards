@@ -23,3 +23,21 @@ aliases:
 > With his instantly recognizable, rich, gravelly voice, Armstrong was also an influential singer and skillful improviser. He was also skilled at scat singing. By the end of Armstrong's life, his influence had spread to popular music. He was one of the first popular African-American entertainers to "cross over" to wide popularity with white and international audiences. Armstrong rarely publicly discussed racial issues, to the dismay of fellow African Americans, but took a well-publicized stand for desegregation in the Little Rock crisis. He could access the upper echelons of American society at a time when this was difficult for Black men.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20Armstrong)
+
+
+## Confidential Links & Embeds: 
+
+### [Armstrong,Louis](/_Standards/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.md) 
+
+### [Armstrong,Louis.public](/_public/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.public.md) 
+
+### [Armstrong,Louis.internal](/_internal/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.internal.md) 
+
+### [Armstrong,Louis.protect](/_protect/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.protect.md) 
+
+### [Armstrong,Louis.private](/_private/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.private.md) 
+
+### [Armstrong,Louis.personal](/_personal/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.personal.md) 
+
+### [Armstrong,Louis.secret](/_secret/bio/People/Musician/Jazz-Musicians/Armstrong,Louis.secret.md)
+

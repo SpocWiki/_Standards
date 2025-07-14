@@ -469,9 +469,12 @@ Capital :: [[Panama_City]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Panama)
 
+
 ## Confidential Links & Embeds: 
 
-### [Panama](/_public/Earth/Continent/America~Central/Panama.md) 
+### [Panama](/_Standards/Earth/Continent/America~Central/Panama.md) 
+
+### [Panama.public](/_public/Earth/Continent/America~Central/Panama.public.md) 
 
 ### [Panama.internal](/_internal/Earth/Continent/America~Central/Panama.internal.md) 
 
@@ -481,4 +484,5 @@ Capital :: [[Panama_City]]
 
 ### [Panama.personal](/_personal/Earth/Continent/America~Central/Panama.personal.md) 
 
-### [Panama.secret](/_secret/Earth/Continent/America~Central/Panama.secret.md) 
+### [Panama.secret](/_secret/Earth/Continent/America~Central/Panama.secret.md)
+

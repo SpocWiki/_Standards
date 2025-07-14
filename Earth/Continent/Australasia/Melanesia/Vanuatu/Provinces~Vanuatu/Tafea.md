@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -18.8 , 169.1 ] 
 type: geo-Region
 title: Tafea
@@ -41,7 +41,9 @@ markerFolder: ./Tafea/
 
 ## Confidential Links & Embeds: 
 
-### [Tafea](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.md) 
+### [Tafea](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.md) 
+
+### [Tafea.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.public.md) 
 
 ### [Tafea.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Tafea/
 
 ### [Tafea.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.personal.md) 
 
-### [Tafea.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.secret.md) 
+### [Tafea.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.secret.md)
+

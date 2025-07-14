@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_award )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_award](/_public/schema-org/Property/Texts/has_award.md) 
+### [has_award](/_Standards/schema-org/Property/Texts/has_award.md) 
+
+### [has_award.public](/_public/schema-org/Property/Texts/has_award.public.md) 
 
 ### [has_award.internal](/_internal/schema-org/Property/Texts/has_award.internal.md) 
 
@@ -55,4 +58,5 @@ Predicated describes that:
 
 ### [has_award.personal](/_personal/schema-org/Property/Texts/has_award.personal.md) 
 
-### [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md) 
+### [has_award.secret](/_secret/schema-org/Property/Texts/has_award.secret.md)
+

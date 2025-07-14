@@ -33,3 +33,22 @@ title: Brachypauropodidae
 	-   *Brachypauropus*
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brachypauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.md) 
+
+### [Brachypauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.public.md) 
+
+### [Brachypauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.internal.md) 
+
+### [Brachypauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.protect.md) 
+
+### [Brachypauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.private.md) 
+
+### [Brachypauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.personal.md) 
+
+### [Brachypauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Brachypauropodidae.secret.md)
+

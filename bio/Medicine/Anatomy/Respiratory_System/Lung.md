@@ -48,3 +48,22 @@ Unicode_character: 🫁
 > [Wikipedia](https://en.wikipedia.org/wiki/Lung)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lung](/_Standards/bio/Medicine/Anatomy/Respiratory_System/Lung.md) 
+
+### [Lung.public](/_public/bio/Medicine/Anatomy/Respiratory_System/Lung.public.md) 
+
+### [Lung.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System/Lung.internal.md) 
+
+### [Lung.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System/Lung.protect.md) 
+
+### [Lung.private](/_private/bio/Medicine/Anatomy/Respiratory_System/Lung.private.md) 
+
+### [Lung.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System/Lung.personal.md) 
+
+### [Lung.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System/Lung.secret.md)
+

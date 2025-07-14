@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: has_bed )
 ( #has_/range :: BedDetails, BedType, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_bed](/_public/schema-org/Relation/has/has_bed.md) 
+### [has_bed](/_Standards/schema-org/Relation/has/has_bed.md) 
+
+### [has_bed.public](/_public/schema-org/Relation/has/has_bed.public.md) 
 
 ### [has_bed.internal](/_internal/schema-org/Relation/has/has_bed.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_bed.personal](/_personal/schema-org/Relation/has/has_bed.personal.md) 
 
-### [has_bed.secret](/_secret/schema-org/Relation/has/has_bed.secret.md) 
+### [has_bed.secret](/_secret/schema-org/Relation/has/has_bed.secret.md)
+

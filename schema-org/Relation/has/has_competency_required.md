@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_competency_required )
 ( #has_/range :: DefinedTerm, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_competency_required](/_public/schema-org/Relation/has/has_competency_required.md) 
+### [has_competency_required](/_Standards/schema-org/Relation/has/has_competency_required.md) 
+
+### [has_competency_required.public](/_public/schema-org/Relation/has/has_competency_required.public.md) 
 
 ### [has_competency_required.internal](/_internal/schema-org/Relation/has/has_competency_required.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_competency_required.personal](/_personal/schema-org/Relation/has/has_competency_required.personal.md) 
 
-### [has_competency_required.secret](/_secret/schema-org/Relation/has/has_competency_required.secret.md) 
+### [has_competency_required.secret](/_secret/schema-org/Relation/has/has_competency_required.secret.md)
+

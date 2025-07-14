@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_box )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_box](/_public/schema-org/Property/Texts/has_box.md) 
+### [has_box](/_Standards/schema-org/Property/Texts/has_box.md) 
+
+### [has_box.public](/_public/schema-org/Property/Texts/has_box.public.md) 
 
 ### [has_box.internal](/_internal/schema-org/Property/Texts/has_box.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_box.personal](/_personal/schema-org/Property/Texts/has_box.personal.md) 
 
-### [has_box.secret](/_secret/schema-org/Property/Texts/has_box.secret.md) 
+### [has_box.secret](/_secret/schema-org/Property/Texts/has_box.secret.md)
+

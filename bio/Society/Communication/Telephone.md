@@ -85,3 +85,22 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/TELEFON.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Telephone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Telephone](/_Standards/bio/Society/Communication/Telephone.md) 
+
+### [Telephone.public](/_public/bio/Society/Communication/Telephone.public.md) 
+
+### [Telephone.internal](/_internal/bio/Society/Communication/Telephone.internal.md) 
+
+### [Telephone.protect](/_protect/bio/Society/Communication/Telephone.protect.md) 
+
+### [Telephone.private](/_private/bio/Society/Communication/Telephone.private.md) 
+
+### [Telephone.personal](/_personal/bio/Society/Communication/Telephone.personal.md) 
+
+### [Telephone.secret](/_secret/bio/Society/Communication/Telephone.secret.md)
+

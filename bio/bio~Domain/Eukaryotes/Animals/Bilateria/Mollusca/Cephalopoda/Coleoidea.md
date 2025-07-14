@@ -249,3 +249,22 @@ Specimen Condition   Live Specimen
 View                 Side
 Copyright ::            © 1999 Brad Seibel
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Coleoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.md) 
+
+### [Coleoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.public.md) 
+
+### [Coleoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.internal.md) 
+
+### [Coleoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.protect.md) 
+
+### [Coleoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.private.md) 
+
+### [Coleoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.personal.md) 
+
+### [Coleoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea.secret.md)
+

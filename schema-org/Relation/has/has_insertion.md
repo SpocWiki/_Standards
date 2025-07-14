@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_insertion )
 ( #has_/range :: AnatomicalStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_insertion](/_public/schema-org/Relation/has/has_insertion.md) 
+### [has_insertion](/_Standards/schema-org/Relation/has/has_insertion.md) 
+
+### [has_insertion.public](/_public/schema-org/Relation/has/has_insertion.public.md) 
 
 ### [has_insertion.internal](/_internal/schema-org/Relation/has/has_insertion.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_insertion.personal](/_personal/schema-org/Relation/has/has_insertion.personal.md) 
 
-### [has_insertion.secret](/_secret/schema-org/Relation/has/has_insertion.secret.md) 
+### [has_insertion.secret](/_secret/schema-org/Relation/has/has_insertion.secret.md)
+

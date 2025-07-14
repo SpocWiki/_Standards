@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21948
 has_id_wikidata: Q1100
@@ -132,9 +132,12 @@ element_symbol: Te
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tellurium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tellurium](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.md) 
+### [Tellurium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.md) 
+
+### [Tellurium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.public.md) 
 
 ### [Tellurium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.internal.md) 
 
@@ -144,4 +147,5 @@ element_symbol: Te
 
 ### [Tellurium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.personal.md) 
 
-### [Tellurium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.secret.md) 
+### [Tellurium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.secret.md)
+

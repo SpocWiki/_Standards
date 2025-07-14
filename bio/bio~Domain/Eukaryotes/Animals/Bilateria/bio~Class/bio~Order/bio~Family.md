@@ -53,3 +53,21 @@ OmegaWiki_Defined_Meaning: "347856"
 > leading to a lack of widespread consensus within the scientific community for extended periods. The continual publication of new data and diverse opinions plays a crucial role in facilitating adjustments and ultimately reaching a consensus over time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Family%20(biology)) 
+
+
+## Confidential Links & Embeds: 
+
+### [bio~Family](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.md) 
+
+### [bio~Family.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.public.md) 
+
+### [bio~Family.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.internal.md) 
+
+### [bio~Family.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.protect.md) 
+
+### [bio~Family.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.private.md) 
+
+### [bio~Family.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.personal.md) 
+
+### [bio~Family.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family.secret.md)
+

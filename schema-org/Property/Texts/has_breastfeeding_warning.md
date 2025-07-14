@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_breastfeeding_warning )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_breastfeeding_warning](/_public/schema-org/Property/Texts/has_breastfeeding_warning.md) 
+### [has_breastfeeding_warning](/_Standards/schema-org/Property/Texts/has_breastfeeding_warning.md) 
+
+### [has_breastfeeding_warning.public](/_public/schema-org/Property/Texts/has_breastfeeding_warning.public.md) 
 
 ### [has_breastfeeding_warning.internal](/_internal/schema-org/Property/Texts/has_breastfeeding_warning.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_breastfeeding_warning.personal](/_personal/schema-org/Property/Texts/has_breastfeeding_warning.personal.md) 
 
-### [has_breastfeeding_warning.secret](/_secret/schema-org/Property/Texts/has_breastfeeding_warning.secret.md) 
+### [has_breastfeeding_warning.secret](/_secret/schema-org/Property/Texts/has_breastfeeding_warning.secret.md)
+

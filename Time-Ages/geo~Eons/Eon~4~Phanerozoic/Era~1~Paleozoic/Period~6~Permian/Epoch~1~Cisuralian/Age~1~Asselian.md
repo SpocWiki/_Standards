@@ -67,10 +67,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Asselian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.md) 
+### [Age~1~Asselian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.md) 
+
+### [Age~1~Asselian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.public.md) 
 
 ### [Age~1~Asselian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.internal.md) 
 
@@ -80,4 +81,5 @@ noteOnly: true
 
 ### [Age~1~Asselian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.personal.md) 
 
-### [Age~1~Asselian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.secret.md) 
+### [Age~1~Asselian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian.secret.md)
+

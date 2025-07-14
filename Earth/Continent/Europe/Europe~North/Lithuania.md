@@ -467,9 +467,12 @@ Capital :: [[Vilnius]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithuania)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lithuania](/_public/Earth/Continent/Europe/Europe~North/Lithuania.md) 
+### [Lithuania](/_Standards/Earth/Continent/Europe/Europe~North/Lithuania.md) 
+
+### [Lithuania.public](/_public/Earth/Continent/Europe/Europe~North/Lithuania.public.md) 
 
 ### [Lithuania.internal](/_internal/Earth/Continent/Europe/Europe~North/Lithuania.internal.md) 
 
@@ -479,4 +482,5 @@ Capital :: [[Vilnius]]
 
 ### [Lithuania.personal](/_personal/Earth/Continent/Europe/Europe~North/Lithuania.personal.md) 
 
-### [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md) 
+### [Lithuania.secret](/_secret/Earth/Continent/Europe/Europe~North/Lithuania.secret.md)
+

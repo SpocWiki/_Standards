@@ -617,10 +617,11 @@ Population in 1000s as of @2024
 > [Wikipedia](https://en.wikipedia.org/wiki/Belgium) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Belgium](/_public/Earth/Continent/Europe/Europe~West/Belgium.md) 
+### [Belgium](/_Standards/Earth/Continent/Europe/Europe~West/Belgium.md) 
+
+### [Belgium.public](/_public/Earth/Continent/Europe/Europe~West/Belgium.public.md) 
 
 ### [Belgium.internal](/_internal/Earth/Continent/Europe/Europe~West/Belgium.internal.md) 
 
@@ -630,4 +631,5 @@ Population in 1000s as of @2024
 
 ### [Belgium.personal](/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal.md) 
 
-### [Belgium.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret.md) 
+### [Belgium.secret](/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret.md)
+

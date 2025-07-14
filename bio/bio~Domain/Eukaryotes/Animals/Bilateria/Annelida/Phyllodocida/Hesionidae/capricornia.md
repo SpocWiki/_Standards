@@ -100,3 +100,22 @@ Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [capricornia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.md) 
+
+### [capricornia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.public.md) 
+
+### [capricornia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.internal.md) 
+
+### [capricornia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.protect.md) 
+
+### [capricornia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.private.md) 
+
+### [capricornia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.personal.md) 
+
+### [capricornia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Annelida/Phyllodocida/Hesionidae/capricornia.secret.md)
+

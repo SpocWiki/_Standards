@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_conditions_of_access )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_conditions_of_access](/_public/schema-org/Property/Texts/has_conditions_of_access.md) 
+### [has_conditions_of_access](/_Standards/schema-org/Property/Texts/has_conditions_of_access.md) 
+
+### [has_conditions_of_access.public](/_public/schema-org/Property/Texts/has_conditions_of_access.public.md) 
 
 ### [has_conditions_of_access.internal](/_internal/schema-org/Property/Texts/has_conditions_of_access.internal.md) 
 
@@ -62,4 +65,5 @@ Predicated describes that:
 
 ### [has_conditions_of_access.personal](/_personal/schema-org/Property/Texts/has_conditions_of_access.personal.md) 
 
-### [has_conditions_of_access.secret](/_secret/schema-org/Property/Texts/has_conditions_of_access.secret.md) 
+### [has_conditions_of_access.secret](/_secret/schema-org/Property/Texts/has_conditions_of_access.secret.md)
+

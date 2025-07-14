@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of returning to the origin that which was previously received (concrete 
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_action](/_public/schema-org/Class/is_a_/action/transfer_action/return_action.md) 
+### [return_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/return_action.md) 
+
+### [return_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/return_action.public.md) 
 
 ### [return_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/return_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of returning to the origin that which was previously received (concrete 
 
 ### [return_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/return_action.personal.md) 
 
-### [return_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/return_action.secret.md) 
+### [return_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/return_action.secret.md)
+

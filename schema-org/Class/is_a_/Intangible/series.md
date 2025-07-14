@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [series](/_public/schema-org/Class/is_a_/Intangible/series.md) 
+### [series](/_Standards/schema-org/Class/is_a_/Intangible/series.md) 
+
+### [series.public](/_public/schema-org/Class/is_a_/Intangible/series.public.md) 
 
 ### [series.internal](/_internal/schema-org/Class/is_a_/Intangible/series.internal.md) 
 
@@ -56,4 +59,5 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 ### [series.personal](/_personal/schema-org/Class/is_a_/Intangible/series.personal.md) 
 
-### [series.secret](/_secret/schema-org/Class/is_a_/Intangible/series.secret.md) 
+### [series.secret](/_secret/schema-org/Class/is_a_/Intangible/series.secret.md)
+

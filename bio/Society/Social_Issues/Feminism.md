@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7252
 Dewey_Decimal_Classification: 305.4209
 hashtag: feminism
@@ -89,4 +89,23 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/feminism"
 > Since the late 20th century, many newer forms of feminism have emerged. Some forms, such as white feminism and gender-critical feminism, have been criticized as taking into account only white, middle class, college-educated, heterosexual, or cisgender perspectives. These criticisms have led to the creation of ethnically specific or multicultural forms of feminism, such as black feminism and intersectional feminism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Feminism)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Feminism](/_Standards/bio/Society/Social_Issues/Feminism.md) 
+
+### [Feminism.public](/_public/bio/Society/Social_Issues/Feminism.public.md) 
+
+### [Feminism.internal](/_internal/bio/Society/Social_Issues/Feminism.internal.md) 
+
+### [Feminism.protect](/_protect/bio/Society/Social_Issues/Feminism.protect.md) 
+
+### [Feminism.private](/_private/bio/Society/Social_Issues/Feminism.private.md) 
+
+### [Feminism.personal](/_personal/bio/Society/Social_Issues/Feminism.personal.md) 
+
+### [Feminism.secret](/_secret/bio/Society/Social_Issues/Feminism.secret.md)
 

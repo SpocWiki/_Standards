@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of object. The options subject to this action.
 ActionOption:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ChooseAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.md) 
+### [FileClass~ChooseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.md) 
+
+### [FileClass~ChooseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.public.md) 
 
 ### [FileClass~ChooseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.internal.md) 
 
@@ -57,4 +58,5 @@ ActionOption:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ChooseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.personal.md) 
 
-### [FileClass~ChooseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.secret.md) 
+### [FileClass~ChooseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction.secret.md)
+

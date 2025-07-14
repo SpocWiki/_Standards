@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_sourced_from )
 ( #has_/range :: BrainStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_sourced_from](/_public/schema-org/Relation/is/is_sourced_from.md) 
+### [is_sourced_from](/_Standards/schema-org/Relation/is/is_sourced_from.md) 
+
+### [is_sourced_from.public](/_public/schema-org/Relation/is/is_sourced_from.public.md) 
 
 ### [is_sourced_from.internal](/_internal/schema-org/Relation/is/is_sourced_from.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_sourced_from.personal](/_personal/schema-org/Relation/is/is_sourced_from.personal.md) 
 
-### [is_sourced_from.secret](/_secret/schema-org/Relation/is/is_sourced_from.secret.md) 
+### [is_sourced_from.secret](/_secret/schema-org/Relation/is/is_sourced_from.secret.md)
+

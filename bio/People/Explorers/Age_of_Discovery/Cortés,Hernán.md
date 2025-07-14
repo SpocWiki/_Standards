@@ -113,3 +113,22 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Hern%C
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hern%C3%A1n%20Cort%C3%A9s) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cortés,Hernán](/_Standards/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.md) 
+
+### [Cortés,Hernán.public](/_public/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.public.md) 
+
+### [Cortés,Hernán.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.internal.md) 
+
+### [Cortés,Hernán.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.protect.md) 
+
+### [Cortés,Hernán.private](/_private/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.private.md) 
+
+### [Cortés,Hernán.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.personal.md) 
+
+### [Cortés,Hernán.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Cortés,Hernán.secret.md)
+

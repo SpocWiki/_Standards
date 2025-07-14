@@ -88,3 +88,21 @@ Lab, University of California is gratefully acknowledged.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
+
+
+## Confidential Links & Embeds: 
+
+### [Edwardsiidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.md) 
+
+### [Edwardsiidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.public.md) 
+
+### [Edwardsiidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.internal.md) 
+
+### [Edwardsiidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.protect.md) 
+
+### [Edwardsiidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.private.md) 
+
+### [Edwardsiidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.personal.md) 
+
+### [Edwardsiidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Athenaria/Edwardsiidae.secret.md)
+

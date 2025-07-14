@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_expert_considerations )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_expert_considerations](/_public/schema-org/Property/Texts/has_expert_considerations.md) 
+### [has_expert_considerations](/_Standards/schema-org/Property/Texts/has_expert_considerations.md) 
+
+### [has_expert_considerations.public](/_public/schema-org/Property/Texts/has_expert_considerations.public.md) 
 
 ### [has_expert_considerations.internal](/_internal/schema-org/Property/Texts/has_expert_considerations.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_expert_considerations.personal](/_personal/schema-org/Property/Texts/has_expert_considerations.personal.md) 
 
-### [has_expert_considerations.secret](/_secret/schema-org/Property/Texts/has_expert_considerations.secret.md) 
+### [has_expert_considerations.secret](/_secret/schema-org/Property/Texts/has_expert_considerations.secret.md)
+

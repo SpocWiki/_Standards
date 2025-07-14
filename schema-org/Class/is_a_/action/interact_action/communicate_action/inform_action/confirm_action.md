@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Related actions:
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [confirm_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.md) 
+### [confirm_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.md) 
+
+### [confirm_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.public.md) 
 
 ### [confirm_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.internal.md) 
 
@@ -60,4 +63,5 @@ Related actions:
 
 ### [confirm_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.personal.md) 
 
-### [confirm_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.secret.md) 
+### [confirm_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The individual reservations included in the package. Typically a repeated proper
 SubReservation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Reservation')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReservationPackage](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.md) 
+### [FileClass~ReservationPackage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.md) 
+
+### [FileClass~ReservationPackage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.public.md) 
 
 ### [FileClass~ReservationPackage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.internal.md) 
 
@@ -57,4 +58,5 @@ SubReservation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~ReservationPackage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.personal.md) 
 
-### [FileClass~ReservationPackage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.secret.md) 
+### [FileClass~ReservationPackage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~ReservationPackage.secret.md)
+

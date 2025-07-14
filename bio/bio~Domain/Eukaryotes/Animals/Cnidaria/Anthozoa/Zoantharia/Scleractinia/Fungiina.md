@@ -47,3 +47,21 @@ transportation to lower level taxa.
 Wells, J. W. 1956. Scleractinia. Pp. F328-F444 In: Moore, R. C. (editor)
 Treatise on Invertebrate Paleontology, Part F: Coelenterata. University
 of Kansas Press, Lawrence.
+
+
+## Confidential Links & Embeds: 
+
+### [Fungiina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.md) 
+
+### [Fungiina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.public.md) 
+
+### [Fungiina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.internal.md) 
+
+### [Fungiina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.protect.md) 
+
+### [Fungiina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.private.md) 
+
+### [Fungiina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.personal.md) 
+
+### [Fungiina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.secret.md)
+

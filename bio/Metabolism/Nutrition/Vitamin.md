@@ -113,3 +113,22 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 - Farbstoffe 
 - Überzugsmittel
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vitamin](/_Standards/bio/Metabolism/Nutrition/Vitamin.md) 
+
+### [Vitamin.public](/_public/bio/Metabolism/Nutrition/Vitamin.public.md) 
+
+### [Vitamin.internal](/_internal/bio/Metabolism/Nutrition/Vitamin.internal.md) 
+
+### [Vitamin.protect](/_protect/bio/Metabolism/Nutrition/Vitamin.protect.md) 
+
+### [Vitamin.private](/_private/bio/Metabolism/Nutrition/Vitamin.private.md) 
+
+### [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
+
+### [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
+

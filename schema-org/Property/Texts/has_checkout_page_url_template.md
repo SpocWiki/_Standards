@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_checkout_page_url_template )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_checkout_page_url_template](/_public/schema-org/Property/Texts/has_checkout_page_url_template.md) 
+### [has_checkout_page_url_template](/_Standards/schema-org/Property/Texts/has_checkout_page_url_template.md) 
+
+### [has_checkout_page_url_template.public](/_public/schema-org/Property/Texts/has_checkout_page_url_template.public.md) 
 
 ### [has_checkout_page_url_template.internal](/_internal/schema-org/Property/Texts/has_checkout_page_url_template.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_checkout_page_url_template.personal](/_personal/schema-org/Property/Texts/has_checkout_page_url_template.personal.md) 
 
-### [has_checkout_page_url_template.secret](/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret.md) 
+### [has_checkout_page_url_template.secret](/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret.md)
+

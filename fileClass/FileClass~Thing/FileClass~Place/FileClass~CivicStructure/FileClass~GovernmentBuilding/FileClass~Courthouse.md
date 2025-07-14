@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A courthouse.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Courthouse](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.md) 
+### [FileClass~Courthouse](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.md) 
+
+### [FileClass~Courthouse.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.public.md) 
 
 ### [FileClass~Courthouse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.internal.md) 
 
@@ -46,4 +47,5 @@ A courthouse.
 
 ### [FileClass~Courthouse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.personal.md) 
 
-### [FileClass~Courthouse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.secret.md) 
+### [FileClass~Courthouse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Courthouse.secret.md)
+

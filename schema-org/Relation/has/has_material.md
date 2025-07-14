@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ artMedium, surface ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_material](/_public/schema-org/Relation/has/has_material.md) 
+### [has_material](/_Standards/schema-org/Relation/has/has_material.md) 
+
+### [has_material.public](/_public/schema-org/Relation/has/has_material.public.md) 
 
 ### [has_material.internal](/_internal/schema-org/Relation/has/has_material.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_material.personal](/_personal/schema-org/Relation/has/has_material.personal.md) 
 
-### [has_material.secret](/_secret/schema-org/Relation/has/has_material.secret.md) 
+### [has_material.secret](/_secret/schema-org/Relation/has/has_material.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Relation describes that:
 ( #has_/name :: has_broker )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broker](/_public/schema-org/Relation/has/has_broker.md) 
+### [has_broker](/_Standards/schema-org/Relation/has/has_broker.md) 
+
+### [has_broker.public](/_public/schema-org/Relation/has/has_broker.public.md) 
 
 ### [has_broker.internal](/_internal/schema-org/Relation/has/has_broker.internal.md) 
 
@@ -61,4 +64,5 @@ Relation describes that:
 
 ### [has_broker.personal](/_personal/schema-org/Relation/has/has_broker.personal.md) 
 
-### [has_broker.secret](/_secret/schema-org/Relation/has/has_broker.secret.md) 
+### [has_broker.secret](/_secret/schema-org/Relation/has/has_broker.secret.md)
+

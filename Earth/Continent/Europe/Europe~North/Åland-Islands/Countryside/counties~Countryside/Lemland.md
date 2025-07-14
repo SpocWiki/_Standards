@@ -1,4 +1,4 @@
-﻿
+
 ---
 location: [ 60.03 , 20.14 ] 
 type: geo-Region
@@ -42,7 +42,9 @@ markerFolder: ./Lemland/
 
 ## Confidential Links & Embeds: 
 
-### [Lemland](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.md) 
+### [Lemland](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.md) 
+
+### [Lemland.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.public.md) 
 
 ### [Lemland.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.internal.md) 
 
@@ -52,4 +54,5 @@ markerFolder: ./Lemland/
 
 ### [Lemland.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.personal.md) 
 
-### [Lemland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.secret.md) 
+### [Lemland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Lemland.secret.md)
+

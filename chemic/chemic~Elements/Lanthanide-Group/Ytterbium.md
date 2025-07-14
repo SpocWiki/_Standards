@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21966
 has_id_wikidata: Q1855
@@ -101,10 +101,11 @@ Commons_category: Ytterbium
 > [Wikipedia](https://en.wikipedia.org/wiki/Ytterbium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ytterbium](/_public/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.md) 
+### [Ytterbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.md) 
+
+### [Ytterbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.public.md) 
 
 ### [Ytterbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.internal.md) 
 
@@ -114,4 +115,5 @@ Commons_category: Ytterbium
 
 ### [Ytterbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.personal.md) 
 
-### [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md) 
+### [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md)
+

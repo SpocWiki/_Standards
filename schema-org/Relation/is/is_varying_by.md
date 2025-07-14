@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_varying_by)
 ( #has_/range :: DefinedTerm, Text)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_varying_by](/_public/schema-org/Relation/is/is_varying_by.md) 
+### [is_varying_by](/_Standards/schema-org/Relation/is/is_varying_by.md) 
+
+### [is_varying_by.public](/_public/schema-org/Relation/is/is_varying_by.public.md) 
 
 ### [is_varying_by.internal](/_internal/schema-org/Relation/is/is_varying_by.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_varying_by.personal](/_personal/schema-org/Relation/is/is_varying_by.personal.md) 
 
-### [is_varying_by.secret](/_secret/schema-org/Relation/is/is_varying_by.secret.md) 
+### [is_varying_by.secret](/_secret/schema-org/Relation/is/is_varying_by.secret.md)
+

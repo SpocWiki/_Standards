@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [quote_action](/_public/schema-org/Class/is_a_/action/trade_action/quote_action.md) 
+### [quote_action](/_Standards/schema-org/Class/is_a_/action/trade_action/quote_action.md) 
+
+### [quote_action.public](/_public/schema-org/Class/is_a_/action/trade_action/quote_action.public.md) 
 
 ### [quote_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/quote_action.internal.md) 
 
@@ -54,4 +57,5 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 ### [quote_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/quote_action.personal.md) 
 
-### [quote_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/quote_action.secret.md) 
+### [quote_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/quote_action.secret.md)
+

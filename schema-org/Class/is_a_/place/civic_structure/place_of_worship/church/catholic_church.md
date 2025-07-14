@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A Catholic church.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [catholic_church](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md) 
+### [catholic_church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md) 
+
+### [catholic_church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.public.md) 
 
 ### [catholic_church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.internal.md) 
 
@@ -54,4 +57,5 @@ A Catholic church.
 
 ### [catholic_church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.personal.md) 
 
-### [catholic_church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md) 
+### [catholic_church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md)
+

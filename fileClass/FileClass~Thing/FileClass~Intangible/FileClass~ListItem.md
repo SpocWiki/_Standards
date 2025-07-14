@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -76,10 +76,11 @@ A link to the ListItem that precedes the current one.
 PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ListItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.md) 
+### [FileClass~ListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.md) 
+
+### [FileClass~ListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.public.md) 
 
 ### [FileClass~ListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.internal.md) 
 
@@ -89,4 +90,5 @@ PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.personal.md) 
 
-### [FileClass~ListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.secret.md) 
+### [FileClass~ListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.secret.md)
+

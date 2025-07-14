@@ -191,3 +191,22 @@ should be considered tentative.
 Scientific Name ::  Rhyacotriton variegatus
 Location ::        Lincoln County, Oregon
 Copyright ::         © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rhyacotritonidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.md) 
+
+### [Rhyacotritonidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.public.md) 
+
+### [Rhyacotritonidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.internal.md) 
+
+### [Rhyacotritonidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.protect.md) 
+
+### [Rhyacotritonidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.private.md) 
+
+### [Rhyacotritonidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.personal.md) 
+
+### [Rhyacotritonidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Rhyacotritonidae.secret.md)
+

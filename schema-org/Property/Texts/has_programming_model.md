@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_programming_model )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_programming_model](/_public/schema-org/Property/Texts/has_programming_model.md) 
+### [has_programming_model](/_Standards/schema-org/Property/Texts/has_programming_model.md) 
+
+### [has_programming_model.public](/_public/schema-org/Property/Texts/has_programming_model.public.md) 
 
 ### [has_programming_model.internal](/_internal/schema-org/Property/Texts/has_programming_model.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_programming_model.personal](/_personal/schema-org/Property/Texts/has_programming_model.personal.md) 
 
-### [has_programming_model.secret](/_secret/schema-org/Property/Texts/has_programming_model.secret.md) 
+### [has_programming_model.secret](/_secret/schema-org/Property/Texts/has_programming_model.secret.md)
+

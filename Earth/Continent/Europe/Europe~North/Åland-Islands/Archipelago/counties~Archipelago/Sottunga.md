@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.13 , 20.66 ] 
 type: geo-Region
 title: Sottunga
@@ -41,7 +41,9 @@ markerFolder: ./Sottunga/
 
 ## Confidential Links & Embeds: 
 
-### [Sottunga](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.md) 
+### [Sottunga](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.md) 
+
+### [Sottunga.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.public.md) 
 
 ### [Sottunga.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Sottunga/
 
 ### [Sottunga.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.personal.md) 
 
-### [Sottunga.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.secret.md) 
+### [Sottunga.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Sottunga.secret.md)
+

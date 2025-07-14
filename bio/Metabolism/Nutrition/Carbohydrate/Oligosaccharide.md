@@ -27,3 +27,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oligosaccharide)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Oligosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.md) 
+
+### [Oligosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public.md) 
+
+### [Oligosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.internal.md) 
+
+### [Oligosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.protect.md) 
+
+### [Oligosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.private.md) 
+
+### [Oligosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.personal.md) 
+
+### [Oligosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.secret.md)
+

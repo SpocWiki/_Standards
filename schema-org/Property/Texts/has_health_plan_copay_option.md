@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_health_plan_copay_option )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_health_plan_copay_option](/_public/schema-org/Property/Texts/has_health_plan_copay_option.md) 
+### [has_health_plan_copay_option](/_Standards/schema-org/Property/Texts/has_health_plan_copay_option.md) 
+
+### [has_health_plan_copay_option.public](/_public/schema-org/Property/Texts/has_health_plan_copay_option.public.md) 
 
 ### [has_health_plan_copay_option.internal](/_internal/schema-org/Property/Texts/has_health_plan_copay_option.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_health_plan_copay_option.personal](/_personal/schema-org/Property/Texts/has_health_plan_copay_option.personal.md) 
 
-### [has_health_plan_copay_option.secret](/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret.md) 
+### [has_health_plan_copay_option.secret](/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret.md)
+

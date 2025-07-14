@@ -55,3 +55,21 @@ Copyright © 2000, Robin Harvey, S.M.B.A.
   ------------
   Copyright ::   © 2000 Robin Harvey, S.M.B.A.
   ------------
+
+
+## Confidential Links & Embeds: 
+
+### [Protanthea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.md) 
+
+### [Protanthea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.public.md) 
+
+### [Protanthea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.internal.md) 
+
+### [Protanthea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.protect.md) 
+
+### [Protanthea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.private.md) 
+
+### [Protanthea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.personal.md) 
+
+### [Protanthea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Protanthea.secret.md)
+

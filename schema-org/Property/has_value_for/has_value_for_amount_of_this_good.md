@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_amount_of_this_good )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_amount_of_this_good](/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.md) 
+### [has_value_for_amount_of_this_good](/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.md) 
+
+### [has_value_for_amount_of_this_good.public](/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public.md) 
 
 ### [has_value_for_amount_of_this_good.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_amount_of_this_good.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal.md) 
 
-### [has_value_for_amount_of_this_good.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret.md) 
+### [has_value_for_amount_of_this_good.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret.md)
+

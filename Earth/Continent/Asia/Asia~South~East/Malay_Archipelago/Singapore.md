@@ -531,10 +531,11 @@ Capital :: [[Singapore=Singapur]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Singapore) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Singapore](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.md) 
+### [Singapore](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.md) 
+
+### [Singapore.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public.md) 
 
 ### [Singapore.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal.md) 
 
@@ -544,4 +545,5 @@ Capital :: [[Singapore=Singapur]]
 
 ### [Singapore.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal.md) 
 
-### [Singapore.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret.md) 
+### [Singapore.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret.md)
+

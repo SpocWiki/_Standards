@@ -121,3 +121,22 @@ Sex ::             Male
 View              dorsal
 Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [itacolomiensis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.md) 
+
+### [itacolomiensis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.public.md) 
+
+### [itacolomiensis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.internal.md) 
+
+### [itacolomiensis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.protect.md) 
+
+### [itacolomiensis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.private.md) 
+
+### [itacolomiensis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.personal.md) 
+
+### [itacolomiensis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Anomura/Aeglidae/itacolomiensis.secret.md)
+

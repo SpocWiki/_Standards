@@ -52,3 +52,22 @@ Ferns
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fern](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.md) 
+
+### [Fern.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.public.md) 
+
+### [Fern.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.internal.md) 
+
+### [Fern.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.protect.md) 
+
+### [Fern.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.private.md) 
+
+### [Fern.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.personal.md) 
+
+### [Fern.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern.secret.md)
+

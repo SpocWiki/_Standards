@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12199
 drug_or_therapy_used_for_treatment:
 - '[[_Standards/WikiData/WD~tenofovir,155954]]'
@@ -132,4 +132,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficen
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [AIDS](/_Standards/bio/Medicine/Disease/Infectious_Disease/AIDS.md) 
+
+### [AIDS.public](/_public/bio/Medicine/Disease/Infectious_Disease/AIDS.public.md) 
+
+### [AIDS.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/AIDS.internal.md) 
+
+### [AIDS.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/AIDS.protect.md) 
+
+### [AIDS.private](/_private/bio/Medicine/Disease/Infectious_Disease/AIDS.private.md) 
+
+### [AIDS.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/AIDS.personal.md) 
+
+### [AIDS.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/AIDS.secret.md)
 

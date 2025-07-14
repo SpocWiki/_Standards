@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,9 +39,12 @@ Single-celled organism that causes an infection.
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [protozoa](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.md) 
+### [protozoa](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.md) 
+
+### [protozoa.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.public.md) 
 
 ### [protozoa.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.internal.md) 
 
@@ -51,4 +54,5 @@ Single-celled organism that causes an infection.
 
 ### [protozoa.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.personal.md) 
 
-### [protozoa.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.secret.md) 
+### [protozoa.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.secret.md)
+

@@ -34,3 +34,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Oxytocin](/_Standards/chemic/organic/Biochemistry/Hormone/Oxytocin.md) 
+
+### [Oxytocin.public](/_public/chemic/organic/Biochemistry/Hormone/Oxytocin.public.md) 
+
+### [Oxytocin.internal](/_internal/chemic/organic/Biochemistry/Hormone/Oxytocin.internal.md) 
+
+### [Oxytocin.protect](/_protect/chemic/organic/Biochemistry/Hormone/Oxytocin.protect.md) 
+
+### [Oxytocin.private](/_private/chemic/organic/Biochemistry/Hormone/Oxytocin.private.md) 
+
+### [Oxytocin.personal](/_personal/chemic/organic/Biochemistry/Hormone/Oxytocin.personal.md) 
+
+### [Oxytocin.secret](/_secret/chemic/organic/Biochemistry/Hormone/Oxytocin.secret.md)
+

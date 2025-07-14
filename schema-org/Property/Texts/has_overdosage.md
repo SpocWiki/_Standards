@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_overdosage )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_overdosage](/_public/schema-org/Property/Texts/has_overdosage.md) 
+### [has_overdosage](/_Standards/schema-org/Property/Texts/has_overdosage.md) 
+
+### [has_overdosage.public](/_public/schema-org/Property/Texts/has_overdosage.public.md) 
 
 ### [has_overdosage.internal](/_internal/schema-org/Property/Texts/has_overdosage.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_overdosage.personal](/_personal/schema-org/Property/Texts/has_overdosage.personal.md) 
 
-### [has_overdosage.secret](/_secret/schema-org/Property/Texts/has_overdosage.secret.md) 
+### [has_overdosage.secret](/_secret/schema-org/Property/Texts/has_overdosage.secret.md)
+

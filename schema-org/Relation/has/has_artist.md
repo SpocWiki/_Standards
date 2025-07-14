@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_artist )
 ( #has_/range :: [[Person]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_artist](/_public/schema-org/Relation/has/has_artist.md) 
+### [has_artist](/_Standards/schema-org/Relation/has/has_artist.md) 
+
+### [has_artist.public](/_public/schema-org/Relation/has/has_artist.public.md) 
 
 ### [has_artist.internal](/_internal/schema-org/Relation/has/has_artist.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_artist.personal](/_personal/schema-org/Relation/has/has_artist.personal.md) 
 
-### [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md) 
+### [has_artist.secret](/_secret/schema-org/Relation/has/has_artist.secret.md)
+

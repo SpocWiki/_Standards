@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -113,10 +113,11 @@ The date when the item is no longer valid.
 ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Permit](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.md) 
+### [FileClass~Permit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.md) 
+
+### [FileClass~Permit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.public.md) 
 
 ### [FileClass~Permit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.internal.md) 
 
@@ -126,4 +127,5 @@ ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ### [FileClass~Permit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.personal.md) 
 
-### [FileClass~Permit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.secret.md) 
+### [FileClass~Permit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit.secret.md)
+

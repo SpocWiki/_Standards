@@ -144,9 +144,12 @@ time_of_discovery_or_invention: "1778"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molybdenum)
 
+
 ## Confidential Links & Embeds: 
 
-### [Molybdenum](/_public/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.md) 
+### [Molybdenum](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.md) 
+
+### [Molybdenum.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.public.md) 
 
 ### [Molybdenum.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.internal.md) 
 
@@ -156,4 +159,5 @@ time_of_discovery_or_invention: "1778"
 
 ### [Molybdenum.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.personal.md) 
 
-### [Molybdenum.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.secret.md) 
+### [Molybdenum.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.secret.md)
+

@@ -23,3 +23,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Lind)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lind,James](/_Standards/bio/Metabolism/Nutrition/Lind,James.md) 
+
+### [Lind,James.public](/_public/bio/Metabolism/Nutrition/Lind,James.public.md) 
+
+### [Lind,James.internal](/_internal/bio/Metabolism/Nutrition/Lind,James.internal.md) 
+
+### [Lind,James.protect](/_protect/bio/Metabolism/Nutrition/Lind,James.protect.md) 
+
+### [Lind,James.private](/_private/bio/Metabolism/Nutrition/Lind,James.private.md) 
+
+### [Lind,James.personal](/_personal/bio/Metabolism/Nutrition/Lind,James.personal.md) 
+
+### [Lind,James.secret](/_secret/bio/Metabolism/Nutrition/Lind,James.secret.md)
+

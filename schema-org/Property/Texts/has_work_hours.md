@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_work_hours )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_work_hours](/_public/schema-org/Property/Texts/has_work_hours.md) 
+### [has_work_hours](/_Standards/schema-org/Property/Texts/has_work_hours.md) 
+
+### [has_work_hours.public](/_public/schema-org/Property/Texts/has_work_hours.public.md) 
 
 ### [has_work_hours.internal](/_internal/schema-org/Property/Texts/has_work_hours.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_work_hours.personal](/_personal/schema-org/Property/Texts/has_work_hours.personal.md) 
 
-### [has_work_hours.secret](/_secret/schema-org/Property/Texts/has_work_hours.secret.md) 
+### [has_work_hours.secret](/_secret/schema-org/Property/Texts/has_work_hours.secret.md)
+

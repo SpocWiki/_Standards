@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 [ #has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [bank_account](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.md) 
+### [bank_account](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.md) 
+
+### [bank_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.public.md) 
 
 ### [bank_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.internal.md) 
 
@@ -56,4 +59,5 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 ### [bank_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.personal.md) 
 
-### [bank_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.secret.md) 
+### [bank_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account.secret.md)
+

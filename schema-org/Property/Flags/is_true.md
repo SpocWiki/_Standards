@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_true )
 ( #has_/range :: Boolean, Number, StructuredValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_true](/_public/schema-org/Property/Flags/is_true.md) 
+### [is_true](/_Standards/schema-org/Property/Flags/is_true.md) 
+
+### [is_true.public](/_public/schema-org/Property/Flags/is_true.public.md) 
 
 ### [is_true.internal](/_internal/schema-org/Property/Flags/is_true.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_true.personal](/_personal/schema-org/Property/Flags/is_true.personal.md) 
 
-### [is_true.secret](/_secret/schema-org/Property/Flags/is_true.secret.md) 
+### [is_true.secret](/_secret/schema-org/Property/Flags/is_true.secret.md)
+

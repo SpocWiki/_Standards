@@ -230,3 +230,22 @@ View              Side
 Size              23 mm ML
 Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Spirulida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.md) 
+
+### [Spirulida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.public.md) 
+
+### [Spirulida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.internal.md) 
+
+### [Spirulida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.protect.md) 
+
+### [Spirulida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.private.md) 
+
+### [Spirulida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.personal.md) 
+
+### [Spirulida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Spirulida.secret.md)
+

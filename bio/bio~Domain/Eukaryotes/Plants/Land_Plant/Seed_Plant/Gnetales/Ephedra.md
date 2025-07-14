@@ -109,3 +109,22 @@ Image copyright © 1995 David R. Maddison
 	-   *Ephedra tweediana*
 	-   *Ephedra viridis*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ephedra](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.md) 
+
+### [Ephedra.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.public.md) 
+
+### [Ephedra.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.internal.md) 
+
+### [Ephedra.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.protect.md) 
+
+### [Ephedra.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.private.md) 
+
+### [Ephedra.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.personal.md) 
+
+### [Ephedra.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Ephedra.secret.md)
+

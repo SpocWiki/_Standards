@@ -174,3 +174,22 @@ Europeana_entity: agent/base/60496
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moli%C3%A8re)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Molière](/_Standards/bio/People/Writer/Molière.md) 
+
+### [Molière.public](/_public/bio/People/Writer/Molière.public.md) 
+
+### [Molière.internal](/_internal/bio/People/Writer/Molière.internal.md) 
+
+### [Molière.protect](/_protect/bio/People/Writer/Molière.protect.md) 
+
+### [Molière.private](/_private/bio/People/Writer/Molière.private.md) 
+
+### [Molière.personal](/_personal/bio/People/Writer/Molière.personal.md) 
+
+### [Molière.secret](/_secret/bio/People/Writer/Molière.secret.md)
+

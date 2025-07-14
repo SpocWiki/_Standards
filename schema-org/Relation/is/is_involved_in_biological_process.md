@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_involved_in_biological_process)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_involved_in_biological_process](/_public/schema-org/Relation/is/is_involved_in_biological_process.md) 
+### [is_involved_in_biological_process](/_Standards/schema-org/Relation/is/is_involved_in_biological_process.md) 
+
+### [is_involved_in_biological_process.public](/_public/schema-org/Relation/is/is_involved_in_biological_process.public.md) 
 
 ### [is_involved_in_biological_process.internal](/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_involved_in_biological_process.personal](/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal.md) 
 
-### [is_involved_in_biological_process.secret](/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret.md) 
+### [is_involved_in_biological_process.secret](/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret.md)
+

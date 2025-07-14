@@ -76,3 +76,22 @@ DSSTOX_compound_identifier: DTXCID5047661
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Headache)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Headache](/_Standards/bio/Medicine/Disease/Headache.md) 
+
+### [Headache.public](/_public/bio/Medicine/Disease/Headache.public.md) 
+
+### [Headache.internal](/_internal/bio/Medicine/Disease/Headache.internal.md) 
+
+### [Headache.protect](/_protect/bio/Medicine/Disease/Headache.protect.md) 
+
+### [Headache.private](/_private/bio/Medicine/Disease/Headache.private.md) 
+
+### [Headache.personal](/_personal/bio/Medicine/Disease/Headache.personal.md) 
+
+### [Headache.secret](/_secret/bio/Medicine/Disease/Headache.secret.md)
+

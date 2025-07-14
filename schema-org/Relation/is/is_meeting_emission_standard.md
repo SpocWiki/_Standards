@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_meeting_emission_standard )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_meeting_emission_standard](/_public/schema-org/Relation/is/is_meeting_emission_standard.md) 
+### [is_meeting_emission_standard](/_Standards/schema-org/Relation/is/is_meeting_emission_standard.md) 
+
+### [is_meeting_emission_standard.public](/_public/schema-org/Relation/is/is_meeting_emission_standard.public.md) 
 
 ### [is_meeting_emission_standard.internal](/_internal/schema-org/Relation/is/is_meeting_emission_standard.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_meeting_emission_standard.personal](/_personal/schema-org/Relation/is/is_meeting_emission_standard.personal.md) 
 
-### [is_meeting_emission_standard.secret](/_secret/schema-org/Relation/is/is_meeting_emission_standard.secret.md) 
+### [is_meeting_emission_standard.secret](/_secret/schema-org/Relation/is/is_meeting_emission_standard.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Not yet recruiting.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [not_yet_recruiting](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md) 
+### [not_yet_recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md) 
+
+### [not_yet_recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.public.md) 
 
 ### [not_yet_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.internal.md) 
 
@@ -56,4 +59,5 @@ Not yet recruiting.
 
 ### [not_yet_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.personal.md) 
 
-### [not_yet_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md) 
+### [not_yet_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md)
+

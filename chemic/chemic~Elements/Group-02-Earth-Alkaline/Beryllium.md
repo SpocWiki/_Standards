@@ -158,9 +158,12 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beryllium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Beryllium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.md) 
+### [Beryllium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.md) 
+
+### [Beryllium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.public.md) 
 
 ### [Beryllium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.internal.md) 
 
@@ -170,4 +173,5 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%
 
 ### [Beryllium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.personal.md) 
 
-### [Beryllium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.secret.md) 
+### [Beryllium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.secret.md)
+

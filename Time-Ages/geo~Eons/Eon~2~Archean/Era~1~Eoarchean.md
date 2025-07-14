@@ -78,10 +78,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~1~Eoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.md) 
+### [Era~1~Eoarchean](/_Standards/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.md) 
+
+### [Era~1~Eoarchean.public](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.public.md) 
 
 ### [Era~1~Eoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.internal.md) 
 
@@ -91,4 +92,5 @@ noteOnly: true
 
 ### [Era~1~Eoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.personal.md) 
 
-### [Era~1~Eoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.secret.md) 
+### [Era~1~Eoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.secret.md)
+

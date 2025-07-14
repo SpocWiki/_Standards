@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 [ #has_/properties :: [ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [schedule](/_public/schema-org/Class/is_a_/Intangible/schedule.md) 
+### [schedule](/_Standards/schema-org/Class/is_a_/Intangible/schedule.md) 
+
+### [schedule.public](/_public/schema-org/Class/is_a_/Intangible/schedule.public.md) 
 
 ### [schedule.internal](/_internal/schema-org/Class/is_a_/Intangible/schedule.internal.md) 
 
@@ -59,4 +62,5 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 ### [schedule.personal](/_personal/schema-org/Class/is_a_/Intangible/schedule.personal.md) 
 
-### [schedule.secret](/_secret/schema-org/Class/is_a_/Intangible/schedule.secret.md) 
+### [schedule.secret](/_secret/schema-org/Class/is_a_/Intangible/schedule.secret.md)
+

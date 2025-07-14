@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21932
 has_id_wikidata: Q876
@@ -116,9 +116,12 @@ CAS_Registry_Number: 7782-49-2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Selenium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Selenium](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.md) 
+### [Selenium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.md) 
+
+### [Selenium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.public.md) 
 
 ### [Selenium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.internal.md) 
 
@@ -128,4 +131,5 @@ CAS_Registry_Number: 7782-49-2
 
 ### [Selenium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.personal.md) 
 
-### [Selenium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.secret.md) 
+### [Selenium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Selenium.secret.md)
+

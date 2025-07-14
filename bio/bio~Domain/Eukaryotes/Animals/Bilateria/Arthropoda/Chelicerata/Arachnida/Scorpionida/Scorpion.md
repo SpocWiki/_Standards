@@ -99,3 +99,22 @@ Photograph copyright © Scott A. Stockwell.
 
 ![Buthoidea](buthoidea.jpg)
 Copyright ::   © 1988 Scott A. Stockwell
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scorpion](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.md) 
+
+### [Scorpion.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.public.md) 
+
+### [Scorpion.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.internal.md) 
+
+### [Scorpion.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.protect.md) 
+
+### [Scorpion.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.private.md) 
+
+### [Scorpion.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.personal.md) 
+
+### [Scorpion.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion.secret.md)
+

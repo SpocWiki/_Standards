@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Web page type: About page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AboutPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.md) 
+### [FileClass~AboutPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.md) 
+
+### [FileClass~AboutPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.public.md) 
 
 ### [FileClass~AboutPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.internal.md) 
 
@@ -46,4 +47,5 @@ Web page type: About page.
 
 ### [FileClass~AboutPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.personal.md) 
 
-### [FileClass~AboutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.secret.md) 
+### [FileClass~AboutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~AboutPage.secret.md)
+

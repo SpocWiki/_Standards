@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5994
 official_name: "gravicembalo col piano e forte"
 discoverer_or_inventor: "[[_Standards/WikiData/WD~Bartolomeo_Cristofori,301597]]"
@@ -48,4 +48,23 @@ Colon_Classification: NR;34
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Piano) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Piano](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Piano.md) 
+
+### [Piano.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Piano.public.md) 
+
+### [Piano.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Piano.internal.md) 
+
+### [Piano.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Piano.protect.md) 
+
+### [Piano.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Piano.private.md) 
+
+### [Piano.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Piano.personal.md) 
+
+### [Piano.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Piano.secret.md)
 

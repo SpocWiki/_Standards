@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_running_to)
 ( #has_/range :: Vessel)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_running_to](/_public/schema-org/Relation/is/is_running_to.md) 
+### [is_running_to](/_Standards/schema-org/Relation/is/is_running_to.md) 
+
+### [is_running_to.public](/_public/schema-org/Relation/is/is_running_to.public.md) 
 
 ### [is_running_to.internal](/_internal/schema-org/Relation/is/is_running_to.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_running_to.personal](/_personal/schema-org/Relation/is/is_running_to.personal.md) 
 
-### [is_running_to.secret](/_secret/schema-org/Relation/is/is_running_to.secret.md) 
+### [is_running_to.secret](/_secret/schema-org/Relation/is/is_running_to.secret.md)
+

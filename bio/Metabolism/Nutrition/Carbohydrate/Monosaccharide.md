@@ -43,3 +43,22 @@
 [[Monosaccharide/Fructose]] 
 [[Monosaccharide/Galactose]] 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Monosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.md) 
+
+### [Monosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.public.md) 
+
+### [Monosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.internal.md) 
+
+### [Monosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.protect.md) 
+
+### [Monosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.private.md) 
+
+### [Monosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.personal.md) 
+
+### [Monosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide.secret.md)
+

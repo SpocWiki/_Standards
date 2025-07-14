@@ -75,3 +75,22 @@ Creator              Photograph by Brother Alfred Brousseau
 Specimen Condition   Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gentianales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.md) 
+
+### [Gentianales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.public.md) 
+
+### [Gentianales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.internal.md) 
+
+### [Gentianales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.protect.md) 
+
+### [Gentianales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.private.md) 
+
+### [Gentianales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.personal.md) 
+
+### [Gentianales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Gentianales.secret.md)
+

@@ -245,3 +245,22 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pterotracheoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.md) 
+
+### [Pterotracheoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.public.md) 
+
+### [Pterotracheoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.internal.md) 
+
+### [Pterotracheoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.protect.md) 
+
+### [Pterotracheoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.private.md) 
+
+### [Pterotracheoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.personal.md) 
+
+### [Pterotracheoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea.secret.md)
+

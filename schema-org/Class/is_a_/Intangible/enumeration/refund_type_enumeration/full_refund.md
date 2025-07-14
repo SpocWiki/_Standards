@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [full_refund](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.md) 
+### [full_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.md) 
+
+### [full_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.public.md) 
 
 ### [full_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 ### [full_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.personal.md) 
 
-### [full_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.secret.md) 
+### [full_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/full_refund.secret.md)
+

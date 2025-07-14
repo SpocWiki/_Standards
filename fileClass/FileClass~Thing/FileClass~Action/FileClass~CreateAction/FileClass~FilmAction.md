@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,10 +34,11 @@ The act of capturing sound and moving images on film, video, or digitally.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FilmAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.md) 
+### [FileClass~FilmAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.md) 
+
+### [FileClass~FilmAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.public.md) 
 
 ### [FileClass~FilmAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.internal.md) 
 
@@ -47,4 +48,5 @@ The act of capturing sound and moving images on film, video, or digitally.
 
 ### [FileClass~FilmAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.personal.md) 
 
-### [FileClass~FilmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.secret.md) 
+### [FileClass~FilmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.secret.md)
+

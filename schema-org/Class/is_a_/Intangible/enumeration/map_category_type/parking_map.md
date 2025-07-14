@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A parking map.
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parking_map](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.md) 
+### [parking_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.md) 
+
+### [parking_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.public.md) 
 
 ### [parking_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.internal.md) 
 
@@ -56,4 +59,5 @@ A parking map.
 
 ### [parking_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.personal.md) 
 
-### [parking_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.secret.md) 
+### [parking_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.secret.md)
+

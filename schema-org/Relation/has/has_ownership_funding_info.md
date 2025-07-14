@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_ownership_funding_info](/_public/schema-org/Relation/has/has_ownership_funding_info.md) 
+### [has_ownership_funding_info](/_Standards/schema-org/Relation/has/has_ownership_funding_info.md) 
+
+### [has_ownership_funding_info.public](/_public/schema-org/Relation/has/has_ownership_funding_info.public.md) 
 
 ### [has_ownership_funding_info.internal](/_internal/schema-org/Relation/has/has_ownership_funding_info.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_ownership_funding_info.personal](/_personal/schema-org/Relation/has/has_ownership_funding_info.personal.md) 
 
-### [has_ownership_funding_info.secret](/_secret/schema-org/Relation/has/has_ownership_funding_info.secret.md) 
+### [has_ownership_funding_info.secret](/_secret/schema-org/Relation/has/has_ownership_funding_info.secret.md)
+

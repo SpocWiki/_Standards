@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_health_plan_coinsurance_rate )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_health_plan_coinsurance_rate](/_public/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.md) 
+### [has_value_for_health_plan_coinsurance_rate](/_Standards/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.md) 
+
+### [has_value_for_health_plan_coinsurance_rate.public](/_public/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.public.md) 
 
 ### [has_value_for_health_plan_coinsurance_rate.internal](/_internal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_health_plan_coinsurance_rate.personal](/_personal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.personal.md) 
 
-### [has_value_for_health_plan_coinsurance_rate.secret](/_secret/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.secret.md) 
+### [has_value_for_health_plan_coinsurance_rate.secret](/_secret/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.secret.md)
+

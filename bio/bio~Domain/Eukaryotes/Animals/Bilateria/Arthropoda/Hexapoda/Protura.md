@@ -96,3 +96,22 @@ Location ::           USA: North Carolina: Durham
 Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Protura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.md) 
+
+### [Protura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.public.md) 
+
+### [Protura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.internal.md) 
+
+### [Protura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.protect.md) 
+
+### [Protura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.private.md) 
+
+### [Protura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.personal.md) 
+
+### [Protura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura.secret.md)
+

@@ -1465,9 +1465,12 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/India)
 
+
 ## Confidential Links & Embeds: 
 
-### [India](/_public/Earth/Continent/Asia/Asia~South/India.md) 
+### [India](/_Standards/Earth/Continent/Asia/Asia~South/India.md) 
+
+### [India.public](/_public/Earth/Continent/Asia/Asia~South/India.public.md) 
 
 ### [India.internal](/_internal/Earth/Continent/Asia/Asia~South/India.internal.md) 
 
@@ -1477,4 +1480,5 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 ### [India.personal](/_personal/Earth/Continent/Asia/Asia~South/India.personal.md) 
 
-### [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md) 
+### [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md)
+

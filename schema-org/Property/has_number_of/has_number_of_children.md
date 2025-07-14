@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_children )
 ( #has_/range :: Integer, QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_children](/_public/schema-org/Property/has_number_of/has_number_of_children.md) 
+### [has_number_of_children](/_Standards/schema-org/Property/has_number_of/has_number_of_children.md) 
+
+### [has_number_of_children.public](/_public/schema-org/Property/has_number_of/has_number_of_children.public.md) 
 
 ### [has_number_of_children.internal](/_internal/schema-org/Property/has_number_of/has_number_of_children.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_children.personal](/_personal/schema-org/Property/has_number_of/has_number_of_children.personal.md) 
 
-### [has_number_of_children.secret](/_secret/schema-org/Property/has_number_of/has_number_of_children.secret.md) 
+### [has_number_of_children.secret](/_secret/schema-org/Property/has_number_of/has_number_of_children.secret.md)
+

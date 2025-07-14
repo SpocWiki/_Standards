@@ -108,9 +108,12 @@ UNII: W1XX32SQN1
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holmium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Holmium](/_public/chemic/chemic~Elements/Lanthanide-Group/Holmium.md) 
+### [Holmium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Holmium.md) 
+
+### [Holmium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Holmium.public.md) 
 
 ### [Holmium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Holmium.internal.md) 
 
@@ -120,4 +123,5 @@ UNII: W1XX32SQN1
 
 ### [Holmium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Holmium.personal.md) 
 
-### [Holmium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Holmium.secret.md) 
+### [Holmium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Holmium.secret.md)
+

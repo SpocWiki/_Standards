@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Status of a game server.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [game_server_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.md) 
+### [game_server_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.md) 
+
+### [game_server_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.public.md) 
 
 ### [game_server_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.internal.md) 
 
@@ -52,4 +55,5 @@ Status of a game server.
 
 ### [game_server_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.personal.md) 
 
-### [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md) 
+### [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md)
+

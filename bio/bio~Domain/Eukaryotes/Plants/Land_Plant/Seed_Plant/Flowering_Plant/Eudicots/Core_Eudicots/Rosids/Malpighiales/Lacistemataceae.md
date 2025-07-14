@@ -105,3 +105,22 @@ Location ::        Panama: Barro Colorado Island
 Creator           Steven Paton
 Copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:patons@si.edu)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lacistemataceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.md) 
+
+### [Lacistemataceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.public.md) 
+
+### [Lacistemataceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.internal.md) 
+
+### [Lacistemataceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.protect.md) 
+
+### [Lacistemataceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.private.md) 
+
+### [Lacistemataceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.personal.md) 
+
+### [Lacistemataceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malpighiales/Lacistemataceae.secret.md)
+

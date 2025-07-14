@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21933
 has_id_wikidata: Q879
@@ -125,9 +125,12 @@ Unicode_character: 溴
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bromine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bromine](/_public/chemic/chemic~Elements/Group-17-Halogene/Bromine.md) 
+### [Bromine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Bromine.md) 
+
+### [Bromine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Bromine.public.md) 
 
 ### [Bromine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Bromine.internal.md) 
 
@@ -137,4 +140,5 @@ Unicode_character: 溴
 
 ### [Bromine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Bromine.personal.md) 
 
-### [Bromine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Bromine.secret.md) 
+### [Bromine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Bromine.secret.md)
+

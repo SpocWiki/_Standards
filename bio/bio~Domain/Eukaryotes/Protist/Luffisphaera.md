@@ -48,3 +48,21 @@ from Belize (Central America) and Tenerife (Canary Islands), with
 descriptions of new species, Liffisphaera bulbochaete n. sp., L.
 longihastis n. sp., L. turriformis n. sp., and Paulinella intermedia n.
 sp. Journal of Eukaryotic Microbiology 40(3):272-287.
+
+
+## Confidential Links & Embeds: 
+
+### [Luffisphaera](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.md) 
+
+### [Luffisphaera.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.public.md) 
+
+### [Luffisphaera.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.internal.md) 
+
+### [Luffisphaera.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.protect.md) 
+
+### [Luffisphaera.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.private.md) 
+
+### [Luffisphaera.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.personal.md) 
+
+### [Luffisphaera.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Luffisphaera.secret.md)
+

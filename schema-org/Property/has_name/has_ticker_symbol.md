@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_ticker_symbol )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_ticker_symbol](/_public/schema-org/Property/has_name/has_ticker_symbol.md) 
+### [has_ticker_symbol](/_Standards/schema-org/Property/has_name/has_ticker_symbol.md) 
+
+### [has_ticker_symbol.public](/_public/schema-org/Property/has_name/has_ticker_symbol.public.md) 
 
 ### [has_ticker_symbol.internal](/_internal/schema-org/Property/has_name/has_ticker_symbol.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_ticker_symbol.personal](/_personal/schema-org/Property/has_name/has_ticker_symbol.personal.md) 
 
-### [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md) 
+### [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md)
+

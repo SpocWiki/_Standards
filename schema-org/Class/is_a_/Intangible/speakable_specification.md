@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 [ #has_/properties :: [ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [speakable_specification](/_public/schema-org/Class/is_a_/Intangible/speakable_specification.md) 
+### [speakable_specification](/_Standards/schema-org/Class/is_a_/Intangible/speakable_specification.md) 
+
+### [speakable_specification.public](/_public/schema-org/Class/is_a_/Intangible/speakable_specification.public.md) 
 
 ### [speakable_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/speakable_specification.internal.md) 
 
@@ -54,4 +57,5 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 ### [speakable_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/speakable_specification.personal.md) 
 
-### [speakable_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/speakable_specification.secret.md) 
+### [speakable_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/speakable_specification.secret.md)
+

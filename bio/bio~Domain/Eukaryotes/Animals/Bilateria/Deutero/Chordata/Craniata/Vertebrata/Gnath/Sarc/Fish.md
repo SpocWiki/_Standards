@@ -99,3 +99,22 @@ Krugosvet article: biologiya/ryby
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fish) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fish](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.md) 
+
+### [Fish.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.public.md) 
+
+### [Fish.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.internal.md) 
+
+### [Fish.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.protect.md) 
+
+### [Fish.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.private.md) 
+
+### [Fish.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.personal.md) 
+
+### [Fish.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Fish.secret.md)
+

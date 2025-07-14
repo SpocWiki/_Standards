@@ -157,11 +157,11 @@ time_of_discovery_or_invention: "1783"
 > [Wikipedia](https://en.wikipedia.org/wiki/Tungsten)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Tungsten](/_public/chemic/chemic~Elements/Group-06-Chromium/Tungsten.md) 
+### [Tungsten](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Tungsten.md) 
+
+### [Tungsten.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Tungsten.public.md) 
 
 ### [Tungsten.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Tungsten.internal.md) 
 
@@ -171,4 +171,5 @@ time_of_discovery_or_invention: "1783"
 
 ### [Tungsten.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Tungsten.personal.md) 
 
-### [Tungsten.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Tungsten.secret.md) 
+### [Tungsten.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Tungsten.secret.md)
+

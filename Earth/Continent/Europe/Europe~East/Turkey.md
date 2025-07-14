@@ -693,10 +693,11 @@ Capital :: [[Istanbul]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkey) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Turkey](/_public/Earth/Continent/Europe/Europe~East/Turkey.md) 
+### [Turkey](/_Standards/Earth/Continent/Europe/Europe~East/Turkey.md) 
+
+### [Turkey.public](/_public/Earth/Continent/Europe/Europe~East/Turkey.public.md) 
 
 ### [Turkey.internal](/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal.md) 
 
@@ -706,4 +707,5 @@ Capital :: [[Istanbul]]
 
 ### [Turkey.personal](/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal.md) 
 
-### [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md) 
+### [Turkey.secret](/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret.md)
+

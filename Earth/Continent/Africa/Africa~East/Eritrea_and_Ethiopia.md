@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.03,38.74]
 type: Country
 tags:
@@ -39,10 +39,11 @@ Capital :: [[Addis_Abeba]]
 [has_place_latitude::9.03]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Eritrea_and_Ethiopia](/_public/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.md) 
+### [Eritrea_and_Ethiopia](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.md) 
+
+### [Eritrea_and_Ethiopia.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.public.md) 
 
 ### [Eritrea_and_Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.internal.md) 
 
@@ -52,4 +53,5 @@ Capital :: [[Addis_Abeba]]
 
 ### [Eritrea_and_Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.personal.md) 
 
-### [Eritrea_and_Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.secret.md) 
+### [Eritrea_and_Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea_and_Ethiopia.secret.md)
+

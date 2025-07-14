@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,10 +35,11 @@ An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out somethin
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OfferForLease](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.md) 
+### [FileClass~OfferForLease](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.md) 
+
+### [FileClass~OfferForLease.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.public.md) 
 
 ### [FileClass~OfferForLease.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.internal.md) 
 
@@ -48,4 +49,5 @@ An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out somethin
 
 ### [FileClass~OfferForLease.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.personal.md) 
 
-### [FileClass~OfferForLease.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret.md) 
+### [FileClass~OfferForLease.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret.md)
+

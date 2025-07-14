@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mount Kilimanjaro"
 has_id_wikidata: Q7296
@@ -50,4 +50,23 @@ Libris_URI: gdsvtjz04dk2szm
 > One of several mountains arising from the East African Rift, Kilimanjaro was formed from volcanic activity over 2 million years ago. Its slopes host montane forests and cloud forests. Multiple species are endemic to Mount Kilimanjaro, including the giant groundsel Dendrosenecio kilimanjari. The mountain possesses a large ice cap and the largest glaciers in Africa, including Credner Glacier, Furtwängler Glacier, and the Rebmann Glacier. This ice cap is rapidly shrinking, with over 80% lost in the 20th century. The cap is projected to disappear entirely by the mid-21st century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mount%20Kilimanjaro) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mount_Kilimanjaro](/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.md) 
+
+### [Mount_Kilimanjaro.public](/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public.md) 
+
+### [Mount_Kilimanjaro.internal](/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal.md) 
+
+### [Mount_Kilimanjaro.protect](/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect.md) 
+
+### [Mount_Kilimanjaro.private](/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private.md) 
+
+### [Mount_Kilimanjaro.personal](/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal.md) 
+
+### [Mount_Kilimanjaro.secret](/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret.md)
 

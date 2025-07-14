@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -89,10 +89,11 @@ The number of pages in the book.
 NumberOfPages:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Book](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.md) 
+### [FileClass~Book](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.md) 
+
+### [FileClass~Book.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.public.md) 
 
 ### [FileClass~Book.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.internal.md) 
 
@@ -102,4 +103,5 @@ NumberOfPages:: {"type":"Number","options":{}}
 
 ### [FileClass~Book.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.personal.md) 
 
-### [FileClass~Book.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.secret.md) 
+### [FileClass~Book.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Book.secret.md)
+

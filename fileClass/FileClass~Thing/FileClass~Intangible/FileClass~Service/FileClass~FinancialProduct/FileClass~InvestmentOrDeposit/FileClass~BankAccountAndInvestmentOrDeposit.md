@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -70,7 +70,9 @@ BankAccountType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BankAccountAndInvestmentOrDeposit](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.md) 
+### [FileClass~BankAccountAndInvestmentOrDeposit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.md) 
+
+### [FileClass~BankAccountAndInvestmentOrDeposit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.public.md) 
 
 ### [FileClass~BankAccountAndInvestmentOrDeposit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.internal.md) 
 
@@ -80,4 +82,5 @@ BankAccountType:: {"type":"Input","options":{}}
 
 ### [FileClass~BankAccountAndInvestmentOrDeposit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.personal.md) 
 
-### [FileClass~BankAccountAndInvestmentOrDeposit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.secret.md) 
+### [FileClass~BankAccountAndInvestmentOrDeposit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.secret.md)
+

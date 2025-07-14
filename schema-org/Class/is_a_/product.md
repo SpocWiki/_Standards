@@ -70,9 +70,12 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 [ #has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, size, sku, slogan, subjectOf, url, weight, width ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [product](/_public/schema-org/Class/is_a_/product.md) 
+### [product](/_Standards/schema-org/Class/is_a_/product.md) 
+
+### [product.public](/_public/schema-org/Class/is_a_/product.public.md) 
 
 ### [product.internal](/_internal/schema-org/Class/is_a_/product.internal.md) 
 
@@ -82,4 +85,5 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 ### [product.personal](/_personal/schema-org/Class/is_a_/product.personal.md) 
 
-### [product.secret](/_secret/schema-org/Class/is_a_/product.secret.md) 
+### [product.secret](/_secret/schema-org/Class/is_a_/product.secret.md)
+

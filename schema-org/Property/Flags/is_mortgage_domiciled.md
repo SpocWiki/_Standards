@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_mortgage_domiciled )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_mortgage_domiciled](/_public/schema-org/Property/Flags/is_mortgage_domiciled.md) 
+### [is_mortgage_domiciled](/_Standards/schema-org/Property/Flags/is_mortgage_domiciled.md) 
+
+### [is_mortgage_domiciled.public](/_public/schema-org/Property/Flags/is_mortgage_domiciled.public.md) 
 
 ### [is_mortgage_domiciled.internal](/_internal/schema-org/Property/Flags/is_mortgage_domiciled.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_mortgage_domiciled.personal](/_personal/schema-org/Property/Flags/is_mortgage_domiciled.personal.md) 
 
-### [is_mortgage_domiciled.secret](/_secret/schema-org/Property/Flags/is_mortgage_domiciled.secret.md) 
+### [is_mortgage_domiciled.secret](/_secret/schema-org/Property/Flags/is_mortgage_domiciled.secret.md)
+

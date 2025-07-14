@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A mosque.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Mosque](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.md) 
+### [FileClass~Mosque](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.md) 
+
+### [FileClass~Mosque.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.public.md) 
 
 ### [FileClass~Mosque.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.internal.md) 
 
@@ -46,4 +47,5 @@ A mosque.
 
 ### [FileClass~Mosque.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.personal.md) 
 
-### [FileClass~Mosque.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.secret.md) 
+### [FileClass~Mosque.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Mosque.secret.md)
+

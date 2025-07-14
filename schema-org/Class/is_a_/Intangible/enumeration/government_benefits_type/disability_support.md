@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ DisabilitySupport: this is a benefit for disability support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [disability_support](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.md) 
+### [disability_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.md) 
+
+### [disability_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.public.md) 
 
 ### [disability_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.internal.md) 
 
@@ -58,4 +61,5 @@ DisabilitySupport: this is a benefit for disability support.
 
 ### [disability_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.personal.md) 
 
-### [disability_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.secret.md) 
+### [disability_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/disability_support.secret.md)
+

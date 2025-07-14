@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item has limited availability.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [limited_availability](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.md) 
+### [limited_availability](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.md) 
+
+### [limited_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.public.md) 
 
 ### [limited_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item has limited availability.
 
 ### [limited_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.personal.md) 
 
-### [limited_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.secret.md) 
+### [limited_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/limited_availability.secret.md)
+

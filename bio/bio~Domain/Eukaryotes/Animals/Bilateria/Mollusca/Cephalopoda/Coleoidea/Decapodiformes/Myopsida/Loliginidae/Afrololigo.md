@@ -110,3 +110,22 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   View                 Ventral
   Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   ------------------------------------------------------------------------------::::::::::::::::::::::
+
+
+
+## Confidential Links & Embeds: 
+
+### [Afrololigo](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.md) 
+
+### [Afrololigo.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.public.md) 
+
+### [Afrololigo.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.internal.md) 
+
+### [Afrololigo.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.protect.md) 
+
+### [Afrololigo.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.private.md) 
+
+### [Afrololigo.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.personal.md) 
+
+### [Afrololigo.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Afrololigo.secret.md)
+

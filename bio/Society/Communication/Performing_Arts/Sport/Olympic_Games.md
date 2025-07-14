@@ -165,3 +165,22 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 2034 | [[../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Salt_Lake_City]]              |  W  | 2034-02-10 | 2034-02-26 |
 | 2028 |                                                                                   |                                 |     |            |            |
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Olympic_Games](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.md) 
+
+### [Olympic_Games.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.public.md) 
+
+### [Olympic_Games.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.internal.md) 
+
+### [Olympic_Games.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.protect.md) 
+
+### [Olympic_Games.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.private.md) 
+
+### [Olympic_Games.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.personal.md) 
+
+### [Olympic_Games.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Olympic_Games.secret.md)
+

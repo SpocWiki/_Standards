@@ -137,3 +137,22 @@ rationale for this restructuring.
 copyright © 1998 H.Proctor & D.Walter.
 ![cunaxa](cunaxa.gif)
 Copyright ::   © 1998 [Heather Proctor](http://www.biology.ualberta.ca/faculty/heather_proctor/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Trombidiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.md) 
+
+### [Trombidiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.public.md) 
+
+### [Trombidiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.internal.md) 
+
+### [Trombidiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.protect.md) 
+
+### [Trombidiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.private.md) 
+
+### [Trombidiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.personal.md) 
+
+### [Trombidiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Acariformes/Trombidiformes.secret.md)
+

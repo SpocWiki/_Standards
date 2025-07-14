@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ CassetteFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cassette_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.md) 
+### [cassette_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.md) 
+
+### [cassette_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.public.md) 
 
 ### [cassette_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.internal.md) 
 
@@ -56,4 +59,5 @@ CassetteFormat.
 
 ### [cassette_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.personal.md) 
 
-### [cassette_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.secret.md) 
+### [cassette_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/cassette_format.secret.md)
+

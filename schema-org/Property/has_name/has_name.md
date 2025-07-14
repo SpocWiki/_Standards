@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_name](/_public/schema-org/Property/has_name/has_name.md) 
+### [has_name](/_Standards/schema-org/Property/has_name/has_name.md) 
+
+### [has_name.public](/_public/schema-org/Property/has_name/has_name.public.md) 
 
 ### [has_name.internal](/_internal/schema-org/Property/has_name/has_name.internal.md) 
 
@@ -57,4 +60,5 @@ Predicated describes that:
 
 ### [has_name.personal](/_personal/schema-org/Property/has_name/has_name.personal.md) 
 
-### [has_name.secret](/_secret/schema-org/Property/has_name/has_name.secret.md) 
+### [has_name.secret](/_secret/schema-org/Property/has_name/has_name.secret.md)
+

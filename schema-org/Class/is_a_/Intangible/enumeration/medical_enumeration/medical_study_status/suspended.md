@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Suspended.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [suspended](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.md) 
+### [suspended](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.md) 
+
+### [suspended.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.public.md) 
 
 ### [suspended.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.internal.md) 
 
@@ -56,4 +59,5 @@ Suspended.
 
 ### [suspended.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.personal.md) 
 
-### [suspended.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.secret.md) 
+### [suspended.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/suspended.secret.md)
+

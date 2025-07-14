@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ The status of a medical study. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_study_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
+### [medical_study_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.md) 
+
+### [medical_study_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.public.md) 
 
 ### [medical_study_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.internal.md) 
 
@@ -52,4 +55,5 @@ The status of a medical study. Enumerated type.
 
 ### [medical_study_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.personal.md) 
 
-### [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md) 
+### [medical_study_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status.secret.md)
+

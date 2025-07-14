@@ -214,3 +214,22 @@ Commons_category: "Ernest Rutherford"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Rutherford)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rutherford,Ernest](/_Standards/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.md) 
+
+### [Rutherford,Ernest.public](/_public/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.public.md) 
+
+### [Rutherford,Ernest.internal](/_internal/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.internal.md) 
+
+### [Rutherford,Ernest.protect](/_protect/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.protect.md) 
+
+### [Rutherford,Ernest.private](/_private/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.private.md) 
+
+### [Rutherford,Ernest.personal](/_personal/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.personal.md) 
+
+### [Rutherford,Ernest.secret](/_secret/bio/People/Scientist/Modern_Scientists/Rutherford,Ernest.secret.md)
+

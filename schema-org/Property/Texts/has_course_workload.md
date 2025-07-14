@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_course_workload )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_course_workload](/_public/schema-org/Property/Texts/has_course_workload.md) 
+### [has_course_workload](/_Standards/schema-org/Property/Texts/has_course_workload.md) 
+
+### [has_course_workload.public](/_public/schema-org/Property/Texts/has_course_workload.public.md) 
 
 ### [has_course_workload.internal](/_internal/schema-org/Property/Texts/has_course_workload.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_course_workload.personal](/_personal/schema-org/Property/Texts/has_course_workload.personal.md) 
 
-### [has_course_workload.secret](/_secret/schema-org/Property/Texts/has_course_workload.secret.md) 
+### [has_course_workload.secret](/_secret/schema-org/Property/Texts/has_course_workload.secret.md)
+

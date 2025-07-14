@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_location_contained_in )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_contained_in](/_public/schema-org/Property/has_location/has_location_contained_in.md) 
+### [has_location_contained_in](/_Standards/schema-org/Property/has_location/has_location_contained_in.md) 
+
+### [has_location_contained_in.public](/_public/schema-org/Property/has_location/has_location_contained_in.public.md) 
 
 ### [has_location_contained_in.internal](/_internal/schema-org/Property/has_location/has_location_contained_in.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_location_contained_in.personal](/_personal/schema-org/Property/has_location/has_location_contained_in.personal.md) 
 
-### [has_location_contained_in.secret](/_secret/schema-org/Property/has_location/has_location_contained_in.secret.md) 
+### [has_location_contained_in.secret](/_secret/schema-org/Property/has_location/has_location_contained_in.secret.md)
+

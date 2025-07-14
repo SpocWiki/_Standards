@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [percutaneous_procedure](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
+### [percutaneous_procedure](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
+
+### [percutaneous_procedure.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.public.md) 
 
 ### [percutaneous_procedure.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md) 
 
@@ -56,4 +59,5 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 ### [percutaneous_procedure.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md) 
 
-### [percutaneous_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md) 
+### [percutaneous_procedure.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A tennis complex.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TennisComplex](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.md) 
+### [FileClass~TennisComplex](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.md) 
+
+### [FileClass~TennisComplex.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.public.md) 
 
 ### [FileClass~TennisComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.internal.md) 
 
@@ -46,4 +47,5 @@ A tennis complex.
 
 ### [FileClass~TennisComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.personal.md) 
 
-### [FileClass~TennisComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.secret.md) 
+### [FileClass~TennisComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~TennisComplex.secret.md)
+

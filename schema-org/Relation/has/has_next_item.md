@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,13 @@ This Relation describes that:
 ( #has_/range :: ListItem )
 
 #is_/inverse_of :: [[has_previous_item]] 
+
+
 ## Confidential Links & Embeds: 
 
-### [has_next_item](/_public/schema-org/Relation/has/has_next_item.md) 
+### [has_next_item](/_Standards/schema-org/Relation/has/has_next_item.md) 
+
+### [has_next_item.public](/_public/schema-org/Relation/has/has_next_item.public.md) 
 
 ### [has_next_item.internal](/_internal/schema-org/Relation/has/has_next_item.internal.md) 
 
@@ -56,4 +60,5 @@ This Relation describes that:
 
 ### [has_next_item.personal](/_personal/schema-org/Relation/has/has_next_item.personal.md) 
 
-### [has_next_item.secret](/_secret/schema-org/Relation/has/has_next_item.secret.md) 
+### [has_next_item.secret](/_secret/schema-org/Relation/has/has_next_item.secret.md)
+

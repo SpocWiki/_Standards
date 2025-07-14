@@ -428,7 +428,9 @@ Capital :: [[Malabo]]
 
 ## Confidential Links & Embeds: 
 
-### [Equatorial_Guinea](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.md) 
+### [Equatorial_Guinea](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.md) 
+
+### [Equatorial_Guinea.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public.md) 
 
 ### [Equatorial_Guinea.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal.md) 
 
@@ -438,4 +440,5 @@ Capital :: [[Malabo]]
 
 ### [Equatorial_Guinea.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal.md) 
 
-### [Equatorial_Guinea.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret.md) 
+### [Equatorial_Guinea.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret.md)
+

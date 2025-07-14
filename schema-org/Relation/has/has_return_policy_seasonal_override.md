@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_return_policy_seasonal_override )
 ( #has_/range :: MerchantReturnPolicySeasonalOverride )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_return_policy_seasonal_override](/_public/schema-org/Relation/has/has_return_policy_seasonal_override.md) 
+### [has_return_policy_seasonal_override](/_Standards/schema-org/Relation/has/has_return_policy_seasonal_override.md) 
+
+### [has_return_policy_seasonal_override.public](/_public/schema-org/Relation/has/has_return_policy_seasonal_override.public.md) 
 
 ### [has_return_policy_seasonal_override.internal](/_internal/schema-org/Relation/has/has_return_policy_seasonal_override.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_return_policy_seasonal_override.personal](/_personal/schema-org/Relation/has/has_return_policy_seasonal_override.personal.md) 
 
-### [has_return_policy_seasonal_override.secret](/_secret/schema-org/Relation/has/has_return_policy_seasonal_override.secret.md) 
+### [has_return_policy_seasonal_override.secret](/_secret/schema-org/Relation/has/has_return_policy_seasonal_override.secret.md)
+

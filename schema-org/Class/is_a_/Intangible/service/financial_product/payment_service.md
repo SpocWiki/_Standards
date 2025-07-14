@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_service](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.md) 
+### [payment_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.md) 
+
+### [payment_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.public.md) 
 
 ### [payment_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.internal.md) 
 
@@ -54,4 +57,5 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 ### [payment_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.personal.md) 
 
-### [payment_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.secret.md) 
+### [payment_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/payment_service.secret.md)
+

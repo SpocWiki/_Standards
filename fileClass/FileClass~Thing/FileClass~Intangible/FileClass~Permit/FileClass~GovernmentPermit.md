@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A permit issued by a government agency.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GovernmentPermit](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.md) 
+### [FileClass~GovernmentPermit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.md) 
+
+### [FileClass~GovernmentPermit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.public.md) 
 
 ### [FileClass~GovernmentPermit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.internal.md) 
 
@@ -46,4 +47,5 @@ A permit issued by a government agency.
 
 ### [FileClass~GovernmentPermit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.personal.md) 
 
-### [FileClass~GovernmentPermit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.secret.md) 
+### [FileClass~GovernmentPermit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Permit/FileClass~GovernmentPermit.secret.md)
+

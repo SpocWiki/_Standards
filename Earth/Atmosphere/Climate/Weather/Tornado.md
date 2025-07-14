@@ -52,3 +52,22 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/F5%20tornado%20Elie%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tornado)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tornado](/_Standards/Earth/Atmosphere/Climate/Weather/Tornado.md) 
+
+### [Tornado.public](/_public/Earth/Atmosphere/Climate/Weather/Tornado.public.md) 
+
+### [Tornado.internal](/_internal/Earth/Atmosphere/Climate/Weather/Tornado.internal.md) 
+
+### [Tornado.protect](/_protect/Earth/Atmosphere/Climate/Weather/Tornado.protect.md) 
+
+### [Tornado.private](/_private/Earth/Atmosphere/Climate/Weather/Tornado.private.md) 
+
+### [Tornado.personal](/_personal/Earth/Atmosphere/Climate/Weather/Tornado.personal.md) 
+
+### [Tornado.secret](/_secret/Earth/Atmosphere/Climate/Weather/Tornado.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ The item is dangerous and requires careful handling and/or special training of t
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dangerous_good_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.md) 
+### [dangerous_good_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.md) 
+
+### [dangerous_good_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.public.md) 
 
 ### [dangerous_good_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ The item is dangerous and requires careful handling and/or special training of t
 
 ### [dangerous_good_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.personal.md) 
 
-### [dangerous_good_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.secret.md) 
+### [dangerous_good_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.secret.md)
+

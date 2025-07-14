@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 
 [ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.md) 
+### [nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.md) 
+
+### [nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.public.md) 
 
 ### [nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.internal.md) 
 
@@ -56,4 +59,5 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 
 ### [nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.personal.md) 
 
-### [nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.secret.md) 
+### [nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.secret.md)
+

@@ -598,10 +598,11 @@ Capital :: [[Colombia/Counties/Bogota/City/Bogota]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Colombia) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Colombia](/_public/Earth/Continent/America~South/Colombia.md) 
+### [Colombia](/_Standards/Earth/Continent/America~South/Colombia.md) 
+
+### [Colombia.public](/_public/Earth/Continent/America~South/Colombia.public.md) 
 
 ### [Colombia.internal](/_internal/Earth/Continent/America~South/Colombia.internal.md) 
 
@@ -611,4 +612,5 @@ Capital :: [[Colombia/Counties/Bogota/City/Bogota]]
 
 ### [Colombia.personal](/_personal/Earth/Continent/America~South/Colombia.personal.md) 
 
-### [Colombia.secret](/_secret/Earth/Continent/America~South/Colombia.secret.md) 
+### [Colombia.secret](/_secret/Earth/Continent/America~South/Colombia.secret.md)
+

@@ -243,3 +243,22 @@ burrowing habits. (based on Janvier 1985a,b; Mark-Kurik & Janvier 1995)
 ![](osteostraci.gif)
 Copyright ::   © 1997 Philippe Janvier
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Osteostraci](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.md) 
+
+### [Osteostraci.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.public.md) 
+
+### [Osteostraci.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.internal.md) 
+
+### [Osteostraci.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.protect.md) 
+
+### [Osteostraci.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.private.md) 
+
+### [Osteostraci.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.personal.md) 
+
+### [Osteostraci.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Osteostraci.secret.md)
+

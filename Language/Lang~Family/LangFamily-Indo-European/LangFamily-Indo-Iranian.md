@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q33527
 aliases:
 - "Iranian languages"
@@ -32,4 +32,23 @@ WALS_genus_code: iranian
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [LangFamily-Indo-Iranian](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
+
+### [LangFamily-Indo-Iranian.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
+
+### [LangFamily-Indo-Iranian.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
+
+### [LangFamily-Indo-Iranian.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
+
+### [LangFamily-Indo-Iranian.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
+
+### [LangFamily-Indo-Iranian.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
+
+### [LangFamily-Indo-Iranian.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
 

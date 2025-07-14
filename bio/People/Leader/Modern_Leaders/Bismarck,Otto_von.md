@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Otto von Bismarck"
 - "Otto Eduard Leopold von Bismarck"
@@ -201,3 +201,21 @@ place_of_birth: "[[_Standards/WikiData/WD~Schönhausen_(Elbe),59974]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Otto%20von%20Bismarck)
 > 
+
+
+## Confidential Links & Embeds: 
+
+### [Bismarck,Otto_von](/_Standards/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.md) 
+
+### [Bismarck,Otto_von.public](/_public/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.public.md) 
+
+### [Bismarck,Otto_von.internal](/_internal/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.internal.md) 
+
+### [Bismarck,Otto_von.protect](/_protect/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.protect.md) 
+
+### [Bismarck,Otto_von.private](/_private/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.private.md) 
+
+### [Bismarck,Otto_von.personal](/_personal/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.personal.md) 
+
+### [Bismarck,Otto_von.secret](/_secret/bio/People/Leader/Modern_Leaders/Bismarck,Otto_von.secret.md)
+

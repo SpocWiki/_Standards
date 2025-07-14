@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [on_site_pickup](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.md) 
+### [on_site_pickup](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.md) 
+
+### [on_site_pickup.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.public.md) 
 
 ### [on_site_pickup.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.internal.md) 
 
@@ -56,4 +59,5 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 ### [on_site_pickup.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.personal.md) 
 
-### [on_site_pickup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.secret.md) 
+### [on_site_pickup.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/on_site_pickup.secret.md)
+

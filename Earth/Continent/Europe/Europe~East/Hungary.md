@@ -646,9 +646,12 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hungary)
 
+
 ## Confidential Links & Embeds: 
 
-### [Hungary](/_public/Earth/Continent/Europe/Europe~East/Hungary.md) 
+### [Hungary](/_Standards/Earth/Continent/Europe/Europe~East/Hungary.md) 
+
+### [Hungary.public](/_public/Earth/Continent/Europe/Europe~East/Hungary.public.md) 
 
 ### [Hungary.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary.internal.md) 
 
@@ -658,4 +661,5 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 
 ### [Hungary.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary.personal.md) 
 
-### [Hungary.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary.secret.md) 
+### [Hungary.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_vehicle_first_registered)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_vehicle_first_registered](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
+### [has_time_vehicle_first_registered](/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
+
+### [has_time_vehicle_first_registered.public](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public.md) 
 
 ### [has_time_vehicle_first_registered.internal](/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_vehicle_first_registered.personal](/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal.md) 
 
-### [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md) 
+### [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md)
+

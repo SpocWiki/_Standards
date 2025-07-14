@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_including_object)
 ( #has_/range :: TypeAndQuantityNode)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_including_object](/_public/schema-org/Relation/is/is_including_object.md) 
+### [is_including_object](/_Standards/schema-org/Relation/is/is_including_object.md) 
+
+### [is_including_object.public](/_public/schema-org/Relation/is/is_including_object.public.md) 
 
 ### [is_including_object.internal](/_internal/schema-org/Relation/is/is_including_object.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_including_object.personal](/_personal/schema-org/Relation/is/is_including_object.personal.md) 
 
-### [is_including_object.secret](/_secret/schema-org/Relation/is/is_including_object.secret.md) 
+### [is_including_object.secret](/_secret/schema-org/Relation/is/is_including_object.secret.md)
+

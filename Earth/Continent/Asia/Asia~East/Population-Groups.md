@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 confidential: private
 isDeleted: false
@@ -57,7 +57,9 @@ Highest Productivity
 
 ## Confidential Links & Embeds: 
 
-### [Population-Groups](/_public/Earth/Continent/Asia/Asia~East/Population-Groups.md) 
+### [Population-Groups](/_Standards/Earth/Continent/Asia/Asia~East/Population-Groups.md) 
+
+### [Population-Groups.public](/_public/Earth/Continent/Asia/Asia~East/Population-Groups.public.md) 
 
 ### [Population-Groups.internal](/_internal/Earth/Continent/Asia/Asia~East/Population-Groups.internal.md) 
 
@@ -67,4 +69,5 @@ Highest Productivity
 
 ### [Population-Groups.personal](/_personal/Earth/Continent/Asia/Asia~East/Population-Groups.personal.md) 
 
-### [Population-Groups.secret](/_secret/Earth/Continent/Asia/Asia~East/Population-Groups.secret.md) 
+### [Population-Groups.secret](/_secret/Earth/Continent/Asia/Asia~East/Population-Groups.secret.md)
+

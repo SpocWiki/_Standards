@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_billing_start )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_billing_start](/_public/schema-org/Property/has_value_for/has_value_for_billing_start.md) 
+### [has_value_for_billing_start](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_start.md) 
+
+### [has_value_for_billing_start.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_start.public.md) 
 
 ### [has_value_for_billing_start.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_start.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_billing_start.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_start.personal.md) 
 
-### [has_value_for_billing_start.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret.md) 
+### [has_value_for_billing_start.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,10 +35,11 @@ Wanderer".
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicSeries](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.md) 
+### [FileClass~ComicSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.md) 
+
+### [FileClass~ComicSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.public.md) 
 
 ### [FileClass~ComicSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.internal.md) 
 
@@ -48,4 +49,5 @@ Wanderer".
 
 ### [FileClass~ComicSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.personal.md) 
 
-### [FileClass~ComicSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.secret.md) 
+### [FileClass~ComicSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical/FileClass~ComicSeries.secret.md)
+

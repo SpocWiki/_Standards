@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -59,9 +59,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_measurement_technique )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_measurement_technique](/_public/schema-org/Property/Texts/has_measurement_technique.md) 
+### [has_measurement_technique](/_Standards/schema-org/Property/Texts/has_measurement_technique.md) 
+
+### [has_measurement_technique.public](/_public/schema-org/Property/Texts/has_measurement_technique.public.md) 
 
 ### [has_measurement_technique.internal](/_internal/schema-org/Property/Texts/has_measurement_technique.internal.md) 
 
@@ -71,4 +74,5 @@ Predicated describes that:
 
 ### [has_measurement_technique.personal](/_personal/schema-org/Property/Texts/has_measurement_technique.personal.md) 
 
-### [has_measurement_technique.secret](/_secret/schema-org/Property/Texts/has_measurement_technique.secret.md) 
+### [has_measurement_technique.secret](/_secret/schema-org/Property/Texts/has_measurement_technique.secret.md)
+

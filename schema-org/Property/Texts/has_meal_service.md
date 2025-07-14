@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_meal_service )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_meal_service](/_public/schema-org/Property/Texts/has_meal_service.md) 
+### [has_meal_service](/_Standards/schema-org/Property/Texts/has_meal_service.md) 
+
+### [has_meal_service.public](/_public/schema-org/Property/Texts/has_meal_service.public.md) 
 
 ### [has_meal_service.internal](/_internal/schema-org/Property/Texts/has_meal_service.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_meal_service.personal](/_personal/schema-org/Property/Texts/has_meal_service.personal.md) 
 
-### [has_meal_service.secret](/_secret/schema-org/Property/Texts/has_meal_service.secret.md) 
+### [has_meal_service.secret](/_secret/schema-org/Property/Texts/has_meal_service.secret.md)
+

@@ -1,4 +1,4 @@
-﻿
+
 
 ```leaflet
 id: Asia
@@ -15,7 +15,9 @@ markerFolder: ./Asia~East/
 
 ## Confidential Links & Embeds: 
 
-### [Asia~East](/_public/Earth/Continent/Asia/Asia~East.md) 
+### [Asia~East](/_Standards/Earth/Continent/Asia/Asia~East.md) 
+
+### [Asia~East.public](/_public/Earth/Continent/Asia/Asia~East.public.md) 
 
 ### [Asia~East.internal](/_internal/Earth/Continent/Asia/Asia~East.internal.md) 
 
@@ -25,4 +27,5 @@ markerFolder: ./Asia~East/
 
 ### [Asia~East.personal](/_personal/Earth/Continent/Asia/Asia~East.personal.md) 
 
-### [Asia~East.secret](/_secret/Earth/Continent/Asia/Asia~East.secret.md) 
+### [Asia~East.secret](/_secret/Earth/Continent/Asia/Asia~East.secret.md)
+

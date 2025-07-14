@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -84,10 +84,11 @@ The URL of a node in an established educational framework.
 TargetUrl:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AlignmentObject](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
+### [FileClass~AlignmentObject](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
+
+### [FileClass~AlignmentObject.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.public.md) 
 
 ### [FileClass~AlignmentObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal.md) 
 
@@ -97,4 +98,5 @@ TargetUrl:: {"type":"Input","options":{}}
 
 ### [FileClass~AlignmentObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal.md) 
 
-### [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md) 
+### [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md)
+

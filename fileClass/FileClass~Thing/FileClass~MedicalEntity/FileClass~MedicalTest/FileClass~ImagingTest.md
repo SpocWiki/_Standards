@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,10 +38,11 @@ Imaging technique used.
 ImagingTechnique:: {"type":"Select","options":{"valuesList":{"CT","MRI","PET","Radiography","Ultrasound","XRay"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ImagingTest](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.md) 
+### [FileClass~ImagingTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.md) 
+
+### [FileClass~ImagingTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.public.md) 
 
 ### [FileClass~ImagingTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.internal.md) 
 
@@ -51,4 +52,5 @@ ImagingTechnique:: {"type":"Select","options":{"valuesList":{"CT","MRI","PET","R
 
 ### [FileClass~ImagingTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.personal.md) 
 
-### [FileClass~ImagingTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.secret.md) 
+### [FileClass~ImagingTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.secret.md)
+

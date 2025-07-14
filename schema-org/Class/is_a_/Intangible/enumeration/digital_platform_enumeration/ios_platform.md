@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the broad notion of iOS-based operating systems.
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ios_platform](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.md) 
+### [ios_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.md) 
+
+### [ios_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.public.md) 
 
 ### [ios_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the broad notion of iOS-based operating systems.
 
 ### [ios_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.personal.md) 
 
-### [ios_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.secret.md) 
+### [ios_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/ios_platform.secret.md)
+

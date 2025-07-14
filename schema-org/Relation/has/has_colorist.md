@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_colorist )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_colorist](/_public/schema-org/Relation/has/has_colorist.md) 
+### [has_colorist](/_Standards/schema-org/Relation/has/has_colorist.md) 
+
+### [has_colorist.public](/_public/schema-org/Relation/has/has_colorist.public.md) 
 
 ### [has_colorist.internal](/_internal/schema-org/Relation/has/has_colorist.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_colorist.personal](/_personal/schema-org/Relation/has/has_colorist.personal.md) 
 
-### [has_colorist.secret](/_secret/schema-org/Relation/has/has_colorist.secret.md) 
+### [has_colorist.secret](/_secret/schema-org/Relation/has/has_colorist.secret.md)
+

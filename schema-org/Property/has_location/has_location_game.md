@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_game )
 ( #has_/range :: Place, PostalAddress, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_game](/_public/schema-org/Property/has_location/has_location_game.md) 
+### [has_location_game](/_Standards/schema-org/Property/has_location/has_location_game.md) 
+
+### [has_location_game.public](/_public/schema-org/Property/has_location/has_location_game.public.md) 
 
 ### [has_location_game.internal](/_internal/schema-org/Property/has_location/has_location_game.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_game.personal](/_personal/schema-org/Property/has_location/has_location_game.personal.md) 
 
-### [has_location_game.secret](/_secret/schema-org/Property/has_location/has_location_game.secret.md) 
+### [has_location_game.secret](/_secret/schema-org/Property/has_location/has_location_game.secret.md)
+

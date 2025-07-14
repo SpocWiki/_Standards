@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
   - Korean
@@ -37,9 +37,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Korean%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-ko](/_public/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.md) 
+### [Lang-ko](/_Standards/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.md) 
+
+### [Lang-ko.public](/_public/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.public.md) 
 
 ### [Lang-ko.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.internal.md) 
 
@@ -49,4 +52,5 @@ tags:
 
 ### [Lang-ko.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.personal.md) 
 
-### [Lang-ko.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.secret.md) 
+### [Lang-ko.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.secret.md)
+

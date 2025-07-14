@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Relation describes that:
 ( #has_/name :: has_item_list_element )
 ( #has_/range :: ListItem, Text, Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_item_list_element](/_public/schema-org/Relation/has/has_item_list_element.md) 
+### [has_item_list_element](/_Standards/schema-org/Relation/has/has_item_list_element.md) 
+
+### [has_item_list_element.public](/_public/schema-org/Relation/has/has_item_list_element.public.md) 
 
 ### [has_item_list_element.internal](/_internal/schema-org/Relation/has/has_item_list_element.internal.md) 
 
@@ -61,4 +64,5 @@ Relation describes that:
 
 ### [has_item_list_element.personal](/_personal/schema-org/Relation/has/has_item_list_element.personal.md) 
 
-### [has_item_list_element.secret](/_secret/schema-org/Relation/has/has_item_list_element.secret.md) 
+### [has_item_list_element.secret](/_secret/schema-org/Relation/has/has_item_list_element.secret.md)
+

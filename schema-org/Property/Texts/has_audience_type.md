@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_audience_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_audience_type](/_public/schema-org/Property/Texts/has_audience_type.md) 
+### [has_audience_type](/_Standards/schema-org/Property/Texts/has_audience_type.md) 
+
+### [has_audience_type.public](/_public/schema-org/Property/Texts/has_audience_type.public.md) 
 
 ### [has_audience_type.internal](/_internal/schema-org/Property/Texts/has_audience_type.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_audience_type.personal](/_personal/schema-org/Property/Texts/has_audience_type.personal.md) 
 
-### [has_audience_type.secret](/_secret/schema-org/Property/Texts/has_audience_type.secret.md) 
+### [has_audience_type.secret](/_secret/schema-org/Property/Texts/has_audience_type.secret.md)
+

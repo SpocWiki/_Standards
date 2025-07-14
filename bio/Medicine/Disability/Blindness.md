@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q10874
 health_specialty:
 - '[[_Standards/WikiData/WD~neurology,83042]]'
@@ -65,4 +65,23 @@ Gujarati_Vishwakosh_entry: અંધાપો
 > As of 2015, there were 940 million people with some degree of vision loss. 246 million had low vision and 39 million were blind. The majority of people with poor vision are in the developing world and are over the age of 50 years. Rates of visual impairment have decreased since the 1990s. Visual impairments have considerable economic costs both directly due to the cost of treatment and indirectly due to decreased ability to work.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20impairment)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Blindness](/_Standards/bio/Medicine/Disability/Blindness.md) 
+
+### [Blindness.public](/_public/bio/Medicine/Disability/Blindness.public.md) 
+
+### [Blindness.internal](/_internal/bio/Medicine/Disability/Blindness.internal.md) 
+
+### [Blindness.protect](/_protect/bio/Medicine/Disability/Blindness.protect.md) 
+
+### [Blindness.private](/_private/bio/Medicine/Disability/Blindness.private.md) 
+
+### [Blindness.personal](/_personal/bio/Medicine/Disability/Blindness.personal.md) 
+
+### [Blindness.secret](/_secret/bio/Medicine/Disability/Blindness.secret.md)
 

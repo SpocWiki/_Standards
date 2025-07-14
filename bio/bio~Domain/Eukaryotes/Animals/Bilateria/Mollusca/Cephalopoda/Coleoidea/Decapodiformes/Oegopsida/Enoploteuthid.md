@@ -153,3 +153,21 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
   Reference         Ancistrocheirus lesueurii, drawing modified from Okutani, 1974.
   Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   -------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Enoploteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.md) 
+
+### [Enoploteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.public.md) 
+
+### [Enoploteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.internal.md) 
+
+### [Enoploteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.protect.md) 
+
+### [Enoploteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.private.md) 
+
+### [Enoploteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.personal.md) 
+
+### [Enoploteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Enoploteuthid.secret.md)
+

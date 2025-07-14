@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,7 +53,9 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructureAndLodgingBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.md) 
+### [FileClass~CivicStructureAndLodgingBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.public.md) 
 
 ### [FileClass~CivicStructureAndLodgingBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.internal.md) 
 
@@ -63,4 +65,5 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ### [FileClass~CivicStructureAndLodgingBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.personal.md) 
 
-### [FileClass~CivicStructureAndLodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.secret.md) 
+### [FileClass~CivicStructureAndLodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.secret.md)
+

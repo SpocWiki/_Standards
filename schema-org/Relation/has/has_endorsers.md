@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_endorsers )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_endorsers](/_public/schema-org/Relation/has/has_endorsers.md) 
+### [has_endorsers](/_Standards/schema-org/Relation/has/has_endorsers.md) 
+
+### [has_endorsers.public](/_public/schema-org/Relation/has/has_endorsers.public.md) 
 
 ### [has_endorsers.internal](/_internal/schema-org/Relation/has/has_endorsers.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_endorsers.personal](/_personal/schema-org/Relation/has/has_endorsers.personal.md) 
 
-### [has_endorsers.secret](/_secret/schema-org/Relation/has/has_endorsers.secret.md) 
+### [has_endorsers.secret](/_secret/schema-org/Relation/has/has_endorsers.secret.md)
+

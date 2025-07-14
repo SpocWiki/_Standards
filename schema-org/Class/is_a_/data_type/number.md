@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Usage guidelines:
 
 [ #has_/sub_classes :: [ Float, Integer ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [number](/_public/schema-org/Class/is_a_/data_type/number.md) 
+### [number](/_Standards/schema-org/Class/is_a_/data_type/number.md) 
+
+### [number.public](/_public/schema-org/Class/is_a_/data_type/number.public.md) 
 
 ### [number.internal](/_internal/schema-org/Class/is_a_/data_type/number.internal.md) 
 
@@ -54,4 +57,5 @@ Usage guidelines:
 
 ### [number.personal](/_personal/schema-org/Class/is_a_/data_type/number.personal.md) 
 
-### [number.secret](/_secret/schema-org/Class/is_a_/data_type/number.secret.md) 
+### [number.secret](/_secret/schema-org/Class/is_a_/data_type/number.secret.md)
+

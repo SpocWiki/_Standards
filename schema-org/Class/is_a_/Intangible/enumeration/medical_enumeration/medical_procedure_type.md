@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ An enumeration that describes different types of medical procedures.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_procedure_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.md) 
+### [medical_procedure_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.md) 
+
+### [medical_procedure_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.public.md) 
 
 ### [medical_procedure_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.internal.md) 
 
@@ -52,4 +55,5 @@ An enumeration that describes different types of medical procedures.
 
 ### [medical_procedure_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.personal.md) 
 
-### [medical_procedure_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.secret.md) 
+### [medical_procedure_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_procedure_type.secret.md)
+

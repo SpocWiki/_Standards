@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_time_of_application_start)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_application_start](/_public/schema-org/Property/has_Date_Time/has_time_of_application_start.md) 
+### [has_time_of_application_start](/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_start.md) 
+
+### [has_time_of_application_start.public](/_public/schema-org/Property/has_Date_Time/has_time_of_application_start.public.md) 
 
 ### [has_time_of_application_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_application_start.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_time_of_application_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_application_start.personal.md) 
 
-### [has_time_of_application_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_start.secret.md) 
+### [has_time_of_application_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_start.secret.md)
+

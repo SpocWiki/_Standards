@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21986
 has_id_wikidata: Q1109
@@ -125,9 +125,12 @@ InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Protactinium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Protactinium](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
+### [Protactinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
+
+### [Protactinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.public.md) 
 
 ### [Protactinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Protactinium.internal.md) 
 
@@ -137,4 +140,5 @@ InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
 
 ### [Protactinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Protactinium.personal.md) 
 
-### [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md) 
+### [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md)
+

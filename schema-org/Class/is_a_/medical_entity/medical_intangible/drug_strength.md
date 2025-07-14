@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A specific strength in which a medical drug is available in a specific country.
 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, availableIn, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, strengthUnit, strengthValue, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug_strength](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.md) 
+### [drug_strength](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.md) 
+
+### [drug_strength.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.public.md) 
 
 ### [drug_strength.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.internal.md) 
 
@@ -54,4 +57,5 @@ A specific strength in which a medical drug is available in a specific country.
 
 ### [drug_strength.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.personal.md) 
 
-### [drug_strength.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.secret.md) 
+### [drug_strength.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_strength.secret.md)
+

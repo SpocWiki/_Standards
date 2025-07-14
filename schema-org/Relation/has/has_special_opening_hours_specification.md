@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: is_special_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_special_opening_hours_specification](/_public/schema-org/Relation/has/has_special_opening_hours_specification.md) 
+### [has_special_opening_hours_specification](/_Standards/schema-org/Relation/has/has_special_opening_hours_specification.md) 
+
+### [has_special_opening_hours_specification.public](/_public/schema-org/Relation/has/has_special_opening_hours_specification.public.md) 
 
 ### [has_special_opening_hours_specification.internal](/_internal/schema-org/Relation/has/has_special_opening_hours_specification.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_special_opening_hours_specification.personal](/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal.md) 
 
-### [has_special_opening_hours_specification.secret](/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret.md) 
+### [has_special_opening_hours_specification.secret](/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret.md)
+

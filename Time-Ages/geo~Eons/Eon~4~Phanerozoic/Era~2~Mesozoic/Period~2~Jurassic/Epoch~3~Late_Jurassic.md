@@ -61,10 +61,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~3~Late_Jurassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.md) 
+### [Epoch~3~Late_Jurassic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.md) 
+
+### [Epoch~3~Late_Jurassic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.public.md) 
 
 ### [Epoch~3~Late_Jurassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.internal.md) 
 
@@ -74,4 +75,5 @@ noteOnly: true
 
 ### [Epoch~3~Late_Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.personal.md) 
 
-### [Epoch~3~Late_Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.secret.md) 
+### [Epoch~3~Late_Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A bus station.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BusStation](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.md) 
+### [FileClass~BusStation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.md) 
+
+### [FileClass~BusStation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.public.md) 
 
 ### [FileClass~BusStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.internal.md) 
 
@@ -46,4 +47,5 @@ A bus station.
 
 ### [FileClass~BusStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.personal.md) 
 
-### [FileClass~BusStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.secret.md) 
+### [FileClass~BusStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStation.secret.md)
+

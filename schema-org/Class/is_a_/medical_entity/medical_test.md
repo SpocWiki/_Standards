@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any medical test, typically performed for diagnostic purposes.
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test.md) 
+### [medical_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test.md) 
+
+### [medical_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test.public.md) 
 
 ### [medical_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test.internal.md) 
 
@@ -56,4 +59,5 @@ Any medical test, typically performed for diagnostic purposes.
 
 ### [medical_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test.personal.md) 
 
-### [medical_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test.secret.md) 
+### [medical_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 [ #has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, serialNumber, size, sku, slogan, subjectOf, url, weight, width ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [individual_product](/_public/schema-org/Class/is_a_/product/individual_product.md) 
+### [individual_product](/_Standards/schema-org/Class/is_a_/product/individual_product.md) 
+
+### [individual_product.public](/_public/schema-org/Class/is_a_/product/individual_product.public.md) 
 
 ### [individual_product.internal](/_internal/schema-org/Class/is_a_/product/individual_product.internal.md) 
 
@@ -54,4 +57,5 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 ### [individual_product.personal](/_personal/schema-org/Class/is_a_/product/individual_product.personal.md) 
 
-### [individual_product.secret](/_secret/schema-org/Class/is_a_/product/individual_product.secret.md) 
+### [individual_product.secret](/_secret/schema-org/Class/is_a_/product/individual_product.secret.md)
+

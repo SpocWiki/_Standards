@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of participant. The person/organization being supported.
 Endorsee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EndorseAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.md) 
+### [FileClass~EndorseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.md) 
+
+### [FileClass~EndorseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.public.md) 
 
 ### [FileClass~EndorseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.internal.md) 
 
@@ -57,4 +58,5 @@ Endorsee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~EndorseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.personal.md) 
 
-### [FileClass~EndorseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.secret.md) 
+### [FileClass~EndorseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~EndorseAction.secret.md)
+

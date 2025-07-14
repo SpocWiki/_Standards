@@ -744,10 +744,11 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 [has_place_latitude::50.4137]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Canada](/_public/Earth/Continent/America~North/Canada.md) 
+### [Canada](/_Standards/Earth/Continent/America~North/Canada.md) 
+
+### [Canada.public](/_public/Earth/Continent/America~North/Canada.public.md) 
 
 ### [Canada.internal](/_internal/Earth/Continent/America~North/Canada.internal.md) 
 
@@ -757,4 +758,5 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 
 ### [Canada.personal](/_personal/Earth/Continent/America~North/Canada.personal.md) 
 
-### [Canada.secret](/_secret/Earth/Continent/America~North/Canada.secret.md) 
+### [Canada.secret](/_secret/Earth/Continent/America~North/Canada.secret.md)
+

@@ -66,3 +66,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suleiman%20the%20Magnificent)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Suleiman_the_Magnificent](/_Standards/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.md) 
+
+### [Suleiman_the_Magnificent.public](/_public/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.public.md) 
+
+### [Suleiman_the_Magnificent.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.internal.md) 
+
+### [Suleiman_the_Magnificent.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.protect.md) 
+
+### [Suleiman_the_Magnificent.private](/_private/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.private.md) 
+
+### [Suleiman_the_Magnificent.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.personal.md) 
+
+### [Suleiman_the_Magnificent.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Suleiman_the_Magnificent.secret.md)
+

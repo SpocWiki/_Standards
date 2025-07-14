@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.9 , 114.9 ] 
 type: geo-Region
 title: Brunei_and_Muara
@@ -41,7 +41,9 @@ markerFolder: ./Brunei_and_Muara/
 
 ## Confidential Links & Embeds: 
 
-### [Brunei_and_Muara](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.md) 
+### [Brunei_and_Muara](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.md) 
+
+### [Brunei_and_Muara.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.public.md) 
 
 ### [Brunei_and_Muara.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Brunei_and_Muara/
 
 ### [Brunei_and_Muara.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.personal.md) 
 
-### [Brunei_and_Muara.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.secret.md) 
+### [Brunei_and_Muara.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.secret.md)
+

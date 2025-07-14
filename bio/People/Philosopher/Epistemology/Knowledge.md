@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9081
 has_cause:
 - '[[_Standards/WikiData/WD~learning,133500]]'
@@ -56,4 +56,23 @@ PhilPapers_topic: knowledge
 > The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something. It discusses the value of knowledge and the thesis of philosophical skepticism, which questions the possibility of knowledge. Knowledge is relevant to many fields like the sciences, which aim to acquire knowledge using the scientific method based on repeatable experimentation, observation, and measurement. Various religions hold that humans should seek knowledge and that God or the divine is the source of knowledge. The anthropology of knowledge studies how knowledge is acquired, stored, retrieved, and communicated in different cultures. The sociology of knowledge examines under what sociohistorical circumstances knowledge arises, and what sociological consequences it has. The history of knowledge investigates how knowledge in different fields has developed, and evolved, in the course of history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Knowledge)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Knowledge](/_Standards/bio/People/Philosopher/Epistemology/Knowledge.md) 
+
+### [Knowledge.public](/_public/bio/People/Philosopher/Epistemology/Knowledge.public.md) 
+
+### [Knowledge.internal](/_internal/bio/People/Philosopher/Epistemology/Knowledge.internal.md) 
+
+### [Knowledge.protect](/_protect/bio/People/Philosopher/Epistemology/Knowledge.protect.md) 
+
+### [Knowledge.private](/_private/bio/People/Philosopher/Epistemology/Knowledge.private.md) 
+
+### [Knowledge.personal](/_personal/bio/People/Philosopher/Epistemology/Knowledge.personal.md) 
+
+### [Knowledge.secret](/_secret/bio/People/Philosopher/Epistemology/Knowledge.secret.md)
 

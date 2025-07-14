@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q10251
 different_from: "[[_Standards/WikiData/WD~blood_plasma,79749]]"
 studied_in:
@@ -45,4 +45,23 @@ Commons_category: "Plasma physics"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Plasma](/_Standards/Science/Physics/State_of_Matter/Plasma.md) 
+
+### [Plasma.public](/_public/Science/Physics/State_of_Matter/Plasma.public.md) 
+
+### [Plasma.internal](/_internal/Science/Physics/State_of_Matter/Plasma.internal.md) 
+
+### [Plasma.protect](/_protect/Science/Physics/State_of_Matter/Plasma.protect.md) 
+
+### [Plasma.private](/_private/Science/Physics/State_of_Matter/Plasma.private.md) 
+
+### [Plasma.personal](/_personal/Science/Physics/State_of_Matter/Plasma.personal.md) 
+
+### [Plasma.secret](/_secret/Science/Physics/State_of_Matter/Plasma.secret.md)
 

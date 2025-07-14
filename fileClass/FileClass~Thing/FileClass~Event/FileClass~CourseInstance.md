@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,10 +75,11 @@ A person assigned to instruct or provide instructional assistance for the [[Cour
 Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CourseInstance](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.md) 
+### [FileClass~CourseInstance](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.md) 
+
+### [FileClass~CourseInstance.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.public.md) 
 
 ### [FileClass~CourseInstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.internal.md) 
 
@@ -88,4 +89,5 @@ Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ### [FileClass~CourseInstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.personal.md) 
 
-### [FileClass~CourseInstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret.md) 
+### [FileClass~CourseInstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret.md)
+

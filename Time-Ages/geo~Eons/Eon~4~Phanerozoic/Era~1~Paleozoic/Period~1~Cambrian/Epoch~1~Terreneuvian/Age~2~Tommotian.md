@@ -71,10 +71,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Tommotian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.md) 
+### [Age~2~Tommotian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.md) 
+
+### [Age~2~Tommotian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.public.md) 
 
 ### [Age~2~Tommotian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.internal.md) 
 
@@ -84,4 +85,5 @@ noteOnly: true
 
 ### [Age~2~Tommotian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.personal.md) 
 
-### [Age~2~Tommotian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.secret.md) 
+### [Age~2~Tommotian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.secret.md)
+

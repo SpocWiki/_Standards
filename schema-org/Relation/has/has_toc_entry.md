@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_toc_entry](/_public/schema-org/Relation/has/has_toc_entry.md) 
+### [has_toc_entry](/_Standards/schema-org/Relation/has/has_toc_entry.md) 
+
+### [has_toc_entry.public](/_public/schema-org/Relation/has/has_toc_entry.public.md) 
 
 ### [has_toc_entry.internal](/_internal/schema-org/Relation/has/has_toc_entry.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_toc_entry.personal](/_personal/schema-org/Relation/has/has_toc_entry.personal.md) 
 
-### [has_toc_entry.secret](/_secret/schema-org/Relation/has/has_toc_entry.secret.md) 
+### [has_toc_entry.secret](/_secret/schema-org/Relation/has/has_toc_entry.secret.md)
+

@@ -214,3 +214,21 @@ Cook University, North Queensland, Australia.
   Location ::        off Australia
   Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
   --------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Uroteuthis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.md) 
+
+### [Uroteuthis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.public.md) 
+
+### [Uroteuthis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.internal.md) 
+
+### [Uroteuthis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.protect.md) 
+
+### [Uroteuthis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.private.md) 
+
+### [Uroteuthis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.personal.md) 
+
+### [Uroteuthis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Uroteuthis.secret.md)
+

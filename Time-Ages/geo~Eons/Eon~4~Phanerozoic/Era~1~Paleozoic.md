@@ -110,10 +110,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~1~Paleozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.md) 
+### [Era~1~Paleozoic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.md) 
+
+### [Era~1~Paleozoic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.public.md) 
 
 ### [Era~1~Paleozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.internal.md) 
 
@@ -123,4 +124,5 @@ noteOnly: true
 
 ### [Era~1~Paleozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.personal.md) 
 
-### [Era~1~Paleozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.secret.md) 
+### [Era~1~Paleozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.secret.md)
+

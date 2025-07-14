@@ -99,3 +99,22 @@ GeoNames_feature_code: V.FRST
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Forest)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Forest](/_Standards/Earth/Geology/Biomes/Forest.md) 
+
+### [Forest.public](/_public/Earth/Geology/Biomes/Forest.public.md) 
+
+### [Forest.internal](/_internal/Earth/Geology/Biomes/Forest.internal.md) 
+
+### [Forest.protect](/_protect/Earth/Geology/Biomes/Forest.protect.md) 
+
+### [Forest.private](/_private/Earth/Geology/Biomes/Forest.private.md) 
+
+### [Forest.personal](/_personal/Earth/Geology/Biomes/Forest.personal.md) 
+
+### [Forest.secret](/_secret/Earth/Geology/Biomes/Forest.secret.md)
+

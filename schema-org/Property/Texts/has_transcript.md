@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_transcript )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_transcript](/_public/schema-org/Property/Texts/has_transcript.md) 
+### [has_transcript](/_Standards/schema-org/Property/Texts/has_transcript.md) 
+
+### [has_transcript.public](/_public/schema-org/Property/Texts/has_transcript.public.md) 
 
 ### [has_transcript.internal](/_internal/schema-org/Property/Texts/has_transcript.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_transcript.personal](/_personal/schema-org/Property/Texts/has_transcript.personal.md) 
 
-### [has_transcript.secret](/_secret/schema-org/Property/Texts/has_transcript.secret.md) 
+### [has_transcript.secret](/_secret/schema-org/Property/Texts/has_transcript.secret.md)
+

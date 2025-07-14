@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicated describes that:
 
 #is_/inverse_of :: [[is_describing]] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_description](/_public/schema-org/Property/Texts/has_description.md) 
+### [has_description](/_Standards/schema-org/Property/Texts/has_description.md) 
+
+### [has_description.public](/_public/schema-org/Property/Texts/has_description.public.md) 
 
 ### [has_description.internal](/_internal/schema-org/Property/Texts/has_description.internal.md) 
 
@@ -57,4 +60,5 @@ Predicated describes that:
 
 ### [has_description.personal](/_personal/schema-org/Property/Texts/has_description.personal.md) 
 
-### [has_description.secret](/_secret/schema-org/Property/Texts/has_description.secret.md) 
+### [has_description.secret](/_secret/schema-org/Property/Texts/has_description.secret.md)
+

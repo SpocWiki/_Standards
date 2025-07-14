@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Capital punishment"
 has_id_wikidata: Q8454
@@ -63,4 +63,23 @@ IPTC_NewsCode: mediatopic/20000135
 > Capital punishment is controversial, with many people, organisations, and religious groups holding differing views on whether it is ethically permissible. Amnesty International declares that the death penalty breaches human rights, specifically "the right to life and the right to live free from torture or cruel, inhuman or degrading treatment or punishment." These rights are protected under the Universal Declaration of Human Rights, adopted by the United Nations in 1948. In the European Union (EU), Article 2 of the Charter of Fundamental Rights of the European Union prohibits the use of capital punishment. The Council of Europe, which has 46 member states, has worked to end the death penalty and no execution has taken place in its current member states since 1997. The United Nations General Assembly has adopted, throughout the years from 2007 to 2020, eight non-binding resolutions calling for a global moratorium on executions, with support for eventual abolition.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Capital%20punishment)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Capital_Punishment](/_Standards/bio/Society/Law/Capital_Punishment.md) 
+
+### [Capital_Punishment.public](/_public/bio/Society/Law/Capital_Punishment.public.md) 
+
+### [Capital_Punishment.internal](/_internal/bio/Society/Law/Capital_Punishment.internal.md) 
+
+### [Capital_Punishment.protect](/_protect/bio/Society/Law/Capital_Punishment.protect.md) 
+
+### [Capital_Punishment.private](/_private/bio/Society/Law/Capital_Punishment.private.md) 
+
+### [Capital_Punishment.personal](/_personal/bio/Society/Law/Capital_Punishment.personal.md) 
+
+### [Capital_Punishment.secret](/_secret/bio/Society/Law/Capital_Punishment.secret.md)
 

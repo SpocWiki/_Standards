@@ -154,3 +154,22 @@ IPA_transcription: ˈʃɔtːodʒit ˈrai̯
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satyajit%20Ray)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ray,Satyajit](/_Standards/bio/People/Movie-Directors/Ray,Satyajit.md) 
+
+### [Ray,Satyajit.public](/_public/bio/People/Movie-Directors/Ray,Satyajit.public.md) 
+
+### [Ray,Satyajit.internal](/_internal/bio/People/Movie-Directors/Ray,Satyajit.internal.md) 
+
+### [Ray,Satyajit.protect](/_protect/bio/People/Movie-Directors/Ray,Satyajit.protect.md) 
+
+### [Ray,Satyajit.private](/_private/bio/People/Movie-Directors/Ray,Satyajit.private.md) 
+
+### [Ray,Satyajit.personal](/_personal/bio/People/Movie-Directors/Ray,Satyajit.personal.md) 
+
+### [Ray,Satyajit.secret](/_secret/bio/People/Movie-Directors/Ray,Satyajit.secret.md)
+

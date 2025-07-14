@@ -110,3 +110,22 @@ floruit: "-0800"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Homer)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Homer](/_Standards/bio/People/Writer/Ancient_Writers/Homer.md) 
+
+### [Homer.public](/_public/bio/People/Writer/Ancient_Writers/Homer.public.md) 
+
+### [Homer.internal](/_internal/bio/People/Writer/Ancient_Writers/Homer.internal.md) 
+
+### [Homer.protect](/_protect/bio/People/Writer/Ancient_Writers/Homer.protect.md) 
+
+### [Homer.private](/_private/bio/People/Writer/Ancient_Writers/Homer.private.md) 
+
+### [Homer.personal](/_personal/bio/People/Writer/Ancient_Writers/Homer.personal.md) 
+
+### [Homer.secret](/_secret/bio/People/Writer/Ancient_Writers/Homer.secret.md)
+

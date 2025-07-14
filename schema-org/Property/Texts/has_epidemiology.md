@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_epidemiology )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_epidemiology](/_public/schema-org/Property/Texts/has_epidemiology.md) 
+### [has_epidemiology](/_Standards/schema-org/Property/Texts/has_epidemiology.md) 
+
+### [has_epidemiology.public](/_public/schema-org/Property/Texts/has_epidemiology.public.md) 
 
 ### [has_epidemiology.internal](/_internal/schema-org/Property/Texts/has_epidemiology.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_epidemiology.personal](/_personal/schema-org/Property/Texts/has_epidemiology.personal.md) 
 
-### [has_epidemiology.secret](/_secret/schema-org/Property/Texts/has_epidemiology.secret.md) 
+### [has_epidemiology.secret](/_secret/schema-org/Property/Texts/has_epidemiology.secret.md)
+

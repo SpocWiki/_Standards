@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_sibling )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sibling](/_public/schema-org/Relation/has/has_sibling.md) 
+### [has_sibling](/_Standards/schema-org/Relation/has/has_sibling.md) 
+
+### [has_sibling.public](/_public/schema-org/Relation/has/has_sibling.public.md) 
 
 ### [has_sibling.internal](/_internal/schema-org/Relation/has/has_sibling.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_sibling.personal](/_personal/schema-org/Relation/has/has_sibling.personal.md) 
 
-### [has_sibling.secret](/_secret/schema-org/Relation/has/has_sibling.secret.md) 
+### [has_sibling.secret](/_secret/schema-org/Relation/has/has_sibling.secret.md)
+

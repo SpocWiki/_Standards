@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ ATM/cash machine.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AutomatedTeller](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.md) 
+### [FileClass~AutomatedTeller](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.md) 
+
+### [FileClass~AutomatedTeller.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.public.md) 
 
 ### [FileClass~AutomatedTeller.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.internal.md) 
 
@@ -46,4 +47,5 @@ ATM/cash machine.
 
 ### [FileClass~AutomatedTeller.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.personal.md) 
 
-### [FileClass~AutomatedTeller.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.secret.md) 
+### [FileClass~AutomatedTeller.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.secret.md)
+

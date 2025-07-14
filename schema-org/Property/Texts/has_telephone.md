@@ -41,9 +41,12 @@ Predicated describes that:
 ( #has_/name :: has_telephone )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_telephone](/_public/schema-org/Property/Texts/has_telephone.md) 
+### [has_telephone](/_Standards/schema-org/Property/Texts/has_telephone.md) 
+
+### [has_telephone.public](/_public/schema-org/Property/Texts/has_telephone.public.md) 
 
 ### [has_telephone.internal](/_internal/schema-org/Property/Texts/has_telephone.internal.md) 
 
@@ -53,4 +56,5 @@ Predicated describes that:
 
 ### [has_telephone.personal](/_personal/schema-org/Property/Texts/has_telephone.personal.md) 
 
-### [has_telephone.secret](/_secret/schema-org/Property/Texts/has_telephone.secret.md) 
+### [has_telephone.secret](/_secret/schema-org/Property/Texts/has_telephone.secret.md)
+

@@ -14,3 +14,22 @@ has_id_wikidata: Q7363
 > [Wikipedia](https://en.wikipedia.org/wiki/Nose)  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nose](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.md) 
+
+### [Nose.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.public.md) 
+
+### [Nose.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.internal.md) 
+
+### [Nose.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.protect.md) 
+
+### [Nose.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.private.md) 
+
+### [Nose.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.personal.md) 
+
+### [Nose.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.secret.md)
+

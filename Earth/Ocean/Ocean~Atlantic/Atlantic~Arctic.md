@@ -1,4 +1,4 @@
-﻿# [[Atlantic~Arctic]] 
+# [[Atlantic~Arctic]] 
 
 ## Edit
 
@@ -33,7 +33,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Atlantic~Arctic](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.md) 
+### [Atlantic~Arctic](/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.md) 
+
+### [Atlantic~Arctic.public](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.public.md) 
 
 ### [Atlantic~Arctic.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.internal.md) 
 
@@ -43,4 +45,5 @@ noteOnly: true
 
 ### [Atlantic~Arctic.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.personal.md) 
 
-### [Atlantic~Arctic.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.secret.md) 
+### [Atlantic~Arctic.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.secret.md)
+

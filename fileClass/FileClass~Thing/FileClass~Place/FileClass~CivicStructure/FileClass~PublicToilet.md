@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A public toilet is a room or small building containing one or more toilets (and 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PublicToilet](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.md) 
+### [FileClass~PublicToilet](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.md) 
+
+### [FileClass~PublicToilet.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.public.md) 
 
 ### [FileClass~PublicToilet.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.internal.md) 
 
@@ -46,4 +47,5 @@ A public toilet is a room or small building containing one or more toilets (and 
 
 ### [FileClass~PublicToilet.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.personal.md) 
 
-### [FileClass~PublicToilet.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.secret.md) 
+### [FileClass~PublicToilet.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.secret.md)
+

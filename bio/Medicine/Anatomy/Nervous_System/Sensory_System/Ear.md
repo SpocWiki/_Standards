@@ -63,3 +63,22 @@ Krugosvet_article: nauka_i_tehnika/biologiya/UHO.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ear](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.md) 
+
+### [Ear.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.public.md) 
+
+### [Ear.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.internal.md) 
+
+### [Ear.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.protect.md) 
+
+### [Ear.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.private.md) 
+
+### [Ear.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.personal.md) 
+
+### [Ear.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that product returns must be done by mail.
 
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_by_mail](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.md) 
+### [return_by_mail](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.md) 
+
+### [return_by_mail.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.public.md) 
 
 ### [return_by_mail.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that product returns must be done by mail.
 
 ### [return_by_mail.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.personal.md) 
 
-### [return_by_mail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.secret.md) 
+### [return_by_mail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_by_mail.secret.md)
+

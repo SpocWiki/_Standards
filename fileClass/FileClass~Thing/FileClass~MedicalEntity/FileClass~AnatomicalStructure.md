@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -132,10 +132,11 @@ Component (sub-)structure(s) that comprise this anatomical structure.
 SubStructure:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AnatomicalStructure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.md) 
+### [FileClass~AnatomicalStructure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.md) 
+
+### [FileClass~AnatomicalStructure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.public.md) 
 
 ### [FileClass~AnatomicalStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.internal.md) 
 
@@ -145,4 +146,5 @@ SubStructure:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~AnatomicalStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.personal.md) 
 
-### [FileClass~AnatomicalStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.secret.md) 
+### [FileClass~AnatomicalStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_experience_in_place_of_education )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_experience_in_place_of_education](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
+### [is_experience_in_place_of_education](/_Standards/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
+
+### [is_experience_in_place_of_education.public](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.public.md) 
 
 ### [is_experience_in_place_of_education.internal](/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_experience_in_place_of_education.personal](/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal.md) 
 
-### [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md) 
+### [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md)
+

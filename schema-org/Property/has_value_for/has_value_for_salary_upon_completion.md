@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_salary_upon_completion )
 ( #has_/range :: MonetaryAmountDistribution )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_salary_upon_completion](/_public/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.md) 
+### [has_value_for_salary_upon_completion](/_Standards/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.md) 
+
+### [has_value_for_salary_upon_completion.public](/_public/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.public.md) 
 
 ### [has_value_for_salary_upon_completion.internal](/_internal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_salary_upon_completion.personal](/_personal/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.personal.md) 
 
-### [has_value_for_salary_upon_completion.secret](/_secret/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.secret.md) 
+### [has_value_for_salary_upon_completion.secret](/_secret/schema-org/Property/has_value_for/has_value_for_salary_upon_completion.secret.md)
+

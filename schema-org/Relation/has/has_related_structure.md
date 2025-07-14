@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_related_structure )
 ( #has_/range :: AnatomicalStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_related_structure](/_public/schema-org/Relation/has/has_related_structure.md) 
+### [has_related_structure](/_Standards/schema-org/Relation/has/has_related_structure.md) 
+
+### [has_related_structure.public](/_public/schema-org/Relation/has/has_related_structure.public.md) 
 
 ### [has_related_structure.internal](/_internal/schema-org/Relation/has/has_related_structure.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_related_structure.personal](/_personal/schema-org/Relation/has/has_related_structure.personal.md) 
 
-### [has_related_structure.secret](/_secret/schema-org/Relation/has/has_related_structure.secret.md) 
+### [has_related_structure.secret](/_secret/schema-org/Relation/has/has_related_structure.secret.md)
+

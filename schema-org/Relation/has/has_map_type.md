@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_map_type )
 ( #has_/range :: MapCategoryType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_map_type](/_public/schema-org/Relation/has/has_map_type.md) 
+### [has_map_type](/_Standards/schema-org/Relation/has/has_map_type.md) 
+
+### [has_map_type.public](/_public/schema-org/Relation/has/has_map_type.public.md) 
 
 ### [has_map_type.internal](/_internal/schema-org/Relation/has/has_map_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_map_type.personal](/_personal/schema-org/Relation/has/has_map_type.personal.md) 
 
-### [has_map_type.secret](/_secret/schema-org/Relation/has/has_map_type.secret.md) 
+### [has_map_type.secret](/_secret/schema-org/Relation/has/has_map_type.secret.md)
+

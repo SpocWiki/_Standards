@@ -208,3 +208,22 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
   Specimen Condition   Live Specimen
   Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
   ---------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diplura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.md) 
+
+### [Diplura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.public.md) 
+
+### [Diplura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.internal.md) 
+
+### [Diplura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.protect.md) 
+
+### [Diplura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.private.md) 
+
+### [Diplura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.personal.md) 
+
+### [Diplura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.secret.md)
+

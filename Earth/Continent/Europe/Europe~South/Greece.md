@@ -620,9 +620,12 @@ with numbers as of 2023-06
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greece)
 
+
 ## Confidential Links & Embeds: 
 
-### [Greece](/_public/Earth/Continent/Europe/Europe~South/Greece.md) 
+### [Greece](/_Standards/Earth/Continent/Europe/Europe~South/Greece.md) 
+
+### [Greece.public](/_public/Earth/Continent/Europe/Europe~South/Greece.public.md) 
 
 ### [Greece.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece.internal.md) 
 
@@ -632,4 +635,5 @@ with numbers as of 2023-06
 
 ### [Greece.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece.personal.md) 
 
-### [Greece.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece.secret.md) 
+### [Greece.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece.secret.md)
+

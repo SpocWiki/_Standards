@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1364
 develops_from: '[[_Standards/WikiData/WD~gynoecium,588964]]'
 described_by_source:
@@ -47,4 +47,23 @@ Danbooru_tag: fruit
 > In common language and culinary usage, fruit normally means the seed-associated fleshy structures (or produce) of plants that typically are sweet (or sour) and edible in the raw state, such as apples, bananas, grapes, lemons, oranges, and strawberries. In botanical usage, the term fruit also includes many structures that are not commonly called as such in everyday language, such as nuts, bean pods, corn kernels, tomatoes, and wheat grains.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fruit)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fruit](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.md) 
+
+### [Fruit.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.public.md) 
+
+### [Fruit.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.internal.md) 
+
+### [Fruit.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.protect.md) 
+
+### [Fruit.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.private.md) 
+
+### [Fruit.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.personal.md) 
+
+### [Fruit.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.secret.md)
 

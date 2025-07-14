@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,10 +34,11 @@ An enterprise (potentially individual but typically collaborative), planned to a
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Project](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.md) 
+### [FileClass~Project](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.md) 
+
+### [FileClass~Project.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.public.md) 
 
 ### [FileClass~Project.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.internal.md) 
 
@@ -47,4 +48,5 @@ An enterprise (potentially individual but typically collaborative), planned to a
 
 ### [FileClass~Project.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.personal.md) 
 
-### [FileClass~Project.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.secret.md) 
+### [FileClass~Project.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.secret.md)
+

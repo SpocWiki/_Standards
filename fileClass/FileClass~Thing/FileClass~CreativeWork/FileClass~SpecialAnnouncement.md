@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -196,10 +196,11 @@ The URL for a feed, e.g. associated with a podcast series, blog, or series of da
 WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SpecialAnnouncement](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.md) 
+### [FileClass~SpecialAnnouncement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.md) 
+
+### [FileClass~SpecialAnnouncement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.public.md) 
 
 ### [FileClass~SpecialAnnouncement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.internal.md) 
 
@@ -209,4 +210,5 @@ WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### [FileClass~SpecialAnnouncement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.personal.md) 
 
-### [FileClass~SpecialAnnouncement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.secret.md) 
+### [FileClass~SpecialAnnouncement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.secret.md)
+

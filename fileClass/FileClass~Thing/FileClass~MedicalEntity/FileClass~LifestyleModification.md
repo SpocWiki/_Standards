@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LifestyleModification](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.md) 
+### [FileClass~LifestyleModification](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.md) 
+
+### [FileClass~LifestyleModification.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.public.md) 
 
 ### [FileClass~LifestyleModification.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.internal.md) 
 
@@ -46,4 +47,5 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 ### [FileClass~LifestyleModification.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.personal.md) 
 
-### [FileClass~LifestyleModification.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.secret.md) 
+### [FileClass~LifestyleModification.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: has_access_mode_sufficient )
 ( #has_/range :: [[../../Collection/item_list|Item_List]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_access_mode_sufficient](/_public/schema-org/Relation/has/has_access_mode_sufficient.md) 
+### [has_access_mode_sufficient](/_Standards/schema-org/Relation/has/has_access_mode_sufficient.md) 
+
+### [has_access_mode_sufficient.public](/_public/schema-org/Relation/has/has_access_mode_sufficient.public.md) 
 
 ### [has_access_mode_sufficient.internal](/_internal/schema-org/Relation/has/has_access_mode_sufficient.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_access_mode_sufficient.personal](/_personal/schema-org/Relation/has/has_access_mode_sufficient.personal.md) 
 
-### [has_access_mode_sufficient.secret](/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret.md) 
+### [has_access_mode_sufficient.secret](/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret.md)
+

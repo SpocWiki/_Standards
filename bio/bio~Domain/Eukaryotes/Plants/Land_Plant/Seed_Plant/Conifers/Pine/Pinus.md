@@ -95,3 +95,22 @@ Body Part         flattened leaves
 Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pinus](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.md) 
+
+### [Pinus.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.public.md) 
+
+### [Pinus.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.internal.md) 
+
+### [Pinus.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.protect.md) 
+
+### [Pinus.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.private.md) 
+
+### [Pinus.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.personal.md) 
+
+### [Pinus.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus.secret.md)
+

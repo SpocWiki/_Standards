@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_currencies_accepted )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_currencies_accepted](/_public/schema-org/Property/Texts/has_currencies_accepted.md) 
+### [has_currencies_accepted](/_Standards/schema-org/Property/Texts/has_currencies_accepted.md) 
+
+### [has_currencies_accepted.public](/_public/schema-org/Property/Texts/has_currencies_accepted.public.md) 
 
 ### [has_currencies_accepted.internal](/_internal/schema-org/Property/Texts/has_currencies_accepted.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_currencies_accepted.personal](/_personal/schema-org/Property/Texts/has_currencies_accepted.personal.md) 
 
-### [has_currencies_accepted.secret](/_secret/schema-org/Property/Texts/has_currencies_accepted.secret.md) 
+### [has_currencies_accepted.secret](/_secret/schema-org/Property/Texts/has_currencies_accepted.secret.md)
+

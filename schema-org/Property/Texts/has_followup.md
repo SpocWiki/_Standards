@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_followup )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_followup](/_public/schema-org/Property/Texts/has_followup.md) 
+### [has_followup](/_Standards/schema-org/Property/Texts/has_followup.md) 
+
+### [has_followup.public](/_public/schema-org/Property/Texts/has_followup.public.md) 
 
 ### [has_followup.internal](/_internal/schema-org/Property/Texts/has_followup.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_followup.personal](/_personal/schema-org/Property/Texts/has_followup.personal.md) 
 
-### [has_followup.secret](/_secret/schema-org/Property/Texts/has_followup.secret.md) 
+### [has_followup.secret](/_secret/schema-org/Property/Texts/has_followup.secret.md)
+

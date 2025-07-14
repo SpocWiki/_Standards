@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An car dealership.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AutoDealer](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.md) 
+### [FileClass~AutoDealer](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.md) 
+
+### [FileClass~AutoDealer.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.public.md) 
 
 ### [FileClass~AutoDealer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.internal.md) 
 
@@ -46,4 +47,5 @@ An car dealership.
 
 ### [FileClass~AutoDealer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.personal.md) 
 
-### [FileClass~AutoDealer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.secret.md) 
+### [FileClass~AutoDealer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutoDealer.secret.md)
+

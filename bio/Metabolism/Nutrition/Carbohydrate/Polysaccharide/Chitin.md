@@ -25,3 +25,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chitin](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.md) 
+
+### [Chitin.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.public.md) 
+
+### [Chitin.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.internal.md) 
+
+### [Chitin.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.protect.md) 
+
+### [Chitin.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.private.md) 
+
+### [Chitin.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.personal.md) 
+
+### [Chitin.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Chitin.secret.md)
+

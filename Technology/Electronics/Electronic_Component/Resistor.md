@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5321
 made_from_material: "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
 different_from:
@@ -36,4 +36,23 @@ Commons_category: Resistors
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Resistor) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Resistor](/_Standards/Technology/Electronics/Electronic_Component/Resistor.md) 
+
+### [Resistor.public](/_public/Technology/Electronics/Electronic_Component/Resistor.public.md) 
+
+### [Resistor.internal](/_internal/Technology/Electronics/Electronic_Component/Resistor.internal.md) 
+
+### [Resistor.protect](/_protect/Technology/Electronics/Electronic_Component/Resistor.protect.md) 
+
+### [Resistor.private](/_private/Technology/Electronics/Electronic_Component/Resistor.private.md) 
+
+### [Resistor.personal](/_personal/Technology/Electronics/Electronic_Component/Resistor.personal.md) 
+
+### [Resistor.secret](/_secret/Technology/Electronics/Electronic_Component/Resistor.secret.md)
 

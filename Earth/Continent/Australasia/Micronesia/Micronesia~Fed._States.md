@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 6.91667
     - 158.15
@@ -43,10 +43,11 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 [has_place_latitude::6.91667] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Micronesia~Fed._States](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
+### [Micronesia~Fed._States](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
+
+### [Micronesia~Fed._States.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public.md) 
 
 ### [Micronesia~Fed._States.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal.md) 
 
@@ -56,4 +57,5 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 
 ### [Micronesia~Fed._States.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal.md) 
 
-### [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md) 
+### [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md)
+

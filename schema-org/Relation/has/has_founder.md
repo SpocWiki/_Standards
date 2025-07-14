@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_founder )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_founder](/_public/schema-org/Relation/has/has_founder.md) 
+### [has_founder](/_Standards/schema-org/Relation/has/has_founder.md) 
+
+### [has_founder.public](/_public/schema-org/Relation/has/has_founder.public.md) 
 
 ### [has_founder.internal](/_internal/schema-org/Relation/has/has_founder.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_founder.personal](/_personal/schema-org/Relation/has/has_founder.personal.md) 
 
-### [has_founder.secret](/_secret/schema-org/Relation/has/has_founder.secret.md) 
+### [has_founder.secret](/_secret/schema-org/Relation/has/has_founder.secret.md)
+

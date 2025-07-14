@@ -62,10 +62,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~3~Telychian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.md) 
+### [Age~3~Telychian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.md) 
+
+### [Age~3~Telychian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.public.md) 
 
 ### [Age~3~Telychian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.internal.md) 
 
@@ -75,4 +76,5 @@ noteOnly: true
 
 ### [Age~3~Telychian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.personal.md) 
 
-### [Age~3~Telychian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.secret.md) 
+### [Age~3~Telychian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.secret.md)
+

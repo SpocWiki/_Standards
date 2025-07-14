@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_educational_framework )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_educational_framework](/_public/schema-org/Property/Texts/has_educational_framework.md) 
+### [has_educational_framework](/_Standards/schema-org/Property/Texts/has_educational_framework.md) 
+
+### [has_educational_framework.public](/_public/schema-org/Property/Texts/has_educational_framework.public.md) 
 
 ### [has_educational_framework.internal](/_internal/schema-org/Property/Texts/has_educational_framework.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_educational_framework.personal](/_personal/schema-org/Property/Texts/has_educational_framework.personal.md) 
 
-### [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md) 
+### [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md)
+

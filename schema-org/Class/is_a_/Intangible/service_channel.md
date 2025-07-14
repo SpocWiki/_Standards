@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A means for accessing a service, e.g. a government office location, web site, or
 
 [ #has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [service_channel](/_public/schema-org/Class/is_a_/Intangible/service_channel.md) 
+### [service_channel](/_Standards/schema-org/Class/is_a_/Intangible/service_channel.md) 
+
+### [service_channel.public](/_public/schema-org/Class/is_a_/Intangible/service_channel.public.md) 
 
 ### [service_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/service_channel.internal.md) 
 
@@ -54,4 +57,5 @@ A means for accessing a service, e.g. a government office location, web site, or
 
 ### [service_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/service_channel.personal.md) 
 
-### [service_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/service_channel.secret.md) 
+### [service_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/service_channel.secret.md)
+

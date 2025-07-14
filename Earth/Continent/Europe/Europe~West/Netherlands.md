@@ -601,9 +601,12 @@ Capital :: [[Amsterdam]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Netherlands)
 
+
 ## Confidential Links & Embeds: 
 
-### [Netherlands](/_public/Earth/Continent/Europe/Europe~West/Netherlands.md) 
+### [Netherlands](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands.md) 
+
+### [Netherlands.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands.public.md) 
 
 ### [Netherlands.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal.md) 
 
@@ -613,4 +616,5 @@ Capital :: [[Amsterdam]]
 
 ### [Netherlands.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal.md) 
 
-### [Netherlands.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret.md) 
+### [Netherlands.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret.md)
+

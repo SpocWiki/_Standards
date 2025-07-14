@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -58,10 +58,11 @@ How the disease spreads, either as a route or vector, for example 'direct contac
 TransmissionMethod:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~InfectiousDisease](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.md) 
+### [FileClass~InfectiousDisease](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.md) 
+
+### [FileClass~InfectiousDisease.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.public.md) 
 
 ### [FileClass~InfectiousDisease.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.internal.md) 
 
@@ -71,4 +72,5 @@ TransmissionMethod:: {"type":"Input","options":{}}
 
 ### [FileClass~InfectiousDisease.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.personal.md) 
 
-### [FileClass~InfectiousDisease.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.secret.md) 
+### [FileClass~InfectiousDisease.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_reserved_ticket )
 ( #has_/range :: Ticket )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_reserved_ticket](/_public/schema-org/Relation/has/has_reserved_ticket.md) 
+### [has_reserved_ticket](/_Standards/schema-org/Relation/has/has_reserved_ticket.md) 
+
+### [has_reserved_ticket.public](/_public/schema-org/Relation/has/has_reserved_ticket.public.md) 
 
 ### [has_reserved_ticket.internal](/_internal/schema-org/Relation/has/has_reserved_ticket.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_reserved_ticket.personal](/_personal/schema-org/Relation/has/has_reserved_ticket.personal.md) 
 
-### [has_reserved_ticket.secret](/_secret/schema-org/Relation/has/has_reserved_ticket.secret.md) 
+### [has_reserved_ticket.secret](/_secret/schema-org/Relation/has/has_reserved_ticket.secret.md)
+

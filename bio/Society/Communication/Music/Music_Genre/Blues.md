@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9759
 instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
 subclass_of:
@@ -40,4 +40,23 @@ official_name: blues
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blues) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Blues](/_Standards/bio/Society/Communication/Music/Music_Genre/Blues.md) 
+
+### [Blues.public](/_public/bio/Society/Communication/Music/Music_Genre/Blues.public.md) 
+
+### [Blues.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Blues.internal.md) 
+
+### [Blues.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Blues.protect.md) 
+
+### [Blues.private](/_private/bio/Society/Communication/Music/Music_Genre/Blues.private.md) 
+
+### [Blues.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Blues.personal.md) 
+
+### [Blues.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Blues.secret.md)
 

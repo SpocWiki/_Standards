@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 [ #has_/properties :: [ additionalType, alternateName, causeOf, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_cause](/_public/schema-org/Class/is_a_/medical_entity/medical_cause.md) 
+### [medical_cause](/_Standards/schema-org/Class/is_a_/medical_entity/medical_cause.md) 
+
+### [medical_cause.public](/_public/schema-org/Class/is_a_/medical_entity/medical_cause.public.md) 
 
 ### [medical_cause.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_cause.internal.md) 
 
@@ -54,4 +57,5 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 ### [medical_cause.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_cause.personal.md) 
 
-### [medical_cause.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_cause.secret.md) 
+### [medical_cause.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_cause.secret.md)
+

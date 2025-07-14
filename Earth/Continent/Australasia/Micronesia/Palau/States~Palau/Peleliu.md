@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.03 , 134.26 ] 
 type: geo-Region
 title: Peleliu
@@ -41,7 +41,9 @@ markerFolder: ./Peleliu/
 
 ## Confidential Links & Embeds: 
 
-### [Peleliu](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.md) 
+### [Peleliu](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.md) 
+
+### [Peleliu.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.public.md) 
 
 ### [Peleliu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Peleliu/
 
 ### [Peleliu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.personal.md) 
 
-### [Peleliu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.secret.md) 
+### [Peleliu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.secret.md)
+

@@ -50,3 +50,22 @@ title: Acidobacteria
 	-   *Geothrix fermentans*
 	-   *Holophaga foetida*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Acidobacteria](/_Standards/bio/bio~Domain/Bacteria/Acidobacteria.md) 
+
+### [Acidobacteria.public](/_public/bio/bio~Domain/Bacteria/Acidobacteria.public.md) 
+
+### [Acidobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Acidobacteria.internal.md) 
+
+### [Acidobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Acidobacteria.protect.md) 
+
+### [Acidobacteria.private](/_private/bio/bio~Domain/Bacteria/Acidobacteria.private.md) 
+
+### [Acidobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Acidobacteria.personal.md) 
+
+### [Acidobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Acidobacteria.secret.md)
+

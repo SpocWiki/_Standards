@@ -65,3 +65,22 @@ Photograph copyright © 1985, Scott A. Stockwell.
 ![Diplocentrus whitei](diplocentridae.jpg)
 Copyright ::   © 1985 Scott A. Stockwell
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diplocentridae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.md) 
+
+### [Diplocentridae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.public.md) 
+
+### [Diplocentridae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.internal.md) 
+
+### [Diplocentridae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.protect.md) 
+
+### [Diplocentridae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.private.md) 
+
+### [Diplocentridae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.personal.md) 
+
+### [Diplocentridae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Scorpionoidea/Diplocentridae.secret.md)
+

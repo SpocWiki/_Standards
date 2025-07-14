@@ -210,14 +210,17 @@ die jeweils nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftlich
 
 ## Confidential Links & Embeds: 
 
-### [Fahrerlaubnisklassen](/_public/EU/Fahrerlaubnisklassen.md) 
+### [Fahrerlaubnisklassen](/_Standards/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.md) 
 
-### [Fahrerlaubnisklassen.internal](/_internal/EU/Fahrerlaubnisklassen.internal.md) 
+### [Fahrerlaubnisklassen.public](/_public/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.public.md) 
 
-### [Fahrerlaubnisklassen.protect](/_protect/EU/Fahrerlaubnisklassen.protect.md) 
+### [Fahrerlaubnisklassen.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.internal.md) 
 
-### [Fahrerlaubnisklassen.private](/_private/EU/Fahrerlaubnisklassen.private.md) 
+### [Fahrerlaubnisklassen.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.protect.md) 
 
-### [Fahrerlaubnisklassen.personal](/_personal/EU/Fahrerlaubnisklassen.personal.md) 
+### [Fahrerlaubnisklassen.private](/_private/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.private.md) 
 
-### [Fahrerlaubnisklassen.secret](/_secret/EU/Fahrerlaubnisklassen.secret.md) 
+### [Fahrerlaubnisklassen.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.personal.md) 
+
+### [Fahrerlaubnisklassen.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.secret.md)
+

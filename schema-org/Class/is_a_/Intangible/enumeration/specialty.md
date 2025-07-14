@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 [ #has_/sub_classes :: [ MedicalSpecialty ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [specialty](/_public/schema-org/Class/is_a_/Intangible/enumeration/specialty.md) 
+### [specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/specialty.md) 
+
+### [specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/specialty.public.md) 
 
 ### [specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/specialty.internal.md) 
 
@@ -54,4 +57,5 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 ### [specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/specialty.personal.md) 
 
-### [specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/specialty.secret.md) 
+### [specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/specialty.secret.md)
+

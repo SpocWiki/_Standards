@@ -124,3 +124,21 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Creator           J. R. Schroeder
   Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
   -------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [acanthoderma](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.md) 
+
+### [acanthoderma.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.public.md) 
+
+### [acanthoderma.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.internal.md) 
+
+### [acanthoderma.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.protect.md) 
+
+### [acanthoderma.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.private.md) 
+
+### [acanthoderma.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.personal.md) 
+
+### [acanthoderma.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Chiroteuthidae/Asperoteuthis/acanthoderma.secret.md)
+

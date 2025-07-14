@@ -53,3 +53,22 @@ title: Chactoidea
     -   [Euscorpiidae](Chactoidea/Euscorpiidae.md)
     -   [Scorpiopsidae](Chactoidea/Scorpiopsidae.md)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chactoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.md) 
+
+### [Chactoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.public.md) 
+
+### [Chactoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.internal.md) 
+
+### [Chactoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.protect.md) 
+
+### [Chactoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.private.md) 
+
+### [Chactoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.personal.md) 
+
+### [Chactoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Chactoidea.secret.md)
+

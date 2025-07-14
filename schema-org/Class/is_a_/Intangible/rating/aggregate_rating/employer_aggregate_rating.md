@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An aggregate rating of an Organization related to its role as an employer.
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [employer_aggregate_rating](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.md) 
+### [employer_aggregate_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.md) 
+
+### [employer_aggregate_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.public.md) 
 
 ### [employer_aggregate_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md) 
 
@@ -54,4 +57,5 @@ An aggregate rating of an Organization related to its role as an employer.
 
 ### [employer_aggregate_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.personal.md) 
 
-### [employer_aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md) 
+### [employer_aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md)
+

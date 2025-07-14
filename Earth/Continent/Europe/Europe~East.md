@@ -18,7 +18,9 @@ markerFolder: ./Europe~East/
 
 ## Confidential Links & Embeds: 
 
-### [Europe~East](/_public/Earth/Continent/Europe/Europe~East.md) 
+### [Europe~East](/_Standards/Earth/Continent/Europe/Europe~East.md) 
+
+### [Europe~East.public](/_public/Earth/Continent/Europe/Europe~East.public.md) 
 
 ### [Europe~East.internal](/_internal/Earth/Continent/Europe/Europe~East.internal.md) 
 
@@ -28,4 +30,5 @@ markerFolder: ./Europe~East/
 
 ### [Europe~East.personal](/_personal/Earth/Continent/Europe/Europe~East.personal.md) 
 
-### [Europe~East.secret](/_secret/Earth/Continent/Europe/Europe~East.secret.md) 
+### [Europe~East.secret](/_secret/Earth/Continent/Europe/Europe~East.secret.md)
+

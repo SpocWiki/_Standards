@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_knows_about )
 ( #has_/range :: Text, Thing, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_knows_about](/_public/schema-org/Property/Texts/has_knows_about.md) 
+### [has_knows_about](/_Standards/schema-org/Property/Texts/has_knows_about.md) 
+
+### [has_knows_about.public](/_public/schema-org/Property/Texts/has_knows_about.public.md) 
 
 ### [has_knows_about.internal](/_internal/schema-org/Property/Texts/has_knows_about.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_knows_about.personal](/_personal/schema-org/Property/Texts/has_knows_about.personal.md) 
 
-### [has_knows_about.secret](/_secret/schema-org/Property/Texts/has_knows_about.secret.md) 
+### [has_knows_about.secret](/_secret/schema-org/Property/Texts/has_knows_about.secret.md)
+

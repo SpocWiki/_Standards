@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item has sold out.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sold_out](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.md) 
+### [sold_out](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.md) 
+
+### [sold_out.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.public.md) 
 
 ### [sold_out.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item has sold out.
 
 ### [sold_out.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.personal.md) 
 
-### [sold_out.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.secret.md) 
+### [sold_out.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/sold_out.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [store_credit_refund](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.md) 
+### [store_credit_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.md) 
+
+### [store_credit_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.public.md) 
 
 ### [store_credit_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 ### [store_credit_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md) 
 
-### [store_credit_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md) 
+### [store_credit_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md)
+

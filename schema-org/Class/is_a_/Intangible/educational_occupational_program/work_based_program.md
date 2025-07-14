@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A program with both an educational and employment component. Typically based at 
 
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [work_based_program](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.md) 
+### [work_based_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.md) 
+
+### [work_based_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.public.md) 
 
 ### [work_based_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.internal.md) 
 
@@ -56,4 +59,5 @@ A program with both an educational and employment component. Typically based at 
 
 ### [work_based_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.personal.md) 
 
-### [work_based_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.secret.md) 
+### [work_based_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.secret.md)
+

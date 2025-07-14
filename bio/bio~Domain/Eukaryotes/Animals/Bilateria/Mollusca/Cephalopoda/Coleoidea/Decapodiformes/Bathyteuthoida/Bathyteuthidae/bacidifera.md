@@ -110,3 +110,21 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
   ---------
   Copyright ::   © 1998 C. F. E. Roper
   ---------
+
+
+## Confidential Links & Embeds: 
+
+### [bacidifera](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.md) 
+
+### [bacidifera.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.public.md) 
+
+### [bacidifera.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.internal.md) 
+
+### [bacidifera.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.protect.md) 
+
+### [bacidifera.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.private.md) 
+
+### [bacidifera.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.personal.md) 
+
+### [bacidifera.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Bathyteuthidae/bacidifera.secret.md)
+

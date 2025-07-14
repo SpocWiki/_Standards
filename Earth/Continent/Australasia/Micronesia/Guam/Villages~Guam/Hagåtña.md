@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13.47917,144.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,7 +35,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagåtña](/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.md) 
+### [Hagåtña](/_Standards/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.md) 
+
+### [Hagåtña.public](/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.public.md) 
 
 ### [Hagåtña.internal](/_internal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.internal.md) 
 
@@ -45,4 +47,5 @@ maxZoom: 18
 
 ### [Hagåtña.personal](/_personal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.personal.md) 
 
-### [Hagåtña.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret.md) 
+### [Hagåtña.secret](/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret.md)
+

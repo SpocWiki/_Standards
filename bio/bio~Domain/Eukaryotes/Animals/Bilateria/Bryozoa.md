@@ -102,3 +102,22 @@ Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bryozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.md) 
+
+### [Bryozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.public.md) 
+
+### [Bryozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.internal.md) 
+
+### [Bryozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.protect.md) 
+
+### [Bryozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.private.md) 
+
+### [Bryozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.personal.md) 
+
+### [Bryozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Bryozoa.secret.md)
+

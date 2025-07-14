@@ -148,3 +148,22 @@ Comments             skeletal and life reconstructions
 Reference            Panchen, A.L. and Smithson, T.R. 1990. The pelvic girdle and hind limb of Crassigyrinus scoticus (Lydekker) from the Scottish Carboniferous and the origin of the tetrapod pelvic skeleton. Transactions of the Royal Society of Edinburgh: Earth Sciences. 81:31-44.
 Specimen Condition   Fossil
 Copyright ::            © 1990 Royal Society of Edinburgh
+
+
+
+## Confidential Links & Embeds: 
+
+### [Crassigyrinus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.md) 
+
+### [Crassigyrinus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.public.md) 
+
+### [Crassigyrinus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.internal.md) 
+
+### [Crassigyrinus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.protect.md) 
+
+### [Crassigyrinus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.private.md) 
+
+### [Crassigyrinus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.personal.md) 
+
+### [Crassigyrinus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Crassigyrinus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_slogan )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_slogan](/_public/schema-org/Property/Texts/has_slogan.md) 
+### [has_slogan](/_Standards/schema-org/Property/Texts/has_slogan.md) 
+
+### [has_slogan.public](/_public/schema-org/Property/Texts/has_slogan.public.md) 
 
 ### [has_slogan.internal](/_internal/schema-org/Property/Texts/has_slogan.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_slogan.personal](/_personal/schema-org/Property/Texts/has_slogan.personal.md) 
 
-### [has_slogan.secret](/_secret/schema-org/Property/Texts/has_slogan.secret.md) 
+### [has_slogan.secret](/_secret/schema-org/Property/Texts/has_slogan.secret.md)
+

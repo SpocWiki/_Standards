@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -68,10 +68,11 @@ An update to the LiveBlog.
 LiveBlogUpdate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LiveBlogPosting](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.md) 
+### [FileClass~LiveBlogPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.md) 
+
+### [FileClass~LiveBlogPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.public.md) 
 
 ### [FileClass~LiveBlogPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.internal.md) 
 
@@ -81,4 +82,5 @@ LiveBlogUpdate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~LiveBlogPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.personal.md) 
 
-### [FileClass~LiveBlogPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.secret.md) 
+### [FileClass~LiveBlogPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting/FileClass~LiveBlogPosting.secret.md)
+

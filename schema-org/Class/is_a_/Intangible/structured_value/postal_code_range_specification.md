@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [postal_code_range_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.md) 
+### [postal_code_range_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.md) 
+
+### [postal_code_range_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.public.md) 
 
 ### [postal_code_range_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 ### [postal_code_range_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.personal.md) 
 
-### [postal_code_range_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.secret.md) 
+### [postal_code_range_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/postal_code_range_specification.secret.md)
+

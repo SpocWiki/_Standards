@@ -21,3 +21,22 @@ has_id_wikidata: Q2736
 > [Wikipedia](https://en.wikipedia.org/wiki/Football)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Football](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.md) 
+
+### [Football.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.public.md) 
+
+### [Football.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.internal.md) 
+
+### [Football.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.protect.md) 
+
+### [Football.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.private.md) 
+
+### [Football.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.personal.md) 
+
+### [Football.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football.secret.md)
+

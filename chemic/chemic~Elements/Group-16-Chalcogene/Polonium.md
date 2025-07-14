@@ -42,9 +42,12 @@ has_id_wikidata: Q979
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polonium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Polonium](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.md) 
+### [Polonium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.md) 
+
+### [Polonium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.public.md) 
 
 ### [Polonium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.internal.md) 
 
@@ -54,4 +57,5 @@ has_id_wikidata: Q979
 
 ### [Polonium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.personal.md) 
 
-### [Polonium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.secret.md) 
+### [Polonium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.secret.md)
+

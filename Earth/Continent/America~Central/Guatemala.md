@@ -506,9 +506,12 @@ Capital :: [[Guatemala_City]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guatemala)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guatemala](/_public/Earth/Continent/America~Central/Guatemala.md) 
+### [Guatemala](/_Standards/Earth/Continent/America~Central/Guatemala.md) 
+
+### [Guatemala.public](/_public/Earth/Continent/America~Central/Guatemala.public.md) 
 
 ### [Guatemala.internal](/_internal/Earth/Continent/America~Central/Guatemala.internal.md) 
 
@@ -518,4 +521,5 @@ Capital :: [[Guatemala_City]]
 
 ### [Guatemala.personal](/_personal/Earth/Continent/America~Central/Guatemala.personal.md) 
 
-### [Guatemala.secret](/_secret/Earth/Continent/America~Central/Guatemala.secret.md) 
+### [Guatemala.secret](/_secret/Earth/Continent/America~Central/Guatemala.secret.md)
+

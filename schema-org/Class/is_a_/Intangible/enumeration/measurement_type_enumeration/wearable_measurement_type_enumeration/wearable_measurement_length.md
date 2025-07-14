@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the length, for example of a dress
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_length](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.md) 
+### [wearable_measurement_length](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.md) 
+
+### [wearable_measurement_length.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.public.md) 
 
 ### [wearable_measurement_length.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the length, for example of a dress
 
 ### [wearable_measurement_length.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.personal.md) 
 
-### [wearable_measurement_length.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.secret.md) 
+### [wearable_measurement_length.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.secret.md)
+

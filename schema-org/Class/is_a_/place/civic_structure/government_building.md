@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A government building.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [government_building](/_public/schema-org/Class/is_a_/place/civic_structure/government_building.md) 
+### [government_building](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building.md) 
+
+### [government_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building.public.md) 
 
 ### [government_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building.internal.md) 
 
@@ -56,4 +59,5 @@ A government building.
 
 ### [government_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building.personal.md) 
 
-### [government_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building.secret.md) 
+### [government_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An advertising section of the page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WPAdBlock](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.md) 
+### [FileClass~WPAdBlock](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.md) 
+
+### [FileClass~WPAdBlock.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.public.md) 
 
 ### [FileClass~WPAdBlock.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.internal.md) 
 
@@ -46,4 +47,5 @@ An advertising section of the page.
 
 ### [FileClass~WPAdBlock.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.personal.md) 
 
-### [FileClass~WPAdBlock.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.secret.md) 
+### [FileClass~WPAdBlock.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPAdBlock.secret.md)
+

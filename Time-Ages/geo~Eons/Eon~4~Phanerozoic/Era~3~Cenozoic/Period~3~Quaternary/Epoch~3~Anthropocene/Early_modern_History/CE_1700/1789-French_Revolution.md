@@ -70,3 +70,22 @@ UMLS_CUI: C1449767
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/French%20Revolution) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1789-French_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.md) 
+
+### [1789-French_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.public.md) 
+
+### [1789-French_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.internal.md) 
+
+### [1789-French_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.protect.md) 
+
+### [1789-French_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.private.md) 
+
+### [1789-French_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.personal.md) 
+
+### [1789-French_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.secret.md)
+

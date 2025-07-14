@@ -321,3 +321,22 @@ of tetrapods and lungfish. Nature 418:767-770.
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   Copyright ::            © 2005 [Matana_and_Jes](http://flickr.com/people/matana/)
   ----------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sarc](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.md) 
+
+### [Sarc.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.public.md) 
+
+### [Sarc.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.internal.md) 
+
+### [Sarc.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.protect.md) 
+
+### [Sarc.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.private.md) 
+
+### [Sarc.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.personal.md) 
+
+### [Sarc.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc.secret.md)
+

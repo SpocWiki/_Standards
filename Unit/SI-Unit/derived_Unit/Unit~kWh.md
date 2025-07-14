@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~kWh]] 
 
 #is_a_/unit_/for_ :: [[../../../Dimension/Derived_Dimension/Dim~Energy|Dim~Energy]] 
@@ -12,7 +12,9 @@ Used for Heating and electrical Power Supply at the scale of one Houshold.
 
 ## Confidential Links & Embeds: 
 
-### [Unit~kWh](/_public/Unit/SI-Unit/derived_Unit/Unit~kWh.md) 
+### [Unit~kWh](/_Standards/Unit/SI-Unit/derived_Unit/Unit~kWh.md) 
+
+### [Unit~kWh.public](/_public/Unit/SI-Unit/derived_Unit/Unit~kWh.public.md) 
 
 ### [Unit~kWh.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~kWh.internal.md) 
 
@@ -22,4 +24,5 @@ Used for Heating and electrical Power Supply at the scale of one Houshold.
 
 ### [Unit~kWh.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~kWh.personal.md) 
 
-### [Unit~kWh.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~kWh.secret.md) 
+### [Unit~kWh.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~kWh.secret.md)
+

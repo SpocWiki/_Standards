@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An agent orders an object/product/service to be delivered/sent.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_action](/_public/schema-org/Class/is_a_/action/trade_action/order_action.md) 
+### [order_action](/_Standards/schema-org/Class/is_a_/action/trade_action/order_action.md) 
+
+### [order_action.public](/_public/schema-org/Class/is_a_/action/trade_action/order_action.public.md) 
 
 ### [order_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/order_action.internal.md) 
 
@@ -54,4 +57,5 @@ An agent orders an object/product/service to be delivered/sent.
 
 ### [order_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/order_action.personal.md) 
 
-### [order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/order_action.secret.md) 
+### [order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/order_action.secret.md)
+

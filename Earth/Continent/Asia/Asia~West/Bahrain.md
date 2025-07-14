@@ -430,9 +430,12 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bahrain)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bahrain](/_public/Earth/Continent/Asia/Asia~West/Bahrain.md) 
+### [Bahrain](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain.md) 
+
+### [Bahrain.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain.public.md) 
 
 ### [Bahrain.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal.md) 
 
@@ -442,4 +445,5 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 
 ### [Bahrain.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal.md) 
 
-### [Bahrain.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret.md) 
+### [Bahrain.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret.md)
+

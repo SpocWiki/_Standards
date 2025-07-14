@@ -216,7 +216,9 @@ Whey-Powder is very valuable, but should be acquired pure which makes it also mo
 
 ## Confidential Links & Embeds: 
 
-### [protein](/_public/schema-org/Class/is_a_/bio_chem_entity/protein.md) 
+### [protein](/_Standards/schema-org/Class/is_a_/bio_chem_entity/protein.md) 
+
+### [protein.public](/_public/schema-org/Class/is_a_/bio_chem_entity/protein.public.md) 
 
 ### [protein.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/protein.internal.md) 
 
@@ -226,4 +228,5 @@ Whey-Powder is very valuable, but should be acquired pure which makes it also mo
 
 ### [protein.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/protein.personal.md) 
 
-### [protein.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/protein.secret.md) 
+### [protein.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/protein.secret.md)
+

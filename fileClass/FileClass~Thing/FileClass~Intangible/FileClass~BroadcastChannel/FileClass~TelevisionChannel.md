@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TelevisionChannel](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.md) 
+### [FileClass~TelevisionChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.md) 
+
+### [FileClass~TelevisionChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.public.md) 
 
 ### [FileClass~TelevisionChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.internal.md) 
 
@@ -46,4 +47,5 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 ### [FileClass~TelevisionChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.personal.md) 
 
-### [FileClass~TelevisionChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.secret.md) 
+### [FileClass~TelevisionChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~TelevisionChannel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Motorcycle](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.md) 
+### [FileClass~Motorcycle](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.md) 
+
+### [FileClass~Motorcycle.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.public.md) 
 
 ### [FileClass~Motorcycle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.internal.md) 
 
@@ -46,4 +47,5 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
 ### [FileClass~Motorcycle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.personal.md) 
 
-### [FileClass~Motorcycle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.secret.md) 
+### [FileClass~Motorcycle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Motorcycle.secret.md)
+

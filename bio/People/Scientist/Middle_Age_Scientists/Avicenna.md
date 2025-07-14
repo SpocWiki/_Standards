@@ -154,3 +154,22 @@ date_of_birth: "0980"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Avicenna](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Avicenna.md) 
+
+### [Avicenna.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Avicenna.public.md) 
+
+### [Avicenna.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.internal.md) 
+
+### [Avicenna.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Avicenna.protect.md) 
+
+### [Avicenna.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Avicenna.private.md) 
+
+### [Avicenna.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.personal.md) 
+
+### [Avicenna.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Avicenna.secret.md)
+

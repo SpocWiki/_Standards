@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_page_end )
 ( #has_/range :: Integer, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_page_end](/_public/schema-org/Property/has_number_of/has_number_of_page_end.md) 
+### [has_number_of_page_end](/_Standards/schema-org/Property/has_number_of/has_number_of_page_end.md) 
+
+### [has_number_of_page_end.public](/_public/schema-org/Property/has_number_of/has_number_of_page_end.public.md) 
 
 ### [has_number_of_page_end.internal](/_internal/schema-org/Property/has_number_of/has_number_of_page_end.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_page_end.personal](/_personal/schema-org/Property/has_number_of/has_number_of_page_end.personal.md) 
 
-### [has_number_of_page_end.secret](/_secret/schema-org/Property/has_number_of/has_number_of_page_end.secret.md) 
+### [has_number_of_page_end.secret](/_secret/schema-org/Property/has_number_of/has_number_of_page_end.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_potential_use )
 ( #has_/range :: DefinedTerm )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_potential_use](/_public/schema-org/Relation/has/has_potential_use.md) 
+### [has_potential_use](/_Standards/schema-org/Relation/has/has_potential_use.md) 
+
+### [has_potential_use.public](/_public/schema-org/Relation/has/has_potential_use.public.md) 
 
 ### [has_potential_use.internal](/_internal/schema-org/Relation/has/has_potential_use.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_potential_use.personal](/_personal/schema-org/Relation/has/has_potential_use.personal.md) 
 
-### [has_potential_use.secret](/_secret/schema-org/Relation/has/has_potential_use.secret.md) 
+### [has_potential_use.secret](/_secret/schema-org/Relation/has/has_potential_use.secret.md)
+

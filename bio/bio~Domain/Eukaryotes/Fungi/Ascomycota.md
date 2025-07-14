@@ -467,3 +467,22 @@ edit internet links
   Body Part         Mitospores (conidia)
   Copyright ::         © 1996 K. Wells
   -------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ascomycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.md) 
+
+### [Ascomycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.public.md) 
+
+### [Ascomycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.internal.md) 
+
+### [Ascomycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.protect.md) 
+
+### [Ascomycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.private.md) 
+
+### [Ascomycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.personal.md) 
+
+### [Ascomycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota.secret.md)
+

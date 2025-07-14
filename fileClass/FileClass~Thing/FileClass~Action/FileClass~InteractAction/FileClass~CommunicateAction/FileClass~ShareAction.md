@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of distributing content to people for their amusement or edification.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShareAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.md) 
+### [FileClass~ShareAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.md) 
+
+### [FileClass~ShareAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.public.md) 
 
 ### [FileClass~ShareAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of distributing content to people for their amusement or edification.
 
 ### [FileClass~ShareAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.personal.md) 
 
-### [FileClass~ShareAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.secret.md) 
+### [FileClass~ShareAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.secret.md)
+

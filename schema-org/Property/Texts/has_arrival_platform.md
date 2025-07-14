@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_arrival_platform )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_arrival_platform](/_public/schema-org/Property/Texts/has_arrival_platform.md) 
+### [has_arrival_platform](/_Standards/schema-org/Property/Texts/has_arrival_platform.md) 
+
+### [has_arrival_platform.public](/_public/schema-org/Property/Texts/has_arrival_platform.public.md) 
 
 ### [has_arrival_platform.internal](/_internal/schema-org/Property/Texts/has_arrival_platform.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_arrival_platform.personal](/_personal/schema-org/Property/Texts/has_arrival_platform.personal.md) 
 
-### [has_arrival_platform.secret](/_secret/schema-org/Property/Texts/has_arrival_platform.secret.md) 
+### [has_arrival_platform.secret](/_secret/schema-org/Property/Texts/has_arrival_platform.secret.md)
+

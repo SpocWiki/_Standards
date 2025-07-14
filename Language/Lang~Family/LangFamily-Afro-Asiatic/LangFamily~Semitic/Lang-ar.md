@@ -36,10 +36,11 @@ has_id_wikidata: Q13955
 > [Wikipedia](https://en.wikipedia.org/wiki/Arabic)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lang-ar](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
+### [Lang-ar](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
+
+### [Lang-ar.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.public.md) 
 
 ### [Lang-ar.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.internal.md) 
 
@@ -49,4 +50,5 @@ has_id_wikidata: Q13955
 
 ### [Lang-ar.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.personal.md) 
 
-### [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md) 
+### [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md)
+

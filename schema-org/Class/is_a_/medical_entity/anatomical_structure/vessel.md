@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [vessel](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
+### [vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
+
+### [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
 
 ### [vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.internal.md) 
 
@@ -56,4 +59,5 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 ### [vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.personal.md) 
 
-### [vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md) 
+### [vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md)
+

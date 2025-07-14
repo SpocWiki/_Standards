@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Measurement of the inseam, for example of pants
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_inseam](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.md) 
+### [wearable_measurement_inseam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.md) 
+
+### [wearable_measurement_inseam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.public.md) 
 
 ### [wearable_measurement_inseam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.internal.md) 
 
@@ -58,4 +61,5 @@ Measurement of the inseam, for example of pants
 
 ### [wearable_measurement_inseam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.personal.md) 
 
-### [wearable_measurement_inseam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.secret.md) 
+### [wearable_measurement_inseam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.secret.md)
+

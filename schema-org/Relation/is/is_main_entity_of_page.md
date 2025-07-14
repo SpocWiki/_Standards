@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -83,9 +83,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_main_entity_of_page](/_public/schema-org/Relation/is/is_main_entity_of_page.md) 
+### [is_main_entity_of_page](/_Standards/schema-org/Relation/is/is_main_entity_of_page.md) 
+
+### [is_main_entity_of_page.public](/_public/schema-org/Relation/is/is_main_entity_of_page.public.md) 
 
 ### [is_main_entity_of_page.internal](/_internal/schema-org/Relation/is/is_main_entity_of_page.internal.md) 
 
@@ -95,4 +98,5 @@ Relation describes that:
 
 ### [is_main_entity_of_page.personal](/_personal/schema-org/Relation/is/is_main_entity_of_page.personal.md) 
 
-### [is_main_entity_of_page.secret](/_secret/schema-org/Relation/is/is_main_entity_of_page.secret.md) 
+### [is_main_entity_of_page.secret](/_secret/schema-org/Relation/is/is_main_entity_of_page.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A field of public health focusing on improving health characteristics of a defin
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [community_health](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.md) 
+### [community_health](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.md) 
+
+### [community_health.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.public.md) 
 
 ### [community_health.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.internal.md) 
 
@@ -56,4 +59,5 @@ A field of public health focusing on improving health characteristics of a defin
 
 ### [community_health.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.personal.md) 
 
-### [community_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md) 
+### [community_health.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md)
+

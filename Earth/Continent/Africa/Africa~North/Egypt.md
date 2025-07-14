@@ -609,7 +609,9 @@ Capital ::[[Cairo]]]
 
 ## Confidential Links & Embeds: 
 
-### [Egypt](/_public/Earth/Continent/Africa/Africa~North/Egypt.md) 
+### [Egypt](/_Standards/Earth/Continent/Africa/Africa~North/Egypt.md) 
+
+### [Egypt.public](/_public/Earth/Continent/Africa/Africa~North/Egypt.public.md) 
 
 ### [Egypt.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal.md) 
 
@@ -619,4 +621,5 @@ Capital ::[[Cairo]]]
 
 ### [Egypt.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal.md) 
 
-### [Egypt.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret.md) 
+### [Egypt.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret.md)
+

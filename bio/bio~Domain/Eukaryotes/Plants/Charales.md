@@ -101,3 +101,22 @@ part of a revision of the Characeae. Verlag von J. Cramer, Weinheim.
   ---------
   Copyright ::   © 1996 R. M. McCourt
   ---------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Charales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Charales.md) 
+
+### [Charales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Charales.public.md) 
+
+### [Charales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Charales.internal.md) 
+
+### [Charales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Charales.protect.md) 
+
+### [Charales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Charales.private.md) 
+
+### [Charales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Charales.personal.md) 
+
+### [Charales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Charales.secret.md)
+

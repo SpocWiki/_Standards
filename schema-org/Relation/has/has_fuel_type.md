@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_fuel_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_fuel_type](/_public/schema-org/Relation/has/has_fuel_type.md) 
+### [has_fuel_type](/_Standards/schema-org/Relation/has/has_fuel_type.md) 
+
+### [has_fuel_type.public](/_public/schema-org/Relation/has/has_fuel_type.public.md) 
 
 ### [has_fuel_type.internal](/_internal/schema-org/Relation/has/has_fuel_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_fuel_type.personal](/_personal/schema-org/Relation/has/has_fuel_type.personal.md) 
 
-### [has_fuel_type.secret](/_secret/schema-org/Relation/has/has_fuel_type.secret.md) 
+### [has_fuel_type.secret](/_secret/schema-org/Relation/has/has_fuel_type.secret.md)
+

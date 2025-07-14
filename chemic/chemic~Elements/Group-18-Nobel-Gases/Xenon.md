@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21950
 has_id_wikidata: Q1106
@@ -101,11 +101,11 @@ Unicode_character: 氙
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenon)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Xenon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
+### [Xenon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.md) 
+
+### [Xenon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.public.md) 
 
 ### [Xenon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
 
@@ -115,4 +115,5 @@ Unicode_character: 氙
 
 ### [Xenon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
 
-### [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md) 
+### [Xenon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Xenon.secret.md)
+

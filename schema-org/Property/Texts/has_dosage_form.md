@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_dosage_form )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_dosage_form](/_public/schema-org/Property/Texts/has_dosage_form.md) 
+### [has_dosage_form](/_Standards/schema-org/Property/Texts/has_dosage_form.md) 
+
+### [has_dosage_form.public](/_public/schema-org/Property/Texts/has_dosage_form.public.md) 
 
 ### [has_dosage_form.internal](/_internal/schema-org/Property/Texts/has_dosage_form.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_dosage_form.personal](/_personal/schema-org/Property/Texts/has_dosage_form.personal.md) 
 
-### [has_dosage_form.secret](/_secret/schema-org/Property/Texts/has_dosage_form.secret.md) 
+### [has_dosage_form.secret](/_secret/schema-org/Property/Texts/has_dosage_form.secret.md)
+

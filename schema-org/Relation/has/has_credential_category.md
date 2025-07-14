@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_credential_category )
 ( #has_/range :: DefinedTerm, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_credential_category](/_public/schema-org/Relation/has/has_credential_category.md) 
+### [has_credential_category](/_Standards/schema-org/Relation/has/has_credential_category.md) 
+
+### [has_credential_category.public](/_public/schema-org/Relation/has/has_credential_category.public.md) 
 
 ### [has_credential_category.internal](/_internal/schema-org/Relation/has/has_credential_category.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_credential_category.personal](/_personal/schema-org/Relation/has/has_credential_category.personal.md) 
 
-### [has_credential_category.secret](/_secret/schema-org/Relation/has/has_credential_category.secret.md) 
+### [has_credential_category.secret](/_secret/schema-org/Relation/has/has_credential_category.secret.md)
+

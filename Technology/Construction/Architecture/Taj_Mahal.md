@@ -73,3 +73,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TADZH-MAHAL.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taj%20Mahal) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Taj_Mahal](/_Standards/Technology/Construction/Architecture/Taj_Mahal.md) 
+
+### [Taj_Mahal.public](/_public/Technology/Construction/Architecture/Taj_Mahal.public.md) 
+
+### [Taj_Mahal.internal](/_internal/Technology/Construction/Architecture/Taj_Mahal.internal.md) 
+
+### [Taj_Mahal.protect](/_protect/Technology/Construction/Architecture/Taj_Mahal.protect.md) 
+
+### [Taj_Mahal.private](/_private/Technology/Construction/Architecture/Taj_Mahal.private.md) 
+
+### [Taj_Mahal.personal](/_personal/Technology/Construction/Architecture/Taj_Mahal.personal.md) 
+
+### [Taj_Mahal.secret](/_secret/Technology/Construction/Architecture/Taj_Mahal.secret.md)
+

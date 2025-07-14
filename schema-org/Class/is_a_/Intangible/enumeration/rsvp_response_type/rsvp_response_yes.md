@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The invitee will attend.
 
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_yes](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.md) 
+### [rsvp_response_yes](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.md) 
+
+### [rsvp_response_yes.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.public.md) 
 
 ### [rsvp_response_yes.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md) 
 
@@ -56,4 +59,5 @@ The invitee will attend.
 
 ### [rsvp_response_yes.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md) 
 
-### [rsvp_response_yes.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md) 
+### [rsvp_response_yes.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,11 @@ The SHA256 Algorithm is part of the SHA-2 Family and still considered safe in 20
 But a 3rd Family SHA-3 was defined in 2012. 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [has_sha256](/_public/schema-org/Property/Texts/has_sha256.md) 
+### [has_sha256](/_Standards/schema-org/Property/Texts/has_sha256.md) 
+
+### [has_sha256.public](/_public/schema-org/Property/Texts/has_sha256.public.md) 
 
 ### [has_sha256.internal](/_internal/schema-org/Property/Texts/has_sha256.internal.md) 
 
@@ -66,4 +67,5 @@ But a 3rd Family SHA-3 was defined in 2012.
 
 ### [has_sha256.personal](/_personal/schema-org/Property/Texts/has_sha256.personal.md) 
 
-### [has_sha256.secret](/_secret/schema-org/Property/Texts/has_sha256.secret.md) 
+### [has_sha256.secret](/_secret/schema-org/Property/Texts/has_sha256.secret.md)
+

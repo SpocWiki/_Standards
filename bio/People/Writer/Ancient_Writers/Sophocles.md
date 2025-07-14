@@ -108,3 +108,22 @@ name_in_native_language: Σοφοκλῆς
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sophocles)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sophocles](/_Standards/bio/People/Writer/Ancient_Writers/Sophocles.md) 
+
+### [Sophocles.public](/_public/bio/People/Writer/Ancient_Writers/Sophocles.public.md) 
+
+### [Sophocles.internal](/_internal/bio/People/Writer/Ancient_Writers/Sophocles.internal.md) 
+
+### [Sophocles.protect](/_protect/bio/People/Writer/Ancient_Writers/Sophocles.protect.md) 
+
+### [Sophocles.private](/_private/bio/People/Writer/Ancient_Writers/Sophocles.private.md) 
+
+### [Sophocles.personal](/_personal/bio/People/Writer/Ancient_Writers/Sophocles.personal.md) 
+
+### [Sophocles.secret](/_secret/bio/People/Writer/Ancient_Writers/Sophocles.secret.md)
+

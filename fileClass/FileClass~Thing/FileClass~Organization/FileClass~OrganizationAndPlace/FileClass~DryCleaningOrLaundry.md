@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A dry-cleaning business.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DryCleaningOrLaundry](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.md) 
+### [FileClass~DryCleaningOrLaundry](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.md) 
+
+### [FileClass~DryCleaningOrLaundry.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.public.md) 
 
 ### [FileClass~DryCleaningOrLaundry.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.internal.md) 
 
@@ -46,4 +47,5 @@ A dry-cleaning business.
 
 ### [FileClass~DryCleaningOrLaundry.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.personal.md) 
 
-### [FileClass~DryCleaningOrLaundry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.secret.md) 
+### [FileClass~DryCleaningOrLaundry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.secret.md)
+

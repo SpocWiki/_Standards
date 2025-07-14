@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of participating in performance arts.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, entertainmentBusiness, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [perform_action](/_public/schema-org/Class/is_a_/action/play_action/perform_action.md) 
+### [perform_action](/_Standards/schema-org/Class/is_a_/action/play_action/perform_action.md) 
+
+### [perform_action.public](/_public/schema-org/Class/is_a_/action/play_action/perform_action.public.md) 
 
 ### [perform_action.internal](/_internal/schema-org/Class/is_a_/action/play_action/perform_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of participating in performance arts.
 
 ### [perform_action.personal](/_personal/schema-org/Class/is_a_/action/play_action/perform_action.personal.md) 
 
-### [perform_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/perform_action.secret.md) 
+### [perform_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/perform_action.secret.md)
+

@@ -517,9 +517,12 @@ Capital :: [[Bamako]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mali)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mali](/_public/Earth/Continent/Africa/Africa~West/Mali.md) 
+### [Mali](/_Standards/Earth/Continent/Africa/Africa~West/Mali.md) 
+
+### [Mali.public](/_public/Earth/Continent/Africa/Africa~West/Mali.public.md) 
 
 ### [Mali.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali.internal.md) 
 
@@ -529,4 +532,5 @@ Capital :: [[Bamako]]
 
 ### [Mali.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali.personal.md) 
 
-### [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali.secret.md) 
+### [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali.secret.md)
+

@@ -56,16 +56,20 @@ Formal Predicate:
 
 Has [sub_properties::legislationDate]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_started](/_public/schema-org/Property/has_Date_Time/has_time_started.md) 
+### [has_time_created](/_Standards/schema-org/Property/has_Date_Time/has_time_created.md) 
 
-### [has_time_started.internal](/_internal/schema-org/Property/has_Date_Time/has_time_started.internal.md) 
+### [has_time_created.public](/_public/schema-org/Property/has_Date_Time/has_time_created.public.md) 
 
-### [has_time_started.protect](/_protect/schema-org/Property/has_Date_Time/has_time_started.protect.md) 
+### [has_time_created.internal](/_internal/schema-org/Property/has_Date_Time/has_time_created.internal.md) 
 
-### [has_time_started.private](/_private/schema-org/Property/has_Date_Time/has_time_started.private.md) 
+### [has_time_created.protect](/_protect/schema-org/Property/has_Date_Time/has_time_created.protect.md) 
 
-### [has_time_started.personal](/_personal/schema-org/Property/has_Date_Time/has_time_started.personal.md) 
+### [has_time_created.private](/_private/schema-org/Property/has_Date_Time/has_time_created.private.md) 
 
-### [has_time_started.secret](/_secret/schema-org/Property/has_Date_Time/has_time_started.secret.md) 
+### [has_time_created.personal](/_personal/schema-org/Property/has_Date_Time/has_time_created.personal.md) 
+
+### [has_time_created.secret](/_secret/schema-org/Property/has_Date_Time/has_time_created.secret.md)
+

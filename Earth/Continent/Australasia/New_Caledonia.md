@@ -1,4 +1,4 @@
-﻿# [[New_Caledonia]] 
+# [[New_Caledonia]] 
 
 ## Edit
 
@@ -18,9 +18,12 @@ briefMax: 128
 noteOnly: true
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [New_Caledonia](/_public/Earth/Continent/Australasia/New_Caledonia.md) 
+### [New_Caledonia](/_Standards/Earth/Continent/Australasia/New_Caledonia.md) 
+
+### [New_Caledonia.public](/_public/Earth/Continent/Australasia/New_Caledonia.public.md) 
 
 ### [New_Caledonia.internal](/_internal/Earth/Continent/Australasia/New_Caledonia.internal.md) 
 
@@ -30,4 +33,5 @@ noteOnly: true
 
 ### [New_Caledonia.personal](/_personal/Earth/Continent/Australasia/New_Caledonia.personal.md) 
 
-### [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/New_Caledonia.secret.md) 
+### [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/New_Caledonia.secret.md)
+

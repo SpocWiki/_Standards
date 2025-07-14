@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_seasons )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_seasons](/_public/schema-org/Property/has_number_of/has_number_of_seasons.md) 
+### [has_number_of_seasons](/_Standards/schema-org/Property/has_number_of/has_number_of_seasons.md) 
+
+### [has_number_of_seasons.public](/_public/schema-org/Property/has_number_of/has_number_of_seasons.public.md) 
 
 ### [has_number_of_seasons.internal](/_internal/schema-org/Property/has_number_of/has_number_of_seasons.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_seasons.personal](/_personal/schema-org/Property/has_number_of/has_number_of_seasons.personal.md) 
 
-### [has_number_of_seasons.secret](/_secret/schema-org/Property/has_number_of/has_number_of_seasons.secret.md) 
+### [has_number_of_seasons.secret](/_secret/schema-org/Property/has_number_of/has_number_of_seasons.secret.md)
+

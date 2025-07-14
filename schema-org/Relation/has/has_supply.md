@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ ingredients, recipeIngredient ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_supply](/_public/schema-org/Relation/has/has_supply.md) 
+### [has_supply](/_Standards/schema-org/Relation/has/has_supply.md) 
+
+### [has_supply.public](/_public/schema-org/Relation/has/has_supply.public.md) 
 
 ### [has_supply.internal](/_internal/schema-org/Relation/has/has_supply.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_supply.personal](/_personal/schema-org/Relation/has/has_supply.personal.md) 
 
-### [has_supply.secret](/_secret/schema-org/Relation/has/has_supply.secret.md) 
+### [has_supply.secret](/_secret/schema-org/Relation/has/has_supply.secret.md)
+

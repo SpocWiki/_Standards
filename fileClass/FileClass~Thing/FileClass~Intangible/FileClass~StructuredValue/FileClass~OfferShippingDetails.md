@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -167,10 +167,11 @@ The width of the item.
 Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OfferShippingDetails](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.md) 
+### [FileClass~OfferShippingDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.md) 
+
+### [FileClass~OfferShippingDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.public.md) 
 
 ### [FileClass~OfferShippingDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.internal.md) 
 
@@ -180,4 +181,5 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ### [FileClass~OfferShippingDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.personal.md) 
 
-### [FileClass~OfferShippingDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.secret.md) 
+### [FileClass~OfferShippingDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.secret.md)
+

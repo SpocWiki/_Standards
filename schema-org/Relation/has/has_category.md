@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ accommodationCategory ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_category](/_public/schema-org/Relation/has/has_category.md) 
+### [has_category](/_Standards/schema-org/Relation/has/has_category.md) 
+
+### [has_category.public](/_public/schema-org/Relation/has/has_category.public.md) 
 
 ### [has_category.internal](/_internal/schema-org/Relation/has/has_category.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_category.personal](/_personal/schema-org/Relation/has/has_category.personal.md) 
 
-### [has_category.secret](/_secret/schema-org/Relation/has/has_category.secret.md) 
+### [has_category.secret](/_secret/schema-org/Relation/has/has_category.secret.md)
+

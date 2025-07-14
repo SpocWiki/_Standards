@@ -1087,9 +1087,12 @@ Capital :: [[Canberra]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Australia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Australia](/_public/Earth/Continent/Australasia/Australia.md) 
+### [Australia](/_Standards/Earth/Continent/Australasia/Australia.md) 
+
+### [Australia.public](/_public/Earth/Continent/Australasia/Australia.public.md) 
 
 ### [Australia.internal](/_internal/Earth/Continent/Australasia/Australia.internal.md) 
 
@@ -1099,4 +1102,5 @@ Capital :: [[Canberra]]
 
 ### [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
 
-### [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md) 
+### [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md)
+

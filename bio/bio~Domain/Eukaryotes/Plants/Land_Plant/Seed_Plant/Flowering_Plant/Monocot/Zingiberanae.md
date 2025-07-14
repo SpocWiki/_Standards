@@ -110,3 +110,22 @@ Morphological synapomorphies for the clade include
   Comments          ginger
   Copyright ::         © 1997 W. John Kress and William J. Hahn
   ----------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Zingiberanae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.md) 
+
+### [Zingiberanae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.public.md) 
+
+### [Zingiberanae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.internal.md) 
+
+### [Zingiberanae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.protect.md) 
+
+### [Zingiberanae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.private.md) 
+
+### [Zingiberanae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.personal.md) 
+
+### [Zingiberanae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberanae.secret.md)
+

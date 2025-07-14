@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_strength_unit )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_strength_unit](/_public/schema-org/Property/Texts/has_strength_unit.md) 
+### [has_strength_unit](/_Standards/schema-org/Property/Texts/has_strength_unit.md) 
+
+### [has_strength_unit.public](/_public/schema-org/Property/Texts/has_strength_unit.public.md) 
 
 ### [has_strength_unit.internal](/_internal/schema-org/Property/Texts/has_strength_unit.internal.md) 
 
@@ -55,4 +58,5 @@ Predicated describes that:
 
 ### [has_strength_unit.personal](/_personal/schema-org/Property/Texts/has_strength_unit.personal.md) 
 
-### [has_strength_unit.secret](/_secret/schema-org/Property/Texts/has_strength_unit.secret.md) 
+### [has_strength_unit.secret](/_secret/schema-org/Property/Texts/has_strength_unit.secret.md)
+

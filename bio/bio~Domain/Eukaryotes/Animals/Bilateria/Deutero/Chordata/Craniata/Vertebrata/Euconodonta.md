@@ -123,3 +123,22 @@ vertebrate-like. (After Purnell et al. 1995.)
 ![euconodonta](euconodonta.gif)
 Copyright ::   © 1997 Philippe Janvier
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Euconodonta](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.md) 
+
+### [Euconodonta.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.public.md) 
+
+### [Euconodonta.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.internal.md) 
+
+### [Euconodonta.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.protect.md) 
+
+### [Euconodonta.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.private.md) 
+
+### [Euconodonta.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.personal.md) 
+
+### [Euconodonta.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Euconodonta.secret.md)
+

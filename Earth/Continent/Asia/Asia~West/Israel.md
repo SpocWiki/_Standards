@@ -642,9 +642,13 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 
 [[Abraham-Accords]] 
+
+
 ## Confidential Links & Embeds: 
 
-### [Israel](/_public/Earth/Continent/Asia/Asia~West/Israel.md) 
+### [Israel](/_Standards/Earth/Continent/Asia/Asia~West/Israel.md) 
+
+### [Israel.public](/_public/Earth/Continent/Asia/Asia~West/Israel.public.md) 
 
 ### [Israel.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel.internal.md) 
 
@@ -654,4 +658,5 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ### [Israel.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel.personal.md) 
 
-### [Israel.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel.secret.md) 
+### [Israel.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel.secret.md)
+

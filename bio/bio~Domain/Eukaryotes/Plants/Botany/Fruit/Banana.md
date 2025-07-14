@@ -15,3 +15,22 @@ has_id_wikidata: Q503
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Banana)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Banana](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.md) 
+
+### [Banana.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.public.md) 
+
+### [Banana.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.internal.md) 
+
+### [Banana.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.protect.md) 
+
+### [Banana.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.private.md) 
+
+### [Banana.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.personal.md) 
+
+### [Banana.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Banana.secret.md)
+

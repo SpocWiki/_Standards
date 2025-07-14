@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [chemical_substance](/_public/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.md) 
+### [chemical_substance](/_Standards/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.md) 
+
+### [chemical_substance.public](/_public/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.public.md) 
 
 ### [chemical_substance.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.internal.md) 
 
@@ -56,4 +59,5 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 ### [chemical_substance.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.personal.md) 
 
-### [chemical_substance.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.secret.md) 
+### [chemical_substance.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/chemical_substance.secret.md)
+

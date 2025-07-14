@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Italian
@@ -21,9 +21,12 @@ tags:
 #has_/name_/en_ :: Italian 
 #has_/name_/de_ :: Italienisch  
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-it](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.md) 
+### [Lang-it](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.md) 
+
+### [Lang-it.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.public.md) 
 
 ### [Lang-it.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.internal.md) 
 
@@ -33,4 +36,5 @@ tags:
 
 ### [Lang-it.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.personal.md) 
 
-### [Lang-it.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.secret.md) 
+### [Lang-it.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-it.secret.md)
+

@@ -65,3 +65,22 @@ Drawings by Stritch. Copyright © 2001
 Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nematomorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.md) 
+
+### [Nematomorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.public.md) 
+
+### [Nematomorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.internal.md) 
+
+### [Nematomorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.protect.md) 
+
+### [Nematomorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.private.md) 
+
+### [Nematomorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.personal.md) 
+
+### [Nematomorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematomorpha.secret.md)
+

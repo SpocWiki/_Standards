@@ -490,9 +490,12 @@ Capital :: [[Tripolis=Tripoli]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Libya)
 
+
 ## Confidential Links & Embeds: 
 
-### [Libya](/_public/Earth/Continent/Africa/Africa~North/Libya.md) 
+### [Libya](/_Standards/Earth/Continent/Africa/Africa~North/Libya.md) 
+
+### [Libya.public](/_public/Earth/Continent/Africa/Africa~North/Libya.public.md) 
 
 ### [Libya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya.internal.md) 
 
@@ -502,4 +505,5 @@ Capital :: [[Tripolis=Tripoli]]
 
 ### [Libya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya.personal.md) 
 
-### [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md) 
+### [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md)
+

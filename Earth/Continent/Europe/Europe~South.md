@@ -26,9 +26,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Europe~South](/_public/Earth/Continent/Europe/Europe~South.md) 
+### [Europe~South](/_Standards/Earth/Continent/Europe/Europe~South.md) 
+
+### [Europe~South.public](/_public/Earth/Continent/Europe/Europe~South.public.md) 
 
 ### [Europe~South.internal](/_internal/Earth/Continent/Europe/Europe~South.internal.md) 
 
@@ -38,4 +41,5 @@ type: folder_brief_live
 
 ### [Europe~South.personal](/_personal/Earth/Continent/Europe/Europe~South.personal.md) 
 
-### [Europe~South.secret](/_secret/Earth/Continent/Europe/Europe~South.secret.md) 
+### [Europe~South.secret](/_secret/Earth/Continent/Europe/Europe~South.secret.md)
+

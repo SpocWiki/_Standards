@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A defence establishment, such as an army or navy base.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [defence_establishment](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.md) 
+### [defence_establishment](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.md) 
+
+### [defence_establishment.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.public.md) 
 
 ### [defence_establishment.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.internal.md) 
 
@@ -54,4 +57,5 @@ A defence establishment, such as an army or navy base.
 
 ### [defence_establishment.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.personal.md) 
 
-### [defence_establishment.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.secret.md) 
+### [defence_establishment.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/defence_establishment.secret.md)
+

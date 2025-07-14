@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ X-ray computed tomography imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ct](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md) 
+### [ct](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md) 
+
+### [ct.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.public.md) 
 
 ### [ct.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.internal.md) 
 
@@ -56,4 +59,5 @@ X-ray computed tomography imaging.
 
 ### [ct.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.personal.md) 
 
-### [ct.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.secret.md) 
+### [ct.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.secret.md)
+

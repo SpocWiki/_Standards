@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the list price (the price a product is actually advertised for) of an
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [list_price](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.md) 
+### [list_price](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.md) 
+
+### [list_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.public.md) 
 
 ### [list_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the list price (the price a product is actually advertised for) of an
 
 ### [list_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.personal.md) 
 
-### [list_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.secret.md) 
+### [list_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/list_price.secret.md)
+

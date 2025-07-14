@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_min )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_min_value](/_public/schema-org/Property/has_value_for/has_value_for_min_value.md) 
+### [has_value_for_min_value](/_Standards/schema-org/Property/has_value_for/has_value_for_min_value.md) 
+
+### [has_value_for_min_value.public](/_public/schema-org/Property/has_value_for/has_value_for_min_value.public.md) 
 
 ### [has_value_for_min_value.internal](/_internal/schema-org/Property/has_value_for/has_value_for_min_value.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_min_value.personal](/_personal/schema-org/Property/has_value_for/has_value_for_min_value.personal.md) 
 
-### [has_value_for_min_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret.md) 
+### [has_value_for_min_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret.md)
+

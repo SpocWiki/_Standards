@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-6.307,34.854]
 type: Country
 tags:
@@ -39,10 +39,11 @@ has_place_continent:: [[Africa]]
 [has_place_latitude::-6.307]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Tanganyika](/_public/Earth/Continent/Africa/Africa~East/Tanganyika.md) 
+### [Tanganyika](/_Standards/Earth/Continent/Africa/Africa~East/Tanganyika.md) 
+
+### [Tanganyika.public](/_public/Earth/Continent/Africa/Africa~East/Tanganyika.public.md) 
 
 ### [Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal.md) 
 
@@ -52,4 +53,5 @@ has_place_continent:: [[Africa]]
 
 ### [Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal.md) 
 
-### [Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret.md) 
+### [Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret.md)
+

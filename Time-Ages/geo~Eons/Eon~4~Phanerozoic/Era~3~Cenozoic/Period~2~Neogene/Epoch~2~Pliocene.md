@@ -103,10 +103,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Pliocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.md) 
+### [Epoch~2~Pliocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.md) 
+
+### [Epoch~2~Pliocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.public.md) 
 
 ### [Epoch~2~Pliocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.internal.md) 
 
@@ -116,4 +117,5 @@ noteOnly: true
 
 ### [Epoch~2~Pliocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.personal.md) 
 
-### [Epoch~2~Pliocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.secret.md) 
+### [Epoch~2~Pliocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.secret.md)
+

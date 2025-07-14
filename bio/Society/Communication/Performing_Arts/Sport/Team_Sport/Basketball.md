@@ -79,3 +79,22 @@ OpenStreetMap_tag_or_key: "Tag:sport=basketball"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Basketball) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Basketball](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.md) 
+
+### [Basketball.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.public.md) 
+
+### [Basketball.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.internal.md) 
+
+### [Basketball.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.protect.md) 
+
+### [Basketball.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.private.md) 
+
+### [Basketball.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.personal.md) 
+
+### [Basketball.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Basketball.secret.md)
+

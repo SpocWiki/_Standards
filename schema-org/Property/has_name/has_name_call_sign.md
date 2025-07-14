@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_name_call_sign](/_public/schema-org/Property/has_name/has_name_call_sign.md) 
+### [has_name_call_sign](/_Standards/schema-org/Property/has_name/has_name_call_sign.md) 
+
+### [has_name_call_sign.public](/_public/schema-org/Property/has_name/has_name_call_sign.public.md) 
 
 ### [has_name_call_sign.internal](/_internal/schema-org/Property/has_name/has_name_call_sign.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_name_call_sign.personal](/_personal/schema-org/Property/has_name/has_name_call_sign.personal.md) 
 
-### [has_name_call_sign.secret](/_secret/schema-org/Property/has_name/has_name_call_sign.secret.md) 
+### [has_name_call_sign.secret](/_secret/schema-org/Property/has_name/has_name_call_sign.secret.md)
+

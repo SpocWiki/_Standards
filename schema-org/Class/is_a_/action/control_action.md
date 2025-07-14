@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An agent controls a device or application.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [control_action](/_public/schema-org/Class/is_a_/action/control_action.md) 
+### [control_action](/_Standards/schema-org/Class/is_a_/action/control_action.md) 
+
+### [control_action.public](/_public/schema-org/Class/is_a_/action/control_action.public.md) 
 
 ### [control_action.internal](/_internal/schema-org/Class/is_a_/action/control_action.internal.md) 
 
@@ -56,4 +59,5 @@ An agent controls a device or application.
 
 ### [control_action.personal](/_personal/schema-org/Class/is_a_/action/control_action.personal.md) 
 
-### [control_action.secret](/_secret/schema-org/Class/is_a_/action/control_action.secret.md) 
+### [control_action.secret](/_secret/schema-org/Class/is_a_/action/control_action.secret.md)
+

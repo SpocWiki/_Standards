@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A [hackathon](https://en.wikipedia.org/wiki/Hackathon) event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hackathon](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.md) 
+### [FileClass~Hackathon](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.md) 
+
+### [FileClass~Hackathon.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.public.md) 
 
 ### [FileClass~Hackathon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.internal.md) 
 
@@ -46,4 +47,5 @@ A [hackathon](https://en.wikipedia.org/wiki/Hackathon) event.
 
 ### [FileClass~Hackathon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.personal.md) 
 
-### [FileClass~Hackathon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.secret.md) 
+### [FileClass~Hackathon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [plastic_surgery](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.md) 
+### [plastic_surgery](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.md) 
+
+### [plastic_surgery.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.public.md) 
 
 ### [plastic_surgery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 ### [plastic_surgery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.personal.md) 
 
-### [plastic_surgery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md) 
+### [plastic_surgery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md)
+

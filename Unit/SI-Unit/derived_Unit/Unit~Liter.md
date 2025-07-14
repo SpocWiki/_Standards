@@ -67,10 +67,11 @@ Wikidata_SPARQL_query_equivalent: "wd:Q11582 p:P2370/psn:P2370 [wikibase:quantit
 > [Wikipedia](https://en.wikipedia.org/wiki/Litre)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Unit~Liter](/_public/Unit/SI-Unit/derived_Unit/Unit~Liter.md) 
+### [Unit~Liter](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Liter.md) 
+
+### [Unit~Liter.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Liter.public.md) 
 
 ### [Unit~Liter.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Liter.internal.md) 
 
@@ -80,4 +81,5 @@ Wikidata_SPARQL_query_equivalent: "wd:Q11582 p:P2370/psn:P2370 [wikibase:quantit
 
 ### [Unit~Liter.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Liter.personal.md) 
 
-### [Unit~Liter.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Liter.secret.md) 
+### [Unit~Liter.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Liter.secret.md)
+

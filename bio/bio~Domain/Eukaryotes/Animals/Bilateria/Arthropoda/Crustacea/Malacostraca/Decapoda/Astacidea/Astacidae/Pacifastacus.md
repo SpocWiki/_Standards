@@ -49,3 +49,22 @@ title: Pacifastacus
 Pacifastacus leniusculus klamathensis.
 ![](Astacidea/Astacidae/p.jpg)
 Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pacifastacus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.md) 
+
+### [Pacifastacus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.public.md) 
+
+### [Pacifastacus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.internal.md) 
+
+### [Pacifastacus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.protect.md) 
+
+### [Pacifastacus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.private.md) 
+
+### [Pacifastacus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.personal.md) 
+
+### [Pacifastacus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Pacifastacus.secret.md)
+

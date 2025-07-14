@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_eligible_transaction_volume )
 ( #has_/range :: PriceSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_eligible_transaction_volume](/_public/schema-org/Relation/has/has_eligible_transaction_volume.md) 
+### [has_eligible_transaction_volume](/_Standards/schema-org/Relation/has/has_eligible_transaction_volume.md) 
+
+### [has_eligible_transaction_volume.public](/_public/schema-org/Relation/has/has_eligible_transaction_volume.public.md) 
 
 ### [has_eligible_transaction_volume.internal](/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_eligible_transaction_volume.personal](/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal.md) 
 
-### [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md) 
+### [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md)
+

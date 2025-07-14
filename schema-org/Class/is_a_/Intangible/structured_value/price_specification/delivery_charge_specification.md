@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The price for the delivery of an offer using a particular delivery method.
 
 [ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [delivery_charge_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.md) 
+### [delivery_charge_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.md) 
+
+### [delivery_charge_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.public.md) 
 
 ### [delivery_charge_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.internal.md) 
 
@@ -54,4 +57,5 @@ The price for the delivery of an offer using a particular delivery method.
 
 ### [delivery_charge_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.personal.md) 
 
-### [delivery_charge_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.secret.md) 
+### [delivery_charge_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/delivery_charge_specification.secret.md)
+

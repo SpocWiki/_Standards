@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12748
 studied_in: "[[_Standards/WikiData/WD~economic_geology,853915]]"
 subclass_of:
@@ -40,4 +40,23 @@ hashtag: fossilfuels
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fossil%20fuel) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fossil_Fuel](/_Standards/chemic/Material/Fuel/Fossil_Fuel.md) 
+
+### [Fossil_Fuel.public](/_public/chemic/Material/Fuel/Fossil_Fuel.public.md) 
+
+### [Fossil_Fuel.internal](/_internal/chemic/Material/Fuel/Fossil_Fuel.internal.md) 
+
+### [Fossil_Fuel.protect](/_protect/chemic/Material/Fuel/Fossil_Fuel.protect.md) 
+
+### [Fossil_Fuel.private](/_private/chemic/Material/Fuel/Fossil_Fuel.private.md) 
+
+### [Fossil_Fuel.personal](/_personal/chemic/Material/Fuel/Fossil_Fuel.personal.md) 
+
+### [Fossil_Fuel.secret](/_secret/chemic/Material/Fuel/Fossil_Fuel.secret.md)
 

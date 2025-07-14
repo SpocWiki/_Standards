@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,7 +34,9 @@ A bike store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BikeStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.md) 
+### [FileClass~BikeStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.md) 
+
+### [FileClass~BikeStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.public.md) 
 
 ### [FileClass~BikeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.internal.md) 
 
@@ -44,4 +46,5 @@ A bike store.
 
 ### [FileClass~BikeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.personal.md) 
 
-### [FileClass~BikeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.secret.md) 
+### [FileClass~BikeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.secret.md)
+

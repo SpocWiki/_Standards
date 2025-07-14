@@ -529,9 +529,12 @@ Capital :: [[Zagreb]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Croatia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Croatia](/_public/Earth/Continent/Europe/Europe~Central/Croatia.md) 
+### [Croatia](/_Standards/Earth/Continent/Europe/Europe~Central/Croatia.md) 
+
+### [Croatia.public](/_public/Earth/Continent/Europe/Europe~Central/Croatia.public.md) 
 
 ### [Croatia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal.md) 
 
@@ -541,4 +544,5 @@ Capital :: [[Zagreb]]
 
 ### [Croatia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal.md) 
 
-### [Croatia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret.md) 
+### [Croatia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret.md)
+

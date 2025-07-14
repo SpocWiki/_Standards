@@ -15,3 +15,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Emotional_Vampire](/_Standards/bio/Psychology/Emotion/Emotional_Vampire.md) 
+
+### [Emotional_Vampire.public](/_public/bio/Psychology/Emotion/Emotional_Vampire.public.md) 
+
+### [Emotional_Vampire.internal](/_internal/bio/Psychology/Emotion/Emotional_Vampire.internal.md) 
+
+### [Emotional_Vampire.protect](/_protect/bio/Psychology/Emotion/Emotional_Vampire.protect.md) 
+
+### [Emotional_Vampire.private](/_private/bio/Psychology/Emotion/Emotional_Vampire.private.md) 
+
+### [Emotional_Vampire.personal](/_personal/bio/Psychology/Emotion/Emotional_Vampire.personal.md) 
+
+### [Emotional_Vampire.secret](/_secret/bio/Psychology/Emotion/Emotional_Vampire.secret.md)
+

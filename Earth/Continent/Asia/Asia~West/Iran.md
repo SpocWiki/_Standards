@@ -850,7 +850,9 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 
 ## Confidential Links & Embeds: 
 
-### [Iran](/_public/Earth/Continent/Asia/Asia~West/Iran.md) 
+### [Iran](/_Standards/Earth/Continent/Asia/Asia~West/Iran.md) 
+
+### [Iran.public](/_public/Earth/Continent/Asia/Asia~West/Iran.public.md) 
 
 ### [Iran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran.internal.md) 
 
@@ -860,4 +862,5 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 
 ### [Iran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran.personal.md) 
 
-### [Iran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran.secret.md) 
+### [Iran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran.secret.md)
+

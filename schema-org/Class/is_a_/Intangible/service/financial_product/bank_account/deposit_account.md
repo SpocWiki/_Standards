@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 [ #has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [deposit_account](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.md) 
+### [deposit_account](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.md) 
+
+### [deposit_account.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.public.md) 
 
 ### [deposit_account.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.internal.md) 
 
@@ -54,4 +57,5 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 ### [deposit_account.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.personal.md) 
 
-### [deposit_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.secret.md) 
+### [deposit_account.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/bank_account/deposit_account.secret.md)
+

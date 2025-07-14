@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ Beach.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Beach](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.md) 
+### [FileClass~Beach](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.md) 
+
+### [FileClass~Beach.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.public.md) 
 
 ### [FileClass~Beach.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.internal.md) 
 
@@ -46,4 +47,5 @@ Beach.
 
 ### [FileClass~Beach.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.personal.md) 
 
-### [FileClass~Beach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.secret.md) 
+### [FileClass~Beach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.secret.md)
+

@@ -1,9 +1,12 @@
-﻿The Class of all Classes. 
+The Class of all Classes. 
 owl:Class allows for more expressive inference. 
+
 
 ## Confidential Links & Embeds: 
 
-### [rdfs~Class](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.md) 
+### [rdfs~Class](/_Standards/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.md) 
+
+### [rdfs~Class.public](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.public.md) 
 
 ### [rdfs~Class.internal](/_internal/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.internal.md) 
 
@@ -13,4 +16,5 @@ owl:Class allows for more expressive inference.
 
 ### [rdfs~Class.personal](/_personal/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.personal.md) 
 
-### [rdfs~Class.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.secret.md) 
+### [rdfs~Class.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Classes/rdfs~Class.secret.md)
+

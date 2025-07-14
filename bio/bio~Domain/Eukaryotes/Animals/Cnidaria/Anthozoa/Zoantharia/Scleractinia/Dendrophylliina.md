@@ -262,3 +262,22 @@ Annals de l\'Institut Océanographique, Paris, 61(2): 115-138.
     meter and thus contributes to reef structure. (Photograph copyright
     © D. Faulkner).
 ![](Turbinaria.jpg)![](Tubastraea_micrantha_w.jpg)::::::::::::::::::::::::::::::
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dendrophylliina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.md) 
+
+### [Dendrophylliina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.public.md) 
+
+### [Dendrophylliina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.internal.md) 
+
+### [Dendrophylliina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.protect.md) 
+
+### [Dendrophylliina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.private.md) 
+
+### [Dendrophylliina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.personal.md) 
+
+### [Dendrophylliina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.secret.md)
+

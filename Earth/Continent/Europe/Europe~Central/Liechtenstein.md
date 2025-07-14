@@ -432,9 +432,12 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liechtenstein)
 
+
 ## Confidential Links & Embeds: 
 
-### [Liechtenstein](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.md) 
+### [Liechtenstein](/_Standards/Earth/Continent/Europe/Europe~Central/Liechtenstein.md) 
+
+### [Liechtenstein.public](/_public/Earth/Continent/Europe/Europe~Central/Liechtenstein.public.md) 
 
 ### [Liechtenstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Liechtenstein.internal.md) 
 
@@ -444,4 +447,5 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 
 ### [Liechtenstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Liechtenstein.personal.md) 
 
-### [Liechtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret.md) 
+### [Liechtenstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Liechtenstein.secret.md)
+

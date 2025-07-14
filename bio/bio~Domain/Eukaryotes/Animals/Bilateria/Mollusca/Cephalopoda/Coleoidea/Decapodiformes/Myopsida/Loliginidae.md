@@ -320,3 +320,21 @@ Phuket Mar. Biol. Center. Res. Bull. 66:23-36
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
   ---------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Loliginidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.md) 
+
+### [Loliginidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.public.md) 
+
+### [Loliginidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.internal.md) 
+
+### [Loliginidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.protect.md) 
+
+### [Loliginidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.private.md) 
+
+### [Loliginidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.personal.md) 
+
+### [Loliginidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae.secret.md)
+

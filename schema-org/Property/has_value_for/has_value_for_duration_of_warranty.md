@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_duration_of_warranty )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_duration_of_warranty](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
+### [has_value_for_duration_of_warranty](/_Standards/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
+
+### [has_value_for_duration_of_warranty.public](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.public.md) 
 
 ### [has_value_for_duration_of_warranty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_duration_of_warranty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal.md) 
 
-### [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md) 
+### [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md)
+

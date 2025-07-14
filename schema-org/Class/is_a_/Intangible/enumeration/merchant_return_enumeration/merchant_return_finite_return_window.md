@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Specifies that there is a finite window for product returns.
 
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [merchant_return_finite_return_window](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md) 
+### [merchant_return_finite_return_window](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md) 
+
+### [merchant_return_finite_return_window.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.public.md) 
 
 ### [merchant_return_finite_return_window.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.internal.md) 
 
@@ -60,4 +63,5 @@ Specifies that there is a finite window for product returns.
 
 ### [merchant_return_finite_return_window.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.personal.md) 
 
-### [merchant_return_finite_return_window.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.secret.md) 
+### [merchant_return_finite_return_window.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.secret.md)
+

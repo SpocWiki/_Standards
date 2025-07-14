@@ -57,16 +57,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleolithic)
 
+
 ## Confidential Links & Embeds: 
 
-### [Paleolithic](/_public/Time-Ages/human-ages/Stone-Age/Paleolithic.md) 
+### [Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.md) 
 
-### [Paleolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Paleolithic.internal.md) 
+### [Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.public.md) 
 
-### [Paleolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Paleolithic.protect.md) 
+### [Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.internal.md) 
 
-### [Paleolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Paleolithic.private.md) 
+### [Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.protect.md) 
 
-### [Paleolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Paleolithic.personal.md) 
+### [Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.private.md) 
 
-### [Paleolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Paleolithic.secret.md) 
+### [Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.personal.md) 
+
+### [Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic.secret.md)
+

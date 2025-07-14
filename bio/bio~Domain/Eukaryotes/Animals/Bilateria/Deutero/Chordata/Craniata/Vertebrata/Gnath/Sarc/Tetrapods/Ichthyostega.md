@@ -228,3 +228,22 @@ Comments             Skeletal reconstruction of *Ichthyostega* based on recent f
 Specimen Condition   Fossil \-- Period: Devonian
 Copyright ::            © 2005 [Jennifer A. Clack](http://www.zoo.cam.ac.uk/museum/jenny.htm) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ichthyostega](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.md) 
+
+### [Ichthyostega.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.public.md) 
+
+### [Ichthyostega.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.internal.md) 
+
+### [Ichthyostega.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.protect.md) 
+
+### [Ichthyostega.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.private.md) 
+
+### [Ichthyostega.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.personal.md) 
+
+### [Ichthyostega.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Ichthyostega.secret.md)
+

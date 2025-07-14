@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A radio channel that uses AM.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [am_radio_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.md) 
+### [am_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.md) 
+
+### [am_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.public.md) 
 
 ### [am_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md) 
 
@@ -54,4 +57,5 @@ A radio channel that uses AM.
 
 ### [am_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md) 
 
-### [am_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md) 
+### [am_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md)
+

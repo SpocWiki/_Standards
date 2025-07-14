@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -49,7 +49,9 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructure](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.md) 
+### [FileClass~CivicStructure](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.md) 
+
+### [FileClass~CivicStructure.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.public.md) 
 
 ### [FileClass~CivicStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.internal.md) 
 
@@ -59,4 +61,5 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ### [FileClass~CivicStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.personal.md) 
 
-### [FileClass~CivicStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.secret.md) 
+### [FileClass~CivicStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.secret.md)
+

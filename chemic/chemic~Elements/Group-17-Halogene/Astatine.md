@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21980
 has_id_wikidata: Q999
@@ -97,9 +97,12 @@ Unicode_character: 砈
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astatine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Astatine](/_public/chemic/chemic~Elements/Group-17-Halogene/Astatine.md) 
+### [Astatine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Astatine.md) 
+
+### [Astatine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Astatine.public.md) 
 
 ### [Astatine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Astatine.internal.md) 
 
@@ -109,4 +112,5 @@ Unicode_character: 砈
 
 ### [Astatine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Astatine.personal.md) 
 
-### [Astatine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Astatine.secret.md) 
+### [Astatine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Astatine.secret.md)
+

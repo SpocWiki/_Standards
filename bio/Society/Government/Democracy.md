@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7174
 IPTC_NewsCode: mediatopic/20000654
 has_part_s_:
@@ -110,4 +110,23 @@ Each characteristic is given a binary distinction, representing possible alterna
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Democracy](/_Standards/bio/Society/Government/Democracy.md) 
+
+### [Democracy.public](/_public/bio/Society/Government/Democracy.public.md) 
+
+### [Democracy.internal](/_internal/bio/Society/Government/Democracy.internal.md) 
+
+### [Democracy.protect](/_protect/bio/Society/Government/Democracy.protect.md) 
+
+### [Democracy.private](/_private/bio/Society/Government/Democracy.private.md) 
+
+### [Democracy.personal](/_personal/bio/Society/Government/Democracy.personal.md) 
+
+### [Democracy.secret](/_secret/bio/Society/Government/Democracy.secret.md)
 

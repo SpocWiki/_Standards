@@ -69,10 +69,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~2~Sinemurian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.md) 
+### [Age~2~Sinemurian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.md) 
+
+### [Age~2~Sinemurian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.public.md) 
 
 ### [Age~2~Sinemurian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.internal.md) 
 
@@ -82,4 +83,5 @@ noteOnly: true
 
 ### [Age~2~Sinemurian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.personal.md) 
 
-### [Age~2~Sinemurian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.secret.md) 
+### [Age~2~Sinemurian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~2~Sinemurian.secret.md)
+

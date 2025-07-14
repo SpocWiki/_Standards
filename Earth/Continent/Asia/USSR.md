@@ -136,10 +136,11 @@ Repressiv:
 - Russifizierung 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [USSR](/_public/Earth/Continent/Asia/USSR.md) 
+### [USSR](/_Standards/Earth/Continent/Asia/USSR.md) 
+
+### [USSR.public](/_public/Earth/Continent/Asia/USSR.public.md) 
 
 ### [USSR.internal](/_internal/Earth/Continent/Asia/USSR.internal.md) 
 
@@ -149,4 +150,5 @@ Repressiv:
 
 ### [USSR.personal](/_personal/Earth/Continent/Asia/USSR.personal.md) 
 
-### [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md) 
+### [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md)
+

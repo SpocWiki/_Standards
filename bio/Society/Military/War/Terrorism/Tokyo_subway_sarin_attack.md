@@ -36,3 +36,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tokyo_subway_sarin_attack](/_Standards/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.md) 
+
+### [Tokyo_subway_sarin_attack.public](/_public/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.public.md) 
+
+### [Tokyo_subway_sarin_attack.internal](/_internal/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.internal.md) 
+
+### [Tokyo_subway_sarin_attack.protect](/_protect/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.protect.md) 
+
+### [Tokyo_subway_sarin_attack.private](/_private/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.private.md) 
+
+### [Tokyo_subway_sarin_attack.personal](/_personal/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.personal.md) 
+
+### [Tokyo_subway_sarin_attack.secret](/_secret/bio/Society/Military/War/Terrorism/Tokyo_subway_sarin_attack.secret.md)
+

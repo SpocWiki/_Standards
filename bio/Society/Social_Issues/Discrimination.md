@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q169207
 MeSH_tree_code: F01.145.813.629
 IPTC_NewsCode: mediatopic/20000775
@@ -72,4 +72,23 @@ PhilPapers_topic: discrimination
 > Discriminatory traditions, policies, ideas, practices and laws exist in many countries and institutions in all parts of the world, including some, where such discrimination is generally decried. In some places, countervailing measures such as quotas have been used to redress the balance in favor of those who are believed to be current or past victims of discrimination. These attempts have often been met with controversy, and sometimes been called reverse discrimination.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Discrimination)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Discrimination](/_Standards/bio/Society/Social_Issues/Discrimination.md) 
+
+### [Discrimination.public](/_public/bio/Society/Social_Issues/Discrimination.public.md) 
+
+### [Discrimination.internal](/_internal/bio/Society/Social_Issues/Discrimination.internal.md) 
+
+### [Discrimination.protect](/_protect/bio/Society/Social_Issues/Discrimination.protect.md) 
+
+### [Discrimination.private](/_private/bio/Society/Social_Issues/Discrimination.private.md) 
+
+### [Discrimination.personal](/_personal/bio/Society/Social_Issues/Discrimination.personal.md) 
+
+### [Discrimination.secret](/_secret/bio/Society/Social_Issues/Discrimination.secret.md)
 

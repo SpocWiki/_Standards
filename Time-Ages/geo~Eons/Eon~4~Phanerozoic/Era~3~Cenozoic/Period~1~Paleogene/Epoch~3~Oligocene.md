@@ -70,10 +70,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Epoch~3~Oligocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.md) 
+### [Epoch~3~Oligocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.md) 
+
+### [Epoch~3~Oligocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.public.md) 
 
 ### [Epoch~3~Oligocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.internal.md) 
 
@@ -83,4 +84,5 @@ noteOnly: true
 
 ### [Epoch~3~Oligocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.personal.md) 
 
-### [Epoch~3~Oligocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.secret.md) 
+### [Epoch~3~Oligocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene.secret.md)
+

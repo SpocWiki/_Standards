@@ -28,3 +28,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Voltaire)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Voltaire](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.md) 
+
+### [Voltaire.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.public.md) 
+
+### [Voltaire.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.internal.md) 
+
+### [Voltaire.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.protect.md) 
+
+### [Voltaire.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.private.md) 
+
+### [Voltaire.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.personal.md) 
+
+### [Voltaire.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Voltaire.secret.md)
+

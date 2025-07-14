@@ -86,9 +86,12 @@ Commons_category: Dubnium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubnium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Dubnium](/_public/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.md) 
+### [Dubnium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.md) 
+
+### [Dubnium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.public.md) 
 
 ### [Dubnium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.internal.md) 
 
@@ -98,4 +101,5 @@ Commons_category: Dubnium
 
 ### [Dubnium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.personal.md) 
 
-### [Dubnium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.secret.md) 
+### [Dubnium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.secret.md)
+

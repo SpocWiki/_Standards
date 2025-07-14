@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_reservation )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_reservation](/_public/schema-org/Property/has_name/has_id_reservation.md) 
+### [has_id_reservation](/_Standards/schema-org/Property/has_name/has_id_reservation.md) 
+
+### [has_id_reservation.public](/_public/schema-org/Property/has_name/has_id_reservation.public.md) 
 
 ### [has_id_reservation.internal](/_internal/schema-org/Property/has_name/has_id_reservation.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_reservation.personal](/_personal/schema-org/Property/has_name/has_id_reservation.personal.md) 
 
-### [has_id_reservation.secret](/_secret/schema-org/Property/has_name/has_id_reservation.secret.md) 
+### [has_id_reservation.secret](/_secret/schema-org/Property/has_name/has_id_reservation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_permit_audience )
 ( #has_/range :: Audience )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_permit_audience](/_public/schema-org/Relation/has/has_permit_audience.md) 
+### [has_permit_audience](/_Standards/schema-org/Relation/has/has_permit_audience.md) 
+
+### [has_permit_audience.public](/_public/schema-org/Relation/has/has_permit_audience.public.md) 
 
 ### [has_permit_audience.internal](/_internal/schema-org/Relation/has/has_permit_audience.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_permit_audience.personal](/_personal/schema-org/Relation/has/has_permit_audience.personal.md) 
 
-### [has_permit_audience.secret](/_secret/schema-org/Relation/has/has_permit_audience.secret.md) 
+### [has_permit_audience.secret](/_secret/schema-org/Relation/has/has_permit_audience.secret.md)
+

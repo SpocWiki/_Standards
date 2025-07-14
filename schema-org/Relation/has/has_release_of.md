@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: albumRelease ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_release_of](/_public/schema-org/Relation/has/has_release_of.md) 
+### [has_release_of](/_Standards/schema-org/Relation/has/has_release_of.md) 
+
+### [has_release_of.public](/_public/schema-org/Relation/has/has_release_of.public.md) 
 
 ### [has_release_of.internal](/_internal/schema-org/Relation/has/has_release_of.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_release_of.personal](/_personal/schema-org/Relation/has/has_release_of.personal.md) 
 
-### [has_release_of.secret](/_secret/schema-org/Relation/has/has_release_of.secret.md) 
+### [has_release_of.secret](/_secret/schema-org/Relation/has/has_release_of.secret.md)
+

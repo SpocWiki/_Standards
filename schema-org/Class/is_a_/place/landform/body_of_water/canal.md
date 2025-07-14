@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A canal, like the Panama Canal.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [canal](/_public/schema-org/Class/is_a_/place/landform/body_of_water/canal.md) 
+### [canal](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/canal.md) 
+
+### [canal.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/canal.public.md) 
 
 ### [canal.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/canal.internal.md) 
 
@@ -54,4 +57,5 @@ A canal, like the Panama Canal.
 
 ### [canal.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/canal.personal.md) 
 
-### [canal.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/canal.secret.md) 
+### [canal.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/canal.secret.md)
+

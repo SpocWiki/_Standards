@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Server that provides game interaction in a multiplayer game.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [game_server](/_public/schema-org/Class/is_a_/Intangible/game_server.md) 
+### [game_server](/_Standards/schema-org/Class/is_a_/Intangible/game_server.md) 
+
+### [game_server.public](/_public/schema-org/Class/is_a_/Intangible/game_server.public.md) 
 
 ### [game_server.internal](/_internal/schema-org/Class/is_a_/Intangible/game_server.internal.md) 
 
@@ -54,4 +57,5 @@ Server that provides game interaction in a multiplayer game.
 
 ### [game_server.personal](/_personal/schema-org/Class/is_a_/Intangible/game_server.personal.md) 
 
-### [game_server.secret](/_secret/schema-org/Class/is_a_/Intangible/game_server.secret.md) 
+### [game_server.secret](/_secret/schema-org/Class/is_a_/Intangible/game_server.secret.md)
+

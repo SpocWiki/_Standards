@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_multi_valued )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_multi_valued](/_public/schema-org/Property/Flags/is_multi_valued.md) 
+### [is_multi_valued](/_Standards/schema-org/Property/Flags/is_multi_valued.md) 
+
+### [is_multi_valued.public](/_public/schema-org/Property/Flags/is_multi_valued.public.md) 
 
 ### [is_multi_valued.internal](/_internal/schema-org/Property/Flags/is_multi_valued.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_multi_valued.personal](/_personal/schema-org/Property/Flags/is_multi_valued.personal.md) 
 
-### [is_multi_valued.secret](/_secret/schema-org/Property/Flags/is_multi_valued.secret.md) 
+### [is_multi_valued.secret](/_secret/schema-org/Property/Flags/is_multi_valued.secret.md)
+

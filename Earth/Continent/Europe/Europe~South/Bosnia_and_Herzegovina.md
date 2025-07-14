@@ -415,9 +415,12 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bosnia%20and%20Herzegovina)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bosnia_and_Herzegovina](/_public/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.md) 
+### [Bosnia_and_Herzegovina](/_Standards/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.md) 
+
+### [Bosnia_and_Herzegovina.public](/_public/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.public.md) 
 
 ### [Bosnia_and_Herzegovina.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.internal.md) 
 
@@ -427,4 +430,5 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 
 ### [Bosnia_and_Herzegovina.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.personal.md) 
 
-### [Bosnia_and_Herzegovina.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.secret.md) 
+### [Bosnia_and_Herzegovina.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.secret.md)
+

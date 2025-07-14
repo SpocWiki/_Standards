@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_episodes )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_episodes](/_public/schema-org/Property/has_number_of/has_number_of_episodes.md) 
+### [has_number_of_episodes](/_Standards/schema-org/Property/has_number_of/has_number_of_episodes.md) 
+
+### [has_number_of_episodes.public](/_public/schema-org/Property/has_number_of/has_number_of_episodes.public.md) 
 
 ### [has_number_of_episodes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_episodes.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_episodes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_episodes.personal.md) 
 
-### [has_number_of_episodes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_episodes.secret.md) 
+### [has_number_of_episodes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_episodes.secret.md)
+

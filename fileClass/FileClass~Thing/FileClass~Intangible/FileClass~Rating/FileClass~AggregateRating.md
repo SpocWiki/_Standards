@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -64,10 +64,11 @@ The count of total number of reviews.
 ReviewCount:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AggregateRating](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.md) 
+### [FileClass~AggregateRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.md) 
+
+### [FileClass~AggregateRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.public.md) 
 
 ### [FileClass~AggregateRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.internal.md) 
 
@@ -77,4 +78,5 @@ ReviewCount:: {"type":"Number","options":{}}
 
 ### [FileClass~AggregateRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.personal.md) 
 
-### [FileClass~AggregateRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.secret.md) 
+### [FileClass~AggregateRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.secret.md)
+

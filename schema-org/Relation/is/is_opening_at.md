@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_opening_at )
 ( #has_/range :: Time )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_opening_at](/_public/schema-org/Relation/is/is_opening_at.md) 
+### [is_opening_at](/_Standards/schema-org/Relation/is/is_opening_at.md) 
+
+### [is_opening_at.public](/_public/schema-org/Relation/is/is_opening_at.public.md) 
 
 ### [is_opening_at.internal](/_internal/schema-org/Relation/is/is_opening_at.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_opening_at.personal](/_personal/schema-org/Relation/is/is_opening_at.personal.md) 
 
-### [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md) 
+### [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md)
+

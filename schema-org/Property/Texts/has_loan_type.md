@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_loan_type )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_loan_type](/_public/schema-org/Property/Texts/has_loan_type.md) 
+### [has_loan_type](/_Standards/schema-org/Property/Texts/has_loan_type.md) 
+
+### [has_loan_type.public](/_public/schema-org/Property/Texts/has_loan_type.public.md) 
 
 ### [has_loan_type.internal](/_internal/schema-org/Property/Texts/has_loan_type.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_loan_type.personal](/_personal/schema-org/Property/Texts/has_loan_type.personal.md) 
 
-### [has_loan_type.secret](/_secret/schema-org/Property/Texts/has_loan_type.secret.md) 
+### [has_loan_type.secret](/_secret/schema-org/Property/Texts/has_loan_type.secret.md)
+

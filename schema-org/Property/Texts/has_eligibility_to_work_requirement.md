@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_eligibility_to_work_requirement )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_eligibility_to_work_requirement](/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.md) 
+### [has_eligibility_to_work_requirement](/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement.md) 
+
+### [has_eligibility_to_work_requirement.public](/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public.md) 
 
 ### [has_eligibility_to_work_requirement.internal](/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_eligibility_to_work_requirement.personal](/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal.md) 
 
-### [has_eligibility_to_work_requirement.secret](/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret.md) 
+### [has_eligibility_to_work_requirement.secret](/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret.md)
+

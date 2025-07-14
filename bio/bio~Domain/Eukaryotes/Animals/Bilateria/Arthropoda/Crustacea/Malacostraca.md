@@ -90,3 +90,22 @@ taxon_common_name:
 	![Alima_gracilis](Alima_gracilis.jpg)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Malacostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.md) 
+
+### [Malacostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.public.md) 
+
+### [Malacostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.internal.md) 
+
+### [Malacostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.protect.md) 
+
+### [Malacostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.private.md) 
+
+### [Malacostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.personal.md) 
+
+### [Malacostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca.secret.md)
+

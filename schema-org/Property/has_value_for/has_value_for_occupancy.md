@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_occupancy )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_occupancy](/_public/schema-org/Property/has_value_for/has_value_for_occupancy.md) 
+### [has_value_for_occupancy](/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy.md) 
+
+### [has_value_for_occupancy.public](/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public.md) 
 
 ### [has_value_for_occupancy.internal](/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [has_value_for_occupancy.personal](/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal.md) 
 
-### [has_value_for_occupancy.secret](/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret.md) 
+### [has_value_for_occupancy.secret](/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret.md)
+

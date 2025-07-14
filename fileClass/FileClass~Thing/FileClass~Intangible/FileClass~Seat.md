@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,10 +73,11 @@ The type/class of the seat.
 SeatingType:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Seat](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.md) 
+### [FileClass~Seat](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.md) 
+
+### [FileClass~Seat.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.public.md) 
 
 ### [FileClass~Seat.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.internal.md) 
 
@@ -86,4 +87,5 @@ SeatingType:: {"type":"Input","options":{}}
 
 ### [FileClass~Seat.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.personal.md) 
 
-### [FileClass~Seat.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.secret.md) 
+### [FileClass~Seat.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.secret.md)
+

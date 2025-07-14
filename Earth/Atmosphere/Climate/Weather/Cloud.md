@@ -53,3 +53,22 @@ aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20C
 > [Wikipedia](https://en.wikipedia.org/wiki/Cloud)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cloud](/_Standards/Earth/Atmosphere/Climate/Weather/Cloud.md) 
+
+### [Cloud.public](/_public/Earth/Atmosphere/Climate/Weather/Cloud.public.md) 
+
+### [Cloud.internal](/_internal/Earth/Atmosphere/Climate/Weather/Cloud.internal.md) 
+
+### [Cloud.protect](/_protect/Earth/Atmosphere/Climate/Weather/Cloud.protect.md) 
+
+### [Cloud.private](/_private/Earth/Atmosphere/Climate/Weather/Cloud.private.md) 
+
+### [Cloud.personal](/_personal/Earth/Atmosphere/Climate/Weather/Cloud.personal.md) 
+
+### [Cloud.secret](/_secret/Earth/Atmosphere/Climate/Weather/Cloud.secret.md)
+

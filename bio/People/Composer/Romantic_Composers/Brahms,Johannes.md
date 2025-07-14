@@ -129,3 +129,22 @@ pseudonym: "G.W. Marks"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Brahms)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Brahms,Johannes](/_Standards/bio/People/Composer/Romantic_Composers/Brahms,Johannes.md) 
+
+### [Brahms,Johannes.public](/_public/bio/People/Composer/Romantic_Composers/Brahms,Johannes.public.md) 
+
+### [Brahms,Johannes.internal](/_internal/bio/People/Composer/Romantic_Composers/Brahms,Johannes.internal.md) 
+
+### [Brahms,Johannes.protect](/_protect/bio/People/Composer/Romantic_Composers/Brahms,Johannes.protect.md) 
+
+### [Brahms,Johannes.private](/_private/bio/People/Composer/Romantic_Composers/Brahms,Johannes.private.md) 
+
+### [Brahms,Johannes.personal](/_personal/bio/People/Composer/Romantic_Composers/Brahms,Johannes.personal.md) 
+
+### [Brahms,Johannes.secret](/_secret/bio/People/Composer/Romantic_Composers/Brahms,Johannes.secret.md)
+

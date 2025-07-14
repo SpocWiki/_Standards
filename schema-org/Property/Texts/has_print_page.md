@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_print_page )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_print_page](/_public/schema-org/Property/Texts/has_print_page.md) 
+### [has_print_page](/_Standards/schema-org/Property/Texts/has_print_page.md) 
+
+### [has_print_page.public](/_public/schema-org/Property/Texts/has_print_page.public.md) 
 
 ### [has_print_page.internal](/_internal/schema-org/Property/Texts/has_print_page.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_print_page.personal](/_personal/schema-org/Property/Texts/has_print_page.personal.md) 
 
-### [has_print_page.secret](/_secret/schema-org/Property/Texts/has_print_page.secret.md) 
+### [has_print_page.secret](/_secret/schema-org/Property/Texts/has_print_page.secret.md)
+

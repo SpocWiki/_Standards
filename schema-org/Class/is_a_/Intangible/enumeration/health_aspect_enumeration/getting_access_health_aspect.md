@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Content that discusses practical and policy aspects for getting access to specif
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [getting_access_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.md) 
+### [getting_access_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.md) 
+
+### [getting_access_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.public.md) 
 
 ### [getting_access_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Content that discusses practical and policy aspects for getting access to specif
 
 ### [getting_access_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.personal.md) 
 
-### [getting_access_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.secret.md) 
+### [getting_access_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.secret.md)
+

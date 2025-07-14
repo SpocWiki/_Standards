@@ -107,3 +107,21 @@ From left to right:
   -------
   Copyright ::   © 2000 Ron Ates
   -------
+
+
+## Confidential Links & Embeds: 
+
+### [Actiniaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.md) 
+
+### [Actiniaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.public.md) 
+
+### [Actiniaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.internal.md) 
+
+### [Actiniaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.protect.md) 
+
+### [Actiniaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.private.md) 
+
+### [Actiniaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.personal.md) 
+
+### [Actiniaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria.secret.md)
+

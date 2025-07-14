@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [unemployment_support](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.md) 
+### [unemployment_support](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.md) 
+
+### [unemployment_support.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.public.md) 
 
 ### [unemployment_support.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.internal.md) 
 
@@ -58,4 +61,5 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 ### [unemployment_support.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.personal.md) 
 
-### [unemployment_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.secret.md) 
+### [unemployment_support.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/unemployment_support.secret.md)
+

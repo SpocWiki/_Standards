@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_course_instance )
 ( #has_/range :: CourseInstance )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_course_instance](/_public/schema-org/Relation/has/has_course_instance.md) 
+### [has_course_instance](/_Standards/schema-org/Relation/has/has_course_instance.md) 
+
+### [has_course_instance.public](/_public/schema-org/Relation/has/has_course_instance.public.md) 
 
 ### [has_course_instance.internal](/_internal/schema-org/Relation/has/has_course_instance.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_course_instance.personal](/_personal/schema-org/Relation/has/has_course_instance.personal.md) 
 
-### [has_course_instance.secret](/_secret/schema-org/Relation/has/has_course_instance.secret.md) 
+### [has_course_instance.secret](/_secret/schema-org/Relation/has/has_course_instance.secret.md)
+

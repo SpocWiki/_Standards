@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_handling_days )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_handling_days](/_public/schema-org/Property/has_value_for/has_value_for_handling_days.md) 
+### [has_value_for_handling_days](/_Standards/schema-org/Property/has_value_for/has_value_for_handling_days.md) 
+
+### [has_value_for_handling_days.public](/_public/schema-org/Property/has_value_for/has_value_for_handling_days.public.md) 
 
 ### [has_value_for_handling_days.internal](/_internal/schema-org/Property/has_value_for/has_value_for_handling_days.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_handling_days.personal](/_personal/schema-org/Property/has_value_for/has_value_for_handling_days.personal.md) 
 
-### [has_value_for_handling_days.secret](/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret.md) 
+### [has_value_for_handling_days.secret](/_secret/schema-org/Property/has_value_for/has_value_for_handling_days.secret.md)
+

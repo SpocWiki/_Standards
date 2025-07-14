@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_emissions_co2_in_Gram_per_km )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_emissions_co2_in_Gram_per_km](/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.md) 
+### [has_value_for_emissions_co2_in_Gram_per_km](/_Standards/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.md) 
+
+### [has_value_for_emissions_co2_in_Gram_per_km.public](/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.public.md) 
 
 ### [has_value_for_emissions_co2_in_Gram_per_km.internal](/_internal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_emissions_co2_in_Gram_per_km.personal](/_personal/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.personal.md) 
 
-### [has_value_for_emissions_co2_in_Gram_per_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.secret.md) 
+### [has_value_for_emissions_co2_in_Gram_per_km.secret](/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2_in_Gram_per_km.secret.md)
+

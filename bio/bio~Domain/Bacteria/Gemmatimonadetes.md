@@ -48,3 +48,22 @@ title: Gemmatimonas aurantiaca
 	- *Gemmatimonas aurantiaca* 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gemmatimonadetes](/_Standards/bio/bio~Domain/Bacteria/Gemmatimonadetes.md) 
+
+### [Gemmatimonadetes.public](/_public/bio/bio~Domain/Bacteria/Gemmatimonadetes.public.md) 
+
+### [Gemmatimonadetes.internal](/_internal/bio/bio~Domain/Bacteria/Gemmatimonadetes.internal.md) 
+
+### [Gemmatimonadetes.protect](/_protect/bio/bio~Domain/Bacteria/Gemmatimonadetes.protect.md) 
+
+### [Gemmatimonadetes.private](/_private/bio/bio~Domain/Bacteria/Gemmatimonadetes.private.md) 
+
+### [Gemmatimonadetes.personal](/_personal/bio/bio~Domain/Bacteria/Gemmatimonadetes.personal.md) 
+
+### [Gemmatimonadetes.secret](/_secret/bio/bio~Domain/Bacteria/Gemmatimonadetes.secret.md)
+
