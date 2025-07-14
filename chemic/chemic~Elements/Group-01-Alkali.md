@@ -1,6 +1,7 @@
 ---
 type: ElementGroup
 ---
+
 #chemic/Group 
 
 1)[[Group-01-Alkali/Hydrogen]]]

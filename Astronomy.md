@@ -74,6 +74,9 @@ U_S_National_Archives_Identifier: 10637421
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 ---
 
+# [[Astronomy]] 
+
+
 ## #has_/text_of_/abstract 
 
 > **Astronomy** is a natural science that studies celestial objects and the phenomena that occur in the cosmos. It uses mathematics, physics, and chemistry in order to explain their origin and their overall evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets. Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, astronomy studies everything that originates beyond Earth's atmosphere. Cosmology is a branch of astronomy that studies the universe as a whole.

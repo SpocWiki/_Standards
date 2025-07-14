@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7283
 MeSH_tree_code:
 - I01.198.240.856.800
