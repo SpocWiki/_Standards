@@ -20,19 +20,19 @@ has_id_wikidata: Q8072
 > [Wikipedia](https://en.wikipedia.org/wiki/Volcano)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Volcano.public](/_public\Earth\Geology/Volcano.public.md) 
+### [Volcano](/_Standards/Earth/Geology/Volcano.md) 
 
-### [Volcano.internal](/_internal\Earth\Geology/Volcano.internal.md) 
+### [Volcano.public](/_public/Earth/Geology/Volcano.public.md) 
 
-### [Volcano.protect](/_protect\Earth\Geology/Volcano.protect.md) 
+### [Volcano.internal](/_internal/Earth/Geology/Volcano.internal.md) 
 
-### [Volcano.private](/_private\Earth\Geology/Volcano.private.md) 
+### [Volcano.protect](/_protect/Earth/Geology/Volcano.protect.md) 
 
-### [Volcano.personal](/_personal\Earth\Geology/Volcano.personal.md) 
+### [Volcano.private](/_private/Earth/Geology/Volcano.private.md) 
 
-### [Volcano.secret](/_secret\Earth\Geology/Volcano.secret.md)
+### [Volcano.personal](/_personal/Earth/Geology/Volcano.personal.md) 
+
+### [Volcano.secret](/_secret/Earth/Geology/Volcano.secret.md)
 

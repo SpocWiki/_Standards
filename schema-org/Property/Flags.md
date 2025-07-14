@@ -23,15 +23,17 @@ But they can also implement a ternary logic using the empty '` `' or `null` Valu
 
 ## Confidential Links & Embeds: 
 
-### [Flags.public](/_public\schema-org\Property/Flags.public.md) 
+### [Flags](/_Standards/schema-org/Property/Flags.md) 
 
-### [Flags.internal](/_internal\schema-org\Property/Flags.internal.md) 
+### [Flags.public](/_public/schema-org/Property/Flags.public.md) 
 
-### [Flags.protect](/_protect\schema-org\Property/Flags.protect.md) 
+### [Flags.internal](/_internal/schema-org/Property/Flags.internal.md) 
 
-### [Flags.private](/_private\schema-org\Property/Flags.private.md) 
+### [Flags.protect](/_protect/schema-org/Property/Flags.protect.md) 
 
-### [Flags.personal](/_personal\schema-org\Property/Flags.personal.md) 
+### [Flags.private](/_private/schema-org/Property/Flags.private.md) 
 
-### [Flags.secret](/_secret\schema-org\Property/Flags.secret.md)
+### [Flags.personal](/_personal/schema-org/Property/Flags.personal.md) 
+
+### [Flags.secret](/_secret/schema-org/Property/Flags.secret.md)
 

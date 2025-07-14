@@ -56,20 +56,19 @@ MeSH_tree_code: J01.937.285.100
 > [Wikipedia](https://en.wikipedia.org/wiki/Aircraft) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aircraft.public](/_public\Technology\Aviation/Aircraft.public.md) 
+### [Aircraft](/_Standards/Technology/Aviation/Aircraft.md) 
 
-### [Aircraft.internal](/_internal\Technology\Aviation/Aircraft.internal.md) 
+### [Aircraft.public](/_public/Technology/Aviation/Aircraft.public.md) 
 
-### [Aircraft.protect](/_protect\Technology\Aviation/Aircraft.protect.md) 
+### [Aircraft.internal](/_internal/Technology/Aviation/Aircraft.internal.md) 
 
-### [Aircraft.private](/_private\Technology\Aviation/Aircraft.private.md) 
+### [Aircraft.protect](/_protect/Technology/Aviation/Aircraft.protect.md) 
 
-### [Aircraft.personal](/_personal\Technology\Aviation/Aircraft.personal.md) 
+### [Aircraft.private](/_private/Technology/Aviation/Aircraft.private.md) 
 
-### [Aircraft.secret](/_secret\Technology\Aviation/Aircraft.secret.md)
+### [Aircraft.personal](/_personal/Technology/Aviation/Aircraft.personal.md) 
+
+### [Aircraft.secret](/_secret/Technology/Aviation/Aircraft.secret.md)
 

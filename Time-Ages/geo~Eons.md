@@ -1208,15 +1208,17 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 
 ## Confidential Links & Embeds: 
 
-### [geo~Eons.public](/_public\Time-Ages/geo~Eons.public.md) 
+### [geo~Eons](/_Standards/Time-Ages/geo~Eons.md) 
 
-### [geo~Eons.internal](/_internal\Time-Ages/geo~Eons.internal.md) 
+### [geo~Eons.public](/_public/Time-Ages/geo~Eons.public.md) 
 
-### [geo~Eons.protect](/_protect\Time-Ages/geo~Eons.protect.md) 
+### [geo~Eons.internal](/_internal/Time-Ages/geo~Eons.internal.md) 
 
-### [geo~Eons.private](/_private\Time-Ages/geo~Eons.private.md) 
+### [geo~Eons.protect](/_protect/Time-Ages/geo~Eons.protect.md) 
 
-### [geo~Eons.personal](/_personal\Time-Ages/geo~Eons.personal.md) 
+### [geo~Eons.private](/_private/Time-Ages/geo~Eons.private.md) 
 
-### [geo~Eons.secret](/_secret\Time-Ages/geo~Eons.secret.md)
+### [geo~Eons.personal](/_personal/Time-Ages/geo~Eons.personal.md) 
+
+### [geo~Eons.secret](/_secret/Time-Ages/geo~Eons.secret.md)
 

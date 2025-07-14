@@ -327,15 +327,17 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### [Bacteria.public](/_public\bio\bio~Domain/Bacteria.public.md) 
+### [Bacteria](/_Standards/bio/bio~Domain/Bacteria.md) 
 
-### [Bacteria.internal](/_internal\bio\bio~Domain/Bacteria.internal.md) 
+### [Bacteria.public](/_public/bio/bio~Domain/Bacteria.public.md) 
 
-### [Bacteria.protect](/_protect\bio\bio~Domain/Bacteria.protect.md) 
+### [Bacteria.internal](/_internal/bio/bio~Domain/Bacteria.internal.md) 
 
-### [Bacteria.private](/_private\bio\bio~Domain/Bacteria.private.md) 
+### [Bacteria.protect](/_protect/bio/bio~Domain/Bacteria.protect.md) 
 
-### [Bacteria.personal](/_personal\bio\bio~Domain/Bacteria.personal.md) 
+### [Bacteria.private](/_private/bio/bio~Domain/Bacteria.private.md) 
 
-### [Bacteria.secret](/_secret\bio\bio~Domain/Bacteria.secret.md)
+### [Bacteria.personal](/_personal/bio/bio~Domain/Bacteria.personal.md) 
+
+### [Bacteria.secret](/_secret/bio/bio~Domain/Bacteria.secret.md)
 

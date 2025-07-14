@@ -10,15 +10,17 @@ Publishes Standards for electronic readable Travel Documents
 
 ## Confidential Links & Embeds: 
 
-### [ICAO.public](/_public\UN(United_Nations)/ICAO.public.md) 
+### [ICAO](/_Standards/UN(United_Nations)/ICAO.md) 
 
-### [ICAO.internal](/_internal\UN(United_Nations)/ICAO.internal.md) 
+### [ICAO.public](/_public/UN(United_Nations)/ICAO.public.md) 
 
-### [ICAO.protect](/_protect\UN(United_Nations)/ICAO.protect.md) 
+### [ICAO.internal](/_internal/UN(United_Nations)/ICAO.internal.md) 
 
-### [ICAO.private](/_private\UN(United_Nations)/ICAO.private.md) 
+### [ICAO.protect](/_protect/UN(United_Nations)/ICAO.protect.md) 
 
-### [ICAO.personal](/_personal\UN(United_Nations)/ICAO.personal.md) 
+### [ICAO.private](/_private/UN(United_Nations)/ICAO.private.md) 
 
-### [ICAO.secret](/_secret\UN(United_Nations)/ICAO.secret.md)
+### [ICAO.personal](/_personal/UN(United_Nations)/ICAO.personal.md) 
+
+### [ICAO.secret](/_secret/UN(United_Nations)/ICAO.secret.md)
 

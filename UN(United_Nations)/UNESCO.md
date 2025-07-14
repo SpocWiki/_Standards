@@ -168,15 +168,17 @@ MeSH_tree_code: N03.540.514.718.400
 
 ## Confidential Links & Embeds: 
 
-### [UNESCO.public](/_public\UN(United_Nations)/UNESCO.public.md) 
+### [UNESCO](/_Standards/UN(United_Nations)/UNESCO.md) 
 
-### [UNESCO.internal](/_internal\UN(United_Nations)/UNESCO.internal.md) 
+### [UNESCO.public](/_public/UN(United_Nations)/UNESCO.public.md) 
 
-### [UNESCO.protect](/_protect\UN(United_Nations)/UNESCO.protect.md) 
+### [UNESCO.internal](/_internal/UN(United_Nations)/UNESCO.internal.md) 
 
-### [UNESCO.private](/_private\UN(United_Nations)/UNESCO.private.md) 
+### [UNESCO.protect](/_protect/UN(United_Nations)/UNESCO.protect.md) 
 
-### [UNESCO.personal](/_personal\UN(United_Nations)/UNESCO.personal.md) 
+### [UNESCO.private](/_private/UN(United_Nations)/UNESCO.private.md) 
 
-### [UNESCO.secret](/_secret\UN(United_Nations)/UNESCO.secret.md)
+### [UNESCO.personal](/_personal/UN(United_Nations)/UNESCO.personal.md) 
+
+### [UNESCO.secret](/_secret/UN(United_Nations)/UNESCO.secret.md)
 

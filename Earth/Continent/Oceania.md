@@ -107,15 +107,17 @@ markerFolder: ./Oceania/
 
 ## Confidential Links & Embeds: 
 
-### [Oceania.public](/_public\Earth\Continent/Oceania.public.md) 
+### [Oceania](/_Standards/Earth/Continent/Oceania.md) 
 
-### [Oceania.internal](/_internal\Earth\Continent/Oceania.internal.md) 
+### [Oceania.public](/_public/Earth/Continent/Oceania.public.md) 
 
-### [Oceania.protect](/_protect\Earth\Continent/Oceania.protect.md) 
+### [Oceania.internal](/_internal/Earth/Continent/Oceania.internal.md) 
 
-### [Oceania.private](/_private\Earth\Continent/Oceania.private.md) 
+### [Oceania.protect](/_protect/Earth/Continent/Oceania.protect.md) 
 
-### [Oceania.personal](/_personal\Earth\Continent/Oceania.personal.md) 
+### [Oceania.private](/_private/Earth/Continent/Oceania.private.md) 
 
-### [Oceania.secret](/_secret\Earth\Continent/Oceania.secret.md)
+### [Oceania.personal](/_personal/Earth/Continent/Oceania.personal.md) 
+
+### [Oceania.secret](/_secret/Earth/Continent/Oceania.secret.md)
 

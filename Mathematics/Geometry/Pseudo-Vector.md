@@ -53,15 +53,17 @@ compared to a true [[Scalar]] or [[Tensor]].
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Vector.public](/_public\Mathematics\Geometry/Pseudo-Vector.public.md) 
+### [Pseudo-Vector](/_Standards/Mathematics/Geometry/Pseudo-Vector.md) 
 
-### [Pseudo-Vector.internal](/_internal\Mathematics\Geometry/Pseudo-Vector.internal.md) 
+### [Pseudo-Vector.public](/_public/Mathematics/Geometry/Pseudo-Vector.public.md) 
 
-### [Pseudo-Vector.protect](/_protect\Mathematics\Geometry/Pseudo-Vector.protect.md) 
+### [Pseudo-Vector.internal](/_internal/Mathematics/Geometry/Pseudo-Vector.internal.md) 
 
-### [Pseudo-Vector.private](/_private\Mathematics\Geometry/Pseudo-Vector.private.md) 
+### [Pseudo-Vector.protect](/_protect/Mathematics/Geometry/Pseudo-Vector.protect.md) 
 
-### [Pseudo-Vector.personal](/_personal\Mathematics\Geometry/Pseudo-Vector.personal.md) 
+### [Pseudo-Vector.private](/_private/Mathematics/Geometry/Pseudo-Vector.private.md) 
 
-### [Pseudo-Vector.secret](/_secret\Mathematics\Geometry/Pseudo-Vector.secret.md)
+### [Pseudo-Vector.personal](/_personal/Mathematics/Geometry/Pseudo-Vector.personal.md) 
+
+### [Pseudo-Vector.secret](/_secret/Mathematics/Geometry/Pseudo-Vector.secret.md)
 

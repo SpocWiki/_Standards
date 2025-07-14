@@ -72,22 +72,19 @@ resulted in the forming of Plant Cells.
 > [Wikipedia](https://en.wikipedia.org/wiki/Prokaryote) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Procaryote.public](/_public\bio\bio~Domain/Procaryote.public.md) 
+### [Procaryote](/_Standards/bio/bio~Domain/Procaryote.md) 
 
-### [Procaryote.internal](/_internal\bio\bio~Domain/Procaryote.internal.md) 
+### [Procaryote.public](/_public/bio/bio~Domain/Procaryote.public.md) 
 
-### [Procaryote.protect](/_protect\bio\bio~Domain/Procaryote.protect.md) 
+### [Procaryote.internal](/_internal/bio/bio~Domain/Procaryote.internal.md) 
 
-### [Procaryote.private](/_private\bio\bio~Domain/Procaryote.private.md) 
+### [Procaryote.protect](/_protect/bio/bio~Domain/Procaryote.protect.md) 
 
-### [Procaryote.personal](/_personal\bio\bio~Domain/Procaryote.personal.md) 
+### [Procaryote.private](/_private/bio/bio~Domain/Procaryote.private.md) 
 
-### [Procaryote.secret](/_secret\bio\bio~Domain/Procaryote.secret.md)
+### [Procaryote.personal](/_personal/bio/bio~Domain/Procaryote.personal.md) 
+
+### [Procaryote.secret](/_secret/bio/bio~Domain/Procaryote.secret.md)
 

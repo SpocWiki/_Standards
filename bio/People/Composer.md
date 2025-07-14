@@ -10,20 +10,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Composer)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Composer.public](/_public\bio\People/Composer.public.md) 
+### [Composer](/_Standards/bio/People/Composer.md) 
 
-### [Composer.internal](/_internal\bio\People/Composer.internal.md) 
+### [Composer.public](/_public/bio/People/Composer.public.md) 
 
-### [Composer.protect](/_protect\bio\People/Composer.protect.md) 
+### [Composer.internal](/_internal/bio/People/Composer.internal.md) 
 
-### [Composer.private](/_private\bio\People/Composer.private.md) 
+### [Composer.protect](/_protect/bio/People/Composer.protect.md) 
 
-### [Composer.personal](/_personal\bio\People/Composer.personal.md) 
+### [Composer.private](/_private/bio/People/Composer.private.md) 
 
-### [Composer.secret](/_secret\bio\People/Composer.secret.md)
+### [Composer.personal](/_personal/bio/People/Composer.personal.md) 
+
+### [Composer.secret](/_secret/bio/People/Composer.secret.md)
 

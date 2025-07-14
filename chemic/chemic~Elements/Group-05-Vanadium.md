@@ -22,15 +22,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### [Group-05-Vanadium.public](/_public\chemic\chemic~Elements/Group-05-Vanadium.public.md) 
+### [Group-05-Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium.md) 
 
-### [Group-05-Vanadium.internal](/_internal\chemic\chemic~Elements/Group-05-Vanadium.internal.md) 
+### [Group-05-Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium.public.md) 
 
-### [Group-05-Vanadium.protect](/_protect\chemic\chemic~Elements/Group-05-Vanadium.protect.md) 
+### [Group-05-Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium.internal.md) 
 
-### [Group-05-Vanadium.private](/_private\chemic\chemic~Elements/Group-05-Vanadium.private.md) 
+### [Group-05-Vanadium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium.protect.md) 
 
-### [Group-05-Vanadium.personal](/_personal\chemic\chemic~Elements/Group-05-Vanadium.personal.md) 
+### [Group-05-Vanadium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium.private.md) 
 
-### [Group-05-Vanadium.secret](/_secret\chemic\chemic~Elements/Group-05-Vanadium.secret.md)
+### [Group-05-Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium.personal.md) 
+
+### [Group-05-Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium.secret.md)
 

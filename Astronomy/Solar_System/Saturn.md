@@ -221,24 +221,19 @@ parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn)
 
 
-
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Saturn.public](/_public\Astronomy\Solar_System/Saturn.public.md) 
+### [Saturn](/_Standards/Astronomy/Solar_System/Saturn.md) 
 
-### [Saturn.internal](/_internal\Astronomy\Solar_System/Saturn.internal.md) 
+### [Saturn.public](/_public/Astronomy/Solar_System/Saturn.public.md) 
 
-### [Saturn.protect](/_protect\Astronomy\Solar_System/Saturn.protect.md) 
+### [Saturn.internal](/_internal/Astronomy/Solar_System/Saturn.internal.md) 
 
-### [Saturn.private](/_private\Astronomy\Solar_System/Saturn.private.md) 
+### [Saturn.protect](/_protect/Astronomy/Solar_System/Saturn.protect.md) 
 
-### [Saturn.personal](/_personal\Astronomy\Solar_System/Saturn.personal.md) 
+### [Saturn.private](/_private/Astronomy/Solar_System/Saturn.private.md) 
 
-### [Saturn.secret](/_secret\Astronomy\Solar_System/Saturn.secret.md)
+### [Saturn.personal](/_personal/Astronomy/Solar_System/Saturn.personal.md) 
+
+### [Saturn.secret](/_secret/Astronomy/Solar_System/Saturn.secret.md)
 

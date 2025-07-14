@@ -18,15 +18,17 @@ has_id_wikidata: Q3559
 
 ## Confidential Links & Embeds: 
 
-### [Comet.public](/_public\Astronomy/Comet.public.md) 
+### [Comet](/_Standards/Astronomy/Comet.md) 
 
-### [Comet.internal](/_internal\Astronomy/Comet.internal.md) 
+### [Comet.public](/_public/Astronomy/Comet.public.md) 
 
-### [Comet.protect](/_protect\Astronomy/Comet.protect.md) 
+### [Comet.internal](/_internal/Astronomy/Comet.internal.md) 
 
-### [Comet.private](/_private\Astronomy/Comet.private.md) 
+### [Comet.protect](/_protect/Astronomy/Comet.protect.md) 
 
-### [Comet.personal](/_personal\Astronomy/Comet.personal.md) 
+### [Comet.private](/_private/Astronomy/Comet.private.md) 
 
-### [Comet.secret](/_secret\Astronomy/Comet.secret.md)
+### [Comet.personal](/_personal/Astronomy/Comet.personal.md) 
+
+### [Comet.secret](/_secret/Astronomy/Comet.secret.md)
 

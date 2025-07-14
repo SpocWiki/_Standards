@@ -42,19 +42,19 @@ Wikidata_property: "located in time zone"
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20zone)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Time-Zone.public](/_public\ISO\Calendar/Time-Zone.public.md) 
+### [Time-Zone](/_Standards/ISO/Calendar/Time-Zone.md) 
 
-### [Time-Zone.internal](/_internal\ISO\Calendar/Time-Zone.internal.md) 
+### [Time-Zone.public](/_public/ISO/Calendar/Time-Zone.public.md) 
 
-### [Time-Zone.protect](/_protect\ISO\Calendar/Time-Zone.protect.md) 
+### [Time-Zone.internal](/_internal/ISO/Calendar/Time-Zone.internal.md) 
 
-### [Time-Zone.private](/_private\ISO\Calendar/Time-Zone.private.md) 
+### [Time-Zone.protect](/_protect/ISO/Calendar/Time-Zone.protect.md) 
 
-### [Time-Zone.personal](/_personal\ISO\Calendar/Time-Zone.personal.md) 
+### [Time-Zone.private](/_private/ISO/Calendar/Time-Zone.private.md) 
 
-### [Time-Zone.secret](/_secret\ISO\Calendar/Time-Zone.secret.md)
+### [Time-Zone.personal](/_personal/ISO/Calendar/Time-Zone.personal.md) 
+
+### [Time-Zone.secret](/_secret/ISO/Calendar/Time-Zone.secret.md)
 

@@ -58,19 +58,19 @@ Commons_category: Nutrition
 > [Wikipedia](https://en.wikipedia.org/wiki/Nutrition)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nutrition.public](/_public\bio\Metabolism/Nutrition.public.md) 
+### [Nutrition](/_Standards/bio/Metabolism/Nutrition.md) 
 
-### [Nutrition.internal](/_internal\bio\Metabolism/Nutrition.internal.md) 
+### [Nutrition.public](/_public/bio/Metabolism/Nutrition.public.md) 
 
-### [Nutrition.protect](/_protect\bio\Metabolism/Nutrition.protect.md) 
+### [Nutrition.internal](/_internal/bio/Metabolism/Nutrition.internal.md) 
 
-### [Nutrition.private](/_private\bio\Metabolism/Nutrition.private.md) 
+### [Nutrition.protect](/_protect/bio/Metabolism/Nutrition.protect.md) 
 
-### [Nutrition.personal](/_personal\bio\Metabolism/Nutrition.personal.md) 
+### [Nutrition.private](/_private/bio/Metabolism/Nutrition.private.md) 
 
-### [Nutrition.secret](/_secret\bio\Metabolism/Nutrition.secret.md)
+### [Nutrition.personal](/_personal/bio/Metabolism/Nutrition.personal.md) 
+
+### [Nutrition.secret](/_secret/bio/Metabolism/Nutrition.secret.md)
 

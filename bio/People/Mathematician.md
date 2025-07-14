@@ -94,15 +94,17 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Mathematician::42t84\"]"
 
 ## Confidential Links & Embeds: 
 
-### [Mathematician.public](/_public\bio\People/Mathematician.public.md) 
+### [Mathematician](/_Standards/bio/People/Mathematician.md) 
 
-### [Mathematician.internal](/_internal\bio\People/Mathematician.internal.md) 
+### [Mathematician.public](/_public/bio/People/Mathematician.public.md) 
 
-### [Mathematician.protect](/_protect\bio\People/Mathematician.protect.md) 
+### [Mathematician.internal](/_internal/bio/People/Mathematician.internal.md) 
 
-### [Mathematician.private](/_private\bio\People/Mathematician.private.md) 
+### [Mathematician.protect](/_protect/bio/People/Mathematician.protect.md) 
 
-### [Mathematician.personal](/_personal\bio\People/Mathematician.personal.md) 
+### [Mathematician.private](/_private/bio/People/Mathematician.private.md) 
 
-### [Mathematician.secret](/_secret\bio\People/Mathematician.secret.md)
+### [Mathematician.personal](/_personal/bio/People/Mathematician.personal.md) 
+
+### [Mathematician.secret](/_secret/bio/People/Mathematician.secret.md)
 

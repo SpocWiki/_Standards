@@ -10,15 +10,17 @@ The corresponding [[../Angular_Dimension]] is
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Yank.public](/_public\Dimension\Linear_Dimension/Dim~Yank.public.md) 
+### [Dim~Yank](/_Standards/Dimension/Linear_Dimension/Dim~Yank.md) 
 
-### [Dim~Yank.internal](/_internal\Dimension\Linear_Dimension/Dim~Yank.internal.md) 
+### [Dim~Yank.public](/_public/Dimension/Linear_Dimension/Dim~Yank.public.md) 
 
-### [Dim~Yank.protect](/_protect\Dimension\Linear_Dimension/Dim~Yank.protect.md) 
+### [Dim~Yank.internal](/_internal/Dimension/Linear_Dimension/Dim~Yank.internal.md) 
 
-### [Dim~Yank.private](/_private\Dimension\Linear_Dimension/Dim~Yank.private.md) 
+### [Dim~Yank.protect](/_protect/Dimension/Linear_Dimension/Dim~Yank.protect.md) 
 
-### [Dim~Yank.personal](/_personal\Dimension\Linear_Dimension/Dim~Yank.personal.md) 
+### [Dim~Yank.private](/_private/Dimension/Linear_Dimension/Dim~Yank.private.md) 
 
-### [Dim~Yank.secret](/_secret\Dimension\Linear_Dimension/Dim~Yank.secret.md)
+### [Dim~Yank.personal](/_personal/Dimension/Linear_Dimension/Dim~Yank.personal.md) 
+
+### [Dim~Yank.secret](/_secret/Dimension/Linear_Dimension/Dim~Yank.secret.md)
 

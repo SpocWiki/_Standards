@@ -63,19 +63,19 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Communication)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Communication.public](/_public\bio\Society/Communication.public.md) 
+### [Communication](/_Standards/bio/Society/Communication.md) 
 
-### [Communication.internal](/_internal\bio\Society/Communication.internal.md) 
+### [Communication.public](/_public/bio/Society/Communication.public.md) 
 
-### [Communication.protect](/_protect\bio\Society/Communication.protect.md) 
+### [Communication.internal](/_internal/bio/Society/Communication.internal.md) 
 
-### [Communication.private](/_private\bio\Society/Communication.private.md) 
+### [Communication.protect](/_protect/bio/Society/Communication.protect.md) 
 
-### [Communication.personal](/_personal\bio\Society/Communication.personal.md) 
+### [Communication.private](/_private/bio/Society/Communication.private.md) 
 
-### [Communication.secret](/_secret\bio\Society/Communication.secret.md)
+### [Communication.personal](/_personal/bio/Society/Communication.personal.md) 
+
+### [Communication.secret](/_secret/bio/Society/Communication.secret.md)
 

@@ -76,19 +76,19 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Paper::495t6\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Paper) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Paper.public](/_public\chemic\Material/Paper.public.md) 
+### [Paper](/_Standards/chemic/Material/Paper.md) 
 
-### [Paper.internal](/_internal\chemic\Material/Paper.internal.md) 
+### [Paper.public](/_public/chemic/Material/Paper.public.md) 
 
-### [Paper.protect](/_protect\chemic\Material/Paper.protect.md) 
+### [Paper.internal](/_internal/chemic/Material/Paper.internal.md) 
 
-### [Paper.private](/_private\chemic\Material/Paper.private.md) 
+### [Paper.protect](/_protect/chemic/Material/Paper.protect.md) 
 
-### [Paper.personal](/_personal\chemic\Material/Paper.personal.md) 
+### [Paper.private](/_private/chemic/Material/Paper.private.md) 
 
-### [Paper.secret](/_secret\chemic\Material/Paper.secret.md)
+### [Paper.personal](/_personal/chemic/Material/Paper.personal.md) 
+
+### [Paper.secret](/_secret/chemic/Material/Paper.secret.md)
 

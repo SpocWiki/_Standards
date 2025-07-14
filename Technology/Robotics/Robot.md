@@ -51,20 +51,19 @@ time_of_earliest_written_record: "1920"
 > [Wikipedia](https://en.wikipedia.org/wiki/Robot) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Robot.public](/_public\Technology\Robotics/Robot.public.md) 
+### [Robot](/_Standards/Technology/Robotics/Robot.md) 
 
-### [Robot.internal](/_internal\Technology\Robotics/Robot.internal.md) 
+### [Robot.public](/_public/Technology/Robotics/Robot.public.md) 
 
-### [Robot.protect](/_protect\Technology\Robotics/Robot.protect.md) 
+### [Robot.internal](/_internal/Technology/Robotics/Robot.internal.md) 
 
-### [Robot.private](/_private\Technology\Robotics/Robot.private.md) 
+### [Robot.protect](/_protect/Technology/Robotics/Robot.protect.md) 
 
-### [Robot.personal](/_personal\Technology\Robotics/Robot.personal.md) 
+### [Robot.private](/_private/Technology/Robotics/Robot.private.md) 
 
-### [Robot.secret](/_secret\Technology\Robotics/Robot.secret.md)
+### [Robot.personal](/_personal/Technology/Robotics/Robot.personal.md) 
+
+### [Robot.secret](/_secret/Technology/Robotics/Robot.secret.md)
 

@@ -84,15 +84,17 @@ Smaller Structures like the Core Family were not robust enough to survive.
 
 ## Confidential Links & Embeds: 
 
-### [Society.public](/_public\bio/Society.public.md) 
+### [Society](/_Standards/bio/Society.md) 
 
-### [Society.internal](/_internal\bio/Society.internal.md) 
+### [Society.public](/_public/bio/Society.public.md) 
 
-### [Society.protect](/_protect\bio/Society.protect.md) 
+### [Society.internal](/_internal/bio/Society.internal.md) 
 
-### [Society.private](/_private\bio/Society.private.md) 
+### [Society.protect](/_protect/bio/Society.protect.md) 
 
-### [Society.personal](/_personal\bio/Society.personal.md) 
+### [Society.private](/_private/bio/Society.private.md) 
 
-### [Society.secret](/_secret\bio/Society.secret.md)
+### [Society.personal](/_personal/bio/Society.personal.md) 
+
+### [Society.secret](/_secret/bio/Society.secret.md)
 

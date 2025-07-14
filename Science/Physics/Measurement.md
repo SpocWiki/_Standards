@@ -43,19 +43,19 @@ Krugosvet_article: nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Measurement)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Measurement.public](/_public\Science\Physics/Measurement.public.md) 
+### [Measurement](/_Standards/Science/Physics/Measurement.md) 
 
-### [Measurement.internal](/_internal\Science\Physics/Measurement.internal.md) 
+### [Measurement.public](/_public/Science/Physics/Measurement.public.md) 
 
-### [Measurement.protect](/_protect\Science\Physics/Measurement.protect.md) 
+### [Measurement.internal](/_internal/Science/Physics/Measurement.internal.md) 
 
-### [Measurement.private](/_private\Science\Physics/Measurement.private.md) 
+### [Measurement.protect](/_protect/Science/Physics/Measurement.protect.md) 
 
-### [Measurement.personal](/_personal\Science\Physics/Measurement.personal.md) 
+### [Measurement.private](/_private/Science/Physics/Measurement.private.md) 
 
-### [Measurement.secret](/_secret\Science\Physics/Measurement.secret.md)
+### [Measurement.personal](/_personal/Science/Physics/Measurement.personal.md) 
+
+### [Measurement.secret](/_secret/Science/Physics/Measurement.secret.md)
 

@@ -47,22 +47,19 @@ Commons_category: "Fundamental forces"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fundamental%20interaction)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fundamental_Interaction.public](/_public\Science\Physics/Fundamental_Interaction.public.md) 
+### [Fundamental_Interaction](/_Standards/Science/Physics/Fundamental_Interaction.md) 
 
-### [Fundamental_Interaction.internal](/_internal\Science\Physics/Fundamental_Interaction.internal.md) 
+### [Fundamental_Interaction.public](/_public/Science/Physics/Fundamental_Interaction.public.md) 
 
-### [Fundamental_Interaction.protect](/_protect\Science\Physics/Fundamental_Interaction.protect.md) 
+### [Fundamental_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction.internal.md) 
 
-### [Fundamental_Interaction.private](/_private\Science\Physics/Fundamental_Interaction.private.md) 
+### [Fundamental_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction.protect.md) 
 
-### [Fundamental_Interaction.personal](/_personal\Science\Physics/Fundamental_Interaction.personal.md) 
+### [Fundamental_Interaction.private](/_private/Science/Physics/Fundamental_Interaction.private.md) 
 
-### [Fundamental_Interaction.secret](/_secret\Science\Physics/Fundamental_Interaction.secret.md)
+### [Fundamental_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction.personal.md) 
+
+### [Fundamental_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction.secret.md)
 

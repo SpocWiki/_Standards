@@ -87,15 +87,17 @@ either their native Script or a Latin Transcription:
 
 ## Confidential Links & Embeds: 
 
-### [Script~Latn.public](/_public\Language\Scripts/Script~Latn.public.md) 
+### [Script~Latn](/_Standards/Language/Scripts/Script~Latn.md) 
 
-### [Script~Latn.internal](/_internal\Language\Scripts/Script~Latn.internal.md) 
+### [Script~Latn.public](/_public/Language/Scripts/Script~Latn.public.md) 
 
-### [Script~Latn.protect](/_protect\Language\Scripts/Script~Latn.protect.md) 
+### [Script~Latn.internal](/_internal/Language/Scripts/Script~Latn.internal.md) 
 
-### [Script~Latn.private](/_private\Language\Scripts/Script~Latn.private.md) 
+### [Script~Latn.protect](/_protect/Language/Scripts/Script~Latn.protect.md) 
 
-### [Script~Latn.personal](/_personal\Language\Scripts/Script~Latn.personal.md) 
+### [Script~Latn.private](/_private/Language/Scripts/Script~Latn.private.md) 
 
-### [Script~Latn.secret](/_secret\Language\Scripts/Script~Latn.secret.md)
+### [Script~Latn.personal](/_personal/Language/Scripts/Script~Latn.personal.md) 
+
+### [Script~Latn.secret](/_secret/Language/Scripts/Script~Latn.secret.md)
 

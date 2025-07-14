@@ -8,6 +8,8 @@
 
 ## Confidential Links & Embeds: 
 
+### [gs1](/_Standards/gs1.md) 
+
 ### [gs1.public](/_public/gs1.public.md) 
 
 ### [gs1.internal](/_internal/gs1.internal.md) 

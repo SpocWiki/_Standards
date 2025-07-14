@@ -61,19 +61,19 @@ Commons_category: Sex
 > [Wikipedia](https://en.wikipedia.org/wiki/Sex)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sex.public](/_public\bio\Reproduction/Sex.public.md) 
+### [Sex](/_Standards/bio/Reproduction/Sex.md) 
 
-### [Sex.internal](/_internal\bio\Reproduction/Sex.internal.md) 
+### [Sex.public](/_public/bio/Reproduction/Sex.public.md) 
 
-### [Sex.protect](/_protect\bio\Reproduction/Sex.protect.md) 
+### [Sex.internal](/_internal/bio/Reproduction/Sex.internal.md) 
 
-### [Sex.private](/_private\bio\Reproduction/Sex.private.md) 
+### [Sex.protect](/_protect/bio/Reproduction/Sex.protect.md) 
 
-### [Sex.personal](/_personal\bio\Reproduction/Sex.personal.md) 
+### [Sex.private](/_private/bio/Reproduction/Sex.private.md) 
 
-### [Sex.secret](/_secret\bio\Reproduction/Sex.secret.md)
+### [Sex.personal](/_personal/bio/Reproduction/Sex.personal.md) 
+
+### [Sex.secret](/_secret/bio/Reproduction/Sex.secret.md)
 

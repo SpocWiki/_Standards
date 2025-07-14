@@ -122,15 +122,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Eon~2~Archean.public](/_public\Time-Ages\geo~Eons/Eon~2~Archean.public.md) 
+### [Eon~2~Archean](/_Standards/Time-Ages/geo~Eons/Eon~2~Archean.md) 
 
-### [Eon~2~Archean.internal](/_internal\Time-Ages\geo~Eons/Eon~2~Archean.internal.md) 
+### [Eon~2~Archean.public](/_public/Time-Ages/geo~Eons/Eon~2~Archean.public.md) 
 
-### [Eon~2~Archean.protect](/_protect\Time-Ages\geo~Eons/Eon~2~Archean.protect.md) 
+### [Eon~2~Archean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean.internal.md) 
 
-### [Eon~2~Archean.private](/_private\Time-Ages\geo~Eons/Eon~2~Archean.private.md) 
+### [Eon~2~Archean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean.protect.md) 
 
-### [Eon~2~Archean.personal](/_personal\Time-Ages\geo~Eons/Eon~2~Archean.personal.md) 
+### [Eon~2~Archean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean.private.md) 
 
-### [Eon~2~Archean.secret](/_secret\Time-Ages\geo~Eons/Eon~2~Archean.secret.md)
+### [Eon~2~Archean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean.personal.md) 
+
+### [Eon~2~Archean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean.secret.md)
 

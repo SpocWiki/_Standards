@@ -40,20 +40,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Pole) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [North_Pole.public](/_public\Earth\Geography/North_Pole.public.md) 
+### [North_Pole](/_Standards/Earth/Geography/North_Pole.md) 
 
-### [North_Pole.internal](/_internal\Earth\Geography/North_Pole.internal.md) 
+### [North_Pole.public](/_public/Earth/Geography/North_Pole.public.md) 
 
-### [North_Pole.protect](/_protect\Earth\Geography/North_Pole.protect.md) 
+### [North_Pole.internal](/_internal/Earth/Geography/North_Pole.internal.md) 
 
-### [North_Pole.private](/_private\Earth\Geography/North_Pole.private.md) 
+### [North_Pole.protect](/_protect/Earth/Geography/North_Pole.protect.md) 
 
-### [North_Pole.personal](/_personal\Earth\Geography/North_Pole.personal.md) 
+### [North_Pole.private](/_private/Earth/Geography/North_Pole.private.md) 
 
-### [North_Pole.secret](/_secret\Earth\Geography/North_Pole.secret.md)
+### [North_Pole.personal](/_personal/Earth/Geography/North_Pole.personal.md) 
+
+### [North_Pole.secret](/_secret/Earth/Geography/North_Pole.secret.md)
 

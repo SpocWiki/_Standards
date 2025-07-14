@@ -66,21 +66,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bretton%20Woods%20system) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Bretton_Woods_Agreement.public](/_public\Economics\Currency/Bretton_Woods_Agreement.public.md) 
+### [Bretton_Woods_Agreement](/_Standards/Economics/Currency/Bretton_Woods_Agreement.md) 
 
-### [Bretton_Woods_Agreement.internal](/_internal\Economics\Currency/Bretton_Woods_Agreement.internal.md) 
+### [Bretton_Woods_Agreement.public](/_public/Economics/Currency/Bretton_Woods_Agreement.public.md) 
 
-### [Bretton_Woods_Agreement.protect](/_protect\Economics\Currency/Bretton_Woods_Agreement.protect.md) 
+### [Bretton_Woods_Agreement.internal](/_internal/Economics/Currency/Bretton_Woods_Agreement.internal.md) 
 
-### [Bretton_Woods_Agreement.private](/_private\Economics\Currency/Bretton_Woods_Agreement.private.md) 
+### [Bretton_Woods_Agreement.protect](/_protect/Economics/Currency/Bretton_Woods_Agreement.protect.md) 
 
-### [Bretton_Woods_Agreement.personal](/_personal\Economics\Currency/Bretton_Woods_Agreement.personal.md) 
+### [Bretton_Woods_Agreement.private](/_private/Economics/Currency/Bretton_Woods_Agreement.private.md) 
 
-### [Bretton_Woods_Agreement.secret](/_secret\Economics\Currency/Bretton_Woods_Agreement.secret.md)
+### [Bretton_Woods_Agreement.personal](/_personal/Economics/Currency/Bretton_Woods_Agreement.personal.md) 
+
+### [Bretton_Woods_Agreement.secret](/_secret/Economics/Currency/Bretton_Woods_Agreement.secret.md)
 

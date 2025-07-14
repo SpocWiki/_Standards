@@ -59,22 +59,19 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATOM.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Atom)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Atom.public](/_public\Science\Physics/Atom.public.md) 
+### [Atom](/_Standards/Science/Physics/Atom.md) 
 
-### [Atom.internal](/_internal\Science\Physics/Atom.internal.md) 
+### [Atom.public](/_public/Science/Physics/Atom.public.md) 
 
-### [Atom.protect](/_protect\Science\Physics/Atom.protect.md) 
+### [Atom.internal](/_internal/Science/Physics/Atom.internal.md) 
 
-### [Atom.private](/_private\Science\Physics/Atom.private.md) 
+### [Atom.protect](/_protect/Science/Physics/Atom.protect.md) 
 
-### [Atom.personal](/_personal\Science\Physics/Atom.personal.md) 
+### [Atom.private](/_private/Science/Physics/Atom.private.md) 
 
-### [Atom.secret](/_secret\Science\Physics/Atom.secret.md)
+### [Atom.personal](/_personal/Science/Physics/Atom.personal.md) 
+
+### [Atom.secret](/_secret/Science/Physics/Atom.secret.md)
 

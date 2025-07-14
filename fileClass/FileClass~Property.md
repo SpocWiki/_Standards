@@ -27,15 +27,17 @@ has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_typ
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Property.public](/_public\fileClass/FileClass~Property.public.md) 
+### [FileClass~Property](/_Standards/fileClass/FileClass~Property.md) 
 
-### [FileClass~Property.internal](/_internal\fileClass/FileClass~Property.internal.md) 
+### [FileClass~Property.public](/_public/fileClass/FileClass~Property.public.md) 
 
-### [FileClass~Property.protect](/_protect\fileClass/FileClass~Property.protect.md) 
+### [FileClass~Property.internal](/_internal/fileClass/FileClass~Property.internal.md) 
 
-### [FileClass~Property.private](/_private\fileClass/FileClass~Property.private.md) 
+### [FileClass~Property.protect](/_protect/fileClass/FileClass~Property.protect.md) 
 
-### [FileClass~Property.personal](/_personal\fileClass/FileClass~Property.personal.md) 
+### [FileClass~Property.private](/_private/fileClass/FileClass~Property.private.md) 
 
-### [FileClass~Property.secret](/_secret\fileClass/FileClass~Property.secret.md)
+### [FileClass~Property.personal](/_personal/fileClass/FileClass~Property.personal.md) 
+
+### [FileClass~Property.secret](/_secret/fileClass/FileClass~Property.secret.md)
 

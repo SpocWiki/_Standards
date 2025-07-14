@@ -148,15 +148,17 @@ markerFolder: ./Antarctica/
 
 ## Confidential Links & Embeds: 
 
-### [Antarctica.public](/_public\Earth\Continent/Antarctica.public.md) 
+### [Antarctica](/_Standards/Earth/Continent/Antarctica.md) 
 
-### [Antarctica.internal](/_internal\Earth\Continent/Antarctica.internal.md) 
+### [Antarctica.public](/_public/Earth/Continent/Antarctica.public.md) 
 
-### [Antarctica.protect](/_protect\Earth\Continent/Antarctica.protect.md) 
+### [Antarctica.internal](/_internal/Earth/Continent/Antarctica.internal.md) 
 
-### [Antarctica.private](/_private\Earth\Continent/Antarctica.private.md) 
+### [Antarctica.protect](/_protect/Earth/Continent/Antarctica.protect.md) 
 
-### [Antarctica.personal](/_personal\Earth\Continent/Antarctica.personal.md) 
+### [Antarctica.private](/_private/Earth/Continent/Antarctica.private.md) 
 
-### [Antarctica.secret](/_secret\Earth\Continent/Antarctica.secret.md)
+### [Antarctica.personal](/_personal/Earth/Continent/Antarctica.personal.md) 
+
+### [Antarctica.secret](/_secret/Earth/Continent/Antarctica.secret.md)
 

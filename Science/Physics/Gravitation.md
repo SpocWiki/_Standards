@@ -86,22 +86,19 @@ Iconclass_notation: 49E222
 > [Wikipedia](https://en.wikipedia.org/wiki/Gravity)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gravitation.public](/_public\Science\Physics/Gravitation.public.md) 
+### [Gravitation](/_Standards/Science/Physics/Gravitation.md) 
 
-### [Gravitation.internal](/_internal\Science\Physics/Gravitation.internal.md) 
+### [Gravitation.public](/_public/Science/Physics/Gravitation.public.md) 
 
-### [Gravitation.protect](/_protect\Science\Physics/Gravitation.protect.md) 
+### [Gravitation.internal](/_internal/Science/Physics/Gravitation.internal.md) 
 
-### [Gravitation.private](/_private\Science\Physics/Gravitation.private.md) 
+### [Gravitation.protect](/_protect/Science/Physics/Gravitation.protect.md) 
 
-### [Gravitation.personal](/_personal\Science\Physics/Gravitation.personal.md) 
+### [Gravitation.private](/_private/Science/Physics/Gravitation.private.md) 
 
-### [Gravitation.secret](/_secret\Science\Physics/Gravitation.secret.md)
+### [Gravitation.personal](/_personal/Science/Physics/Gravitation.personal.md) 
+
+### [Gravitation.secret](/_secret/Science/Physics/Gravitation.secret.md)
 

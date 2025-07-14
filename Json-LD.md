@@ -173,6 +173,8 @@ NewtonSoft Json uses `#text` Array to collect the inner Text of XML Nodes.
 
 ## Confidential Links & Embeds: 
 
+### [Json-LD](/_Standards/Json-LD.md) 
+
 ### [Json-LD.public](/_public/Json-LD.public.md) 
 
 ### [Json-LD.internal](/_internal/Json-LD.internal.md) 

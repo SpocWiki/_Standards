@@ -37,15 +37,17 @@ Unit :: #Unit/SI/A
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Ampere.public](/_public\Unit\SI-Unit/Unit~Ampere.public.md) 
+### [Unit~Ampere](/_Standards/Unit/SI-Unit/Unit~Ampere.md) 
 
-### [Unit~Ampere.internal](/_internal\Unit\SI-Unit/Unit~Ampere.internal.md) 
+### [Unit~Ampere.public](/_public/Unit/SI-Unit/Unit~Ampere.public.md) 
 
-### [Unit~Ampere.protect](/_protect\Unit\SI-Unit/Unit~Ampere.protect.md) 
+### [Unit~Ampere.internal](/_internal/Unit/SI-Unit/Unit~Ampere.internal.md) 
 
-### [Unit~Ampere.private](/_private\Unit\SI-Unit/Unit~Ampere.private.md) 
+### [Unit~Ampere.protect](/_protect/Unit/SI-Unit/Unit~Ampere.protect.md) 
 
-### [Unit~Ampere.personal](/_personal\Unit\SI-Unit/Unit~Ampere.personal.md) 
+### [Unit~Ampere.private](/_private/Unit/SI-Unit/Unit~Ampere.private.md) 
 
-### [Unit~Ampere.secret](/_secret\Unit\SI-Unit/Unit~Ampere.secret.md)
+### [Unit~Ampere.personal](/_personal/Unit/SI-Unit/Unit~Ampere.personal.md) 
+
+### [Unit~Ampere.secret](/_secret/Unit/SI-Unit/Unit~Ampere.secret.md)
 

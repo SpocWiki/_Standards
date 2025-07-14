@@ -67,15 +67,17 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_ZDANI.
 
 ## Confidential Links & Embeds: 
 
-### [Construction.public](/_public\Technology/Construction.public.md) 
+### [Construction](/_Standards/Technology/Construction.md) 
 
-### [Construction.internal](/_internal\Technology/Construction.internal.md) 
+### [Construction.public](/_public/Technology/Construction.public.md) 
 
-### [Construction.protect](/_protect\Technology/Construction.protect.md) 
+### [Construction.internal](/_internal/Technology/Construction.internal.md) 
 
-### [Construction.private](/_private\Technology/Construction.private.md) 
+### [Construction.protect](/_protect/Technology/Construction.protect.md) 
 
-### [Construction.personal](/_personal\Technology/Construction.personal.md) 
+### [Construction.private](/_private/Technology/Construction.private.md) 
 
-### [Construction.secret](/_secret\Technology/Construction.secret.md)
+### [Construction.personal](/_personal/Technology/Construction.personal.md) 
+
+### [Construction.secret](/_secret/Technology/Construction.secret.md)
 

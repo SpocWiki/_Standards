@@ -14,15 +14,17 @@ Several Languages, especially [[Semitic]] can be written either in Arabic Script
 
 ## Confidential Links & Embeds: 
 
-### [Script~Arab.public](/_public\Language\Scripts/Script~Arab.public.md) 
+### [Script~Arab](/_Standards/Language/Scripts/Script~Arab.md) 
 
-### [Script~Arab.internal](/_internal\Language\Scripts/Script~Arab.internal.md) 
+### [Script~Arab.public](/_public/Language/Scripts/Script~Arab.public.md) 
 
-### [Script~Arab.protect](/_protect\Language\Scripts/Script~Arab.protect.md) 
+### [Script~Arab.internal](/_internal/Language/Scripts/Script~Arab.internal.md) 
 
-### [Script~Arab.private](/_private\Language\Scripts/Script~Arab.private.md) 
+### [Script~Arab.protect](/_protect/Language/Scripts/Script~Arab.protect.md) 
 
-### [Script~Arab.personal](/_personal\Language\Scripts/Script~Arab.personal.md) 
+### [Script~Arab.private](/_private/Language/Scripts/Script~Arab.private.md) 
 
-### [Script~Arab.secret](/_secret\Language\Scripts/Script~Arab.secret.md)
+### [Script~Arab.personal](/_personal/Language/Scripts/Script~Arab.personal.md) 
+
+### [Script~Arab.secret](/_secret/Language/Scripts/Script~Arab.secret.md)
 

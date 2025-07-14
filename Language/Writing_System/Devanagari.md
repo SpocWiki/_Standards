@@ -88,19 +88,19 @@ has_time_started: 1100-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Devanagari) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Devanagari.public](/_public\Language\Writing_System/Devanagari.public.md) 
+### [Devanagari](/_Standards/Language/Writing_System/Devanagari.md) 
 
-### [Devanagari.internal](/_internal\Language\Writing_System/Devanagari.internal.md) 
+### [Devanagari.public](/_public/Language/Writing_System/Devanagari.public.md) 
 
-### [Devanagari.protect](/_protect\Language\Writing_System/Devanagari.protect.md) 
+### [Devanagari.internal](/_internal/Language/Writing_System/Devanagari.internal.md) 
 
-### [Devanagari.private](/_private\Language\Writing_System/Devanagari.private.md) 
+### [Devanagari.protect](/_protect/Language/Writing_System/Devanagari.protect.md) 
 
-### [Devanagari.personal](/_personal\Language\Writing_System/Devanagari.personal.md) 
+### [Devanagari.private](/_private/Language/Writing_System/Devanagari.private.md) 
 
-### [Devanagari.secret](/_secret\Language\Writing_System/Devanagari.secret.md)
+### [Devanagari.personal](/_personal/Language/Writing_System/Devanagari.personal.md) 
+
+### [Devanagari.secret](/_secret/Language/Writing_System/Devanagari.secret.md)
 

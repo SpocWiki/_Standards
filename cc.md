@@ -8,6 +8,8 @@ It provides a structured way to express licensing terms and conditions for resou
 
 ## Confidential Links & Embeds: 
 
+### [cc](/_Standards/cc.md) 
+
 ### [cc.public](/_public/cc.public.md) 
 
 ### [cc.internal](/_internal/cc.internal.md) 

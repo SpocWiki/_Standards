@@ -13,15 +13,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Direction~East.public](/_public\Earth\2D-Directions/Direction~East.public.md) 
+### [Direction~East](/_Standards/Earth/2D-Directions/Direction~East.md) 
 
-### [Direction~East.internal](/_internal\Earth\2D-Directions/Direction~East.internal.md) 
+### [Direction~East.public](/_public/Earth/2D-Directions/Direction~East.public.md) 
 
-### [Direction~East.protect](/_protect\Earth\2D-Directions/Direction~East.protect.md) 
+### [Direction~East.internal](/_internal/Earth/2D-Directions/Direction~East.internal.md) 
 
-### [Direction~East.private](/_private\Earth\2D-Directions/Direction~East.private.md) 
+### [Direction~East.protect](/_protect/Earth/2D-Directions/Direction~East.protect.md) 
 
-### [Direction~East.personal](/_personal\Earth\2D-Directions/Direction~East.personal.md) 
+### [Direction~East.private](/_private/Earth/2D-Directions/Direction~East.private.md) 
 
-### [Direction~East.secret](/_secret\Earth\2D-Directions/Direction~East.secret.md)
+### [Direction~East.personal](/_personal/Earth/2D-Directions/Direction~East.personal.md) 
+
+### [Direction~East.secret](/_secret/Earth/2D-Directions/Direction~East.secret.md)
 

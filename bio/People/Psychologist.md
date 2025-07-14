@@ -16,22 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychologist) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Psychologist.public](/_public\bio\People/Psychologist.public.md) 
+### [Psychologist](/_Standards/bio/People/Psychologist.md) 
 
-### [Psychologist.internal](/_internal\bio\People/Psychologist.internal.md) 
+### [Psychologist.public](/_public/bio/People/Psychologist.public.md) 
 
-### [Psychologist.protect](/_protect\bio\People/Psychologist.protect.md) 
+### [Psychologist.internal](/_internal/bio/People/Psychologist.internal.md) 
 
-### [Psychologist.private](/_private\bio\People/Psychologist.private.md) 
+### [Psychologist.protect](/_protect/bio/People/Psychologist.protect.md) 
 
-### [Psychologist.personal](/_personal\bio\People/Psychologist.personal.md) 
+### [Psychologist.private](/_private/bio/People/Psychologist.private.md) 
 
-### [Psychologist.secret](/_secret\bio\People/Psychologist.secret.md)
+### [Psychologist.personal](/_personal/bio/People/Psychologist.personal.md) 
+
+### [Psychologist.secret](/_secret/bio/People/Psychologist.secret.md)
 

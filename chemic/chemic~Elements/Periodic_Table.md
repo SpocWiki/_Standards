@@ -66,20 +66,19 @@ Gujarati_Vishwakosh_entry: આવર્તક-કોષ્ટક
 > [Wikipedia](https://en.wikipedia.org/wiki/Periodic%20table)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Periodic_Table.public](/_public\chemic\chemic~Elements/Periodic_Table.public.md) 
+### [Periodic_Table](/_Standards/chemic/chemic~Elements/Periodic_Table.md) 
 
-### [Periodic_Table.internal](/_internal\chemic\chemic~Elements/Periodic_Table.internal.md) 
+### [Periodic_Table.public](/_public/chemic/chemic~Elements/Periodic_Table.public.md) 
 
-### [Periodic_Table.protect](/_protect\chemic\chemic~Elements/Periodic_Table.protect.md) 
+### [Periodic_Table.internal](/_internal/chemic/chemic~Elements/Periodic_Table.internal.md) 
 
-### [Periodic_Table.private](/_private\chemic\chemic~Elements/Periodic_Table.private.md) 
+### [Periodic_Table.protect](/_protect/chemic/chemic~Elements/Periodic_Table.protect.md) 
 
-### [Periodic_Table.personal](/_personal\chemic\chemic~Elements/Periodic_Table.personal.md) 
+### [Periodic_Table.private](/_private/chemic/chemic~Elements/Periodic_Table.private.md) 
 
-### [Periodic_Table.secret](/_secret\chemic\chemic~Elements/Periodic_Table.secret.md)
+### [Periodic_Table.personal](/_personal/chemic/chemic~Elements/Periodic_Table.personal.md) 
+
+### [Periodic_Table.secret](/_secret/chemic/chemic~Elements/Periodic_Table.secret.md)
 

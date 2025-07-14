@@ -136,15 +136,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%
 
 ## Confidential Links & Embeds: 
 
-### [Ricardo,David.public](/_public\Economics/Ricardo,David.public.md) 
+### [Ricardo,David](/_Standards/Economics/Ricardo,David.md) 
 
-### [Ricardo,David.internal](/_internal\Economics/Ricardo,David.internal.md) 
+### [Ricardo,David.public](/_public/Economics/Ricardo,David.public.md) 
 
-### [Ricardo,David.protect](/_protect\Economics/Ricardo,David.protect.md) 
+### [Ricardo,David.internal](/_internal/Economics/Ricardo,David.internal.md) 
 
-### [Ricardo,David.private](/_private\Economics/Ricardo,David.private.md) 
+### [Ricardo,David.protect](/_protect/Economics/Ricardo,David.protect.md) 
 
-### [Ricardo,David.personal](/_personal\Economics/Ricardo,David.personal.md) 
+### [Ricardo,David.private](/_private/Economics/Ricardo,David.private.md) 
 
-### [Ricardo,David.secret](/_secret\Economics/Ricardo,David.secret.md)
+### [Ricardo,David.personal](/_personal/Economics/Ricardo,David.personal.md) 
+
+### [Ricardo,David.secret](/_secret/Economics/Ricardo,David.secret.md)
 

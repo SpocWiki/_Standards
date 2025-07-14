@@ -21,15 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Direction~North.public](/_public\Earth\2D-Directions/Direction~North.public.md) 
+### [Direction~North](/_Standards/Earth/2D-Directions/Direction~North.md) 
 
-### [Direction~North.internal](/_internal\Earth\2D-Directions/Direction~North.internal.md) 
+### [Direction~North.public](/_public/Earth/2D-Directions/Direction~North.public.md) 
 
-### [Direction~North.protect](/_protect\Earth\2D-Directions/Direction~North.protect.md) 
+### [Direction~North.internal](/_internal/Earth/2D-Directions/Direction~North.internal.md) 
 
-### [Direction~North.private](/_private\Earth\2D-Directions/Direction~North.private.md) 
+### [Direction~North.protect](/_protect/Earth/2D-Directions/Direction~North.protect.md) 
 
-### [Direction~North.personal](/_personal\Earth\2D-Directions/Direction~North.personal.md) 
+### [Direction~North.private](/_private/Earth/2D-Directions/Direction~North.private.md) 
 
-### [Direction~North.secret](/_secret\Earth\2D-Directions/Direction~North.secret.md)
+### [Direction~North.personal](/_personal/Earth/2D-Directions/Direction~North.personal.md) 
+
+### [Direction~North.secret](/_secret/Earth/2D-Directions/Direction~North.secret.md)
 

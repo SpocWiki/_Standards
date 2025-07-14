@@ -40,15 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Ozone.public](/_public\Earth/Ozone.public.md) 
+### [Ozone](/_Standards/Earth/Ozone.md) 
 
-### [Ozone.internal](/_internal\Earth/Ozone.internal.md) 
+### [Ozone.public](/_public/Earth/Ozone.public.md) 
 
-### [Ozone.protect](/_protect\Earth/Ozone.protect.md) 
+### [Ozone.internal](/_internal/Earth/Ozone.internal.md) 
 
-### [Ozone.private](/_private\Earth/Ozone.private.md) 
+### [Ozone.protect](/_protect/Earth/Ozone.protect.md) 
 
-### [Ozone.personal](/_personal\Earth/Ozone.personal.md) 
+### [Ozone.private](/_private/Earth/Ozone.private.md) 
 
-### [Ozone.secret](/_secret\Earth/Ozone.secret.md)
+### [Ozone.personal](/_personal/Earth/Ozone.personal.md) 
+
+### [Ozone.secret](/_secret/Earth/Ozone.secret.md)
 

@@ -84,15 +84,17 @@ but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Patt
 
 ## Confidential Links & Embeds: 
 
-### [Class.public](/_public\schema-org/Class.public.md) 
+### [Class](/_Standards/schema-org/Class.md) 
 
-### [Class.internal](/_internal\schema-org/Class.internal.md) 
+### [Class.public](/_public/schema-org/Class.public.md) 
 
-### [Class.protect](/_protect\schema-org/Class.protect.md) 
+### [Class.internal](/_internal/schema-org/Class.internal.md) 
 
-### [Class.private](/_private\schema-org/Class.private.md) 
+### [Class.protect](/_protect/schema-org/Class.protect.md) 
 
-### [Class.personal](/_personal\schema-org/Class.personal.md) 
+### [Class.private](/_private/schema-org/Class.private.md) 
 
-### [Class.secret](/_secret\schema-org/Class.secret.md)
+### [Class.personal](/_personal/schema-org/Class.personal.md) 
+
+### [Class.secret](/_secret/schema-org/Class.secret.md)
 

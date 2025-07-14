@@ -163,15 +163,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Caspian_Sea.public](/_public\Earth\Ocean/Caspian_Sea.public.md) 
+### [Caspian_Sea](/_Standards/Earth/Ocean/Caspian_Sea.md) 
 
-### [Caspian_Sea.internal](/_internal\Earth\Ocean/Caspian_Sea.internal.md) 
+### [Caspian_Sea.public](/_public/Earth/Ocean/Caspian_Sea.public.md) 
 
-### [Caspian_Sea.protect](/_protect\Earth\Ocean/Caspian_Sea.protect.md) 
+### [Caspian_Sea.internal](/_internal/Earth/Ocean/Caspian_Sea.internal.md) 
 
-### [Caspian_Sea.private](/_private\Earth\Ocean/Caspian_Sea.private.md) 
+### [Caspian_Sea.protect](/_protect/Earth/Ocean/Caspian_Sea.protect.md) 
 
-### [Caspian_Sea.personal](/_personal\Earth\Ocean/Caspian_Sea.personal.md) 
+### [Caspian_Sea.private](/_private/Earth/Ocean/Caspian_Sea.private.md) 
 
-### [Caspian_Sea.secret](/_secret\Earth\Ocean/Caspian_Sea.secret.md)
+### [Caspian_Sea.personal](/_personal/Earth/Ocean/Caspian_Sea.personal.md) 
+
+### [Caspian_Sea.secret](/_secret/Earth/Ocean/Caspian_Sea.secret.md)
 

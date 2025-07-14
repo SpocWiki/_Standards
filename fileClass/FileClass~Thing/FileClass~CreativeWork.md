@@ -1222,15 +1222,17 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWork.public](/_public\fileClass\FileClass~Thing/FileClass~CreativeWork.public.md) 
+### [FileClass~CreativeWork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork.md) 
 
-### [FileClass~CreativeWork.internal](/_internal\fileClass\FileClass~Thing/FileClass~CreativeWork.internal.md) 
+### [FileClass~CreativeWork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.public.md) 
 
-### [FileClass~CreativeWork.protect](/_protect\fileClass\FileClass~Thing/FileClass~CreativeWork.protect.md) 
+### [FileClass~CreativeWork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork.internal.md) 
 
-### [FileClass~CreativeWork.private](/_private\fileClass\FileClass~Thing/FileClass~CreativeWork.private.md) 
+### [FileClass~CreativeWork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork.protect.md) 
 
-### [FileClass~CreativeWork.personal](/_personal\fileClass\FileClass~Thing/FileClass~CreativeWork.personal.md) 
+### [FileClass~CreativeWork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork.private.md) 
 
-### [FileClass~CreativeWork.secret](/_secret\fileClass\FileClass~Thing/FileClass~CreativeWork.secret.md)
+### [FileClass~CreativeWork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork.personal.md) 
+
+### [FileClass~CreativeWork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret.md)
 

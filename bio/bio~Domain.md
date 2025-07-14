@@ -44,15 +44,17 @@ Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_An
 
 ## Confidential Links & Embeds: 
 
-### [bio~Domain.public](/_public\bio/bio~Domain.public.md) 
+### [bio~Domain](/_Standards/bio/bio~Domain.md) 
 
-### [bio~Domain.internal](/_internal\bio/bio~Domain.internal.md) 
+### [bio~Domain.public](/_public/bio/bio~Domain.public.md) 
 
-### [bio~Domain.protect](/_protect\bio/bio~Domain.protect.md) 
+### [bio~Domain.internal](/_internal/bio/bio~Domain.internal.md) 
 
-### [bio~Domain.private](/_private\bio/bio~Domain.private.md) 
+### [bio~Domain.protect](/_protect/bio/bio~Domain.protect.md) 
 
-### [bio~Domain.personal](/_personal\bio/bio~Domain.personal.md) 
+### [bio~Domain.private](/_private/bio/bio~Domain.private.md) 
 
-### [bio~Domain.secret](/_secret\bio/bio~Domain.secret.md)
+### [bio~Domain.personal](/_personal/bio/bio~Domain.personal.md) 
+
+### [bio~Domain.secret](/_secret/bio/bio~Domain.secret.md)
 

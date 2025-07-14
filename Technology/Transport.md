@@ -77,15 +77,17 @@ IPTC_NewsCode: mediatopic/20000337
 
 ## Confidential Links & Embeds: 
 
-### [Transport.public](/_public\Technology/Transport.public.md) 
+### [Transport](/_Standards/Technology/Transport.md) 
 
-### [Transport.internal](/_internal\Technology/Transport.internal.md) 
+### [Transport.public](/_public/Technology/Transport.public.md) 
 
-### [Transport.protect](/_protect\Technology/Transport.protect.md) 
+### [Transport.internal](/_internal/Technology/Transport.internal.md) 
 
-### [Transport.private](/_private\Technology/Transport.private.md) 
+### [Transport.protect](/_protect/Technology/Transport.protect.md) 
 
-### [Transport.personal](/_personal\Technology/Transport.personal.md) 
+### [Transport.private](/_private/Technology/Transport.private.md) 
 
-### [Transport.secret](/_secret\Technology/Transport.secret.md)
+### [Transport.personal](/_personal/Technology/Transport.personal.md) 
+
+### [Transport.secret](/_secret/Technology/Transport.secret.md)
 

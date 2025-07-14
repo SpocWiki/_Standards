@@ -14,15 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [UNECE.public](/_public\UN(United_Nations)\ECOSOC/UNECE.public.md) 
+### [UNECE](/_Standards/UN(United_Nations)/ECOSOC/UNECE.md) 
 
-### [UNECE.internal](/_internal\UN(United_Nations)\ECOSOC/UNECE.internal.md) 
+### [UNECE.public](/_public/UN(United_Nations)/ECOSOC/UNECE.public.md) 
 
-### [UNECE.protect](/_protect\UN(United_Nations)\ECOSOC/UNECE.protect.md) 
+### [UNECE.internal](/_internal/UN(United_Nations)/ECOSOC/UNECE.internal.md) 
 
-### [UNECE.private](/_private\UN(United_Nations)\ECOSOC/UNECE.private.md) 
+### [UNECE.protect](/_protect/UN(United_Nations)/ECOSOC/UNECE.protect.md) 
 
-### [UNECE.personal](/_personal\UN(United_Nations)\ECOSOC/UNECE.personal.md) 
+### [UNECE.private](/_private/UN(United_Nations)/ECOSOC/UNECE.private.md) 
 
-### [UNECE.secret](/_secret\UN(United_Nations)\ECOSOC/UNECE.secret.md)
+### [UNECE.personal](/_personal/UN(United_Nations)/ECOSOC/UNECE.personal.md) 
+
+### [UNECE.secret](/_secret/UN(United_Nations)/ECOSOC/UNECE.secret.md)
 

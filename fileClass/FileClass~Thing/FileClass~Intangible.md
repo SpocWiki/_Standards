@@ -37,15 +37,17 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Intangible.public](/_public\fileClass\FileClass~Thing/FileClass~Intangible.public.md) 
+### [FileClass~Intangible](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible.md) 
 
-### [FileClass~Intangible.internal](/_internal\fileClass\FileClass~Thing/FileClass~Intangible.internal.md) 
+### [FileClass~Intangible.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible.public.md) 
 
-### [FileClass~Intangible.protect](/_protect\fileClass\FileClass~Thing/FileClass~Intangible.protect.md) 
+### [FileClass~Intangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible.internal.md) 
 
-### [FileClass~Intangible.private](/_private\fileClass\FileClass~Thing/FileClass~Intangible.private.md) 
+### [FileClass~Intangible.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible.protect.md) 
 
-### [FileClass~Intangible.personal](/_personal\fileClass\FileClass~Thing/FileClass~Intangible.personal.md) 
+### [FileClass~Intangible.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible.private.md) 
 
-### [FileClass~Intangible.secret](/_secret\fileClass\FileClass~Thing/FileClass~Intangible.secret.md)
+### [FileClass~Intangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible.personal.md) 
+
+### [FileClass~Intangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible.secret.md)
 

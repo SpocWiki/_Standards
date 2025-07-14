@@ -170,23 +170,19 @@ hashtag: Mars
 > [Wikipedia](https://en.wikipedia.org/wiki/Mars)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Mars.public](/_public\Astronomy\Solar_System/Mars.public.md) 
+### [Mars](/_Standards/Astronomy/Solar_System/Mars.md) 
 
-### [Mars.internal](/_internal\Astronomy\Solar_System/Mars.internal.md) 
+### [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
 
-### [Mars.protect](/_protect\Astronomy\Solar_System/Mars.protect.md) 
+### [Mars.internal](/_internal/Astronomy/Solar_System/Mars.internal.md) 
 
-### [Mars.private](/_private\Astronomy\Solar_System/Mars.private.md) 
+### [Mars.protect](/_protect/Astronomy/Solar_System/Mars.protect.md) 
 
-### [Mars.personal](/_personal\Astronomy\Solar_System/Mars.personal.md) 
+### [Mars.private](/_private/Astronomy/Solar_System/Mars.private.md) 
 
-### [Mars.secret](/_secret\Astronomy\Solar_System/Mars.secret.md)
+### [Mars.personal](/_personal/Astronomy/Solar_System/Mars.personal.md) 
+
+### [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
 

@@ -31,15 +31,17 @@ The kelvin is the primary unit of temperature for engineering and the physical s
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Kelvin.public](/_public\Unit\SI-Unit/Unit~Kelvin.public.md) 
+### [Unit~Kelvin](/_Standards/Unit/SI-Unit/Unit~Kelvin.md) 
 
-### [Unit~Kelvin.internal](/_internal\Unit\SI-Unit/Unit~Kelvin.internal.md) 
+### [Unit~Kelvin.public](/_public/Unit/SI-Unit/Unit~Kelvin.public.md) 
 
-### [Unit~Kelvin.protect](/_protect\Unit\SI-Unit/Unit~Kelvin.protect.md) 
+### [Unit~Kelvin.internal](/_internal/Unit/SI-Unit/Unit~Kelvin.internal.md) 
 
-### [Unit~Kelvin.private](/_private\Unit\SI-Unit/Unit~Kelvin.private.md) 
+### [Unit~Kelvin.protect](/_protect/Unit/SI-Unit/Unit~Kelvin.protect.md) 
 
-### [Unit~Kelvin.personal](/_personal\Unit\SI-Unit/Unit~Kelvin.personal.md) 
+### [Unit~Kelvin.private](/_private/Unit/SI-Unit/Unit~Kelvin.private.md) 
 
-### [Unit~Kelvin.secret](/_secret\Unit\SI-Unit/Unit~Kelvin.secret.md)
+### [Unit~Kelvin.personal](/_personal/Unit/SI-Unit/Unit~Kelvin.personal.md) 
+
+### [Unit~Kelvin.secret](/_secret/Unit/SI-Unit/Unit~Kelvin.secret.md)
 

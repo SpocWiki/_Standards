@@ -52,6 +52,8 @@ Commons_category: "Family and consumer science"
 
 ## Confidential Links & Embeds: 
 
+### [Home_Economics](/_Standards/Home_Economics.md) 
+
 ### [Home_Economics.public](/_public/Home_Economics.public.md) 
 
 ### [Home_Economics.internal](/_internal/Home_Economics.internal.md) 

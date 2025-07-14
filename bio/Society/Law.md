@@ -78,23 +78,19 @@ Commons_category: Law
 > [Wikipedia](https://en.wikipedia.org/wiki/Law)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Law.public](/_public\bio\Society/Law.public.md) 
+### [Law](/_Standards/bio/Society/Law.md) 
 
-### [Law.internal](/_internal\bio\Society/Law.internal.md) 
+### [Law.public](/_public/bio/Society/Law.public.md) 
 
-### [Law.protect](/_protect\bio\Society/Law.protect.md) 
+### [Law.internal](/_internal/bio/Society/Law.internal.md) 
 
-### [Law.private](/_private\bio\Society/Law.private.md) 
+### [Law.protect](/_protect/bio/Society/Law.protect.md) 
 
-### [Law.personal](/_personal\bio\Society/Law.personal.md) 
+### [Law.private](/_private/bio/Society/Law.private.md) 
 
-### [Law.secret](/_secret\bio\Society/Law.secret.md)
+### [Law.personal](/_personal/bio/Society/Law.personal.md) 
+
+### [Law.secret](/_secret/bio/Society/Law.secret.md)
 

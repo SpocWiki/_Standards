@@ -19,20 +19,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sociology)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Sociologist.public](/_public\bio\People/Sociologist.public.md) 
+### [Sociologist](/_Standards/bio/People/Sociologist.md) 
 
-### [Sociologist.internal](/_internal\bio\People/Sociologist.internal.md) 
+### [Sociologist.public](/_public/bio/People/Sociologist.public.md) 
 
-### [Sociologist.protect](/_protect\bio\People/Sociologist.protect.md) 
+### [Sociologist.internal](/_internal/bio/People/Sociologist.internal.md) 
 
-### [Sociologist.private](/_private\bio\People/Sociologist.private.md) 
+### [Sociologist.protect](/_protect/bio/People/Sociologist.protect.md) 
 
-### [Sociologist.personal](/_personal\bio\People/Sociologist.personal.md) 
+### [Sociologist.private](/_private/bio/People/Sociologist.private.md) 
 
-### [Sociologist.secret](/_secret\bio\People/Sociologist.secret.md)
+### [Sociologist.personal](/_personal/bio/People/Sociologist.personal.md) 
+
+### [Sociologist.secret](/_secret/bio/People/Sociologist.secret.md)
 

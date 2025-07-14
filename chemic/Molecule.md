@@ -79,15 +79,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Molecule.public](/_public\chemic/Molecule.public.md) 
+### [Molecule](/_Standards/chemic/Molecule.md) 
 
-### [Molecule.internal](/_internal\chemic/Molecule.internal.md) 
+### [Molecule.public](/_public/chemic/Molecule.public.md) 
 
-### [Molecule.protect](/_protect\chemic/Molecule.protect.md) 
+### [Molecule.internal](/_internal/chemic/Molecule.internal.md) 
 
-### [Molecule.private](/_private\chemic/Molecule.private.md) 
+### [Molecule.protect](/_protect/chemic/Molecule.protect.md) 
 
-### [Molecule.personal](/_personal\chemic/Molecule.personal.md) 
+### [Molecule.private](/_private/chemic/Molecule.private.md) 
 
-### [Molecule.secret](/_secret\chemic/Molecule.secret.md)
+### [Molecule.personal](/_personal/chemic/Molecule.personal.md) 
+
+### [Molecule.secret](/_secret/chemic/Molecule.secret.md)
 

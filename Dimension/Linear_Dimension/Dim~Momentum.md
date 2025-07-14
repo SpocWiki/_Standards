@@ -14,15 +14,17 @@ a Distinction similar to that between [[../../Mathematics/Geometry/Position-Vect
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Momentum.public](/_public\Dimension\Linear_Dimension/Dim~Momentum.public.md) 
+### [Dim~Momentum](/_Standards/Dimension/Linear_Dimension/Dim~Momentum.md) 
 
-### [Dim~Momentum.internal](/_internal\Dimension\Linear_Dimension/Dim~Momentum.internal.md) 
+### [Dim~Momentum.public](/_public/Dimension/Linear_Dimension/Dim~Momentum.public.md) 
 
-### [Dim~Momentum.protect](/_protect\Dimension\Linear_Dimension/Dim~Momentum.protect.md) 
+### [Dim~Momentum.internal](/_internal/Dimension/Linear_Dimension/Dim~Momentum.internal.md) 
 
-### [Dim~Momentum.private](/_private\Dimension\Linear_Dimension/Dim~Momentum.private.md) 
+### [Dim~Momentum.protect](/_protect/Dimension/Linear_Dimension/Dim~Momentum.protect.md) 
 
-### [Dim~Momentum.personal](/_personal\Dimension\Linear_Dimension/Dim~Momentum.personal.md) 
+### [Dim~Momentum.private](/_private/Dimension/Linear_Dimension/Dim~Momentum.private.md) 
 
-### [Dim~Momentum.secret](/_secret\Dimension\Linear_Dimension/Dim~Momentum.secret.md)
+### [Dim~Momentum.personal](/_personal/Dimension/Linear_Dimension/Dim~Momentum.personal.md) 
+
+### [Dim~Momentum.secret](/_secret/Dimension/Linear_Dimension/Dim~Momentum.secret.md)
 

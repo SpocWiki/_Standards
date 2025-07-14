@@ -445,15 +445,17 @@ WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Event.public](/_public\fileClass\FileClass~Thing/FileClass~Event.public.md) 
+### [FileClass~Event](/_Standards/fileClass/FileClass~Thing/FileClass~Event.md) 
 
-### [FileClass~Event.internal](/_internal\fileClass\FileClass~Thing/FileClass~Event.internal.md) 
+### [FileClass~Event.public](/_public/fileClass/FileClass~Thing/FileClass~Event.public.md) 
 
-### [FileClass~Event.protect](/_protect\fileClass\FileClass~Thing/FileClass~Event.protect.md) 
+### [FileClass~Event.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event.internal.md) 
 
-### [FileClass~Event.private](/_private\fileClass\FileClass~Thing/FileClass~Event.private.md) 
+### [FileClass~Event.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event.protect.md) 
 
-### [FileClass~Event.personal](/_personal\fileClass\FileClass~Thing/FileClass~Event.personal.md) 
+### [FileClass~Event.private](/_private/fileClass/FileClass~Thing/FileClass~Event.private.md) 
 
-### [FileClass~Event.secret](/_secret\fileClass\FileClass~Thing/FileClass~Event.secret.md)
+### [FileClass~Event.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event.personal.md) 
+
+### [FileClass~Event.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event.secret.md)
 

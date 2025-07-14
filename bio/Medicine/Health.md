@@ -49,19 +49,19 @@ MeSH_tree_code: N01.400
 > [Wikipedia](https://en.wikipedia.org/wiki/Health)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Health.public](/_public\bio\Medicine/Health.public.md) 
+### [Health](/_Standards/bio/Medicine/Health.md) 
 
-### [Health.internal](/_internal\bio\Medicine/Health.internal.md) 
+### [Health.public](/_public/bio/Medicine/Health.public.md) 
 
-### [Health.protect](/_protect\bio\Medicine/Health.protect.md) 
+### [Health.internal](/_internal/bio/Medicine/Health.internal.md) 
 
-### [Health.private](/_private\bio\Medicine/Health.private.md) 
+### [Health.protect](/_protect/bio/Medicine/Health.protect.md) 
 
-### [Health.personal](/_personal\bio\Medicine/Health.personal.md) 
+### [Health.private](/_private/bio/Medicine/Health.private.md) 
 
-### [Health.secret](/_secret\bio\Medicine/Health.secret.md)
+### [Health.personal](/_personal/bio/Medicine/Health.personal.md) 
+
+### [Health.secret](/_secret/bio/Medicine/Health.secret.md)
 

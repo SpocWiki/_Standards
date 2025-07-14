@@ -29,15 +29,17 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ## Confidential Links & Embeds: 
 
-### [_ElementTemplate.public](/_public\chemic\chemic~Elements/_ElementTemplate.public.md) 
+### [_ElementTemplate](/_Standards/chemic/chemic~Elements/_ElementTemplate.md) 
 
-### [_ElementTemplate.internal](/_internal\chemic\chemic~Elements/_ElementTemplate.internal.md) 
+### [_ElementTemplate.public](/_public/chemic/chemic~Elements/_ElementTemplate.public.md) 
 
-### [_ElementTemplate.protect](/_protect\chemic\chemic~Elements/_ElementTemplate.protect.md) 
+### [_ElementTemplate.internal](/_internal/chemic/chemic~Elements/_ElementTemplate.internal.md) 
 
-### [_ElementTemplate.private](/_private\chemic\chemic~Elements/_ElementTemplate.private.md) 
+### [_ElementTemplate.protect](/_protect/chemic/chemic~Elements/_ElementTemplate.protect.md) 
 
-### [_ElementTemplate.personal](/_personal\chemic\chemic~Elements/_ElementTemplate.personal.md) 
+### [_ElementTemplate.private](/_private/chemic/chemic~Elements/_ElementTemplate.private.md) 
 
-### [_ElementTemplate.secret](/_secret\chemic\chemic~Elements/_ElementTemplate.secret.md)
+### [_ElementTemplate.personal](/_personal/chemic/chemic~Elements/_ElementTemplate.personal.md) 
+
+### [_ElementTemplate.secret](/_secret/chemic/chemic~Elements/_ElementTemplate.secret.md)
 

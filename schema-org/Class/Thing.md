@@ -119,15 +119,17 @@ unlike Structs / Objects  on the [[Call-Stack]].
 
 ## Confidential Links & Embeds: 
 
-### [Thing.public](/_public\schema-org\Class/Thing.public.md) 
+### [Thing](/_Standards/schema-org/Class/Thing.md) 
 
-### [Thing.internal](/_internal\schema-org\Class/Thing.internal.md) 
+### [Thing.public](/_public/schema-org/Class/Thing.public.md) 
 
-### [Thing.protect](/_protect\schema-org\Class/Thing.protect.md) 
+### [Thing.internal](/_internal/schema-org/Class/Thing.internal.md) 
 
-### [Thing.private](/_private\schema-org\Class/Thing.private.md) 
+### [Thing.protect](/_protect/schema-org/Class/Thing.protect.md) 
 
-### [Thing.personal](/_personal\schema-org\Class/Thing.personal.md) 
+### [Thing.private](/_private/schema-org/Class/Thing.private.md) 
 
-### [Thing.secret](/_secret\schema-org\Class/Thing.secret.md)
+### [Thing.personal](/_personal/schema-org/Class/Thing.personal.md) 
+
+### [Thing.secret](/_secret/schema-org/Class/Thing.secret.md)
 

@@ -27,15 +27,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [skos.public](/_public\W3C\RDF(Resource_Description_Framework)/skos.public.md) 
+### [skos](/_Standards/W3C/RDF(Resource_Description_Framework)/skos.md) 
 
-### [skos.internal](/_internal\W3C\RDF(Resource_Description_Framework)/skos.internal.md) 
+### [skos.public](/_public/W3C/RDF(Resource_Description_Framework)/skos.public.md) 
 
-### [skos.protect](/_protect\W3C\RDF(Resource_Description_Framework)/skos.protect.md) 
+### [skos.internal](/_internal/W3C/RDF(Resource_Description_Framework)/skos.internal.md) 
 
-### [skos.private](/_private\W3C\RDF(Resource_Description_Framework)/skos.private.md) 
+### [skos.protect](/_protect/W3C/RDF(Resource_Description_Framework)/skos.protect.md) 
 
-### [skos.personal](/_personal\W3C\RDF(Resource_Description_Framework)/skos.personal.md) 
+### [skos.private](/_private/W3C/RDF(Resource_Description_Framework)/skos.private.md) 
 
-### [skos.secret](/_secret\W3C\RDF(Resource_Description_Framework)/skos.secret.md)
+### [skos.personal](/_personal/W3C/RDF(Resource_Description_Framework)/skos.personal.md) 
+
+### [skos.secret](/_secret/W3C/RDF(Resource_Description_Framework)/skos.secret.md)
 

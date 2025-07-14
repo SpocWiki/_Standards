@@ -16,19 +16,19 @@ has_id_wikidata: Q12493
 > [Wikipedia](https://en.wikipedia.org/wiki/Dome) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dome.public](/_public\Technology\Construction/Dome.public.md) 
+### [Dome](/_Standards/Technology/Construction/Dome.md) 
 
-### [Dome.internal](/_internal\Technology\Construction/Dome.internal.md) 
+### [Dome.public](/_public/Technology/Construction/Dome.public.md) 
 
-### [Dome.protect](/_protect\Technology\Construction/Dome.protect.md) 
+### [Dome.internal](/_internal/Technology/Construction/Dome.internal.md) 
 
-### [Dome.private](/_private\Technology\Construction/Dome.private.md) 
+### [Dome.protect](/_protect/Technology/Construction/Dome.protect.md) 
 
-### [Dome.personal](/_personal\Technology\Construction/Dome.personal.md) 
+### [Dome.private](/_private/Technology/Construction/Dome.private.md) 
 
-### [Dome.secret](/_secret\Technology\Construction/Dome.secret.md)
+### [Dome.personal](/_personal/Technology/Construction/Dome.personal.md) 
+
+### [Dome.secret](/_secret/Technology/Construction/Dome.secret.md)
 

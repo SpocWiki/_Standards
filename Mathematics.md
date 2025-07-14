@@ -149,6 +149,8 @@ Stack_Exchange_site_URL: "https://math.stackexchange.com"
 
 ## Confidential Links & Embeds: 
 
+### [Mathematics](/_Standards/Mathematics.md) 
+
 ### [Mathematics.public](/_public/Mathematics.public.md) 
 
 ### [Mathematics.internal](/_internal/Mathematics.internal.md) 

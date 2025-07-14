@@ -60,19 +60,19 @@ Commons_category: Villages
 > [Wikipedia](https://en.wikipedia.org/wiki/Village) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Village.public](/_public\Earth\Geography/Village.public.md) 
+### [Village](/_Standards/Earth/Geography/Village.md) 
 
-### [Village.internal](/_internal\Earth\Geography/Village.internal.md) 
+### [Village.public](/_public/Earth/Geography/Village.public.md) 
 
-### [Village.protect](/_protect\Earth\Geography/Village.protect.md) 
+### [Village.internal](/_internal/Earth/Geography/Village.internal.md) 
 
-### [Village.private](/_private\Earth\Geography/Village.private.md) 
+### [Village.protect](/_protect/Earth/Geography/Village.protect.md) 
 
-### [Village.personal](/_personal\Earth\Geography/Village.personal.md) 
+### [Village.private](/_private/Earth/Geography/Village.private.md) 
 
-### [Village.secret](/_secret\Earth\Geography/Village.secret.md)
+### [Village.personal](/_personal/Earth/Geography/Village.personal.md) 
+
+### [Village.secret](/_secret/Earth/Geography/Village.secret.md)
 

@@ -84,15 +84,17 @@ but rotating Holes can convert most of the mass.
 
 ## Confidential Links & Embeds: 
 
-### [Black_Hole.public](/_public\Astronomy/Black_Hole.public.md) 
+### [Black_Hole](/_Standards/Astronomy/Black_Hole.md) 
 
-### [Black_Hole.internal](/_internal\Astronomy/Black_Hole.internal.md) 
+### [Black_Hole.public](/_public/Astronomy/Black_Hole.public.md) 
 
-### [Black_Hole.protect](/_protect\Astronomy/Black_Hole.protect.md) 
+### [Black_Hole.internal](/_internal/Astronomy/Black_Hole.internal.md) 
 
-### [Black_Hole.private](/_private\Astronomy/Black_Hole.private.md) 
+### [Black_Hole.protect](/_protect/Astronomy/Black_Hole.protect.md) 
 
-### [Black_Hole.personal](/_personal\Astronomy/Black_Hole.personal.md) 
+### [Black_Hole.private](/_private/Astronomy/Black_Hole.private.md) 
 
-### [Black_Hole.secret](/_secret\Astronomy/Black_Hole.secret.md)
+### [Black_Hole.personal](/_personal/Astronomy/Black_Hole.personal.md) 
+
+### [Black_Hole.secret](/_secret/Astronomy/Black_Hole.secret.md)
 

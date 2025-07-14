@@ -139,20 +139,19 @@ OpenStreetMap_tag_or_key:
 > [Wikipedia](https://en.wikipedia.org/wiki/Country) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Country.public](/_public\Earth\Geography/Country.public.md) 
+### [Country](/_Standards/Earth/Geography/Country.md) 
 
-### [Country.internal](/_internal\Earth\Geography/Country.internal.md) 
+### [Country.public](/_public/Earth/Geography/Country.public.md) 
 
-### [Country.protect](/_protect\Earth\Geography/Country.protect.md) 
+### [Country.internal](/_internal/Earth/Geography/Country.internal.md) 
 
-### [Country.private](/_private\Earth\Geography/Country.private.md) 
+### [Country.protect](/_protect/Earth/Geography/Country.protect.md) 
 
-### [Country.personal](/_personal\Earth\Geography/Country.personal.md) 
+### [Country.private](/_private/Earth/Geography/Country.private.md) 
 
-### [Country.secret](/_secret\Earth\Geography/Country.secret.md)
+### [Country.personal](/_personal/Earth/Geography/Country.personal.md) 
+
+### [Country.secret](/_secret/Earth/Geography/Country.secret.md)
 

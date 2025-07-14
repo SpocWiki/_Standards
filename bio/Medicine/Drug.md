@@ -24,18 +24,19 @@ It is believed to originate from the Old French word "drogue",
 which possibly derives from the Middle Dutch term "droge". 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Drug.public](/_public\bio\Medicine/Drug.public.md) 
+### [Drug](/_Standards/bio/Medicine/Drug.md) 
 
-### [Drug.internal](/_internal\bio\Medicine/Drug.internal.md) 
+### [Drug.public](/_public/bio/Medicine/Drug.public.md) 
 
-### [Drug.protect](/_protect\bio\Medicine/Drug.protect.md) 
+### [Drug.internal](/_internal/bio/Medicine/Drug.internal.md) 
 
-### [Drug.private](/_private\bio\Medicine/Drug.private.md) 
+### [Drug.protect](/_protect/bio/Medicine/Drug.protect.md) 
 
-### [Drug.personal](/_personal\bio\Medicine/Drug.personal.md) 
+### [Drug.private](/_private/bio/Medicine/Drug.private.md) 
 
-### [Drug.secret](/_secret\bio\Medicine/Drug.secret.md)
+### [Drug.personal](/_personal/bio/Medicine/Drug.personal.md) 
+
+### [Drug.secret](/_secret/bio/Medicine/Drug.secret.md)
 

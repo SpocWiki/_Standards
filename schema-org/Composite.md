@@ -41,15 +41,17 @@ Composites can be modelled in 2 ways:
 
 ## Confidential Links & Embeds: 
 
-### [Composite.public](/_public\schema-org/Composite.public.md) 
+### [Composite](/_Standards/schema-org/Composite.md) 
 
-### [Composite.internal](/_internal\schema-org/Composite.internal.md) 
+### [Composite.public](/_public/schema-org/Composite.public.md) 
 
-### [Composite.protect](/_protect\schema-org/Composite.protect.md) 
+### [Composite.internal](/_internal/schema-org/Composite.internal.md) 
 
-### [Composite.private](/_private\schema-org/Composite.private.md) 
+### [Composite.protect](/_protect/schema-org/Composite.protect.md) 
 
-### [Composite.personal](/_personal\schema-org/Composite.personal.md) 
+### [Composite.private](/_private/schema-org/Composite.private.md) 
 
-### [Composite.secret](/_secret\schema-org/Composite.secret.md)
+### [Composite.personal](/_personal/schema-org/Composite.personal.md) 
+
+### [Composite.secret](/_secret/schema-org/Composite.secret.md)
 

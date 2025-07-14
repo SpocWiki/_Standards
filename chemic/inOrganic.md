@@ -43,15 +43,17 @@ Gujarati_Vishwakosh_entry: અકાર્બનિક-રસાયણ
 
 ## Confidential Links & Embeds: 
 
-### [inOrganic.public](/_public\chemic/inOrganic.public.md) 
+### [inOrganic](/_Standards/chemic/inOrganic.md) 
 
-### [inOrganic.internal](/_internal\chemic/inOrganic.internal.md) 
+### [inOrganic.public](/_public/chemic/inOrganic.public.md) 
 
-### [inOrganic.protect](/_protect\chemic/inOrganic.protect.md) 
+### [inOrganic.internal](/_internal/chemic/inOrganic.internal.md) 
 
-### [inOrganic.private](/_private\chemic/inOrganic.private.md) 
+### [inOrganic.protect](/_protect/chemic/inOrganic.protect.md) 
 
-### [inOrganic.personal](/_personal\chemic/inOrganic.personal.md) 
+### [inOrganic.private](/_private/chemic/inOrganic.private.md) 
 
-### [inOrganic.secret](/_secret\chemic/inOrganic.secret.md)
+### [inOrganic.personal](/_personal/chemic/inOrganic.personal.md) 
+
+### [inOrganic.secret](/_secret/chemic/inOrganic.secret.md)
 

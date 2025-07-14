@@ -40,6 +40,8 @@ Key-Mapping:
 
 ## Confidential Links & Embeds: 
 
+### [T9(predictive_text)](/_Standards/T9(predictive_text).md) 
+
 ### [T9(predictive_text).public](/_public/T9(predictive_text).public.md) 
 
 ### [T9(predictive_text).internal](/_internal/T9(predictive_text).internal.md) 

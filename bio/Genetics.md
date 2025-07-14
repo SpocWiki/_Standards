@@ -19,15 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Genetics.public](/_public\bio/Genetics.public.md) 
+### [Genetics](/_Standards/bio/Genetics.md) 
 
-### [Genetics.internal](/_internal\bio/Genetics.internal.md) 
+### [Genetics.public](/_public/bio/Genetics.public.md) 
 
-### [Genetics.protect](/_protect\bio/Genetics.protect.md) 
+### [Genetics.internal](/_internal/bio/Genetics.internal.md) 
 
-### [Genetics.private](/_private\bio/Genetics.private.md) 
+### [Genetics.protect](/_protect/bio/Genetics.protect.md) 
 
-### [Genetics.personal](/_personal\bio/Genetics.personal.md) 
+### [Genetics.private](/_private/bio/Genetics.private.md) 
 
-### [Genetics.secret](/_secret\bio/Genetics.secret.md)
+### [Genetics.personal](/_personal/bio/Genetics.personal.md) 
+
+### [Genetics.secret](/_secret/bio/Genetics.secret.md)
 

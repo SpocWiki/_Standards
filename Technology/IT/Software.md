@@ -133,20 +133,19 @@ IPTC_NewsCode: mediatopic/20000231
 > [Wikipedia](https://en.wikipedia.org/wiki/Software) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Software.public](/_public\Technology\IT/Software.public.md) 
+### [Software](/_Standards/Technology/IT/Software.md) 
 
-### [Software.internal](/_internal\Technology\IT/Software.internal.md) 
+### [Software.public](/_public/Technology/IT/Software.public.md) 
 
-### [Software.protect](/_protect\Technology\IT/Software.protect.md) 
+### [Software.internal](/_internal/Technology/IT/Software.internal.md) 
 
-### [Software.private](/_private\Technology\IT/Software.private.md) 
+### [Software.protect](/_protect/Technology/IT/Software.protect.md) 
 
-### [Software.personal](/_personal\Technology\IT/Software.personal.md) 
+### [Software.private](/_private/Technology/IT/Software.private.md) 
 
-### [Software.secret](/_secret\Technology\IT/Software.secret.md)
+### [Software.personal](/_personal/Technology/IT/Software.personal.md) 
+
+### [Software.secret](/_secret/Technology/IT/Software.secret.md)
 

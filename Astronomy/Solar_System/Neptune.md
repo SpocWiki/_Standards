@@ -133,22 +133,19 @@ argument_of_periapsis: 44.96476227
 > [Wikipedia](https://en.wikipedia.org/wiki/Neptune)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Neptune.public](/_public\Astronomy\Solar_System/Neptune.public.md) 
+### [Neptune](/_Standards/Astronomy/Solar_System/Neptune.md) 
 
-### [Neptune.internal](/_internal\Astronomy\Solar_System/Neptune.internal.md) 
+### [Neptune.public](/_public/Astronomy/Solar_System/Neptune.public.md) 
 
-### [Neptune.protect](/_protect\Astronomy\Solar_System/Neptune.protect.md) 
+### [Neptune.internal](/_internal/Astronomy/Solar_System/Neptune.internal.md) 
 
-### [Neptune.private](/_private\Astronomy\Solar_System/Neptune.private.md) 
+### [Neptune.protect](/_protect/Astronomy/Solar_System/Neptune.protect.md) 
 
-### [Neptune.personal](/_personal\Astronomy\Solar_System/Neptune.personal.md) 
+### [Neptune.private](/_private/Astronomy/Solar_System/Neptune.private.md) 
 
-### [Neptune.secret](/_secret\Astronomy\Solar_System/Neptune.secret.md)
+### [Neptune.personal](/_personal/Astronomy/Solar_System/Neptune.personal.md) 
+
+### [Neptune.secret](/_secret/Astronomy/Solar_System/Neptune.secret.md)
 

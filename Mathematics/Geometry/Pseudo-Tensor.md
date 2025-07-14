@@ -50,15 +50,17 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Tensor.public](/_public\Mathematics\Geometry/Pseudo-Tensor.public.md) 
+### [Pseudo-Tensor](/_Standards/Mathematics/Geometry/Pseudo-Tensor.md) 
 
-### [Pseudo-Tensor.internal](/_internal\Mathematics\Geometry/Pseudo-Tensor.internal.md) 
+### [Pseudo-Tensor.public](/_public/Mathematics/Geometry/Pseudo-Tensor.public.md) 
 
-### [Pseudo-Tensor.protect](/_protect\Mathematics\Geometry/Pseudo-Tensor.protect.md) 
+### [Pseudo-Tensor.internal](/_internal/Mathematics/Geometry/Pseudo-Tensor.internal.md) 
 
-### [Pseudo-Tensor.private](/_private\Mathematics\Geometry/Pseudo-Tensor.private.md) 
+### [Pseudo-Tensor.protect](/_protect/Mathematics/Geometry/Pseudo-Tensor.protect.md) 
 
-### [Pseudo-Tensor.personal](/_personal\Mathematics\Geometry/Pseudo-Tensor.personal.md) 
+### [Pseudo-Tensor.private](/_private/Mathematics/Geometry/Pseudo-Tensor.private.md) 
 
-### [Pseudo-Tensor.secret](/_secret\Mathematics\Geometry/Pseudo-Tensor.secret.md)
+### [Pseudo-Tensor.personal](/_personal/Mathematics/Geometry/Pseudo-Tensor.personal.md) 
+
+### [Pseudo-Tensor.secret](/_secret/Mathematics/Geometry/Pseudo-Tensor.secret.md)
 

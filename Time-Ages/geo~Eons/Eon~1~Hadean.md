@@ -102,15 +102,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Eon~1~Hadean.public](/_public\Time-Ages\geo~Eons/Eon~1~Hadean.public.md) 
+### [Eon~1~Hadean](/_Standards/Time-Ages/geo~Eons/Eon~1~Hadean.md) 
 
-### [Eon~1~Hadean.internal](/_internal\Time-Ages\geo~Eons/Eon~1~Hadean.internal.md) 
+### [Eon~1~Hadean.public](/_public/Time-Ages/geo~Eons/Eon~1~Hadean.public.md) 
 
-### [Eon~1~Hadean.protect](/_protect\Time-Ages\geo~Eons/Eon~1~Hadean.protect.md) 
+### [Eon~1~Hadean.internal](/_internal/Time-Ages/geo~Eons/Eon~1~Hadean.internal.md) 
 
-### [Eon~1~Hadean.private](/_private\Time-Ages\geo~Eons/Eon~1~Hadean.private.md) 
+### [Eon~1~Hadean.protect](/_protect/Time-Ages/geo~Eons/Eon~1~Hadean.protect.md) 
 
-### [Eon~1~Hadean.personal](/_personal\Time-Ages\geo~Eons/Eon~1~Hadean.personal.md) 
+### [Eon~1~Hadean.private](/_private/Time-Ages/geo~Eons/Eon~1~Hadean.private.md) 
 
-### [Eon~1~Hadean.secret](/_secret\Time-Ages\geo~Eons/Eon~1~Hadean.secret.md)
+### [Eon~1~Hadean.personal](/_personal/Time-Ages/geo~Eons/Eon~1~Hadean.personal.md) 
+
+### [Eon~1~Hadean.secret](/_secret/Time-Ages/geo~Eons/Eon~1~Hadean.secret.md)
 

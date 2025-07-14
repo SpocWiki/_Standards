@@ -82,15 +82,17 @@ markerFolder: ./America~Central/
 
 ## Confidential Links & Embeds: 
 
-### [America~Central.public](/_public\Earth\Continent/America~Central.public.md) 
+### [America~Central](/_Standards/Earth/Continent/America~Central.md) 
 
-### [America~Central.internal](/_internal\Earth\Continent/America~Central.internal.md) 
+### [America~Central.public](/_public/Earth/Continent/America~Central.public.md) 
 
-### [America~Central.protect](/_protect\Earth\Continent/America~Central.protect.md) 
+### [America~Central.internal](/_internal/Earth/Continent/America~Central.internal.md) 
 
-### [America~Central.private](/_private\Earth\Continent/America~Central.private.md) 
+### [America~Central.protect](/_protect/Earth/Continent/America~Central.protect.md) 
 
-### [America~Central.personal](/_personal\Earth\Continent/America~Central.personal.md) 
+### [America~Central.private](/_private/Earth/Continent/America~Central.private.md) 
 
-### [America~Central.secret](/_secret\Earth\Continent/America~Central.secret.md)
+### [America~Central.personal](/_personal/Earth/Continent/America~Central.personal.md) 
+
+### [America~Central.secret](/_secret/Earth/Continent/America~Central.secret.md)
 

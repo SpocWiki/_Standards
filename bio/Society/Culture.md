@@ -71,21 +71,19 @@ exact_match: "http://cv.iptc.org/newscodes/subjectcode/01022000"
 > [Wikipedia](https://en.wikipedia.org/wiki/Culture)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Culture.public](/_public\bio\Society/Culture.public.md) 
+### [Culture](/_Standards/bio/Society/Culture.md) 
 
-### [Culture.internal](/_internal\bio\Society/Culture.internal.md) 
+### [Culture.public](/_public/bio/Society/Culture.public.md) 
 
-### [Culture.protect](/_protect\bio\Society/Culture.protect.md) 
+### [Culture.internal](/_internal/bio/Society/Culture.internal.md) 
 
-### [Culture.private](/_private\bio\Society/Culture.private.md) 
+### [Culture.protect](/_protect/bio/Society/Culture.protect.md) 
 
-### [Culture.personal](/_personal\bio\Society/Culture.personal.md) 
+### [Culture.private](/_private/bio/Society/Culture.private.md) 
 
-### [Culture.secret](/_secret\bio\Society/Culture.secret.md)
+### [Culture.personal](/_personal/bio/Society/Culture.personal.md) 
+
+### [Culture.secret](/_secret/bio/Society/Culture.secret.md)
 

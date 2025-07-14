@@ -90,19 +90,19 @@ UMLS_CUI: C0008946
 > [Wikipedia](https://en.wikipedia.org/wiki/Climate)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Climate.public](/_public\Earth\Atmosphere/Climate.public.md) 
+### [Climate](/_Standards/Earth/Atmosphere/Climate.md) 
 
-### [Climate.internal](/_internal\Earth\Atmosphere/Climate.internal.md) 
+### [Climate.public](/_public/Earth/Atmosphere/Climate.public.md) 
 
-### [Climate.protect](/_protect\Earth\Atmosphere/Climate.protect.md) 
+### [Climate.internal](/_internal/Earth/Atmosphere/Climate.internal.md) 
 
-### [Climate.private](/_private\Earth\Atmosphere/Climate.private.md) 
+### [Climate.protect](/_protect/Earth/Atmosphere/Climate.protect.md) 
 
-### [Climate.personal](/_personal\Earth\Atmosphere/Climate.personal.md) 
+### [Climate.private](/_private/Earth/Atmosphere/Climate.private.md) 
 
-### [Climate.secret](/_secret\Earth\Atmosphere/Climate.secret.md)
+### [Climate.personal](/_personal/Earth/Atmosphere/Climate.personal.md) 
+
+### [Climate.secret](/_secret/Earth/Atmosphere/Climate.secret.md)
 

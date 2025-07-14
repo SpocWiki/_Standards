@@ -95,6 +95,8 @@ Examples are:
 
 ## Confidential Links & Embeds: 
 
+### [schema-org](/_Standards/schema-org.md) 
+
 ### [schema-org.public](/_public/schema-org.public.md) 
 
 ### [schema-org.internal](/_internal/schema-org.internal.md) 

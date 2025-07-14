@@ -76,15 +76,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [Quantity.public](/_public\schema-org\Predicate/Quantity.public.md) 
+### [Quantity](/_Standards/schema-org/Predicate/Quantity.md) 
 
-### [Quantity.internal](/_internal\schema-org\Predicate/Quantity.internal.md) 
+### [Quantity.public](/_public/schema-org/Predicate/Quantity.public.md) 
 
-### [Quantity.protect](/_protect\schema-org\Predicate/Quantity.protect.md) 
+### [Quantity.internal](/_internal/schema-org/Predicate/Quantity.internal.md) 
 
-### [Quantity.private](/_private\schema-org\Predicate/Quantity.private.md) 
+### [Quantity.protect](/_protect/schema-org/Predicate/Quantity.protect.md) 
 
-### [Quantity.personal](/_personal\schema-org\Predicate/Quantity.personal.md) 
+### [Quantity.private](/_private/schema-org/Predicate/Quantity.private.md) 
 
-### [Quantity.secret](/_secret\schema-org\Predicate/Quantity.secret.md)
+### [Quantity.personal](/_personal/schema-org/Predicate/Quantity.personal.md) 
+
+### [Quantity.secret](/_secret/schema-org/Predicate/Quantity.secret.md)
 

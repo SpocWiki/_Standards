@@ -104,20 +104,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lutheran%20Cathedral%
 > [Wikipedia](https://en.wikipedia.org/wiki/Building) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Building.public](/_public\Technology\Construction/Building.public.md) 
+### [Building](/_Standards/Technology/Construction/Building.md) 
 
-### [Building.internal](/_internal\Technology\Construction/Building.internal.md) 
+### [Building.public](/_public/Technology/Construction/Building.public.md) 
 
-### [Building.protect](/_protect\Technology\Construction/Building.protect.md) 
+### [Building.internal](/_internal/Technology/Construction/Building.internal.md) 
 
-### [Building.private](/_private\Technology\Construction/Building.private.md) 
+### [Building.protect](/_protect/Technology/Construction/Building.protect.md) 
 
-### [Building.personal](/_personal\Technology\Construction/Building.personal.md) 
+### [Building.private](/_private/Technology/Construction/Building.private.md) 
 
-### [Building.secret](/_secret\Technology\Construction/Building.secret.md)
+### [Building.personal](/_personal/Technology/Construction/Building.personal.md) 
+
+### [Building.secret](/_secret/Technology/Construction/Building.secret.md)
 

@@ -14,15 +14,17 @@ has_id_wikidata: Q77590
 
 ## Confidential Links & Embeds: 
 
-### [Civil_Engineering.public](/_public\Technology/Civil_Engineering.public.md) 
+### [Civil_Engineering](/_Standards/Technology/Civil_Engineering.md) 
 
-### [Civil_Engineering.internal](/_internal\Technology/Civil_Engineering.internal.md) 
+### [Civil_Engineering.public](/_public/Technology/Civil_Engineering.public.md) 
 
-### [Civil_Engineering.protect](/_protect\Technology/Civil_Engineering.protect.md) 
+### [Civil_Engineering.internal](/_internal/Technology/Civil_Engineering.internal.md) 
 
-### [Civil_Engineering.private](/_private\Technology/Civil_Engineering.private.md) 
+### [Civil_Engineering.protect](/_protect/Technology/Civil_Engineering.protect.md) 
 
-### [Civil_Engineering.personal](/_personal\Technology/Civil_Engineering.personal.md) 
+### [Civil_Engineering.private](/_private/Technology/Civil_Engineering.private.md) 
 
-### [Civil_Engineering.secret](/_secret\Technology/Civil_Engineering.secret.md)
+### [Civil_Engineering.personal](/_personal/Technology/Civil_Engineering.personal.md) 
+
+### [Civil_Engineering.secret](/_secret/Technology/Civil_Engineering.secret.md)
 

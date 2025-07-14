@@ -26,15 +26,17 @@ has_id_wikidata: Q11348
 
 ## Confidential Links & Embeds: 
 
-### [Function(mathematics).public](/_public\Mathematics/Function(mathematics).public.md) 
+### [Function(mathematics)](/_Standards/Mathematics/Function(mathematics).md) 
 
-### [Function(mathematics).internal](/_internal\Mathematics/Function(mathematics).internal.md) 
+### [Function(mathematics).public](/_public/Mathematics/Function(mathematics).public.md) 
 
-### [Function(mathematics).protect](/_protect\Mathematics/Function(mathematics).protect.md) 
+### [Function(mathematics).internal](/_internal/Mathematics/Function(mathematics).internal.md) 
 
-### [Function(mathematics).private](/_private\Mathematics/Function(mathematics).private.md) 
+### [Function(mathematics).protect](/_protect/Mathematics/Function(mathematics).protect.md) 
 
-### [Function(mathematics).personal](/_personal\Mathematics/Function(mathematics).personal.md) 
+### [Function(mathematics).private](/_private/Mathematics/Function(mathematics).private.md) 
 
-### [Function(mathematics).secret](/_secret\Mathematics/Function(mathematics).secret.md)
+### [Function(mathematics).personal](/_personal/Mathematics/Function(mathematics).personal.md) 
+
+### [Function(mathematics).secret](/_secret/Mathematics/Function(mathematics).secret.md)
 

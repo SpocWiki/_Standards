@@ -47,19 +47,19 @@ U_S_National_Archives_Identifier: 10676224
 > [Wikipedia](https://en.wikipedia.org/wiki/Behavior)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Behavior.public](/_public\bio\Psychology/Behavior.public.md) 
+### [Behavior](/_Standards/bio/Psychology/Behavior.md) 
 
-### [Behavior.internal](/_internal\bio\Psychology/Behavior.internal.md) 
+### [Behavior.public](/_public/bio/Psychology/Behavior.public.md) 
 
-### [Behavior.protect](/_protect\bio\Psychology/Behavior.protect.md) 
+### [Behavior.internal](/_internal/bio/Psychology/Behavior.internal.md) 
 
-### [Behavior.private](/_private\bio\Psychology/Behavior.private.md) 
+### [Behavior.protect](/_protect/bio/Psychology/Behavior.protect.md) 
 
-### [Behavior.personal](/_personal\bio\Psychology/Behavior.personal.md) 
+### [Behavior.private](/_private/bio/Psychology/Behavior.private.md) 
 
-### [Behavior.secret](/_secret\bio\Psychology/Behavior.secret.md)
+### [Behavior.personal](/_personal/bio/Psychology/Behavior.personal.md) 
+
+### [Behavior.secret](/_secret/bio/Psychology/Behavior.secret.md)
 

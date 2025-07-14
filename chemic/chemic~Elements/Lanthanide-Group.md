@@ -25,15 +25,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Lanthanide-Group.public](/_public\chemic\chemic~Elements/Lanthanide-Group.public.md) 
+### [Lanthanide-Group](/_Standards/chemic/chemic~Elements/Lanthanide-Group.md) 
 
-### [Lanthanide-Group.internal](/_internal\chemic\chemic~Elements/Lanthanide-Group.internal.md) 
+### [Lanthanide-Group.public](/_public/chemic/chemic~Elements/Lanthanide-Group.public.md) 
 
-### [Lanthanide-Group.protect](/_protect\chemic\chemic~Elements/Lanthanide-Group.protect.md) 
+### [Lanthanide-Group.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group.internal.md) 
 
-### [Lanthanide-Group.private](/_private\chemic\chemic~Elements/Lanthanide-Group.private.md) 
+### [Lanthanide-Group.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group.protect.md) 
 
-### [Lanthanide-Group.personal](/_personal\chemic\chemic~Elements/Lanthanide-Group.personal.md) 
+### [Lanthanide-Group.private](/_private/chemic/chemic~Elements/Lanthanide-Group.private.md) 
 
-### [Lanthanide-Group.secret](/_secret\chemic\chemic~Elements/Lanthanide-Group.secret.md)
+### [Lanthanide-Group.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group.personal.md) 
+
+### [Lanthanide-Group.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group.secret.md)
 

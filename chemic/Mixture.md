@@ -36,15 +36,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Eintei
 
 ## Confidential Links & Embeds: 
 
-### [Mixture.public](/_public\chemic/Mixture.public.md) 
+### [Mixture](/_Standards/chemic/Mixture.md) 
 
-### [Mixture.internal](/_internal\chemic/Mixture.internal.md) 
+### [Mixture.public](/_public/chemic/Mixture.public.md) 
 
-### [Mixture.protect](/_protect\chemic/Mixture.protect.md) 
+### [Mixture.internal](/_internal/chemic/Mixture.internal.md) 
 
-### [Mixture.private](/_private\chemic/Mixture.private.md) 
+### [Mixture.protect](/_protect/chemic/Mixture.protect.md) 
 
-### [Mixture.personal](/_personal\chemic/Mixture.personal.md) 
+### [Mixture.private](/_private/chemic/Mixture.private.md) 
 
-### [Mixture.secret](/_secret\chemic/Mixture.secret.md)
+### [Mixture.personal](/_personal/chemic/Mixture.personal.md) 
+
+### [Mixture.secret](/_secret/chemic/Mixture.secret.md)
 

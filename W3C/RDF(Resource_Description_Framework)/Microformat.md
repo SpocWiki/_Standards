@@ -56,15 +56,17 @@ HTML Meta-Tags are often used to describe Web Pages using
 
 ## Confidential Links & Embeds: 
 
-### [Microformat.public](/_public\W3C\RDF(Resource_Description_Framework)/Microformat.public.md) 
+### [Microformat](/_Standards/W3C/RDF(Resource_Description_Framework)/Microformat.md) 
 
-### [Microformat.internal](/_internal\W3C\RDF(Resource_Description_Framework)/Microformat.internal.md) 
+### [Microformat.public](/_public/W3C/RDF(Resource_Description_Framework)/Microformat.public.md) 
 
-### [Microformat.protect](/_protect\W3C\RDF(Resource_Description_Framework)/Microformat.protect.md) 
+### [Microformat.internal](/_internal/W3C/RDF(Resource_Description_Framework)/Microformat.internal.md) 
 
-### [Microformat.private](/_private\W3C\RDF(Resource_Description_Framework)/Microformat.private.md) 
+### [Microformat.protect](/_protect/W3C/RDF(Resource_Description_Framework)/Microformat.protect.md) 
 
-### [Microformat.personal](/_personal\W3C\RDF(Resource_Description_Framework)/Microformat.personal.md) 
+### [Microformat.private](/_private/W3C/RDF(Resource_Description_Framework)/Microformat.private.md) 
 
-### [Microformat.secret](/_secret\W3C\RDF(Resource_Description_Framework)/Microformat.secret.md)
+### [Microformat.personal](/_personal/W3C/RDF(Resource_Description_Framework)/Microformat.personal.md) 
+
+### [Microformat.secret](/_secret/W3C/RDF(Resource_Description_Framework)/Microformat.secret.md)
 

@@ -39,15 +39,17 @@ Images are copyrighted by their respective owners as indicated for each picture 
 
 ## Confidential Links & Embeds: 
 
-### [bio~Tree.public](/_public\bio/bio~Tree.public.md) 
+### [bio~Tree](/_Standards/bio/bio~Tree.md) 
 
-### [bio~Tree.internal](/_internal\bio/bio~Tree.internal.md) 
+### [bio~Tree.public](/_public/bio/bio~Tree.public.md) 
 
-### [bio~Tree.protect](/_protect\bio/bio~Tree.protect.md) 
+### [bio~Tree.internal](/_internal/bio/bio~Tree.internal.md) 
 
-### [bio~Tree.private](/_private\bio/bio~Tree.private.md) 
+### [bio~Tree.protect](/_protect/bio/bio~Tree.protect.md) 
 
-### [bio~Tree.personal](/_personal\bio/bio~Tree.personal.md) 
+### [bio~Tree.private](/_private/bio/bio~Tree.private.md) 
 
-### [bio~Tree.secret](/_secret\bio/bio~Tree.secret.md)
+### [bio~Tree.personal](/_personal/bio/bio~Tree.personal.md) 
+
+### [bio~Tree.secret](/_secret/bio/bio~Tree.secret.md)
 

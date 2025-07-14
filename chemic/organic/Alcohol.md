@@ -71,19 +71,19 @@ Es gibt keine minimale Dosis, die Schäden sind akkumulativ und nicht alle rever
 Beeinträchtigt wird Immunsystem, Krebsgefahr steigt. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Alcohol.public](/_public\chemic\organic/Alcohol.public.md) 
+### [Alcohol](/_Standards/chemic/organic/Alcohol.md) 
 
-### [Alcohol.internal](/_internal\chemic\organic/Alcohol.internal.md) 
+### [Alcohol.public](/_public/chemic/organic/Alcohol.public.md) 
 
-### [Alcohol.protect](/_protect\chemic\organic/Alcohol.protect.md) 
+### [Alcohol.internal](/_internal/chemic/organic/Alcohol.internal.md) 
 
-### [Alcohol.private](/_private\chemic\organic/Alcohol.private.md) 
+### [Alcohol.protect](/_protect/chemic/organic/Alcohol.protect.md) 
 
-### [Alcohol.personal](/_personal\chemic\organic/Alcohol.personal.md) 
+### [Alcohol.private](/_private/chemic/organic/Alcohol.private.md) 
 
-### [Alcohol.secret](/_secret\chemic\organic/Alcohol.secret.md)
+### [Alcohol.personal](/_personal/chemic/organic/Alcohol.personal.md) 
+
+### [Alcohol.secret](/_secret/chemic/organic/Alcohol.secret.md)
 

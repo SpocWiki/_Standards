@@ -40,15 +40,17 @@ is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/C
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Class.public](/_public\fileClass/FileClass~Class.public.md) 
+### [FileClass~Class](/_Standards/fileClass/FileClass~Class.md) 
 
-### [FileClass~Class.internal](/_internal\fileClass/FileClass~Class.internal.md) 
+### [FileClass~Class.public](/_public/fileClass/FileClass~Class.public.md) 
 
-### [FileClass~Class.protect](/_protect\fileClass/FileClass~Class.protect.md) 
+### [FileClass~Class.internal](/_internal/fileClass/FileClass~Class.internal.md) 
 
-### [FileClass~Class.private](/_private\fileClass/FileClass~Class.private.md) 
+### [FileClass~Class.protect](/_protect/fileClass/FileClass~Class.protect.md) 
 
-### [FileClass~Class.personal](/_personal\fileClass/FileClass~Class.personal.md) 
+### [FileClass~Class.private](/_private/fileClass/FileClass~Class.private.md) 
 
-### [FileClass~Class.secret](/_secret\fileClass/FileClass~Class.secret.md)
+### [FileClass~Class.personal](/_personal/fileClass/FileClass~Class.personal.md) 
+
+### [FileClass~Class.secret](/_secret/fileClass/FileClass~Class.secret.md)
 

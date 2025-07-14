@@ -45,15 +45,17 @@ dv.view("TableByName", ["OSZE.tsv"]);
 
 ## Confidential Links & Embeds: 
 
-### [OSZE.public](/_public\International/OSZE.public.md) 
+### [OSZE](/_Standards/International/OSZE.md) 
 
-### [OSZE.internal](/_internal\International/OSZE.internal.md) 
+### [OSZE.public](/_public/International/OSZE.public.md) 
 
-### [OSZE.protect](/_protect\International/OSZE.protect.md) 
+### [OSZE.internal](/_internal/International/OSZE.internal.md) 
 
-### [OSZE.private](/_private\International/OSZE.private.md) 
+### [OSZE.protect](/_protect/International/OSZE.protect.md) 
 
-### [OSZE.personal](/_personal\International/OSZE.personal.md) 
+### [OSZE.private](/_private/International/OSZE.private.md) 
 
-### [OSZE.secret](/_secret\International/OSZE.secret.md)
+### [OSZE.personal](/_personal/International/OSZE.personal.md) 
+
+### [OSZE.secret](/_secret/International/OSZE.secret.md)
 

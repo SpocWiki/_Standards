@@ -22,15 +22,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### [Group-03-Scandium.public](/_public\chemic\chemic~Elements/Group-03-Scandium.public.md) 
+### [Group-03-Scandium](/_Standards/chemic/chemic~Elements/Group-03-Scandium.md) 
 
-### [Group-03-Scandium.internal](/_internal\chemic\chemic~Elements/Group-03-Scandium.internal.md) 
+### [Group-03-Scandium.public](/_public/chemic/chemic~Elements/Group-03-Scandium.public.md) 
 
-### [Group-03-Scandium.protect](/_protect\chemic\chemic~Elements/Group-03-Scandium.protect.md) 
+### [Group-03-Scandium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium.internal.md) 
 
-### [Group-03-Scandium.private](/_private\chemic\chemic~Elements/Group-03-Scandium.private.md) 
+### [Group-03-Scandium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium.protect.md) 
 
-### [Group-03-Scandium.personal](/_personal\chemic\chemic~Elements/Group-03-Scandium.personal.md) 
+### [Group-03-Scandium.private](/_private/chemic/chemic~Elements/Group-03-Scandium.private.md) 
 
-### [Group-03-Scandium.secret](/_secret\chemic\chemic~Elements/Group-03-Scandium.secret.md)
+### [Group-03-Scandium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium.personal.md) 
+
+### [Group-03-Scandium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium.secret.md)
 

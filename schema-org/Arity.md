@@ -152,15 +152,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Arity.public](/_public\schema-org/Arity.public.md) 
+### [Arity](/_Standards/schema-org/Arity.md) 
 
-### [Arity.internal](/_internal\schema-org/Arity.internal.md) 
+### [Arity.public](/_public/schema-org/Arity.public.md) 
 
-### [Arity.protect](/_protect\schema-org/Arity.protect.md) 
+### [Arity.internal](/_internal/schema-org/Arity.internal.md) 
 
-### [Arity.private](/_private\schema-org/Arity.private.md) 
+### [Arity.protect](/_protect/schema-org/Arity.protect.md) 
 
-### [Arity.personal](/_personal\schema-org/Arity.personal.md) 
+### [Arity.private](/_private/schema-org/Arity.private.md) 
 
-### [Arity.secret](/_secret\schema-org/Arity.secret.md)
+### [Arity.personal](/_personal/schema-org/Arity.personal.md) 
+
+### [Arity.secret](/_secret/schema-org/Arity.secret.md)
 

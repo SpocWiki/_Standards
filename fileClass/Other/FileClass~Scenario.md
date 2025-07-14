@@ -35,15 +35,17 @@ fields:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Scenario.public](/_public\fileClass\Other/FileClass~Scenario.public.md) 
+### [FileClass~Scenario](/_Standards/fileClass/Other/FileClass~Scenario.md) 
 
-### [FileClass~Scenario.internal](/_internal\fileClass\Other/FileClass~Scenario.internal.md) 
+### [FileClass~Scenario.public](/_public/fileClass/Other/FileClass~Scenario.public.md) 
 
-### [FileClass~Scenario.protect](/_protect\fileClass\Other/FileClass~Scenario.protect.md) 
+### [FileClass~Scenario.internal](/_internal/fileClass/Other/FileClass~Scenario.internal.md) 
 
-### [FileClass~Scenario.private](/_private\fileClass\Other/FileClass~Scenario.private.md) 
+### [FileClass~Scenario.protect](/_protect/fileClass/Other/FileClass~Scenario.protect.md) 
 
-### [FileClass~Scenario.personal](/_personal\fileClass\Other/FileClass~Scenario.personal.md) 
+### [FileClass~Scenario.private](/_private/fileClass/Other/FileClass~Scenario.private.md) 
 
-### [FileClass~Scenario.secret](/_secret\fileClass\Other/FileClass~Scenario.secret.md)
+### [FileClass~Scenario.personal](/_personal/fileClass/Other/FileClass~Scenario.personal.md) 
+
+### [FileClass~Scenario.secret](/_secret/fileClass/Other/FileClass~Scenario.secret.md)
 

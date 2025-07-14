@@ -152,15 +152,17 @@ social_media_followers: 68432
 
 ## Confidential Links & Embeds: 
 
-### [OPEC.public](/_public\International/OPEC.public.md) 
+### [OPEC](/_Standards/International/OPEC.md) 
 
-### [OPEC.internal](/_internal\International/OPEC.internal.md) 
+### [OPEC.public](/_public/International/OPEC.public.md) 
 
-### [OPEC.protect](/_protect\International/OPEC.protect.md) 
+### [OPEC.internal](/_internal/International/OPEC.internal.md) 
 
-### [OPEC.private](/_private\International/OPEC.private.md) 
+### [OPEC.protect](/_protect/International/OPEC.protect.md) 
 
-### [OPEC.personal](/_personal\International/OPEC.personal.md) 
+### [OPEC.private](/_private/International/OPEC.private.md) 
 
-### [OPEC.secret](/_secret\International/OPEC.secret.md)
+### [OPEC.personal](/_personal/International/OPEC.personal.md) 
+
+### [OPEC.secret](/_secret/International/OPEC.secret.md)
 

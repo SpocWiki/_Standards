@@ -35,15 +35,17 @@ Attributes of Microdata are:
 
 ## Confidential Links & Embeds: 
 
-### [Microdata.public](/_public\W3C\RDF(Resource_Description_Framework)/Microdata.public.md) 
+### [Microdata](/_Standards/W3C/RDF(Resource_Description_Framework)/Microdata.md) 
 
-### [Microdata.internal](/_internal\W3C\RDF(Resource_Description_Framework)/Microdata.internal.md) 
+### [Microdata.public](/_public/W3C/RDF(Resource_Description_Framework)/Microdata.public.md) 
 
-### [Microdata.protect](/_protect\W3C\RDF(Resource_Description_Framework)/Microdata.protect.md) 
+### [Microdata.internal](/_internal/W3C/RDF(Resource_Description_Framework)/Microdata.internal.md) 
 
-### [Microdata.private](/_private\W3C\RDF(Resource_Description_Framework)/Microdata.private.md) 
+### [Microdata.protect](/_protect/W3C/RDF(Resource_Description_Framework)/Microdata.protect.md) 
 
-### [Microdata.personal](/_personal\W3C\RDF(Resource_Description_Framework)/Microdata.personal.md) 
+### [Microdata.private](/_private/W3C/RDF(Resource_Description_Framework)/Microdata.private.md) 
 
-### [Microdata.secret](/_secret\W3C\RDF(Resource_Description_Framework)/Microdata.secret.md)
+### [Microdata.personal](/_personal/W3C/RDF(Resource_Description_Framework)/Microdata.personal.md) 
+
+### [Microdata.secret](/_secret/W3C/RDF(Resource_Description_Framework)/Microdata.secret.md)
 

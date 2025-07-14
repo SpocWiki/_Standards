@@ -6,20 +6,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Exploration)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Explorer.public](/_public\bio\People/Explorer.public.md) 
+### [Explorer](/_Standards/bio/People/Explorer.md) 
 
-### [Explorer.internal](/_internal\bio\People/Explorer.internal.md) 
+### [Explorer.public](/_public/bio/People/Explorer.public.md) 
 
-### [Explorer.protect](/_protect\bio\People/Explorer.protect.md) 
+### [Explorer.internal](/_internal/bio/People/Explorer.internal.md) 
 
-### [Explorer.private](/_private\bio\People/Explorer.private.md) 
+### [Explorer.protect](/_protect/bio/People/Explorer.protect.md) 
 
-### [Explorer.personal](/_personal\bio\People/Explorer.personal.md) 
+### [Explorer.private](/_private/bio/People/Explorer.private.md) 
 
-### [Explorer.secret](/_secret\bio\People/Explorer.secret.md)
+### [Explorer.personal](/_personal/bio/People/Explorer.personal.md) 
+
+### [Explorer.secret](/_secret/bio/People/Explorer.secret.md)
 

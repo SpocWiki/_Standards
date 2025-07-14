@@ -102,15 +102,17 @@ It takes hundreds of years for soil to regain its biological properties.
 
 ## Confidential Links & Embeds: 
 
-### [Soil.public](/_public\Earth/Soil.public.md) 
+### [Soil](/_Standards/Earth/Soil.md) 
 
-### [Soil.internal](/_internal\Earth/Soil.internal.md) 
+### [Soil.public](/_public/Earth/Soil.public.md) 
 
-### [Soil.protect](/_protect\Earth/Soil.protect.md) 
+### [Soil.internal](/_internal/Earth/Soil.internal.md) 
 
-### [Soil.private](/_private\Earth/Soil.private.md) 
+### [Soil.protect](/_protect/Earth/Soil.protect.md) 
 
-### [Soil.personal](/_personal\Earth/Soil.personal.md) 
+### [Soil.private](/_private/Earth/Soil.private.md) 
 
-### [Soil.secret](/_secret\Earth/Soil.secret.md)
+### [Soil.personal](/_personal/Earth/Soil.personal.md) 
+
+### [Soil.secret](/_secret/Earth/Soil.secret.md)
 

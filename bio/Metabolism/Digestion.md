@@ -41,19 +41,19 @@ native_label: "systema digestorium"
 > [Wikipedia](https://en.wikipedia.org/wiki/Digestion)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Digestion.public](/_public\bio\Metabolism/Digestion.public.md) 
+### [Digestion](/_Standards/bio/Metabolism/Digestion.md) 
 
-### [Digestion.internal](/_internal\bio\Metabolism/Digestion.internal.md) 
+### [Digestion.public](/_public/bio/Metabolism/Digestion.public.md) 
 
-### [Digestion.protect](/_protect\bio\Metabolism/Digestion.protect.md) 
+### [Digestion.internal](/_internal/bio/Metabolism/Digestion.internal.md) 
 
-### [Digestion.private](/_private\bio\Metabolism/Digestion.private.md) 
+### [Digestion.protect](/_protect/bio/Metabolism/Digestion.protect.md) 
 
-### [Digestion.personal](/_personal\bio\Metabolism/Digestion.personal.md) 
+### [Digestion.private](/_private/bio/Metabolism/Digestion.private.md) 
 
-### [Digestion.secret](/_secret\bio\Metabolism/Digestion.secret.md)
+### [Digestion.personal](/_personal/bio/Metabolism/Digestion.personal.md) 
+
+### [Digestion.secret](/_secret/bio/Metabolism/Digestion.secret.md)
 

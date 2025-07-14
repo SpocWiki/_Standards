@@ -137,15 +137,17 @@ The \"eocyte tree\":
 
 ## Confidential Links & Embeds: 
 
-### [Tree_of_Life.public](/_public\bio\bio~Domain/Tree_of_Life.public.md) 
+### [Tree_of_Life](/_Standards/bio/bio~Domain/Tree_of_Life.md) 
 
-### [Tree_of_Life.internal](/_internal\bio\bio~Domain/Tree_of_Life.internal.md) 
+### [Tree_of_Life.public](/_public/bio/bio~Domain/Tree_of_Life.public.md) 
 
-### [Tree_of_Life.protect](/_protect\bio\bio~Domain/Tree_of_Life.protect.md) 
+### [Tree_of_Life.internal](/_internal/bio/bio~Domain/Tree_of_Life.internal.md) 
 
-### [Tree_of_Life.private](/_private\bio\bio~Domain/Tree_of_Life.private.md) 
+### [Tree_of_Life.protect](/_protect/bio/bio~Domain/Tree_of_Life.protect.md) 
 
-### [Tree_of_Life.personal](/_personal\bio\bio~Domain/Tree_of_Life.personal.md) 
+### [Tree_of_Life.private](/_private/bio/bio~Domain/Tree_of_Life.private.md) 
 
-### [Tree_of_Life.secret](/_secret\bio\bio~Domain/Tree_of_Life.secret.md)
+### [Tree_of_Life.personal](/_personal/bio/bio~Domain/Tree_of_Life.personal.md) 
+
+### [Tree_of_Life.secret](/_secret/bio/bio~Domain/Tree_of_Life.secret.md)
 

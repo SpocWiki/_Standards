@@ -75,6 +75,8 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
+### [goodRelations](/_Standards/goodRelations.md) 
+
 ### [goodRelations.public](/_public/goodRelations.public.md) 
 
 ### [goodRelations.internal](/_internal/goodRelations.internal.md) 

@@ -46,19 +46,19 @@ Commons_gallery: Engine
 > [Wikipedia](https://en.wikipedia.org/wiki/Engine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Engine.public](/_public\Technology\Mechanical_Engineering/Engine.public.md) 
+### [Engine](/_Standards/Technology/Mechanical_Engineering/Engine.md) 
 
-### [Engine.internal](/_internal\Technology\Mechanical_Engineering/Engine.internal.md) 
+### [Engine.public](/_public/Technology/Mechanical_Engineering/Engine.public.md) 
 
-### [Engine.protect](/_protect\Technology\Mechanical_Engineering/Engine.protect.md) 
+### [Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine.internal.md) 
 
-### [Engine.private](/_private\Technology\Mechanical_Engineering/Engine.private.md) 
+### [Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine.protect.md) 
 
-### [Engine.personal](/_personal\Technology\Mechanical_Engineering/Engine.personal.md) 
+### [Engine.private](/_private/Technology/Mechanical_Engineering/Engine.private.md) 
 
-### [Engine.secret](/_secret\Technology\Mechanical_Engineering/Engine.secret.md)
+### [Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine.personal.md) 
+
+### [Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine.secret.md)
 

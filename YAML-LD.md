@@ -28,6 +28,8 @@
 
 ## Confidential Links & Embeds: 
 
+### [YAML-LD](/_Standards/YAML-LD.md) 
+
 ### [YAML-LD.public](/_public/YAML-LD.public.md) 
 
 ### [YAML-LD.internal](/_internal/YAML-LD.internal.md) 

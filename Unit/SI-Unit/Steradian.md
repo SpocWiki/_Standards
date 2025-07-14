@@ -38,15 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Steradian.public](/_public\Unit\SI-Unit/Steradian.public.md) 
+### [Steradian](/_Standards/Unit/SI-Unit/Steradian.md) 
 
-### [Steradian.internal](/_internal\Unit\SI-Unit/Steradian.internal.md) 
+### [Steradian.public](/_public/Unit/SI-Unit/Steradian.public.md) 
 
-### [Steradian.protect](/_protect\Unit\SI-Unit/Steradian.protect.md) 
+### [Steradian.internal](/_internal/Unit/SI-Unit/Steradian.internal.md) 
 
-### [Steradian.private](/_private\Unit\SI-Unit/Steradian.private.md) 
+### [Steradian.protect](/_protect/Unit/SI-Unit/Steradian.protect.md) 
 
-### [Steradian.personal](/_personal\Unit\SI-Unit/Steradian.personal.md) 
+### [Steradian.private](/_private/Unit/SI-Unit/Steradian.private.md) 
 
-### [Steradian.secret](/_secret\Unit\SI-Unit/Steradian.secret.md)
+### [Steradian.personal](/_personal/Unit/SI-Unit/Steradian.personal.md) 
+
+### [Steradian.secret](/_secret/Unit/SI-Unit/Steradian.secret.md)
 

@@ -399,19 +399,19 @@ UMLS_CUI: C0003732
     -   [Methanobacteriota](Archaea/Methanobacteriota.md)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Archaea.public](/_public\bio\bio~Domain/Archaea.public.md) 
+### [Archaea](/_Standards/bio/bio~Domain/Archaea.md) 
 
-### [Archaea.internal](/_internal\bio\bio~Domain/Archaea.internal.md) 
+### [Archaea.public](/_public/bio/bio~Domain/Archaea.public.md) 
 
-### [Archaea.protect](/_protect\bio\bio~Domain/Archaea.protect.md) 
+### [Archaea.internal](/_internal/bio/bio~Domain/Archaea.internal.md) 
 
-### [Archaea.private](/_private\bio\bio~Domain/Archaea.private.md) 
+### [Archaea.protect](/_protect/bio/bio~Domain/Archaea.protect.md) 
 
-### [Archaea.personal](/_personal\bio\bio~Domain/Archaea.personal.md) 
+### [Archaea.private](/_private/bio/bio~Domain/Archaea.private.md) 
 
-### [Archaea.secret](/_secret\bio\bio~Domain/Archaea.secret.md)
+### [Archaea.personal](/_personal/bio/bio~Domain/Archaea.personal.md) 
+
+### [Archaea.secret](/_secret/bio/bio~Domain/Archaea.secret.md)
 

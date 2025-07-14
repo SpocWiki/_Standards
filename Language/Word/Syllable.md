@@ -38,19 +38,19 @@ notation: '[[_Standards/WikiData/WD~Σ,14413]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Syllable) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Syllable.public](/_public\Language\Word/Syllable.public.md) 
+### [Syllable](/_Standards/Language/Word/Syllable.md) 
 
-### [Syllable.internal](/_internal\Language\Word/Syllable.internal.md) 
+### [Syllable.public](/_public/Language/Word/Syllable.public.md) 
 
-### [Syllable.protect](/_protect\Language\Word/Syllable.protect.md) 
+### [Syllable.internal](/_internal/Language/Word/Syllable.internal.md) 
 
-### [Syllable.private](/_private\Language\Word/Syllable.private.md) 
+### [Syllable.protect](/_protect/Language/Word/Syllable.protect.md) 
 
-### [Syllable.personal](/_personal\Language\Word/Syllable.personal.md) 
+### [Syllable.private](/_private/Language/Word/Syllable.private.md) 
 
-### [Syllable.secret](/_secret\Language\Word/Syllable.secret.md)
+### [Syllable.personal](/_personal/Language/Word/Syllable.personal.md) 
+
+### [Syllable.secret](/_secret/Language/Word/Syllable.secret.md)
 

@@ -72,15 +72,17 @@ spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Geolog
 
 ## Confidential Links & Embeds: 
 
-### [Geology.public](/_public\Earth/Geology.public.md) 
+### [Geology](/_Standards/Earth/Geology.md) 
 
-### [Geology.internal](/_internal\Earth/Geology.internal.md) 
+### [Geology.public](/_public/Earth/Geology.public.md) 
 
-### [Geology.protect](/_protect\Earth/Geology.protect.md) 
+### [Geology.internal](/_internal/Earth/Geology.internal.md) 
 
-### [Geology.private](/_private\Earth/Geology.private.md) 
+### [Geology.protect](/_protect/Earth/Geology.protect.md) 
 
-### [Geology.personal](/_personal\Earth/Geology.personal.md) 
+### [Geology.private](/_private/Earth/Geology.private.md) 
 
-### [Geology.secret](/_secret\Earth/Geology.secret.md)
+### [Geology.personal](/_personal/Earth/Geology.personal.md) 
+
+### [Geology.secret](/_secret/Earth/Geology.secret.md)
 

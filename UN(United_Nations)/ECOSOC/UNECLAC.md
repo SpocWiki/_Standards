@@ -15,15 +15,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [UNECLAC.public](/_public\UN(United_Nations)\ECOSOC/UNECLAC.public.md) 
+### [UNECLAC](/_Standards/UN(United_Nations)/ECOSOC/UNECLAC.md) 
 
-### [UNECLAC.internal](/_internal\UN(United_Nations)\ECOSOC/UNECLAC.internal.md) 
+### [UNECLAC.public](/_public/UN(United_Nations)/ECOSOC/UNECLAC.public.md) 
 
-### [UNECLAC.protect](/_protect\UN(United_Nations)\ECOSOC/UNECLAC.protect.md) 
+### [UNECLAC.internal](/_internal/UN(United_Nations)/ECOSOC/UNECLAC.internal.md) 
 
-### [UNECLAC.private](/_private\UN(United_Nations)\ECOSOC/UNECLAC.private.md) 
+### [UNECLAC.protect](/_protect/UN(United_Nations)/ECOSOC/UNECLAC.protect.md) 
 
-### [UNECLAC.personal](/_personal\UN(United_Nations)\ECOSOC/UNECLAC.personal.md) 
+### [UNECLAC.private](/_private/UN(United_Nations)/ECOSOC/UNECLAC.private.md) 
 
-### [UNECLAC.secret](/_secret\UN(United_Nations)\ECOSOC/UNECLAC.secret.md)
+### [UNECLAC.personal](/_personal/UN(United_Nations)/ECOSOC/UNECLAC.personal.md) 
+
+### [UNECLAC.secret](/_secret/UN(United_Nations)/ECOSOC/UNECLAC.secret.md)
 

@@ -79,15 +79,17 @@ TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Taxon.public](/_public\fileClass\FileClass~Thing/FileClass~Taxon.public.md) 
+### [FileClass~Taxon](/_Standards/fileClass/FileClass~Thing/FileClass~Taxon.md) 
 
-### [FileClass~Taxon.internal](/_internal\fileClass\FileClass~Thing/FileClass~Taxon.internal.md) 
+### [FileClass~Taxon.public](/_public/fileClass/FileClass~Thing/FileClass~Taxon.public.md) 
 
-### [FileClass~Taxon.protect](/_protect\fileClass\FileClass~Thing/FileClass~Taxon.protect.md) 
+### [FileClass~Taxon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Taxon.internal.md) 
 
-### [FileClass~Taxon.private](/_private\fileClass\FileClass~Thing/FileClass~Taxon.private.md) 
+### [FileClass~Taxon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Taxon.protect.md) 
 
-### [FileClass~Taxon.personal](/_personal\fileClass\FileClass~Thing/FileClass~Taxon.personal.md) 
+### [FileClass~Taxon.private](/_private/fileClass/FileClass~Thing/FileClass~Taxon.private.md) 
 
-### [FileClass~Taxon.secret](/_secret\fileClass\FileClass~Thing/FileClass~Taxon.secret.md)
+### [FileClass~Taxon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Taxon.personal.md) 
+
+### [FileClass~Taxon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Taxon.secret.md)
 

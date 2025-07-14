@@ -73,15 +73,17 @@ Gujarati_Vishwakosh_entry: અંકગણિત
 
 ## Confidential Links & Embeds: 
 
-### [Arithmetic.public](/_public\Mathematics/Arithmetic.public.md) 
+### [Arithmetic](/_Standards/Mathematics/Arithmetic.md) 
 
-### [Arithmetic.internal](/_internal\Mathematics/Arithmetic.internal.md) 
+### [Arithmetic.public](/_public/Mathematics/Arithmetic.public.md) 
 
-### [Arithmetic.protect](/_protect\Mathematics/Arithmetic.protect.md) 
+### [Arithmetic.internal](/_internal/Mathematics/Arithmetic.internal.md) 
 
-### [Arithmetic.private](/_private\Mathematics/Arithmetic.private.md) 
+### [Arithmetic.protect](/_protect/Mathematics/Arithmetic.protect.md) 
 
-### [Arithmetic.personal](/_personal\Mathematics/Arithmetic.personal.md) 
+### [Arithmetic.private](/_private/Mathematics/Arithmetic.private.md) 
 
-### [Arithmetic.secret](/_secret\Mathematics/Arithmetic.secret.md)
+### [Arithmetic.personal](/_personal/Mathematics/Arithmetic.personal.md) 
+
+### [Arithmetic.secret](/_secret/Mathematics/Arithmetic.secret.md)
 

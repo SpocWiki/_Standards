@@ -101,19 +101,19 @@ Commons_category: Agriculture
 > [Wikipedia](https://en.wikipedia.org/wiki/Agriculture)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Agriculture.public](/_public\Economics\Industry/Agriculture.public.md) 
+### [Agriculture](/_Standards/Economics/Industry/Agriculture.md) 
 
-### [Agriculture.internal](/_internal\Economics\Industry/Agriculture.internal.md) 
+### [Agriculture.public](/_public/Economics/Industry/Agriculture.public.md) 
 
-### [Agriculture.protect](/_protect\Economics\Industry/Agriculture.protect.md) 
+### [Agriculture.internal](/_internal/Economics/Industry/Agriculture.internal.md) 
 
-### [Agriculture.private](/_private\Economics\Industry/Agriculture.private.md) 
+### [Agriculture.protect](/_protect/Economics/Industry/Agriculture.protect.md) 
 
-### [Agriculture.personal](/_personal\Economics\Industry/Agriculture.personal.md) 
+### [Agriculture.private](/_private/Economics/Industry/Agriculture.private.md) 
 
-### [Agriculture.secret](/_secret\Economics\Industry/Agriculture.secret.md)
+### [Agriculture.personal](/_personal/Economics/Industry/Agriculture.personal.md) 
+
+### [Agriculture.secret](/_secret/Economics/Industry/Agriculture.secret.md)
 

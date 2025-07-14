@@ -36,15 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Position-Vector.public](/_public\Mathematics\Geometry/Position-Vector.public.md) 
+### [Position-Vector](/_Standards/Mathematics/Geometry/Position-Vector.md) 
 
-### [Position-Vector.internal](/_internal\Mathematics\Geometry/Position-Vector.internal.md) 
+### [Position-Vector.public](/_public/Mathematics/Geometry/Position-Vector.public.md) 
 
-### [Position-Vector.protect](/_protect\Mathematics\Geometry/Position-Vector.protect.md) 
+### [Position-Vector.internal](/_internal/Mathematics/Geometry/Position-Vector.internal.md) 
 
-### [Position-Vector.private](/_private\Mathematics\Geometry/Position-Vector.private.md) 
+### [Position-Vector.protect](/_protect/Mathematics/Geometry/Position-Vector.protect.md) 
 
-### [Position-Vector.personal](/_personal\Mathematics\Geometry/Position-Vector.personal.md) 
+### [Position-Vector.private](/_private/Mathematics/Geometry/Position-Vector.private.md) 
 
-### [Position-Vector.secret](/_secret\Mathematics\Geometry/Position-Vector.secret.md)
+### [Position-Vector.personal](/_personal/Mathematics/Geometry/Position-Vector.personal.md) 
+
+### [Position-Vector.secret](/_secret/Mathematics/Geometry/Position-Vector.secret.md)
 

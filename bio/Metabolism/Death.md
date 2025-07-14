@@ -107,19 +107,19 @@ Colon_Classification: "Q:361"
 > [Wikipedia](https://en.wikipedia.org/wiki/Death)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Death.public](/_public\bio\Metabolism/Death.public.md) 
+### [Death](/_Standards/bio/Metabolism/Death.md) 
 
-### [Death.internal](/_internal\bio\Metabolism/Death.internal.md) 
+### [Death.public](/_public/bio/Metabolism/Death.public.md) 
 
-### [Death.protect](/_protect\bio\Metabolism/Death.protect.md) 
+### [Death.internal](/_internal/bio/Metabolism/Death.internal.md) 
 
-### [Death.private](/_private\bio\Metabolism/Death.private.md) 
+### [Death.protect](/_protect/bio/Metabolism/Death.protect.md) 
 
-### [Death.personal](/_personal\bio\Metabolism/Death.personal.md) 
+### [Death.private](/_private/bio/Metabolism/Death.private.md) 
 
-### [Death.secret](/_secret\bio\Metabolism/Death.secret.md)
+### [Death.personal](/_personal/bio/Metabolism/Death.personal.md) 
+
+### [Death.secret](/_secret/bio/Metabolism/Death.secret.md)
 

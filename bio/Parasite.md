@@ -16,15 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Parasite.public](/_public\bio/Parasite.public.md) 
+### [Parasite](/_Standards/bio/Parasite.md) 
 
-### [Parasite.internal](/_internal\bio/Parasite.internal.md) 
+### [Parasite.public](/_public/bio/Parasite.public.md) 
 
-### [Parasite.protect](/_protect\bio/Parasite.protect.md) 
+### [Parasite.internal](/_internal/bio/Parasite.internal.md) 
 
-### [Parasite.private](/_private\bio/Parasite.private.md) 
+### [Parasite.protect](/_protect/bio/Parasite.protect.md) 
 
-### [Parasite.personal](/_personal\bio/Parasite.personal.md) 
+### [Parasite.private](/_private/bio/Parasite.private.md) 
 
-### [Parasite.secret](/_secret\bio/Parasite.secret.md)
+### [Parasite.personal](/_personal/bio/Parasite.personal.md) 
+
+### [Parasite.secret](/_secret/bio/Parasite.secret.md)
 

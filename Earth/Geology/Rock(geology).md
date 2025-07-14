@@ -16,20 +16,19 @@ has_id_wikidata: Q8063
 > [Wikipedia](https://en.wikipedia.org/wiki/Rock%20(geology))
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Rock(geology).public](/_public\Earth\Geology/Rock(geology).public.md) 
+### [Rock(geology)](/_Standards/Earth/Geology/Rock(geology).md) 
 
-### [Rock(geology).internal](/_internal\Earth\Geology/Rock(geology).internal.md) 
+### [Rock(geology).public](/_public/Earth/Geology/Rock(geology).public.md) 
 
-### [Rock(geology).protect](/_protect\Earth\Geology/Rock(geology).protect.md) 
+### [Rock(geology).internal](/_internal/Earth/Geology/Rock(geology).internal.md) 
 
-### [Rock(geology).private](/_private\Earth\Geology/Rock(geology).private.md) 
+### [Rock(geology).protect](/_protect/Earth/Geology/Rock(geology).protect.md) 
 
-### [Rock(geology).personal](/_personal\Earth\Geology/Rock(geology).personal.md) 
+### [Rock(geology).private](/_private/Earth/Geology/Rock(geology).private.md) 
 
-### [Rock(geology).secret](/_secret\Earth\Geology/Rock(geology).secret.md)
+### [Rock(geology).personal](/_personal/Earth/Geology/Rock(geology).personal.md) 
+
+### [Rock(geology).secret](/_secret/Earth/Geology/Rock(geology).secret.md)
 

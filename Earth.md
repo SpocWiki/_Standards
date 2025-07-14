@@ -502,6 +502,8 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
+### [Earth](/_Standards/Earth.md) 
+
 ### [Earth.public](/_public/Earth.public.md) 
 
 ### [Earth.internal](/_internal/Earth.internal.md) 

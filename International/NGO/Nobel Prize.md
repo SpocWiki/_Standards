@@ -104,20 +104,19 @@ GitHub topic: nobel-laureates
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobel%20Prize)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nobel Prize.public](/_public\International\NGO/Nobel Prize.public.md) 
+### [Nobel Prize](/_Standards/International/NGO/Nobel Prize.md) 
 
-### [Nobel Prize.internal](/_internal\International\NGO/Nobel Prize.internal.md) 
+### [Nobel Prize.public](/_public/International/NGO/Nobel Prize.public.md) 
 
-### [Nobel Prize.protect](/_protect\International\NGO/Nobel Prize.protect.md) 
+### [Nobel Prize.internal](/_internal/International/NGO/Nobel Prize.internal.md) 
 
-### [Nobel Prize.private](/_private\International\NGO/Nobel Prize.private.md) 
+### [Nobel Prize.protect](/_protect/International/NGO/Nobel Prize.protect.md) 
 
-### [Nobel Prize.personal](/_personal\International\NGO/Nobel Prize.personal.md) 
+### [Nobel Prize.private](/_private/International/NGO/Nobel Prize.private.md) 
 
-### [Nobel Prize.secret](/_secret\International\NGO/Nobel Prize.secret.md)
+### [Nobel Prize.personal](/_personal/International/NGO/Nobel Prize.personal.md) 
+
+### [Nobel Prize.secret](/_secret/International/NGO/Nobel Prize.secret.md)
 

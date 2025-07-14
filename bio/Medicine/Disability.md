@@ -49,20 +49,19 @@ PhilPapers_topic: the-concept-of-disability
 > [Wikipedia](https://en.wikipedia.org/wiki/Disability)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Disability.public](/_public\bio\Medicine/Disability.public.md) 
+### [Disability](/_Standards/bio/Medicine/Disability.md) 
 
-### [Disability.internal](/_internal\bio\Medicine/Disability.internal.md) 
+### [Disability.public](/_public/bio/Medicine/Disability.public.md) 
 
-### [Disability.protect](/_protect\bio\Medicine/Disability.protect.md) 
+### [Disability.internal](/_internal/bio/Medicine/Disability.internal.md) 
 
-### [Disability.private](/_private\bio\Medicine/Disability.private.md) 
+### [Disability.protect](/_protect/bio/Medicine/Disability.protect.md) 
 
-### [Disability.personal](/_personal\bio\Medicine/Disability.personal.md) 
+### [Disability.private](/_private/bio/Medicine/Disability.private.md) 
 
-### [Disability.secret](/_secret\bio\Medicine/Disability.secret.md)
+### [Disability.personal](/_personal/bio/Medicine/Disability.personal.md) 
+
+### [Disability.secret](/_secret/bio/Medicine/Disability.secret.md)
 

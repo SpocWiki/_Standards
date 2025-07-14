@@ -81,15 +81,17 @@ Derived from [Schema.org](https://schema.org/docs/developers.html)
 
 ## Confidential Links & Embeds: 
 
-### [Predicate.public](/_public\schema-org/Predicate.public.md) 
+### [Predicate](/_Standards/schema-org/Predicate.md) 
 
-### [Predicate.internal](/_internal\schema-org/Predicate.internal.md) 
+### [Predicate.public](/_public/schema-org/Predicate.public.md) 
 
-### [Predicate.protect](/_protect\schema-org/Predicate.protect.md) 
+### [Predicate.internal](/_internal/schema-org/Predicate.internal.md) 
 
-### [Predicate.private](/_private\schema-org/Predicate.private.md) 
+### [Predicate.protect](/_protect/schema-org/Predicate.protect.md) 
 
-### [Predicate.personal](/_personal\schema-org/Predicate.personal.md) 
+### [Predicate.private](/_private/schema-org/Predicate.private.md) 
 
-### [Predicate.secret](/_secret\schema-org/Predicate.secret.md)
+### [Predicate.personal](/_personal/schema-org/Predicate.personal.md) 
+
+### [Predicate.secret](/_secret/schema-org/Predicate.secret.md)
 

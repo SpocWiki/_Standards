@@ -14,15 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [UNESCAP.public](/_public\UN(United_Nations)\ECOSOC/UNESCAP.public.md) 
+### [UNESCAP](/_Standards/UN(United_Nations)/ECOSOC/UNESCAP.md) 
 
-### [UNESCAP.internal](/_internal\UN(United_Nations)\ECOSOC/UNESCAP.internal.md) 
+### [UNESCAP.public](/_public/UN(United_Nations)/ECOSOC/UNESCAP.public.md) 
 
-### [UNESCAP.protect](/_protect\UN(United_Nations)\ECOSOC/UNESCAP.protect.md) 
+### [UNESCAP.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCAP.internal.md) 
 
-### [UNESCAP.private](/_private\UN(United_Nations)\ECOSOC/UNESCAP.private.md) 
+### [UNESCAP.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCAP.protect.md) 
 
-### [UNESCAP.personal](/_personal\UN(United_Nations)\ECOSOC/UNESCAP.personal.md) 
+### [UNESCAP.private](/_private/UN(United_Nations)/ECOSOC/UNESCAP.private.md) 
 
-### [UNESCAP.secret](/_secret\UN(United_Nations)\ECOSOC/UNESCAP.secret.md)
+### [UNESCAP.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCAP.personal.md) 
+
+### [UNESCAP.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCAP.secret.md)
 

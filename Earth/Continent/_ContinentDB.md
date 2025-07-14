@@ -222,15 +222,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_ContinentDB.public](/_public\Earth\Continent/_ContinentDB.public.md) 
+### [_ContinentDB](/_Standards/Earth/Continent/_ContinentDB.md) 
 
-### [_ContinentDB.internal](/_internal\Earth\Continent/_ContinentDB.internal.md) 
+### [_ContinentDB.public](/_public/Earth/Continent/_ContinentDB.public.md) 
 
-### [_ContinentDB.protect](/_protect\Earth\Continent/_ContinentDB.protect.md) 
+### [_ContinentDB.internal](/_internal/Earth/Continent/_ContinentDB.internal.md) 
 
-### [_ContinentDB.private](/_private\Earth\Continent/_ContinentDB.private.md) 
+### [_ContinentDB.protect](/_protect/Earth/Continent/_ContinentDB.protect.md) 
 
-### [_ContinentDB.personal](/_personal\Earth\Continent/_ContinentDB.personal.md) 
+### [_ContinentDB.private](/_private/Earth/Continent/_ContinentDB.private.md) 
 
-### [_ContinentDB.secret](/_secret\Earth\Continent/_ContinentDB.secret.md)
+### [_ContinentDB.personal](/_personal/Earth/Continent/_ContinentDB.personal.md) 
+
+### [_ContinentDB.secret](/_secret/Earth/Continent/_ContinentDB.secret.md)
 

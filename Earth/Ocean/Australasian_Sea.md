@@ -37,15 +37,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Australasian_Sea.public](/_public\Earth\Ocean/Australasian_Sea.public.md) 
+### [Australasian_Sea](/_Standards/Earth/Ocean/Australasian_Sea.md) 
 
-### [Australasian_Sea.internal](/_internal\Earth\Ocean/Australasian_Sea.internal.md) 
+### [Australasian_Sea.public](/_public/Earth/Ocean/Australasian_Sea.public.md) 
 
-### [Australasian_Sea.protect](/_protect\Earth\Ocean/Australasian_Sea.protect.md) 
+### [Australasian_Sea.internal](/_internal/Earth/Ocean/Australasian_Sea.internal.md) 
 
-### [Australasian_Sea.private](/_private\Earth\Ocean/Australasian_Sea.private.md) 
+### [Australasian_Sea.protect](/_protect/Earth/Ocean/Australasian_Sea.protect.md) 
 
-### [Australasian_Sea.personal](/_personal\Earth\Ocean/Australasian_Sea.personal.md) 
+### [Australasian_Sea.private](/_private/Earth/Ocean/Australasian_Sea.private.md) 
 
-### [Australasian_Sea.secret](/_secret\Earth\Ocean/Australasian_Sea.secret.md)
+### [Australasian_Sea.personal](/_personal/Earth/Ocean/Australasian_Sea.personal.md) 
+
+### [Australasian_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea.secret.md)
 

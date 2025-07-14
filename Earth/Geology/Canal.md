@@ -52,22 +52,19 @@ Krugosvet_article: tehnologiya-i-promyshlennost/kanal
 > [Wikipedia](https://en.wikipedia.org/wiki/Canal)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Canal.public](/_public\Earth\Geology/Canal.public.md) 
+### [Canal](/_Standards/Earth/Geology/Canal.md) 
 
-### [Canal.internal](/_internal\Earth\Geology/Canal.internal.md) 
+### [Canal.public](/_public/Earth/Geology/Canal.public.md) 
 
-### [Canal.protect](/_protect\Earth\Geology/Canal.protect.md) 
+### [Canal.internal](/_internal/Earth/Geology/Canal.internal.md) 
 
-### [Canal.private](/_private\Earth\Geology/Canal.private.md) 
+### [Canal.protect](/_protect/Earth/Geology/Canal.protect.md) 
 
-### [Canal.personal](/_personal\Earth\Geology/Canal.personal.md) 
+### [Canal.private](/_private/Earth/Geology/Canal.private.md) 
 
-### [Canal.secret](/_secret\Earth\Geology/Canal.secret.md)
+### [Canal.personal](/_personal/Earth/Geology/Canal.personal.md) 
+
+### [Canal.secret](/_secret/Earth/Geology/Canal.secret.md)
 

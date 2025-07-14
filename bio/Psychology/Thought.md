@@ -31,19 +31,19 @@ Commons_category: Thinking
 > [Wikipedia](https://en.wikipedia.org/wiki/Thought)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Thought.public](/_public\bio\Psychology/Thought.public.md) 
+### [Thought](/_Standards/bio/Psychology/Thought.md) 
 
-### [Thought.internal](/_internal\bio\Psychology/Thought.internal.md) 
+### [Thought.public](/_public/bio/Psychology/Thought.public.md) 
 
-### [Thought.protect](/_protect\bio\Psychology/Thought.protect.md) 
+### [Thought.internal](/_internal/bio/Psychology/Thought.internal.md) 
 
-### [Thought.private](/_private\bio\Psychology/Thought.private.md) 
+### [Thought.protect](/_protect/bio/Psychology/Thought.protect.md) 
 
-### [Thought.personal](/_personal\bio\Psychology/Thought.personal.md) 
+### [Thought.private](/_private/bio/Psychology/Thought.private.md) 
 
-### [Thought.secret](/_secret\bio\Psychology/Thought.secret.md)
+### [Thought.personal](/_personal/bio/Psychology/Thought.personal.md) 
+
+### [Thought.secret](/_secret/bio/Psychology/Thought.secret.md)
 

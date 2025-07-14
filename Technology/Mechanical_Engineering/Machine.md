@@ -27,19 +27,19 @@ has_id_wikidata: Q11019
 > [Wikipedia](https://en.wikipedia.org/wiki/Machine) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Machine.public](/_public\Technology\Mechanical_Engineering/Machine.public.md) 
+### [Machine](/_Standards/Technology/Mechanical_Engineering/Machine.md) 
 
-### [Machine.internal](/_internal\Technology\Mechanical_Engineering/Machine.internal.md) 
+### [Machine.public](/_public/Technology/Mechanical_Engineering/Machine.public.md) 
 
-### [Machine.protect](/_protect\Technology\Mechanical_Engineering/Machine.protect.md) 
+### [Machine.internal](/_internal/Technology/Mechanical_Engineering/Machine.internal.md) 
 
-### [Machine.private](/_private\Technology\Mechanical_Engineering/Machine.private.md) 
+### [Machine.protect](/_protect/Technology/Mechanical_Engineering/Machine.protect.md) 
 
-### [Machine.personal](/_personal\Technology\Mechanical_Engineering/Machine.personal.md) 
+### [Machine.private](/_private/Technology/Mechanical_Engineering/Machine.private.md) 
 
-### [Machine.secret](/_secret\Technology\Mechanical_Engineering/Machine.secret.md)
+### [Machine.personal](/_personal/Technology/Mechanical_Engineering/Machine.personal.md) 
+
+### [Machine.secret](/_secret/Technology/Mechanical_Engineering/Machine.secret.md)
 

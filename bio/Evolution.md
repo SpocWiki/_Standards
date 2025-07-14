@@ -76,15 +76,17 @@ Dewey_Decimal_Classification: 576
 
 ## Confidential Links & Embeds: 
 
-### [Evolution.public](/_public\bio/Evolution.public.md) 
+### [Evolution](/_Standards/bio/Evolution.md) 
 
-### [Evolution.internal](/_internal\bio/Evolution.internal.md) 
+### [Evolution.public](/_public/bio/Evolution.public.md) 
 
-### [Evolution.protect](/_protect\bio/Evolution.protect.md) 
+### [Evolution.internal](/_internal/bio/Evolution.internal.md) 
 
-### [Evolution.private](/_private\bio/Evolution.private.md) 
+### [Evolution.protect](/_protect/bio/Evolution.protect.md) 
 
-### [Evolution.personal](/_personal\bio/Evolution.personal.md) 
+### [Evolution.private](/_private/bio/Evolution.private.md) 
 
-### [Evolution.secret](/_secret\bio/Evolution.secret.md)
+### [Evolution.personal](/_personal/bio/Evolution.personal.md) 
+
+### [Evolution.secret](/_secret/bio/Evolution.secret.md)
 

@@ -14,15 +14,17 @@ has_id_wikidata: Q11650
 
 ## Confidential Links & Embeds: 
 
-### [Electronics.public](/_public\Technology/Electronics.public.md) 
+### [Electronics](/_Standards/Technology/Electronics.md) 
 
-### [Electronics.internal](/_internal\Technology/Electronics.internal.md) 
+### [Electronics.public](/_public/Technology/Electronics.public.md) 
 
-### [Electronics.protect](/_protect\Technology/Electronics.protect.md) 
+### [Electronics.internal](/_internal/Technology/Electronics.internal.md) 
 
-### [Electronics.private](/_private\Technology/Electronics.private.md) 
+### [Electronics.protect](/_protect/Technology/Electronics.protect.md) 
 
-### [Electronics.personal](/_personal\Technology/Electronics.personal.md) 
+### [Electronics.private](/_private/Technology/Electronics.private.md) 
 
-### [Electronics.secret](/_secret\Technology/Electronics.secret.md)
+### [Electronics.personal](/_personal/Technology/Electronics.personal.md) 
+
+### [Electronics.secret](/_secret/Technology/Electronics.secret.md)
 

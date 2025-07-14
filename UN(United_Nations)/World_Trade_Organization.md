@@ -79,15 +79,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### [World_Trade_Organization.public](/_public\UN(United_Nations)/World_Trade_Organization.public.md) 
+### [World_Trade_Organization](/_Standards/UN(United_Nations)/World_Trade_Organization.md) 
 
-### [World_Trade_Organization.internal](/_internal\UN(United_Nations)/World_Trade_Organization.internal.md) 
+### [World_Trade_Organization.public](/_public/UN(United_Nations)/World_Trade_Organization.public.md) 
 
-### [World_Trade_Organization.protect](/_protect\UN(United_Nations)/World_Trade_Organization.protect.md) 
+### [World_Trade_Organization.internal](/_internal/UN(United_Nations)/World_Trade_Organization.internal.md) 
 
-### [World_Trade_Organization.private](/_private\UN(United_Nations)/World_Trade_Organization.private.md) 
+### [World_Trade_Organization.protect](/_protect/UN(United_Nations)/World_Trade_Organization.protect.md) 
 
-### [World_Trade_Organization.personal](/_personal\UN(United_Nations)/World_Trade_Organization.personal.md) 
+### [World_Trade_Organization.private](/_private/UN(United_Nations)/World_Trade_Organization.private.md) 
 
-### [World_Trade_Organization.secret](/_secret\UN(United_Nations)/World_Trade_Organization.secret.md)
+### [World_Trade_Organization.personal](/_personal/UN(United_Nations)/World_Trade_Organization.personal.md) 
+
+### [World_Trade_Organization.secret](/_secret/UN(United_Nations)/World_Trade_Organization.secret.md)
 

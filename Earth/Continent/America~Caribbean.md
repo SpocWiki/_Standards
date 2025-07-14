@@ -21,15 +21,17 @@ markerFolder: ./America~Caribbean/
 
 ## Confidential Links & Embeds: 
 
-### [America~Caribbean.public](/_public\Earth\Continent/America~Caribbean.public.md) 
+### [America~Caribbean](/_Standards/Earth/Continent/America~Caribbean.md) 
 
-### [America~Caribbean.internal](/_internal\Earth\Continent/America~Caribbean.internal.md) 
+### [America~Caribbean.public](/_public/Earth/Continent/America~Caribbean.public.md) 
 
-### [America~Caribbean.protect](/_protect\Earth\Continent/America~Caribbean.protect.md) 
+### [America~Caribbean.internal](/_internal/Earth/Continent/America~Caribbean.internal.md) 
 
-### [America~Caribbean.private](/_private\Earth\Continent/America~Caribbean.private.md) 
+### [America~Caribbean.protect](/_protect/Earth/Continent/America~Caribbean.protect.md) 
 
-### [America~Caribbean.personal](/_personal\Earth\Continent/America~Caribbean.personal.md) 
+### [America~Caribbean.private](/_private/Earth/Continent/America~Caribbean.private.md) 
 
-### [America~Caribbean.secret](/_secret\Earth\Continent/America~Caribbean.secret.md)
+### [America~Caribbean.personal](/_personal/Earth/Continent/America~Caribbean.personal.md) 
+
+### [America~Caribbean.secret](/_secret/Earth/Continent/America~Caribbean.secret.md)
 

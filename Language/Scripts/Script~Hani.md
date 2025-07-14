@@ -12,15 +12,17 @@ Hanja Script is used less commonly in [[../Lang~Family/LangFamily-Koreanic/Lang-
 
 ## Confidential Links & Embeds: 
 
-### [Script~Hani.public](/_public\Language\Scripts/Script~Hani.public.md) 
+### [Script~Hani](/_Standards/Language/Scripts/Script~Hani.md) 
 
-### [Script~Hani.internal](/_internal\Language\Scripts/Script~Hani.internal.md) 
+### [Script~Hani.public](/_public/Language/Scripts/Script~Hani.public.md) 
 
-### [Script~Hani.protect](/_protect\Language\Scripts/Script~Hani.protect.md) 
+### [Script~Hani.internal](/_internal/Language/Scripts/Script~Hani.internal.md) 
 
-### [Script~Hani.private](/_private\Language\Scripts/Script~Hani.private.md) 
+### [Script~Hani.protect](/_protect/Language/Scripts/Script~Hani.protect.md) 
 
-### [Script~Hani.personal](/_personal\Language\Scripts/Script~Hani.personal.md) 
+### [Script~Hani.private](/_private/Language/Scripts/Script~Hani.private.md) 
 
-### [Script~Hani.secret](/_secret\Language\Scripts/Script~Hani.secret.md)
+### [Script~Hani.personal](/_personal/Language/Scripts/Script~Hani.personal.md) 
+
+### [Script~Hani.secret](/_secret/Language/Scripts/Script~Hani.secret.md)
 

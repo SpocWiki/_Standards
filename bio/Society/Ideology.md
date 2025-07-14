@@ -24,19 +24,19 @@ Iconclass_notation: 52C52
 > [Wikipedia](https://en.wikipedia.org/wiki/Ideology)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ideology.public](/_public\bio\Society/Ideology.public.md) 
+### [Ideology](/_Standards/bio/Society/Ideology.md) 
 
-### [Ideology.internal](/_internal\bio\Society/Ideology.internal.md) 
+### [Ideology.public](/_public/bio/Society/Ideology.public.md) 
 
-### [Ideology.protect](/_protect\bio\Society/Ideology.protect.md) 
+### [Ideology.internal](/_internal/bio/Society/Ideology.internal.md) 
 
-### [Ideology.private](/_private\bio\Society/Ideology.private.md) 
+### [Ideology.protect](/_protect/bio/Society/Ideology.protect.md) 
 
-### [Ideology.personal](/_personal\bio\Society/Ideology.personal.md) 
+### [Ideology.private](/_private/bio/Society/Ideology.private.md) 
 
-### [Ideology.secret](/_secret\bio\Society/Ideology.secret.md)
+### [Ideology.personal](/_personal/bio/Society/Ideology.personal.md) 
+
+### [Ideology.secret](/_secret/bio/Society/Ideology.secret.md)
 

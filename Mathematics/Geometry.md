@@ -67,15 +67,17 @@ Krugosvet_article:
 
 ## Confidential Links & Embeds: 
 
-### [Geometry.public](/_public\Mathematics/Geometry.public.md) 
+### [Geometry](/_Standards/Mathematics/Geometry.md) 
 
-### [Geometry.internal](/_internal\Mathematics/Geometry.internal.md) 
+### [Geometry.public](/_public/Mathematics/Geometry.public.md) 
 
-### [Geometry.protect](/_protect\Mathematics/Geometry.protect.md) 
+### [Geometry.internal](/_internal/Mathematics/Geometry.internal.md) 
 
-### [Geometry.private](/_private\Mathematics/Geometry.private.md) 
+### [Geometry.protect](/_protect/Mathematics/Geometry.protect.md) 
 
-### [Geometry.personal](/_personal\Mathematics/Geometry.personal.md) 
+### [Geometry.private](/_private/Mathematics/Geometry.private.md) 
 
-### [Geometry.secret](/_secret\Mathematics/Geometry.secret.md)
+### [Geometry.personal](/_personal/Mathematics/Geometry.personal.md) 
+
+### [Geometry.secret](/_secret/Mathematics/Geometry.secret.md)
 

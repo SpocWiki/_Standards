@@ -32,22 +32,19 @@ Commons_category: Respiration
 > [Wikipedia](https://en.wikipedia.org/wiki/Breathing)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Breathing.public](/_public\bio\Metabolism/Breathing.public.md) 
+### [Breathing](/_Standards/bio/Metabolism/Breathing.md) 
 
-### [Breathing.internal](/_internal\bio\Metabolism/Breathing.internal.md) 
+### [Breathing.public](/_public/bio/Metabolism/Breathing.public.md) 
 
-### [Breathing.protect](/_protect\bio\Metabolism/Breathing.protect.md) 
+### [Breathing.internal](/_internal/bio/Metabolism/Breathing.internal.md) 
 
-### [Breathing.private](/_private\bio\Metabolism/Breathing.private.md) 
+### [Breathing.protect](/_protect/bio/Metabolism/Breathing.protect.md) 
 
-### [Breathing.personal](/_personal\bio\Metabolism/Breathing.personal.md) 
+### [Breathing.private](/_private/bio/Metabolism/Breathing.private.md) 
 
-### [Breathing.secret](/_secret\bio\Metabolism/Breathing.secret.md)
+### [Breathing.personal](/_personal/bio/Metabolism/Breathing.personal.md) 
+
+### [Breathing.secret](/_secret/bio/Metabolism/Breathing.secret.md)
 

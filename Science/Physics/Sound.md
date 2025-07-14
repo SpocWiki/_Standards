@@ -50,19 +50,19 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/23.%20%D0%97%D0%B2%D1
 > [Wikipedia](https://en.wikipedia.org/wiki/Sound)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Sound.public](/_public\Science\Physics/Sound.public.md) 
+### [Sound](/_Standards/Science/Physics/Sound.md) 
 
-### [Sound.internal](/_internal\Science\Physics/Sound.internal.md) 
+### [Sound.public](/_public/Science/Physics/Sound.public.md) 
 
-### [Sound.protect](/_protect\Science\Physics/Sound.protect.md) 
+### [Sound.internal](/_internal/Science/Physics/Sound.internal.md) 
 
-### [Sound.private](/_private\Science\Physics/Sound.private.md) 
+### [Sound.protect](/_protect/Science/Physics/Sound.protect.md) 
 
-### [Sound.personal](/_personal\Science\Physics/Sound.personal.md) 
+### [Sound.private](/_private/Science/Physics/Sound.private.md) 
 
-### [Sound.secret](/_secret\Science\Physics/Sound.secret.md)
+### [Sound.personal](/_personal/Science/Physics/Sound.personal.md) 
+
+### [Sound.secret](/_secret/Science/Physics/Sound.secret.md)
 

@@ -59,6 +59,8 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
+### [HTML](/_Standards/HTML.md) 
+
 ### [HTML.public](/_public/HTML.public.md) 
 
 ### [HTML.internal](/_internal/HTML.internal.md) 

@@ -130,15 +130,17 @@ There is also a rev=Attribute for the Reverse Relation, but that was eliminated 
 
 ## Confidential Links & Embeds: 
 
-### [@rel.public](/_public\W3C\RDF(Resource_Description_Framework)/@rel.public.md) 
+### [@rel](/_Standards/W3C/RDF(Resource_Description_Framework)/@rel.md) 
 
-### [@rel.internal](/_internal\W3C\RDF(Resource_Description_Framework)/@rel.internal.md) 
+### [@rel.public](/_public/W3C/RDF(Resource_Description_Framework)/@rel.public.md) 
 
-### [@rel.protect](/_protect\W3C\RDF(Resource_Description_Framework)/@rel.protect.md) 
+### [@rel.internal](/_internal/W3C/RDF(Resource_Description_Framework)/@rel.internal.md) 
 
-### [@rel.private](/_private\W3C\RDF(Resource_Description_Framework)/@rel.private.md) 
+### [@rel.protect](/_protect/W3C/RDF(Resource_Description_Framework)/@rel.protect.md) 
 
-### [@rel.personal](/_personal\W3C\RDF(Resource_Description_Framework)/@rel.personal.md) 
+### [@rel.private](/_private/W3C/RDF(Resource_Description_Framework)/@rel.private.md) 
 
-### [@rel.secret](/_secret\W3C\RDF(Resource_Description_Framework)/@rel.secret.md)
+### [@rel.personal](/_personal/W3C/RDF(Resource_Description_Framework)/@rel.personal.md) 
+
+### [@rel.secret](/_secret/W3C/RDF(Resource_Description_Framework)/@rel.secret.md)
 

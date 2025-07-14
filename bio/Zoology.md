@@ -26,15 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Zoology.public](/_public\bio/Zoology.public.md) 
+### [Zoology](/_Standards/bio/Zoology.md) 
 
-### [Zoology.internal](/_internal\bio/Zoology.internal.md) 
+### [Zoology.public](/_public/bio/Zoology.public.md) 
 
-### [Zoology.protect](/_protect\bio/Zoology.protect.md) 
+### [Zoology.internal](/_internal/bio/Zoology.internal.md) 
 
-### [Zoology.private](/_private\bio/Zoology.private.md) 
+### [Zoology.protect](/_protect/bio/Zoology.protect.md) 
 
-### [Zoology.personal](/_personal\bio/Zoology.personal.md) 
+### [Zoology.private](/_private/bio/Zoology.private.md) 
 
-### [Zoology.secret](/_secret\bio/Zoology.secret.md)
+### [Zoology.personal](/_personal/bio/Zoology.personal.md) 
+
+### [Zoology.secret](/_secret/bio/Zoology.secret.md)
 

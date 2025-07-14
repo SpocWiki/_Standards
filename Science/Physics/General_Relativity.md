@@ -63,19 +63,19 @@ Dewey_Decimal_Classification: 530.11
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20relativity)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [General_Relativity.public](/_public\Science\Physics/General_Relativity.public.md) 
+### [General_Relativity](/_Standards/Science/Physics/General_Relativity.md) 
 
-### [General_Relativity.internal](/_internal\Science\Physics/General_Relativity.internal.md) 
+### [General_Relativity.public](/_public/Science/Physics/General_Relativity.public.md) 
 
-### [General_Relativity.protect](/_protect\Science\Physics/General_Relativity.protect.md) 
+### [General_Relativity.internal](/_internal/Science/Physics/General_Relativity.internal.md) 
 
-### [General_Relativity.private](/_private\Science\Physics/General_Relativity.private.md) 
+### [General_Relativity.protect](/_protect/Science/Physics/General_Relativity.protect.md) 
 
-### [General_Relativity.personal](/_personal\Science\Physics/General_Relativity.personal.md) 
+### [General_Relativity.private](/_private/Science/Physics/General_Relativity.private.md) 
 
-### [General_Relativity.secret](/_secret\Science\Physics/General_Relativity.secret.md)
+### [General_Relativity.personal](/_personal/Science/Physics/General_Relativity.personal.md) 
+
+### [General_Relativity.secret](/_secret/Science/Physics/General_Relativity.secret.md)
 

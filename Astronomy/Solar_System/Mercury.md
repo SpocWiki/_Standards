@@ -21,15 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Mercury.public](/_public\Astronomy\Solar_System/Mercury.public.md) 
+### [Mercury](/_Standards/Astronomy/Solar_System/Mercury.md) 
 
-### [Mercury.internal](/_internal\Astronomy\Solar_System/Mercury.internal.md) 
+### [Mercury.public](/_public/Astronomy/Solar_System/Mercury.public.md) 
 
-### [Mercury.protect](/_protect\Astronomy\Solar_System/Mercury.protect.md) 
+### [Mercury.internal](/_internal/Astronomy/Solar_System/Mercury.internal.md) 
 
-### [Mercury.private](/_private\Astronomy\Solar_System/Mercury.private.md) 
+### [Mercury.protect](/_protect/Astronomy/Solar_System/Mercury.protect.md) 
 
-### [Mercury.personal](/_personal\Astronomy\Solar_System/Mercury.personal.md) 
+### [Mercury.private](/_private/Astronomy/Solar_System/Mercury.private.md) 
 
-### [Mercury.secret](/_secret\Astronomy\Solar_System/Mercury.secret.md)
+### [Mercury.personal](/_personal/Astronomy/Solar_System/Mercury.personal.md) 
+
+### [Mercury.secret](/_secret/Astronomy/Solar_System/Mercury.secret.md)
 

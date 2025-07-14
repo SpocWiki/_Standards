@@ -4,6 +4,8 @@
 
 ## Confidential Links & Embeds: 
 
+### [foaf](/_Standards/foaf.md) 
+
 ### [foaf.public](/_public/foaf.public.md) 
 
 ### [foaf.internal](/_internal/foaf.internal.md) 

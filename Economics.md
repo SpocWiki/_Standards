@@ -148,6 +148,8 @@ IPTC_NewsCode: mediatopic/20000745
 
 ## Confidential Links & Embeds: 
 
+### [Economics](/_Standards/Economics.md) 
+
 ### [Economics.public](/_public/Economics.public.md) 
 
 ### [Economics.internal](/_internal/Economics.internal.md) 

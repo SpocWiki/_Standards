@@ -46,19 +46,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Priestley)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Priestley,Joseph.public](/_public\chemic\Chemist/Priestley,Joseph.public.md) 
+### [Priestley,Joseph](/_Standards/chemic/Chemist/Priestley,Joseph.md) 
 
-### [Priestley,Joseph.internal](/_internal\chemic\Chemist/Priestley,Joseph.internal.md) 
+### [Priestley,Joseph.public](/_public/chemic/Chemist/Priestley,Joseph.public.md) 
 
-### [Priestley,Joseph.protect](/_protect\chemic\Chemist/Priestley,Joseph.protect.md) 
+### [Priestley,Joseph.internal](/_internal/chemic/Chemist/Priestley,Joseph.internal.md) 
 
-### [Priestley,Joseph.private](/_private\chemic\Chemist/Priestley,Joseph.private.md) 
+### [Priestley,Joseph.protect](/_protect/chemic/Chemist/Priestley,Joseph.protect.md) 
 
-### [Priestley,Joseph.personal](/_personal\chemic\Chemist/Priestley,Joseph.personal.md) 
+### [Priestley,Joseph.private](/_private/chemic/Chemist/Priestley,Joseph.private.md) 
 
-### [Priestley,Joseph.secret](/_secret\chemic\Chemist/Priestley,Joseph.secret.md)
+### [Priestley,Joseph.personal](/_personal/chemic/Chemist/Priestley,Joseph.personal.md) 
+
+### [Priestley,Joseph.secret](/_secret/chemic/Chemist/Priestley,Joseph.secret.md)
 

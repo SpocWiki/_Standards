@@ -50,15 +50,17 @@ hashtag: industries
 
 ## Confidential Links & Embeds: 
 
-### [Industry.public](/_public\Economics/Industry.public.md) 
+### [Industry](/_Standards/Economics/Industry.md) 
 
-### [Industry.internal](/_internal\Economics/Industry.internal.md) 
+### [Industry.public](/_public/Economics/Industry.public.md) 
 
-### [Industry.protect](/_protect\Economics/Industry.protect.md) 
+### [Industry.internal](/_internal/Economics/Industry.internal.md) 
 
-### [Industry.private](/_private\Economics/Industry.private.md) 
+### [Industry.protect](/_protect/Economics/Industry.protect.md) 
 
-### [Industry.personal](/_personal\Economics/Industry.personal.md) 
+### [Industry.private](/_private/Economics/Industry.private.md) 
 
-### [Industry.secret](/_secret\Economics/Industry.secret.md)
+### [Industry.personal](/_personal/Economics/Industry.personal.md) 
+
+### [Industry.secret](/_secret/Economics/Industry.secret.md)
 

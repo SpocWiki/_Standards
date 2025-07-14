@@ -26,15 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Reproduction.public](/_public\bio/Reproduction.public.md) 
+### [Reproduction](/_Standards/bio/Reproduction.md) 
 
-### [Reproduction.internal](/_internal\bio/Reproduction.internal.md) 
+### [Reproduction.public](/_public/bio/Reproduction.public.md) 
 
-### [Reproduction.protect](/_protect\bio/Reproduction.protect.md) 
+### [Reproduction.internal](/_internal/bio/Reproduction.internal.md) 
 
-### [Reproduction.private](/_private\bio/Reproduction.private.md) 
+### [Reproduction.protect](/_protect/bio/Reproduction.protect.md) 
 
-### [Reproduction.personal](/_personal\bio/Reproduction.personal.md) 
+### [Reproduction.private](/_private/bio/Reproduction.private.md) 
 
-### [Reproduction.secret](/_secret\bio/Reproduction.secret.md)
+### [Reproduction.personal](/_personal/bio/Reproduction.personal.md) 
+
+### [Reproduction.secret](/_secret/bio/Reproduction.secret.md)
 

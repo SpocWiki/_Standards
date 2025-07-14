@@ -44,15 +44,17 @@ U_S_National_Archives_Identifier: 10643499
 
 ## Confidential Links & Embeds: 
 
-### [Nature.public](/_public\Science/Nature.public.md) 
+### [Nature](/_Standards/Science/Nature.md) 
 
-### [Nature.internal](/_internal\Science/Nature.internal.md) 
+### [Nature.public](/_public/Science/Nature.public.md) 
 
-### [Nature.protect](/_protect\Science/Nature.protect.md) 
+### [Nature.internal](/_internal/Science/Nature.internal.md) 
 
-### [Nature.private](/_private\Science/Nature.private.md) 
+### [Nature.protect](/_protect/Science/Nature.protect.md) 
 
-### [Nature.personal](/_personal\Science/Nature.personal.md) 
+### [Nature.private](/_private/Science/Nature.private.md) 
 
-### [Nature.secret](/_secret\Science/Nature.secret.md)
+### [Nature.personal](/_personal/Science/Nature.personal.md) 
+
+### [Nature.secret](/_secret/Science/Nature.secret.md)
 

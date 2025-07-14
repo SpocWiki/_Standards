@@ -62,15 +62,17 @@ numeric_value: 3.141592653589793
 
 ## Confidential Links & Embeds: 
 
-### [Pi.public](/_public\Mathematics/Pi.public.md) 
+### [Pi](/_Standards/Mathematics/Pi.md) 
 
-### [Pi.internal](/_internal\Mathematics/Pi.internal.md) 
+### [Pi.public](/_public/Mathematics/Pi.public.md) 
 
-### [Pi.protect](/_protect\Mathematics/Pi.protect.md) 
+### [Pi.internal](/_internal/Mathematics/Pi.internal.md) 
 
-### [Pi.private](/_private\Mathematics/Pi.private.md) 
+### [Pi.protect](/_protect/Mathematics/Pi.protect.md) 
 
-### [Pi.personal](/_personal\Mathematics/Pi.personal.md) 
+### [Pi.private](/_private/Mathematics/Pi.private.md) 
 
-### [Pi.secret](/_secret\Mathematics/Pi.secret.md)
+### [Pi.personal](/_personal/Mathematics/Pi.personal.md) 
+
+### [Pi.secret](/_secret/Mathematics/Pi.secret.md)
 

@@ -912,15 +912,17 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
 
 ## Confidential Links & Embeds: 
 
-### [Eukaryotes.public](/_public\bio\bio~Domain/Eukaryotes.public.md) 
+### [Eukaryotes](/_Standards/bio/bio~Domain/Eukaryotes.md) 
 
-### [Eukaryotes.internal](/_internal\bio\bio~Domain/Eukaryotes.internal.md) 
+### [Eukaryotes.public](/_public/bio/bio~Domain/Eukaryotes.public.md) 
 
-### [Eukaryotes.protect](/_protect\bio\bio~Domain/Eukaryotes.protect.md) 
+### [Eukaryotes.internal](/_internal/bio/bio~Domain/Eukaryotes.internal.md) 
 
-### [Eukaryotes.private](/_private\bio\bio~Domain/Eukaryotes.private.md) 
+### [Eukaryotes.protect](/_protect/bio/bio~Domain/Eukaryotes.protect.md) 
 
-### [Eukaryotes.personal](/_personal\bio\bio~Domain/Eukaryotes.personal.md) 
+### [Eukaryotes.private](/_private/bio/bio~Domain/Eukaryotes.private.md) 
 
-### [Eukaryotes.secret](/_secret\bio\bio~Domain/Eukaryotes.secret.md)
+### [Eukaryotes.personal](/_personal/bio/bio~Domain/Eukaryotes.personal.md) 
+
+### [Eukaryotes.secret](/_secret/bio/bio~Domain/Eukaryotes.secret.md)
 

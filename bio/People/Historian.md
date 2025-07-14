@@ -11,22 +11,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Historian) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Historian.public](/_public\bio\People/Historian.public.md) 
+### [Historian](/_Standards/bio/People/Historian.md) 
 
-### [Historian.internal](/_internal\bio\People/Historian.internal.md) 
+### [Historian.public](/_public/bio/People/Historian.public.md) 
 
-### [Historian.protect](/_protect\bio\People/Historian.protect.md) 
+### [Historian.internal](/_internal/bio/People/Historian.internal.md) 
 
-### [Historian.private](/_private\bio\People/Historian.private.md) 
+### [Historian.protect](/_protect/bio/People/Historian.protect.md) 
 
-### [Historian.personal](/_personal\bio\People/Historian.personal.md) 
+### [Historian.private](/_private/bio/People/Historian.private.md) 
 
-### [Historian.secret](/_secret\bio\People/Historian.secret.md)
+### [Historian.personal](/_personal/bio/People/Historian.personal.md) 
+
+### [Historian.secret](/_secret/bio/People/Historian.secret.md)
 

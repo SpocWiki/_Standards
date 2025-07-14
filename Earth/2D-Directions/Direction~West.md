@@ -21,15 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Direction~West.public](/_public\Earth\2D-Directions/Direction~West.public.md) 
+### [Direction~West](/_Standards/Earth/2D-Directions/Direction~West.md) 
 
-### [Direction~West.internal](/_internal\Earth\2D-Directions/Direction~West.internal.md) 
+### [Direction~West.public](/_public/Earth/2D-Directions/Direction~West.public.md) 
 
-### [Direction~West.protect](/_protect\Earth\2D-Directions/Direction~West.protect.md) 
+### [Direction~West.internal](/_internal/Earth/2D-Directions/Direction~West.internal.md) 
 
-### [Direction~West.private](/_private\Earth\2D-Directions/Direction~West.private.md) 
+### [Direction~West.protect](/_protect/Earth/2D-Directions/Direction~West.protect.md) 
 
-### [Direction~West.personal](/_personal\Earth\2D-Directions/Direction~West.personal.md) 
+### [Direction~West.private](/_private/Earth/2D-Directions/Direction~West.private.md) 
 
-### [Direction~West.secret](/_secret\Earth\2D-Directions/Direction~West.secret.md)
+### [Direction~West.personal](/_personal/Earth/2D-Directions/Direction~West.personal.md) 
+
+### [Direction~West.secret](/_secret/Earth/2D-Directions/Direction~West.secret.md)
 

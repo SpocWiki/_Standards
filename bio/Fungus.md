@@ -78,15 +78,17 @@ MeSH_tree_code: B01.300
 
 ## Confidential Links & Embeds: 
 
-### [Fungus.public](/_public\bio/Fungus.public.md) 
+### [Fungus](/_Standards/bio/Fungus.md) 
 
-### [Fungus.internal](/_internal\bio/Fungus.internal.md) 
+### [Fungus.public](/_public/bio/Fungus.public.md) 
 
-### [Fungus.protect](/_protect\bio/Fungus.protect.md) 
+### [Fungus.internal](/_internal/bio/Fungus.internal.md) 
 
-### [Fungus.private](/_private\bio/Fungus.private.md) 
+### [Fungus.protect](/_protect/bio/Fungus.protect.md) 
 
-### [Fungus.personal](/_personal\bio/Fungus.personal.md) 
+### [Fungus.private](/_private/bio/Fungus.private.md) 
 
-### [Fungus.secret](/_secret\bio/Fungus.secret.md)
+### [Fungus.personal](/_personal/bio/Fungus.personal.md) 
+
+### [Fungus.secret](/_secret/bio/Fungus.secret.md)
 

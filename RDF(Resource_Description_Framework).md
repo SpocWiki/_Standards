@@ -5,6 +5,8 @@ RDFS extends this with Classes which define Properties and Relations.
 
 ## Confidential Links & Embeds: 
 
+### [RDF(Resource_Description_Framework)](/_Standards/RDF(Resource_Description_Framework).md) 
+
 ### [RDF(Resource_Description_Framework).public](/_public/RDF(Resource_Description_Framework).public.md) 
 
 ### [RDF(Resource_Description_Framework).internal](/_internal/RDF(Resource_Description_Framework).internal.md) 

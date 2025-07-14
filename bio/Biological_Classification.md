@@ -83,15 +83,17 @@ More granular Subdivisions are created by Prefixes to the Rank and differing Suf
 
 ## Confidential Links & Embeds: 
 
-### [Biological_Classification.public](/_public\bio/Biological_Classification.public.md) 
+### [Biological_Classification](/_Standards/bio/Biological_Classification.md) 
 
-### [Biological_Classification.internal](/_internal\bio/Biological_Classification.internal.md) 
+### [Biological_Classification.public](/_public/bio/Biological_Classification.public.md) 
 
-### [Biological_Classification.protect](/_protect\bio/Biological_Classification.protect.md) 
+### [Biological_Classification.internal](/_internal/bio/Biological_Classification.internal.md) 
 
-### [Biological_Classification.private](/_private\bio/Biological_Classification.private.md) 
+### [Biological_Classification.protect](/_protect/bio/Biological_Classification.protect.md) 
 
-### [Biological_Classification.personal](/_personal\bio/Biological_Classification.personal.md) 
+### [Biological_Classification.private](/_private/bio/Biological_Classification.private.md) 
 
-### [Biological_Classification.secret](/_secret\bio/Biological_Classification.secret.md)
+### [Biological_Classification.personal](/_personal/bio/Biological_Classification.personal.md) 
+
+### [Biological_Classification.secret](/_secret/bio/Biological_Classification.secret.md)
 

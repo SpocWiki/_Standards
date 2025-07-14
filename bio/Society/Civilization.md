@@ -51,20 +51,19 @@ Colon_Classification: "Y:1"
 > [Wikipedia](https://en.wikipedia.org/wiki/Civilization) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Civilization.public](/_public\bio\Society/Civilization.public.md) 
+### [Civilization](/_Standards/bio/Society/Civilization.md) 
 
-### [Civilization.internal](/_internal\bio\Society/Civilization.internal.md) 
+### [Civilization.public](/_public/bio/Society/Civilization.public.md) 
 
-### [Civilization.protect](/_protect\bio\Society/Civilization.protect.md) 
+### [Civilization.internal](/_internal/bio/Society/Civilization.internal.md) 
 
-### [Civilization.private](/_private\bio\Society/Civilization.private.md) 
+### [Civilization.protect](/_protect/bio/Society/Civilization.protect.md) 
 
-### [Civilization.personal](/_personal\bio\Society/Civilization.personal.md) 
+### [Civilization.private](/_private/bio/Society/Civilization.private.md) 
 
-### [Civilization.secret](/_secret\bio\Society/Civilization.secret.md)
+### [Civilization.personal](/_personal/bio/Society/Civilization.personal.md) 
+
+### [Civilization.secret](/_secret/bio/Society/Civilization.secret.md)
 

@@ -106,19 +106,19 @@ Commons_category: Psychotherapy
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychotherapy) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Psychotherapy.public](/_public\bio\Psychology/Psychotherapy.public.md) 
+### [Psychotherapy](/_Standards/bio/Psychology/Psychotherapy.md) 
 
-### [Psychotherapy.internal](/_internal\bio\Psychology/Psychotherapy.internal.md) 
+### [Psychotherapy.public](/_public/bio/Psychology/Psychotherapy.public.md) 
 
-### [Psychotherapy.protect](/_protect\bio\Psychology/Psychotherapy.protect.md) 
+### [Psychotherapy.internal](/_internal/bio/Psychology/Psychotherapy.internal.md) 
 
-### [Psychotherapy.private](/_private\bio\Psychology/Psychotherapy.private.md) 
+### [Psychotherapy.protect](/_protect/bio/Psychology/Psychotherapy.protect.md) 
 
-### [Psychotherapy.personal](/_personal\bio\Psychology/Psychotherapy.personal.md) 
+### [Psychotherapy.private](/_private/bio/Psychology/Psychotherapy.private.md) 
 
-### [Psychotherapy.secret](/_secret\bio\Psychology/Psychotherapy.secret.md)
+### [Psychotherapy.personal](/_personal/bio/Psychology/Psychotherapy.personal.md) 
+
+### [Psychotherapy.secret](/_secret/bio/Psychology/Psychotherapy.secret.md)
 

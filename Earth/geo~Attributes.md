@@ -88,15 +88,17 @@ Here are some with their Type and Description:
 
 ## Confidential Links & Embeds: 
 
-### [geo~Attributes.public](/_public\Earth/geo~Attributes.public.md) 
+### [geo~Attributes](/_Standards/Earth/geo~Attributes.md) 
 
-### [geo~Attributes.internal](/_internal\Earth/geo~Attributes.internal.md) 
+### [geo~Attributes.public](/_public/Earth/geo~Attributes.public.md) 
 
-### [geo~Attributes.protect](/_protect\Earth/geo~Attributes.protect.md) 
+### [geo~Attributes.internal](/_internal/Earth/geo~Attributes.internal.md) 
 
-### [geo~Attributes.private](/_private\Earth/geo~Attributes.private.md) 
+### [geo~Attributes.protect](/_protect/Earth/geo~Attributes.protect.md) 
 
-### [geo~Attributes.personal](/_personal\Earth/geo~Attributes.personal.md) 
+### [geo~Attributes.private](/_private/Earth/geo~Attributes.private.md) 
 
-### [geo~Attributes.secret](/_secret\Earth/geo~Attributes.secret.md)
+### [geo~Attributes.personal](/_personal/Earth/geo~Attributes.personal.md) 
+
+### [geo~Attributes.secret](/_secret/Earth/geo~Attributes.secret.md)
 

@@ -6,15 +6,17 @@ icon: ril_file_text
 
 ## Confidential Links & Embeds: 
 
-### [Texts.public](/_public\schema-org\Property/Texts.public.md) 
+### [Texts](/_Standards/schema-org/Property/Texts.md) 
 
-### [Texts.internal](/_internal\schema-org\Property/Texts.internal.md) 
+### [Texts.public](/_public/schema-org/Property/Texts.public.md) 
 
-### [Texts.protect](/_protect\schema-org\Property/Texts.protect.md) 
+### [Texts.internal](/_internal/schema-org/Property/Texts.internal.md) 
 
-### [Texts.private](/_private\schema-org\Property/Texts.private.md) 
+### [Texts.protect](/_protect/schema-org/Property/Texts.protect.md) 
 
-### [Texts.personal](/_personal\schema-org\Property/Texts.personal.md) 
+### [Texts.private](/_private/schema-org/Property/Texts.private.md) 
 
-### [Texts.secret](/_secret\schema-org\Property/Texts.secret.md)
+### [Texts.personal](/_personal/schema-org/Property/Texts.personal.md) 
+
+### [Texts.secret](/_secret/schema-org/Property/Texts.secret.md)
 

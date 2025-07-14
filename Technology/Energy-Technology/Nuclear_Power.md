@@ -18,20 +18,19 @@ has_id_wikidata: Q12739
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20power) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nuclear_Power.public](/_public\Technology\Energy-Technology/Nuclear_Power.public.md) 
+### [Nuclear_Power](/_Standards/Technology/Energy-Technology/Nuclear_Power.md) 
 
-### [Nuclear_Power.internal](/_internal\Technology\Energy-Technology/Nuclear_Power.internal.md) 
+### [Nuclear_Power.public](/_public/Technology/Energy-Technology/Nuclear_Power.public.md) 
 
-### [Nuclear_Power.protect](/_protect\Technology\Energy-Technology/Nuclear_Power.protect.md) 
+### [Nuclear_Power.internal](/_internal/Technology/Energy-Technology/Nuclear_Power.internal.md) 
 
-### [Nuclear_Power.private](/_private\Technology\Energy-Technology/Nuclear_Power.private.md) 
+### [Nuclear_Power.protect](/_protect/Technology/Energy-Technology/Nuclear_Power.protect.md) 
 
-### [Nuclear_Power.personal](/_personal\Technology\Energy-Technology/Nuclear_Power.personal.md) 
+### [Nuclear_Power.private](/_private/Technology/Energy-Technology/Nuclear_Power.private.md) 
 
-### [Nuclear_Power.secret](/_secret\Technology\Energy-Technology/Nuclear_Power.secret.md)
+### [Nuclear_Power.personal](/_personal/Technology/Energy-Technology/Nuclear_Power.personal.md) 
+
+### [Nuclear_Power.secret](/_secret/Technology/Energy-Technology/Nuclear_Power.secret.md)
 

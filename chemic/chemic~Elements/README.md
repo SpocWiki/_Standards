@@ -16,15 +16,17 @@ Shared Facts about chemical Elements
 
 ## Confidential Links & Embeds: 
 
-### [README.public](/_public\chemic\chemic~Elements/README.public.md) 
+### [README](/_Standards/chemic/chemic~Elements/README.md) 
 
-### [README.internal](/_internal\chemic\chemic~Elements/README.internal.md) 
+### [README.public](/_public/chemic/chemic~Elements/README.public.md) 
 
-### [README.protect](/_protect\chemic\chemic~Elements/README.protect.md) 
+### [README.internal](/_internal/chemic/chemic~Elements/README.internal.md) 
 
-### [README.private](/_private\chemic\chemic~Elements/README.private.md) 
+### [README.protect](/_protect/chemic/chemic~Elements/README.protect.md) 
 
-### [README.personal](/_personal\chemic\chemic~Elements/README.personal.md) 
+### [README.private](/_private/chemic/chemic~Elements/README.private.md) 
 
-### [README.secret](/_secret\chemic\chemic~Elements/README.secret.md)
+### [README.personal](/_personal/chemic/chemic~Elements/README.personal.md) 
+
+### [README.secret](/_secret/chemic/chemic~Elements/README.secret.md)
 

@@ -84,15 +84,17 @@ Iconclass_notation: 49K31
 
 ## Confidential Links & Embeds: 
 
-### [Linguistics.public](/_public\Language/Linguistics.public.md) 
+### [Linguistics](/_Standards/Language/Linguistics.md) 
 
-### [Linguistics.internal](/_internal\Language/Linguistics.internal.md) 
+### [Linguistics.public](/_public/Language/Linguistics.public.md) 
 
-### [Linguistics.protect](/_protect\Language/Linguistics.protect.md) 
+### [Linguistics.internal](/_internal/Language/Linguistics.internal.md) 
 
-### [Linguistics.private](/_private\Language/Linguistics.private.md) 
+### [Linguistics.protect](/_protect/Language/Linguistics.protect.md) 
 
-### [Linguistics.personal](/_personal\Language/Linguistics.personal.md) 
+### [Linguistics.private](/_private/Language/Linguistics.private.md) 
 
-### [Linguistics.secret](/_secret\Language/Linguistics.secret.md)
+### [Linguistics.personal](/_personal/Language/Linguistics.personal.md) 
+
+### [Linguistics.secret](/_secret/Language/Linguistics.secret.md)
 

@@ -64,6 +64,8 @@ subreddit:
 
 ## Confidential Links & Embeds: 
 
+### [Technology](/_Standards/Technology.md) 
+
 ### [Technology.public](/_public/Technology.public.md) 
 
 ### [Technology.internal](/_internal/Technology.internal.md) 

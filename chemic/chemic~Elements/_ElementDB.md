@@ -554,15 +554,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_ElementDB.public](/_public\chemic\chemic~Elements/_ElementDB.public.md) 
+### [_ElementDB](/_Standards/chemic/chemic~Elements/_ElementDB.md) 
 
-### [_ElementDB.internal](/_internal\chemic\chemic~Elements/_ElementDB.internal.md) 
+### [_ElementDB.public](/_public/chemic/chemic~Elements/_ElementDB.public.md) 
 
-### [_ElementDB.protect](/_protect\chemic\chemic~Elements/_ElementDB.protect.md) 
+### [_ElementDB.internal](/_internal/chemic/chemic~Elements/_ElementDB.internal.md) 
 
-### [_ElementDB.private](/_private\chemic\chemic~Elements/_ElementDB.private.md) 
+### [_ElementDB.protect](/_protect/chemic/chemic~Elements/_ElementDB.protect.md) 
 
-### [_ElementDB.personal](/_personal\chemic\chemic~Elements/_ElementDB.personal.md) 
+### [_ElementDB.private](/_private/chemic/chemic~Elements/_ElementDB.private.md) 
 
-### [_ElementDB.secret](/_secret\chemic\chemic~Elements/_ElementDB.secret.md)
+### [_ElementDB.personal](/_personal/chemic/chemic~Elements/_ElementDB.personal.md) 
+
+### [_ElementDB.secret](/_secret/chemic/chemic~Elements/_ElementDB.secret.md)
 

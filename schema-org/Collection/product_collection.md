@@ -47,15 +47,17 @@ A set of products (either [[ProductGroup]]s or specific variants) that are liste
 
 ## Confidential Links & Embeds: 
 
-### [product_collection.public](/_public\schema-org\Collection/product_collection.public.md) 
+### [product_collection](/_Standards/schema-org/Collection/product_collection.md) 
 
-### [product_collection.internal](/_internal\schema-org\Collection/product_collection.internal.md) 
+### [product_collection.public](/_public/schema-org/Collection/product_collection.public.md) 
 
-### [product_collection.protect](/_protect\schema-org\Collection/product_collection.protect.md) 
+### [product_collection.internal](/_internal/schema-org/Collection/product_collection.internal.md) 
 
-### [product_collection.private](/_private\schema-org\Collection/product_collection.private.md) 
+### [product_collection.protect](/_protect/schema-org/Collection/product_collection.protect.md) 
 
-### [product_collection.personal](/_personal\schema-org\Collection/product_collection.personal.md) 
+### [product_collection.private](/_private/schema-org/Collection/product_collection.private.md) 
 
-### [product_collection.secret](/_secret\schema-org\Collection/product_collection.secret.md)
+### [product_collection.personal](/_personal/schema-org/Collection/product_collection.personal.md) 
+
+### [product_collection.secret](/_secret/schema-org/Collection/product_collection.secret.md)
 

@@ -32,23 +32,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/RNA)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [RNA(Ribo-Nucleic_Acid).public](/_public\bio\Genetics/RNA(Ribo-Nucleic_Acid).public.md) 
+### [RNA(Ribo-Nucleic_Acid)](/_Standards/bio/Genetics/RNA(Ribo-Nucleic_Acid).md) 
 
-### [RNA(Ribo-Nucleic_Acid).internal](/_internal\bio\Genetics/RNA(Ribo-Nucleic_Acid).internal.md) 
+### [RNA(Ribo-Nucleic_Acid).public](/_public/bio/Genetics/RNA(Ribo-Nucleic_Acid).public.md) 
 
-### [RNA(Ribo-Nucleic_Acid).protect](/_protect\bio\Genetics/RNA(Ribo-Nucleic_Acid).protect.md) 
+### [RNA(Ribo-Nucleic_Acid).internal](/_internal/bio/Genetics/RNA(Ribo-Nucleic_Acid).internal.md) 
 
-### [RNA(Ribo-Nucleic_Acid).private](/_private\bio\Genetics/RNA(Ribo-Nucleic_Acid).private.md) 
+### [RNA(Ribo-Nucleic_Acid).protect](/_protect/bio/Genetics/RNA(Ribo-Nucleic_Acid).protect.md) 
 
-### [RNA(Ribo-Nucleic_Acid).personal](/_personal\bio\Genetics/RNA(Ribo-Nucleic_Acid).personal.md) 
+### [RNA(Ribo-Nucleic_Acid).private](/_private/bio/Genetics/RNA(Ribo-Nucleic_Acid).private.md) 
 
-### [RNA(Ribo-Nucleic_Acid).secret](/_secret\bio\Genetics/RNA(Ribo-Nucleic_Acid).secret.md)
+### [RNA(Ribo-Nucleic_Acid).personal](/_personal/bio/Genetics/RNA(Ribo-Nucleic_Acid).personal.md) 
+
+### [RNA(Ribo-Nucleic_Acid).secret](/_secret/bio/Genetics/RNA(Ribo-Nucleic_Acid).secret.md)
 

@@ -20,6 +20,8 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
+### [chemic](/_Standards/chemic.md) 
+
 ### [chemic.public](/_public/chemic.public.md) 
 
 ### [chemic.internal](/_internal/chemic.internal.md) 

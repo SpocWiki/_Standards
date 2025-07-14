@@ -149,15 +149,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### [Statistics.public](/_public\Mathematics/Statistics.public.md) 
+### [Statistics](/_Standards/Mathematics/Statistics.md) 
 
-### [Statistics.internal](/_internal\Mathematics/Statistics.internal.md) 
+### [Statistics.public](/_public/Mathematics/Statistics.public.md) 
 
-### [Statistics.protect](/_protect\Mathematics/Statistics.protect.md) 
+### [Statistics.internal](/_internal/Mathematics/Statistics.internal.md) 
 
-### [Statistics.private](/_private\Mathematics/Statistics.private.md) 
+### [Statistics.protect](/_protect/Mathematics/Statistics.protect.md) 
 
-### [Statistics.personal](/_personal\Mathematics/Statistics.personal.md) 
+### [Statistics.private](/_private/Mathematics/Statistics.private.md) 
 
-### [Statistics.secret](/_secret\Mathematics/Statistics.secret.md)
+### [Statistics.personal](/_personal/Mathematics/Statistics.personal.md) 
+
+### [Statistics.secret](/_secret/Mathematics/Statistics.secret.md)
 

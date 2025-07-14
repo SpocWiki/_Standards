@@ -163,20 +163,19 @@ demonym:
 > [Wikipedia](https://en.wikipedia.org/wiki/Uranus)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Uranus.public](/_public\Astronomy\Solar_System/Uranus.public.md) 
+### [Uranus](/_Standards/Astronomy/Solar_System/Uranus.md) 
 
-### [Uranus.internal](/_internal\Astronomy\Solar_System/Uranus.internal.md) 
+### [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
 
-### [Uranus.protect](/_protect\Astronomy\Solar_System/Uranus.protect.md) 
+### [Uranus.internal](/_internal/Astronomy/Solar_System/Uranus.internal.md) 
 
-### [Uranus.private](/_private\Astronomy\Solar_System/Uranus.private.md) 
+### [Uranus.protect](/_protect/Astronomy/Solar_System/Uranus.protect.md) 
 
-### [Uranus.personal](/_personal\Astronomy\Solar_System/Uranus.personal.md) 
+### [Uranus.private](/_private/Astronomy/Solar_System/Uranus.private.md) 
 
-### [Uranus.secret](/_secret\Astronomy\Solar_System/Uranus.secret.md)
+### [Uranus.personal](/_personal/Astronomy/Solar_System/Uranus.personal.md) 
+
+### [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
 

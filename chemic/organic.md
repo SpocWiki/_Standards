@@ -49,15 +49,17 @@ Commons_category: "Organic chemistry"
 
 ## Confidential Links & Embeds: 
 
-### [organic.public](/_public\chemic/organic.public.md) 
+### [organic](/_Standards/chemic/organic.md) 
 
-### [organic.internal](/_internal\chemic/organic.internal.md) 
+### [organic.public](/_public/chemic/organic.public.md) 
 
-### [organic.protect](/_protect\chemic/organic.protect.md) 
+### [organic.internal](/_internal/chemic/organic.internal.md) 
 
-### [organic.private](/_private\chemic/organic.private.md) 
+### [organic.protect](/_protect/chemic/organic.protect.md) 
 
-### [organic.personal](/_personal\chemic/organic.personal.md) 
+### [organic.private](/_private/chemic/organic.private.md) 
 
-### [organic.secret](/_secret\chemic/organic.secret.md)
+### [organic.personal](/_personal/chemic/organic.personal.md) 
+
+### [organic.secret](/_secret/chemic/organic.secret.md)
 

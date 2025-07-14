@@ -78,15 +78,17 @@ Mastodon_instance_URL: "https://med-mastodon.com"
 
 ## Confidential Links & Embeds: 
 
-### [Medicine.public](/_public\bio/Medicine.public.md) 
+### [Medicine](/_Standards/bio/Medicine.md) 
 
-### [Medicine.internal](/_internal\bio/Medicine.internal.md) 
+### [Medicine.public](/_public/bio/Medicine.public.md) 
 
-### [Medicine.protect](/_protect\bio/Medicine.protect.md) 
+### [Medicine.internal](/_internal/bio/Medicine.internal.md) 
 
-### [Medicine.private](/_private\bio/Medicine.private.md) 
+### [Medicine.protect](/_protect/bio/Medicine.protect.md) 
 
-### [Medicine.personal](/_personal\bio/Medicine.personal.md) 
+### [Medicine.private](/_private/bio/Medicine.private.md) 
 
-### [Medicine.secret](/_secret\bio/Medicine.secret.md)
+### [Medicine.personal](/_personal/bio/Medicine.personal.md) 
+
+### [Medicine.secret](/_secret/bio/Medicine.secret.md)
 

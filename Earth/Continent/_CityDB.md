@@ -343,15 +343,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_CityDB.public](/_public\Earth\Continent/_CityDB.public.md) 
+### [_CityDB](/_Standards/Earth/Continent/_CityDB.md) 
 
-### [_CityDB.internal](/_internal\Earth\Continent/_CityDB.internal.md) 
+### [_CityDB.public](/_public/Earth/Continent/_CityDB.public.md) 
 
-### [_CityDB.protect](/_protect\Earth\Continent/_CityDB.protect.md) 
+### [_CityDB.internal](/_internal/Earth/Continent/_CityDB.internal.md) 
 
-### [_CityDB.private](/_private\Earth\Continent/_CityDB.private.md) 
+### [_CityDB.protect](/_protect/Earth/Continent/_CityDB.protect.md) 
 
-### [_CityDB.personal](/_personal\Earth\Continent/_CityDB.personal.md) 
+### [_CityDB.private](/_private/Earth/Continent/_CityDB.private.md) 
 
-### [_CityDB.secret](/_secret\Earth\Continent/_CityDB.secret.md)
+### [_CityDB.personal](/_personal/Earth/Continent/_CityDB.personal.md) 
+
+### [_CityDB.secret](/_secret/Earth/Continent/_CityDB.secret.md)
 

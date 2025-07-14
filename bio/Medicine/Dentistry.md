@@ -54,19 +54,19 @@ IPTC_NewsCode: mediatopic/20000712
 > [Wikipedia](https://en.wikipedia.org/wiki/Dentistry)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dentistry.public](/_public\bio\Medicine/Dentistry.public.md) 
+### [Dentistry](/_Standards/bio/Medicine/Dentistry.md) 
 
-### [Dentistry.internal](/_internal\bio\Medicine/Dentistry.internal.md) 
+### [Dentistry.public](/_public/bio/Medicine/Dentistry.public.md) 
 
-### [Dentistry.protect](/_protect\bio\Medicine/Dentistry.protect.md) 
+### [Dentistry.internal](/_internal/bio/Medicine/Dentistry.internal.md) 
 
-### [Dentistry.private](/_private\bio\Medicine/Dentistry.private.md) 
+### [Dentistry.protect](/_protect/bio/Medicine/Dentistry.protect.md) 
 
-### [Dentistry.personal](/_personal\bio\Medicine/Dentistry.personal.md) 
+### [Dentistry.private](/_private/bio/Medicine/Dentistry.private.md) 
 
-### [Dentistry.secret](/_secret\bio\Medicine/Dentistry.secret.md)
+### [Dentistry.personal](/_personal/bio/Medicine/Dentistry.personal.md) 
+
+### [Dentistry.secret](/_secret/bio/Medicine/Dentistry.secret.md)
 

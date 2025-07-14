@@ -18,6 +18,8 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
+### [fileClass](/_Standards/fileClass.md) 
+
 ### [fileClass.public](/_public/fileClass.public.md) 
 
 ### [fileClass.internal](/_internal/fileClass.internal.md) 

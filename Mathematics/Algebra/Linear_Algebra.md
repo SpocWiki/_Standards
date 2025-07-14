@@ -54,21 +54,19 @@ subreddit: LinearAlgebra
 > [Wikipedia](https://en.wikipedia.org/wiki/Linear%20algebra) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Linear_Algebra.public](/_public\Mathematics\Algebra/Linear_Algebra.public.md) 
+### [Linear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra.md) 
 
-### [Linear_Algebra.internal](/_internal\Mathematics\Algebra/Linear_Algebra.internal.md) 
+### [Linear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra.public.md) 
 
-### [Linear_Algebra.protect](/_protect\Mathematics\Algebra/Linear_Algebra.protect.md) 
+### [Linear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra.internal.md) 
 
-### [Linear_Algebra.private](/_private\Mathematics\Algebra/Linear_Algebra.private.md) 
+### [Linear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra.protect.md) 
 
-### [Linear_Algebra.personal](/_personal\Mathematics\Algebra/Linear_Algebra.personal.md) 
+### [Linear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra.private.md) 
 
-### [Linear_Algebra.secret](/_secret\Mathematics\Algebra/Linear_Algebra.secret.md)
+### [Linear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra.personal.md) 
+
+### [Linear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra.secret.md)
 

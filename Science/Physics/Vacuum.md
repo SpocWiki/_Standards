@@ -52,19 +52,19 @@ Colon_Classification: "C28:76"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vacuum)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Vacuum.public](/_public\Science\Physics/Vacuum.public.md) 
+### [Vacuum](/_Standards/Science/Physics/Vacuum.md) 
 
-### [Vacuum.internal](/_internal\Science\Physics/Vacuum.internal.md) 
+### [Vacuum.public](/_public/Science/Physics/Vacuum.public.md) 
 
-### [Vacuum.protect](/_protect\Science\Physics/Vacuum.protect.md) 
+### [Vacuum.internal](/_internal/Science/Physics/Vacuum.internal.md) 
 
-### [Vacuum.private](/_private\Science\Physics/Vacuum.private.md) 
+### [Vacuum.protect](/_protect/Science/Physics/Vacuum.protect.md) 
 
-### [Vacuum.personal](/_personal\Science\Physics/Vacuum.personal.md) 
+### [Vacuum.private](/_private/Science/Physics/Vacuum.private.md) 
 
-### [Vacuum.secret](/_secret\Science\Physics/Vacuum.secret.md)
+### [Vacuum.personal](/_personal/Science/Physics/Vacuum.personal.md) 
+
+### [Vacuum.secret](/_secret/Science/Physics/Vacuum.secret.md)
 

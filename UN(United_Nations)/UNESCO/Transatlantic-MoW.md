@@ -1789,19 +1789,19 @@
 | The [Villa Ocampo](https://en.wikipedia.org/wiki/Villa_Ocampo) Documentation Center | [[USA]], <br>[[Argentina]] | - UNESCO Villa Ocampo<br> [34°27′29″S 58°31′06″W] | 2017 |
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Transatlantic-MoW.public](/_public\UN(United_Nations)\UNESCO/Transatlantic-MoW.public.md) 
+### [Transatlantic-MoW](/_Standards/UN(United_Nations)/UNESCO/Transatlantic-MoW.md) 
 
-### [Transatlantic-MoW.internal](/_internal\UN(United_Nations)\UNESCO/Transatlantic-MoW.internal.md) 
+### [Transatlantic-MoW.public](/_public/UN(United_Nations)/UNESCO/Transatlantic-MoW.public.md) 
 
-### [Transatlantic-MoW.protect](/_protect\UN(United_Nations)\UNESCO/Transatlantic-MoW.protect.md) 
+### [Transatlantic-MoW.internal](/_internal/UN(United_Nations)/UNESCO/Transatlantic-MoW.internal.md) 
 
-### [Transatlantic-MoW.private](/_private\UN(United_Nations)\UNESCO/Transatlantic-MoW.private.md) 
+### [Transatlantic-MoW.protect](/_protect/UN(United_Nations)/UNESCO/Transatlantic-MoW.protect.md) 
 
-### [Transatlantic-MoW.personal](/_personal\UN(United_Nations)\UNESCO/Transatlantic-MoW.personal.md) 
+### [Transatlantic-MoW.private](/_private/UN(United_Nations)/UNESCO/Transatlantic-MoW.private.md) 
 
-### [Transatlantic-MoW.secret](/_secret\UN(United_Nations)\UNESCO/Transatlantic-MoW.secret.md)
+### [Transatlantic-MoW.personal](/_personal/UN(United_Nations)/UNESCO/Transatlantic-MoW.personal.md) 
+
+### [Transatlantic-MoW.secret](/_secret/UN(United_Nations)/UNESCO/Transatlantic-MoW.secret.md)
 

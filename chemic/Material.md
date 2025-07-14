@@ -41,15 +41,17 @@ OpenStreetMap_tag_or_key: "Key:material"
 
 ## Confidential Links & Embeds: 
 
-### [Material.public](/_public\chemic/Material.public.md) 
+### [Material](/_Standards/chemic/Material.md) 
 
-### [Material.internal](/_internal\chemic/Material.internal.md) 
+### [Material.public](/_public/chemic/Material.public.md) 
 
-### [Material.protect](/_protect\chemic/Material.protect.md) 
+### [Material.internal](/_internal/chemic/Material.internal.md) 
 
-### [Material.private](/_private\chemic/Material.private.md) 
+### [Material.protect](/_protect/chemic/Material.protect.md) 
 
-### [Material.personal](/_personal\chemic/Material.personal.md) 
+### [Material.private](/_private/chemic/Material.private.md) 
 
-### [Material.secret](/_secret\chemic/Material.secret.md)
+### [Material.personal](/_personal/chemic/Material.personal.md) 
+
+### [Material.secret](/_secret/chemic/Material.secret.md)
 

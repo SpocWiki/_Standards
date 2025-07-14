@@ -47,15 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_items.public](/_public\schema-org\Collection/has_items.public.md) 
+### [has_items](/_Standards/schema-org/Collection/has_items.md) 
 
-### [has_items.internal](/_internal\schema-org\Collection/has_items.internal.md) 
+### [has_items.public](/_public/schema-org/Collection/has_items.public.md) 
 
-### [has_items.protect](/_protect\schema-org\Collection/has_items.protect.md) 
+### [has_items.internal](/_internal/schema-org/Collection/has_items.internal.md) 
 
-### [has_items.private](/_private\schema-org\Collection/has_items.private.md) 
+### [has_items.protect](/_protect/schema-org/Collection/has_items.protect.md) 
 
-### [has_items.personal](/_personal\schema-org\Collection/has_items.personal.md) 
+### [has_items.private](/_private/schema-org/Collection/has_items.private.md) 
 
-### [has_items.secret](/_secret\schema-org\Collection/has_items.secret.md)
+### [has_items.personal](/_personal/schema-org/Collection/has_items.personal.md) 
+
+### [has_items.secret](/_secret/schema-org/Collection/has_items.secret.md)
 

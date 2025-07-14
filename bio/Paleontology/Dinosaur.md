@@ -66,19 +66,19 @@ Wolfram_Language_entity_type: Dinosaur
 > [Wikipedia](https://en.wikipedia.org/wiki/Dinosaur)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dinosaur.public](/_public\bio\Paleontology/Dinosaur.public.md) 
+### [Dinosaur](/_Standards/bio/Paleontology/Dinosaur.md) 
 
-### [Dinosaur.internal](/_internal\bio\Paleontology/Dinosaur.internal.md) 
+### [Dinosaur.public](/_public/bio/Paleontology/Dinosaur.public.md) 
 
-### [Dinosaur.protect](/_protect\bio\Paleontology/Dinosaur.protect.md) 
+### [Dinosaur.internal](/_internal/bio/Paleontology/Dinosaur.internal.md) 
 
-### [Dinosaur.private](/_private\bio\Paleontology/Dinosaur.private.md) 
+### [Dinosaur.protect](/_protect/bio/Paleontology/Dinosaur.protect.md) 
 
-### [Dinosaur.personal](/_personal\bio\Paleontology/Dinosaur.personal.md) 
+### [Dinosaur.private](/_private/bio/Paleontology/Dinosaur.private.md) 
 
-### [Dinosaur.secret](/_secret\bio\Paleontology/Dinosaur.secret.md)
+### [Dinosaur.personal](/_personal/bio/Paleontology/Dinosaur.personal.md) 
+
+### [Dinosaur.secret](/_secret/bio/Paleontology/Dinosaur.secret.md)
 

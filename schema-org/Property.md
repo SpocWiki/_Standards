@@ -85,15 +85,17 @@ MicroData
 
 ## Confidential Links & Embeds: 
 
-### [Property.public](/_public\schema-org/Property.public.md) 
+### [Property](/_Standards/schema-org/Property.md) 
 
-### [Property.internal](/_internal\schema-org/Property.internal.md) 
+### [Property.public](/_public/schema-org/Property.public.md) 
 
-### [Property.protect](/_protect\schema-org/Property.protect.md) 
+### [Property.internal](/_internal/schema-org/Property.internal.md) 
 
-### [Property.private](/_private\schema-org/Property.private.md) 
+### [Property.protect](/_protect/schema-org/Property.protect.md) 
 
-### [Property.personal](/_personal\schema-org/Property.personal.md) 
+### [Property.private](/_private/schema-org/Property.private.md) 
 
-### [Property.secret](/_secret\schema-org/Property.secret.md)
+### [Property.personal](/_personal/schema-org/Property.personal.md) 
+
+### [Property.secret](/_secret/schema-org/Property.secret.md)
 

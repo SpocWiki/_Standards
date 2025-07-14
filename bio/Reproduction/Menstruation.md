@@ -36,19 +36,19 @@ Commons_category: Menstruation
 > [Wikipedia](https://en.wikipedia.org/wiki/Menstruation)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Menstruation.public](/_public\bio\Reproduction/Menstruation.public.md) 
+### [Menstruation](/_Standards/bio/Reproduction/Menstruation.md) 
 
-### [Menstruation.internal](/_internal\bio\Reproduction/Menstruation.internal.md) 
+### [Menstruation.public](/_public/bio/Reproduction/Menstruation.public.md) 
 
-### [Menstruation.protect](/_protect\bio\Reproduction/Menstruation.protect.md) 
+### [Menstruation.internal](/_internal/bio/Reproduction/Menstruation.internal.md) 
 
-### [Menstruation.private](/_private\bio\Reproduction/Menstruation.private.md) 
+### [Menstruation.protect](/_protect/bio/Reproduction/Menstruation.protect.md) 
 
-### [Menstruation.personal](/_personal\bio\Reproduction/Menstruation.personal.md) 
+### [Menstruation.private](/_private/bio/Reproduction/Menstruation.private.md) 
 
-### [Menstruation.secret](/_secret\bio\Reproduction/Menstruation.secret.md)
+### [Menstruation.personal](/_personal/bio/Reproduction/Menstruation.personal.md) 
+
+### [Menstruation.secret](/_secret/bio/Reproduction/Menstruation.secret.md)
 

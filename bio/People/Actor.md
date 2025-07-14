@@ -12,19 +12,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Actor)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Actor.public](/_public\bio\People/Actor.public.md) 
+### [Actor](/_Standards/bio/People/Actor.md) 
 
-### [Actor.internal](/_internal\bio\People/Actor.internal.md) 
+### [Actor.public](/_public/bio/People/Actor.public.md) 
 
-### [Actor.protect](/_protect\bio\People/Actor.protect.md) 
+### [Actor.internal](/_internal/bio/People/Actor.internal.md) 
 
-### [Actor.private](/_private\bio\People/Actor.private.md) 
+### [Actor.protect](/_protect/bio/People/Actor.protect.md) 
 
-### [Actor.personal](/_personal\bio\People/Actor.personal.md) 
+### [Actor.private](/_private/bio/People/Actor.private.md) 
 
-### [Actor.secret](/_secret\bio\People/Actor.secret.md)
+### [Actor.personal](/_personal/bio/People/Actor.personal.md) 
+
+### [Actor.secret](/_secret/bio/People/Actor.secret.md)
 

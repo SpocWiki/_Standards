@@ -79,15 +79,17 @@ Stack_Exchange_tag: "https://biology.stackexchange.com/tags/botany"
 
 ## Confidential Links & Embeds: 
 
-### [Botany.public](/_public\bio/Botany.public.md) 
+### [Botany](/_Standards/bio/Botany.md) 
 
-### [Botany.internal](/_internal\bio/Botany.internal.md) 
+### [Botany.public](/_public/bio/Botany.public.md) 
 
-### [Botany.protect](/_protect\bio/Botany.protect.md) 
+### [Botany.internal](/_internal/bio/Botany.internal.md) 
 
-### [Botany.private](/_private\bio/Botany.private.md) 
+### [Botany.protect](/_protect/bio/Botany.protect.md) 
 
-### [Botany.personal](/_personal\bio/Botany.personal.md) 
+### [Botany.private](/_private/bio/Botany.private.md) 
 
-### [Botany.secret](/_secret\bio/Botany.secret.md)
+### [Botany.personal](/_personal/bio/Botany.personal.md) 
+
+### [Botany.secret](/_secret/bio/Botany.secret.md)
 

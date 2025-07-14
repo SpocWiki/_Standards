@@ -113,15 +113,17 @@ Commons_category: "Association of Southeast Asian Nations"
 
 ## Confidential Links & Embeds: 
 
-### [ASEAN.public](/_public\International/ASEAN.public.md) 
+### [ASEAN](/_Standards/International/ASEAN.md) 
 
-### [ASEAN.internal](/_internal\International/ASEAN.internal.md) 
+### [ASEAN.public](/_public/International/ASEAN.public.md) 
 
-### [ASEAN.protect](/_protect\International/ASEAN.protect.md) 
+### [ASEAN.internal](/_internal/International/ASEAN.internal.md) 
 
-### [ASEAN.private](/_private\International/ASEAN.private.md) 
+### [ASEAN.protect](/_protect/International/ASEAN.protect.md) 
 
-### [ASEAN.personal](/_personal\International/ASEAN.personal.md) 
+### [ASEAN.private](/_private/International/ASEAN.private.md) 
 
-### [ASEAN.secret](/_secret\International/ASEAN.secret.md)
+### [ASEAN.personal](/_personal/International/ASEAN.personal.md) 
+
+### [ASEAN.secret](/_secret/International/ASEAN.secret.md)
 

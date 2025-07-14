@@ -66,20 +66,19 @@ Commons_gallery: "Latin letters"
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin%20script)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Latin-script_alphabet.public](/_public\Language\Writing_System/Latin-script_alphabet.public.md) 
+### [Latin-script_alphabet](/_Standards/Language/Writing_System/Latin-script_alphabet.md) 
 
-### [Latin-script_alphabet.internal](/_internal\Language\Writing_System/Latin-script_alphabet.internal.md) 
+### [Latin-script_alphabet.public](/_public/Language/Writing_System/Latin-script_alphabet.public.md) 
 
-### [Latin-script_alphabet.protect](/_protect\Language\Writing_System/Latin-script_alphabet.protect.md) 
+### [Latin-script_alphabet.internal](/_internal/Language/Writing_System/Latin-script_alphabet.internal.md) 
 
-### [Latin-script_alphabet.private](/_private\Language\Writing_System/Latin-script_alphabet.private.md) 
+### [Latin-script_alphabet.protect](/_protect/Language/Writing_System/Latin-script_alphabet.protect.md) 
 
-### [Latin-script_alphabet.personal](/_personal\Language\Writing_System/Latin-script_alphabet.personal.md) 
+### [Latin-script_alphabet.private](/_private/Language/Writing_System/Latin-script_alphabet.private.md) 
 
-### [Latin-script_alphabet.secret](/_secret\Language\Writing_System/Latin-script_alphabet.secret.md)
+### [Latin-script_alphabet.personal](/_personal/Language/Writing_System/Latin-script_alphabet.personal.md) 
+
+### [Latin-script_alphabet.secret](/_secret/Language/Writing_System/Latin-script_alphabet.secret.md)
 

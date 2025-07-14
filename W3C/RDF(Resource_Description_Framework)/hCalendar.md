@@ -34,15 +34,17 @@ END:VCALENDAR
 
 ## Confidential Links & Embeds: 
 
-### [hCalendar.public](/_public\W3C\RDF(Resource_Description_Framework)/hCalendar.public.md) 
+### [hCalendar](/_Standards/W3C/RDF(Resource_Description_Framework)/hCalendar.md) 
 
-### [hCalendar.internal](/_internal\W3C\RDF(Resource_Description_Framework)/hCalendar.internal.md) 
+### [hCalendar.public](/_public/W3C/RDF(Resource_Description_Framework)/hCalendar.public.md) 
 
-### [hCalendar.protect](/_protect\W3C\RDF(Resource_Description_Framework)/hCalendar.protect.md) 
+### [hCalendar.internal](/_internal/W3C/RDF(Resource_Description_Framework)/hCalendar.internal.md) 
 
-### [hCalendar.private](/_private\W3C\RDF(Resource_Description_Framework)/hCalendar.private.md) 
+### [hCalendar.protect](/_protect/W3C/RDF(Resource_Description_Framework)/hCalendar.protect.md) 
 
-### [hCalendar.personal](/_personal\W3C\RDF(Resource_Description_Framework)/hCalendar.personal.md) 
+### [hCalendar.private](/_private/W3C/RDF(Resource_Description_Framework)/hCalendar.private.md) 
 
-### [hCalendar.secret](/_secret\W3C\RDF(Resource_Description_Framework)/hCalendar.secret.md)
+### [hCalendar.personal](/_personal/W3C/RDF(Resource_Description_Framework)/hCalendar.personal.md) 
+
+### [hCalendar.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCalendar.secret.md)
 

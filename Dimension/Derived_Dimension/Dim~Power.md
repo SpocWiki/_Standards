@@ -10,15 +10,17 @@ The word Power is derived from the french 'pouvoir' (Vermögen).
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Power.public](/_public\Dimension\Derived_Dimension/Dim~Power.public.md) 
+### [Dim~Power](/_Standards/Dimension/Derived_Dimension/Dim~Power.md) 
 
-### [Dim~Power.internal](/_internal\Dimension\Derived_Dimension/Dim~Power.internal.md) 
+### [Dim~Power.public](/_public/Dimension/Derived_Dimension/Dim~Power.public.md) 
 
-### [Dim~Power.protect](/_protect\Dimension\Derived_Dimension/Dim~Power.protect.md) 
+### [Dim~Power.internal](/_internal/Dimension/Derived_Dimension/Dim~Power.internal.md) 
 
-### [Dim~Power.private](/_private\Dimension\Derived_Dimension/Dim~Power.private.md) 
+### [Dim~Power.protect](/_protect/Dimension/Derived_Dimension/Dim~Power.protect.md) 
 
-### [Dim~Power.personal](/_personal\Dimension\Derived_Dimension/Dim~Power.personal.md) 
+### [Dim~Power.private](/_private/Dimension/Derived_Dimension/Dim~Power.private.md) 
 
-### [Dim~Power.secret](/_secret\Dimension\Derived_Dimension/Dim~Power.secret.md)
+### [Dim~Power.personal](/_personal/Dimension/Derived_Dimension/Dim~Power.personal.md) 
+
+### [Dim~Power.secret](/_secret/Dimension/Derived_Dimension/Dim~Power.secret.md)
 

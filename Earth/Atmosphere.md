@@ -54,15 +54,17 @@ Below 3km
 
 ## Confidential Links & Embeds: 
 
-### [Atmosphere.public](/_public\Earth/Atmosphere.public.md) 
+### [Atmosphere](/_Standards/Earth/Atmosphere.md) 
 
-### [Atmosphere.internal](/_internal\Earth/Atmosphere.internal.md) 
+### [Atmosphere.public](/_public/Earth/Atmosphere.public.md) 
 
-### [Atmosphere.protect](/_protect\Earth/Atmosphere.protect.md) 
+### [Atmosphere.internal](/_internal/Earth/Atmosphere.internal.md) 
 
-### [Atmosphere.private](/_private\Earth/Atmosphere.private.md) 
+### [Atmosphere.protect](/_protect/Earth/Atmosphere.protect.md) 
 
-### [Atmosphere.personal](/_personal\Earth/Atmosphere.personal.md) 
+### [Atmosphere.private](/_private/Earth/Atmosphere.private.md) 
 
-### [Atmosphere.secret](/_secret\Earth/Atmosphere.secret.md)
+### [Atmosphere.personal](/_personal/Earth/Atmosphere.personal.md) 
+
+### [Atmosphere.secret](/_secret/Earth/Atmosphere.secret.md)
 

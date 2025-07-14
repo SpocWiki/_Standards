@@ -67,20 +67,19 @@ OpenStreetMap_tag_or_key: "Tag:waterway=dam"
 > [Wikipedia](https://en.wikipedia.org/wiki/Dam) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Dam.public](/_public\Technology\Construction/Dam.public.md) 
+### [Dam](/_Standards/Technology/Construction/Dam.md) 
 
-### [Dam.internal](/_internal\Technology\Construction/Dam.internal.md) 
+### [Dam.public](/_public/Technology/Construction/Dam.public.md) 
 
-### [Dam.protect](/_protect\Technology\Construction/Dam.protect.md) 
+### [Dam.internal](/_internal/Technology/Construction/Dam.internal.md) 
 
-### [Dam.private](/_private\Technology\Construction/Dam.private.md) 
+### [Dam.protect](/_protect/Technology/Construction/Dam.protect.md) 
 
-### [Dam.personal](/_personal\Technology\Construction/Dam.personal.md) 
+### [Dam.private](/_private/Technology/Construction/Dam.private.md) 
 
-### [Dam.secret](/_secret\Technology\Construction/Dam.secret.md)
+### [Dam.personal](/_personal/Technology/Construction/Dam.personal.md) 
+
+### [Dam.secret](/_secret/Technology/Construction/Dam.secret.md)
 

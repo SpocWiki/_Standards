@@ -18,6 +18,8 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
+### [Dimension](/_Standards/Dimension.md) 
+
 ### [Dimension.public](/_public/Dimension.public.md) 
 
 ### [Dimension.internal](/_internal/Dimension.internal.md) 

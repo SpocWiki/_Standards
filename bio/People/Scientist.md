@@ -12,23 +12,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientist) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Scientist.public](/_public\bio\People/Scientist.public.md) 
+### [Scientist](/_Standards/bio/People/Scientist.md) 
 
-### [Scientist.internal](/_internal\bio\People/Scientist.internal.md) 
+### [Scientist.public](/_public/bio/People/Scientist.public.md) 
 
-### [Scientist.protect](/_protect\bio\People/Scientist.protect.md) 
+### [Scientist.internal](/_internal/bio/People/Scientist.internal.md) 
 
-### [Scientist.private](/_private\bio\People/Scientist.private.md) 
+### [Scientist.protect](/_protect/bio/People/Scientist.protect.md) 
 
-### [Scientist.personal](/_personal\bio\People/Scientist.personal.md) 
+### [Scientist.private](/_private/bio/People/Scientist.private.md) 
 
-### [Scientist.secret](/_secret\bio\People/Scientist.secret.md)
+### [Scientist.personal](/_personal/bio/People/Scientist.personal.md) 
+
+### [Scientist.secret](/_secret/bio/People/Scientist.secret.md)
 

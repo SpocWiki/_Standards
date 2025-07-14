@@ -445,15 +445,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_CountryDb.public](/_public\Earth\Continent/_CountryDb.public.md) 
+### [_CountryDb](/_Standards/Earth/Continent/_CountryDb.md) 
 
-### [_CountryDb.internal](/_internal\Earth\Continent/_CountryDb.internal.md) 
+### [_CountryDb.public](/_public/Earth/Continent/_CountryDb.public.md) 
 
-### [_CountryDb.protect](/_protect\Earth\Continent/_CountryDb.protect.md) 
+### [_CountryDb.internal](/_internal/Earth/Continent/_CountryDb.internal.md) 
 
-### [_CountryDb.private](/_private\Earth\Continent/_CountryDb.private.md) 
+### [_CountryDb.protect](/_protect/Earth/Continent/_CountryDb.protect.md) 
 
-### [_CountryDb.personal](/_personal\Earth\Continent/_CountryDb.personal.md) 
+### [_CountryDb.private](/_private/Earth/Continent/_CountryDb.private.md) 
 
-### [_CountryDb.secret](/_secret\Earth\Continent/_CountryDb.secret.md)
+### [_CountryDb.personal](/_personal/Earth/Continent/_CountryDb.personal.md) 
+
+### [_CountryDb.secret](/_secret/Earth/Continent/_CountryDb.secret.md)
 

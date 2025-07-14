@@ -75,15 +75,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Yen,Japanese.public](/_public\Economics\Currency/Yen,Japanese.public.md) 
+### [Yen,Japanese](/_Standards/Economics/Currency/Yen,Japanese.md) 
 
-### [Yen,Japanese.internal](/_internal\Economics\Currency/Yen,Japanese.internal.md) 
+### [Yen,Japanese.public](/_public/Economics/Currency/Yen,Japanese.public.md) 
 
-### [Yen,Japanese.protect](/_protect\Economics\Currency/Yen,Japanese.protect.md) 
+### [Yen,Japanese.internal](/_internal/Economics/Currency/Yen,Japanese.internal.md) 
 
-### [Yen,Japanese.private](/_private\Economics\Currency/Yen,Japanese.private.md) 
+### [Yen,Japanese.protect](/_protect/Economics/Currency/Yen,Japanese.protect.md) 
 
-### [Yen,Japanese.personal](/_personal\Economics\Currency/Yen,Japanese.personal.md) 
+### [Yen,Japanese.private](/_private/Economics/Currency/Yen,Japanese.private.md) 
 
-### [Yen,Japanese.secret](/_secret\Economics\Currency/Yen,Japanese.secret.md)
+### [Yen,Japanese.personal](/_personal/Economics/Currency/Yen,Japanese.personal.md) 
+
+### [Yen,Japanese.secret](/_secret/Economics/Currency/Yen,Japanese.secret.md)
 

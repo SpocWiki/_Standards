@@ -51,20 +51,19 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TOPLIVO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Fuel) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fuel.public](/_public\chemic\Material/Fuel.public.md) 
+### [Fuel](/_Standards/chemic/Material/Fuel.md) 
 
-### [Fuel.internal](/_internal\chemic\Material/Fuel.internal.md) 
+### [Fuel.public](/_public/chemic/Material/Fuel.public.md) 
 
-### [Fuel.protect](/_protect\chemic\Material/Fuel.protect.md) 
+### [Fuel.internal](/_internal/chemic/Material/Fuel.internal.md) 
 
-### [Fuel.private](/_private\chemic\Material/Fuel.private.md) 
+### [Fuel.protect](/_protect/chemic/Material/Fuel.protect.md) 
 
-### [Fuel.personal](/_personal\chemic\Material/Fuel.personal.md) 
+### [Fuel.private](/_private/chemic/Material/Fuel.private.md) 
 
-### [Fuel.secret](/_secret\chemic\Material/Fuel.secret.md)
+### [Fuel.personal](/_personal/chemic/Material/Fuel.personal.md) 
+
+### [Fuel.secret](/_secret/chemic/Material/Fuel.secret.md)
 

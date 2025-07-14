@@ -50,15 +50,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### [is_sub_property_of.public](/_public\schema-org\Property/is_sub_property_of.public.md) 
+### [is_sub_property_of](/_Standards/schema-org/Property/is_sub_property_of.md) 
 
-### [is_sub_property_of.internal](/_internal\schema-org\Property/is_sub_property_of.internal.md) 
+### [is_sub_property_of.public](/_public/schema-org/Property/is_sub_property_of.public.md) 
 
-### [is_sub_property_of.protect](/_protect\schema-org\Property/is_sub_property_of.protect.md) 
+### [is_sub_property_of.internal](/_internal/schema-org/Property/is_sub_property_of.internal.md) 
 
-### [is_sub_property_of.private](/_private\schema-org\Property/is_sub_property_of.private.md) 
+### [is_sub_property_of.protect](/_protect/schema-org/Property/is_sub_property_of.protect.md) 
 
-### [is_sub_property_of.personal](/_personal\schema-org\Property/is_sub_property_of.personal.md) 
+### [is_sub_property_of.private](/_private/schema-org/Property/is_sub_property_of.private.md) 
 
-### [is_sub_property_of.secret](/_secret\schema-org\Property/is_sub_property_of.secret.md)
+### [is_sub_property_of.personal](/_personal/schema-org/Property/is_sub_property_of.personal.md) 
+
+### [is_sub_property_of.secret](/_secret/schema-org/Property/is_sub_property_of.secret.md)
 

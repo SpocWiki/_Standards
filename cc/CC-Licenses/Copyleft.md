@@ -44,15 +44,17 @@ which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998.
 
 ## Confidential Links & Embeds: 
 
-### [Copyleft.public](/_public\cc\CC-Licenses/Copyleft.public.md) 
+### [Copyleft](/_Standards/cc/CC-Licenses/Copyleft.md) 
 
-### [Copyleft.internal](/_internal\cc\CC-Licenses/Copyleft.internal.md) 
+### [Copyleft.public](/_public/cc/CC-Licenses/Copyleft.public.md) 
 
-### [Copyleft.protect](/_protect\cc\CC-Licenses/Copyleft.protect.md) 
+### [Copyleft.internal](/_internal/cc/CC-Licenses/Copyleft.internal.md) 
 
-### [Copyleft.private](/_private\cc\CC-Licenses/Copyleft.private.md) 
+### [Copyleft.protect](/_protect/cc/CC-Licenses/Copyleft.protect.md) 
 
-### [Copyleft.personal](/_personal\cc\CC-Licenses/Copyleft.personal.md) 
+### [Copyleft.private](/_private/cc/CC-Licenses/Copyleft.private.md) 
 
-### [Copyleft.secret](/_secret\cc\CC-Licenses/Copyleft.secret.md)
+### [Copyleft.personal](/_personal/cc/CC-Licenses/Copyleft.personal.md) 
+
+### [Copyleft.secret](/_secret/cc/CC-Licenses/Copyleft.secret.md)
 

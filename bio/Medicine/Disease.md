@@ -105,19 +105,19 @@ Commons_category: "Diseases and disorders"
 > [Wikipedia](https://en.wikipedia.org/wiki/Disease)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Disease.public](/_public\bio\Medicine/Disease.public.md) 
+### [Disease](/_Standards/bio/Medicine/Disease.md) 
 
-### [Disease.internal](/_internal\bio\Medicine/Disease.internal.md) 
+### [Disease.public](/_public/bio/Medicine/Disease.public.md) 
 
-### [Disease.protect](/_protect\bio\Medicine/Disease.protect.md) 
+### [Disease.internal](/_internal/bio/Medicine/Disease.internal.md) 
 
-### [Disease.private](/_private\bio\Medicine/Disease.private.md) 
+### [Disease.protect](/_protect/bio/Medicine/Disease.protect.md) 
 
-### [Disease.personal](/_personal\bio\Medicine/Disease.personal.md) 
+### [Disease.private](/_private/bio/Medicine/Disease.private.md) 
 
-### [Disease.secret](/_secret\bio\Medicine/Disease.secret.md)
+### [Disease.personal](/_personal/bio/Medicine/Disease.personal.md) 
+
+### [Disease.secret](/_secret/bio/Medicine/Disease.secret.md)
 

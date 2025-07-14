@@ -54,19 +54,19 @@ All_Science_Journal_Classification_Codes: 1303
 > [Wikipedia](https://en.wikipedia.org/wiki/Biochemistry)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Biochemistry.public](/_public\chemic\organic/Biochemistry.public.md) 
+### [Biochemistry](/_Standards/chemic/organic/Biochemistry.md) 
 
-### [Biochemistry.internal](/_internal\chemic\organic/Biochemistry.internal.md) 
+### [Biochemistry.public](/_public/chemic/organic/Biochemistry.public.md) 
 
-### [Biochemistry.protect](/_protect\chemic\organic/Biochemistry.protect.md) 
+### [Biochemistry.internal](/_internal/chemic/organic/Biochemistry.internal.md) 
 
-### [Biochemistry.private](/_private\chemic\organic/Biochemistry.private.md) 
+### [Biochemistry.protect](/_protect/chemic/organic/Biochemistry.protect.md) 
 
-### [Biochemistry.personal](/_personal\chemic\organic/Biochemistry.personal.md) 
+### [Biochemistry.private](/_private/chemic/organic/Biochemistry.private.md) 
 
-### [Biochemistry.secret](/_secret\chemic\organic/Biochemistry.secret.md)
+### [Biochemistry.personal](/_personal/chemic/organic/Biochemistry.personal.md) 
+
+### [Biochemistry.secret](/_secret/chemic/organic/Biochemistry.secret.md)
 

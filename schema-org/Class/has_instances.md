@@ -50,15 +50,17 @@ But typically it is a typed [[../Collection/item_list|Item_list]] with Instances
 
 ## Confidential Links & Embeds: 
 
-### [has_instances.public](/_public\schema-org\Class/has_instances.public.md) 
+### [has_instances](/_Standards/schema-org/Class/has_instances.md) 
 
-### [has_instances.internal](/_internal\schema-org\Class/has_instances.internal.md) 
+### [has_instances.public](/_public/schema-org/Class/has_instances.public.md) 
 
-### [has_instances.protect](/_protect\schema-org\Class/has_instances.protect.md) 
+### [has_instances.internal](/_internal/schema-org/Class/has_instances.internal.md) 
 
-### [has_instances.private](/_private\schema-org\Class/has_instances.private.md) 
+### [has_instances.protect](/_protect/schema-org/Class/has_instances.protect.md) 
 
-### [has_instances.personal](/_personal\schema-org\Class/has_instances.personal.md) 
+### [has_instances.private](/_private/schema-org/Class/has_instances.private.md) 
 
-### [has_instances.secret](/_secret\schema-org\Class/has_instances.secret.md)
+### [has_instances.personal](/_personal/schema-org/Class/has_instances.personal.md) 
+
+### [has_instances.secret](/_secret/schema-org/Class/has_instances.secret.md)
 

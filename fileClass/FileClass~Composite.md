@@ -25,15 +25,17 @@ Components:: {"type":"MultiFile","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Composite.public](/_public\fileClass/FileClass~Composite.public.md) 
+### [FileClass~Composite](/_Standards/fileClass/FileClass~Composite.md) 
 
-### [FileClass~Composite.internal](/_internal\fileClass/FileClass~Composite.internal.md) 
+### [FileClass~Composite.public](/_public/fileClass/FileClass~Composite.public.md) 
 
-### [FileClass~Composite.protect](/_protect\fileClass/FileClass~Composite.protect.md) 
+### [FileClass~Composite.internal](/_internal/fileClass/FileClass~Composite.internal.md) 
 
-### [FileClass~Composite.private](/_private\fileClass/FileClass~Composite.private.md) 
+### [FileClass~Composite.protect](/_protect/fileClass/FileClass~Composite.protect.md) 
 
-### [FileClass~Composite.personal](/_personal\fileClass/FileClass~Composite.personal.md) 
+### [FileClass~Composite.private](/_private/fileClass/FileClass~Composite.private.md) 
 
-### [FileClass~Composite.secret](/_secret\fileClass/FileClass~Composite.secret.md)
+### [FileClass~Composite.personal](/_personal/fileClass/FileClass~Composite.personal.md) 
+
+### [FileClass~Composite.secret](/_secret/fileClass/FileClass~Composite.secret.md)
 

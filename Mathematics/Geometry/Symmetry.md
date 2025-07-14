@@ -44,19 +44,19 @@ Commons_category: Symmetry
 > [Wikipedia](https://en.wikipedia.org/wiki/Symmetry)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Symmetry.public](/_public\Mathematics\Geometry/Symmetry.public.md) 
+### [Symmetry](/_Standards/Mathematics/Geometry/Symmetry.md) 
 
-### [Symmetry.internal](/_internal\Mathematics\Geometry/Symmetry.internal.md) 
+### [Symmetry.public](/_public/Mathematics/Geometry/Symmetry.public.md) 
 
-### [Symmetry.protect](/_protect\Mathematics\Geometry/Symmetry.protect.md) 
+### [Symmetry.internal](/_internal/Mathematics/Geometry/Symmetry.internal.md) 
 
-### [Symmetry.private](/_private\Mathematics\Geometry/Symmetry.private.md) 
+### [Symmetry.protect](/_protect/Mathematics/Geometry/Symmetry.protect.md) 
 
-### [Symmetry.personal](/_personal\Mathematics\Geometry/Symmetry.personal.md) 
+### [Symmetry.private](/_private/Mathematics/Geometry/Symmetry.private.md) 
 
-### [Symmetry.secret](/_secret\Mathematics\Geometry/Symmetry.secret.md)
+### [Symmetry.personal](/_personal/Mathematics/Geometry/Symmetry.personal.md) 
+
+### [Symmetry.secret](/_secret/Mathematics/Geometry/Symmetry.secret.md)
 

@@ -106,15 +106,17 @@ options:
 
 ## Confidential Links & Embeds: 
 
-### [Greenhouse-Effect.public](/_public\Earth\Atmosphere/Greenhouse-Effect.public.md) 
+### [Greenhouse-Effect](/_Standards/Earth/Atmosphere/Greenhouse-Effect.md) 
 
-### [Greenhouse-Effect.internal](/_internal\Earth\Atmosphere/Greenhouse-Effect.internal.md) 
+### [Greenhouse-Effect.public](/_public/Earth/Atmosphere/Greenhouse-Effect.public.md) 
 
-### [Greenhouse-Effect.protect](/_protect\Earth\Atmosphere/Greenhouse-Effect.protect.md) 
+### [Greenhouse-Effect.internal](/_internal/Earth/Atmosphere/Greenhouse-Effect.internal.md) 
 
-### [Greenhouse-Effect.private](/_private\Earth\Atmosphere/Greenhouse-Effect.private.md) 
+### [Greenhouse-Effect.protect](/_protect/Earth/Atmosphere/Greenhouse-Effect.protect.md) 
 
-### [Greenhouse-Effect.personal](/_personal\Earth\Atmosphere/Greenhouse-Effect.personal.md) 
+### [Greenhouse-Effect.private](/_private/Earth/Atmosphere/Greenhouse-Effect.private.md) 
 
-### [Greenhouse-Effect.secret](/_secret\Earth\Atmosphere/Greenhouse-Effect.secret.md)
+### [Greenhouse-Effect.personal](/_personal/Earth/Atmosphere/Greenhouse-Effect.personal.md) 
+
+### [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere/Greenhouse-Effect.secret.md)
 

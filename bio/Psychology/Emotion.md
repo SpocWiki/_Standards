@@ -16,19 +16,19 @@ has_id_wikidata: Q9415
 > [Wikipedia](https://en.wikipedia.org/wiki/Emotion)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Emotion.public](/_public\bio\Psychology/Emotion.public.md) 
+### [Emotion](/_Standards/bio/Psychology/Emotion.md) 
 
-### [Emotion.internal](/_internal\bio\Psychology/Emotion.internal.md) 
+### [Emotion.public](/_public/bio/Psychology/Emotion.public.md) 
 
-### [Emotion.protect](/_protect\bio\Psychology/Emotion.protect.md) 
+### [Emotion.internal](/_internal/bio/Psychology/Emotion.internal.md) 
 
-### [Emotion.private](/_private\bio\Psychology/Emotion.private.md) 
+### [Emotion.protect](/_protect/bio/Psychology/Emotion.protect.md) 
 
-### [Emotion.personal](/_personal\bio\Psychology/Emotion.personal.md) 
+### [Emotion.private](/_private/bio/Psychology/Emotion.private.md) 
 
-### [Emotion.secret](/_secret\bio\Psychology/Emotion.secret.md)
+### [Emotion.personal](/_personal/bio/Psychology/Emotion.personal.md) 
+
+### [Emotion.secret](/_secret/bio/Psychology/Emotion.secret.md)
 

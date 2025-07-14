@@ -20,19 +20,19 @@ has_id_wikidata: Q28086552
 > [Wikipedia](https://en.wikipedia.org/wiki/Nicotine)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nicotine.public](/_public\chemic\organic/Nicotine.public.md) 
+### [Nicotine](/_Standards/chemic/organic/Nicotine.md) 
 
-### [Nicotine.internal](/_internal\chemic\organic/Nicotine.internal.md) 
+### [Nicotine.public](/_public/chemic/organic/Nicotine.public.md) 
 
-### [Nicotine.protect](/_protect\chemic\organic/Nicotine.protect.md) 
+### [Nicotine.internal](/_internal/chemic/organic/Nicotine.internal.md) 
 
-### [Nicotine.private](/_private\chemic\organic/Nicotine.private.md) 
+### [Nicotine.protect](/_protect/chemic/organic/Nicotine.protect.md) 
 
-### [Nicotine.personal](/_personal\chemic\organic/Nicotine.personal.md) 
+### [Nicotine.private](/_private/chemic/organic/Nicotine.private.md) 
 
-### [Nicotine.secret](/_secret\chemic\organic/Nicotine.secret.md)
+### [Nicotine.personal](/_personal/chemic/organic/Nicotine.personal.md) 
+
+### [Nicotine.secret](/_secret/chemic/organic/Nicotine.secret.md)
 

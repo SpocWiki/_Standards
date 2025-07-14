@@ -67,15 +67,17 @@ Commons_category: Ecology
 
 ## Confidential Links & Embeds: 
 
-### [Ecology.public](/_public\bio/Ecology.public.md) 
+### [Ecology](/_Standards/bio/Ecology.md) 
 
-### [Ecology.internal](/_internal\bio/Ecology.internal.md) 
+### [Ecology.public](/_public/bio/Ecology.public.md) 
 
-### [Ecology.protect](/_protect\bio/Ecology.protect.md) 
+### [Ecology.internal](/_internal/bio/Ecology.internal.md) 
 
-### [Ecology.private](/_private\bio/Ecology.private.md) 
+### [Ecology.protect](/_protect/bio/Ecology.protect.md) 
 
-### [Ecology.personal](/_personal\bio/Ecology.personal.md) 
+### [Ecology.private](/_private/bio/Ecology.private.md) 
 
-### [Ecology.secret](/_secret\bio/Ecology.secret.md)
+### [Ecology.personal](/_personal/bio/Ecology.personal.md) 
+
+### [Ecology.secret](/_secret/bio/Ecology.secret.md)
 

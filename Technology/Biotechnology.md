@@ -22,15 +22,17 @@ has_id_wikidata: Q7108
 
 ## Confidential Links & Embeds: 
 
-### [Biotechnology.public](/_public\Technology/Biotechnology.public.md) 
+### [Biotechnology](/_Standards/Technology/Biotechnology.md) 
 
-### [Biotechnology.internal](/_internal\Technology/Biotechnology.internal.md) 
+### [Biotechnology.public](/_public/Technology/Biotechnology.public.md) 
 
-### [Biotechnology.protect](/_protect\Technology/Biotechnology.protect.md) 
+### [Biotechnology.internal](/_internal/Technology/Biotechnology.internal.md) 
 
-### [Biotechnology.private](/_private\Technology/Biotechnology.private.md) 
+### [Biotechnology.protect](/_protect/Technology/Biotechnology.protect.md) 
 
-### [Biotechnology.personal](/_personal\Technology/Biotechnology.personal.md) 
+### [Biotechnology.private](/_private/Technology/Biotechnology.private.md) 
 
-### [Biotechnology.secret](/_secret\Technology/Biotechnology.secret.md)
+### [Biotechnology.personal](/_personal/Technology/Biotechnology.personal.md) 
+
+### [Biotechnology.secret](/_secret/Technology/Biotechnology.secret.md)
 

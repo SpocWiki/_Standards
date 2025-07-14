@@ -29,20 +29,19 @@ Krugosvet_article: geografiya/koordinaty
 > [Wikipedia](https://en.wikipedia.org/wiki/Coordinate%20system)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Coordinate_System.public](/_public\Mathematics\Geometry/Coordinate_System.public.md) 
+### [Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System.md) 
 
-### [Coordinate_System.internal](/_internal\Mathematics\Geometry/Coordinate_System.internal.md) 
+### [Coordinate_System.public](/_public/Mathematics/Geometry/Coordinate_System.public.md) 
 
-### [Coordinate_System.protect](/_protect\Mathematics\Geometry/Coordinate_System.protect.md) 
+### [Coordinate_System.internal](/_internal/Mathematics/Geometry/Coordinate_System.internal.md) 
 
-### [Coordinate_System.private](/_private\Mathematics\Geometry/Coordinate_System.private.md) 
+### [Coordinate_System.protect](/_protect/Mathematics/Geometry/Coordinate_System.protect.md) 
 
-### [Coordinate_System.personal](/_personal\Mathematics\Geometry/Coordinate_System.personal.md) 
+### [Coordinate_System.private](/_private/Mathematics/Geometry/Coordinate_System.private.md) 
 
-### [Coordinate_System.secret](/_secret\Mathematics\Geometry/Coordinate_System.secret.md)
+### [Coordinate_System.personal](/_personal/Mathematics/Geometry/Coordinate_System.personal.md) 
+
+### [Coordinate_System.secret](/_secret/Mathematics/Geometry/Coordinate_System.secret.md)
 

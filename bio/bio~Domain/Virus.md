@@ -271,15 +271,17 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### [Virus.public](/_public\bio\bio~Domain/Virus.public.md) 
+### [Virus](/_Standards/bio/bio~Domain/Virus.md) 
 
-### [Virus.internal](/_internal\bio\bio~Domain/Virus.internal.md) 
+### [Virus.public](/_public/bio/bio~Domain/Virus.public.md) 
 
-### [Virus.protect](/_protect\bio\bio~Domain/Virus.protect.md) 
+### [Virus.internal](/_internal/bio/bio~Domain/Virus.internal.md) 
 
-### [Virus.private](/_private\bio\bio~Domain/Virus.private.md) 
+### [Virus.protect](/_protect/bio/bio~Domain/Virus.protect.md) 
 
-### [Virus.personal](/_personal\bio\bio~Domain/Virus.personal.md) 
+### [Virus.private](/_private/bio/bio~Domain/Virus.private.md) 
 
-### [Virus.secret](/_secret\bio\bio~Domain/Virus.secret.md)
+### [Virus.personal](/_personal/bio/bio~Domain/Virus.personal.md) 
+
+### [Virus.secret](/_secret/bio/bio~Domain/Virus.secret.md)
 

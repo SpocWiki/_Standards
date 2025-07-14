@@ -148,15 +148,17 @@ markerFolder: ./Europe/City/
 
 ## Confidential Links & Embeds: 
 
-### [Europe.public](/_public\Earth\Continent/Europe.public.md) 
+### [Europe](/_Standards/Earth/Continent/Europe.md) 
 
-### [Europe.internal](/_internal\Earth\Continent/Europe.internal.md) 
+### [Europe.public](/_public/Earth/Continent/Europe.public.md) 
 
-### [Europe.protect](/_protect\Earth\Continent/Europe.protect.md) 
+### [Europe.internal](/_internal/Earth/Continent/Europe.internal.md) 
 
-### [Europe.private](/_private\Earth\Continent/Europe.private.md) 
+### [Europe.protect](/_protect/Earth/Continent/Europe.protect.md) 
 
-### [Europe.personal](/_personal\Earth\Continent/Europe.personal.md) 
+### [Europe.private](/_private/Earth/Continent/Europe.private.md) 
 
-### [Europe.secret](/_secret\Earth\Continent/Europe.secret.md)
+### [Europe.personal](/_personal/Earth/Continent/Europe.personal.md) 
+
+### [Europe.secret](/_secret/Earth/Continent/Europe.secret.md)
 

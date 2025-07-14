@@ -21,15 +21,17 @@ Unit :: #Unit/SI/cd
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Candela.public](/_public\Unit\SI-Unit/Unit~Candela.public.md) 
+### [Unit~Candela](/_Standards/Unit/SI-Unit/Unit~Candela.md) 
 
-### [Unit~Candela.internal](/_internal\Unit\SI-Unit/Unit~Candela.internal.md) 
+### [Unit~Candela.public](/_public/Unit/SI-Unit/Unit~Candela.public.md) 
 
-### [Unit~Candela.protect](/_protect\Unit\SI-Unit/Unit~Candela.protect.md) 
+### [Unit~Candela.internal](/_internal/Unit/SI-Unit/Unit~Candela.internal.md) 
 
-### [Unit~Candela.private](/_private\Unit\SI-Unit/Unit~Candela.private.md) 
+### [Unit~Candela.protect](/_protect/Unit/SI-Unit/Unit~Candela.protect.md) 
 
-### [Unit~Candela.personal](/_personal\Unit\SI-Unit/Unit~Candela.personal.md) 
+### [Unit~Candela.private](/_private/Unit/SI-Unit/Unit~Candela.private.md) 
 
-### [Unit~Candela.secret](/_secret\Unit\SI-Unit/Unit~Candela.secret.md)
+### [Unit~Candela.personal](/_personal/Unit/SI-Unit/Unit~Candela.personal.md) 
+
+### [Unit~Candela.secret](/_secret/Unit/SI-Unit/Unit~Candela.secret.md)
 

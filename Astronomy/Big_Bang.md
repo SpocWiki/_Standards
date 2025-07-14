@@ -78,15 +78,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Big_Bang.public](/_public\Astronomy/Big_Bang.public.md) 
+### [Big_Bang](/_Standards/Astronomy/Big_Bang.md) 
 
-### [Big_Bang.internal](/_internal\Astronomy/Big_Bang.internal.md) 
+### [Big_Bang.public](/_public/Astronomy/Big_Bang.public.md) 
 
-### [Big_Bang.protect](/_protect\Astronomy/Big_Bang.protect.md) 
+### [Big_Bang.internal](/_internal/Astronomy/Big_Bang.internal.md) 
 
-### [Big_Bang.private](/_private\Astronomy/Big_Bang.private.md) 
+### [Big_Bang.protect](/_protect/Astronomy/Big_Bang.protect.md) 
 
-### [Big_Bang.personal](/_personal\Astronomy/Big_Bang.personal.md) 
+### [Big_Bang.private](/_private/Astronomy/Big_Bang.private.md) 
 
-### [Big_Bang.secret](/_secret\Astronomy/Big_Bang.secret.md)
+### [Big_Bang.personal](/_personal/Astronomy/Big_Bang.personal.md) 
+
+### [Big_Bang.secret](/_secret/Astronomy/Big_Bang.secret.md)
 

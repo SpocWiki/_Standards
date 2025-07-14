@@ -24,18 +24,19 @@ aliases:
 [[../../../Knowledge/Philosophy/Philosopher/Sloterdijk,Peter]]   
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Philosopher.public](/_public\bio\People/Philosopher.public.md) 
+### [Philosopher](/_Standards/bio/People/Philosopher.md) 
 
-### [Philosopher.internal](/_internal\bio\People/Philosopher.internal.md) 
+### [Philosopher.public](/_public/bio/People/Philosopher.public.md) 
 
-### [Philosopher.protect](/_protect\bio\People/Philosopher.protect.md) 
+### [Philosopher.internal](/_internal/bio/People/Philosopher.internal.md) 
 
-### [Philosopher.private](/_private\bio\People/Philosopher.private.md) 
+### [Philosopher.protect](/_protect/bio/People/Philosopher.protect.md) 
 
-### [Philosopher.personal](/_personal\bio\People/Philosopher.personal.md) 
+### [Philosopher.private](/_private/bio/People/Philosopher.private.md) 
 
-### [Philosopher.secret](/_secret\bio\People/Philosopher.secret.md)
+### [Philosopher.personal](/_personal/bio/People/Philosopher.personal.md) 
+
+### [Philosopher.secret](/_secret/bio/People/Philosopher.secret.md)
 

@@ -18,22 +18,19 @@ the RIC is aligned with the EU [[Recycling_codes]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Resin%20identification%20code)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [RIC.public](/_public\chemic\organic/RIC.public.md) 
+### [RIC](/_Standards/chemic/organic/RIC.md) 
 
-### [RIC.internal](/_internal\chemic\organic/RIC.internal.md) 
+### [RIC.public](/_public/chemic/organic/RIC.public.md) 
 
-### [RIC.protect](/_protect\chemic\organic/RIC.protect.md) 
+### [RIC.internal](/_internal/chemic/organic/RIC.internal.md) 
 
-### [RIC.private](/_private\chemic\organic/RIC.private.md) 
+### [RIC.protect](/_protect/chemic/organic/RIC.protect.md) 
 
-### [RIC.personal](/_personal\chemic\organic/RIC.personal.md) 
+### [RIC.private](/_private/chemic/organic/RIC.private.md) 
 
-### [RIC.secret](/_secret\chemic\organic/RIC.secret.md)
+### [RIC.personal](/_personal/chemic/organic/RIC.personal.md) 
+
+### [RIC.secret](/_secret/chemic/organic/RIC.secret.md)
 

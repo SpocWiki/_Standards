@@ -19,15 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [UNESCWA.public](/_public\UN(United_Nations)\ECOSOC/UNESCWA.public.md) 
+### [UNESCWA](/_Standards/UN(United_Nations)/ECOSOC/UNESCWA.md) 
 
-### [UNESCWA.internal](/_internal\UN(United_Nations)\ECOSOC/UNESCWA.internal.md) 
+### [UNESCWA.public](/_public/UN(United_Nations)/ECOSOC/UNESCWA.public.md) 
 
-### [UNESCWA.protect](/_protect\UN(United_Nations)\ECOSOC/UNESCWA.protect.md) 
+### [UNESCWA.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal.md) 
 
-### [UNESCWA.private](/_private\UN(United_Nations)\ECOSOC/UNESCWA.private.md) 
+### [UNESCWA.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect.md) 
 
-### [UNESCWA.personal](/_personal\UN(United_Nations)\ECOSOC/UNESCWA.personal.md) 
+### [UNESCWA.private](/_private/UN(United_Nations)/ECOSOC/UNESCWA.private.md) 
 
-### [UNESCWA.secret](/_secret\UN(United_Nations)\ECOSOC/UNESCWA.secret.md)
+### [UNESCWA.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal.md) 
+
+### [UNESCWA.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret.md)
 

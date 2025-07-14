@@ -61,15 +61,17 @@ Library_of_Congress_Classification: Z6654.A5
 
 ## Confidential Links & Embeds: 
 
-### [Algebra.public](/_public\Mathematics/Algebra.public.md) 
+### [Algebra](/_Standards/Mathematics/Algebra.md) 
 
-### [Algebra.internal](/_internal\Mathematics/Algebra.internal.md) 
+### [Algebra.public](/_public/Mathematics/Algebra.public.md) 
 
-### [Algebra.protect](/_protect\Mathematics/Algebra.protect.md) 
+### [Algebra.internal](/_internal/Mathematics/Algebra.internal.md) 
 
-### [Algebra.private](/_private\Mathematics/Algebra.private.md) 
+### [Algebra.protect](/_protect/Mathematics/Algebra.protect.md) 
 
-### [Algebra.personal](/_personal\Mathematics/Algebra.personal.md) 
+### [Algebra.private](/_private/Mathematics/Algebra.private.md) 
 
-### [Algebra.secret](/_secret\Mathematics/Algebra.secret.md)
+### [Algebra.personal](/_personal/Mathematics/Algebra.personal.md) 
+
+### [Algebra.secret](/_secret/Mathematics/Algebra.secret.md)
 

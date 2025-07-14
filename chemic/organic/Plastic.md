@@ -82,19 +82,19 @@ subreddit: plastic
 | PAP               |      21 | Paper-based  composites           | Variable        | Variable          | Varies      | Varies             | Neutral or burnt paper | Varies                | Varies             |
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Plastic.public](/_public\chemic\organic/Plastic.public.md) 
+### [Plastic](/_Standards/chemic/organic/Plastic.md) 
 
-### [Plastic.internal](/_internal\chemic\organic/Plastic.internal.md) 
+### [Plastic.public](/_public/chemic/organic/Plastic.public.md) 
 
-### [Plastic.protect](/_protect\chemic\organic/Plastic.protect.md) 
+### [Plastic.internal](/_internal/chemic/organic/Plastic.internal.md) 
 
-### [Plastic.private](/_private\chemic\organic/Plastic.private.md) 
+### [Plastic.protect](/_protect/chemic/organic/Plastic.protect.md) 
 
-### [Plastic.personal](/_personal\chemic\organic/Plastic.personal.md) 
+### [Plastic.private](/_private/chemic/organic/Plastic.private.md) 
 
-### [Plastic.secret](/_secret\chemic\organic/Plastic.secret.md)
+### [Plastic.personal](/_personal/chemic/organic/Plastic.personal.md) 
+
+### [Plastic.secret](/_secret/chemic/organic/Plastic.secret.md)
 

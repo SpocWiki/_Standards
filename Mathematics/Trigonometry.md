@@ -46,15 +46,17 @@ subreddit: trigonometry
 
 ## Confidential Links & Embeds: 
 
-### [Trigonometry.public](/_public\Mathematics/Trigonometry.public.md) 
+### [Trigonometry](/_Standards/Mathematics/Trigonometry.md) 
 
-### [Trigonometry.internal](/_internal\Mathematics/Trigonometry.internal.md) 
+### [Trigonometry.public](/_public/Mathematics/Trigonometry.public.md) 
 
-### [Trigonometry.protect](/_protect\Mathematics/Trigonometry.protect.md) 
+### [Trigonometry.internal](/_internal/Mathematics/Trigonometry.internal.md) 
 
-### [Trigonometry.private](/_private\Mathematics/Trigonometry.private.md) 
+### [Trigonometry.protect](/_protect/Mathematics/Trigonometry.protect.md) 
 
-### [Trigonometry.personal](/_personal\Mathematics/Trigonometry.personal.md) 
+### [Trigonometry.private](/_private/Mathematics/Trigonometry.private.md) 
 
-### [Trigonometry.secret](/_secret\Mathematics/Trigonometry.secret.md)
+### [Trigonometry.personal](/_personal/Mathematics/Trigonometry.personal.md) 
+
+### [Trigonometry.secret](/_secret/Mathematics/Trigonometry.secret.md)
 

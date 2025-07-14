@@ -78,19 +78,19 @@ IPTC_NewsCode: mediatopic/20000593
 > [Wikipedia](https://en.wikipedia.org/wiki/Government)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Government.public](/_public\bio\Society/Government.public.md) 
+### [Government](/_Standards/bio/Society/Government.md) 
 
-### [Government.internal](/_internal\bio\Society/Government.internal.md) 
+### [Government.public](/_public/bio/Society/Government.public.md) 
 
-### [Government.protect](/_protect\bio\Society/Government.protect.md) 
+### [Government.internal](/_internal/bio/Society/Government.internal.md) 
 
-### [Government.private](/_private\bio\Society/Government.private.md) 
+### [Government.protect](/_protect/bio/Society/Government.protect.md) 
 
-### [Government.personal](/_personal\bio\Society/Government.personal.md) 
+### [Government.private](/_private/bio/Society/Government.private.md) 
 
-### [Government.secret](/_secret\bio\Society/Government.secret.md)
+### [Government.personal](/_personal/bio/Society/Government.personal.md) 
+
+### [Government.secret](/_secret/bio/Society/Government.secret.md)
 

@@ -8,15 +8,17 @@ Speed is the first Derivative of the [[../../Mathematics/Geometry/Position-Vecto
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Speed.public](/_public\Dimension\Linear_Dimension/Dim~Speed.public.md) 
+### [Dim~Speed](/_Standards/Dimension/Linear_Dimension/Dim~Speed.md) 
 
-### [Dim~Speed.internal](/_internal\Dimension\Linear_Dimension/Dim~Speed.internal.md) 
+### [Dim~Speed.public](/_public/Dimension/Linear_Dimension/Dim~Speed.public.md) 
 
-### [Dim~Speed.protect](/_protect\Dimension\Linear_Dimension/Dim~Speed.protect.md) 
+### [Dim~Speed.internal](/_internal/Dimension/Linear_Dimension/Dim~Speed.internal.md) 
 
-### [Dim~Speed.private](/_private\Dimension\Linear_Dimension/Dim~Speed.private.md) 
+### [Dim~Speed.protect](/_protect/Dimension/Linear_Dimension/Dim~Speed.protect.md) 
 
-### [Dim~Speed.personal](/_personal\Dimension\Linear_Dimension/Dim~Speed.personal.md) 
+### [Dim~Speed.private](/_private/Dimension/Linear_Dimension/Dim~Speed.private.md) 
 
-### [Dim~Speed.secret](/_secret\Dimension\Linear_Dimension/Dim~Speed.secret.md)
+### [Dim~Speed.personal](/_personal/Dimension/Linear_Dimension/Dim~Speed.personal.md) 
+
+### [Dim~Speed.secret](/_secret/Dimension/Linear_Dimension/Dim~Speed.secret.md)
 

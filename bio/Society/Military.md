@@ -46,15 +46,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Military.public](/_public\bio\Society/Military.public.md) 
+### [Military](/_Standards/bio/Society/Military.md) 
 
-### [Military.internal](/_internal\bio\Society/Military.internal.md) 
+### [Military.public](/_public/bio/Society/Military.public.md) 
 
-### [Military.protect](/_protect\bio\Society/Military.protect.md) 
+### [Military.internal](/_internal/bio/Society/Military.internal.md) 
 
-### [Military.private](/_private\bio\Society/Military.private.md) 
+### [Military.protect](/_protect/bio/Society/Military.protect.md) 
 
-### [Military.personal](/_personal\bio\Society/Military.personal.md) 
+### [Military.private](/_private/bio/Society/Military.private.md) 
 
-### [Military.secret](/_secret\bio\Society/Military.secret.md)
+### [Military.personal](/_personal/bio/Society/Military.personal.md) 
+
+### [Military.secret](/_secret/bio/Society/Military.secret.md)
 

@@ -7,6 +7,8 @@ System
 
 ## Confidential Links & Embeds: 
 
+### [NAICS](/_Standards/NAICS.md) 
+
 ### [NAICS.public](/_public/NAICS.public.md) 
 
 ### [NAICS.internal](/_internal/NAICS.internal.md) 

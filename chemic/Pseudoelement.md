@@ -85,15 +85,17 @@ to obtain chemoselectivity in a subsequent chemical reaction, facilitating multi
 
 ## Confidential Links & Embeds: 
 
-### [Pseudoelement.public](/_public\chemic/Pseudoelement.public.md) 
+### [Pseudoelement](/_Standards/chemic/Pseudoelement.md) 
 
-### [Pseudoelement.internal](/_internal\chemic/Pseudoelement.internal.md) 
+### [Pseudoelement.public](/_public/chemic/Pseudoelement.public.md) 
 
-### [Pseudoelement.protect](/_protect\chemic/Pseudoelement.protect.md) 
+### [Pseudoelement.internal](/_internal/chemic/Pseudoelement.internal.md) 
 
-### [Pseudoelement.private](/_private\chemic/Pseudoelement.private.md) 
+### [Pseudoelement.protect](/_protect/chemic/Pseudoelement.protect.md) 
 
-### [Pseudoelement.personal](/_personal\chemic/Pseudoelement.personal.md) 
+### [Pseudoelement.private](/_private/chemic/Pseudoelement.private.md) 
 
-### [Pseudoelement.secret](/_secret\chemic/Pseudoelement.secret.md)
+### [Pseudoelement.personal](/_personal/chemic/Pseudoelement.personal.md) 
+
+### [Pseudoelement.secret](/_secret/chemic/Pseudoelement.secret.md)
 

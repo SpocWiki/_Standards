@@ -112,15 +112,17 @@ NLC_authorities: "000129288"
 
 ## Confidential Links & Embeds: 
 
-### [Durkheim,Émile.public](/_public\Economics/Durkheim,Émile.public.md) 
+### [Durkheim,Émile](/_Standards/Economics/Durkheim,Émile.md) 
 
-### [Durkheim,Émile.internal](/_internal\Economics/Durkheim,Émile.internal.md) 
+### [Durkheim,Émile.public](/_public/Economics/Durkheim,Émile.public.md) 
 
-### [Durkheim,Émile.protect](/_protect\Economics/Durkheim,Émile.protect.md) 
+### [Durkheim,Émile.internal](/_internal/Economics/Durkheim,Émile.internal.md) 
 
-### [Durkheim,Émile.private](/_private\Economics/Durkheim,Émile.private.md) 
+### [Durkheim,Émile.protect](/_protect/Economics/Durkheim,Émile.protect.md) 
 
-### [Durkheim,Émile.personal](/_personal\Economics/Durkheim,Émile.personal.md) 
+### [Durkheim,Émile.private](/_private/Economics/Durkheim,Émile.private.md) 
 
-### [Durkheim,Émile.secret](/_secret\Economics/Durkheim,Émile.secret.md)
+### [Durkheim,Émile.personal](/_personal/Economics/Durkheim,Émile.personal.md) 
+
+### [Durkheim,Émile.secret](/_secret/Economics/Durkheim,Émile.secret.md)
 

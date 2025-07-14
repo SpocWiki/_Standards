@@ -12,15 +12,17 @@ Hangul Script is used in [[../Lang~Family/LangFamily-Koreanic/Lang-ko|Korean]] L
 
 ## Confidential Links & Embeds: 
 
-### [Script~Hang.public](/_public\Language\Scripts/Script~Hang.public.md) 
+### [Script~Hang](/_Standards/Language/Scripts/Script~Hang.md) 
 
-### [Script~Hang.internal](/_internal\Language\Scripts/Script~Hang.internal.md) 
+### [Script~Hang.public](/_public/Language/Scripts/Script~Hang.public.md) 
 
-### [Script~Hang.protect](/_protect\Language\Scripts/Script~Hang.protect.md) 
+### [Script~Hang.internal](/_internal/Language/Scripts/Script~Hang.internal.md) 
 
-### [Script~Hang.private](/_private\Language\Scripts/Script~Hang.private.md) 
+### [Script~Hang.protect](/_protect/Language/Scripts/Script~Hang.protect.md) 
 
-### [Script~Hang.personal](/_personal\Language\Scripts/Script~Hang.personal.md) 
+### [Script~Hang.private](/_private/Language/Scripts/Script~Hang.private.md) 
 
-### [Script~Hang.secret](/_secret\Language\Scripts/Script~Hang.secret.md)
+### [Script~Hang.personal](/_personal/Language/Scripts/Script~Hang.personal.md) 
+
+### [Script~Hang.secret](/_secret/Language/Scripts/Script~Hang.secret.md)
 

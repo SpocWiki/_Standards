@@ -48,20 +48,19 @@ Commons_category: "Nuclear fission"
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20fission)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nuclear_Fission.public](/_public\Science\Physics/Nuclear_Fission.public.md) 
+### [Nuclear_Fission](/_Standards/Science/Physics/Nuclear_Fission.md) 
 
-### [Nuclear_Fission.internal](/_internal\Science\Physics/Nuclear_Fission.internal.md) 
+### [Nuclear_Fission.public](/_public/Science/Physics/Nuclear_Fission.public.md) 
 
-### [Nuclear_Fission.protect](/_protect\Science\Physics/Nuclear_Fission.protect.md) 
+### [Nuclear_Fission.internal](/_internal/Science/Physics/Nuclear_Fission.internal.md) 
 
-### [Nuclear_Fission.private](/_private\Science\Physics/Nuclear_Fission.private.md) 
+### [Nuclear_Fission.protect](/_protect/Science/Physics/Nuclear_Fission.protect.md) 
 
-### [Nuclear_Fission.personal](/_personal\Science\Physics/Nuclear_Fission.personal.md) 
+### [Nuclear_Fission.private](/_private/Science/Physics/Nuclear_Fission.private.md) 
 
-### [Nuclear_Fission.secret](/_secret\Science\Physics/Nuclear_Fission.secret.md)
+### [Nuclear_Fission.personal](/_personal/Science/Physics/Nuclear_Fission.personal.md) 
+
+### [Nuclear_Fission.secret](/_secret/Science/Physics/Nuclear_Fission.secret.md)
 

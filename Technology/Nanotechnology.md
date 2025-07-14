@@ -45,15 +45,17 @@ PhilPapers_topic: nanotechnology
 
 ## Confidential Links & Embeds: 
 
-### [Nanotechnology.public](/_public\Technology/Nanotechnology.public.md) 
+### [Nanotechnology](/_Standards/Technology/Nanotechnology.md) 
 
-### [Nanotechnology.internal](/_internal\Technology/Nanotechnology.internal.md) 
+### [Nanotechnology.public](/_public/Technology/Nanotechnology.public.md) 
 
-### [Nanotechnology.protect](/_protect\Technology/Nanotechnology.protect.md) 
+### [Nanotechnology.internal](/_internal/Technology/Nanotechnology.internal.md) 
 
-### [Nanotechnology.private](/_private\Technology/Nanotechnology.private.md) 
+### [Nanotechnology.protect](/_protect/Technology/Nanotechnology.protect.md) 
 
-### [Nanotechnology.personal](/_personal\Technology/Nanotechnology.personal.md) 
+### [Nanotechnology.private](/_private/Technology/Nanotechnology.private.md) 
 
-### [Nanotechnology.secret](/_secret\Technology/Nanotechnology.secret.md)
+### [Nanotechnology.personal](/_personal/Technology/Nanotechnology.personal.md) 
+
+### [Nanotechnology.secret](/_secret/Technology/Nanotechnology.secret.md)
 

@@ -27,15 +27,17 @@ has_id_wikidata: Q101333
 
 ## Confidential Links & Embeds: 
 
-### [Mechanical_Engineering.public](/_public\Technology/Mechanical_Engineering.public.md) 
+### [Mechanical_Engineering](/_Standards/Technology/Mechanical_Engineering.md) 
 
-### [Mechanical_Engineering.internal](/_internal\Technology/Mechanical_Engineering.internal.md) 
+### [Mechanical_Engineering.public](/_public/Technology/Mechanical_Engineering.public.md) 
 
-### [Mechanical_Engineering.protect](/_protect\Technology/Mechanical_Engineering.protect.md) 
+### [Mechanical_Engineering.internal](/_internal/Technology/Mechanical_Engineering.internal.md) 
 
-### [Mechanical_Engineering.private](/_private\Technology/Mechanical_Engineering.private.md) 
+### [Mechanical_Engineering.protect](/_protect/Technology/Mechanical_Engineering.protect.md) 
 
-### [Mechanical_Engineering.personal](/_personal\Technology/Mechanical_Engineering.personal.md) 
+### [Mechanical_Engineering.private](/_private/Technology/Mechanical_Engineering.private.md) 
 
-### [Mechanical_Engineering.secret](/_secret\Technology/Mechanical_Engineering.secret.md)
+### [Mechanical_Engineering.personal](/_personal/Technology/Mechanical_Engineering.personal.md) 
+
+### [Mechanical_Engineering.secret](/_secret/Technology/Mechanical_Engineering.secret.md)
 

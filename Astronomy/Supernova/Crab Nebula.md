@@ -46,19 +46,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Crab%20Nebula) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Crab Nebula.public](/_public\Astronomy\Supernova/Crab Nebula.public.md) 
+### [Crab Nebula](/_Standards/Astronomy/Supernova/Crab Nebula.md) 
 
-### [Crab Nebula.internal](/_internal\Astronomy\Supernova/Crab Nebula.internal.md) 
+### [Crab Nebula.public](/_public/Astronomy/Supernova/Crab Nebula.public.md) 
 
-### [Crab Nebula.protect](/_protect\Astronomy\Supernova/Crab Nebula.protect.md) 
+### [Crab Nebula.internal](/_internal/Astronomy/Supernova/Crab Nebula.internal.md) 
 
-### [Crab Nebula.private](/_private\Astronomy\Supernova/Crab Nebula.private.md) 
+### [Crab Nebula.protect](/_protect/Astronomy/Supernova/Crab Nebula.protect.md) 
 
-### [Crab Nebula.personal](/_personal\Astronomy\Supernova/Crab Nebula.personal.md) 
+### [Crab Nebula.private](/_private/Astronomy/Supernova/Crab Nebula.private.md) 
 
-### [Crab Nebula.secret](/_secret\Astronomy\Supernova/Crab Nebula.secret.md)
+### [Crab Nebula.personal](/_personal/Astronomy/Supernova/Crab Nebula.personal.md) 
+
+### [Crab Nebula.secret](/_secret/Astronomy/Supernova/Crab Nebula.secret.md)
 
