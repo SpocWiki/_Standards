@@ -86,3 +86,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astronomy)
 > 
+## Confidential Links & Embeds: 
+
+### [Astronomy.public](/_public/Astronomy.public.md) 
+
+### [Astronomy.internal](/_internal/Astronomy.internal.md) 
+
+### [Astronomy.protect](/_protect/Astronomy.protect.md) 
+
+### [Astronomy.private](/_private/Astronomy.private.md) 
+
+### [Astronomy.personal](/_personal/Astronomy.personal.md) 
+
+### [Astronomy.secret](/_secret/Astronomy.secret.md)
+

@@ -60,7 +60,7 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Unicode](/_public/Unicode.md) 
+### [Unicode.public](/_public/Unicode.public.md) 
 
 ### [Unicode.internal](/_internal/Unicode.internal.md) 
 
@@ -70,4 +70,5 @@ type: folder_brief_live
 
 ### [Unicode.personal](/_personal/Unicode.personal.md) 
 
-### [Unicode.secret](/_secret/Unicode.secret.md) 
+### [Unicode.secret](/_secret/Unicode.secret.md)
+

@@ -146,3 +146,18 @@ Stack_Exchange_site_URL: "https://math.stackexchange.com"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematics) 
 
+
+## Confidential Links & Embeds: 
+
+### [Mathematics.public](/_public/Mathematics.public.md) 
+
+### [Mathematics.internal](/_internal/Mathematics.internal.md) 
+
+### [Mathematics.protect](/_protect/Mathematics.protect.md) 
+
+### [Mathematics.private](/_private/Mathematics.private.md) 
+
+### [Mathematics.personal](/_personal/Mathematics.personal.md) 
+
+### [Mathematics.secret](/_secret/Mathematics.secret.md)
+

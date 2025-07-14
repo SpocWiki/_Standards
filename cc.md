@@ -1,4 +1,4 @@
-﻿---
+---
 icon: fab_creative_commons
 ---
 One popular ontology for representing licensing information 
@@ -7,7 +7,7 @@ It provides a structured way to express licensing terms and conditions for resou
 
 ## Confidential Links & Embeds: 
 
-### [cc](/_public/cc.md) 
+### [cc.public](/_public/cc.public.md) 
 
 ### [cc.internal](/_internal/cc.internal.md) 
 
@@ -17,4 +17,5 @@ It provides a structured way to express licensing terms and conditions for resou
 
 ### [cc.personal](/_personal/cc.personal.md) 
 
-### [cc.secret](/_secret/cc.secret.md) 
+### [cc.secret](/_secret/cc.secret.md)
+

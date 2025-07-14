@@ -1,4 +1,4 @@
-﻿# Standards 
+# Standards 
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/_Standards 
 
@@ -150,7 +150,7 @@ has_time_destroyed: Date (and Time) of Destruction/Death/Dissolution/Demise
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_public/ReadMe.md) 
+### [ReadMe.public](/_public/ReadMe.public.md) 
 
 ### [ReadMe.internal](/_internal/ReadMe.internal.md) 
 
@@ -160,4 +160,5 @@ has_time_destroyed: Date (and Time) of Destruction/Death/Dissolution/Demise
 
 ### [ReadMe.personal](/_personal/ReadMe.personal.md) 
 
-### [ReadMe.secret](/_secret/ReadMe.secret.md) 
+### [ReadMe.secret](/_secret/ReadMe.secret.md)
+

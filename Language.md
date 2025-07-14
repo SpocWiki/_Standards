@@ -81,7 +81,7 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/language"
 
 ## Confidential Links & Embeds: 
 
-### [Language](/_public/Language.md) 
+### [Language.public](/_public/Language.public.md) 
 
 ### [Language.internal](/_internal/Language.internal.md) 
 
@@ -91,4 +91,5 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/language"
 
 ### [Language.personal](/_personal/Language.personal.md) 
 
-### [Language.secret](/_secret/Language.secret.md) 
+### [Language.secret](/_secret/Language.secret.md)
+

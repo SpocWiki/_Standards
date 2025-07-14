@@ -1,4 +1,4 @@
-﻿# [[fileClass]] 
+# [[fileClass]] 
 
 This Folder contains Definition Files for Standard Classes 
 derived from the [[schema-org]]. 
@@ -18,7 +18,7 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [fileClass](/_public/fileClass.md) 
+### [fileClass.public](/_public/fileClass.public.md) 
 
 ### [fileClass.internal](/_internal/fileClass.internal.md) 
 
@@ -28,4 +28,5 @@ type: folder_brief_live
 
 ### [fileClass.personal](/_personal/fileClass.personal.md) 
 
-### [fileClass.secret](/_secret/fileClass.secret.md) 
+### [fileClass.secret](/_secret/fileClass.secret.md)
+

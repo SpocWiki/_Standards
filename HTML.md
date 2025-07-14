@@ -1,4 +1,4 @@
-﻿
+
 # [[HTML]] 
 
 ## Overview
@@ -59,7 +59,7 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [HTML](/_public/HTML.md) 
+### [HTML.public](/_public/HTML.public.md) 
 
 ### [HTML.internal](/_internal/HTML.internal.md) 
 
@@ -69,4 +69,5 @@ type: folder_brief_live
 
 ### [HTML.personal](/_personal/HTML.personal.md) 
 
-### [HTML.secret](/_secret/HTML.secret.md) 
+### [HTML.secret](/_secret/HTML.secret.md)
+

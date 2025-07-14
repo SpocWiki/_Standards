@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q{{id}}
 ---
 
@@ -10,7 +10,7 @@ has_id_wikidata: Q{{id}}
 
 ## Confidential Links & Embeds: 
 
-### [WikiData.template](/_public/WikiData.template.md) 
+### [WikiData.template.public](/_public/WikiData.template.public.md) 
 
 ### [WikiData.template.internal](/_internal/WikiData.template.internal.md) 
 
@@ -20,4 +20,5 @@ has_id_wikidata: Q{{id}}
 
 ### [WikiData.template.personal](/_personal/WikiData.template.personal.md) 
 
-### [WikiData.template.secret](/_secret/WikiData.template.secret.md) 
+### [WikiData.template.secret](/_secret/WikiData.template.secret.md)
+

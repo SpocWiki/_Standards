@@ -114,19 +114,15 @@ The Folder Names are kept brief, to allow for deep Directory Structures.
 
 ## Confidential Links & Embeds: 
 
-### [bio](../_public/bio.md) 
+### [bio.public](/_public/bio.public.md) 
 
-### [bio.internal](../_internal/bio.internal.md) 
+### [bio.internal](/_internal/bio.internal.md) 
 
-### [bio.protect](../_protect/bio.protect.md) 
+### [bio.protect](/_protect/bio.protect.md) 
 
-### [bio.private](../_private/bio.private.md) 
+### [bio.private](/_private/bio.private.md) 
 
-### [bio.personal](../_personal/bio.personal.md) 
+### [bio.personal](/_personal/bio.personal.md) 
 
-### [bio.secret](../_secret/bio.secret.md) 
-
-
-cret.md) 
-
+### [bio.secret](/_secret/bio.secret.md)
 

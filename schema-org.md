@@ -1,4 +1,4 @@
-﻿
+
 
 
 #has_/url :: https://schema.org/  
@@ -95,7 +95,7 @@ Examples are:
 
 ## Confidential Links & Embeds: 
 
-### [schema-org](/_public/schema-org.md) 
+### [schema-org.public](/_public/schema-org.public.md) 
 
 ### [schema-org.internal](/_internal/schema-org.internal.md) 
 
@@ -105,4 +105,5 @@ Examples are:
 
 ### [schema-org.personal](/_personal/schema-org.personal.md) 
 
-### [schema-org.secret](/_secret/schema-org.secret.md) 
+### [schema-org.secret](/_secret/schema-org.secret.md)
+

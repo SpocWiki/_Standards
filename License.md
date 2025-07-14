@@ -1,4 +1,4 @@
-﻿# Creative Commons Legal Code
+# Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -112,7 +112,7 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_public/License.md) 
+### [License.public](/_public/License.public.md) 
 
 ### [License.internal](/_internal/License.internal.md) 
 
@@ -122,4 +122,5 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ### [License.personal](/_personal/License.personal.md) 
 
-### [License.secret](/_secret/License.secret.md) 
+### [License.secret](/_secret/License.secret.md)
+

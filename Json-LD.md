@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 confidential: private
 isDeleted: false
@@ -173,7 +173,7 @@ NewtonSoft Json uses `#text` Array to collect the inner Text of XML Nodes.
 
 ## Confidential Links & Embeds: 
 
-### [Json-LD](/_public/Json-LD.md) 
+### [Json-LD.public](/_public/Json-LD.public.md) 
 
 ### [Json-LD.internal](/_internal/Json-LD.internal.md) 
 
@@ -183,4 +183,5 @@ NewtonSoft Json uses `#text` Array to collect the inner Text of XML Nodes.
 
 ### [Json-LD.personal](/_personal/Json-LD.personal.md) 
 
-### [Json-LD.secret](/_secret/Json-LD.secret.md) 
+### [Json-LD.secret](/_secret/Json-LD.secret.md)
+

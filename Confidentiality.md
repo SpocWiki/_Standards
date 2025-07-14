@@ -62,7 +62,7 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Confidentiality](/_public/Confidentiality.md) 
+### [Confidentiality.public](/_public/Confidentiality.public.md) 
 
 ### [Confidentiality.internal](/_internal/Confidentiality.internal.md) 
 
@@ -72,4 +72,5 @@ type: folder_brief_live
 
 ### [Confidentiality.personal](/_personal/Confidentiality.personal.md) 
 
-### [Confidentiality.secret](/_secret/Confidentiality.secret.md) 
+### [Confidentiality.secret](/_secret/Confidentiality.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: (c)copyrighted
 confidential: private
 isDeleted: false
@@ -78,7 +78,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [goodRelations](/_public/goodRelations.md) 
+### [goodRelations.public](/_public/goodRelations.public.md) 
 
 ### [goodRelations.internal](/_internal/goodRelations.internal.md) 
 
@@ -88,4 +88,5 @@ noteOnly: true
 
 ### [goodRelations.personal](/_personal/goodRelations.personal.md) 
 
-### [goodRelations.secret](/_secret/goodRelations.secret.md) 
+### [goodRelations.secret](/_secret/goodRelations.secret.md)
+

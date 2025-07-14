@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q336
 Commons_category: Science
 Archive_of_Our_Own_tag: Science
@@ -96,4 +96,19 @@ Library_of_Congress_Classification: Q
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Science)
 
+
+
+## Confidential Links & Embeds: 
+
+### [Science.public](/_public/Science.public.md) 
+
+### [Science.internal](/_internal/Science.internal.md) 
+
+### [Science.protect](/_protect/Science.protect.md) 
+
+### [Science.private](/_private/Science.private.md) 
+
+### [Science.personal](/_personal/Science.personal.md) 
+
+### [Science.secret](/_secret/Science.secret.md)
 
