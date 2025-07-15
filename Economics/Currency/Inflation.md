@@ -71,4 +71,10 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inflation) 
 
+## #has_/examples 
+
+1973 Oil-Crisis 
+1930 Black Friday 
+18?? 
+
 

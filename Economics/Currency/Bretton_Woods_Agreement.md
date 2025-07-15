@@ -8,9 +8,14 @@ aliases:
 ---
 
 #has_/time_/started ::  1944-07-01 
-#has_/time_/stopped ::  1944-07-22 
+#has_/time_/stopped ::  1976-01-07  
 
 #has_/next_item :: [[Jamaica_Accords]] 
+
+from 1960 to 1970 France swapped USD to Gold, depleting the US Resources by 50% 
+1971 Nixon stopped conversion of USD to Gold 
+As a Result the Price of Gold grew 10fold 
+1982 [[AT&T]] was the last [[Monopoly]] broken up and in the meantime it has re-merged to 3 Companies: [[Verizon]], [[Lumen_Tech]] and [[../../../IT/IT~Companies/AT&T|AT&T]] 
 
 ## #has_/text_of_/abstract 
 

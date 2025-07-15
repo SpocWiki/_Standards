@@ -21,19 +21,23 @@ Dewey_Decimal_Classification:
 Commons_category: Republic
 ---
 
+# [[Republic]] 
+
+Republic focuses on __structures and legal frameworks that guide how power is exercised and limited__.
+
+A republic is a form of government in which the country is considered a "public matter" 
+(from the Latin _res publica_ ), and is not the private concern or property of the rulers. 
+This includes that __any decision can be questioned by the Public__. 
+The head of state is usually an elected or appointed president, not a monarch.
+
 Most modern democracies are also republics. 
 They blend the principles of democracy (elections and majority rule) 
 with those of a republic (constitutional protections for individual rights).
 
 In summary, while both terms relate to systems where power ultimately resides with the people, 
-- "democracy" focuses on how decisions are made (through direct or representative participation), and 
-- "republic" focuses on the structures and legal frameworks that guide how power is exercised and limited. 
+- [[Democracy]] focuses on how decisions are made (through direct or representative participation), and 
+- [[Republic]] focuses on the structures and legal frameworks that guide how power is exercised and limited. 
 
-
-A republic is a form of government in which the country is considered a "public matter" 
-(from the Latin _res publica_ ), and is not the private concern or property of the rulers. 
-This includes that any decision can be questioned by the Public. 
-The head of state is usually an elected or appointed president, not a monarch.
 
 ## #has_/text_of_/abstract 
 
@@ -47,12 +51,14 @@ The head of state is usually an elected or appointed president, not a monarch.
 > among the 159 states that use the word republic in their official names as of 2017, 
 > are states that narrowly constrain both the right of representation and the process of election.
 >
-> The term developed its modern meaning in reference to the constitution of the ancient Roman Republic, 
-> lasting from the overthrow of the kings in 509 BC to the establishment of the Empire in 27 BC. 
+> The term developed its modern meaning in reference to the constitution of the ancient Roman Republic, lasting 
+> - from the overthrow of the kings in 509 BC 
+> - to the establishment of the Empire in 27 BC. 
+> 
 > This constitution was characterized by 
-> - a Senate composed of wealthy aristocrats wielding significant influence; 
-> - several popular assemblies of all free citizens, possessing the power to elect magistrates from the populace and pass laws; and a 
-> - series of magistracies with varying types of civil and political authority.
+> - a [[Roman_Senate]] composed of wealthy aristocrats wielding significant influence; 
+> - a series of [[Roman_Magistrate]]s with varying types of civil and political authority.
+> - and several popular assemblies of all free citizens, possessing the power to elect magistrates from the populace and pass laws; 
 >
 > Most often a republic is a single sovereign state, 
 > but there are also subnational state entities that are referred to as republics, 

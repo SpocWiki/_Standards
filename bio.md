@@ -97,6 +97,8 @@ arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Tr
 
 The Folder Names are kept brief, to allow for deep Directory Structures. 
 
+# [[bio]] 
+
 
 ## #has_/text_of_/abstract 
 
@@ -126,7 +128,5 @@ The Folder Names are kept brief, to allow for deep Directory Structures.
 
 ### [bio.secret](../_secret/bio.secret.md) 
 
-
-cret.md) 
 
 

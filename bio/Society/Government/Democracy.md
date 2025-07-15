@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7174
 IPTC_NewsCode: mediatopic/20000654
 has_part_s_:
