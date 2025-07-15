@@ -187,17 +187,17 @@ TotalPaymentDue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Invoice](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.md) 
+### #is_/same_as :: [FileClass~Invoice](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.md) 
 
-### [FileClass~Invoice.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.public.md) 
+### #is_/same_as :: [FileClass~Invoice.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.public.md) 
 
-### [FileClass~Invoice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.internal.md) 
+### #is_/same_as :: [FileClass~Invoice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.internal.md) 
 
-### [FileClass~Invoice.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.protect.md) 
+### #is_/same_as :: [FileClass~Invoice.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.protect.md) 
 
-### [FileClass~Invoice.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.private.md) 
+### #is_/same_as :: [FileClass~Invoice.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.private.md) 
 
-### [FileClass~Invoice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.personal.md) 
+### #is_/same_as :: [FileClass~Invoice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.personal.md) 
 
-### [FileClass~Invoice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.secret.md)
+### #is_/same_as :: [FileClass~Invoice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Invoice.secret.md)
 

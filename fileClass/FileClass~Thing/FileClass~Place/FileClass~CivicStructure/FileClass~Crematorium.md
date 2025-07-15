@@ -35,17 +35,17 @@ A crematorium.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Crematorium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.md) 
+### #is_/same_as :: [FileClass~Crematorium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.md) 
 
-### [FileClass~Crematorium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.public.md) 
+### #is_/same_as :: [FileClass~Crematorium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.public.md) 
 
-### [FileClass~Crematorium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.internal.md) 
+### #is_/same_as :: [FileClass~Crematorium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.internal.md) 
 
-### [FileClass~Crematorium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.protect.md) 
+### #is_/same_as :: [FileClass~Crematorium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.protect.md) 
 
-### [FileClass~Crematorium.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.private.md) 
+### #is_/same_as :: [FileClass~Crematorium.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.private.md) 
 
-### [FileClass~Crematorium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.personal.md) 
+### #is_/same_as :: [FileClass~Crematorium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.personal.md) 
 
-### [FileClass~Crematorium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.secret.md)
+### #is_/same_as :: [FileClass~Crematorium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Crematorium.secret.md)
 

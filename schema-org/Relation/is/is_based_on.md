@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_based_on](/_Standards/schema-org/Relation/is/is_based_on.md) 
+### #is_/same_as :: [is_based_on](/_Standards/schema-org/Relation/is/is_based_on.md) 
 
-### [is_based_on.public](/_public/schema-org/Relation/is/is_based_on.public.md) 
+### #is_/same_as :: [is_based_on.public](/_public/schema-org/Relation/is/is_based_on.public.md) 
 
-### [is_based_on.internal](/_internal/schema-org/Relation/is/is_based_on.internal.md) 
+### #is_/same_as :: [is_based_on.internal](/_internal/schema-org/Relation/is/is_based_on.internal.md) 
 
-### [is_based_on.protect](/_protect/schema-org/Relation/is/is_based_on.protect.md) 
+### #is_/same_as :: [is_based_on.protect](/_protect/schema-org/Relation/is/is_based_on.protect.md) 
 
-### [is_based_on.private](/_private/schema-org/Relation/is/is_based_on.private.md) 
+### #is_/same_as :: [is_based_on.private](/_private/schema-org/Relation/is/is_based_on.private.md) 
 
-### [is_based_on.personal](/_personal/schema-org/Relation/is/is_based_on.personal.md) 
+### #is_/same_as :: [is_based_on.personal](/_personal/schema-org/Relation/is/is_based_on.personal.md) 
 
-### [is_based_on.secret](/_secret/schema-org/Relation/is/is_based_on.secret.md)
+### #is_/same_as :: [is_based_on.secret](/_secret/schema-org/Relation/is/is_based_on.secret.md)
 

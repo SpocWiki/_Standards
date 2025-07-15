@@ -40,17 +40,17 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-ko](/_Standards/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.md) 
+### #is_/same_as :: [Lang-ko](/_Standards/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.md) 
 
-### [Lang-ko.public](/_public/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.public.md) 
+### #is_/same_as :: [Lang-ko.public](/_public/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.public.md) 
 
-### [Lang-ko.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.internal.md) 
+### #is_/same_as :: [Lang-ko.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.internal.md) 
 
-### [Lang-ko.protect](/_protect/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.protect.md) 
+### #is_/same_as :: [Lang-ko.protect](/_protect/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.protect.md) 
 
-### [Lang-ko.private](/_private/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.private.md) 
+### #is_/same_as :: [Lang-ko.private](/_private/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.private.md) 
 
-### [Lang-ko.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.personal.md) 
+### #is_/same_as :: [Lang-ko.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.personal.md) 
 
-### [Lang-ko.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.secret.md)
+### #is_/same_as :: [Lang-ko.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic/Lang-ko.secret.md)
 

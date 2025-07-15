@@ -474,17 +474,17 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 
 ## Confidential Links & Embeds: 
 
-### [Mongolia](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia.md) 
+### #is_/same_as :: [Mongolia](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia.md) 
 
-### [Mongolia.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia.public.md) 
+### #is_/same_as :: [Mongolia.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia.public.md) 
 
-### [Mongolia.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia.internal.md) 
+### #is_/same_as :: [Mongolia.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia.internal.md) 
 
-### [Mongolia.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia.protect.md) 
+### #is_/same_as :: [Mongolia.protect](/_protect/Earth/Continent/Asia/Asia~East/Mongolia.protect.md) 
 
-### [Mongolia.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia.private.md) 
+### #is_/same_as :: [Mongolia.private](/_private/Earth/Continent/Asia/Asia~East/Mongolia.private.md) 
 
-### [Mongolia.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal.md) 
+### #is_/same_as :: [Mongolia.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal.md) 
 
-### [Mongolia.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret.md)
+### #is_/same_as :: [Mongolia.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret.md)
 

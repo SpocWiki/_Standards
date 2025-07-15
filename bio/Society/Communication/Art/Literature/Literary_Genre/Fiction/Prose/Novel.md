@@ -48,21 +48,19 @@ name_in_kana: ちょうへんしょうせつ
 > [Wikipedia](https://en.wikipedia.org/wiki/Novel) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Novel](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.md) 
+### #is_/same_as :: [Novel](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.md) 
 
-### [Novel.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.public.md) 
+### #is_/same_as :: [Novel.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.public.md) 
 
-### [Novel.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.internal.md) 
+### #is_/same_as :: [Novel.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.internal.md) 
 
-### [Novel.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.protect.md) 
+### #is_/same_as :: [Novel.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.protect.md) 
 
-### [Novel.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.private.md) 
+### #is_/same_as :: [Novel.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.private.md) 
 
-### [Novel.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.personal.md) 
+### #is_/same_as :: [Novel.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.personal.md) 
 
-### [Novel.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.secret.md)
+### #is_/same_as :: [Novel.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.secret.md)
 

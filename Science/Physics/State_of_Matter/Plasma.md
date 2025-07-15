@@ -44,24 +44,19 @@ Commons_category: "Plasma physics"
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasma%20(physics))
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Plasma](/_Standards/Science/Physics/State_of_Matter/Plasma.md) 
+### #is_/same_as :: [Plasma](/_Standards/Science/Physics/State_of_Matter/Plasma.md) 
 
-### [Plasma.public](/_public/Science/Physics/State_of_Matter/Plasma.public.md) 
+### #is_/same_as :: [Plasma.public](/_public/Science/Physics/State_of_Matter/Plasma.public.md) 
 
-### [Plasma.internal](/_internal/Science/Physics/State_of_Matter/Plasma.internal.md) 
+### #is_/same_as :: [Plasma.internal](/_internal/Science/Physics/State_of_Matter/Plasma.internal.md) 
 
-### [Plasma.protect](/_protect/Science/Physics/State_of_Matter/Plasma.protect.md) 
+### #is_/same_as :: [Plasma.protect](/_protect/Science/Physics/State_of_Matter/Plasma.protect.md) 
 
-### [Plasma.private](/_private/Science/Physics/State_of_Matter/Plasma.private.md) 
+### #is_/same_as :: [Plasma.private](/_private/Science/Physics/State_of_Matter/Plasma.private.md) 
 
-### [Plasma.personal](/_personal/Science/Physics/State_of_Matter/Plasma.personal.md) 
+### #is_/same_as :: [Plasma.personal](/_personal/Science/Physics/State_of_Matter/Plasma.personal.md) 
 
-### [Plasma.secret](/_secret/Science/Physics/State_of_Matter/Plasma.secret.md)
+### #is_/same_as :: [Plasma.secret](/_secret/Science/Physics/State_of_Matter/Plasma.secret.md)
 

@@ -50,20 +50,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Entomobryidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.md) 
+### #is_/same_as :: [Entomobryidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.md) 
 
-### [Entomobryidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.public.md) 
+### #is_/same_as :: [Entomobryidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.public.md) 
 
-### [Entomobryidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.internal.md) 
+### #is_/same_as :: [Entomobryidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.internal.md) 
 
-### [Entomobryidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.protect.md) 
+### #is_/same_as :: [Entomobryidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.protect.md) 
 
-### [Entomobryidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.private.md) 
+### #is_/same_as :: [Entomobryidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.private.md) 
 
-### [Entomobryidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.personal.md) 
+### #is_/same_as :: [Entomobryidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.personal.md) 
 
-### [Entomobryidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.secret.md)
+### #is_/same_as :: [Entomobryidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Springtail/Entomobryidae.secret.md)
 

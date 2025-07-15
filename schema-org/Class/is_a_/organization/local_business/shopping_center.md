@@ -45,17 +45,17 @@ A shopping center or mall.
 
 ## Confidential Links & Embeds: 
 
-### [shopping_center](/_Standards/schema-org/Class/is_a_/organization/local_business/shopping_center.md) 
+### #is_/same_as :: [shopping_center](/_Standards/schema-org/Class/is_a_/organization/local_business/shopping_center.md) 
 
-### [shopping_center.public](/_public/schema-org/Class/is_a_/organization/local_business/shopping_center.public.md) 
+### #is_/same_as :: [shopping_center.public](/_public/schema-org/Class/is_a_/organization/local_business/shopping_center.public.md) 
 
-### [shopping_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/shopping_center.internal.md) 
+### #is_/same_as :: [shopping_center.internal](/_internal/schema-org/Class/is_a_/organization/local_business/shopping_center.internal.md) 
 
-### [shopping_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/shopping_center.protect.md) 
+### #is_/same_as :: [shopping_center.protect](/_protect/schema-org/Class/is_a_/organization/local_business/shopping_center.protect.md) 
 
-### [shopping_center.private](/_private/schema-org/Class/is_a_/organization/local_business/shopping_center.private.md) 
+### #is_/same_as :: [shopping_center.private](/_private/schema-org/Class/is_a_/organization/local_business/shopping_center.private.md) 
 
-### [shopping_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/shopping_center.personal.md) 
+### #is_/same_as :: [shopping_center.personal](/_personal/schema-org/Class/is_a_/organization/local_business/shopping_center.personal.md) 
 
-### [shopping_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/shopping_center.secret.md)
+### #is_/same_as :: [shopping_center.secret](/_secret/schema-org/Class/is_a_/organization/local_business/shopping_center.secret.md)
 

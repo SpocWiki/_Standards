@@ -47,17 +47,17 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 ## Confidential Links & Embeds: 
 
-### [vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
+### #is_/same_as :: [vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.md) 
 
-### [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
+### #is_/same_as :: [vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.public.md) 
 
-### [vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.internal.md) 
+### #is_/same_as :: [vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.internal.md) 
 
-### [vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.protect.md) 
+### #is_/same_as :: [vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.protect.md) 
 
-### [vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.private.md) 
+### #is_/same_as :: [vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.private.md) 
 
-### [vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.personal.md) 
+### #is_/same_as :: [vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.personal.md) 
 
-### [vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md)
+### #is_/same_as :: [vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md)
 

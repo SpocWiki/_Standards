@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_nsn](/_Standards/schema-org/Property/has_name/has_nsn.md) 
+### #is_/same_as :: [has_nsn](/_Standards/schema-org/Property/has_name/has_nsn.md) 
 
-### [has_nsn.public](/_public/schema-org/Property/has_name/has_nsn.public.md) 
+### #is_/same_as :: [has_nsn.public](/_public/schema-org/Property/has_name/has_nsn.public.md) 
 
-### [has_nsn.internal](/_internal/schema-org/Property/has_name/has_nsn.internal.md) 
+### #is_/same_as :: [has_nsn.internal](/_internal/schema-org/Property/has_name/has_nsn.internal.md) 
 
-### [has_nsn.protect](/_protect/schema-org/Property/has_name/has_nsn.protect.md) 
+### #is_/same_as :: [has_nsn.protect](/_protect/schema-org/Property/has_name/has_nsn.protect.md) 
 
-### [has_nsn.private](/_private/schema-org/Property/has_name/has_nsn.private.md) 
+### #is_/same_as :: [has_nsn.private](/_private/schema-org/Property/has_name/has_nsn.private.md) 
 
-### [has_nsn.personal](/_personal/schema-org/Property/has_name/has_nsn.personal.md) 
+### #is_/same_as :: [has_nsn.personal](/_personal/schema-org/Property/has_name/has_nsn.personal.md) 
 
-### [has_nsn.secret](/_secret/schema-org/Property/has_name/has_nsn.secret.md)
+### #is_/same_as :: [has_nsn.secret](/_secret/schema-org/Property/has_name/has_nsn.secret.md)
 

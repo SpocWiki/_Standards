@@ -18,17 +18,17 @@ has_id_wikidata: Q506
 
 ## Confidential Links & Embeds: 
 
-### [Flower](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.md) 
+### #is_/same_as :: [Flower](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.md) 
 
-### [Flower.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.public.md) 
+### #is_/same_as :: [Flower.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.public.md) 
 
-### [Flower.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.internal.md) 
+### #is_/same_as :: [Flower.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.internal.md) 
 
-### [Flower.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.protect.md) 
+### #is_/same_as :: [Flower.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.protect.md) 
 
-### [Flower.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.private.md) 
+### #is_/same_as :: [Flower.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.private.md) 
 
-### [Flower.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.personal.md) 
+### #is_/same_as :: [Flower.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.personal.md) 
 
-### [Flower.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.secret.md)
+### #is_/same_as :: [Flower.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Flower.secret.md)
 

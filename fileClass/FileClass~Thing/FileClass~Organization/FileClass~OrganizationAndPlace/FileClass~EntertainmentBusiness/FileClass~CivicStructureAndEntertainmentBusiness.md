@@ -53,17 +53,17 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.public.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.public.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.internal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.internal.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.protect.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.protect.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.private.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.private.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.personal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.personal.md) 
 
-### [FileClass~CivicStructureAndEntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.secret.md)
+### #is_/same_as :: [FileClass~CivicStructureAndEntertainmentBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness.secret.md)
 

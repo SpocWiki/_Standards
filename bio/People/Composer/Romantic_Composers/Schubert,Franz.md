@@ -108,21 +108,19 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/SHUBERT_FRANTS.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Schubert)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Schubert,Franz](/_Standards/bio/People/Composer/Romantic_Composers/Schubert,Franz.md) 
+### #is_/same_as :: [Schubert,Franz](/_Standards/bio/People/Composer/Romantic_Composers/Schubert,Franz.md) 
 
-### [Schubert,Franz.public](/_public/bio/People/Composer/Romantic_Composers/Schubert,Franz.public.md) 
+### #is_/same_as :: [Schubert,Franz.public](/_public/bio/People/Composer/Romantic_Composers/Schubert,Franz.public.md) 
 
-### [Schubert,Franz.internal](/_internal/bio/People/Composer/Romantic_Composers/Schubert,Franz.internal.md) 
+### #is_/same_as :: [Schubert,Franz.internal](/_internal/bio/People/Composer/Romantic_Composers/Schubert,Franz.internal.md) 
 
-### [Schubert,Franz.protect](/_protect/bio/People/Composer/Romantic_Composers/Schubert,Franz.protect.md) 
+### #is_/same_as :: [Schubert,Franz.protect](/_protect/bio/People/Composer/Romantic_Composers/Schubert,Franz.protect.md) 
 
-### [Schubert,Franz.private](/_private/bio/People/Composer/Romantic_Composers/Schubert,Franz.private.md) 
+### #is_/same_as :: [Schubert,Franz.private](/_private/bio/People/Composer/Romantic_Composers/Schubert,Franz.private.md) 
 
-### [Schubert,Franz.personal](/_personal/bio/People/Composer/Romantic_Composers/Schubert,Franz.personal.md) 
+### #is_/same_as :: [Schubert,Franz.personal](/_personal/bio/People/Composer/Romantic_Composers/Schubert,Franz.personal.md) 
 
-### [Schubert,Franz.secret](/_secret/bio/People/Composer/Romantic_Composers/Schubert,Franz.secret.md)
+### #is_/same_as :: [Schubert,Franz.secret](/_secret/bio/People/Composer/Romantic_Composers/Schubert,Franz.secret.md)
 

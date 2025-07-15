@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_game_platform](/_Standards/schema-org/Property/Texts/has_game_platform.md) 
+### #is_/same_as :: [has_game_platform](/_Standards/schema-org/Property/Texts/has_game_platform.md) 
 
-### [has_game_platform.public](/_public/schema-org/Property/Texts/has_game_platform.public.md) 
+### #is_/same_as :: [has_game_platform.public](/_public/schema-org/Property/Texts/has_game_platform.public.md) 
 
-### [has_game_platform.internal](/_internal/schema-org/Property/Texts/has_game_platform.internal.md) 
+### #is_/same_as :: [has_game_platform.internal](/_internal/schema-org/Property/Texts/has_game_platform.internal.md) 
 
-### [has_game_platform.protect](/_protect/schema-org/Property/Texts/has_game_platform.protect.md) 
+### #is_/same_as :: [has_game_platform.protect](/_protect/schema-org/Property/Texts/has_game_platform.protect.md) 
 
-### [has_game_platform.private](/_private/schema-org/Property/Texts/has_game_platform.private.md) 
+### #is_/same_as :: [has_game_platform.private](/_private/schema-org/Property/Texts/has_game_platform.private.md) 
 
-### [has_game_platform.personal](/_personal/schema-org/Property/Texts/has_game_platform.personal.md) 
+### #is_/same_as :: [has_game_platform.personal](/_personal/schema-org/Property/Texts/has_game_platform.personal.md) 
 
-### [has_game_platform.secret](/_secret/schema-org/Property/Texts/has_game_platform.secret.md)
+### #is_/same_as :: [has_game_platform.secret](/_secret/schema-org/Property/Texts/has_game_platform.secret.md)
 

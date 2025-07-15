@@ -70,17 +70,17 @@ Containing group: [Helicobasidiales](Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### [Helicobasidium purpureum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.md) 
+### #is_/same_as :: [Helicobasidium purpureum](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.md) 
 
-### [Helicobasidium purpureum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.public.md) 
+### #is_/same_as :: [Helicobasidium purpureum.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.public.md) 
 
-### [Helicobasidium purpureum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.internal.md) 
+### #is_/same_as :: [Helicobasidium purpureum.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.internal.md) 
 
-### [Helicobasidium purpureum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.protect.md) 
+### #is_/same_as :: [Helicobasidium purpureum.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.protect.md) 
 
-### [Helicobasidium purpureum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.private.md) 
+### #is_/same_as :: [Helicobasidium purpureum.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.private.md) 
 
-### [Helicobasidium purpureum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.personal.md) 
+### #is_/same_as :: [Helicobasidium purpureum.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.personal.md) 
 
-### [Helicobasidium purpureum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.secret.md)
+### #is_/same_as :: [Helicobasidium purpureum.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Helicobasidium purpureum.secret.md)
 

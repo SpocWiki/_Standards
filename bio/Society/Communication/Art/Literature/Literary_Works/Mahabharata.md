@@ -93,21 +93,19 @@ Krugosvet_article: filosofiya/makhabkharata
 > [Wikipedia](https://en.wikipedia.org/wiki/Mahabharata) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Mahabharata](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.md) 
+### #is_/same_as :: [Mahabharata](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.md) 
 
-### [Mahabharata.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.public.md) 
+### #is_/same_as :: [Mahabharata.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.public.md) 
 
-### [Mahabharata.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.internal.md) 
+### #is_/same_as :: [Mahabharata.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.internal.md) 
 
-### [Mahabharata.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.protect.md) 
+### #is_/same_as :: [Mahabharata.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.protect.md) 
 
-### [Mahabharata.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.private.md) 
+### #is_/same_as :: [Mahabharata.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.private.md) 
 
-### [Mahabharata.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.personal.md) 
+### #is_/same_as :: [Mahabharata.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.personal.md) 
 
-### [Mahabharata.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.secret.md)
+### #is_/same_as :: [Mahabharata.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.secret.md)
 

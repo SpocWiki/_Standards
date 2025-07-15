@@ -45,17 +45,17 @@ Event type: Theater performance.
 
 ## Confidential Links & Embeds: 
 
-### [theater_event](/_Standards/schema-org/Class/is_a_/event/theater_event.md) 
+### #is_/same_as :: [theater_event](/_Standards/schema-org/Class/is_a_/event/theater_event.md) 
 
-### [theater_event.public](/_public/schema-org/Class/is_a_/event/theater_event.public.md) 
+### #is_/same_as :: [theater_event.public](/_public/schema-org/Class/is_a_/event/theater_event.public.md) 
 
-### [theater_event.internal](/_internal/schema-org/Class/is_a_/event/theater_event.internal.md) 
+### #is_/same_as :: [theater_event.internal](/_internal/schema-org/Class/is_a_/event/theater_event.internal.md) 
 
-### [theater_event.protect](/_protect/schema-org/Class/is_a_/event/theater_event.protect.md) 
+### #is_/same_as :: [theater_event.protect](/_protect/schema-org/Class/is_a_/event/theater_event.protect.md) 
 
-### [theater_event.private](/_private/schema-org/Class/is_a_/event/theater_event.private.md) 
+### #is_/same_as :: [theater_event.private](/_private/schema-org/Class/is_a_/event/theater_event.private.md) 
 
-### [theater_event.personal](/_personal/schema-org/Class/is_a_/event/theater_event.personal.md) 
+### #is_/same_as :: [theater_event.personal](/_personal/schema-org/Class/is_a_/event/theater_event.personal.md) 
 
-### [theater_event.secret](/_secret/schema-org/Class/is_a_/event/theater_event.secret.md)
+### #is_/same_as :: [theater_event.secret](/_secret/schema-org/Class/is_a_/event/theater_event.secret.md)
 

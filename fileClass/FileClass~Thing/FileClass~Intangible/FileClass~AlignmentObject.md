@@ -86,17 +86,17 @@ TargetUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AlignmentObject](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
+### #is_/same_as :: [FileClass~AlignmentObject](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.md) 
 
-### [FileClass~AlignmentObject.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.public.md) 
+### #is_/same_as :: [FileClass~AlignmentObject.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.public.md) 
 
-### [FileClass~AlignmentObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal.md) 
+### #is_/same_as :: [FileClass~AlignmentObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.internal.md) 
 
-### [FileClass~AlignmentObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.protect.md) 
+### #is_/same_as :: [FileClass~AlignmentObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.protect.md) 
 
-### [FileClass~AlignmentObject.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.private.md) 
+### #is_/same_as :: [FileClass~AlignmentObject.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.private.md) 
 
-### [FileClass~AlignmentObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal.md) 
+### #is_/same_as :: [FileClass~AlignmentObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.personal.md) 
 
-### [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md)
+### #is_/same_as :: [FileClass~AlignmentObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~AlignmentObject.secret.md)
 

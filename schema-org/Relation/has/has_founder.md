@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_founder](/_Standards/schema-org/Relation/has/has_founder.md) 
+### #is_/same_as :: [has_founder](/_Standards/schema-org/Relation/has/has_founder.md) 
 
-### [has_founder.public](/_public/schema-org/Relation/has/has_founder.public.md) 
+### #is_/same_as :: [has_founder.public](/_public/schema-org/Relation/has/has_founder.public.md) 
 
-### [has_founder.internal](/_internal/schema-org/Relation/has/has_founder.internal.md) 
+### #is_/same_as :: [has_founder.internal](/_internal/schema-org/Relation/has/has_founder.internal.md) 
 
-### [has_founder.protect](/_protect/schema-org/Relation/has/has_founder.protect.md) 
+### #is_/same_as :: [has_founder.protect](/_protect/schema-org/Relation/has/has_founder.protect.md) 
 
-### [has_founder.private](/_private/schema-org/Relation/has/has_founder.private.md) 
+### #is_/same_as :: [has_founder.private](/_private/schema-org/Relation/has/has_founder.private.md) 
 
-### [has_founder.personal](/_personal/schema-org/Relation/has/has_founder.personal.md) 
+### #is_/same_as :: [has_founder.personal](/_personal/schema-org/Relation/has/has_founder.personal.md) 
 
-### [has_founder.secret](/_secret/schema-org/Relation/has/has_founder.secret.md)
+### #is_/same_as :: [has_founder.secret](/_secret/schema-org/Relation/has/has_founder.secret.md)
 

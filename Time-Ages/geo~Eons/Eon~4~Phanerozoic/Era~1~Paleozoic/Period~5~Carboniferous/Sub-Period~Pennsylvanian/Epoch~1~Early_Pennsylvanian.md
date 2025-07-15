@@ -45,17 +45,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~1~Early_Pennsylvanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.md) 
 
-### [Epoch~1~Early_Pennsylvanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.public.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.public.md) 
 
-### [Epoch~1~Early_Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.internal.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.internal.md) 
 
-### [Epoch~1~Early_Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.protect.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.protect.md) 
 
-### [Epoch~1~Early_Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.private.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.private.md) 
 
-### [Epoch~1~Early_Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.personal.md) 
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.personal.md) 
 
-### [Epoch~1~Early_Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.secret.md)
+### #is_/same_as :: [Epoch~1~Early_Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian.secret.md)
 

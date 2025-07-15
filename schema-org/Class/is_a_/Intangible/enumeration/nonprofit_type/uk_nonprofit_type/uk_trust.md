@@ -49,17 +49,17 @@ UKTrust: Non-profit type referring to a UK trust.
 
 ## Confidential Links & Embeds: 
 
-### [uk_trust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md) 
+### #is_/same_as :: [uk_trust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md) 
 
-### [uk_trust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.public.md) 
+### #is_/same_as :: [uk_trust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.public.md) 
 
-### [uk_trust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md) 
+### #is_/same_as :: [uk_trust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md) 
 
-### [uk_trust.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.protect.md) 
+### #is_/same_as :: [uk_trust.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.protect.md) 
 
-### [uk_trust.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.private.md) 
+### #is_/same_as :: [uk_trust.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.private.md) 
 
-### [uk_trust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md) 
+### #is_/same_as :: [uk_trust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md) 
 
-### [uk_trust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md)
+### #is_/same_as :: [uk_trust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md)
 

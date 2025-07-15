@@ -45,17 +45,17 @@ A department store.
 
 ## Confidential Links & Embeds: 
 
-### [department_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/department_store.md) 
+### #is_/same_as :: [department_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/department_store.md) 
 
-### [department_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/department_store.public.md) 
+### #is_/same_as :: [department_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/department_store.public.md) 
 
-### [department_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/department_store.internal.md) 
+### #is_/same_as :: [department_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/department_store.internal.md) 
 
-### [department_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/department_store.protect.md) 
+### #is_/same_as :: [department_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/department_store.protect.md) 
 
-### [department_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/department_store.private.md) 
+### #is_/same_as :: [department_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/department_store.private.md) 
 
-### [department_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/department_store.personal.md) 
+### #is_/same_as :: [department_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/department_store.personal.md) 
 
-### [department_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/department_store.secret.md)
+### #is_/same_as :: [department_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/department_store.secret.md)
 

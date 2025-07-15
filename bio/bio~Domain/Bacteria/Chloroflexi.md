@@ -61,23 +61,19 @@ green nonsulfur bacteria
 	-   *Caldilinea*
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chloroflexi](/_Standards/bio/bio~Domain/Bacteria/Chloroflexi.md) 
+### #is_/same_as :: [Chloroflexi](/_Standards/bio/bio~Domain/Bacteria/Chloroflexi.md) 
 
-### [Chloroflexi.public](/_public/bio/bio~Domain/Bacteria/Chloroflexi.public.md) 
+### #is_/same_as :: [Chloroflexi.public](/_public/bio/bio~Domain/Bacteria/Chloroflexi.public.md) 
 
-### [Chloroflexi.internal](/_internal/bio/bio~Domain/Bacteria/Chloroflexi.internal.md) 
+### #is_/same_as :: [Chloroflexi.internal](/_internal/bio/bio~Domain/Bacteria/Chloroflexi.internal.md) 
 
-### [Chloroflexi.protect](/_protect/bio/bio~Domain/Bacteria/Chloroflexi.protect.md) 
+### #is_/same_as :: [Chloroflexi.protect](/_protect/bio/bio~Domain/Bacteria/Chloroflexi.protect.md) 
 
-### [Chloroflexi.private](/_private/bio/bio~Domain/Bacteria/Chloroflexi.private.md) 
+### #is_/same_as :: [Chloroflexi.private](/_private/bio/bio~Domain/Bacteria/Chloroflexi.private.md) 
 
-### [Chloroflexi.personal](/_personal/bio/bio~Domain/Bacteria/Chloroflexi.personal.md) 
+### #is_/same_as :: [Chloroflexi.personal](/_personal/bio/bio~Domain/Bacteria/Chloroflexi.personal.md) 
 
-### [Chloroflexi.secret](/_secret/bio/bio~Domain/Bacteria/Chloroflexi.secret.md)
+### #is_/same_as :: [Chloroflexi.secret](/_secret/bio/bio~Domain/Bacteria/Chloroflexi.secret.md)
 

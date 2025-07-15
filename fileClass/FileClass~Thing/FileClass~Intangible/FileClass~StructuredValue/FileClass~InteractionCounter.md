@@ -113,17 +113,17 @@ UserInteractionCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~InteractionCounter](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
+### #is_/same_as :: [FileClass~InteractionCounter](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
 
-### [FileClass~InteractionCounter.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.public.md) 
+### #is_/same_as :: [FileClass~InteractionCounter.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.public.md) 
 
-### [FileClass~InteractionCounter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal.md) 
+### #is_/same_as :: [FileClass~InteractionCounter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal.md) 
 
-### [FileClass~InteractionCounter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.protect.md) 
+### #is_/same_as :: [FileClass~InteractionCounter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.protect.md) 
 
-### [FileClass~InteractionCounter.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.private.md) 
+### #is_/same_as :: [FileClass~InteractionCounter.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.private.md) 
 
-### [FileClass~InteractionCounter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal.md) 
+### #is_/same_as :: [FileClass~InteractionCounter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal.md) 
 
-### [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md)
+### #is_/same_as :: [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md)
 

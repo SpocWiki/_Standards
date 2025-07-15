@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_game](/_Standards/schema-org/Property/has_location/has_location_game.md) 
+### #is_/same_as :: [has_location_game](/_Standards/schema-org/Property/has_location/has_location_game.md) 
 
-### [has_location_game.public](/_public/schema-org/Property/has_location/has_location_game.public.md) 
+### #is_/same_as :: [has_location_game.public](/_public/schema-org/Property/has_location/has_location_game.public.md) 
 
-### [has_location_game.internal](/_internal/schema-org/Property/has_location/has_location_game.internal.md) 
+### #is_/same_as :: [has_location_game.internal](/_internal/schema-org/Property/has_location/has_location_game.internal.md) 
 
-### [has_location_game.protect](/_protect/schema-org/Property/has_location/has_location_game.protect.md) 
+### #is_/same_as :: [has_location_game.protect](/_protect/schema-org/Property/has_location/has_location_game.protect.md) 
 
-### [has_location_game.private](/_private/schema-org/Property/has_location/has_location_game.private.md) 
+### #is_/same_as :: [has_location_game.private](/_private/schema-org/Property/has_location/has_location_game.private.md) 
 
-### [has_location_game.personal](/_personal/schema-org/Property/has_location/has_location_game.personal.md) 
+### #is_/same_as :: [has_location_game.personal](/_personal/schema-org/Property/has_location/has_location_game.personal.md) 
 
-### [has_location_game.secret](/_secret/schema-org/Property/has_location/has_location_game.secret.md)
+### #is_/same_as :: [has_location_game.secret](/_secret/schema-org/Property/has_location/has_location_game.secret.md)
 

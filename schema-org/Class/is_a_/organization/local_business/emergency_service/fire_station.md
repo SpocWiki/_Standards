@@ -45,17 +45,17 @@ A fire station. With firemen.
 
 ## Confidential Links & Embeds: 
 
-### [fire_station](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.md) 
+### #is_/same_as :: [fire_station](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.md) 
 
-### [fire_station.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.public.md) 
+### #is_/same_as :: [fire_station.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.public.md) 
 
-### [fire_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.internal.md) 
+### #is_/same_as :: [fire_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.internal.md) 
 
-### [fire_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.protect.md) 
+### #is_/same_as :: [fire_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.protect.md) 
 
-### [fire_station.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.private.md) 
+### #is_/same_as :: [fire_station.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.private.md) 
 
-### [fire_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.personal.md) 
+### #is_/same_as :: [fire_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.personal.md) 
 
-### [fire_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.secret.md)
+### #is_/same_as :: [fire_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/fire_station.secret.md)
 

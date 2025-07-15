@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_carrier](/_Standards/schema-org/Relation/has/has_carrier.md) 
+### #is_/same_as :: [has_carrier](/_Standards/schema-org/Relation/has/has_carrier.md) 
 
-### [has_carrier.public](/_public/schema-org/Relation/has/has_carrier.public.md) 
+### #is_/same_as :: [has_carrier.public](/_public/schema-org/Relation/has/has_carrier.public.md) 
 
-### [has_carrier.internal](/_internal/schema-org/Relation/has/has_carrier.internal.md) 
+### #is_/same_as :: [has_carrier.internal](/_internal/schema-org/Relation/has/has_carrier.internal.md) 
 
-### [has_carrier.protect](/_protect/schema-org/Relation/has/has_carrier.protect.md) 
+### #is_/same_as :: [has_carrier.protect](/_protect/schema-org/Relation/has/has_carrier.protect.md) 
 
-### [has_carrier.private](/_private/schema-org/Relation/has/has_carrier.private.md) 
+### #is_/same_as :: [has_carrier.private](/_private/schema-org/Relation/has/has_carrier.private.md) 
 
-### [has_carrier.personal](/_personal/schema-org/Relation/has/has_carrier.personal.md) 
+### #is_/same_as :: [has_carrier.personal](/_personal/schema-org/Relation/has/has_carrier.personal.md) 
 
-### [has_carrier.secret](/_secret/schema-org/Relation/has/has_carrier.secret.md)
+### #is_/same_as :: [has_carrier.secret](/_secret/schema-org/Relation/has/has_carrier.secret.md)
 

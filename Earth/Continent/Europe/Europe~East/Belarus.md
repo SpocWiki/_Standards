@@ -531,17 +531,17 @@ Capital :: [[Minsk]]
 
 ## Confidential Links & Embeds: 
 
-### [Belarus](/_Standards/Earth/Continent/Europe/Europe~East/Belarus.md) 
+### #is_/same_as :: [Belarus](/_Standards/Earth/Continent/Europe/Europe~East/Belarus.md) 
 
-### [Belarus.public](/_public/Earth/Continent/Europe/Europe~East/Belarus.public.md) 
+### #is_/same_as :: [Belarus.public](/_public/Earth/Continent/Europe/Europe~East/Belarus.public.md) 
 
-### [Belarus.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal.md) 
+### #is_/same_as :: [Belarus.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal.md) 
 
-### [Belarus.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus.protect.md) 
+### #is_/same_as :: [Belarus.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus.protect.md) 
 
-### [Belarus.private](/_private/Earth/Continent/Europe/Europe~East/Belarus.private.md) 
+### #is_/same_as :: [Belarus.private](/_private/Earth/Continent/Europe/Europe~East/Belarus.private.md) 
 
-### [Belarus.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus.personal.md) 
+### #is_/same_as :: [Belarus.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus.personal.md) 
 
-### [Belarus.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret.md)
+### #is_/same_as :: [Belarus.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret.md)
 

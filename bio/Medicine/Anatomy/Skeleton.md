@@ -44,24 +44,19 @@ Commons_category: Skeletons
 > [Wikipedia](https://en.wikipedia.org/wiki/Skeleton)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Skeleton](/_Standards/bio/Medicine/Anatomy/Skeleton.md) 
+### #is_/same_as :: [Skeleton](/_Standards/bio/Medicine/Anatomy/Skeleton.md) 
 
-### [Skeleton.public](/_public/bio/Medicine/Anatomy/Skeleton.public.md) 
+### #is_/same_as :: [Skeleton.public](/_public/bio/Medicine/Anatomy/Skeleton.public.md) 
 
-### [Skeleton.internal](/_internal/bio/Medicine/Anatomy/Skeleton.internal.md) 
+### #is_/same_as :: [Skeleton.internal](/_internal/bio/Medicine/Anatomy/Skeleton.internal.md) 
 
-### [Skeleton.protect](/_protect/bio/Medicine/Anatomy/Skeleton.protect.md) 
+### #is_/same_as :: [Skeleton.protect](/_protect/bio/Medicine/Anatomy/Skeleton.protect.md) 
 
-### [Skeleton.private](/_private/bio/Medicine/Anatomy/Skeleton.private.md) 
+### #is_/same_as :: [Skeleton.private](/_private/bio/Medicine/Anatomy/Skeleton.private.md) 
 
-### [Skeleton.personal](/_personal/bio/Medicine/Anatomy/Skeleton.personal.md) 
+### #is_/same_as :: [Skeleton.personal](/_personal/bio/Medicine/Anatomy/Skeleton.personal.md) 
 
-### [Skeleton.secret](/_secret/bio/Medicine/Anatomy/Skeleton.secret.md)
+### #is_/same_as :: [Skeleton.secret](/_secret/bio/Medicine/Anatomy/Skeleton.secret.md)
 

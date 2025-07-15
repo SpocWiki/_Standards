@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_exchange_rate_spread](/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread](/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.md) 
 
-### [has_value_for_exchange_rate_spread.public](/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread.public](/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public.md) 
 
-### [has_value_for_exchange_rate_spread.internal](/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread.internal](/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal.md) 
 
-### [has_value_for_exchange_rate_spread.protect](/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread.protect](/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect.md) 
 
-### [has_value_for_exchange_rate_spread.private](/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread.private](/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private.md) 
 
-### [has_value_for_exchange_rate_spread.personal](/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal.md) 
+### #is_/same_as :: [has_value_for_exchange_rate_spread.personal](/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal.md) 
 
-### [has_value_for_exchange_rate_spread.secret](/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret.md)
+### #is_/same_as :: [has_value_for_exchange_rate_spread.secret](/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret.md)
 

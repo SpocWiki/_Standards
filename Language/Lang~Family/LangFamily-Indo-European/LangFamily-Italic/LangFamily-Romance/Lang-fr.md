@@ -339,17 +339,17 @@ Archive_of_Our_Own_tag: "Français | French"
 
 ## Confidential Links & Embeds: 
 
-### [Lang-fr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
+### #is_/same_as :: [Lang-fr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
 
-### [Lang-fr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.public.md) 
+### #is_/same_as :: [Lang-fr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.public.md) 
 
-### [Lang-fr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.internal.md) 
+### #is_/same_as :: [Lang-fr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.internal.md) 
 
-### [Lang-fr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.protect.md) 
+### #is_/same_as :: [Lang-fr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.protect.md) 
 
-### [Lang-fr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.private.md) 
+### #is_/same_as :: [Lang-fr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.private.md) 
 
-### [Lang-fr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.personal.md) 
+### #is_/same_as :: [Lang-fr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.personal.md) 
 
-### [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md)
+### #is_/same_as :: [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md)
 

@@ -45,17 +45,17 @@ An historical landmark or building.
 
 ## Confidential Links & Embeds: 
 
-### [landmarks_or_historical_buildings](/_Standards/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings](/_Standards/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.md) 
 
-### [landmarks_or_historical_buildings.public](/_public/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.public.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings.public](/_public/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.public.md) 
 
-### [landmarks_or_historical_buildings.internal](/_internal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings.internal](/_internal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md) 
 
-### [landmarks_or_historical_buildings.protect](/_protect/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.protect.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings.protect](/_protect/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.protect.md) 
 
-### [landmarks_or_historical_buildings.private](/_private/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.private.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings.private](/_private/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.private.md) 
 
-### [landmarks_or_historical_buildings.personal](/_personal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.personal.md) 
+### #is_/same_as :: [landmarks_or_historical_buildings.personal](/_personal/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.personal.md) 
 
-### [landmarks_or_historical_buildings.secret](/_secret/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md)
+### #is_/same_as :: [landmarks_or_historical_buildings.secret](/_secret/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md)
 

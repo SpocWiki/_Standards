@@ -35,17 +35,17 @@ A shopping center or mall.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShoppingCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.md) 
 
-### [FileClass~ShoppingCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.public.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.public.md) 
 
-### [FileClass~ShoppingCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.internal.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.internal.md) 
 
-### [FileClass~ShoppingCenter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.protect.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.protect.md) 
 
-### [FileClass~ShoppingCenter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.private.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.private.md) 
 
-### [FileClass~ShoppingCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.personal.md) 
+### #is_/same_as :: [FileClass~ShoppingCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.personal.md) 
 
-### [FileClass~ShoppingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret.md)
+### #is_/same_as :: [FileClass~ShoppingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret.md)
 

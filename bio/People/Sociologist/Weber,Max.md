@@ -148,23 +148,19 @@ date_of_birth: "1864-04-21"
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Weber)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Weber,Max](/_Standards/bio/People/Sociologist/Weber,Max.md) 
+### #is_/same_as :: [Weber,Max](/_Standards/bio/People/Sociologist/Weber,Max.md) 
 
-### [Weber,Max.public](/_public/bio/People/Sociologist/Weber,Max.public.md) 
+### #is_/same_as :: [Weber,Max.public](/_public/bio/People/Sociologist/Weber,Max.public.md) 
 
-### [Weber,Max.internal](/_internal/bio/People/Sociologist/Weber,Max.internal.md) 
+### #is_/same_as :: [Weber,Max.internal](/_internal/bio/People/Sociologist/Weber,Max.internal.md) 
 
-### [Weber,Max.protect](/_protect/bio/People/Sociologist/Weber,Max.protect.md) 
+### #is_/same_as :: [Weber,Max.protect](/_protect/bio/People/Sociologist/Weber,Max.protect.md) 
 
-### [Weber,Max.private](/_private/bio/People/Sociologist/Weber,Max.private.md) 
+### #is_/same_as :: [Weber,Max.private](/_private/bio/People/Sociologist/Weber,Max.private.md) 
 
-### [Weber,Max.personal](/_personal/bio/People/Sociologist/Weber,Max.personal.md) 
+### #is_/same_as :: [Weber,Max.personal](/_personal/bio/People/Sociologist/Weber,Max.personal.md) 
 
-### [Weber,Max.secret](/_secret/bio/People/Sociologist/Weber,Max.secret.md)
+### #is_/same_as :: [Weber,Max.secret](/_secret/bio/People/Sociologist/Weber,Max.secret.md)
 

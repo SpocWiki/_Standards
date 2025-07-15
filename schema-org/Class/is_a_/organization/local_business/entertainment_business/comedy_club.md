@@ -45,17 +45,17 @@ A comedy club.
 
 ## Confidential Links & Embeds: 
 
-### [comedy_club](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.md) 
+### #is_/same_as :: [comedy_club](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.md) 
 
-### [comedy_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.public.md) 
+### #is_/same_as :: [comedy_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.public.md) 
 
-### [comedy_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md) 
+### #is_/same_as :: [comedy_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md) 
 
-### [comedy_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md) 
+### #is_/same_as :: [comedy_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md) 
 
-### [comedy_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.private.md) 
+### #is_/same_as :: [comedy_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.private.md) 
 
-### [comedy_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md) 
+### #is_/same_as :: [comedy_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md) 
 
-### [comedy_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md)
+### #is_/same_as :: [comedy_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md)
 

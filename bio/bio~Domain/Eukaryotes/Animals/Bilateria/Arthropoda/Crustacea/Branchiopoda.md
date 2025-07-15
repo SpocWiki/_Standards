@@ -72,21 +72,19 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Branchiopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.md) 
+### #is_/same_as :: [Branchiopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.md) 
 
-### [Branchiopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.public.md) 
+### #is_/same_as :: [Branchiopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.public.md) 
 
-### [Branchiopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.internal.md) 
+### #is_/same_as :: [Branchiopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.internal.md) 
 
-### [Branchiopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.protect.md) 
+### #is_/same_as :: [Branchiopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.protect.md) 
 
-### [Branchiopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.private.md) 
+### #is_/same_as :: [Branchiopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.private.md) 
 
-### [Branchiopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.personal.md) 
+### #is_/same_as :: [Branchiopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.personal.md) 
 
-### [Branchiopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.secret.md)
+### #is_/same_as :: [Branchiopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda.secret.md)
 

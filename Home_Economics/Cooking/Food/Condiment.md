@@ -18,21 +18,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Condiment) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Condiment](/_Standards/Home_Economics/Cooking/Food/Condiment.md) 
+### #is_/same_as :: [Condiment](/_Standards/Home_Economics/Cooking/Food/Condiment.md) 
 
-### [Condiment.public](/_public/Home_Economics/Cooking/Food/Condiment.public.md) 
+### #is_/same_as :: [Condiment.public](/_public/Home_Economics/Cooking/Food/Condiment.public.md) 
 
-### [Condiment.internal](/_internal/Home_Economics/Cooking/Food/Condiment.internal.md) 
+### #is_/same_as :: [Condiment.internal](/_internal/Home_Economics/Cooking/Food/Condiment.internal.md) 
 
-### [Condiment.protect](/_protect/Home_Economics/Cooking/Food/Condiment.protect.md) 
+### #is_/same_as :: [Condiment.protect](/_protect/Home_Economics/Cooking/Food/Condiment.protect.md) 
 
-### [Condiment.private](/_private/Home_Economics/Cooking/Food/Condiment.private.md) 
+### #is_/same_as :: [Condiment.private](/_private/Home_Economics/Cooking/Food/Condiment.private.md) 
 
-### [Condiment.personal](/_personal/Home_Economics/Cooking/Food/Condiment.personal.md) 
+### #is_/same_as :: [Condiment.personal](/_personal/Home_Economics/Cooking/Food/Condiment.personal.md) 
 
-### [Condiment.secret](/_secret/Home_Economics/Cooking/Food/Condiment.secret.md)
+### #is_/same_as :: [Condiment.secret](/_secret/Home_Economics/Cooking/Food/Condiment.secret.md)
 

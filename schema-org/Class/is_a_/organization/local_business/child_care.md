@@ -45,17 +45,17 @@ A Childcare center.
 
 ## Confidential Links & Embeds: 
 
-### [child_care](/_Standards/schema-org/Class/is_a_/organization/local_business/child_care.md) 
+### #is_/same_as :: [child_care](/_Standards/schema-org/Class/is_a_/organization/local_business/child_care.md) 
 
-### [child_care.public](/_public/schema-org/Class/is_a_/organization/local_business/child_care.public.md) 
+### #is_/same_as :: [child_care.public](/_public/schema-org/Class/is_a_/organization/local_business/child_care.public.md) 
 
-### [child_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/child_care.internal.md) 
+### #is_/same_as :: [child_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/child_care.internal.md) 
 
-### [child_care.protect](/_protect/schema-org/Class/is_a_/organization/local_business/child_care.protect.md) 
+### #is_/same_as :: [child_care.protect](/_protect/schema-org/Class/is_a_/organization/local_business/child_care.protect.md) 
 
-### [child_care.private](/_private/schema-org/Class/is_a_/organization/local_business/child_care.private.md) 
+### #is_/same_as :: [child_care.private](/_private/schema-org/Class/is_a_/organization/local_business/child_care.private.md) 
 
-### [child_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/child_care.personal.md) 
+### #is_/same_as :: [child_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/child_care.personal.md) 
 
-### [child_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/child_care.secret.md)
+### #is_/same_as :: [child_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/child_care.secret.md)
 

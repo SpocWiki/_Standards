@@ -35,21 +35,19 @@ Commons_category: Pyramids
 > [Wikipedia](https://en.wikipedia.org/wiki/Pyramid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Pyramid](/_Standards/Technology/Construction/Building/Pyramid.md) 
+### #is_/same_as :: [Pyramid](/_Standards/Technology/Construction/Building/Pyramid.md) 
 
-### [Pyramid.public](/_public/Technology/Construction/Building/Pyramid.public.md) 
+### #is_/same_as :: [Pyramid.public](/_public/Technology/Construction/Building/Pyramid.public.md) 
 
-### [Pyramid.internal](/_internal/Technology/Construction/Building/Pyramid.internal.md) 
+### #is_/same_as :: [Pyramid.internal](/_internal/Technology/Construction/Building/Pyramid.internal.md) 
 
-### [Pyramid.protect](/_protect/Technology/Construction/Building/Pyramid.protect.md) 
+### #is_/same_as :: [Pyramid.protect](/_protect/Technology/Construction/Building/Pyramid.protect.md) 
 
-### [Pyramid.private](/_private/Technology/Construction/Building/Pyramid.private.md) 
+### #is_/same_as :: [Pyramid.private](/_private/Technology/Construction/Building/Pyramid.private.md) 
 
-### [Pyramid.personal](/_personal/Technology/Construction/Building/Pyramid.personal.md) 
+### #is_/same_as :: [Pyramid.personal](/_personal/Technology/Construction/Building/Pyramid.personal.md) 
 
-### [Pyramid.secret](/_secret/Technology/Construction/Building/Pyramid.secret.md)
+### #is_/same_as :: [Pyramid.secret](/_secret/Technology/Construction/Building/Pyramid.secret.md)
 

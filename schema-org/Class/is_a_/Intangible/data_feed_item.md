@@ -45,17 +45,17 @@ A single item within a larger data feed.
 
 ## Confidential Links & Embeds: 
 
-### [data_feed_item](/_Standards/schema-org/Class/is_a_/Intangible/data_feed_item.md) 
+### #is_/same_as :: [data_feed_item](/_Standards/schema-org/Class/is_a_/Intangible/data_feed_item.md) 
 
-### [data_feed_item.public](/_public/schema-org/Class/is_a_/Intangible/data_feed_item.public.md) 
+### #is_/same_as :: [data_feed_item.public](/_public/schema-org/Class/is_a_/Intangible/data_feed_item.public.md) 
 
-### [data_feed_item.internal](/_internal/schema-org/Class/is_a_/Intangible/data_feed_item.internal.md) 
+### #is_/same_as :: [data_feed_item.internal](/_internal/schema-org/Class/is_a_/Intangible/data_feed_item.internal.md) 
 
-### [data_feed_item.protect](/_protect/schema-org/Class/is_a_/Intangible/data_feed_item.protect.md) 
+### #is_/same_as :: [data_feed_item.protect](/_protect/schema-org/Class/is_a_/Intangible/data_feed_item.protect.md) 
 
-### [data_feed_item.private](/_private/schema-org/Class/is_a_/Intangible/data_feed_item.private.md) 
+### #is_/same_as :: [data_feed_item.private](/_private/schema-org/Class/is_a_/Intangible/data_feed_item.private.md) 
 
-### [data_feed_item.personal](/_personal/schema-org/Class/is_a_/Intangible/data_feed_item.personal.md) 
+### #is_/same_as :: [data_feed_item.personal](/_personal/schema-org/Class/is_a_/Intangible/data_feed_item.personal.md) 
 
-### [data_feed_item.secret](/_secret/schema-org/Class/is_a_/Intangible/data_feed_item.secret.md)
+### #is_/same_as :: [data_feed_item.secret](/_secret/schema-org/Class/is_a_/Intangible/data_feed_item.secret.md)
 

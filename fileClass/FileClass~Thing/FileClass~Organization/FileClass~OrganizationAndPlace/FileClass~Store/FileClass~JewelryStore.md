@@ -35,17 +35,17 @@ A jewelry store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~JewelryStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.md) 
+### #is_/same_as :: [FileClass~JewelryStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.md) 
 
-### [FileClass~JewelryStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.public.md) 
+### #is_/same_as :: [FileClass~JewelryStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.public.md) 
 
-### [FileClass~JewelryStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.internal.md) 
+### #is_/same_as :: [FileClass~JewelryStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.internal.md) 
 
-### [FileClass~JewelryStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.protect.md) 
+### #is_/same_as :: [FileClass~JewelryStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.protect.md) 
 
-### [FileClass~JewelryStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.private.md) 
+### #is_/same_as :: [FileClass~JewelryStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.private.md) 
 
-### [FileClass~JewelryStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.personal.md) 
+### #is_/same_as :: [FileClass~JewelryStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.personal.md) 
 
-### [FileClass~JewelryStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.secret.md)
+### #is_/same_as :: [FileClass~JewelryStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~JewelryStore.secret.md)
 

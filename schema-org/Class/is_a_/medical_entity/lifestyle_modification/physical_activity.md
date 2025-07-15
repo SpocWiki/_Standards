@@ -47,17 +47,17 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 ## Confidential Links & Embeds: 
 
-### [physical_activity](/_Standards/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
+### #is_/same_as :: [physical_activity](/_Standards/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
 
-### [physical_activity.public](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.public.md) 
+### #is_/same_as :: [physical_activity.public](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.public.md) 
 
-### [physical_activity.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
+### #is_/same_as :: [physical_activity.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
 
-### [physical_activity.protect](/_protect/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md) 
+### #is_/same_as :: [physical_activity.protect](/_protect/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md) 
 
-### [physical_activity.private](/_private/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md) 
+### #is_/same_as :: [physical_activity.private](/_private/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md) 
 
-### [physical_activity.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
+### #is_/same_as :: [physical_activity.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
 
-### [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md)
+### #is_/same_as :: [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md)
 

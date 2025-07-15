@@ -59,22 +59,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Steve%20Jobs) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Jobs,Steve](/_Standards/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.md) 
+### #is_/same_as :: [Jobs,Steve](/_Standards/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.md) 
 
-### [Jobs,Steve.public](/_public/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.public.md) 
+### #is_/same_as :: [Jobs,Steve.public](/_public/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.public.md) 
 
-### [Jobs,Steve.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.internal.md) 
+### #is_/same_as :: [Jobs,Steve.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.internal.md) 
 
-### [Jobs,Steve.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.protect.md) 
+### #is_/same_as :: [Jobs,Steve.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.protect.md) 
 
-### [Jobs,Steve.private](/_private/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.private.md) 
+### #is_/same_as :: [Jobs,Steve.private](/_private/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.private.md) 
 
-### [Jobs,Steve.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.personal.md) 
+### #is_/same_as :: [Jobs,Steve.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.personal.md) 
 
-### [Jobs,Steve.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.secret.md)
+### #is_/same_as :: [Jobs,Steve.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Jobs,Steve.secret.md)
 

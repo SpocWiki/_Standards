@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Capacitor](/_Standards/Technology/Electronics/Electronic_Component/Capacitor.md) 
+### #is_/same_as :: [Capacitor](/_Standards/Technology/Electronics/Electronic_Component/Capacitor.md) 
 
-### [Capacitor.public](/_public/Technology/Electronics/Electronic_Component/Capacitor.public.md) 
+### #is_/same_as :: [Capacitor.public](/_public/Technology/Electronics/Electronic_Component/Capacitor.public.md) 
 
-### [Capacitor.internal](/_internal/Technology/Electronics/Electronic_Component/Capacitor.internal.md) 
+### #is_/same_as :: [Capacitor.internal](/_internal/Technology/Electronics/Electronic_Component/Capacitor.internal.md) 
 
-### [Capacitor.protect](/_protect/Technology/Electronics/Electronic_Component/Capacitor.protect.md) 
+### #is_/same_as :: [Capacitor.protect](/_protect/Technology/Electronics/Electronic_Component/Capacitor.protect.md) 
 
-### [Capacitor.private](/_private/Technology/Electronics/Electronic_Component/Capacitor.private.md) 
+### #is_/same_as :: [Capacitor.private](/_private/Technology/Electronics/Electronic_Component/Capacitor.private.md) 
 
-### [Capacitor.personal](/_personal/Technology/Electronics/Electronic_Component/Capacitor.personal.md) 
+### #is_/same_as :: [Capacitor.personal](/_personal/Technology/Electronics/Electronic_Component/Capacitor.personal.md) 
 
-### [Capacitor.secret](/_secret/Technology/Electronics/Electronic_Component/Capacitor.secret.md)
+### #is_/same_as :: [Capacitor.secret](/_secret/Technology/Electronics/Electronic_Component/Capacitor.secret.md)
 

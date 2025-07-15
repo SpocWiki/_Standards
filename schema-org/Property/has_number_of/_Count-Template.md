@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [_Count-Template](/_Standards/schema-org/Property/has_number_of/_Count-Template.md) 
+### #is_/same_as :: [_Count-Template](/_Standards/schema-org/Property/has_number_of/_Count-Template.md) 
 
-### [_Count-Template.public](/_public/schema-org/Property/has_number_of/_Count-Template.public.md) 
+### #is_/same_as :: [_Count-Template.public](/_public/schema-org/Property/has_number_of/_Count-Template.public.md) 
 
-### [_Count-Template.internal](/_internal/schema-org/Property/has_number_of/_Count-Template.internal.md) 
+### #is_/same_as :: [_Count-Template.internal](/_internal/schema-org/Property/has_number_of/_Count-Template.internal.md) 
 
-### [_Count-Template.protect](/_protect/schema-org/Property/has_number_of/_Count-Template.protect.md) 
+### #is_/same_as :: [_Count-Template.protect](/_protect/schema-org/Property/has_number_of/_Count-Template.protect.md) 
 
-### [_Count-Template.private](/_private/schema-org/Property/has_number_of/_Count-Template.private.md) 
+### #is_/same_as :: [_Count-Template.private](/_private/schema-org/Property/has_number_of/_Count-Template.private.md) 
 
-### [_Count-Template.personal](/_personal/schema-org/Property/has_number_of/_Count-Template.personal.md) 
+### #is_/same_as :: [_Count-Template.personal](/_personal/schema-org/Property/has_number_of/_Count-Template.personal.md) 
 
-### [_Count-Template.secret](/_secret/schema-org/Property/has_number_of/_Count-Template.secret.md)
+### #is_/same_as :: [_Count-Template.secret](/_secret/schema-org/Property/has_number_of/_Count-Template.secret.md)
 

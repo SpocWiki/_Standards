@@ -49,17 +49,17 @@ Nonprofit501f: Non-profit type referring to Cooperative Service Organizations.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501f](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.md) 
+### #is_/same_as :: [nonprofit501f](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.md) 
 
-### [nonprofit501f.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.public.md) 
+### #is_/same_as :: [nonprofit501f.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.public.md) 
 
-### [nonprofit501f.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.internal.md) 
+### #is_/same_as :: [nonprofit501f.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.internal.md) 
 
-### [nonprofit501f.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.protect.md) 
+### #is_/same_as :: [nonprofit501f.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.protect.md) 
 
-### [nonprofit501f.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.private.md) 
+### #is_/same_as :: [nonprofit501f.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.private.md) 
 
-### [nonprofit501f.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.personal.md) 
+### #is_/same_as :: [nonprofit501f.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.personal.md) 
 
-### [nonprofit501f.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.secret.md)
+### #is_/same_as :: [nonprofit501f.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.secret.md)
 

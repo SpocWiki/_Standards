@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_pathophysiology](/_Standards/schema-org/Property/Texts/has_pathophysiology.md) 
+### #is_/same_as :: [has_pathophysiology](/_Standards/schema-org/Property/Texts/has_pathophysiology.md) 
 
-### [has_pathophysiology.public](/_public/schema-org/Property/Texts/has_pathophysiology.public.md) 
+### #is_/same_as :: [has_pathophysiology.public](/_public/schema-org/Property/Texts/has_pathophysiology.public.md) 
 
-### [has_pathophysiology.internal](/_internal/schema-org/Property/Texts/has_pathophysiology.internal.md) 
+### #is_/same_as :: [has_pathophysiology.internal](/_internal/schema-org/Property/Texts/has_pathophysiology.internal.md) 
 
-### [has_pathophysiology.protect](/_protect/schema-org/Property/Texts/has_pathophysiology.protect.md) 
+### #is_/same_as :: [has_pathophysiology.protect](/_protect/schema-org/Property/Texts/has_pathophysiology.protect.md) 
 
-### [has_pathophysiology.private](/_private/schema-org/Property/Texts/has_pathophysiology.private.md) 
+### #is_/same_as :: [has_pathophysiology.private](/_private/schema-org/Property/Texts/has_pathophysiology.private.md) 
 
-### [has_pathophysiology.personal](/_personal/schema-org/Property/Texts/has_pathophysiology.personal.md) 
+### #is_/same_as :: [has_pathophysiology.personal](/_personal/schema-org/Property/Texts/has_pathophysiology.personal.md) 
 
-### [has_pathophysiology.secret](/_secret/schema-org/Property/Texts/has_pathophysiology.secret.md)
+### #is_/same_as :: [has_pathophysiology.secret](/_secret/schema-org/Property/Texts/has_pathophysiology.secret.md)
 

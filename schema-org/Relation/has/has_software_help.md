@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_software_help](/_Standards/schema-org/Relation/has/has_software_help.md) 
+### #is_/same_as :: [has_software_help](/_Standards/schema-org/Relation/has/has_software_help.md) 
 
-### [has_software_help.public](/_public/schema-org/Relation/has/has_software_help.public.md) 
+### #is_/same_as :: [has_software_help.public](/_public/schema-org/Relation/has/has_software_help.public.md) 
 
-### [has_software_help.internal](/_internal/schema-org/Relation/has/has_software_help.internal.md) 
+### #is_/same_as :: [has_software_help.internal](/_internal/schema-org/Relation/has/has_software_help.internal.md) 
 
-### [has_software_help.protect](/_protect/schema-org/Relation/has/has_software_help.protect.md) 
+### #is_/same_as :: [has_software_help.protect](/_protect/schema-org/Relation/has/has_software_help.protect.md) 
 
-### [has_software_help.private](/_private/schema-org/Relation/has/has_software_help.private.md) 
+### #is_/same_as :: [has_software_help.private](/_private/schema-org/Relation/has/has_software_help.private.md) 
 
-### [has_software_help.personal](/_personal/schema-org/Relation/has/has_software_help.personal.md) 
+### #is_/same_as :: [has_software_help.personal](/_personal/schema-org/Relation/has/has_software_help.personal.md) 
 
-### [has_software_help.secret](/_secret/schema-org/Relation/has/has_software_help.secret.md)
+### #is_/same_as :: [has_software_help.secret](/_secret/schema-org/Relation/has/has_software_help.secret.md)
 

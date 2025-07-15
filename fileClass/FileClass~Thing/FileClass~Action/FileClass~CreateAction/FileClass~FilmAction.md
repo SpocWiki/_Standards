@@ -36,17 +36,17 @@ The act of capturing sound and moving images on film, video, or digitally.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FilmAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.md) 
+### #is_/same_as :: [FileClass~FilmAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.md) 
 
-### [FileClass~FilmAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.public.md) 
+### #is_/same_as :: [FileClass~FilmAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.public.md) 
 
-### [FileClass~FilmAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.internal.md) 
+### #is_/same_as :: [FileClass~FilmAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.internal.md) 
 
-### [FileClass~FilmAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.protect.md) 
+### #is_/same_as :: [FileClass~FilmAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.protect.md) 
 
-### [FileClass~FilmAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.private.md) 
+### #is_/same_as :: [FileClass~FilmAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.private.md) 
 
-### [FileClass~FilmAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.personal.md) 
+### #is_/same_as :: [FileClass~FilmAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.personal.md) 
 
-### [FileClass~FilmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.secret.md)
+### #is_/same_as :: [FileClass~FilmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~FilmAction.secret.md)
 

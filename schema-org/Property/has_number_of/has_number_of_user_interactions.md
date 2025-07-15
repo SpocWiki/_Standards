@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_user_interactions](/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions.md) 
+### #is_/same_as :: [has_number_of_user_interactions](/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions.md) 
 
-### [has_number_of_user_interactions.public](/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public.md) 
+### #is_/same_as :: [has_number_of_user_interactions.public](/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public.md) 
 
-### [has_number_of_user_interactions.internal](/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal.md) 
+### #is_/same_as :: [has_number_of_user_interactions.internal](/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal.md) 
 
-### [has_number_of_user_interactions.protect](/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect.md) 
+### #is_/same_as :: [has_number_of_user_interactions.protect](/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect.md) 
 
-### [has_number_of_user_interactions.private](/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private.md) 
+### #is_/same_as :: [has_number_of_user_interactions.private](/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private.md) 
 
-### [has_number_of_user_interactions.personal](/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal.md) 
+### #is_/same_as :: [has_number_of_user_interactions.personal](/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal.md) 
 
-### [has_number_of_user_interactions.secret](/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret.md)
+### #is_/same_as :: [has_number_of_user_interactions.secret](/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret.md)
 

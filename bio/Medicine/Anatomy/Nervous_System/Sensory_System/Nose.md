@@ -14,22 +14,19 @@ has_id_wikidata: Q7363
 > [Wikipedia](https://en.wikipedia.org/wiki/Nose)  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nose](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.md) 
+### #is_/same_as :: [Nose](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.md) 
 
-### [Nose.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.public.md) 
+### #is_/same_as :: [Nose.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.public.md) 
 
-### [Nose.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.internal.md) 
+### #is_/same_as :: [Nose.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.internal.md) 
 
-### [Nose.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.protect.md) 
+### #is_/same_as :: [Nose.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.protect.md) 
 
-### [Nose.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.private.md) 
+### #is_/same_as :: [Nose.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.private.md) 
 
-### [Nose.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.personal.md) 
+### #is_/same_as :: [Nose.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.personal.md) 
 
-### [Nose.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.secret.md)
+### #is_/same_as :: [Nose.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.secret.md)
 

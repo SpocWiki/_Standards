@@ -81,22 +81,19 @@ PhilPapers_topic: taste-experience
 > [Wikipedia](https://en.wikipedia.org/wiki/Taste)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Taste](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.md) 
+### #is_/same_as :: [Taste](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.md) 
 
-### [Taste.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.public.md) 
+### #is_/same_as :: [Taste.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.public.md) 
 
-### [Taste.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.internal.md) 
+### #is_/same_as :: [Taste.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.internal.md) 
 
-### [Taste.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.protect.md) 
+### #is_/same_as :: [Taste.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.protect.md) 
 
-### [Taste.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.private.md) 
+### #is_/same_as :: [Taste.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.private.md) 
 
-### [Taste.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.personal.md) 
+### #is_/same_as :: [Taste.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.personal.md) 
 
-### [Taste.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.secret.md)
+### #is_/same_as :: [Taste.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.secret.md)
 

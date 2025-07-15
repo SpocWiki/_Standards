@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accommodation_floor_plan](/_Standards/schema-org/Relation/has/has_accommodation_floor_plan.md) 
+### #is_/same_as :: [has_accommodation_floor_plan](/_Standards/schema-org/Relation/has/has_accommodation_floor_plan.md) 
 
-### [has_accommodation_floor_plan.public](/_public/schema-org/Relation/has/has_accommodation_floor_plan.public.md) 
+### #is_/same_as :: [has_accommodation_floor_plan.public](/_public/schema-org/Relation/has/has_accommodation_floor_plan.public.md) 
 
-### [has_accommodation_floor_plan.internal](/_internal/schema-org/Relation/has/has_accommodation_floor_plan.internal.md) 
+### #is_/same_as :: [has_accommodation_floor_plan.internal](/_internal/schema-org/Relation/has/has_accommodation_floor_plan.internal.md) 
 
-### [has_accommodation_floor_plan.protect](/_protect/schema-org/Relation/has/has_accommodation_floor_plan.protect.md) 
+### #is_/same_as :: [has_accommodation_floor_plan.protect](/_protect/schema-org/Relation/has/has_accommodation_floor_plan.protect.md) 
 
-### [has_accommodation_floor_plan.private](/_private/schema-org/Relation/has/has_accommodation_floor_plan.private.md) 
+### #is_/same_as :: [has_accommodation_floor_plan.private](/_private/schema-org/Relation/has/has_accommodation_floor_plan.private.md) 
 
-### [has_accommodation_floor_plan.personal](/_personal/schema-org/Relation/has/has_accommodation_floor_plan.personal.md) 
+### #is_/same_as :: [has_accommodation_floor_plan.personal](/_personal/schema-org/Relation/has/has_accommodation_floor_plan.personal.md) 
 
-### [has_accommodation_floor_plan.secret](/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret.md)
+### #is_/same_as :: [has_accommodation_floor_plan.secret](/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret.md)
 

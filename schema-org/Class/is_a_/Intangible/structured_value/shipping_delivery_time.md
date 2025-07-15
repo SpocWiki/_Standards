@@ -47,17 +47,17 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 ## Confidential Links & Embeds: 
 
-### [shipping_delivery_time](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.md) 
+### #is_/same_as :: [shipping_delivery_time](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.md) 
 
-### [shipping_delivery_time.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.public.md) 
+### #is_/same_as :: [shipping_delivery_time.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.public.md) 
 
-### [shipping_delivery_time.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.internal.md) 
+### #is_/same_as :: [shipping_delivery_time.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.internal.md) 
 
-### [shipping_delivery_time.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.protect.md) 
+### #is_/same_as :: [shipping_delivery_time.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.protect.md) 
 
-### [shipping_delivery_time.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.private.md) 
+### #is_/same_as :: [shipping_delivery_time.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.private.md) 
 
-### [shipping_delivery_time.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.personal.md) 
+### #is_/same_as :: [shipping_delivery_time.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.personal.md) 
 
-### [shipping_delivery_time.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.secret.md)
+### #is_/same_as :: [shipping_delivery_time.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.secret.md)
 

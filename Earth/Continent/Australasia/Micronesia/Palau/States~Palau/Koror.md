@@ -41,17 +41,17 @@ markerFolder: ./Koror/
 
 ## Confidential Links & Embeds: 
 
-### [Koror](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.md) 
+### #is_/same_as :: [Koror](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.md) 
 
-### [Koror.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.public.md) 
+### #is_/same_as :: [Koror.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.public.md) 
 
-### [Koror.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal.md) 
+### #is_/same_as :: [Koror.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal.md) 
 
-### [Koror.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.protect.md) 
+### #is_/same_as :: [Koror.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.protect.md) 
 
-### [Koror.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.private.md) 
+### #is_/same_as :: [Koror.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.private.md) 
 
-### [Koror.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal.md) 
+### #is_/same_as :: [Koror.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal.md) 
 
-### [Koror.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret.md)
+### #is_/same_as :: [Koror.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret.md)
 

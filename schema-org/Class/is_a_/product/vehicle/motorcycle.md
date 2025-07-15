@@ -47,17 +47,17 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
 ## Confidential Links & Embeds: 
 
-### [motorcycle](/_Standards/schema-org/Class/is_a_/product/vehicle/motorcycle.md) 
+### #is_/same_as :: [motorcycle](/_Standards/schema-org/Class/is_a_/product/vehicle/motorcycle.md) 
 
-### [motorcycle.public](/_public/schema-org/Class/is_a_/product/vehicle/motorcycle.public.md) 
+### #is_/same_as :: [motorcycle.public](/_public/schema-org/Class/is_a_/product/vehicle/motorcycle.public.md) 
 
-### [motorcycle.internal](/_internal/schema-org/Class/is_a_/product/vehicle/motorcycle.internal.md) 
+### #is_/same_as :: [motorcycle.internal](/_internal/schema-org/Class/is_a_/product/vehicle/motorcycle.internal.md) 
 
-### [motorcycle.protect](/_protect/schema-org/Class/is_a_/product/vehicle/motorcycle.protect.md) 
+### #is_/same_as :: [motorcycle.protect](/_protect/schema-org/Class/is_a_/product/vehicle/motorcycle.protect.md) 
 
-### [motorcycle.private](/_private/schema-org/Class/is_a_/product/vehicle/motorcycle.private.md) 
+### #is_/same_as :: [motorcycle.private](/_private/schema-org/Class/is_a_/product/vehicle/motorcycle.private.md) 
 
-### [motorcycle.personal](/_personal/schema-org/Class/is_a_/product/vehicle/motorcycle.personal.md) 
+### #is_/same_as :: [motorcycle.personal](/_personal/schema-org/Class/is_a_/product/vehicle/motorcycle.personal.md) 
 
-### [motorcycle.secret](/_secret/schema-org/Class/is_a_/product/vehicle/motorcycle.secret.md)
+### #is_/same_as :: [motorcycle.secret](/_secret/schema-org/Class/is_a_/product/vehicle/motorcycle.secret.md)
 

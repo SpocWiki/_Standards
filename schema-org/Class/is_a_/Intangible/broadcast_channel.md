@@ -47,17 +47,17 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 ## Confidential Links & Embeds: 
 
-### [broadcast_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel.md) 
+### #is_/same_as :: [broadcast_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel.md) 
 
-### [broadcast_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel.public.md) 
+### #is_/same_as :: [broadcast_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel.public.md) 
 
-### [broadcast_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel.internal.md) 
+### #is_/same_as :: [broadcast_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel.internal.md) 
 
-### [broadcast_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel.protect.md) 
+### #is_/same_as :: [broadcast_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel.protect.md) 
 
-### [broadcast_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel.private.md) 
+### #is_/same_as :: [broadcast_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel.private.md) 
 
-### [broadcast_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel.personal.md) 
+### #is_/same_as :: [broadcast_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel.personal.md) 
 
-### [broadcast_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel.secret.md)
+### #is_/same_as :: [broadcast_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel.secret.md)
 

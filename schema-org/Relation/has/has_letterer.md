@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_letterer](/_Standards/schema-org/Relation/has/has_letterer.md) 
+### #is_/same_as :: [has_letterer](/_Standards/schema-org/Relation/has/has_letterer.md) 
 
-### [has_letterer.public](/_public/schema-org/Relation/has/has_letterer.public.md) 
+### #is_/same_as :: [has_letterer.public](/_public/schema-org/Relation/has/has_letterer.public.md) 
 
-### [has_letterer.internal](/_internal/schema-org/Relation/has/has_letterer.internal.md) 
+### #is_/same_as :: [has_letterer.internal](/_internal/schema-org/Relation/has/has_letterer.internal.md) 
 
-### [has_letterer.protect](/_protect/schema-org/Relation/has/has_letterer.protect.md) 
+### #is_/same_as :: [has_letterer.protect](/_protect/schema-org/Relation/has/has_letterer.protect.md) 
 
-### [has_letterer.private](/_private/schema-org/Relation/has/has_letterer.private.md) 
+### #is_/same_as :: [has_letterer.private](/_private/schema-org/Relation/has/has_letterer.private.md) 
 
-### [has_letterer.personal](/_personal/schema-org/Relation/has/has_letterer.personal.md) 
+### #is_/same_as :: [has_letterer.personal](/_personal/schema-org/Relation/has/has_letterer.personal.md) 
 
-### [has_letterer.secret](/_secret/schema-org/Relation/has/has_letterer.secret.md)
+### #is_/same_as :: [has_letterer.secret](/_secret/schema-org/Relation/has/has_letterer.secret.md)
 

@@ -47,17 +47,17 @@ A government office—for example, an IRS or DMV office.
 
 ## Confidential Links & Embeds: 
 
-### [government_office](/_Standards/schema-org/Class/is_a_/organization/local_business/government_office.md) 
+### #is_/same_as :: [government_office](/_Standards/schema-org/Class/is_a_/organization/local_business/government_office.md) 
 
-### [government_office.public](/_public/schema-org/Class/is_a_/organization/local_business/government_office.public.md) 
+### #is_/same_as :: [government_office.public](/_public/schema-org/Class/is_a_/organization/local_business/government_office.public.md) 
 
-### [government_office.internal](/_internal/schema-org/Class/is_a_/organization/local_business/government_office.internal.md) 
+### #is_/same_as :: [government_office.internal](/_internal/schema-org/Class/is_a_/organization/local_business/government_office.internal.md) 
 
-### [government_office.protect](/_protect/schema-org/Class/is_a_/organization/local_business/government_office.protect.md) 
+### #is_/same_as :: [government_office.protect](/_protect/schema-org/Class/is_a_/organization/local_business/government_office.protect.md) 
 
-### [government_office.private](/_private/schema-org/Class/is_a_/organization/local_business/government_office.private.md) 
+### #is_/same_as :: [government_office.private](/_private/schema-org/Class/is_a_/organization/local_business/government_office.private.md) 
 
-### [government_office.personal](/_personal/schema-org/Class/is_a_/organization/local_business/government_office.personal.md) 
+### #is_/same_as :: [government_office.personal](/_personal/schema-org/Class/is_a_/organization/local_business/government_office.personal.md) 
 
-### [government_office.secret](/_secret/schema-org/Class/is_a_/organization/local_business/government_office.secret.md)
+### #is_/same_as :: [government_office.secret](/_secret/schema-org/Class/is_a_/organization/local_business/government_office.secret.md)
 

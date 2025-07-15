@@ -558,17 +558,17 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 
 ## Confidential Links & Embeds: 
 
-### [Korea~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North.md) 
+### #is_/same_as :: [Korea~North](/_Standards/Earth/Continent/Asia/Asia~East/Korea~North.md) 
 
-### [Korea~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North.public.md) 
+### #is_/same_as :: [Korea~North.public](/_public/Earth/Continent/Asia/Asia~East/Korea~North.public.md) 
 
-### [Korea~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North.internal.md) 
+### #is_/same_as :: [Korea~North.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~North.internal.md) 
 
-### [Korea~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North.protect.md) 
+### #is_/same_as :: [Korea~North.protect](/_protect/Earth/Continent/Asia/Asia~East/Korea~North.protect.md) 
 
-### [Korea~North.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North.private.md) 
+### #is_/same_as :: [Korea~North.private](/_private/Earth/Continent/Asia/Asia~East/Korea~North.private.md) 
 
-### [Korea~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North.personal.md) 
+### #is_/same_as :: [Korea~North.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~North.personal.md) 
 
-### [Korea~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North.secret.md)
+### #is_/same_as :: [Korea~North.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~North.secret.md)
 

@@ -65,21 +65,19 @@ native_label:
 > [Wikipedia](https://en.wikipedia.org/wiki/Three%20Gorges%20Dam) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Three_Gorges_Dam](/_Standards/Technology/Construction/Dam/Three_Gorges_Dam.md) 
+### #is_/same_as :: [Three_Gorges_Dam](/_Standards/Technology/Construction/Dam/Three_Gorges_Dam.md) 
 
-### [Three_Gorges_Dam.public](/_public/Technology/Construction/Dam/Three_Gorges_Dam.public.md) 
+### #is_/same_as :: [Three_Gorges_Dam.public](/_public/Technology/Construction/Dam/Three_Gorges_Dam.public.md) 
 
-### [Three_Gorges_Dam.internal](/_internal/Technology/Construction/Dam/Three_Gorges_Dam.internal.md) 
+### #is_/same_as :: [Three_Gorges_Dam.internal](/_internal/Technology/Construction/Dam/Three_Gorges_Dam.internal.md) 
 
-### [Three_Gorges_Dam.protect](/_protect/Technology/Construction/Dam/Three_Gorges_Dam.protect.md) 
+### #is_/same_as :: [Three_Gorges_Dam.protect](/_protect/Technology/Construction/Dam/Three_Gorges_Dam.protect.md) 
 
-### [Three_Gorges_Dam.private](/_private/Technology/Construction/Dam/Three_Gorges_Dam.private.md) 
+### #is_/same_as :: [Three_Gorges_Dam.private](/_private/Technology/Construction/Dam/Three_Gorges_Dam.private.md) 
 
-### [Three_Gorges_Dam.personal](/_personal/Technology/Construction/Dam/Three_Gorges_Dam.personal.md) 
+### #is_/same_as :: [Three_Gorges_Dam.personal](/_personal/Technology/Construction/Dam/Three_Gorges_Dam.personal.md) 
 
-### [Three_Gorges_Dam.secret](/_secret/Technology/Construction/Dam/Three_Gorges_Dam.secret.md)
+### #is_/same_as :: [Three_Gorges_Dam.secret](/_secret/Technology/Construction/Dam/Three_Gorges_Dam.secret.md)
 

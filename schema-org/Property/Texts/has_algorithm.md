@@ -43,17 +43,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_algorithm](/_Standards/schema-org/Property/Texts/has_algorithm.md) 
+### #is_/same_as :: [has_algorithm](/_Standards/schema-org/Property/Texts/has_algorithm.md) 
 
-### [has_algorithm.public](/_public/schema-org/Property/Texts/has_algorithm.public.md) 
+### #is_/same_as :: [has_algorithm.public](/_public/schema-org/Property/Texts/has_algorithm.public.md) 
 
-### [has_algorithm.internal](/_internal/schema-org/Property/Texts/has_algorithm.internal.md) 
+### #is_/same_as :: [has_algorithm.internal](/_internal/schema-org/Property/Texts/has_algorithm.internal.md) 
 
-### [has_algorithm.protect](/_protect/schema-org/Property/Texts/has_algorithm.protect.md) 
+### #is_/same_as :: [has_algorithm.protect](/_protect/schema-org/Property/Texts/has_algorithm.protect.md) 
 
-### [has_algorithm.private](/_private/schema-org/Property/Texts/has_algorithm.private.md) 
+### #is_/same_as :: [has_algorithm.private](/_private/schema-org/Property/Texts/has_algorithm.private.md) 
 
-### [has_algorithm.personal](/_personal/schema-org/Property/Texts/has_algorithm.personal.md) 
+### #is_/same_as :: [has_algorithm.personal](/_personal/schema-org/Property/Texts/has_algorithm.personal.md) 
 
-### [has_algorithm.secret](/_secret/schema-org/Property/Texts/has_algorithm.secret.md)
+### #is_/same_as :: [has_algorithm.secret](/_secret/schema-org/Property/Texts/has_algorithm.secret.md)
 

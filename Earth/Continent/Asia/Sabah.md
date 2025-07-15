@@ -37,17 +37,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### [Sabah](/_Standards/Earth/Continent/Asia/Sabah.md) 
+### #is_/same_as :: [Sabah](/_Standards/Earth/Continent/Asia/Sabah.md) 
 
-### [Sabah.public](/_public/Earth/Continent/Asia/Sabah.public.md) 
+### #is_/same_as :: [Sabah.public](/_public/Earth/Continent/Asia/Sabah.public.md) 
 
-### [Sabah.internal](/_internal/Earth/Continent/Asia/Sabah.internal.md) 
+### #is_/same_as :: [Sabah.internal](/_internal/Earth/Continent/Asia/Sabah.internal.md) 
 
-### [Sabah.protect](/_protect/Earth/Continent/Asia/Sabah.protect.md) 
+### #is_/same_as :: [Sabah.protect](/_protect/Earth/Continent/Asia/Sabah.protect.md) 
 
-### [Sabah.private](/_private/Earth/Continent/Asia/Sabah.private.md) 
+### #is_/same_as :: [Sabah.private](/_private/Earth/Continent/Asia/Sabah.private.md) 
 
-### [Sabah.personal](/_personal/Earth/Continent/Asia/Sabah.personal.md) 
+### #is_/same_as :: [Sabah.personal](/_personal/Earth/Continent/Asia/Sabah.personal.md) 
 
-### [Sabah.secret](/_secret/Earth/Continent/Asia/Sabah.secret.md)
+### #is_/same_as :: [Sabah.secret](/_secret/Earth/Continent/Asia/Sabah.secret.md)
 

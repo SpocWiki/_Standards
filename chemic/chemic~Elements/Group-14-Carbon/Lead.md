@@ -175,17 +175,17 @@ Due to the large Silver Refining in the Roman Empire, it is likely that it was d
 
 ## Confidential Links & Embeds: 
 
-### [Lead](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
+### #is_/same_as :: [Lead](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
 
-### [Lead.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.public.md) 
+### #is_/same_as :: [Lead.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.public.md) 
 
-### [Lead.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Lead.internal.md) 
+### #is_/same_as :: [Lead.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Lead.internal.md) 
 
-### [Lead.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Lead.protect.md) 
+### #is_/same_as :: [Lead.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Lead.protect.md) 
 
-### [Lead.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Lead.private.md) 
+### #is_/same_as :: [Lead.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Lead.private.md) 
 
-### [Lead.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Lead.personal.md) 
+### #is_/same_as :: [Lead.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Lead.personal.md) 
 
-### [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md)
+### #is_/same_as :: [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md)
 

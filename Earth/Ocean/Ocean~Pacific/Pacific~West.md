@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Pacific~West](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West.md) 
+### #is_/same_as :: [Pacific~West](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West.md) 
 
-### [Pacific~West.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West.public.md) 
+### #is_/same_as :: [Pacific~West.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West.public.md) 
 
-### [Pacific~West.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West.internal.md) 
+### #is_/same_as :: [Pacific~West.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West.internal.md) 
 
-### [Pacific~West.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West.protect.md) 
+### #is_/same_as :: [Pacific~West.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West.protect.md) 
 
-### [Pacific~West.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West.private.md) 
+### #is_/same_as :: [Pacific~West.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West.private.md) 
 
-### [Pacific~West.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal.md) 
+### #is_/same_as :: [Pacific~West.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal.md) 
 
-### [Pacific~West.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret.md)
+### #is_/same_as :: [Pacific~West.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret.md)
 

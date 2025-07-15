@@ -45,17 +45,17 @@ Issn:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WebSite](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.md) 
+### #is_/same_as :: [FileClass~WebSite](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.md) 
 
-### [FileClass~WebSite.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.public.md) 
+### #is_/same_as :: [FileClass~WebSite.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.public.md) 
 
-### [FileClass~WebSite.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.internal.md) 
+### #is_/same_as :: [FileClass~WebSite.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.internal.md) 
 
-### [FileClass~WebSite.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.protect.md) 
+### #is_/same_as :: [FileClass~WebSite.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.protect.md) 
 
-### [FileClass~WebSite.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.private.md) 
+### #is_/same_as :: [FileClass~WebSite.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.private.md) 
 
-### [FileClass~WebSite.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.personal.md) 
+### #is_/same_as :: [FileClass~WebSite.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.personal.md) 
 
-### [FileClass~WebSite.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.secret.md)
+### #is_/same_as :: [FileClass~WebSite.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.secret.md)
 

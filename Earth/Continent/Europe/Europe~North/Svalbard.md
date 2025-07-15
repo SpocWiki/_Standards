@@ -35,17 +35,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Svalbard.md) 
+### #is_/same_as :: [Svalbard](/_Standards/Earth/Continent/Europe/Europe~North/Svalbard.md) 
 
-### [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Svalbard.public.md) 
+### #is_/same_as :: [Svalbard.public](/_public/Earth/Continent/Europe/Europe~North/Svalbard.public.md) 
 
-### [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Svalbard.internal.md) 
+### #is_/same_as :: [Svalbard.internal](/_internal/Earth/Continent/Europe/Europe~North/Svalbard.internal.md) 
 
-### [Svalbard.protect](/_protect/Earth/Continent/Europe/Europe~North/Svalbard.protect.md) 
+### #is_/same_as :: [Svalbard.protect](/_protect/Earth/Continent/Europe/Europe~North/Svalbard.protect.md) 
 
-### [Svalbard.private](/_private/Earth/Continent/Europe/Europe~North/Svalbard.private.md) 
+### #is_/same_as :: [Svalbard.private](/_private/Earth/Continent/Europe/Europe~North/Svalbard.private.md) 
 
-### [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Svalbard.personal.md) 
+### #is_/same_as :: [Svalbard.personal](/_personal/Earth/Continent/Europe/Europe~North/Svalbard.personal.md) 
 
-### [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Svalbard.secret.md)
+### #is_/same_as :: [Svalbard.secret](/_secret/Earth/Continent/Europe/Europe~North/Svalbard.secret.md)
 

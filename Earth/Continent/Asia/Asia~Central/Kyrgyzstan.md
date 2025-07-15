@@ -455,17 +455,17 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 ## Confidential Links & Embeds: 
 
-### [Kyrgyzstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.md) 
+### #is_/same_as :: [Kyrgyzstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.md) 
 
-### [Kyrgyzstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public.md) 
+### #is_/same_as :: [Kyrgyzstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public.md) 
 
-### [Kyrgyzstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal.md) 
+### #is_/same_as :: [Kyrgyzstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal.md) 
 
-### [Kyrgyzstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect.md) 
+### #is_/same_as :: [Kyrgyzstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect.md) 
 
-### [Kyrgyzstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private.md) 
+### #is_/same_as :: [Kyrgyzstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private.md) 
 
-### [Kyrgyzstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal.md) 
+### #is_/same_as :: [Kyrgyzstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal.md) 
 
-### [Kyrgyzstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret.md)
+### #is_/same_as :: [Kyrgyzstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret.md)
 

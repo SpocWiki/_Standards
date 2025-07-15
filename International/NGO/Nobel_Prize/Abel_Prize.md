@@ -105,20 +105,19 @@ aliases:
 | ^^   | ^^                                                                                                                                                   | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Maryna_Vazovska_MFO_2013_crop.jpg/60px-Maryna_Vazovska_MFO_2013_crop.jpg)](https://en.wikipedia.org/wiki/File:Maryna_Vazovska_MFO_2013_crop.jpg)                                                                                                    | [Maryna Viazovska](https://en.wikipedia.org/wiki/Maryna_Viazovska "Maryna Viazovska")                                                                                                                                                                                                                                                                                                                                | [École Polytechnique Fédérale de Lausanne](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne "École Polytechnique Fédérale de Lausanne"), Switzerland                                                                                                                                                                                                | [École Polytechnique Fédérale de Lausanne](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne "École Polytechnique Fédérale de Lausanne"), Switzerland                                                                                                                                                                                                        | "For the proof that the [E8![{\displaystyle E_{8}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/48479e96d90b4cfabc7784106cc3cfff907dda34) lattice](https://en.wikipedia.org/wiki/E8_lattice#Sphere_packings_and_kissing_numbers "E8 lattice") provides the densest packing of identical spheres in 8 dimensions, and further contributions to related extremal problems and interpolation problems in [Fourier analysis](https://en.wikipedia.org/wiki/Fourier_analysis "Fourier analysis")."                                                                                   |
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Abel_Prize](/_Standards/International/NGO/Nobel_Prize/Abel_Prize.md) 
+### #is_/same_as :: [Abel_Prize](/_Standards/International/NGO/Nobel_Prize/Abel_Prize.md) 
 
-### [Abel_Prize.public](/_public/International/NGO/Nobel_Prize/Abel_Prize.public.md) 
+### #is_/same_as :: [Abel_Prize.public](/_public/International/NGO/Nobel_Prize/Abel_Prize.public.md) 
 
-### [Abel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Abel_Prize.internal.md) 
+### #is_/same_as :: [Abel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Abel_Prize.internal.md) 
 
-### [Abel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Abel_Prize.protect.md) 
+### #is_/same_as :: [Abel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Abel_Prize.protect.md) 
 
-### [Abel_Prize.private](/_private/International/NGO/Nobel_Prize/Abel_Prize.private.md) 
+### #is_/same_as :: [Abel_Prize.private](/_private/International/NGO/Nobel_Prize/Abel_Prize.private.md) 
 
-### [Abel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Abel_Prize.personal.md) 
+### #is_/same_as :: [Abel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Abel_Prize.personal.md) 
 
-### [Abel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Abel_Prize.secret.md)
+### #is_/same_as :: [Abel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Abel_Prize.secret.md)
 

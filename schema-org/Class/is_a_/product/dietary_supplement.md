@@ -45,17 +45,17 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 ## Confidential Links & Embeds: 
 
-### [dietary_supplement](/_Standards/schema-org/Class/is_a_/product/dietary_supplement.md) 
+### #is_/same_as :: [dietary_supplement](/_Standards/schema-org/Class/is_a_/product/dietary_supplement.md) 
 
-### [dietary_supplement.public](/_public/schema-org/Class/is_a_/product/dietary_supplement.public.md) 
+### #is_/same_as :: [dietary_supplement.public](/_public/schema-org/Class/is_a_/product/dietary_supplement.public.md) 
 
-### [dietary_supplement.internal](/_internal/schema-org/Class/is_a_/product/dietary_supplement.internal.md) 
+### #is_/same_as :: [dietary_supplement.internal](/_internal/schema-org/Class/is_a_/product/dietary_supplement.internal.md) 
 
-### [dietary_supplement.protect](/_protect/schema-org/Class/is_a_/product/dietary_supplement.protect.md) 
+### #is_/same_as :: [dietary_supplement.protect](/_protect/schema-org/Class/is_a_/product/dietary_supplement.protect.md) 
 
-### [dietary_supplement.private](/_private/schema-org/Class/is_a_/product/dietary_supplement.private.md) 
+### #is_/same_as :: [dietary_supplement.private](/_private/schema-org/Class/is_a_/product/dietary_supplement.private.md) 
 
-### [dietary_supplement.personal](/_personal/schema-org/Class/is_a_/product/dietary_supplement.personal.md) 
+### #is_/same_as :: [dietary_supplement.personal](/_personal/schema-org/Class/is_a_/product/dietary_supplement.personal.md) 
 
-### [dietary_supplement.secret](/_secret/schema-org/Class/is_a_/product/dietary_supplement.secret.md)
+### #is_/same_as :: [dietary_supplement.secret](/_secret/schema-org/Class/is_a_/product/dietary_supplement.secret.md)
 

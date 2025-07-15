@@ -128,17 +128,17 @@ Commons_category: Barium
 
 ## Confidential Links & Embeds: 
 
-### [Barium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.md) 
+### #is_/same_as :: [Barium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.md) 
 
-### [Barium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.public.md) 
+### #is_/same_as :: [Barium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.public.md) 
 
-### [Barium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.internal.md) 
+### #is_/same_as :: [Barium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.internal.md) 
 
-### [Barium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.protect.md) 
+### #is_/same_as :: [Barium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.protect.md) 
 
-### [Barium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.private.md) 
+### #is_/same_as :: [Barium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.private.md) 
 
-### [Barium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.personal.md) 
+### #is_/same_as :: [Barium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.personal.md) 
 
-### [Barium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.secret.md)
+### #is_/same_as :: [Barium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Barium.secret.md)
 

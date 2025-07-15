@@ -43,21 +43,19 @@ Commons_category: Swimming
 > [Wikipedia](https://en.wikipedia.org/wiki/Swimming) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Swimming](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.md) 
+### #is_/same_as :: [Swimming](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.md) 
 
-### [Swimming.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.public.md) 
+### #is_/same_as :: [Swimming.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.public.md) 
 
-### [Swimming.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.internal.md) 
+### #is_/same_as :: [Swimming.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.internal.md) 
 
-### [Swimming.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.protect.md) 
+### #is_/same_as :: [Swimming.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.protect.md) 
 
-### [Swimming.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.private.md) 
+### #is_/same_as :: [Swimming.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.private.md) 
 
-### [Swimming.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.personal.md) 
+### #is_/same_as :: [Swimming.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.personal.md) 
 
-### [Swimming.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.secret.md)
+### #is_/same_as :: [Swimming.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.secret.md)
 

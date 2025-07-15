@@ -49,17 +49,17 @@ Imperial size system.
 
 ## Confidential Links & Embeds: 
 
-### [size_system_imperial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.md) 
+### #is_/same_as :: [size_system_imperial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.md) 
 
-### [size_system_imperial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.public.md) 
+### #is_/same_as :: [size_system_imperial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.public.md) 
 
-### [size_system_imperial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md) 
+### #is_/same_as :: [size_system_imperial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md) 
 
-### [size_system_imperial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md) 
+### #is_/same_as :: [size_system_imperial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md) 
 
-### [size_system_imperial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.private.md) 
+### #is_/same_as :: [size_system_imperial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.private.md) 
 
-### [size_system_imperial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md) 
+### #is_/same_as :: [size_system_imperial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md) 
 
-### [size_system_imperial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md)
+### #is_/same_as :: [size_system_imperial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md)
 

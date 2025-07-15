@@ -310,21 +310,19 @@ Thys, Duke University. Copyright © 1995, Tierney Thys.
 Copyright ::   © 1995 Tierney Thys
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Vertebrata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.md) 
+### #is_/same_as :: [Vertebrata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.md) 
 
-### [Vertebrata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.public.md) 
+### #is_/same_as :: [Vertebrata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.public.md) 
 
-### [Vertebrata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.internal.md) 
+### #is_/same_as :: [Vertebrata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.internal.md) 
 
-### [Vertebrata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.protect.md) 
+### #is_/same_as :: [Vertebrata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.protect.md) 
 
-### [Vertebrata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.private.md) 
+### #is_/same_as :: [Vertebrata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.private.md) 
 
-### [Vertebrata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.personal.md) 
+### #is_/same_as :: [Vertebrata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.personal.md) 
 
-### [Vertebrata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.secret.md)
+### #is_/same_as :: [Vertebrata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.secret.md)
 

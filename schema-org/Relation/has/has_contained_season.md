@@ -45,17 +45,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### [has_contained_season](/_Standards/schema-org/Relation/has/has_contained_season.md) 
+### #is_/same_as :: [has_contained_season](/_Standards/schema-org/Relation/has/has_contained_season.md) 
 
-### [has_contained_season.public](/_public/schema-org/Relation/has/has_contained_season.public.md) 
+### #is_/same_as :: [has_contained_season.public](/_public/schema-org/Relation/has/has_contained_season.public.md) 
 
-### [has_contained_season.internal](/_internal/schema-org/Relation/has/has_contained_season.internal.md) 
+### #is_/same_as :: [has_contained_season.internal](/_internal/schema-org/Relation/has/has_contained_season.internal.md) 
 
-### [has_contained_season.protect](/_protect/schema-org/Relation/has/has_contained_season.protect.md) 
+### #is_/same_as :: [has_contained_season.protect](/_protect/schema-org/Relation/has/has_contained_season.protect.md) 
 
-### [has_contained_season.private](/_private/schema-org/Relation/has/has_contained_season.private.md) 
+### #is_/same_as :: [has_contained_season.private](/_private/schema-org/Relation/has/has_contained_season.private.md) 
 
-### [has_contained_season.personal](/_personal/schema-org/Relation/has/has_contained_season.personal.md) 
+### #is_/same_as :: [has_contained_season.personal](/_personal/schema-org/Relation/has/has_contained_season.personal.md) 
 
-### [has_contained_season.secret](/_secret/schema-org/Relation/has/has_contained_season.secret.md)
+### #is_/same_as :: [has_contained_season.secret](/_secret/schema-org/Relation/has/has_contained_season.secret.md)
 

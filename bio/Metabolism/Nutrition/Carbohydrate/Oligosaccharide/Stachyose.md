@@ -17,23 +17,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Stachyose)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Stachyose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.md) 
+### #is_/same_as :: [Stachyose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.md) 
 
-### [Stachyose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.public.md) 
+### #is_/same_as :: [Stachyose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.public.md) 
 
-### [Stachyose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.internal.md) 
+### #is_/same_as :: [Stachyose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.internal.md) 
 
-### [Stachyose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.protect.md) 
+### #is_/same_as :: [Stachyose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.protect.md) 
 
-### [Stachyose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.private.md) 
+### #is_/same_as :: [Stachyose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.private.md) 
 
-### [Stachyose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.personal.md) 
+### #is_/same_as :: [Stachyose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.personal.md) 
 
-### [Stachyose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.secret.md)
+### #is_/same_as :: [Stachyose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Stachyose.secret.md)
 

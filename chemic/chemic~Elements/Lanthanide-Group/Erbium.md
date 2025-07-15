@@ -99,17 +99,17 @@ Unicode_character: 鉺
 
 ## Confidential Links & Embeds: 
 
-### [Erbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Erbium.md) 
+### #is_/same_as :: [Erbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Erbium.md) 
 
-### [Erbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Erbium.public.md) 
+### #is_/same_as :: [Erbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Erbium.public.md) 
 
-### [Erbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Erbium.internal.md) 
+### #is_/same_as :: [Erbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Erbium.internal.md) 
 
-### [Erbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Erbium.protect.md) 
+### #is_/same_as :: [Erbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Erbium.protect.md) 
 
-### [Erbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Erbium.private.md) 
+### #is_/same_as :: [Erbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Erbium.private.md) 
 
-### [Erbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Erbium.personal.md) 
+### #is_/same_as :: [Erbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Erbium.personal.md) 
 
-### [Erbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Erbium.secret.md)
+### #is_/same_as :: [Erbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Erbium.secret.md)
 

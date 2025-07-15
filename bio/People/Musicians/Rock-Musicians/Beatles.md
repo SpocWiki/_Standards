@@ -152,22 +152,19 @@ work period (start): 1960-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Beatles)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Beatles](/_Standards/bio/People/Musicians/Rock-Musicians/Beatles.md) 
+### #is_/same_as :: [Beatles](/_Standards/bio/People/Musicians/Rock-Musicians/Beatles.md) 
 
-### [Beatles.public](/_public/bio/People/Musicians/Rock-Musicians/Beatles.public.md) 
+### #is_/same_as :: [Beatles.public](/_public/bio/People/Musicians/Rock-Musicians/Beatles.public.md) 
 
-### [Beatles.internal](/_internal/bio/People/Musicians/Rock-Musicians/Beatles.internal.md) 
+### #is_/same_as :: [Beatles.internal](/_internal/bio/People/Musicians/Rock-Musicians/Beatles.internal.md) 
 
-### [Beatles.protect](/_protect/bio/People/Musicians/Rock-Musicians/Beatles.protect.md) 
+### #is_/same_as :: [Beatles.protect](/_protect/bio/People/Musicians/Rock-Musicians/Beatles.protect.md) 
 
-### [Beatles.private](/_private/bio/People/Musicians/Rock-Musicians/Beatles.private.md) 
+### #is_/same_as :: [Beatles.private](/_private/bio/People/Musicians/Rock-Musicians/Beatles.private.md) 
 
-### [Beatles.personal](/_personal/bio/People/Musicians/Rock-Musicians/Beatles.personal.md) 
+### #is_/same_as :: [Beatles.personal](/_personal/bio/People/Musicians/Rock-Musicians/Beatles.personal.md) 
 
-### [Beatles.secret](/_secret/bio/People/Musicians/Rock-Musicians/Beatles.secret.md)
+### #is_/same_as :: [Beatles.secret](/_secret/bio/People/Musicians/Rock-Musicians/Beatles.secret.md)
 

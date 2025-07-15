@@ -45,17 +45,17 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### [prevention_indication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.md) 
+### #is_/same_as :: [prevention_indication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.md) 
 
-### [prevention_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.public.md) 
+### #is_/same_as :: [prevention_indication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.public.md) 
 
-### [prevention_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.internal.md) 
+### #is_/same_as :: [prevention_indication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.internal.md) 
 
-### [prevention_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.protect.md) 
+### #is_/same_as :: [prevention_indication.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.protect.md) 
 
-### [prevention_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.private.md) 
+### #is_/same_as :: [prevention_indication.private](/_private/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.private.md) 
 
-### [prevention_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.personal.md) 
+### #is_/same_as :: [prevention_indication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.personal.md) 
 
-### [prevention_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md)
+### #is_/same_as :: [prevention_indication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md)
 

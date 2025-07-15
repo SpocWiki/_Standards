@@ -18,22 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pravetz%2082) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pravetz_82](/_Standards/Technology/IT/Computer_Hardware/Computer/Pravetz_82.md) 
+### #is_/same_as :: [Pravetz_82](/_Standards/Technology/IT/Computer_Hardware/Computer/Pravetz_82.md) 
 
-### [Pravetz_82.public](/_public/Technology/IT/Computer_Hardware/Computer/Pravetz_82.public.md) 
+### #is_/same_as :: [Pravetz_82.public](/_public/Technology/IT/Computer_Hardware/Computer/Pravetz_82.public.md) 
 
-### [Pravetz_82.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.internal.md) 
+### #is_/same_as :: [Pravetz_82.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.internal.md) 
 
-### [Pravetz_82.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Pravetz_82.protect.md) 
+### #is_/same_as :: [Pravetz_82.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Pravetz_82.protect.md) 
 
-### [Pravetz_82.private](/_private/Technology/IT/Computer_Hardware/Computer/Pravetz_82.private.md) 
+### #is_/same_as :: [Pravetz_82.private](/_private/Technology/IT/Computer_Hardware/Computer/Pravetz_82.private.md) 
 
-### [Pravetz_82.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.personal.md) 
+### #is_/same_as :: [Pravetz_82.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.personal.md) 
 
-### [Pravetz_82.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Pravetz_82.secret.md)
+### #is_/same_as :: [Pravetz_82.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Pravetz_82.secret.md)
 

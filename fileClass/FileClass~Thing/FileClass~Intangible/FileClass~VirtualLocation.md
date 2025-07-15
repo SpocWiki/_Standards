@@ -35,17 +35,17 @@ An online or virtual location for attending events. For example, one may attend 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~VirtualLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.md) 
+### #is_/same_as :: [FileClass~VirtualLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.md) 
 
-### [FileClass~VirtualLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.public.md) 
+### #is_/same_as :: [FileClass~VirtualLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.public.md) 
 
-### [FileClass~VirtualLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.internal.md) 
+### #is_/same_as :: [FileClass~VirtualLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.internal.md) 
 
-### [FileClass~VirtualLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.protect.md) 
+### #is_/same_as :: [FileClass~VirtualLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.protect.md) 
 
-### [FileClass~VirtualLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.private.md) 
+### #is_/same_as :: [FileClass~VirtualLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.private.md) 
 
-### [FileClass~VirtualLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.personal.md) 
+### #is_/same_as :: [FileClass~VirtualLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.personal.md) 
 
-### [FileClass~VirtualLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.secret.md)
+### #is_/same_as :: [FileClass~VirtualLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.secret.md)
 

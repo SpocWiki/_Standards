@@ -78,17 +78,17 @@ PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.md) 
+### #is_/same_as :: [FileClass~ListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.md) 
 
-### [FileClass~ListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.public.md) 
+### #is_/same_as :: [FileClass~ListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.public.md) 
 
-### [FileClass~ListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.internal.md) 
+### #is_/same_as :: [FileClass~ListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.internal.md) 
 
-### [FileClass~ListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.protect.md) 
+### #is_/same_as :: [FileClass~ListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.protect.md) 
 
-### [FileClass~ListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.private.md) 
+### #is_/same_as :: [FileClass~ListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.private.md) 
 
-### [FileClass~ListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.personal.md) 
+### #is_/same_as :: [FileClass~ListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.personal.md) 
 
-### [FileClass~ListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.secret.md)
+### #is_/same_as :: [FileClass~ListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.secret.md)
 

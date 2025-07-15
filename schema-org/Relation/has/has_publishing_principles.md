@@ -50,17 +50,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_publishing_principles](/_Standards/schema-org/Relation/has/has_publishing_principles.md) 
+### #is_/same_as :: [has_publishing_principles](/_Standards/schema-org/Relation/has/has_publishing_principles.md) 
 
-### [has_publishing_principles.public](/_public/schema-org/Relation/has/has_publishing_principles.public.md) 
+### #is_/same_as :: [has_publishing_principles.public](/_public/schema-org/Relation/has/has_publishing_principles.public.md) 
 
-### [has_publishing_principles.internal](/_internal/schema-org/Relation/has/has_publishing_principles.internal.md) 
+### #is_/same_as :: [has_publishing_principles.internal](/_internal/schema-org/Relation/has/has_publishing_principles.internal.md) 
 
-### [has_publishing_principles.protect](/_protect/schema-org/Relation/has/has_publishing_principles.protect.md) 
+### #is_/same_as :: [has_publishing_principles.protect](/_protect/schema-org/Relation/has/has_publishing_principles.protect.md) 
 
-### [has_publishing_principles.private](/_private/schema-org/Relation/has/has_publishing_principles.private.md) 
+### #is_/same_as :: [has_publishing_principles.private](/_private/schema-org/Relation/has/has_publishing_principles.private.md) 
 
-### [has_publishing_principles.personal](/_personal/schema-org/Relation/has/has_publishing_principles.personal.md) 
+### #is_/same_as :: [has_publishing_principles.personal](/_personal/schema-org/Relation/has/has_publishing_principles.personal.md) 
 
-### [has_publishing_principles.secret](/_secret/schema-org/Relation/has/has_publishing_principles.secret.md)
+### #is_/same_as :: [has_publishing_principles.secret](/_secret/schema-org/Relation/has/has_publishing_principles.secret.md)
 

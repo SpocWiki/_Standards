@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_coverage_end](/_Standards/schema-org/Property/has_Date_Time/has_time_of_coverage_end.md) 
+### #is_/same_as :: [has_time_of_coverage_end](/_Standards/schema-org/Property/has_Date_Time/has_time_of_coverage_end.md) 
 
-### [has_time_of_coverage_end.public](/_public/schema-org/Property/has_Date_Time/has_time_of_coverage_end.public.md) 
+### #is_/same_as :: [has_time_of_coverage_end.public](/_public/schema-org/Property/has_Date_Time/has_time_of_coverage_end.public.md) 
 
-### [has_time_of_coverage_end.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_coverage_end.internal.md) 
+### #is_/same_as :: [has_time_of_coverage_end.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_coverage_end.internal.md) 
 
-### [has_time_of_coverage_end.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_coverage_end.protect.md) 
+### #is_/same_as :: [has_time_of_coverage_end.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_coverage_end.protect.md) 
 
-### [has_time_of_coverage_end.private](/_private/schema-org/Property/has_Date_Time/has_time_of_coverage_end.private.md) 
+### #is_/same_as :: [has_time_of_coverage_end.private](/_private/schema-org/Property/has_Date_Time/has_time_of_coverage_end.private.md) 
 
-### [has_time_of_coverage_end.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_coverage_end.personal.md) 
+### #is_/same_as :: [has_time_of_coverage_end.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_coverage_end.personal.md) 
 
-### [has_time_of_coverage_end.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_coverage_end.secret.md)
+### #is_/same_as :: [has_time_of_coverage_end.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_coverage_end.secret.md)
 

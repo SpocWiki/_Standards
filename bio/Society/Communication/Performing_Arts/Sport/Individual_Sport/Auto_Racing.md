@@ -16,25 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Auto%20racing) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Auto_Racing](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.md) 
+### #is_/same_as :: [Auto_Racing](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.md) 
 
-### [Auto_Racing.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.public.md) 
+### #is_/same_as :: [Auto_Racing.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.public.md) 
 
-### [Auto_Racing.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.internal.md) 
+### #is_/same_as :: [Auto_Racing.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.internal.md) 
 
-### [Auto_Racing.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.protect.md) 
+### #is_/same_as :: [Auto_Racing.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.protect.md) 
 
-### [Auto_Racing.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.private.md) 
+### #is_/same_as :: [Auto_Racing.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.private.md) 
 
-### [Auto_Racing.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.personal.md) 
+### #is_/same_as :: [Auto_Racing.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.personal.md) 
 
-### [Auto_Racing.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.secret.md)
+### #is_/same_as :: [Auto_Racing.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Auto_Racing.secret.md)
 

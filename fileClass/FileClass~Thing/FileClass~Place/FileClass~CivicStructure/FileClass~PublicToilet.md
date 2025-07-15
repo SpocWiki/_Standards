@@ -35,17 +35,17 @@ A public toilet is a room or small building containing one or more toilets (and 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PublicToilet](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.md) 
+### #is_/same_as :: [FileClass~PublicToilet](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.md) 
 
-### [FileClass~PublicToilet.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.public.md) 
+### #is_/same_as :: [FileClass~PublicToilet.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.public.md) 
 
-### [FileClass~PublicToilet.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.internal.md) 
+### #is_/same_as :: [FileClass~PublicToilet.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.internal.md) 
 
-### [FileClass~PublicToilet.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.protect.md) 
+### #is_/same_as :: [FileClass~PublicToilet.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.protect.md) 
 
-### [FileClass~PublicToilet.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.private.md) 
+### #is_/same_as :: [FileClass~PublicToilet.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.private.md) 
 
-### [FileClass~PublicToilet.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.personal.md) 
+### #is_/same_as :: [FileClass~PublicToilet.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.personal.md) 
 
-### [FileClass~PublicToilet.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.secret.md)
+### #is_/same_as :: [FileClass~PublicToilet.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PublicToilet.secret.md)
 

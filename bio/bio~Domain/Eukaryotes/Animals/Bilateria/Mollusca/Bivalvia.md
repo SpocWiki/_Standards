@@ -71,20 +71,19 @@ Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bivalvia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.md) 
+### #is_/same_as :: [Bivalvia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.md) 
 
-### [Bivalvia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.public.md) 
+### #is_/same_as :: [Bivalvia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.public.md) 
 
-### [Bivalvia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.internal.md) 
+### #is_/same_as :: [Bivalvia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.internal.md) 
 
-### [Bivalvia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.protect.md) 
+### #is_/same_as :: [Bivalvia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.protect.md) 
 
-### [Bivalvia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.private.md) 
+### #is_/same_as :: [Bivalvia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.private.md) 
 
-### [Bivalvia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.personal.md) 
+### #is_/same_as :: [Bivalvia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.personal.md) 
 
-### [Bivalvia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.secret.md)
+### #is_/same_as :: [Bivalvia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Bivalvia.secret.md)
 

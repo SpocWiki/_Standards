@@ -49,17 +49,17 @@ Has [sub_properties::loanTerm]
 
 ## Confidential Links & Embeds: 
 
-### [has_duration](/_Standards/schema-org/Property/has_duration_of/has_duration.md) 
+### #is_/same_as :: [has_duration](/_Standards/schema-org/Property/has_duration_of/has_duration.md) 
 
-### [has_duration.public](/_public/schema-org/Property/has_duration_of/has_duration.public.md) 
+### #is_/same_as :: [has_duration.public](/_public/schema-org/Property/has_duration_of/has_duration.public.md) 
 
-### [has_duration.internal](/_internal/schema-org/Property/has_duration_of/has_duration.internal.md) 
+### #is_/same_as :: [has_duration.internal](/_internal/schema-org/Property/has_duration_of/has_duration.internal.md) 
 
-### [has_duration.protect](/_protect/schema-org/Property/has_duration_of/has_duration.protect.md) 
+### #is_/same_as :: [has_duration.protect](/_protect/schema-org/Property/has_duration_of/has_duration.protect.md) 
 
-### [has_duration.private](/_private/schema-org/Property/has_duration_of/has_duration.private.md) 
+### #is_/same_as :: [has_duration.private](/_private/schema-org/Property/has_duration_of/has_duration.private.md) 
 
-### [has_duration.personal](/_personal/schema-org/Property/has_duration_of/has_duration.personal.md) 
+### #is_/same_as :: [has_duration.personal](/_personal/schema-org/Property/has_duration_of/has_duration.personal.md) 
 
-### [has_duration.secret](/_secret/schema-org/Property/has_duration_of/has_duration.secret.md)
+### #is_/same_as :: [has_duration.secret](/_secret/schema-org/Property/has_duration_of/has_duration.secret.md)
 

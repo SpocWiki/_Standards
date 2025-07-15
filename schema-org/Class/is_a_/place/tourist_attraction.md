@@ -45,17 +45,17 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fr
 
 ## Confidential Links & Embeds: 
 
-### [tourist_attraction](/_Standards/schema-org/Class/is_a_/place/tourist_attraction.md) 
+### #is_/same_as :: [tourist_attraction](/_Standards/schema-org/Class/is_a_/place/tourist_attraction.md) 
 
-### [tourist_attraction.public](/_public/schema-org/Class/is_a_/place/tourist_attraction.public.md) 
+### #is_/same_as :: [tourist_attraction.public](/_public/schema-org/Class/is_a_/place/tourist_attraction.public.md) 
 
-### [tourist_attraction.internal](/_internal/schema-org/Class/is_a_/place/tourist_attraction.internal.md) 
+### #is_/same_as :: [tourist_attraction.internal](/_internal/schema-org/Class/is_a_/place/tourist_attraction.internal.md) 
 
-### [tourist_attraction.protect](/_protect/schema-org/Class/is_a_/place/tourist_attraction.protect.md) 
+### #is_/same_as :: [tourist_attraction.protect](/_protect/schema-org/Class/is_a_/place/tourist_attraction.protect.md) 
 
-### [tourist_attraction.private](/_private/schema-org/Class/is_a_/place/tourist_attraction.private.md) 
+### #is_/same_as :: [tourist_attraction.private](/_private/schema-org/Class/is_a_/place/tourist_attraction.private.md) 
 
-### [tourist_attraction.personal](/_personal/schema-org/Class/is_a_/place/tourist_attraction.personal.md) 
+### #is_/same_as :: [tourist_attraction.personal](/_personal/schema-org/Class/is_a_/place/tourist_attraction.personal.md) 
 
-### [tourist_attraction.secret](/_secret/schema-org/Class/is_a_/place/tourist_attraction.secret.md)
+### #is_/same_as :: [tourist_attraction.secret](/_secret/schema-org/Class/is_a_/place/tourist_attraction.secret.md)
 

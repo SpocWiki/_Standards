@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_applying_to_payment_method](/_Standards/schema-org/Relation/is/is_applying_to_payment_method.md) 
+### #is_/same_as :: [is_applying_to_payment_method](/_Standards/schema-org/Relation/is/is_applying_to_payment_method.md) 
 
-### [is_applying_to_payment_method.public](/_public/schema-org/Relation/is/is_applying_to_payment_method.public.md) 
+### #is_/same_as :: [is_applying_to_payment_method.public](/_public/schema-org/Relation/is/is_applying_to_payment_method.public.md) 
 
-### [is_applying_to_payment_method.internal](/_internal/schema-org/Relation/is/is_applying_to_payment_method.internal.md) 
+### #is_/same_as :: [is_applying_to_payment_method.internal](/_internal/schema-org/Relation/is/is_applying_to_payment_method.internal.md) 
 
-### [is_applying_to_payment_method.protect](/_protect/schema-org/Relation/is/is_applying_to_payment_method.protect.md) 
+### #is_/same_as :: [is_applying_to_payment_method.protect](/_protect/schema-org/Relation/is/is_applying_to_payment_method.protect.md) 
 
-### [is_applying_to_payment_method.private](/_private/schema-org/Relation/is/is_applying_to_payment_method.private.md) 
+### #is_/same_as :: [is_applying_to_payment_method.private](/_private/schema-org/Relation/is/is_applying_to_payment_method.private.md) 
 
-### [is_applying_to_payment_method.personal](/_personal/schema-org/Relation/is/is_applying_to_payment_method.personal.md) 
+### #is_/same_as :: [is_applying_to_payment_method.personal](/_personal/schema-org/Relation/is/is_applying_to_payment_method.personal.md) 
 
-### [is_applying_to_payment_method.secret](/_secret/schema-org/Relation/is/is_applying_to_payment_method.secret.md)
+### #is_/same_as :: [is_applying_to_payment_method.secret](/_secret/schema-org/Relation/is/is_applying_to_payment_method.secret.md)
 

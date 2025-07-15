@@ -49,17 +49,17 @@ Girth of neck. Used, for example, to fit shirts.
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.md) 
+### #is_/same_as :: [body_measurement_neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.md) 
 
-### [body_measurement_neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.public.md) 
+### #is_/same_as :: [body_measurement_neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.public.md) 
 
-### [body_measurement_neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.internal.md) 
+### #is_/same_as :: [body_measurement_neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.internal.md) 
 
-### [body_measurement_neck.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.protect.md) 
+### #is_/same_as :: [body_measurement_neck.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.protect.md) 
 
-### [body_measurement_neck.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.private.md) 
+### #is_/same_as :: [body_measurement_neck.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.private.md) 
 
-### [body_measurement_neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.personal.md) 
+### #is_/same_as :: [body_measurement_neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.personal.md) 
 
-### [body_measurement_neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.secret.md)
+### #is_/same_as :: [body_measurement_neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.secret.md)
 

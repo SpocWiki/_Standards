@@ -47,17 +47,17 @@ OrderStatus representing that an order is being processed.
 
 ## Confidential Links & Embeds: 
 
-### [order_processing](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.md) 
+### #is_/same_as :: [order_processing](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.md) 
 
-### [order_processing.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.public.md) 
+### #is_/same_as :: [order_processing.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.public.md) 
 
-### [order_processing.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.internal.md) 
+### #is_/same_as :: [order_processing.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.internal.md) 
 
-### [order_processing.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.protect.md) 
+### #is_/same_as :: [order_processing.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.protect.md) 
 
-### [order_processing.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.private.md) 
+### #is_/same_as :: [order_processing.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.private.md) 
 
-### [order_processing.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.personal.md) 
+### #is_/same_as :: [order_processing.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.personal.md) 
 
-### [order_processing.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.secret.md)
+### #is_/same_as :: [order_processing.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_processing.secret.md)
 

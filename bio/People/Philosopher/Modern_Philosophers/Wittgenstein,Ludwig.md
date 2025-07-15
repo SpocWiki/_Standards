@@ -167,24 +167,19 @@ Commons_category: "Ludwig Wittgenstein"
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Wittgenstein)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Wittgenstein,Ludwig](/_Standards/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig](/_Standards/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.md) 
 
-### [Wittgenstein,Ludwig.public](/_public/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.public.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig.public](/_public/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.public.md) 
 
-### [Wittgenstein,Ludwig.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.internal.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.internal.md) 
 
-### [Wittgenstein,Ludwig.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.protect.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.protect.md) 
 
-### [Wittgenstein,Ludwig.private](/_private/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.private.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig.private](/_private/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.private.md) 
 
-### [Wittgenstein,Ludwig.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.personal.md) 
+### #is_/same_as :: [Wittgenstein,Ludwig.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.personal.md) 
 
-### [Wittgenstein,Ludwig.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.secret.md)
+### #is_/same_as :: [Wittgenstein,Ludwig.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Wittgenstein,Ludwig.secret.md)
 

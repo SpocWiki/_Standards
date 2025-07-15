@@ -63,17 +63,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_dateline](/_Standards/schema-org/Property/Texts/has_dateline.md) 
+### #is_/same_as :: [has_dateline](/_Standards/schema-org/Property/Texts/has_dateline.md) 
 
-### [has_dateline.public](/_public/schema-org/Property/Texts/has_dateline.public.md) 
+### #is_/same_as :: [has_dateline.public](/_public/schema-org/Property/Texts/has_dateline.public.md) 
 
-### [has_dateline.internal](/_internal/schema-org/Property/Texts/has_dateline.internal.md) 
+### #is_/same_as :: [has_dateline.internal](/_internal/schema-org/Property/Texts/has_dateline.internal.md) 
 
-### [has_dateline.protect](/_protect/schema-org/Property/Texts/has_dateline.protect.md) 
+### #is_/same_as :: [has_dateline.protect](/_protect/schema-org/Property/Texts/has_dateline.protect.md) 
 
-### [has_dateline.private](/_private/schema-org/Property/Texts/has_dateline.private.md) 
+### #is_/same_as :: [has_dateline.private](/_private/schema-org/Property/Texts/has_dateline.private.md) 
 
-### [has_dateline.personal](/_personal/schema-org/Property/Texts/has_dateline.personal.md) 
+### #is_/same_as :: [has_dateline.personal](/_personal/schema-org/Property/Texts/has_dateline.personal.md) 
 
-### [has_dateline.secret](/_secret/schema-org/Property/Texts/has_dateline.secret.md)
+### #is_/same_as :: [has_dateline.secret](/_secret/schema-org/Property/Texts/has_dateline.secret.md)
 

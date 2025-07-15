@@ -81,23 +81,19 @@ taxon_name: Chelicerata
 > [Wikipedia](https://en.wikipedia.org/wiki/Chelicerata) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chelicerata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.md) 
+### #is_/same_as :: [Chelicerata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.md) 
 
-### [Chelicerata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.public.md) 
+### #is_/same_as :: [Chelicerata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.public.md) 
 
-### [Chelicerata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.internal.md) 
+### #is_/same_as :: [Chelicerata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.internal.md) 
 
-### [Chelicerata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.protect.md) 
+### #is_/same_as :: [Chelicerata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.protect.md) 
 
-### [Chelicerata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.private.md) 
+### #is_/same_as :: [Chelicerata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.private.md) 
 
-### [Chelicerata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.personal.md) 
+### #is_/same_as :: [Chelicerata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.personal.md) 
 
-### [Chelicerata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.secret.md)
+### #is_/same_as :: [Chelicerata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata.secret.md)
 

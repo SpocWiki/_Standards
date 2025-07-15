@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_department](/_Standards/schema-org/Relation/has/has_department.md) 
+### #is_/same_as :: [has_department](/_Standards/schema-org/Relation/has/has_department.md) 
 
-### [has_department.public](/_public/schema-org/Relation/has/has_department.public.md) 
+### #is_/same_as :: [has_department.public](/_public/schema-org/Relation/has/has_department.public.md) 
 
-### [has_department.internal](/_internal/schema-org/Relation/has/has_department.internal.md) 
+### #is_/same_as :: [has_department.internal](/_internal/schema-org/Relation/has/has_department.internal.md) 
 
-### [has_department.protect](/_protect/schema-org/Relation/has/has_department.protect.md) 
+### #is_/same_as :: [has_department.protect](/_protect/schema-org/Relation/has/has_department.protect.md) 
 
-### [has_department.private](/_private/schema-org/Relation/has/has_department.private.md) 
+### #is_/same_as :: [has_department.private](/_private/schema-org/Relation/has/has_department.private.md) 
 
-### [has_department.personal](/_personal/schema-org/Relation/has/has_department.personal.md) 
+### #is_/same_as :: [has_department.personal](/_personal/schema-org/Relation/has/has_department.personal.md) 
 
-### [has_department.secret](/_secret/schema-org/Relation/has/has_department.secret.md)
+### #is_/same_as :: [has_department.secret](/_secret/schema-org/Relation/has/has_department.secret.md)
 

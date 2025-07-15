@@ -55,17 +55,17 @@ volume 1, number 1.
 
 ## Confidential Links & Embeds: 
 
-### [Endocoelantheae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.md) 
+### #is_/same_as :: [Endocoelantheae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.md) 
 
-### [Endocoelantheae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public.md) 
+### #is_/same_as :: [Endocoelantheae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public.md) 
 
-### [Endocoelantheae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.internal.md) 
+### #is_/same_as :: [Endocoelantheae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.internal.md) 
 
-### [Endocoelantheae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.protect.md) 
+### #is_/same_as :: [Endocoelantheae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.protect.md) 
 
-### [Endocoelantheae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.private.md) 
+### #is_/same_as :: [Endocoelantheae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.private.md) 
 
-### [Endocoelantheae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.personal.md) 
+### #is_/same_as :: [Endocoelantheae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.personal.md) 
 
-### [Endocoelantheae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.secret.md)
+### #is_/same_as :: [Endocoelantheae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.secret.md)
 

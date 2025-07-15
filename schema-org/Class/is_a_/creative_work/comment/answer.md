@@ -45,17 +45,17 @@ An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 
 ## Confidential Links & Embeds: 
 
-### [answer](/_Standards/schema-org/Class/is_a_/creative_work/comment/answer.md) 
+### #is_/same_as :: [answer](/_Standards/schema-org/Class/is_a_/creative_work/comment/answer.md) 
 
-### [answer.public](/_public/schema-org/Class/is_a_/creative_work/comment/answer.public.md) 
+### #is_/same_as :: [answer.public](/_public/schema-org/Class/is_a_/creative_work/comment/answer.public.md) 
 
-### [answer.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/answer.internal.md) 
+### #is_/same_as :: [answer.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/answer.internal.md) 
 
-### [answer.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/answer.protect.md) 
+### #is_/same_as :: [answer.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/answer.protect.md) 
 
-### [answer.private](/_private/schema-org/Class/is_a_/creative_work/comment/answer.private.md) 
+### #is_/same_as :: [answer.private](/_private/schema-org/Class/is_a_/creative_work/comment/answer.private.md) 
 
-### [answer.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/answer.personal.md) 
+### #is_/same_as :: [answer.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/answer.personal.md) 
 
-### [answer.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/answer.secret.md)
+### #is_/same_as :: [answer.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/answer.secret.md)
 

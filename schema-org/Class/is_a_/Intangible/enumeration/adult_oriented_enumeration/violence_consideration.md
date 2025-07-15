@@ -49,17 +49,17 @@ Item shows or promotes violence.
 
 ## Confidential Links & Embeds: 
 
-### [violence_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.md) 
+### #is_/same_as :: [violence_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.md) 
 
-### [violence_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.public.md) 
+### #is_/same_as :: [violence_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.public.md) 
 
-### [violence_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md) 
+### #is_/same_as :: [violence_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md) 
 
-### [violence_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.protect.md) 
+### #is_/same_as :: [violence_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.protect.md) 
 
-### [violence_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.private.md) 
+### #is_/same_as :: [violence_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.private.md) 
 
-### [violence_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal.md) 
+### #is_/same_as :: [violence_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal.md) 
 
-### [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md)
+### #is_/same_as :: [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md)
 

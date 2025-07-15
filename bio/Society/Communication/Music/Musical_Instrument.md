@@ -70,23 +70,19 @@ Commons_gallery: "Musical instrument"
 > [Wikipedia](https://en.wikipedia.org/wiki/Musical%20instrument) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Musical_Instrument](/_Standards/bio/Society/Communication/Music/Musical_Instrument.md) 
+### #is_/same_as :: [Musical_Instrument](/_Standards/bio/Society/Communication/Music/Musical_Instrument.md) 
 
-### [Musical_Instrument.public](/_public/bio/Society/Communication/Music/Musical_Instrument.public.md) 
+### #is_/same_as :: [Musical_Instrument.public](/_public/bio/Society/Communication/Music/Musical_Instrument.public.md) 
 
-### [Musical_Instrument.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument.internal.md) 
+### #is_/same_as :: [Musical_Instrument.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument.internal.md) 
 
-### [Musical_Instrument.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument.protect.md) 
+### #is_/same_as :: [Musical_Instrument.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument.protect.md) 
 
-### [Musical_Instrument.private](/_private/bio/Society/Communication/Music/Musical_Instrument.private.md) 
+### #is_/same_as :: [Musical_Instrument.private](/_private/bio/Society/Communication/Music/Musical_Instrument.private.md) 
 
-### [Musical_Instrument.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument.personal.md) 
+### #is_/same_as :: [Musical_Instrument.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument.personal.md) 
 
-### [Musical_Instrument.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument.secret.md)
+### #is_/same_as :: [Musical_Instrument.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument.secret.md)
 

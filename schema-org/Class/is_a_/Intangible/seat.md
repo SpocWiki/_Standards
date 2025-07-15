@@ -45,17 +45,17 @@ Used to describe a seat, such as a reserved seat in an event reservation.
 
 ## Confidential Links & Embeds: 
 
-### [seat](/_Standards/schema-org/Class/is_a_/Intangible/seat.md) 
+### #is_/same_as :: [seat](/_Standards/schema-org/Class/is_a_/Intangible/seat.md) 
 
-### [seat.public](/_public/schema-org/Class/is_a_/Intangible/seat.public.md) 
+### #is_/same_as :: [seat.public](/_public/schema-org/Class/is_a_/Intangible/seat.public.md) 
 
-### [seat.internal](/_internal/schema-org/Class/is_a_/Intangible/seat.internal.md) 
+### #is_/same_as :: [seat.internal](/_internal/schema-org/Class/is_a_/Intangible/seat.internal.md) 
 
-### [seat.protect](/_protect/schema-org/Class/is_a_/Intangible/seat.protect.md) 
+### #is_/same_as :: [seat.protect](/_protect/schema-org/Class/is_a_/Intangible/seat.protect.md) 
 
-### [seat.private](/_private/schema-org/Class/is_a_/Intangible/seat.private.md) 
+### #is_/same_as :: [seat.private](/_private/schema-org/Class/is_a_/Intangible/seat.private.md) 
 
-### [seat.personal](/_personal/schema-org/Class/is_a_/Intangible/seat.personal.md) 
+### #is_/same_as :: [seat.personal](/_personal/schema-org/Class/is_a_/Intangible/seat.personal.md) 
 
-### [seat.secret](/_secret/schema-org/Class/is_a_/Intangible/seat.secret.md)
+### #is_/same_as :: [seat.secret](/_secret/schema-org/Class/is_a_/Intangible/seat.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_additional_property](/_Standards/schema-org/Relation/has/has_additional_property.md) 
+### #is_/same_as :: [has_additional_property](/_Standards/schema-org/Relation/has/has_additional_property.md) 
 
-### [has_additional_property.public](/_public/schema-org/Relation/has/has_additional_property.public.md) 
+### #is_/same_as :: [has_additional_property.public](/_public/schema-org/Relation/has/has_additional_property.public.md) 
 
-### [has_additional_property.internal](/_internal/schema-org/Relation/has/has_additional_property.internal.md) 
+### #is_/same_as :: [has_additional_property.internal](/_internal/schema-org/Relation/has/has_additional_property.internal.md) 
 
-### [has_additional_property.protect](/_protect/schema-org/Relation/has/has_additional_property.protect.md) 
+### #is_/same_as :: [has_additional_property.protect](/_protect/schema-org/Relation/has/has_additional_property.protect.md) 
 
-### [has_additional_property.private](/_private/schema-org/Relation/has/has_additional_property.private.md) 
+### #is_/same_as :: [has_additional_property.private](/_private/schema-org/Relation/has/has_additional_property.private.md) 
 
-### [has_additional_property.personal](/_personal/schema-org/Relation/has/has_additional_property.personal.md) 
+### #is_/same_as :: [has_additional_property.personal](/_personal/schema-org/Relation/has/has_additional_property.personal.md) 
 
-### [has_additional_property.secret](/_secret/schema-org/Relation/has/has_additional_property.secret.md)
+### #is_/same_as :: [has_additional_property.secret](/_secret/schema-org/Relation/has/has_additional_property.secret.md)
 

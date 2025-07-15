@@ -47,17 +47,17 @@ Uses devices to support users with hearing impairments.
 
 ## Confidential Links & Embeds: 
 
-### [hearing_impaired_supported](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.md) 
+### #is_/same_as :: [hearing_impaired_supported](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.md) 
 
-### [hearing_impaired_supported.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.public.md) 
+### #is_/same_as :: [hearing_impaired_supported.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.public.md) 
 
-### [hearing_impaired_supported.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md) 
+### #is_/same_as :: [hearing_impaired_supported.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md) 
 
-### [hearing_impaired_supported.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.protect.md) 
+### #is_/same_as :: [hearing_impaired_supported.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.protect.md) 
 
-### [hearing_impaired_supported.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.private.md) 
+### #is_/same_as :: [hearing_impaired_supported.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.private.md) 
 
-### [hearing_impaired_supported.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.personal.md) 
+### #is_/same_as :: [hearing_impaired_supported.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.personal.md) 
 
-### [hearing_impaired_supported.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md)
+### #is_/same_as :: [hearing_impaired_supported.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md)
 

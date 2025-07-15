@@ -43,17 +43,17 @@ The kind of release which this album is: single, EP or album.
 
 ## Confidential Links & Embeds: 
 
-### [music_album_release_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.md) 
+### #is_/same_as :: [music_album_release_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.md) 
 
-### [music_album_release_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.public.md) 
+### #is_/same_as :: [music_album_release_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.public.md) 
 
-### [music_album_release_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.internal.md) 
+### #is_/same_as :: [music_album_release_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.internal.md) 
 
-### [music_album_release_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.protect.md) 
+### #is_/same_as :: [music_album_release_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.protect.md) 
 
-### [music_album_release_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.private.md) 
+### #is_/same_as :: [music_album_release_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.private.md) 
 
-### [music_album_release_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.personal.md) 
+### #is_/same_as :: [music_album_release_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.personal.md) 
 
-### [music_album_release_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.secret.md)
+### #is_/same_as :: [music_album_release_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type.secret.md)
 

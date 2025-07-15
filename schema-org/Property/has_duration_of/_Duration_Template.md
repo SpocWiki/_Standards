@@ -55,17 +55,17 @@ Has [sub_properties::{{subproperties}}]
 
 ## Confidential Links & Embeds: 
 
-### [_Duration_Template](/_Standards/schema-org/Property/has_duration_of/_Duration_Template.md) 
+### #is_/same_as :: [_Duration_Template](/_Standards/schema-org/Property/has_duration_of/_Duration_Template.md) 
 
-### [_Duration_Template.public](/_public/schema-org/Property/has_duration_of/_Duration_Template.public.md) 
+### #is_/same_as :: [_Duration_Template.public](/_public/schema-org/Property/has_duration_of/_Duration_Template.public.md) 
 
-### [_Duration_Template.internal](/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal.md) 
+### #is_/same_as :: [_Duration_Template.internal](/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal.md) 
 
-### [_Duration_Template.protect](/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect.md) 
+### #is_/same_as :: [_Duration_Template.protect](/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect.md) 
 
-### [_Duration_Template.private](/_private/schema-org/Property/has_duration_of/_Duration_Template.private.md) 
+### #is_/same_as :: [_Duration_Template.private](/_private/schema-org/Property/has_duration_of/_Duration_Template.private.md) 
 
-### [_Duration_Template.personal](/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal.md) 
+### #is_/same_as :: [_Duration_Template.personal](/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal.md) 
 
-### [_Duration_Template.secret](/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret.md)
+### #is_/same_as :: [_Duration_Template.secret](/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret.md)
 

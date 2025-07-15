@@ -43,17 +43,17 @@ Systems of medical practice.
 
 ## Confidential Links & Embeds: 
 
-### [medicine_system](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.md) 
+### #is_/same_as :: [medicine_system](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.md) 
 
-### [medicine_system.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.public.md) 
+### #is_/same_as :: [medicine_system.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.public.md) 
 
-### [medicine_system.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.internal.md) 
+### #is_/same_as :: [medicine_system.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.internal.md) 
 
-### [medicine_system.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.protect.md) 
+### #is_/same_as :: [medicine_system.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.protect.md) 
 
-### [medicine_system.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.private.md) 
+### #is_/same_as :: [medicine_system.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.private.md) 
 
-### [medicine_system.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.personal.md) 
+### #is_/same_as :: [medicine_system.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.personal.md) 
 
-### [medicine_system.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.secret.md)
+### #is_/same_as :: [medicine_system.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.secret.md)
 

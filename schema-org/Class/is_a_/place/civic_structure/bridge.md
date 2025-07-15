@@ -45,17 +45,17 @@ A bridge.
 
 ## Confidential Links & Embeds: 
 
-### [bridge](/_Standards/schema-org/Class/is_a_/place/civic_structure/bridge.md) 
+### #is_/same_as :: [bridge](/_Standards/schema-org/Class/is_a_/place/civic_structure/bridge.md) 
 
-### [bridge.public](/_public/schema-org/Class/is_a_/place/civic_structure/bridge.public.md) 
+### #is_/same_as :: [bridge.public](/_public/schema-org/Class/is_a_/place/civic_structure/bridge.public.md) 
 
-### [bridge.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bridge.internal.md) 
+### #is_/same_as :: [bridge.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bridge.internal.md) 
 
-### [bridge.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bridge.protect.md) 
+### #is_/same_as :: [bridge.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bridge.protect.md) 
 
-### [bridge.private](/_private/schema-org/Class/is_a_/place/civic_structure/bridge.private.md) 
+### #is_/same_as :: [bridge.private](/_private/schema-org/Class/is_a_/place/civic_structure/bridge.private.md) 
 
-### [bridge.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bridge.personal.md) 
+### #is_/same_as :: [bridge.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bridge.personal.md) 
 
-### [bridge.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bridge.secret.md)
+### #is_/same_as :: [bridge.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bridge.secret.md)
 

@@ -480,17 +480,17 @@ Capital :: [[Windhoek]]
 
 ## Confidential Links & Embeds: 
 
-### [Namibia](/_Standards/Earth/Continent/Africa/Africa~South/Namibia.md) 
+### #is_/same_as :: [Namibia](/_Standards/Earth/Continent/Africa/Africa~South/Namibia.md) 
 
-### [Namibia.public](/_public/Earth/Continent/Africa/Africa~South/Namibia.public.md) 
+### #is_/same_as :: [Namibia.public](/_public/Earth/Continent/Africa/Africa~South/Namibia.public.md) 
 
-### [Namibia.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal.md) 
+### #is_/same_as :: [Namibia.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal.md) 
 
-### [Namibia.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia.protect.md) 
+### #is_/same_as :: [Namibia.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia.protect.md) 
 
-### [Namibia.private](/_private/Earth/Continent/Africa/Africa~South/Namibia.private.md) 
+### #is_/same_as :: [Namibia.private](/_private/Earth/Continent/Africa/Africa~South/Namibia.private.md) 
 
-### [Namibia.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal.md) 
+### #is_/same_as :: [Namibia.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal.md) 
 
-### [Namibia.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret.md)
+### #is_/same_as :: [Namibia.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret.md)
 

@@ -47,17 +47,17 @@ A case series (also known as a clinical series) is a medical research study that
 
 ## Confidential Links & Embeds: 
 
-### [case_series](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.md) 
+### #is_/same_as :: [case_series](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.md) 
 
-### [case_series.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.public.md) 
+### #is_/same_as :: [case_series.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.public.md) 
 
-### [case_series.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.internal.md) 
+### #is_/same_as :: [case_series.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.internal.md) 
 
-### [case_series.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.protect.md) 
+### #is_/same_as :: [case_series.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.protect.md) 
 
-### [case_series.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.private.md) 
+### #is_/same_as :: [case_series.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.private.md) 
 
-### [case_series.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.personal.md) 
+### #is_/same_as :: [case_series.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.personal.md) 
 
-### [case_series.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.secret.md)
+### #is_/same_as :: [case_series.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.secret.md)
 

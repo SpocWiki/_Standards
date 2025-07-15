@@ -45,17 +45,17 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 ## Confidential Links & Embeds: 
 
-### [lymphatic_vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md) 
+### #is_/same_as :: [lymphatic_vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md) 
 
-### [lymphatic_vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.public.md) 
+### #is_/same_as :: [lymphatic_vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.public.md) 
 
-### [lymphatic_vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md) 
+### #is_/same_as :: [lymphatic_vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md) 
 
-### [lymphatic_vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md) 
+### #is_/same_as :: [lymphatic_vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md) 
 
-### [lymphatic_vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md) 
+### #is_/same_as :: [lymphatic_vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md) 
 
-### [lymphatic_vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md) 
+### #is_/same_as :: [lymphatic_vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md) 
 
-### [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md)
+### #is_/same_as :: [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md)
 

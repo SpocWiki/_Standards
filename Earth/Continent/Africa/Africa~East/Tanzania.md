@@ -592,17 +592,17 @@ Capital :: [[Dodoma]]
 
 ## Confidential Links & Embeds: 
 
-### [Tanzania](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania.md) 
+### #is_/same_as :: [Tanzania](/_Standards/Earth/Continent/Africa/Africa~East/Tanzania.md) 
 
-### [Tanzania.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania.public.md) 
+### #is_/same_as :: [Tanzania.public](/_public/Earth/Continent/Africa/Africa~East/Tanzania.public.md) 
 
-### [Tanzania.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal.md) 
+### #is_/same_as :: [Tanzania.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal.md) 
 
-### [Tanzania.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect.md) 
+### #is_/same_as :: [Tanzania.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect.md) 
 
-### [Tanzania.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania.private.md) 
+### #is_/same_as :: [Tanzania.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania.private.md) 
 
-### [Tanzania.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal.md) 
+### #is_/same_as :: [Tanzania.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal.md) 
 
-### [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md)
+### #is_/same_as :: [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md)
 

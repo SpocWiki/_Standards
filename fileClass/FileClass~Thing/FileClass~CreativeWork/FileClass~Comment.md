@@ -66,17 +66,17 @@ UpvoteCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Comment](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.md) 
+### #is_/same_as :: [FileClass~Comment](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.md) 
 
-### [FileClass~Comment.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.public.md) 
+### #is_/same_as :: [FileClass~Comment.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.public.md) 
 
-### [FileClass~Comment.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.internal.md) 
+### #is_/same_as :: [FileClass~Comment.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.internal.md) 
 
-### [FileClass~Comment.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.protect.md) 
+### #is_/same_as :: [FileClass~Comment.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.protect.md) 
 
-### [FileClass~Comment.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.private.md) 
+### #is_/same_as :: [FileClass~Comment.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.private.md) 
 
-### [FileClass~Comment.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.personal.md) 
+### #is_/same_as :: [FileClass~Comment.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.personal.md) 
 
-### [FileClass~Comment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.secret.md)
+### #is_/same_as :: [FileClass~Comment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment.secret.md)
 

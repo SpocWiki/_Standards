@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_arrival_boat_terminal](/_Standards/schema-org/Relation/has/has_arrival_boat_terminal.md) 
+### #is_/same_as :: [has_arrival_boat_terminal](/_Standards/schema-org/Relation/has/has_arrival_boat_terminal.md) 
 
-### [has_arrival_boat_terminal.public](/_public/schema-org/Relation/has/has_arrival_boat_terminal.public.md) 
+### #is_/same_as :: [has_arrival_boat_terminal.public](/_public/schema-org/Relation/has/has_arrival_boat_terminal.public.md) 
 
-### [has_arrival_boat_terminal.internal](/_internal/schema-org/Relation/has/has_arrival_boat_terminal.internal.md) 
+### #is_/same_as :: [has_arrival_boat_terminal.internal](/_internal/schema-org/Relation/has/has_arrival_boat_terminal.internal.md) 
 
-### [has_arrival_boat_terminal.protect](/_protect/schema-org/Relation/has/has_arrival_boat_terminal.protect.md) 
+### #is_/same_as :: [has_arrival_boat_terminal.protect](/_protect/schema-org/Relation/has/has_arrival_boat_terminal.protect.md) 
 
-### [has_arrival_boat_terminal.private](/_private/schema-org/Relation/has/has_arrival_boat_terminal.private.md) 
+### #is_/same_as :: [has_arrival_boat_terminal.private](/_private/schema-org/Relation/has/has_arrival_boat_terminal.private.md) 
 
-### [has_arrival_boat_terminal.personal](/_personal/schema-org/Relation/has/has_arrival_boat_terminal.personal.md) 
+### #is_/same_as :: [has_arrival_boat_terminal.personal](/_personal/schema-org/Relation/has/has_arrival_boat_terminal.personal.md) 
 
-### [has_arrival_boat_terminal.secret](/_secret/schema-org/Relation/has/has_arrival_boat_terminal.secret.md)
+### #is_/same_as :: [has_arrival_boat_terminal.secret](/_secret/schema-org/Relation/has/has_arrival_boat_terminal.secret.md)
 

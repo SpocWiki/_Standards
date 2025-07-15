@@ -35,17 +35,17 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DiagnosticProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.md) 
 
-### [FileClass~DiagnosticProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.public.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.public.md) 
 
-### [FileClass~DiagnosticProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.internal.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.internal.md) 
 
-### [FileClass~DiagnosticProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.protect.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.protect.md) 
 
-### [FileClass~DiagnosticProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.private.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.private.md) 
 
-### [FileClass~DiagnosticProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.personal.md) 
+### #is_/same_as :: [FileClass~DiagnosticProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.personal.md) 
 
-### [FileClass~DiagnosticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.secret.md)
+### #is_/same_as :: [FileClass~DiagnosticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~DiagnosticProcedure.secret.md)
 

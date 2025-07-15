@@ -41,17 +41,17 @@ markerFolder: ./Brändö/
 
 ## Confidential Links & Embeds: 
 
-### [Brändö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.md) 
+### #is_/same_as :: [Brändö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.md) 
 
-### [Brändö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.public.md) 
+### #is_/same_as :: [Brändö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.public.md) 
 
-### [Brändö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.internal.md) 
+### #is_/same_as :: [Brändö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.internal.md) 
 
-### [Brändö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.protect.md) 
+### #is_/same_as :: [Brändö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.protect.md) 
 
-### [Brändö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.private.md) 
+### #is_/same_as :: [Brändö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.private.md) 
 
-### [Brändö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.personal.md) 
+### #is_/same_as :: [Brändö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.personal.md) 
 
-### [Brändö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret.md)
+### #is_/same_as :: [Brändö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret.md)
 

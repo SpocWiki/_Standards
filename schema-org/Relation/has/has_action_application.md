@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_action_application](/_Standards/schema-org/Relation/has/has_action_application.md) 
+### #is_/same_as :: [has_action_application](/_Standards/schema-org/Relation/has/has_action_application.md) 
 
-### [has_action_application.public](/_public/schema-org/Relation/has/has_action_application.public.md) 
+### #is_/same_as :: [has_action_application.public](/_public/schema-org/Relation/has/has_action_application.public.md) 
 
-### [has_action_application.internal](/_internal/schema-org/Relation/has/has_action_application.internal.md) 
+### #is_/same_as :: [has_action_application.internal](/_internal/schema-org/Relation/has/has_action_application.internal.md) 
 
-### [has_action_application.protect](/_protect/schema-org/Relation/has/has_action_application.protect.md) 
+### #is_/same_as :: [has_action_application.protect](/_protect/schema-org/Relation/has/has_action_application.protect.md) 
 
-### [has_action_application.private](/_private/schema-org/Relation/has/has_action_application.private.md) 
+### #is_/same_as :: [has_action_application.private](/_private/schema-org/Relation/has/has_action_application.private.md) 
 
-### [has_action_application.personal](/_personal/schema-org/Relation/has/has_action_application.personal.md) 
+### #is_/same_as :: [has_action_application.personal](/_personal/schema-org/Relation/has/has_action_application.personal.md) 
 
-### [has_action_application.secret](/_secret/schema-org/Relation/has/has_action_application.secret.md)
+### #is_/same_as :: [has_action_application.secret](/_secret/schema-org/Relation/has/has_action_application.secret.md)
 

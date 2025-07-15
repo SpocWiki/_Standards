@@ -96,21 +96,19 @@ date_of_death: "1964-05-27"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal%20Nehru)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nehru,Jawaharlal](/_Standards/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.md) 
+### #is_/same_as :: [Nehru,Jawaharlal](/_Standards/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.md) 
 
-### [Nehru,Jawaharlal.public](/_public/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.public.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.public](/_public/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.public.md) 
 
-### [Nehru,Jawaharlal.internal](/_internal/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.internal.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.internal](/_internal/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.internal.md) 
 
-### [Nehru,Jawaharlal.protect](/_protect/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.protect.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.protect](/_protect/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.protect.md) 
 
-### [Nehru,Jawaharlal.private](/_private/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.private.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.private](/_private/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.private.md) 
 
-### [Nehru,Jawaharlal.personal](/_personal/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.personal.md) 
+### #is_/same_as :: [Nehru,Jawaharlal.personal](/_personal/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.personal.md) 
 
-### [Nehru,Jawaharlal.secret](/_secret/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.secret.md)
+### #is_/same_as :: [Nehru,Jawaharlal.secret](/_secret/bio/People/Leader/Modern_Leaders/Nehru,Jawaharlal.secret.md)
 

@@ -47,17 +47,17 @@ A [[comment]] that corrects [[CreativeWork]].
 
 ## Confidential Links & Embeds: 
 
-### [correction_comment](/_Standards/schema-org/Class/is_a_/creative_work/comment/correction_comment.md) 
+### #is_/same_as :: [correction_comment](/_Standards/schema-org/Class/is_a_/creative_work/comment/correction_comment.md) 
 
-### [correction_comment.public](/_public/schema-org/Class/is_a_/creative_work/comment/correction_comment.public.md) 
+### #is_/same_as :: [correction_comment.public](/_public/schema-org/Class/is_a_/creative_work/comment/correction_comment.public.md) 
 
-### [correction_comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/correction_comment.internal.md) 
+### #is_/same_as :: [correction_comment.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/correction_comment.internal.md) 
 
-### [correction_comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/correction_comment.protect.md) 
+### #is_/same_as :: [correction_comment.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/correction_comment.protect.md) 
 
-### [correction_comment.private](/_private/schema-org/Class/is_a_/creative_work/comment/correction_comment.private.md) 
+### #is_/same_as :: [correction_comment.private](/_private/schema-org/Class/is_a_/creative_work/comment/correction_comment.private.md) 
 
-### [correction_comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/correction_comment.personal.md) 
+### #is_/same_as :: [correction_comment.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/correction_comment.personal.md) 
 
-### [correction_comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/correction_comment.secret.md)
+### #is_/same_as :: [correction_comment.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/correction_comment.secret.md)
 

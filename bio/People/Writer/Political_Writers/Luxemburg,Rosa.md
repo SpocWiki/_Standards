@@ -117,21 +117,19 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Luxemburg%
 > [Wikipedia](https://en.wikipedia.org/wiki/Rosa%20Luxemburg)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Luxemburg,Rosa](/_Standards/bio/People/Writer/Political_Writers/Luxemburg,Rosa.md) 
+### #is_/same_as :: [Luxemburg,Rosa](/_Standards/bio/People/Writer/Political_Writers/Luxemburg,Rosa.md) 
 
-### [Luxemburg,Rosa.public](/_public/bio/People/Writer/Political_Writers/Luxemburg,Rosa.public.md) 
+### #is_/same_as :: [Luxemburg,Rosa.public](/_public/bio/People/Writer/Political_Writers/Luxemburg,Rosa.public.md) 
 
-### [Luxemburg,Rosa.internal](/_internal/bio/People/Writer/Political_Writers/Luxemburg,Rosa.internal.md) 
+### #is_/same_as :: [Luxemburg,Rosa.internal](/_internal/bio/People/Writer/Political_Writers/Luxemburg,Rosa.internal.md) 
 
-### [Luxemburg,Rosa.protect](/_protect/bio/People/Writer/Political_Writers/Luxemburg,Rosa.protect.md) 
+### #is_/same_as :: [Luxemburg,Rosa.protect](/_protect/bio/People/Writer/Political_Writers/Luxemburg,Rosa.protect.md) 
 
-### [Luxemburg,Rosa.private](/_private/bio/People/Writer/Political_Writers/Luxemburg,Rosa.private.md) 
+### #is_/same_as :: [Luxemburg,Rosa.private](/_private/bio/People/Writer/Political_Writers/Luxemburg,Rosa.private.md) 
 
-### [Luxemburg,Rosa.personal](/_personal/bio/People/Writer/Political_Writers/Luxemburg,Rosa.personal.md) 
+### #is_/same_as :: [Luxemburg,Rosa.personal](/_personal/bio/People/Writer/Political_Writers/Luxemburg,Rosa.personal.md) 
 
-### [Luxemburg,Rosa.secret](/_secret/bio/People/Writer/Political_Writers/Luxemburg,Rosa.secret.md)
+### #is_/same_as :: [Luxemburg,Rosa.secret](/_secret/bio/People/Writer/Political_Writers/Luxemburg,Rosa.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_aircraft](/_Standards/schema-org/Relation/has/has_aircraft.md) 
+### #is_/same_as :: [has_aircraft](/_Standards/schema-org/Relation/has/has_aircraft.md) 
 
-### [has_aircraft.public](/_public/schema-org/Relation/has/has_aircraft.public.md) 
+### #is_/same_as :: [has_aircraft.public](/_public/schema-org/Relation/has/has_aircraft.public.md) 
 
-### [has_aircraft.internal](/_internal/schema-org/Relation/has/has_aircraft.internal.md) 
+### #is_/same_as :: [has_aircraft.internal](/_internal/schema-org/Relation/has/has_aircraft.internal.md) 
 
-### [has_aircraft.protect](/_protect/schema-org/Relation/has/has_aircraft.protect.md) 
+### #is_/same_as :: [has_aircraft.protect](/_protect/schema-org/Relation/has/has_aircraft.protect.md) 
 
-### [has_aircraft.private](/_private/schema-org/Relation/has/has_aircraft.private.md) 
+### #is_/same_as :: [has_aircraft.private](/_private/schema-org/Relation/has/has_aircraft.private.md) 
 
-### [has_aircraft.personal](/_personal/schema-org/Relation/has/has_aircraft.personal.md) 
+### #is_/same_as :: [has_aircraft.personal](/_personal/schema-org/Relation/has/has_aircraft.personal.md) 
 
-### [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md)
+### #is_/same_as :: [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md)
 

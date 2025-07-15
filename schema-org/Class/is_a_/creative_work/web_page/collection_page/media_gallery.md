@@ -47,17 +47,17 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 
 ## Confidential Links & Embeds: 
 
-### [media_gallery](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.md) 
+### #is_/same_as :: [media_gallery](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.md) 
 
-### [media_gallery.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.public.md) 
+### #is_/same_as :: [media_gallery.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.public.md) 
 
-### [media_gallery.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.internal.md) 
+### #is_/same_as :: [media_gallery.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.internal.md) 
 
-### [media_gallery.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.protect.md) 
+### #is_/same_as :: [media_gallery.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.protect.md) 
 
-### [media_gallery.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.private.md) 
+### #is_/same_as :: [media_gallery.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.private.md) 
 
-### [media_gallery.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.personal.md) 
+### #is_/same_as :: [media_gallery.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.personal.md) 
 
-### [media_gallery.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.secret.md)
+### #is_/same_as :: [media_gallery.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery.secret.md)
 

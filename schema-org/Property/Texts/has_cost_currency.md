@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_cost_currency](/_Standards/schema-org/Property/Texts/has_cost_currency.md) 
+### #is_/same_as :: [has_cost_currency](/_Standards/schema-org/Property/Texts/has_cost_currency.md) 
 
-### [has_cost_currency.public](/_public/schema-org/Property/Texts/has_cost_currency.public.md) 
+### #is_/same_as :: [has_cost_currency.public](/_public/schema-org/Property/Texts/has_cost_currency.public.md) 
 
-### [has_cost_currency.internal](/_internal/schema-org/Property/Texts/has_cost_currency.internal.md) 
+### #is_/same_as :: [has_cost_currency.internal](/_internal/schema-org/Property/Texts/has_cost_currency.internal.md) 
 
-### [has_cost_currency.protect](/_protect/schema-org/Property/Texts/has_cost_currency.protect.md) 
+### #is_/same_as :: [has_cost_currency.protect](/_protect/schema-org/Property/Texts/has_cost_currency.protect.md) 
 
-### [has_cost_currency.private](/_private/schema-org/Property/Texts/has_cost_currency.private.md) 
+### #is_/same_as :: [has_cost_currency.private](/_private/schema-org/Property/Texts/has_cost_currency.private.md) 
 
-### [has_cost_currency.personal](/_personal/schema-org/Property/Texts/has_cost_currency.personal.md) 
+### #is_/same_as :: [has_cost_currency.personal](/_personal/schema-org/Property/Texts/has_cost_currency.personal.md) 
 
-### [has_cost_currency.secret](/_secret/schema-org/Property/Texts/has_cost_currency.secret.md)
+### #is_/same_as :: [has_cost_currency.secret](/_secret/schema-org/Property/Texts/has_cost_currency.secret.md)
 

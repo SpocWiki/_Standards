@@ -64,24 +64,19 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > [Wikipedia](https://en.wikipedia.org/wiki/Order%20(biology)) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [bio~Order](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.md) 
+### #is_/same_as :: [bio~Order](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.md) 
 
-### [bio~Order.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.public.md) 
+### #is_/same_as :: [bio~Order.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.public.md) 
 
-### [bio~Order.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.internal.md) 
+### #is_/same_as :: [bio~Order.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.internal.md) 
 
-### [bio~Order.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.protect.md) 
+### #is_/same_as :: [bio~Order.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.protect.md) 
 
-### [bio~Order.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.private.md) 
+### #is_/same_as :: [bio~Order.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.private.md) 
 
-### [bio~Order.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.personal.md) 
+### #is_/same_as :: [bio~Order.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.personal.md) 
 
-### [bio~Order.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.secret.md)
+### #is_/same_as :: [bio~Order.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order.secret.md)
 

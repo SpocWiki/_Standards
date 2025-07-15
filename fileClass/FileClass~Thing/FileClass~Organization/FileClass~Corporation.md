@@ -45,17 +45,17 @@ TickerSymbol:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Corporation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.md) 
+### #is_/same_as :: [FileClass~Corporation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.md) 
 
-### [FileClass~Corporation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.public.md) 
+### #is_/same_as :: [FileClass~Corporation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.public.md) 
 
-### [FileClass~Corporation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.internal.md) 
+### #is_/same_as :: [FileClass~Corporation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.internal.md) 
 
-### [FileClass~Corporation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.protect.md) 
+### #is_/same_as :: [FileClass~Corporation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.protect.md) 
 
-### [FileClass~Corporation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.private.md) 
+### #is_/same_as :: [FileClass~Corporation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.private.md) 
 
-### [FileClass~Corporation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.personal.md) 
+### #is_/same_as :: [FileClass~Corporation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.personal.md) 
 
-### [FileClass~Corporation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.secret.md)
+### #is_/same_as :: [FileClass~Corporation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.secret.md)
 

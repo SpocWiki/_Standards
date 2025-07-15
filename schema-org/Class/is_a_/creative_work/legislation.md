@@ -49,17 +49,17 @@ A legal document such as an act, decree, bill, etc. (enforceable or not) or a co
 
 ## Confidential Links & Embeds: 
 
-### [legislation](/_Standards/schema-org/Class/is_a_/creative_work/legislation.md) 
+### #is_/same_as :: [legislation](/_Standards/schema-org/Class/is_a_/creative_work/legislation.md) 
 
-### [legislation.public](/_public/schema-org/Class/is_a_/creative_work/legislation.public.md) 
+### #is_/same_as :: [legislation.public](/_public/schema-org/Class/is_a_/creative_work/legislation.public.md) 
 
-### [legislation.internal](/_internal/schema-org/Class/is_a_/creative_work/legislation.internal.md) 
+### #is_/same_as :: [legislation.internal](/_internal/schema-org/Class/is_a_/creative_work/legislation.internal.md) 
 
-### [legislation.protect](/_protect/schema-org/Class/is_a_/creative_work/legislation.protect.md) 
+### #is_/same_as :: [legislation.protect](/_protect/schema-org/Class/is_a_/creative_work/legislation.protect.md) 
 
-### [legislation.private](/_private/schema-org/Class/is_a_/creative_work/legislation.private.md) 
+### #is_/same_as :: [legislation.private](/_private/schema-org/Class/is_a_/creative_work/legislation.private.md) 
 
-### [legislation.personal](/_personal/schema-org/Class/is_a_/creative_work/legislation.personal.md) 
+### #is_/same_as :: [legislation.personal](/_personal/schema-org/Class/is_a_/creative_work/legislation.personal.md) 
 
-### [legislation.secret](/_secret/schema-org/Class/is_a_/creative_work/legislation.secret.md)
+### #is_/same_as :: [legislation.secret](/_secret/schema-org/Class/is_a_/creative_work/legislation.secret.md)
 

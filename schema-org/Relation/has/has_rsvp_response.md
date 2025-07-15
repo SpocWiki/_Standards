@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_rsvp_response](/_Standards/schema-org/Relation/has/has_rsvp_response.md) 
+### #is_/same_as :: [has_rsvp_response](/_Standards/schema-org/Relation/has/has_rsvp_response.md) 
 
-### [has_rsvp_response.public](/_public/schema-org/Relation/has/has_rsvp_response.public.md) 
+### #is_/same_as :: [has_rsvp_response.public](/_public/schema-org/Relation/has/has_rsvp_response.public.md) 
 
-### [has_rsvp_response.internal](/_internal/schema-org/Relation/has/has_rsvp_response.internal.md) 
+### #is_/same_as :: [has_rsvp_response.internal](/_internal/schema-org/Relation/has/has_rsvp_response.internal.md) 
 
-### [has_rsvp_response.protect](/_protect/schema-org/Relation/has/has_rsvp_response.protect.md) 
+### #is_/same_as :: [has_rsvp_response.protect](/_protect/schema-org/Relation/has/has_rsvp_response.protect.md) 
 
-### [has_rsvp_response.private](/_private/schema-org/Relation/has/has_rsvp_response.private.md) 
+### #is_/same_as :: [has_rsvp_response.private](/_private/schema-org/Relation/has/has_rsvp_response.private.md) 
 
-### [has_rsvp_response.personal](/_personal/schema-org/Relation/has/has_rsvp_response.personal.md) 
+### #is_/same_as :: [has_rsvp_response.personal](/_personal/schema-org/Relation/has/has_rsvp_response.personal.md) 
 
-### [has_rsvp_response.secret](/_secret/schema-org/Relation/has/has_rsvp_response.secret.md)
+### #is_/same_as :: [has_rsvp_response.secret](/_secret/schema-org/Relation/has/has_rsvp_response.secret.md)
 

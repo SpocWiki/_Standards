@@ -35,17 +35,17 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~QAPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.md) 
+### #is_/same_as :: [FileClass~QAPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.md) 
 
-### [FileClass~QAPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.public.md) 
+### #is_/same_as :: [FileClass~QAPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.public.md) 
 
-### [FileClass~QAPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.internal.md) 
+### #is_/same_as :: [FileClass~QAPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.internal.md) 
 
-### [FileClass~QAPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.protect.md) 
+### #is_/same_as :: [FileClass~QAPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.protect.md) 
 
-### [FileClass~QAPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.private.md) 
+### #is_/same_as :: [FileClass~QAPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.private.md) 
 
-### [FileClass~QAPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.personal.md) 
+### #is_/same_as :: [FileClass~QAPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.personal.md) 
 
-### [FileClass~QAPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.secret.md)
+### #is_/same_as :: [FileClass~QAPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~QAPage.secret.md)
 

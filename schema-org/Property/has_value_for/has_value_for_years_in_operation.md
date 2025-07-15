@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_years_in_operation](/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation.md) 
+### #is_/same_as :: [has_value_for_years_in_operation](/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation.md) 
 
-### [has_value_for_years_in_operation.public](/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public.md) 
+### #is_/same_as :: [has_value_for_years_in_operation.public](/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public.md) 
 
-### [has_value_for_years_in_operation.internal](/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal.md) 
+### #is_/same_as :: [has_value_for_years_in_operation.internal](/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal.md) 
 
-### [has_value_for_years_in_operation.protect](/_protect/schema-org/Property/has_value_for/has_value_for_years_in_operation.protect.md) 
+### #is_/same_as :: [has_value_for_years_in_operation.protect](/_protect/schema-org/Property/has_value_for/has_value_for_years_in_operation.protect.md) 
 
-### [has_value_for_years_in_operation.private](/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private.md) 
+### #is_/same_as :: [has_value_for_years_in_operation.private](/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private.md) 
 
-### [has_value_for_years_in_operation.personal](/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal.md) 
+### #is_/same_as :: [has_value_for_years_in_operation.personal](/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal.md) 
 
-### [has_value_for_years_in_operation.secret](/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret.md)
+### #is_/same_as :: [has_value_for_years_in_operation.secret](/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_video_frame_size](/_Standards/schema-org/Property/Texts/has_video_frame_size.md) 
+### #is_/same_as :: [has_video_frame_size](/_Standards/schema-org/Property/Texts/has_video_frame_size.md) 
 
-### [has_video_frame_size.public](/_public/schema-org/Property/Texts/has_video_frame_size.public.md) 
+### #is_/same_as :: [has_video_frame_size.public](/_public/schema-org/Property/Texts/has_video_frame_size.public.md) 
 
-### [has_video_frame_size.internal](/_internal/schema-org/Property/Texts/has_video_frame_size.internal.md) 
+### #is_/same_as :: [has_video_frame_size.internal](/_internal/schema-org/Property/Texts/has_video_frame_size.internal.md) 
 
-### [has_video_frame_size.protect](/_protect/schema-org/Property/Texts/has_video_frame_size.protect.md) 
+### #is_/same_as :: [has_video_frame_size.protect](/_protect/schema-org/Property/Texts/has_video_frame_size.protect.md) 
 
-### [has_video_frame_size.private](/_private/schema-org/Property/Texts/has_video_frame_size.private.md) 
+### #is_/same_as :: [has_video_frame_size.private](/_private/schema-org/Property/Texts/has_video_frame_size.private.md) 
 
-### [has_video_frame_size.personal](/_personal/schema-org/Property/Texts/has_video_frame_size.personal.md) 
+### #is_/same_as :: [has_video_frame_size.personal](/_personal/schema-org/Property/Texts/has_video_frame_size.personal.md) 
 
-### [has_video_frame_size.secret](/_secret/schema-org/Property/Texts/has_video_frame_size.secret.md)
+### #is_/same_as :: [has_video_frame_size.secret](/_secret/schema-org/Property/Texts/has_video_frame_size.secret.md)
 

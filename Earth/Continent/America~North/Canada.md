@@ -746,17 +746,17 @@ Capital :: [[Canada/State/State~Ontario/City/Ottawa]]
 
 ## Confidential Links & Embeds: 
 
-### [Canada](/_Standards/Earth/Continent/America~North/Canada.md) 
+### #is_/same_as :: [Canada](/_Standards/Earth/Continent/America~North/Canada.md) 
 
-### [Canada.public](/_public/Earth/Continent/America~North/Canada.public.md) 
+### #is_/same_as :: [Canada.public](/_public/Earth/Continent/America~North/Canada.public.md) 
 
-### [Canada.internal](/_internal/Earth/Continent/America~North/Canada.internal.md) 
+### #is_/same_as :: [Canada.internal](/_internal/Earth/Continent/America~North/Canada.internal.md) 
 
-### [Canada.protect](/_protect/Earth/Continent/America~North/Canada.protect.md) 
+### #is_/same_as :: [Canada.protect](/_protect/Earth/Continent/America~North/Canada.protect.md) 
 
-### [Canada.private](/_private/Earth/Continent/America~North/Canada.private.md) 
+### #is_/same_as :: [Canada.private](/_private/Earth/Continent/America~North/Canada.private.md) 
 
-### [Canada.personal](/_personal/Earth/Continent/America~North/Canada.personal.md) 
+### #is_/same_as :: [Canada.personal](/_personal/Earth/Continent/America~North/Canada.personal.md) 
 
-### [Canada.secret](/_secret/Earth/Continent/America~North/Canada.secret.md)
+### #is_/same_as :: [Canada.secret](/_secret/Earth/Continent/America~North/Canada.secret.md)
 

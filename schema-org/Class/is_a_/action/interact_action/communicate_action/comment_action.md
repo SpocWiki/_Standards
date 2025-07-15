@@ -45,17 +45,17 @@ The act of generating a comment about a subject.
 
 ## Confidential Links & Embeds: 
 
-### [comment_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.md) 
+### #is_/same_as :: [comment_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.md) 
 
-### [comment_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.public.md) 
+### #is_/same_as :: [comment_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.public.md) 
 
-### [comment_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.internal.md) 
+### #is_/same_as :: [comment_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.internal.md) 
 
-### [comment_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.protect.md) 
+### #is_/same_as :: [comment_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.protect.md) 
 
-### [comment_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.private.md) 
+### #is_/same_as :: [comment_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.private.md) 
 
-### [comment_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.personal.md) 
+### #is_/same_as :: [comment_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.personal.md) 
 
-### [comment_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.secret.md)
+### #is_/same_as :: [comment_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/comment_action.secret.md)
 

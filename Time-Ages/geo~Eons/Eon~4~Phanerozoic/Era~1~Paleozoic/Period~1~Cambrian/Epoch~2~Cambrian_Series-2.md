@@ -63,17 +63,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~2~Cambrian_Series-2](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.md) 
 
-### [Epoch~2~Cambrian_Series-2.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.public.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.public.md) 
 
-### [Epoch~2~Cambrian_Series-2.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.internal.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.internal.md) 
 
-### [Epoch~2~Cambrian_Series-2.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.protect.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.protect.md) 
 
-### [Epoch~2~Cambrian_Series-2.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.private.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.private.md) 
 
-### [Epoch~2~Cambrian_Series-2.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.personal.md) 
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.personal.md) 
 
-### [Epoch~2~Cambrian_Series-2.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.secret.md)
+### #is_/same_as :: [Epoch~2~Cambrian_Series-2.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2.secret.md)
 

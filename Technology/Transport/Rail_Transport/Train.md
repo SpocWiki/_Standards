@@ -46,21 +46,19 @@ OpenStreetMap_tag_or_key: "Key:train"
 > [Wikipedia](https://en.wikipedia.org/wiki/Train) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Train](/_Standards/Technology/Transport/Rail_Transport/Train.md) 
+### #is_/same_as :: [Train](/_Standards/Technology/Transport/Rail_Transport/Train.md) 
 
-### [Train.public](/_public/Technology/Transport/Rail_Transport/Train.public.md) 
+### #is_/same_as :: [Train.public](/_public/Technology/Transport/Rail_Transport/Train.public.md) 
 
-### [Train.internal](/_internal/Technology/Transport/Rail_Transport/Train.internal.md) 
+### #is_/same_as :: [Train.internal](/_internal/Technology/Transport/Rail_Transport/Train.internal.md) 
 
-### [Train.protect](/_protect/Technology/Transport/Rail_Transport/Train.protect.md) 
+### #is_/same_as :: [Train.protect](/_protect/Technology/Transport/Rail_Transport/Train.protect.md) 
 
-### [Train.private](/_private/Technology/Transport/Rail_Transport/Train.private.md) 
+### #is_/same_as :: [Train.private](/_private/Technology/Transport/Rail_Transport/Train.private.md) 
 
-### [Train.personal](/_personal/Technology/Transport/Rail_Transport/Train.personal.md) 
+### #is_/same_as :: [Train.personal](/_personal/Technology/Transport/Rail_Transport/Train.personal.md) 
 
-### [Train.secret](/_secret/Technology/Transport/Rail_Transport/Train.secret.md)
+### #is_/same_as :: [Train.secret](/_secret/Technology/Transport/Rail_Transport/Train.secret.md)
 

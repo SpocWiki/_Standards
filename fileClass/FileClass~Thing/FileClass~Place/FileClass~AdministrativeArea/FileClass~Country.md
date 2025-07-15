@@ -35,17 +35,17 @@ A country.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Country](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.md) 
+### #is_/same_as :: [FileClass~Country](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.md) 
 
-### [FileClass~Country.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.public.md) 
+### #is_/same_as :: [FileClass~Country.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.public.md) 
 
-### [FileClass~Country.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.internal.md) 
+### #is_/same_as :: [FileClass~Country.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.internal.md) 
 
-### [FileClass~Country.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.protect.md) 
+### #is_/same_as :: [FileClass~Country.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.protect.md) 
 
-### [FileClass~Country.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.private.md) 
+### #is_/same_as :: [FileClass~Country.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.private.md) 
 
-### [FileClass~Country.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.personal.md) 
+### #is_/same_as :: [FileClass~Country.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.personal.md) 
 
-### [FileClass~Country.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.secret.md)
+### #is_/same_as :: [FileClass~Country.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~Country.secret.md)
 

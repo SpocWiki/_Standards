@@ -45,17 +45,17 @@ A self-storage facility.
 
 ## Confidential Links & Embeds: 
 
-### [self_storage](/_Standards/schema-org/Class/is_a_/organization/local_business/self_storage.md) 
+### #is_/same_as :: [self_storage](/_Standards/schema-org/Class/is_a_/organization/local_business/self_storage.md) 
 
-### [self_storage.public](/_public/schema-org/Class/is_a_/organization/local_business/self_storage.public.md) 
+### #is_/same_as :: [self_storage.public](/_public/schema-org/Class/is_a_/organization/local_business/self_storage.public.md) 
 
-### [self_storage.internal](/_internal/schema-org/Class/is_a_/organization/local_business/self_storage.internal.md) 
+### #is_/same_as :: [self_storage.internal](/_internal/schema-org/Class/is_a_/organization/local_business/self_storage.internal.md) 
 
-### [self_storage.protect](/_protect/schema-org/Class/is_a_/organization/local_business/self_storage.protect.md) 
+### #is_/same_as :: [self_storage.protect](/_protect/schema-org/Class/is_a_/organization/local_business/self_storage.protect.md) 
 
-### [self_storage.private](/_private/schema-org/Class/is_a_/organization/local_business/self_storage.private.md) 
+### #is_/same_as :: [self_storage.private](/_private/schema-org/Class/is_a_/organization/local_business/self_storage.private.md) 
 
-### [self_storage.personal](/_personal/schema-org/Class/is_a_/organization/local_business/self_storage.personal.md) 
+### #is_/same_as :: [self_storage.personal](/_personal/schema-org/Class/is_a_/organization/local_business/self_storage.personal.md) 
 
-### [self_storage.secret](/_secret/schema-org/Class/is_a_/organization/local_business/self_storage.secret.md)
+### #is_/same_as :: [self_storage.secret](/_secret/schema-org/Class/is_a_/organization/local_business/self_storage.secret.md)
 

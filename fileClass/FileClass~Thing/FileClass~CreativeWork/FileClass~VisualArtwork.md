@@ -165,17 +165,17 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~VisualArtwork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.md) 
+### #is_/same_as :: [FileClass~VisualArtwork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.md) 
 
-### [FileClass~VisualArtwork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.public.md) 
+### #is_/same_as :: [FileClass~VisualArtwork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.public.md) 
 
-### [FileClass~VisualArtwork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.internal.md) 
+### #is_/same_as :: [FileClass~VisualArtwork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.internal.md) 
 
-### [FileClass~VisualArtwork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.protect.md) 
+### #is_/same_as :: [FileClass~VisualArtwork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.protect.md) 
 
-### [FileClass~VisualArtwork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.private.md) 
+### #is_/same_as :: [FileClass~VisualArtwork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.private.md) 
 
-### [FileClass~VisualArtwork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.personal.md) 
+### #is_/same_as :: [FileClass~VisualArtwork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.personal.md) 
 
-### [FileClass~VisualArtwork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.secret.md)
+### #is_/same_as :: [FileClass~VisualArtwork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.secret.md)
 

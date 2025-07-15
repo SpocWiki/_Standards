@@ -45,17 +45,17 @@ Any medical imaging modality typically used for diagnostic purposes.
 
 ## Confidential Links & Embeds: 
 
-### [imaging_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.md) 
+### #is_/same_as :: [imaging_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.md) 
 
-### [imaging_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.public.md) 
+### #is_/same_as :: [imaging_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.public.md) 
 
-### [imaging_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.internal.md) 
+### #is_/same_as :: [imaging_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.internal.md) 
 
-### [imaging_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.protect.md) 
+### #is_/same_as :: [imaging_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.protect.md) 
 
-### [imaging_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.private.md) 
+### #is_/same_as :: [imaging_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.private.md) 
 
-### [imaging_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.personal.md) 
+### #is_/same_as :: [imaging_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.personal.md) 
 
-### [imaging_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.secret.md)
+### #is_/same_as :: [imaging_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.secret.md)
 

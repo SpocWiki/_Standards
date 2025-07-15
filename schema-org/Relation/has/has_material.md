@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_material](/_Standards/schema-org/Relation/has/has_material.md) 
+### #is_/same_as :: [has_material](/_Standards/schema-org/Relation/has/has_material.md) 
 
-### [has_material.public](/_public/schema-org/Relation/has/has_material.public.md) 
+### #is_/same_as :: [has_material.public](/_public/schema-org/Relation/has/has_material.public.md) 
 
-### [has_material.internal](/_internal/schema-org/Relation/has/has_material.internal.md) 
+### #is_/same_as :: [has_material.internal](/_internal/schema-org/Relation/has/has_material.internal.md) 
 
-### [has_material.protect](/_protect/schema-org/Relation/has/has_material.protect.md) 
+### #is_/same_as :: [has_material.protect](/_protect/schema-org/Relation/has/has_material.protect.md) 
 
-### [has_material.private](/_private/schema-org/Relation/has/has_material.private.md) 
+### #is_/same_as :: [has_material.private](/_private/schema-org/Relation/has/has_material.private.md) 
 
-### [has_material.personal](/_personal/schema-org/Relation/has/has_material.personal.md) 
+### #is_/same_as :: [has_material.personal](/_personal/schema-org/Relation/has/has_material.personal.md) 
 
-### [has_material.secret](/_secret/schema-org/Relation/has/has_material.secret.md)
+### #is_/same_as :: [has_material.secret](/_secret/schema-org/Relation/has/has_material.secret.md)
 

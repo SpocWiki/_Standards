@@ -50,17 +50,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_floor_level](/_Standards/schema-org/Property/Texts/has_floor_level.md) 
+### #is_/same_as :: [has_floor_level](/_Standards/schema-org/Property/Texts/has_floor_level.md) 
 
-### [has_floor_level.public](/_public/schema-org/Property/Texts/has_floor_level.public.md) 
+### #is_/same_as :: [has_floor_level.public](/_public/schema-org/Property/Texts/has_floor_level.public.md) 
 
-### [has_floor_level.internal](/_internal/schema-org/Property/Texts/has_floor_level.internal.md) 
+### #is_/same_as :: [has_floor_level.internal](/_internal/schema-org/Property/Texts/has_floor_level.internal.md) 
 
-### [has_floor_level.protect](/_protect/schema-org/Property/Texts/has_floor_level.protect.md) 
+### #is_/same_as :: [has_floor_level.protect](/_protect/schema-org/Property/Texts/has_floor_level.protect.md) 
 
-### [has_floor_level.private](/_private/schema-org/Property/Texts/has_floor_level.private.md) 
+### #is_/same_as :: [has_floor_level.private](/_private/schema-org/Property/Texts/has_floor_level.private.md) 
 
-### [has_floor_level.personal](/_personal/schema-org/Property/Texts/has_floor_level.personal.md) 
+### #is_/same_as :: [has_floor_level.personal](/_personal/schema-org/Property/Texts/has_floor_level.personal.md) 
 
-### [has_floor_level.secret](/_secret/schema-org/Property/Texts/has_floor_level.secret.md)
+### #is_/same_as :: [has_floor_level.secret](/_secret/schema-org/Property/Texts/has_floor_level.secret.md)
 

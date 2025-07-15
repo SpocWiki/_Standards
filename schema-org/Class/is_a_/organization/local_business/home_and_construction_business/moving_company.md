@@ -45,17 +45,17 @@ A moving company.
 
 ## Confidential Links & Embeds: 
 
-### [moving_company](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.md) 
+### #is_/same_as :: [moving_company](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.md) 
 
-### [moving_company.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.public.md) 
+### #is_/same_as :: [moving_company.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.public.md) 
 
-### [moving_company.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.internal.md) 
+### #is_/same_as :: [moving_company.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.internal.md) 
 
-### [moving_company.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.protect.md) 
+### #is_/same_as :: [moving_company.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.protect.md) 
 
-### [moving_company.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.private.md) 
+### #is_/same_as :: [moving_company.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.private.md) 
 
-### [moving_company.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.personal.md) 
+### #is_/same_as :: [moving_company.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.personal.md) 
 
-### [moving_company.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.secret.md)
+### #is_/same_as :: [moving_company.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.secret.md)
 

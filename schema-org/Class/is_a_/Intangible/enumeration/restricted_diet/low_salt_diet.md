@@ -47,17 +47,17 @@ A diet focused on reduced sodium intake.
 
 ## Confidential Links & Embeds: 
 
-### [low_salt_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.md) 
+### #is_/same_as :: [low_salt_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.md) 
 
-### [low_salt_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.public.md) 
+### #is_/same_as :: [low_salt_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.public.md) 
 
-### [low_salt_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.internal.md) 
+### #is_/same_as :: [low_salt_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.internal.md) 
 
-### [low_salt_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.protect.md) 
+### #is_/same_as :: [low_salt_diet.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.protect.md) 
 
-### [low_salt_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.private.md) 
+### #is_/same_as :: [low_salt_diet.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.private.md) 
 
-### [low_salt_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.personal.md) 
+### #is_/same_as :: [low_salt_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.personal.md) 
 
-### [low_salt_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.secret.md)
+### #is_/same_as :: [low_salt_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_salt_diet.secret.md)
 

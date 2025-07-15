@@ -46,17 +46,17 @@ IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProductCollection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.md) 
+### #is_/same_as :: [FileClass~ProductCollection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.md) 
 
-### [FileClass~ProductCollection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.public.md) 
+### #is_/same_as :: [FileClass~ProductCollection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.public.md) 
 
-### [FileClass~ProductCollection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.internal.md) 
+### #is_/same_as :: [FileClass~ProductCollection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.internal.md) 
 
-### [FileClass~ProductCollection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.protect.md) 
+### #is_/same_as :: [FileClass~ProductCollection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.protect.md) 
 
-### [FileClass~ProductCollection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.private.md) 
+### #is_/same_as :: [FileClass~ProductCollection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.private.md) 
 
-### [FileClass~ProductCollection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.personal.md) 
+### #is_/same_as :: [FileClass~ProductCollection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.personal.md) 
 
-### [FileClass~ProductCollection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.secret.md)
+### #is_/same_as :: [FileClass~ProductCollection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct/FileClass~ProductCollection.secret.md)
 

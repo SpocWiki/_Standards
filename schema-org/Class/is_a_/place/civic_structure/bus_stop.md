@@ -45,17 +45,17 @@ A bus stop.
 
 ## Confidential Links & Embeds: 
 
-### [bus_stop](/_Standards/schema-org/Class/is_a_/place/civic_structure/bus_stop.md) 
+### #is_/same_as :: [bus_stop](/_Standards/schema-org/Class/is_a_/place/civic_structure/bus_stop.md) 
 
-### [bus_stop.public](/_public/schema-org/Class/is_a_/place/civic_structure/bus_stop.public.md) 
+### #is_/same_as :: [bus_stop.public](/_public/schema-org/Class/is_a_/place/civic_structure/bus_stop.public.md) 
 
-### [bus_stop.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bus_stop.internal.md) 
+### #is_/same_as :: [bus_stop.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bus_stop.internal.md) 
 
-### [bus_stop.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bus_stop.protect.md) 
+### #is_/same_as :: [bus_stop.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bus_stop.protect.md) 
 
-### [bus_stop.private](/_private/schema-org/Class/is_a_/place/civic_structure/bus_stop.private.md) 
+### #is_/same_as :: [bus_stop.private](/_private/schema-org/Class/is_a_/place/civic_structure/bus_stop.private.md) 
 
-### [bus_stop.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bus_stop.personal.md) 
+### #is_/same_as :: [bus_stop.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bus_stop.personal.md) 
 
-### [bus_stop.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bus_stop.secret.md)
+### #is_/same_as :: [bus_stop.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bus_stop.secret.md)
 

@@ -49,17 +49,17 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 ## Confidential Links & Embeds: 
 
-### [distance_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.md) 
+### #is_/same_as :: [distance_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.md) 
 
-### [distance_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.public.md) 
+### #is_/same_as :: [distance_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.public.md) 
 
-### [distance_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md) 
+### #is_/same_as :: [distance_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md) 
 
-### [distance_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md) 
+### #is_/same_as :: [distance_fee.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md) 
 
-### [distance_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.private.md) 
+### #is_/same_as :: [distance_fee.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.private.md) 
 
-### [distance_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md) 
+### #is_/same_as :: [distance_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md) 
 
-### [distance_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md)
+### #is_/same_as :: [distance_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md)
 

@@ -57,17 +57,17 @@ Capital :: [[Saint_Denis]]
 
 ## Confidential Links & Embeds: 
 
-### [Reunion](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.md) 
+### #is_/same_as :: [Reunion](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.md) 
 
-### [Reunion.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.public.md) 
+### #is_/same_as :: [Reunion.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.public.md) 
 
-### [Reunion.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.internal.md) 
+### #is_/same_as :: [Reunion.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.internal.md) 
 
-### [Reunion.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.protect.md) 
+### #is_/same_as :: [Reunion.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.protect.md) 
 
-### [Reunion.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.private.md) 
+### #is_/same_as :: [Reunion.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.private.md) 
 
-### [Reunion.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.personal.md) 
+### #is_/same_as :: [Reunion.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.personal.md) 
 
-### [Reunion.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.secret.md)
+### #is_/same_as :: [Reunion.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.secret.md)
 

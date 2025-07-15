@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sd_license](/_Standards/schema-org/Relation/has/has_sd_license.md) 
+### #is_/same_as :: [has_sd_license](/_Standards/schema-org/Relation/has/has_sd_license.md) 
 
-### [has_sd_license.public](/_public/schema-org/Relation/has/has_sd_license.public.md) 
+### #is_/same_as :: [has_sd_license.public](/_public/schema-org/Relation/has/has_sd_license.public.md) 
 
-### [has_sd_license.internal](/_internal/schema-org/Relation/has/has_sd_license.internal.md) 
+### #is_/same_as :: [has_sd_license.internal](/_internal/schema-org/Relation/has/has_sd_license.internal.md) 
 
-### [has_sd_license.protect](/_protect/schema-org/Relation/has/has_sd_license.protect.md) 
+### #is_/same_as :: [has_sd_license.protect](/_protect/schema-org/Relation/has/has_sd_license.protect.md) 
 
-### [has_sd_license.private](/_private/schema-org/Relation/has/has_sd_license.private.md) 
+### #is_/same_as :: [has_sd_license.private](/_private/schema-org/Relation/has/has_sd_license.private.md) 
 
-### [has_sd_license.personal](/_personal/schema-org/Relation/has/has_sd_license.personal.md) 
+### #is_/same_as :: [has_sd_license.personal](/_personal/schema-org/Relation/has/has_sd_license.personal.md) 
 
-### [has_sd_license.secret](/_secret/schema-org/Relation/has/has_sd_license.secret.md)
+### #is_/same_as :: [has_sd_license.secret](/_secret/schema-org/Relation/has/has_sd_license.secret.md)
 

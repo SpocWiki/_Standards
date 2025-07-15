@@ -409,17 +409,17 @@ Capital :: [[Djibouti]]
 
 ## Confidential Links & Embeds: 
 
-### [Djibouti](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti.md) 
+### #is_/same_as :: [Djibouti](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti.md) 
 
-### [Djibouti.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti.public.md) 
+### #is_/same_as :: [Djibouti.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti.public.md) 
 
-### [Djibouti.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti.internal.md) 
+### #is_/same_as :: [Djibouti.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti.internal.md) 
 
-### [Djibouti.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti.protect.md) 
+### #is_/same_as :: [Djibouti.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti.protect.md) 
 
-### [Djibouti.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti.private.md) 
+### #is_/same_as :: [Djibouti.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti.private.md) 
 
-### [Djibouti.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti.personal.md) 
+### #is_/same_as :: [Djibouti.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti.personal.md) 
 
-### [Djibouti.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret.md)
+### #is_/same_as :: [Djibouti.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret.md)
 

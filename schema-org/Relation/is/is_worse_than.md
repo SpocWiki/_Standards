@@ -12,17 +12,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### [is_worse_than](/_Standards/schema-org/Relation/is/is_worse_than.md) 
+### #is_/same_as :: [is_worse_than](/_Standards/schema-org/Relation/is/is_worse_than.md) 
 
-### [is_worse_than.public](/_public/schema-org/Relation/is/is_worse_than.public.md) 
+### #is_/same_as :: [is_worse_than.public](/_public/schema-org/Relation/is/is_worse_than.public.md) 
 
-### [is_worse_than.internal](/_internal/schema-org/Relation/is/is_worse_than.internal.md) 
+### #is_/same_as :: [is_worse_than.internal](/_internal/schema-org/Relation/is/is_worse_than.internal.md) 
 
-### [is_worse_than.protect](/_protect/schema-org/Relation/is/is_worse_than.protect.md) 
+### #is_/same_as :: [is_worse_than.protect](/_protect/schema-org/Relation/is/is_worse_than.protect.md) 
 
-### [is_worse_than.private](/_private/schema-org/Relation/is/is_worse_than.private.md) 
+### #is_/same_as :: [is_worse_than.private](/_private/schema-org/Relation/is/is_worse_than.private.md) 
 
-### [is_worse_than.personal](/_personal/schema-org/Relation/is/is_worse_than.personal.md) 
+### #is_/same_as :: [is_worse_than.personal](/_personal/schema-org/Relation/is/is_worse_than.personal.md) 
 
-### [is_worse_than.secret](/_secret/schema-org/Relation/is/is_worse_than.secret.md)
+### #is_/same_as :: [is_worse_than.secret](/_secret/schema-org/Relation/is/is_worse_than.secret.md)
 

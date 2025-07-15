@@ -35,17 +35,17 @@ An internet cafe.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~InternetCafe](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.md) 
+### #is_/same_as :: [FileClass~InternetCafe](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.md) 
 
-### [FileClass~InternetCafe.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.public.md) 
+### #is_/same_as :: [FileClass~InternetCafe.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.public.md) 
 
-### [FileClass~InternetCafe.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.internal.md) 
+### #is_/same_as :: [FileClass~InternetCafe.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.internal.md) 
 
-### [FileClass~InternetCafe.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.protect.md) 
+### #is_/same_as :: [FileClass~InternetCafe.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.protect.md) 
 
-### [FileClass~InternetCafe.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.private.md) 
+### #is_/same_as :: [FileClass~InternetCafe.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.private.md) 
 
-### [FileClass~InternetCafe.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.personal.md) 
+### #is_/same_as :: [FileClass~InternetCafe.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.personal.md) 
 
-### [FileClass~InternetCafe.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.secret.md)
+### #is_/same_as :: [FileClass~InternetCafe.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.secret.md)
 

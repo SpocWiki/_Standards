@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_available_strength](/_Standards/schema-org/Relation/has/has_available_strength.md) 
+### #is_/same_as :: [has_available_strength](/_Standards/schema-org/Relation/has/has_available_strength.md) 
 
-### [has_available_strength.public](/_public/schema-org/Relation/has/has_available_strength.public.md) 
+### #is_/same_as :: [has_available_strength.public](/_public/schema-org/Relation/has/has_available_strength.public.md) 
 
-### [has_available_strength.internal](/_internal/schema-org/Relation/has/has_available_strength.internal.md) 
+### #is_/same_as :: [has_available_strength.internal](/_internal/schema-org/Relation/has/has_available_strength.internal.md) 
 
-### [has_available_strength.protect](/_protect/schema-org/Relation/has/has_available_strength.protect.md) 
+### #is_/same_as :: [has_available_strength.protect](/_protect/schema-org/Relation/has/has_available_strength.protect.md) 
 
-### [has_available_strength.private](/_private/schema-org/Relation/has/has_available_strength.private.md) 
+### #is_/same_as :: [has_available_strength.private](/_private/schema-org/Relation/has/has_available_strength.private.md) 
 
-### [has_available_strength.personal](/_personal/schema-org/Relation/has/has_available_strength.personal.md) 
+### #is_/same_as :: [has_available_strength.personal](/_personal/schema-org/Relation/has/has_available_strength.personal.md) 
 
-### [has_available_strength.secret](/_secret/schema-org/Relation/has/has_available_strength.secret.md)
+### #is_/same_as :: [has_available_strength.secret](/_secret/schema-org/Relation/has/has_available_strength.secret.md)
 

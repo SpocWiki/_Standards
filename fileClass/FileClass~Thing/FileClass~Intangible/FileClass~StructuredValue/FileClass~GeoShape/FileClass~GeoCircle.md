@@ -58,17 +58,17 @@ GeoRadius:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeoCircle](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.md) 
+### #is_/same_as :: [FileClass~GeoCircle](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.md) 
 
-### [FileClass~GeoCircle.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.public.md) 
+### #is_/same_as :: [FileClass~GeoCircle.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.public.md) 
 
-### [FileClass~GeoCircle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.internal.md) 
+### #is_/same_as :: [FileClass~GeoCircle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.internal.md) 
 
-### [FileClass~GeoCircle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.protect.md) 
+### #is_/same_as :: [FileClass~GeoCircle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.protect.md) 
 
-### [FileClass~GeoCircle.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.private.md) 
+### #is_/same_as :: [FileClass~GeoCircle.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.private.md) 
 
-### [FileClass~GeoCircle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.personal.md) 
+### #is_/same_as :: [FileClass~GeoCircle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.personal.md) 
 
-### [FileClass~GeoCircle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret.md)
+### #is_/same_as :: [FileClass~GeoCircle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret.md)
 

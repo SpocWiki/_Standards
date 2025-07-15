@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sports_activity_location](/_Standards/schema-org/Relation/has/has_sports_activity_location.md) 
+### #is_/same_as :: [has_sports_activity_location](/_Standards/schema-org/Relation/has/has_sports_activity_location.md) 
 
-### [has_sports_activity_location.public](/_public/schema-org/Relation/has/has_sports_activity_location.public.md) 
+### #is_/same_as :: [has_sports_activity_location.public](/_public/schema-org/Relation/has/has_sports_activity_location.public.md) 
 
-### [has_sports_activity_location.internal](/_internal/schema-org/Relation/has/has_sports_activity_location.internal.md) 
+### #is_/same_as :: [has_sports_activity_location.internal](/_internal/schema-org/Relation/has/has_sports_activity_location.internal.md) 
 
-### [has_sports_activity_location.protect](/_protect/schema-org/Relation/has/has_sports_activity_location.protect.md) 
+### #is_/same_as :: [has_sports_activity_location.protect](/_protect/schema-org/Relation/has/has_sports_activity_location.protect.md) 
 
-### [has_sports_activity_location.private](/_private/schema-org/Relation/has/has_sports_activity_location.private.md) 
+### #is_/same_as :: [has_sports_activity_location.private](/_private/schema-org/Relation/has/has_sports_activity_location.private.md) 
 
-### [has_sports_activity_location.personal](/_personal/schema-org/Relation/has/has_sports_activity_location.personal.md) 
+### #is_/same_as :: [has_sports_activity_location.personal](/_personal/schema-org/Relation/has/has_sports_activity_location.personal.md) 
 
-### [has_sports_activity_location.secret](/_secret/schema-org/Relation/has/has_sports_activity_location.secret.md)
+### #is_/same_as :: [has_sports_activity_location.secret](/_secret/schema-org/Relation/has/has_sports_activity_location.secret.md)
 

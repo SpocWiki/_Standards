@@ -56,17 +56,17 @@ can be indicated using [[image]].
 
 ## Confidential Links & Embeds: 
 
-### [floor_plan](/_Standards/schema-org/Class/is_a_/Intangible/floor_plan.md) 
+### #is_/same_as :: [floor_plan](/_Standards/schema-org/Class/is_a_/Intangible/floor_plan.md) 
 
-### [floor_plan.public](/_public/schema-org/Class/is_a_/Intangible/floor_plan.public.md) 
+### #is_/same_as :: [floor_plan.public](/_public/schema-org/Class/is_a_/Intangible/floor_plan.public.md) 
 
-### [floor_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/floor_plan.internal.md) 
+### #is_/same_as :: [floor_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/floor_plan.internal.md) 
 
-### [floor_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/floor_plan.protect.md) 
+### #is_/same_as :: [floor_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/floor_plan.protect.md) 
 
-### [floor_plan.private](/_private/schema-org/Class/is_a_/Intangible/floor_plan.private.md) 
+### #is_/same_as :: [floor_plan.private](/_private/schema-org/Class/is_a_/Intangible/floor_plan.private.md) 
 
-### [floor_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/floor_plan.personal.md) 
+### #is_/same_as :: [floor_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/floor_plan.personal.md) 
 
-### [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md)
+### #is_/same_as :: [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md)
 

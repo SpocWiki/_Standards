@@ -37,22 +37,19 @@ title: Caenogastropoda
     -   [Carinarioidea](Carinarioidea)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Caenogastropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.md) 
+### #is_/same_as :: [Caenogastropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.md) 
 
-### [Caenogastropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.public.md) 
+### #is_/same_as :: [Caenogastropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.public.md) 
 
-### [Caenogastropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.internal.md) 
+### #is_/same_as :: [Caenogastropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.internal.md) 
 
-### [Caenogastropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.protect.md) 
+### #is_/same_as :: [Caenogastropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.protect.md) 
 
-### [Caenogastropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.private.md) 
+### #is_/same_as :: [Caenogastropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.private.md) 
 
-### [Caenogastropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.personal.md) 
+### #is_/same_as :: [Caenogastropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.personal.md) 
 
-### [Caenogastropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.secret.md)
+### #is_/same_as :: [Caenogastropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda.secret.md)
 

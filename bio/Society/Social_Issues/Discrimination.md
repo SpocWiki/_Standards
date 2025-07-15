@@ -74,21 +74,19 @@ PhilPapers_topic: discrimination
 > [Wikipedia](https://en.wikipedia.org/wiki/Discrimination)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Discrimination](/_Standards/bio/Society/Social_Issues/Discrimination.md) 
+### #is_/same_as :: [Discrimination](/_Standards/bio/Society/Social_Issues/Discrimination.md) 
 
-### [Discrimination.public](/_public/bio/Society/Social_Issues/Discrimination.public.md) 
+### #is_/same_as :: [Discrimination.public](/_public/bio/Society/Social_Issues/Discrimination.public.md) 
 
-### [Discrimination.internal](/_internal/bio/Society/Social_Issues/Discrimination.internal.md) 
+### #is_/same_as :: [Discrimination.internal](/_internal/bio/Society/Social_Issues/Discrimination.internal.md) 
 
-### [Discrimination.protect](/_protect/bio/Society/Social_Issues/Discrimination.protect.md) 
+### #is_/same_as :: [Discrimination.protect](/_protect/bio/Society/Social_Issues/Discrimination.protect.md) 
 
-### [Discrimination.private](/_private/bio/Society/Social_Issues/Discrimination.private.md) 
+### #is_/same_as :: [Discrimination.private](/_private/bio/Society/Social_Issues/Discrimination.private.md) 
 
-### [Discrimination.personal](/_personal/bio/Society/Social_Issues/Discrimination.personal.md) 
+### #is_/same_as :: [Discrimination.personal](/_personal/bio/Society/Social_Issues/Discrimination.personal.md) 
 
-### [Discrimination.secret](/_secret/bio/Society/Social_Issues/Discrimination.secret.md)
+### #is_/same_as :: [Discrimination.secret](/_secret/bio/Society/Social_Issues/Discrimination.secret.md)
 

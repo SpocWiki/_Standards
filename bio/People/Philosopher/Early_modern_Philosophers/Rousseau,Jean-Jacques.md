@@ -26,22 +26,19 @@ has_id_wikidata: Q6527
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Jacques%20Rousseau)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Rousseau,Jean-Jacques](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.md) 
 
-### [Rousseau,Jean-Jacques.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.public.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.public.md) 
 
-### [Rousseau,Jean-Jacques.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.internal.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.internal.md) 
 
-### [Rousseau,Jean-Jacques.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.protect.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.protect.md) 
 
-### [Rousseau,Jean-Jacques.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.private.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.private.md) 
 
-### [Rousseau,Jean-Jacques.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.personal.md) 
+### #is_/same_as :: [Rousseau,Jean-Jacques.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.personal.md) 
 
-### [Rousseau,Jean-Jacques.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.secret.md)
+### #is_/same_as :: [Rousseau,Jean-Jacques.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Rousseau,Jean-Jacques.secret.md)
 

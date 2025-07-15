@@ -45,17 +45,17 @@ A description of an educational course which may be offered as distinct instance
 
 ## Confidential Links & Embeds: 
 
-### [course](/_Standards/schema-org/Class/is_a_/creative_work/course.md) 
+### #is_/same_as :: [course](/_Standards/schema-org/Class/is_a_/creative_work/course.md) 
 
-### [course.public](/_public/schema-org/Class/is_a_/creative_work/course.public.md) 
+### #is_/same_as :: [course.public](/_public/schema-org/Class/is_a_/creative_work/course.public.md) 
 
-### [course.internal](/_internal/schema-org/Class/is_a_/creative_work/course.internal.md) 
+### #is_/same_as :: [course.internal](/_internal/schema-org/Class/is_a_/creative_work/course.internal.md) 
 
-### [course.protect](/_protect/schema-org/Class/is_a_/creative_work/course.protect.md) 
+### #is_/same_as :: [course.protect](/_protect/schema-org/Class/is_a_/creative_work/course.protect.md) 
 
-### [course.private](/_private/schema-org/Class/is_a_/creative_work/course.private.md) 
+### #is_/same_as :: [course.private](/_private/schema-org/Class/is_a_/creative_work/course.private.md) 
 
-### [course.personal](/_personal/schema-org/Class/is_a_/creative_work/course.personal.md) 
+### #is_/same_as :: [course.personal](/_personal/schema-org/Class/is_a_/creative_work/course.personal.md) 
 
-### [course.secret](/_secret/schema-org/Class/is_a_/creative_work/course.secret.md)
+### #is_/same_as :: [course.secret](/_secret/schema-org/Class/is_a_/creative_work/course.secret.md)
 

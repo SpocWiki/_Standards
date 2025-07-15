@@ -71,21 +71,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Albert%20Einstein)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Einstein,Albert](/_Standards/bio/People/Scientist/Modern_Scientists/Einstein,Albert.md) 
+### #is_/same_as :: [Einstein,Albert](/_Standards/bio/People/Scientist/Modern_Scientists/Einstein,Albert.md) 
 
-### [Einstein,Albert.public](/_public/bio/People/Scientist/Modern_Scientists/Einstein,Albert.public.md) 
+### #is_/same_as :: [Einstein,Albert.public](/_public/bio/People/Scientist/Modern_Scientists/Einstein,Albert.public.md) 
 
-### [Einstein,Albert.internal](/_internal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.internal.md) 
+### #is_/same_as :: [Einstein,Albert.internal](/_internal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.internal.md) 
 
-### [Einstein,Albert.protect](/_protect/bio/People/Scientist/Modern_Scientists/Einstein,Albert.protect.md) 
+### #is_/same_as :: [Einstein,Albert.protect](/_protect/bio/People/Scientist/Modern_Scientists/Einstein,Albert.protect.md) 
 
-### [Einstein,Albert.private](/_private/bio/People/Scientist/Modern_Scientists/Einstein,Albert.private.md) 
+### #is_/same_as :: [Einstein,Albert.private](/_private/bio/People/Scientist/Modern_Scientists/Einstein,Albert.private.md) 
 
-### [Einstein,Albert.personal](/_personal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.personal.md) 
+### #is_/same_as :: [Einstein,Albert.personal](/_personal/bio/People/Scientist/Modern_Scientists/Einstein,Albert.personal.md) 
 
-### [Einstein,Albert.secret](/_secret/bio/People/Scientist/Modern_Scientists/Einstein,Albert.secret.md)
+### #is_/same_as :: [Einstein,Albert.secret](/_secret/bio/People/Scientist/Modern_Scientists/Einstein,Albert.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_course](/_Standards/schema-org/Relation/has/has_course.md) 
+### #is_/same_as :: [has_course](/_Standards/schema-org/Relation/has/has_course.md) 
 
-### [has_course.public](/_public/schema-org/Relation/has/has_course.public.md) 
+### #is_/same_as :: [has_course.public](/_public/schema-org/Relation/has/has_course.public.md) 
 
-### [has_course.internal](/_internal/schema-org/Relation/has/has_course.internal.md) 
+### #is_/same_as :: [has_course.internal](/_internal/schema-org/Relation/has/has_course.internal.md) 
 
-### [has_course.protect](/_protect/schema-org/Relation/has/has_course.protect.md) 
+### #is_/same_as :: [has_course.protect](/_protect/schema-org/Relation/has/has_course.protect.md) 
 
-### [has_course.private](/_private/schema-org/Relation/has/has_course.private.md) 
+### #is_/same_as :: [has_course.private](/_private/schema-org/Relation/has/has_course.private.md) 
 
-### [has_course.personal](/_personal/schema-org/Relation/has/has_course.personal.md) 
+### #is_/same_as :: [has_course.personal](/_personal/schema-org/Relation/has/has_course.personal.md) 
 
-### [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md)
+### #is_/same_as :: [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md)
 

@@ -149,17 +149,17 @@ different_from: '[[_Standards/WikiData/WD~La,37276728]]'
 
 ## Confidential Links & Embeds: 
 
-### [Lanthanum](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.md) 
+### #is_/same_as :: [Lanthanum](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.md) 
 
-### [Lanthanum.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.public.md) 
+### #is_/same_as :: [Lanthanum.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.public.md) 
 
-### [Lanthanum.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.internal.md) 
+### #is_/same_as :: [Lanthanum.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.internal.md) 
 
-### [Lanthanum.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.protect.md) 
+### #is_/same_as :: [Lanthanum.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.protect.md) 
 
-### [Lanthanum.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.private.md) 
+### #is_/same_as :: [Lanthanum.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.private.md) 
 
-### [Lanthanum.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.personal.md) 
+### #is_/same_as :: [Lanthanum.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.personal.md) 
 
-### [Lanthanum.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.secret.md)
+### #is_/same_as :: [Lanthanum.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.secret.md)
 

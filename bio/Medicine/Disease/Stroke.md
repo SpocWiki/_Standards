@@ -74,21 +74,19 @@ MeSH_tree_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Stroke)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Stroke](/_Standards/bio/Medicine/Disease/Stroke.md) 
+### #is_/same_as :: [Stroke](/_Standards/bio/Medicine/Disease/Stroke.md) 
 
-### [Stroke.public](/_public/bio/Medicine/Disease/Stroke.public.md) 
+### #is_/same_as :: [Stroke.public](/_public/bio/Medicine/Disease/Stroke.public.md) 
 
-### [Stroke.internal](/_internal/bio/Medicine/Disease/Stroke.internal.md) 
+### #is_/same_as :: [Stroke.internal](/_internal/bio/Medicine/Disease/Stroke.internal.md) 
 
-### [Stroke.protect](/_protect/bio/Medicine/Disease/Stroke.protect.md) 
+### #is_/same_as :: [Stroke.protect](/_protect/bio/Medicine/Disease/Stroke.protect.md) 
 
-### [Stroke.private](/_private/bio/Medicine/Disease/Stroke.private.md) 
+### #is_/same_as :: [Stroke.private](/_private/bio/Medicine/Disease/Stroke.private.md) 
 
-### [Stroke.personal](/_personal/bio/Medicine/Disease/Stroke.personal.md) 
+### #is_/same_as :: [Stroke.personal](/_personal/bio/Medicine/Disease/Stroke.personal.md) 
 
-### [Stroke.secret](/_secret/bio/Medicine/Disease/Stroke.secret.md)
+### #is_/same_as :: [Stroke.secret](/_secret/bio/Medicine/Disease/Stroke.secret.md)
 

@@ -45,17 +45,17 @@ A piece of sculpture.
 
 ## Confidential Links & Embeds: 
 
-### [sculpture](/_Standards/schema-org/Class/is_a_/creative_work/sculpture.md) 
+### #is_/same_as :: [sculpture](/_Standards/schema-org/Class/is_a_/creative_work/sculpture.md) 
 
-### [sculpture.public](/_public/schema-org/Class/is_a_/creative_work/sculpture.public.md) 
+### #is_/same_as :: [sculpture.public](/_public/schema-org/Class/is_a_/creative_work/sculpture.public.md) 
 
-### [sculpture.internal](/_internal/schema-org/Class/is_a_/creative_work/sculpture.internal.md) 
+### #is_/same_as :: [sculpture.internal](/_internal/schema-org/Class/is_a_/creative_work/sculpture.internal.md) 
 
-### [sculpture.protect](/_protect/schema-org/Class/is_a_/creative_work/sculpture.protect.md) 
+### #is_/same_as :: [sculpture.protect](/_protect/schema-org/Class/is_a_/creative_work/sculpture.protect.md) 
 
-### [sculpture.private](/_private/schema-org/Class/is_a_/creative_work/sculpture.private.md) 
+### #is_/same_as :: [sculpture.private](/_private/schema-org/Class/is_a_/creative_work/sculpture.private.md) 
 
-### [sculpture.personal](/_personal/schema-org/Class/is_a_/creative_work/sculpture.personal.md) 
+### #is_/same_as :: [sculpture.personal](/_personal/schema-org/Class/is_a_/creative_work/sculpture.personal.md) 
 
-### [sculpture.secret](/_secret/schema-org/Class/is_a_/creative_work/sculpture.secret.md)
+### #is_/same_as :: [sculpture.secret](/_secret/schema-org/Class/is_a_/creative_work/sculpture.secret.md)
 

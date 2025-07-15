@@ -47,17 +47,17 @@ A transit map.
 
 ## Confidential Links & Embeds: 
 
-### [transit_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.md) 
+### #is_/same_as :: [transit_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.md) 
 
-### [transit_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.public.md) 
+### #is_/same_as :: [transit_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.public.md) 
 
-### [transit_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.internal.md) 
+### #is_/same_as :: [transit_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.internal.md) 
 
-### [transit_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.protect.md) 
+### #is_/same_as :: [transit_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.protect.md) 
 
-### [transit_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.private.md) 
+### #is_/same_as :: [transit_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.private.md) 
 
-### [transit_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.personal.md) 
+### #is_/same_as :: [transit_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.personal.md) 
 
-### [transit_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.secret.md)
+### #is_/same_as :: [transit_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.secret.md)
 

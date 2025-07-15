@@ -606,17 +606,17 @@ Capital :: [[Kampala]]
 
 ## Confidential Links & Embeds: 
 
-### [Uganda](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda.md) 
+### #is_/same_as :: [Uganda](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda.md) 
 
-### [Uganda.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda.public.md) 
+### #is_/same_as :: [Uganda.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda.public.md) 
 
-### [Uganda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal.md) 
+### #is_/same_as :: [Uganda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal.md) 
 
-### [Uganda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect.md) 
+### #is_/same_as :: [Uganda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect.md) 
 
-### [Uganda.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda.private.md) 
+### #is_/same_as :: [Uganda.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda.private.md) 
 
-### [Uganda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal.md) 
+### #is_/same_as :: [Uganda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal.md) 
 
-### [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md)
+### #is_/same_as :: [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md)
 

@@ -77,17 +77,17 @@ PetsAllowed:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ApartmentComplex](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.md) 
 
-### [FileClass~ApartmentComplex.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.public.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.public.md) 
 
-### [FileClass~ApartmentComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.internal.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.internal.md) 
 
-### [FileClass~ApartmentComplex.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.protect.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.protect.md) 
 
-### [FileClass~ApartmentComplex.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.private.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.private.md) 
 
-### [FileClass~ApartmentComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.personal.md) 
+### #is_/same_as :: [FileClass~ApartmentComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.personal.md) 
 
-### [FileClass~ApartmentComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.secret.md)
+### #is_/same_as :: [FileClass~ApartmentComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.secret.md)
 

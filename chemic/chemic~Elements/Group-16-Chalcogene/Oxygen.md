@@ -179,17 +179,17 @@ time_of_discovery_or_invention: "1774"
 
 ## Confidential Links & Embeds: 
 
-### [Oxygen](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.md) 
+### #is_/same_as :: [Oxygen](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.md) 
 
-### [Oxygen.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.public.md) 
+### #is_/same_as :: [Oxygen.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.public.md) 
 
-### [Oxygen.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.internal.md) 
+### #is_/same_as :: [Oxygen.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.internal.md) 
 
-### [Oxygen.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.protect.md) 
+### #is_/same_as :: [Oxygen.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.protect.md) 
 
-### [Oxygen.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.private.md) 
+### #is_/same_as :: [Oxygen.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.private.md) 
 
-### [Oxygen.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.personal.md) 
+### #is_/same_as :: [Oxygen.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.personal.md) 
 
-### [Oxygen.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.secret.md)
+### #is_/same_as :: [Oxygen.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.secret.md)
 

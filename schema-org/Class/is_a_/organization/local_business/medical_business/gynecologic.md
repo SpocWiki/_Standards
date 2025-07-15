@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to the health care of women, 
 
 ## Confidential Links & Embeds: 
 
-### [gynecologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.md) 
+### #is_/same_as :: [gynecologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.md) 
 
-### [gynecologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.public.md) 
+### #is_/same_as :: [gynecologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.public.md) 
 
-### [gynecologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal.md) 
+### #is_/same_as :: [gynecologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal.md) 
 
-### [gynecologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.protect.md) 
+### #is_/same_as :: [gynecologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.protect.md) 
 
-### [gynecologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.private.md) 
+### #is_/same_as :: [gynecologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.private.md) 
 
-### [gynecologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.personal.md) 
+### #is_/same_as :: [gynecologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.personal.md) 
 
-### [gynecologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret.md)
+### #is_/same_as :: [gynecologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret.md)
 

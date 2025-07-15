@@ -35,17 +35,17 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComputerLanguage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.md) 
 
-### [FileClass~ComputerLanguage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.public.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.public.md) 
 
-### [FileClass~ComputerLanguage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.internal.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.internal.md) 
 
-### [FileClass~ComputerLanguage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.protect.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.protect.md) 
 
-### [FileClass~ComputerLanguage.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.private.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.private.md) 
 
-### [FileClass~ComputerLanguage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.personal.md) 
+### #is_/same_as :: [FileClass~ComputerLanguage.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.personal.md) 
 
-### [FileClass~ComputerLanguage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.secret.md)
+### #is_/same_as :: [FileClass~ComputerLanguage.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ComputerLanguage.secret.md)
 

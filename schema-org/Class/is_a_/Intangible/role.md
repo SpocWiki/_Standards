@@ -49,17 +49,17 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 ## Confidential Links & Embeds: 
 
-### [role](/_Standards/schema-org/Class/is_a_/Intangible/role.md) 
+### #is_/same_as :: [role](/_Standards/schema-org/Class/is_a_/Intangible/role.md) 
 
-### [role.public](/_public/schema-org/Class/is_a_/Intangible/role.public.md) 
+### #is_/same_as :: [role.public](/_public/schema-org/Class/is_a_/Intangible/role.public.md) 
 
-### [role.internal](/_internal/schema-org/Class/is_a_/Intangible/role.internal.md) 
+### #is_/same_as :: [role.internal](/_internal/schema-org/Class/is_a_/Intangible/role.internal.md) 
 
-### [role.protect](/_protect/schema-org/Class/is_a_/Intangible/role.protect.md) 
+### #is_/same_as :: [role.protect](/_protect/schema-org/Class/is_a_/Intangible/role.protect.md) 
 
-### [role.private](/_private/schema-org/Class/is_a_/Intangible/role.private.md) 
+### #is_/same_as :: [role.private](/_private/schema-org/Class/is_a_/Intangible/role.private.md) 
 
-### [role.personal](/_personal/schema-org/Class/is_a_/Intangible/role.personal.md) 
+### #is_/same_as :: [role.personal](/_personal/schema-org/Class/is_a_/Intangible/role.personal.md) 
 
-### [role.secret](/_secret/schema-org/Class/is_a_/Intangible/role.secret.md)
+### #is_/same_as :: [role.secret](/_secret/schema-org/Class/is_a_/Intangible/role.secret.md)
 

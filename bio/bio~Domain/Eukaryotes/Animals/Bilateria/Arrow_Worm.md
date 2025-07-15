@@ -107,22 +107,19 @@ Creator           J. M. Cavanihac
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Arrow_Worm](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.md) 
+### #is_/same_as :: [Arrow_Worm](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.md) 
 
-### [Arrow_Worm.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.public.md) 
+### #is_/same_as :: [Arrow_Worm.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.public.md) 
 
-### [Arrow_Worm.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.internal.md) 
+### #is_/same_as :: [Arrow_Worm.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.internal.md) 
 
-### [Arrow_Worm.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.protect.md) 
+### #is_/same_as :: [Arrow_Worm.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.protect.md) 
 
-### [Arrow_Worm.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.private.md) 
+### #is_/same_as :: [Arrow_Worm.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.private.md) 
 
-### [Arrow_Worm.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.personal.md) 
+### #is_/same_as :: [Arrow_Worm.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.personal.md) 
 
-### [Arrow_Worm.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.secret.md)
+### #is_/same_as :: [Arrow_Worm.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arrow_Worm.secret.md)
 

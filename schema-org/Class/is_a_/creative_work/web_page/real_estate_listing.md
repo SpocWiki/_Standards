@@ -48,17 +48,17 @@ A [[RealEstateListing]] is a listing that describes one or more real-estate [[Of
 
 ## Confidential Links & Embeds: 
 
-### [real_estate_listing](/_Standards/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.md) 
+### #is_/same_as :: [real_estate_listing](/_Standards/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.md) 
 
-### [real_estate_listing.public](/_public/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.public.md) 
+### #is_/same_as :: [real_estate_listing.public](/_public/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.public.md) 
 
-### [real_estate_listing.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.internal.md) 
+### #is_/same_as :: [real_estate_listing.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.internal.md) 
 
-### [real_estate_listing.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.protect.md) 
+### #is_/same_as :: [real_estate_listing.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.protect.md) 
 
-### [real_estate_listing.private](/_private/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.private.md) 
+### #is_/same_as :: [real_estate_listing.private](/_private/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.private.md) 
 
-### [real_estate_listing.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.personal.md) 
+### #is_/same_as :: [real_estate_listing.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.personal.md) 
 
-### [real_estate_listing.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.secret.md)
+### #is_/same_as :: [real_estate_listing.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/real_estate_listing.secret.md)
 

@@ -35,17 +35,17 @@ An emergency service, such as a fire station or ER.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EmergencyService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.md) 
+### #is_/same_as :: [FileClass~EmergencyService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.md) 
 
-### [FileClass~EmergencyService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.public.md) 
+### #is_/same_as :: [FileClass~EmergencyService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.public.md) 
 
-### [FileClass~EmergencyService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.internal.md) 
+### #is_/same_as :: [FileClass~EmergencyService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.internal.md) 
 
-### [FileClass~EmergencyService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.protect.md) 
+### #is_/same_as :: [FileClass~EmergencyService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.protect.md) 
 
-### [FileClass~EmergencyService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.private.md) 
+### #is_/same_as :: [FileClass~EmergencyService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.private.md) 
 
-### [FileClass~EmergencyService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.personal.md) 
+### #is_/same_as :: [FileClass~EmergencyService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.personal.md) 
 
-### [FileClass~EmergencyService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.secret.md)
+### #is_/same_as :: [FileClass~EmergencyService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.secret.md)
 

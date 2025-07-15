@@ -57,21 +57,19 @@ UMLS_CUI: C0023884
 > [Wikipedia](https://en.wikipedia.org/wiki/Liver)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Liver](/_Standards/bio/Medicine/Anatomy/Liver.md) 
+### #is_/same_as :: [Liver](/_Standards/bio/Medicine/Anatomy/Liver.md) 
 
-### [Liver.public](/_public/bio/Medicine/Anatomy/Liver.public.md) 
+### #is_/same_as :: [Liver.public](/_public/bio/Medicine/Anatomy/Liver.public.md) 
 
-### [Liver.internal](/_internal/bio/Medicine/Anatomy/Liver.internal.md) 
+### #is_/same_as :: [Liver.internal](/_internal/bio/Medicine/Anatomy/Liver.internal.md) 
 
-### [Liver.protect](/_protect/bio/Medicine/Anatomy/Liver.protect.md) 
+### #is_/same_as :: [Liver.protect](/_protect/bio/Medicine/Anatomy/Liver.protect.md) 
 
-### [Liver.private](/_private/bio/Medicine/Anatomy/Liver.private.md) 
+### #is_/same_as :: [Liver.private](/_private/bio/Medicine/Anatomy/Liver.private.md) 
 
-### [Liver.personal](/_personal/bio/Medicine/Anatomy/Liver.personal.md) 
+### #is_/same_as :: [Liver.personal](/_personal/bio/Medicine/Anatomy/Liver.personal.md) 
 
-### [Liver.secret](/_secret/bio/Medicine/Anatomy/Liver.secret.md)
+### #is_/same_as :: [Liver.secret](/_secret/bio/Medicine/Anatomy/Liver.secret.md)
 

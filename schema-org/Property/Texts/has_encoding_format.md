@@ -60,17 +60,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_encoding_format](/_Standards/schema-org/Property/Texts/has_encoding_format.md) 
+### #is_/same_as :: [has_encoding_format](/_Standards/schema-org/Property/Texts/has_encoding_format.md) 
 
-### [has_encoding_format.public](/_public/schema-org/Property/Texts/has_encoding_format.public.md) 
+### #is_/same_as :: [has_encoding_format.public](/_public/schema-org/Property/Texts/has_encoding_format.public.md) 
 
-### [has_encoding_format.internal](/_internal/schema-org/Property/Texts/has_encoding_format.internal.md) 
+### #is_/same_as :: [has_encoding_format.internal](/_internal/schema-org/Property/Texts/has_encoding_format.internal.md) 
 
-### [has_encoding_format.protect](/_protect/schema-org/Property/Texts/has_encoding_format.protect.md) 
+### #is_/same_as :: [has_encoding_format.protect](/_protect/schema-org/Property/Texts/has_encoding_format.protect.md) 
 
-### [has_encoding_format.private](/_private/schema-org/Property/Texts/has_encoding_format.private.md) 
+### #is_/same_as :: [has_encoding_format.private](/_private/schema-org/Property/Texts/has_encoding_format.private.md) 
 
-### [has_encoding_format.personal](/_personal/schema-org/Property/Texts/has_encoding_format.personal.md) 
+### #is_/same_as :: [has_encoding_format.personal](/_personal/schema-org/Property/Texts/has_encoding_format.personal.md) 
 
-### [has_encoding_format.secret](/_secret/schema-org/Property/Texts/has_encoding_format.secret.md)
+### #is_/same_as :: [has_encoding_format.secret](/_secret/schema-org/Property/Texts/has_encoding_format.secret.md)
 

@@ -161,20 +161,19 @@ Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
 Copyright ::         © 2000 K. T. Bird
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Florideophyceae](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.md) 
+### #is_/same_as :: [Florideophyceae](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.md) 
 
-### [Florideophyceae.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.public.md) 
+### #is_/same_as :: [Florideophyceae.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.public.md) 
 
-### [Florideophyceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.internal.md) 
+### #is_/same_as :: [Florideophyceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.internal.md) 
 
-### [Florideophyceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.protect.md) 
+### #is_/same_as :: [Florideophyceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.protect.md) 
 
-### [Florideophyceae.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.private.md) 
+### #is_/same_as :: [Florideophyceae.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.private.md) 
 
-### [Florideophyceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.personal.md) 
+### #is_/same_as :: [Florideophyceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.personal.md) 
 
-### [Florideophyceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.secret.md)
+### #is_/same_as :: [Florideophyceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.secret.md)
 

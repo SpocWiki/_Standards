@@ -35,17 +35,17 @@ An office equipment store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OfficeEquipmentStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.md) 
 
-### [FileClass~OfficeEquipmentStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.public.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.public.md) 
 
-### [FileClass~OfficeEquipmentStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.internal.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.internal.md) 
 
-### [FileClass~OfficeEquipmentStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.protect.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.protect.md) 
 
-### [FileClass~OfficeEquipmentStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.private.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.private.md) 
 
-### [FileClass~OfficeEquipmentStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.personal.md) 
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.personal.md) 
 
-### [FileClass~OfficeEquipmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.secret.md)
+### #is_/same_as :: [FileClass~OfficeEquipmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.secret.md)
 

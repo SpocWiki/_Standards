@@ -47,17 +47,17 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 
 ## Confidential Links & Embeds: 
 
-### [co_op](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.md) 
+### #is_/same_as :: [co_op](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.md) 
 
-### [co_op.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.public.md) 
+### #is_/same_as :: [co_op.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.public.md) 
 
-### [co_op.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.internal.md) 
+### #is_/same_as :: [co_op.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.internal.md) 
 
-### [co_op.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.protect.md) 
+### #is_/same_as :: [co_op.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.protect.md) 
 
-### [co_op.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.private.md) 
+### #is_/same_as :: [co_op.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.private.md) 
 
-### [co_op.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.personal.md) 
+### #is_/same_as :: [co_op.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.personal.md) 
 
-### [co_op.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.secret.md)
+### #is_/same_as :: [co_op.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_play_mode/co_op.secret.md)
 

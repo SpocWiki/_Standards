@@ -47,17 +47,17 @@ Enumerates several kinds of product return policies.
 
 ## Confidential Links & Embeds: 
 
-### [merchant_return_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.md) 
+### #is_/same_as :: [merchant_return_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.md) 
 
-### [merchant_return_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.public.md) 
+### #is_/same_as :: [merchant_return_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.public.md) 
 
-### [merchant_return_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.internal.md) 
+### #is_/same_as :: [merchant_return_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.internal.md) 
 
-### [merchant_return_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.protect.md) 
+### #is_/same_as :: [merchant_return_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.protect.md) 
 
-### [merchant_return_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.private.md) 
+### #is_/same_as :: [merchant_return_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.private.md) 
 
-### [merchant_return_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.personal.md) 
+### #is_/same_as :: [merchant_return_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.personal.md) 
 
-### [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md)
+### #is_/same_as :: [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md)
 

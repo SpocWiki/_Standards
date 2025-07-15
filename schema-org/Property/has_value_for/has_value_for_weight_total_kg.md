@@ -61,17 +61,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_weight_total_kg](/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total_kg.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg](/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total_kg.md) 
 
-### [has_value_for_weight_total_kg.public](/_public/schema-org/Property/has_value_for/has_value_for_weight_total_kg.public.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg.public](/_public/schema-org/Property/has_value_for/has_value_for_weight_total_kg.public.md) 
 
-### [has_value_for_weight_total_kg.internal](/_internal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.internal.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg.internal](/_internal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.internal.md) 
 
-### [has_value_for_weight_total_kg.protect](/_protect/schema-org/Property/has_value_for/has_value_for_weight_total_kg.protect.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg.protect](/_protect/schema-org/Property/has_value_for/has_value_for_weight_total_kg.protect.md) 
 
-### [has_value_for_weight_total_kg.private](/_private/schema-org/Property/has_value_for/has_value_for_weight_total_kg.private.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg.private](/_private/schema-org/Property/has_value_for/has_value_for_weight_total_kg.private.md) 
 
-### [has_value_for_weight_total_kg.personal](/_personal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.personal.md) 
+### #is_/same_as :: [has_value_for_weight_total_kg.personal](/_personal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.personal.md) 
 
-### [has_value_for_weight_total_kg.secret](/_secret/schema-org/Property/has_value_for/has_value_for_weight_total_kg.secret.md)
+### #is_/same_as :: [has_value_for_weight_total_kg.secret](/_secret/schema-org/Property/has_value_for/has_value_for_weight_total_kg.secret.md)
 

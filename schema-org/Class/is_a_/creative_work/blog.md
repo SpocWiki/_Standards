@@ -47,17 +47,17 @@ Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloq
 
 ## Confidential Links & Embeds: 
 
-### [blog](/_Standards/schema-org/Class/is_a_/creative_work/blog.md) 
+### #is_/same_as :: [blog](/_Standards/schema-org/Class/is_a_/creative_work/blog.md) 
 
-### [blog.public](/_public/schema-org/Class/is_a_/creative_work/blog.public.md) 
+### #is_/same_as :: [blog.public](/_public/schema-org/Class/is_a_/creative_work/blog.public.md) 
 
-### [blog.internal](/_internal/schema-org/Class/is_a_/creative_work/blog.internal.md) 
+### #is_/same_as :: [blog.internal](/_internal/schema-org/Class/is_a_/creative_work/blog.internal.md) 
 
-### [blog.protect](/_protect/schema-org/Class/is_a_/creative_work/blog.protect.md) 
+### #is_/same_as :: [blog.protect](/_protect/schema-org/Class/is_a_/creative_work/blog.protect.md) 
 
-### [blog.private](/_private/schema-org/Class/is_a_/creative_work/blog.private.md) 
+### #is_/same_as :: [blog.private](/_private/schema-org/Class/is_a_/creative_work/blog.private.md) 
 
-### [blog.personal](/_personal/schema-org/Class/is_a_/creative_work/blog.personal.md) 
+### #is_/same_as :: [blog.personal](/_personal/schema-org/Class/is_a_/creative_work/blog.personal.md) 
 
-### [blog.secret](/_secret/schema-org/Class/is_a_/creative_work/blog.secret.md)
+### #is_/same_as :: [blog.secret](/_secret/schema-org/Class/is_a_/creative_work/blog.secret.md)
 

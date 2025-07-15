@@ -47,17 +47,17 @@ A Consortium is a membership [[Organization]] whose members are typically Organi
 
 ## Confidential Links & Embeds: 
 
-### [consortium](/_Standards/schema-org/Class/is_a_/organization/consortium.md) 
+### #is_/same_as :: [consortium](/_Standards/schema-org/Class/is_a_/organization/consortium.md) 
 
-### [consortium.public](/_public/schema-org/Class/is_a_/organization/consortium.public.md) 
+### #is_/same_as :: [consortium.public](/_public/schema-org/Class/is_a_/organization/consortium.public.md) 
 
-### [consortium.internal](/_internal/schema-org/Class/is_a_/organization/consortium.internal.md) 
+### #is_/same_as :: [consortium.internal](/_internal/schema-org/Class/is_a_/organization/consortium.internal.md) 
 
-### [consortium.protect](/_protect/schema-org/Class/is_a_/organization/consortium.protect.md) 
+### #is_/same_as :: [consortium.protect](/_protect/schema-org/Class/is_a_/organization/consortium.protect.md) 
 
-### [consortium.private](/_private/schema-org/Class/is_a_/organization/consortium.private.md) 
+### #is_/same_as :: [consortium.private](/_private/schema-org/Class/is_a_/organization/consortium.private.md) 
 
-### [consortium.personal](/_personal/schema-org/Class/is_a_/organization/consortium.personal.md) 
+### #is_/same_as :: [consortium.personal](/_personal/schema-org/Class/is_a_/organization/consortium.personal.md) 
 
-### [consortium.secret](/_secret/schema-org/Class/is_a_/organization/consortium.secret.md)
+### #is_/same_as :: [consortium.secret](/_secret/schema-org/Class/is_a_/organization/consortium.secret.md)
 

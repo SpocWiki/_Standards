@@ -49,17 +49,17 @@ Represents the length, for example of a dress
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_length](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.md) 
+### #is_/same_as :: [wearable_measurement_length](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.md) 
 
-### [wearable_measurement_length.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.public.md) 
+### #is_/same_as :: [wearable_measurement_length.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.public.md) 
 
-### [wearable_measurement_length.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.internal.md) 
+### #is_/same_as :: [wearable_measurement_length.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.internal.md) 
 
-### [wearable_measurement_length.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.protect.md) 
+### #is_/same_as :: [wearable_measurement_length.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.protect.md) 
 
-### [wearable_measurement_length.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.private.md) 
+### #is_/same_as :: [wearable_measurement_length.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.private.md) 
 
-### [wearable_measurement_length.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.personal.md) 
+### #is_/same_as :: [wearable_measurement_length.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.personal.md) 
 
-### [wearable_measurement_length.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.secret.md)
+### #is_/same_as :: [wearable_measurement_length.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_length.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_distinguishing_sign](/_Standards/schema-org/Relation/has/has_distinguishing_sign.md) 
+### #is_/same_as :: [has_distinguishing_sign](/_Standards/schema-org/Relation/has/has_distinguishing_sign.md) 
 
-### [has_distinguishing_sign.public](/_public/schema-org/Relation/has/has_distinguishing_sign.public.md) 
+### #is_/same_as :: [has_distinguishing_sign.public](/_public/schema-org/Relation/has/has_distinguishing_sign.public.md) 
 
-### [has_distinguishing_sign.internal](/_internal/schema-org/Relation/has/has_distinguishing_sign.internal.md) 
+### #is_/same_as :: [has_distinguishing_sign.internal](/_internal/schema-org/Relation/has/has_distinguishing_sign.internal.md) 
 
-### [has_distinguishing_sign.protect](/_protect/schema-org/Relation/has/has_distinguishing_sign.protect.md) 
+### #is_/same_as :: [has_distinguishing_sign.protect](/_protect/schema-org/Relation/has/has_distinguishing_sign.protect.md) 
 
-### [has_distinguishing_sign.private](/_private/schema-org/Relation/has/has_distinguishing_sign.private.md) 
+### #is_/same_as :: [has_distinguishing_sign.private](/_private/schema-org/Relation/has/has_distinguishing_sign.private.md) 
 
-### [has_distinguishing_sign.personal](/_personal/schema-org/Relation/has/has_distinguishing_sign.personal.md) 
+### #is_/same_as :: [has_distinguishing_sign.personal](/_personal/schema-org/Relation/has/has_distinguishing_sign.personal.md) 
 
-### [has_distinguishing_sign.secret](/_secret/schema-org/Relation/has/has_distinguishing_sign.secret.md)
+### #is_/same_as :: [has_distinguishing_sign.secret](/_secret/schema-org/Relation/has/has_distinguishing_sign.secret.md)
 

@@ -94,17 +94,17 @@ time_of_discovery_or_invention: "1945"
 
 ## Confidential Links & Embeds: 
 
-### [Promethium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Promethium.md) 
+### #is_/same_as :: [Promethium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Promethium.md) 
 
-### [Promethium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Promethium.public.md) 
+### #is_/same_as :: [Promethium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Promethium.public.md) 
 
-### [Promethium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Promethium.internal.md) 
+### #is_/same_as :: [Promethium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Promethium.internal.md) 
 
-### [Promethium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Promethium.protect.md) 
+### #is_/same_as :: [Promethium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Promethium.protect.md) 
 
-### [Promethium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Promethium.private.md) 
+### #is_/same_as :: [Promethium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Promethium.private.md) 
 
-### [Promethium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Promethium.personal.md) 
+### #is_/same_as :: [Promethium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Promethium.personal.md) 
 
-### [Promethium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Promethium.secret.md)
+### #is_/same_as :: [Promethium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Promethium.secret.md)
 

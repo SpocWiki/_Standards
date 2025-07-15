@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accessibility_summary](/_Standards/schema-org/Property/Texts/has_accessibility_summary.md) 
+### #is_/same_as :: [has_accessibility_summary](/_Standards/schema-org/Property/Texts/has_accessibility_summary.md) 
 
-### [has_accessibility_summary.public](/_public/schema-org/Property/Texts/has_accessibility_summary.public.md) 
+### #is_/same_as :: [has_accessibility_summary.public](/_public/schema-org/Property/Texts/has_accessibility_summary.public.md) 
 
-### [has_accessibility_summary.internal](/_internal/schema-org/Property/Texts/has_accessibility_summary.internal.md) 
+### #is_/same_as :: [has_accessibility_summary.internal](/_internal/schema-org/Property/Texts/has_accessibility_summary.internal.md) 
 
-### [has_accessibility_summary.protect](/_protect/schema-org/Property/Texts/has_accessibility_summary.protect.md) 
+### #is_/same_as :: [has_accessibility_summary.protect](/_protect/schema-org/Property/Texts/has_accessibility_summary.protect.md) 
 
-### [has_accessibility_summary.private](/_private/schema-org/Property/Texts/has_accessibility_summary.private.md) 
+### #is_/same_as :: [has_accessibility_summary.private](/_private/schema-org/Property/Texts/has_accessibility_summary.private.md) 
 
-### [has_accessibility_summary.personal](/_personal/schema-org/Property/Texts/has_accessibility_summary.personal.md) 
+### #is_/same_as :: [has_accessibility_summary.personal](/_personal/schema-org/Property/Texts/has_accessibility_summary.personal.md) 
 
-### [has_accessibility_summary.secret](/_secret/schema-org/Property/Texts/has_accessibility_summary.secret.md)
+### #is_/same_as :: [has_accessibility_summary.secret](/_secret/schema-org/Property/Texts/has_accessibility_summary.secret.md)
 

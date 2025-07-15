@@ -49,17 +49,17 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 ## Confidential Links & Embeds: 
 
-### [bio_chem_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity.md) 
+### #is_/same_as :: [bio_chem_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity.md) 
 
-### [bio_chem_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity.public.md) 
+### #is_/same_as :: [bio_chem_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity.public.md) 
 
-### [bio_chem_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity.internal.md) 
+### #is_/same_as :: [bio_chem_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity.internal.md) 
 
-### [bio_chem_entity.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity.protect.md) 
+### #is_/same_as :: [bio_chem_entity.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity.protect.md) 
 
-### [bio_chem_entity.private](/_private/schema-org/Class/is_a_/bio_chem_entity.private.md) 
+### #is_/same_as :: [bio_chem_entity.private](/_private/schema-org/Class/is_a_/bio_chem_entity.private.md) 
 
-### [bio_chem_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity.personal.md) 
+### #is_/same_as :: [bio_chem_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity.personal.md) 
 
-### [bio_chem_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity.secret.md)
+### #is_/same_as :: [bio_chem_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity.secret.md)
 

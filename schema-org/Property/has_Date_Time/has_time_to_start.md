@@ -50,17 +50,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_to_start](/_Standards/schema-org/Property/has_Date_Time/has_time_to_start.md) 
+### #is_/same_as :: [has_time_to_start](/_Standards/schema-org/Property/has_Date_Time/has_time_to_start.md) 
 
-### [has_time_to_start.public](/_public/schema-org/Property/has_Date_Time/has_time_to_start.public.md) 
+### #is_/same_as :: [has_time_to_start.public](/_public/schema-org/Property/has_Date_Time/has_time_to_start.public.md) 
 
-### [has_time_to_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_start.internal.md) 
+### #is_/same_as :: [has_time_to_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_start.internal.md) 
 
-### [has_time_to_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_start.protect.md) 
+### #is_/same_as :: [has_time_to_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_start.protect.md) 
 
-### [has_time_to_start.private](/_private/schema-org/Property/has_Date_Time/has_time_to_start.private.md) 
+### #is_/same_as :: [has_time_to_start.private](/_private/schema-org/Property/has_Date_Time/has_time_to_start.private.md) 
 
-### [has_time_to_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_start.personal.md) 
+### #is_/same_as :: [has_time_to_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_start.personal.md) 
 
-### [has_time_to_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret.md)
+### #is_/same_as :: [has_time_to_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret.md)
 

@@ -151,22 +151,19 @@ Comments          an embryophyte
 Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Plants](/_Standards/bio/bio~Domain/Eukaryotes/Plants.md) 
+### #is_/same_as :: [Plants](/_Standards/bio/bio~Domain/Eukaryotes/Plants.md) 
 
-### [Plants.public](/_public/bio/bio~Domain/Eukaryotes/Plants.public.md) 
+### #is_/same_as :: [Plants.public](/_public/bio/bio~Domain/Eukaryotes/Plants.public.md) 
 
-### [Plants.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants.internal.md) 
+### #is_/same_as :: [Plants.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants.internal.md) 
 
-### [Plants.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants.protect.md) 
+### #is_/same_as :: [Plants.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants.protect.md) 
 
-### [Plants.private](/_private/bio/bio~Domain/Eukaryotes/Plants.private.md) 
+### #is_/same_as :: [Plants.private](/_private/bio/bio~Domain/Eukaryotes/Plants.private.md) 
 
-### [Plants.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants.personal.md) 
+### #is_/same_as :: [Plants.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants.personal.md) 
 
-### [Plants.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants.secret.md)
+### #is_/same_as :: [Plants.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants.secret.md)
 

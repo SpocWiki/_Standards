@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_to_check_out](/_Standards/schema-org/Property/has_Date_Time/has_time_to_check_out.md) 
+### #is_/same_as :: [has_time_to_check_out](/_Standards/schema-org/Property/has_Date_Time/has_time_to_check_out.md) 
 
-### [has_time_to_check_out.public](/_public/schema-org/Property/has_Date_Time/has_time_to_check_out.public.md) 
+### #is_/same_as :: [has_time_to_check_out.public](/_public/schema-org/Property/has_Date_Time/has_time_to_check_out.public.md) 
 
-### [has_time_to_check_out.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_check_out.internal.md) 
+### #is_/same_as :: [has_time_to_check_out.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_check_out.internal.md) 
 
-### [has_time_to_check_out.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_check_out.protect.md) 
+### #is_/same_as :: [has_time_to_check_out.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_check_out.protect.md) 
 
-### [has_time_to_check_out.private](/_private/schema-org/Property/has_Date_Time/has_time_to_check_out.private.md) 
+### #is_/same_as :: [has_time_to_check_out.private](/_private/schema-org/Property/has_Date_Time/has_time_to_check_out.private.md) 
 
-### [has_time_to_check_out.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_check_out.personal.md) 
+### #is_/same_as :: [has_time_to_check_out.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_check_out.personal.md) 
 
-### [has_time_to_check_out.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_check_out.secret.md)
+### #is_/same_as :: [has_time_to_check_out.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_check_out.secret.md)
 

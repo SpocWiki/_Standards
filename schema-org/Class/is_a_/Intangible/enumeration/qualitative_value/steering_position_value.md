@@ -45,17 +45,17 @@ A value indicating a steering position.
 
 ## Confidential Links & Embeds: 
 
-### [steering_position_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.md) 
+### #is_/same_as :: [steering_position_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.md) 
 
-### [steering_position_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.public.md) 
+### #is_/same_as :: [steering_position_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.public.md) 
 
-### [steering_position_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.internal.md) 
+### #is_/same_as :: [steering_position_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.internal.md) 
 
-### [steering_position_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.protect.md) 
+### #is_/same_as :: [steering_position_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.protect.md) 
 
-### [steering_position_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.private.md) 
+### #is_/same_as :: [steering_position_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.private.md) 
 
-### [steering_position_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.personal.md) 
+### #is_/same_as :: [steering_position_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.personal.md) 
 
-### [steering_position_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.secret.md)
+### #is_/same_as :: [steering_position_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value.secret.md)
 

@@ -47,17 +47,17 @@ A medical device used for diagnostic purposes.
 
 ## Confidential Links & Embeds: 
 
-### [diagnostic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
+### #is_/same_as :: [diagnostic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
 
-### [diagnostic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.public.md) 
+### #is_/same_as :: [diagnostic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.public.md) 
 
-### [diagnostic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md) 
+### #is_/same_as :: [diagnostic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md) 
 
-### [diagnostic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.protect.md) 
+### #is_/same_as :: [diagnostic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.protect.md) 
 
-### [diagnostic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.private.md) 
+### #is_/same_as :: [diagnostic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.private.md) 
 
-### [diagnostic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal.md) 
+### #is_/same_as :: [diagnostic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal.md) 
 
-### [diagnostic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md)
+### #is_/same_as :: [diagnostic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md)
 

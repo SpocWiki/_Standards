@@ -62,23 +62,19 @@ Krugosvet_article: nauka_i_tehnika/biologiya/UHO.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Ear)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Ear](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.md) 
+### #is_/same_as :: [Ear](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.md) 
 
-### [Ear.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.public.md) 
+### #is_/same_as :: [Ear.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.public.md) 
 
-### [Ear.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.internal.md) 
+### #is_/same_as :: [Ear.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.internal.md) 
 
-### [Ear.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.protect.md) 
+### #is_/same_as :: [Ear.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.protect.md) 
 
-### [Ear.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.private.md) 
+### #is_/same_as :: [Ear.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.private.md) 
 
-### [Ear.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.personal.md) 
+### #is_/same_as :: [Ear.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.personal.md) 
 
-### [Ear.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.secret.md)
+### #is_/same_as :: [Ear.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.secret.md)
 

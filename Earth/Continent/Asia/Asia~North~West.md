@@ -25,17 +25,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Asia~North~West](/_Standards/Earth/Continent/Asia/Asia~North~West.md) 
+### #is_/same_as :: [Asia~North~West](/_Standards/Earth/Continent/Asia/Asia~North~West.md) 
 
-### [Asia~North~West.public](/_public/Earth/Continent/Asia/Asia~North~West.public.md) 
+### #is_/same_as :: [Asia~North~West.public](/_public/Earth/Continent/Asia/Asia~North~West.public.md) 
 
-### [Asia~North~West.internal](/_internal/Earth/Continent/Asia/Asia~North~West.internal.md) 
+### #is_/same_as :: [Asia~North~West.internal](/_internal/Earth/Continent/Asia/Asia~North~West.internal.md) 
 
-### [Asia~North~West.protect](/_protect/Earth/Continent/Asia/Asia~North~West.protect.md) 
+### #is_/same_as :: [Asia~North~West.protect](/_protect/Earth/Continent/Asia/Asia~North~West.protect.md) 
 
-### [Asia~North~West.private](/_private/Earth/Continent/Asia/Asia~North~West.private.md) 
+### #is_/same_as :: [Asia~North~West.private](/_private/Earth/Continent/Asia/Asia~North~West.private.md) 
 
-### [Asia~North~West.personal](/_personal/Earth/Continent/Asia/Asia~North~West.personal.md) 
+### #is_/same_as :: [Asia~North~West.personal](/_personal/Earth/Continent/Asia/Asia~North~West.personal.md) 
 
-### [Asia~North~West.secret](/_secret/Earth/Continent/Asia/Asia~North~West.secret.md)
+### #is_/same_as :: [Asia~North~West.secret](/_secret/Earth/Continent/Asia/Asia~North~West.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Belait/
 
 ## Confidential Links & Embeds: 
 
-### [Belait](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
+### #is_/same_as :: [Belait](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
 
-### [Belait.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.public.md) 
+### #is_/same_as :: [Belait.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.public.md) 
 
-### [Belait.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.internal.md) 
+### #is_/same_as :: [Belait.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.internal.md) 
 
-### [Belait.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.protect.md) 
+### #is_/same_as :: [Belait.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.protect.md) 
 
-### [Belait.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.private.md) 
+### #is_/same_as :: [Belait.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.private.md) 
 
-### [Belait.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.personal.md) 
+### #is_/same_as :: [Belait.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.personal.md) 
 
-### [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md)
+### #is_/same_as :: [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md)
 

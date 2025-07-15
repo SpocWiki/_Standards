@@ -30,22 +30,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Emmanuel%20Macron) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Macron,Emmanuel](/_Standards/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.md) 
+### #is_/same_as :: [Macron,Emmanuel](/_Standards/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.md) 
 
-### [Macron,Emmanuel.public](/_public/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.public.md) 
+### #is_/same_as :: [Macron,Emmanuel.public](/_public/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.public.md) 
 
-### [Macron,Emmanuel.internal](/_internal/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.internal.md) 
+### #is_/same_as :: [Macron,Emmanuel.internal](/_internal/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.internal.md) 
 
-### [Macron,Emmanuel.protect](/_protect/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.protect.md) 
+### #is_/same_as :: [Macron,Emmanuel.protect](/_protect/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.protect.md) 
 
-### [Macron,Emmanuel.private](/_private/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.private.md) 
+### #is_/same_as :: [Macron,Emmanuel.private](/_private/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.private.md) 
 
-### [Macron,Emmanuel.personal](/_personal/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.personal.md) 
+### #is_/same_as :: [Macron,Emmanuel.personal](/_personal/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.personal.md) 
 
-### [Macron,Emmanuel.secret](/_secret/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.secret.md)
+### #is_/same_as :: [Macron,Emmanuel.secret](/_secret/bio/People/Leader/Modern_Leaders/Macron,Emmanuel.secret.md)
 

@@ -35,17 +35,17 @@ A School District is an administrative area for the administration of schools.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SchoolDistrict](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.md) 
 
-### [FileClass~SchoolDistrict.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.public.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.public.md) 
 
-### [FileClass~SchoolDistrict.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.internal.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.internal.md) 
 
-### [FileClass~SchoolDistrict.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.protect.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.protect.md) 
 
-### [FileClass~SchoolDistrict.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.private.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.private.md) 
 
-### [FileClass~SchoolDistrict.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.personal.md) 
+### #is_/same_as :: [FileClass~SchoolDistrict.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.personal.md) 
 
-### [FileClass~SchoolDistrict.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.secret.md)
+### #is_/same_as :: [FileClass~SchoolDistrict.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.secret.md)
 

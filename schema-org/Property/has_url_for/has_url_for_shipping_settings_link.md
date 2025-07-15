@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_shipping_settings_link](/_Standards/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link](/_Standards/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.md) 
 
-### [has_url_for_shipping_settings_link.public](/_public/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.public.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link.public](/_public/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.public.md) 
 
-### [has_url_for_shipping_settings_link.internal](/_internal/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.internal.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link.internal](/_internal/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.internal.md) 
 
-### [has_url_for_shipping_settings_link.protect](/_protect/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.protect.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link.protect](/_protect/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.protect.md) 
 
-### [has_url_for_shipping_settings_link.private](/_private/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.private.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link.private](/_private/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.private.md) 
 
-### [has_url_for_shipping_settings_link.personal](/_personal/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.personal.md) 
+### #is_/same_as :: [has_url_for_shipping_settings_link.personal](/_personal/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.personal.md) 
 
-### [has_url_for_shipping_settings_link.secret](/_secret/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.secret.md)
+### #is_/same_as :: [has_url_for_shipping_settings_link.secret](/_secret/schema-org/Property/has_url_for/has_url_for_shipping_settings_link.secret.md)
 

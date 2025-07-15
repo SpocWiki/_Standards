@@ -103,17 +103,17 @@ Commons_category: Ytterbium
 
 ## Confidential Links & Embeds: 
 
-### [Ytterbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.md) 
+### #is_/same_as :: [Ytterbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.md) 
 
-### [Ytterbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.public.md) 
+### #is_/same_as :: [Ytterbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.public.md) 
 
-### [Ytterbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.internal.md) 
+### #is_/same_as :: [Ytterbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.internal.md) 
 
-### [Ytterbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.protect.md) 
+### #is_/same_as :: [Ytterbium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.protect.md) 
 
-### [Ytterbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.private.md) 
+### #is_/same_as :: [Ytterbium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.private.md) 
 
-### [Ytterbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.personal.md) 
+### #is_/same_as :: [Ytterbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.personal.md) 
 
-### [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md)
+### #is_/same_as :: [Ytterbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Ytterbium.secret.md)
 

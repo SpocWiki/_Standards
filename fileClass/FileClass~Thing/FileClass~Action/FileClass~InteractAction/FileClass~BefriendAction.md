@@ -39,17 +39,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BefriendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.md) 
+### #is_/same_as :: [FileClass~BefriendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.md) 
 
-### [FileClass~BefriendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.public.md) 
+### #is_/same_as :: [FileClass~BefriendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.public.md) 
 
-### [FileClass~BefriendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.internal.md) 
+### #is_/same_as :: [FileClass~BefriendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.internal.md) 
 
-### [FileClass~BefriendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.protect.md) 
+### #is_/same_as :: [FileClass~BefriendAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.protect.md) 
 
-### [FileClass~BefriendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.private.md) 
+### #is_/same_as :: [FileClass~BefriendAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.private.md) 
 
-### [FileClass~BefriendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.personal.md) 
+### #is_/same_as :: [FileClass~BefriendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.personal.md) 
 
-### [FileClass~BefriendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.secret.md)
+### #is_/same_as :: [FileClass~BefriendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~BefriendAction.secret.md)
 

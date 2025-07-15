@@ -458,17 +458,17 @@ Capital :: [[Monrovia]]
 
 ## Confidential Links & Embeds: 
 
-### [Liberia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia.md) 
+### #is_/same_as :: [Liberia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia.md) 
 
-### [Liberia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia.public.md) 
+### #is_/same_as :: [Liberia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia.public.md) 
 
-### [Liberia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal.md) 
+### #is_/same_as :: [Liberia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal.md) 
 
-### [Liberia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect.md) 
+### #is_/same_as :: [Liberia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect.md) 
 
-### [Liberia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia.private.md) 
+### #is_/same_as :: [Liberia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia.private.md) 
 
-### [Liberia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal.md) 
+### #is_/same_as :: [Liberia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal.md) 
 
-### [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md)
+### #is_/same_as :: [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md)
 

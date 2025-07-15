@@ -45,17 +45,17 @@ A radio channel that uses AM.
 
 ## Confidential Links & Embeds: 
 
-### [am_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.md) 
+### #is_/same_as :: [am_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.md) 
 
-### [am_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.public.md) 
+### #is_/same_as :: [am_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.public.md) 
 
-### [am_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md) 
+### #is_/same_as :: [am_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md) 
 
-### [am_radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md) 
+### #is_/same_as :: [am_radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md) 
 
-### [am_radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.private.md) 
+### #is_/same_as :: [am_radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.private.md) 
 
-### [am_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md) 
+### #is_/same_as :: [am_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md) 
 
-### [am_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md)
+### #is_/same_as :: [am_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md)
 

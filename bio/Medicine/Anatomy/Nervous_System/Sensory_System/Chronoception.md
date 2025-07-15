@@ -9,22 +9,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20perception) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chronoception](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.md) 
+### #is_/same_as :: [Chronoception](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.md) 
 
-### [Chronoception.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.public.md) 
+### #is_/same_as :: [Chronoception.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.public.md) 
 
-### [Chronoception.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.internal.md) 
+### #is_/same_as :: [Chronoception.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.internal.md) 
 
-### [Chronoception.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.protect.md) 
+### #is_/same_as :: [Chronoception.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.protect.md) 
 
-### [Chronoception.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.private.md) 
+### #is_/same_as :: [Chronoception.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.private.md) 
 
-### [Chronoception.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.personal.md) 
+### #is_/same_as :: [Chronoception.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.personal.md) 
 
-### [Chronoception.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.secret.md)
+### #is_/same_as :: [Chronoception.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Chronoception.secret.md)
 

@@ -57,17 +57,17 @@ SuccessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProductModel](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.md) 
+### #is_/same_as :: [FileClass~ProductModel](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.md) 
 
-### [FileClass~ProductModel.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.public.md) 
+### #is_/same_as :: [FileClass~ProductModel.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.public.md) 
 
-### [FileClass~ProductModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.internal.md) 
+### #is_/same_as :: [FileClass~ProductModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.internal.md) 
 
-### [FileClass~ProductModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.protect.md) 
+### #is_/same_as :: [FileClass~ProductModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.protect.md) 
 
-### [FileClass~ProductModel.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.private.md) 
+### #is_/same_as :: [FileClass~ProductModel.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.private.md) 
 
-### [FileClass~ProductModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.personal.md) 
+### #is_/same_as :: [FileClass~ProductModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.personal.md) 
 
-### [FileClass~ProductModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.secret.md)
+### #is_/same_as :: [FileClass~ProductModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.secret.md)
 

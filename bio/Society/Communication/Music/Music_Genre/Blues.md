@@ -41,22 +41,19 @@ official_name: blues
 > [Wikipedia](https://en.wikipedia.org/wiki/Blues) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Blues](/_Standards/bio/Society/Communication/Music/Music_Genre/Blues.md) 
+### #is_/same_as :: [Blues](/_Standards/bio/Society/Communication/Music/Music_Genre/Blues.md) 
 
-### [Blues.public](/_public/bio/Society/Communication/Music/Music_Genre/Blues.public.md) 
+### #is_/same_as :: [Blues.public](/_public/bio/Society/Communication/Music/Music_Genre/Blues.public.md) 
 
-### [Blues.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Blues.internal.md) 
+### #is_/same_as :: [Blues.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Blues.internal.md) 
 
-### [Blues.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Blues.protect.md) 
+### #is_/same_as :: [Blues.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Blues.protect.md) 
 
-### [Blues.private](/_private/bio/Society/Communication/Music/Music_Genre/Blues.private.md) 
+### #is_/same_as :: [Blues.private](/_private/bio/Society/Communication/Music/Music_Genre/Blues.private.md) 
 
-### [Blues.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Blues.personal.md) 
+### #is_/same_as :: [Blues.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Blues.personal.md) 
 
-### [Blues.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Blues.secret.md)
+### #is_/same_as :: [Blues.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Blues.secret.md)
 

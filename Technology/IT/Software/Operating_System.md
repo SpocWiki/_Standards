@@ -121,25 +121,19 @@ GitHub_topic: operating-system
 > [Wikipedia](https://en.wikipedia.org/wiki/Operating%20system)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Operating_System](/_Standards/Technology/IT/Software/Operating_System.md) 
+### #is_/same_as :: [Operating_System](/_Standards/Technology/IT/Software/Operating_System.md) 
 
-### [Operating_System.public](/_public/Technology/IT/Software/Operating_System.public.md) 
+### #is_/same_as :: [Operating_System.public](/_public/Technology/IT/Software/Operating_System.public.md) 
 
-### [Operating_System.internal](/_internal/Technology/IT/Software/Operating_System.internal.md) 
+### #is_/same_as :: [Operating_System.internal](/_internal/Technology/IT/Software/Operating_System.internal.md) 
 
-### [Operating_System.protect](/_protect/Technology/IT/Software/Operating_System.protect.md) 
+### #is_/same_as :: [Operating_System.protect](/_protect/Technology/IT/Software/Operating_System.protect.md) 
 
-### [Operating_System.private](/_private/Technology/IT/Software/Operating_System.private.md) 
+### #is_/same_as :: [Operating_System.private](/_private/Technology/IT/Software/Operating_System.private.md) 
 
-### [Operating_System.personal](/_personal/Technology/IT/Software/Operating_System.personal.md) 
+### #is_/same_as :: [Operating_System.personal](/_personal/Technology/IT/Software/Operating_System.personal.md) 
 
-### [Operating_System.secret](/_secret/Technology/IT/Software/Operating_System.secret.md)
+### #is_/same_as :: [Operating_System.secret](/_secret/Technology/IT/Software/Operating_System.secret.md)
 

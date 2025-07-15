@@ -46,17 +46,17 @@ The character of a medical substance, typically a medicine, of being available o
 
 ## Confidential Links & Embeds: 
 
-### [otc](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md) 
+### #is_/same_as :: [otc](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md) 
 
-### [otc.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.public.md) 
+### #is_/same_as :: [otc.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.public.md) 
 
-### [otc.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.internal.md) 
+### #is_/same_as :: [otc.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.internal.md) 
 
-### [otc.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.protect.md) 
+### #is_/same_as :: [otc.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.protect.md) 
 
-### [otc.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.private.md) 
+### #is_/same_as :: [otc.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.private.md) 
 
-### [otc.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.personal.md) 
+### #is_/same_as :: [otc.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.personal.md) 
 
-### [otc.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.secret.md)
+### #is_/same_as :: [otc.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.secret.md)
 

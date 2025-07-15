@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_quest](/_Standards/schema-org/Relation/has/has_quest.md) 
+### #is_/same_as :: [has_quest](/_Standards/schema-org/Relation/has/has_quest.md) 
 
-### [has_quest.public](/_public/schema-org/Relation/has/has_quest.public.md) 
+### #is_/same_as :: [has_quest.public](/_public/schema-org/Relation/has/has_quest.public.md) 
 
-### [has_quest.internal](/_internal/schema-org/Relation/has/has_quest.internal.md) 
+### #is_/same_as :: [has_quest.internal](/_internal/schema-org/Relation/has/has_quest.internal.md) 
 
-### [has_quest.protect](/_protect/schema-org/Relation/has/has_quest.protect.md) 
+### #is_/same_as :: [has_quest.protect](/_protect/schema-org/Relation/has/has_quest.protect.md) 
 
-### [has_quest.private](/_private/schema-org/Relation/has/has_quest.private.md) 
+### #is_/same_as :: [has_quest.private](/_private/schema-org/Relation/has/has_quest.private.md) 
 
-### [has_quest.personal](/_personal/schema-org/Relation/has/has_quest.personal.md) 
+### #is_/same_as :: [has_quest.personal](/_personal/schema-org/Relation/has/has_quest.personal.md) 
 
-### [has_quest.secret](/_secret/schema-org/Relation/has/has_quest.secret.md)
+### #is_/same_as :: [has_quest.secret](/_secret/schema-org/Relation/has/has_quest.secret.md)
 

@@ -47,17 +47,17 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 
 ## Confidential Links & Embeds: 
 
-### [seek_to_action](/_Standards/schema-org/Class/is_a_/action/seek_to_action.md) 
+### #is_/same_as :: [seek_to_action](/_Standards/schema-org/Class/is_a_/action/seek_to_action.md) 
 
-### [seek_to_action.public](/_public/schema-org/Class/is_a_/action/seek_to_action.public.md) 
+### #is_/same_as :: [seek_to_action.public](/_public/schema-org/Class/is_a_/action/seek_to_action.public.md) 
 
-### [seek_to_action.internal](/_internal/schema-org/Class/is_a_/action/seek_to_action.internal.md) 
+### #is_/same_as :: [seek_to_action.internal](/_internal/schema-org/Class/is_a_/action/seek_to_action.internal.md) 
 
-### [seek_to_action.protect](/_protect/schema-org/Class/is_a_/action/seek_to_action.protect.md) 
+### #is_/same_as :: [seek_to_action.protect](/_protect/schema-org/Class/is_a_/action/seek_to_action.protect.md) 
 
-### [seek_to_action.private](/_private/schema-org/Class/is_a_/action/seek_to_action.private.md) 
+### #is_/same_as :: [seek_to_action.private](/_private/schema-org/Class/is_a_/action/seek_to_action.private.md) 
 
-### [seek_to_action.personal](/_personal/schema-org/Class/is_a_/action/seek_to_action.personal.md) 
+### #is_/same_as :: [seek_to_action.personal](/_personal/schema-org/Class/is_a_/action/seek_to_action.personal.md) 
 
-### [seek_to_action.secret](/_secret/schema-org/Class/is_a_/action/seek_to_action.secret.md)
+### #is_/same_as :: [seek_to_action.secret](/_secret/schema-org/Class/is_a_/action/seek_to_action.secret.md)
 

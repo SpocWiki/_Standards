@@ -48,17 +48,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [user_likes](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_likes.md) 
+### #is_/same_as :: [user_likes](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_likes.md) 
 
-### [user_likes.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_likes.public.md) 
+### #is_/same_as :: [user_likes.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_likes.public.md) 
 
-### [user_likes.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_likes.internal.md) 
+### #is_/same_as :: [user_likes.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_likes.internal.md) 
 
-### [user_likes.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_likes.protect.md) 
+### #is_/same_as :: [user_likes.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_likes.protect.md) 
 
-### [user_likes.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_likes.private.md) 
+### #is_/same_as :: [user_likes.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_likes.private.md) 
 
-### [user_likes.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_likes.personal.md) 
+### #is_/same_as :: [user_likes.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_likes.personal.md) 
 
-### [user_likes.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_likes.secret.md)
+### #is_/same_as :: [user_likes.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_likes.secret.md)
 

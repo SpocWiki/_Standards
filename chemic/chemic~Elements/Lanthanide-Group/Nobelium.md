@@ -83,17 +83,17 @@ Unicode_character: 鍩
 
 ## Confidential Links & Embeds: 
 
-### [Nobelium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Nobelium.md) 
+### #is_/same_as :: [Nobelium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Nobelium.md) 
 
-### [Nobelium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Nobelium.public.md) 
+### #is_/same_as :: [Nobelium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Nobelium.public.md) 
 
-### [Nobelium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.internal.md) 
+### #is_/same_as :: [Nobelium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.internal.md) 
 
-### [Nobelium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Nobelium.protect.md) 
+### #is_/same_as :: [Nobelium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Nobelium.protect.md) 
 
-### [Nobelium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Nobelium.private.md) 
+### #is_/same_as :: [Nobelium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Nobelium.private.md) 
 
-### [Nobelium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.personal.md) 
+### #is_/same_as :: [Nobelium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.personal.md) 
 
-### [Nobelium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Nobelium.secret.md)
+### #is_/same_as :: [Nobelium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Nobelium.secret.md)
 

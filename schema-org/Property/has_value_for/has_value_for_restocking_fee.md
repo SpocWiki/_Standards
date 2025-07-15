@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_restocking_fee](/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee.md) 
+### #is_/same_as :: [has_value_for_restocking_fee](/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee.md) 
 
-### [has_value_for_restocking_fee.public](/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public.md) 
+### #is_/same_as :: [has_value_for_restocking_fee.public](/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public.md) 
 
-### [has_value_for_restocking_fee.internal](/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal.md) 
+### #is_/same_as :: [has_value_for_restocking_fee.internal](/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal.md) 
 
-### [has_value_for_restocking_fee.protect](/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect.md) 
+### #is_/same_as :: [has_value_for_restocking_fee.protect](/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect.md) 
 
-### [has_value_for_restocking_fee.private](/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private.md) 
+### #is_/same_as :: [has_value_for_restocking_fee.private](/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private.md) 
 
-### [has_value_for_restocking_fee.personal](/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal.md) 
+### #is_/same_as :: [has_value_for_restocking_fee.personal](/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal.md) 
 
-### [has_value_for_restocking_fee.secret](/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret.md)
+### #is_/same_as :: [has_value_for_restocking_fee.secret](/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret.md)
 

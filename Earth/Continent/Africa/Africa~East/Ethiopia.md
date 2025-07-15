@@ -571,17 +571,17 @@ Capital :: [[Addis_Abeba]]
 
 ## Confidential Links & Embeds: 
 
-### [Ethiopia](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia.md) 
+### #is_/same_as :: [Ethiopia](/_Standards/Earth/Continent/Africa/Africa~East/Ethiopia.md) 
 
-### [Ethiopia.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia.public.md) 
+### #is_/same_as :: [Ethiopia.public](/_public/Earth/Continent/Africa/Africa~East/Ethiopia.public.md) 
 
-### [Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal.md) 
+### #is_/same_as :: [Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal.md) 
 
-### [Ethiopia.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia.protect.md) 
+### #is_/same_as :: [Ethiopia.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia.protect.md) 
 
-### [Ethiopia.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia.private.md) 
+### #is_/same_as :: [Ethiopia.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia.private.md) 
 
-### [Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal.md) 
+### #is_/same_as :: [Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal.md) 
 
-### [Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret.md)
+### #is_/same_as :: [Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret.md)
 

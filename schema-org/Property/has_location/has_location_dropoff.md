@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_dropoff](/_Standards/schema-org/Property/has_location/has_location_dropoff.md) 
+### #is_/same_as :: [has_location_dropoff](/_Standards/schema-org/Property/has_location/has_location_dropoff.md) 
 
-### [has_location_dropoff.public](/_public/schema-org/Property/has_location/has_location_dropoff.public.md) 
+### #is_/same_as :: [has_location_dropoff.public](/_public/schema-org/Property/has_location/has_location_dropoff.public.md) 
 
-### [has_location_dropoff.internal](/_internal/schema-org/Property/has_location/has_location_dropoff.internal.md) 
+### #is_/same_as :: [has_location_dropoff.internal](/_internal/schema-org/Property/has_location/has_location_dropoff.internal.md) 
 
-### [has_location_dropoff.protect](/_protect/schema-org/Property/has_location/has_location_dropoff.protect.md) 
+### #is_/same_as :: [has_location_dropoff.protect](/_protect/schema-org/Property/has_location/has_location_dropoff.protect.md) 
 
-### [has_location_dropoff.private](/_private/schema-org/Property/has_location/has_location_dropoff.private.md) 
+### #is_/same_as :: [has_location_dropoff.private](/_private/schema-org/Property/has_location/has_location_dropoff.private.md) 
 
-### [has_location_dropoff.personal](/_personal/schema-org/Property/has_location/has_location_dropoff.personal.md) 
+### #is_/same_as :: [has_location_dropoff.personal](/_personal/schema-org/Property/has_location/has_location_dropoff.personal.md) 
 
-### [has_location_dropoff.secret](/_secret/schema-org/Property/has_location/has_location_dropoff.secret.md)
+### #is_/same_as :: [has_location_dropoff.secret](/_secret/schema-org/Property/has_location/has_location_dropoff.secret.md)
 

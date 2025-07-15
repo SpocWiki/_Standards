@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_blood_supply](/_Standards/schema-org/Relation/has/has_blood_supply.md) 
+### #is_/same_as :: [has_blood_supply](/_Standards/schema-org/Relation/has/has_blood_supply.md) 
 
-### [has_blood_supply.public](/_public/schema-org/Relation/has/has_blood_supply.public.md) 
+### #is_/same_as :: [has_blood_supply.public](/_public/schema-org/Relation/has/has_blood_supply.public.md) 
 
-### [has_blood_supply.internal](/_internal/schema-org/Relation/has/has_blood_supply.internal.md) 
+### #is_/same_as :: [has_blood_supply.internal](/_internal/schema-org/Relation/has/has_blood_supply.internal.md) 
 
-### [has_blood_supply.protect](/_protect/schema-org/Relation/has/has_blood_supply.protect.md) 
+### #is_/same_as :: [has_blood_supply.protect](/_protect/schema-org/Relation/has/has_blood_supply.protect.md) 
 
-### [has_blood_supply.private](/_private/schema-org/Relation/has/has_blood_supply.private.md) 
+### #is_/same_as :: [has_blood_supply.private](/_private/schema-org/Relation/has/has_blood_supply.private.md) 
 
-### [has_blood_supply.personal](/_personal/schema-org/Relation/has/has_blood_supply.personal.md) 
+### #is_/same_as :: [has_blood_supply.personal](/_personal/schema-org/Relation/has/has_blood_supply.personal.md) 
 
-### [has_blood_supply.secret](/_secret/schema-org/Relation/has/has_blood_supply.secret.md)
+### #is_/same_as :: [has_blood_supply.secret](/_secret/schema-org/Relation/has/has_blood_supply.secret.md)
 

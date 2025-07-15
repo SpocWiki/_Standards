@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_active_ingredient](/_Standards/schema-org/Property/Texts/has_active_ingredient.md) 
+### #is_/same_as :: [has_active_ingredient](/_Standards/schema-org/Property/Texts/has_active_ingredient.md) 
 
-### [has_active_ingredient.public](/_public/schema-org/Property/Texts/has_active_ingredient.public.md) 
+### #is_/same_as :: [has_active_ingredient.public](/_public/schema-org/Property/Texts/has_active_ingredient.public.md) 
 
-### [has_active_ingredient.internal](/_internal/schema-org/Property/Texts/has_active_ingredient.internal.md) 
+### #is_/same_as :: [has_active_ingredient.internal](/_internal/schema-org/Property/Texts/has_active_ingredient.internal.md) 
 
-### [has_active_ingredient.protect](/_protect/schema-org/Property/Texts/has_active_ingredient.protect.md) 
+### #is_/same_as :: [has_active_ingredient.protect](/_protect/schema-org/Property/Texts/has_active_ingredient.protect.md) 
 
-### [has_active_ingredient.private](/_private/schema-org/Property/Texts/has_active_ingredient.private.md) 
+### #is_/same_as :: [has_active_ingredient.private](/_private/schema-org/Property/Texts/has_active_ingredient.private.md) 
 
-### [has_active_ingredient.personal](/_personal/schema-org/Property/Texts/has_active_ingredient.personal.md) 
+### #is_/same_as :: [has_active_ingredient.personal](/_personal/schema-org/Property/Texts/has_active_ingredient.personal.md) 
 
-### [has_active_ingredient.secret](/_secret/schema-org/Property/Texts/has_active_ingredient.secret.md)
+### #is_/same_as :: [has_active_ingredient.secret](/_secret/schema-org/Property/Texts/has_active_ingredient.secret.md)
 

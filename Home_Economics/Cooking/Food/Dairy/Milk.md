@@ -85,22 +85,19 @@ exact_match: "http://purl.obolibrary.org/obo/ENVO_01000012"
 > [Wikipedia](https://en.wikipedia.org/wiki/Milk) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Milk](/_Standards/Home_Economics/Cooking/Food/Dairy/Milk.md) 
+### #is_/same_as :: [Milk](/_Standards/Home_Economics/Cooking/Food/Dairy/Milk.md) 
 
-### [Milk.public](/_public/Home_Economics/Cooking/Food/Dairy/Milk.public.md) 
+### #is_/same_as :: [Milk.public](/_public/Home_Economics/Cooking/Food/Dairy/Milk.public.md) 
 
-### [Milk.internal](/_internal/Home_Economics/Cooking/Food/Dairy/Milk.internal.md) 
+### #is_/same_as :: [Milk.internal](/_internal/Home_Economics/Cooking/Food/Dairy/Milk.internal.md) 
 
-### [Milk.protect](/_protect/Home_Economics/Cooking/Food/Dairy/Milk.protect.md) 
+### #is_/same_as :: [Milk.protect](/_protect/Home_Economics/Cooking/Food/Dairy/Milk.protect.md) 
 
-### [Milk.private](/_private/Home_Economics/Cooking/Food/Dairy/Milk.private.md) 
+### #is_/same_as :: [Milk.private](/_private/Home_Economics/Cooking/Food/Dairy/Milk.private.md) 
 
-### [Milk.personal](/_personal/Home_Economics/Cooking/Food/Dairy/Milk.personal.md) 
+### #is_/same_as :: [Milk.personal](/_personal/Home_Economics/Cooking/Food/Dairy/Milk.personal.md) 
 
-### [Milk.secret](/_secret/Home_Economics/Cooking/Food/Dairy/Milk.secret.md)
+### #is_/same_as :: [Milk.secret](/_secret/Home_Economics/Cooking/Food/Dairy/Milk.secret.md)
 

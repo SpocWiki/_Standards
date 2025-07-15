@@ -150,17 +150,17 @@ TrackingUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ParcelDelivery](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.md) 
 
-### [FileClass~ParcelDelivery.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.public.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.public.md) 
 
-### [FileClass~ParcelDelivery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.internal.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.internal.md) 
 
-### [FileClass~ParcelDelivery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.protect.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.protect.md) 
 
-### [FileClass~ParcelDelivery.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.private.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.private.md) 
 
-### [FileClass~ParcelDelivery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.personal.md) 
+### #is_/same_as :: [FileClass~ParcelDelivery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.personal.md) 
 
-### [FileClass~ParcelDelivery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret.md)
+### #is_/same_as :: [FileClass~ParcelDelivery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret.md)
 

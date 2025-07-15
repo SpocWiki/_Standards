@@ -431,17 +431,17 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 
 ## Confidential Links & Embeds: 
 
-### [Turkmenistan](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan.md) 
+### #is_/same_as :: [Turkmenistan](/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan.md) 
 
-### [Turkmenistan.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public.md) 
+### #is_/same_as :: [Turkmenistan.public](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public.md) 
 
-### [Turkmenistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal.md) 
+### #is_/same_as :: [Turkmenistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal.md) 
 
-### [Turkmenistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect.md) 
+### #is_/same_as :: [Turkmenistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect.md) 
 
-### [Turkmenistan.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private.md) 
+### #is_/same_as :: [Turkmenistan.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private.md) 
 
-### [Turkmenistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal.md) 
+### #is_/same_as :: [Turkmenistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal.md) 
 
-### [Turkmenistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret.md)
+### #is_/same_as :: [Turkmenistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret.md)
 

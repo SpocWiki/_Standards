@@ -47,17 +47,17 @@ A medical procedure involving an incision with instruments; performed for diagno
 
 ## Confidential Links & Embeds: 
 
-### [surgical_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.md) 
+### #is_/same_as :: [surgical_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.md) 
 
-### [surgical_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.public.md) 
+### #is_/same_as :: [surgical_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.public.md) 
 
-### [surgical_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.internal.md) 
+### #is_/same_as :: [surgical_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.internal.md) 
 
-### [surgical_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.protect.md) 
+### #is_/same_as :: [surgical_procedure.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.protect.md) 
 
-### [surgical_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.private.md) 
+### #is_/same_as :: [surgical_procedure.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.private.md) 
 
-### [surgical_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.personal.md) 
+### #is_/same_as :: [surgical_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.personal.md) 
 
-### [surgical_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.secret.md)
+### #is_/same_as :: [surgical_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/surgical_procedure.secret.md)
 

@@ -130,22 +130,19 @@ title: شاهنامه
 > [Wikipedia](https://en.wikipedia.org/wiki/Shahnameh) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Shahnameh](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.md) 
+### #is_/same_as :: [Shahnameh](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.md) 
 
-### [Shahnameh.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.public.md) 
+### #is_/same_as :: [Shahnameh.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.public.md) 
 
-### [Shahnameh.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.internal.md) 
+### #is_/same_as :: [Shahnameh.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.internal.md) 
 
-### [Shahnameh.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.protect.md) 
+### #is_/same_as :: [Shahnameh.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.protect.md) 
 
-### [Shahnameh.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.private.md) 
+### #is_/same_as :: [Shahnameh.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.private.md) 
 
-### [Shahnameh.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.personal.md) 
+### #is_/same_as :: [Shahnameh.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.personal.md) 
 
-### [Shahnameh.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.secret.md)
+### #is_/same_as :: [Shahnameh.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Shahnameh.secret.md)
 

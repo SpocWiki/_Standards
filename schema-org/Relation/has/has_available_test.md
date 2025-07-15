@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_available_test](/_Standards/schema-org/Relation/has/has_available_test.md) 
+### #is_/same_as :: [has_available_test](/_Standards/schema-org/Relation/has/has_available_test.md) 
 
-### [has_available_test.public](/_public/schema-org/Relation/has/has_available_test.public.md) 
+### #is_/same_as :: [has_available_test.public](/_public/schema-org/Relation/has/has_available_test.public.md) 
 
-### [has_available_test.internal](/_internal/schema-org/Relation/has/has_available_test.internal.md) 
+### #is_/same_as :: [has_available_test.internal](/_internal/schema-org/Relation/has/has_available_test.internal.md) 
 
-### [has_available_test.protect](/_protect/schema-org/Relation/has/has_available_test.protect.md) 
+### #is_/same_as :: [has_available_test.protect](/_protect/schema-org/Relation/has/has_available_test.protect.md) 
 
-### [has_available_test.private](/_private/schema-org/Relation/has/has_available_test.private.md) 
+### #is_/same_as :: [has_available_test.private](/_private/schema-org/Relation/has/has_available_test.private.md) 
 
-### [has_available_test.personal](/_personal/schema-org/Relation/has/has_available_test.personal.md) 
+### #is_/same_as :: [has_available_test.personal](/_personal/schema-org/Relation/has/has_available_test.personal.md) 
 
-### [has_available_test.secret](/_secret/schema-org/Relation/has/has_available_test.secret.md)
+### #is_/same_as :: [has_available_test.secret](/_secret/schema-org/Relation/has/has_available_test.secret.md)
 

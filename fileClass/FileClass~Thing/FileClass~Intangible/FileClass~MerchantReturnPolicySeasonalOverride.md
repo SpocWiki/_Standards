@@ -76,17 +76,17 @@ StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.public.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.public.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.internal.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.internal.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.protect.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.protect.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.private.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.private.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.personal.md) 
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.personal.md) 
 
-### [FileClass~MerchantReturnPolicySeasonalOverride.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.secret.md)
+### #is_/same_as :: [FileClass~MerchantReturnPolicySeasonalOverride.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicySeasonalOverride.secret.md)
 

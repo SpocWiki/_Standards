@@ -45,17 +45,17 @@ Organization: Sports team.
 
 ## Confidential Links & Embeds: 
 
-### [sports_team](/_Standards/schema-org/Class/is_a_/organization/sports_organization/sports_team.md) 
+### #is_/same_as :: [sports_team](/_Standards/schema-org/Class/is_a_/organization/sports_organization/sports_team.md) 
 
-### [sports_team.public](/_public/schema-org/Class/is_a_/organization/sports_organization/sports_team.public.md) 
+### #is_/same_as :: [sports_team.public](/_public/schema-org/Class/is_a_/organization/sports_organization/sports_team.public.md) 
 
-### [sports_team.internal](/_internal/schema-org/Class/is_a_/organization/sports_organization/sports_team.internal.md) 
+### #is_/same_as :: [sports_team.internal](/_internal/schema-org/Class/is_a_/organization/sports_organization/sports_team.internal.md) 
 
-### [sports_team.protect](/_protect/schema-org/Class/is_a_/organization/sports_organization/sports_team.protect.md) 
+### #is_/same_as :: [sports_team.protect](/_protect/schema-org/Class/is_a_/organization/sports_organization/sports_team.protect.md) 
 
-### [sports_team.private](/_private/schema-org/Class/is_a_/organization/sports_organization/sports_team.private.md) 
+### #is_/same_as :: [sports_team.private](/_private/schema-org/Class/is_a_/organization/sports_organization/sports_team.private.md) 
 
-### [sports_team.personal](/_personal/schema-org/Class/is_a_/organization/sports_organization/sports_team.personal.md) 
+### #is_/same_as :: [sports_team.personal](/_personal/schema-org/Class/is_a_/organization/sports_organization/sports_team.personal.md) 
 
-### [sports_team.secret](/_secret/schema-org/Class/is_a_/organization/sports_organization/sports_team.secret.md)
+### #is_/same_as :: [sports_team.secret](/_secret/schema-org/Class/is_a_/organization/sports_organization/sports_team.secret.md)
 

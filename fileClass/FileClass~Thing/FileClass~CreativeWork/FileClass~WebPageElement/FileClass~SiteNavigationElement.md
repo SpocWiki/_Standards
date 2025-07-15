@@ -35,17 +35,17 @@ A navigation element of the page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SiteNavigationElement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.md) 
 
-### [FileClass~SiteNavigationElement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.public.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.public.md) 
 
-### [FileClass~SiteNavigationElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.internal.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.internal.md) 
 
-### [FileClass~SiteNavigationElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.protect.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.protect.md) 
 
-### [FileClass~SiteNavigationElement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.private.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.private.md) 
 
-### [FileClass~SiteNavigationElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.personal.md) 
+### #is_/same_as :: [FileClass~SiteNavigationElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.personal.md) 
 
-### [FileClass~SiteNavigationElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.secret.md)
+### #is_/same_as :: [FileClass~SiteNavigationElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.secret.md)
 

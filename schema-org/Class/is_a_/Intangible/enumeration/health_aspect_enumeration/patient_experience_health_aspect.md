@@ -49,17 +49,17 @@ Content about the real life experience of patients or people that have lived a s
 
 ## Confidential Links & Embeds: 
 
-### [patient_experience_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.md) 
+### #is_/same_as :: [patient_experience_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.md) 
 
-### [patient_experience_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.public.md) 
+### #is_/same_as :: [patient_experience_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.public.md) 
 
-### [patient_experience_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.internal.md) 
+### #is_/same_as :: [patient_experience_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.internal.md) 
 
-### [patient_experience_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.protect.md) 
+### #is_/same_as :: [patient_experience_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.protect.md) 
 
-### [patient_experience_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.private.md) 
+### #is_/same_as :: [patient_experience_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.private.md) 
 
-### [patient_experience_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.personal.md) 
+### #is_/same_as :: [patient_experience_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.personal.md) 
 
-### [patient_experience_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.secret.md)
+### #is_/same_as :: [patient_experience_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.secret.md)
 

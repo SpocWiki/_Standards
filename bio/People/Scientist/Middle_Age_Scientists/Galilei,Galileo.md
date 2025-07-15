@@ -193,22 +193,19 @@ ArhivX_LOD: 11875
 > [Wikipedia](https://en.wikipedia.org/wiki/Galileo%20Galilei)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Galilei,Galileo](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.md) 
+### #is_/same_as :: [Galilei,Galileo](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.md) 
 
-### [Galilei,Galileo.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.public.md) 
+### #is_/same_as :: [Galilei,Galileo.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.public.md) 
 
-### [Galilei,Galileo.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal.md) 
+### #is_/same_as :: [Galilei,Galileo.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.internal.md) 
 
-### [Galilei,Galileo.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect.md) 
+### #is_/same_as :: [Galilei,Galileo.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.protect.md) 
 
-### [Galilei,Galileo.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.private.md) 
+### #is_/same_as :: [Galilei,Galileo.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.private.md) 
 
-### [Galilei,Galileo.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal.md) 
+### #is_/same_as :: [Galilei,Galileo.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.personal.md) 
 
-### [Galilei,Galileo.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret.md)
+### #is_/same_as :: [Galilei,Galileo.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Galilei,Galileo.secret.md)
 

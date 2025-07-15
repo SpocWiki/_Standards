@@ -156,17 +156,17 @@ electron_configuration: "[Ar] 3d⁷ 4s²"
 
 ## Confidential Links & Embeds: 
 
-### [Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
+### #is_/same_as :: [Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.md) 
 
-### [Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.public.md) 
+### #is_/same_as :: [Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.public.md) 
 
-### [Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.internal.md) 
+### #is_/same_as :: [Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.internal.md) 
 
-### [Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.protect.md) 
+### #is_/same_as :: [Cobalt.protect](/_protect/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.protect.md) 
 
-### [Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.private.md) 
+### #is_/same_as :: [Cobalt.private](/_private/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.private.md) 
 
-### [Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.personal.md) 
+### #is_/same_as :: [Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.personal.md) 
 
-### [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md)
+### #is_/same_as :: [Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt/Cobalt.secret.md)
 

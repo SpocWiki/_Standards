@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_suitable_for_diet](/_Standards/schema-org/Relation/has/has_suitable_for_diet.md) 
+### #is_/same_as :: [has_suitable_for_diet](/_Standards/schema-org/Relation/has/has_suitable_for_diet.md) 
 
-### [has_suitable_for_diet.public](/_public/schema-org/Relation/has/has_suitable_for_diet.public.md) 
+### #is_/same_as :: [has_suitable_for_diet.public](/_public/schema-org/Relation/has/has_suitable_for_diet.public.md) 
 
-### [has_suitable_for_diet.internal](/_internal/schema-org/Relation/has/has_suitable_for_diet.internal.md) 
+### #is_/same_as :: [has_suitable_for_diet.internal](/_internal/schema-org/Relation/has/has_suitable_for_diet.internal.md) 
 
-### [has_suitable_for_diet.protect](/_protect/schema-org/Relation/has/has_suitable_for_diet.protect.md) 
+### #is_/same_as :: [has_suitable_for_diet.protect](/_protect/schema-org/Relation/has/has_suitable_for_diet.protect.md) 
 
-### [has_suitable_for_diet.private](/_private/schema-org/Relation/has/has_suitable_for_diet.private.md) 
+### #is_/same_as :: [has_suitable_for_diet.private](/_private/schema-org/Relation/has/has_suitable_for_diet.private.md) 
 
-### [has_suitable_for_diet.personal](/_personal/schema-org/Relation/has/has_suitable_for_diet.personal.md) 
+### #is_/same_as :: [has_suitable_for_diet.personal](/_personal/schema-org/Relation/has/has_suitable_for_diet.personal.md) 
 
-### [has_suitable_for_diet.secret](/_secret/schema-org/Relation/has/has_suitable_for_diet.secret.md)
+### #is_/same_as :: [has_suitable_for_diet.secret](/_secret/schema-org/Relation/has/has_suitable_for_diet.secret.md)
 

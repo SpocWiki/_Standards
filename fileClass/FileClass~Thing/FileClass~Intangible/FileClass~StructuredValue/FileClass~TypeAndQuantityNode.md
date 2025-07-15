@@ -87,17 +87,17 @@ UnitText:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TypeAndQuantityNode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.md) 
 
-### [FileClass~TypeAndQuantityNode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.public.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.public.md) 
 
-### [FileClass~TypeAndQuantityNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.internal.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.internal.md) 
 
-### [FileClass~TypeAndQuantityNode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.protect.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.protect.md) 
 
-### [FileClass~TypeAndQuantityNode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.private.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.private.md) 
 
-### [FileClass~TypeAndQuantityNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.personal.md) 
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.personal.md) 
 
-### [FileClass~TypeAndQuantityNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.secret.md)
+### #is_/same_as :: [FileClass~TypeAndQuantityNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~TypeAndQuantityNode.secret.md)
 

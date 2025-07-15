@@ -75,21 +75,19 @@ has_id_wikidata: Q9095
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Clerk%20Maxwell)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Maxwell,James_Clerk](/_Standards/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.md) 
+### #is_/same_as :: [Maxwell,James_Clerk](/_Standards/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.md) 
 
-### [Maxwell,James_Clerk.public](/_public/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.public.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.public](/_public/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.public.md) 
 
-### [Maxwell,James_Clerk.internal](/_internal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.internal](/_internal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.internal.md) 
 
-### [Maxwell,James_Clerk.protect](/_protect/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.protect](/_protect/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.protect.md) 
 
-### [Maxwell,James_Clerk.private](/_private/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.private.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.private](/_private/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.private.md) 
 
-### [Maxwell,James_Clerk.personal](/_personal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal.md) 
+### #is_/same_as :: [Maxwell,James_Clerk.personal](/_personal/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.personal.md) 
 
-### [Maxwell,James_Clerk.secret](/_secret/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret.md)
+### #is_/same_as :: [Maxwell,James_Clerk.secret](/_secret/bio/People/Scientist/Modern_Scientists/Maxwell,James_Clerk.secret.md)
 

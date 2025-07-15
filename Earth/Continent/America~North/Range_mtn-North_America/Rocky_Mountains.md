@@ -71,21 +71,19 @@ Libris_URI: 97mpndwt17dn9kd
 > [Wikipedia](https://en.wikipedia.org/wiki/Rocky%20Mountains) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Rocky_Mountains](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.md) 
+### #is_/same_as :: [Rocky_Mountains](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.md) 
 
-### [Rocky_Mountains.public](/_public/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.public.md) 
+### #is_/same_as :: [Rocky_Mountains.public](/_public/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.public.md) 
 
-### [Rocky_Mountains.internal](/_internal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.internal.md) 
+### #is_/same_as :: [Rocky_Mountains.internal](/_internal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.internal.md) 
 
-### [Rocky_Mountains.protect](/_protect/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.protect.md) 
+### #is_/same_as :: [Rocky_Mountains.protect](/_protect/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.protect.md) 
 
-### [Rocky_Mountains.private](/_private/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.private.md) 
+### #is_/same_as :: [Rocky_Mountains.private](/_private/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.private.md) 
 
-### [Rocky_Mountains.personal](/_personal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.personal.md) 
+### #is_/same_as :: [Rocky_Mountains.personal](/_personal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.personal.md) 
 
-### [Rocky_Mountains.secret](/_secret/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.secret.md)
+### #is_/same_as :: [Rocky_Mountains.secret](/_secret/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.secret.md)
 

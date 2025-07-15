@@ -35,17 +35,17 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PreOrderAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.md) 
+### #is_/same_as :: [FileClass~PreOrderAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.md) 
 
-### [FileClass~PreOrderAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.public.md) 
+### #is_/same_as :: [FileClass~PreOrderAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.public.md) 
 
-### [FileClass~PreOrderAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.internal.md) 
+### #is_/same_as :: [FileClass~PreOrderAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.internal.md) 
 
-### [FileClass~PreOrderAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.protect.md) 
+### #is_/same_as :: [FileClass~PreOrderAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.protect.md) 
 
-### [FileClass~PreOrderAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.private.md) 
+### #is_/same_as :: [FileClass~PreOrderAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.private.md) 
 
-### [FileClass~PreOrderAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.personal.md) 
+### #is_/same_as :: [FileClass~PreOrderAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.personal.md) 
 
-### [FileClass~PreOrderAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.secret.md)
+### #is_/same_as :: [FileClass~PreOrderAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.secret.md)
 

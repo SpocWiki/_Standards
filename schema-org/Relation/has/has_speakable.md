@@ -65,17 +65,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_speakable](/_Standards/schema-org/Relation/has/has_speakable.md) 
+### #is_/same_as :: [has_speakable](/_Standards/schema-org/Relation/has/has_speakable.md) 
 
-### [has_speakable.public](/_public/schema-org/Relation/has/has_speakable.public.md) 
+### #is_/same_as :: [has_speakable.public](/_public/schema-org/Relation/has/has_speakable.public.md) 
 
-### [has_speakable.internal](/_internal/schema-org/Relation/has/has_speakable.internal.md) 
+### #is_/same_as :: [has_speakable.internal](/_internal/schema-org/Relation/has/has_speakable.internal.md) 
 
-### [has_speakable.protect](/_protect/schema-org/Relation/has/has_speakable.protect.md) 
+### #is_/same_as :: [has_speakable.protect](/_protect/schema-org/Relation/has/has_speakable.protect.md) 
 
-### [has_speakable.private](/_private/schema-org/Relation/has/has_speakable.private.md) 
+### #is_/same_as :: [has_speakable.private](/_private/schema-org/Relation/has/has_speakable.private.md) 
 
-### [has_speakable.personal](/_personal/schema-org/Relation/has/has_speakable.personal.md) 
+### #is_/same_as :: [has_speakable.personal](/_personal/schema-org/Relation/has/has_speakable.personal.md) 
 
-### [has_speakable.secret](/_secret/schema-org/Relation/has/has_speakable.secret.md)
+### #is_/same_as :: [has_speakable.secret](/_secret/schema-org/Relation/has/has_speakable.secret.md)
 

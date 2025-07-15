@@ -542,17 +542,17 @@ Capital :: [[Kiew]]
 
 ## Confidential Links & Embeds: 
 
-### [Ukraine](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine.md) 
+### #is_/same_as :: [Ukraine](/_Standards/Earth/Continent/Europe/Europe~East/Ukraine.md) 
 
-### [Ukraine.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine.public.md) 
+### #is_/same_as :: [Ukraine.public](/_public/Earth/Continent/Europe/Europe~East/Ukraine.public.md) 
 
-### [Ukraine.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal.md) 
+### #is_/same_as :: [Ukraine.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal.md) 
 
-### [Ukraine.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine.protect.md) 
+### #is_/same_as :: [Ukraine.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine.protect.md) 
 
-### [Ukraine.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine.private.md) 
+### #is_/same_as :: [Ukraine.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine.private.md) 
 
-### [Ukraine.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal.md) 
+### #is_/same_as :: [Ukraine.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal.md) 
 
-### [Ukraine.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret.md)
+### #is_/same_as :: [Ukraine.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret.md)
 

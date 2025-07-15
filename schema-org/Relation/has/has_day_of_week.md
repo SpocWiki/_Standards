@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_day_of_week](/_Standards/schema-org/Relation/has/has_day_of_week.md) 
+### #is_/same_as :: [has_day_of_week](/_Standards/schema-org/Relation/has/has_day_of_week.md) 
 
-### [has_day_of_week.public](/_public/schema-org/Relation/has/has_day_of_week.public.md) 
+### #is_/same_as :: [has_day_of_week.public](/_public/schema-org/Relation/has/has_day_of_week.public.md) 
 
-### [has_day_of_week.internal](/_internal/schema-org/Relation/has/has_day_of_week.internal.md) 
+### #is_/same_as :: [has_day_of_week.internal](/_internal/schema-org/Relation/has/has_day_of_week.internal.md) 
 
-### [has_day_of_week.protect](/_protect/schema-org/Relation/has/has_day_of_week.protect.md) 
+### #is_/same_as :: [has_day_of_week.protect](/_protect/schema-org/Relation/has/has_day_of_week.protect.md) 
 
-### [has_day_of_week.private](/_private/schema-org/Relation/has/has_day_of_week.private.md) 
+### #is_/same_as :: [has_day_of_week.private](/_private/schema-org/Relation/has/has_day_of_week.private.md) 
 
-### [has_day_of_week.personal](/_personal/schema-org/Relation/has/has_day_of_week.personal.md) 
+### #is_/same_as :: [has_day_of_week.personal](/_personal/schema-org/Relation/has/has_day_of_week.personal.md) 
 
-### [has_day_of_week.secret](/_secret/schema-org/Relation/has/has_day_of_week.secret.md)
+### #is_/same_as :: [has_day_of_week.secret](/_secret/schema-org/Relation/has/has_day_of_week.secret.md)
 

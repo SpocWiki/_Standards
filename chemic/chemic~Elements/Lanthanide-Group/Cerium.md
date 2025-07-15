@@ -236,17 +236,17 @@ atomic_number: 58
 
 ## Confidential Links & Embeds: 
 
-### [Cerium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
+### #is_/same_as :: [Cerium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
 
-### [Cerium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.public.md) 
+### #is_/same_as :: [Cerium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.public.md) 
 
-### [Cerium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Cerium.internal.md) 
+### #is_/same_as :: [Cerium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Cerium.internal.md) 
 
-### [Cerium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Cerium.protect.md) 
+### #is_/same_as :: [Cerium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Cerium.protect.md) 
 
-### [Cerium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Cerium.private.md) 
+### #is_/same_as :: [Cerium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Cerium.private.md) 
 
-### [Cerium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Cerium.personal.md) 
+### #is_/same_as :: [Cerium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Cerium.personal.md) 
 
-### [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md)
+### #is_/same_as :: [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md)
 

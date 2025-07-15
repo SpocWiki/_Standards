@@ -45,17 +45,17 @@ A train station.
 
 ## Confidential Links & Embeds: 
 
-### [train_station](/_Standards/schema-org/Class/is_a_/place/civic_structure/train_station.md) 
+### #is_/same_as :: [train_station](/_Standards/schema-org/Class/is_a_/place/civic_structure/train_station.md) 
 
-### [train_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/train_station.public.md) 
+### #is_/same_as :: [train_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/train_station.public.md) 
 
-### [train_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/train_station.internal.md) 
+### #is_/same_as :: [train_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/train_station.internal.md) 
 
-### [train_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/train_station.protect.md) 
+### #is_/same_as :: [train_station.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/train_station.protect.md) 
 
-### [train_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/train_station.private.md) 
+### #is_/same_as :: [train_station.private](/_private/schema-org/Class/is_a_/place/civic_structure/train_station.private.md) 
 
-### [train_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/train_station.personal.md) 
+### #is_/same_as :: [train_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/train_station.personal.md) 
 
-### [train_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/train_station.secret.md)
+### #is_/same_as :: [train_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/train_station.secret.md)
 

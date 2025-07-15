@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_holding_archive](/_Standards/schema-org/Relation/is/is_holding_archive.md) 
+### #is_/same_as :: [is_holding_archive](/_Standards/schema-org/Relation/is/is_holding_archive.md) 
 
-### [is_holding_archive.public](/_public/schema-org/Relation/is/is_holding_archive.public.md) 
+### #is_/same_as :: [is_holding_archive.public](/_public/schema-org/Relation/is/is_holding_archive.public.md) 
 
-### [is_holding_archive.internal](/_internal/schema-org/Relation/is/is_holding_archive.internal.md) 
+### #is_/same_as :: [is_holding_archive.internal](/_internal/schema-org/Relation/is/is_holding_archive.internal.md) 
 
-### [is_holding_archive.protect](/_protect/schema-org/Relation/is/is_holding_archive.protect.md) 
+### #is_/same_as :: [is_holding_archive.protect](/_protect/schema-org/Relation/is/is_holding_archive.protect.md) 
 
-### [is_holding_archive.private](/_private/schema-org/Relation/is/is_holding_archive.private.md) 
+### #is_/same_as :: [is_holding_archive.private](/_private/schema-org/Relation/is/is_holding_archive.private.md) 
 
-### [is_holding_archive.personal](/_personal/schema-org/Relation/is/is_holding_archive.personal.md) 
+### #is_/same_as :: [is_holding_archive.personal](/_personal/schema-org/Relation/is/is_holding_archive.personal.md) 
 
-### [is_holding_archive.secret](/_secret/schema-org/Relation/is/is_holding_archive.secret.md)
+### #is_/same_as :: [is_holding_archive.secret](/_secret/schema-org/Relation/is/is_holding_archive.secret.md)
 

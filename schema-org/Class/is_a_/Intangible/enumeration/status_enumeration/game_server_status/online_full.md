@@ -47,17 +47,17 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 ## Confidential Links & Embeds: 
 
-### [online_full](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.md) 
+### #is_/same_as :: [online_full](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.md) 
 
-### [online_full.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.public.md) 
+### #is_/same_as :: [online_full.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.public.md) 
 
-### [online_full.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md) 
+### #is_/same_as :: [online_full.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md) 
 
-### [online_full.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.protect.md) 
+### #is_/same_as :: [online_full.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.protect.md) 
 
-### [online_full.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.private.md) 
+### #is_/same_as :: [online_full.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.private.md) 
 
-### [online_full.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.personal.md) 
+### #is_/same_as :: [online_full.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.personal.md) 
 
-### [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md)
+### #is_/same_as :: [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md)
 

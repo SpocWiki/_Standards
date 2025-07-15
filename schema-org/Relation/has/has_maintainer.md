@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_maintainer](/_Standards/schema-org/Relation/has/has_maintainer.md) 
+### #is_/same_as :: [has_maintainer](/_Standards/schema-org/Relation/has/has_maintainer.md) 
 
-### [has_maintainer.public](/_public/schema-org/Relation/has/has_maintainer.public.md) 
+### #is_/same_as :: [has_maintainer.public](/_public/schema-org/Relation/has/has_maintainer.public.md) 
 
-### [has_maintainer.internal](/_internal/schema-org/Relation/has/has_maintainer.internal.md) 
+### #is_/same_as :: [has_maintainer.internal](/_internal/schema-org/Relation/has/has_maintainer.internal.md) 
 
-### [has_maintainer.protect](/_protect/schema-org/Relation/has/has_maintainer.protect.md) 
+### #is_/same_as :: [has_maintainer.protect](/_protect/schema-org/Relation/has/has_maintainer.protect.md) 
 
-### [has_maintainer.private](/_private/schema-org/Relation/has/has_maintainer.private.md) 
+### #is_/same_as :: [has_maintainer.private](/_private/schema-org/Relation/has/has_maintainer.private.md) 
 
-### [has_maintainer.personal](/_personal/schema-org/Relation/has/has_maintainer.personal.md) 
+### #is_/same_as :: [has_maintainer.personal](/_personal/schema-org/Relation/has/has_maintainer.personal.md) 
 
-### [has_maintainer.secret](/_secret/schema-org/Relation/has/has_maintainer.secret.md)
+### #is_/same_as :: [has_maintainer.secret](/_secret/schema-org/Relation/has/has_maintainer.secret.md)
 

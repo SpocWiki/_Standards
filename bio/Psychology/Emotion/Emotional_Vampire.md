@@ -14,23 +14,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychic%20vampire) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Emotional_Vampire](/_Standards/bio/Psychology/Emotion/Emotional_Vampire.md) 
+### #is_/same_as :: [Emotional_Vampire](/_Standards/bio/Psychology/Emotion/Emotional_Vampire.md) 
 
-### [Emotional_Vampire.public](/_public/bio/Psychology/Emotion/Emotional_Vampire.public.md) 
+### #is_/same_as :: [Emotional_Vampire.public](/_public/bio/Psychology/Emotion/Emotional_Vampire.public.md) 
 
-### [Emotional_Vampire.internal](/_internal/bio/Psychology/Emotion/Emotional_Vampire.internal.md) 
+### #is_/same_as :: [Emotional_Vampire.internal](/_internal/bio/Psychology/Emotion/Emotional_Vampire.internal.md) 
 
-### [Emotional_Vampire.protect](/_protect/bio/Psychology/Emotion/Emotional_Vampire.protect.md) 
+### #is_/same_as :: [Emotional_Vampire.protect](/_protect/bio/Psychology/Emotion/Emotional_Vampire.protect.md) 
 
-### [Emotional_Vampire.private](/_private/bio/Psychology/Emotion/Emotional_Vampire.private.md) 
+### #is_/same_as :: [Emotional_Vampire.private](/_private/bio/Psychology/Emotion/Emotional_Vampire.private.md) 
 
-### [Emotional_Vampire.personal](/_personal/bio/Psychology/Emotion/Emotional_Vampire.personal.md) 
+### #is_/same_as :: [Emotional_Vampire.personal](/_personal/bio/Psychology/Emotion/Emotional_Vampire.personal.md) 
 
-### [Emotional_Vampire.secret](/_secret/bio/Psychology/Emotion/Emotional_Vampire.secret.md)
+### #is_/same_as :: [Emotional_Vampire.secret](/_secret/bio/Psychology/Emotion/Emotional_Vampire.secret.md)
 

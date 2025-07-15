@@ -55,17 +55,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [follow_action](/_Standards/schema-org/Class/is_a_/action/interact_action/follow_action.md) 
+### #is_/same_as :: [follow_action](/_Standards/schema-org/Class/is_a_/action/interact_action/follow_action.md) 
 
-### [follow_action.public](/_public/schema-org/Class/is_a_/action/interact_action/follow_action.public.md) 
+### #is_/same_as :: [follow_action.public](/_public/schema-org/Class/is_a_/action/interact_action/follow_action.public.md) 
 
-### [follow_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/follow_action.internal.md) 
+### #is_/same_as :: [follow_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/follow_action.internal.md) 
 
-### [follow_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/follow_action.protect.md) 
+### #is_/same_as :: [follow_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/follow_action.protect.md) 
 
-### [follow_action.private](/_private/schema-org/Class/is_a_/action/interact_action/follow_action.private.md) 
+### #is_/same_as :: [follow_action.private](/_private/schema-org/Class/is_a_/action/interact_action/follow_action.private.md) 
 
-### [follow_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/follow_action.personal.md) 
+### #is_/same_as :: [follow_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/follow_action.personal.md) 
 
-### [follow_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/follow_action.secret.md)
+### #is_/same_as :: [follow_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/follow_action.secret.md)
 

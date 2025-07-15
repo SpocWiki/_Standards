@@ -45,17 +45,17 @@ A trip on a commercial bus line.
 
 ## Confidential Links & Embeds: 
 
-### [bus_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/bus_trip.md) 
+### #is_/same_as :: [bus_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/bus_trip.md) 
 
-### [bus_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/bus_trip.public.md) 
+### #is_/same_as :: [bus_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/bus_trip.public.md) 
 
-### [bus_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/bus_trip.internal.md) 
+### #is_/same_as :: [bus_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/bus_trip.internal.md) 
 
-### [bus_trip.protect](/_protect/schema-org/Class/is_a_/Intangible/trip/bus_trip.protect.md) 
+### #is_/same_as :: [bus_trip.protect](/_protect/schema-org/Class/is_a_/Intangible/trip/bus_trip.protect.md) 
 
-### [bus_trip.private](/_private/schema-org/Class/is_a_/Intangible/trip/bus_trip.private.md) 
+### #is_/same_as :: [bus_trip.private](/_private/schema-org/Class/is_a_/Intangible/trip/bus_trip.private.md) 
 
-### [bus_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/bus_trip.personal.md) 
+### #is_/same_as :: [bus_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/bus_trip.personal.md) 
 
-### [bus_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/bus_trip.secret.md)
+### #is_/same_as :: [bus_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/bus_trip.secret.md)
 

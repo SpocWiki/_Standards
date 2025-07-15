@@ -46,17 +46,17 @@ Properties that take Distances as values are of the form '<Number> <Length unit 
 
 ## Confidential Links & Embeds: 
 
-### [distance](/_Standards/schema-org/Predicate/Quantity/distance.md) 
+### #is_/same_as :: [distance](/_Standards/schema-org/Predicate/Quantity/distance.md) 
 
-### [distance.public](/_public/schema-org/Predicate/Quantity/distance.public.md) 
+### #is_/same_as :: [distance.public](/_public/schema-org/Predicate/Quantity/distance.public.md) 
 
-### [distance.internal](/_internal/schema-org/Predicate/Quantity/distance.internal.md) 
+### #is_/same_as :: [distance.internal](/_internal/schema-org/Predicate/Quantity/distance.internal.md) 
 
-### [distance.protect](/_protect/schema-org/Predicate/Quantity/distance.protect.md) 
+### #is_/same_as :: [distance.protect](/_protect/schema-org/Predicate/Quantity/distance.protect.md) 
 
-### [distance.private](/_private/schema-org/Predicate/Quantity/distance.private.md) 
+### #is_/same_as :: [distance.private](/_private/schema-org/Predicate/Quantity/distance.private.md) 
 
-### [distance.personal](/_personal/schema-org/Predicate/Quantity/distance.personal.md) 
+### #is_/same_as :: [distance.personal](/_personal/schema-org/Predicate/Quantity/distance.personal.md) 
 
-### [distance.secret](/_secret/schema-org/Predicate/Quantity/distance.secret.md)
+### #is_/same_as :: [distance.secret](/_secret/schema-org/Predicate/Quantity/distance.secret.md)
 

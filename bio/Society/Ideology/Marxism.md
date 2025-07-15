@@ -45,21 +45,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20and%20Engels.j
 > [Wikipedia](https://en.wikipedia.org/wiki/Marxism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Marxism](/_Standards/bio/Society/Ideology/Marxism.md) 
+### #is_/same_as :: [Marxism](/_Standards/bio/Society/Ideology/Marxism.md) 
 
-### [Marxism.public](/_public/bio/Society/Ideology/Marxism.public.md) 
+### #is_/same_as :: [Marxism.public](/_public/bio/Society/Ideology/Marxism.public.md) 
 
-### [Marxism.internal](/_internal/bio/Society/Ideology/Marxism.internal.md) 
+### #is_/same_as :: [Marxism.internal](/_internal/bio/Society/Ideology/Marxism.internal.md) 
 
-### [Marxism.protect](/_protect/bio/Society/Ideology/Marxism.protect.md) 
+### #is_/same_as :: [Marxism.protect](/_protect/bio/Society/Ideology/Marxism.protect.md) 
 
-### [Marxism.private](/_private/bio/Society/Ideology/Marxism.private.md) 
+### #is_/same_as :: [Marxism.private](/_private/bio/Society/Ideology/Marxism.private.md) 
 
-### [Marxism.personal](/_personal/bio/Society/Ideology/Marxism.personal.md) 
+### #is_/same_as :: [Marxism.personal](/_personal/bio/Society/Ideology/Marxism.personal.md) 
 
-### [Marxism.secret](/_secret/bio/Society/Ideology/Marxism.secret.md)
+### #is_/same_as :: [Marxism.secret](/_secret/bio/Society/Ideology/Marxism.secret.md)
 

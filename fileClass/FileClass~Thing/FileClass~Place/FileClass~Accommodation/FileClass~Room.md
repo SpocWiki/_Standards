@@ -40,17 +40,17 @@ usually separated from other spaces by interior walls
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Room](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.md) 
+### #is_/same_as :: [FileClass~Room](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.md) 
 
-### [FileClass~Room.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.public.md) 
+### #is_/same_as :: [FileClass~Room.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.public.md) 
 
-### [FileClass~Room.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.internal.md) 
+### #is_/same_as :: [FileClass~Room.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.internal.md) 
 
-### [FileClass~Room.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.protect.md) 
+### #is_/same_as :: [FileClass~Room.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.protect.md) 
 
-### [FileClass~Room.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.private.md) 
+### #is_/same_as :: [FileClass~Room.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.private.md) 
 
-### [FileClass~Room.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.personal.md) 
+### #is_/same_as :: [FileClass~Room.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.personal.md) 
 
-### [FileClass~Room.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.secret.md)
+### #is_/same_as :: [FileClass~Room.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.secret.md)
 

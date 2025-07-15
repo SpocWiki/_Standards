@@ -496,17 +496,17 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 
 ## Confidential Links & Embeds: 
 
-### [Macedonia~North](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North.md) 
+### #is_/same_as :: [Macedonia~North](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North.md) 
 
-### [Macedonia~North.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public.md) 
+### #is_/same_as :: [Macedonia~North.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public.md) 
 
-### [Macedonia~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal.md) 
+### #is_/same_as :: [Macedonia~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal.md) 
 
-### [Macedonia~North.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North.protect.md) 
+### #is_/same_as :: [Macedonia~North.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North.protect.md) 
 
-### [Macedonia~North.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North.private.md) 
+### #is_/same_as :: [Macedonia~North.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North.private.md) 
 
-### [Macedonia~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal.md) 
+### #is_/same_as :: [Macedonia~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal.md) 
 
-### [Macedonia~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret.md)
+### #is_/same_as :: [Macedonia~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret.md)
 

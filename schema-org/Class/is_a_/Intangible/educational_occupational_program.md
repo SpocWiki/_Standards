@@ -49,17 +49,17 @@ A program offered by an institution which determines the learning progress to ac
 
 ## Confidential Links & Embeds: 
 
-### [educational_occupational_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program.md) 
+### #is_/same_as :: [educational_occupational_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program.md) 
 
-### [educational_occupational_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program.public.md) 
+### #is_/same_as :: [educational_occupational_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program.public.md) 
 
-### [educational_occupational_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program.internal.md) 
+### #is_/same_as :: [educational_occupational_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program.internal.md) 
 
-### [educational_occupational_program.protect](/_protect/schema-org/Class/is_a_/Intangible/educational_occupational_program.protect.md) 
+### #is_/same_as :: [educational_occupational_program.protect](/_protect/schema-org/Class/is_a_/Intangible/educational_occupational_program.protect.md) 
 
-### [educational_occupational_program.private](/_private/schema-org/Class/is_a_/Intangible/educational_occupational_program.private.md) 
+### #is_/same_as :: [educational_occupational_program.private](/_private/schema-org/Class/is_a_/Intangible/educational_occupational_program.private.md) 
 
-### [educational_occupational_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program.personal.md) 
+### #is_/same_as :: [educational_occupational_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program.personal.md) 
 
-### [educational_occupational_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program.secret.md)
+### #is_/same_as :: [educational_occupational_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program.secret.md)
 

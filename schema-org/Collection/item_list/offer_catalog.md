@@ -45,17 +45,17 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 
 ## Confidential Links & Embeds: 
 
-### [offer_catalog](/_Standards/schema-org/Collection/item_list/offer_catalog.md) 
+### #is_/same_as :: [offer_catalog](/_Standards/schema-org/Collection/item_list/offer_catalog.md) 
 
-### [offer_catalog.public](/_public/schema-org/Collection/item_list/offer_catalog.public.md) 
+### #is_/same_as :: [offer_catalog.public](/_public/schema-org/Collection/item_list/offer_catalog.public.md) 
 
-### [offer_catalog.internal](/_internal/schema-org/Collection/item_list/offer_catalog.internal.md) 
+### #is_/same_as :: [offer_catalog.internal](/_internal/schema-org/Collection/item_list/offer_catalog.internal.md) 
 
-### [offer_catalog.protect](/_protect/schema-org/Collection/item_list/offer_catalog.protect.md) 
+### #is_/same_as :: [offer_catalog.protect](/_protect/schema-org/Collection/item_list/offer_catalog.protect.md) 
 
-### [offer_catalog.private](/_private/schema-org/Collection/item_list/offer_catalog.private.md) 
+### #is_/same_as :: [offer_catalog.private](/_private/schema-org/Collection/item_list/offer_catalog.private.md) 
 
-### [offer_catalog.personal](/_personal/schema-org/Collection/item_list/offer_catalog.personal.md) 
+### #is_/same_as :: [offer_catalog.personal](/_personal/schema-org/Collection/item_list/offer_catalog.personal.md) 
 
-### [offer_catalog.secret](/_secret/schema-org/Collection/item_list/offer_catalog.secret.md)
+### #is_/same_as :: [offer_catalog.secret](/_secret/schema-org/Collection/item_list/offer_catalog.secret.md)
 

@@ -46,17 +46,17 @@ Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DonateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.md) 
+### #is_/same_as :: [FileClass~DonateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.md) 
 
-### [FileClass~DonateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.public.md) 
+### #is_/same_as :: [FileClass~DonateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.public.md) 
 
-### [FileClass~DonateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.internal.md) 
+### #is_/same_as :: [FileClass~DonateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.internal.md) 
 
-### [FileClass~DonateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.protect.md) 
+### #is_/same_as :: [FileClass~DonateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.protect.md) 
 
-### [FileClass~DonateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.private.md) 
+### #is_/same_as :: [FileClass~DonateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.private.md) 
 
-### [FileClass~DonateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.personal.md) 
+### #is_/same_as :: [FileClass~DonateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.personal.md) 
 
-### [FileClass~DonateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.secret.md)
+### #is_/same_as :: [FileClass~DonateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~DonateAction.secret.md)
 

@@ -45,17 +45,17 @@ A class of medical drugs, e.g., statins. Classes can represent general pharmacol
 
 ## Confidential Links & Embeds: 
 
-### [drug_class](/_Standards/schema-org/Class/is_a_/medical_entity/drug_class.md) 
+### #is_/same_as :: [drug_class](/_Standards/schema-org/Class/is_a_/medical_entity/drug_class.md) 
 
-### [drug_class.public](/_public/schema-org/Class/is_a_/medical_entity/drug_class.public.md) 
+### #is_/same_as :: [drug_class.public](/_public/schema-org/Class/is_a_/medical_entity/drug_class.public.md) 
 
-### [drug_class.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_class.internal.md) 
+### #is_/same_as :: [drug_class.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_class.internal.md) 
 
-### [drug_class.protect](/_protect/schema-org/Class/is_a_/medical_entity/drug_class.protect.md) 
+### #is_/same_as :: [drug_class.protect](/_protect/schema-org/Class/is_a_/medical_entity/drug_class.protect.md) 
 
-### [drug_class.private](/_private/schema-org/Class/is_a_/medical_entity/drug_class.private.md) 
+### #is_/same_as :: [drug_class.private](/_private/schema-org/Class/is_a_/medical_entity/drug_class.private.md) 
 
-### [drug_class.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_class.personal.md) 
+### #is_/same_as :: [drug_class.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_class.personal.md) 
 
-### [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md)
+### #is_/same_as :: [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md)
 

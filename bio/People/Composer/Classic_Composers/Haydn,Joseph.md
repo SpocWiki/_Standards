@@ -22,21 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Haydn)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Haydn,Joseph](/_Standards/bio/People/Composer/Classic_Composers/Haydn,Joseph.md) 
+### #is_/same_as :: [Haydn,Joseph](/_Standards/bio/People/Composer/Classic_Composers/Haydn,Joseph.md) 
 
-### [Haydn,Joseph.public](/_public/bio/People/Composer/Classic_Composers/Haydn,Joseph.public.md) 
+### #is_/same_as :: [Haydn,Joseph.public](/_public/bio/People/Composer/Classic_Composers/Haydn,Joseph.public.md) 
 
-### [Haydn,Joseph.internal](/_internal/bio/People/Composer/Classic_Composers/Haydn,Joseph.internal.md) 
+### #is_/same_as :: [Haydn,Joseph.internal](/_internal/bio/People/Composer/Classic_Composers/Haydn,Joseph.internal.md) 
 
-### [Haydn,Joseph.protect](/_protect/bio/People/Composer/Classic_Composers/Haydn,Joseph.protect.md) 
+### #is_/same_as :: [Haydn,Joseph.protect](/_protect/bio/People/Composer/Classic_Composers/Haydn,Joseph.protect.md) 
 
-### [Haydn,Joseph.private](/_private/bio/People/Composer/Classic_Composers/Haydn,Joseph.private.md) 
+### #is_/same_as :: [Haydn,Joseph.private](/_private/bio/People/Composer/Classic_Composers/Haydn,Joseph.private.md) 
 
-### [Haydn,Joseph.personal](/_personal/bio/People/Composer/Classic_Composers/Haydn,Joseph.personal.md) 
+### #is_/same_as :: [Haydn,Joseph.personal](/_personal/bio/People/Composer/Classic_Composers/Haydn,Joseph.personal.md) 
 
-### [Haydn,Joseph.secret](/_secret/bio/People/Composer/Classic_Composers/Haydn,Joseph.secret.md)
+### #is_/same_as :: [Haydn,Joseph.secret](/_secret/bio/People/Composer/Classic_Composers/Haydn,Joseph.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_in_article_section](/_Standards/schema-org/Property/Texts/is_in_article_section.md) 
+### #is_/same_as :: [is_in_article_section](/_Standards/schema-org/Property/Texts/is_in_article_section.md) 
 
-### [is_in_article_section.public](/_public/schema-org/Property/Texts/is_in_article_section.public.md) 
+### #is_/same_as :: [is_in_article_section.public](/_public/schema-org/Property/Texts/is_in_article_section.public.md) 
 
-### [is_in_article_section.internal](/_internal/schema-org/Property/Texts/is_in_article_section.internal.md) 
+### #is_/same_as :: [is_in_article_section.internal](/_internal/schema-org/Property/Texts/is_in_article_section.internal.md) 
 
-### [is_in_article_section.protect](/_protect/schema-org/Property/Texts/is_in_article_section.protect.md) 
+### #is_/same_as :: [is_in_article_section.protect](/_protect/schema-org/Property/Texts/is_in_article_section.protect.md) 
 
-### [is_in_article_section.private](/_private/schema-org/Property/Texts/is_in_article_section.private.md) 
+### #is_/same_as :: [is_in_article_section.private](/_private/schema-org/Property/Texts/is_in_article_section.private.md) 
 
-### [is_in_article_section.personal](/_personal/schema-org/Property/Texts/is_in_article_section.personal.md) 
+### #is_/same_as :: [is_in_article_section.personal](/_personal/schema-org/Property/Texts/is_in_article_section.personal.md) 
 
-### [is_in_article_section.secret](/_secret/schema-org/Property/Texts/is_in_article_section.secret.md)
+### #is_/same_as :: [is_in_article_section.secret](/_secret/schema-org/Property/Texts/is_in_article_section.secret.md)
 

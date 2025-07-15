@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_available_in](/_Standards/schema-org/Relation/is/is_available_in.md) 
+### #is_/same_as :: [is_available_in](/_Standards/schema-org/Relation/is/is_available_in.md) 
 
-### [is_available_in.public](/_public/schema-org/Relation/is/is_available_in.public.md) 
+### #is_/same_as :: [is_available_in.public](/_public/schema-org/Relation/is/is_available_in.public.md) 
 
-### [is_available_in.internal](/_internal/schema-org/Relation/is/is_available_in.internal.md) 
+### #is_/same_as :: [is_available_in.internal](/_internal/schema-org/Relation/is/is_available_in.internal.md) 
 
-### [is_available_in.protect](/_protect/schema-org/Relation/is/is_available_in.protect.md) 
+### #is_/same_as :: [is_available_in.protect](/_protect/schema-org/Relation/is/is_available_in.protect.md) 
 
-### [is_available_in.private](/_private/schema-org/Relation/is/is_available_in.private.md) 
+### #is_/same_as :: [is_available_in.private](/_private/schema-org/Relation/is/is_available_in.private.md) 
 
-### [is_available_in.personal](/_personal/schema-org/Relation/is/is_available_in.personal.md) 
+### #is_/same_as :: [is_available_in.personal](/_personal/schema-org/Relation/is/is_available_in.personal.md) 
 
-### [is_available_in.secret](/_secret/schema-org/Relation/is/is_available_in.secret.md)
+### #is_/same_as :: [is_available_in.secret](/_secret/schema-org/Relation/is/is_available_in.secret.md)
 

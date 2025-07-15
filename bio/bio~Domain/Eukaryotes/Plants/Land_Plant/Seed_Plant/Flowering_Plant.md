@@ -416,22 +416,19 @@ Comments          (Euangiosperms, Fabaceae)
 Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Flowering_Plant](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.md) 
+### #is_/same_as :: [Flowering_Plant](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.md) 
 
-### [Flowering_Plant.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.public.md) 
+### #is_/same_as :: [Flowering_Plant.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.public.md) 
 
-### [Flowering_Plant.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.internal.md) 
+### #is_/same_as :: [Flowering_Plant.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.internal.md) 
 
-### [Flowering_Plant.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.protect.md) 
+### #is_/same_as :: [Flowering_Plant.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.protect.md) 
 
-### [Flowering_Plant.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.private.md) 
+### #is_/same_as :: [Flowering_Plant.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.private.md) 
 
-### [Flowering_Plant.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.personal.md) 
+### #is_/same_as :: [Flowering_Plant.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.personal.md) 
 
-### [Flowering_Plant.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.secret.md)
+### #is_/same_as :: [Flowering_Plant.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant.secret.md)
 

@@ -51,22 +51,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Wolfgang%20von%20Goethe)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Goethe,Johann_Wolfgang_von](/_Standards/bio/People/Writer/Goethe,Johann_Wolfgang_von.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von](/_Standards/bio/People/Writer/Goethe,Johann_Wolfgang_von.md) 
 
-### [Goethe,Johann_Wolfgang_von.public](/_public/bio/People/Writer/Goethe,Johann_Wolfgang_von.public.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.public](/_public/bio/People/Writer/Goethe,Johann_Wolfgang_von.public.md) 
 
-### [Goethe,Johann_Wolfgang_von.internal](/_internal/bio/People/Writer/Goethe,Johann_Wolfgang_von.internal.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.internal](/_internal/bio/People/Writer/Goethe,Johann_Wolfgang_von.internal.md) 
 
-### [Goethe,Johann_Wolfgang_von.protect](/_protect/bio/People/Writer/Goethe,Johann_Wolfgang_von.protect.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.protect](/_protect/bio/People/Writer/Goethe,Johann_Wolfgang_von.protect.md) 
 
-### [Goethe,Johann_Wolfgang_von.private](/_private/bio/People/Writer/Goethe,Johann_Wolfgang_von.private.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.private](/_private/bio/People/Writer/Goethe,Johann_Wolfgang_von.private.md) 
 
-### [Goethe,Johann_Wolfgang_von.personal](/_personal/bio/People/Writer/Goethe,Johann_Wolfgang_von.personal.md) 
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.personal](/_personal/bio/People/Writer/Goethe,Johann_Wolfgang_von.personal.md) 
 
-### [Goethe,Johann_Wolfgang_von.secret](/_secret/bio/People/Writer/Goethe,Johann_Wolfgang_von.secret.md)
+### #is_/same_as :: [Goethe,Johann_Wolfgang_von.secret](/_secret/bio/People/Writer/Goethe,Johann_Wolfgang_von.secret.md)
 

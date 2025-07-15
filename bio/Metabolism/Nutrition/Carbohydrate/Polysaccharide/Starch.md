@@ -106,24 +106,19 @@ FoodEx2_code: A068D
 > [Wikipedia](https://en.wikipedia.org/wiki/Starch)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Starch](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.md) 
+### #is_/same_as :: [Starch](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.md) 
 
-### [Starch.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public.md) 
+### #is_/same_as :: [Starch.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.public.md) 
 
-### [Starch.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.internal.md) 
+### #is_/same_as :: [Starch.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.internal.md) 
 
-### [Starch.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.protect.md) 
+### #is_/same_as :: [Starch.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.protect.md) 
 
-### [Starch.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.private.md) 
+### #is_/same_as :: [Starch.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.private.md) 
 
-### [Starch.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.personal.md) 
+### #is_/same_as :: [Starch.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.personal.md) 
 
-### [Starch.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.secret.md)
+### #is_/same_as :: [Starch.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Starch.secret.md)
 

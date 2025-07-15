@@ -72,22 +72,19 @@ OmegaWiki_Defined_Meaning: 673352
 > [Wikipedia](https://en.wikipedia.org/wiki/Weapon) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Weapon](/_Standards/bio/Society/Military/Military_Engineering/Weapon.md) 
+### #is_/same_as :: [Weapon](/_Standards/bio/Society/Military/Military_Engineering/Weapon.md) 
 
-### [Weapon.public](/_public/bio/Society/Military/Military_Engineering/Weapon.public.md) 
+### #is_/same_as :: [Weapon.public](/_public/bio/Society/Military/Military_Engineering/Weapon.public.md) 
 
-### [Weapon.internal](/_internal/bio/Society/Military/Military_Engineering/Weapon.internal.md) 
+### #is_/same_as :: [Weapon.internal](/_internal/bio/Society/Military/Military_Engineering/Weapon.internal.md) 
 
-### [Weapon.protect](/_protect/bio/Society/Military/Military_Engineering/Weapon.protect.md) 
+### #is_/same_as :: [Weapon.protect](/_protect/bio/Society/Military/Military_Engineering/Weapon.protect.md) 
 
-### [Weapon.private](/_private/bio/Society/Military/Military_Engineering/Weapon.private.md) 
+### #is_/same_as :: [Weapon.private](/_private/bio/Society/Military/Military_Engineering/Weapon.private.md) 
 
-### [Weapon.personal](/_personal/bio/Society/Military/Military_Engineering/Weapon.personal.md) 
+### #is_/same_as :: [Weapon.personal](/_personal/bio/Society/Military/Military_Engineering/Weapon.personal.md) 
 
-### [Weapon.secret](/_secret/bio/Society/Military/Military_Engineering/Weapon.secret.md)
+### #is_/same_as :: [Weapon.secret](/_secret/bio/Society/Military/Military_Engineering/Weapon.secret.md)
 

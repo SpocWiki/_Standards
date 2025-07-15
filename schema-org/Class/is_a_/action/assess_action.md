@@ -47,17 +47,17 @@ The act of forming one's opinion, reaction or sentiment.
 
 ## Confidential Links & Embeds: 
 
-### [assess_action](/_Standards/schema-org/Class/is_a_/action/assess_action.md) 
+### #is_/same_as :: [assess_action](/_Standards/schema-org/Class/is_a_/action/assess_action.md) 
 
-### [assess_action.public](/_public/schema-org/Class/is_a_/action/assess_action.public.md) 
+### #is_/same_as :: [assess_action.public](/_public/schema-org/Class/is_a_/action/assess_action.public.md) 
 
-### [assess_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action.internal.md) 
+### #is_/same_as :: [assess_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action.internal.md) 
 
-### [assess_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action.protect.md) 
+### #is_/same_as :: [assess_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action.protect.md) 
 
-### [assess_action.private](/_private/schema-org/Class/is_a_/action/assess_action.private.md) 
+### #is_/same_as :: [assess_action.private](/_private/schema-org/Class/is_a_/action/assess_action.private.md) 
 
-### [assess_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action.personal.md) 
+### #is_/same_as :: [assess_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action.personal.md) 
 
-### [assess_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action.secret.md)
+### #is_/same_as :: [assess_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action.secret.md)
 

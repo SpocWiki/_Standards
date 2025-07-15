@@ -45,17 +45,17 @@ The act of distributing content to people for their amusement or edification.
 
 ## Confidential Links & Embeds: 
 
-### [share_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.md) 
+### #is_/same_as :: [share_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.md) 
 
-### [share_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.public.md) 
+### #is_/same_as :: [share_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.public.md) 
 
-### [share_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.internal.md) 
+### #is_/same_as :: [share_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.internal.md) 
 
-### [share_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.protect.md) 
+### #is_/same_as :: [share_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.protect.md) 
 
-### [share_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.private.md) 
+### #is_/same_as :: [share_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.private.md) 
 
-### [share_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.personal.md) 
+### #is_/same_as :: [share_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.personal.md) 
 
-### [share_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.secret.md)
+### #is_/same_as :: [share_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/share_action.secret.md)
 

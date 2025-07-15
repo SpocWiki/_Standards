@@ -315,17 +315,17 @@ markerFolder: ./Kosovo//
 
 ## Confidential Links & Embeds: 
 
-### [Kosovo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo.md) 
+### #is_/same_as :: [Kosovo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo.md) 
 
-### [Kosovo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo.public.md) 
+### #is_/same_as :: [Kosovo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo.public.md) 
 
-### [Kosovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo.internal.md) 
+### #is_/same_as :: [Kosovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo.internal.md) 
 
-### [Kosovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo.protect.md) 
+### #is_/same_as :: [Kosovo.protect](/_protect/Earth/Continent/Europe/Europe~South/Kosovo.protect.md) 
 
-### [Kosovo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo.private.md) 
+### #is_/same_as :: [Kosovo.private](/_private/Earth/Continent/Europe/Europe~South/Kosovo.private.md) 
 
-### [Kosovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo.personal.md) 
+### #is_/same_as :: [Kosovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo.personal.md) 
 
-### [Kosovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret.md)
+### #is_/same_as :: [Kosovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret.md)
 

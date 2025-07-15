@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_browser_requirements](/_Standards/schema-org/Property/Texts/has_browser_requirements.md) 
+### #is_/same_as :: [has_browser_requirements](/_Standards/schema-org/Property/Texts/has_browser_requirements.md) 
 
-### [has_browser_requirements.public](/_public/schema-org/Property/Texts/has_browser_requirements.public.md) 
+### #is_/same_as :: [has_browser_requirements.public](/_public/schema-org/Property/Texts/has_browser_requirements.public.md) 
 
-### [has_browser_requirements.internal](/_internal/schema-org/Property/Texts/has_browser_requirements.internal.md) 
+### #is_/same_as :: [has_browser_requirements.internal](/_internal/schema-org/Property/Texts/has_browser_requirements.internal.md) 
 
-### [has_browser_requirements.protect](/_protect/schema-org/Property/Texts/has_browser_requirements.protect.md) 
+### #is_/same_as :: [has_browser_requirements.protect](/_protect/schema-org/Property/Texts/has_browser_requirements.protect.md) 
 
-### [has_browser_requirements.private](/_private/schema-org/Property/Texts/has_browser_requirements.private.md) 
+### #is_/same_as :: [has_browser_requirements.private](/_private/schema-org/Property/Texts/has_browser_requirements.private.md) 
 
-### [has_browser_requirements.personal](/_personal/schema-org/Property/Texts/has_browser_requirements.personal.md) 
+### #is_/same_as :: [has_browser_requirements.personal](/_personal/schema-org/Property/Texts/has_browser_requirements.personal.md) 
 
-### [has_browser_requirements.secret](/_secret/schema-org/Property/Texts/has_browser_requirements.secret.md)
+### #is_/same_as :: [has_browser_requirements.secret](/_secret/schema-org/Property/Texts/has_browser_requirements.secret.md)
 

@@ -63,21 +63,19 @@ Scientific Name ::     Babesia microti
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Piroplasmorida](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.md) 
+### #is_/same_as :: [Piroplasmorida](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.md) 
 
-### [Piroplasmorida.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.public.md) 
+### #is_/same_as :: [Piroplasmorida.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.public.md) 
 
-### [Piroplasmorida.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.internal.md) 
+### #is_/same_as :: [Piroplasmorida.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.internal.md) 
 
-### [Piroplasmorida.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.protect.md) 
+### #is_/same_as :: [Piroplasmorida.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.protect.md) 
 
-### [Piroplasmorida.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.private.md) 
+### #is_/same_as :: [Piroplasmorida.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.private.md) 
 
-### [Piroplasmorida.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.personal.md) 
+### #is_/same_as :: [Piroplasmorida.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.personal.md) 
 
-### [Piroplasmorida.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.secret.md)
+### #is_/same_as :: [Piroplasmorida.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa/Piroplasmorida.secret.md)
 

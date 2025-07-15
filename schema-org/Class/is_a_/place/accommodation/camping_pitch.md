@@ -50,17 +50,17 @@ See also the dedicated <a href="https://schema.org/docs/hotels.html">document on
 
 ## Confidential Links & Embeds: 
 
-### [camping_pitch](/_Standards/schema-org/Class/is_a_/place/accommodation/camping_pitch.md) 
+### #is_/same_as :: [camping_pitch](/_Standards/schema-org/Class/is_a_/place/accommodation/camping_pitch.md) 
 
-### [camping_pitch.public](/_public/schema-org/Class/is_a_/place/accommodation/camping_pitch.public.md) 
+### #is_/same_as :: [camping_pitch.public](/_public/schema-org/Class/is_a_/place/accommodation/camping_pitch.public.md) 
 
-### [camping_pitch.internal](/_internal/schema-org/Class/is_a_/place/accommodation/camping_pitch.internal.md) 
+### #is_/same_as :: [camping_pitch.internal](/_internal/schema-org/Class/is_a_/place/accommodation/camping_pitch.internal.md) 
 
-### [camping_pitch.protect](/_protect/schema-org/Class/is_a_/place/accommodation/camping_pitch.protect.md) 
+### #is_/same_as :: [camping_pitch.protect](/_protect/schema-org/Class/is_a_/place/accommodation/camping_pitch.protect.md) 
 
-### [camping_pitch.private](/_private/schema-org/Class/is_a_/place/accommodation/camping_pitch.private.md) 
+### #is_/same_as :: [camping_pitch.private](/_private/schema-org/Class/is_a_/place/accommodation/camping_pitch.private.md) 
 
-### [camping_pitch.personal](/_personal/schema-org/Class/is_a_/place/accommodation/camping_pitch.personal.md) 
+### #is_/same_as :: [camping_pitch.personal](/_personal/schema-org/Class/is_a_/place/accommodation/camping_pitch.personal.md) 
 
-### [camping_pitch.secret](/_secret/schema-org/Class/is_a_/place/accommodation/camping_pitch.secret.md)
+### #is_/same_as :: [camping_pitch.secret](/_secret/schema-org/Class/is_a_/place/accommodation/camping_pitch.secret.md)
 

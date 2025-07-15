@@ -23,21 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Umar)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Umar](/_Standards/bio/People/Leader/Middle_Age_Leaders/Umar.md) 
+### #is_/same_as :: [Umar](/_Standards/bio/People/Leader/Middle_Age_Leaders/Umar.md) 
 
-### [Umar.public](/_public/bio/People/Leader/Middle_Age_Leaders/Umar.public.md) 
+### #is_/same_as :: [Umar.public](/_public/bio/People/Leader/Middle_Age_Leaders/Umar.public.md) 
 
-### [Umar.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Umar.internal.md) 
+### #is_/same_as :: [Umar.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Umar.internal.md) 
 
-### [Umar.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Umar.protect.md) 
+### #is_/same_as :: [Umar.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Umar.protect.md) 
 
-### [Umar.private](/_private/bio/People/Leader/Middle_Age_Leaders/Umar.private.md) 
+### #is_/same_as :: [Umar.private](/_private/bio/People/Leader/Middle_Age_Leaders/Umar.private.md) 
 
-### [Umar.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Umar.personal.md) 
+### #is_/same_as :: [Umar.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Umar.personal.md) 
 
-### [Umar.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Umar.secret.md)
+### #is_/same_as :: [Umar.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Umar.secret.md)
 

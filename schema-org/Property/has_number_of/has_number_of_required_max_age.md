@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_required_max_age](/_Standards/schema-org/Property/has_number_of/has_number_of_required_max_age.md) 
+### #is_/same_as :: [has_number_of_required_max_age](/_Standards/schema-org/Property/has_number_of/has_number_of_required_max_age.md) 
 
-### [has_number_of_required_max_age.public](/_public/schema-org/Property/has_number_of/has_number_of_required_max_age.public.md) 
+### #is_/same_as :: [has_number_of_required_max_age.public](/_public/schema-org/Property/has_number_of/has_number_of_required_max_age.public.md) 
 
-### [has_number_of_required_max_age.internal](/_internal/schema-org/Property/has_number_of/has_number_of_required_max_age.internal.md) 
+### #is_/same_as :: [has_number_of_required_max_age.internal](/_internal/schema-org/Property/has_number_of/has_number_of_required_max_age.internal.md) 
 
-### [has_number_of_required_max_age.protect](/_protect/schema-org/Property/has_number_of/has_number_of_required_max_age.protect.md) 
+### #is_/same_as :: [has_number_of_required_max_age.protect](/_protect/schema-org/Property/has_number_of/has_number_of_required_max_age.protect.md) 
 
-### [has_number_of_required_max_age.private](/_private/schema-org/Property/has_number_of/has_number_of_required_max_age.private.md) 
+### #is_/same_as :: [has_number_of_required_max_age.private](/_private/schema-org/Property/has_number_of/has_number_of_required_max_age.private.md) 
 
-### [has_number_of_required_max_age.personal](/_personal/schema-org/Property/has_number_of/has_number_of_required_max_age.personal.md) 
+### #is_/same_as :: [has_number_of_required_max_age.personal](/_personal/schema-org/Property/has_number_of/has_number_of_required_max_age.personal.md) 
 
-### [has_number_of_required_max_age.secret](/_secret/schema-org/Property/has_number_of/has_number_of_required_max_age.secret.md)
+### #is_/same_as :: [has_number_of_required_max_age.secret](/_secret/schema-org/Property/has_number_of/has_number_of_required_max_age.secret.md)
 

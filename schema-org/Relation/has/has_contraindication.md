@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_contraindication](/_Standards/schema-org/Relation/has/has_contraindication.md) 
+### #is_/same_as :: [has_contraindication](/_Standards/schema-org/Relation/has/has_contraindication.md) 
 
-### [has_contraindication.public](/_public/schema-org/Relation/has/has_contraindication.public.md) 
+### #is_/same_as :: [has_contraindication.public](/_public/schema-org/Relation/has/has_contraindication.public.md) 
 
-### [has_contraindication.internal](/_internal/schema-org/Relation/has/has_contraindication.internal.md) 
+### #is_/same_as :: [has_contraindication.internal](/_internal/schema-org/Relation/has/has_contraindication.internal.md) 
 
-### [has_contraindication.protect](/_protect/schema-org/Relation/has/has_contraindication.protect.md) 
+### #is_/same_as :: [has_contraindication.protect](/_protect/schema-org/Relation/has/has_contraindication.protect.md) 
 
-### [has_contraindication.private](/_private/schema-org/Relation/has/has_contraindication.private.md) 
+### #is_/same_as :: [has_contraindication.private](/_private/schema-org/Relation/has/has_contraindication.private.md) 
 
-### [has_contraindication.personal](/_personal/schema-org/Relation/has/has_contraindication.personal.md) 
+### #is_/same_as :: [has_contraindication.personal](/_personal/schema-org/Relation/has/has_contraindication.personal.md) 
 
-### [has_contraindication.secret](/_secret/schema-org/Relation/has/has_contraindication.secret.md)
+### #is_/same_as :: [has_contraindication.secret](/_secret/schema-org/Relation/has/has_contraindication.secret.md)
 

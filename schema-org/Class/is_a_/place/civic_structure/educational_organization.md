@@ -47,17 +47,17 @@ An educational organization.
 
 ## Confidential Links & Embeds: 
 
-### [educational_organization](/_Standards/schema-org/Class/is_a_/place/civic_structure/educational_organization.md) 
+### #is_/same_as :: [educational_organization](/_Standards/schema-org/Class/is_a_/place/civic_structure/educational_organization.md) 
 
-### [educational_organization.public](/_public/schema-org/Class/is_a_/place/civic_structure/educational_organization.public.md) 
+### #is_/same_as :: [educational_organization.public](/_public/schema-org/Class/is_a_/place/civic_structure/educational_organization.public.md) 
 
-### [educational_organization.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/educational_organization.internal.md) 
+### #is_/same_as :: [educational_organization.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/educational_organization.internal.md) 
 
-### [educational_organization.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/educational_organization.protect.md) 
+### #is_/same_as :: [educational_organization.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/educational_organization.protect.md) 
 
-### [educational_organization.private](/_private/schema-org/Class/is_a_/place/civic_structure/educational_organization.private.md) 
+### #is_/same_as :: [educational_organization.private](/_private/schema-org/Class/is_a_/place/civic_structure/educational_organization.private.md) 
 
-### [educational_organization.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/educational_organization.personal.md) 
+### #is_/same_as :: [educational_organization.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/educational_organization.personal.md) 
 
-### [educational_organization.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/educational_organization.secret.md)
+### #is_/same_as :: [educational_organization.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/educational_organization.secret.md)
 

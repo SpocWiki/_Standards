@@ -199,17 +199,17 @@ YearBuilt:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Accommodation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.md) 
+### #is_/same_as :: [FileClass~Accommodation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.md) 
 
-### [FileClass~Accommodation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.public.md) 
+### #is_/same_as :: [FileClass~Accommodation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.public.md) 
 
-### [FileClass~Accommodation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.internal.md) 
+### #is_/same_as :: [FileClass~Accommodation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.internal.md) 
 
-### [FileClass~Accommodation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.protect.md) 
+### #is_/same_as :: [FileClass~Accommodation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.protect.md) 
 
-### [FileClass~Accommodation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.private.md) 
+### #is_/same_as :: [FileClass~Accommodation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.private.md) 
 
-### [FileClass~Accommodation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.personal.md) 
+### #is_/same_as :: [FileClass~Accommodation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.personal.md) 
 
-### [FileClass~Accommodation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret.md)
+### #is_/same_as :: [FileClass~Accommodation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret.md)
 

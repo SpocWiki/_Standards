@@ -98,21 +98,19 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Amaz
 > [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20River) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Amazon_River](/_Standards/Earth/Continent/America~South/Amazon_River.md) 
+### #is_/same_as :: [Amazon_River](/_Standards/Earth/Continent/America~South/Amazon_River.md) 
 
-### [Amazon_River.public](/_public/Earth/Continent/America~South/Amazon_River.public.md) 
+### #is_/same_as :: [Amazon_River.public](/_public/Earth/Continent/America~South/Amazon_River.public.md) 
 
-### [Amazon_River.internal](/_internal/Earth/Continent/America~South/Amazon_River.internal.md) 
+### #is_/same_as :: [Amazon_River.internal](/_internal/Earth/Continent/America~South/Amazon_River.internal.md) 
 
-### [Amazon_River.protect](/_protect/Earth/Continent/America~South/Amazon_River.protect.md) 
+### #is_/same_as :: [Amazon_River.protect](/_protect/Earth/Continent/America~South/Amazon_River.protect.md) 
 
-### [Amazon_River.private](/_private/Earth/Continent/America~South/Amazon_River.private.md) 
+### #is_/same_as :: [Amazon_River.private](/_private/Earth/Continent/America~South/Amazon_River.private.md) 
 
-### [Amazon_River.personal](/_personal/Earth/Continent/America~South/Amazon_River.personal.md) 
+### #is_/same_as :: [Amazon_River.personal](/_personal/Earth/Continent/America~South/Amazon_River.personal.md) 
 
-### [Amazon_River.secret](/_secret/Earth/Continent/America~South/Amazon_River.secret.md)
+### #is_/same_as :: [Amazon_River.secret](/_secret/Earth/Continent/America~South/Amazon_River.secret.md)
 

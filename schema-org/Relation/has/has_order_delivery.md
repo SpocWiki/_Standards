@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_order_delivery](/_Standards/schema-org/Relation/has/has_order_delivery.md) 
+### #is_/same_as :: [has_order_delivery](/_Standards/schema-org/Relation/has/has_order_delivery.md) 
 
-### [has_order_delivery.public](/_public/schema-org/Relation/has/has_order_delivery.public.md) 
+### #is_/same_as :: [has_order_delivery.public](/_public/schema-org/Relation/has/has_order_delivery.public.md) 
 
-### [has_order_delivery.internal](/_internal/schema-org/Relation/has/has_order_delivery.internal.md) 
+### #is_/same_as :: [has_order_delivery.internal](/_internal/schema-org/Relation/has/has_order_delivery.internal.md) 
 
-### [has_order_delivery.protect](/_protect/schema-org/Relation/has/has_order_delivery.protect.md) 
+### #is_/same_as :: [has_order_delivery.protect](/_protect/schema-org/Relation/has/has_order_delivery.protect.md) 
 
-### [has_order_delivery.private](/_private/schema-org/Relation/has/has_order_delivery.private.md) 
+### #is_/same_as :: [has_order_delivery.private](/_private/schema-org/Relation/has/has_order_delivery.private.md) 
 
-### [has_order_delivery.personal](/_personal/schema-org/Relation/has/has_order_delivery.personal.md) 
+### #is_/same_as :: [has_order_delivery.personal](/_personal/schema-org/Relation/has/has_order_delivery.personal.md) 
 
-### [has_order_delivery.secret](/_secret/schema-org/Relation/has/has_order_delivery.secret.md)
+### #is_/same_as :: [has_order_delivery.secret](/_secret/schema-org/Relation/has/has_order_delivery.secret.md)
 

@@ -41,17 +41,17 @@ Structured values are used when the value of a property has a more complex struc
 
 ## Confidential Links & Embeds: 
 
-### [structured_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value.md) 
+### #is_/same_as :: [structured_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value.md) 
 
-### [structured_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value.public.md) 
+### #is_/same_as :: [structured_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value.public.md) 
 
-### [structured_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value.internal.md) 
+### #is_/same_as :: [structured_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value.internal.md) 
 
-### [structured_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value.protect.md) 
+### #is_/same_as :: [structured_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value.protect.md) 
 
-### [structured_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value.private.md) 
+### #is_/same_as :: [structured_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value.private.md) 
 
-### [structured_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value.personal.md) 
+### #is_/same_as :: [structured_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value.personal.md) 
 
-### [structured_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value.secret.md)
+### #is_/same_as :: [structured_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value.secret.md)
 

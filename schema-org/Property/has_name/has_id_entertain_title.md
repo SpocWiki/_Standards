@@ -59,17 +59,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_entertain_title](/_Standards/schema-org/Property/has_name/has_id_entertain_title.md) 
+### #is_/same_as :: [has_id_entertain_title](/_Standards/schema-org/Property/has_name/has_id_entertain_title.md) 
 
-### [has_id_entertain_title.public](/_public/schema-org/Property/has_name/has_id_entertain_title.public.md) 
+### #is_/same_as :: [has_id_entertain_title.public](/_public/schema-org/Property/has_name/has_id_entertain_title.public.md) 
 
-### [has_id_entertain_title.internal](/_internal/schema-org/Property/has_name/has_id_entertain_title.internal.md) 
+### #is_/same_as :: [has_id_entertain_title.internal](/_internal/schema-org/Property/has_name/has_id_entertain_title.internal.md) 
 
-### [has_id_entertain_title.protect](/_protect/schema-org/Property/has_name/has_id_entertain_title.protect.md) 
+### #is_/same_as :: [has_id_entertain_title.protect](/_protect/schema-org/Property/has_name/has_id_entertain_title.protect.md) 
 
-### [has_id_entertain_title.private](/_private/schema-org/Property/has_name/has_id_entertain_title.private.md) 
+### #is_/same_as :: [has_id_entertain_title.private](/_private/schema-org/Property/has_name/has_id_entertain_title.private.md) 
 
-### [has_id_entertain_title.personal](/_personal/schema-org/Property/has_name/has_id_entertain_title.personal.md) 
+### #is_/same_as :: [has_id_entertain_title.personal](/_personal/schema-org/Property/has_name/has_id_entertain_title.personal.md) 
 
-### [has_id_entertain_title.secret](/_secret/schema-org/Property/has_name/has_id_entertain_title.secret.md)
+### #is_/same_as :: [has_id_entertain_title.secret](/_secret/schema-org/Property/has_name/has_id_entertain_title.secret.md)
 

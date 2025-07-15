@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_created](/_Standards/schema-org/Property/has_location/has_location_created.md) 
+### #is_/same_as :: [has_location_created](/_Standards/schema-org/Property/has_location/has_location_created.md) 
 
-### [has_location_created.public](/_public/schema-org/Property/has_location/has_location_created.public.md) 
+### #is_/same_as :: [has_location_created.public](/_public/schema-org/Property/has_location/has_location_created.public.md) 
 
-### [has_location_created.internal](/_internal/schema-org/Property/has_location/has_location_created.internal.md) 
+### #is_/same_as :: [has_location_created.internal](/_internal/schema-org/Property/has_location/has_location_created.internal.md) 
 
-### [has_location_created.protect](/_protect/schema-org/Property/has_location/has_location_created.protect.md) 
+### #is_/same_as :: [has_location_created.protect](/_protect/schema-org/Property/has_location/has_location_created.protect.md) 
 
-### [has_location_created.private](/_private/schema-org/Property/has_location/has_location_created.private.md) 
+### #is_/same_as :: [has_location_created.private](/_private/schema-org/Property/has_location/has_location_created.private.md) 
 
-### [has_location_created.personal](/_personal/schema-org/Property/has_location/has_location_created.personal.md) 
+### #is_/same_as :: [has_location_created.personal](/_personal/schema-org/Property/has_location/has_location_created.personal.md) 
 
-### [has_location_created.secret](/_secret/schema-org/Property/has_location/has_location_created.secret.md)
+### #is_/same_as :: [has_location_created.secret](/_secret/schema-org/Property/has_location/has_location_created.secret.md)
 

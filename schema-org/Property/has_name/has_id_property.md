@@ -50,17 +50,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_property](/_Standards/schema-org/Property/has_name/has_id_property.md) 
+### #is_/same_as :: [has_id_property](/_Standards/schema-org/Property/has_name/has_id_property.md) 
 
-### [has_id_property.public](/_public/schema-org/Property/has_name/has_id_property.public.md) 
+### #is_/same_as :: [has_id_property.public](/_public/schema-org/Property/has_name/has_id_property.public.md) 
 
-### [has_id_property.internal](/_internal/schema-org/Property/has_name/has_id_property.internal.md) 
+### #is_/same_as :: [has_id_property.internal](/_internal/schema-org/Property/has_name/has_id_property.internal.md) 
 
-### [has_id_property.protect](/_protect/schema-org/Property/has_name/has_id_property.protect.md) 
+### #is_/same_as :: [has_id_property.protect](/_protect/schema-org/Property/has_name/has_id_property.protect.md) 
 
-### [has_id_property.private](/_private/schema-org/Property/has_name/has_id_property.private.md) 
+### #is_/same_as :: [has_id_property.private](/_private/schema-org/Property/has_name/has_id_property.private.md) 
 
-### [has_id_property.personal](/_personal/schema-org/Property/has_name/has_id_property.personal.md) 
+### #is_/same_as :: [has_id_property.personal](/_personal/schema-org/Property/has_name/has_id_property.personal.md) 
 
-### [has_id_property.secret](/_secret/schema-org/Property/has_name/has_id_property.secret.md)
+### #is_/same_as :: [has_id_property.secret](/_secret/schema-org/Property/has_name/has_id_property.secret.md)
 

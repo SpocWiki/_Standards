@@ -46,17 +46,17 @@ SharedContent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SocialMediaPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.md) 
 
-### [FileClass~SocialMediaPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.public.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.public.md) 
 
-### [FileClass~SocialMediaPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.internal.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.internal.md) 
 
-### [FileClass~SocialMediaPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.protect.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.protect.md) 
 
-### [FileClass~SocialMediaPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.private.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.private.md) 
 
-### [FileClass~SocialMediaPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.personal.md) 
+### #is_/same_as :: [FileClass~SocialMediaPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.personal.md) 
 
-### [FileClass~SocialMediaPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.secret.md)
+### #is_/same_as :: [FileClass~SocialMediaPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.secret.md)
 

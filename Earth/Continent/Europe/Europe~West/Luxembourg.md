@@ -494,17 +494,17 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 
 ## Confidential Links & Embeds: 
 
-### [Luxembourg](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg.md) 
+### #is_/same_as :: [Luxembourg](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg.md) 
 
-### [Luxembourg.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg.public.md) 
+### #is_/same_as :: [Luxembourg.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg.public.md) 
 
-### [Luxembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg.internal.md) 
+### #is_/same_as :: [Luxembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg.internal.md) 
 
-### [Luxembourg.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg.protect.md) 
+### #is_/same_as :: [Luxembourg.protect](/_protect/Earth/Continent/Europe/Europe~West/Luxembourg.protect.md) 
 
-### [Luxembourg.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg.private.md) 
+### #is_/same_as :: [Luxembourg.private](/_private/Earth/Continent/Europe/Europe~West/Luxembourg.private.md) 
 
-### [Luxembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal.md) 
+### #is_/same_as :: [Luxembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal.md) 
 
-### [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret.md)
+### #is_/same_as :: [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret.md)
 

@@ -47,17 +47,17 @@ X-ray computed tomography imaging.
 
 ## Confidential Links & Embeds: 
 
-### [ct](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md) 
+### #is_/same_as :: [ct](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md) 
 
-### [ct.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.public.md) 
+### #is_/same_as :: [ct.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.public.md) 
 
-### [ct.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.internal.md) 
+### #is_/same_as :: [ct.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.internal.md) 
 
-### [ct.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.protect.md) 
+### #is_/same_as :: [ct.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.protect.md) 
 
-### [ct.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.private.md) 
+### #is_/same_as :: [ct.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.private.md) 
 
-### [ct.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.personal.md) 
+### #is_/same_as :: [ct.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.personal.md) 
 
-### [ct.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.secret.md)
+### #is_/same_as :: [ct.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Geta/
 
 ## Confidential Links & Embeds: 
 
-### [Geta](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.md) 
+### #is_/same_as :: [Geta](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.md) 
 
-### [Geta.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public.md) 
+### #is_/same_as :: [Geta.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public.md) 
 
-### [Geta.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal.md) 
+### #is_/same_as :: [Geta.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal.md) 
 
-### [Geta.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect.md) 
+### #is_/same_as :: [Geta.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect.md) 
 
-### [Geta.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private.md) 
+### #is_/same_as :: [Geta.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private.md) 
 
-### [Geta.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal.md) 
+### #is_/same_as :: [Geta.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal.md) 
 
-### [Geta.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret.md)
+### #is_/same_as :: [Geta.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret.md)
 

@@ -49,17 +49,17 @@ Represents the installment pricing component of the total price for an offered p
 
 ## Confidential Links & Embeds: 
 
-### [installment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.md) 
+### #is_/same_as :: [installment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.md) 
 
-### [installment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.public.md) 
+### #is_/same_as :: [installment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.public.md) 
 
-### [installment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.internal.md) 
+### #is_/same_as :: [installment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.internal.md) 
 
-### [installment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.protect.md) 
+### #is_/same_as :: [installment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.protect.md) 
 
-### [installment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.private.md) 
+### #is_/same_as :: [installment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.private.md) 
 
-### [installment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.personal.md) 
+### #is_/same_as :: [installment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.personal.md) 
 
-### [installment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.secret.md)
+### #is_/same_as :: [installment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.secret.md)
 

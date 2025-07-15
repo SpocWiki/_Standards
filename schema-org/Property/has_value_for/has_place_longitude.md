@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_place_longitude](/_Standards/schema-org/Property/has_value_for/has_place_longitude.md) 
+### #is_/same_as :: [has_place_longitude](/_Standards/schema-org/Property/has_value_for/has_place_longitude.md) 
 
-### [has_place_longitude.public](/_public/schema-org/Property/has_value_for/has_place_longitude.public.md) 
+### #is_/same_as :: [has_place_longitude.public](/_public/schema-org/Property/has_value_for/has_place_longitude.public.md) 
 
-### [has_place_longitude.internal](/_internal/schema-org/Property/has_value_for/has_place_longitude.internal.md) 
+### #is_/same_as :: [has_place_longitude.internal](/_internal/schema-org/Property/has_value_for/has_place_longitude.internal.md) 
 
-### [has_place_longitude.protect](/_protect/schema-org/Property/has_value_for/has_place_longitude.protect.md) 
+### #is_/same_as :: [has_place_longitude.protect](/_protect/schema-org/Property/has_value_for/has_place_longitude.protect.md) 
 
-### [has_place_longitude.private](/_private/schema-org/Property/has_value_for/has_place_longitude.private.md) 
+### #is_/same_as :: [has_place_longitude.private](/_private/schema-org/Property/has_value_for/has_place_longitude.private.md) 
 
-### [has_place_longitude.personal](/_personal/schema-org/Property/has_value_for/has_place_longitude.personal.md) 
+### #is_/same_as :: [has_place_longitude.personal](/_personal/schema-org/Property/has_value_for/has_place_longitude.personal.md) 
 
-### [has_place_longitude.secret](/_secret/schema-org/Property/has_value_for/has_place_longitude.secret.md)
+### #is_/same_as :: [has_place_longitude.secret](/_secret/schema-org/Property/has_value_for/has_place_longitude.secret.md)
 

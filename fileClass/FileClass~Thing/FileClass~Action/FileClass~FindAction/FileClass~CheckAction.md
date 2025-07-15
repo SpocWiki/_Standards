@@ -35,17 +35,17 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CheckAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.md) 
+### #is_/same_as :: [FileClass~CheckAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.md) 
 
-### [FileClass~CheckAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.public.md) 
+### #is_/same_as :: [FileClass~CheckAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.public.md) 
 
-### [FileClass~CheckAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.internal.md) 
+### #is_/same_as :: [FileClass~CheckAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.internal.md) 
 
-### [FileClass~CheckAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.protect.md) 
+### #is_/same_as :: [FileClass~CheckAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.protect.md) 
 
-### [FileClass~CheckAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.private.md) 
+### #is_/same_as :: [FileClass~CheckAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.private.md) 
 
-### [FileClass~CheckAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.personal.md) 
+### #is_/same_as :: [FileClass~CheckAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.personal.md) 
 
-### [FileClass~CheckAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.secret.md)
+### #is_/same_as :: [FileClass~CheckAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~CheckAction.secret.md)
 

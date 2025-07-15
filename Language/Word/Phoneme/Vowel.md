@@ -29,22 +29,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20International%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Vowel) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Vowel](/_Standards/Language/Word/Phoneme/Vowel.md) 
+### #is_/same_as :: [Vowel](/_Standards/Language/Word/Phoneme/Vowel.md) 
 
-### [Vowel.public](/_public/Language/Word/Phoneme/Vowel.public.md) 
+### #is_/same_as :: [Vowel.public](/_public/Language/Word/Phoneme/Vowel.public.md) 
 
-### [Vowel.internal](/_internal/Language/Word/Phoneme/Vowel.internal.md) 
+### #is_/same_as :: [Vowel.internal](/_internal/Language/Word/Phoneme/Vowel.internal.md) 
 
-### [Vowel.protect](/_protect/Language/Word/Phoneme/Vowel.protect.md) 
+### #is_/same_as :: [Vowel.protect](/_protect/Language/Word/Phoneme/Vowel.protect.md) 
 
-### [Vowel.private](/_private/Language/Word/Phoneme/Vowel.private.md) 
+### #is_/same_as :: [Vowel.private](/_private/Language/Word/Phoneme/Vowel.private.md) 
 
-### [Vowel.personal](/_personal/Language/Word/Phoneme/Vowel.personal.md) 
+### #is_/same_as :: [Vowel.personal](/_personal/Language/Word/Phoneme/Vowel.personal.md) 
 
-### [Vowel.secret](/_secret/Language/Word/Phoneme/Vowel.secret.md)
+### #is_/same_as :: [Vowel.secret](/_secret/Language/Word/Phoneme/Vowel.secret.md)
 

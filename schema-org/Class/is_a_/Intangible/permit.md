@@ -47,17 +47,17 @@ A permit issued by an organization, e.g. a parking pass.
 
 ## Confidential Links & Embeds: 
 
-### [permit](/_Standards/schema-org/Class/is_a_/Intangible/permit.md) 
+### #is_/same_as :: [permit](/_Standards/schema-org/Class/is_a_/Intangible/permit.md) 
 
-### [permit.public](/_public/schema-org/Class/is_a_/Intangible/permit.public.md) 
+### #is_/same_as :: [permit.public](/_public/schema-org/Class/is_a_/Intangible/permit.public.md) 
 
-### [permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit.internal.md) 
+### #is_/same_as :: [permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit.internal.md) 
 
-### [permit.protect](/_protect/schema-org/Class/is_a_/Intangible/permit.protect.md) 
+### #is_/same_as :: [permit.protect](/_protect/schema-org/Class/is_a_/Intangible/permit.protect.md) 
 
-### [permit.private](/_private/schema-org/Class/is_a_/Intangible/permit.private.md) 
+### #is_/same_as :: [permit.private](/_private/schema-org/Class/is_a_/Intangible/permit.private.md) 
 
-### [permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit.personal.md) 
+### #is_/same_as :: [permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit.personal.md) 
 
-### [permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit.secret.md)
+### #is_/same_as :: [permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit.secret.md)
 

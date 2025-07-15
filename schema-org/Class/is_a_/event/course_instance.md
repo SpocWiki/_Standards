@@ -45,17 +45,17 @@ An instance of a [[Course]] which is distinct from other instances because it is
 
 ## Confidential Links & Embeds: 
 
-### [course_instance](/_Standards/schema-org/Class/is_a_/event/course_instance.md) 
+### #is_/same_as :: [course_instance](/_Standards/schema-org/Class/is_a_/event/course_instance.md) 
 
-### [course_instance.public](/_public/schema-org/Class/is_a_/event/course_instance.public.md) 
+### #is_/same_as :: [course_instance.public](/_public/schema-org/Class/is_a_/event/course_instance.public.md) 
 
-### [course_instance.internal](/_internal/schema-org/Class/is_a_/event/course_instance.internal.md) 
+### #is_/same_as :: [course_instance.internal](/_internal/schema-org/Class/is_a_/event/course_instance.internal.md) 
 
-### [course_instance.protect](/_protect/schema-org/Class/is_a_/event/course_instance.protect.md) 
+### #is_/same_as :: [course_instance.protect](/_protect/schema-org/Class/is_a_/event/course_instance.protect.md) 
 
-### [course_instance.private](/_private/schema-org/Class/is_a_/event/course_instance.private.md) 
+### #is_/same_as :: [course_instance.private](/_private/schema-org/Class/is_a_/event/course_instance.private.md) 
 
-### [course_instance.personal](/_personal/schema-org/Class/is_a_/event/course_instance.personal.md) 
+### #is_/same_as :: [course_instance.personal](/_personal/schema-org/Class/is_a_/event/course_instance.personal.md) 
 
-### [course_instance.secret](/_secret/schema-org/Class/is_a_/event/course_instance.secret.md)
+### #is_/same_as :: [course_instance.secret](/_secret/schema-org/Class/is_a_/event/course_instance.secret.md)
 

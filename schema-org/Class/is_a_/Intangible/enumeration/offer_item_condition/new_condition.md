@@ -47,17 +47,17 @@ Indicates that the item is new.
 
 ## Confidential Links & Embeds: 
 
-### [new_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.md) 
+### #is_/same_as :: [new_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.md) 
 
-### [new_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.public.md) 
+### #is_/same_as :: [new_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.public.md) 
 
-### [new_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.internal.md) 
+### #is_/same_as :: [new_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.internal.md) 
 
-### [new_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.protect.md) 
+### #is_/same_as :: [new_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.protect.md) 
 
-### [new_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.private.md) 
+### #is_/same_as :: [new_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.private.md) 
 
-### [new_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.personal.md) 
+### #is_/same_as :: [new_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.personal.md) 
 
-### [new_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.secret.md)
+### #is_/same_as :: [new_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/new_condition.secret.md)
 

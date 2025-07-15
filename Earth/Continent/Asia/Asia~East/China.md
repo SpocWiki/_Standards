@@ -1198,17 +1198,17 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 
 ## Confidential Links & Embeds: 
 
-### [China](/_Standards/Earth/Continent/Asia/Asia~East/China.md) 
+### #is_/same_as :: [China](/_Standards/Earth/Continent/Asia/Asia~East/China.md) 
 
-### [China.public](/_public/Earth/Continent/Asia/Asia~East/China.public.md) 
+### #is_/same_as :: [China.public](/_public/Earth/Continent/Asia/Asia~East/China.public.md) 
 
-### [China.internal](/_internal/Earth/Continent/Asia/Asia~East/China.internal.md) 
+### #is_/same_as :: [China.internal](/_internal/Earth/Continent/Asia/Asia~East/China.internal.md) 
 
-### [China.protect](/_protect/Earth/Continent/Asia/Asia~East/China.protect.md) 
+### #is_/same_as :: [China.protect](/_protect/Earth/Continent/Asia/Asia~East/China.protect.md) 
 
-### [China.private](/_private/Earth/Continent/Asia/Asia~East/China.private.md) 
+### #is_/same_as :: [China.private](/_private/Earth/Continent/Asia/Asia~East/China.private.md) 
 
-### [China.personal](/_personal/Earth/Continent/Asia/Asia~East/China.personal.md) 
+### #is_/same_as :: [China.personal](/_personal/Earth/Continent/Asia/Asia~East/China.personal.md) 
 
-### [China.secret](/_secret/Earth/Continent/Asia/Asia~East/China.secret.md)
+### #is_/same_as :: [China.secret](/_secret/Earth/Continent/Asia/Asia~East/China.secret.md)
 

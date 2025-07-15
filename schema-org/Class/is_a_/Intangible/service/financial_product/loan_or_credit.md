@@ -47,17 +47,17 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 ## Confidential Links & Embeds: 
 
-### [loan_or_credit](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.md) 
+### #is_/same_as :: [loan_or_credit](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.md) 
 
-### [loan_or_credit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.public.md) 
+### #is_/same_as :: [loan_or_credit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.public.md) 
 
-### [loan_or_credit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.internal.md) 
+### #is_/same_as :: [loan_or_credit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.internal.md) 
 
-### [loan_or_credit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.protect.md) 
+### #is_/same_as :: [loan_or_credit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.protect.md) 
 
-### [loan_or_credit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.private.md) 
+### #is_/same_as :: [loan_or_credit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.private.md) 
 
-### [loan_or_credit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.personal.md) 
+### #is_/same_as :: [loan_or_credit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.personal.md) 
 
-### [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md)
+### #is_/same_as :: [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md)
 

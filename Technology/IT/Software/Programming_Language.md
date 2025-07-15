@@ -92,22 +92,19 @@ Stack_Exchange_tag: "https://stackoverflow.com/tags/programming-languages"
 > [Wikipedia](https://en.wikipedia.org/wiki/Programming%20language) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Programming_Language](/_Standards/Technology/IT/Software/Programming_Language.md) 
+### #is_/same_as :: [Programming_Language](/_Standards/Technology/IT/Software/Programming_Language.md) 
 
-### [Programming_Language.public](/_public/Technology/IT/Software/Programming_Language.public.md) 
+### #is_/same_as :: [Programming_Language.public](/_public/Technology/IT/Software/Programming_Language.public.md) 
 
-### [Programming_Language.internal](/_internal/Technology/IT/Software/Programming_Language.internal.md) 
+### #is_/same_as :: [Programming_Language.internal](/_internal/Technology/IT/Software/Programming_Language.internal.md) 
 
-### [Programming_Language.protect](/_protect/Technology/IT/Software/Programming_Language.protect.md) 
+### #is_/same_as :: [Programming_Language.protect](/_protect/Technology/IT/Software/Programming_Language.protect.md) 
 
-### [Programming_Language.private](/_private/Technology/IT/Software/Programming_Language.private.md) 
+### #is_/same_as :: [Programming_Language.private](/_private/Technology/IT/Software/Programming_Language.private.md) 
 
-### [Programming_Language.personal](/_personal/Technology/IT/Software/Programming_Language.personal.md) 
+### #is_/same_as :: [Programming_Language.personal](/_personal/Technology/IT/Software/Programming_Language.personal.md) 
 
-### [Programming_Language.secret](/_secret/Technology/IT/Software/Programming_Language.secret.md)
+### #is_/same_as :: [Programming_Language.secret](/_secret/Technology/IT/Software/Programming_Language.secret.md)
 

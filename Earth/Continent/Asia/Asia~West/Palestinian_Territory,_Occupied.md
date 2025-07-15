@@ -37,17 +37,17 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ## Confidential Links & Embeds: 
 
-### [Palestinian_Territory,_Occupied](/_Standards/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied](/_Standards/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.md) 
 
-### [Palestinian_Territory,_Occupied.public](/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.public.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied.public](/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.public.md) 
 
-### [Palestinian_Territory,_Occupied.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.internal.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.internal.md) 
 
-### [Palestinian_Territory,_Occupied.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.protect.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.protect.md) 
 
-### [Palestinian_Territory,_Occupied.private](/_private/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.private.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied.private](/_private/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.private.md) 
 
-### [Palestinian_Territory,_Occupied.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.personal.md) 
+### #is_/same_as :: [Palestinian_Territory,_Occupied.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.personal.md) 
 
-### [Palestinian_Territory,_Occupied.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret.md)
+### #is_/same_as :: [Palestinian_Territory,_Occupied.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret.md)
 

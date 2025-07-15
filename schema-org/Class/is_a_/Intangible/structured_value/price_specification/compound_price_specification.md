@@ -45,17 +45,17 @@ A compound price specification is one that bundles multiple prices that all appl
 
 ## Confidential Links & Embeds: 
 
-### [compound_price_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.md) 
+### #is_/same_as :: [compound_price_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.md) 
 
-### [compound_price_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.public.md) 
+### #is_/same_as :: [compound_price_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.public.md) 
 
-### [compound_price_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.internal.md) 
+### #is_/same_as :: [compound_price_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.internal.md) 
 
-### [compound_price_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.protect.md) 
+### #is_/same_as :: [compound_price_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.protect.md) 
 
-### [compound_price_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.private.md) 
+### #is_/same_as :: [compound_price_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.private.md) 
 
-### [compound_price_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.personal.md) 
+### #is_/same_as :: [compound_price_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.personal.md) 
 
-### [compound_price_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.secret.md)
+### #is_/same_as :: [compound_price_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification/compound_price_specification.secret.md)
 

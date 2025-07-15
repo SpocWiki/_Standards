@@ -45,17 +45,17 @@ A tennis complex.
 
 ## Confidential Links & Embeds: 
 
-### [tennis_complex](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.md) 
+### #is_/same_as :: [tennis_complex](/_Standards/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.md) 
 
-### [tennis_complex.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.public.md) 
+### #is_/same_as :: [tennis_complex.public](/_public/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.public.md) 
 
-### [tennis_complex.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md) 
+### #is_/same_as :: [tennis_complex.internal](/_internal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md) 
 
-### [tennis_complex.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md) 
+### #is_/same_as :: [tennis_complex.protect](/_protect/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md) 
 
-### [tennis_complex.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md) 
+### #is_/same_as :: [tennis_complex.private](/_private/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md) 
 
-### [tennis_complex.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md) 
+### #is_/same_as :: [tennis_complex.personal](/_personal/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md) 
 
-### [tennis_complex.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md)
+### #is_/same_as :: [tennis_complex.secret](/_secret/schema-org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md)
 

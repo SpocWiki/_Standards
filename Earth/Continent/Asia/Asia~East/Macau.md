@@ -124,17 +124,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### [Macau](/_Standards/Earth/Continent/Asia/Asia~East/Macau.md) 
+### #is_/same_as :: [Macau](/_Standards/Earth/Continent/Asia/Asia~East/Macau.md) 
 
-### [Macau.public](/_public/Earth/Continent/Asia/Asia~East/Macau.public.md) 
+### #is_/same_as :: [Macau.public](/_public/Earth/Continent/Asia/Asia~East/Macau.public.md) 
 
-### [Macau.internal](/_internal/Earth/Continent/Asia/Asia~East/Macau.internal.md) 
+### #is_/same_as :: [Macau.internal](/_internal/Earth/Continent/Asia/Asia~East/Macau.internal.md) 
 
-### [Macau.protect](/_protect/Earth/Continent/Asia/Asia~East/Macau.protect.md) 
+### #is_/same_as :: [Macau.protect](/_protect/Earth/Continent/Asia/Asia~East/Macau.protect.md) 
 
-### [Macau.private](/_private/Earth/Continent/Asia/Asia~East/Macau.private.md) 
+### #is_/same_as :: [Macau.private](/_private/Earth/Continent/Asia/Asia~East/Macau.private.md) 
 
-### [Macau.personal](/_personal/Earth/Continent/Asia/Asia~East/Macau.personal.md) 
+### #is_/same_as :: [Macau.personal](/_personal/Earth/Continent/Asia/Asia~East/Macau.personal.md) 
 
-### [Macau.secret](/_secret/Earth/Continent/Asia/Asia~East/Macau.secret.md)
+### #is_/same_as :: [Macau.secret](/_secret/Earth/Continent/Asia/Asia~East/Macau.secret.md)
 

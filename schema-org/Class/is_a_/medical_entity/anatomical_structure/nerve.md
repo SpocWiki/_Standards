@@ -45,17 +45,17 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 ## Confidential Links & Embeds: 
 
-### [nerve](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.md) 
+### #is_/same_as :: [nerve](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.md) 
 
-### [nerve.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.public.md) 
+### #is_/same_as :: [nerve.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.public.md) 
 
-### [nerve.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.internal.md) 
+### #is_/same_as :: [nerve.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.internal.md) 
 
-### [nerve.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.protect.md) 
+### #is_/same_as :: [nerve.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.protect.md) 
 
-### [nerve.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.private.md) 
+### #is_/same_as :: [nerve.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.private.md) 
 
-### [nerve.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.personal.md) 
+### #is_/same_as :: [nerve.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.personal.md) 
 
-### [nerve.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md)
+### #is_/same_as :: [nerve.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md)
 

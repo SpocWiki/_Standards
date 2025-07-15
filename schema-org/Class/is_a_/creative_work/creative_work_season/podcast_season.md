@@ -47,17 +47,17 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 ## Confidential Links & Embeds: 
 
-### [podcast_season](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.md) 
+### #is_/same_as :: [podcast_season](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.md) 
 
-### [podcast_season.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.public.md) 
+### #is_/same_as :: [podcast_season.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.public.md) 
 
-### [podcast_season.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.internal.md) 
+### #is_/same_as :: [podcast_season.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.internal.md) 
 
-### [podcast_season.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.protect.md) 
+### #is_/same_as :: [podcast_season.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.protect.md) 
 
-### [podcast_season.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.private.md) 
+### #is_/same_as :: [podcast_season.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.private.md) 
 
-### [podcast_season.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.personal.md) 
+### #is_/same_as :: [podcast_season.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.personal.md) 
 
-### [podcast_season.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.secret.md)
+### #is_/same_as :: [podcast_season.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_season/podcast_season.secret.md)
 

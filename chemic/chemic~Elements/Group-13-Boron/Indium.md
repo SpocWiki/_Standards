@@ -125,17 +125,17 @@ InChI: InChI=1S/In
 
 ## Confidential Links & Embeds: 
 
-### [Indium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Indium.md) 
+### #is_/same_as :: [Indium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Indium.md) 
 
-### [Indium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Indium.public.md) 
+### #is_/same_as :: [Indium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Indium.public.md) 
 
-### [Indium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Indium.internal.md) 
+### #is_/same_as :: [Indium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Indium.internal.md) 
 
-### [Indium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Indium.protect.md) 
+### #is_/same_as :: [Indium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Indium.protect.md) 
 
-### [Indium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Indium.private.md) 
+### #is_/same_as :: [Indium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Indium.private.md) 
 
-### [Indium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Indium.personal.md) 
+### #is_/same_as :: [Indium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Indium.personal.md) 
 
-### [Indium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Indium.secret.md)
+### #is_/same_as :: [Indium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Indium.secret.md)
 

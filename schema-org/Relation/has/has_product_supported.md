@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_product_supported](/_Standards/schema-org/Relation/has/has_product_supported.md) 
+### #is_/same_as :: [has_product_supported](/_Standards/schema-org/Relation/has/has_product_supported.md) 
 
-### [has_product_supported.public](/_public/schema-org/Relation/has/has_product_supported.public.md) 
+### #is_/same_as :: [has_product_supported.public](/_public/schema-org/Relation/has/has_product_supported.public.md) 
 
-### [has_product_supported.internal](/_internal/schema-org/Relation/has/has_product_supported.internal.md) 
+### #is_/same_as :: [has_product_supported.internal](/_internal/schema-org/Relation/has/has_product_supported.internal.md) 
 
-### [has_product_supported.protect](/_protect/schema-org/Relation/has/has_product_supported.protect.md) 
+### #is_/same_as :: [has_product_supported.protect](/_protect/schema-org/Relation/has/has_product_supported.protect.md) 
 
-### [has_product_supported.private](/_private/schema-org/Relation/has/has_product_supported.private.md) 
+### #is_/same_as :: [has_product_supported.private](/_private/schema-org/Relation/has/has_product_supported.private.md) 
 
-### [has_product_supported.personal](/_personal/schema-org/Relation/has/has_product_supported.personal.md) 
+### #is_/same_as :: [has_product_supported.personal](/_personal/schema-org/Relation/has/has_product_supported.personal.md) 
 
-### [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md)
+### #is_/same_as :: [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md)
 

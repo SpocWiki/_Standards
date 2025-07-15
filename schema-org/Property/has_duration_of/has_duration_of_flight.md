@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_flight](/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight.md) 
+### #is_/same_as :: [has_duration_of_flight](/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight.md) 
 
-### [has_duration_of_flight.public](/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public.md) 
+### #is_/same_as :: [has_duration_of_flight.public](/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public.md) 
 
-### [has_duration_of_flight.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal.md) 
+### #is_/same_as :: [has_duration_of_flight.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal.md) 
 
-### [has_duration_of_flight.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect.md) 
+### #is_/same_as :: [has_duration_of_flight.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect.md) 
 
-### [has_duration_of_flight.private](/_private/schema-org/Property/has_duration_of/has_duration_of_flight.private.md) 
+### #is_/same_as :: [has_duration_of_flight.private](/_private/schema-org/Property/has_duration_of/has_duration_of_flight.private.md) 
 
-### [has_duration_of_flight.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_flight.personal.md) 
+### #is_/same_as :: [has_duration_of_flight.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_flight.personal.md) 
 
-### [has_duration_of_flight.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret.md)
+### #is_/same_as :: [has_duration_of_flight.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret.md)
 

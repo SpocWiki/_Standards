@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_multi_valued](/_Standards/schema-org/Property/Flags/is_multi_valued.md) 
+### #is_/same_as :: [is_multi_valued](/_Standards/schema-org/Property/Flags/is_multi_valued.md) 
 
-### [is_multi_valued.public](/_public/schema-org/Property/Flags/is_multi_valued.public.md) 
+### #is_/same_as :: [is_multi_valued.public](/_public/schema-org/Property/Flags/is_multi_valued.public.md) 
 
-### [is_multi_valued.internal](/_internal/schema-org/Property/Flags/is_multi_valued.internal.md) 
+### #is_/same_as :: [is_multi_valued.internal](/_internal/schema-org/Property/Flags/is_multi_valued.internal.md) 
 
-### [is_multi_valued.protect](/_protect/schema-org/Property/Flags/is_multi_valued.protect.md) 
+### #is_/same_as :: [is_multi_valued.protect](/_protect/schema-org/Property/Flags/is_multi_valued.protect.md) 
 
-### [is_multi_valued.private](/_private/schema-org/Property/Flags/is_multi_valued.private.md) 
+### #is_/same_as :: [is_multi_valued.private](/_private/schema-org/Property/Flags/is_multi_valued.private.md) 
 
-### [is_multi_valued.personal](/_personal/schema-org/Property/Flags/is_multi_valued.personal.md) 
+### #is_/same_as :: [is_multi_valued.personal](/_personal/schema-org/Property/Flags/is_multi_valued.personal.md) 
 
-### [is_multi_valued.secret](/_secret/schema-org/Property/Flags/is_multi_valued.secret.md)
+### #is_/same_as :: [is_multi_valued.secret](/_secret/schema-org/Property/Flags/is_multi_valued.secret.md)
 

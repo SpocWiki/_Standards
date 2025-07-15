@@ -45,17 +45,17 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 ## Confidential Links & Embeds: 
 
-### [employee_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.md) 
+### #is_/same_as :: [employee_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.md) 
 
-### [employee_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.public.md) 
+### #is_/same_as :: [employee_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.public.md) 
 
-### [employee_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.internal.md) 
+### #is_/same_as :: [employee_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.internal.md) 
 
-### [employee_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.protect.md) 
+### #is_/same_as :: [employee_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.protect.md) 
 
-### [employee_role.private](/_private/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.private.md) 
+### #is_/same_as :: [employee_role.private](/_private/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.private.md) 
 
-### [employee_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.personal.md) 
+### #is_/same_as :: [employee_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.personal.md) 
 
-### [employee_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.secret.md)
+### #is_/same_as :: [employee_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.secret.md)
 

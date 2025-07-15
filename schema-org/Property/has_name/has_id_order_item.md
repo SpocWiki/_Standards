@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_order_item](/_Standards/schema-org/Property/has_name/has_id_order_item.md) 
+### #is_/same_as :: [has_id_order_item](/_Standards/schema-org/Property/has_name/has_id_order_item.md) 
 
-### [has_id_order_item.public](/_public/schema-org/Property/has_name/has_id_order_item.public.md) 
+### #is_/same_as :: [has_id_order_item.public](/_public/schema-org/Property/has_name/has_id_order_item.public.md) 
 
-### [has_id_order_item.internal](/_internal/schema-org/Property/has_name/has_id_order_item.internal.md) 
+### #is_/same_as :: [has_id_order_item.internal](/_internal/schema-org/Property/has_name/has_id_order_item.internal.md) 
 
-### [has_id_order_item.protect](/_protect/schema-org/Property/has_name/has_id_order_item.protect.md) 
+### #is_/same_as :: [has_id_order_item.protect](/_protect/schema-org/Property/has_name/has_id_order_item.protect.md) 
 
-### [has_id_order_item.private](/_private/schema-org/Property/has_name/has_id_order_item.private.md) 
+### #is_/same_as :: [has_id_order_item.private](/_private/schema-org/Property/has_name/has_id_order_item.private.md) 
 
-### [has_id_order_item.personal](/_personal/schema-org/Property/has_name/has_id_order_item.personal.md) 
+### #is_/same_as :: [has_id_order_item.personal](/_personal/schema-org/Property/has_name/has_id_order_item.personal.md) 
 
-### [has_id_order_item.secret](/_secret/schema-org/Property/has_name/has_id_order_item.secret.md)
+### #is_/same_as :: [has_id_order_item.secret](/_secret/schema-org/Property/has_name/has_id_order_item.secret.md)
 

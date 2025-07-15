@@ -264,20 +264,19 @@ Annals de l\'Institut Océanographique, Paris, 61(2): 115-138.
 ![](Turbinaria.jpg)![](Tubastraea_micrantha_w.jpg)::::::::::::::::::::::::::::::
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Dendrophylliina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.md) 
+### #is_/same_as :: [Dendrophylliina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.md) 
 
-### [Dendrophylliina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.public.md) 
+### #is_/same_as :: [Dendrophylliina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.public.md) 
 
-### [Dendrophylliina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.internal.md) 
+### #is_/same_as :: [Dendrophylliina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.internal.md) 
 
-### [Dendrophylliina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.protect.md) 
+### #is_/same_as :: [Dendrophylliina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.protect.md) 
 
-### [Dendrophylliina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.private.md) 
+### #is_/same_as :: [Dendrophylliina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.private.md) 
 
-### [Dendrophylliina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.personal.md) 
+### #is_/same_as :: [Dendrophylliina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.personal.md) 
 
-### [Dendrophylliina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.secret.md)
+### #is_/same_as :: [Dendrophylliina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Dendrophylliina.secret.md)
 

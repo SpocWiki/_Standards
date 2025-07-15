@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_screen_count](/_Standards/schema-org/Property/has_number_of/has_number_of_screen_count.md) 
+### #is_/same_as :: [has_number_of_screen_count](/_Standards/schema-org/Property/has_number_of/has_number_of_screen_count.md) 
 
-### [has_number_of_screen_count.public](/_public/schema-org/Property/has_number_of/has_number_of_screen_count.public.md) 
+### #is_/same_as :: [has_number_of_screen_count.public](/_public/schema-org/Property/has_number_of/has_number_of_screen_count.public.md) 
 
-### [has_number_of_screen_count.internal](/_internal/schema-org/Property/has_number_of/has_number_of_screen_count.internal.md) 
+### #is_/same_as :: [has_number_of_screen_count.internal](/_internal/schema-org/Property/has_number_of/has_number_of_screen_count.internal.md) 
 
-### [has_number_of_screen_count.protect](/_protect/schema-org/Property/has_number_of/has_number_of_screen_count.protect.md) 
+### #is_/same_as :: [has_number_of_screen_count.protect](/_protect/schema-org/Property/has_number_of/has_number_of_screen_count.protect.md) 
 
-### [has_number_of_screen_count.private](/_private/schema-org/Property/has_number_of/has_number_of_screen_count.private.md) 
+### #is_/same_as :: [has_number_of_screen_count.private](/_private/schema-org/Property/has_number_of/has_number_of_screen_count.private.md) 
 
-### [has_number_of_screen_count.personal](/_personal/schema-org/Property/has_number_of/has_number_of_screen_count.personal.md) 
+### #is_/same_as :: [has_number_of_screen_count.personal](/_personal/schema-org/Property/has_number_of/has_number_of_screen_count.personal.md) 
 
-### [has_number_of_screen_count.secret](/_secret/schema-org/Property/has_number_of/has_number_of_screen_count.secret.md)
+### #is_/same_as :: [has_number_of_screen_count.secret](/_secret/schema-org/Property/has_number_of/has_number_of_screen_count.secret.md)
 

@@ -45,17 +45,17 @@ A casino.
 
 ## Confidential Links & Embeds: 
 
-### [casino](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.md) 
+### #is_/same_as :: [casino](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.md) 
 
-### [casino.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.public.md) 
+### #is_/same_as :: [casino.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.public.md) 
 
-### [casino.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.internal.md) 
+### #is_/same_as :: [casino.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.internal.md) 
 
-### [casino.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.protect.md) 
+### #is_/same_as :: [casino.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.protect.md) 
 
-### [casino.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.private.md) 
+### #is_/same_as :: [casino.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.private.md) 
 
-### [casino.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.personal.md) 
+### #is_/same_as :: [casino.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.personal.md) 
 
-### [casino.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.secret.md)
+### #is_/same_as :: [casino.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/casino.secret.md)
 

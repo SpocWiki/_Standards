@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_in_support_of](/_Standards/schema-org/Property/Texts/has_in_support_of.md) 
+### #is_/same_as :: [has_in_support_of](/_Standards/schema-org/Property/Texts/has_in_support_of.md) 
 
-### [has_in_support_of.public](/_public/schema-org/Property/Texts/has_in_support_of.public.md) 
+### #is_/same_as :: [has_in_support_of.public](/_public/schema-org/Property/Texts/has_in_support_of.public.md) 
 
-### [has_in_support_of.internal](/_internal/schema-org/Property/Texts/has_in_support_of.internal.md) 
+### #is_/same_as :: [has_in_support_of.internal](/_internal/schema-org/Property/Texts/has_in_support_of.internal.md) 
 
-### [has_in_support_of.protect](/_protect/schema-org/Property/Texts/has_in_support_of.protect.md) 
+### #is_/same_as :: [has_in_support_of.protect](/_protect/schema-org/Property/Texts/has_in_support_of.protect.md) 
 
-### [has_in_support_of.private](/_private/schema-org/Property/Texts/has_in_support_of.private.md) 
+### #is_/same_as :: [has_in_support_of.private](/_private/schema-org/Property/Texts/has_in_support_of.private.md) 
 
-### [has_in_support_of.personal](/_personal/schema-org/Property/Texts/has_in_support_of.personal.md) 
+### #is_/same_as :: [has_in_support_of.personal](/_personal/schema-org/Property/Texts/has_in_support_of.personal.md) 
 
-### [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md)
+### #is_/same_as :: [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md)
 

@@ -35,17 +35,17 @@ The act of editing by adding an object to a collection.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AddAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.md) 
+### #is_/same_as :: [FileClass~AddAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.md) 
 
-### [FileClass~AddAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.public.md) 
+### #is_/same_as :: [FileClass~AddAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.public.md) 
 
-### [FileClass~AddAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.internal.md) 
+### #is_/same_as :: [FileClass~AddAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.internal.md) 
 
-### [FileClass~AddAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.protect.md) 
+### #is_/same_as :: [FileClass~AddAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.protect.md) 
 
-### [FileClass~AddAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.private.md) 
+### #is_/same_as :: [FileClass~AddAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.private.md) 
 
-### [FileClass~AddAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.personal.md) 
+### #is_/same_as :: [FileClass~AddAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.personal.md) 
 
-### [FileClass~AddAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.secret.md)
+### #is_/same_as :: [FileClass~AddAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction.secret.md)
 

@@ -56,17 +56,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### [credit_card](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.md) 
+### #is_/same_as :: [credit_card](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.md) 
 
-### [credit_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.public.md) 
+### #is_/same_as :: [credit_card.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.public.md) 
 
-### [credit_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.internal.md) 
+### #is_/same_as :: [credit_card.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.internal.md) 
 
-### [credit_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.protect.md) 
+### #is_/same_as :: [credit_card.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.protect.md) 
 
-### [credit_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.private.md) 
+### #is_/same_as :: [credit_card.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.private.md) 
 
-### [credit_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.personal.md) 
+### #is_/same_as :: [credit_card.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.personal.md) 
 
-### [credit_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.secret.md)
+### #is_/same_as :: [credit_card.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/credit_card.secret.md)
 

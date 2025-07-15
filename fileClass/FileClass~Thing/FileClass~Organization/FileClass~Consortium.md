@@ -35,17 +35,17 @@ A Consortium is a membership [[Organization]] whose members are typically Organi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Consortium](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.md) 
+### #is_/same_as :: [FileClass~Consortium](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.md) 
 
-### [FileClass~Consortium.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.public.md) 
+### #is_/same_as :: [FileClass~Consortium.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.public.md) 
 
-### [FileClass~Consortium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.internal.md) 
+### #is_/same_as :: [FileClass~Consortium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.internal.md) 
 
-### [FileClass~Consortium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.protect.md) 
+### #is_/same_as :: [FileClass~Consortium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.protect.md) 
 
-### [FileClass~Consortium.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.private.md) 
+### #is_/same_as :: [FileClass~Consortium.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.private.md) 
 
-### [FileClass~Consortium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.personal.md) 
+### #is_/same_as :: [FileClass~Consortium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.personal.md) 
 
-### [FileClass~Consortium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret.md)
+### #is_/same_as :: [FileClass~Consortium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret.md)
 

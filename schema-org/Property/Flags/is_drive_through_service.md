@@ -56,17 +56,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_drive_through_service](/_Standards/schema-org/Property/Flags/is_drive_through_service.md) 
+### #is_/same_as :: [is_drive_through_service](/_Standards/schema-org/Property/Flags/is_drive_through_service.md) 
 
-### [is_drive_through_service.public](/_public/schema-org/Property/Flags/is_drive_through_service.public.md) 
+### #is_/same_as :: [is_drive_through_service.public](/_public/schema-org/Property/Flags/is_drive_through_service.public.md) 
 
-### [is_drive_through_service.internal](/_internal/schema-org/Property/Flags/is_drive_through_service.internal.md) 
+### #is_/same_as :: [is_drive_through_service.internal](/_internal/schema-org/Property/Flags/is_drive_through_service.internal.md) 
 
-### [is_drive_through_service.protect](/_protect/schema-org/Property/Flags/is_drive_through_service.protect.md) 
+### #is_/same_as :: [is_drive_through_service.protect](/_protect/schema-org/Property/Flags/is_drive_through_service.protect.md) 
 
-### [is_drive_through_service.private](/_private/schema-org/Property/Flags/is_drive_through_service.private.md) 
+### #is_/same_as :: [is_drive_through_service.private](/_private/schema-org/Property/Flags/is_drive_through_service.private.md) 
 
-### [is_drive_through_service.personal](/_personal/schema-org/Property/Flags/is_drive_through_service.personal.md) 
+### #is_/same_as :: [is_drive_through_service.personal](/_personal/schema-org/Property/Flags/is_drive_through_service.personal.md) 
 
-### [is_drive_through_service.secret](/_secret/schema-org/Property/Flags/is_drive_through_service.secret.md)
+### #is_/same_as :: [is_drive_through_service.secret](/_secret/schema-org/Property/Flags/is_drive_through_service.secret.md)
 

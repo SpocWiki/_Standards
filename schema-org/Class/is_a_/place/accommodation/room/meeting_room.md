@@ -47,17 +47,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### [meeting_room](/_Standards/schema-org/Class/is_a_/place/accommodation/room/meeting_room.md) 
+### #is_/same_as :: [meeting_room](/_Standards/schema-org/Class/is_a_/place/accommodation/room/meeting_room.md) 
 
-### [meeting_room.public](/_public/schema-org/Class/is_a_/place/accommodation/room/meeting_room.public.md) 
+### #is_/same_as :: [meeting_room.public](/_public/schema-org/Class/is_a_/place/accommodation/room/meeting_room.public.md) 
 
-### [meeting_room.internal](/_internal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.internal.md) 
+### #is_/same_as :: [meeting_room.internal](/_internal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.internal.md) 
 
-### [meeting_room.protect](/_protect/schema-org/Class/is_a_/place/accommodation/room/meeting_room.protect.md) 
+### #is_/same_as :: [meeting_room.protect](/_protect/schema-org/Class/is_a_/place/accommodation/room/meeting_room.protect.md) 
 
-### [meeting_room.private](/_private/schema-org/Class/is_a_/place/accommodation/room/meeting_room.private.md) 
+### #is_/same_as :: [meeting_room.private](/_private/schema-org/Class/is_a_/place/accommodation/room/meeting_room.private.md) 
 
-### [meeting_room.personal](/_personal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.personal.md) 
+### #is_/same_as :: [meeting_room.personal](/_personal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.personal.md) 
 
-### [meeting_room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room/meeting_room.secret.md)
+### #is_/same_as :: [meeting_room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room/meeting_room.secret.md)
 

@@ -47,17 +47,17 @@ Nose function assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [nose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.md) 
+### #is_/same_as :: [nose](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.md) 
 
-### [nose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.public.md) 
+### #is_/same_as :: [nose.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.public.md) 
 
-### [nose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.internal.md) 
+### #is_/same_as :: [nose.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.internal.md) 
 
-### [nose.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.protect.md) 
+### #is_/same_as :: [nose.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.protect.md) 
 
-### [nose.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.private.md) 
+### #is_/same_as :: [nose.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.private.md) 
 
-### [nose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.personal.md) 
+### #is_/same_as :: [nose.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.personal.md) 
 
-### [nose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.secret.md)
+### #is_/same_as :: [nose.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/nose.secret.md)
 

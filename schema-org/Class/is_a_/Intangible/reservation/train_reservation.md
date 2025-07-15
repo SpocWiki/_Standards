@@ -47,17 +47,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [train_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/train_reservation.md) 
+### #is_/same_as :: [train_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/train_reservation.md) 
 
-### [train_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/train_reservation.public.md) 
+### #is_/same_as :: [train_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/train_reservation.public.md) 
 
-### [train_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.internal.md) 
+### #is_/same_as :: [train_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.internal.md) 
 
-### [train_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/train_reservation.protect.md) 
+### #is_/same_as :: [train_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/train_reservation.protect.md) 
 
-### [train_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/train_reservation.private.md) 
+### #is_/same_as :: [train_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/train_reservation.private.md) 
 
-### [train_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.personal.md) 
+### #is_/same_as :: [train_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/train_reservation.personal.md) 
 
-### [train_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/train_reservation.secret.md)
+### #is_/same_as :: [train_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/train_reservation.secret.md)
 

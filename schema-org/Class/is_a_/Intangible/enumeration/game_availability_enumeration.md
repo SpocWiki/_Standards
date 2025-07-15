@@ -45,17 +45,17 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 ## Confidential Links & Embeds: 
 
-### [game_availability_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.md) 
+### #is_/same_as :: [game_availability_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.md) 
 
-### [game_availability_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.public.md) 
+### #is_/same_as :: [game_availability_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.public.md) 
 
-### [game_availability_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.internal.md) 
+### #is_/same_as :: [game_availability_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.internal.md) 
 
-### [game_availability_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.protect.md) 
+### #is_/same_as :: [game_availability_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.protect.md) 
 
-### [game_availability_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.private.md) 
+### #is_/same_as :: [game_availability_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.private.md) 
 
-### [game_availability_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.personal.md) 
+### #is_/same_as :: [game_availability_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.personal.md) 
 
-### [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md)
+### #is_/same_as :: [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md)
 

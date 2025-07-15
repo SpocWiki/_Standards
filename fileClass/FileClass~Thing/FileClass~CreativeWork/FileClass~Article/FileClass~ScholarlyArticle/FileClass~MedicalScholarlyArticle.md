@@ -45,17 +45,17 @@ PublicationType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.md) 
 
-### [FileClass~MedicalScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.public.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.public.md) 
 
-### [FileClass~MedicalScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.internal.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.internal.md) 
 
-### [FileClass~MedicalScholarlyArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.protect.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.protect.md) 
 
-### [FileClass~MedicalScholarlyArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.private.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.private.md) 
 
-### [FileClass~MedicalScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.personal.md) 
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.personal.md) 
 
-### [FileClass~MedicalScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret.md)
+### #is_/same_as :: [FileClass~MedicalScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret.md)
 

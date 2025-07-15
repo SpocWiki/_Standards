@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_entertainment_business](/_Standards/schema-org/Relation/has/has_entertainment_business.md) 
+### #is_/same_as :: [has_entertainment_business](/_Standards/schema-org/Relation/has/has_entertainment_business.md) 
 
-### [has_entertainment_business.public](/_public/schema-org/Relation/has/has_entertainment_business.public.md) 
+### #is_/same_as :: [has_entertainment_business.public](/_public/schema-org/Relation/has/has_entertainment_business.public.md) 
 
-### [has_entertainment_business.internal](/_internal/schema-org/Relation/has/has_entertainment_business.internal.md) 
+### #is_/same_as :: [has_entertainment_business.internal](/_internal/schema-org/Relation/has/has_entertainment_business.internal.md) 
 
-### [has_entertainment_business.protect](/_protect/schema-org/Relation/has/has_entertainment_business.protect.md) 
+### #is_/same_as :: [has_entertainment_business.protect](/_protect/schema-org/Relation/has/has_entertainment_business.protect.md) 
 
-### [has_entertainment_business.private](/_private/schema-org/Relation/has/has_entertainment_business.private.md) 
+### #is_/same_as :: [has_entertainment_business.private](/_private/schema-org/Relation/has/has_entertainment_business.private.md) 
 
-### [has_entertainment_business.personal](/_personal/schema-org/Relation/has/has_entertainment_business.personal.md) 
+### #is_/same_as :: [has_entertainment_business.personal](/_personal/schema-org/Relation/has/has_entertainment_business.personal.md) 
 
-### [has_entertainment_business.secret](/_secret/schema-org/Relation/has/has_entertainment_business.secret.md)
+### #is_/same_as :: [has_entertainment_business.secret](/_secret/schema-org/Relation/has/has_entertainment_business.secret.md)
 

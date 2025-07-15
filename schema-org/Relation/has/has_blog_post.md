@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_blog_post](/_Standards/schema-org/Relation/has/has_blog_post.md) 
+### #is_/same_as :: [has_blog_post](/_Standards/schema-org/Relation/has/has_blog_post.md) 
 
-### [has_blog_post.public](/_public/schema-org/Relation/has/has_blog_post.public.md) 
+### #is_/same_as :: [has_blog_post.public](/_public/schema-org/Relation/has/has_blog_post.public.md) 
 
-### [has_blog_post.internal](/_internal/schema-org/Relation/has/has_blog_post.internal.md) 
+### #is_/same_as :: [has_blog_post.internal](/_internal/schema-org/Relation/has/has_blog_post.internal.md) 
 
-### [has_blog_post.protect](/_protect/schema-org/Relation/has/has_blog_post.protect.md) 
+### #is_/same_as :: [has_blog_post.protect](/_protect/schema-org/Relation/has/has_blog_post.protect.md) 
 
-### [has_blog_post.private](/_private/schema-org/Relation/has/has_blog_post.private.md) 
+### #is_/same_as :: [has_blog_post.private](/_private/schema-org/Relation/has/has_blog_post.private.md) 
 
-### [has_blog_post.personal](/_personal/schema-org/Relation/has/has_blog_post.personal.md) 
+### #is_/same_as :: [has_blog_post.personal](/_personal/schema-org/Relation/has/has_blog_post.personal.md) 
 
-### [has_blog_post.secret](/_secret/schema-org/Relation/has/has_blog_post.secret.md)
+### #is_/same_as :: [has_blog_post.secret](/_secret/schema-org/Relation/has/has_blog_post.secret.md)
 

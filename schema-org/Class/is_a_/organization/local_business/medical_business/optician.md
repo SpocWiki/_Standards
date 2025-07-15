@@ -45,17 +45,17 @@ A store that sells reading glasses and similar devices for improving vision.
 
 ## Confidential Links & Embeds: 
 
-### [optician](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/optician.md) 
+### #is_/same_as :: [optician](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/optician.md) 
 
-### [optician.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/optician.public.md) 
+### #is_/same_as :: [optician.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/optician.public.md) 
 
-### [optician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/optician.internal.md) 
+### #is_/same_as :: [optician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/optician.internal.md) 
 
-### [optician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/optician.protect.md) 
+### #is_/same_as :: [optician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/optician.protect.md) 
 
-### [optician.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/optician.private.md) 
+### #is_/same_as :: [optician.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/optician.private.md) 
 
-### [optician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/optician.personal.md) 
+### #is_/same_as :: [optician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/optician.personal.md) 
 
-### [optician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/optician.secret.md)
+### #is_/same_as :: [optician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/optician.secret.md)
 

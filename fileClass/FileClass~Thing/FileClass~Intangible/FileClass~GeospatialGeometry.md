@@ -145,17 +145,17 @@ GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeospatialGeometry](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.md) 
 
-### [FileClass~GeospatialGeometry.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.public.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.public.md) 
 
-### [FileClass~GeospatialGeometry.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.internal.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.internal.md) 
 
-### [FileClass~GeospatialGeometry.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.protect.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.protect.md) 
 
-### [FileClass~GeospatialGeometry.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.private.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.private.md) 
 
-### [FileClass~GeospatialGeometry.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.personal.md) 
+### #is_/same_as :: [FileClass~GeospatialGeometry.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.personal.md) 
 
-### [FileClass~GeospatialGeometry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.secret.md)
+### #is_/same_as :: [FileClass~GeospatialGeometry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GeospatialGeometry.secret.md)
 

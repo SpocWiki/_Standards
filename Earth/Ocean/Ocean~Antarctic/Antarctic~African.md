@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~African](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African.md) 
+### #is_/same_as :: [Antarctic~African](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African.md) 
 
-### [Antarctic~African.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.public.md) 
+### #is_/same_as :: [Antarctic~African.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.public.md) 
 
-### [Antarctic~African.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.internal.md) 
+### #is_/same_as :: [Antarctic~African.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.internal.md) 
 
-### [Antarctic~African.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African.protect.md) 
+### #is_/same_as :: [Antarctic~African.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African.protect.md) 
 
-### [Antarctic~African.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African.private.md) 
+### #is_/same_as :: [Antarctic~African.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African.private.md) 
 
-### [Antarctic~African.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.personal.md) 
+### #is_/same_as :: [Antarctic~African.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.personal.md) 
 
-### [Antarctic~African.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret.md)
+### #is_/same_as :: [Antarctic~African.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret.md)
 

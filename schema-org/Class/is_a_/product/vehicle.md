@@ -47,17 +47,17 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 ## Confidential Links & Embeds: 
 
-### [vehicle](/_Standards/schema-org/Class/is_a_/product/vehicle.md) 
+### #is_/same_as :: [vehicle](/_Standards/schema-org/Class/is_a_/product/vehicle.md) 
 
-### [vehicle.public](/_public/schema-org/Class/is_a_/product/vehicle.public.md) 
+### #is_/same_as :: [vehicle.public](/_public/schema-org/Class/is_a_/product/vehicle.public.md) 
 
-### [vehicle.internal](/_internal/schema-org/Class/is_a_/product/vehicle.internal.md) 
+### #is_/same_as :: [vehicle.internal](/_internal/schema-org/Class/is_a_/product/vehicle.internal.md) 
 
-### [vehicle.protect](/_protect/schema-org/Class/is_a_/product/vehicle.protect.md) 
+### #is_/same_as :: [vehicle.protect](/_protect/schema-org/Class/is_a_/product/vehicle.protect.md) 
 
-### [vehicle.private](/_private/schema-org/Class/is_a_/product/vehicle.private.md) 
+### #is_/same_as :: [vehicle.private](/_private/schema-org/Class/is_a_/product/vehicle.private.md) 
 
-### [vehicle.personal](/_personal/schema-org/Class/is_a_/product/vehicle.personal.md) 
+### #is_/same_as :: [vehicle.personal](/_personal/schema-org/Class/is_a_/product/vehicle.personal.md) 
 
-### [vehicle.secret](/_secret/schema-org/Class/is_a_/product/vehicle.secret.md)
+### #is_/same_as :: [vehicle.secret](/_secret/schema-org/Class/is_a_/product/vehicle.secret.md)
 

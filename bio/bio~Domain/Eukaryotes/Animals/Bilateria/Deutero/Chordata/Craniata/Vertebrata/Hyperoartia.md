@@ -206,22 +206,19 @@ such a parasitic form and had a stouter body than modern lampreys)
 Copyright ::   © 1997 Philippe Janvier
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Hyperoartia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.md) 
+### #is_/same_as :: [Hyperoartia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.md) 
 
-### [Hyperoartia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.public.md) 
+### #is_/same_as :: [Hyperoartia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.public.md) 
 
-### [Hyperoartia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.internal.md) 
+### #is_/same_as :: [Hyperoartia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.internal.md) 
 
-### [Hyperoartia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.protect.md) 
+### #is_/same_as :: [Hyperoartia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.protect.md) 
 
-### [Hyperoartia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.private.md) 
+### #is_/same_as :: [Hyperoartia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.private.md) 
 
-### [Hyperoartia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.personal.md) 
+### #is_/same_as :: [Hyperoartia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.personal.md) 
 
-### [Hyperoartia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.secret.md)
+### #is_/same_as :: [Hyperoartia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Hyperoartia.secret.md)
 

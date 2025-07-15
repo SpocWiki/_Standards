@@ -47,17 +47,17 @@ A specific branch of medical science that specializes in the care of infants, ch
 
 ## Confidential Links & Embeds: 
 
-### [pediatric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.md) 
+### #is_/same_as :: [pediatric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.md) 
 
-### [pediatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.public.md) 
+### #is_/same_as :: [pediatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.public.md) 
 
-### [pediatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.internal.md) 
+### #is_/same_as :: [pediatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.internal.md) 
 
-### [pediatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.protect.md) 
+### #is_/same_as :: [pediatric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.protect.md) 
 
-### [pediatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.private.md) 
+### #is_/same_as :: [pediatric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.private.md) 
 
-### [pediatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.personal.md) 
+### #is_/same_as :: [pediatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.personal.md) 
 
-### [pediatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.secret.md)
+### #is_/same_as :: [pediatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/pediatric.secret.md)
 

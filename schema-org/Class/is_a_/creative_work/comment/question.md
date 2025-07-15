@@ -45,17 +45,17 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 ## Confidential Links & Embeds: 
 
-### [question](/_Standards/schema-org/Class/is_a_/creative_work/comment/question.md) 
+### #is_/same_as :: [question](/_Standards/schema-org/Class/is_a_/creative_work/comment/question.md) 
 
-### [question.public](/_public/schema-org/Class/is_a_/creative_work/comment/question.public.md) 
+### #is_/same_as :: [question.public](/_public/schema-org/Class/is_a_/creative_work/comment/question.public.md) 
 
-### [question.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/question.internal.md) 
+### #is_/same_as :: [question.internal](/_internal/schema-org/Class/is_a_/creative_work/comment/question.internal.md) 
 
-### [question.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/question.protect.md) 
+### #is_/same_as :: [question.protect](/_protect/schema-org/Class/is_a_/creative_work/comment/question.protect.md) 
 
-### [question.private](/_private/schema-org/Class/is_a_/creative_work/comment/question.private.md) 
+### #is_/same_as :: [question.private](/_private/schema-org/Class/is_a_/creative_work/comment/question.private.md) 
 
-### [question.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/question.personal.md) 
+### #is_/same_as :: [question.personal](/_personal/schema-org/Class/is_a_/creative_work/comment/question.personal.md) 
 
-### [question.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/question.secret.md)
+### #is_/same_as :: [question.secret](/_secret/schema-org/Class/is_a_/creative_work/comment/question.secret.md)
 

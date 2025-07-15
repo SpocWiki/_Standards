@@ -43,23 +43,19 @@ time_of_discovery_or_invention: "1924"
 > [Wikipedia](https://en.wikipedia.org/wiki/Internal%20combustion%20engine) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Combustion_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Combustion_Engine.md) 
+### #is_/same_as :: [Combustion_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Combustion_Engine.md) 
 
-### [Combustion_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Combustion_Engine.public.md) 
+### #is_/same_as :: [Combustion_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Combustion_Engine.public.md) 
 
-### [Combustion_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.internal.md) 
+### #is_/same_as :: [Combustion_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.internal.md) 
 
-### [Combustion_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Combustion_Engine.protect.md) 
+### #is_/same_as :: [Combustion_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Combustion_Engine.protect.md) 
 
-### [Combustion_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Combustion_Engine.private.md) 
+### #is_/same_as :: [Combustion_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Combustion_Engine.private.md) 
 
-### [Combustion_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.personal.md) 
+### #is_/same_as :: [Combustion_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Combustion_Engine.personal.md) 
 
-### [Combustion_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Combustion_Engine.secret.md)
+### #is_/same_as :: [Combustion_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Combustion_Engine.secret.md)
 

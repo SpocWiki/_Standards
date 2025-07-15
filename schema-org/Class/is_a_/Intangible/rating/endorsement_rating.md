@@ -50,17 +50,17 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 
 ## Confidential Links & Embeds: 
 
-### [endorsement_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.md) 
+### #is_/same_as :: [endorsement_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.md) 
 
-### [endorsement_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.public.md) 
+### #is_/same_as :: [endorsement_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.public.md) 
 
-### [endorsement_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.internal.md) 
+### #is_/same_as :: [endorsement_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.internal.md) 
 
-### [endorsement_rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.protect.md) 
+### #is_/same_as :: [endorsement_rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.protect.md) 
 
-### [endorsement_rating.private](/_private/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.private.md) 
+### #is_/same_as :: [endorsement_rating.private](/_private/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.private.md) 
 
-### [endorsement_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.personal.md) 
+### #is_/same_as :: [endorsement_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.personal.md) 
 
-### [endorsement_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.secret.md)
+### #is_/same_as :: [endorsement_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/endorsement_rating.secret.md)
 

@@ -49,17 +49,17 @@ Nonprofit501c8: Non-profit type referring to Fraternal Beneficiary Societies and
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c8](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.md) 
+### #is_/same_as :: [nonprofit501c8](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.md) 
 
-### [nonprofit501c8.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.public.md) 
+### #is_/same_as :: [nonprofit501c8.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.public.md) 
 
-### [nonprofit501c8.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.internal.md) 
+### #is_/same_as :: [nonprofit501c8.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.internal.md) 
 
-### [nonprofit501c8.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.protect.md) 
+### #is_/same_as :: [nonprofit501c8.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.protect.md) 
 
-### [nonprofit501c8.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.private.md) 
+### #is_/same_as :: [nonprofit501c8.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.private.md) 
 
-### [nonprofit501c8.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.personal.md) 
+### #is_/same_as :: [nonprofit501c8.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.personal.md) 
 
-### [nonprofit501c8.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.secret.md)
+### #is_/same_as :: [nonprofit501c8.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c8.secret.md)
 

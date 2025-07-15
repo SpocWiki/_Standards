@@ -36,17 +36,17 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-jv](/_Standards/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.md) 
+### #is_/same_as :: [Lang-jv](/_Standards/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.md) 
 
-### [Lang-jv.public](/_public/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.public.md) 
+### #is_/same_as :: [Lang-jv.public](/_public/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.public.md) 
 
-### [Lang-jv.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.internal.md) 
+### #is_/same_as :: [Lang-jv.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.internal.md) 
 
-### [Lang-jv.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.protect.md) 
+### #is_/same_as :: [Lang-jv.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.protect.md) 
 
-### [Lang-jv.private](/_private/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.private.md) 
+### #is_/same_as :: [Lang-jv.private](/_private/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.private.md) 
 
-### [Lang-jv.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.personal.md) 
+### #is_/same_as :: [Lang-jv.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.personal.md) 
 
-### [Lang-jv.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.secret.md)
+### #is_/same_as :: [Lang-jv.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.secret.md)
 

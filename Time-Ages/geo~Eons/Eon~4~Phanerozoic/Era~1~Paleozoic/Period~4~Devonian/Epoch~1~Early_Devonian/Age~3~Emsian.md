@@ -69,17 +69,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~3~Emsian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.md) 
+### #is_/same_as :: [Age~3~Emsian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.md) 
 
-### [Age~3~Emsian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.public.md) 
+### #is_/same_as :: [Age~3~Emsian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.public.md) 
 
-### [Age~3~Emsian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.internal.md) 
+### #is_/same_as :: [Age~3~Emsian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.internal.md) 
 
-### [Age~3~Emsian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.protect.md) 
+### #is_/same_as :: [Age~3~Emsian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.protect.md) 
 
-### [Age~3~Emsian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.private.md) 
+### #is_/same_as :: [Age~3~Emsian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.private.md) 
 
-### [Age~3~Emsian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.personal.md) 
+### #is_/same_as :: [Age~3~Emsian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.personal.md) 
 
-### [Age~3~Emsian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.secret.md)
+### #is_/same_as :: [Age~3~Emsian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.secret.md)
 

@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_web_checkin](/_Standards/schema-org/Property/has_Date_Time/has_time_of_web_checkin.md) 
+### #is_/same_as :: [has_time_of_web_checkin](/_Standards/schema-org/Property/has_Date_Time/has_time_of_web_checkin.md) 
 
-### [has_time_of_web_checkin.public](/_public/schema-org/Property/has_Date_Time/has_time_of_web_checkin.public.md) 
+### #is_/same_as :: [has_time_of_web_checkin.public](/_public/schema-org/Property/has_Date_Time/has_time_of_web_checkin.public.md) 
 
-### [has_time_of_web_checkin.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.internal.md) 
+### #is_/same_as :: [has_time_of_web_checkin.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.internal.md) 
 
-### [has_time_of_web_checkin.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_web_checkin.protect.md) 
+### #is_/same_as :: [has_time_of_web_checkin.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_web_checkin.protect.md) 
 
-### [has_time_of_web_checkin.private](/_private/schema-org/Property/has_Date_Time/has_time_of_web_checkin.private.md) 
+### #is_/same_as :: [has_time_of_web_checkin.private](/_private/schema-org/Property/has_Date_Time/has_time_of_web_checkin.private.md) 
 
-### [has_time_of_web_checkin.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.personal.md) 
+### #is_/same_as :: [has_time_of_web_checkin.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.personal.md) 
 
-### [has_time_of_web_checkin.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_web_checkin.secret.md)
+### #is_/same_as :: [has_time_of_web_checkin.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_web_checkin.secret.md)
 

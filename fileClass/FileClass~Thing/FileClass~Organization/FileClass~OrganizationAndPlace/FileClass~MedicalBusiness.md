@@ -35,17 +35,17 @@ A particular physical or virtual business of an organization for medical purpose
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.md) 
 
-### [FileClass~MedicalBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.public.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.public.md) 
 
-### [FileClass~MedicalBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.internal.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.internal.md) 
 
-### [FileClass~MedicalBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.protect.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.protect.md) 
 
-### [FileClass~MedicalBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.private.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.private.md) 
 
-### [FileClass~MedicalBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.personal.md) 
+### #is_/same_as :: [FileClass~MedicalBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.personal.md) 
 
-### [FileClass~MedicalBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.secret.md)
+### #is_/same_as :: [FileClass~MedicalBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness.secret.md)
 

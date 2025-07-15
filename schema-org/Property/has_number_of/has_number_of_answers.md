@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_answers](/_Standards/schema-org/Property/has_number_of/has_number_of_answers.md) 
+### #is_/same_as :: [has_number_of_answers](/_Standards/schema-org/Property/has_number_of/has_number_of_answers.md) 
 
-### [has_number_of_answers.public](/_public/schema-org/Property/has_number_of/has_number_of_answers.public.md) 
+### #is_/same_as :: [has_number_of_answers.public](/_public/schema-org/Property/has_number_of/has_number_of_answers.public.md) 
 
-### [has_number_of_answers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_answers.internal.md) 
+### #is_/same_as :: [has_number_of_answers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_answers.internal.md) 
 
-### [has_number_of_answers.protect](/_protect/schema-org/Property/has_number_of/has_number_of_answers.protect.md) 
+### #is_/same_as :: [has_number_of_answers.protect](/_protect/schema-org/Property/has_number_of/has_number_of_answers.protect.md) 
 
-### [has_number_of_answers.private](/_private/schema-org/Property/has_number_of/has_number_of_answers.private.md) 
+### #is_/same_as :: [has_number_of_answers.private](/_private/schema-org/Property/has_number_of/has_number_of_answers.private.md) 
 
-### [has_number_of_answers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_answers.personal.md) 
+### #is_/same_as :: [has_number_of_answers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_answers.personal.md) 
 
-### [has_number_of_answers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_answers.secret.md)
+### #is_/same_as :: [has_number_of_answers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_answers.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_post_op](/_Standards/schema-org/Property/Texts/has_post_op.md) 
+### #is_/same_as :: [has_post_op](/_Standards/schema-org/Property/Texts/has_post_op.md) 
 
-### [has_post_op.public](/_public/schema-org/Property/Texts/has_post_op.public.md) 
+### #is_/same_as :: [has_post_op.public](/_public/schema-org/Property/Texts/has_post_op.public.md) 
 
-### [has_post_op.internal](/_internal/schema-org/Property/Texts/has_post_op.internal.md) 
+### #is_/same_as :: [has_post_op.internal](/_internal/schema-org/Property/Texts/has_post_op.internal.md) 
 
-### [has_post_op.protect](/_protect/schema-org/Property/Texts/has_post_op.protect.md) 
+### #is_/same_as :: [has_post_op.protect](/_protect/schema-org/Property/Texts/has_post_op.protect.md) 
 
-### [has_post_op.private](/_private/schema-org/Property/Texts/has_post_op.private.md) 
+### #is_/same_as :: [has_post_op.private](/_private/schema-org/Property/Texts/has_post_op.private.md) 
 
-### [has_post_op.personal](/_personal/schema-org/Property/Texts/has_post_op.personal.md) 
+### #is_/same_as :: [has_post_op.personal](/_personal/schema-org/Property/Texts/has_post_op.personal.md) 
 
-### [has_post_op.secret](/_secret/schema-org/Property/Texts/has_post_op.secret.md)
+### #is_/same_as :: [has_post_op.secret](/_secret/schema-org/Property/Texts/has_post_op.secret.md)
 

@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_location_address_billing](/_Standards/schema-org/Property/has_location/has_location_address_billing.md) 
+### #is_/same_as :: [has_location_address_billing](/_Standards/schema-org/Property/has_location/has_location_address_billing.md) 
 
-### [has_location_address_billing.public](/_public/schema-org/Property/has_location/has_location_address_billing.public.md) 
+### #is_/same_as :: [has_location_address_billing.public](/_public/schema-org/Property/has_location/has_location_address_billing.public.md) 
 
-### [has_location_address_billing.internal](/_internal/schema-org/Property/has_location/has_location_address_billing.internal.md) 
+### #is_/same_as :: [has_location_address_billing.internal](/_internal/schema-org/Property/has_location/has_location_address_billing.internal.md) 
 
-### [has_location_address_billing.protect](/_protect/schema-org/Property/has_location/has_location_address_billing.protect.md) 
+### #is_/same_as :: [has_location_address_billing.protect](/_protect/schema-org/Property/has_location/has_location_address_billing.protect.md) 
 
-### [has_location_address_billing.private](/_private/schema-org/Property/has_location/has_location_address_billing.private.md) 
+### #is_/same_as :: [has_location_address_billing.private](/_private/schema-org/Property/has_location/has_location_address_billing.private.md) 
 
-### [has_location_address_billing.personal](/_personal/schema-org/Property/has_location/has_location_address_billing.personal.md) 
+### #is_/same_as :: [has_location_address_billing.personal](/_personal/schema-org/Property/has_location/has_location_address_billing.personal.md) 
 
-### [has_location_address_billing.secret](/_secret/schema-org/Property/has_location/has_location_address_billing.secret.md)
+### #is_/same_as :: [has_location_address_billing.secret](/_secret/schema-org/Property/has_location/has_location_address_billing.secret.md)
 

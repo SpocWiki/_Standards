@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_arrival_station](/_Standards/schema-org/Relation/has/has_arrival_station.md) 
+### #is_/same_as :: [has_arrival_station](/_Standards/schema-org/Relation/has/has_arrival_station.md) 
 
-### [has_arrival_station.public](/_public/schema-org/Relation/has/has_arrival_station.public.md) 
+### #is_/same_as :: [has_arrival_station.public](/_public/schema-org/Relation/has/has_arrival_station.public.md) 
 
-### [has_arrival_station.internal](/_internal/schema-org/Relation/has/has_arrival_station.internal.md) 
+### #is_/same_as :: [has_arrival_station.internal](/_internal/schema-org/Relation/has/has_arrival_station.internal.md) 
 
-### [has_arrival_station.protect](/_protect/schema-org/Relation/has/has_arrival_station.protect.md) 
+### #is_/same_as :: [has_arrival_station.protect](/_protect/schema-org/Relation/has/has_arrival_station.protect.md) 
 
-### [has_arrival_station.private](/_private/schema-org/Relation/has/has_arrival_station.private.md) 
+### #is_/same_as :: [has_arrival_station.private](/_private/schema-org/Relation/has/has_arrival_station.private.md) 
 
-### [has_arrival_station.personal](/_personal/schema-org/Relation/has/has_arrival_station.personal.md) 
+### #is_/same_as :: [has_arrival_station.personal](/_personal/schema-org/Relation/has/has_arrival_station.personal.md) 
 
-### [has_arrival_station.secret](/_secret/schema-org/Relation/has/has_arrival_station.secret.md)
+### #is_/same_as :: [has_arrival_station.secret](/_secret/schema-org/Relation/has/has_arrival_station.secret.md)
 

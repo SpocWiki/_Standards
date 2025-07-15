@@ -45,17 +45,17 @@ A musical composition.
 
 ## Confidential Links & Embeds: 
 
-### [music_composition](/_Standards/schema-org/Class/is_a_/creative_work/music_composition.md) 
+### #is_/same_as :: [music_composition](/_Standards/schema-org/Class/is_a_/creative_work/music_composition.md) 
 
-### [music_composition.public](/_public/schema-org/Class/is_a_/creative_work/music_composition.public.md) 
+### #is_/same_as :: [music_composition.public](/_public/schema-org/Class/is_a_/creative_work/music_composition.public.md) 
 
-### [music_composition.internal](/_internal/schema-org/Class/is_a_/creative_work/music_composition.internal.md) 
+### #is_/same_as :: [music_composition.internal](/_internal/schema-org/Class/is_a_/creative_work/music_composition.internal.md) 
 
-### [music_composition.protect](/_protect/schema-org/Class/is_a_/creative_work/music_composition.protect.md) 
+### #is_/same_as :: [music_composition.protect](/_protect/schema-org/Class/is_a_/creative_work/music_composition.protect.md) 
 
-### [music_composition.private](/_private/schema-org/Class/is_a_/creative_work/music_composition.private.md) 
+### #is_/same_as :: [music_composition.private](/_private/schema-org/Class/is_a_/creative_work/music_composition.private.md) 
 
-### [music_composition.personal](/_personal/schema-org/Class/is_a_/creative_work/music_composition.personal.md) 
+### #is_/same_as :: [music_composition.personal](/_personal/schema-org/Class/is_a_/creative_work/music_composition.personal.md) 
 
-### [music_composition.secret](/_secret/schema-org/Class/is_a_/creative_work/music_composition.secret.md)
+### #is_/same_as :: [music_composition.secret](/_secret/schema-org/Class/is_a_/creative_work/music_composition.secret.md)
 

@@ -61,20 +61,19 @@ U_S_National_Archives_Identifier: 10638853
 > [Wikipedia](https://en.wikipedia.org/wiki/Child)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Child](/_Standards/bio/Society/Family/Child.md) 
+### #is_/same_as :: [Child](/_Standards/bio/Society/Family/Child.md) 
 
-### [Child.public](/_public/bio/Society/Family/Child.public.md) 
+### #is_/same_as :: [Child.public](/_public/bio/Society/Family/Child.public.md) 
 
-### [Child.internal](/_internal/bio/Society/Family/Child.internal.md) 
+### #is_/same_as :: [Child.internal](/_internal/bio/Society/Family/Child.internal.md) 
 
-### [Child.protect](/_protect/bio/Society/Family/Child.protect.md) 
+### #is_/same_as :: [Child.protect](/_protect/bio/Society/Family/Child.protect.md) 
 
-### [Child.private](/_private/bio/Society/Family/Child.private.md) 
+### #is_/same_as :: [Child.private](/_private/bio/Society/Family/Child.private.md) 
 
-### [Child.personal](/_personal/bio/Society/Family/Child.personal.md) 
+### #is_/same_as :: [Child.personal](/_personal/bio/Society/Family/Child.personal.md) 
 
-### [Child.secret](/_secret/bio/Society/Family/Child.secret.md)
+### #is_/same_as :: [Child.secret](/_secret/bio/Society/Family/Child.secret.md)
 

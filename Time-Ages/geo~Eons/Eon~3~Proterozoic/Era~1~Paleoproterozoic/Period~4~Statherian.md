@@ -60,17 +60,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~4~Statherian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.md) 
+### #is_/same_as :: [Period~4~Statherian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.md) 
 
-### [Period~4~Statherian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.public.md) 
+### #is_/same_as :: [Period~4~Statherian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.public.md) 
 
-### [Period~4~Statherian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.internal.md) 
+### #is_/same_as :: [Period~4~Statherian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.internal.md) 
 
-### [Period~4~Statherian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.protect.md) 
+### #is_/same_as :: [Period~4~Statherian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.protect.md) 
 
-### [Period~4~Statherian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.private.md) 
+### #is_/same_as :: [Period~4~Statherian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.private.md) 
 
-### [Period~4~Statherian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.personal.md) 
+### #is_/same_as :: [Period~4~Statherian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.personal.md) 
 
-### [Period~4~Statherian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.secret.md)
+### #is_/same_as :: [Period~4~Statherian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.secret.md)
 

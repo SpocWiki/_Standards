@@ -99,17 +99,17 @@ canonical_SMILES: '[Rn]'
 
 ## Confidential Links & Embeds: 
 
-### [Radon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.md) 
+### #is_/same_as :: [Radon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.md) 
 
-### [Radon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.public.md) 
+### #is_/same_as :: [Radon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.public.md) 
 
-### [Radon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.internal.md) 
+### #is_/same_as :: [Radon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.internal.md) 
 
-### [Radon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.protect.md) 
+### #is_/same_as :: [Radon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.protect.md) 
 
-### [Radon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.private.md) 
+### #is_/same_as :: [Radon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.private.md) 
 
-### [Radon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.personal.md) 
+### #is_/same_as :: [Radon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.personal.md) 
 
-### [Radon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.secret.md)
+### #is_/same_as :: [Radon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.secret.md)
 

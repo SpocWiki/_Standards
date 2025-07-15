@@ -45,17 +45,17 @@ A short segment/part of a movie.
 
 ## Confidential Links & Embeds: 
 
-### [movie_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/movie_clip.md) 
+### #is_/same_as :: [movie_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/movie_clip.md) 
 
-### [movie_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/movie_clip.public.md) 
+### #is_/same_as :: [movie_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/movie_clip.public.md) 
 
-### [movie_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/movie_clip.internal.md) 
+### #is_/same_as :: [movie_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/movie_clip.internal.md) 
 
-### [movie_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/movie_clip.protect.md) 
+### #is_/same_as :: [movie_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/movie_clip.protect.md) 
 
-### [movie_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/movie_clip.private.md) 
+### #is_/same_as :: [movie_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/movie_clip.private.md) 
 
-### [movie_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/movie_clip.personal.md) 
+### #is_/same_as :: [movie_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/movie_clip.personal.md) 
 
-### [movie_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/movie_clip.secret.md)
+### #is_/same_as :: [movie_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/movie_clip.secret.md)
 

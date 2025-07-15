@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_game_server](/_Standards/schema-org/Relation/has/has_game_server.md) 
+### #is_/same_as :: [has_game_server](/_Standards/schema-org/Relation/has/has_game_server.md) 
 
-### [has_game_server.public](/_public/schema-org/Relation/has/has_game_server.public.md) 
+### #is_/same_as :: [has_game_server.public](/_public/schema-org/Relation/has/has_game_server.public.md) 
 
-### [has_game_server.internal](/_internal/schema-org/Relation/has/has_game_server.internal.md) 
+### #is_/same_as :: [has_game_server.internal](/_internal/schema-org/Relation/has/has_game_server.internal.md) 
 
-### [has_game_server.protect](/_protect/schema-org/Relation/has/has_game_server.protect.md) 
+### #is_/same_as :: [has_game_server.protect](/_protect/schema-org/Relation/has/has_game_server.protect.md) 
 
-### [has_game_server.private](/_private/schema-org/Relation/has/has_game_server.private.md) 
+### #is_/same_as :: [has_game_server.private](/_private/schema-org/Relation/has/has_game_server.private.md) 
 
-### [has_game_server.personal](/_personal/schema-org/Relation/has/has_game_server.personal.md) 
+### #is_/same_as :: [has_game_server.personal](/_personal/schema-org/Relation/has/has_game_server.personal.md) 
 
-### [has_game_server.secret](/_secret/schema-org/Relation/has/has_game_server.secret.md)
+### #is_/same_as :: [has_game_server.secret](/_secret/schema-org/Relation/has/has_game_server.secret.md)
 

@@ -39,17 +39,17 @@ Bed and breakfast.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BedAndBreakfast](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.md) 
 
-### [FileClass~BedAndBreakfast.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.public.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.public.md) 
 
-### [FileClass~BedAndBreakfast.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.internal.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.internal.md) 
 
-### [FileClass~BedAndBreakfast.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.protect.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.protect.md) 
 
-### [FileClass~BedAndBreakfast.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.private.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.private.md) 
 
-### [FileClass~BedAndBreakfast.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.personal.md) 
+### #is_/same_as :: [FileClass~BedAndBreakfast.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.personal.md) 
 
-### [FileClass~BedAndBreakfast.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.secret.md)
+### #is_/same_as :: [FileClass~BedAndBreakfast.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.secret.md)
 

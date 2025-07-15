@@ -458,17 +458,17 @@ Capital :: [[Libreville]]
 
 ## Confidential Links & Embeds: 
 
-### [Gabon](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon.md) 
+### #is_/same_as :: [Gabon](/_Standards/Earth/Continent/Africa/Africa~Central/Gabon.md) 
 
-### [Gabon.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon.public.md) 
+### #is_/same_as :: [Gabon.public](/_public/Earth/Continent/Africa/Africa~Central/Gabon.public.md) 
 
-### [Gabon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal.md) 
+### #is_/same_as :: [Gabon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal.md) 
 
-### [Gabon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect.md) 
+### #is_/same_as :: [Gabon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect.md) 
 
-### [Gabon.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon.private.md) 
+### #is_/same_as :: [Gabon.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon.private.md) 
 
-### [Gabon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal.md) 
+### #is_/same_as :: [Gabon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal.md) 
 
-### [Gabon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret.md)
+### #is_/same_as :: [Gabon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret.md)
 

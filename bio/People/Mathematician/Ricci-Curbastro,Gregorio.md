@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Ricci-Curbastro,Gregorio](/_Standards/bio/People/Mathematician/Ricci-Curbastro,Gregorio.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio](/_Standards/bio/People/Mathematician/Ricci-Curbastro,Gregorio.md) 
 
-### [Ricci-Curbastro,Gregorio.public](/_public/bio/People/Mathematician/Ricci-Curbastro,Gregorio.public.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.public](/_public/bio/People/Mathematician/Ricci-Curbastro,Gregorio.public.md) 
 
-### [Ricci-Curbastro,Gregorio.internal](/_internal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.internal.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.internal](/_internal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.internal.md) 
 
-### [Ricci-Curbastro,Gregorio.protect](/_protect/bio/People/Mathematician/Ricci-Curbastro,Gregorio.protect.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.protect](/_protect/bio/People/Mathematician/Ricci-Curbastro,Gregorio.protect.md) 
 
-### [Ricci-Curbastro,Gregorio.private](/_private/bio/People/Mathematician/Ricci-Curbastro,Gregorio.private.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.private](/_private/bio/People/Mathematician/Ricci-Curbastro,Gregorio.private.md) 
 
-### [Ricci-Curbastro,Gregorio.personal](/_personal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.personal.md) 
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.personal](/_personal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.personal.md) 
 
-### [Ricci-Curbastro,Gregorio.secret](/_secret/bio/People/Mathematician/Ricci-Curbastro,Gregorio.secret.md)
+### #is_/same_as :: [Ricci-Curbastro,Gregorio.secret](/_secret/bio/People/Mathematician/Ricci-Curbastro,Gregorio.secret.md)
 

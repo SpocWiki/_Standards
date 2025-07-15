@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_nationality](/_Standards/schema-org/Relation/has/has_nationality.md) 
+### #is_/same_as :: [has_nationality](/_Standards/schema-org/Relation/has/has_nationality.md) 
 
-### [has_nationality.public](/_public/schema-org/Relation/has/has_nationality.public.md) 
+### #is_/same_as :: [has_nationality.public](/_public/schema-org/Relation/has/has_nationality.public.md) 
 
-### [has_nationality.internal](/_internal/schema-org/Relation/has/has_nationality.internal.md) 
+### #is_/same_as :: [has_nationality.internal](/_internal/schema-org/Relation/has/has_nationality.internal.md) 
 
-### [has_nationality.protect](/_protect/schema-org/Relation/has/has_nationality.protect.md) 
+### #is_/same_as :: [has_nationality.protect](/_protect/schema-org/Relation/has/has_nationality.protect.md) 
 
-### [has_nationality.private](/_private/schema-org/Relation/has/has_nationality.private.md) 
+### #is_/same_as :: [has_nationality.private](/_private/schema-org/Relation/has/has_nationality.private.md) 
 
-### [has_nationality.personal](/_personal/schema-org/Relation/has/has_nationality.personal.md) 
+### #is_/same_as :: [has_nationality.personal](/_personal/schema-org/Relation/has/has_nationality.personal.md) 
 
-### [has_nationality.secret](/_secret/schema-org/Relation/has/has_nationality.secret.md)
+### #is_/same_as :: [has_nationality.secret](/_secret/schema-org/Relation/has/has_nationality.secret.md)
 

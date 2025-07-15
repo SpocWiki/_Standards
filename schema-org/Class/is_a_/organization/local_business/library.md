@@ -45,17 +45,17 @@ A library.
 
 ## Confidential Links & Embeds: 
 
-### [library](/_Standards/schema-org/Class/is_a_/organization/local_business/library.md) 
+### #is_/same_as :: [library](/_Standards/schema-org/Class/is_a_/organization/local_business/library.md) 
 
-### [library.public](/_public/schema-org/Class/is_a_/organization/local_business/library.public.md) 
+### #is_/same_as :: [library.public](/_public/schema-org/Class/is_a_/organization/local_business/library.public.md) 
 
-### [library.internal](/_internal/schema-org/Class/is_a_/organization/local_business/library.internal.md) 
+### #is_/same_as :: [library.internal](/_internal/schema-org/Class/is_a_/organization/local_business/library.internal.md) 
 
-### [library.protect](/_protect/schema-org/Class/is_a_/organization/local_business/library.protect.md) 
+### #is_/same_as :: [library.protect](/_protect/schema-org/Class/is_a_/organization/local_business/library.protect.md) 
 
-### [library.private](/_private/schema-org/Class/is_a_/organization/local_business/library.private.md) 
+### #is_/same_as :: [library.private](/_private/schema-org/Class/is_a_/organization/local_business/library.private.md) 
 
-### [library.personal](/_personal/schema-org/Class/is_a_/organization/local_business/library.personal.md) 
+### #is_/same_as :: [library.personal](/_personal/schema-org/Class/is_a_/organization/local_business/library.personal.md) 
 
-### [library.secret](/_secret/schema-org/Class/is_a_/organization/local_business/library.secret.md)
+### #is_/same_as :: [library.secret](/_secret/schema-org/Class/is_a_/organization/local_business/library.secret.md)
 

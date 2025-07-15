@@ -235,21 +235,19 @@ spouse:
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Sebastian%20Bach)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bach,Johann_Sebastian](/_Standards/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian](/_Standards/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.md) 
 
-### [Bach,Johann_Sebastian.public](/_public/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.public.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.public](/_public/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.public.md) 
 
-### [Bach,Johann_Sebastian.internal](/_internal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.internal](/_internal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal.md) 
 
-### [Bach,Johann_Sebastian.protect](/_protect/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.protect](/_protect/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect.md) 
 
-### [Bach,Johann_Sebastian.private](/_private/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.private.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.private](/_private/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.private.md) 
 
-### [Bach,Johann_Sebastian.personal](/_personal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal.md) 
+### #is_/same_as :: [Bach,Johann_Sebastian.personal](/_personal/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal.md) 
 
-### [Bach,Johann_Sebastian.secret](/_secret/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret.md)
+### #is_/same_as :: [Bach,Johann_Sebastian.secret](/_secret/bio/People/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret.md)
 

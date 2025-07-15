@@ -47,17 +47,17 @@ A health profession of a person formally educated and trained in the care of the
 
 ## Confidential Links & Embeds: 
 
-### [nursing](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.md) 
+### #is_/same_as :: [nursing](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.md) 
 
-### [nursing.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.public.md) 
+### #is_/same_as :: [nursing.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.public.md) 
 
-### [nursing.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.internal.md) 
+### #is_/same_as :: [nursing.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.internal.md) 
 
-### [nursing.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.protect.md) 
+### #is_/same_as :: [nursing.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.protect.md) 
 
-### [nursing.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.private.md) 
+### #is_/same_as :: [nursing.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.private.md) 
 
-### [nursing.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.personal.md) 
+### #is_/same_as :: [nursing.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.personal.md) 
 
-### [nursing.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.secret.md)
+### #is_/same_as :: [nursing.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.secret.md)
 

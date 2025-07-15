@@ -45,17 +45,17 @@ The act of producing a balanced opinion about the object for an audience. An age
 
 ## Confidential Links & Embeds: 
 
-### [review_action](/_Standards/schema-org/Class/is_a_/action/assess_action/review_action.md) 
+### #is_/same_as :: [review_action](/_Standards/schema-org/Class/is_a_/action/assess_action/review_action.md) 
 
-### [review_action.public](/_public/schema-org/Class/is_a_/action/assess_action/review_action.public.md) 
+### #is_/same_as :: [review_action.public](/_public/schema-org/Class/is_a_/action/assess_action/review_action.public.md) 
 
-### [review_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/review_action.internal.md) 
+### #is_/same_as :: [review_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/review_action.internal.md) 
 
-### [review_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/review_action.protect.md) 
+### #is_/same_as :: [review_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/review_action.protect.md) 
 
-### [review_action.private](/_private/schema-org/Class/is_a_/action/assess_action/review_action.private.md) 
+### #is_/same_as :: [review_action.private](/_private/schema-org/Class/is_a_/action/assess_action/review_action.private.md) 
 
-### [review_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/review_action.personal.md) 
+### #is_/same_as :: [review_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/review_action.personal.md) 
 
-### [review_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/review_action.secret.md)
+### #is_/same_as :: [review_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/review_action.secret.md)
 

@@ -45,17 +45,17 @@ Beauty salon.
 
 ## Confidential Links & Embeds: 
 
-### [beauty_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.md) 
+### #is_/same_as :: [beauty_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.md) 
 
-### [beauty_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.public.md) 
+### #is_/same_as :: [beauty_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.public.md) 
 
-### [beauty_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.internal.md) 
+### #is_/same_as :: [beauty_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.internal.md) 
 
-### [beauty_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.protect.md) 
+### #is_/same_as :: [beauty_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.protect.md) 
 
-### [beauty_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.private.md) 
+### #is_/same_as :: [beauty_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.private.md) 
 
-### [beauty_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.personal.md) 
+### #is_/same_as :: [beauty_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.personal.md) 
 
-### [beauty_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.secret.md)
+### #is_/same_as :: [beauty_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.secret.md)
 

@@ -48,22 +48,19 @@ Commons_category: Flutes
 > [Wikipedia](https://en.wikipedia.org/wiki/Flute) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Flute](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Flute.md) 
+### #is_/same_as :: [Flute](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Flute.md) 
 
-### [Flute.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Flute.public.md) 
+### #is_/same_as :: [Flute.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Flute.public.md) 
 
-### [Flute.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Flute.internal.md) 
+### #is_/same_as :: [Flute.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Flute.internal.md) 
 
-### [Flute.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Flute.protect.md) 
+### #is_/same_as :: [Flute.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Flute.protect.md) 
 
-### [Flute.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Flute.private.md) 
+### #is_/same_as :: [Flute.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Flute.private.md) 
 
-### [Flute.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Flute.personal.md) 
+### #is_/same_as :: [Flute.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Flute.personal.md) 
 
-### [Flute.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Flute.secret.md)
+### #is_/same_as :: [Flute.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Flute.secret.md)
 

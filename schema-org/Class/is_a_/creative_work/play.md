@@ -47,17 +47,17 @@ A play is a form of literature, usually consisting of dialogue between character
 
 ## Confidential Links & Embeds: 
 
-### [play](/_Standards/schema-org/Class/is_a_/creative_work/play.md) 
+### #is_/same_as :: [play](/_Standards/schema-org/Class/is_a_/creative_work/play.md) 
 
-### [play.public](/_public/schema-org/Class/is_a_/creative_work/play.public.md) 
+### #is_/same_as :: [play.public](/_public/schema-org/Class/is_a_/creative_work/play.public.md) 
 
-### [play.internal](/_internal/schema-org/Class/is_a_/creative_work/play.internal.md) 
+### #is_/same_as :: [play.internal](/_internal/schema-org/Class/is_a_/creative_work/play.internal.md) 
 
-### [play.protect](/_protect/schema-org/Class/is_a_/creative_work/play.protect.md) 
+### #is_/same_as :: [play.protect](/_protect/schema-org/Class/is_a_/creative_work/play.protect.md) 
 
-### [play.private](/_private/schema-org/Class/is_a_/creative_work/play.private.md) 
+### #is_/same_as :: [play.private](/_private/schema-org/Class/is_a_/creative_work/play.private.md) 
 
-### [play.personal](/_personal/schema-org/Class/is_a_/creative_work/play.personal.md) 
+### #is_/same_as :: [play.personal](/_personal/schema-org/Class/is_a_/creative_work/play.personal.md) 
 
-### [play.secret](/_secret/schema-org/Class/is_a_/creative_work/play.secret.md)
+### #is_/same_as :: [play.secret](/_secret/schema-org/Class/is_a_/creative_work/play.secret.md)
 

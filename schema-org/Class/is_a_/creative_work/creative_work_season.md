@@ -49,17 +49,17 @@ A media season, e.g. TV, radio, video game etc.
 
 ## Confidential Links & Embeds: 
 
-### [creative_work_season](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_season.md) 
+### #is_/same_as :: [creative_work_season](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_season.md) 
 
-### [creative_work_season.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_season.public.md) 
+### #is_/same_as :: [creative_work_season.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_season.public.md) 
 
-### [creative_work_season.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_season.internal.md) 
+### #is_/same_as :: [creative_work_season.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_season.internal.md) 
 
-### [creative_work_season.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_season.protect.md) 
+### #is_/same_as :: [creative_work_season.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_season.protect.md) 
 
-### [creative_work_season.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_season.private.md) 
+### #is_/same_as :: [creative_work_season.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_season.private.md) 
 
-### [creative_work_season.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_season.personal.md) 
+### #is_/same_as :: [creative_work_season.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_season.personal.md) 
 
-### [creative_work_season.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_season.secret.md)
+### #is_/same_as :: [creative_work_season.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_season.secret.md)
 

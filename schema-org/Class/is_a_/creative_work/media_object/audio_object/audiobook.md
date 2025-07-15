@@ -47,17 +47,17 @@ An audiobook.
 
 ## Confidential Links & Embeds: 
 
-### [audiobook](/_Standards/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.md) 
+### #is_/same_as :: [audiobook](/_Standards/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.md) 
 
-### [audiobook.public](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.public.md) 
+### #is_/same_as :: [audiobook.public](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.public.md) 
 
-### [audiobook.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.internal.md) 
+### #is_/same_as :: [audiobook.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.internal.md) 
 
-### [audiobook.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.protect.md) 
+### #is_/same_as :: [audiobook.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.protect.md) 
 
-### [audiobook.private](/_private/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.private.md) 
+### #is_/same_as :: [audiobook.private](/_private/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.private.md) 
 
-### [audiobook.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.personal.md) 
+### #is_/same_as :: [audiobook.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.personal.md) 
 
-### [audiobook.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md)
+### #is_/same_as :: [audiobook.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md)
 

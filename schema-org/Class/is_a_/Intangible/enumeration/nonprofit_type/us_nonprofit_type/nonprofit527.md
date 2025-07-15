@@ -49,17 +49,17 @@ Nonprofit527: Non-profit type referring to political organizations.
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit527](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.md) 
+### #is_/same_as :: [nonprofit527](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.md) 
 
-### [nonprofit527.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.public.md) 
+### #is_/same_as :: [nonprofit527.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.public.md) 
 
-### [nonprofit527.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.internal.md) 
+### #is_/same_as :: [nonprofit527.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.internal.md) 
 
-### [nonprofit527.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.protect.md) 
+### #is_/same_as :: [nonprofit527.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.protect.md) 
 
-### [nonprofit527.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.private.md) 
+### #is_/same_as :: [nonprofit527.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.private.md) 
 
-### [nonprofit527.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.personal.md) 
+### #is_/same_as :: [nonprofit527.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.personal.md) 
 
-### [nonprofit527.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.secret.md)
+### #is_/same_as :: [nonprofit527.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit527.secret.md)
 

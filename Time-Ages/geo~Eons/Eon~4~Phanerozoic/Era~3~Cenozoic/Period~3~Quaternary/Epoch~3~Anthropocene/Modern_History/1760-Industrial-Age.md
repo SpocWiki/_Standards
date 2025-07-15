@@ -49,17 +49,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [1760-Industrial-Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.md) 
+### #is_/same_as :: [1760-Industrial-Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.md) 
 
-### [1760-Industrial-Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.public.md) 
+### #is_/same_as :: [1760-Industrial-Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.public.md) 
 
-### [1760-Industrial-Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.internal.md) 
+### #is_/same_as :: [1760-Industrial-Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.internal.md) 
 
-### [1760-Industrial-Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.protect.md) 
+### #is_/same_as :: [1760-Industrial-Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.protect.md) 
 
-### [1760-Industrial-Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.private.md) 
+### #is_/same_as :: [1760-Industrial-Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.private.md) 
 
-### [1760-Industrial-Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.personal.md) 
+### #is_/same_as :: [1760-Industrial-Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.personal.md) 
 
-### [1760-Industrial-Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.secret.md)
+### #is_/same_as :: [1760-Industrial-Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/1760-Industrial-Age.secret.md)
 

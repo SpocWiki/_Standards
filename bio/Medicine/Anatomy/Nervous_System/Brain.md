@@ -79,24 +79,19 @@ OmegaWiki_Defined_Meaning: 6504
 > [Wikipedia](https://en.wikipedia.org/wiki/Brain)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Brain](/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain.md) 
+### #is_/same_as :: [Brain](/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain.md) 
 
-### [Brain.public](/_public/bio/Medicine/Anatomy/Nervous_System/Brain.public.md) 
+### #is_/same_as :: [Brain.public](/_public/bio/Medicine/Anatomy/Nervous_System/Brain.public.md) 
 
-### [Brain.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Brain.internal.md) 
+### #is_/same_as :: [Brain.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Brain.internal.md) 
 
-### [Brain.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Brain.protect.md) 
+### #is_/same_as :: [Brain.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Brain.protect.md) 
 
-### [Brain.private](/_private/bio/Medicine/Anatomy/Nervous_System/Brain.private.md) 
+### #is_/same_as :: [Brain.private](/_private/bio/Medicine/Anatomy/Nervous_System/Brain.private.md) 
 
-### [Brain.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Brain.personal.md) 
+### #is_/same_as :: [Brain.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Brain.personal.md) 
 
-### [Brain.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Brain.secret.md)
+### #is_/same_as :: [Brain.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Brain.secret.md)
 

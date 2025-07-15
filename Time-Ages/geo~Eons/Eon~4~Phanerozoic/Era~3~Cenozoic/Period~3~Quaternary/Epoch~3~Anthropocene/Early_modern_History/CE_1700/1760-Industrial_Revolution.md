@@ -155,22 +155,19 @@ Each revolution laid the groundwork for significant shifts in how humans live an
 > [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20Revolution)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [1760-Industrial_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.md) 
+### #is_/same_as :: [1760-Industrial_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.md) 
 
-### [1760-Industrial_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public.md) 
+### #is_/same_as :: [1760-Industrial_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public.md) 
 
-### [1760-Industrial_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal.md) 
+### #is_/same_as :: [1760-Industrial_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal.md) 
 
-### [1760-Industrial_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect.md) 
+### #is_/same_as :: [1760-Industrial_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect.md) 
 
-### [1760-Industrial_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private.md) 
+### #is_/same_as :: [1760-Industrial_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private.md) 
 
-### [1760-Industrial_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal.md) 
+### #is_/same_as :: [1760-Industrial_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal.md) 
 
-### [1760-Industrial_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret.md)
+### #is_/same_as :: [1760-Industrial_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret.md)
 

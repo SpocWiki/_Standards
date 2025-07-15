@@ -66,17 +66,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20medallion%
 
 ## Confidential Links & Embeds: 
 
-### [Slavery](/_Standards/bio/Society/Social_Issues/Slavery.md) 
+### #is_/same_as :: [Slavery](/_Standards/bio/Society/Social_Issues/Slavery.md) 
 
-### [Slavery.public](/_public/bio/Society/Social_Issues/Slavery.public.md) 
+### #is_/same_as :: [Slavery.public](/_public/bio/Society/Social_Issues/Slavery.public.md) 
 
-### [Slavery.internal](/_internal/bio/Society/Social_Issues/Slavery.internal.md) 
+### #is_/same_as :: [Slavery.internal](/_internal/bio/Society/Social_Issues/Slavery.internal.md) 
 
-### [Slavery.protect](/_protect/bio/Society/Social_Issues/Slavery.protect.md) 
+### #is_/same_as :: [Slavery.protect](/_protect/bio/Society/Social_Issues/Slavery.protect.md) 
 
-### [Slavery.private](/_private/bio/Society/Social_Issues/Slavery.private.md) 
+### #is_/same_as :: [Slavery.private](/_private/bio/Society/Social_Issues/Slavery.private.md) 
 
-### [Slavery.personal](/_personal/bio/Society/Social_Issues/Slavery.personal.md) 
+### #is_/same_as :: [Slavery.personal](/_personal/bio/Society/Social_Issues/Slavery.personal.md) 
 
-### [Slavery.secret](/_secret/bio/Society/Social_Issues/Slavery.secret.md)
+### #is_/same_as :: [Slavery.secret](/_secret/bio/Society/Social_Issues/Slavery.secret.md)
 

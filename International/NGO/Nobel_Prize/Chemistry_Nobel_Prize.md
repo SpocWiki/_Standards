@@ -250,22 +250,19 @@ aliases:
 | ^^   | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry.jpg/75px-John_Jumper%2C_2024_Nobel_Prize_Laureate_in_Chemistry.jpg)](https://en.wikipedia.org/wiki/File:John_Jumper,_2024_Nobel_Prize_Laureate_in_Chemistry.jpg)                                                                                                                                                                       | [John M. Jumper](https://en.wikipedia.org/wiki/John_M._Jumper "John M. Jumper")  <br>(b. 1985)                                                            | ![](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png) American                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chemistry_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.md) 
 
-### [Chemistry_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.public.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.public.md) 
 
-### [Chemistry_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.internal.md) 
 
-### [Chemistry_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.protect.md) 
 
-### [Chemistry_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.private.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.private.md) 
 
-### [Chemistry_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Chemistry_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.personal.md) 
 
-### [Chemistry_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.secret.md)
+### #is_/same_as :: [Chemistry_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Chemistry_Nobel_Prize.secret.md)
 

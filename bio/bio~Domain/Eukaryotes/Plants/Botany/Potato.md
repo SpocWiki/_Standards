@@ -159,21 +159,19 @@ PLU_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Potato)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Potato](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.md) 
+### #is_/same_as :: [Potato](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.md) 
 
-### [Potato.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.public.md) 
+### #is_/same_as :: [Potato.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.public.md) 
 
-### [Potato.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.internal.md) 
+### #is_/same_as :: [Potato.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.internal.md) 
 
-### [Potato.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.protect.md) 
+### #is_/same_as :: [Potato.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.protect.md) 
 
-### [Potato.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.private.md) 
+### #is_/same_as :: [Potato.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.private.md) 
 
-### [Potato.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.personal.md) 
+### #is_/same_as :: [Potato.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.personal.md) 
 
-### [Potato.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.secret.md)
+### #is_/same_as :: [Potato.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Potato.secret.md)
 

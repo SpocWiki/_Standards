@@ -45,17 +45,17 @@ A structured value representing the duration and scope of services that will be 
 
 ## Confidential Links & Embeds: 
 
-### [warranty_promise](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
+### #is_/same_as :: [warranty_promise](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.md) 
 
-### [warranty_promise.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.public.md) 
+### #is_/same_as :: [warranty_promise.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.public.md) 
 
-### [warranty_promise.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.internal.md) 
+### #is_/same_as :: [warranty_promise.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.internal.md) 
 
-### [warranty_promise.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.protect.md) 
+### #is_/same_as :: [warranty_promise.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.protect.md) 
 
-### [warranty_promise.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.private.md) 
+### #is_/same_as :: [warranty_promise.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.private.md) 
 
-### [warranty_promise.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.personal.md) 
+### #is_/same_as :: [warranty_promise.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.personal.md) 
 
-### [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md)
+### #is_/same_as :: [warranty_promise.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/warranty_promise.secret.md)
 

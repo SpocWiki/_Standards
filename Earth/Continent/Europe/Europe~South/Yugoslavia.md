@@ -64,17 +64,17 @@ Capital :: [[Beograd]]
 
 ## Confidential Links & Embeds: 
 
-### [Yugoslavia](/_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
+### #is_/same_as :: [Yugoslavia](/_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
 
-### [Yugoslavia.public](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public.md) 
+### #is_/same_as :: [Yugoslavia.public](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public.md) 
 
-### [Yugoslavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal.md) 
+### #is_/same_as :: [Yugoslavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal.md) 
 
-### [Yugoslavia.protect](/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect.md) 
+### #is_/same_as :: [Yugoslavia.protect](/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect.md) 
 
-### [Yugoslavia.private](/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private.md) 
+### #is_/same_as :: [Yugoslavia.private](/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private.md) 
 
-### [Yugoslavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal.md) 
+### #is_/same_as :: [Yugoslavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal.md) 
 
-### [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md)
+### #is_/same_as :: [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md)
 

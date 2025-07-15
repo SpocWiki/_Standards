@@ -47,17 +47,17 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 ## Confidential Links & Embeds: 
 
-### [molecular_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md) 
+### #is_/same_as :: [molecular_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md) 
 
-### [molecular_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.public.md) 
+### #is_/same_as :: [molecular_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.public.md) 
 
-### [molecular_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md) 
+### #is_/same_as :: [molecular_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md) 
 
-### [molecular_entity.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.protect.md) 
+### #is_/same_as :: [molecular_entity.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.protect.md) 
 
-### [molecular_entity.private](/_private/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.private.md) 
+### #is_/same_as :: [molecular_entity.private](/_private/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.private.md) 
 
-### [molecular_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md) 
+### #is_/same_as :: [molecular_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md) 
 
-### [molecular_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md)
+### #is_/same_as :: [molecular_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md)
 

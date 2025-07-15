@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_skills](/_Standards/schema-org/Relation/has/has_skills.md) 
+### #is_/same_as :: [has_skills](/_Standards/schema-org/Relation/has/has_skills.md) 
 
-### [has_skills.public](/_public/schema-org/Relation/has/has_skills.public.md) 
+### #is_/same_as :: [has_skills.public](/_public/schema-org/Relation/has/has_skills.public.md) 
 
-### [has_skills.internal](/_internal/schema-org/Relation/has/has_skills.internal.md) 
+### #is_/same_as :: [has_skills.internal](/_internal/schema-org/Relation/has/has_skills.internal.md) 
 
-### [has_skills.protect](/_protect/schema-org/Relation/has/has_skills.protect.md) 
+### #is_/same_as :: [has_skills.protect](/_protect/schema-org/Relation/has/has_skills.protect.md) 
 
-### [has_skills.private](/_private/schema-org/Relation/has/has_skills.private.md) 
+### #is_/same_as :: [has_skills.private](/_private/schema-org/Relation/has/has_skills.private.md) 
 
-### [has_skills.personal](/_personal/schema-org/Relation/has/has_skills.personal.md) 
+### #is_/same_as :: [has_skills.personal](/_personal/schema-org/Relation/has/has_skills.personal.md) 
 
-### [has_skills.secret](/_secret/schema-org/Relation/has/has_skills.secret.md)
+### #is_/same_as :: [has_skills.secret](/_secret/schema-org/Relation/has/has_skills.secret.md)
 

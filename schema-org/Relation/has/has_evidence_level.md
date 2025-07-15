@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_evidence_level](/_Standards/schema-org/Relation/has/has_evidence_level.md) 
+### #is_/same_as :: [has_evidence_level](/_Standards/schema-org/Relation/has/has_evidence_level.md) 
 
-### [has_evidence_level.public](/_public/schema-org/Relation/has/has_evidence_level.public.md) 
+### #is_/same_as :: [has_evidence_level.public](/_public/schema-org/Relation/has/has_evidence_level.public.md) 
 
-### [has_evidence_level.internal](/_internal/schema-org/Relation/has/has_evidence_level.internal.md) 
+### #is_/same_as :: [has_evidence_level.internal](/_internal/schema-org/Relation/has/has_evidence_level.internal.md) 
 
-### [has_evidence_level.protect](/_protect/schema-org/Relation/has/has_evidence_level.protect.md) 
+### #is_/same_as :: [has_evidence_level.protect](/_protect/schema-org/Relation/has/has_evidence_level.protect.md) 
 
-### [has_evidence_level.private](/_private/schema-org/Relation/has/has_evidence_level.private.md) 
+### #is_/same_as :: [has_evidence_level.private](/_private/schema-org/Relation/has/has_evidence_level.private.md) 
 
-### [has_evidence_level.personal](/_personal/schema-org/Relation/has/has_evidence_level.personal.md) 
+### #is_/same_as :: [has_evidence_level.personal](/_personal/schema-org/Relation/has/has_evidence_level.personal.md) 
 
-### [has_evidence_level.secret](/_secret/schema-org/Relation/has/has_evidence_level.secret.md)
+### #is_/same_as :: [has_evidence_level.secret](/_secret/schema-org/Relation/has/has_evidence_level.secret.md)
 

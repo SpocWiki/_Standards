@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_down_payment](/_Standards/schema-org/Property/has_value_for/has_value_for_down_payment.md) 
+### #is_/same_as :: [has_value_for_down_payment](/_Standards/schema-org/Property/has_value_for/has_value_for_down_payment.md) 
 
-### [has_value_for_down_payment.public](/_public/schema-org/Property/has_value_for/has_value_for_down_payment.public.md) 
+### #is_/same_as :: [has_value_for_down_payment.public](/_public/schema-org/Property/has_value_for/has_value_for_down_payment.public.md) 
 
-### [has_value_for_down_payment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_down_payment.internal.md) 
+### #is_/same_as :: [has_value_for_down_payment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_down_payment.internal.md) 
 
-### [has_value_for_down_payment.protect](/_protect/schema-org/Property/has_value_for/has_value_for_down_payment.protect.md) 
+### #is_/same_as :: [has_value_for_down_payment.protect](/_protect/schema-org/Property/has_value_for/has_value_for_down_payment.protect.md) 
 
-### [has_value_for_down_payment.private](/_private/schema-org/Property/has_value_for/has_value_for_down_payment.private.md) 
+### #is_/same_as :: [has_value_for_down_payment.private](/_private/schema-org/Property/has_value_for/has_value_for_down_payment.private.md) 
 
-### [has_value_for_down_payment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_down_payment.personal.md) 
+### #is_/same_as :: [has_value_for_down_payment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_down_payment.personal.md) 
 
-### [has_value_for_down_payment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_down_payment.secret.md)
+### #is_/same_as :: [has_value_for_down_payment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_down_payment.secret.md)
 

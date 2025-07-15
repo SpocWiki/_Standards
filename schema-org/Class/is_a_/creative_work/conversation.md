@@ -45,17 +45,17 @@ One or more messages between organizations or people on a particular topic. Indi
 
 ## Confidential Links & Embeds: 
 
-### [conversation](/_Standards/schema-org/Class/is_a_/creative_work/conversation.md) 
+### #is_/same_as :: [conversation](/_Standards/schema-org/Class/is_a_/creative_work/conversation.md) 
 
-### [conversation.public](/_public/schema-org/Class/is_a_/creative_work/conversation.public.md) 
+### #is_/same_as :: [conversation.public](/_public/schema-org/Class/is_a_/creative_work/conversation.public.md) 
 
-### [conversation.internal](/_internal/schema-org/Class/is_a_/creative_work/conversation.internal.md) 
+### #is_/same_as :: [conversation.internal](/_internal/schema-org/Class/is_a_/creative_work/conversation.internal.md) 
 
-### [conversation.protect](/_protect/schema-org/Class/is_a_/creative_work/conversation.protect.md) 
+### #is_/same_as :: [conversation.protect](/_protect/schema-org/Class/is_a_/creative_work/conversation.protect.md) 
 
-### [conversation.private](/_private/schema-org/Class/is_a_/creative_work/conversation.private.md) 
+### #is_/same_as :: [conversation.private](/_private/schema-org/Class/is_a_/creative_work/conversation.private.md) 
 
-### [conversation.personal](/_personal/schema-org/Class/is_a_/creative_work/conversation.personal.md) 
+### #is_/same_as :: [conversation.personal](/_personal/schema-org/Class/is_a_/creative_work/conversation.personal.md) 
 
-### [conversation.secret](/_secret/schema-org/Class/is_a_/creative_work/conversation.secret.md)
+### #is_/same_as :: [conversation.secret](/_secret/schema-org/Class/is_a_/creative_work/conversation.secret.md)
 

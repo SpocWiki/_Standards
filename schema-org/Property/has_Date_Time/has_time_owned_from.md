@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_owned_from](/_Standards/schema-org/Property/has_Date_Time/has_time_owned_from.md) 
+### #is_/same_as :: [has_time_owned_from](/_Standards/schema-org/Property/has_Date_Time/has_time_owned_from.md) 
 
-### [has_time_owned_from.public](/_public/schema-org/Property/has_Date_Time/has_time_owned_from.public.md) 
+### #is_/same_as :: [has_time_owned_from.public](/_public/schema-org/Property/has_Date_Time/has_time_owned_from.public.md) 
 
-### [has_time_owned_from.internal](/_internal/schema-org/Property/has_Date_Time/has_time_owned_from.internal.md) 
+### #is_/same_as :: [has_time_owned_from.internal](/_internal/schema-org/Property/has_Date_Time/has_time_owned_from.internal.md) 
 
-### [has_time_owned_from.protect](/_protect/schema-org/Property/has_Date_Time/has_time_owned_from.protect.md) 
+### #is_/same_as :: [has_time_owned_from.protect](/_protect/schema-org/Property/has_Date_Time/has_time_owned_from.protect.md) 
 
-### [has_time_owned_from.private](/_private/schema-org/Property/has_Date_Time/has_time_owned_from.private.md) 
+### #is_/same_as :: [has_time_owned_from.private](/_private/schema-org/Property/has_Date_Time/has_time_owned_from.private.md) 
 
-### [has_time_owned_from.personal](/_personal/schema-org/Property/has_Date_Time/has_time_owned_from.personal.md) 
+### #is_/same_as :: [has_time_owned_from.personal](/_personal/schema-org/Property/has_Date_Time/has_time_owned_from.personal.md) 
 
-### [has_time_owned_from.secret](/_secret/schema-org/Property/has_Date_Time/has_time_owned_from.secret.md)
+### #is_/same_as :: [has_time_owned_from.secret](/_secret/schema-org/Property/has_Date_Time/has_time_owned_from.secret.md)
 

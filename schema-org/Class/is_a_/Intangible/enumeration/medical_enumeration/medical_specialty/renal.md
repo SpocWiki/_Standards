@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to the study of the kidneys a
 
 ## Confidential Links & Embeds: 
 
-### [renal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.md) 
+### #is_/same_as :: [renal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.md) 
 
-### [renal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.public.md) 
+### #is_/same_as :: [renal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.public.md) 
 
-### [renal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.internal.md) 
+### #is_/same_as :: [renal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.internal.md) 
 
-### [renal.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.protect.md) 
+### #is_/same_as :: [renal.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.protect.md) 
 
-### [renal.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.private.md) 
+### #is_/same_as :: [renal.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.private.md) 
 
-### [renal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.personal.md) 
+### #is_/same_as :: [renal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.personal.md) 
 
-### [renal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.secret.md)
+### #is_/same_as :: [renal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.secret.md)
 

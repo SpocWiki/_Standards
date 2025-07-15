@@ -447,17 +447,17 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 
 ## Confidential Links & Embeds: 
 
-### [Tajikistan](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan.md) 
+### #is_/same_as :: [Tajikistan](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan.md) 
 
-### [Tajikistan.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan.public.md) 
+### #is_/same_as :: [Tajikistan.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan.public.md) 
 
-### [Tajikistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan.internal.md) 
+### #is_/same_as :: [Tajikistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan.internal.md) 
 
-### [Tajikistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan.protect.md) 
+### #is_/same_as :: [Tajikistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Tajikistan.protect.md) 
 
-### [Tajikistan.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan.private.md) 
+### #is_/same_as :: [Tajikistan.private](/_private/Earth/Continent/Asia/Asia~Central/Tajikistan.private.md) 
 
-### [Tajikistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal.md) 
+### #is_/same_as :: [Tajikistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal.md) 
 
-### [Tajikistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret.md)
+### #is_/same_as :: [Tajikistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret.md)
 

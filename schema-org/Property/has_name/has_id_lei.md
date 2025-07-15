@@ -50,17 +50,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_lei](/_Standards/schema-org/Property/has_name/has_id_lei.md) 
+### #is_/same_as :: [has_id_lei](/_Standards/schema-org/Property/has_name/has_id_lei.md) 
 
-### [has_id_lei.public](/_public/schema-org/Property/has_name/has_id_lei.public.md) 
+### #is_/same_as :: [has_id_lei.public](/_public/schema-org/Property/has_name/has_id_lei.public.md) 
 
-### [has_id_lei.internal](/_internal/schema-org/Property/has_name/has_id_lei.internal.md) 
+### #is_/same_as :: [has_id_lei.internal](/_internal/schema-org/Property/has_name/has_id_lei.internal.md) 
 
-### [has_id_lei.protect](/_protect/schema-org/Property/has_name/has_id_lei.protect.md) 
+### #is_/same_as :: [has_id_lei.protect](/_protect/schema-org/Property/has_name/has_id_lei.protect.md) 
 
-### [has_id_lei.private](/_private/schema-org/Property/has_name/has_id_lei.private.md) 
+### #is_/same_as :: [has_id_lei.private](/_private/schema-org/Property/has_name/has_id_lei.private.md) 
 
-### [has_id_lei.personal](/_personal/schema-org/Property/has_name/has_id_lei.personal.md) 
+### #is_/same_as :: [has_id_lei.personal](/_personal/schema-org/Property/has_name/has_id_lei.personal.md) 
 
-### [has_id_lei.secret](/_secret/schema-org/Property/has_name/has_id_lei.secret.md)
+### #is_/same_as :: [has_id_lei.secret](/_secret/schema-org/Property/has_name/has_id_lei.secret.md)
 

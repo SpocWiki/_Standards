@@ -35,17 +35,17 @@ The act of dressing oneself in clothing.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WearAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.md) 
+### #is_/same_as :: [FileClass~WearAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.md) 
 
-### [FileClass~WearAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.public.md) 
+### #is_/same_as :: [FileClass~WearAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.public.md) 
 
-### [FileClass~WearAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.internal.md) 
+### #is_/same_as :: [FileClass~WearAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.internal.md) 
 
-### [FileClass~WearAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.protect.md) 
+### #is_/same_as :: [FileClass~WearAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.protect.md) 
 
-### [FileClass~WearAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.private.md) 
+### #is_/same_as :: [FileClass~WearAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.private.md) 
 
-### [FileClass~WearAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.personal.md) 
+### #is_/same_as :: [FileClass~WearAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.personal.md) 
 
-### [FileClass~WearAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.secret.md)
+### #is_/same_as :: [FileClass~WearAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.secret.md)
 

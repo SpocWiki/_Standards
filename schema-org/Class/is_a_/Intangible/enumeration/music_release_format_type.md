@@ -43,17 +43,17 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 ## Confidential Links & Embeds: 
 
-### [music_release_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.md) 
+### #is_/same_as :: [music_release_format_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.md) 
 
-### [music_release_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.public.md) 
+### #is_/same_as :: [music_release_format_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.public.md) 
 
-### [music_release_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.internal.md) 
+### #is_/same_as :: [music_release_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.internal.md) 
 
-### [music_release_format_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.protect.md) 
+### #is_/same_as :: [music_release_format_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.protect.md) 
 
-### [music_release_format_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.private.md) 
+### #is_/same_as :: [music_release_format_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.private.md) 
 
-### [music_release_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.personal.md) 
+### #is_/same_as :: [music_release_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.personal.md) 
 
-### [music_release_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.secret.md)
+### #is_/same_as :: [music_release_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type.secret.md)
 

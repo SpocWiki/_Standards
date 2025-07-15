@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_c19died](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died.md) 
 
-### [has_number_of_Covid_c19died.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public.md) 
 
-### [has_number_of_Covid_c19died.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal.md) 
 
-### [has_number_of_Covid_c19died.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect.md) 
 
-### [has_number_of_Covid_c19died.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private.md) 
 
-### [has_number_of_Covid_c19died.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal.md) 
+### #is_/same_as :: [has_number_of_Covid_c19died.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal.md) 
 
-### [has_number_of_Covid_c19died.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret.md)
+### #is_/same_as :: [has_number_of_Covid_c19died.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret.md)
 

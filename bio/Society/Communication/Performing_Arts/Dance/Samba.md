@@ -30,21 +30,19 @@ has_time_started: 1914-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Samba) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Samba](/_Standards/bio/Society/Communication/Performing_Arts/Dance/Samba.md) 
+### #is_/same_as :: [Samba](/_Standards/bio/Society/Communication/Performing_Arts/Dance/Samba.md) 
 
-### [Samba.public](/_public/bio/Society/Communication/Performing_Arts/Dance/Samba.public.md) 
+### #is_/same_as :: [Samba.public](/_public/bio/Society/Communication/Performing_Arts/Dance/Samba.public.md) 
 
-### [Samba.internal](/_internal/bio/Society/Communication/Performing_Arts/Dance/Samba.internal.md) 
+### #is_/same_as :: [Samba.internal](/_internal/bio/Society/Communication/Performing_Arts/Dance/Samba.internal.md) 
 
-### [Samba.protect](/_protect/bio/Society/Communication/Performing_Arts/Dance/Samba.protect.md) 
+### #is_/same_as :: [Samba.protect](/_protect/bio/Society/Communication/Performing_Arts/Dance/Samba.protect.md) 
 
-### [Samba.private](/_private/bio/Society/Communication/Performing_Arts/Dance/Samba.private.md) 
+### #is_/same_as :: [Samba.private](/_private/bio/Society/Communication/Performing_Arts/Dance/Samba.private.md) 
 
-### [Samba.personal](/_personal/bio/Society/Communication/Performing_Arts/Dance/Samba.personal.md) 
+### #is_/same_as :: [Samba.personal](/_personal/bio/Society/Communication/Performing_Arts/Dance/Samba.personal.md) 
 
-### [Samba.secret](/_secret/bio/Society/Communication/Performing_Arts/Dance/Samba.secret.md)
+### #is_/same_as :: [Samba.secret](/_secret/bio/Society/Communication/Performing_Arts/Dance/Samba.secret.md)
 

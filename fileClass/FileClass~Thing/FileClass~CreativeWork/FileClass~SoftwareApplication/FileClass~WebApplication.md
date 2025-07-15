@@ -45,17 +45,17 @@ BrowserRequirements:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WebApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.md) 
+### #is_/same_as :: [FileClass~WebApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.md) 
 
-### [FileClass~WebApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.public.md) 
+### #is_/same_as :: [FileClass~WebApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.public.md) 
 
-### [FileClass~WebApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.internal.md) 
+### #is_/same_as :: [FileClass~WebApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.internal.md) 
 
-### [FileClass~WebApplication.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.protect.md) 
+### #is_/same_as :: [FileClass~WebApplication.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.protect.md) 
 
-### [FileClass~WebApplication.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.private.md) 
+### #is_/same_as :: [FileClass~WebApplication.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.private.md) 
 
-### [FileClass~WebApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.personal.md) 
+### #is_/same_as :: [FileClass~WebApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.personal.md) 
 
-### [FileClass~WebApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.secret.md)
+### #is_/same_as :: [FileClass~WebApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.secret.md)
 

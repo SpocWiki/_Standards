@@ -391,17 +391,17 @@ Warranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Demand](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
+### #is_/same_as :: [FileClass~Demand](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
 
-### [FileClass~Demand.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.public.md) 
+### #is_/same_as :: [FileClass~Demand.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.public.md) 
 
-### [FileClass~Demand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal.md) 
+### #is_/same_as :: [FileClass~Demand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal.md) 
 
-### [FileClass~Demand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.protect.md) 
+### #is_/same_as :: [FileClass~Demand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.protect.md) 
 
-### [FileClass~Demand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.private.md) 
+### #is_/same_as :: [FileClass~Demand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.private.md) 
 
-### [FileClass~Demand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal.md) 
+### #is_/same_as :: [FileClass~Demand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal.md) 
 
-### [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md)
+### #is_/same_as :: [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md)
 

@@ -120,17 +120,17 @@ Commons_category: "Herbert Hoover"
 
 ## Confidential Links & Embeds: 
 
-### [Hitler,Adolf](/_Standards/bio/People/Leader/Modern_Leaders/Hitler,Adolf.md) 
+### #is_/same_as :: [Hitler,Adolf](/_Standards/bio/People/Leader/Modern_Leaders/Hitler,Adolf.md) 
 
-### [Hitler,Adolf.public](/_public/bio/People/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
+### #is_/same_as :: [Hitler,Adolf.public](/_public/bio/People/Leader/Modern_Leaders/Hitler,Adolf.public.md) 
 
-### [Hitler,Adolf.internal](/_internal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
+### #is_/same_as :: [Hitler,Adolf.internal](/_internal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.internal.md) 
 
-### [Hitler,Adolf.protect](/_protect/bio/People/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
+### #is_/same_as :: [Hitler,Adolf.protect](/_protect/bio/People/Leader/Modern_Leaders/Hitler,Adolf.protect.md) 
 
-### [Hitler,Adolf.private](/_private/bio/People/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
+### #is_/same_as :: [Hitler,Adolf.private](/_private/bio/People/Leader/Modern_Leaders/Hitler,Adolf.private.md) 
 
-### [Hitler,Adolf.personal](/_personal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
+### #is_/same_as :: [Hitler,Adolf.personal](/_personal/bio/People/Leader/Modern_Leaders/Hitler,Adolf.personal.md) 
 
-### [Hitler,Adolf.secret](/_secret/bio/People/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
+### #is_/same_as :: [Hitler,Adolf.secret](/_secret/bio/People/Leader/Modern_Leaders/Hitler,Adolf.secret.md)
 

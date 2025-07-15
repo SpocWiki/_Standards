@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_comment_text](/_Standards/schema-org/Property/Texts/has_comment_text.md) 
+### #is_/same_as :: [has_comment_text](/_Standards/schema-org/Property/Texts/has_comment_text.md) 
 
-### [has_comment_text.public](/_public/schema-org/Property/Texts/has_comment_text.public.md) 
+### #is_/same_as :: [has_comment_text.public](/_public/schema-org/Property/Texts/has_comment_text.public.md) 
 
-### [has_comment_text.internal](/_internal/schema-org/Property/Texts/has_comment_text.internal.md) 
+### #is_/same_as :: [has_comment_text.internal](/_internal/schema-org/Property/Texts/has_comment_text.internal.md) 
 
-### [has_comment_text.protect](/_protect/schema-org/Property/Texts/has_comment_text.protect.md) 
+### #is_/same_as :: [has_comment_text.protect](/_protect/schema-org/Property/Texts/has_comment_text.protect.md) 
 
-### [has_comment_text.private](/_private/schema-org/Property/Texts/has_comment_text.private.md) 
+### #is_/same_as :: [has_comment_text.private](/_private/schema-org/Property/Texts/has_comment_text.private.md) 
 
-### [has_comment_text.personal](/_personal/schema-org/Property/Texts/has_comment_text.personal.md) 
+### #is_/same_as :: [has_comment_text.personal](/_personal/schema-org/Property/Texts/has_comment_text.personal.md) 
 
-### [has_comment_text.secret](/_secret/schema-org/Property/Texts/has_comment_text.secret.md)
+### #is_/same_as :: [has_comment_text.secret](/_secret/schema-org/Property/Texts/has_comment_text.secret.md)
 

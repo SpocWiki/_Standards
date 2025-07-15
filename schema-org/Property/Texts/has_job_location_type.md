@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_job_location_type](/_Standards/schema-org/Property/Texts/has_job_location_type.md) 
+### #is_/same_as :: [has_job_location_type](/_Standards/schema-org/Property/Texts/has_job_location_type.md) 
 
-### [has_job_location_type.public](/_public/schema-org/Property/Texts/has_job_location_type.public.md) 
+### #is_/same_as :: [has_job_location_type.public](/_public/schema-org/Property/Texts/has_job_location_type.public.md) 
 
-### [has_job_location_type.internal](/_internal/schema-org/Property/Texts/has_job_location_type.internal.md) 
+### #is_/same_as :: [has_job_location_type.internal](/_internal/schema-org/Property/Texts/has_job_location_type.internal.md) 
 
-### [has_job_location_type.protect](/_protect/schema-org/Property/Texts/has_job_location_type.protect.md) 
+### #is_/same_as :: [has_job_location_type.protect](/_protect/schema-org/Property/Texts/has_job_location_type.protect.md) 
 
-### [has_job_location_type.private](/_private/schema-org/Property/Texts/has_job_location_type.private.md) 
+### #is_/same_as :: [has_job_location_type.private](/_private/schema-org/Property/Texts/has_job_location_type.private.md) 
 
-### [has_job_location_type.personal](/_personal/schema-org/Property/Texts/has_job_location_type.personal.md) 
+### #is_/same_as :: [has_job_location_type.personal](/_personal/schema-org/Property/Texts/has_job_location_type.personal.md) 
 
-### [has_job_location_type.secret](/_secret/schema-org/Property/Texts/has_job_location_type.secret.md)
+### #is_/same_as :: [has_job_location_type.secret](/_secret/schema-org/Property/Texts/has_job_location_type.secret.md)
 

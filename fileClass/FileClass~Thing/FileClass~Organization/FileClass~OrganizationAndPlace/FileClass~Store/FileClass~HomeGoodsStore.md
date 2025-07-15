@@ -35,17 +35,17 @@ A home goods store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HomeGoodsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.md) 
 
-### [FileClass~HomeGoodsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.public.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.public.md) 
 
-### [FileClass~HomeGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.internal.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.internal.md) 
 
-### [FileClass~HomeGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.protect.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.protect.md) 
 
-### [FileClass~HomeGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.private.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.private.md) 
 
-### [FileClass~HomeGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.personal.md) 
+### #is_/same_as :: [FileClass~HomeGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.personal.md) 
 
-### [FileClass~HomeGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.secret.md)
+### #is_/same_as :: [FileClass~HomeGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HomeGoodsStore.secret.md)
 

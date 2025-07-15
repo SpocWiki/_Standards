@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_action_accessibility_requirement](/_Standards/schema-org/Relation/has/has_action_accessibility_requirement.md) 
+### #is_/same_as :: [has_action_accessibility_requirement](/_Standards/schema-org/Relation/has/has_action_accessibility_requirement.md) 
 
-### [has_action_accessibility_requirement.public](/_public/schema-org/Relation/has/has_action_accessibility_requirement.public.md) 
+### #is_/same_as :: [has_action_accessibility_requirement.public](/_public/schema-org/Relation/has/has_action_accessibility_requirement.public.md) 
 
-### [has_action_accessibility_requirement.internal](/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal.md) 
+### #is_/same_as :: [has_action_accessibility_requirement.internal](/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal.md) 
 
-### [has_action_accessibility_requirement.protect](/_protect/schema-org/Relation/has/has_action_accessibility_requirement.protect.md) 
+### #is_/same_as :: [has_action_accessibility_requirement.protect](/_protect/schema-org/Relation/has/has_action_accessibility_requirement.protect.md) 
 
-### [has_action_accessibility_requirement.private](/_private/schema-org/Relation/has/has_action_accessibility_requirement.private.md) 
+### #is_/same_as :: [has_action_accessibility_requirement.private](/_private/schema-org/Relation/has/has_action_accessibility_requirement.private.md) 
 
-### [has_action_accessibility_requirement.personal](/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal.md) 
+### #is_/same_as :: [has_action_accessibility_requirement.personal](/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal.md) 
 
-### [has_action_accessibility_requirement.secret](/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret.md)
+### #is_/same_as :: [has_action_accessibility_requirement.secret](/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret.md)
 

@@ -31,22 +31,19 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Anime) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Anime](/_Standards/bio/Society/Communication/Film/Animation/Anime.md) 
+### #is_/same_as :: [Anime](/_Standards/bio/Society/Communication/Film/Animation/Anime.md) 
 
-### [Anime.public](/_public/bio/Society/Communication/Film/Animation/Anime.public.md) 
+### #is_/same_as :: [Anime.public](/_public/bio/Society/Communication/Film/Animation/Anime.public.md) 
 
-### [Anime.internal](/_internal/bio/Society/Communication/Film/Animation/Anime.internal.md) 
+### #is_/same_as :: [Anime.internal](/_internal/bio/Society/Communication/Film/Animation/Anime.internal.md) 
 
-### [Anime.protect](/_protect/bio/Society/Communication/Film/Animation/Anime.protect.md) 
+### #is_/same_as :: [Anime.protect](/_protect/bio/Society/Communication/Film/Animation/Anime.protect.md) 
 
-### [Anime.private](/_private/bio/Society/Communication/Film/Animation/Anime.private.md) 
+### #is_/same_as :: [Anime.private](/_private/bio/Society/Communication/Film/Animation/Anime.private.md) 
 
-### [Anime.personal](/_personal/bio/Society/Communication/Film/Animation/Anime.personal.md) 
+### #is_/same_as :: [Anime.personal](/_personal/bio/Society/Communication/Film/Animation/Anime.personal.md) 
 
-### [Anime.secret](/_secret/bio/Society/Communication/Film/Animation/Anime.secret.md)
+### #is_/same_as :: [Anime.secret](/_secret/bio/Society/Communication/Film/Animation/Anime.secret.md)
 

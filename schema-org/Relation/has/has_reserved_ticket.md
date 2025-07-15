@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_reserved_ticket](/_Standards/schema-org/Relation/has/has_reserved_ticket.md) 
+### #is_/same_as :: [has_reserved_ticket](/_Standards/schema-org/Relation/has/has_reserved_ticket.md) 
 
-### [has_reserved_ticket.public](/_public/schema-org/Relation/has/has_reserved_ticket.public.md) 
+### #is_/same_as :: [has_reserved_ticket.public](/_public/schema-org/Relation/has/has_reserved_ticket.public.md) 
 
-### [has_reserved_ticket.internal](/_internal/schema-org/Relation/has/has_reserved_ticket.internal.md) 
+### #is_/same_as :: [has_reserved_ticket.internal](/_internal/schema-org/Relation/has/has_reserved_ticket.internal.md) 
 
-### [has_reserved_ticket.protect](/_protect/schema-org/Relation/has/has_reserved_ticket.protect.md) 
+### #is_/same_as :: [has_reserved_ticket.protect](/_protect/schema-org/Relation/has/has_reserved_ticket.protect.md) 
 
-### [has_reserved_ticket.private](/_private/schema-org/Relation/has/has_reserved_ticket.private.md) 
+### #is_/same_as :: [has_reserved_ticket.private](/_private/schema-org/Relation/has/has_reserved_ticket.private.md) 
 
-### [has_reserved_ticket.personal](/_personal/schema-org/Relation/has/has_reserved_ticket.personal.md) 
+### #is_/same_as :: [has_reserved_ticket.personal](/_personal/schema-org/Relation/has/has_reserved_ticket.personal.md) 
 
-### [has_reserved_ticket.secret](/_secret/schema-org/Relation/has/has_reserved_ticket.secret.md)
+### #is_/same_as :: [has_reserved_ticket.secret](/_secret/schema-org/Relation/has/has_reserved_ticket.secret.md)
 

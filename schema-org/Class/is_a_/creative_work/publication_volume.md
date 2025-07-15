@@ -47,17 +47,17 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 ## Confidential Links & Embeds: 
 
-### [publication_volume](/_Standards/schema-org/Class/is_a_/creative_work/publication_volume.md) 
+### #is_/same_as :: [publication_volume](/_Standards/schema-org/Class/is_a_/creative_work/publication_volume.md) 
 
-### [publication_volume.public](/_public/schema-org/Class/is_a_/creative_work/publication_volume.public.md) 
+### #is_/same_as :: [publication_volume.public](/_public/schema-org/Class/is_a_/creative_work/publication_volume.public.md) 
 
-### [publication_volume.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_volume.internal.md) 
+### #is_/same_as :: [publication_volume.internal](/_internal/schema-org/Class/is_a_/creative_work/publication_volume.internal.md) 
 
-### [publication_volume.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_volume.protect.md) 
+### #is_/same_as :: [publication_volume.protect](/_protect/schema-org/Class/is_a_/creative_work/publication_volume.protect.md) 
 
-### [publication_volume.private](/_private/schema-org/Class/is_a_/creative_work/publication_volume.private.md) 
+### #is_/same_as :: [publication_volume.private](/_private/schema-org/Class/is_a_/creative_work/publication_volume.private.md) 
 
-### [publication_volume.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_volume.personal.md) 
+### #is_/same_as :: [publication_volume.personal](/_personal/schema-org/Class/is_a_/creative_work/publication_volume.personal.md) 
 
-### [publication_volume.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_volume.secret.md)
+### #is_/same_as :: [publication_volume.secret](/_secret/schema-org/Class/is_a_/creative_work/publication_volume.secret.md)
 

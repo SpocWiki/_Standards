@@ -57,17 +57,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_width_in_meters](/_Standards/schema-org/Property/has_value_for/has_value_for_width_in_meters.md) 
+### #is_/same_as :: [has_value_for_width_in_meters](/_Standards/schema-org/Property/has_value_for/has_value_for_width_in_meters.md) 
 
-### [has_value_for_width_in_meters.public](/_public/schema-org/Property/has_value_for/has_value_for_width_in_meters.public.md) 
+### #is_/same_as :: [has_value_for_width_in_meters.public](/_public/schema-org/Property/has_value_for/has_value_for_width_in_meters.public.md) 
 
-### [has_value_for_width_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_value_for_width_in_meters.internal.md) 
+### #is_/same_as :: [has_value_for_width_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_value_for_width_in_meters.internal.md) 
 
-### [has_value_for_width_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_value_for_width_in_meters.protect.md) 
+### #is_/same_as :: [has_value_for_width_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_value_for_width_in_meters.protect.md) 
 
-### [has_value_for_width_in_meters.private](/_private/schema-org/Property/has_value_for/has_value_for_width_in_meters.private.md) 
+### #is_/same_as :: [has_value_for_width_in_meters.private](/_private/schema-org/Property/has_value_for/has_value_for_width_in_meters.private.md) 
 
-### [has_value_for_width_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_value_for_width_in_meters.personal.md) 
+### #is_/same_as :: [has_value_for_width_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_value_for_width_in_meters.personal.md) 
 
-### [has_value_for_width_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_width_in_meters.secret.md)
+### #is_/same_as :: [has_value_for_width_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_width_in_meters.secret.md)
 

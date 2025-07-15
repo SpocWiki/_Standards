@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_category](/_Standards/schema-org/Relation/has/has_category.md) 
+### #is_/same_as :: [has_category](/_Standards/schema-org/Relation/has/has_category.md) 
 
-### [has_category.public](/_public/schema-org/Relation/has/has_category.public.md) 
+### #is_/same_as :: [has_category.public](/_public/schema-org/Relation/has/has_category.public.md) 
 
-### [has_category.internal](/_internal/schema-org/Relation/has/has_category.internal.md) 
+### #is_/same_as :: [has_category.internal](/_internal/schema-org/Relation/has/has_category.internal.md) 
 
-### [has_category.protect](/_protect/schema-org/Relation/has/has_category.protect.md) 
+### #is_/same_as :: [has_category.protect](/_protect/schema-org/Relation/has/has_category.protect.md) 
 
-### [has_category.private](/_private/schema-org/Relation/has/has_category.private.md) 
+### #is_/same_as :: [has_category.private](/_private/schema-org/Relation/has/has_category.private.md) 
 
-### [has_category.personal](/_personal/schema-org/Relation/has/has_category.personal.md) 
+### #is_/same_as :: [has_category.personal](/_personal/schema-org/Relation/has/has_category.personal.md) 
 
-### [has_category.secret](/_secret/schema-org/Relation/has/has_category.secret.md)
+### #is_/same_as :: [has_category.secret](/_secret/schema-org/Relation/has/has_category.secret.md)
 

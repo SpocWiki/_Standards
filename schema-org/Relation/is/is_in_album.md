@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_in_album](/_Standards/schema-org/Relation/is/is_in_album.md) 
+### #is_/same_as :: [is_in_album](/_Standards/schema-org/Relation/is/is_in_album.md) 
 
-### [is_in_album.public](/_public/schema-org/Relation/is/is_in_album.public.md) 
+### #is_/same_as :: [is_in_album.public](/_public/schema-org/Relation/is/is_in_album.public.md) 
 
-### [is_in_album.internal](/_internal/schema-org/Relation/is/is_in_album.internal.md) 
+### #is_/same_as :: [is_in_album.internal](/_internal/schema-org/Relation/is/is_in_album.internal.md) 
 
-### [is_in_album.protect](/_protect/schema-org/Relation/is/is_in_album.protect.md) 
+### #is_/same_as :: [is_in_album.protect](/_protect/schema-org/Relation/is/is_in_album.protect.md) 
 
-### [is_in_album.private](/_private/schema-org/Relation/is/is_in_album.private.md) 
+### #is_/same_as :: [is_in_album.private](/_private/schema-org/Relation/is/is_in_album.private.md) 
 
-### [is_in_album.personal](/_personal/schema-org/Relation/is/is_in_album.personal.md) 
+### #is_/same_as :: [is_in_album.personal](/_personal/schema-org/Relation/is/is_in_album.personal.md) 
 
-### [is_in_album.secret](/_secret/schema-org/Relation/is/is_in_album.secret.md)
+### #is_/same_as :: [is_in_album.secret](/_secret/schema-org/Relation/is/is_in_album.secret.md)
 

@@ -47,17 +47,17 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ## Confidential Links & Embeds: 
 
-### [administrative_area](/_Standards/schema-org/Class/is_a_/place/administrative_area.md) 
+### #is_/same_as :: [administrative_area](/_Standards/schema-org/Class/is_a_/place/administrative_area.md) 
 
-### [administrative_area.public](/_public/schema-org/Class/is_a_/place/administrative_area.public.md) 
+### #is_/same_as :: [administrative_area.public](/_public/schema-org/Class/is_a_/place/administrative_area.public.md) 
 
-### [administrative_area.internal](/_internal/schema-org/Class/is_a_/place/administrative_area.internal.md) 
+### #is_/same_as :: [administrative_area.internal](/_internal/schema-org/Class/is_a_/place/administrative_area.internal.md) 
 
-### [administrative_area.protect](/_protect/schema-org/Class/is_a_/place/administrative_area.protect.md) 
+### #is_/same_as :: [administrative_area.protect](/_protect/schema-org/Class/is_a_/place/administrative_area.protect.md) 
 
-### [administrative_area.private](/_private/schema-org/Class/is_a_/place/administrative_area.private.md) 
+### #is_/same_as :: [administrative_area.private](/_private/schema-org/Class/is_a_/place/administrative_area.private.md) 
 
-### [administrative_area.personal](/_personal/schema-org/Class/is_a_/place/administrative_area.personal.md) 
+### #is_/same_as :: [administrative_area.personal](/_personal/schema-org/Class/is_a_/place/administrative_area.personal.md) 
 
-### [administrative_area.secret](/_secret/schema-org/Class/is_a_/place/administrative_area.secret.md)
+### #is_/same_as :: [administrative_area.secret](/_secret/schema-org/Class/is_a_/place/administrative_area.secret.md)
 

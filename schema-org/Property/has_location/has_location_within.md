@@ -70,17 +70,17 @@ The Reverse Relation typically has multiple Values.
 
 ## Confidential Links & Embeds: 
 
-### [has_location_within](/_Standards/schema-org/Property/has_location/has_location_within.md) 
+### #is_/same_as :: [has_location_within](/_Standards/schema-org/Property/has_location/has_location_within.md) 
 
-### [has_location_within.public](/_public/schema-org/Property/has_location/has_location_within.public.md) 
+### #is_/same_as :: [has_location_within.public](/_public/schema-org/Property/has_location/has_location_within.public.md) 
 
-### [has_location_within.internal](/_internal/schema-org/Property/has_location/has_location_within.internal.md) 
+### #is_/same_as :: [has_location_within.internal](/_internal/schema-org/Property/has_location/has_location_within.internal.md) 
 
-### [has_location_within.protect](/_protect/schema-org/Property/has_location/has_location_within.protect.md) 
+### #is_/same_as :: [has_location_within.protect](/_protect/schema-org/Property/has_location/has_location_within.protect.md) 
 
-### [has_location_within.private](/_private/schema-org/Property/has_location/has_location_within.private.md) 
+### #is_/same_as :: [has_location_within.private](/_private/schema-org/Property/has_location/has_location_within.private.md) 
 
-### [has_location_within.personal](/_personal/schema-org/Property/has_location/has_location_within.personal.md) 
+### #is_/same_as :: [has_location_within.personal](/_personal/schema-org/Property/has_location/has_location_within.personal.md) 
 
-### [has_location_within.secret](/_secret/schema-org/Property/has_location/has_location_within.secret.md)
+### #is_/same_as :: [has_location_within.secret](/_secret/schema-org/Property/has_location/has_location_within.secret.md)
 

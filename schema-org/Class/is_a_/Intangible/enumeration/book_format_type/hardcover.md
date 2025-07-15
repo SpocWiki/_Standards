@@ -47,17 +47,17 @@ Book format: Hardcover.
 
 ## Confidential Links & Embeds: 
 
-### [hardcover](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.md) 
+### #is_/same_as :: [hardcover](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.md) 
 
-### [hardcover.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.public.md) 
+### #is_/same_as :: [hardcover.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.public.md) 
 
-### [hardcover.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.internal.md) 
+### #is_/same_as :: [hardcover.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.internal.md) 
 
-### [hardcover.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.protect.md) 
+### #is_/same_as :: [hardcover.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.protect.md) 
 
-### [hardcover.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.private.md) 
+### #is_/same_as :: [hardcover.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.private.md) 
 
-### [hardcover.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.personal.md) 
+### #is_/same_as :: [hardcover.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.personal.md) 
 
-### [hardcover.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.secret.md)
+### #is_/same_as :: [hardcover.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/hardcover.secret.md)
 

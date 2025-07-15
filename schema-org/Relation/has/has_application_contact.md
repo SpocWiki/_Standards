@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_application_contact](/_Standards/schema-org/Relation/has/has_application_contact.md) 
+### #is_/same_as :: [has_application_contact](/_Standards/schema-org/Relation/has/has_application_contact.md) 
 
-### [has_application_contact.public](/_public/schema-org/Relation/has/has_application_contact.public.md) 
+### #is_/same_as :: [has_application_contact.public](/_public/schema-org/Relation/has/has_application_contact.public.md) 
 
-### [has_application_contact.internal](/_internal/schema-org/Relation/has/has_application_contact.internal.md) 
+### #is_/same_as :: [has_application_contact.internal](/_internal/schema-org/Relation/has/has_application_contact.internal.md) 
 
-### [has_application_contact.protect](/_protect/schema-org/Relation/has/has_application_contact.protect.md) 
+### #is_/same_as :: [has_application_contact.protect](/_protect/schema-org/Relation/has/has_application_contact.protect.md) 
 
-### [has_application_contact.private](/_private/schema-org/Relation/has/has_application_contact.private.md) 
+### #is_/same_as :: [has_application_contact.private](/_private/schema-org/Relation/has/has_application_contact.private.md) 
 
-### [has_application_contact.personal](/_personal/schema-org/Relation/has/has_application_contact.personal.md) 
+### #is_/same_as :: [has_application_contact.personal](/_personal/schema-org/Relation/has/has_application_contact.personal.md) 
 
-### [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md)
+### #is_/same_as :: [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md)
 

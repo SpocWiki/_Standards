@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_loser](/_Standards/schema-org/Relation/has/has_loser.md) 
+### #is_/same_as :: [has_loser](/_Standards/schema-org/Relation/has/has_loser.md) 
 
-### [has_loser.public](/_public/schema-org/Relation/has/has_loser.public.md) 
+### #is_/same_as :: [has_loser.public](/_public/schema-org/Relation/has/has_loser.public.md) 
 
-### [has_loser.internal](/_internal/schema-org/Relation/has/has_loser.internal.md) 
+### #is_/same_as :: [has_loser.internal](/_internal/schema-org/Relation/has/has_loser.internal.md) 
 
-### [has_loser.protect](/_protect/schema-org/Relation/has/has_loser.protect.md) 
+### #is_/same_as :: [has_loser.protect](/_protect/schema-org/Relation/has/has_loser.protect.md) 
 
-### [has_loser.private](/_private/schema-org/Relation/has/has_loser.private.md) 
+### #is_/same_as :: [has_loser.private](/_private/schema-org/Relation/has/has_loser.private.md) 
 
-### [has_loser.personal](/_personal/schema-org/Relation/has/has_loser.personal.md) 
+### #is_/same_as :: [has_loser.personal](/_personal/schema-org/Relation/has/has_loser.personal.md) 
 
-### [has_loser.secret](/_secret/schema-org/Relation/has/has_loser.secret.md)
+### #is_/same_as :: [has_loser.secret](/_secret/schema-org/Relation/has/has_loser.secret.md)
 

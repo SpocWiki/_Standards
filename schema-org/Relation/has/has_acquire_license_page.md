@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_acquire_license_page](/_Standards/schema-org/Relation/has/has_acquire_license_page.md) 
+### #is_/same_as :: [has_acquire_license_page](/_Standards/schema-org/Relation/has/has_acquire_license_page.md) 
 
-### [has_acquire_license_page.public](/_public/schema-org/Relation/has/has_acquire_license_page.public.md) 
+### #is_/same_as :: [has_acquire_license_page.public](/_public/schema-org/Relation/has/has_acquire_license_page.public.md) 
 
-### [has_acquire_license_page.internal](/_internal/schema-org/Relation/has/has_acquire_license_page.internal.md) 
+### #is_/same_as :: [has_acquire_license_page.internal](/_internal/schema-org/Relation/has/has_acquire_license_page.internal.md) 
 
-### [has_acquire_license_page.protect](/_protect/schema-org/Relation/has/has_acquire_license_page.protect.md) 
+### #is_/same_as :: [has_acquire_license_page.protect](/_protect/schema-org/Relation/has/has_acquire_license_page.protect.md) 
 
-### [has_acquire_license_page.private](/_private/schema-org/Relation/has/has_acquire_license_page.private.md) 
+### #is_/same_as :: [has_acquire_license_page.private](/_private/schema-org/Relation/has/has_acquire_license_page.private.md) 
 
-### [has_acquire_license_page.personal](/_personal/schema-org/Relation/has/has_acquire_license_page.personal.md) 
+### #is_/same_as :: [has_acquire_license_page.personal](/_personal/schema-org/Relation/has/has_acquire_license_page.personal.md) 
 
-### [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md)
+### #is_/same_as :: [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md)
 

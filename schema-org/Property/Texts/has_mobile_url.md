@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_mobile_url](/_Standards/schema-org/Property/Texts/has_mobile_url.md) 
+### #is_/same_as :: [has_mobile_url](/_Standards/schema-org/Property/Texts/has_mobile_url.md) 
 
-### [has_mobile_url.public](/_public/schema-org/Property/Texts/has_mobile_url.public.md) 
+### #is_/same_as :: [has_mobile_url.public](/_public/schema-org/Property/Texts/has_mobile_url.public.md) 
 
-### [has_mobile_url.internal](/_internal/schema-org/Property/Texts/has_mobile_url.internal.md) 
+### #is_/same_as :: [has_mobile_url.internal](/_internal/schema-org/Property/Texts/has_mobile_url.internal.md) 
 
-### [has_mobile_url.protect](/_protect/schema-org/Property/Texts/has_mobile_url.protect.md) 
+### #is_/same_as :: [has_mobile_url.protect](/_protect/schema-org/Property/Texts/has_mobile_url.protect.md) 
 
-### [has_mobile_url.private](/_private/schema-org/Property/Texts/has_mobile_url.private.md) 
+### #is_/same_as :: [has_mobile_url.private](/_private/schema-org/Property/Texts/has_mobile_url.private.md) 
 
-### [has_mobile_url.personal](/_personal/schema-org/Property/Texts/has_mobile_url.personal.md) 
+### #is_/same_as :: [has_mobile_url.personal](/_personal/schema-org/Property/Texts/has_mobile_url.personal.md) 
 
-### [has_mobile_url.secret](/_secret/schema-org/Property/Texts/has_mobile_url.secret.md)
+### #is_/same_as :: [has_mobile_url.secret](/_secret/schema-org/Property/Texts/has_mobile_url.secret.md)
 

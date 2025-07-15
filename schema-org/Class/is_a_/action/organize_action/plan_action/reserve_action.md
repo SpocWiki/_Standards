@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [reserve_action](/_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.md) 
+### #is_/same_as :: [reserve_action](/_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.md) 
 
-### [reserve_action.public](/_public/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.public.md) 
+### #is_/same_as :: [reserve_action.public](/_public/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.public.md) 
 
-### [reserve_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.internal.md) 
+### #is_/same_as :: [reserve_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.internal.md) 
 
-### [reserve_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.protect.md) 
+### #is_/same_as :: [reserve_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.protect.md) 
 
-### [reserve_action.private](/_private/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.private.md) 
+### #is_/same_as :: [reserve_action.private](/_private/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.private.md) 
 
-### [reserve_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.personal.md) 
+### #is_/same_as :: [reserve_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.personal.md) 
 
-### [reserve_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.secret.md)
+### #is_/same_as :: [reserve_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.secret.md)
 

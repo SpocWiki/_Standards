@@ -45,24 +45,19 @@ It is sufficient for Survival to live in a Bubble and pick most opinions arbitra
 > [Wikipedia](https://en.wikipedia.org/wiki/Truth)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Truth](/_Standards/bio/People/Philosopher/Epistemology/Truth.md) 
+### #is_/same_as :: [Truth](/_Standards/bio/People/Philosopher/Epistemology/Truth.md) 
 
-### [Truth.public](/_public/bio/People/Philosopher/Epistemology/Truth.public.md) 
+### #is_/same_as :: [Truth.public](/_public/bio/People/Philosopher/Epistemology/Truth.public.md) 
 
-### [Truth.internal](/_internal/bio/People/Philosopher/Epistemology/Truth.internal.md) 
+### #is_/same_as :: [Truth.internal](/_internal/bio/People/Philosopher/Epistemology/Truth.internal.md) 
 
-### [Truth.protect](/_protect/bio/People/Philosopher/Epistemology/Truth.protect.md) 
+### #is_/same_as :: [Truth.protect](/_protect/bio/People/Philosopher/Epistemology/Truth.protect.md) 
 
-### [Truth.private](/_private/bio/People/Philosopher/Epistemology/Truth.private.md) 
+### #is_/same_as :: [Truth.private](/_private/bio/People/Philosopher/Epistemology/Truth.private.md) 
 
-### [Truth.personal](/_personal/bio/People/Philosopher/Epistemology/Truth.personal.md) 
+### #is_/same_as :: [Truth.personal](/_personal/bio/People/Philosopher/Epistemology/Truth.personal.md) 
 
-### [Truth.secret](/_secret/bio/People/Philosopher/Epistemology/Truth.secret.md)
+### #is_/same_as :: [Truth.secret](/_secret/bio/People/Philosopher/Epistemology/Truth.secret.md)
 

@@ -51,17 +51,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### [warranty_scope](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.md) 
+### #is_/same_as :: [warranty_scope](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.md) 
 
-### [warranty_scope.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.public.md) 
+### #is_/same_as :: [warranty_scope.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.public.md) 
 
-### [warranty_scope.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.internal.md) 
+### #is_/same_as :: [warranty_scope.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.internal.md) 
 
-### [warranty_scope.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.protect.md) 
+### #is_/same_as :: [warranty_scope.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.protect.md) 
 
-### [warranty_scope.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.private.md) 
+### #is_/same_as :: [warranty_scope.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.private.md) 
 
-### [warranty_scope.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.personal.md) 
+### #is_/same_as :: [warranty_scope.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.personal.md) 
 
-### [warranty_scope.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.secret.md)
+### #is_/same_as :: [warranty_scope.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.secret.md)
 

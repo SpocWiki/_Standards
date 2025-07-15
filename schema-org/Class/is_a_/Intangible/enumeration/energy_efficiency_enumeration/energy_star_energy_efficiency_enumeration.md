@@ -45,17 +45,17 @@ Used to indicate whether a product is EnergyStar certified.
 
 ## Confidential Links & Embeds: 
 
-### [energy_star_energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.md) 
 
-### [energy_star_energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.public.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.public.md) 
 
-### [energy_star_energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.internal.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.internal.md) 
 
-### [energy_star_energy_efficiency_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.protect.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.protect.md) 
 
-### [energy_star_energy_efficiency_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.private.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.private.md) 
 
-### [energy_star_energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.personal.md) 
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.personal.md) 
 
-### [energy_star_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.secret.md)
+### #is_/same_as :: [energy_star_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.secret.md)
 

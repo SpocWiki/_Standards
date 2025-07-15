@@ -35,17 +35,17 @@ The act of consuming written content.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReadAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.md) 
+### #is_/same_as :: [FileClass~ReadAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.md) 
 
-### [FileClass~ReadAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.public.md) 
+### #is_/same_as :: [FileClass~ReadAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.public.md) 
 
-### [FileClass~ReadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.internal.md) 
+### #is_/same_as :: [FileClass~ReadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.internal.md) 
 
-### [FileClass~ReadAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.protect.md) 
+### #is_/same_as :: [FileClass~ReadAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.protect.md) 
 
-### [FileClass~ReadAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.private.md) 
+### #is_/same_as :: [FileClass~ReadAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.private.md) 
 
-### [FileClass~ReadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.personal.md) 
+### #is_/same_as :: [FileClass~ReadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.personal.md) 
 
-### [FileClass~ReadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.secret.md)
+### #is_/same_as :: [FileClass~ReadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.secret.md)
 

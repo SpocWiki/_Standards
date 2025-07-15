@@ -49,22 +49,19 @@ USDA_NDB_number: 14327
 > [Wikipedia](https://en.wikipedia.org/wiki/Juice) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Juice](/_Standards/Home_Economics/Cooking/Food/Drink/Juice.md) 
+### #is_/same_as :: [Juice](/_Standards/Home_Economics/Cooking/Food/Drink/Juice.md) 
 
-### [Juice.public](/_public/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
+### #is_/same_as :: [Juice.public](/_public/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
 
-### [Juice.internal](/_internal/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
+### #is_/same_as :: [Juice.internal](/_internal/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
 
-### [Juice.protect](/_protect/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
+### #is_/same_as :: [Juice.protect](/_protect/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
 
-### [Juice.private](/_private/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
+### #is_/same_as :: [Juice.private](/_private/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
 
-### [Juice.personal](/_personal/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
+### #is_/same_as :: [Juice.personal](/_personal/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
 
-### [Juice.secret](/_secret/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
+### #is_/same_as :: [Juice.secret](/_secret/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
 

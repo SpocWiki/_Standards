@@ -343,17 +343,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Asia-CityDB](/_Standards/Earth/Continent/Asia/_Asia-CityDB.md) 
+### #is_/same_as :: [_Asia-CityDB](/_Standards/Earth/Continent/Asia/_Asia-CityDB.md) 
 
-### [_Asia-CityDB.public](/_public/Earth/Continent/Asia/_Asia-CityDB.public.md) 
+### #is_/same_as :: [_Asia-CityDB.public](/_public/Earth/Continent/Asia/_Asia-CityDB.public.md) 
 
-### [_Asia-CityDB.internal](/_internal/Earth/Continent/Asia/_Asia-CityDB.internal.md) 
+### #is_/same_as :: [_Asia-CityDB.internal](/_internal/Earth/Continent/Asia/_Asia-CityDB.internal.md) 
 
-### [_Asia-CityDB.protect](/_protect/Earth/Continent/Asia/_Asia-CityDB.protect.md) 
+### #is_/same_as :: [_Asia-CityDB.protect](/_protect/Earth/Continent/Asia/_Asia-CityDB.protect.md) 
 
-### [_Asia-CityDB.private](/_private/Earth/Continent/Asia/_Asia-CityDB.private.md) 
+### #is_/same_as :: [_Asia-CityDB.private](/_private/Earth/Continent/Asia/_Asia-CityDB.private.md) 
 
-### [_Asia-CityDB.personal](/_personal/Earth/Continent/Asia/_Asia-CityDB.personal.md) 
+### #is_/same_as :: [_Asia-CityDB.personal](/_personal/Earth/Continent/Asia/_Asia-CityDB.personal.md) 
 
-### [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md)
+### #is_/same_as :: [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md)
 

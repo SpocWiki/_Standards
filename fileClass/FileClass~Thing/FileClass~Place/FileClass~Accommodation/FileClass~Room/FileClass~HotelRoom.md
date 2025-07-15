@@ -37,17 +37,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HotelRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.md) 
+### #is_/same_as :: [FileClass~HotelRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.md) 
 
-### [FileClass~HotelRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.public.md) 
+### #is_/same_as :: [FileClass~HotelRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.public.md) 
 
-### [FileClass~HotelRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.internal.md) 
+### #is_/same_as :: [FileClass~HotelRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.internal.md) 
 
-### [FileClass~HotelRoom.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.protect.md) 
+### #is_/same_as :: [FileClass~HotelRoom.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.protect.md) 
 
-### [FileClass~HotelRoom.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.private.md) 
+### #is_/same_as :: [FileClass~HotelRoom.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.private.md) 
 
-### [FileClass~HotelRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.personal.md) 
+### #is_/same_as :: [FileClass~HotelRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.personal.md) 
 
-### [FileClass~HotelRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.secret.md)
+### #is_/same_as :: [FileClass~HotelRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~HotelRoom.secret.md)
 

@@ -73,17 +73,17 @@ SuitableForDiet:: {"type":"Select","options":{"valuesList":{"DiabeticDiet","Glut
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MenuItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.md) 
+### #is_/same_as :: [FileClass~MenuItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.md) 
 
-### [FileClass~MenuItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.public.md) 
+### #is_/same_as :: [FileClass~MenuItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.public.md) 
 
-### [FileClass~MenuItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.internal.md) 
+### #is_/same_as :: [FileClass~MenuItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.internal.md) 
 
-### [FileClass~MenuItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.protect.md) 
+### #is_/same_as :: [FileClass~MenuItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.protect.md) 
 
-### [FileClass~MenuItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.private.md) 
+### #is_/same_as :: [FileClass~MenuItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.private.md) 
 
-### [FileClass~MenuItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.personal.md) 
+### #is_/same_as :: [FileClass~MenuItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.personal.md) 
 
-### [FileClass~MenuItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.secret.md)
+### #is_/same_as :: [FileClass~MenuItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.secret.md)
 

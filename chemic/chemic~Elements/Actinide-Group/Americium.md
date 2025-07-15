@@ -90,17 +90,17 @@ Commons_category: Americium
 
 ## Confidential Links & Embeds: 
 
-### [Americium](/_Standards/chemic/chemic~Elements/Actinide-Group/Americium.md) 
+### #is_/same_as :: [Americium](/_Standards/chemic/chemic~Elements/Actinide-Group/Americium.md) 
 
-### [Americium.public](/_public/chemic/chemic~Elements/Actinide-Group/Americium.public.md) 
+### #is_/same_as :: [Americium.public](/_public/chemic/chemic~Elements/Actinide-Group/Americium.public.md) 
 
-### [Americium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Americium.internal.md) 
+### #is_/same_as :: [Americium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Americium.internal.md) 
 
-### [Americium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Americium.protect.md) 
+### #is_/same_as :: [Americium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Americium.protect.md) 
 
-### [Americium.private](/_private/chemic/chemic~Elements/Actinide-Group/Americium.private.md) 
+### #is_/same_as :: [Americium.private](/_private/chemic/chemic~Elements/Actinide-Group/Americium.private.md) 
 
-### [Americium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Americium.personal.md) 
+### #is_/same_as :: [Americium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Americium.personal.md) 
 
-### [Americium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Americium.secret.md)
+### #is_/same_as :: [Americium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Americium.secret.md)
 

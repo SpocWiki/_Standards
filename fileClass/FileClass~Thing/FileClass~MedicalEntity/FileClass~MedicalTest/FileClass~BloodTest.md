@@ -35,17 +35,17 @@ A medical test performed on a sample of a patient's blood.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BloodTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.md) 
+### #is_/same_as :: [FileClass~BloodTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.md) 
 
-### [FileClass~BloodTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.public.md) 
+### #is_/same_as :: [FileClass~BloodTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.public.md) 
 
-### [FileClass~BloodTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.internal.md) 
+### #is_/same_as :: [FileClass~BloodTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.internal.md) 
 
-### [FileClass~BloodTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.protect.md) 
+### #is_/same_as :: [FileClass~BloodTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.protect.md) 
 
-### [FileClass~BloodTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.private.md) 
+### #is_/same_as :: [FileClass~BloodTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.private.md) 
 
-### [FileClass~BloodTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.personal.md) 
+### #is_/same_as :: [FileClass~BloodTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.personal.md) 
 
-### [FileClass~BloodTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.secret.md)
+### #is_/same_as :: [FileClass~BloodTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~BloodTest.secret.md)
 

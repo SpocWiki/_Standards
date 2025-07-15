@@ -45,17 +45,17 @@ A music venue.
 
 ## Confidential Links & Embeds: 
 
-### [music_venue](/_Standards/schema-org/Class/is_a_/place/civic_structure/music_venue.md) 
+### #is_/same_as :: [music_venue](/_Standards/schema-org/Class/is_a_/place/civic_structure/music_venue.md) 
 
-### [music_venue.public](/_public/schema-org/Class/is_a_/place/civic_structure/music_venue.public.md) 
+### #is_/same_as :: [music_venue.public](/_public/schema-org/Class/is_a_/place/civic_structure/music_venue.public.md) 
 
-### [music_venue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/music_venue.internal.md) 
+### #is_/same_as :: [music_venue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/music_venue.internal.md) 
 
-### [music_venue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/music_venue.protect.md) 
+### #is_/same_as :: [music_venue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/music_venue.protect.md) 
 
-### [music_venue.private](/_private/schema-org/Class/is_a_/place/civic_structure/music_venue.private.md) 
+### #is_/same_as :: [music_venue.private](/_private/schema-org/Class/is_a_/place/civic_structure/music_venue.private.md) 
 
-### [music_venue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/music_venue.personal.md) 
+### #is_/same_as :: [music_venue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/music_venue.personal.md) 
 
-### [music_venue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/music_venue.secret.md)
+### #is_/same_as :: [music_venue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/music_venue.secret.md)
 

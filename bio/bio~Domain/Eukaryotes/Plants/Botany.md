@@ -20,23 +20,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Botany) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Botany](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany.md) 
+### #is_/same_as :: [Botany](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany.md) 
 
-### [Botany.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany.public.md) 
+### #is_/same_as :: [Botany.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany.public.md) 
 
-### [Botany.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany.internal.md) 
+### #is_/same_as :: [Botany.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany.internal.md) 
 
-### [Botany.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany.protect.md) 
+### #is_/same_as :: [Botany.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany.protect.md) 
 
-### [Botany.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany.private.md) 
+### #is_/same_as :: [Botany.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany.private.md) 
 
-### [Botany.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany.personal.md) 
+### #is_/same_as :: [Botany.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany.personal.md) 
 
-### [Botany.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany.secret.md)
+### #is_/same_as :: [Botany.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany.secret.md)
 

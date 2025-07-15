@@ -210,20 +210,19 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
   ---------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Diplura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.md) 
+### #is_/same_as :: [Diplura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.md) 
 
-### [Diplura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.public.md) 
+### #is_/same_as :: [Diplura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.public.md) 
 
-### [Diplura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.internal.md) 
+### #is_/same_as :: [Diplura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.internal.md) 
 
-### [Diplura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.protect.md) 
+### #is_/same_as :: [Diplura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.protect.md) 
 
-### [Diplura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.private.md) 
+### #is_/same_as :: [Diplura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.private.md) 
 
-### [Diplura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.personal.md) 
+### #is_/same_as :: [Diplura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.personal.md) 
 
-### [Diplura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.secret.md)
+### #is_/same_as :: [Diplura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Diplura.secret.md)
 

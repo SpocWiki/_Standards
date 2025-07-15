@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_warranty](/_Standards/schema-org/Relation/has/has_warranty.md) 
+### #is_/same_as :: [has_warranty](/_Standards/schema-org/Relation/has/has_warranty.md) 
 
-### [has_warranty.public](/_public/schema-org/Relation/has/has_warranty.public.md) 
+### #is_/same_as :: [has_warranty.public](/_public/schema-org/Relation/has/has_warranty.public.md) 
 
-### [has_warranty.internal](/_internal/schema-org/Relation/has/has_warranty.internal.md) 
+### #is_/same_as :: [has_warranty.internal](/_internal/schema-org/Relation/has/has_warranty.internal.md) 
 
-### [has_warranty.protect](/_protect/schema-org/Relation/has/has_warranty.protect.md) 
+### #is_/same_as :: [has_warranty.protect](/_protect/schema-org/Relation/has/has_warranty.protect.md) 
 
-### [has_warranty.private](/_private/schema-org/Relation/has/has_warranty.private.md) 
+### #is_/same_as :: [has_warranty.private](/_private/schema-org/Relation/has/has_warranty.private.md) 
 
-### [has_warranty.personal](/_personal/schema-org/Relation/has/has_warranty.personal.md) 
+### #is_/same_as :: [has_warranty.personal](/_personal/schema-org/Relation/has/has_warranty.personal.md) 
 
-### [has_warranty.secret](/_secret/schema-org/Relation/has/has_warranty.secret.md)
+### #is_/same_as :: [has_warranty.secret](/_secret/schema-org/Relation/has/has_warranty.secret.md)
 

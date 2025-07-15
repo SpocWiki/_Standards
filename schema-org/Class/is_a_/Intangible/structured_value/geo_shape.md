@@ -47,17 +47,17 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 ## Confidential Links & Embeds: 
 
-### [geo_shape](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.md) 
+### #is_/same_as :: [geo_shape](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.md) 
 
-### [geo_shape.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.public.md) 
+### #is_/same_as :: [geo_shape.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.public.md) 
 
-### [geo_shape.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.internal.md) 
+### #is_/same_as :: [geo_shape.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.internal.md) 
 
-### [geo_shape.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.protect.md) 
+### #is_/same_as :: [geo_shape.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.protect.md) 
 
-### [geo_shape.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.private.md) 
+### #is_/same_as :: [geo_shape.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.private.md) 
 
-### [geo_shape.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.personal.md) 
+### #is_/same_as :: [geo_shape.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.personal.md) 
 
-### [geo_shape.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.secret.md)
+### #is_/same_as :: [geo_shape.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.secret.md)
 

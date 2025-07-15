@@ -45,17 +45,17 @@ SerialNumber:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~IndividualProduct](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.md) 
+### #is_/same_as :: [FileClass~IndividualProduct](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.md) 
 
-### [FileClass~IndividualProduct.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.public.md) 
+### #is_/same_as :: [FileClass~IndividualProduct.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.public.md) 
 
-### [FileClass~IndividualProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.internal.md) 
+### #is_/same_as :: [FileClass~IndividualProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.internal.md) 
 
-### [FileClass~IndividualProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.protect.md) 
+### #is_/same_as :: [FileClass~IndividualProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.protect.md) 
 
-### [FileClass~IndividualProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.private.md) 
+### #is_/same_as :: [FileClass~IndividualProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.private.md) 
 
-### [FileClass~IndividualProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.personal.md) 
+### #is_/same_as :: [FileClass~IndividualProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.personal.md) 
 
-### [FileClass~IndividualProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.secret.md)
+### #is_/same_as :: [FileClass~IndividualProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.secret.md)
 

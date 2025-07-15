@@ -47,17 +47,17 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ## Confidential Links & Embeds: 
 
-### [medical_sign_or_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.md) 
+### #is_/same_as :: [medical_sign_or_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.md) 
 
-### [medical_sign_or_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.public.md) 
+### #is_/same_as :: [medical_sign_or_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.public.md) 
 
-### [medical_sign_or_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.internal.md) 
+### #is_/same_as :: [medical_sign_or_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.internal.md) 
 
-### [medical_sign_or_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.protect.md) 
+### #is_/same_as :: [medical_sign_or_symptom.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.protect.md) 
 
-### [medical_sign_or_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.private.md) 
+### #is_/same_as :: [medical_sign_or_symptom.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.private.md) 
 
-### [medical_sign_or_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.personal.md) 
+### #is_/same_as :: [medical_sign_or_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.personal.md) 
 
-### [medical_sign_or_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.secret.md)
+### #is_/same_as :: [medical_sign_or_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.secret.md)
 

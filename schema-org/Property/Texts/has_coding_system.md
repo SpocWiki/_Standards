@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_coding_system](/_Standards/schema-org/Property/Texts/has_coding_system.md) 
+### #is_/same_as :: [has_coding_system](/_Standards/schema-org/Property/Texts/has_coding_system.md) 
 
-### [has_coding_system.public](/_public/schema-org/Property/Texts/has_coding_system.public.md) 
+### #is_/same_as :: [has_coding_system.public](/_public/schema-org/Property/Texts/has_coding_system.public.md) 
 
-### [has_coding_system.internal](/_internal/schema-org/Property/Texts/has_coding_system.internal.md) 
+### #is_/same_as :: [has_coding_system.internal](/_internal/schema-org/Property/Texts/has_coding_system.internal.md) 
 
-### [has_coding_system.protect](/_protect/schema-org/Property/Texts/has_coding_system.protect.md) 
+### #is_/same_as :: [has_coding_system.protect](/_protect/schema-org/Property/Texts/has_coding_system.protect.md) 
 
-### [has_coding_system.private](/_private/schema-org/Property/Texts/has_coding_system.private.md) 
+### #is_/same_as :: [has_coding_system.private](/_private/schema-org/Property/Texts/has_coding_system.private.md) 
 
-### [has_coding_system.personal](/_personal/schema-org/Property/Texts/has_coding_system.personal.md) 
+### #is_/same_as :: [has_coding_system.personal](/_personal/schema-org/Property/Texts/has_coding_system.personal.md) 
 
-### [has_coding_system.secret](/_secret/schema-org/Property/Texts/has_coding_system.secret.md)
+### #is_/same_as :: [has_coding_system.secret](/_secret/schema-org/Property/Texts/has_coding_system.secret.md)
 

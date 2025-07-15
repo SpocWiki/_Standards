@@ -41,25 +41,19 @@ Commons_category: "Small intestines"
 > [Wikipedia](https://en.wikipedia.org/wiki/Small%20intestine)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Small_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.md) 
+### #is_/same_as :: [Small_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.md) 
 
-### [Small_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.public.md) 
+### #is_/same_as :: [Small_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.public.md) 
 
-### [Small_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.internal.md) 
+### #is_/same_as :: [Small_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.internal.md) 
 
-### [Small_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.protect.md) 
+### #is_/same_as :: [Small_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.protect.md) 
 
-### [Small_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.private.md) 
+### #is_/same_as :: [Small_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.private.md) 
 
-### [Small_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.personal.md) 
+### #is_/same_as :: [Small_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.personal.md) 
 
-### [Small_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.secret.md)
+### #is_/same_as :: [Small_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.secret.md)
 

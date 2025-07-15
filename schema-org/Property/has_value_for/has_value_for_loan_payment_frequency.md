@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_loan_payment_frequency](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.md) 
 
-### [has_value_for_loan_payment_frequency.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.public.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.public.md) 
 
-### [has_value_for_loan_payment_frequency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.internal.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.internal.md) 
 
-### [has_value_for_loan_payment_frequency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.protect.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.protect.md) 
 
-### [has_value_for_loan_payment_frequency.private](/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.private.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency.private](/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.private.md) 
 
-### [has_value_for_loan_payment_frequency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.personal.md) 
+### #is_/same_as :: [has_value_for_loan_payment_frequency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.personal.md) 
 
-### [has_value_for_loan_payment_frequency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.secret.md)
+### #is_/same_as :: [has_value_for_loan_payment_frequency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.secret.md)
 

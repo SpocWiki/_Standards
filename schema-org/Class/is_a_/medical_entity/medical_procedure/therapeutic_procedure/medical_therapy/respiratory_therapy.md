@@ -47,17 +47,17 @@ The therapy that is concerned with the maintenance or improvement of respiratory
 
 ## Confidential Links & Embeds: 
 
-### [respiratory_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.md) 
+### #is_/same_as :: [respiratory_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.md) 
 
-### [respiratory_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.public.md) 
+### #is_/same_as :: [respiratory_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.public.md) 
 
-### [respiratory_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.internal.md) 
+### #is_/same_as :: [respiratory_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.internal.md) 
 
-### [respiratory_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.protect.md) 
+### #is_/same_as :: [respiratory_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.protect.md) 
 
-### [respiratory_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.private.md) 
+### #is_/same_as :: [respiratory_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.private.md) 
 
-### [respiratory_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.personal.md) 
+### #is_/same_as :: [respiratory_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.personal.md) 
 
-### [respiratory_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.secret.md)
+### #is_/same_as :: [respiratory_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.secret.md)
 

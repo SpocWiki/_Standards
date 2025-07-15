@@ -56,17 +56,17 @@ WarrantyScope:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WarrantyPromise](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.md) 
 
-### [FileClass~WarrantyPromise.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.public.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.public.md) 
 
-### [FileClass~WarrantyPromise.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.internal.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.internal.md) 
 
-### [FileClass~WarrantyPromise.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.protect.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.protect.md) 
 
-### [FileClass~WarrantyPromise.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.private.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.private.md) 
 
-### [FileClass~WarrantyPromise.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.personal.md) 
+### #is_/same_as :: [FileClass~WarrantyPromise.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.personal.md) 
 
-### [FileClass~WarrantyPromise.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret.md)
+### #is_/same_as :: [FileClass~WarrantyPromise.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret.md)
 

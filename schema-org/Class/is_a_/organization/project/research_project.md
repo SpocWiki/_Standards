@@ -47,17 +47,17 @@ A Research project.
 
 ## Confidential Links & Embeds: 
 
-### [research_project](/_Standards/schema-org/Class/is_a_/organization/project/research_project.md) 
+### #is_/same_as :: [research_project](/_Standards/schema-org/Class/is_a_/organization/project/research_project.md) 
 
-### [research_project.public](/_public/schema-org/Class/is_a_/organization/project/research_project.public.md) 
+### #is_/same_as :: [research_project.public](/_public/schema-org/Class/is_a_/organization/project/research_project.public.md) 
 
-### [research_project.internal](/_internal/schema-org/Class/is_a_/organization/project/research_project.internal.md) 
+### #is_/same_as :: [research_project.internal](/_internal/schema-org/Class/is_a_/organization/project/research_project.internal.md) 
 
-### [research_project.protect](/_protect/schema-org/Class/is_a_/organization/project/research_project.protect.md) 
+### #is_/same_as :: [research_project.protect](/_protect/schema-org/Class/is_a_/organization/project/research_project.protect.md) 
 
-### [research_project.private](/_private/schema-org/Class/is_a_/organization/project/research_project.private.md) 
+### #is_/same_as :: [research_project.private](/_private/schema-org/Class/is_a_/organization/project/research_project.private.md) 
 
-### [research_project.personal](/_personal/schema-org/Class/is_a_/organization/project/research_project.personal.md) 
+### #is_/same_as :: [research_project.personal](/_personal/schema-org/Class/is_a_/organization/project/research_project.personal.md) 
 
-### [research_project.secret](/_secret/schema-org/Class/is_a_/organization/project/research_project.secret.md)
+### #is_/same_as :: [research_project.secret](/_secret/schema-org/Class/is_a_/organization/project/research_project.secret.md)
 

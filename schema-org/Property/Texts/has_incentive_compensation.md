@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_incentive_compensation](/_Standards/schema-org/Property/Texts/has_incentive_compensation.md) 
+### #is_/same_as :: [has_incentive_compensation](/_Standards/schema-org/Property/Texts/has_incentive_compensation.md) 
 
-### [has_incentive_compensation.public](/_public/schema-org/Property/Texts/has_incentive_compensation.public.md) 
+### #is_/same_as :: [has_incentive_compensation.public](/_public/schema-org/Property/Texts/has_incentive_compensation.public.md) 
 
-### [has_incentive_compensation.internal](/_internal/schema-org/Property/Texts/has_incentive_compensation.internal.md) 
+### #is_/same_as :: [has_incentive_compensation.internal](/_internal/schema-org/Property/Texts/has_incentive_compensation.internal.md) 
 
-### [has_incentive_compensation.protect](/_protect/schema-org/Property/Texts/has_incentive_compensation.protect.md) 
+### #is_/same_as :: [has_incentive_compensation.protect](/_protect/schema-org/Property/Texts/has_incentive_compensation.protect.md) 
 
-### [has_incentive_compensation.private](/_private/schema-org/Property/Texts/has_incentive_compensation.private.md) 
+### #is_/same_as :: [has_incentive_compensation.private](/_private/schema-org/Property/Texts/has_incentive_compensation.private.md) 
 
-### [has_incentive_compensation.personal](/_personal/schema-org/Property/Texts/has_incentive_compensation.personal.md) 
+### #is_/same_as :: [has_incentive_compensation.personal](/_personal/schema-org/Property/Texts/has_incentive_compensation.personal.md) 
 
-### [has_incentive_compensation.secret](/_secret/schema-org/Property/Texts/has_incentive_compensation.secret.md)
+### #is_/same_as :: [has_incentive_compensation.secret](/_secret/schema-org/Property/Texts/has_incentive_compensation.secret.md)
 

@@ -47,17 +47,17 @@ OrderStatus representing that there is a problem with the order.
 
 ## Confidential Links & Embeds: 
 
-### [order_problem](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.md) 
+### #is_/same_as :: [order_problem](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.md) 
 
-### [order_problem.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.public.md) 
+### #is_/same_as :: [order_problem.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.public.md) 
 
-### [order_problem.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.internal.md) 
+### #is_/same_as :: [order_problem.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.internal.md) 
 
-### [order_problem.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.protect.md) 
+### #is_/same_as :: [order_problem.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.protect.md) 
 
-### [order_problem.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.private.md) 
+### #is_/same_as :: [order_problem.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.private.md) 
 
-### [order_problem.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.personal.md) 
+### #is_/same_as :: [order_problem.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.personal.md) 
 
-### [order_problem.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.secret.md)
+### #is_/same_as :: [order_problem.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.secret.md)
 

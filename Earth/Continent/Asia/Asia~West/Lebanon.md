@@ -472,17 +472,17 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 ## Confidential Links & Embeds: 
 
-### [Lebanon](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon.md) 
+### #is_/same_as :: [Lebanon](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon.md) 
 
-### [Lebanon.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon.public.md) 
+### #is_/same_as :: [Lebanon.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon.public.md) 
 
-### [Lebanon.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal.md) 
+### #is_/same_as :: [Lebanon.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal.md) 
 
-### [Lebanon.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect.md) 
+### #is_/same_as :: [Lebanon.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect.md) 
 
-### [Lebanon.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon.private.md) 
+### #is_/same_as :: [Lebanon.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon.private.md) 
 
-### [Lebanon.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal.md) 
+### #is_/same_as :: [Lebanon.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal.md) 
 
-### [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md)
+### #is_/same_as :: [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md)
 

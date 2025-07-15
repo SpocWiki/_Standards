@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_yearly_revenue](/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue](/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue.md) 
 
-### [has_value_for_yearly_revenue.public](/_public/schema-org/Property/has_value_for/has_value_for_yearly_revenue.public.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue.public](/_public/schema-org/Property/has_value_for/has_value_for_yearly_revenue.public.md) 
 
-### [has_value_for_yearly_revenue.internal](/_internal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.internal.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue.internal](/_internal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.internal.md) 
 
-### [has_value_for_yearly_revenue.protect](/_protect/schema-org/Property/has_value_for/has_value_for_yearly_revenue.protect.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue.protect](/_protect/schema-org/Property/has_value_for/has_value_for_yearly_revenue.protect.md) 
 
-### [has_value_for_yearly_revenue.private](/_private/schema-org/Property/has_value_for/has_value_for_yearly_revenue.private.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue.private](/_private/schema-org/Property/has_value_for/has_value_for_yearly_revenue.private.md) 
 
-### [has_value_for_yearly_revenue.personal](/_personal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.personal.md) 
+### #is_/same_as :: [has_value_for_yearly_revenue.personal](/_personal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.personal.md) 
 
-### [has_value_for_yearly_revenue.secret](/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret.md)
+### #is_/same_as :: [has_value_for_yearly_revenue.secret](/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret.md)
 

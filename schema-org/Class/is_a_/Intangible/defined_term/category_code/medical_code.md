@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [medical_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.md) 
+### #is_/same_as :: [medical_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.md) 
 
-### [medical_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.public.md) 
+### #is_/same_as :: [medical_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.public.md) 
 
-### [medical_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.internal.md) 
+### #is_/same_as :: [medical_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.internal.md) 
 
-### [medical_code.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.protect.md) 
+### #is_/same_as :: [medical_code.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.protect.md) 
 
-### [medical_code.private](/_private/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.private.md) 
+### #is_/same_as :: [medical_code.private](/_private/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.private.md) 
 
-### [medical_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.personal.md) 
+### #is_/same_as :: [medical_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.personal.md) 
 
-### [medical_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.secret.md)
+### #is_/same_as :: [medical_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.secret.md)
 

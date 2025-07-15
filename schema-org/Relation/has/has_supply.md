@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_supply](/_Standards/schema-org/Relation/has/has_supply.md) 
+### #is_/same_as :: [has_supply](/_Standards/schema-org/Relation/has/has_supply.md) 
 
-### [has_supply.public](/_public/schema-org/Relation/has/has_supply.public.md) 
+### #is_/same_as :: [has_supply.public](/_public/schema-org/Relation/has/has_supply.public.md) 
 
-### [has_supply.internal](/_internal/schema-org/Relation/has/has_supply.internal.md) 
+### #is_/same_as :: [has_supply.internal](/_internal/schema-org/Relation/has/has_supply.internal.md) 
 
-### [has_supply.protect](/_protect/schema-org/Relation/has/has_supply.protect.md) 
+### #is_/same_as :: [has_supply.protect](/_protect/schema-org/Relation/has/has_supply.protect.md) 
 
-### [has_supply.private](/_private/schema-org/Relation/has/has_supply.private.md) 
+### #is_/same_as :: [has_supply.private](/_private/schema-org/Relation/has/has_supply.private.md) 
 
-### [has_supply.personal](/_personal/schema-org/Relation/has/has_supply.personal.md) 
+### #is_/same_as :: [has_supply.personal](/_personal/schema-org/Relation/has/has_supply.personal.md) 
 
-### [has_supply.secret](/_secret/schema-org/Relation/has/has_supply.secret.md)
+### #is_/same_as :: [has_supply.secret](/_secret/schema-org/Relation/has/has_supply.secret.md)
 

@@ -45,17 +45,17 @@ A hardware store.
 
 ## Confidential Links & Embeds: 
 
-### [hardware_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/hardware_store.md) 
+### #is_/same_as :: [hardware_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/hardware_store.md) 
 
-### [hardware_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/hardware_store.public.md) 
+### #is_/same_as :: [hardware_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/hardware_store.public.md) 
 
-### [hardware_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/hardware_store.internal.md) 
+### #is_/same_as :: [hardware_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/hardware_store.internal.md) 
 
-### [hardware_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/hardware_store.protect.md) 
+### #is_/same_as :: [hardware_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/hardware_store.protect.md) 
 
-### [hardware_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/hardware_store.private.md) 
+### #is_/same_as :: [hardware_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/hardware_store.private.md) 
 
-### [hardware_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/hardware_store.personal.md) 
+### #is_/same_as :: [hardware_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/hardware_store.personal.md) 
 
-### [hardware_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/hardware_store.secret.md)
+### #is_/same_as :: [hardware_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/hardware_store.secret.md)
 

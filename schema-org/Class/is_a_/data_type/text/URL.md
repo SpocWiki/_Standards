@@ -129,17 +129,17 @@ Data type: URL.
 
 ## Confidential Links & Embeds: 
 
-### [URL](/_Standards/schema-org/Class/is_a_/data_type/text/URL.md) 
+### #is_/same_as :: [URL](/_Standards/schema-org/Class/is_a_/data_type/text/URL.md) 
 
-### [URL.public](/_public/schema-org/Class/is_a_/data_type/text/URL.public.md) 
+### #is_/same_as :: [URL.public](/_public/schema-org/Class/is_a_/data_type/text/URL.public.md) 
 
-### [URL.internal](/_internal/schema-org/Class/is_a_/data_type/text/URL.internal.md) 
+### #is_/same_as :: [URL.internal](/_internal/schema-org/Class/is_a_/data_type/text/URL.internal.md) 
 
-### [URL.protect](/_protect/schema-org/Class/is_a_/data_type/text/URL.protect.md) 
+### #is_/same_as :: [URL.protect](/_protect/schema-org/Class/is_a_/data_type/text/URL.protect.md) 
 
-### [URL.private](/_private/schema-org/Class/is_a_/data_type/text/URL.private.md) 
+### #is_/same_as :: [URL.private](/_private/schema-org/Class/is_a_/data_type/text/URL.private.md) 
 
-### [URL.personal](/_personal/schema-org/Class/is_a_/data_type/text/URL.personal.md) 
+### #is_/same_as :: [URL.personal](/_personal/schema-org/Class/is_a_/data_type/text/URL.personal.md) 
 
-### [URL.secret](/_secret/schema-org/Class/is_a_/data_type/text/URL.secret.md)
+### #is_/same_as :: [URL.secret](/_secret/schema-org/Class/is_a_/data_type/text/URL.secret.md)
 

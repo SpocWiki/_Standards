@@ -47,17 +47,17 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.md) 
+### #is_/same_as :: [nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.md) 
 
-### [nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.public.md) 
+### #is_/same_as :: [nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.public.md) 
 
-### [nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.internal.md) 
+### #is_/same_as :: [nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.internal.md) 
 
-### [nonprofit_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.protect.md) 
+### #is_/same_as :: [nonprofit_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.protect.md) 
 
-### [nonprofit_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.private.md) 
+### #is_/same_as :: [nonprofit_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.private.md) 
 
-### [nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.personal.md) 
+### #is_/same_as :: [nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.personal.md) 
 
-### [nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.secret.md)
+### #is_/same_as :: [nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type.secret.md)
 

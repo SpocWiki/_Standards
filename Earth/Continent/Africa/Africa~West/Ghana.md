@@ -528,17 +528,17 @@ Capital :: [[Accra]]
 
 ## Confidential Links & Embeds: 
 
-### [Ghana](/_Standards/Earth/Continent/Africa/Africa~West/Ghana.md) 
+### #is_/same_as :: [Ghana](/_Standards/Earth/Continent/Africa/Africa~West/Ghana.md) 
 
-### [Ghana.public](/_public/Earth/Continent/Africa/Africa~West/Ghana.public.md) 
+### #is_/same_as :: [Ghana.public](/_public/Earth/Continent/Africa/Africa~West/Ghana.public.md) 
 
-### [Ghana.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal.md) 
+### #is_/same_as :: [Ghana.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal.md) 
 
-### [Ghana.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana.protect.md) 
+### #is_/same_as :: [Ghana.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana.protect.md) 
 
-### [Ghana.private](/_private/Earth/Continent/Africa/Africa~West/Ghana.private.md) 
+### #is_/same_as :: [Ghana.private](/_private/Earth/Continent/Africa/Africa~West/Ghana.private.md) 
 
-### [Ghana.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal.md) 
+### #is_/same_as :: [Ghana.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal.md) 
 
-### [Ghana.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret.md)
+### #is_/same_as :: [Ghana.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret.md)
 

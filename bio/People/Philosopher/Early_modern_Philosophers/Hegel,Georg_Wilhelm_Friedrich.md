@@ -155,21 +155,19 @@ ArhivX_LOD: 811
 > [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Wilhelm%20Friedrich%20Hegel)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hegel,Georg_Wilhelm_Friedrich](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.public.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.public.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.internal.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.internal.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.protect.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.protect.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.private.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.private.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.personal.md) 
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.personal.md) 
 
-### [Hegel,Georg_Wilhelm_Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.secret.md)
+### #is_/same_as :: [Hegel,Georg_Wilhelm_Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Hegel,Georg_Wilhelm_Friedrich.secret.md)
 

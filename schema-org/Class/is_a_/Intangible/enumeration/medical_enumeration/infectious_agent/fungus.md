@@ -84,17 +84,17 @@ Pathogenic fungus.
 
 ## Confidential Links & Embeds: 
 
-### [fungus](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.md) 
+### #is_/same_as :: [fungus](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.md) 
 
-### [fungus.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.public.md) 
+### #is_/same_as :: [fungus.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.public.md) 
 
-### [fungus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.internal.md) 
+### #is_/same_as :: [fungus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.internal.md) 
 
-### [fungus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.protect.md) 
+### #is_/same_as :: [fungus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.protect.md) 
 
-### [fungus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.private.md) 
+### #is_/same_as :: [fungus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.private.md) 
 
-### [fungus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.personal.md) 
+### #is_/same_as :: [fungus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.personal.md) 
 
-### [fungus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.secret.md)
+### #is_/same_as :: [fungus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.secret.md)
 

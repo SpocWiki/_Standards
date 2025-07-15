@@ -45,17 +45,17 @@ A radio channel that uses FM.
 
 ## Confidential Links & Embeds: 
 
-### [fm_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.md) 
+### #is_/same_as :: [fm_radio_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.md) 
 
-### [fm_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.public.md) 
+### #is_/same_as :: [fm_radio_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.public.md) 
 
-### [fm_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.internal.md) 
+### #is_/same_as :: [fm_radio_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.internal.md) 
 
-### [fm_radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.protect.md) 
+### #is_/same_as :: [fm_radio_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.protect.md) 
 
-### [fm_radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.private.md) 
+### #is_/same_as :: [fm_radio_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.private.md) 
 
-### [fm_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.personal.md) 
+### #is_/same_as :: [fm_radio_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.personal.md) 
 
-### [fm_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.secret.md)
+### #is_/same_as :: [fm_radio_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/radio_channel/fm_radio_channel.secret.md)
 

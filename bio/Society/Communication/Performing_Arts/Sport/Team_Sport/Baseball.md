@@ -15,21 +15,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Baseball) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Baseball](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.md) 
+### #is_/same_as :: [Baseball](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.md) 
 
-### [Baseball.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.public.md) 
+### #is_/same_as :: [Baseball.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.public.md) 
 
-### [Baseball.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.internal.md) 
+### #is_/same_as :: [Baseball.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.internal.md) 
 
-### [Baseball.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.protect.md) 
+### #is_/same_as :: [Baseball.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.protect.md) 
 
-### [Baseball.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.private.md) 
+### #is_/same_as :: [Baseball.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.private.md) 
 
-### [Baseball.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.personal.md) 
+### #is_/same_as :: [Baseball.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.personal.md) 
 
-### [Baseball.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.secret.md)
+### #is_/same_as :: [Baseball.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Baseball.secret.md)
 

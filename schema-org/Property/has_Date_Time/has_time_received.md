@@ -46,17 +46,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_received](/_Standards/schema-org/Property/has_Date_Time/has_time_received.md) 
+### #is_/same_as :: [has_time_received](/_Standards/schema-org/Property/has_Date_Time/has_time_received.md) 
 
-### [has_time_received.public](/_public/schema-org/Property/has_Date_Time/has_time_received.public.md) 
+### #is_/same_as :: [has_time_received.public](/_public/schema-org/Property/has_Date_Time/has_time_received.public.md) 
 
-### [has_time_received.internal](/_internal/schema-org/Property/has_Date_Time/has_time_received.internal.md) 
+### #is_/same_as :: [has_time_received.internal](/_internal/schema-org/Property/has_Date_Time/has_time_received.internal.md) 
 
-### [has_time_received.protect](/_protect/schema-org/Property/has_Date_Time/has_time_received.protect.md) 
+### #is_/same_as :: [has_time_received.protect](/_protect/schema-org/Property/has_Date_Time/has_time_received.protect.md) 
 
-### [has_time_received.private](/_private/schema-org/Property/has_Date_Time/has_time_received.private.md) 
+### #is_/same_as :: [has_time_received.private](/_private/schema-org/Property/has_Date_Time/has_time_received.private.md) 
 
-### [has_time_received.personal](/_personal/schema-org/Property/has_Date_Time/has_time_received.personal.md) 
+### #is_/same_as :: [has_time_received.personal](/_personal/schema-org/Property/has_Date_Time/has_time_received.personal.md) 
 
-### [has_time_received.secret](/_secret/schema-org/Property/has_Date_Time/has_time_received.secret.md)
+### #is_/same_as :: [has_time_received.secret](/_secret/schema-org/Property/has_Date_Time/has_time_received.secret.md)
 

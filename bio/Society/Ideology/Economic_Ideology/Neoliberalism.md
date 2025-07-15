@@ -23,25 +23,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoliberalism) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Neoliberalism](/_Standards/bio/Society/Ideology/Economic_Ideology/Neoliberalism.md) 
+### #is_/same_as :: [Neoliberalism](/_Standards/bio/Society/Ideology/Economic_Ideology/Neoliberalism.md) 
 
-### [Neoliberalism.public](/_public/bio/Society/Ideology/Economic_Ideology/Neoliberalism.public.md) 
+### #is_/same_as :: [Neoliberalism.public](/_public/bio/Society/Ideology/Economic_Ideology/Neoliberalism.public.md) 
 
-### [Neoliberalism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Neoliberalism.internal.md) 
+### #is_/same_as :: [Neoliberalism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Neoliberalism.internal.md) 
 
-### [Neoliberalism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Neoliberalism.protect.md) 
+### #is_/same_as :: [Neoliberalism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Neoliberalism.protect.md) 
 
-### [Neoliberalism.private](/_private/bio/Society/Ideology/Economic_Ideology/Neoliberalism.private.md) 
+### #is_/same_as :: [Neoliberalism.private](/_private/bio/Society/Ideology/Economic_Ideology/Neoliberalism.private.md) 
 
-### [Neoliberalism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Neoliberalism.personal.md) 
+### #is_/same_as :: [Neoliberalism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Neoliberalism.personal.md) 
 
-### [Neoliberalism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Neoliberalism.secret.md)
+### #is_/same_as :: [Neoliberalism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Neoliberalism.secret.md)
 

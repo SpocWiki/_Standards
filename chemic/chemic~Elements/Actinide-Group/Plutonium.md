@@ -138,17 +138,17 @@ time_of_discovery_or_invention: "1941"
 
 ## Confidential Links & Embeds: 
 
-### [Plutonium](/_Standards/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
+### #is_/same_as :: [Plutonium](/_Standards/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
 
-### [Plutonium.public](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.public.md) 
+### #is_/same_as :: [Plutonium.public](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.public.md) 
 
-### [Plutonium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Plutonium.internal.md) 
+### #is_/same_as :: [Plutonium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Plutonium.internal.md) 
 
-### [Plutonium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Plutonium.protect.md) 
+### #is_/same_as :: [Plutonium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Plutonium.protect.md) 
 
-### [Plutonium.private](/_private/chemic/chemic~Elements/Actinide-Group/Plutonium.private.md) 
+### #is_/same_as :: [Plutonium.private](/_private/chemic/chemic~Elements/Actinide-Group/Plutonium.private.md) 
 
-### [Plutonium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Plutonium.personal.md) 
+### #is_/same_as :: [Plutonium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Plutonium.personal.md) 
 
-### [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md)
+### #is_/same_as :: [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md)
 

@@ -142,17 +142,17 @@ TotalHistoricalEnrollment:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Course](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.md) 
+### #is_/same_as :: [FileClass~Course](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.md) 
 
-### [FileClass~Course.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.public.md) 
+### #is_/same_as :: [FileClass~Course.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.public.md) 
 
-### [FileClass~Course.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.internal.md) 
+### #is_/same_as :: [FileClass~Course.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.internal.md) 
 
-### [FileClass~Course.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.protect.md) 
+### #is_/same_as :: [FileClass~Course.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.protect.md) 
 
-### [FileClass~Course.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.private.md) 
+### #is_/same_as :: [FileClass~Course.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.private.md) 
 
-### [FileClass~Course.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.personal.md) 
+### #is_/same_as :: [FileClass~Course.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.personal.md) 
 
-### [FileClass~Course.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.secret.md)
+### #is_/same_as :: [FileClass~Course.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.secret.md)
 

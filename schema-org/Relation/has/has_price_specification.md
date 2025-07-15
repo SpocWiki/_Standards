@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_price_specification](/_Standards/schema-org/Relation/has/has_price_specification.md) 
+### #is_/same_as :: [has_price_specification](/_Standards/schema-org/Relation/has/has_price_specification.md) 
 
-### [has_price_specification.public](/_public/schema-org/Relation/has/has_price_specification.public.md) 
+### #is_/same_as :: [has_price_specification.public](/_public/schema-org/Relation/has/has_price_specification.public.md) 
 
-### [has_price_specification.internal](/_internal/schema-org/Relation/has/has_price_specification.internal.md) 
+### #is_/same_as :: [has_price_specification.internal](/_internal/schema-org/Relation/has/has_price_specification.internal.md) 
 
-### [has_price_specification.protect](/_protect/schema-org/Relation/has/has_price_specification.protect.md) 
+### #is_/same_as :: [has_price_specification.protect](/_protect/schema-org/Relation/has/has_price_specification.protect.md) 
 
-### [has_price_specification.private](/_private/schema-org/Relation/has/has_price_specification.private.md) 
+### #is_/same_as :: [has_price_specification.private](/_private/schema-org/Relation/has/has_price_specification.private.md) 
 
-### [has_price_specification.personal](/_personal/schema-org/Relation/has/has_price_specification.personal.md) 
+### #is_/same_as :: [has_price_specification.personal](/_personal/schema-org/Relation/has/has_price_specification.personal.md) 
 
-### [has_price_specification.secret](/_secret/schema-org/Relation/has/has_price_specification.secret.md)
+### #is_/same_as :: [has_price_specification.secret](/_secret/schema-org/Relation/has/has_price_specification.secret.md)
 

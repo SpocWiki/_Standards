@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_followup](/_Standards/schema-org/Property/Texts/has_followup.md) 
+### #is_/same_as :: [has_followup](/_Standards/schema-org/Property/Texts/has_followup.md) 
 
-### [has_followup.public](/_public/schema-org/Property/Texts/has_followup.public.md) 
+### #is_/same_as :: [has_followup.public](/_public/schema-org/Property/Texts/has_followup.public.md) 
 
-### [has_followup.internal](/_internal/schema-org/Property/Texts/has_followup.internal.md) 
+### #is_/same_as :: [has_followup.internal](/_internal/schema-org/Property/Texts/has_followup.internal.md) 
 
-### [has_followup.protect](/_protect/schema-org/Property/Texts/has_followup.protect.md) 
+### #is_/same_as :: [has_followup.protect](/_protect/schema-org/Property/Texts/has_followup.protect.md) 
 
-### [has_followup.private](/_private/schema-org/Property/Texts/has_followup.private.md) 
+### #is_/same_as :: [has_followup.private](/_private/schema-org/Property/Texts/has_followup.private.md) 
 
-### [has_followup.personal](/_personal/schema-org/Property/Texts/has_followup.personal.md) 
+### #is_/same_as :: [has_followup.personal](/_personal/schema-org/Property/Texts/has_followup.personal.md) 
 
-### [has_followup.secret](/_secret/schema-org/Property/Texts/has_followup.secret.md)
+### #is_/same_as :: [has_followup.secret](/_secret/schema-org/Property/Texts/has_followup.secret.md)
 

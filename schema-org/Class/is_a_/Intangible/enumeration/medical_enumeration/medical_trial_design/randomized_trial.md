@@ -47,17 +47,17 @@ A randomized trial design.
 
 ## Confidential Links & Embeds: 
 
-### [randomized_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.md) 
+### #is_/same_as :: [randomized_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.md) 
 
-### [randomized_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.public.md) 
+### #is_/same_as :: [randomized_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.public.md) 
 
-### [randomized_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.internal.md) 
+### #is_/same_as :: [randomized_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.internal.md) 
 
-### [randomized_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.protect.md) 
+### #is_/same_as :: [randomized_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.protect.md) 
 
-### [randomized_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.private.md) 
+### #is_/same_as :: [randomized_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.private.md) 
 
-### [randomized_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.personal.md) 
+### #is_/same_as :: [randomized_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.personal.md) 
 
-### [randomized_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.secret.md)
+### #is_/same_as :: [randomized_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.secret.md)
 

@@ -45,17 +45,17 @@ The act of participating in performance arts.
 
 ## Confidential Links & Embeds: 
 
-### [perform_action](/_Standards/schema-org/Class/is_a_/action/play_action/perform_action.md) 
+### #is_/same_as :: [perform_action](/_Standards/schema-org/Class/is_a_/action/play_action/perform_action.md) 
 
-### [perform_action.public](/_public/schema-org/Class/is_a_/action/play_action/perform_action.public.md) 
+### #is_/same_as :: [perform_action.public](/_public/schema-org/Class/is_a_/action/play_action/perform_action.public.md) 
 
-### [perform_action.internal](/_internal/schema-org/Class/is_a_/action/play_action/perform_action.internal.md) 
+### #is_/same_as :: [perform_action.internal](/_internal/schema-org/Class/is_a_/action/play_action/perform_action.internal.md) 
 
-### [perform_action.protect](/_protect/schema-org/Class/is_a_/action/play_action/perform_action.protect.md) 
+### #is_/same_as :: [perform_action.protect](/_protect/schema-org/Class/is_a_/action/play_action/perform_action.protect.md) 
 
-### [perform_action.private](/_private/schema-org/Class/is_a_/action/play_action/perform_action.private.md) 
+### #is_/same_as :: [perform_action.private](/_private/schema-org/Class/is_a_/action/play_action/perform_action.private.md) 
 
-### [perform_action.personal](/_personal/schema-org/Class/is_a_/action/play_action/perform_action.personal.md) 
+### #is_/same_as :: [perform_action.personal](/_personal/schema-org/Class/is_a_/action/play_action/perform_action.personal.md) 
 
-### [perform_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/perform_action.secret.md)
+### #is_/same_as :: [perform_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/perform_action.secret.md)
 

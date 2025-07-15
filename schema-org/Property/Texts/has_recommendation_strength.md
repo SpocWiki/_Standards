@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_recommendation_strength](/_Standards/schema-org/Property/Texts/has_recommendation_strength.md) 
+### #is_/same_as :: [has_recommendation_strength](/_Standards/schema-org/Property/Texts/has_recommendation_strength.md) 
 
-### [has_recommendation_strength.public](/_public/schema-org/Property/Texts/has_recommendation_strength.public.md) 
+### #is_/same_as :: [has_recommendation_strength.public](/_public/schema-org/Property/Texts/has_recommendation_strength.public.md) 
 
-### [has_recommendation_strength.internal](/_internal/schema-org/Property/Texts/has_recommendation_strength.internal.md) 
+### #is_/same_as :: [has_recommendation_strength.internal](/_internal/schema-org/Property/Texts/has_recommendation_strength.internal.md) 
 
-### [has_recommendation_strength.protect](/_protect/schema-org/Property/Texts/has_recommendation_strength.protect.md) 
+### #is_/same_as :: [has_recommendation_strength.protect](/_protect/schema-org/Property/Texts/has_recommendation_strength.protect.md) 
 
-### [has_recommendation_strength.private](/_private/schema-org/Property/Texts/has_recommendation_strength.private.md) 
+### #is_/same_as :: [has_recommendation_strength.private](/_private/schema-org/Property/Texts/has_recommendation_strength.private.md) 
 
-### [has_recommendation_strength.personal](/_personal/schema-org/Property/Texts/has_recommendation_strength.personal.md) 
+### #is_/same_as :: [has_recommendation_strength.personal](/_personal/schema-org/Property/Texts/has_recommendation_strength.personal.md) 
 
-### [has_recommendation_strength.secret](/_secret/schema-org/Property/Texts/has_recommendation_strength.secret.md)
+### #is_/same_as :: [has_recommendation_strength.secret](/_secret/schema-org/Property/Texts/has_recommendation_strength.secret.md)
 

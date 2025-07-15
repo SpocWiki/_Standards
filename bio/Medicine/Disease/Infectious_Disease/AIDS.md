@@ -131,24 +131,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Human%20Immunodeficen
 > [Wikipedia](https://en.wikipedia.org/wiki/HIV/AIDS)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [AIDS](/_Standards/bio/Medicine/Disease/Infectious_Disease/AIDS.md) 
+### #is_/same_as :: [AIDS](/_Standards/bio/Medicine/Disease/Infectious_Disease/AIDS.md) 
 
-### [AIDS.public](/_public/bio/Medicine/Disease/Infectious_Disease/AIDS.public.md) 
+### #is_/same_as :: [AIDS.public](/_public/bio/Medicine/Disease/Infectious_Disease/AIDS.public.md) 
 
-### [AIDS.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/AIDS.internal.md) 
+### #is_/same_as :: [AIDS.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/AIDS.internal.md) 
 
-### [AIDS.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/AIDS.protect.md) 
+### #is_/same_as :: [AIDS.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/AIDS.protect.md) 
 
-### [AIDS.private](/_private/bio/Medicine/Disease/Infectious_Disease/AIDS.private.md) 
+### #is_/same_as :: [AIDS.private](/_private/bio/Medicine/Disease/Infectious_Disease/AIDS.private.md) 
 
-### [AIDS.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/AIDS.personal.md) 
+### #is_/same_as :: [AIDS.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/AIDS.personal.md) 
 
-### [AIDS.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/AIDS.secret.md)
+### #is_/same_as :: [AIDS.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/AIDS.secret.md)
 

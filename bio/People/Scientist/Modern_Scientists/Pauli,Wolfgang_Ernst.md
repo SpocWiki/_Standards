@@ -138,22 +138,19 @@ student_of: "[[_Standards/WikiData/WD~Max_Born,58978]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Pauli)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pauli,Wolfgang_Ernst](/_Standards/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst](/_Standards/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.md) 
 
-### [Pauli,Wolfgang_Ernst.public](/_public/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.public.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.public](/_public/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.public.md) 
 
-### [Pauli,Wolfgang_Ernst.internal](/_internal/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.internal.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.internal](/_internal/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.internal.md) 
 
-### [Pauli,Wolfgang_Ernst.protect](/_protect/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.protect.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.protect](/_protect/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.protect.md) 
 
-### [Pauli,Wolfgang_Ernst.private](/_private/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.private.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.private](/_private/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.private.md) 
 
-### [Pauli,Wolfgang_Ernst.personal](/_personal/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.personal.md) 
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.personal](/_personal/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.personal.md) 
 
-### [Pauli,Wolfgang_Ernst.secret](/_secret/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.secret.md)
+### #is_/same_as :: [Pauli,Wolfgang_Ernst.secret](/_secret/bio/People/Scientist/Modern_Scientists/Pauli,Wolfgang_Ernst.secret.md)
 

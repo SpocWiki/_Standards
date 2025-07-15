@@ -37,17 +37,17 @@ An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out somethin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OfferForLease](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.md) 
+### #is_/same_as :: [FileClass~OfferForLease](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.md) 
 
-### [FileClass~OfferForLease.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.public.md) 
+### #is_/same_as :: [FileClass~OfferForLease.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.public.md) 
 
-### [FileClass~OfferForLease.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.internal.md) 
+### #is_/same_as :: [FileClass~OfferForLease.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.internal.md) 
 
-### [FileClass~OfferForLease.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.protect.md) 
+### #is_/same_as :: [FileClass~OfferForLease.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.protect.md) 
 
-### [FileClass~OfferForLease.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.private.md) 
+### #is_/same_as :: [FileClass~OfferForLease.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.private.md) 
 
-### [FileClass~OfferForLease.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.personal.md) 
+### #is_/same_as :: [FileClass~OfferForLease.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.personal.md) 
 
-### [FileClass~OfferForLease.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret.md)
+### #is_/same_as :: [FileClass~OfferForLease.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForLease.secret.md)
 

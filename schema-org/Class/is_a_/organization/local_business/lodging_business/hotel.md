@@ -73,17 +73,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### [hotel](/_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.md) 
+### #is_/same_as :: [hotel](/_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.md) 
 
-### [hotel.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.public.md) 
+### #is_/same_as :: [hotel.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.public.md) 
 
-### [hotel.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.internal.md) 
+### #is_/same_as :: [hotel.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.internal.md) 
 
-### [hotel.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.protect.md) 
+### #is_/same_as :: [hotel.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.protect.md) 
 
-### [hotel.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.private.md) 
+### #is_/same_as :: [hotel.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.private.md) 
 
-### [hotel.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.personal.md) 
+### #is_/same_as :: [hotel.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.personal.md) 
 
-### [hotel.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.secret.md)
+### #is_/same_as :: [hotel.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/hotel.secret.md)
 

@@ -45,17 +45,17 @@ Abdomen clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [abdomen](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
+### #is_/same_as :: [abdomen](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.md) 
 
-### [abdomen.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.public.md) 
+### #is_/same_as :: [abdomen.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.public.md) 
 
-### [abdomen.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md) 
+### #is_/same_as :: [abdomen.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md) 
 
-### [abdomen.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect.md) 
+### #is_/same_as :: [abdomen.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect.md) 
 
-### [abdomen.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.private.md) 
+### #is_/same_as :: [abdomen.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.private.md) 
 
-### [abdomen.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal.md) 
+### #is_/same_as :: [abdomen.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.personal.md) 
 
-### [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md)
+### #is_/same_as :: [abdomen.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/abdomen.secret.md)
 

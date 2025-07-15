@@ -39,17 +39,17 @@ An EndorsementRating is a rating that expresses some level of endorsement, for e
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EndorsementRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.md) 
+### #is_/same_as :: [FileClass~EndorsementRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.md) 
 
-### [FileClass~EndorsementRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.public.md) 
+### #is_/same_as :: [FileClass~EndorsementRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.public.md) 
 
-### [FileClass~EndorsementRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.internal.md) 
+### #is_/same_as :: [FileClass~EndorsementRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.internal.md) 
 
-### [FileClass~EndorsementRating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.protect.md) 
+### #is_/same_as :: [FileClass~EndorsementRating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.protect.md) 
 
-### [FileClass~EndorsementRating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.private.md) 
+### #is_/same_as :: [FileClass~EndorsementRating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.private.md) 
 
-### [FileClass~EndorsementRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.personal.md) 
+### #is_/same_as :: [FileClass~EndorsementRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.personal.md) 
 
-### [FileClass~EndorsementRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.secret.md)
+### #is_/same_as :: [FileClass~EndorsementRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.secret.md)
 

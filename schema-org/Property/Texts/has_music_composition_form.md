@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_music_composition_form](/_Standards/schema-org/Property/Texts/has_music_composition_form.md) 
+### #is_/same_as :: [has_music_composition_form](/_Standards/schema-org/Property/Texts/has_music_composition_form.md) 
 
-### [has_music_composition_form.public](/_public/schema-org/Property/Texts/has_music_composition_form.public.md) 
+### #is_/same_as :: [has_music_composition_form.public](/_public/schema-org/Property/Texts/has_music_composition_form.public.md) 
 
-### [has_music_composition_form.internal](/_internal/schema-org/Property/Texts/has_music_composition_form.internal.md) 
+### #is_/same_as :: [has_music_composition_form.internal](/_internal/schema-org/Property/Texts/has_music_composition_form.internal.md) 
 
-### [has_music_composition_form.protect](/_protect/schema-org/Property/Texts/has_music_composition_form.protect.md) 
+### #is_/same_as :: [has_music_composition_form.protect](/_protect/schema-org/Property/Texts/has_music_composition_form.protect.md) 
 
-### [has_music_composition_form.private](/_private/schema-org/Property/Texts/has_music_composition_form.private.md) 
+### #is_/same_as :: [has_music_composition_form.private](/_private/schema-org/Property/Texts/has_music_composition_form.private.md) 
 
-### [has_music_composition_form.personal](/_personal/schema-org/Property/Texts/has_music_composition_form.personal.md) 
+### #is_/same_as :: [has_music_composition_form.personal](/_personal/schema-org/Property/Texts/has_music_composition_form.personal.md) 
 
-### [has_music_composition_form.secret](/_secret/schema-org/Property/Texts/has_music_composition_form.secret.md)
+### #is_/same_as :: [has_music_composition_form.secret](/_secret/schema-org/Property/Texts/has_music_composition_form.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_drive_wheel_configuration](/_Standards/schema-org/Relation/has/has_drive_wheel_configuration.md) 
+### #is_/same_as :: [has_drive_wheel_configuration](/_Standards/schema-org/Relation/has/has_drive_wheel_configuration.md) 
 
-### [has_drive_wheel_configuration.public](/_public/schema-org/Relation/has/has_drive_wheel_configuration.public.md) 
+### #is_/same_as :: [has_drive_wheel_configuration.public](/_public/schema-org/Relation/has/has_drive_wheel_configuration.public.md) 
 
-### [has_drive_wheel_configuration.internal](/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal.md) 
+### #is_/same_as :: [has_drive_wheel_configuration.internal](/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal.md) 
 
-### [has_drive_wheel_configuration.protect](/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect.md) 
+### #is_/same_as :: [has_drive_wheel_configuration.protect](/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect.md) 
 
-### [has_drive_wheel_configuration.private](/_private/schema-org/Relation/has/has_drive_wheel_configuration.private.md) 
+### #is_/same_as :: [has_drive_wheel_configuration.private](/_private/schema-org/Relation/has/has_drive_wheel_configuration.private.md) 
 
-### [has_drive_wheel_configuration.personal](/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal.md) 
+### #is_/same_as :: [has_drive_wheel_configuration.personal](/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal.md) 
 
-### [has_drive_wheel_configuration.secret](/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret.md)
+### #is_/same_as :: [has_drive_wheel_configuration.secret](/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret.md)
 

@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_no_bylines_policy](/_Standards/schema-org/Relation/has/has_no_bylines_policy.md) 
+### #is_/same_as :: [has_no_bylines_policy](/_Standards/schema-org/Relation/has/has_no_bylines_policy.md) 
 
-### [has_no_bylines_policy.public](/_public/schema-org/Relation/has/has_no_bylines_policy.public.md) 
+### #is_/same_as :: [has_no_bylines_policy.public](/_public/schema-org/Relation/has/has_no_bylines_policy.public.md) 
 
-### [has_no_bylines_policy.internal](/_internal/schema-org/Relation/has/has_no_bylines_policy.internal.md) 
+### #is_/same_as :: [has_no_bylines_policy.internal](/_internal/schema-org/Relation/has/has_no_bylines_policy.internal.md) 
 
-### [has_no_bylines_policy.protect](/_protect/schema-org/Relation/has/has_no_bylines_policy.protect.md) 
+### #is_/same_as :: [has_no_bylines_policy.protect](/_protect/schema-org/Relation/has/has_no_bylines_policy.protect.md) 
 
-### [has_no_bylines_policy.private](/_private/schema-org/Relation/has/has_no_bylines_policy.private.md) 
+### #is_/same_as :: [has_no_bylines_policy.private](/_private/schema-org/Relation/has/has_no_bylines_policy.private.md) 
 
-### [has_no_bylines_policy.personal](/_personal/schema-org/Relation/has/has_no_bylines_policy.personal.md) 
+### #is_/same_as :: [has_no_bylines_policy.personal](/_personal/schema-org/Relation/has/has_no_bylines_policy.personal.md) 
 
-### [has_no_bylines_policy.secret](/_secret/schema-org/Relation/has/has_no_bylines_policy.secret.md)
+### #is_/same_as :: [has_no_bylines_policy.secret](/_secret/schema-org/Relation/has/has_no_bylines_policy.secret.md)
 

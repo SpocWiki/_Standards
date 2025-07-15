@@ -153,23 +153,19 @@ date_of_birth: "0980"
 > [Wikipedia](https://en.wikipedia.org/wiki/Avicenna)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Avicenna](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Avicenna.md) 
+### #is_/same_as :: [Avicenna](/_Standards/bio/People/Scientist/Middle_Age_Scientists/Avicenna.md) 
 
-### [Avicenna.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Avicenna.public.md) 
+### #is_/same_as :: [Avicenna.public](/_public/bio/People/Scientist/Middle_Age_Scientists/Avicenna.public.md) 
 
-### [Avicenna.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.internal.md) 
+### #is_/same_as :: [Avicenna.internal](/_internal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.internal.md) 
 
-### [Avicenna.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Avicenna.protect.md) 
+### #is_/same_as :: [Avicenna.protect](/_protect/bio/People/Scientist/Middle_Age_Scientists/Avicenna.protect.md) 
 
-### [Avicenna.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Avicenna.private.md) 
+### #is_/same_as :: [Avicenna.private](/_private/bio/People/Scientist/Middle_Age_Scientists/Avicenna.private.md) 
 
-### [Avicenna.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.personal.md) 
+### #is_/same_as :: [Avicenna.personal](/_personal/bio/People/Scientist/Middle_Age_Scientists/Avicenna.personal.md) 
 
-### [Avicenna.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Avicenna.secret.md)
+### #is_/same_as :: [Avicenna.secret](/_secret/bio/People/Scientist/Middle_Age_Scientists/Avicenna.secret.md)
 

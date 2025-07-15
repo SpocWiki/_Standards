@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_athlete](/_Standards/schema-org/Relation/has/has_athlete.md) 
+### #is_/same_as :: [has_athlete](/_Standards/schema-org/Relation/has/has_athlete.md) 
 
-### [has_athlete.public](/_public/schema-org/Relation/has/has_athlete.public.md) 
+### #is_/same_as :: [has_athlete.public](/_public/schema-org/Relation/has/has_athlete.public.md) 
 
-### [has_athlete.internal](/_internal/schema-org/Relation/has/has_athlete.internal.md) 
+### #is_/same_as :: [has_athlete.internal](/_internal/schema-org/Relation/has/has_athlete.internal.md) 
 
-### [has_athlete.protect](/_protect/schema-org/Relation/has/has_athlete.protect.md) 
+### #is_/same_as :: [has_athlete.protect](/_protect/schema-org/Relation/has/has_athlete.protect.md) 
 
-### [has_athlete.private](/_private/schema-org/Relation/has/has_athlete.private.md) 
+### #is_/same_as :: [has_athlete.private](/_private/schema-org/Relation/has/has_athlete.private.md) 
 
-### [has_athlete.personal](/_personal/schema-org/Relation/has/has_athlete.personal.md) 
+### #is_/same_as :: [has_athlete.personal](/_personal/schema-org/Relation/has/has_athlete.personal.md) 
 
-### [has_athlete.secret](/_secret/schema-org/Relation/has/has_athlete.secret.md)
+### #is_/same_as :: [has_athlete.secret](/_secret/schema-org/Relation/has/has_athlete.secret.md)
 

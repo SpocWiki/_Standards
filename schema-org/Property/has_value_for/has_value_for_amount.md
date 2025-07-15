@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_amount](/_Standards/schema-org/Property/has_value_for/has_value_for_amount.md) 
+### #is_/same_as :: [has_value_for_amount](/_Standards/schema-org/Property/has_value_for/has_value_for_amount.md) 
 
-### [has_value_for_amount.public](/_public/schema-org/Property/has_value_for/has_value_for_amount.public.md) 
+### #is_/same_as :: [has_value_for_amount.public](/_public/schema-org/Property/has_value_for/has_value_for_amount.public.md) 
 
-### [has_value_for_amount.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount.internal.md) 
+### #is_/same_as :: [has_value_for_amount.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount.internal.md) 
 
-### [has_value_for_amount.protect](/_protect/schema-org/Property/has_value_for/has_value_for_amount.protect.md) 
+### #is_/same_as :: [has_value_for_amount.protect](/_protect/schema-org/Property/has_value_for/has_value_for_amount.protect.md) 
 
-### [has_value_for_amount.private](/_private/schema-org/Property/has_value_for/has_value_for_amount.private.md) 
+### #is_/same_as :: [has_value_for_amount.private](/_private/schema-org/Property/has_value_for/has_value_for_amount.private.md) 
 
-### [has_value_for_amount.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount.personal.md) 
+### #is_/same_as :: [has_value_for_amount.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount.personal.md) 
 
-### [has_value_for_amount.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount.secret.md)
+### #is_/same_as :: [has_value_for_amount.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount.secret.md)
 

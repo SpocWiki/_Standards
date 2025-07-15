@@ -47,17 +47,17 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 ## Confidential Links & Embeds: 
 
-### [taxi_service](/_Standards/schema-org/Class/is_a_/Intangible/service/taxi_service.md) 
+### #is_/same_as :: [taxi_service](/_Standards/schema-org/Class/is_a_/Intangible/service/taxi_service.md) 
 
-### [taxi_service.public](/_public/schema-org/Class/is_a_/Intangible/service/taxi_service.public.md) 
+### #is_/same_as :: [taxi_service.public](/_public/schema-org/Class/is_a_/Intangible/service/taxi_service.public.md) 
 
-### [taxi_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/taxi_service.internal.md) 
+### #is_/same_as :: [taxi_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/taxi_service.internal.md) 
 
-### [taxi_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/taxi_service.protect.md) 
+### #is_/same_as :: [taxi_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/taxi_service.protect.md) 
 
-### [taxi_service.private](/_private/schema-org/Class/is_a_/Intangible/service/taxi_service.private.md) 
+### #is_/same_as :: [taxi_service.private](/_private/schema-org/Class/is_a_/Intangible/service/taxi_service.private.md) 
 
-### [taxi_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/taxi_service.personal.md) 
+### #is_/same_as :: [taxi_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/taxi_service.personal.md) 
 
-### [taxi_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/taxi_service.secret.md)
+### #is_/same_as :: [taxi_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/taxi_service.secret.md)
 

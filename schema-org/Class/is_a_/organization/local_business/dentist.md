@@ -45,17 +45,17 @@ A dentist.
 
 ## Confidential Links & Embeds: 
 
-### [dentist](/_Standards/schema-org/Class/is_a_/organization/local_business/dentist.md) 
+### #is_/same_as :: [dentist](/_Standards/schema-org/Class/is_a_/organization/local_business/dentist.md) 
 
-### [dentist.public](/_public/schema-org/Class/is_a_/organization/local_business/dentist.public.md) 
+### #is_/same_as :: [dentist.public](/_public/schema-org/Class/is_a_/organization/local_business/dentist.public.md) 
 
-### [dentist.internal](/_internal/schema-org/Class/is_a_/organization/local_business/dentist.internal.md) 
+### #is_/same_as :: [dentist.internal](/_internal/schema-org/Class/is_a_/organization/local_business/dentist.internal.md) 
 
-### [dentist.protect](/_protect/schema-org/Class/is_a_/organization/local_business/dentist.protect.md) 
+### #is_/same_as :: [dentist.protect](/_protect/schema-org/Class/is_a_/organization/local_business/dentist.protect.md) 
 
-### [dentist.private](/_private/schema-org/Class/is_a_/organization/local_business/dentist.private.md) 
+### #is_/same_as :: [dentist.private](/_private/schema-org/Class/is_a_/organization/local_business/dentist.private.md) 
 
-### [dentist.personal](/_personal/schema-org/Class/is_a_/organization/local_business/dentist.personal.md) 
+### #is_/same_as :: [dentist.personal](/_personal/schema-org/Class/is_a_/organization/local_business/dentist.personal.md) 
 
-### [dentist.secret](/_secret/schema-org/Class/is_a_/organization/local_business/dentist.secret.md)
+### #is_/same_as :: [dentist.secret](/_secret/schema-org/Class/is_a_/organization/local_business/dentist.secret.md)
 

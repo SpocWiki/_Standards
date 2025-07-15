@@ -84,21 +84,19 @@ Rage and Rocek (1989).
 -   » Sub-Groups 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Triadobatrachus_massinoti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.md) 
 
-### [Triadobatrachus_massinoti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.public.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.public.md) 
 
-### [Triadobatrachus_massinoti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.internal.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.internal.md) 
 
-### [Triadobatrachus_massinoti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.protect.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.protect.md) 
 
-### [Triadobatrachus_massinoti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.private.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.private.md) 
 
-### [Triadobatrachus_massinoti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.personal.md) 
+### #is_/same_as :: [Triadobatrachus_massinoti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.personal.md) 
 
-### [Triadobatrachus_massinoti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.secret.md)
+### #is_/same_as :: [Triadobatrachus_massinoti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Triadobatrachus_massinoti.secret.md)
 

@@ -71,21 +71,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Victoria) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Lake_Victoria](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Victoria.md) 
+### #is_/same_as :: [Lake_Victoria](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Victoria.md) 
 
-### [Lake_Victoria.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Victoria.public.md) 
+### #is_/same_as :: [Lake_Victoria.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Victoria.public.md) 
 
-### [Lake_Victoria.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Victoria.internal.md) 
+### #is_/same_as :: [Lake_Victoria.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Victoria.internal.md) 
 
-### [Lake_Victoria.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Victoria.protect.md) 
+### #is_/same_as :: [Lake_Victoria.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Victoria.protect.md) 
 
-### [Lake_Victoria.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Victoria.private.md) 
+### #is_/same_as :: [Lake_Victoria.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Victoria.private.md) 
 
-### [Lake_Victoria.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Victoria.personal.md) 
+### #is_/same_as :: [Lake_Victoria.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Victoria.personal.md) 
 
-### [Lake_Victoria.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Victoria.secret.md)
+### #is_/same_as :: [Lake_Victoria.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Victoria.secret.md)
 

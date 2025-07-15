@@ -47,17 +47,17 @@ A work of art that is primarily visual in character.
 
 ## Confidential Links & Embeds: 
 
-### [visual_artwork](/_Standards/schema-org/Class/is_a_/creative_work/visual_artwork.md) 
+### #is_/same_as :: [visual_artwork](/_Standards/schema-org/Class/is_a_/creative_work/visual_artwork.md) 
 
-### [visual_artwork.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork.public.md) 
+### #is_/same_as :: [visual_artwork.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork.public.md) 
 
-### [visual_artwork.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork.internal.md) 
+### #is_/same_as :: [visual_artwork.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork.internal.md) 
 
-### [visual_artwork.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork.protect.md) 
+### #is_/same_as :: [visual_artwork.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork.protect.md) 
 
-### [visual_artwork.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork.private.md) 
+### #is_/same_as :: [visual_artwork.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork.private.md) 
 
-### [visual_artwork.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork.personal.md) 
+### #is_/same_as :: [visual_artwork.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork.personal.md) 
 
-### [visual_artwork.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork.secret.md)
+### #is_/same_as :: [visual_artwork.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork.secret.md)
 

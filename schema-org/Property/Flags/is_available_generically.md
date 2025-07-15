@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_available_generically](/_Standards/schema-org/Property/Flags/is_available_generically.md) 
+### #is_/same_as :: [is_available_generically](/_Standards/schema-org/Property/Flags/is_available_generically.md) 
 
-### [is_available_generically.public](/_public/schema-org/Property/Flags/is_available_generically.public.md) 
+### #is_/same_as :: [is_available_generically.public](/_public/schema-org/Property/Flags/is_available_generically.public.md) 
 
-### [is_available_generically.internal](/_internal/schema-org/Property/Flags/is_available_generically.internal.md) 
+### #is_/same_as :: [is_available_generically.internal](/_internal/schema-org/Property/Flags/is_available_generically.internal.md) 
 
-### [is_available_generically.protect](/_protect/schema-org/Property/Flags/is_available_generically.protect.md) 
+### #is_/same_as :: [is_available_generically.protect](/_protect/schema-org/Property/Flags/is_available_generically.protect.md) 
 
-### [is_available_generically.private](/_private/schema-org/Property/Flags/is_available_generically.private.md) 
+### #is_/same_as :: [is_available_generically.private](/_private/schema-org/Property/Flags/is_available_generically.private.md) 
 
-### [is_available_generically.personal](/_personal/schema-org/Property/Flags/is_available_generically.personal.md) 
+### #is_/same_as :: [is_available_generically.personal](/_personal/schema-org/Property/Flags/is_available_generically.personal.md) 
 
-### [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md)
+### #is_/same_as :: [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md)
 

@@ -45,17 +45,17 @@ Car repair business.
 
 ## Confidential Links & Embeds: 
 
-### [auto_repair](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.md) 
+### #is_/same_as :: [auto_repair](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.md) 
 
-### [auto_repair.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.public.md) 
+### #is_/same_as :: [auto_repair.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.public.md) 
 
-### [auto_repair.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.internal.md) 
+### #is_/same_as :: [auto_repair.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.internal.md) 
 
-### [auto_repair.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.protect.md) 
+### #is_/same_as :: [auto_repair.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.protect.md) 
 
-### [auto_repair.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.private.md) 
+### #is_/same_as :: [auto_repair.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.private.md) 
 
-### [auto_repair.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.personal.md) 
+### #is_/same_as :: [auto_repair.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.personal.md) 
 
-### [auto_repair.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.secret.md)
+### #is_/same_as :: [auto_repair.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_repair.secret.md)
 

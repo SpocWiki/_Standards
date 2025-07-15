@@ -41,17 +41,17 @@ markerFolder: ./Denigomodu/
 
 ## Confidential Links & Embeds: 
 
-### [Denigomodu](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.md) 
+### #is_/same_as :: [Denigomodu](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.md) 
 
-### [Denigomodu.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.public.md) 
+### #is_/same_as :: [Denigomodu.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.public.md) 
 
-### [Denigomodu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.internal.md) 
+### #is_/same_as :: [Denigomodu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.internal.md) 
 
-### [Denigomodu.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.protect.md) 
+### #is_/same_as :: [Denigomodu.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.protect.md) 
 
-### [Denigomodu.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.private.md) 
+### #is_/same_as :: [Denigomodu.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.private.md) 
 
-### [Denigomodu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.personal.md) 
+### #is_/same_as :: [Denigomodu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.personal.md) 
 
-### [Denigomodu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.secret.md)
+### #is_/same_as :: [Denigomodu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.secret.md)
 

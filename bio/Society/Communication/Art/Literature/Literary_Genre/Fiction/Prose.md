@@ -25,22 +25,19 @@ Commons_category: Prose
 > [Wikipedia](https://en.wikipedia.org/wiki/Prose) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Prose](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.md) 
+### #is_/same_as :: [Prose](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.md) 
 
-### [Prose.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.public.md) 
+### #is_/same_as :: [Prose.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.public.md) 
 
-### [Prose.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.internal.md) 
+### #is_/same_as :: [Prose.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.internal.md) 
 
-### [Prose.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.protect.md) 
+### #is_/same_as :: [Prose.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.protect.md) 
 
-### [Prose.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.private.md) 
+### #is_/same_as :: [Prose.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.private.md) 
 
-### [Prose.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.personal.md) 
+### #is_/same_as :: [Prose.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.personal.md) 
 
-### [Prose.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.secret.md)
+### #is_/same_as :: [Prose.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose.secret.md)
 

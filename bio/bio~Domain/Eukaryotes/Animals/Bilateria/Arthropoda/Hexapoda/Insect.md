@@ -393,20 +393,19 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © [California Academy of Sciences](http://www.calacademy.org/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Insect](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.md) 
+### #is_/same_as :: [Insect](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.md) 
 
-### [Insect.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.public.md) 
+### #is_/same_as :: [Insect.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.public.md) 
 
-### [Insect.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.internal.md) 
+### #is_/same_as :: [Insect.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.internal.md) 
 
-### [Insect.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.protect.md) 
+### #is_/same_as :: [Insect.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.protect.md) 
 
-### [Insect.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.private.md) 
+### #is_/same_as :: [Insect.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.private.md) 
 
-### [Insect.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.personal.md) 
+### #is_/same_as :: [Insect.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.personal.md) 
 
-### [Insect.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.secret.md)
+### #is_/same_as :: [Insect.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect.secret.md)
 

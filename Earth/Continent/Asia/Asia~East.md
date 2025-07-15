@@ -15,17 +15,17 @@ markerFolder: ./Asia~East/
 
 ## Confidential Links & Embeds: 
 
-### [Asia~East](/_Standards/Earth/Continent/Asia/Asia~East.md) 
+### #is_/same_as :: [Asia~East](/_Standards/Earth/Continent/Asia/Asia~East.md) 
 
-### [Asia~East.public](/_public/Earth/Continent/Asia/Asia~East.public.md) 
+### #is_/same_as :: [Asia~East.public](/_public/Earth/Continent/Asia/Asia~East.public.md) 
 
-### [Asia~East.internal](/_internal/Earth/Continent/Asia/Asia~East.internal.md) 
+### #is_/same_as :: [Asia~East.internal](/_internal/Earth/Continent/Asia/Asia~East.internal.md) 
 
-### [Asia~East.protect](/_protect/Earth/Continent/Asia/Asia~East.protect.md) 
+### #is_/same_as :: [Asia~East.protect](/_protect/Earth/Continent/Asia/Asia~East.protect.md) 
 
-### [Asia~East.private](/_private/Earth/Continent/Asia/Asia~East.private.md) 
+### #is_/same_as :: [Asia~East.private](/_private/Earth/Continent/Asia/Asia~East.private.md) 
 
-### [Asia~East.personal](/_personal/Earth/Continent/Asia/Asia~East.personal.md) 
+### #is_/same_as :: [Asia~East.personal](/_personal/Earth/Continent/Asia/Asia~East.personal.md) 
 
-### [Asia~East.secret](/_secret/Earth/Continent/Asia/Asia~East.secret.md)
+### #is_/same_as :: [Asia~East.secret](/_secret/Earth/Continent/Asia/Asia~East.secret.md)
 

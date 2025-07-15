@@ -35,17 +35,17 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CriticReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.md) 
+### #is_/same_as :: [FileClass~CriticReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.md) 
 
-### [FileClass~CriticReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.public.md) 
+### #is_/same_as :: [FileClass~CriticReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.public.md) 
 
-### [FileClass~CriticReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.internal.md) 
+### #is_/same_as :: [FileClass~CriticReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.internal.md) 
 
-### [FileClass~CriticReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.protect.md) 
+### #is_/same_as :: [FileClass~CriticReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.protect.md) 
 
-### [FileClass~CriticReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.private.md) 
+### #is_/same_as :: [FileClass~CriticReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.private.md) 
 
-### [FileClass~CriticReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.personal.md) 
+### #is_/same_as :: [FileClass~CriticReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.personal.md) 
 
-### [FileClass~CriticReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.secret.md)
+### #is_/same_as :: [FileClass~CriticReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.secret.md)
 

@@ -89,20 +89,19 @@ Copyright ::   © 1996 D. E. Walter
 --------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Parasitiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.md) 
+### #is_/same_as :: [Parasitiformes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.md) 
 
-### [Parasitiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.public.md) 
+### #is_/same_as :: [Parasitiformes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.public.md) 
 
-### [Parasitiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.internal.md) 
+### #is_/same_as :: [Parasitiformes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.internal.md) 
 
-### [Parasitiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.protect.md) 
+### #is_/same_as :: [Parasitiformes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.protect.md) 
 
-### [Parasitiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.private.md) 
+### #is_/same_as :: [Parasitiformes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.private.md) 
 
-### [Parasitiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.personal.md) 
+### #is_/same_as :: [Parasitiformes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.personal.md) 
 
-### [Parasitiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.secret.md)
+### #is_/same_as :: [Parasitiformes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes.secret.md)
 

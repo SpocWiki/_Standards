@@ -45,17 +45,17 @@ Event type: Visual arts event.
 
 ## Confidential Links & Embeds: 
 
-### [visual_arts_event](/_Standards/schema-org/Class/is_a_/event/visual_arts_event.md) 
+### #is_/same_as :: [visual_arts_event](/_Standards/schema-org/Class/is_a_/event/visual_arts_event.md) 
 
-### [visual_arts_event.public](/_public/schema-org/Class/is_a_/event/visual_arts_event.public.md) 
+### #is_/same_as :: [visual_arts_event.public](/_public/schema-org/Class/is_a_/event/visual_arts_event.public.md) 
 
-### [visual_arts_event.internal](/_internal/schema-org/Class/is_a_/event/visual_arts_event.internal.md) 
+### #is_/same_as :: [visual_arts_event.internal](/_internal/schema-org/Class/is_a_/event/visual_arts_event.internal.md) 
 
-### [visual_arts_event.protect](/_protect/schema-org/Class/is_a_/event/visual_arts_event.protect.md) 
+### #is_/same_as :: [visual_arts_event.protect](/_protect/schema-org/Class/is_a_/event/visual_arts_event.protect.md) 
 
-### [visual_arts_event.private](/_private/schema-org/Class/is_a_/event/visual_arts_event.private.md) 
+### #is_/same_as :: [visual_arts_event.private](/_private/schema-org/Class/is_a_/event/visual_arts_event.private.md) 
 
-### [visual_arts_event.personal](/_personal/schema-org/Class/is_a_/event/visual_arts_event.personal.md) 
+### #is_/same_as :: [visual_arts_event.personal](/_personal/schema-org/Class/is_a_/event/visual_arts_event.personal.md) 
 
-### [visual_arts_event.secret](/_secret/schema-org/Class/is_a_/event/visual_arts_event.secret.md)
+### #is_/same_as :: [visual_arts_event.secret](/_secret/schema-org/Class/is_a_/event/visual_arts_event.secret.md)
 

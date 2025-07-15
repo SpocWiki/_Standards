@@ -66,21 +66,19 @@ subreddit: raining
 > [Wikipedia](https://en.wikipedia.org/wiki/Rain)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Rain](/_Standards/Earth/Atmosphere/Climate/Weather/Rain.md) 
+### #is_/same_as :: [Rain](/_Standards/Earth/Atmosphere/Climate/Weather/Rain.md) 
 
-### [Rain.public](/_public/Earth/Atmosphere/Climate/Weather/Rain.public.md) 
+### #is_/same_as :: [Rain.public](/_public/Earth/Atmosphere/Climate/Weather/Rain.public.md) 
 
-### [Rain.internal](/_internal/Earth/Atmosphere/Climate/Weather/Rain.internal.md) 
+### #is_/same_as :: [Rain.internal](/_internal/Earth/Atmosphere/Climate/Weather/Rain.internal.md) 
 
-### [Rain.protect](/_protect/Earth/Atmosphere/Climate/Weather/Rain.protect.md) 
+### #is_/same_as :: [Rain.protect](/_protect/Earth/Atmosphere/Climate/Weather/Rain.protect.md) 
 
-### [Rain.private](/_private/Earth/Atmosphere/Climate/Weather/Rain.private.md) 
+### #is_/same_as :: [Rain.private](/_private/Earth/Atmosphere/Climate/Weather/Rain.private.md) 
 
-### [Rain.personal](/_personal/Earth/Atmosphere/Climate/Weather/Rain.personal.md) 
+### #is_/same_as :: [Rain.personal](/_personal/Earth/Atmosphere/Climate/Weather/Rain.personal.md) 
 
-### [Rain.secret](/_secret/Earth/Atmosphere/Climate/Weather/Rain.secret.md)
+### #is_/same_as :: [Rain.secret](/_secret/Earth/Atmosphere/Climate/Weather/Rain.secret.md)
 

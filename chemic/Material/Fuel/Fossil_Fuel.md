@@ -41,22 +41,19 @@ hashtag: fossilfuels
 > [Wikipedia](https://en.wikipedia.org/wiki/Fossil%20fuel) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fossil_Fuel](/_Standards/chemic/Material/Fuel/Fossil_Fuel.md) 
+### #is_/same_as :: [Fossil_Fuel](/_Standards/chemic/Material/Fuel/Fossil_Fuel.md) 
 
-### [Fossil_Fuel.public](/_public/chemic/Material/Fuel/Fossil_Fuel.public.md) 
+### #is_/same_as :: [Fossil_Fuel.public](/_public/chemic/Material/Fuel/Fossil_Fuel.public.md) 
 
-### [Fossil_Fuel.internal](/_internal/chemic/Material/Fuel/Fossil_Fuel.internal.md) 
+### #is_/same_as :: [Fossil_Fuel.internal](/_internal/chemic/Material/Fuel/Fossil_Fuel.internal.md) 
 
-### [Fossil_Fuel.protect](/_protect/chemic/Material/Fuel/Fossil_Fuel.protect.md) 
+### #is_/same_as :: [Fossil_Fuel.protect](/_protect/chemic/Material/Fuel/Fossil_Fuel.protect.md) 
 
-### [Fossil_Fuel.private](/_private/chemic/Material/Fuel/Fossil_Fuel.private.md) 
+### #is_/same_as :: [Fossil_Fuel.private](/_private/chemic/Material/Fuel/Fossil_Fuel.private.md) 
 
-### [Fossil_Fuel.personal](/_personal/chemic/Material/Fuel/Fossil_Fuel.personal.md) 
+### #is_/same_as :: [Fossil_Fuel.personal](/_personal/chemic/Material/Fuel/Fossil_Fuel.personal.md) 
 
-### [Fossil_Fuel.secret](/_secret/chemic/Material/Fuel/Fossil_Fuel.secret.md)
+### #is_/same_as :: [Fossil_Fuel.secret](/_secret/chemic/Material/Fuel/Fossil_Fuel.secret.md)
 

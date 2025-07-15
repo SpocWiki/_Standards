@@ -40,17 +40,17 @@ Capital :: [[Saigon]]
 
 ## Confidential Links & Embeds: 
 
-### [Vietnam~South](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
+### #is_/same_as :: [Vietnam~South](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
 
-### [Vietnam~South.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.public.md) 
+### #is_/same_as :: [Vietnam~South.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.public.md) 
 
-### [Vietnam~South.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal.md) 
+### #is_/same_as :: [Vietnam~South.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal.md) 
 
-### [Vietnam~South.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect.md) 
+### #is_/same_as :: [Vietnam~South.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect.md) 
 
-### [Vietnam~South.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private.md) 
+### #is_/same_as :: [Vietnam~South.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private.md) 
 
-### [Vietnam~South.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal.md) 
+### #is_/same_as :: [Vietnam~South.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal.md) 
 
-### [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md)
+### #is_/same_as :: [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md)
 

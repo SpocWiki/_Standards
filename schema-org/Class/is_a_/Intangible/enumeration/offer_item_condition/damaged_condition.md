@@ -47,17 +47,17 @@ Indicates that the item is damaged.
 
 ## Confidential Links & Embeds: 
 
-### [damaged_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.md) 
+### #is_/same_as :: [damaged_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.md) 
 
-### [damaged_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.public.md) 
+### #is_/same_as :: [damaged_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.public.md) 
 
-### [damaged_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.internal.md) 
+### #is_/same_as :: [damaged_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.internal.md) 
 
-### [damaged_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.protect.md) 
+### #is_/same_as :: [damaged_condition.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.protect.md) 
 
-### [damaged_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.private.md) 
+### #is_/same_as :: [damaged_condition.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.private.md) 
 
-### [damaged_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.personal.md) 
+### #is_/same_as :: [damaged_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.personal.md) 
 
-### [damaged_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.secret.md)
+### #is_/same_as :: [damaged_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.secret.md)
 

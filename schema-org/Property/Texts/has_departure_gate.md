@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_departure_gate](/_Standards/schema-org/Property/Texts/has_departure_gate.md) 
+### #is_/same_as :: [has_departure_gate](/_Standards/schema-org/Property/Texts/has_departure_gate.md) 
 
-### [has_departure_gate.public](/_public/schema-org/Property/Texts/has_departure_gate.public.md) 
+### #is_/same_as :: [has_departure_gate.public](/_public/schema-org/Property/Texts/has_departure_gate.public.md) 
 
-### [has_departure_gate.internal](/_internal/schema-org/Property/Texts/has_departure_gate.internal.md) 
+### #is_/same_as :: [has_departure_gate.internal](/_internal/schema-org/Property/Texts/has_departure_gate.internal.md) 
 
-### [has_departure_gate.protect](/_protect/schema-org/Property/Texts/has_departure_gate.protect.md) 
+### #is_/same_as :: [has_departure_gate.protect](/_protect/schema-org/Property/Texts/has_departure_gate.protect.md) 
 
-### [has_departure_gate.private](/_private/schema-org/Property/Texts/has_departure_gate.private.md) 
+### #is_/same_as :: [has_departure_gate.private](/_private/schema-org/Property/Texts/has_departure_gate.private.md) 
 
-### [has_departure_gate.personal](/_personal/schema-org/Property/Texts/has_departure_gate.personal.md) 
+### #is_/same_as :: [has_departure_gate.personal](/_personal/schema-org/Property/Texts/has_departure_gate.personal.md) 
 
-### [has_departure_gate.secret](/_secret/schema-org/Property/Texts/has_departure_gate.secret.md)
+### #is_/same_as :: [has_departure_gate.secret](/_secret/schema-org/Property/Texts/has_departure_gate.secret.md)
 

@@ -43,17 +43,17 @@ Categories that represent an assessment of the risk of fetal injury due to a dru
 
 ## Confidential Links & Embeds: 
 
-### [drug_pregnancy_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.md) 
+### #is_/same_as :: [drug_pregnancy_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.md) 
 
-### [drug_pregnancy_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.public.md) 
+### #is_/same_as :: [drug_pregnancy_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.public.md) 
 
-### [drug_pregnancy_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md) 
+### #is_/same_as :: [drug_pregnancy_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md) 
 
-### [drug_pregnancy_category.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.protect.md) 
+### #is_/same_as :: [drug_pregnancy_category.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.protect.md) 
 
-### [drug_pregnancy_category.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.private.md) 
+### #is_/same_as :: [drug_pregnancy_category.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.private.md) 
 
-### [drug_pregnancy_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.personal.md) 
+### #is_/same_as :: [drug_pregnancy_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.personal.md) 
 
-### [drug_pregnancy_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md)
+### #is_/same_as :: [drug_pregnancy_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md)
 

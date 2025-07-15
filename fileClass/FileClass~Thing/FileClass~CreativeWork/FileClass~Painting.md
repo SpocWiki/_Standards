@@ -35,17 +35,17 @@ A painting.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Painting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.md) 
+### #is_/same_as :: [FileClass~Painting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.md) 
 
-### [FileClass~Painting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.public.md) 
+### #is_/same_as :: [FileClass~Painting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.public.md) 
 
-### [FileClass~Painting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.internal.md) 
+### #is_/same_as :: [FileClass~Painting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.internal.md) 
 
-### [FileClass~Painting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.protect.md) 
+### #is_/same_as :: [FileClass~Painting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.protect.md) 
 
-### [FileClass~Painting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.private.md) 
+### #is_/same_as :: [FileClass~Painting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.private.md) 
 
-### [FileClass~Painting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.personal.md) 
+### #is_/same_as :: [FileClass~Painting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.personal.md) 
 
-### [FileClass~Painting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.secret.md)
+### #is_/same_as :: [FileClass~Painting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Painting.secret.md)
 

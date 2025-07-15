@@ -27,22 +27,19 @@ Commons_category: Diodes
 > [Wikipedia](https://en.wikipedia.org/wiki/Diode) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Diode](/_Standards/Technology/Electronics/Electronic_Component/Diode.md) 
+### #is_/same_as :: [Diode](/_Standards/Technology/Electronics/Electronic_Component/Diode.md) 
 
-### [Diode.public](/_public/Technology/Electronics/Electronic_Component/Diode.public.md) 
+### #is_/same_as :: [Diode.public](/_public/Technology/Electronics/Electronic_Component/Diode.public.md) 
 
-### [Diode.internal](/_internal/Technology/Electronics/Electronic_Component/Diode.internal.md) 
+### #is_/same_as :: [Diode.internal](/_internal/Technology/Electronics/Electronic_Component/Diode.internal.md) 
 
-### [Diode.protect](/_protect/Technology/Electronics/Electronic_Component/Diode.protect.md) 
+### #is_/same_as :: [Diode.protect](/_protect/Technology/Electronics/Electronic_Component/Diode.protect.md) 
 
-### [Diode.private](/_private/Technology/Electronics/Electronic_Component/Diode.private.md) 
+### #is_/same_as :: [Diode.private](/_private/Technology/Electronics/Electronic_Component/Diode.private.md) 
 
-### [Diode.personal](/_personal/Technology/Electronics/Electronic_Component/Diode.personal.md) 
+### #is_/same_as :: [Diode.personal](/_personal/Technology/Electronics/Electronic_Component/Diode.personal.md) 
 
-### [Diode.secret](/_secret/Technology/Electronics/Electronic_Component/Diode.secret.md)
+### #is_/same_as :: [Diode.secret](/_secret/Technology/Electronics/Electronic_Component/Diode.secret.md)
 

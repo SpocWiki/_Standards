@@ -35,17 +35,17 @@ A book, document, or piece of music written by hand rather than typed or printed
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Manuscript](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.md) 
+### #is_/same_as :: [FileClass~Manuscript](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.md) 
 
-### [FileClass~Manuscript.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.public.md) 
+### #is_/same_as :: [FileClass~Manuscript.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.public.md) 
 
-### [FileClass~Manuscript.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.internal.md) 
+### #is_/same_as :: [FileClass~Manuscript.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.internal.md) 
 
-### [FileClass~Manuscript.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.protect.md) 
+### #is_/same_as :: [FileClass~Manuscript.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.protect.md) 
 
-### [FileClass~Manuscript.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.private.md) 
+### #is_/same_as :: [FileClass~Manuscript.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.private.md) 
 
-### [FileClass~Manuscript.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.personal.md) 
+### #is_/same_as :: [FileClass~Manuscript.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.personal.md) 
 
-### [FileClass~Manuscript.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.secret.md)
+### #is_/same_as :: [FileClass~Manuscript.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.secret.md)
 

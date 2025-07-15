@@ -42,17 +42,17 @@ Capital :: [[Kuching]]
 
 ## Confidential Links & Embeds: 
 
-### [Sarawak](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.md) 
+### #is_/same_as :: [Sarawak](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.md) 
 
-### [Sarawak.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.public.md) 
+### #is_/same_as :: [Sarawak.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.public.md) 
 
-### [Sarawak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.internal.md) 
+### #is_/same_as :: [Sarawak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.internal.md) 
 
-### [Sarawak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.protect.md) 
+### #is_/same_as :: [Sarawak.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.protect.md) 
 
-### [Sarawak.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.private.md) 
+### #is_/same_as :: [Sarawak.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.private.md) 
 
-### [Sarawak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.personal.md) 
+### #is_/same_as :: [Sarawak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.personal.md) 
 
-### [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.secret.md)
+### #is_/same_as :: [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.secret.md)
 

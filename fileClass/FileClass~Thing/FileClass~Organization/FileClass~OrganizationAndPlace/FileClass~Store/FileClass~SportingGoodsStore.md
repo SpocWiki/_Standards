@@ -35,17 +35,17 @@ A sporting goods store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportingGoodsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.md) 
 
-### [FileClass~SportingGoodsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.public.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.public.md) 
 
-### [FileClass~SportingGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.internal.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.internal.md) 
 
-### [FileClass~SportingGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.protect.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.protect.md) 
 
-### [FileClass~SportingGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.private.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.private.md) 
 
-### [FileClass~SportingGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.personal.md) 
+### #is_/same_as :: [FileClass~SportingGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.personal.md) 
 
-### [FileClass~SportingGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.secret.md)
+### #is_/same_as :: [FileClass~SportingGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_breadcrumb](/_Standards/schema-org/Relation/has/has_breadcrumb.md) 
+### #is_/same_as :: [has_breadcrumb](/_Standards/schema-org/Relation/has/has_breadcrumb.md) 
 
-### [has_breadcrumb.public](/_public/schema-org/Relation/has/has_breadcrumb.public.md) 
+### #is_/same_as :: [has_breadcrumb.public](/_public/schema-org/Relation/has/has_breadcrumb.public.md) 
 
-### [has_breadcrumb.internal](/_internal/schema-org/Relation/has/has_breadcrumb.internal.md) 
+### #is_/same_as :: [has_breadcrumb.internal](/_internal/schema-org/Relation/has/has_breadcrumb.internal.md) 
 
-### [has_breadcrumb.protect](/_protect/schema-org/Relation/has/has_breadcrumb.protect.md) 
+### #is_/same_as :: [has_breadcrumb.protect](/_protect/schema-org/Relation/has/has_breadcrumb.protect.md) 
 
-### [has_breadcrumb.private](/_private/schema-org/Relation/has/has_breadcrumb.private.md) 
+### #is_/same_as :: [has_breadcrumb.private](/_private/schema-org/Relation/has/has_breadcrumb.private.md) 
 
-### [has_breadcrumb.personal](/_personal/schema-org/Relation/has/has_breadcrumb.personal.md) 
+### #is_/same_as :: [has_breadcrumb.personal](/_personal/schema-org/Relation/has/has_breadcrumb.personal.md) 
 
-### [has_breadcrumb.secret](/_secret/schema-org/Relation/has/has_breadcrumb.secret.md)
+### #is_/same_as :: [has_breadcrumb.secret](/_secret/schema-org/Relation/has/has_breadcrumb.secret.md)
 

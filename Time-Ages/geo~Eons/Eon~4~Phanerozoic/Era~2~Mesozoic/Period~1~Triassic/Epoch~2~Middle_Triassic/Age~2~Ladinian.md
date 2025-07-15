@@ -68,17 +68,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Ladinian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.md) 
+### #is_/same_as :: [Age~2~Ladinian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.md) 
 
-### [Age~2~Ladinian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.public.md) 
+### #is_/same_as :: [Age~2~Ladinian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.public.md) 
 
-### [Age~2~Ladinian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.internal.md) 
+### #is_/same_as :: [Age~2~Ladinian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.internal.md) 
 
-### [Age~2~Ladinian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.protect.md) 
+### #is_/same_as :: [Age~2~Ladinian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.protect.md) 
 
-### [Age~2~Ladinian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.private.md) 
+### #is_/same_as :: [Age~2~Ladinian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.private.md) 
 
-### [Age~2~Ladinian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.personal.md) 
+### #is_/same_as :: [Age~2~Ladinian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.personal.md) 
 
-### [Age~2~Ladinian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.secret.md)
+### #is_/same_as :: [Age~2~Ladinian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.secret.md)
 

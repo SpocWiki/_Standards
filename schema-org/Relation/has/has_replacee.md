@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_replacee](/_Standards/schema-org/Relation/has/has_replacee.md) 
+### #is_/same_as :: [has_replacee](/_Standards/schema-org/Relation/has/has_replacee.md) 
 
-### [has_replacee.public](/_public/schema-org/Relation/has/has_replacee.public.md) 
+### #is_/same_as :: [has_replacee.public](/_public/schema-org/Relation/has/has_replacee.public.md) 
 
-### [has_replacee.internal](/_internal/schema-org/Relation/has/has_replacee.internal.md) 
+### #is_/same_as :: [has_replacee.internal](/_internal/schema-org/Relation/has/has_replacee.internal.md) 
 
-### [has_replacee.protect](/_protect/schema-org/Relation/has/has_replacee.protect.md) 
+### #is_/same_as :: [has_replacee.protect](/_protect/schema-org/Relation/has/has_replacee.protect.md) 
 
-### [has_replacee.private](/_private/schema-org/Relation/has/has_replacee.private.md) 
+### #is_/same_as :: [has_replacee.private](/_private/schema-org/Relation/has/has_replacee.private.md) 
 
-### [has_replacee.personal](/_personal/schema-org/Relation/has/has_replacee.personal.md) 
+### #is_/same_as :: [has_replacee.personal](/_personal/schema-org/Relation/has/has_replacee.personal.md) 
 
-### [has_replacee.secret](/_secret/schema-org/Relation/has/has_replacee.secret.md)
+### #is_/same_as :: [has_replacee.secret](/_secret/schema-org/Relation/has/has_replacee.secret.md)
 

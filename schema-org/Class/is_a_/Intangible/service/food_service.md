@@ -45,17 +45,17 @@ A food service, like breakfast, lunch, or dinner.
 
 ## Confidential Links & Embeds: 
 
-### [food_service](/_Standards/schema-org/Class/is_a_/Intangible/service/food_service.md) 
+### #is_/same_as :: [food_service](/_Standards/schema-org/Class/is_a_/Intangible/service/food_service.md) 
 
-### [food_service.public](/_public/schema-org/Class/is_a_/Intangible/service/food_service.public.md) 
+### #is_/same_as :: [food_service.public](/_public/schema-org/Class/is_a_/Intangible/service/food_service.public.md) 
 
-### [food_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/food_service.internal.md) 
+### #is_/same_as :: [food_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/food_service.internal.md) 
 
-### [food_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/food_service.protect.md) 
+### #is_/same_as :: [food_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/food_service.protect.md) 
 
-### [food_service.private](/_private/schema-org/Class/is_a_/Intangible/service/food_service.private.md) 
+### #is_/same_as :: [food_service.private](/_private/schema-org/Class/is_a_/Intangible/service/food_service.private.md) 
 
-### [food_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/food_service.personal.md) 
+### #is_/same_as :: [food_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/food_service.personal.md) 
 
-### [food_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/food_service.secret.md)
+### #is_/same_as :: [food_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/food_service.secret.md)
 

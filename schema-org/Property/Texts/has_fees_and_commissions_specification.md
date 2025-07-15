@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_fees_and_commissions_specification](/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification](/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
 
-### [has_fees_and_commissions_specification.public](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification.public](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public.md) 
 
-### [has_fees_and_commissions_specification.internal](/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification.internal](/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal.md) 
 
-### [has_fees_and_commissions_specification.protect](/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification.protect](/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect.md) 
 
-### [has_fees_and_commissions_specification.private](/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification.private](/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private.md) 
 
-### [has_fees_and_commissions_specification.personal](/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal.md) 
+### #is_/same_as :: [has_fees_and_commissions_specification.personal](/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal.md) 
 
-### [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md)
+### #is_/same_as :: [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md)
 

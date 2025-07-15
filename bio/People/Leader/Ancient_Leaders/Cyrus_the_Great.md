@@ -99,21 +99,19 @@ date_of_death: "-0529"
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyrus%20the%20Great)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cyrus_the_Great](/_Standards/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.md) 
+### #is_/same_as :: [Cyrus_the_Great](/_Standards/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.md) 
 
-### [Cyrus_the_Great.public](/_public/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.public.md) 
+### #is_/same_as :: [Cyrus_the_Great.public](/_public/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.public.md) 
 
-### [Cyrus_the_Great.internal](/_internal/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.internal.md) 
+### #is_/same_as :: [Cyrus_the_Great.internal](/_internal/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.internal.md) 
 
-### [Cyrus_the_Great.protect](/_protect/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.protect.md) 
+### #is_/same_as :: [Cyrus_the_Great.protect](/_protect/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.protect.md) 
 
-### [Cyrus_the_Great.private](/_private/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.private.md) 
+### #is_/same_as :: [Cyrus_the_Great.private](/_private/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.private.md) 
 
-### [Cyrus_the_Great.personal](/_personal/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.personal.md) 
+### #is_/same_as :: [Cyrus_the_Great.personal](/_personal/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.personal.md) 
 
-### [Cyrus_the_Great.secret](/_secret/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.secret.md)
+### #is_/same_as :: [Cyrus_the_Great.secret](/_secret/bio/People/Leader/Ancient_Leaders/Cyrus_the_Great.secret.md)
 

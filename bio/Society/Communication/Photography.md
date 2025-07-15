@@ -83,24 +83,19 @@ Iconclass_notation: 48C61
 > [Wikipedia](https://en.wikipedia.org/wiki/Photography) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Photography](/_Standards/bio/Society/Communication/Photography.md) 
+### #is_/same_as :: [Photography](/_Standards/bio/Society/Communication/Photography.md) 
 
-### [Photography.public](/_public/bio/Society/Communication/Photography.public.md) 
+### #is_/same_as :: [Photography.public](/_public/bio/Society/Communication/Photography.public.md) 
 
-### [Photography.internal](/_internal/bio/Society/Communication/Photography.internal.md) 
+### #is_/same_as :: [Photography.internal](/_internal/bio/Society/Communication/Photography.internal.md) 
 
-### [Photography.protect](/_protect/bio/Society/Communication/Photography.protect.md) 
+### #is_/same_as :: [Photography.protect](/_protect/bio/Society/Communication/Photography.protect.md) 
 
-### [Photography.private](/_private/bio/Society/Communication/Photography.private.md) 
+### #is_/same_as :: [Photography.private](/_private/bio/Society/Communication/Photography.private.md) 
 
-### [Photography.personal](/_personal/bio/Society/Communication/Photography.personal.md) 
+### #is_/same_as :: [Photography.personal](/_personal/bio/Society/Communication/Photography.personal.md) 
 
-### [Photography.secret](/_secret/bio/Society/Communication/Photography.secret.md)
+### #is_/same_as :: [Photography.secret](/_secret/bio/Society/Communication/Photography.secret.md)
 

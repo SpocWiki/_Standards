@@ -47,17 +47,17 @@ Indicates that the item is available on back order.
 
 ## Confidential Links & Embeds: 
 
-### [back_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.md) 
+### #is_/same_as :: [back_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.md) 
 
-### [back_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.public.md) 
+### #is_/same_as :: [back_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.public.md) 
 
-### [back_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.internal.md) 
+### #is_/same_as :: [back_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.internal.md) 
 
-### [back_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.protect.md) 
+### #is_/same_as :: [back_order.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.protect.md) 
 
-### [back_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.private.md) 
+### #is_/same_as :: [back_order.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.private.md) 
 
-### [back_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.personal.md) 
+### #is_/same_as :: [back_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.personal.md) 
 
-### [back_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.secret.md)
+### #is_/same_as :: [back_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/back_order.secret.md)
 

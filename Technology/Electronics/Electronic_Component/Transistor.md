@@ -36,23 +36,19 @@ time_of_discovery_or_invention: "1947-12-01"
 > [Wikipedia](https://en.wikipedia.org/wiki/Transistor) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Transistor](/_Standards/Technology/Electronics/Electronic_Component/Transistor.md) 
+### #is_/same_as :: [Transistor](/_Standards/Technology/Electronics/Electronic_Component/Transistor.md) 
 
-### [Transistor.public](/_public/Technology/Electronics/Electronic_Component/Transistor.public.md) 
+### #is_/same_as :: [Transistor.public](/_public/Technology/Electronics/Electronic_Component/Transistor.public.md) 
 
-### [Transistor.internal](/_internal/Technology/Electronics/Electronic_Component/Transistor.internal.md) 
+### #is_/same_as :: [Transistor.internal](/_internal/Technology/Electronics/Electronic_Component/Transistor.internal.md) 
 
-### [Transistor.protect](/_protect/Technology/Electronics/Electronic_Component/Transistor.protect.md) 
+### #is_/same_as :: [Transistor.protect](/_protect/Technology/Electronics/Electronic_Component/Transistor.protect.md) 
 
-### [Transistor.private](/_private/Technology/Electronics/Electronic_Component/Transistor.private.md) 
+### #is_/same_as :: [Transistor.private](/_private/Technology/Electronics/Electronic_Component/Transistor.private.md) 
 
-### [Transistor.personal](/_personal/Technology/Electronics/Electronic_Component/Transistor.personal.md) 
+### #is_/same_as :: [Transistor.personal](/_personal/Technology/Electronics/Electronic_Component/Transistor.personal.md) 
 
-### [Transistor.secret](/_secret/Technology/Electronics/Electronic_Component/Transistor.secret.md)
+### #is_/same_as :: [Transistor.secret](/_secret/Technology/Electronics/Electronic_Component/Transistor.secret.md)
 

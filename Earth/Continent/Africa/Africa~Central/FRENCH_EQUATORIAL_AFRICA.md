@@ -35,17 +35,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### [FRENCH_EQUATORIAL_AFRICA](/_Standards/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA](/_Standards/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.public](/_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.public.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.public](/_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.public.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.internal](/_internal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.internal.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.internal](/_internal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.internal.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.protect](/_protect/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.protect.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.protect](/_protect/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.protect.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.private](/_private/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.private.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.private](/_private/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.private.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.personal](/_personal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.personal.md) 
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.personal](/_personal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.personal.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret.md)
+### #is_/same_as :: [FRENCH_EQUATORIAL_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret.md)
 

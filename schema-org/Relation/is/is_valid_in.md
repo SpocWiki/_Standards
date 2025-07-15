@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_valid_in](/_Standards/schema-org/Relation/is/is_valid_in.md) 
+### #is_/same_as :: [is_valid_in](/_Standards/schema-org/Relation/is/is_valid_in.md) 
 
-### [is_valid_in.public](/_public/schema-org/Relation/is/is_valid_in.public.md) 
+### #is_/same_as :: [is_valid_in.public](/_public/schema-org/Relation/is/is_valid_in.public.md) 
 
-### [is_valid_in.internal](/_internal/schema-org/Relation/is/is_valid_in.internal.md) 
+### #is_/same_as :: [is_valid_in.internal](/_internal/schema-org/Relation/is/is_valid_in.internal.md) 
 
-### [is_valid_in.protect](/_protect/schema-org/Relation/is/is_valid_in.protect.md) 
+### #is_/same_as :: [is_valid_in.protect](/_protect/schema-org/Relation/is/is_valid_in.protect.md) 
 
-### [is_valid_in.private](/_private/schema-org/Relation/is/is_valid_in.private.md) 
+### #is_/same_as :: [is_valid_in.private](/_private/schema-org/Relation/is/is_valid_in.private.md) 
 
-### [is_valid_in.personal](/_personal/schema-org/Relation/is/is_valid_in.personal.md) 
+### #is_/same_as :: [is_valid_in.personal](/_personal/schema-org/Relation/is/is_valid_in.personal.md) 
 
-### [is_valid_in.secret](/_secret/schema-org/Relation/is/is_valid_in.secret.md)
+### #is_/same_as :: [is_valid_in.secret](/_secret/schema-org/Relation/is/is_valid_in.secret.md)
 

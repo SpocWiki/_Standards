@@ -45,17 +45,17 @@ A MusicRelease is a specific release of a music album.
 
 ## Confidential Links & Embeds: 
 
-### [music_release](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist/music_release.md) 
+### #is_/same_as :: [music_release](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist/music_release.md) 
 
-### [music_release.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_release.public.md) 
+### #is_/same_as :: [music_release.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_release.public.md) 
 
-### [music_release.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.internal.md) 
+### #is_/same_as :: [music_release.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.internal.md) 
 
-### [music_release.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_release.protect.md) 
+### #is_/same_as :: [music_release.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_release.protect.md) 
 
-### [music_release.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_release.private.md) 
+### #is_/same_as :: [music_release.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_release.private.md) 
 
-### [music_release.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.personal.md) 
+### #is_/same_as :: [music_release.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_release.personal.md) 
 
-### [music_release.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_release.secret.md)
+### #is_/same_as :: [music_release.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_release.secret.md)
 

@@ -165,22 +165,19 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pterygota](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.md) 
+### #is_/same_as :: [Pterygota](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.md) 
 
-### [Pterygota.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.public.md) 
+### #is_/same_as :: [Pterygota.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.public.md) 
 
-### [Pterygota.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.internal.md) 
+### #is_/same_as :: [Pterygota.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.internal.md) 
 
-### [Pterygota.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.protect.md) 
+### #is_/same_as :: [Pterygota.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.protect.md) 
 
-### [Pterygota.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.private.md) 
+### #is_/same_as :: [Pterygota.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.private.md) 
 
-### [Pterygota.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.personal.md) 
+### #is_/same_as :: [Pterygota.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.personal.md) 
 
-### [Pterygota.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.secret.md)
+### #is_/same_as :: [Pterygota.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota.secret.md)
 

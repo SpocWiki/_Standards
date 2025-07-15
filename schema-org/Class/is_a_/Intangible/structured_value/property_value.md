@@ -49,17 +49,17 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 
 ## Confidential Links & Embeds: 
 
-### [property_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/property_value.md) 
+### #is_/same_as :: [property_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/property_value.md) 
 
-### [property_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value.public.md) 
+### #is_/same_as :: [property_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value.public.md) 
 
-### [property_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value.internal.md) 
+### #is_/same_as :: [property_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value.internal.md) 
 
-### [property_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/property_value.protect.md) 
+### #is_/same_as :: [property_value.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/property_value.protect.md) 
 
-### [property_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/property_value.private.md) 
+### #is_/same_as :: [property_value.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/property_value.private.md) 
 
-### [property_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value.personal.md) 
+### #is_/same_as :: [property_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value.personal.md) 
 
-### [property_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value.secret.md)
+### #is_/same_as :: [property_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value.secret.md)
 

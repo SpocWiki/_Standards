@@ -374,17 +374,17 @@ Capital :: [[South_Tarawa]]
 
 ## Confidential Links & Embeds: 
 
-### [Kiribati](/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati.md) 
+### #is_/same_as :: [Kiribati](/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati.md) 
 
-### [Kiribati.public](/_public/Earth/Continent/Australasia/Micronesia/Kiribati.public.md) 
+### #is_/same_as :: [Kiribati.public](/_public/Earth/Continent/Australasia/Micronesia/Kiribati.public.md) 
 
-### [Kiribati.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal.md) 
+### #is_/same_as :: [Kiribati.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal.md) 
 
-### [Kiribati.protect](/_protect/Earth/Continent/Australasia/Micronesia/Kiribati.protect.md) 
+### #is_/same_as :: [Kiribati.protect](/_protect/Earth/Continent/Australasia/Micronesia/Kiribati.protect.md) 
 
-### [Kiribati.private](/_private/Earth/Continent/Australasia/Micronesia/Kiribati.private.md) 
+### #is_/same_as :: [Kiribati.private](/_private/Earth/Continent/Australasia/Micronesia/Kiribati.private.md) 
 
-### [Kiribati.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal.md) 
+### #is_/same_as :: [Kiribati.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal.md) 
 
-### [Kiribati.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret.md)
+### #is_/same_as :: [Kiribati.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret.md)
 

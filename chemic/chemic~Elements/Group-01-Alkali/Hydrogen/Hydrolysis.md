@@ -22,21 +22,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrolysis) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hydrolysis](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.md) 
+### #is_/same_as :: [Hydrolysis](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.md) 
 
-### [Hydrolysis.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.public.md) 
+### #is_/same_as :: [Hydrolysis.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.public.md) 
 
-### [Hydrolysis.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.internal.md) 
+### #is_/same_as :: [Hydrolysis.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.internal.md) 
 
-### [Hydrolysis.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.protect.md) 
+### #is_/same_as :: [Hydrolysis.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.protect.md) 
 
-### [Hydrolysis.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.private.md) 
+### #is_/same_as :: [Hydrolysis.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.private.md) 
 
-### [Hydrolysis.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.personal.md) 
+### #is_/same_as :: [Hydrolysis.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.personal.md) 
 
-### [Hydrolysis.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.secret.md)
+### #is_/same_as :: [Hydrolysis.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrolysis.secret.md)
 

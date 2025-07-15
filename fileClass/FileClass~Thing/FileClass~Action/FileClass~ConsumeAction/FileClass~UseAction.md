@@ -35,17 +35,17 @@ The act of applying an object to its intended purpose.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~UseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.md) 
+### #is_/same_as :: [FileClass~UseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.md) 
 
-### [FileClass~UseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.public.md) 
+### #is_/same_as :: [FileClass~UseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.public.md) 
 
-### [FileClass~UseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.internal.md) 
+### #is_/same_as :: [FileClass~UseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.internal.md) 
 
-### [FileClass~UseAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.protect.md) 
+### #is_/same_as :: [FileClass~UseAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.protect.md) 
 
-### [FileClass~UseAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.private.md) 
+### #is_/same_as :: [FileClass~UseAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.private.md) 
 
-### [FileClass~UseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.personal.md) 
+### #is_/same_as :: [FileClass~UseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.personal.md) 
 
-### [FileClass~UseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.secret.md)
+### #is_/same_as :: [FileClass~UseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction.secret.md)
 

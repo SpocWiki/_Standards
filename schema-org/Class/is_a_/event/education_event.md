@@ -45,17 +45,17 @@ Event type: Education event.
 
 ## Confidential Links & Embeds: 
 
-### [education_event](/_Standards/schema-org/Class/is_a_/event/education_event.md) 
+### #is_/same_as :: [education_event](/_Standards/schema-org/Class/is_a_/event/education_event.md) 
 
-### [education_event.public](/_public/schema-org/Class/is_a_/event/education_event.public.md) 
+### #is_/same_as :: [education_event.public](/_public/schema-org/Class/is_a_/event/education_event.public.md) 
 
-### [education_event.internal](/_internal/schema-org/Class/is_a_/event/education_event.internal.md) 
+### #is_/same_as :: [education_event.internal](/_internal/schema-org/Class/is_a_/event/education_event.internal.md) 
 
-### [education_event.protect](/_protect/schema-org/Class/is_a_/event/education_event.protect.md) 
+### #is_/same_as :: [education_event.protect](/_protect/schema-org/Class/is_a_/event/education_event.protect.md) 
 
-### [education_event.private](/_private/schema-org/Class/is_a_/event/education_event.private.md) 
+### #is_/same_as :: [education_event.private](/_private/schema-org/Class/is_a_/event/education_event.private.md) 
 
-### [education_event.personal](/_personal/schema-org/Class/is_a_/event/education_event.personal.md) 
+### #is_/same_as :: [education_event.personal](/_personal/schema-org/Class/is_a_/event/education_event.personal.md) 
 
-### [education_event.secret](/_secret/schema-org/Class/is_a_/event/education_event.secret.md)
+### #is_/same_as :: [education_event.secret](/_secret/schema-org/Class/is_a_/event/education_event.secret.md)
 

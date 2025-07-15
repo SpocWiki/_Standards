@@ -140,24 +140,19 @@ date_of_birth: "1909-09-21"
 > [Wikipedia](https://en.wikipedia.org/wiki/Kwame%20Nkrumah) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nkrumah,Kwame](/_Standards/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.md) 
+### #is_/same_as :: [Nkrumah,Kwame](/_Standards/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.md) 
 
-### [Nkrumah,Kwame.public](/_public/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.public.md) 
+### #is_/same_as :: [Nkrumah,Kwame.public](/_public/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.public.md) 
 
-### [Nkrumah,Kwame.internal](/_internal/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.internal.md) 
+### #is_/same_as :: [Nkrumah,Kwame.internal](/_internal/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.internal.md) 
 
-### [Nkrumah,Kwame.protect](/_protect/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.protect.md) 
+### #is_/same_as :: [Nkrumah,Kwame.protect](/_protect/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.protect.md) 
 
-### [Nkrumah,Kwame.private](/_private/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.private.md) 
+### #is_/same_as :: [Nkrumah,Kwame.private](/_private/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.private.md) 
 
-### [Nkrumah,Kwame.personal](/_personal/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.personal.md) 
+### #is_/same_as :: [Nkrumah,Kwame.personal](/_personal/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.personal.md) 
 
-### [Nkrumah,Kwame.secret](/_secret/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.secret.md)
+### #is_/same_as :: [Nkrumah,Kwame.secret](/_secret/bio/People/Leader/Modern_Leaders/Nkrumah,Kwame.secret.md)
 

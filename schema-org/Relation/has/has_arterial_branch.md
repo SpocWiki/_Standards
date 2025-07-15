@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_arterial_branch](/_Standards/schema-org/Relation/has/has_arterial_branch.md) 
+### #is_/same_as :: [has_arterial_branch](/_Standards/schema-org/Relation/has/has_arterial_branch.md) 
 
-### [has_arterial_branch.public](/_public/schema-org/Relation/has/has_arterial_branch.public.md) 
+### #is_/same_as :: [has_arterial_branch.public](/_public/schema-org/Relation/has/has_arterial_branch.public.md) 
 
-### [has_arterial_branch.internal](/_internal/schema-org/Relation/has/has_arterial_branch.internal.md) 
+### #is_/same_as :: [has_arterial_branch.internal](/_internal/schema-org/Relation/has/has_arterial_branch.internal.md) 
 
-### [has_arterial_branch.protect](/_protect/schema-org/Relation/has/has_arterial_branch.protect.md) 
+### #is_/same_as :: [has_arterial_branch.protect](/_protect/schema-org/Relation/has/has_arterial_branch.protect.md) 
 
-### [has_arterial_branch.private](/_private/schema-org/Relation/has/has_arterial_branch.private.md) 
+### #is_/same_as :: [has_arterial_branch.private](/_private/schema-org/Relation/has/has_arterial_branch.private.md) 
 
-### [has_arterial_branch.personal](/_personal/schema-org/Relation/has/has_arterial_branch.personal.md) 
+### #is_/same_as :: [has_arterial_branch.personal](/_personal/schema-org/Relation/has/has_arterial_branch.personal.md) 
 
-### [has_arterial_branch.secret](/_secret/schema-org/Relation/has/has_arterial_branch.secret.md)
+### #is_/same_as :: [has_arterial_branch.secret](/_secret/schema-org/Relation/has/has_arterial_branch.secret.md)
 

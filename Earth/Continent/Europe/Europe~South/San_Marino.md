@@ -193,17 +193,17 @@ Capital :: [[San_Marino]]
 
 ## Confidential Links & Embeds: 
 
-### [San_Marino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino.md) 
+### #is_/same_as :: [San_Marino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino.md) 
 
-### [San_Marino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino.public.md) 
+### #is_/same_as :: [San_Marino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino.public.md) 
 
-### [San_Marino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal.md) 
+### #is_/same_as :: [San_Marino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal.md) 
 
-### [San_Marino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect.md) 
+### #is_/same_as :: [San_Marino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect.md) 
 
-### [San_Marino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino.private.md) 
+### #is_/same_as :: [San_Marino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino.private.md) 
 
-### [San_Marino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal.md) 
+### #is_/same_as :: [San_Marino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal.md) 
 
-### [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md)
+### #is_/same_as :: [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md)
 

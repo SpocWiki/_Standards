@@ -568,17 +568,17 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
 
 ## Confidential Links & Embeds: 
 
-### [Agaricomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.md) 
+### #is_/same_as :: [Agaricomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.md) 
 
-### [Agaricomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.public.md) 
+### #is_/same_as :: [Agaricomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.public.md) 
 
-### [Agaricomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.internal.md) 
+### #is_/same_as :: [Agaricomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.internal.md) 
 
-### [Agaricomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.protect.md) 
+### #is_/same_as :: [Agaricomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.protect.md) 
 
-### [Agaricomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.private.md) 
+### #is_/same_as :: [Agaricomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.private.md) 
 
-### [Agaricomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.personal.md) 
+### #is_/same_as :: [Agaricomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.personal.md) 
 
-### [Agaricomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.secret.md)
+### #is_/same_as :: [Agaricomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes.secret.md)
 

@@ -39,24 +39,19 @@ Commons_category: "Large intestines"
 > [Wikipedia](https://en.wikipedia.org/wiki/Large%20intestine)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Large_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.md) 
+### #is_/same_as :: [Large_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.md) 
 
-### [Large_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.public.md) 
+### #is_/same_as :: [Large_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.public.md) 
 
-### [Large_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.internal.md) 
+### #is_/same_as :: [Large_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.internal.md) 
 
-### [Large_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.protect.md) 
+### #is_/same_as :: [Large_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.protect.md) 
 
-### [Large_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.private.md) 
+### #is_/same_as :: [Large_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.private.md) 
 
-### [Large_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.personal.md) 
+### #is_/same_as :: [Large_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.personal.md) 
 
-### [Large_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.secret.md)
+### #is_/same_as :: [Large_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Large_Intestine.secret.md)
 

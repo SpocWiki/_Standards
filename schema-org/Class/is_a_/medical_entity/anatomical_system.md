@@ -45,17 +45,17 @@ An anatomical system is a group of anatomical structures that work together to p
 
 ## Confidential Links & Embeds: 
 
-### [anatomical_system](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_system.md) 
+### #is_/same_as :: [anatomical_system](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_system.md) 
 
-### [anatomical_system.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_system.public.md) 
+### #is_/same_as :: [anatomical_system.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_system.public.md) 
 
-### [anatomical_system.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_system.internal.md) 
+### #is_/same_as :: [anatomical_system.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_system.internal.md) 
 
-### [anatomical_system.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_system.protect.md) 
+### #is_/same_as :: [anatomical_system.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_system.protect.md) 
 
-### [anatomical_system.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_system.private.md) 
+### #is_/same_as :: [anatomical_system.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_system.private.md) 
 
-### [anatomical_system.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_system.personal.md) 
+### #is_/same_as :: [anatomical_system.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_system.personal.md) 
 
-### [anatomical_system.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_system.secret.md)
+### #is_/same_as :: [anatomical_system.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_system.secret.md)
 

@@ -135,22 +135,19 @@ Regensburg_Classification: "ZX - ZY"
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Sport](/_Standards/bio/Society/Communication/Performing_Arts/Sport.md) 
+### #is_/same_as :: [Sport](/_Standards/bio/Society/Communication/Performing_Arts/Sport.md) 
 
-### [Sport.public](/_public/bio/Society/Communication/Performing_Arts/Sport.public.md) 
+### #is_/same_as :: [Sport.public](/_public/bio/Society/Communication/Performing_Arts/Sport.public.md) 
 
-### [Sport.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport.internal.md) 
+### #is_/same_as :: [Sport.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport.internal.md) 
 
-### [Sport.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport.protect.md) 
+### #is_/same_as :: [Sport.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport.protect.md) 
 
-### [Sport.private](/_private/bio/Society/Communication/Performing_Arts/Sport.private.md) 
+### #is_/same_as :: [Sport.private](/_private/bio/Society/Communication/Performing_Arts/Sport.private.md) 
 
-### [Sport.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport.personal.md) 
+### #is_/same_as :: [Sport.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport.personal.md) 
 
-### [Sport.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport.secret.md)
+### #is_/same_as :: [Sport.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport.secret.md)
 

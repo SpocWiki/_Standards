@@ -50,17 +50,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_available_on_device](/_Standards/schema-org/Property/Texts/is_available_on_device.md) 
+### #is_/same_as :: [is_available_on_device](/_Standards/schema-org/Property/Texts/is_available_on_device.md) 
 
-### [is_available_on_device.public](/_public/schema-org/Property/Texts/is_available_on_device.public.md) 
+### #is_/same_as :: [is_available_on_device.public](/_public/schema-org/Property/Texts/is_available_on_device.public.md) 
 
-### [is_available_on_device.internal](/_internal/schema-org/Property/Texts/is_available_on_device.internal.md) 
+### #is_/same_as :: [is_available_on_device.internal](/_internal/schema-org/Property/Texts/is_available_on_device.internal.md) 
 
-### [is_available_on_device.protect](/_protect/schema-org/Property/Texts/is_available_on_device.protect.md) 
+### #is_/same_as :: [is_available_on_device.protect](/_protect/schema-org/Property/Texts/is_available_on_device.protect.md) 
 
-### [is_available_on_device.private](/_private/schema-org/Property/Texts/is_available_on_device.private.md) 
+### #is_/same_as :: [is_available_on_device.private](/_private/schema-org/Property/Texts/is_available_on_device.private.md) 
 
-### [is_available_on_device.personal](/_personal/schema-org/Property/Texts/is_available_on_device.personal.md) 
+### #is_/same_as :: [is_available_on_device.personal](/_personal/schema-org/Property/Texts/is_available_on_device.personal.md) 
 
-### [is_available_on_device.secret](/_secret/schema-org/Property/Texts/is_available_on_device.secret.md)
+### #is_/same_as :: [is_available_on_device.secret](/_secret/schema-org/Property/Texts/is_available_on_device.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_affiliate_of](/_Standards/schema-org/Relation/has/has_broadcast_affiliate_of.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of](/_Standards/schema-org/Relation/has/has_broadcast_affiliate_of.md) 
 
-### [has_broadcast_affiliate_of.public](/_public/schema-org/Relation/has/has_broadcast_affiliate_of.public.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of.public](/_public/schema-org/Relation/has/has_broadcast_affiliate_of.public.md) 
 
-### [has_broadcast_affiliate_of.internal](/_internal/schema-org/Relation/has/has_broadcast_affiliate_of.internal.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of.internal](/_internal/schema-org/Relation/has/has_broadcast_affiliate_of.internal.md) 
 
-### [has_broadcast_affiliate_of.protect](/_protect/schema-org/Relation/has/has_broadcast_affiliate_of.protect.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of.protect](/_protect/schema-org/Relation/has/has_broadcast_affiliate_of.protect.md) 
 
-### [has_broadcast_affiliate_of.private](/_private/schema-org/Relation/has/has_broadcast_affiliate_of.private.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of.private](/_private/schema-org/Relation/has/has_broadcast_affiliate_of.private.md) 
 
-### [has_broadcast_affiliate_of.personal](/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal.md) 
+### #is_/same_as :: [has_broadcast_affiliate_of.personal](/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal.md) 
 
-### [has_broadcast_affiliate_of.secret](/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret.md)
+### #is_/same_as :: [has_broadcast_affiliate_of.secret](/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret.md)
 

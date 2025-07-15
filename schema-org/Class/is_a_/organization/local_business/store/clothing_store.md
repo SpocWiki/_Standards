@@ -45,17 +45,17 @@ A clothing store.
 
 ## Confidential Links & Embeds: 
 
-### [clothing_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/clothing_store.md) 
+### #is_/same_as :: [clothing_store](/_Standards/schema-org/Class/is_a_/organization/local_business/store/clothing_store.md) 
 
-### [clothing_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/clothing_store.public.md) 
+### #is_/same_as :: [clothing_store.public](/_public/schema-org/Class/is_a_/organization/local_business/store/clothing_store.public.md) 
 
-### [clothing_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/clothing_store.internal.md) 
+### #is_/same_as :: [clothing_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/clothing_store.internal.md) 
 
-### [clothing_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/clothing_store.protect.md) 
+### #is_/same_as :: [clothing_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/clothing_store.protect.md) 
 
-### [clothing_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/clothing_store.private.md) 
+### #is_/same_as :: [clothing_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/clothing_store.private.md) 
 
-### [clothing_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/clothing_store.personal.md) 
+### #is_/same_as :: [clothing_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/clothing_store.personal.md) 
 
-### [clothing_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/clothing_store.secret.md)
+### #is_/same_as :: [clothing_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/clothing_store.secret.md)
 

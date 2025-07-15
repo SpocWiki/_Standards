@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_variant](/_Standards/schema-org/Relation/has/has_variant.md) 
+### #is_/same_as :: [has_variant](/_Standards/schema-org/Relation/has/has_variant.md) 
 
-### [has_variant.public](/_public/schema-org/Relation/has/has_variant.public.md) 
+### #is_/same_as :: [has_variant.public](/_public/schema-org/Relation/has/has_variant.public.md) 
 
-### [has_variant.internal](/_internal/schema-org/Relation/has/has_variant.internal.md) 
+### #is_/same_as :: [has_variant.internal](/_internal/schema-org/Relation/has/has_variant.internal.md) 
 
-### [has_variant.protect](/_protect/schema-org/Relation/has/has_variant.protect.md) 
+### #is_/same_as :: [has_variant.protect](/_protect/schema-org/Relation/has/has_variant.protect.md) 
 
-### [has_variant.private](/_private/schema-org/Relation/has/has_variant.private.md) 
+### #is_/same_as :: [has_variant.private](/_private/schema-org/Relation/has/has_variant.private.md) 
 
-### [has_variant.personal](/_personal/schema-org/Relation/has/has_variant.personal.md) 
+### #is_/same_as :: [has_variant.personal](/_personal/schema-org/Relation/has/has_variant.personal.md) 
 
-### [has_variant.secret](/_secret/schema-org/Relation/has/has_variant.secret.md)
+### #is_/same_as :: [has_variant.secret](/_secret/schema-org/Relation/has/has_variant.secret.md)
 

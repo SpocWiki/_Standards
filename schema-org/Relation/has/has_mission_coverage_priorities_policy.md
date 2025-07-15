@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_mission_coverage_priorities_policy](/_Standards/schema-org/Relation/has/has_mission_coverage_priorities_policy.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy](/_Standards/schema-org/Relation/has/has_mission_coverage_priorities_policy.md) 
 
-### [has_mission_coverage_priorities_policy.public](/_public/schema-org/Relation/has/has_mission_coverage_priorities_policy.public.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy.public](/_public/schema-org/Relation/has/has_mission_coverage_priorities_policy.public.md) 
 
-### [has_mission_coverage_priorities_policy.internal](/_internal/schema-org/Relation/has/has_mission_coverage_priorities_policy.internal.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy.internal](/_internal/schema-org/Relation/has/has_mission_coverage_priorities_policy.internal.md) 
 
-### [has_mission_coverage_priorities_policy.protect](/_protect/schema-org/Relation/has/has_mission_coverage_priorities_policy.protect.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy.protect](/_protect/schema-org/Relation/has/has_mission_coverage_priorities_policy.protect.md) 
 
-### [has_mission_coverage_priorities_policy.private](/_private/schema-org/Relation/has/has_mission_coverage_priorities_policy.private.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy.private](/_private/schema-org/Relation/has/has_mission_coverage_priorities_policy.private.md) 
 
-### [has_mission_coverage_priorities_policy.personal](/_personal/schema-org/Relation/has/has_mission_coverage_priorities_policy.personal.md) 
+### #is_/same_as :: [has_mission_coverage_priorities_policy.personal](/_personal/schema-org/Relation/has/has_mission_coverage_priorities_policy.personal.md) 
 
-### [has_mission_coverage_priorities_policy.secret](/_secret/schema-org/Relation/has/has_mission_coverage_priorities_policy.secret.md)
+### #is_/same_as :: [has_mission_coverage_priorities_policy.secret](/_secret/schema-org/Relation/has/has_mission_coverage_priorities_policy.secret.md)
 

@@ -130,17 +130,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/RUBIDI.html
 
 ## Confidential Links & Embeds: 
 
-### [Rubidium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
+### #is_/same_as :: [Rubidium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Rubidium.md) 
 
-### [Rubidium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.public.md) 
+### #is_/same_as :: [Rubidium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Rubidium.public.md) 
 
-### [Rubidium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.internal.md) 
+### #is_/same_as :: [Rubidium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.internal.md) 
 
-### [Rubidium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Rubidium.protect.md) 
+### #is_/same_as :: [Rubidium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Rubidium.protect.md) 
 
-### [Rubidium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Rubidium.private.md) 
+### #is_/same_as :: [Rubidium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Rubidium.private.md) 
 
-### [Rubidium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.personal.md) 
+### #is_/same_as :: [Rubidium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Rubidium.personal.md) 
 
-### [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md)
+### #is_/same_as :: [Rubidium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Rubidium.secret.md)
 

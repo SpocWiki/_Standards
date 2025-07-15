@@ -615,17 +615,17 @@ With such a diversified profile, Uruguay exports electricity to Brazil and Argen
 
 ## Confidential Links & Embeds: 
 
-### [Uruguay](/_Standards/Earth/Continent/America~South/Uruguay.md) 
+### #is_/same_as :: [Uruguay](/_Standards/Earth/Continent/America~South/Uruguay.md) 
 
-### [Uruguay.public](/_public/Earth/Continent/America~South/Uruguay.public.md) 
+### #is_/same_as :: [Uruguay.public](/_public/Earth/Continent/America~South/Uruguay.public.md) 
 
-### [Uruguay.internal](/_internal/Earth/Continent/America~South/Uruguay.internal.md) 
+### #is_/same_as :: [Uruguay.internal](/_internal/Earth/Continent/America~South/Uruguay.internal.md) 
 
-### [Uruguay.protect](/_protect/Earth/Continent/America~South/Uruguay.protect.md) 
+### #is_/same_as :: [Uruguay.protect](/_protect/Earth/Continent/America~South/Uruguay.protect.md) 
 
-### [Uruguay.private](/_private/Earth/Continent/America~South/Uruguay.private.md) 
+### #is_/same_as :: [Uruguay.private](/_private/Earth/Continent/America~South/Uruguay.private.md) 
 
-### [Uruguay.personal](/_personal/Earth/Continent/America~South/Uruguay.personal.md) 
+### #is_/same_as :: [Uruguay.personal](/_personal/Earth/Continent/America~South/Uruguay.personal.md) 
 
-### [Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay.secret.md)
+### #is_/same_as :: [Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_error](/_Standards/schema-org/Relation/has/has_error.md) 
+### #is_/same_as :: [has_error](/_Standards/schema-org/Relation/has/has_error.md) 
 
-### [has_error.public](/_public/schema-org/Relation/has/has_error.public.md) 
+### #is_/same_as :: [has_error.public](/_public/schema-org/Relation/has/has_error.public.md) 
 
-### [has_error.internal](/_internal/schema-org/Relation/has/has_error.internal.md) 
+### #is_/same_as :: [has_error.internal](/_internal/schema-org/Relation/has/has_error.internal.md) 
 
-### [has_error.protect](/_protect/schema-org/Relation/has/has_error.protect.md) 
+### #is_/same_as :: [has_error.protect](/_protect/schema-org/Relation/has/has_error.protect.md) 
 
-### [has_error.private](/_private/schema-org/Relation/has/has_error.private.md) 
+### #is_/same_as :: [has_error.private](/_private/schema-org/Relation/has/has_error.private.md) 
 
-### [has_error.personal](/_personal/schema-org/Relation/has/has_error.personal.md) 
+### #is_/same_as :: [has_error.personal](/_personal/schema-org/Relation/has/has_error.personal.md) 
 
-### [has_error.secret](/_secret/schema-org/Relation/has/has_error.secret.md)
+### #is_/same_as :: [has_error.secret](/_secret/schema-org/Relation/has/has_error.secret.md)
 

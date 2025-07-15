@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_dose_unit](/_Standards/schema-org/Property/Texts/has_dose_unit.md) 
+### #is_/same_as :: [has_dose_unit](/_Standards/schema-org/Property/Texts/has_dose_unit.md) 
 
-### [has_dose_unit.public](/_public/schema-org/Property/Texts/has_dose_unit.public.md) 
+### #is_/same_as :: [has_dose_unit.public](/_public/schema-org/Property/Texts/has_dose_unit.public.md) 
 
-### [has_dose_unit.internal](/_internal/schema-org/Property/Texts/has_dose_unit.internal.md) 
+### #is_/same_as :: [has_dose_unit.internal](/_internal/schema-org/Property/Texts/has_dose_unit.internal.md) 
 
-### [has_dose_unit.protect](/_protect/schema-org/Property/Texts/has_dose_unit.protect.md) 
+### #is_/same_as :: [has_dose_unit.protect](/_protect/schema-org/Property/Texts/has_dose_unit.protect.md) 
 
-### [has_dose_unit.private](/_private/schema-org/Property/Texts/has_dose_unit.private.md) 
+### #is_/same_as :: [has_dose_unit.private](/_private/schema-org/Property/Texts/has_dose_unit.private.md) 
 
-### [has_dose_unit.personal](/_personal/schema-org/Property/Texts/has_dose_unit.personal.md) 
+### #is_/same_as :: [has_dose_unit.personal](/_personal/schema-org/Property/Texts/has_dose_unit.personal.md) 
 
-### [has_dose_unit.secret](/_secret/schema-org/Property/Texts/has_dose_unit.secret.md)
+### #is_/same_as :: [has_dose_unit.secret](/_secret/schema-org/Property/Texts/has_dose_unit.secret.md)
 

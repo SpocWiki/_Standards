@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_billing_start](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_start.md) 
+### #is_/same_as :: [has_value_for_billing_start](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_start.md) 
 
-### [has_value_for_billing_start.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_start.public.md) 
+### #is_/same_as :: [has_value_for_billing_start.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_start.public.md) 
 
-### [has_value_for_billing_start.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_start.internal.md) 
+### #is_/same_as :: [has_value_for_billing_start.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_start.internal.md) 
 
-### [has_value_for_billing_start.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_start.protect.md) 
+### #is_/same_as :: [has_value_for_billing_start.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_start.protect.md) 
 
-### [has_value_for_billing_start.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_start.private.md) 
+### #is_/same_as :: [has_value_for_billing_start.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_start.private.md) 
 
-### [has_value_for_billing_start.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_start.personal.md) 
+### #is_/same_as :: [has_value_for_billing_start.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_start.personal.md) 
 
-### [has_value_for_billing_start.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret.md)
+### #is_/same_as :: [has_value_for_billing_start.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_start.secret.md)
 

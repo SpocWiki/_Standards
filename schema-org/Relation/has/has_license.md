@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_license](/_Standards/schema-org/Relation/has/has_license.md) 
+### #is_/same_as :: [has_license](/_Standards/schema-org/Relation/has/has_license.md) 
 
-### [has_license.public](/_public/schema-org/Relation/has/has_license.public.md) 
+### #is_/same_as :: [has_license.public](/_public/schema-org/Relation/has/has_license.public.md) 
 
-### [has_license.internal](/_internal/schema-org/Relation/has/has_license.internal.md) 
+### #is_/same_as :: [has_license.internal](/_internal/schema-org/Relation/has/has_license.internal.md) 
 
-### [has_license.protect](/_protect/schema-org/Relation/has/has_license.protect.md) 
+### #is_/same_as :: [has_license.protect](/_protect/schema-org/Relation/has/has_license.protect.md) 
 
-### [has_license.private](/_private/schema-org/Relation/has/has_license.private.md) 
+### #is_/same_as :: [has_license.private](/_private/schema-org/Relation/has/has_license.private.md) 
 
-### [has_license.personal](/_personal/schema-org/Relation/has/has_license.personal.md) 
+### #is_/same_as :: [has_license.personal](/_personal/schema-org/Relation/has/has_license.personal.md) 
 
-### [has_license.secret](/_secret/schema-org/Relation/has/has_license.secret.md)
+### #is_/same_as :: [has_license.secret](/_secret/schema-org/Relation/has/has_license.secret.md)
 

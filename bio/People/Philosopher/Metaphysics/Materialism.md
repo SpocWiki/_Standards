@@ -34,21 +34,19 @@ Commons_category: Materialism
 > [Wikipedia](https://en.wikipedia.org/wiki/Materialism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Materialism](/_Standards/bio/People/Philosopher/Metaphysics/Materialism.md) 
+### #is_/same_as :: [Materialism](/_Standards/bio/People/Philosopher/Metaphysics/Materialism.md) 
 
-### [Materialism.public](/_public/bio/People/Philosopher/Metaphysics/Materialism.public.md) 
+### #is_/same_as :: [Materialism.public](/_public/bio/People/Philosopher/Metaphysics/Materialism.public.md) 
 
-### [Materialism.internal](/_internal/bio/People/Philosopher/Metaphysics/Materialism.internal.md) 
+### #is_/same_as :: [Materialism.internal](/_internal/bio/People/Philosopher/Metaphysics/Materialism.internal.md) 
 
-### [Materialism.protect](/_protect/bio/People/Philosopher/Metaphysics/Materialism.protect.md) 
+### #is_/same_as :: [Materialism.protect](/_protect/bio/People/Philosopher/Metaphysics/Materialism.protect.md) 
 
-### [Materialism.private](/_private/bio/People/Philosopher/Metaphysics/Materialism.private.md) 
+### #is_/same_as :: [Materialism.private](/_private/bio/People/Philosopher/Metaphysics/Materialism.private.md) 
 
-### [Materialism.personal](/_personal/bio/People/Philosopher/Metaphysics/Materialism.personal.md) 
+### #is_/same_as :: [Materialism.personal](/_personal/bio/People/Philosopher/Metaphysics/Materialism.personal.md) 
 
-### [Materialism.secret](/_secret/bio/People/Philosopher/Metaphysics/Materialism.secret.md)
+### #is_/same_as :: [Materialism.secret](/_secret/bio/People/Philosopher/Metaphysics/Materialism.secret.md)
 

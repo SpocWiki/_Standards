@@ -160,17 +160,17 @@ Capital :: [[Port_Moresby]]
 
 ## Confidential Links & Embeds: 
 
-### [Papua-New_Guinea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
+### #is_/same_as :: [Papua-New_Guinea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
 
-### [Papua-New_Guinea.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public.md) 
+### #is_/same_as :: [Papua-New_Guinea.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public.md) 
 
-### [Papua-New_Guinea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal.md) 
+### #is_/same_as :: [Papua-New_Guinea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal.md) 
 
-### [Papua-New_Guinea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect.md) 
+### #is_/same_as :: [Papua-New_Guinea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect.md) 
 
-### [Papua-New_Guinea.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private.md) 
+### #is_/same_as :: [Papua-New_Guinea.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private.md) 
 
-### [Papua-New_Guinea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal.md) 
+### #is_/same_as :: [Papua-New_Guinea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal.md) 
 
-### [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md)
+### #is_/same_as :: [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md)
 

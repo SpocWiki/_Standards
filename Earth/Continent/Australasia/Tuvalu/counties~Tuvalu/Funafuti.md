@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Funafuti](/_Standards/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.md) 
+### #is_/same_as :: [Funafuti](/_Standards/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.md) 
 
-### [Funafuti.public](/_public/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.public.md) 
+### #is_/same_as :: [Funafuti.public](/_public/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.public.md) 
 
-### [Funafuti.internal](/_internal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.internal.md) 
+### #is_/same_as :: [Funafuti.internal](/_internal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.internal.md) 
 
-### [Funafuti.protect](/_protect/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.protect.md) 
+### #is_/same_as :: [Funafuti.protect](/_protect/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.protect.md) 
 
-### [Funafuti.private](/_private/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.private.md) 
+### #is_/same_as :: [Funafuti.private](/_private/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.private.md) 
 
-### [Funafuti.personal](/_personal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.personal.md) 
+### #is_/same_as :: [Funafuti.personal](/_personal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.personal.md) 
 
-### [Funafuti.secret](/_secret/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.secret.md)
+### #is_/same_as :: [Funafuti.secret](/_secret/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.secret.md)
 

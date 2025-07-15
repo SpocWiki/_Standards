@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_encoded_by_bio_chem_entity](/_Standards/schema-org/Relation/is/is_encoded_by_bio_chem_entity.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity](/_Standards/schema-org/Relation/is/is_encoded_by_bio_chem_entity.md) 
 
-### [is_encoded_by_bio_chem_entity.public](/_public/schema-org/Relation/is/is_encoded_by_bio_chem_entity.public.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.public](/_public/schema-org/Relation/is/is_encoded_by_bio_chem_entity.public.md) 
 
-### [is_encoded_by_bio_chem_entity.internal](/_internal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.internal.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.internal](/_internal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.internal.md) 
 
-### [is_encoded_by_bio_chem_entity.protect](/_protect/schema-org/Relation/is/is_encoded_by_bio_chem_entity.protect.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.protect](/_protect/schema-org/Relation/is/is_encoded_by_bio_chem_entity.protect.md) 
 
-### [is_encoded_by_bio_chem_entity.private](/_private/schema-org/Relation/is/is_encoded_by_bio_chem_entity.private.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.private](/_private/schema-org/Relation/is/is_encoded_by_bio_chem_entity.private.md) 
 
-### [is_encoded_by_bio_chem_entity.personal](/_personal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.personal.md) 
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.personal](/_personal/schema-org/Relation/is/is_encoded_by_bio_chem_entity.personal.md) 
 
-### [is_encoded_by_bio_chem_entity.secret](/_secret/schema-org/Relation/is/is_encoded_by_bio_chem_entity.secret.md)
+### #is_/same_as :: [is_encoded_by_bio_chem_entity.secret](/_secret/schema-org/Relation/is/is_encoded_by_bio_chem_entity.secret.md)
 

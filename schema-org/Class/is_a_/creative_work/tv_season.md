@@ -45,17 +45,17 @@ Season dedicated to TV broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### [tv_season](/_Standards/schema-org/Class/is_a_/creative_work/tv_season.md) 
+### #is_/same_as :: [tv_season](/_Standards/schema-org/Class/is_a_/creative_work/tv_season.md) 
 
-### [tv_season.public](/_public/schema-org/Class/is_a_/creative_work/tv_season.public.md) 
+### #is_/same_as :: [tv_season.public](/_public/schema-org/Class/is_a_/creative_work/tv_season.public.md) 
 
-### [tv_season.internal](/_internal/schema-org/Class/is_a_/creative_work/tv_season.internal.md) 
+### #is_/same_as :: [tv_season.internal](/_internal/schema-org/Class/is_a_/creative_work/tv_season.internal.md) 
 
-### [tv_season.protect](/_protect/schema-org/Class/is_a_/creative_work/tv_season.protect.md) 
+### #is_/same_as :: [tv_season.protect](/_protect/schema-org/Class/is_a_/creative_work/tv_season.protect.md) 
 
-### [tv_season.private](/_private/schema-org/Class/is_a_/creative_work/tv_season.private.md) 
+### #is_/same_as :: [tv_season.private](/_private/schema-org/Class/is_a_/creative_work/tv_season.private.md) 
 
-### [tv_season.personal](/_personal/schema-org/Class/is_a_/creative_work/tv_season.personal.md) 
+### #is_/same_as :: [tv_season.personal](/_personal/schema-org/Class/is_a_/creative_work/tv_season.personal.md) 
 
-### [tv_season.secret](/_secret/schema-org/Class/is_a_/creative_work/tv_season.secret.md)
+### #is_/same_as :: [tv_season.secret](/_secret/schema-org/Class/is_a_/creative_work/tv_season.secret.md)
 

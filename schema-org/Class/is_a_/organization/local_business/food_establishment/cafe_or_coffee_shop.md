@@ -45,17 +45,17 @@ A cafe or coffee shop.
 
 ## Confidential Links & Embeds: 
 
-### [cafe_or_coffee_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.md) 
+### #is_/same_as :: [cafe_or_coffee_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.md) 
 
-### [cafe_or_coffee_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.public.md) 
+### #is_/same_as :: [cafe_or_coffee_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.public.md) 
 
-### [cafe_or_coffee_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.internal.md) 
+### #is_/same_as :: [cafe_or_coffee_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.internal.md) 
 
-### [cafe_or_coffee_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.protect.md) 
+### #is_/same_as :: [cafe_or_coffee_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.protect.md) 
 
-### [cafe_or_coffee_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.private.md) 
+### #is_/same_as :: [cafe_or_coffee_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.private.md) 
 
-### [cafe_or_coffee_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.personal.md) 
+### #is_/same_as :: [cafe_or_coffee_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.personal.md) 
 
-### [cafe_or_coffee_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.secret.md)
+### #is_/same_as :: [cafe_or_coffee_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/cafe_or_coffee_shop.secret.md)
 

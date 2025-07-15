@@ -59,22 +59,19 @@ Life Cycle Stage ::     trophozoite
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Euapicomplexa](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.md) 
+### #is_/same_as :: [Euapicomplexa](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.md) 
 
-### [Euapicomplexa.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.public.md) 
+### #is_/same_as :: [Euapicomplexa.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.public.md) 
 
-### [Euapicomplexa.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.internal.md) 
+### #is_/same_as :: [Euapicomplexa.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.internal.md) 
 
-### [Euapicomplexa.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.protect.md) 
+### #is_/same_as :: [Euapicomplexa.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.protect.md) 
 
-### [Euapicomplexa.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.private.md) 
+### #is_/same_as :: [Euapicomplexa.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.private.md) 
 
-### [Euapicomplexa.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.personal.md) 
+### #is_/same_as :: [Euapicomplexa.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.personal.md) 
 
-### [Euapicomplexa.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.secret.md)
+### #is_/same_as :: [Euapicomplexa.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates/Euapicomplexa.secret.md)
 

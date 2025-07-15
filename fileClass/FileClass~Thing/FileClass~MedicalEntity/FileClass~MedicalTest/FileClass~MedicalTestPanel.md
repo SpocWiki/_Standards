@@ -46,17 +46,17 @@ SubTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalTestPanel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.md) 
 
-### [FileClass~MedicalTestPanel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.public.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.public.md) 
 
-### [FileClass~MedicalTestPanel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.internal.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.internal.md) 
 
-### [FileClass~MedicalTestPanel.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.protect.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.protect.md) 
 
-### [FileClass~MedicalTestPanel.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.private.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.private.md) 
 
-### [FileClass~MedicalTestPanel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.personal.md) 
+### #is_/same_as :: [FileClass~MedicalTestPanel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.personal.md) 
 
-### [FileClass~MedicalTestPanel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.secret.md)
+### #is_/same_as :: [FileClass~MedicalTestPanel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~MedicalTestPanel.secret.md)
 

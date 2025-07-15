@@ -47,17 +47,17 @@ The average rating based on multiple ratings or reviews.
 
 ## Confidential Links & Embeds: 
 
-### [aggregate_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.md) 
+### #is_/same_as :: [aggregate_rating](/_Standards/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.md) 
 
-### [aggregate_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.public.md) 
+### #is_/same_as :: [aggregate_rating.public](/_public/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.public.md) 
 
-### [aggregate_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.internal.md) 
+### #is_/same_as :: [aggregate_rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.internal.md) 
 
-### [aggregate_rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.protect.md) 
+### #is_/same_as :: [aggregate_rating.protect](/_protect/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.protect.md) 
 
-### [aggregate_rating.private](/_private/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.private.md) 
+### #is_/same_as :: [aggregate_rating.private](/_private/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.private.md) 
 
-### [aggregate_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.personal.md) 
+### #is_/same_as :: [aggregate_rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.personal.md) 
 
-### [aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.secret.md)
+### #is_/same_as :: [aggregate_rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating/aggregate_rating.secret.md)
 

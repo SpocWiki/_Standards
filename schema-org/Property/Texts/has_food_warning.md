@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_food_warning](/_Standards/schema-org/Property/Texts/has_food_warning.md) 
+### #is_/same_as :: [has_food_warning](/_Standards/schema-org/Property/Texts/has_food_warning.md) 
 
-### [has_food_warning.public](/_public/schema-org/Property/Texts/has_food_warning.public.md) 
+### #is_/same_as :: [has_food_warning.public](/_public/schema-org/Property/Texts/has_food_warning.public.md) 
 
-### [has_food_warning.internal](/_internal/schema-org/Property/Texts/has_food_warning.internal.md) 
+### #is_/same_as :: [has_food_warning.internal](/_internal/schema-org/Property/Texts/has_food_warning.internal.md) 
 
-### [has_food_warning.protect](/_protect/schema-org/Property/Texts/has_food_warning.protect.md) 
+### #is_/same_as :: [has_food_warning.protect](/_protect/schema-org/Property/Texts/has_food_warning.protect.md) 
 
-### [has_food_warning.private](/_private/schema-org/Property/Texts/has_food_warning.private.md) 
+### #is_/same_as :: [has_food_warning.private](/_private/schema-org/Property/Texts/has_food_warning.private.md) 
 
-### [has_food_warning.personal](/_personal/schema-org/Property/Texts/has_food_warning.personal.md) 
+### #is_/same_as :: [has_food_warning.personal](/_personal/schema-org/Property/Texts/has_food_warning.personal.md) 
 
-### [has_food_warning.secret](/_secret/schema-org/Property/Texts/has_food_warning.secret.md)
+### #is_/same_as :: [has_food_warning.secret](/_secret/schema-org/Property/Texts/has_food_warning.secret.md)
 

@@ -447,17 +447,17 @@ Capital :: [[Yamoussoukro]]
 
 ## Confidential Links & Embeds: 
 
-### [Cote_d'ivoire](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.md) 
+### #is_/same_as :: [Cote_d'ivoire](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.md) 
 
-### [Cote_d'ivoire.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public.md) 
+### #is_/same_as :: [Cote_d'ivoire.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public.md) 
 
-### [Cote_d'ivoire.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal.md) 
+### #is_/same_as :: [Cote_d'ivoire.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal.md) 
 
-### [Cote_d'ivoire.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.protect.md) 
+### #is_/same_as :: [Cote_d'ivoire.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.protect.md) 
 
-### [Cote_d'ivoire.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private.md) 
+### #is_/same_as :: [Cote_d'ivoire.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private.md) 
 
-### [Cote_d'ivoire.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal.md) 
+### #is_/same_as :: [Cote_d'ivoire.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal.md) 
 
-### [Cote_d'ivoire.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret.md)
+### #is_/same_as :: [Cote_d'ivoire.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret.md)
 

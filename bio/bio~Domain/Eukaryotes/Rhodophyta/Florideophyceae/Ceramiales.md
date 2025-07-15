@@ -26,22 +26,19 @@ title: Ceramiales
     -   [Rhodomelaceae](Rhodomelaceae.md)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Ceramiales](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.md) 
+### #is_/same_as :: [Ceramiales](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.md) 
 
-### [Ceramiales.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.public.md) 
+### #is_/same_as :: [Ceramiales.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.public.md) 
 
-### [Ceramiales.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.internal.md) 
+### #is_/same_as :: [Ceramiales.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.internal.md) 
 
-### [Ceramiales.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.protect.md) 
+### #is_/same_as :: [Ceramiales.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.protect.md) 
 
-### [Ceramiales.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.private.md) 
+### #is_/same_as :: [Ceramiales.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.private.md) 
 
-### [Ceramiales.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.personal.md) 
+### #is_/same_as :: [Ceramiales.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.personal.md) 
 
-### [Ceramiales.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.secret.md)
+### #is_/same_as :: [Ceramiales.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Ceramiales.secret.md)
 

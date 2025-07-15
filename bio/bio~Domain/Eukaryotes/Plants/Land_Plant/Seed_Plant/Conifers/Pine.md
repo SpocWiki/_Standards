@@ -77,22 +77,19 @@ Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © Dave Powell, USDA Forest Service
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pine](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.md) 
+### #is_/same_as :: [Pine](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.md) 
 
-### [Pine.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.public.md) 
+### #is_/same_as :: [Pine.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.public.md) 
 
-### [Pine.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.internal.md) 
+### #is_/same_as :: [Pine.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.internal.md) 
 
-### [Pine.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.protect.md) 
+### #is_/same_as :: [Pine.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.protect.md) 
 
-### [Pine.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.private.md) 
+### #is_/same_as :: [Pine.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.private.md) 
 
-### [Pine.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.personal.md) 
+### #is_/same_as :: [Pine.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.personal.md) 
 
-### [Pine.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.secret.md)
+### #is_/same_as :: [Pine.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine.secret.md)
 

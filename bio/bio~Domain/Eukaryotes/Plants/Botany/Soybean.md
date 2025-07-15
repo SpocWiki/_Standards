@@ -124,21 +124,19 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biolog
 > [Wikipedia](https://en.wikipedia.org/wiki/Soybean)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Soybean](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.md) 
+### #is_/same_as :: [Soybean](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.md) 
 
-### [Soybean.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.public.md) 
+### #is_/same_as :: [Soybean.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.public.md) 
 
-### [Soybean.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.internal.md) 
+### #is_/same_as :: [Soybean.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.internal.md) 
 
-### [Soybean.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.protect.md) 
+### #is_/same_as :: [Soybean.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.protect.md) 
 
-### [Soybean.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.private.md) 
+### #is_/same_as :: [Soybean.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.private.md) 
 
-### [Soybean.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.personal.md) 
+### #is_/same_as :: [Soybean.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.personal.md) 
 
-### [Soybean.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.secret.md)
+### #is_/same_as :: [Soybean.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Soybean.secret.md)
 

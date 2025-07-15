@@ -56,23 +56,19 @@ title: Aquificae
 	-   *Thermovibrio*[ (incertae sedis) ]
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aquificae](/_Standards/bio/bio~Domain/Bacteria/Aquificae.md) 
+### #is_/same_as :: [Aquificae](/_Standards/bio/bio~Domain/Bacteria/Aquificae.md) 
 
-### [Aquificae.public](/_public/bio/bio~Domain/Bacteria/Aquificae.public.md) 
+### #is_/same_as :: [Aquificae.public](/_public/bio/bio~Domain/Bacteria/Aquificae.public.md) 
 
-### [Aquificae.internal](/_internal/bio/bio~Domain/Bacteria/Aquificae.internal.md) 
+### #is_/same_as :: [Aquificae.internal](/_internal/bio/bio~Domain/Bacteria/Aquificae.internal.md) 
 
-### [Aquificae.protect](/_protect/bio/bio~Domain/Bacteria/Aquificae.protect.md) 
+### #is_/same_as :: [Aquificae.protect](/_protect/bio/bio~Domain/Bacteria/Aquificae.protect.md) 
 
-### [Aquificae.private](/_private/bio/bio~Domain/Bacteria/Aquificae.private.md) 
+### #is_/same_as :: [Aquificae.private](/_private/bio/bio~Domain/Bacteria/Aquificae.private.md) 
 
-### [Aquificae.personal](/_personal/bio/bio~Domain/Bacteria/Aquificae.personal.md) 
+### #is_/same_as :: [Aquificae.personal](/_personal/bio/bio~Domain/Bacteria/Aquificae.personal.md) 
 
-### [Aquificae.secret](/_secret/bio/bio~Domain/Bacteria/Aquificae.secret.md)
+### #is_/same_as :: [Aquificae.secret](/_secret/bio/bio~Domain/Bacteria/Aquificae.secret.md)
 

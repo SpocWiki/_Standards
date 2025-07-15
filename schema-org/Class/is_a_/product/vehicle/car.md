@@ -45,17 +45,17 @@ A car is a wheeled, self-powered motor [[../vehicle|vehicle]] used for transport
 
 ## Confidential Links & Embeds: 
 
-### [car](/_Standards/schema-org/Class/is_a_/product/vehicle/car.md) 
+### #is_/same_as :: [car](/_Standards/schema-org/Class/is_a_/product/vehicle/car.md) 
 
-### [car.public](/_public/schema-org/Class/is_a_/product/vehicle/car.public.md) 
+### #is_/same_as :: [car.public](/_public/schema-org/Class/is_a_/product/vehicle/car.public.md) 
 
-### [car.internal](/_internal/schema-org/Class/is_a_/product/vehicle/car.internal.md) 
+### #is_/same_as :: [car.internal](/_internal/schema-org/Class/is_a_/product/vehicle/car.internal.md) 
 
-### [car.protect](/_protect/schema-org/Class/is_a_/product/vehicle/car.protect.md) 
+### #is_/same_as :: [car.protect](/_protect/schema-org/Class/is_a_/product/vehicle/car.protect.md) 
 
-### [car.private](/_private/schema-org/Class/is_a_/product/vehicle/car.private.md) 
+### #is_/same_as :: [car.private](/_private/schema-org/Class/is_a_/product/vehicle/car.private.md) 
 
-### [car.personal](/_personal/schema-org/Class/is_a_/product/vehicle/car.personal.md) 
+### #is_/same_as :: [car.personal](/_personal/schema-org/Class/is_a_/product/vehicle/car.personal.md) 
 
-### [car.secret](/_secret/schema-org/Class/is_a_/product/vehicle/car.secret.md)
+### #is_/same_as :: [car.secret](/_secret/schema-org/Class/is_a_/product/vehicle/car.secret.md)
 

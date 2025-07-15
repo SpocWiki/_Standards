@@ -43,17 +43,17 @@ Level of evidence for a medical guideline. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### [medical_evidence_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
+### #is_/same_as :: [medical_evidence_level](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
 
-### [medical_evidence_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.public.md) 
+### #is_/same_as :: [medical_evidence_level.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.public.md) 
 
-### [medical_evidence_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
+### #is_/same_as :: [medical_evidence_level.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
 
-### [medical_evidence_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.protect.md) 
+### #is_/same_as :: [medical_evidence_level.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.protect.md) 
 
-### [medical_evidence_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.private.md) 
+### #is_/same_as :: [medical_evidence_level.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.private.md) 
 
-### [medical_evidence_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
+### #is_/same_as :: [medical_evidence_level.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
 
-### [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md)
+### #is_/same_as :: [medical_evidence_level.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md)
 

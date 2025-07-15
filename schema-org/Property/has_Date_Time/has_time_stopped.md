@@ -56,17 +56,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_stopped](/_Standards/schema-org/Property/has_Date_Time/has_time_stopped.md) 
+### #is_/same_as :: [has_time_stopped](/_Standards/schema-org/Property/has_Date_Time/has_time_stopped.md) 
 
-### [has_time_stopped.public](/_public/schema-org/Property/has_Date_Time/has_time_stopped.public.md) 
+### #is_/same_as :: [has_time_stopped.public](/_public/schema-org/Property/has_Date_Time/has_time_stopped.public.md) 
 
-### [has_time_stopped.internal](/_internal/schema-org/Property/has_Date_Time/has_time_stopped.internal.md) 
+### #is_/same_as :: [has_time_stopped.internal](/_internal/schema-org/Property/has_Date_Time/has_time_stopped.internal.md) 
 
-### [has_time_stopped.protect](/_protect/schema-org/Property/has_Date_Time/has_time_stopped.protect.md) 
+### #is_/same_as :: [has_time_stopped.protect](/_protect/schema-org/Property/has_Date_Time/has_time_stopped.protect.md) 
 
-### [has_time_stopped.private](/_private/schema-org/Property/has_Date_Time/has_time_stopped.private.md) 
+### #is_/same_as :: [has_time_stopped.private](/_private/schema-org/Property/has_Date_Time/has_time_stopped.private.md) 
 
-### [has_time_stopped.personal](/_personal/schema-org/Property/has_Date_Time/has_time_stopped.personal.md) 
+### #is_/same_as :: [has_time_stopped.personal](/_personal/schema-org/Property/has_Date_Time/has_time_stopped.personal.md) 
 
-### [has_time_stopped.secret](/_secret/schema-org/Property/has_Date_Time/has_time_stopped.secret.md)
+### #is_/same_as :: [has_time_stopped.secret](/_secret/schema-org/Property/has_Date_Time/has_time_stopped.secret.md)
 

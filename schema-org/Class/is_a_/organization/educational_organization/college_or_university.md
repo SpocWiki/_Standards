@@ -45,17 +45,17 @@ A college, university, or other third-level educational institution.
 
 ## Confidential Links & Embeds: 
 
-### [college_or_university](/_Standards/schema-org/Class/is_a_/organization/educational_organization/college_or_university.md) 
+### #is_/same_as :: [college_or_university](/_Standards/schema-org/Class/is_a_/organization/educational_organization/college_or_university.md) 
 
-### [college_or_university.public](/_public/schema-org/Class/is_a_/organization/educational_organization/college_or_university.public.md) 
+### #is_/same_as :: [college_or_university.public](/_public/schema-org/Class/is_a_/organization/educational_organization/college_or_university.public.md) 
 
-### [college_or_university.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/college_or_university.internal.md) 
+### #is_/same_as :: [college_or_university.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/college_or_university.internal.md) 
 
-### [college_or_university.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/college_or_university.protect.md) 
+### #is_/same_as :: [college_or_university.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/college_or_university.protect.md) 
 
-### [college_or_university.private](/_private/schema-org/Class/is_a_/organization/educational_organization/college_or_university.private.md) 
+### #is_/same_as :: [college_or_university.private](/_private/schema-org/Class/is_a_/organization/educational_organization/college_or_university.private.md) 
 
-### [college_or_university.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/college_or_university.personal.md) 
+### #is_/same_as :: [college_or_university.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/college_or_university.personal.md) 
 
-### [college_or_university.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/college_or_university.secret.md)
+### #is_/same_as :: [college_or_university.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/college_or_university.secret.md)
 

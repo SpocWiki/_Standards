@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_adverse_outcome](/_Standards/schema-org/Relation/has/has_adverse_outcome.md) 
+### #is_/same_as :: [has_adverse_outcome](/_Standards/schema-org/Relation/has/has_adverse_outcome.md) 
 
-### [has_adverse_outcome.public](/_public/schema-org/Relation/has/has_adverse_outcome.public.md) 
+### #is_/same_as :: [has_adverse_outcome.public](/_public/schema-org/Relation/has/has_adverse_outcome.public.md) 
 
-### [has_adverse_outcome.internal](/_internal/schema-org/Relation/has/has_adverse_outcome.internal.md) 
+### #is_/same_as :: [has_adverse_outcome.internal](/_internal/schema-org/Relation/has/has_adverse_outcome.internal.md) 
 
-### [has_adverse_outcome.protect](/_protect/schema-org/Relation/has/has_adverse_outcome.protect.md) 
+### #is_/same_as :: [has_adverse_outcome.protect](/_protect/schema-org/Relation/has/has_adverse_outcome.protect.md) 
 
-### [has_adverse_outcome.private](/_private/schema-org/Relation/has/has_adverse_outcome.private.md) 
+### #is_/same_as :: [has_adverse_outcome.private](/_private/schema-org/Relation/has/has_adverse_outcome.private.md) 
 
-### [has_adverse_outcome.personal](/_personal/schema-org/Relation/has/has_adverse_outcome.personal.md) 
+### #is_/same_as :: [has_adverse_outcome.personal](/_personal/schema-org/Relation/has/has_adverse_outcome.personal.md) 
 
-### [has_adverse_outcome.secret](/_secret/schema-org/Relation/has/has_adverse_outcome.secret.md)
+### #is_/same_as :: [has_adverse_outcome.secret](/_secret/schema-org/Relation/has/has_adverse_outcome.secret.md)
 

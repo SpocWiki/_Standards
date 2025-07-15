@@ -138,17 +138,17 @@ Repressiv:
 
 ## Confidential Links & Embeds: 
 
-### [USSR](/_Standards/Earth/Continent/Asia/USSR.md) 
+### #is_/same_as :: [USSR](/_Standards/Earth/Continent/Asia/USSR.md) 
 
-### [USSR.public](/_public/Earth/Continent/Asia/USSR.public.md) 
+### #is_/same_as :: [USSR.public](/_public/Earth/Continent/Asia/USSR.public.md) 
 
-### [USSR.internal](/_internal/Earth/Continent/Asia/USSR.internal.md) 
+### #is_/same_as :: [USSR.internal](/_internal/Earth/Continent/Asia/USSR.internal.md) 
 
-### [USSR.protect](/_protect/Earth/Continent/Asia/USSR.protect.md) 
+### #is_/same_as :: [USSR.protect](/_protect/Earth/Continent/Asia/USSR.protect.md) 
 
-### [USSR.private](/_private/Earth/Continent/Asia/USSR.private.md) 
+### #is_/same_as :: [USSR.private](/_private/Earth/Continent/Asia/USSR.private.md) 
 
-### [USSR.personal](/_personal/Earth/Continent/Asia/USSR.personal.md) 
+### #is_/same_as :: [USSR.personal](/_personal/Earth/Continent/Asia/USSR.personal.md) 
 
-### [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md)
+### #is_/same_as :: [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md)
 

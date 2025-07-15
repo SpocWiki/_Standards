@@ -35,17 +35,17 @@ An agent bookmarks/flags/labels/tags/marks an object.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BookmarkAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.md) 
+### #is_/same_as :: [FileClass~BookmarkAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.md) 
 
-### [FileClass~BookmarkAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.public.md) 
+### #is_/same_as :: [FileClass~BookmarkAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.public.md) 
 
-### [FileClass~BookmarkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.internal.md) 
+### #is_/same_as :: [FileClass~BookmarkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.internal.md) 
 
-### [FileClass~BookmarkAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.protect.md) 
+### #is_/same_as :: [FileClass~BookmarkAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.protect.md) 
 
-### [FileClass~BookmarkAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.private.md) 
+### #is_/same_as :: [FileClass~BookmarkAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.private.md) 
 
-### [FileClass~BookmarkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.personal.md) 
+### #is_/same_as :: [FileClass~BookmarkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.personal.md) 
 
-### [FileClass~BookmarkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.secret.md)
+### #is_/same_as :: [FileClass~BookmarkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~BookmarkAction.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_contributor](/_Standards/schema-org/Relation/has/has_contributor.md) 
+### #is_/same_as :: [has_contributor](/_Standards/schema-org/Relation/has/has_contributor.md) 
 
-### [has_contributor.public](/_public/schema-org/Relation/has/has_contributor.public.md) 
+### #is_/same_as :: [has_contributor.public](/_public/schema-org/Relation/has/has_contributor.public.md) 
 
-### [has_contributor.internal](/_internal/schema-org/Relation/has/has_contributor.internal.md) 
+### #is_/same_as :: [has_contributor.internal](/_internal/schema-org/Relation/has/has_contributor.internal.md) 
 
-### [has_contributor.protect](/_protect/schema-org/Relation/has/has_contributor.protect.md) 
+### #is_/same_as :: [has_contributor.protect](/_protect/schema-org/Relation/has/has_contributor.protect.md) 
 
-### [has_contributor.private](/_private/schema-org/Relation/has/has_contributor.private.md) 
+### #is_/same_as :: [has_contributor.private](/_private/schema-org/Relation/has/has_contributor.private.md) 
 
-### [has_contributor.personal](/_personal/schema-org/Relation/has/has_contributor.personal.md) 
+### #is_/same_as :: [has_contributor.personal](/_personal/schema-org/Relation/has/has_contributor.personal.md) 
 
-### [has_contributor.secret](/_secret/schema-org/Relation/has/has_contributor.secret.md)
+### #is_/same_as :: [has_contributor.secret](/_secret/schema-org/Relation/has/has_contributor.secret.md)
 

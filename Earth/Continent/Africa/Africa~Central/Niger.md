@@ -472,17 +472,17 @@ Capital :: [[Niamey]]
 
 ## Confidential Links & Embeds: 
 
-### [Niger](/_Standards/Earth/Continent/Africa/Africa~Central/Niger.md) 
+### #is_/same_as :: [Niger](/_Standards/Earth/Continent/Africa/Africa~Central/Niger.md) 
 
-### [Niger.public](/_public/Earth/Continent/Africa/Africa~Central/Niger.public.md) 
+### #is_/same_as :: [Niger.public](/_public/Earth/Continent/Africa/Africa~Central/Niger.public.md) 
 
-### [Niger.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal.md) 
+### #is_/same_as :: [Niger.internal](/_internal/Earth/Continent/Africa/Africa~Central/Niger.internal.md) 
 
-### [Niger.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger.protect.md) 
+### #is_/same_as :: [Niger.protect](/_protect/Earth/Continent/Africa/Africa~Central/Niger.protect.md) 
 
-### [Niger.private](/_private/Earth/Continent/Africa/Africa~Central/Niger.private.md) 
+### #is_/same_as :: [Niger.private](/_private/Earth/Continent/Africa/Africa~Central/Niger.private.md) 
 
-### [Niger.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal.md) 
+### #is_/same_as :: [Niger.personal](/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal.md) 
 
-### [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret.md)
+### #is_/same_as :: [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret.md)
 

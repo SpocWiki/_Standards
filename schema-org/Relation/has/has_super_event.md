@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_super_event](/_Standards/schema-org/Relation/has/has_super_event.md) 
+### #is_/same_as :: [has_super_event](/_Standards/schema-org/Relation/has/has_super_event.md) 
 
-### [has_super_event.public](/_public/schema-org/Relation/has/has_super_event.public.md) 
+### #is_/same_as :: [has_super_event.public](/_public/schema-org/Relation/has/has_super_event.public.md) 
 
-### [has_super_event.internal](/_internal/schema-org/Relation/has/has_super_event.internal.md) 
+### #is_/same_as :: [has_super_event.internal](/_internal/schema-org/Relation/has/has_super_event.internal.md) 
 
-### [has_super_event.protect](/_protect/schema-org/Relation/has/has_super_event.protect.md) 
+### #is_/same_as :: [has_super_event.protect](/_protect/schema-org/Relation/has/has_super_event.protect.md) 
 
-### [has_super_event.private](/_private/schema-org/Relation/has/has_super_event.private.md) 
+### #is_/same_as :: [has_super_event.private](/_private/schema-org/Relation/has/has_super_event.private.md) 
 
-### [has_super_event.personal](/_personal/schema-org/Relation/has/has_super_event.personal.md) 
+### #is_/same_as :: [has_super_event.personal](/_personal/schema-org/Relation/has/has_super_event.personal.md) 
 
-### [has_super_event.secret](/_secret/schema-org/Relation/has/has_super_event.secret.md)
+### #is_/same_as :: [has_super_event.secret](/_secret/schema-org/Relation/has/has_super_event.secret.md)
 

@@ -51,17 +51,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_mileage_from_odometer](/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer](/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.md) 
 
-### [has_value_for_mileage_from_odometer.public](/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.public.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer.public](/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.public.md) 
 
-### [has_value_for_mileage_from_odometer.internal](/_internal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.internal.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer.internal](/_internal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.internal.md) 
 
-### [has_value_for_mileage_from_odometer.protect](/_protect/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.protect.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer.protect](/_protect/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.protect.md) 
 
-### [has_value_for_mileage_from_odometer.private](/_private/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.private.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer.private](/_private/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.private.md) 
 
-### [has_value_for_mileage_from_odometer.personal](/_personal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.personal.md) 
+### #is_/same_as :: [has_value_for_mileage_from_odometer.personal](/_personal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.personal.md) 
 
-### [has_value_for_mileage_from_odometer.secret](/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret.md)
+### #is_/same_as :: [has_value_for_mileage_from_odometer.secret](/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret.md)
 

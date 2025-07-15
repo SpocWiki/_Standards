@@ -225,21 +225,19 @@ Weakness leads to Dishonesty and Resentment when Goals are denied.
 #is_/similar_to :: [[Nice_Guy]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nietzsche,Friedrich](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.md) 
+### #is_/same_as :: [Nietzsche,Friedrich](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.md) 
 
-### [Nietzsche,Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.public.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.public.md) 
 
-### [Nietzsche,Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.internal.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.internal.md) 
 
-### [Nietzsche,Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.protect.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.protect.md) 
 
-### [Nietzsche,Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.private.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.private.md) 
 
-### [Nietzsche,Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.personal.md) 
+### #is_/same_as :: [Nietzsche,Friedrich.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.personal.md) 
 
-### [Nietzsche,Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.secret.md)
+### #is_/same_as :: [Nietzsche,Friedrich.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Nietzsche,Friedrich.secret.md)
 

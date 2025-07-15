@@ -36,22 +36,19 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/SIMFONIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphony) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Symphony](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.md) 
+### #is_/same_as :: [Symphony](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.md) 
 
-### [Symphony.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.public.md) 
+### #is_/same_as :: [Symphony.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.public.md) 
 
-### [Symphony.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.internal.md) 
+### #is_/same_as :: [Symphony.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.internal.md) 
 
-### [Symphony.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.protect.md) 
+### #is_/same_as :: [Symphony.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.protect.md) 
 
-### [Symphony.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.private.md) 
+### #is_/same_as :: [Symphony.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.private.md) 
 
-### [Symphony.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.personal.md) 
+### #is_/same_as :: [Symphony.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.personal.md) 
 
-### [Symphony.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.secret.md)
+### #is_/same_as :: [Symphony.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.secret.md)
 

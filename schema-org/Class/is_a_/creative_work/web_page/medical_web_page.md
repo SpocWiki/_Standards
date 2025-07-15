@@ -45,17 +45,17 @@ A web page that provides medical information.
 
 ## Confidential Links & Embeds: 
 
-### [medical_web_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.md) 
+### #is_/same_as :: [medical_web_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.md) 
 
-### [medical_web_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.public.md) 
+### #is_/same_as :: [medical_web_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.public.md) 
 
-### [medical_web_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.internal.md) 
+### #is_/same_as :: [medical_web_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.internal.md) 
 
-### [medical_web_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.protect.md) 
+### #is_/same_as :: [medical_web_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.protect.md) 
 
-### [medical_web_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.private.md) 
+### #is_/same_as :: [medical_web_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.private.md) 
 
-### [medical_web_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.personal.md) 
+### #is_/same_as :: [medical_web_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.personal.md) 
 
-### [medical_web_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.secret.md)
+### #is_/same_as :: [medical_web_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/medical_web_page.secret.md)
 

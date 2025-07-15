@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_part_of_invoice](/_Standards/schema-org/Relation/is/part_of/is_part_of_invoice.md) 
+### #is_/same_as :: [is_part_of_invoice](/_Standards/schema-org/Relation/is/part_of/is_part_of_invoice.md) 
 
-### [is_part_of_invoice.public](/_public/schema-org/Relation/is/part_of/is_part_of_invoice.public.md) 
+### #is_/same_as :: [is_part_of_invoice.public](/_public/schema-org/Relation/is/part_of/is_part_of_invoice.public.md) 
 
-### [is_part_of_invoice.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal.md) 
+### #is_/same_as :: [is_part_of_invoice.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal.md) 
 
-### [is_part_of_invoice.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_invoice.protect.md) 
+### #is_/same_as :: [is_part_of_invoice.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_invoice.protect.md) 
 
-### [is_part_of_invoice.private](/_private/schema-org/Relation/is/part_of/is_part_of_invoice.private.md) 
+### #is_/same_as :: [is_part_of_invoice.private](/_private/schema-org/Relation/is/part_of/is_part_of_invoice.private.md) 
 
-### [is_part_of_invoice.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal.md) 
+### #is_/same_as :: [is_part_of_invoice.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal.md) 
 
-### [is_part_of_invoice.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret.md)
+### #is_/same_as :: [is_part_of_invoice.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret.md)
 

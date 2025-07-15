@@ -134,17 +134,17 @@ Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Episode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.md) 
+### #is_/same_as :: [FileClass~Episode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.md) 
 
-### [FileClass~Episode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.public.md) 
+### #is_/same_as :: [FileClass~Episode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.public.md) 
 
-### [FileClass~Episode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.internal.md) 
+### #is_/same_as :: [FileClass~Episode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.internal.md) 
 
-### [FileClass~Episode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.protect.md) 
+### #is_/same_as :: [FileClass~Episode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.protect.md) 
 
-### [FileClass~Episode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.private.md) 
+### #is_/same_as :: [FileClass~Episode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.private.md) 
 
-### [FileClass~Episode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.personal.md) 
+### #is_/same_as :: [FileClass~Episode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.personal.md) 
 
-### [FileClass~Episode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.secret.md)
+### #is_/same_as :: [FileClass~Episode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode.secret.md)
 

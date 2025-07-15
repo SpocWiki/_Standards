@@ -92,17 +92,17 @@ UNII: AU0V1LM3JT
 
 ## Confidential Links & Embeds: 
 
-### [Gadolinium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.md) 
+### #is_/same_as :: [Gadolinium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.md) 
 
-### [Gadolinium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.public.md) 
+### #is_/same_as :: [Gadolinium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.public.md) 
 
-### [Gadolinium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.internal.md) 
+### #is_/same_as :: [Gadolinium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.internal.md) 
 
-### [Gadolinium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.protect.md) 
+### #is_/same_as :: [Gadolinium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.protect.md) 
 
-### [Gadolinium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.private.md) 
+### #is_/same_as :: [Gadolinium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.private.md) 
 
-### [Gadolinium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.personal.md) 
+### #is_/same_as :: [Gadolinium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.personal.md) 
 
-### [Gadolinium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.secret.md)
+### #is_/same_as :: [Gadolinium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Gadolinium.secret.md)
 

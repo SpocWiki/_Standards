@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_of_unit](/_Standards/schema-org/Property/has_name/has_code_of_unit.md) 
+### #is_/same_as :: [has_code_of_unit](/_Standards/schema-org/Property/has_name/has_code_of_unit.md) 
 
-### [has_code_of_unit.public](/_public/schema-org/Property/has_name/has_code_of_unit.public.md) 
+### #is_/same_as :: [has_code_of_unit.public](/_public/schema-org/Property/has_name/has_code_of_unit.public.md) 
 
-### [has_code_of_unit.internal](/_internal/schema-org/Property/has_name/has_code_of_unit.internal.md) 
+### #is_/same_as :: [has_code_of_unit.internal](/_internal/schema-org/Property/has_name/has_code_of_unit.internal.md) 
 
-### [has_code_of_unit.protect](/_protect/schema-org/Property/has_name/has_code_of_unit.protect.md) 
+### #is_/same_as :: [has_code_of_unit.protect](/_protect/schema-org/Property/has_name/has_code_of_unit.protect.md) 
 
-### [has_code_of_unit.private](/_private/schema-org/Property/has_name/has_code_of_unit.private.md) 
+### #is_/same_as :: [has_code_of_unit.private](/_private/schema-org/Property/has_name/has_code_of_unit.private.md) 
 
-### [has_code_of_unit.personal](/_personal/schema-org/Property/has_name/has_code_of_unit.personal.md) 
+### #is_/same_as :: [has_code_of_unit.personal](/_personal/schema-org/Property/has_name/has_code_of_unit.personal.md) 
 
-### [has_code_of_unit.secret](/_secret/schema-org/Property/has_name/has_code_of_unit.secret.md)
+### #is_/same_as :: [has_code_of_unit.secret](/_secret/schema-org/Property/has_name/has_code_of_unit.secret.md)
 

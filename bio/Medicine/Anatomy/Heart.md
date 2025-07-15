@@ -16,24 +16,19 @@ has_id_wikidata: Q1072
 > [Wikipedia](https://en.wikipedia.org/wiki/Heart)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Heart](/_Standards/bio/Medicine/Anatomy/Heart.md) 
+### #is_/same_as :: [Heart](/_Standards/bio/Medicine/Anatomy/Heart.md) 
 
-### [Heart.public](/_public/bio/Medicine/Anatomy/Heart.public.md) 
+### #is_/same_as :: [Heart.public](/_public/bio/Medicine/Anatomy/Heart.public.md) 
 
-### [Heart.internal](/_internal/bio/Medicine/Anatomy/Heart.internal.md) 
+### #is_/same_as :: [Heart.internal](/_internal/bio/Medicine/Anatomy/Heart.internal.md) 
 
-### [Heart.protect](/_protect/bio/Medicine/Anatomy/Heart.protect.md) 
+### #is_/same_as :: [Heart.protect](/_protect/bio/Medicine/Anatomy/Heart.protect.md) 
 
-### [Heart.private](/_private/bio/Medicine/Anatomy/Heart.private.md) 
+### #is_/same_as :: [Heart.private](/_private/bio/Medicine/Anatomy/Heart.private.md) 
 
-### [Heart.personal](/_personal/bio/Medicine/Anatomy/Heart.personal.md) 
+### #is_/same_as :: [Heart.personal](/_personal/bio/Medicine/Anatomy/Heart.personal.md) 
 
-### [Heart.secret](/_secret/bio/Medicine/Anatomy/Heart.secret.md)
+### #is_/same_as :: [Heart.secret](/_secret/bio/Medicine/Anatomy/Heart.secret.md)
 

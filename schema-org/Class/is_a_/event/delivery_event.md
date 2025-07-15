@@ -45,17 +45,17 @@ An event involving the delivery of an item.
 
 ## Confidential Links & Embeds: 
 
-### [delivery_event](/_Standards/schema-org/Class/is_a_/event/delivery_event.md) 
+### #is_/same_as :: [delivery_event](/_Standards/schema-org/Class/is_a_/event/delivery_event.md) 
 
-### [delivery_event.public](/_public/schema-org/Class/is_a_/event/delivery_event.public.md) 
+### #is_/same_as :: [delivery_event.public](/_public/schema-org/Class/is_a_/event/delivery_event.public.md) 
 
-### [delivery_event.internal](/_internal/schema-org/Class/is_a_/event/delivery_event.internal.md) 
+### #is_/same_as :: [delivery_event.internal](/_internal/schema-org/Class/is_a_/event/delivery_event.internal.md) 
 
-### [delivery_event.protect](/_protect/schema-org/Class/is_a_/event/delivery_event.protect.md) 
+### #is_/same_as :: [delivery_event.protect](/_protect/schema-org/Class/is_a_/event/delivery_event.protect.md) 
 
-### [delivery_event.private](/_private/schema-org/Class/is_a_/event/delivery_event.private.md) 
+### #is_/same_as :: [delivery_event.private](/_private/schema-org/Class/is_a_/event/delivery_event.private.md) 
 
-### [delivery_event.personal](/_personal/schema-org/Class/is_a_/event/delivery_event.personal.md) 
+### #is_/same_as :: [delivery_event.personal](/_personal/schema-org/Class/is_a_/event/delivery_event.personal.md) 
 
-### [delivery_event.secret](/_secret/schema-org/Class/is_a_/event/delivery_event.secret.md)
+### #is_/same_as :: [delivery_event.secret](/_secret/schema-org/Class/is_a_/event/delivery_event.secret.md)
 

@@ -180,17 +180,17 @@ InChIKey: RYGMFSIKBFXOCR-UHFFFAOYSA-N
 
 ## Confidential Links & Embeds: 
 
-### [Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper/Copper.md) 
+### #is_/same_as :: [Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper/Copper.md) 
 
-### [Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper/Copper.public.md) 
+### #is_/same_as :: [Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper/Copper.public.md) 
 
-### [Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Copper.internal.md) 
+### #is_/same_as :: [Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Copper.internal.md) 
 
-### [Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Copper.protect.md) 
+### #is_/same_as :: [Copper.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Copper.protect.md) 
 
-### [Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper/Copper.private.md) 
+### #is_/same_as :: [Copper.private](/_private/chemic/chemic~Elements/Group-11-Copper/Copper.private.md) 
 
-### [Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Copper.personal.md) 
+### #is_/same_as :: [Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Copper.personal.md) 
 
-### [Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Copper.secret.md)
+### #is_/same_as :: [Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Copper.secret.md)
 

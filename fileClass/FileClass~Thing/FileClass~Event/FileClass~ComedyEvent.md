@@ -35,17 +35,17 @@ Event type: Comedy event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComedyEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.md) 
+### #is_/same_as :: [FileClass~ComedyEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.md) 
 
-### [FileClass~ComedyEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.public.md) 
+### #is_/same_as :: [FileClass~ComedyEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.public.md) 
 
-### [FileClass~ComedyEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.internal.md) 
+### #is_/same_as :: [FileClass~ComedyEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.internal.md) 
 
-### [FileClass~ComedyEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.protect.md) 
+### #is_/same_as :: [FileClass~ComedyEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.protect.md) 
 
-### [FileClass~ComedyEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.private.md) 
+### #is_/same_as :: [FileClass~ComedyEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.private.md) 
 
-### [FileClass~ComedyEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.personal.md) 
+### #is_/same_as :: [FileClass~ComedyEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.personal.md) 
 
-### [FileClass~ComedyEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.secret.md)
+### #is_/same_as :: [FileClass~ComedyEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ComedyEvent.secret.md)
 

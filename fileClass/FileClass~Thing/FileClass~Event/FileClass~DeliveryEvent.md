@@ -74,17 +74,17 @@ HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DeliveryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.md) 
 
-### [FileClass~DeliveryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.public.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.public.md) 
 
-### [FileClass~DeliveryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.internal.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.internal.md) 
 
-### [FileClass~DeliveryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.protect.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.protect.md) 
 
-### [FileClass~DeliveryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.private.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.private.md) 
 
-### [FileClass~DeliveryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.personal.md) 
+### #is_/same_as :: [FileClass~DeliveryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.personal.md) 
 
-### [FileClass~DeliveryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret.md)
+### #is_/same_as :: [FileClass~DeliveryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret.md)
 

@@ -35,17 +35,17 @@ The act of producing a visual/graphical representation of an object, typically w
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrawAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.md) 
+### #is_/same_as :: [FileClass~DrawAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.md) 
 
-### [FileClass~DrawAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.public.md) 
+### #is_/same_as :: [FileClass~DrawAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.public.md) 
 
-### [FileClass~DrawAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.internal.md) 
+### #is_/same_as :: [FileClass~DrawAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.internal.md) 
 
-### [FileClass~DrawAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.protect.md) 
+### #is_/same_as :: [FileClass~DrawAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.protect.md) 
 
-### [FileClass~DrawAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.private.md) 
+### #is_/same_as :: [FileClass~DrawAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.private.md) 
 
-### [FileClass~DrawAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.personal.md) 
+### #is_/same_as :: [FileClass~DrawAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.personal.md) 
 
-### [FileClass~DrawAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.secret.md)
+### #is_/same_as :: [FileClass~DrawAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~DrawAction.secret.md)
 

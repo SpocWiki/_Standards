@@ -174,21 +174,19 @@ Scientific Name ::     Entosiphon sulcatum (Euglenozoa)
   Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Protist](/_Standards/bio/bio~Domain/Eukaryotes/Protist.md) 
+### #is_/same_as :: [Protist](/_Standards/bio/bio~Domain/Eukaryotes/Protist.md) 
 
-### [Protist.public](/_public/bio/bio~Domain/Eukaryotes/Protist.public.md) 
+### #is_/same_as :: [Protist.public](/_public/bio/bio~Domain/Eukaryotes/Protist.public.md) 
 
-### [Protist.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist.internal.md) 
+### #is_/same_as :: [Protist.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist.internal.md) 
 
-### [Protist.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist.protect.md) 
+### #is_/same_as :: [Protist.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist.protect.md) 
 
-### [Protist.private](/_private/bio/bio~Domain/Eukaryotes/Protist.private.md) 
+### #is_/same_as :: [Protist.private](/_private/bio/bio~Domain/Eukaryotes/Protist.private.md) 
 
-### [Protist.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist.personal.md) 
+### #is_/same_as :: [Protist.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist.personal.md) 
 
-### [Protist.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist.secret.md)
+### #is_/same_as :: [Protist.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist.secret.md)
 

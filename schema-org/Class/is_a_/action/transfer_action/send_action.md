@@ -50,17 +50,17 @@ The act of physically/electronically dispatching an object for transfer from an 
 
 ## Confidential Links & Embeds: 
 
-### [send_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/send_action.md) 
+### #is_/same_as :: [send_action](/_Standards/schema-org/Class/is_a_/action/transfer_action/send_action.md) 
 
-### [send_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/send_action.public.md) 
+### #is_/same_as :: [send_action.public](/_public/schema-org/Class/is_a_/action/transfer_action/send_action.public.md) 
 
-### [send_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/send_action.internal.md) 
+### #is_/same_as :: [send_action.internal](/_internal/schema-org/Class/is_a_/action/transfer_action/send_action.internal.md) 
 
-### [send_action.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/send_action.protect.md) 
+### #is_/same_as :: [send_action.protect](/_protect/schema-org/Class/is_a_/action/transfer_action/send_action.protect.md) 
 
-### [send_action.private](/_private/schema-org/Class/is_a_/action/transfer_action/send_action.private.md) 
+### #is_/same_as :: [send_action.private](/_private/schema-org/Class/is_a_/action/transfer_action/send_action.private.md) 
 
-### [send_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/send_action.personal.md) 
+### #is_/same_as :: [send_action.personal](/_personal/schema-org/Class/is_a_/action/transfer_action/send_action.personal.md) 
 
-### [send_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/send_action.secret.md)
+### #is_/same_as :: [send_action.secret](/_secret/schema-org/Class/is_a_/action/transfer_action/send_action.secret.md)
 

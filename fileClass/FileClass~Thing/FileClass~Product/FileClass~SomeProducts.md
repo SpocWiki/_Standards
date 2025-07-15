@@ -46,17 +46,17 @@ InventoryLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SomeProducts](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.md) 
+### #is_/same_as :: [FileClass~SomeProducts](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.md) 
 
-### [FileClass~SomeProducts.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.public.md) 
+### #is_/same_as :: [FileClass~SomeProducts.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.public.md) 
 
-### [FileClass~SomeProducts.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.internal.md) 
+### #is_/same_as :: [FileClass~SomeProducts.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.internal.md) 
 
-### [FileClass~SomeProducts.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.protect.md) 
+### #is_/same_as :: [FileClass~SomeProducts.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.protect.md) 
 
-### [FileClass~SomeProducts.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.private.md) 
+### #is_/same_as :: [FileClass~SomeProducts.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.private.md) 
 
-### [FileClass~SomeProducts.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.personal.md) 
+### #is_/same_as :: [FileClass~SomeProducts.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.personal.md) 
 
-### [FileClass~SomeProducts.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.secret.md)
+### #is_/same_as :: [FileClass~SomeProducts.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.secret.md)
 

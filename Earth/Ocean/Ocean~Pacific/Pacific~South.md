@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Pacific~South](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~South.md) 
+### #is_/same_as :: [Pacific~South](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~South.md) 
 
-### [Pacific~South.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.public.md) 
+### #is_/same_as :: [Pacific~South.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.public.md) 
 
-### [Pacific~South.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~South.internal.md) 
+### #is_/same_as :: [Pacific~South.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~South.internal.md) 
 
-### [Pacific~South.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~South.protect.md) 
+### #is_/same_as :: [Pacific~South.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~South.protect.md) 
 
-### [Pacific~South.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~South.private.md) 
+### #is_/same_as :: [Pacific~South.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~South.private.md) 
 
-### [Pacific~South.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~South.personal.md) 
+### #is_/same_as :: [Pacific~South.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~South.personal.md) 
 
-### [Pacific~South.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret.md)
+### #is_/same_as :: [Pacific~South.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret.md)
 

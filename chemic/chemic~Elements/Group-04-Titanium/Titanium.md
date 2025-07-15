@@ -165,17 +165,17 @@ ZVG_number: 8170
 
 ## Confidential Links & Embeds: 
 
-### [Titanium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Titanium.md) 
+### #is_/same_as :: [Titanium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Titanium.md) 
 
-### [Titanium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Titanium.public.md) 
+### #is_/same_as :: [Titanium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Titanium.public.md) 
 
-### [Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Titanium.internal.md) 
+### #is_/same_as :: [Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Titanium.internal.md) 
 
-### [Titanium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Titanium.protect.md) 
+### #is_/same_as :: [Titanium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Titanium.protect.md) 
 
-### [Titanium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Titanium.private.md) 
+### #is_/same_as :: [Titanium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Titanium.private.md) 
 
-### [Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Titanium.personal.md) 
+### #is_/same_as :: [Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Titanium.personal.md) 
 
-### [Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Titanium.secret.md)
+### #is_/same_as :: [Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Titanium.secret.md)
 

@@ -47,17 +47,17 @@ Any medical test, typically performed for diagnostic purposes.
 
 ## Confidential Links & Embeds: 
 
-### [medical_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test.md) 
+### #is_/same_as :: [medical_test](/_Standards/schema-org/Class/is_a_/medical_entity/medical_test.md) 
 
-### [medical_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test.public.md) 
+### #is_/same_as :: [medical_test.public](/_public/schema-org/Class/is_a_/medical_entity/medical_test.public.md) 
 
-### [medical_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test.internal.md) 
+### #is_/same_as :: [medical_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test.internal.md) 
 
-### [medical_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test.protect.md) 
+### #is_/same_as :: [medical_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test.protect.md) 
 
-### [medical_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test.private.md) 
+### #is_/same_as :: [medical_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test.private.md) 
 
-### [medical_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test.personal.md) 
+### #is_/same_as :: [medical_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test.personal.md) 
 
-### [medical_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test.secret.md)
+### #is_/same_as :: [medical_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test.secret.md)
 

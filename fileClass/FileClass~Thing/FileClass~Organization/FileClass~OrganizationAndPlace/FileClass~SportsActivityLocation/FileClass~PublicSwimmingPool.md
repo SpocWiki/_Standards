@@ -35,17 +35,17 @@ A public swimming pool.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PublicSwimmingPool](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.md) 
 
-### [FileClass~PublicSwimmingPool.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.public.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.public.md) 
 
-### [FileClass~PublicSwimmingPool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.internal.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.internal.md) 
 
-### [FileClass~PublicSwimmingPool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.protect.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.protect.md) 
 
-### [FileClass~PublicSwimmingPool.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.private.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.private.md) 
 
-### [FileClass~PublicSwimmingPool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.personal.md) 
+### #is_/same_as :: [FileClass~PublicSwimmingPool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.personal.md) 
 
-### [FileClass~PublicSwimmingPool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.secret.md)
+### #is_/same_as :: [FileClass~PublicSwimmingPool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~PublicSwimmingPool.secret.md)
 

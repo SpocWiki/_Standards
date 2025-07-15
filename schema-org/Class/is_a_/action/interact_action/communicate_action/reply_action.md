@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [reply_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.md) 
+### #is_/same_as :: [reply_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.md) 
 
-### [reply_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.public.md) 
+### #is_/same_as :: [reply_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.public.md) 
 
-### [reply_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.internal.md) 
+### #is_/same_as :: [reply_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.internal.md) 
 
-### [reply_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.protect.md) 
+### #is_/same_as :: [reply_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.protect.md) 
 
-### [reply_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.private.md) 
+### #is_/same_as :: [reply_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.private.md) 
 
-### [reply_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.personal.md) 
+### #is_/same_as :: [reply_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.personal.md) 
 
-### [reply_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.secret.md)
+### #is_/same_as :: [reply_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.secret.md)
 

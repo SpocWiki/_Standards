@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_payment](/_Standards/schema-org/Property/has_url_for/has_url_for_payment.md) 
+### #is_/same_as :: [has_url_for_payment](/_Standards/schema-org/Property/has_url_for/has_url_for_payment.md) 
 
-### [has_url_for_payment.public](/_public/schema-org/Property/has_url_for/has_url_for_payment.public.md) 
+### #is_/same_as :: [has_url_for_payment.public](/_public/schema-org/Property/has_url_for/has_url_for_payment.public.md) 
 
-### [has_url_for_payment.internal](/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal.md) 
+### #is_/same_as :: [has_url_for_payment.internal](/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal.md) 
 
-### [has_url_for_payment.protect](/_protect/schema-org/Property/has_url_for/has_url_for_payment.protect.md) 
+### #is_/same_as :: [has_url_for_payment.protect](/_protect/schema-org/Property/has_url_for/has_url_for_payment.protect.md) 
 
-### [has_url_for_payment.private](/_private/schema-org/Property/has_url_for/has_url_for_payment.private.md) 
+### #is_/same_as :: [has_url_for_payment.private](/_private/schema-org/Property/has_url_for/has_url_for_payment.private.md) 
 
-### [has_url_for_payment.personal](/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal.md) 
+### #is_/same_as :: [has_url_for_payment.personal](/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal.md) 
 
-### [has_url_for_payment.secret](/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret.md)
+### #is_/same_as :: [has_url_for_payment.secret](/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret.md)
 

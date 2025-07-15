@@ -114,21 +114,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nautiloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.md) 
+### #is_/same_as :: [Nautiloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.md) 
 
-### [Nautiloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.public.md) 
+### #is_/same_as :: [Nautiloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.public.md) 
 
-### [Nautiloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.internal.md) 
+### #is_/same_as :: [Nautiloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.internal.md) 
 
-### [Nautiloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.protect.md) 
+### #is_/same_as :: [Nautiloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.protect.md) 
 
-### [Nautiloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.private.md) 
+### #is_/same_as :: [Nautiloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.private.md) 
 
-### [Nautiloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.personal.md) 
+### #is_/same_as :: [Nautiloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.personal.md) 
 
-### [Nautiloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.secret.md)
+### #is_/same_as :: [Nautiloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Nautiloidea.secret.md)
 

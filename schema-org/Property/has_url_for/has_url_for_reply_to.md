@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_reply_to](/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to.md) 
+### #is_/same_as :: [has_url_for_reply_to](/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to.md) 
 
-### [has_url_for_reply_to.public](/_public/schema-org/Property/has_url_for/has_url_for_reply_to.public.md) 
+### #is_/same_as :: [has_url_for_reply_to.public](/_public/schema-org/Property/has_url_for/has_url_for_reply_to.public.md) 
 
-### [has_url_for_reply_to.internal](/_internal/schema-org/Property/has_url_for/has_url_for_reply_to.internal.md) 
+### #is_/same_as :: [has_url_for_reply_to.internal](/_internal/schema-org/Property/has_url_for/has_url_for_reply_to.internal.md) 
 
-### [has_url_for_reply_to.protect](/_protect/schema-org/Property/has_url_for/has_url_for_reply_to.protect.md) 
+### #is_/same_as :: [has_url_for_reply_to.protect](/_protect/schema-org/Property/has_url_for/has_url_for_reply_to.protect.md) 
 
-### [has_url_for_reply_to.private](/_private/schema-org/Property/has_url_for/has_url_for_reply_to.private.md) 
+### #is_/same_as :: [has_url_for_reply_to.private](/_private/schema-org/Property/has_url_for/has_url_for_reply_to.private.md) 
 
-### [has_url_for_reply_to.personal](/_personal/schema-org/Property/has_url_for/has_url_for_reply_to.personal.md) 
+### #is_/same_as :: [has_url_for_reply_to.personal](/_personal/schema-org/Property/has_url_for/has_url_for_reply_to.personal.md) 
 
-### [has_url_for_reply_to.secret](/_secret/schema-org/Property/has_url_for/has_url_for_reply_to.secret.md)
+### #is_/same_as :: [has_url_for_reply_to.secret](/_secret/schema-org/Property/has_url_for/has_url_for_reply_to.secret.md)
 

@@ -39,17 +39,17 @@ The [[ReportageNewsArticle]] type is a subtype of [[NewsArticle]] representing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReportageNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.md) 
 
-### [FileClass~ReportageNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.public.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.public.md) 
 
-### [FileClass~ReportageNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.internal.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.internal.md) 
 
-### [FileClass~ReportageNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.protect.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.protect.md) 
 
-### [FileClass~ReportageNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.private.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.private.md) 
 
-### [FileClass~ReportageNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.personal.md) 
+### #is_/same_as :: [FileClass~ReportageNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.personal.md) 
 
-### [FileClass~ReportageNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.secret.md)
+### #is_/same_as :: [FileClass~ReportageNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.secret.md)
 

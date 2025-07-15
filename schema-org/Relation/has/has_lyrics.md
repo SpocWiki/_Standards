@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_lyrics](/_Standards/schema-org/Relation/has/has_lyrics.md) 
+### #is_/same_as :: [has_lyrics](/_Standards/schema-org/Relation/has/has_lyrics.md) 
 
-### [has_lyrics.public](/_public/schema-org/Relation/has/has_lyrics.public.md) 
+### #is_/same_as :: [has_lyrics.public](/_public/schema-org/Relation/has/has_lyrics.public.md) 
 
-### [has_lyrics.internal](/_internal/schema-org/Relation/has/has_lyrics.internal.md) 
+### #is_/same_as :: [has_lyrics.internal](/_internal/schema-org/Relation/has/has_lyrics.internal.md) 
 
-### [has_lyrics.protect](/_protect/schema-org/Relation/has/has_lyrics.protect.md) 
+### #is_/same_as :: [has_lyrics.protect](/_protect/schema-org/Relation/has/has_lyrics.protect.md) 
 
-### [has_lyrics.private](/_private/schema-org/Relation/has/has_lyrics.private.md) 
+### #is_/same_as :: [has_lyrics.private](/_private/schema-org/Relation/has/has_lyrics.private.md) 
 
-### [has_lyrics.personal](/_personal/schema-org/Relation/has/has_lyrics.personal.md) 
+### #is_/same_as :: [has_lyrics.personal](/_personal/schema-org/Relation/has/has_lyrics.personal.md) 
 
-### [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md)
+### #is_/same_as :: [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_structural_class](/_Standards/schema-org/Property/Texts/has_structural_class.md) 
+### #is_/same_as :: [has_structural_class](/_Standards/schema-org/Property/Texts/has_structural_class.md) 
 
-### [has_structural_class.public](/_public/schema-org/Property/Texts/has_structural_class.public.md) 
+### #is_/same_as :: [has_structural_class.public](/_public/schema-org/Property/Texts/has_structural_class.public.md) 
 
-### [has_structural_class.internal](/_internal/schema-org/Property/Texts/has_structural_class.internal.md) 
+### #is_/same_as :: [has_structural_class.internal](/_internal/schema-org/Property/Texts/has_structural_class.internal.md) 
 
-### [has_structural_class.protect](/_protect/schema-org/Property/Texts/has_structural_class.protect.md) 
+### #is_/same_as :: [has_structural_class.protect](/_protect/schema-org/Property/Texts/has_structural_class.protect.md) 
 
-### [has_structural_class.private](/_private/schema-org/Property/Texts/has_structural_class.private.md) 
+### #is_/same_as :: [has_structural_class.private](/_private/schema-org/Property/Texts/has_structural_class.private.md) 
 
-### [has_structural_class.personal](/_personal/schema-org/Property/Texts/has_structural_class.personal.md) 
+### #is_/same_as :: [has_structural_class.personal](/_personal/schema-org/Property/Texts/has_structural_class.personal.md) 
 
-### [has_structural_class.secret](/_secret/schema-org/Property/Texts/has_structural_class.secret.md)
+### #is_/same_as :: [has_structural_class.secret](/_secret/schema-org/Property/Texts/has_structural_class.secret.md)
 

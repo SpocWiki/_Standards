@@ -121,17 +121,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [6700-Bronze_Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.md) 
+### #is_/same_as :: [6700-Bronze_Age](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.md) 
 
-### [6700-Bronze_Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.public.md) 
+### #is_/same_as :: [6700-Bronze_Age.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.public.md) 
 
-### [6700-Bronze_Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.internal.md) 
+### #is_/same_as :: [6700-Bronze_Age.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.internal.md) 
 
-### [6700-Bronze_Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.protect.md) 
+### #is_/same_as :: [6700-Bronze_Age.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.protect.md) 
 
-### [6700-Bronze_Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.private.md) 
+### #is_/same_as :: [6700-Bronze_Age.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.private.md) 
 
-### [6700-Bronze_Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.personal.md) 
+### #is_/same_as :: [6700-Bronze_Age.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.personal.md) 
 
-### [6700-Bronze_Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.secret.md)
+### #is_/same_as :: [6700-Bronze_Age.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6700-Bronze_Age.secret.md)
 

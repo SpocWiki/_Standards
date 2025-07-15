@@ -45,17 +45,17 @@ A police station.
 
 ## Confidential Links & Embeds: 
 
-### [police_station](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.md) 
+### #is_/same_as :: [police_station](/_Standards/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.md) 
 
-### [police_station.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.public.md) 
+### #is_/same_as :: [police_station.public](/_public/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.public.md) 
 
-### [police_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.internal.md) 
+### #is_/same_as :: [police_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.internal.md) 
 
-### [police_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.protect.md) 
+### #is_/same_as :: [police_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.protect.md) 
 
-### [police_station.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.private.md) 
+### #is_/same_as :: [police_station.private](/_private/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.private.md) 
 
-### [police_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.personal.md) 
+### #is_/same_as :: [police_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.personal.md) 
 
-### [police_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.secret.md)
+### #is_/same_as :: [police_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/emergency_service/police_station.secret.md)
 

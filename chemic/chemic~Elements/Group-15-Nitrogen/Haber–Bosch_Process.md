@@ -233,23 +233,19 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 > [Wikipedia](https://en.wikipedia.org/wiki/Haber%20process)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Haber–Bosch_Process](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.md) 
+### #is_/same_as :: [Haber–Bosch_Process](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.md) 
 
-### [Haber–Bosch_Process.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.public.md) 
+### #is_/same_as :: [Haber–Bosch_Process.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.public.md) 
 
-### [Haber–Bosch_Process.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.internal.md) 
+### #is_/same_as :: [Haber–Bosch_Process.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.internal.md) 
 
-### [Haber–Bosch_Process.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.protect.md) 
+### #is_/same_as :: [Haber–Bosch_Process.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.protect.md) 
 
-### [Haber–Bosch_Process.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.private.md) 
+### #is_/same_as :: [Haber–Bosch_Process.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.private.md) 
 
-### [Haber–Bosch_Process.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.personal.md) 
+### #is_/same_as :: [Haber–Bosch_Process.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.personal.md) 
 
-### [Haber–Bosch_Process.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.secret.md)
+### #is_/same_as :: [Haber–Bosch_Process.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Haber–Bosch_Process.secret.md)
 

@@ -47,17 +47,17 @@ A Search and Rescue organization of some kind.
 
 ## Confidential Links & Embeds: 
 
-### [search_rescue_organization](/_Standards/schema-org/Class/is_a_/organization/search_rescue_organization.md) 
+### #is_/same_as :: [search_rescue_organization](/_Standards/schema-org/Class/is_a_/organization/search_rescue_organization.md) 
 
-### [search_rescue_organization.public](/_public/schema-org/Class/is_a_/organization/search_rescue_organization.public.md) 
+### #is_/same_as :: [search_rescue_organization.public](/_public/schema-org/Class/is_a_/organization/search_rescue_organization.public.md) 
 
-### [search_rescue_organization.internal](/_internal/schema-org/Class/is_a_/organization/search_rescue_organization.internal.md) 
+### #is_/same_as :: [search_rescue_organization.internal](/_internal/schema-org/Class/is_a_/organization/search_rescue_organization.internal.md) 
 
-### [search_rescue_organization.protect](/_protect/schema-org/Class/is_a_/organization/search_rescue_organization.protect.md) 
+### #is_/same_as :: [search_rescue_organization.protect](/_protect/schema-org/Class/is_a_/organization/search_rescue_organization.protect.md) 
 
-### [search_rescue_organization.private](/_private/schema-org/Class/is_a_/organization/search_rescue_organization.private.md) 
+### #is_/same_as :: [search_rescue_organization.private](/_private/schema-org/Class/is_a_/organization/search_rescue_organization.private.md) 
 
-### [search_rescue_organization.personal](/_personal/schema-org/Class/is_a_/organization/search_rescue_organization.personal.md) 
+### #is_/same_as :: [search_rescue_organization.personal](/_personal/schema-org/Class/is_a_/organization/search_rescue_organization.personal.md) 
 
-### [search_rescue_organization.secret](/_secret/schema-org/Class/is_a_/organization/search_rescue_organization.secret.md)
+### #is_/same_as :: [search_rescue_organization.secret](/_secret/schema-org/Class/is_a_/organization/search_rescue_organization.secret.md)
 

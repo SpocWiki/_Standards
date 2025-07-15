@@ -41,17 +41,17 @@ markerFolder: ./Anibare/
 
 ## Confidential Links & Embeds: 
 
-### [Anibare](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.md) 
+### #is_/same_as :: [Anibare](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.md) 
 
-### [Anibare.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.public.md) 
+### #is_/same_as :: [Anibare.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.public.md) 
 
-### [Anibare.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.internal.md) 
+### #is_/same_as :: [Anibare.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.internal.md) 
 
-### [Anibare.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.protect.md) 
+### #is_/same_as :: [Anibare.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.protect.md) 
 
-### [Anibare.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.private.md) 
+### #is_/same_as :: [Anibare.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.private.md) 
 
-### [Anibare.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.personal.md) 
+### #is_/same_as :: [Anibare.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.personal.md) 
 
-### [Anibare.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret.md)
+### #is_/same_as :: [Anibare.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret.md)
 

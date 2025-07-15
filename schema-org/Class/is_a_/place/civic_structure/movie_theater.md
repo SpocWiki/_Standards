@@ -45,17 +45,17 @@ A movie theater.
 
 ## Confidential Links & Embeds: 
 
-### [movie_theater](/_Standards/schema-org/Class/is_a_/place/civic_structure/movie_theater.md) 
+### #is_/same_as :: [movie_theater](/_Standards/schema-org/Class/is_a_/place/civic_structure/movie_theater.md) 
 
-### [movie_theater.public](/_public/schema-org/Class/is_a_/place/civic_structure/movie_theater.public.md) 
+### #is_/same_as :: [movie_theater.public](/_public/schema-org/Class/is_a_/place/civic_structure/movie_theater.public.md) 
 
-### [movie_theater.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/movie_theater.internal.md) 
+### #is_/same_as :: [movie_theater.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/movie_theater.internal.md) 
 
-### [movie_theater.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/movie_theater.protect.md) 
+### #is_/same_as :: [movie_theater.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/movie_theater.protect.md) 
 
-### [movie_theater.private](/_private/schema-org/Class/is_a_/place/civic_structure/movie_theater.private.md) 
+### #is_/same_as :: [movie_theater.private](/_private/schema-org/Class/is_a_/place/civic_structure/movie_theater.private.md) 
 
-### [movie_theater.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/movie_theater.personal.md) 
+### #is_/same_as :: [movie_theater.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/movie_theater.personal.md) 
 
-### [movie_theater.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/movie_theater.secret.md)
+### #is_/same_as :: [movie_theater.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/movie_theater.secret.md)
 

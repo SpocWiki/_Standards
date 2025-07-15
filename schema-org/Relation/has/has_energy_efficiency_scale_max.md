@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_energy_efficiency_scale_max](/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_max.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max](/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_max.md) 
 
-### [has_energy_efficiency_scale_max.public](/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max.public](/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public.md) 
 
-### [has_energy_efficiency_scale_max.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal.md) 
 
-### [has_energy_efficiency_scale_max.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect.md) 
 
-### [has_energy_efficiency_scale_max.private](/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max.private](/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private.md) 
 
-### [has_energy_efficiency_scale_max.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal.md) 
+### #is_/same_as :: [has_energy_efficiency_scale_max.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal.md) 
 
-### [has_energy_efficiency_scale_max.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret.md)
+### #is_/same_as :: [has_energy_efficiency_scale_max.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret.md)
 

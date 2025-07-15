@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_occupancy](/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy.md) 
+### #is_/same_as :: [has_value_for_occupancy](/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy.md) 
 
-### [has_value_for_occupancy.public](/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public.md) 
+### #is_/same_as :: [has_value_for_occupancy.public](/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public.md) 
 
-### [has_value_for_occupancy.internal](/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal.md) 
+### #is_/same_as :: [has_value_for_occupancy.internal](/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal.md) 
 
-### [has_value_for_occupancy.protect](/_protect/schema-org/Property/has_value_for/has_value_for_occupancy.protect.md) 
+### #is_/same_as :: [has_value_for_occupancy.protect](/_protect/schema-org/Property/has_value_for/has_value_for_occupancy.protect.md) 
 
-### [has_value_for_occupancy.private](/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private.md) 
+### #is_/same_as :: [has_value_for_occupancy.private](/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private.md) 
 
-### [has_value_for_occupancy.personal](/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal.md) 
+### #is_/same_as :: [has_value_for_occupancy.personal](/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal.md) 
 
-### [has_value_for_occupancy.secret](/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret.md)
+### #is_/same_as :: [has_value_for_occupancy.secret](/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret.md)
 

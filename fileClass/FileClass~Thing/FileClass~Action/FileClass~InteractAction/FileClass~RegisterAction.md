@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~RegisterAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.md) 
+### #is_/same_as :: [FileClass~RegisterAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.md) 
 
-### [FileClass~RegisterAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.public.md) 
+### #is_/same_as :: [FileClass~RegisterAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.public.md) 
 
-### [FileClass~RegisterAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.internal.md) 
+### #is_/same_as :: [FileClass~RegisterAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.internal.md) 
 
-### [FileClass~RegisterAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.protect.md) 
+### #is_/same_as :: [FileClass~RegisterAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.protect.md) 
 
-### [FileClass~RegisterAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.private.md) 
+### #is_/same_as :: [FileClass~RegisterAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.private.md) 
 
-### [FileClass~RegisterAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.personal.md) 
+### #is_/same_as :: [FileClass~RegisterAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.personal.md) 
 
-### [FileClass~RegisterAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.secret.md)
+### #is_/same_as :: [FileClass~RegisterAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~RegisterAction.secret.md)
 

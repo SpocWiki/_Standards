@@ -35,17 +35,17 @@ A shoe store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShoeStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.md) 
+### #is_/same_as :: [FileClass~ShoeStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.md) 
 
-### [FileClass~ShoeStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.public.md) 
+### #is_/same_as :: [FileClass~ShoeStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.public.md) 
 
-### [FileClass~ShoeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.internal.md) 
+### #is_/same_as :: [FileClass~ShoeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.internal.md) 
 
-### [FileClass~ShoeStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.protect.md) 
+### #is_/same_as :: [FileClass~ShoeStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.protect.md) 
 
-### [FileClass~ShoeStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.private.md) 
+### #is_/same_as :: [FileClass~ShoeStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.private.md) 
 
-### [FileClass~ShoeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.personal.md) 
+### #is_/same_as :: [FileClass~ShoeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.personal.md) 
 
-### [FileClass~ShoeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.secret.md)
+### #is_/same_as :: [FileClass~ShoeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ShoeStore.secret.md)
 

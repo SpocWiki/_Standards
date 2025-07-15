@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Cricket](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.md) 
+### #is_/same_as :: [Cricket](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.md) 
 
-### [Cricket.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.public.md) 
+### #is_/same_as :: [Cricket.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.public.md) 
 
-### [Cricket.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.internal.md) 
+### #is_/same_as :: [Cricket.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.internal.md) 
 
-### [Cricket.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.protect.md) 
+### #is_/same_as :: [Cricket.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.protect.md) 
 
-### [Cricket.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.private.md) 
+### #is_/same_as :: [Cricket.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.private.md) 
 
-### [Cricket.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.personal.md) 
+### #is_/same_as :: [Cricket.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.personal.md) 
 
-### [Cricket.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.secret.md)
+### #is_/same_as :: [Cricket.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.secret.md)
 

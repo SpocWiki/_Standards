@@ -45,17 +45,17 @@ Fitness-related activity designed for a specific health-related purpose, includi
 
 ## Confidential Links & Embeds: 
 
-### [exercise_plan](/_Standards/schema-org/Class/is_a_/creative_work/exercise_plan.md) 
+### #is_/same_as :: [exercise_plan](/_Standards/schema-org/Class/is_a_/creative_work/exercise_plan.md) 
 
-### [exercise_plan.public](/_public/schema-org/Class/is_a_/creative_work/exercise_plan.public.md) 
+### #is_/same_as :: [exercise_plan.public](/_public/schema-org/Class/is_a_/creative_work/exercise_plan.public.md) 
 
-### [exercise_plan.internal](/_internal/schema-org/Class/is_a_/creative_work/exercise_plan.internal.md) 
+### #is_/same_as :: [exercise_plan.internal](/_internal/schema-org/Class/is_a_/creative_work/exercise_plan.internal.md) 
 
-### [exercise_plan.protect](/_protect/schema-org/Class/is_a_/creative_work/exercise_plan.protect.md) 
+### #is_/same_as :: [exercise_plan.protect](/_protect/schema-org/Class/is_a_/creative_work/exercise_plan.protect.md) 
 
-### [exercise_plan.private](/_private/schema-org/Class/is_a_/creative_work/exercise_plan.private.md) 
+### #is_/same_as :: [exercise_plan.private](/_private/schema-org/Class/is_a_/creative_work/exercise_plan.private.md) 
 
-### [exercise_plan.personal](/_personal/schema-org/Class/is_a_/creative_work/exercise_plan.personal.md) 
+### #is_/same_as :: [exercise_plan.personal](/_personal/schema-org/Class/is_a_/creative_work/exercise_plan.personal.md) 
 
-### [exercise_plan.secret](/_secret/schema-org/Class/is_a_/creative_work/exercise_plan.secret.md)
+### #is_/same_as :: [exercise_plan.secret](/_secret/schema-org/Class/is_a_/creative_work/exercise_plan.secret.md)
 

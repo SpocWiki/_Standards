@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_eligibility_to_work_requirement](/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement](/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement.md) 
 
-### [has_eligibility_to_work_requirement.public](/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement.public](/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public.md) 
 
-### [has_eligibility_to_work_requirement.internal](/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement.internal](/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal.md) 
 
-### [has_eligibility_to_work_requirement.protect](/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement.protect](/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect.md) 
 
-### [has_eligibility_to_work_requirement.private](/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement.private](/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private.md) 
 
-### [has_eligibility_to_work_requirement.personal](/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal.md) 
+### #is_/same_as :: [has_eligibility_to_work_requirement.personal](/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal.md) 
 
-### [has_eligibility_to_work_requirement.secret](/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret.md)
+### #is_/same_as :: [has_eligibility_to_work_requirement.secret](/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret.md)
 

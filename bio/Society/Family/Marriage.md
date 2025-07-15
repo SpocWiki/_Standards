@@ -24,24 +24,19 @@ has_id_wikidata: Q8445
 > [Wikipedia](https://en.wikipedia.org/wiki/Marriage)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Marriage](/_Standards/bio/Society/Family/Marriage.md) 
+### #is_/same_as :: [Marriage](/_Standards/bio/Society/Family/Marriage.md) 
 
-### [Marriage.public](/_public/bio/Society/Family/Marriage.public.md) 
+### #is_/same_as :: [Marriage.public](/_public/bio/Society/Family/Marriage.public.md) 
 
-### [Marriage.internal](/_internal/bio/Society/Family/Marriage.internal.md) 
+### #is_/same_as :: [Marriage.internal](/_internal/bio/Society/Family/Marriage.internal.md) 
 
-### [Marriage.protect](/_protect/bio/Society/Family/Marriage.protect.md) 
+### #is_/same_as :: [Marriage.protect](/_protect/bio/Society/Family/Marriage.protect.md) 
 
-### [Marriage.private](/_private/bio/Society/Family/Marriage.private.md) 
+### #is_/same_as :: [Marriage.private](/_private/bio/Society/Family/Marriage.private.md) 
 
-### [Marriage.personal](/_personal/bio/Society/Family/Marriage.personal.md) 
+### #is_/same_as :: [Marriage.personal](/_personal/bio/Society/Family/Marriage.personal.md) 
 
-### [Marriage.secret](/_secret/bio/Society/Family/Marriage.secret.md)
+### #is_/same_as :: [Marriage.secret](/_secret/bio/Society/Family/Marriage.secret.md)
 

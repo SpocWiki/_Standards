@@ -59,17 +59,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_engine_power_watt](/_Standards/schema-org/Property/has_value_for/has_value_for_engine_power_watt.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt](/_Standards/schema-org/Property/has_value_for/has_value_for_engine_power_watt.md) 
 
-### [has_value_for_engine_power_watt.public](/_public/schema-org/Property/has_value_for/has_value_for_engine_power_watt.public.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt.public](/_public/schema-org/Property/has_value_for/has_value_for_engine_power_watt.public.md) 
 
-### [has_value_for_engine_power_watt.internal](/_internal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.internal.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt.internal](/_internal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.internal.md) 
 
-### [has_value_for_engine_power_watt.protect](/_protect/schema-org/Property/has_value_for/has_value_for_engine_power_watt.protect.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt.protect](/_protect/schema-org/Property/has_value_for/has_value_for_engine_power_watt.protect.md) 
 
-### [has_value_for_engine_power_watt.private](/_private/schema-org/Property/has_value_for/has_value_for_engine_power_watt.private.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt.private](/_private/schema-org/Property/has_value_for/has_value_for_engine_power_watt.private.md) 
 
-### [has_value_for_engine_power_watt.personal](/_personal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.personal.md) 
+### #is_/same_as :: [has_value_for_engine_power_watt.personal](/_personal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.personal.md) 
 
-### [has_value_for_engine_power_watt.secret](/_secret/schema-org/Property/has_value_for/has_value_for_engine_power_watt.secret.md)
+### #is_/same_as :: [has_value_for_engine_power_watt.secret](/_secret/schema-org/Property/has_value_for/has_value_for_engine_power_watt.secret.md)
 

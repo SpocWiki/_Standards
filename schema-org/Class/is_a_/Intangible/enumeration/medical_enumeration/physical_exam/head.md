@@ -47,17 +47,17 @@ Head assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [head](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.md) 
+### #is_/same_as :: [head](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.md) 
 
-### [head.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.public.md) 
+### #is_/same_as :: [head.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.public.md) 
 
-### [head.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.internal.md) 
+### #is_/same_as :: [head.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.internal.md) 
 
-### [head.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.protect.md) 
+### #is_/same_as :: [head.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.protect.md) 
 
-### [head.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.private.md) 
+### #is_/same_as :: [head.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.private.md) 
 
-### [head.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.personal.md) 
+### #is_/same_as :: [head.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.personal.md) 
 
-### [head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.secret.md)
+### #is_/same_as :: [head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.secret.md)
 

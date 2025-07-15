@@ -145,24 +145,19 @@ influenced_by:
 > [Wikipedia](https://en.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Márquez,Gabriel_García](/_Standards/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.md) 
+### #is_/same_as :: [Márquez,Gabriel_García](/_Standards/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.md) 
 
-### [Márquez,Gabriel_García.public](/_public/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.public.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.public](/_public/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.public.md) 
 
-### [Márquez,Gabriel_García.internal](/_internal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.internal.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.internal](/_internal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.internal.md) 
 
-### [Márquez,Gabriel_García.protect](/_protect/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.protect.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.protect](/_protect/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.protect.md) 
 
-### [Márquez,Gabriel_García.private](/_private/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.private.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.private](/_private/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.private.md) 
 
-### [Márquez,Gabriel_García.personal](/_personal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.personal.md) 
+### #is_/same_as :: [Márquez,Gabriel_García.personal](/_personal/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.personal.md) 
 
-### [Márquez,Gabriel_García.secret](/_secret/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.secret.md)
+### #is_/same_as :: [Márquez,Gabriel_García.secret](/_secret/bio/People/Writer/Modern_Writers/Márquez,Gabriel_García.secret.md)
 

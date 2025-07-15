@@ -183,20 +183,19 @@ Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons Licen
 Copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bolitoglossa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.md) 
+### #is_/same_as :: [Bolitoglossa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.md) 
 
-### [Bolitoglossa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public.md) 
+### #is_/same_as :: [Bolitoglossa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public.md) 
 
-### [Bolitoglossa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal.md) 
+### #is_/same_as :: [Bolitoglossa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal.md) 
 
-### [Bolitoglossa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect.md) 
+### #is_/same_as :: [Bolitoglossa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect.md) 
 
-### [Bolitoglossa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private.md) 
+### #is_/same_as :: [Bolitoglossa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private.md) 
 
-### [Bolitoglossa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal.md) 
+### #is_/same_as :: [Bolitoglossa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal.md) 
 
-### [Bolitoglossa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret.md)
+### #is_/same_as :: [Bolitoglossa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret.md)
 

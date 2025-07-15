@@ -45,17 +45,17 @@ A PerformanceRole is a Role that some entity places with regard to a theatrical 
 
 ## Confidential Links & Embeds: 
 
-### [performance_role](/_Standards/schema-org/Class/is_a_/Intangible/role/performance_role.md) 
+### #is_/same_as :: [performance_role](/_Standards/schema-org/Class/is_a_/Intangible/role/performance_role.md) 
 
-### [performance_role.public](/_public/schema-org/Class/is_a_/Intangible/role/performance_role.public.md) 
+### #is_/same_as :: [performance_role.public](/_public/schema-org/Class/is_a_/Intangible/role/performance_role.public.md) 
 
-### [performance_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/performance_role.internal.md) 
+### #is_/same_as :: [performance_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/performance_role.internal.md) 
 
-### [performance_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/performance_role.protect.md) 
+### #is_/same_as :: [performance_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/performance_role.protect.md) 
 
-### [performance_role.private](/_private/schema-org/Class/is_a_/Intangible/role/performance_role.private.md) 
+### #is_/same_as :: [performance_role.private](/_private/schema-org/Class/is_a_/Intangible/role/performance_role.private.md) 
 
-### [performance_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/performance_role.personal.md) 
+### #is_/same_as :: [performance_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/performance_role.personal.md) 
 
-### [performance_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/performance_role.secret.md)
+### #is_/same_as :: [performance_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/performance_role.secret.md)
 

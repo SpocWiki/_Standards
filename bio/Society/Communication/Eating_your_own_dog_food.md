@@ -21,23 +21,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Eating%20your%20own%20dog%20food) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Eating_your_own_dog_food](/_Standards/bio/Society/Communication/Eating_your_own_dog_food.md) 
+### #is_/same_as :: [Eating_your_own_dog_food](/_Standards/bio/Society/Communication/Eating_your_own_dog_food.md) 
 
-### [Eating_your_own_dog_food.public](/_public/bio/Society/Communication/Eating_your_own_dog_food.public.md) 
+### #is_/same_as :: [Eating_your_own_dog_food.public](/_public/bio/Society/Communication/Eating_your_own_dog_food.public.md) 
 
-### [Eating_your_own_dog_food.internal](/_internal/bio/Society/Communication/Eating_your_own_dog_food.internal.md) 
+### #is_/same_as :: [Eating_your_own_dog_food.internal](/_internal/bio/Society/Communication/Eating_your_own_dog_food.internal.md) 
 
-### [Eating_your_own_dog_food.protect](/_protect/bio/Society/Communication/Eating_your_own_dog_food.protect.md) 
+### #is_/same_as :: [Eating_your_own_dog_food.protect](/_protect/bio/Society/Communication/Eating_your_own_dog_food.protect.md) 
 
-### [Eating_your_own_dog_food.private](/_private/bio/Society/Communication/Eating_your_own_dog_food.private.md) 
+### #is_/same_as :: [Eating_your_own_dog_food.private](/_private/bio/Society/Communication/Eating_your_own_dog_food.private.md) 
 
-### [Eating_your_own_dog_food.personal](/_personal/bio/Society/Communication/Eating_your_own_dog_food.personal.md) 
+### #is_/same_as :: [Eating_your_own_dog_food.personal](/_personal/bio/Society/Communication/Eating_your_own_dog_food.personal.md) 
 
-### [Eating_your_own_dog_food.secret](/_secret/bio/Society/Communication/Eating_your_own_dog_food.secret.md)
+### #is_/same_as :: [Eating_your_own_dog_food.secret](/_secret/bio/Society/Communication/Eating_your_own_dog_food.secret.md)
 

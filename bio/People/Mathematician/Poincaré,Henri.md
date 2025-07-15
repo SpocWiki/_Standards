@@ -53,17 +53,17 @@ to reveal the essential Structure.
 
 ## Confidential Links & Embeds: 
 
-### [Poincaré,Henri](/_Standards/bio/People/Mathematician/Poincaré,Henri.md) 
+### #is_/same_as :: [Poincaré,Henri](/_Standards/bio/People/Mathematician/Poincaré,Henri.md) 
 
-### [Poincaré,Henri.public](/_public/bio/People/Mathematician/Poincaré,Henri.public.md) 
+### #is_/same_as :: [Poincaré,Henri.public](/_public/bio/People/Mathematician/Poincaré,Henri.public.md) 
 
-### [Poincaré,Henri.internal](/_internal/bio/People/Mathematician/Poincaré,Henri.internal.md) 
+### #is_/same_as :: [Poincaré,Henri.internal](/_internal/bio/People/Mathematician/Poincaré,Henri.internal.md) 
 
-### [Poincaré,Henri.protect](/_protect/bio/People/Mathematician/Poincaré,Henri.protect.md) 
+### #is_/same_as :: [Poincaré,Henri.protect](/_protect/bio/People/Mathematician/Poincaré,Henri.protect.md) 
 
-### [Poincaré,Henri.private](/_private/bio/People/Mathematician/Poincaré,Henri.private.md) 
+### #is_/same_as :: [Poincaré,Henri.private](/_private/bio/People/Mathematician/Poincaré,Henri.private.md) 
 
-### [Poincaré,Henri.personal](/_personal/bio/People/Mathematician/Poincaré,Henri.personal.md) 
+### #is_/same_as :: [Poincaré,Henri.personal](/_personal/bio/People/Mathematician/Poincaré,Henri.personal.md) 
 
-### [Poincaré,Henri.secret](/_secret/bio/People/Mathematician/Poincaré,Henri.secret.md)
+### #is_/same_as :: [Poincaré,Henri.secret](/_secret/bio/People/Mathematician/Poincaré,Henri.secret.md)
 

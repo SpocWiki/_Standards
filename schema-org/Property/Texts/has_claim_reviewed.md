@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_claim_reviewed](/_Standards/schema-org/Property/Texts/has_claim_reviewed.md) 
+### #is_/same_as :: [has_claim_reviewed](/_Standards/schema-org/Property/Texts/has_claim_reviewed.md) 
 
-### [has_claim_reviewed.public](/_public/schema-org/Property/Texts/has_claim_reviewed.public.md) 
+### #is_/same_as :: [has_claim_reviewed.public](/_public/schema-org/Property/Texts/has_claim_reviewed.public.md) 
 
-### [has_claim_reviewed.internal](/_internal/schema-org/Property/Texts/has_claim_reviewed.internal.md) 
+### #is_/same_as :: [has_claim_reviewed.internal](/_internal/schema-org/Property/Texts/has_claim_reviewed.internal.md) 
 
-### [has_claim_reviewed.protect](/_protect/schema-org/Property/Texts/has_claim_reviewed.protect.md) 
+### #is_/same_as :: [has_claim_reviewed.protect](/_protect/schema-org/Property/Texts/has_claim_reviewed.protect.md) 
 
-### [has_claim_reviewed.private](/_private/schema-org/Property/Texts/has_claim_reviewed.private.md) 
+### #is_/same_as :: [has_claim_reviewed.private](/_private/schema-org/Property/Texts/has_claim_reviewed.private.md) 
 
-### [has_claim_reviewed.personal](/_personal/schema-org/Property/Texts/has_claim_reviewed.personal.md) 
+### #is_/same_as :: [has_claim_reviewed.personal](/_personal/schema-org/Property/Texts/has_claim_reviewed.personal.md) 
 
-### [has_claim_reviewed.secret](/_secret/schema-org/Property/Texts/has_claim_reviewed.secret.md)
+### #is_/same_as :: [has_claim_reviewed.secret](/_secret/schema-org/Property/Texts/has_claim_reviewed.secret.md)
 

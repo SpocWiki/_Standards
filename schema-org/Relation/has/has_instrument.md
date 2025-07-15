@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_instrument](/_Standards/schema-org/Relation/has/has_instrument.md) 
+### #is_/same_as :: [has_instrument](/_Standards/schema-org/Relation/has/has_instrument.md) 
 
-### [has_instrument.public](/_public/schema-org/Relation/has/has_instrument.public.md) 
+### #is_/same_as :: [has_instrument.public](/_public/schema-org/Relation/has/has_instrument.public.md) 
 
-### [has_instrument.internal](/_internal/schema-org/Relation/has/has_instrument.internal.md) 
+### #is_/same_as :: [has_instrument.internal](/_internal/schema-org/Relation/has/has_instrument.internal.md) 
 
-### [has_instrument.protect](/_protect/schema-org/Relation/has/has_instrument.protect.md) 
+### #is_/same_as :: [has_instrument.protect](/_protect/schema-org/Relation/has/has_instrument.protect.md) 
 
-### [has_instrument.private](/_private/schema-org/Relation/has/has_instrument.private.md) 
+### #is_/same_as :: [has_instrument.private](/_private/schema-org/Relation/has/has_instrument.private.md) 
 
-### [has_instrument.personal](/_personal/schema-org/Relation/has/has_instrument.personal.md) 
+### #is_/same_as :: [has_instrument.personal](/_personal/schema-org/Relation/has/has_instrument.personal.md) 
 
-### [has_instrument.secret](/_secret/schema-org/Relation/has/has_instrument.secret.md)
+### #is_/same_as :: [has_instrument.secret](/_secret/schema-org/Relation/has/has_instrument.secret.md)
 

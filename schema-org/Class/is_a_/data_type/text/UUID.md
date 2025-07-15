@@ -56,17 +56,17 @@ NanoID
 
 ## Confidential Links & Embeds: 
 
-### [UUID](/_Standards/schema-org/Class/is_a_/data_type/text/UUID.md) 
+### #is_/same_as :: [UUID](/_Standards/schema-org/Class/is_a_/data_type/text/UUID.md) 
 
-### [UUID.public](/_public/schema-org/Class/is_a_/data_type/text/UUID.public.md) 
+### #is_/same_as :: [UUID.public](/_public/schema-org/Class/is_a_/data_type/text/UUID.public.md) 
 
-### [UUID.internal](/_internal/schema-org/Class/is_a_/data_type/text/UUID.internal.md) 
+### #is_/same_as :: [UUID.internal](/_internal/schema-org/Class/is_a_/data_type/text/UUID.internal.md) 
 
-### [UUID.protect](/_protect/schema-org/Class/is_a_/data_type/text/UUID.protect.md) 
+### #is_/same_as :: [UUID.protect](/_protect/schema-org/Class/is_a_/data_type/text/UUID.protect.md) 
 
-### [UUID.private](/_private/schema-org/Class/is_a_/data_type/text/UUID.private.md) 
+### #is_/same_as :: [UUID.private](/_private/schema-org/Class/is_a_/data_type/text/UUID.private.md) 
 
-### [UUID.personal](/_personal/schema-org/Class/is_a_/data_type/text/UUID.personal.md) 
+### #is_/same_as :: [UUID.personal](/_personal/schema-org/Class/is_a_/data_type/text/UUID.personal.md) 
 
-### [UUID.secret](/_secret/schema-org/Class/is_a_/data_type/text/UUID.secret.md)
+### #is_/same_as :: [UUID.secret](/_secret/schema-org/Class/is_a_/data_type/text/UUID.secret.md)
 

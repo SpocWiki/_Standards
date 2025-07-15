@@ -45,17 +45,17 @@ A navigation element of the page.
 
 ## Confidential Links & Embeds: 
 
-### [site_navigation_element](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.md) 
+### #is_/same_as :: [site_navigation_element](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.md) 
 
-### [site_navigation_element.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.public.md) 
+### #is_/same_as :: [site_navigation_element.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.public.md) 
 
-### [site_navigation_element.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.internal.md) 
+### #is_/same_as :: [site_navigation_element.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.internal.md) 
 
-### [site_navigation_element.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.protect.md) 
+### #is_/same_as :: [site_navigation_element.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.protect.md) 
 
-### [site_navigation_element.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.private.md) 
+### #is_/same_as :: [site_navigation_element.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.private.md) 
 
-### [site_navigation_element.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.personal.md) 
+### #is_/same_as :: [site_navigation_element.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.personal.md) 
 
-### [site_navigation_element.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.secret.md)
+### #is_/same_as :: [site_navigation_element.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/site_navigation_element.secret.md)
 

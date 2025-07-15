@@ -39,22 +39,19 @@ Commons_category: "Fictional settings"
 > [Wikipedia](https://en.wikipedia.org/wiki/Fictional%20universe) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fictional_Worlds](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.md) 
+### #is_/same_as :: [Fictional_Worlds](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.md) 
 
-### [Fictional_Worlds.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.public.md) 
+### #is_/same_as :: [Fictional_Worlds.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.public.md) 
 
-### [Fictional_Worlds.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.internal.md) 
+### #is_/same_as :: [Fictional_Worlds.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.internal.md) 
 
-### [Fictional_Worlds.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.protect.md) 
+### #is_/same_as :: [Fictional_Worlds.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.protect.md) 
 
-### [Fictional_Worlds.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.private.md) 
+### #is_/same_as :: [Fictional_Worlds.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.private.md) 
 
-### [Fictional_Worlds.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.personal.md) 
+### #is_/same_as :: [Fictional_Worlds.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.personal.md) 
 
-### [Fictional_Worlds.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.secret.md)
+### #is_/same_as :: [Fictional_Worlds.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Fictional_Worlds.secret.md)
 

@@ -35,17 +35,17 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~QuoteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.md) 
+### #is_/same_as :: [FileClass~QuoteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.md) 
 
-### [FileClass~QuoteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.public.md) 
+### #is_/same_as :: [FileClass~QuoteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.public.md) 
 
-### [FileClass~QuoteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.internal.md) 
+### #is_/same_as :: [FileClass~QuoteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.internal.md) 
 
-### [FileClass~QuoteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.protect.md) 
+### #is_/same_as :: [FileClass~QuoteAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.protect.md) 
 
-### [FileClass~QuoteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.private.md) 
+### #is_/same_as :: [FileClass~QuoteAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.private.md) 
 
-### [FileClass~QuoteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.personal.md) 
+### #is_/same_as :: [FileClass~QuoteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.personal.md) 
 
-### [FileClass~QuoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.secret.md)
+### #is_/same_as :: [FileClass~QuoteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~QuoteAction.secret.md)
 

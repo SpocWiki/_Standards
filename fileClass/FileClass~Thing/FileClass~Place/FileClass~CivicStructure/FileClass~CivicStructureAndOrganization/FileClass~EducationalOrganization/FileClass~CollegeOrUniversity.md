@@ -35,17 +35,17 @@ A college, university, or other third-level educational institution.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CollegeOrUniversity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.md) 
 
-### [FileClass~CollegeOrUniversity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.public.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.public.md) 
 
-### [FileClass~CollegeOrUniversity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.internal.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.internal.md) 
 
-### [FileClass~CollegeOrUniversity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.protect.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.protect.md) 
 
-### [FileClass~CollegeOrUniversity.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.private.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.private.md) 
 
-### [FileClass~CollegeOrUniversity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.personal.md) 
+### #is_/same_as :: [FileClass~CollegeOrUniversity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.personal.md) 
 
-### [FileClass~CollegeOrUniversity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret.md)
+### #is_/same_as :: [FileClass~CollegeOrUniversity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~CollegeOrUniversity.secret.md)
 

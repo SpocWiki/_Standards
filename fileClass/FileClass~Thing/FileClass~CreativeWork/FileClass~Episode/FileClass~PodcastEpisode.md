@@ -35,17 +35,17 @@ A single episode of a podcast series.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PodcastEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.md) 
 
-### [FileClass~PodcastEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.public.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.public.md) 
 
-### [FileClass~PodcastEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.internal.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.internal.md) 
 
-### [FileClass~PodcastEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.protect.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.protect.md) 
 
-### [FileClass~PodcastEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.private.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.private.md) 
 
-### [FileClass~PodcastEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.personal.md) 
+### #is_/same_as :: [FileClass~PodcastEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.personal.md) 
 
-### [FileClass~PodcastEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.secret.md)
+### #is_/same_as :: [FileClass~PodcastEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.secret.md)
 

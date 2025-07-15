@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_workload](/_Standards/schema-org/Relation/has/has_workload.md) 
+### #is_/same_as :: [has_workload](/_Standards/schema-org/Relation/has/has_workload.md) 
 
-### [has_workload.public](/_public/schema-org/Relation/has/has_workload.public.md) 
+### #is_/same_as :: [has_workload.public](/_public/schema-org/Relation/has/has_workload.public.md) 
 
-### [has_workload.internal](/_internal/schema-org/Relation/has/has_workload.internal.md) 
+### #is_/same_as :: [has_workload.internal](/_internal/schema-org/Relation/has/has_workload.internal.md) 
 
-### [has_workload.protect](/_protect/schema-org/Relation/has/has_workload.protect.md) 
+### #is_/same_as :: [has_workload.protect](/_protect/schema-org/Relation/has/has_workload.protect.md) 
 
-### [has_workload.private](/_private/schema-org/Relation/has/has_workload.private.md) 
+### #is_/same_as :: [has_workload.private](/_private/schema-org/Relation/has/has_workload.private.md) 
 
-### [has_workload.personal](/_personal/schema-org/Relation/has/has_workload.personal.md) 
+### #is_/same_as :: [has_workload.personal](/_personal/schema-org/Relation/has/has_workload.personal.md) 
 
-### [has_workload.secret](/_secret/schema-org/Relation/has/has_workload.secret.md)
+### #is_/same_as :: [has_workload.secret](/_secret/schema-org/Relation/has/has_workload.secret.md)
 

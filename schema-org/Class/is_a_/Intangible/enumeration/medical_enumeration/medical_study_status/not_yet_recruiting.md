@@ -47,17 +47,17 @@ Not yet recruiting.
 
 ## Confidential Links & Embeds: 
 
-### [not_yet_recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md) 
+### #is_/same_as :: [not_yet_recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md) 
 
-### [not_yet_recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.public.md) 
+### #is_/same_as :: [not_yet_recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.public.md) 
 
-### [not_yet_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.internal.md) 
+### #is_/same_as :: [not_yet_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.internal.md) 
 
-### [not_yet_recruiting.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.protect.md) 
+### #is_/same_as :: [not_yet_recruiting.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.protect.md) 
 
-### [not_yet_recruiting.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.private.md) 
+### #is_/same_as :: [not_yet_recruiting.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.private.md) 
 
-### [not_yet_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.personal.md) 
+### #is_/same_as :: [not_yet_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.personal.md) 
 
-### [not_yet_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md)
+### #is_/same_as :: [not_yet_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md)
 

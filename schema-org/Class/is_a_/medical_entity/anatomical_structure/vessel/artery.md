@@ -47,17 +47,17 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 ## Confidential Links & Embeds: 
 
-### [artery](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.md) 
+### #is_/same_as :: [artery](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.md) 
 
-### [artery.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.public.md) 
+### #is_/same_as :: [artery.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.public.md) 
 
-### [artery.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.internal.md) 
+### #is_/same_as :: [artery.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.internal.md) 
 
-### [artery.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.protect.md) 
+### #is_/same_as :: [artery.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.protect.md) 
 
-### [artery.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.private.md) 
+### #is_/same_as :: [artery.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.private.md) 
 
-### [artery.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.personal.md) 
+### #is_/same_as :: [artery.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.personal.md) 
 
-### [artery.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md)
+### #is_/same_as :: [artery.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md)
 

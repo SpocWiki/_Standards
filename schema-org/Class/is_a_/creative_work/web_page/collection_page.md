@@ -47,17 +47,17 @@ Web page type: Collection page.
 
 ## Confidential Links & Embeds: 
 
-### [collection_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page.md) 
+### #is_/same_as :: [collection_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page.md) 
 
-### [collection_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page.public.md) 
+### #is_/same_as :: [collection_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page.public.md) 
 
-### [collection_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page.internal.md) 
+### #is_/same_as :: [collection_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page.internal.md) 
 
-### [collection_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page.protect.md) 
+### #is_/same_as :: [collection_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page.protect.md) 
 
-### [collection_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page.private.md) 
+### #is_/same_as :: [collection_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page.private.md) 
 
-### [collection_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page.personal.md) 
+### #is_/same_as :: [collection_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page.personal.md) 
 
-### [collection_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page.secret.md)
+### #is_/same_as :: [collection_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page.secret.md)
 

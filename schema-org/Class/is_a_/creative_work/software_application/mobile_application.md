@@ -45,17 +45,17 @@ A software application designed specifically to work well on a mobile device suc
 
 ## Confidential Links & Embeds: 
 
-### [mobile_application](/_Standards/schema-org/Class/is_a_/creative_work/software_application/mobile_application.md) 
+### #is_/same_as :: [mobile_application](/_Standards/schema-org/Class/is_a_/creative_work/software_application/mobile_application.md) 
 
-### [mobile_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application/mobile_application.public.md) 
+### #is_/same_as :: [mobile_application.public](/_public/schema-org/Class/is_a_/creative_work/software_application/mobile_application.public.md) 
 
-### [mobile_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.internal.md) 
+### #is_/same_as :: [mobile_application.internal](/_internal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.internal.md) 
 
-### [mobile_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application/mobile_application.protect.md) 
+### #is_/same_as :: [mobile_application.protect](/_protect/schema-org/Class/is_a_/creative_work/software_application/mobile_application.protect.md) 
 
-### [mobile_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application/mobile_application.private.md) 
+### #is_/same_as :: [mobile_application.private](/_private/schema-org/Class/is_a_/creative_work/software_application/mobile_application.private.md) 
 
-### [mobile_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.personal.md) 
+### #is_/same_as :: [mobile_application.personal](/_personal/schema-org/Class/is_a_/creative_work/software_application/mobile_application.personal.md) 
 
-### [mobile_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application/mobile_application.secret.md)
+### #is_/same_as :: [mobile_application.secret](/_secret/schema-org/Class/is_a_/creative_work/software_application/mobile_application.secret.md)
 

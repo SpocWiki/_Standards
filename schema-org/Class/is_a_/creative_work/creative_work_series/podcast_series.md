@@ -47,17 +47,17 @@ A podcast is an episodic series of digital audio or video files which a user can
 
 ## Confidential Links & Embeds: 
 
-### [podcast_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.md) 
+### #is_/same_as :: [podcast_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.md) 
 
-### [podcast_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.public.md) 
+### #is_/same_as :: [podcast_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.public.md) 
 
-### [podcast_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.internal.md) 
+### #is_/same_as :: [podcast_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.internal.md) 
 
-### [podcast_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.protect.md) 
+### #is_/same_as :: [podcast_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.protect.md) 
 
-### [podcast_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.private.md) 
+### #is_/same_as :: [podcast_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.private.md) 
 
-### [podcast_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.personal.md) 
+### #is_/same_as :: [podcast_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.personal.md) 
 
-### [podcast_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.secret.md)
+### #is_/same_as :: [podcast_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/podcast_series.secret.md)
 

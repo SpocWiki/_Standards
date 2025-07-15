@@ -35,17 +35,17 @@ An indication for a medical therapy that has been formally specified or approved
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ApprovedIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.md) 
 
-### [FileClass~ApprovedIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.public.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.public.md) 
 
-### [FileClass~ApprovedIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.internal.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.internal.md) 
 
-### [FileClass~ApprovedIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.protect.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.protect.md) 
 
-### [FileClass~ApprovedIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.private.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.private.md) 
 
-### [FileClass~ApprovedIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.personal.md) 
+### #is_/same_as :: [FileClass~ApprovedIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.personal.md) 
 
-### [FileClass~ApprovedIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.secret.md)
+### #is_/same_as :: [FileClass~ApprovedIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.secret.md)
 

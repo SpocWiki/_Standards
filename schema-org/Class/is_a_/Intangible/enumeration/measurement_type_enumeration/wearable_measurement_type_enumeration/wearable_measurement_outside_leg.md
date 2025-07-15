@@ -49,17 +49,17 @@ Measurement of the outside leg, for example of pants
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_outside_leg](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.md) 
 
-### [wearable_measurement_outside_leg.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.public.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.public.md) 
 
-### [wearable_measurement_outside_leg.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.internal.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.internal.md) 
 
-### [wearable_measurement_outside_leg.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.protect.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.protect.md) 
 
-### [wearable_measurement_outside_leg.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.private.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.private.md) 
 
-### [wearable_measurement_outside_leg.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.personal.md) 
+### #is_/same_as :: [wearable_measurement_outside_leg.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.personal.md) 
 
-### [wearable_measurement_outside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.secret.md)
+### #is_/same_as :: [wearable_measurement_outside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.secret.md)
 

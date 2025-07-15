@@ -129,22 +129,19 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian_Revolution,143
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20Revolution) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [1917-Russian_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.md) 
+### #is_/same_as :: [1917-Russian_Revolution](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.md) 
 
-### [1917-Russian_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public.md) 
+### #is_/same_as :: [1917-Russian_Revolution.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public.md) 
 
-### [1917-Russian_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal.md) 
+### #is_/same_as :: [1917-Russian_Revolution.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal.md) 
 
-### [1917-Russian_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect.md) 
+### #is_/same_as :: [1917-Russian_Revolution.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect.md) 
 
-### [1917-Russian_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private.md) 
+### #is_/same_as :: [1917-Russian_Revolution.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private.md) 
 
-### [1917-Russian_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal.md) 
+### #is_/same_as :: [1917-Russian_Revolution.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal.md) 
 
-### [1917-Russian_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret.md)
+### #is_/same_as :: [1917-Russian_Revolution.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret.md)
 

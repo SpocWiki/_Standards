@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~1~Fortunian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.md) 
+### #is_/same_as :: [Age~1~Fortunian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.md) 
 
-### [Age~1~Fortunian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.public.md) 
+### #is_/same_as :: [Age~1~Fortunian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.public.md) 
 
-### [Age~1~Fortunian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.internal.md) 
+### #is_/same_as :: [Age~1~Fortunian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.internal.md) 
 
-### [Age~1~Fortunian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.protect.md) 
+### #is_/same_as :: [Age~1~Fortunian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.protect.md) 
 
-### [Age~1~Fortunian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.private.md) 
+### #is_/same_as :: [Age~1~Fortunian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.private.md) 
 
-### [Age~1~Fortunian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.personal.md) 
+### #is_/same_as :: [Age~1~Fortunian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.personal.md) 
 
-### [Age~1~Fortunian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.secret.md)
+### #is_/same_as :: [Age~1~Fortunian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~1~Fortunian.secret.md)
 

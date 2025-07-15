@@ -97,20 +97,19 @@ by Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Copepoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.md) 
+### #is_/same_as :: [Copepoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.md) 
 
-### [Copepoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.public.md) 
+### #is_/same_as :: [Copepoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.public.md) 
 
-### [Copepoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.internal.md) 
+### #is_/same_as :: [Copepoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.internal.md) 
 
-### [Copepoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.protect.md) 
+### #is_/same_as :: [Copepoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.protect.md) 
 
-### [Copepoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.private.md) 
+### #is_/same_as :: [Copepoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.private.md) 
 
-### [Copepoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.personal.md) 
+### #is_/same_as :: [Copepoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.personal.md) 
 
-### [Copepoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.secret.md)
+### #is_/same_as :: [Copepoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda.secret.md)
 

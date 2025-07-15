@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~Australasian](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.md) 
+### #is_/same_as :: [Antarctic~Australasian](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.md) 
 
-### [Antarctic~Australasian.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.public.md) 
+### #is_/same_as :: [Antarctic~Australasian.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.public.md) 
 
-### [Antarctic~Australasian.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal.md) 
+### #is_/same_as :: [Antarctic~Australasian.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal.md) 
 
-### [Antarctic~Australasian.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.protect.md) 
+### #is_/same_as :: [Antarctic~Australasian.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.protect.md) 
 
-### [Antarctic~Australasian.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.private.md) 
+### #is_/same_as :: [Antarctic~Australasian.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.private.md) 
 
-### [Antarctic~Australasian.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal.md) 
+### #is_/same_as :: [Antarctic~Australasian.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal.md) 
 
-### [Antarctic~Australasian.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret.md)
+### #is_/same_as :: [Antarctic~Australasian.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret.md)
 

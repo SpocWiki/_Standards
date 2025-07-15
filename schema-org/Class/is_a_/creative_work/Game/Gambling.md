@@ -56,22 +56,19 @@ Library_of_Congress_Classification: K915
 > [Wikipedia](https://en.wikipedia.org/wiki/Gambling) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gambling](/_Standards/schema-org/Class/is_a_/creative_work/Game/Gambling.md) 
+### #is_/same_as :: [Gambling](/_Standards/schema-org/Class/is_a_/creative_work/Game/Gambling.md) 
 
-### [Gambling.public](/_public/schema-org/Class/is_a_/creative_work/Game/Gambling.public.md) 
+### #is_/same_as :: [Gambling.public](/_public/schema-org/Class/is_a_/creative_work/Game/Gambling.public.md) 
 
-### [Gambling.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Gambling.internal.md) 
+### #is_/same_as :: [Gambling.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Gambling.internal.md) 
 
-### [Gambling.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Gambling.protect.md) 
+### #is_/same_as :: [Gambling.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Gambling.protect.md) 
 
-### [Gambling.private](/_private/schema-org/Class/is_a_/creative_work/Game/Gambling.private.md) 
+### #is_/same_as :: [Gambling.private](/_private/schema-org/Class/is_a_/creative_work/Game/Gambling.private.md) 
 
-### [Gambling.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Gambling.personal.md) 
+### #is_/same_as :: [Gambling.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Gambling.personal.md) 
 
-### [Gambling.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Gambling.secret.md)
+### #is_/same_as :: [Gambling.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Gambling.secret.md)
 

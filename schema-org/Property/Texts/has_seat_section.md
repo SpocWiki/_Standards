@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_seat_section](/_Standards/schema-org/Property/Texts/has_seat_section.md) 
+### #is_/same_as :: [has_seat_section](/_Standards/schema-org/Property/Texts/has_seat_section.md) 
 
-### [has_seat_section.public](/_public/schema-org/Property/Texts/has_seat_section.public.md) 
+### #is_/same_as :: [has_seat_section.public](/_public/schema-org/Property/Texts/has_seat_section.public.md) 
 
-### [has_seat_section.internal](/_internal/schema-org/Property/Texts/has_seat_section.internal.md) 
+### #is_/same_as :: [has_seat_section.internal](/_internal/schema-org/Property/Texts/has_seat_section.internal.md) 
 
-### [has_seat_section.protect](/_protect/schema-org/Property/Texts/has_seat_section.protect.md) 
+### #is_/same_as :: [has_seat_section.protect](/_protect/schema-org/Property/Texts/has_seat_section.protect.md) 
 
-### [has_seat_section.private](/_private/schema-org/Property/Texts/has_seat_section.private.md) 
+### #is_/same_as :: [has_seat_section.private](/_private/schema-org/Property/Texts/has_seat_section.private.md) 
 
-### [has_seat_section.personal](/_personal/schema-org/Property/Texts/has_seat_section.personal.md) 
+### #is_/same_as :: [has_seat_section.personal](/_personal/schema-org/Property/Texts/has_seat_section.personal.md) 
 
-### [has_seat_section.secret](/_secret/schema-org/Property/Texts/has_seat_section.secret.md)
+### #is_/same_as :: [has_seat_section.secret](/_secret/schema-org/Property/Texts/has_seat_section.secret.md)
 

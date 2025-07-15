@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_loan_term](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_term.md) 
+### #is_/same_as :: [has_value_for_loan_term](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_term.md) 
 
-### [has_value_for_loan_term.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_term.public.md) 
+### #is_/same_as :: [has_value_for_loan_term.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_term.public.md) 
 
-### [has_value_for_loan_term.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_term.internal.md) 
+### #is_/same_as :: [has_value_for_loan_term.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_term.internal.md) 
 
-### [has_value_for_loan_term.protect](/_protect/schema-org/Property/has_value_for/has_value_for_loan_term.protect.md) 
+### #is_/same_as :: [has_value_for_loan_term.protect](/_protect/schema-org/Property/has_value_for/has_value_for_loan_term.protect.md) 
 
-### [has_value_for_loan_term.private](/_private/schema-org/Property/has_value_for/has_value_for_loan_term.private.md) 
+### #is_/same_as :: [has_value_for_loan_term.private](/_private/schema-org/Property/has_value_for/has_value_for_loan_term.private.md) 
 
-### [has_value_for_loan_term.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_term.personal.md) 
+### #is_/same_as :: [has_value_for_loan_term.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_term.personal.md) 
 
-### [has_value_for_loan_term.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_term.secret.md)
+### #is_/same_as :: [has_value_for_loan_term.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_term.secret.md)
 

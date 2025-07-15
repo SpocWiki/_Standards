@@ -486,17 +486,17 @@ Capital :: [[Tirana]]
 
 ## Confidential Links & Embeds: 
 
-### [Albania](/_Standards/Earth/Continent/Europe/Europe~South/Albania.md) 
+### #is_/same_as :: [Albania](/_Standards/Earth/Continent/Europe/Europe~South/Albania.md) 
 
-### [Albania.public](/_public/Earth/Continent/Europe/Europe~South/Albania.public.md) 
+### #is_/same_as :: [Albania.public](/_public/Earth/Continent/Europe/Europe~South/Albania.public.md) 
 
-### [Albania.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania.internal.md) 
+### #is_/same_as :: [Albania.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania.internal.md) 
 
-### [Albania.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania.protect.md) 
+### #is_/same_as :: [Albania.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania.protect.md) 
 
-### [Albania.private](/_private/Earth/Continent/Europe/Europe~South/Albania.private.md) 
+### #is_/same_as :: [Albania.private](/_private/Earth/Continent/Europe/Europe~South/Albania.private.md) 
 
-### [Albania.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania.personal.md) 
+### #is_/same_as :: [Albania.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania.personal.md) 
 
-### [Albania.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania.secret.md)
+### #is_/same_as :: [Albania.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania.secret.md)
 

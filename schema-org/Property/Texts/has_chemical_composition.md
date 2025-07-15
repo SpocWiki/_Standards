@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_chemical_composition](/_Standards/schema-org/Property/Texts/has_chemical_composition.md) 
+### #is_/same_as :: [has_chemical_composition](/_Standards/schema-org/Property/Texts/has_chemical_composition.md) 
 
-### [has_chemical_composition.public](/_public/schema-org/Property/Texts/has_chemical_composition.public.md) 
+### #is_/same_as :: [has_chemical_composition.public](/_public/schema-org/Property/Texts/has_chemical_composition.public.md) 
 
-### [has_chemical_composition.internal](/_internal/schema-org/Property/Texts/has_chemical_composition.internal.md) 
+### #is_/same_as :: [has_chemical_composition.internal](/_internal/schema-org/Property/Texts/has_chemical_composition.internal.md) 
 
-### [has_chemical_composition.protect](/_protect/schema-org/Property/Texts/has_chemical_composition.protect.md) 
+### #is_/same_as :: [has_chemical_composition.protect](/_protect/schema-org/Property/Texts/has_chemical_composition.protect.md) 
 
-### [has_chemical_composition.private](/_private/schema-org/Property/Texts/has_chemical_composition.private.md) 
+### #is_/same_as :: [has_chemical_composition.private](/_private/schema-org/Property/Texts/has_chemical_composition.private.md) 
 
-### [has_chemical_composition.personal](/_personal/schema-org/Property/Texts/has_chemical_composition.personal.md) 
+### #is_/same_as :: [has_chemical_composition.personal](/_personal/schema-org/Property/Texts/has_chemical_composition.personal.md) 
 
-### [has_chemical_composition.secret](/_secret/schema-org/Property/Texts/has_chemical_composition.secret.md)
+### #is_/same_as :: [has_chemical_composition.secret](/_secret/schema-org/Property/Texts/has_chemical_composition.secret.md)
 

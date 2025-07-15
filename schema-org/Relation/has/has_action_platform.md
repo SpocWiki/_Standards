@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_action_platform](/_Standards/schema-org/Relation/has/has_action_platform.md) 
+### #is_/same_as :: [has_action_platform](/_Standards/schema-org/Relation/has/has_action_platform.md) 
 
-### [has_action_platform.public](/_public/schema-org/Relation/has/has_action_platform.public.md) 
+### #is_/same_as :: [has_action_platform.public](/_public/schema-org/Relation/has/has_action_platform.public.md) 
 
-### [has_action_platform.internal](/_internal/schema-org/Relation/has/has_action_platform.internal.md) 
+### #is_/same_as :: [has_action_platform.internal](/_internal/schema-org/Relation/has/has_action_platform.internal.md) 
 
-### [has_action_platform.protect](/_protect/schema-org/Relation/has/has_action_platform.protect.md) 
+### #is_/same_as :: [has_action_platform.protect](/_protect/schema-org/Relation/has/has_action_platform.protect.md) 
 
-### [has_action_platform.private](/_private/schema-org/Relation/has/has_action_platform.private.md) 
+### #is_/same_as :: [has_action_platform.private](/_private/schema-org/Relation/has/has_action_platform.private.md) 
 
-### [has_action_platform.personal](/_personal/schema-org/Relation/has/has_action_platform.personal.md) 
+### #is_/same_as :: [has_action_platform.personal](/_personal/schema-org/Relation/has/has_action_platform.personal.md) 
 
-### [has_action_platform.secret](/_secret/schema-org/Relation/has/has_action_platform.secret.md)
+### #is_/same_as :: [has_action_platform.secret](/_secret/schema-org/Relation/has/has_action_platform.secret.md)
 

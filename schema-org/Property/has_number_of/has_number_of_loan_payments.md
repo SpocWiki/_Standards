@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_loan_payments](/_Standards/schema-org/Property/has_number_of/has_number_of_loan_payments.md) 
+### #is_/same_as :: [has_number_of_loan_payments](/_Standards/schema-org/Property/has_number_of/has_number_of_loan_payments.md) 
 
-### [has_number_of_loan_payments.public](/_public/schema-org/Property/has_number_of/has_number_of_loan_payments.public.md) 
+### #is_/same_as :: [has_number_of_loan_payments.public](/_public/schema-org/Property/has_number_of/has_number_of_loan_payments.public.md) 
 
-### [has_number_of_loan_payments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_loan_payments.internal.md) 
+### #is_/same_as :: [has_number_of_loan_payments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_loan_payments.internal.md) 
 
-### [has_number_of_loan_payments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_loan_payments.protect.md) 
+### #is_/same_as :: [has_number_of_loan_payments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_loan_payments.protect.md) 
 
-### [has_number_of_loan_payments.private](/_private/schema-org/Property/has_number_of/has_number_of_loan_payments.private.md) 
+### #is_/same_as :: [has_number_of_loan_payments.private](/_private/schema-org/Property/has_number_of/has_number_of_loan_payments.private.md) 
 
-### [has_number_of_loan_payments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_loan_payments.personal.md) 
+### #is_/same_as :: [has_number_of_loan_payments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_loan_payments.personal.md) 
 
-### [has_number_of_loan_payments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_loan_payments.secret.md)
+### #is_/same_as :: [has_number_of_loan_payments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_loan_payments.secret.md)
 

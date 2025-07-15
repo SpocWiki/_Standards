@@ -170,22 +170,19 @@ structure of the 4th intron in the mitochondrial gene nad1 shared by all
 monocots sampled except Araceae and Alismataceae (Qui & Palmer, 1996).
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Monocot](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.md) 
+### #is_/same_as :: [Monocot](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.md) 
 
-### [Monocot.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.public.md) 
+### #is_/same_as :: [Monocot.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.public.md) 
 
-### [Monocot.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.internal.md) 
+### #is_/same_as :: [Monocot.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.internal.md) 
 
-### [Monocot.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.protect.md) 
+### #is_/same_as :: [Monocot.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.protect.md) 
 
-### [Monocot.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.private.md) 
+### #is_/same_as :: [Monocot.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.private.md) 
 
-### [Monocot.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.personal.md) 
+### #is_/same_as :: [Monocot.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.personal.md) 
 
-### [Monocot.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.secret.md)
+### #is_/same_as :: [Monocot.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot.secret.md)
 

@@ -302,22 +302,19 @@ Libris_URI: 97mqw83t1tj6j6c
 > [Wikipedia](https://en.wikipedia.org/wiki/Divine%20Comedy) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Divine_Comedy](/_Standards/bio/People/Writer/Ancient_Writers/Divine_Comedy.md) 
+### #is_/same_as :: [Divine_Comedy](/_Standards/bio/People/Writer/Ancient_Writers/Divine_Comedy.md) 
 
-### [Divine_Comedy.public](/_public/bio/People/Writer/Ancient_Writers/Divine_Comedy.public.md) 
+### #is_/same_as :: [Divine_Comedy.public](/_public/bio/People/Writer/Ancient_Writers/Divine_Comedy.public.md) 
 
-### [Divine_Comedy.internal](/_internal/bio/People/Writer/Ancient_Writers/Divine_Comedy.internal.md) 
+### #is_/same_as :: [Divine_Comedy.internal](/_internal/bio/People/Writer/Ancient_Writers/Divine_Comedy.internal.md) 
 
-### [Divine_Comedy.protect](/_protect/bio/People/Writer/Ancient_Writers/Divine_Comedy.protect.md) 
+### #is_/same_as :: [Divine_Comedy.protect](/_protect/bio/People/Writer/Ancient_Writers/Divine_Comedy.protect.md) 
 
-### [Divine_Comedy.private](/_private/bio/People/Writer/Ancient_Writers/Divine_Comedy.private.md) 
+### #is_/same_as :: [Divine_Comedy.private](/_private/bio/People/Writer/Ancient_Writers/Divine_Comedy.private.md) 
 
-### [Divine_Comedy.personal](/_personal/bio/People/Writer/Ancient_Writers/Divine_Comedy.personal.md) 
+### #is_/same_as :: [Divine_Comedy.personal](/_personal/bio/People/Writer/Ancient_Writers/Divine_Comedy.personal.md) 
 
-### [Divine_Comedy.secret](/_secret/bio/People/Writer/Ancient_Writers/Divine_Comedy.secret.md)
+### #is_/same_as :: [Divine_Comedy.secret](/_secret/bio/People/Writer/Ancient_Writers/Divine_Comedy.secret.md)
 

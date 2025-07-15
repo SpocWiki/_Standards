@@ -72,20 +72,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Symphyla](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.md) 
+### #is_/same_as :: [Symphyla](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.md) 
 
-### [Symphyla.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.public.md) 
+### #is_/same_as :: [Symphyla.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.public.md) 
 
-### [Symphyla.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.internal.md) 
+### #is_/same_as :: [Symphyla.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.internal.md) 
 
-### [Symphyla.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.protect.md) 
+### #is_/same_as :: [Symphyla.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.protect.md) 
 
-### [Symphyla.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.private.md) 
+### #is_/same_as :: [Symphyla.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.private.md) 
 
-### [Symphyla.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.personal.md) 
+### #is_/same_as :: [Symphyla.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.personal.md) 
 
-### [Symphyla.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.secret.md)
+### #is_/same_as :: [Symphyla.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Symphyla.secret.md)
 

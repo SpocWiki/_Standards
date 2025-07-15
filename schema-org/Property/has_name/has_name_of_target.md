@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_name_of_target](/_Standards/schema-org/Property/has_name/has_name_of_target.md) 
+### #is_/same_as :: [has_name_of_target](/_Standards/schema-org/Property/has_name/has_name_of_target.md) 
 
-### [has_name_of_target.public](/_public/schema-org/Property/has_name/has_name_of_target.public.md) 
+### #is_/same_as :: [has_name_of_target.public](/_public/schema-org/Property/has_name/has_name_of_target.public.md) 
 
-### [has_name_of_target.internal](/_internal/schema-org/Property/has_name/has_name_of_target.internal.md) 
+### #is_/same_as :: [has_name_of_target.internal](/_internal/schema-org/Property/has_name/has_name_of_target.internal.md) 
 
-### [has_name_of_target.protect](/_protect/schema-org/Property/has_name/has_name_of_target.protect.md) 
+### #is_/same_as :: [has_name_of_target.protect](/_protect/schema-org/Property/has_name/has_name_of_target.protect.md) 
 
-### [has_name_of_target.private](/_private/schema-org/Property/has_name/has_name_of_target.private.md) 
+### #is_/same_as :: [has_name_of_target.private](/_private/schema-org/Property/has_name/has_name_of_target.private.md) 
 
-### [has_name_of_target.personal](/_personal/schema-org/Property/has_name/has_name_of_target.personal.md) 
+### #is_/same_as :: [has_name_of_target.personal](/_personal/schema-org/Property/has_name/has_name_of_target.personal.md) 
 
-### [has_name_of_target.secret](/_secret/schema-org/Property/has_name/has_name_of_target.secret.md)
+### #is_/same_as :: [has_name_of_target.secret](/_secret/schema-org/Property/has_name/has_name_of_target.secret.md)
 

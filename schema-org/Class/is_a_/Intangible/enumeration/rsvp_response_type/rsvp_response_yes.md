@@ -47,17 +47,17 @@ The invitee will attend.
 
 ## Confidential Links & Embeds: 
 
-### [rsvp_response_yes](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.md) 
+### #is_/same_as :: [rsvp_response_yes](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.md) 
 
-### [rsvp_response_yes.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.public.md) 
+### #is_/same_as :: [rsvp_response_yes.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.public.md) 
 
-### [rsvp_response_yes.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md) 
+### #is_/same_as :: [rsvp_response_yes.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md) 
 
-### [rsvp_response_yes.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect.md) 
+### #is_/same_as :: [rsvp_response_yes.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect.md) 
 
-### [rsvp_response_yes.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.private.md) 
+### #is_/same_as :: [rsvp_response_yes.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.private.md) 
 
-### [rsvp_response_yes.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md) 
+### #is_/same_as :: [rsvp_response_yes.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md) 
 
-### [rsvp_response_yes.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md)
+### #is_/same_as :: [rsvp_response_yes.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md)
 

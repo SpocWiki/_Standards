@@ -56,17 +56,17 @@ NumConstraints:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConstraintNode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.md) 
+### #is_/same_as :: [FileClass~ConstraintNode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.md) 
 
-### [FileClass~ConstraintNode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.public.md) 
+### #is_/same_as :: [FileClass~ConstraintNode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.public.md) 
 
-### [FileClass~ConstraintNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.internal.md) 
+### #is_/same_as :: [FileClass~ConstraintNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.internal.md) 
 
-### [FileClass~ConstraintNode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.protect.md) 
+### #is_/same_as :: [FileClass~ConstraintNode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.protect.md) 
 
-### [FileClass~ConstraintNode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.private.md) 
+### #is_/same_as :: [FileClass~ConstraintNode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.private.md) 
 
-### [FileClass~ConstraintNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.personal.md) 
+### #is_/same_as :: [FileClass~ConstraintNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.personal.md) 
 
-### [FileClass~ConstraintNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.secret.md)
+### #is_/same_as :: [FileClass~ConstraintNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.secret.md)
 

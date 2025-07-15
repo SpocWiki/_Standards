@@ -445,17 +445,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Asia-CountryDb](/_Standards/Earth/Continent/Asia/_Asia-CountryDb.md) 
+### #is_/same_as :: [_Asia-CountryDb](/_Standards/Earth/Continent/Asia/_Asia-CountryDb.md) 
 
-### [_Asia-CountryDb.public](/_public/Earth/Continent/Asia/_Asia-CountryDb.public.md) 
+### #is_/same_as :: [_Asia-CountryDb.public](/_public/Earth/Continent/Asia/_Asia-CountryDb.public.md) 
 
-### [_Asia-CountryDb.internal](/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal.md) 
+### #is_/same_as :: [_Asia-CountryDb.internal](/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal.md) 
 
-### [_Asia-CountryDb.protect](/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect.md) 
+### #is_/same_as :: [_Asia-CountryDb.protect](/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect.md) 
 
-### [_Asia-CountryDb.private](/_private/Earth/Continent/Asia/_Asia-CountryDb.private.md) 
+### #is_/same_as :: [_Asia-CountryDb.private](/_private/Earth/Continent/Asia/_Asia-CountryDb.private.md) 
 
-### [_Asia-CountryDb.personal](/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal.md) 
+### #is_/same_as :: [_Asia-CountryDb.personal](/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal.md) 
 
-### [_Asia-CountryDb.secret](/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret.md)
+### #is_/same_as :: [_Asia-CountryDb.secret](/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret.md)
 

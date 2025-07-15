@@ -18,21 +18,19 @@ has_id_wikidata: Q11399
 > [Wikipedia](https://en.wikipedia.org/wiki/Rock%20music) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Rock_Music](/_Standards/bio/Society/Communication/Music/Music_Genre/Rock_Music.md) 
+### #is_/same_as :: [Rock_Music](/_Standards/bio/Society/Communication/Music/Music_Genre/Rock_Music.md) 
 
-### [Rock_Music.public](/_public/bio/Society/Communication/Music/Music_Genre/Rock_Music.public.md) 
+### #is_/same_as :: [Rock_Music.public](/_public/bio/Society/Communication/Music/Music_Genre/Rock_Music.public.md) 
 
-### [Rock_Music.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Rock_Music.internal.md) 
+### #is_/same_as :: [Rock_Music.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Rock_Music.internal.md) 
 
-### [Rock_Music.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Rock_Music.protect.md) 
+### #is_/same_as :: [Rock_Music.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Rock_Music.protect.md) 
 
-### [Rock_Music.private](/_private/bio/Society/Communication/Music/Music_Genre/Rock_Music.private.md) 
+### #is_/same_as :: [Rock_Music.private](/_private/bio/Society/Communication/Music/Music_Genre/Rock_Music.private.md) 
 
-### [Rock_Music.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Rock_Music.personal.md) 
+### #is_/same_as :: [Rock_Music.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Rock_Music.personal.md) 
 
-### [Rock_Music.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Rock_Music.secret.md)
+### #is_/same_as :: [Rock_Music.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Rock_Music.secret.md)
 

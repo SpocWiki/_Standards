@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Grothendieck,Alexander](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.md) 
+### #is_/same_as :: [Grothendieck,Alexander](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.md) 
 
-### [Grothendieck,Alexander.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.public.md) 
+### #is_/same_as :: [Grothendieck,Alexander.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.public.md) 
 
-### [Grothendieck,Alexander.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.internal.md) 
+### #is_/same_as :: [Grothendieck,Alexander.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.internal.md) 
 
-### [Grothendieck,Alexander.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.protect.md) 
+### #is_/same_as :: [Grothendieck,Alexander.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.protect.md) 
 
-### [Grothendieck,Alexander.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.private.md) 
+### #is_/same_as :: [Grothendieck,Alexander.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.private.md) 
 
-### [Grothendieck,Alexander.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.personal.md) 
+### #is_/same_as :: [Grothendieck,Alexander.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.personal.md) 
 
-### [Grothendieck,Alexander.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.secret.md)
+### #is_/same_as :: [Grothendieck,Alexander.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Grothendieck,Alexander.secret.md)
 

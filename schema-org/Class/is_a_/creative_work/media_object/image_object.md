@@ -49,17 +49,17 @@ An image file.
 
 ## Confidential Links & Embeds: 
 
-### [image_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object.md) 
+### #is_/same_as :: [image_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object.md) 
 
-### [image_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object.public.md) 
+### #is_/same_as :: [image_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object.public.md) 
 
-### [image_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object.internal.md) 
+### #is_/same_as :: [image_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object.internal.md) 
 
-### [image_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object.protect.md) 
+### #is_/same_as :: [image_object.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object.protect.md) 
 
-### [image_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object.private.md) 
+### #is_/same_as :: [image_object.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object.private.md) 
 
-### [image_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object.personal.md) 
+### #is_/same_as :: [image_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object.personal.md) 
 
-### [image_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object.secret.md)
+### #is_/same_as :: [image_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object.secret.md)
 

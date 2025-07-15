@@ -272,17 +272,17 @@ loci. 2006. Mycologia 98:1043-1054
 
 ## Confidential Links & Embeds: 
 
-### [Dothideomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.md) 
+### #is_/same_as :: [Dothideomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.md) 
 
-### [Dothideomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.public.md) 
+### #is_/same_as :: [Dothideomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.public.md) 
 
-### [Dothideomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.internal.md) 
+### #is_/same_as :: [Dothideomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.internal.md) 
 
-### [Dothideomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.protect.md) 
+### #is_/same_as :: [Dothideomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.protect.md) 
 
-### [Dothideomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.private.md) 
+### #is_/same_as :: [Dothideomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.private.md) 
 
-### [Dothideomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.personal.md) 
+### #is_/same_as :: [Dothideomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.personal.md) 
 
-### [Dothideomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.secret.md)
+### #is_/same_as :: [Dothideomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes.secret.md)
 

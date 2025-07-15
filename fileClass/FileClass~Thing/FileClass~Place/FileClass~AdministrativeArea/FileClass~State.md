@@ -35,17 +35,17 @@ A state or province of a country.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~State](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.md) 
+### #is_/same_as :: [FileClass~State](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.md) 
 
-### [FileClass~State.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.public.md) 
+### #is_/same_as :: [FileClass~State.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.public.md) 
 
-### [FileClass~State.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.internal.md) 
+### #is_/same_as :: [FileClass~State.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.internal.md) 
 
-### [FileClass~State.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.protect.md) 
+### #is_/same_as :: [FileClass~State.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.protect.md) 
 
-### [FileClass~State.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.private.md) 
+### #is_/same_as :: [FileClass~State.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.private.md) 
 
-### [FileClass~State.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.personal.md) 
+### #is_/same_as :: [FileClass~State.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.personal.md) 
 
-### [FileClass~State.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret.md)
+### #is_/same_as :: [FileClass~State.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret.md)
 

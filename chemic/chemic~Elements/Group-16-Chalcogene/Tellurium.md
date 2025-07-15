@@ -135,17 +135,17 @@ element_symbol: Te
 
 ## Confidential Links & Embeds: 
 
-### [Tellurium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.md) 
+### #is_/same_as :: [Tellurium](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.md) 
 
-### [Tellurium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.public.md) 
+### #is_/same_as :: [Tellurium.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.public.md) 
 
-### [Tellurium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.internal.md) 
+### #is_/same_as :: [Tellurium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.internal.md) 
 
-### [Tellurium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.protect.md) 
+### #is_/same_as :: [Tellurium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.protect.md) 
 
-### [Tellurium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.private.md) 
+### #is_/same_as :: [Tellurium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.private.md) 
 
-### [Tellurium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.personal.md) 
+### #is_/same_as :: [Tellurium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.personal.md) 
 
-### [Tellurium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.secret.md)
+### #is_/same_as :: [Tellurium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Tellurium.secret.md)
 

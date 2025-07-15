@@ -45,17 +45,17 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 ## Confidential Links & Embeds: 
 
-### [barcode](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.md) 
+### #is_/same_as :: [barcode](/_Standards/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.md) 
 
-### [barcode.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.public.md) 
+### #is_/same_as :: [barcode.public](/_public/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.public.md) 
 
-### [barcode.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.internal.md) 
+### #is_/same_as :: [barcode.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.internal.md) 
 
-### [barcode.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.protect.md) 
+### #is_/same_as :: [barcode.protect](/_protect/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.protect.md) 
 
-### [barcode.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.private.md) 
+### #is_/same_as :: [barcode.private](/_private/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.private.md) 
 
-### [barcode.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.personal.md) 
+### #is_/same_as :: [barcode.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.personal.md) 
 
-### [barcode.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.secret.md)
+### #is_/same_as :: [barcode.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/image_object/barcode.secret.md)
 

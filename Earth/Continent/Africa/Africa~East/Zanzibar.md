@@ -39,17 +39,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### [Zanzibar](/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar.md) 
+### #is_/same_as :: [Zanzibar](/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar.md) 
 
-### [Zanzibar.public](/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public.md) 
+### #is_/same_as :: [Zanzibar.public](/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public.md) 
 
-### [Zanzibar.internal](/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal.md) 
+### #is_/same_as :: [Zanzibar.internal](/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal.md) 
 
-### [Zanzibar.protect](/_protect/Earth/Continent/Africa/Africa~East/Zanzibar.protect.md) 
+### #is_/same_as :: [Zanzibar.protect](/_protect/Earth/Continent/Africa/Africa~East/Zanzibar.protect.md) 
 
-### [Zanzibar.private](/_private/Earth/Continent/Africa/Africa~East/Zanzibar.private.md) 
+### #is_/same_as :: [Zanzibar.private](/_private/Earth/Continent/Africa/Africa~East/Zanzibar.private.md) 
 
-### [Zanzibar.personal](/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal.md) 
+### #is_/same_as :: [Zanzibar.personal](/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal.md) 
 
-### [Zanzibar.secret](/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret.md)
+### #is_/same_as :: [Zanzibar.secret](/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret.md)
 

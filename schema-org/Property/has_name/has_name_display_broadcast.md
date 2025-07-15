@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_name_display_broadcast](/_Standards/schema-org/Property/has_name/has_name_display_broadcast.md) 
+### #is_/same_as :: [has_name_display_broadcast](/_Standards/schema-org/Property/has_name/has_name_display_broadcast.md) 
 
-### [has_name_display_broadcast.public](/_public/schema-org/Property/has_name/has_name_display_broadcast.public.md) 
+### #is_/same_as :: [has_name_display_broadcast.public](/_public/schema-org/Property/has_name/has_name_display_broadcast.public.md) 
 
-### [has_name_display_broadcast.internal](/_internal/schema-org/Property/has_name/has_name_display_broadcast.internal.md) 
+### #is_/same_as :: [has_name_display_broadcast.internal](/_internal/schema-org/Property/has_name/has_name_display_broadcast.internal.md) 
 
-### [has_name_display_broadcast.protect](/_protect/schema-org/Property/has_name/has_name_display_broadcast.protect.md) 
+### #is_/same_as :: [has_name_display_broadcast.protect](/_protect/schema-org/Property/has_name/has_name_display_broadcast.protect.md) 
 
-### [has_name_display_broadcast.private](/_private/schema-org/Property/has_name/has_name_display_broadcast.private.md) 
+### #is_/same_as :: [has_name_display_broadcast.private](/_private/schema-org/Property/has_name/has_name_display_broadcast.private.md) 
 
-### [has_name_display_broadcast.personal](/_personal/schema-org/Property/has_name/has_name_display_broadcast.personal.md) 
+### #is_/same_as :: [has_name_display_broadcast.personal](/_personal/schema-org/Property/has_name/has_name_display_broadcast.personal.md) 
 
-### [has_name_display_broadcast.secret](/_secret/schema-org/Property/has_name/has_name_display_broadcast.secret.md)
+### #is_/same_as :: [has_name_display_broadcast.secret](/_secret/schema-org/Property/has_name/has_name_display_broadcast.secret.md)
 

@@ -55,21 +55,19 @@ elevation_above_sea_level: 8848.86
 > [Wikipedia](https://en.wikipedia.org/wiki/Himalayas) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Himalayas](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas.md) 
+### #is_/same_as :: [Himalayas](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas.md) 
 
-### [Himalayas.public](/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public.md) 
+### #is_/same_as :: [Himalayas.public](/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public.md) 
 
-### [Himalayas.internal](/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal.md) 
+### #is_/same_as :: [Himalayas.internal](/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal.md) 
 
-### [Himalayas.protect](/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect.md) 
+### #is_/same_as :: [Himalayas.protect](/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect.md) 
 
-### [Himalayas.private](/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private.md) 
+### #is_/same_as :: [Himalayas.private](/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private.md) 
 
-### [Himalayas.personal](/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal.md) 
+### #is_/same_as :: [Himalayas.personal](/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal.md) 
 
-### [Himalayas.secret](/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret.md)
+### #is_/same_as :: [Himalayas.secret](/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret.md)
 

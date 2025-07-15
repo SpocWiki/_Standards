@@ -49,17 +49,17 @@ Treatments or related therapies for a Topic.
 
 ## Confidential Links & Embeds: 
 
-### [treatments_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.md) 
+### #is_/same_as :: [treatments_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.md) 
 
-### [treatments_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.public.md) 
+### #is_/same_as :: [treatments_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.public.md) 
 
-### [treatments_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.internal.md) 
+### #is_/same_as :: [treatments_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.internal.md) 
 
-### [treatments_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.protect.md) 
+### #is_/same_as :: [treatments_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.protect.md) 
 
-### [treatments_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.private.md) 
+### #is_/same_as :: [treatments_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.private.md) 
 
-### [treatments_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.personal.md) 
+### #is_/same_as :: [treatments_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.personal.md) 
 
-### [treatments_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.secret.md)
+### #is_/same_as :: [treatments_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.secret.md)
 

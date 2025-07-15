@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_pet_allowed](/_Standards/schema-org/Property/Flags/is_pet_allowed.md) 
+### #is_/same_as :: [is_pet_allowed](/_Standards/schema-org/Property/Flags/is_pet_allowed.md) 
 
-### [is_pet_allowed.public](/_public/schema-org/Property/Flags/is_pet_allowed.public.md) 
+### #is_/same_as :: [is_pet_allowed.public](/_public/schema-org/Property/Flags/is_pet_allowed.public.md) 
 
-### [is_pet_allowed.internal](/_internal/schema-org/Property/Flags/is_pet_allowed.internal.md) 
+### #is_/same_as :: [is_pet_allowed.internal](/_internal/schema-org/Property/Flags/is_pet_allowed.internal.md) 
 
-### [is_pet_allowed.protect](/_protect/schema-org/Property/Flags/is_pet_allowed.protect.md) 
+### #is_/same_as :: [is_pet_allowed.protect](/_protect/schema-org/Property/Flags/is_pet_allowed.protect.md) 
 
-### [is_pet_allowed.private](/_private/schema-org/Property/Flags/is_pet_allowed.private.md) 
+### #is_/same_as :: [is_pet_allowed.private](/_private/schema-org/Property/Flags/is_pet_allowed.private.md) 
 
-### [is_pet_allowed.personal](/_personal/schema-org/Property/Flags/is_pet_allowed.personal.md) 
+### #is_/same_as :: [is_pet_allowed.personal](/_personal/schema-org/Property/Flags/is_pet_allowed.personal.md) 
 
-### [is_pet_allowed.secret](/_secret/schema-org/Property/Flags/is_pet_allowed.secret.md)
+### #is_/same_as :: [is_pet_allowed.secret](/_secret/schema-org/Property/Flags/is_pet_allowed.secret.md)
 

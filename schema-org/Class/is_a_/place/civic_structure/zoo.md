@@ -44,17 +44,17 @@ A zoo.
 
 ## Confidential Links & Embeds: 
 
-### [zoo](/_Standards/schema-org/Class/is_a_/place/civic_structure/zoo.md) 
+### #is_/same_as :: [zoo](/_Standards/schema-org/Class/is_a_/place/civic_structure/zoo.md) 
 
-### [zoo.public](/_public/schema-org/Class/is_a_/place/civic_structure/zoo.public.md) 
+### #is_/same_as :: [zoo.public](/_public/schema-org/Class/is_a_/place/civic_structure/zoo.public.md) 
 
-### [zoo.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/zoo.internal.md) 
+### #is_/same_as :: [zoo.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/zoo.internal.md) 
 
-### [zoo.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/zoo.protect.md) 
+### #is_/same_as :: [zoo.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/zoo.protect.md) 
 
-### [zoo.private](/_private/schema-org/Class/is_a_/place/civic_structure/zoo.private.md) 
+### #is_/same_as :: [zoo.private](/_private/schema-org/Class/is_a_/place/civic_structure/zoo.private.md) 
 
-### [zoo.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/zoo.personal.md) 
+### #is_/same_as :: [zoo.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/zoo.personal.md) 
 
-### [zoo.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/zoo.secret.md)
+### #is_/same_as :: [zoo.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/zoo.secret.md)
 

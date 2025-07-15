@@ -141,21 +141,19 @@ date_of_birth: "1907-07-06"
 > [Wikipedia](https://en.wikipedia.org/wiki/Frida%20Kahlo)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Kahlo,Frida](/_Standards/bio/People/Painter/Kahlo,Frida.md) 
+### #is_/same_as :: [Kahlo,Frida](/_Standards/bio/People/Painter/Kahlo,Frida.md) 
 
-### [Kahlo,Frida.public](/_public/bio/People/Painter/Kahlo,Frida.public.md) 
+### #is_/same_as :: [Kahlo,Frida.public](/_public/bio/People/Painter/Kahlo,Frida.public.md) 
 
-### [Kahlo,Frida.internal](/_internal/bio/People/Painter/Kahlo,Frida.internal.md) 
+### #is_/same_as :: [Kahlo,Frida.internal](/_internal/bio/People/Painter/Kahlo,Frida.internal.md) 
 
-### [Kahlo,Frida.protect](/_protect/bio/People/Painter/Kahlo,Frida.protect.md) 
+### #is_/same_as :: [Kahlo,Frida.protect](/_protect/bio/People/Painter/Kahlo,Frida.protect.md) 
 
-### [Kahlo,Frida.private](/_private/bio/People/Painter/Kahlo,Frida.private.md) 
+### #is_/same_as :: [Kahlo,Frida.private](/_private/bio/People/Painter/Kahlo,Frida.private.md) 
 
-### [Kahlo,Frida.personal](/_personal/bio/People/Painter/Kahlo,Frida.personal.md) 
+### #is_/same_as :: [Kahlo,Frida.personal](/_personal/bio/People/Painter/Kahlo,Frida.personal.md) 
 
-### [Kahlo,Frida.secret](/_secret/bio/People/Painter/Kahlo,Frida.secret.md)
+### #is_/same_as :: [Kahlo,Frida.secret](/_secret/bio/People/Painter/Kahlo,Frida.secret.md)
 

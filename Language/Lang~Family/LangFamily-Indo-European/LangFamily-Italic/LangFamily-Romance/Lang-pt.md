@@ -163,17 +163,17 @@ Stack_Exchange_site_URL:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-pt](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.md) 
+### #is_/same_as :: [Lang-pt](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.md) 
 
-### [Lang-pt.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.public.md) 
+### #is_/same_as :: [Lang-pt.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.public.md) 
 
-### [Lang-pt.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.internal.md) 
+### #is_/same_as :: [Lang-pt.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.internal.md) 
 
-### [Lang-pt.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.protect.md) 
+### #is_/same_as :: [Lang-pt.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.protect.md) 
 
-### [Lang-pt.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.private.md) 
+### #is_/same_as :: [Lang-pt.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.private.md) 
 
-### [Lang-pt.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.personal.md) 
+### #is_/same_as :: [Lang-pt.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.personal.md) 
 
-### [Lang-pt.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.secret.md)
+### #is_/same_as :: [Lang-pt.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.secret.md)
 

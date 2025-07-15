@@ -45,17 +45,17 @@ Web page type: Video gallery page.
 
 ## Confidential Links & Embeds: 
 
-### [video_gallery](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.md) 
+### #is_/same_as :: [video_gallery](/_Standards/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.md) 
 
-### [video_gallery.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.public.md) 
+### #is_/same_as :: [video_gallery.public](/_public/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.public.md) 
 
-### [video_gallery.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.internal.md) 
+### #is_/same_as :: [video_gallery.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.internal.md) 
 
-### [video_gallery.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.protect.md) 
+### #is_/same_as :: [video_gallery.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.protect.md) 
 
-### [video_gallery.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.private.md) 
+### #is_/same_as :: [video_gallery.private](/_private/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.private.md) 
 
-### [video_gallery.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.personal.md) 
+### #is_/same_as :: [video_gallery.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.personal.md) 
 
-### [video_gallery.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.secret.md)
+### #is_/same_as :: [video_gallery.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.secret.md)
 

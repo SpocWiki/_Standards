@@ -45,17 +45,17 @@ A list of possible statuses for the legal force of a legislation.
 
 ## Confidential Links & Embeds: 
 
-### [legal_force_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.md) 
+### #is_/same_as :: [legal_force_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.md) 
 
-### [legal_force_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.public.md) 
+### #is_/same_as :: [legal_force_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.public.md) 
 
-### [legal_force_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.internal.md) 
+### #is_/same_as :: [legal_force_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.internal.md) 
 
-### [legal_force_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.protect.md) 
+### #is_/same_as :: [legal_force_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.protect.md) 
 
-### [legal_force_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.private.md) 
+### #is_/same_as :: [legal_force_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.private.md) 
 
-### [legal_force_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.personal.md) 
+### #is_/same_as :: [legal_force_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.personal.md) 
 
-### [legal_force_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.secret.md)
+### #is_/same_as :: [legal_force_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.secret.md)
 

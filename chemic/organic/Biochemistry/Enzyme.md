@@ -32,22 +32,19 @@ has_id_wikidata: Q8047
 > [Wikipedia](https://en.wikipedia.org/wiki/Enzyme)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Enzyme](/_Standards/chemic/organic/Biochemistry/Enzyme.md) 
+### #is_/same_as :: [Enzyme](/_Standards/chemic/organic/Biochemistry/Enzyme.md) 
 
-### [Enzyme.public](/_public/chemic/organic/Biochemistry/Enzyme.public.md) 
+### #is_/same_as :: [Enzyme.public](/_public/chemic/organic/Biochemistry/Enzyme.public.md) 
 
-### [Enzyme.internal](/_internal/chemic/organic/Biochemistry/Enzyme.internal.md) 
+### #is_/same_as :: [Enzyme.internal](/_internal/chemic/organic/Biochemistry/Enzyme.internal.md) 
 
-### [Enzyme.protect](/_protect/chemic/organic/Biochemistry/Enzyme.protect.md) 
+### #is_/same_as :: [Enzyme.protect](/_protect/chemic/organic/Biochemistry/Enzyme.protect.md) 
 
-### [Enzyme.private](/_private/chemic/organic/Biochemistry/Enzyme.private.md) 
+### #is_/same_as :: [Enzyme.private](/_private/chemic/organic/Biochemistry/Enzyme.private.md) 
 
-### [Enzyme.personal](/_personal/chemic/organic/Biochemistry/Enzyme.personal.md) 
+### #is_/same_as :: [Enzyme.personal](/_personal/chemic/organic/Biochemistry/Enzyme.personal.md) 
 
-### [Enzyme.secret](/_secret/chemic/organic/Biochemistry/Enzyme.secret.md)
+### #is_/same_as :: [Enzyme.secret](/_secret/chemic/organic/Biochemistry/Enzyme.secret.md)
 

@@ -35,17 +35,17 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Language](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.md) 
+### #is_/same_as :: [FileClass~Language](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.md) 
 
-### [FileClass~Language.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.public.md) 
+### #is_/same_as :: [FileClass~Language.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.public.md) 
 
-### [FileClass~Language.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.internal.md) 
+### #is_/same_as :: [FileClass~Language.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.internal.md) 
 
-### [FileClass~Language.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.protect.md) 
+### #is_/same_as :: [FileClass~Language.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.protect.md) 
 
-### [FileClass~Language.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.private.md) 
+### #is_/same_as :: [FileClass~Language.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.private.md) 
 
-### [FileClass~Language.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.personal.md) 
+### #is_/same_as :: [FileClass~Language.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.personal.md) 
 
-### [FileClass~Language.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.secret.md)
+### #is_/same_as :: [FileClass~Language.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.secret.md)
 

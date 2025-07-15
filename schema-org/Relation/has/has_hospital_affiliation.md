@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_hospital_affiliation](/_Standards/schema-org/Relation/has/has_hospital_affiliation.md) 
+### #is_/same_as :: [has_hospital_affiliation](/_Standards/schema-org/Relation/has/has_hospital_affiliation.md) 
 
-### [has_hospital_affiliation.public](/_public/schema-org/Relation/has/has_hospital_affiliation.public.md) 
+### #is_/same_as :: [has_hospital_affiliation.public](/_public/schema-org/Relation/has/has_hospital_affiliation.public.md) 
 
-### [has_hospital_affiliation.internal](/_internal/schema-org/Relation/has/has_hospital_affiliation.internal.md) 
+### #is_/same_as :: [has_hospital_affiliation.internal](/_internal/schema-org/Relation/has/has_hospital_affiliation.internal.md) 
 
-### [has_hospital_affiliation.protect](/_protect/schema-org/Relation/has/has_hospital_affiliation.protect.md) 
+### #is_/same_as :: [has_hospital_affiliation.protect](/_protect/schema-org/Relation/has/has_hospital_affiliation.protect.md) 
 
-### [has_hospital_affiliation.private](/_private/schema-org/Relation/has/has_hospital_affiliation.private.md) 
+### #is_/same_as :: [has_hospital_affiliation.private](/_private/schema-org/Relation/has/has_hospital_affiliation.private.md) 
 
-### [has_hospital_affiliation.personal](/_personal/schema-org/Relation/has/has_hospital_affiliation.personal.md) 
+### #is_/same_as :: [has_hospital_affiliation.personal](/_personal/schema-org/Relation/has/has_hospital_affiliation.personal.md) 
 
-### [has_hospital_affiliation.secret](/_secret/schema-org/Relation/has/has_hospital_affiliation.secret.md)
+### #is_/same_as :: [has_hospital_affiliation.secret](/_secret/schema-org/Relation/has/has_hospital_affiliation.secret.md)
 

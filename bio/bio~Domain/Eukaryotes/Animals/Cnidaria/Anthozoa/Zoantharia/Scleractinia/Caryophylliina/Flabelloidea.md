@@ -121,17 +121,17 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### [Flabelloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.md) 
+### #is_/same_as :: [Flabelloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.md) 
 
-### [Flabelloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public.md) 
+### #is_/same_as :: [Flabelloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.public.md) 
 
-### [Flabelloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.internal.md) 
+### #is_/same_as :: [Flabelloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.internal.md) 
 
-### [Flabelloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.protect.md) 
+### #is_/same_as :: [Flabelloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.protect.md) 
 
-### [Flabelloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.private.md) 
+### #is_/same_as :: [Flabelloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.private.md) 
 
-### [Flabelloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.personal.md) 
+### #is_/same_as :: [Flabelloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.personal.md) 
 
-### [Flabelloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.secret.md)
+### #is_/same_as :: [Flabelloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina/Flabelloidea.secret.md)
 

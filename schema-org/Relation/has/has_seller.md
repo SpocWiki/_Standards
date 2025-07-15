@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_seller](/_Standards/schema-org/Relation/has/has_seller.md) 
+### #is_/same_as :: [has_seller](/_Standards/schema-org/Relation/has/has_seller.md) 
 
-### [has_seller.public](/_public/schema-org/Relation/has/has_seller.public.md) 
+### #is_/same_as :: [has_seller.public](/_public/schema-org/Relation/has/has_seller.public.md) 
 
-### [has_seller.internal](/_internal/schema-org/Relation/has/has_seller.internal.md) 
+### #is_/same_as :: [has_seller.internal](/_internal/schema-org/Relation/has/has_seller.internal.md) 
 
-### [has_seller.protect](/_protect/schema-org/Relation/has/has_seller.protect.md) 
+### #is_/same_as :: [has_seller.protect](/_protect/schema-org/Relation/has/has_seller.protect.md) 
 
-### [has_seller.private](/_private/schema-org/Relation/has/has_seller.private.md) 
+### #is_/same_as :: [has_seller.private](/_private/schema-org/Relation/has/has_seller.private.md) 
 
-### [has_seller.personal](/_personal/schema-org/Relation/has/has_seller.personal.md) 
+### #is_/same_as :: [has_seller.personal](/_personal/schema-org/Relation/has/has_seller.personal.md) 
 
-### [has_seller.secret](/_secret/schema-org/Relation/has/has_seller.secret.md)
+### #is_/same_as :: [has_seller.secret](/_secret/schema-org/Relation/has/has_seller.secret.md)
 

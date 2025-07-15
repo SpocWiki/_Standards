@@ -50,17 +50,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_about](/_Standards/schema-org/Relation/is/is_about.md) 
+### #is_/same_as :: [is_about](/_Standards/schema-org/Relation/is/is_about.md) 
 
-### [is_about.public](/_public/schema-org/Relation/is/is_about.public.md) 
+### #is_/same_as :: [is_about.public](/_public/schema-org/Relation/is/is_about.public.md) 
 
-### [is_about.internal](/_internal/schema-org/Relation/is/is_about.internal.md) 
+### #is_/same_as :: [is_about.internal](/_internal/schema-org/Relation/is/is_about.internal.md) 
 
-### [is_about.protect](/_protect/schema-org/Relation/is/is_about.protect.md) 
+### #is_/same_as :: [is_about.protect](/_protect/schema-org/Relation/is/is_about.protect.md) 
 
-### [is_about.private](/_private/schema-org/Relation/is/is_about.private.md) 
+### #is_/same_as :: [is_about.private](/_private/schema-org/Relation/is/is_about.private.md) 
 
-### [is_about.personal](/_personal/schema-org/Relation/is/is_about.personal.md) 
+### #is_/same_as :: [is_about.personal](/_personal/schema-org/Relation/is/is_about.personal.md) 
 
-### [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md)
+### #is_/same_as :: [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md)
 

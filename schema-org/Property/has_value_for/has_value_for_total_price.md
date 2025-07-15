@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_total_price](/_Standards/schema-org/Property/has_value_for/has_value_for_total_price.md) 
+### #is_/same_as :: [has_value_for_total_price](/_Standards/schema-org/Property/has_value_for/has_value_for_total_price.md) 
 
-### [has_value_for_total_price.public](/_public/schema-org/Property/has_value_for/has_value_for_total_price.public.md) 
+### #is_/same_as :: [has_value_for_total_price.public](/_public/schema-org/Property/has_value_for/has_value_for_total_price.public.md) 
 
-### [has_value_for_total_price.internal](/_internal/schema-org/Property/has_value_for/has_value_for_total_price.internal.md) 
+### #is_/same_as :: [has_value_for_total_price.internal](/_internal/schema-org/Property/has_value_for/has_value_for_total_price.internal.md) 
 
-### [has_value_for_total_price.protect](/_protect/schema-org/Property/has_value_for/has_value_for_total_price.protect.md) 
+### #is_/same_as :: [has_value_for_total_price.protect](/_protect/schema-org/Property/has_value_for/has_value_for_total_price.protect.md) 
 
-### [has_value_for_total_price.private](/_private/schema-org/Property/has_value_for/has_value_for_total_price.private.md) 
+### #is_/same_as :: [has_value_for_total_price.private](/_private/schema-org/Property/has_value_for/has_value_for_total_price.private.md) 
 
-### [has_value_for_total_price.personal](/_personal/schema-org/Property/has_value_for/has_value_for_total_price.personal.md) 
+### #is_/same_as :: [has_value_for_total_price.personal](/_personal/schema-org/Property/has_value_for/has_value_for_total_price.personal.md) 
 
-### [has_value_for_total_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_total_price.secret.md)
+### #is_/same_as :: [has_value_for_total_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_total_price.secret.md)
 

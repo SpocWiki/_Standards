@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_antagonist](/_Standards/schema-org/Relation/has/has_antagonist.md) 
+### #is_/same_as :: [has_antagonist](/_Standards/schema-org/Relation/has/has_antagonist.md) 
 
-### [has_antagonist.public](/_public/schema-org/Relation/has/has_antagonist.public.md) 
+### #is_/same_as :: [has_antagonist.public](/_public/schema-org/Relation/has/has_antagonist.public.md) 
 
-### [has_antagonist.internal](/_internal/schema-org/Relation/has/has_antagonist.internal.md) 
+### #is_/same_as :: [has_antagonist.internal](/_internal/schema-org/Relation/has/has_antagonist.internal.md) 
 
-### [has_antagonist.protect](/_protect/schema-org/Relation/has/has_antagonist.protect.md) 
+### #is_/same_as :: [has_antagonist.protect](/_protect/schema-org/Relation/has/has_antagonist.protect.md) 
 
-### [has_antagonist.private](/_private/schema-org/Relation/has/has_antagonist.private.md) 
+### #is_/same_as :: [has_antagonist.private](/_private/schema-org/Relation/has/has_antagonist.private.md) 
 
-### [has_antagonist.personal](/_personal/schema-org/Relation/has/has_antagonist.personal.md) 
+### #is_/same_as :: [has_antagonist.personal](/_personal/schema-org/Relation/has/has_antagonist.personal.md) 
 
-### [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md)
+### #is_/same_as :: [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md)
 

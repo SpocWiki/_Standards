@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_rating_explanation](/_Standards/schema-org/Property/Texts/has_rating_explanation.md) 
+### #is_/same_as :: [has_rating_explanation](/_Standards/schema-org/Property/Texts/has_rating_explanation.md) 
 
-### [has_rating_explanation.public](/_public/schema-org/Property/Texts/has_rating_explanation.public.md) 
+### #is_/same_as :: [has_rating_explanation.public](/_public/schema-org/Property/Texts/has_rating_explanation.public.md) 
 
-### [has_rating_explanation.internal](/_internal/schema-org/Property/Texts/has_rating_explanation.internal.md) 
+### #is_/same_as :: [has_rating_explanation.internal](/_internal/schema-org/Property/Texts/has_rating_explanation.internal.md) 
 
-### [has_rating_explanation.protect](/_protect/schema-org/Property/Texts/has_rating_explanation.protect.md) 
+### #is_/same_as :: [has_rating_explanation.protect](/_protect/schema-org/Property/Texts/has_rating_explanation.protect.md) 
 
-### [has_rating_explanation.private](/_private/schema-org/Property/Texts/has_rating_explanation.private.md) 
+### #is_/same_as :: [has_rating_explanation.private](/_private/schema-org/Property/Texts/has_rating_explanation.private.md) 
 
-### [has_rating_explanation.personal](/_personal/schema-org/Property/Texts/has_rating_explanation.personal.md) 
+### #is_/same_as :: [has_rating_explanation.personal](/_personal/schema-org/Property/Texts/has_rating_explanation.personal.md) 
 
-### [has_rating_explanation.secret](/_secret/schema-org/Property/Texts/has_rating_explanation.secret.md)
+### #is_/same_as :: [has_rating_explanation.secret](/_secret/schema-org/Property/Texts/has_rating_explanation.secret.md)
 

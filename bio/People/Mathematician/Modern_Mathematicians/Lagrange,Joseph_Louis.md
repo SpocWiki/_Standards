@@ -149,21 +149,19 @@ ArhivX_LOD: 56659
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis%20Lagrange)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Lagrange,Joseph_Louis](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.md) 
 
-### [Lagrange,Joseph_Louis.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.public.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.public.md) 
 
-### [Lagrange,Joseph_Louis.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.internal.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.internal.md) 
 
-### [Lagrange,Joseph_Louis.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.protect.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.protect.md) 
 
-### [Lagrange,Joseph_Louis.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.private.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.private.md) 
 
-### [Lagrange,Joseph_Louis.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.personal.md) 
+### #is_/same_as :: [Lagrange,Joseph_Louis.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.personal.md) 
 
-### [Lagrange,Joseph_Louis.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.secret.md)
+### #is_/same_as :: [Lagrange,Joseph_Louis.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Lagrange,Joseph_Louis.secret.md)
 

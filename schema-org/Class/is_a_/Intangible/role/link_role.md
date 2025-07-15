@@ -47,17 +47,17 @@ A Role that represents a Web link, e.g. as expressed via the 'url' property. Its
 
 ## Confidential Links & Embeds: 
 
-### [link_role](/_Standards/schema-org/Class/is_a_/Intangible/role/link_role.md) 
+### #is_/same_as :: [link_role](/_Standards/schema-org/Class/is_a_/Intangible/role/link_role.md) 
 
-### [link_role.public](/_public/schema-org/Class/is_a_/Intangible/role/link_role.public.md) 
+### #is_/same_as :: [link_role.public](/_public/schema-org/Class/is_a_/Intangible/role/link_role.public.md) 
 
-### [link_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/link_role.internal.md) 
+### #is_/same_as :: [link_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/link_role.internal.md) 
 
-### [link_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/link_role.protect.md) 
+### #is_/same_as :: [link_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/link_role.protect.md) 
 
-### [link_role.private](/_private/schema-org/Class/is_a_/Intangible/role/link_role.private.md) 
+### #is_/same_as :: [link_role.private](/_private/schema-org/Class/is_a_/Intangible/role/link_role.private.md) 
 
-### [link_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/link_role.personal.md) 
+### #is_/same_as :: [link_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/link_role.personal.md) 
 
-### [link_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/link_role.secret.md)
+### #is_/same_as :: [link_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/link_role.secret.md)
 

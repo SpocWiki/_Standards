@@ -57,21 +57,19 @@ title: Spirostreptida
 	-   *Spirostreptidae*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Spirostreptida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.md) 
+### #is_/same_as :: [Spirostreptida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.md) 
 
-### [Spirostreptida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.public.md) 
+### #is_/same_as :: [Spirostreptida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.public.md) 
 
-### [Spirostreptida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.internal.md) 
+### #is_/same_as :: [Spirostreptida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.internal.md) 
 
-### [Spirostreptida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.protect.md) 
+### #is_/same_as :: [Spirostreptida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.protect.md) 
 
-### [Spirostreptida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.private.md) 
+### #is_/same_as :: [Spirostreptida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.private.md) 
 
-### [Spirostreptida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.personal.md) 
+### #is_/same_as :: [Spirostreptida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.personal.md) 
 
-### [Spirostreptida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.secret.md)
+### #is_/same_as :: [Spirostreptida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirostreptida.secret.md)
 

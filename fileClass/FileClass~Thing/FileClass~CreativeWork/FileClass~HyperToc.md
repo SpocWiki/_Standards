@@ -46,17 +46,17 @@ TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HyperToc](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.md) 
+### #is_/same_as :: [FileClass~HyperToc](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.md) 
 
-### [FileClass~HyperToc.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.public.md) 
+### #is_/same_as :: [FileClass~HyperToc.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.public.md) 
 
-### [FileClass~HyperToc.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.internal.md) 
+### #is_/same_as :: [FileClass~HyperToc.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.internal.md) 
 
-### [FileClass~HyperToc.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.protect.md) 
+### #is_/same_as :: [FileClass~HyperToc.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.protect.md) 
 
-### [FileClass~HyperToc.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.private.md) 
+### #is_/same_as :: [FileClass~HyperToc.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.private.md) 
 
-### [FileClass~HyperToc.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.personal.md) 
+### #is_/same_as :: [FileClass~HyperToc.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.personal.md) 
 
-### [FileClass~HyperToc.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret.md)
+### #is_/same_as :: [FileClass~HyperToc.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret.md)
 

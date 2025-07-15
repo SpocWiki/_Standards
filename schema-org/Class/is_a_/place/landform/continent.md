@@ -45,17 +45,17 @@ One of the continents (for example, Europe or Africa).
 
 ## Confidential Links & Embeds: 
 
-### [continent](/_Standards/schema-org/Class/is_a_/place/landform/continent.md) 
+### #is_/same_as :: [continent](/_Standards/schema-org/Class/is_a_/place/landform/continent.md) 
 
-### [continent.public](/_public/schema-org/Class/is_a_/place/landform/continent.public.md) 
+### #is_/same_as :: [continent.public](/_public/schema-org/Class/is_a_/place/landform/continent.public.md) 
 
-### [continent.internal](/_internal/schema-org/Class/is_a_/place/landform/continent.internal.md) 
+### #is_/same_as :: [continent.internal](/_internal/schema-org/Class/is_a_/place/landform/continent.internal.md) 
 
-### [continent.protect](/_protect/schema-org/Class/is_a_/place/landform/continent.protect.md) 
+### #is_/same_as :: [continent.protect](/_protect/schema-org/Class/is_a_/place/landform/continent.protect.md) 
 
-### [continent.private](/_private/schema-org/Class/is_a_/place/landform/continent.private.md) 
+### #is_/same_as :: [continent.private](/_private/schema-org/Class/is_a_/place/landform/continent.private.md) 
 
-### [continent.personal](/_personal/schema-org/Class/is_a_/place/landform/continent.personal.md) 
+### #is_/same_as :: [continent.personal](/_personal/schema-org/Class/is_a_/place/landform/continent.personal.md) 
 
-### [continent.secret](/_secret/schema-org/Class/is_a_/place/landform/continent.secret.md)
+### #is_/same_as :: [continent.secret](/_secret/schema-org/Class/is_a_/place/landform/continent.secret.md)
 

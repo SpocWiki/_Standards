@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_lender](/_Standards/schema-org/Relation/has/has_lender.md) 
+### #is_/same_as :: [has_lender](/_Standards/schema-org/Relation/has/has_lender.md) 
 
-### [has_lender.public](/_public/schema-org/Relation/has/has_lender.public.md) 
+### #is_/same_as :: [has_lender.public](/_public/schema-org/Relation/has/has_lender.public.md) 
 
-### [has_lender.internal](/_internal/schema-org/Relation/has/has_lender.internal.md) 
+### #is_/same_as :: [has_lender.internal](/_internal/schema-org/Relation/has/has_lender.internal.md) 
 
-### [has_lender.protect](/_protect/schema-org/Relation/has/has_lender.protect.md) 
+### #is_/same_as :: [has_lender.protect](/_protect/schema-org/Relation/has/has_lender.protect.md) 
 
-### [has_lender.private](/_private/schema-org/Relation/has/has_lender.private.md) 
+### #is_/same_as :: [has_lender.private](/_private/schema-org/Relation/has/has_lender.private.md) 
 
-### [has_lender.personal](/_personal/schema-org/Relation/has/has_lender.personal.md) 
+### #is_/same_as :: [has_lender.personal](/_personal/schema-org/Relation/has/has_lender.personal.md) 
 
-### [has_lender.secret](/_secret/schema-org/Relation/has/has_lender.secret.md)
+### #is_/same_as :: [has_lender.secret](/_secret/schema-org/Relation/has/has_lender.secret.md)
 

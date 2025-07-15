@@ -51,17 +51,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_legislation_consolidated_from](/_Standards/schema-org/Relation/is/is_legislation_consolidated_from.md) 
+### #is_/same_as :: [is_legislation_consolidated_from](/_Standards/schema-org/Relation/is/is_legislation_consolidated_from.md) 
 
-### [is_legislation_consolidated_from.public](/_public/schema-org/Relation/is/is_legislation_consolidated_from.public.md) 
+### #is_/same_as :: [is_legislation_consolidated_from.public](/_public/schema-org/Relation/is/is_legislation_consolidated_from.public.md) 
 
-### [is_legislation_consolidated_from.internal](/_internal/schema-org/Relation/is/is_legislation_consolidated_from.internal.md) 
+### #is_/same_as :: [is_legislation_consolidated_from.internal](/_internal/schema-org/Relation/is/is_legislation_consolidated_from.internal.md) 
 
-### [is_legislation_consolidated_from.protect](/_protect/schema-org/Relation/is/is_legislation_consolidated_from.protect.md) 
+### #is_/same_as :: [is_legislation_consolidated_from.protect](/_protect/schema-org/Relation/is/is_legislation_consolidated_from.protect.md) 
 
-### [is_legislation_consolidated_from.private](/_private/schema-org/Relation/is/is_legislation_consolidated_from.private.md) 
+### #is_/same_as :: [is_legislation_consolidated_from.private](/_private/schema-org/Relation/is/is_legislation_consolidated_from.private.md) 
 
-### [is_legislation_consolidated_from.personal](/_personal/schema-org/Relation/is/is_legislation_consolidated_from.personal.md) 
+### #is_/same_as :: [is_legislation_consolidated_from.personal](/_personal/schema-org/Relation/is/is_legislation_consolidated_from.personal.md) 
 
-### [is_legislation_consolidated_from.secret](/_secret/schema-org/Relation/is/is_legislation_consolidated_from.secret.md)
+### #is_/same_as :: [is_legislation_consolidated_from.secret](/_secret/schema-org/Relation/is/is_legislation_consolidated_from.secret.md)
 

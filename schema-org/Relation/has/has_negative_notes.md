@@ -60,17 +60,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_negative_notes](/_Standards/schema-org/Relation/has/has_negative_notes.md) 
+### #is_/same_as :: [has_negative_notes](/_Standards/schema-org/Relation/has/has_negative_notes.md) 
 
-### [has_negative_notes.public](/_public/schema-org/Relation/has/has_negative_notes.public.md) 
+### #is_/same_as :: [has_negative_notes.public](/_public/schema-org/Relation/has/has_negative_notes.public.md) 
 
-### [has_negative_notes.internal](/_internal/schema-org/Relation/has/has_negative_notes.internal.md) 
+### #is_/same_as :: [has_negative_notes.internal](/_internal/schema-org/Relation/has/has_negative_notes.internal.md) 
 
-### [has_negative_notes.protect](/_protect/schema-org/Relation/has/has_negative_notes.protect.md) 
+### #is_/same_as :: [has_negative_notes.protect](/_protect/schema-org/Relation/has/has_negative_notes.protect.md) 
 
-### [has_negative_notes.private](/_private/schema-org/Relation/has/has_negative_notes.private.md) 
+### #is_/same_as :: [has_negative_notes.private](/_private/schema-org/Relation/has/has_negative_notes.private.md) 
 
-### [has_negative_notes.personal](/_personal/schema-org/Relation/has/has_negative_notes.personal.md) 
+### #is_/same_as :: [has_negative_notes.personal](/_personal/schema-org/Relation/has/has_negative_notes.personal.md) 
 
-### [has_negative_notes.secret](/_secret/schema-org/Relation/has/has_negative_notes.secret.md)
+### #is_/same_as :: [has_negative_notes.secret](/_secret/schema-org/Relation/has/has_negative_notes.secret.md)
 

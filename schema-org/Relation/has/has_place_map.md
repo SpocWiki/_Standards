@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_place_map](/_Standards/schema-org/Relation/has/has_place_map.md) 
+### #is_/same_as :: [has_place_map](/_Standards/schema-org/Relation/has/has_place_map.md) 
 
-### [has_place_map.public](/_public/schema-org/Relation/has/has_place_map.public.md) 
+### #is_/same_as :: [has_place_map.public](/_public/schema-org/Relation/has/has_place_map.public.md) 
 
-### [has_place_map.internal](/_internal/schema-org/Relation/has/has_place_map.internal.md) 
+### #is_/same_as :: [has_place_map.internal](/_internal/schema-org/Relation/has/has_place_map.internal.md) 
 
-### [has_place_map.protect](/_protect/schema-org/Relation/has/has_place_map.protect.md) 
+### #is_/same_as :: [has_place_map.protect](/_protect/schema-org/Relation/has/has_place_map.protect.md) 
 
-### [has_place_map.private](/_private/schema-org/Relation/has/has_place_map.private.md) 
+### #is_/same_as :: [has_place_map.private](/_private/schema-org/Relation/has/has_place_map.private.md) 
 
-### [has_place_map.personal](/_personal/schema-org/Relation/has/has_place_map.personal.md) 
+### #is_/same_as :: [has_place_map.personal](/_personal/schema-org/Relation/has/has_place_map.personal.md) 
 
-### [has_place_map.secret](/_secret/schema-org/Relation/has/has_place_map.secret.md)
+### #is_/same_as :: [has_place_map.secret](/_secret/schema-org/Relation/has/has_place_map.secret.md)
 

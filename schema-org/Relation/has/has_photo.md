@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_photo](/_Standards/schema-org/Relation/has/has_photo.md) 
+### #is_/same_as :: [has_photo](/_Standards/schema-org/Relation/has/has_photo.md) 
 
-### [has_photo.public](/_public/schema-org/Relation/has/has_photo.public.md) 
+### #is_/same_as :: [has_photo.public](/_public/schema-org/Relation/has/has_photo.public.md) 
 
-### [has_photo.internal](/_internal/schema-org/Relation/has/has_photo.internal.md) 
+### #is_/same_as :: [has_photo.internal](/_internal/schema-org/Relation/has/has_photo.internal.md) 
 
-### [has_photo.protect](/_protect/schema-org/Relation/has/has_photo.protect.md) 
+### #is_/same_as :: [has_photo.protect](/_protect/schema-org/Relation/has/has_photo.protect.md) 
 
-### [has_photo.private](/_private/schema-org/Relation/has/has_photo.private.md) 
+### #is_/same_as :: [has_photo.private](/_private/schema-org/Relation/has/has_photo.private.md) 
 
-### [has_photo.personal](/_personal/schema-org/Relation/has/has_photo.personal.md) 
+### #is_/same_as :: [has_photo.personal](/_personal/schema-org/Relation/has/has_photo.personal.md) 
 
-### [has_photo.secret](/_secret/schema-org/Relation/has/has_photo.secret.md)
+### #is_/same_as :: [has_photo.secret](/_secret/schema-org/Relation/has/has_photo.secret.md)
 

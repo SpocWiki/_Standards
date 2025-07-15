@@ -187,22 +187,19 @@ date_of_birth: "1225"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Aquinas)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aquinas,Thomas](/_Standards/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.md) 
+### #is_/same_as :: [Aquinas,Thomas](/_Standards/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.md) 
 
-### [Aquinas,Thomas.public](/_public/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.public.md) 
+### #is_/same_as :: [Aquinas,Thomas.public](/_public/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.public.md) 
 
-### [Aquinas,Thomas.internal](/_internal/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.internal.md) 
+### #is_/same_as :: [Aquinas,Thomas.internal](/_internal/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.internal.md) 
 
-### [Aquinas,Thomas.protect](/_protect/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.protect.md) 
+### #is_/same_as :: [Aquinas,Thomas.protect](/_protect/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.protect.md) 
 
-### [Aquinas,Thomas.private](/_private/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.private.md) 
+### #is_/same_as :: [Aquinas,Thomas.private](/_private/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.private.md) 
 
-### [Aquinas,Thomas.personal](/_personal/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.personal.md) 
+### #is_/same_as :: [Aquinas,Thomas.personal](/_personal/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.personal.md) 
 
-### [Aquinas,Thomas.secret](/_secret/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.secret.md)
+### #is_/same_as :: [Aquinas,Thomas.secret](/_secret/bio/People/Philosopher/Middle_Ages_Philosophers/Aquinas,Thomas.secret.md)
 

@@ -398,17 +398,17 @@ Capital :: [[Majuro]]
 
 ## Confidential Links & Embeds: 
 
-### [Marshall~Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands.md) 
+### #is_/same_as :: [Marshall~Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands.md) 
 
-### [Marshall~Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands.public.md) 
+### #is_/same_as :: [Marshall~Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands.public.md) 
 
-### [Marshall~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.internal.md) 
+### #is_/same_as :: [Marshall~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.internal.md) 
 
-### [Marshall~Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands.protect.md) 
+### #is_/same_as :: [Marshall~Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands.protect.md) 
 
-### [Marshall~Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands.private.md) 
+### #is_/same_as :: [Marshall~Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands.private.md) 
 
-### [Marshall~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.personal.md) 
+### #is_/same_as :: [Marshall~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.personal.md) 
 
-### [Marshall~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands.secret.md)
+### #is_/same_as :: [Marshall~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands.secret.md)
 

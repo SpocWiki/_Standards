@@ -95,22 +95,19 @@ high G+C Gram positives.
     -   [Bifidobacteriales](Bifidobacteriales)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Actinobacteria](/_Standards/bio/bio~Domain/Bacteria/Actinobacteria.md) 
+### #is_/same_as :: [Actinobacteria](/_Standards/bio/bio~Domain/Bacteria/Actinobacteria.md) 
 
-### [Actinobacteria.public](/_public/bio/bio~Domain/Bacteria/Actinobacteria.public.md) 
+### #is_/same_as :: [Actinobacteria.public](/_public/bio/bio~Domain/Bacteria/Actinobacteria.public.md) 
 
-### [Actinobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Actinobacteria.internal.md) 
+### #is_/same_as :: [Actinobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Actinobacteria.internal.md) 
 
-### [Actinobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Actinobacteria.protect.md) 
+### #is_/same_as :: [Actinobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Actinobacteria.protect.md) 
 
-### [Actinobacteria.private](/_private/bio/bio~Domain/Bacteria/Actinobacteria.private.md) 
+### #is_/same_as :: [Actinobacteria.private](/_private/bio/bio~Domain/Bacteria/Actinobacteria.private.md) 
 
-### [Actinobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Actinobacteria.personal.md) 
+### #is_/same_as :: [Actinobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Actinobacteria.personal.md) 
 
-### [Actinobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Actinobacteria.secret.md)
+### #is_/same_as :: [Actinobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Actinobacteria.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_broadcast_channel](/_Standards/schema-org/Property/has_name/has_id_broadcast_channel.md) 
+### #is_/same_as :: [has_id_broadcast_channel](/_Standards/schema-org/Property/has_name/has_id_broadcast_channel.md) 
 
-### [has_id_broadcast_channel.public](/_public/schema-org/Property/has_name/has_id_broadcast_channel.public.md) 
+### #is_/same_as :: [has_id_broadcast_channel.public](/_public/schema-org/Property/has_name/has_id_broadcast_channel.public.md) 
 
-### [has_id_broadcast_channel.internal](/_internal/schema-org/Property/has_name/has_id_broadcast_channel.internal.md) 
+### #is_/same_as :: [has_id_broadcast_channel.internal](/_internal/schema-org/Property/has_name/has_id_broadcast_channel.internal.md) 
 
-### [has_id_broadcast_channel.protect](/_protect/schema-org/Property/has_name/has_id_broadcast_channel.protect.md) 
+### #is_/same_as :: [has_id_broadcast_channel.protect](/_protect/schema-org/Property/has_name/has_id_broadcast_channel.protect.md) 
 
-### [has_id_broadcast_channel.private](/_private/schema-org/Property/has_name/has_id_broadcast_channel.private.md) 
+### #is_/same_as :: [has_id_broadcast_channel.private](/_private/schema-org/Property/has_name/has_id_broadcast_channel.private.md) 
 
-### [has_id_broadcast_channel.personal](/_personal/schema-org/Property/has_name/has_id_broadcast_channel.personal.md) 
+### #is_/same_as :: [has_id_broadcast_channel.personal](/_personal/schema-org/Property/has_name/has_id_broadcast_channel.personal.md) 
 
-### [has_id_broadcast_channel.secret](/_secret/schema-org/Property/has_name/has_id_broadcast_channel.secret.md)
+### #is_/same_as :: [has_id_broadcast_channel.secret](/_secret/schema-org/Property/has_name/has_id_broadcast_channel.secret.md)
 

@@ -62,23 +62,19 @@ Below is a detailed explanation:
 - A single glycogen particle in muscle typically contains **30,000 to 40,000 glucose units**.
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Glycogen](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.md) 
+### #is_/same_as :: [Glycogen](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.md) 
 
-### [Glycogen.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public.md) 
+### #is_/same_as :: [Glycogen.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public.md) 
 
-### [Glycogen.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.internal.md) 
+### #is_/same_as :: [Glycogen.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.internal.md) 
 
-### [Glycogen.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.protect.md) 
+### #is_/same_as :: [Glycogen.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.protect.md) 
 
-### [Glycogen.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.private.md) 
+### #is_/same_as :: [Glycogen.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.private.md) 
 
-### [Glycogen.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.personal.md) 
+### #is_/same_as :: [Glycogen.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.personal.md) 
 
-### [Glycogen.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.secret.md)
+### #is_/same_as :: [Glycogen.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.secret.md)
 

@@ -35,17 +35,17 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PreventionIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.md) 
+### #is_/same_as :: [FileClass~PreventionIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.md) 
 
-### [FileClass~PreventionIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.public.md) 
+### #is_/same_as :: [FileClass~PreventionIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.public.md) 
 
-### [FileClass~PreventionIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.internal.md) 
+### #is_/same_as :: [FileClass~PreventionIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.internal.md) 
 
-### [FileClass~PreventionIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.protect.md) 
+### #is_/same_as :: [FileClass~PreventionIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.protect.md) 
 
-### [FileClass~PreventionIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.private.md) 
+### #is_/same_as :: [FileClass~PreventionIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.private.md) 
 
-### [FileClass~PreventionIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.personal.md) 
+### #is_/same_as :: [FileClass~PreventionIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.personal.md) 
 
-### [FileClass~PreventionIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret.md)
+### #is_/same_as :: [FileClass~PreventionIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret.md)
 

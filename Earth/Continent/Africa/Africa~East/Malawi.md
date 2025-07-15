@@ -437,17 +437,17 @@ Capital :: [[Lilongwe]]
 
 ## Confidential Links & Embeds: 
 
-### [Malawi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi.md) 
+### #is_/same_as :: [Malawi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi.md) 
 
-### [Malawi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi.public.md) 
+### #is_/same_as :: [Malawi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi.public.md) 
 
-### [Malawi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal.md) 
+### #is_/same_as :: [Malawi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal.md) 
 
-### [Malawi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect.md) 
+### #is_/same_as :: [Malawi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect.md) 
 
-### [Malawi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi.private.md) 
+### #is_/same_as :: [Malawi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi.private.md) 
 
-### [Malawi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal.md) 
+### #is_/same_as :: [Malawi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal.md) 
 
-### [Malawi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret.md)
+### #is_/same_as :: [Malawi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret.md)
 

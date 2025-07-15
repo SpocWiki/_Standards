@@ -47,17 +47,17 @@ A specific branch of medical science that specializes in the care of women durin
 
 ## Confidential Links & Embeds: 
 
-### [obstetric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.md) 
+### #is_/same_as :: [obstetric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.md) 
 
-### [obstetric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.public.md) 
+### #is_/same_as :: [obstetric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.public.md) 
 
-### [obstetric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.internal.md) 
+### #is_/same_as :: [obstetric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.internal.md) 
 
-### [obstetric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.protect.md) 
+### #is_/same_as :: [obstetric.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.protect.md) 
 
-### [obstetric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.private.md) 
+### #is_/same_as :: [obstetric.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.private.md) 
 
-### [obstetric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.personal.md) 
+### #is_/same_as :: [obstetric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.personal.md) 
 
-### [obstetric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.secret.md)
+### #is_/same_as :: [obstetric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/obstetric.secret.md)
 

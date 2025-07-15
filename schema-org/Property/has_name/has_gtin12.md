@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_gtin12](/_Standards/schema-org/Property/has_name/has_gtin12.md) 
+### #is_/same_as :: [has_gtin12](/_Standards/schema-org/Property/has_name/has_gtin12.md) 
 
-### [has_gtin12.public](/_public/schema-org/Property/has_name/has_gtin12.public.md) 
+### #is_/same_as :: [has_gtin12.public](/_public/schema-org/Property/has_name/has_gtin12.public.md) 
 
-### [has_gtin12.internal](/_internal/schema-org/Property/has_name/has_gtin12.internal.md) 
+### #is_/same_as :: [has_gtin12.internal](/_internal/schema-org/Property/has_name/has_gtin12.internal.md) 
 
-### [has_gtin12.protect](/_protect/schema-org/Property/has_name/has_gtin12.protect.md) 
+### #is_/same_as :: [has_gtin12.protect](/_protect/schema-org/Property/has_name/has_gtin12.protect.md) 
 
-### [has_gtin12.private](/_private/schema-org/Property/has_name/has_gtin12.private.md) 
+### #is_/same_as :: [has_gtin12.private](/_private/schema-org/Property/has_name/has_gtin12.private.md) 
 
-### [has_gtin12.personal](/_personal/schema-org/Property/has_name/has_gtin12.personal.md) 
+### #is_/same_as :: [has_gtin12.personal](/_personal/schema-org/Property/has_name/has_gtin12.personal.md) 
 
-### [has_gtin12.secret](/_secret/schema-org/Property/has_name/has_gtin12.secret.md)
+### #is_/same_as :: [has_gtin12.secret](/_secret/schema-org/Property/has_name/has_gtin12.secret.md)
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_tributary](/_Standards/schema-org/Relation/has/has_tributary.md) 
+### #is_/same_as :: [has_tributary](/_Standards/schema-org/Relation/has/has_tributary.md) 
 
-### [has_tributary.public](/_public/schema-org/Relation/has/has_tributary.public.md) 
+### #is_/same_as :: [has_tributary.public](/_public/schema-org/Relation/has/has_tributary.public.md) 
 
-### [has_tributary.internal](/_internal/schema-org/Relation/has/has_tributary.internal.md) 
+### #is_/same_as :: [has_tributary.internal](/_internal/schema-org/Relation/has/has_tributary.internal.md) 
 
-### [has_tributary.protect](/_protect/schema-org/Relation/has/has_tributary.protect.md) 
+### #is_/same_as :: [has_tributary.protect](/_protect/schema-org/Relation/has/has_tributary.protect.md) 
 
-### [has_tributary.private](/_private/schema-org/Relation/has/has_tributary.private.md) 
+### #is_/same_as :: [has_tributary.private](/_private/schema-org/Relation/has/has_tributary.private.md) 
 
-### [has_tributary.personal](/_personal/schema-org/Relation/has/has_tributary.personal.md) 
+### #is_/same_as :: [has_tributary.personal](/_personal/schema-org/Relation/has/has_tributary.personal.md) 
 
-### [has_tributary.secret](/_secret/schema-org/Relation/has/has_tributary.secret.md)
+### #is_/same_as :: [has_tributary.secret](/_secret/schema-org/Relation/has/has_tributary.secret.md)
 

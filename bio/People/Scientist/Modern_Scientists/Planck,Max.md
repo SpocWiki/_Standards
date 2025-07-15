@@ -208,22 +208,19 @@ nominated_for: "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Max%20Planck)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Planck,Max](/_Standards/bio/People/Scientist/Modern_Scientists/Planck,Max.md) 
+### #is_/same_as :: [Planck,Max](/_Standards/bio/People/Scientist/Modern_Scientists/Planck,Max.md) 
 
-### [Planck,Max.public](/_public/bio/People/Scientist/Modern_Scientists/Planck,Max.public.md) 
+### #is_/same_as :: [Planck,Max.public](/_public/bio/People/Scientist/Modern_Scientists/Planck,Max.public.md) 
 
-### [Planck,Max.internal](/_internal/bio/People/Scientist/Modern_Scientists/Planck,Max.internal.md) 
+### #is_/same_as :: [Planck,Max.internal](/_internal/bio/People/Scientist/Modern_Scientists/Planck,Max.internal.md) 
 
-### [Planck,Max.protect](/_protect/bio/People/Scientist/Modern_Scientists/Planck,Max.protect.md) 
+### #is_/same_as :: [Planck,Max.protect](/_protect/bio/People/Scientist/Modern_Scientists/Planck,Max.protect.md) 
 
-### [Planck,Max.private](/_private/bio/People/Scientist/Modern_Scientists/Planck,Max.private.md) 
+### #is_/same_as :: [Planck,Max.private](/_private/bio/People/Scientist/Modern_Scientists/Planck,Max.private.md) 
 
-### [Planck,Max.personal](/_personal/bio/People/Scientist/Modern_Scientists/Planck,Max.personal.md) 
+### #is_/same_as :: [Planck,Max.personal](/_personal/bio/People/Scientist/Modern_Scientists/Planck,Max.personal.md) 
 
-### [Planck,Max.secret](/_secret/bio/People/Scientist/Modern_Scientists/Planck,Max.secret.md)
+### #is_/same_as :: [Planck,Max.secret](/_secret/bio/People/Scientist/Modern_Scientists/Planck,Max.secret.md)
 

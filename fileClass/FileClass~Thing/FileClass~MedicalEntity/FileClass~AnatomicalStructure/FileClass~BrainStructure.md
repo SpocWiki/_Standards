@@ -35,17 +35,17 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BrainStructure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.md) 
+### #is_/same_as :: [FileClass~BrainStructure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.md) 
 
-### [FileClass~BrainStructure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.public.md) 
+### #is_/same_as :: [FileClass~BrainStructure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.public.md) 
 
-### [FileClass~BrainStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.internal.md) 
+### #is_/same_as :: [FileClass~BrainStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.internal.md) 
 
-### [FileClass~BrainStructure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.protect.md) 
+### #is_/same_as :: [FileClass~BrainStructure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.protect.md) 
 
-### [FileClass~BrainStructure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.private.md) 
+### #is_/same_as :: [FileClass~BrainStructure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.private.md) 
 
-### [FileClass~BrainStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.personal.md) 
+### #is_/same_as :: [FileClass~BrainStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.personal.md) 
 
-### [FileClass~BrainStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.secret.md)
+### #is_/same_as :: [FileClass~BrainStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~BrainStructure.secret.md)
 

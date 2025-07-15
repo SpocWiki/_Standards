@@ -47,17 +47,17 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 ## Confidential Links & Embeds: 
 
-### [software_source_code](/_Standards/schema-org/Class/is_a_/creative_work/software_source_code.md) 
+### #is_/same_as :: [software_source_code](/_Standards/schema-org/Class/is_a_/creative_work/software_source_code.md) 
 
-### [software_source_code.public](/_public/schema-org/Class/is_a_/creative_work/software_source_code.public.md) 
+### #is_/same_as :: [software_source_code.public](/_public/schema-org/Class/is_a_/creative_work/software_source_code.public.md) 
 
-### [software_source_code.internal](/_internal/schema-org/Class/is_a_/creative_work/software_source_code.internal.md) 
+### #is_/same_as :: [software_source_code.internal](/_internal/schema-org/Class/is_a_/creative_work/software_source_code.internal.md) 
 
-### [software_source_code.protect](/_protect/schema-org/Class/is_a_/creative_work/software_source_code.protect.md) 
+### #is_/same_as :: [software_source_code.protect](/_protect/schema-org/Class/is_a_/creative_work/software_source_code.protect.md) 
 
-### [software_source_code.private](/_private/schema-org/Class/is_a_/creative_work/software_source_code.private.md) 
+### #is_/same_as :: [software_source_code.private](/_private/schema-org/Class/is_a_/creative_work/software_source_code.private.md) 
 
-### [software_source_code.personal](/_personal/schema-org/Class/is_a_/creative_work/software_source_code.personal.md) 
+### #is_/same_as :: [software_source_code.personal](/_personal/schema-org/Class/is_a_/creative_work/software_source_code.personal.md) 
 
-### [software_source_code.secret](/_secret/schema-org/Class/is_a_/creative_work/software_source_code.secret.md)
+### #is_/same_as :: [software_source_code.secret](/_secret/schema-org/Class/is_a_/creative_work/software_source_code.secret.md)
 

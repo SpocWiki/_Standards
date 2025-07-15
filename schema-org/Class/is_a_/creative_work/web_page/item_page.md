@@ -45,17 +45,17 @@ A page devoted to a single item, such as a particular product or hotel.
 
 ## Confidential Links & Embeds: 
 
-### [item_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/item_page.md) 
+### #is_/same_as :: [item_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/item_page.md) 
 
-### [item_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/item_page.public.md) 
+### #is_/same_as :: [item_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/item_page.public.md) 
 
-### [item_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/item_page.internal.md) 
+### #is_/same_as :: [item_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/item_page.internal.md) 
 
-### [item_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/item_page.protect.md) 
+### #is_/same_as :: [item_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/item_page.protect.md) 
 
-### [item_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/item_page.private.md) 
+### #is_/same_as :: [item_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/item_page.private.md) 
 
-### [item_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/item_page.personal.md) 
+### #is_/same_as :: [item_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/item_page.personal.md) 
 
-### [item_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/item_page.secret.md)
+### #is_/same_as :: [item_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/item_page.secret.md)
 

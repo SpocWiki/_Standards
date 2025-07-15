@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_educational_role](/_Standards/schema-org/Property/Texts/has_educational_role.md) 
+### #is_/same_as :: [has_educational_role](/_Standards/schema-org/Property/Texts/has_educational_role.md) 
 
-### [has_educational_role.public](/_public/schema-org/Property/Texts/has_educational_role.public.md) 
+### #is_/same_as :: [has_educational_role.public](/_public/schema-org/Property/Texts/has_educational_role.public.md) 
 
-### [has_educational_role.internal](/_internal/schema-org/Property/Texts/has_educational_role.internal.md) 
+### #is_/same_as :: [has_educational_role.internal](/_internal/schema-org/Property/Texts/has_educational_role.internal.md) 
 
-### [has_educational_role.protect](/_protect/schema-org/Property/Texts/has_educational_role.protect.md) 
+### #is_/same_as :: [has_educational_role.protect](/_protect/schema-org/Property/Texts/has_educational_role.protect.md) 
 
-### [has_educational_role.private](/_private/schema-org/Property/Texts/has_educational_role.private.md) 
+### #is_/same_as :: [has_educational_role.private](/_private/schema-org/Property/Texts/has_educational_role.private.md) 
 
-### [has_educational_role.personal](/_personal/schema-org/Property/Texts/has_educational_role.personal.md) 
+### #is_/same_as :: [has_educational_role.personal](/_personal/schema-org/Property/Texts/has_educational_role.personal.md) 
 
-### [has_educational_role.secret](/_secret/schema-org/Property/Texts/has_educational_role.secret.md)
+### #is_/same_as :: [has_educational_role.secret](/_secret/schema-org/Property/Texts/has_educational_role.secret.md)
 

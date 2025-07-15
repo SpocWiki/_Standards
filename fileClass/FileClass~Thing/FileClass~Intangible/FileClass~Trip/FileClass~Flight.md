@@ -178,17 +178,17 @@ WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultIns
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Flight](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.md) 
+### #is_/same_as :: [FileClass~Flight](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.md) 
 
-### [FileClass~Flight.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.public.md) 
+### #is_/same_as :: [FileClass~Flight.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.public.md) 
 
-### [FileClass~Flight.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.internal.md) 
+### #is_/same_as :: [FileClass~Flight.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.internal.md) 
 
-### [FileClass~Flight.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.protect.md) 
+### #is_/same_as :: [FileClass~Flight.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.protect.md) 
 
-### [FileClass~Flight.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.private.md) 
+### #is_/same_as :: [FileClass~Flight.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.private.md) 
 
-### [FileClass~Flight.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.personal.md) 
+### #is_/same_as :: [FileClass~Flight.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.personal.md) 
 
-### [FileClass~Flight.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret.md)
+### #is_/same_as :: [FileClass~Flight.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~Flight.secret.md)
 

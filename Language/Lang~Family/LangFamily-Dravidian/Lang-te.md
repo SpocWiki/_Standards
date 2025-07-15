@@ -33,17 +33,17 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-te](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
+### #is_/same_as :: [Lang-te](/_Standards/Language/Lang~Family/LangFamily-Dravidian/Lang-te.md) 
 
-### [Lang-te.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.public.md) 
+### #is_/same_as :: [Lang-te.public](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-te.public.md) 
 
-### [Lang-te.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.internal.md) 
+### #is_/same_as :: [Lang-te.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.internal.md) 
 
-### [Lang-te.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-te.protect.md) 
+### #is_/same_as :: [Lang-te.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-te.protect.md) 
 
-### [Lang-te.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-te.private.md) 
+### #is_/same_as :: [Lang-te.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-te.private.md) 
 
-### [Lang-te.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.personal.md) 
+### #is_/same_as :: [Lang-te.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-te.personal.md) 
 
-### [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md)
+### #is_/same_as :: [Lang-te.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-te.secret.md)
 

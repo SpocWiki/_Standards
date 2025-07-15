@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_recipe_ingredient](/_Standards/schema-org/Property/Texts/has_recipe_ingredient.md) 
+### #is_/same_as :: [has_recipe_ingredient](/_Standards/schema-org/Property/Texts/has_recipe_ingredient.md) 
 
-### [has_recipe_ingredient.public](/_public/schema-org/Property/Texts/has_recipe_ingredient.public.md) 
+### #is_/same_as :: [has_recipe_ingredient.public](/_public/schema-org/Property/Texts/has_recipe_ingredient.public.md) 
 
-### [has_recipe_ingredient.internal](/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal.md) 
+### #is_/same_as :: [has_recipe_ingredient.internal](/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal.md) 
 
-### [has_recipe_ingredient.protect](/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect.md) 
+### #is_/same_as :: [has_recipe_ingredient.protect](/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect.md) 
 
-### [has_recipe_ingredient.private](/_private/schema-org/Property/Texts/has_recipe_ingredient.private.md) 
+### #is_/same_as :: [has_recipe_ingredient.private](/_private/schema-org/Property/Texts/has_recipe_ingredient.private.md) 
 
-### [has_recipe_ingredient.personal](/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal.md) 
+### #is_/same_as :: [has_recipe_ingredient.personal](/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal.md) 
 
-### [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md)
+### #is_/same_as :: [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md)
 

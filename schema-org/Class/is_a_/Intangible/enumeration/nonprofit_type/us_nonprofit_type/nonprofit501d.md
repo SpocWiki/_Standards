@@ -49,17 +49,17 @@ Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501d](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.md) 
+### #is_/same_as :: [nonprofit501d](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.md) 
 
-### [nonprofit501d.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.public.md) 
+### #is_/same_as :: [nonprofit501d.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.public.md) 
 
-### [nonprofit501d.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.internal.md) 
+### #is_/same_as :: [nonprofit501d.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.internal.md) 
 
-### [nonprofit501d.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.protect.md) 
+### #is_/same_as :: [nonprofit501d.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.protect.md) 
 
-### [nonprofit501d.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.private.md) 
+### #is_/same_as :: [nonprofit501d.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.private.md) 
 
-### [nonprofit501d.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.personal.md) 
+### #is_/same_as :: [nonprofit501d.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.personal.md) 
 
-### [nonprofit501d.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.secret.md)
+### #is_/same_as :: [nonprofit501d.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.secret.md)
 

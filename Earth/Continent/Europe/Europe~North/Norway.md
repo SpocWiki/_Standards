@@ -646,17 +646,17 @@ Major Cities with Population in 1000s as of @2024
 
 ## Confidential Links & Embeds: 
 
-### [Norway](/_Standards/Earth/Continent/Europe/Europe~North/Norway.md) 
+### #is_/same_as :: [Norway](/_Standards/Earth/Continent/Europe/Europe~North/Norway.md) 
 
-### [Norway.public](/_public/Earth/Continent/Europe/Europe~North/Norway.public.md) 
+### #is_/same_as :: [Norway.public](/_public/Earth/Continent/Europe/Europe~North/Norway.public.md) 
 
-### [Norway.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway.internal.md) 
+### #is_/same_as :: [Norway.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway.internal.md) 
 
-### [Norway.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway.protect.md) 
+### #is_/same_as :: [Norway.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway.protect.md) 
 
-### [Norway.private](/_private/Earth/Continent/Europe/Europe~North/Norway.private.md) 
+### #is_/same_as :: [Norway.private](/_private/Earth/Continent/Europe/Europe~North/Norway.private.md) 
 
-### [Norway.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway.personal.md) 
+### #is_/same_as :: [Norway.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway.personal.md) 
 
-### [Norway.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway.secret.md)
+### #is_/same_as :: [Norway.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway.secret.md)
 

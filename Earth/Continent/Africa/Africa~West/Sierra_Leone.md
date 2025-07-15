@@ -434,17 +434,17 @@ Capital :: [[Freetown]]
 
 ## Confidential Links & Embeds: 
 
-### [Sierra_Leone](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone.md) 
+### #is_/same_as :: [Sierra_Leone](/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone.md) 
 
-### [Sierra_Leone.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public.md) 
+### #is_/same_as :: [Sierra_Leone.public](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public.md) 
 
-### [Sierra_Leone.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal.md) 
+### #is_/same_as :: [Sierra_Leone.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal.md) 
 
-### [Sierra_Leone.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect.md) 
+### #is_/same_as :: [Sierra_Leone.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect.md) 
 
-### [Sierra_Leone.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private.md) 
+### #is_/same_as :: [Sierra_Leone.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private.md) 
 
-### [Sierra_Leone.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal.md) 
+### #is_/same_as :: [Sierra_Leone.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal.md) 
 
-### [Sierra_Leone.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret.md)
+### #is_/same_as :: [Sierra_Leone.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret.md)
 

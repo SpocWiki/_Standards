@@ -126,17 +126,17 @@ TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToDirection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.md) 
+### #is_/same_as :: [FileClass~HowToDirection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.md) 
 
-### [FileClass~HowToDirection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.public.md) 
+### #is_/same_as :: [FileClass~HowToDirection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.public.md) 
 
-### [FileClass~HowToDirection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.internal.md) 
+### #is_/same_as :: [FileClass~HowToDirection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.internal.md) 
 
-### [FileClass~HowToDirection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.protect.md) 
+### #is_/same_as :: [FileClass~HowToDirection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.protect.md) 
 
-### [FileClass~HowToDirection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.private.md) 
+### #is_/same_as :: [FileClass~HowToDirection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.private.md) 
 
-### [FileClass~HowToDirection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.personal.md) 
+### #is_/same_as :: [FileClass~HowToDirection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.personal.md) 
 
-### [FileClass~HowToDirection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.secret.md)
+### #is_/same_as :: [FileClass~HowToDirection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.secret.md)
 

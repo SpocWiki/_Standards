@@ -47,17 +47,17 @@ A book, document, or piece of music written by hand rather than typed or printed
 
 ## Confidential Links & Embeds: 
 
-### [manuscript](/_Standards/schema-org/Class/is_a_/creative_work/manuscript.md) 
+### #is_/same_as :: [manuscript](/_Standards/schema-org/Class/is_a_/creative_work/manuscript.md) 
 
-### [manuscript.public](/_public/schema-org/Class/is_a_/creative_work/manuscript.public.md) 
+### #is_/same_as :: [manuscript.public](/_public/schema-org/Class/is_a_/creative_work/manuscript.public.md) 
 
-### [manuscript.internal](/_internal/schema-org/Class/is_a_/creative_work/manuscript.internal.md) 
+### #is_/same_as :: [manuscript.internal](/_internal/schema-org/Class/is_a_/creative_work/manuscript.internal.md) 
 
-### [manuscript.protect](/_protect/schema-org/Class/is_a_/creative_work/manuscript.protect.md) 
+### #is_/same_as :: [manuscript.protect](/_protect/schema-org/Class/is_a_/creative_work/manuscript.protect.md) 
 
-### [manuscript.private](/_private/schema-org/Class/is_a_/creative_work/manuscript.private.md) 
+### #is_/same_as :: [manuscript.private](/_private/schema-org/Class/is_a_/creative_work/manuscript.private.md) 
 
-### [manuscript.personal](/_personal/schema-org/Class/is_a_/creative_work/manuscript.personal.md) 
+### #is_/same_as :: [manuscript.personal](/_personal/schema-org/Class/is_a_/creative_work/manuscript.personal.md) 
 
-### [manuscript.secret](/_secret/schema-org/Class/is_a_/creative_work/manuscript.secret.md)
+### #is_/same_as :: [manuscript.secret](/_secret/schema-org/Class/is_a_/creative_work/manuscript.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_work_location](/_Standards/schema-org/Relation/has/has_work_location.md) 
+### #is_/same_as :: [has_work_location](/_Standards/schema-org/Relation/has/has_work_location.md) 
 
-### [has_work_location.public](/_public/schema-org/Relation/has/has_work_location.public.md) 
+### #is_/same_as :: [has_work_location.public](/_public/schema-org/Relation/has/has_work_location.public.md) 
 
-### [has_work_location.internal](/_internal/schema-org/Relation/has/has_work_location.internal.md) 
+### #is_/same_as :: [has_work_location.internal](/_internal/schema-org/Relation/has/has_work_location.internal.md) 
 
-### [has_work_location.protect](/_protect/schema-org/Relation/has/has_work_location.protect.md) 
+### #is_/same_as :: [has_work_location.protect](/_protect/schema-org/Relation/has/has_work_location.protect.md) 
 
-### [has_work_location.private](/_private/schema-org/Relation/has/has_work_location.private.md) 
+### #is_/same_as :: [has_work_location.private](/_private/schema-org/Relation/has/has_work_location.private.md) 
 
-### [has_work_location.personal](/_personal/schema-org/Relation/has/has_work_location.personal.md) 
+### #is_/same_as :: [has_work_location.personal](/_personal/schema-org/Relation/has/has_work_location.personal.md) 
 
-### [has_work_location.secret](/_secret/schema-org/Relation/has/has_work_location.secret.md)
+### #is_/same_as :: [has_work_location.secret](/_secret/schema-org/Relation/has/has_work_location.secret.md)
 

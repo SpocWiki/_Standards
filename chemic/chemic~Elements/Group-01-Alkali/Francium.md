@@ -107,17 +107,17 @@ time_of_discovery_or_invention: "1939"
 
 ## Confidential Links & Embeds: 
 
-### [Francium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Francium.md) 
+### #is_/same_as :: [Francium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Francium.md) 
 
-### [Francium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Francium.public.md) 
+### #is_/same_as :: [Francium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Francium.public.md) 
 
-### [Francium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Francium.internal.md) 
+### #is_/same_as :: [Francium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Francium.internal.md) 
 
-### [Francium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Francium.protect.md) 
+### #is_/same_as :: [Francium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Francium.protect.md) 
 
-### [Francium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Francium.private.md) 
+### #is_/same_as :: [Francium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Francium.private.md) 
 
-### [Francium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Francium.personal.md) 
+### #is_/same_as :: [Francium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Francium.personal.md) 
 
-### [Francium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Francium.secret.md)
+### #is_/same_as :: [Francium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Francium.secret.md)
 

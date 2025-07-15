@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_access](/_Standards/schema-org/Property/has_name/has_code_access.md) 
+### #is_/same_as :: [has_code_access](/_Standards/schema-org/Property/has_name/has_code_access.md) 
 
-### [has_code_access.public](/_public/schema-org/Property/has_name/has_code_access.public.md) 
+### #is_/same_as :: [has_code_access.public](/_public/schema-org/Property/has_name/has_code_access.public.md) 
 
-### [has_code_access.internal](/_internal/schema-org/Property/has_name/has_code_access.internal.md) 
+### #is_/same_as :: [has_code_access.internal](/_internal/schema-org/Property/has_name/has_code_access.internal.md) 
 
-### [has_code_access.protect](/_protect/schema-org/Property/has_name/has_code_access.protect.md) 
+### #is_/same_as :: [has_code_access.protect](/_protect/schema-org/Property/has_name/has_code_access.protect.md) 
 
-### [has_code_access.private](/_private/schema-org/Property/has_name/has_code_access.private.md) 
+### #is_/same_as :: [has_code_access.private](/_private/schema-org/Property/has_name/has_code_access.private.md) 
 
-### [has_code_access.personal](/_personal/schema-org/Property/has_name/has_code_access.personal.md) 
+### #is_/same_as :: [has_code_access.personal](/_personal/schema-org/Property/has_name/has_code_access.personal.md) 
 
-### [has_code_access.secret](/_secret/schema-org/Property/has_name/has_code_access.secret.md)
+### #is_/same_as :: [has_code_access.secret](/_secret/schema-org/Property/has_name/has_code_access.secret.md)
 

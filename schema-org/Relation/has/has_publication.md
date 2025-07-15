@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_publication](/_Standards/schema-org/Relation/has/has_publication.md) 
+### #is_/same_as :: [has_publication](/_Standards/schema-org/Relation/has/has_publication.md) 
 
-### [has_publication.public](/_public/schema-org/Relation/has/has_publication.public.md) 
+### #is_/same_as :: [has_publication.public](/_public/schema-org/Relation/has/has_publication.public.md) 
 
-### [has_publication.internal](/_internal/schema-org/Relation/has/has_publication.internal.md) 
+### #is_/same_as :: [has_publication.internal](/_internal/schema-org/Relation/has/has_publication.internal.md) 
 
-### [has_publication.protect](/_protect/schema-org/Relation/has/has_publication.protect.md) 
+### #is_/same_as :: [has_publication.protect](/_protect/schema-org/Relation/has/has_publication.protect.md) 
 
-### [has_publication.private](/_private/schema-org/Relation/has/has_publication.private.md) 
+### #is_/same_as :: [has_publication.private](/_private/schema-org/Relation/has/has_publication.private.md) 
 
-### [has_publication.personal](/_personal/schema-org/Relation/has/has_publication.personal.md) 
+### #is_/same_as :: [has_publication.personal](/_personal/schema-org/Relation/has/has_publication.personal.md) 
 
-### [has_publication.secret](/_secret/schema-org/Relation/has/has_publication.secret.md)
+### #is_/same_as :: [has_publication.secret](/_secret/schema-org/Relation/has/has_publication.secret.md)
 

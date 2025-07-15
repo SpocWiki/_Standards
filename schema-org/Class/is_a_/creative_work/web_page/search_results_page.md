@@ -45,17 +45,17 @@ Web page type: Search results page.
 
 ## Confidential Links & Embeds: 
 
-### [search_results_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/search_results_page.md) 
+### #is_/same_as :: [search_results_page](/_Standards/schema-org/Class/is_a_/creative_work/web_page/search_results_page.md) 
 
-### [search_results_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/search_results_page.public.md) 
+### #is_/same_as :: [search_results_page.public](/_public/schema-org/Class/is_a_/creative_work/web_page/search_results_page.public.md) 
 
-### [search_results_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/search_results_page.internal.md) 
+### #is_/same_as :: [search_results_page.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page/search_results_page.internal.md) 
 
-### [search_results_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/search_results_page.protect.md) 
+### #is_/same_as :: [search_results_page.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page/search_results_page.protect.md) 
 
-### [search_results_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/search_results_page.private.md) 
+### #is_/same_as :: [search_results_page.private](/_private/schema-org/Class/is_a_/creative_work/web_page/search_results_page.private.md) 
 
-### [search_results_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/search_results_page.personal.md) 
+### #is_/same_as :: [search_results_page.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page/search_results_page.personal.md) 
 
-### [search_results_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/search_results_page.secret.md)
+### #is_/same_as :: [search_results_page.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page/search_results_page.secret.md)
 

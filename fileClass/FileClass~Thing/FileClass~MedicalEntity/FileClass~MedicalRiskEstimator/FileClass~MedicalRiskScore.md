@@ -45,17 +45,17 @@ Algorithm:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalRiskScore](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.md) 
 
-### [FileClass~MedicalRiskScore.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.public.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.public.md) 
 
-### [FileClass~MedicalRiskScore.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.internal.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.internal.md) 
 
-### [FileClass~MedicalRiskScore.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.protect.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.protect.md) 
 
-### [FileClass~MedicalRiskScore.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.private.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.private.md) 
 
-### [FileClass~MedicalRiskScore.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.personal.md) 
+### #is_/same_as :: [FileClass~MedicalRiskScore.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.personal.md) 
 
-### [FileClass~MedicalRiskScore.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.secret.md)
+### #is_/same_as :: [FileClass~MedicalRiskScore.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskScore.secret.md)
 

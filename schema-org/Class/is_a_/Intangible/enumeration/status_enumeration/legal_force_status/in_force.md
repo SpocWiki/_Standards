@@ -49,17 +49,17 @@ Indicates that a legislation is in force.
 
 ## Confidential Links & Embeds: 
 
-### [in_force](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.md) 
+### #is_/same_as :: [in_force](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.md) 
 
-### [in_force.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.public.md) 
+### #is_/same_as :: [in_force.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.public.md) 
 
-### [in_force.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.internal.md) 
+### #is_/same_as :: [in_force.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.internal.md) 
 
-### [in_force.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.protect.md) 
+### #is_/same_as :: [in_force.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.protect.md) 
 
-### [in_force.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.private.md) 
+### #is_/same_as :: [in_force.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.private.md) 
 
-### [in_force.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.personal.md) 
+### #is_/same_as :: [in_force.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.personal.md) 
 
-### [in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.secret.md)
+### #is_/same_as :: [in_force.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status/in_force.secret.md)
 

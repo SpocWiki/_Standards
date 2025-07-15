@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_arrival_terminal](/_Standards/schema-org/Property/Texts/has_arrival_terminal.md) 
+### #is_/same_as :: [has_arrival_terminal](/_Standards/schema-org/Property/Texts/has_arrival_terminal.md) 
 
-### [has_arrival_terminal.public](/_public/schema-org/Property/Texts/has_arrival_terminal.public.md) 
+### #is_/same_as :: [has_arrival_terminal.public](/_public/schema-org/Property/Texts/has_arrival_terminal.public.md) 
 
-### [has_arrival_terminal.internal](/_internal/schema-org/Property/Texts/has_arrival_terminal.internal.md) 
+### #is_/same_as :: [has_arrival_terminal.internal](/_internal/schema-org/Property/Texts/has_arrival_terminal.internal.md) 
 
-### [has_arrival_terminal.protect](/_protect/schema-org/Property/Texts/has_arrival_terminal.protect.md) 
+### #is_/same_as :: [has_arrival_terminal.protect](/_protect/schema-org/Property/Texts/has_arrival_terminal.protect.md) 
 
-### [has_arrival_terminal.private](/_private/schema-org/Property/Texts/has_arrival_terminal.private.md) 
+### #is_/same_as :: [has_arrival_terminal.private](/_private/schema-org/Property/Texts/has_arrival_terminal.private.md) 
 
-### [has_arrival_terminal.personal](/_personal/schema-org/Property/Texts/has_arrival_terminal.personal.md) 
+### #is_/same_as :: [has_arrival_terminal.personal](/_personal/schema-org/Property/Texts/has_arrival_terminal.personal.md) 
 
-### [has_arrival_terminal.secret](/_secret/schema-org/Property/Texts/has_arrival_terminal.secret.md)
+### #is_/same_as :: [has_arrival_terminal.secret](/_secret/schema-org/Property/Texts/has_arrival_terminal.secret.md)
 

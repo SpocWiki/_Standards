@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_net_worth](/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth.md) 
+### #is_/same_as :: [has_value_for_net_worth](/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth.md) 
 
-### [has_value_for_net_worth.public](/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public.md) 
+### #is_/same_as :: [has_value_for_net_worth.public](/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public.md) 
 
-### [has_value_for_net_worth.internal](/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal.md) 
+### #is_/same_as :: [has_value_for_net_worth.internal](/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal.md) 
 
-### [has_value_for_net_worth.protect](/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect.md) 
+### #is_/same_as :: [has_value_for_net_worth.protect](/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect.md) 
 
-### [has_value_for_net_worth.private](/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private.md) 
+### #is_/same_as :: [has_value_for_net_worth.private](/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private.md) 
 
-### [has_value_for_net_worth.personal](/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal.md) 
+### #is_/same_as :: [has_value_for_net_worth.personal](/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal.md) 
 
-### [has_value_for_net_worth.secret](/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret.md)
+### #is_/same_as :: [has_value_for_net_worth.secret](/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret.md)
 

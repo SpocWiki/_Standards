@@ -35,17 +35,17 @@ The header section of the page.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WPHeader](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.md) 
+### #is_/same_as :: [FileClass~WPHeader](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.md) 
 
-### [FileClass~WPHeader.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.public.md) 
+### #is_/same_as :: [FileClass~WPHeader.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.public.md) 
 
-### [FileClass~WPHeader.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.internal.md) 
+### #is_/same_as :: [FileClass~WPHeader.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.internal.md) 
 
-### [FileClass~WPHeader.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.protect.md) 
+### #is_/same_as :: [FileClass~WPHeader.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.protect.md) 
 
-### [FileClass~WPHeader.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.private.md) 
+### #is_/same_as :: [FileClass~WPHeader.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.private.md) 
 
-### [FileClass~WPHeader.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.personal.md) 
+### #is_/same_as :: [FileClass~WPHeader.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.personal.md) 
 
-### [FileClass~WPHeader.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.secret.md)
+### #is_/same_as :: [FileClass~WPHeader.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPHeader.secret.md)
 

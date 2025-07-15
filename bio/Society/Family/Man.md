@@ -54,21 +54,19 @@ Unicode_character: 👨
 > [Wikipedia](https://en.wikipedia.org/wiki/Man)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Man](/_Standards/bio/Society/Family/Man.md) 
+### #is_/same_as :: [Man](/_Standards/bio/Society/Family/Man.md) 
 
-### [Man.public](/_public/bio/Society/Family/Man.public.md) 
+### #is_/same_as :: [Man.public](/_public/bio/Society/Family/Man.public.md) 
 
-### [Man.internal](/_internal/bio/Society/Family/Man.internal.md) 
+### #is_/same_as :: [Man.internal](/_internal/bio/Society/Family/Man.internal.md) 
 
-### [Man.protect](/_protect/bio/Society/Family/Man.protect.md) 
+### #is_/same_as :: [Man.protect](/_protect/bio/Society/Family/Man.protect.md) 
 
-### [Man.private](/_private/bio/Society/Family/Man.private.md) 
+### #is_/same_as :: [Man.private](/_private/bio/Society/Family/Man.private.md) 
 
-### [Man.personal](/_personal/bio/Society/Family/Man.personal.md) 
+### #is_/same_as :: [Man.personal](/_personal/bio/Society/Family/Man.personal.md) 
 
-### [Man.secret](/_secret/bio/Society/Family/Man.secret.md)
+### #is_/same_as :: [Man.secret](/_secret/bio/Society/Family/Man.secret.md)
 

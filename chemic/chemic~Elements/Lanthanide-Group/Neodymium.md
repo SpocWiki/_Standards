@@ -120,17 +120,17 @@ CAS_Registry_Number: 7440-00-8
 
 ## Confidential Links & Embeds: 
 
-### [Neodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Neodymium.md) 
+### #is_/same_as :: [Neodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Neodymium.md) 
 
-### [Neodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Neodymium.public.md) 
+### #is_/same_as :: [Neodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Neodymium.public.md) 
 
-### [Neodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.internal.md) 
+### #is_/same_as :: [Neodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.internal.md) 
 
-### [Neodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Neodymium.protect.md) 
+### #is_/same_as :: [Neodymium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Neodymium.protect.md) 
 
-### [Neodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Neodymium.private.md) 
+### #is_/same_as :: [Neodymium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Neodymium.private.md) 
 
-### [Neodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.personal.md) 
+### #is_/same_as :: [Neodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.personal.md) 
 
-### [Neodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Neodymium.secret.md)
+### #is_/same_as :: [Neodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Neodymium.secret.md)
 

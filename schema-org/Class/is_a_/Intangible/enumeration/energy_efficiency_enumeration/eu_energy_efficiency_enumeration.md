@@ -45,17 +45,17 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 ## Confidential Links & Embeds: 
 
-### [eu_energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md) 
 
-### [eu_energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.public.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.public.md) 
 
-### [eu_energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.internal.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.internal.md) 
 
-### [eu_energy_efficiency_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.protect.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.protect.md) 
 
-### [eu_energy_efficiency_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.private.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.private.md) 
 
-### [eu_energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.personal.md) 
+### #is_/same_as :: [eu_energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.personal.md) 
 
-### [eu_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md)
+### #is_/same_as :: [eu_energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md)
 

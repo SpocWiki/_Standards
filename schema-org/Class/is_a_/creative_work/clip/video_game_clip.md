@@ -45,17 +45,17 @@ A short segment/part of a video game.
 
 ## Confidential Links & Embeds: 
 
-### [video_game_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/video_game_clip.md) 
+### #is_/same_as :: [video_game_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/video_game_clip.md) 
 
-### [video_game_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/video_game_clip.public.md) 
+### #is_/same_as :: [video_game_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/video_game_clip.public.md) 
 
-### [video_game_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/video_game_clip.internal.md) 
+### #is_/same_as :: [video_game_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/video_game_clip.internal.md) 
 
-### [video_game_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/video_game_clip.protect.md) 
+### #is_/same_as :: [video_game_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/video_game_clip.protect.md) 
 
-### [video_game_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/video_game_clip.private.md) 
+### #is_/same_as :: [video_game_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/video_game_clip.private.md) 
 
-### [video_game_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/video_game_clip.personal.md) 
+### #is_/same_as :: [video_game_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/video_game_clip.personal.md) 
 
-### [video_game_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/video_game_clip.secret.md)
+### #is_/same_as :: [video_game_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/video_game_clip.secret.md)
 

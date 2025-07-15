@@ -56,25 +56,19 @@ has_participants:
 > [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Accords) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Abraham-Accords](/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords.md) 
+### #is_/same_as :: [Abraham-Accords](/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords.md) 
 
-### [Abraham-Accords.public](/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public.md) 
+### #is_/same_as :: [Abraham-Accords.public](/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public.md) 
 
-### [Abraham-Accords.internal](/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal.md) 
+### #is_/same_as :: [Abraham-Accords.internal](/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal.md) 
 
-### [Abraham-Accords.protect](/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect.md) 
+### #is_/same_as :: [Abraham-Accords.protect](/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect.md) 
 
-### [Abraham-Accords.private](/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private.md) 
+### #is_/same_as :: [Abraham-Accords.private](/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private.md) 
 
-### [Abraham-Accords.personal](/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal.md) 
+### #is_/same_as :: [Abraham-Accords.personal](/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal.md) 
 
-### [Abraham-Accords.secret](/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret.md)
+### #is_/same_as :: [Abraham-Accords.secret](/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret.md)
 

@@ -47,17 +47,17 @@ A technical article - Example: How-to (task) topics, step-by-step, procedural tr
 
 ## Confidential Links & Embeds: 
 
-### [tech_article](/_Standards/schema-org/Class/is_a_/creative_work/article/tech_article.md) 
+### #is_/same_as :: [tech_article](/_Standards/schema-org/Class/is_a_/creative_work/article/tech_article.md) 
 
-### [tech_article.public](/_public/schema-org/Class/is_a_/creative_work/article/tech_article.public.md) 
+### #is_/same_as :: [tech_article.public](/_public/schema-org/Class/is_a_/creative_work/article/tech_article.public.md) 
 
-### [tech_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/tech_article.internal.md) 
+### #is_/same_as :: [tech_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/tech_article.internal.md) 
 
-### [tech_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/tech_article.protect.md) 
+### #is_/same_as :: [tech_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/tech_article.protect.md) 
 
-### [tech_article.private](/_private/schema-org/Class/is_a_/creative_work/article/tech_article.private.md) 
+### #is_/same_as :: [tech_article.private](/_private/schema-org/Class/is_a_/creative_work/article/tech_article.private.md) 
 
-### [tech_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/tech_article.personal.md) 
+### #is_/same_as :: [tech_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/tech_article.personal.md) 
 
-### [tech_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/tech_article.secret.md)
+### #is_/same_as :: [tech_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/tech_article.secret.md)
 

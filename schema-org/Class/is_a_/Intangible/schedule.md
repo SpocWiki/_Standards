@@ -50,17 +50,17 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 ## Confidential Links & Embeds: 
 
-### [schedule](/_Standards/schema-org/Class/is_a_/Intangible/schedule.md) 
+### #is_/same_as :: [schedule](/_Standards/schema-org/Class/is_a_/Intangible/schedule.md) 
 
-### [schedule.public](/_public/schema-org/Class/is_a_/Intangible/schedule.public.md) 
+### #is_/same_as :: [schedule.public](/_public/schema-org/Class/is_a_/Intangible/schedule.public.md) 
 
-### [schedule.internal](/_internal/schema-org/Class/is_a_/Intangible/schedule.internal.md) 
+### #is_/same_as :: [schedule.internal](/_internal/schema-org/Class/is_a_/Intangible/schedule.internal.md) 
 
-### [schedule.protect](/_protect/schema-org/Class/is_a_/Intangible/schedule.protect.md) 
+### #is_/same_as :: [schedule.protect](/_protect/schema-org/Class/is_a_/Intangible/schedule.protect.md) 
 
-### [schedule.private](/_private/schema-org/Class/is_a_/Intangible/schedule.private.md) 
+### #is_/same_as :: [schedule.private](/_private/schema-org/Class/is_a_/Intangible/schedule.private.md) 
 
-### [schedule.personal](/_personal/schema-org/Class/is_a_/Intangible/schedule.personal.md) 
+### #is_/same_as :: [schedule.personal](/_personal/schema-org/Class/is_a_/Intangible/schedule.personal.md) 
 
-### [schedule.secret](/_secret/schema-org/Class/is_a_/Intangible/schedule.secret.md)
+### #is_/same_as :: [schedule.secret](/_secret/schema-org/Class/is_a_/Intangible/schedule.secret.md)
 

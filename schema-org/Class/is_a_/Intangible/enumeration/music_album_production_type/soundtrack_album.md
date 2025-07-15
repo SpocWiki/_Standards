@@ -47,17 +47,17 @@ SoundtrackAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [soundtrack_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.md) 
+### #is_/same_as :: [soundtrack_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.md) 
 
-### [soundtrack_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.public.md) 
+### #is_/same_as :: [soundtrack_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.public.md) 
 
-### [soundtrack_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.internal.md) 
+### #is_/same_as :: [soundtrack_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.internal.md) 
 
-### [soundtrack_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.protect.md) 
+### #is_/same_as :: [soundtrack_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.protect.md) 
 
-### [soundtrack_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.private.md) 
+### #is_/same_as :: [soundtrack_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.private.md) 
 
-### [soundtrack_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.personal.md) 
+### #is_/same_as :: [soundtrack_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.personal.md) 
 
-### [soundtrack_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.secret.md)
+### #is_/same_as :: [soundtrack_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.secret.md)
 

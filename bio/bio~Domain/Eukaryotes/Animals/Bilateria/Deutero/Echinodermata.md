@@ -279,21 +279,19 @@ Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://
 Copyright ::            © 1997 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Echinodermata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.md) 
+### #is_/same_as :: [Echinodermata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.md) 
 
-### [Echinodermata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.public.md) 
+### #is_/same_as :: [Echinodermata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.public.md) 
 
-### [Echinodermata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.internal.md) 
+### #is_/same_as :: [Echinodermata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.internal.md) 
 
-### [Echinodermata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.protect.md) 
+### #is_/same_as :: [Echinodermata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.protect.md) 
 
-### [Echinodermata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.private.md) 
+### #is_/same_as :: [Echinodermata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.private.md) 
 
-### [Echinodermata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.personal.md) 
+### #is_/same_as :: [Echinodermata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.personal.md) 
 
-### [Echinodermata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.secret.md)
+### #is_/same_as :: [Echinodermata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata.secret.md)
 

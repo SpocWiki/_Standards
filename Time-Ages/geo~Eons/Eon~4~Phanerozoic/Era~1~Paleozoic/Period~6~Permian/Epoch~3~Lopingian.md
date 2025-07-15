@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Epoch~3~Lopingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.md) 
+### #is_/same_as :: [Epoch~3~Lopingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.md) 
 
-### [Epoch~3~Lopingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.public.md) 
+### #is_/same_as :: [Epoch~3~Lopingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.public.md) 
 
-### [Epoch~3~Lopingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.internal.md) 
+### #is_/same_as :: [Epoch~3~Lopingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.internal.md) 
 
-### [Epoch~3~Lopingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.protect.md) 
+### #is_/same_as :: [Epoch~3~Lopingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.protect.md) 
 
-### [Epoch~3~Lopingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.private.md) 
+### #is_/same_as :: [Epoch~3~Lopingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.private.md) 
 
-### [Epoch~3~Lopingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.personal.md) 
+### #is_/same_as :: [Epoch~3~Lopingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.personal.md) 
 
-### [Epoch~3~Lopingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.secret.md)
+### #is_/same_as :: [Epoch~3~Lopingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.secret.md)
 

@@ -49,17 +49,17 @@ A sequential publication of comic stories under a
 
 ## Confidential Links & Embeds: 
 
-### [comic_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.md) 
+### #is_/same_as :: [comic_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.md) 
 
-### [comic_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.public.md) 
+### #is_/same_as :: [comic_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.public.md) 
 
-### [comic_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.internal.md) 
+### #is_/same_as :: [comic_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.internal.md) 
 
-### [comic_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.protect.md) 
+### #is_/same_as :: [comic_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.protect.md) 
 
-### [comic_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.private.md) 
+### #is_/same_as :: [comic_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.private.md) 
 
-### [comic_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.personal.md) 
+### #is_/same_as :: [comic_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.personal.md) 
 
-### [comic_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.secret.md)
+### #is_/same_as :: [comic_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/periodical/comic_series.secret.md)
 

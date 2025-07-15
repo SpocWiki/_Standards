@@ -45,17 +45,17 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 ## Confidential Links & Embeds: 
 
-### [television_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.md) 
+### #is_/same_as :: [television_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.md) 
 
-### [television_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.public.md) 
+### #is_/same_as :: [television_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.public.md) 
 
-### [television_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.internal.md) 
+### #is_/same_as :: [television_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.internal.md) 
 
-### [television_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.protect.md) 
+### #is_/same_as :: [television_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.protect.md) 
 
-### [television_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.private.md) 
+### #is_/same_as :: [television_channel.private](/_private/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.private.md) 
 
-### [television_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.personal.md) 
+### #is_/same_as :: [television_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.personal.md) 
 
-### [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md)
+### #is_/same_as :: [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md)
 

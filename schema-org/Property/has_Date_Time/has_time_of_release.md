@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### [has_time_of_release](/_Standards/schema-org/Property/has_Date_Time/has_time_of_release.md) 
+### #is_/same_as :: [has_time_of_release](/_Standards/schema-org/Property/has_Date_Time/has_time_of_release.md) 
 
-### [has_time_of_release.public](/_public/schema-org/Property/has_Date_Time/has_time_of_release.public.md) 
+### #is_/same_as :: [has_time_of_release.public](/_public/schema-org/Property/has_Date_Time/has_time_of_release.public.md) 
 
-### [has_time_of_release.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_release.internal.md) 
+### #is_/same_as :: [has_time_of_release.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_release.internal.md) 
 
-### [has_time_of_release.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_release.protect.md) 
+### #is_/same_as :: [has_time_of_release.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_release.protect.md) 
 
-### [has_time_of_release.private](/_private/schema-org/Property/has_Date_Time/has_time_of_release.private.md) 
+### #is_/same_as :: [has_time_of_release.private](/_private/schema-org/Property/has_Date_Time/has_time_of_release.private.md) 
 
-### [has_time_of_release.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_release.personal.md) 
+### #is_/same_as :: [has_time_of_release.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_release.personal.md) 
 
-### [has_time_of_release.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_release.secret.md)
+### #is_/same_as :: [has_time_of_release.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_release.secret.md)
 

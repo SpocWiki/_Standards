@@ -35,17 +35,17 @@ Organization: Non-governmental Organization.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~NGO](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.md) 
+### #is_/same_as :: [FileClass~NGO](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.md) 
 
-### [FileClass~NGO.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.public.md) 
+### #is_/same_as :: [FileClass~NGO.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.public.md) 
 
-### [FileClass~NGO.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.internal.md) 
+### #is_/same_as :: [FileClass~NGO.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.internal.md) 
 
-### [FileClass~NGO.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.protect.md) 
+### #is_/same_as :: [FileClass~NGO.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.protect.md) 
 
-### [FileClass~NGO.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.private.md) 
+### #is_/same_as :: [FileClass~NGO.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.private.md) 
 
-### [FileClass~NGO.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.personal.md) 
+### #is_/same_as :: [FileClass~NGO.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.personal.md) 
 
-### [FileClass~NGO.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.secret.md)
+### #is_/same_as :: [FileClass~NGO.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.secret.md)
 

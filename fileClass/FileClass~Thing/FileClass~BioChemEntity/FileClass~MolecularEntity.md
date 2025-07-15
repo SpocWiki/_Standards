@@ -129,17 +129,17 @@ Smiles:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MolecularEntity](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.md) 
+### #is_/same_as :: [FileClass~MolecularEntity](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.md) 
 
-### [FileClass~MolecularEntity.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.public.md) 
+### #is_/same_as :: [FileClass~MolecularEntity.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.public.md) 
 
-### [FileClass~MolecularEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.internal.md) 
+### #is_/same_as :: [FileClass~MolecularEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.internal.md) 
 
-### [FileClass~MolecularEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.protect.md) 
+### #is_/same_as :: [FileClass~MolecularEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.protect.md) 
 
-### [FileClass~MolecularEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.private.md) 
+### #is_/same_as :: [FileClass~MolecularEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.private.md) 
 
-### [FileClass~MolecularEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.personal.md) 
+### #is_/same_as :: [FileClass~MolecularEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.personal.md) 
 
-### [FileClass~MolecularEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.secret.md)
+### #is_/same_as :: [FileClass~MolecularEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~MolecularEntity.secret.md)
 

@@ -58,17 +58,17 @@ Its members in 2024 are `$=dv.current().has_member`.
 
 ## Confidential Links & Embeds: 
 
-### [EFTA(European_Free_Trade_Association)](/_Standards/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association)](/_Standards/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).md) 
 
-### [EFTA(European_Free_Trade_Association).public](/_public/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).public.md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).public](/_public/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).public.md) 
 
-### [EFTA(European_Free_Trade_Association).internal](/_internal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).internal.md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).internal](/_internal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).internal.md) 
 
-### [EFTA(European_Free_Trade_Association).protect](/_protect/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).protect.md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).protect](/_protect/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).protect.md) 
 
-### [EFTA(European_Free_Trade_Association).private](/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private.md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).private](/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private.md) 
 
-### [EFTA(European_Free_Trade_Association).personal](/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal.md) 
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).personal](/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal.md) 
 
-### [EFTA(European_Free_Trade_Association).secret](/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret.md)
+### #is_/same_as :: [EFTA(European_Free_Trade_Association).secret](/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret.md)
 

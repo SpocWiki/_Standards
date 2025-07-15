@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_interacting_drug](/_Standards/schema-org/Relation/has/has_interacting_drug.md) 
+### #is_/same_as :: [has_interacting_drug](/_Standards/schema-org/Relation/has/has_interacting_drug.md) 
 
-### [has_interacting_drug.public](/_public/schema-org/Relation/has/has_interacting_drug.public.md) 
+### #is_/same_as :: [has_interacting_drug.public](/_public/schema-org/Relation/has/has_interacting_drug.public.md) 
 
-### [has_interacting_drug.internal](/_internal/schema-org/Relation/has/has_interacting_drug.internal.md) 
+### #is_/same_as :: [has_interacting_drug.internal](/_internal/schema-org/Relation/has/has_interacting_drug.internal.md) 
 
-### [has_interacting_drug.protect](/_protect/schema-org/Relation/has/has_interacting_drug.protect.md) 
+### #is_/same_as :: [has_interacting_drug.protect](/_protect/schema-org/Relation/has/has_interacting_drug.protect.md) 
 
-### [has_interacting_drug.private](/_private/schema-org/Relation/has/has_interacting_drug.private.md) 
+### #is_/same_as :: [has_interacting_drug.private](/_private/schema-org/Relation/has/has_interacting_drug.private.md) 
 
-### [has_interacting_drug.personal](/_personal/schema-org/Relation/has/has_interacting_drug.personal.md) 
+### #is_/same_as :: [has_interacting_drug.personal](/_personal/schema-org/Relation/has/has_interacting_drug.personal.md) 
 
-### [has_interacting_drug.secret](/_secret/schema-org/Relation/has/has_interacting_drug.secret.md)
+### #is_/same_as :: [has_interacting_drug.secret](/_secret/schema-org/Relation/has/has_interacting_drug.secret.md)
 

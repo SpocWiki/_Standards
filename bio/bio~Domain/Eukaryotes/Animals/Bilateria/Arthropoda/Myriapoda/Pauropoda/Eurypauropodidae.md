@@ -42,22 +42,19 @@ title: Eurypauropodidae
 	-   *Trachypauropus*
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Eurypauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.md) 
+### #is_/same_as :: [Eurypauropodidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.md) 
 
-### [Eurypauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.public.md) 
+### #is_/same_as :: [Eurypauropodidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.public.md) 
 
-### [Eurypauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.internal.md) 
+### #is_/same_as :: [Eurypauropodidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.internal.md) 
 
-### [Eurypauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.protect.md) 
+### #is_/same_as :: [Eurypauropodidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.protect.md) 
 
-### [Eurypauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.private.md) 
+### #is_/same_as :: [Eurypauropodidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.private.md) 
 
-### [Eurypauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.personal.md) 
+### #is_/same_as :: [Eurypauropodidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.personal.md) 
 
-### [Eurypauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.secret.md)
+### #is_/same_as :: [Eurypauropodidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Pauropoda/Eurypauropodidae.secret.md)
 

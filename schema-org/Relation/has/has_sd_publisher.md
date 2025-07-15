@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sd_publisher](/_Standards/schema-org/Relation/has/has_sd_publisher.md) 
+### #is_/same_as :: [has_sd_publisher](/_Standards/schema-org/Relation/has/has_sd_publisher.md) 
 
-### [has_sd_publisher.public](/_public/schema-org/Relation/has/has_sd_publisher.public.md) 
+### #is_/same_as :: [has_sd_publisher.public](/_public/schema-org/Relation/has/has_sd_publisher.public.md) 
 
-### [has_sd_publisher.internal](/_internal/schema-org/Relation/has/has_sd_publisher.internal.md) 
+### #is_/same_as :: [has_sd_publisher.internal](/_internal/schema-org/Relation/has/has_sd_publisher.internal.md) 
 
-### [has_sd_publisher.protect](/_protect/schema-org/Relation/has/has_sd_publisher.protect.md) 
+### #is_/same_as :: [has_sd_publisher.protect](/_protect/schema-org/Relation/has/has_sd_publisher.protect.md) 
 
-### [has_sd_publisher.private](/_private/schema-org/Relation/has/has_sd_publisher.private.md) 
+### #is_/same_as :: [has_sd_publisher.private](/_private/schema-org/Relation/has/has_sd_publisher.private.md) 
 
-### [has_sd_publisher.personal](/_personal/schema-org/Relation/has/has_sd_publisher.personal.md) 
+### #is_/same_as :: [has_sd_publisher.personal](/_personal/schema-org/Relation/has/has_sd_publisher.personal.md) 
 
-### [has_sd_publisher.secret](/_secret/schema-org/Relation/has/has_sd_publisher.secret.md)
+### #is_/same_as :: [has_sd_publisher.secret](/_secret/schema-org/Relation/has/has_sd_publisher.secret.md)
 

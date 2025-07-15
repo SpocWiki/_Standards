@@ -261,22 +261,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Bryopsida](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.md) 
+### #is_/same_as :: [Bryopsida](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.md) 
 
-### [Bryopsida.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.public.md) 
+### #is_/same_as :: [Bryopsida.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.public.md) 
 
-### [Bryopsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.internal.md) 
+### #is_/same_as :: [Bryopsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.internal.md) 
 
-### [Bryopsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.protect.md) 
+### #is_/same_as :: [Bryopsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.protect.md) 
 
-### [Bryopsida.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.private.md) 
+### #is_/same_as :: [Bryopsida.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.private.md) 
 
-### [Bryopsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.personal.md) 
+### #is_/same_as :: [Bryopsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.personal.md) 
 
-### [Bryopsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.secret.md)
+### #is_/same_as :: [Bryopsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Moss/Bryopsida.secret.md)
 

@@ -47,17 +47,17 @@ Book format: Paperback.
 
 ## Confidential Links & Embeds: 
 
-### [paperback](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.md) 
+### #is_/same_as :: [paperback](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.md) 
 
-### [paperback.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.public.md) 
+### #is_/same_as :: [paperback.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.public.md) 
 
-### [paperback.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.internal.md) 
+### #is_/same_as :: [paperback.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.internal.md) 
 
-### [paperback.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.protect.md) 
+### #is_/same_as :: [paperback.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.protect.md) 
 
-### [paperback.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.private.md) 
+### #is_/same_as :: [paperback.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.private.md) 
 
-### [paperback.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.personal.md) 
+### #is_/same_as :: [paperback.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.personal.md) 
 
-### [paperback.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.secret.md)
+### #is_/same_as :: [paperback.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.secret.md)
 

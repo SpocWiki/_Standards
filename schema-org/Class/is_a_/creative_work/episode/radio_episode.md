@@ -45,17 +45,17 @@ A radio episode which can be part of a series or season.
 
 ## Confidential Links & Embeds: 
 
-### [radio_episode](/_Standards/schema-org/Class/is_a_/creative_work/episode/radio_episode.md) 
+### #is_/same_as :: [radio_episode](/_Standards/schema-org/Class/is_a_/creative_work/episode/radio_episode.md) 
 
-### [radio_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/radio_episode.public.md) 
+### #is_/same_as :: [radio_episode.public](/_public/schema-org/Class/is_a_/creative_work/episode/radio_episode.public.md) 
 
-### [radio_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/radio_episode.internal.md) 
+### #is_/same_as :: [radio_episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode/radio_episode.internal.md) 
 
-### [radio_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/radio_episode.protect.md) 
+### #is_/same_as :: [radio_episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode/radio_episode.protect.md) 
 
-### [radio_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/radio_episode.private.md) 
+### #is_/same_as :: [radio_episode.private](/_private/schema-org/Class/is_a_/creative_work/episode/radio_episode.private.md) 
 
-### [radio_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/radio_episode.personal.md) 
+### #is_/same_as :: [radio_episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode/radio_episode.personal.md) 
 
-### [radio_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/radio_episode.secret.md)
+### #is_/same_as :: [radio_episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode/radio_episode.secret.md)
 

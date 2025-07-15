@@ -47,17 +47,17 @@ A type of financial product that typically requires the client to transfer funds
 
 ## Confidential Links & Embeds: 
 
-### [investment_or_deposit](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.md) 
+### #is_/same_as :: [investment_or_deposit](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.md) 
 
-### [investment_or_deposit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.public.md) 
+### #is_/same_as :: [investment_or_deposit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.public.md) 
 
-### [investment_or_deposit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.internal.md) 
+### #is_/same_as :: [investment_or_deposit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.internal.md) 
 
-### [investment_or_deposit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.protect.md) 
+### #is_/same_as :: [investment_or_deposit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.protect.md) 
 
-### [investment_or_deposit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.private.md) 
+### #is_/same_as :: [investment_or_deposit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.private.md) 
 
-### [investment_or_deposit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.personal.md) 
+### #is_/same_as :: [investment_or_deposit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.personal.md) 
 
-### [investment_or_deposit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.secret.md)
+### #is_/same_as :: [investment_or_deposit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.secret.md)
 

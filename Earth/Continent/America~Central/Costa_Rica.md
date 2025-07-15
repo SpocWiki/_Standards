@@ -431,17 +431,17 @@ Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 
 ## Confidential Links & Embeds: 
 
-### [Costa_Rica](/_Standards/Earth/Continent/America~Central/Costa_Rica.md) 
+### #is_/same_as :: [Costa_Rica](/_Standards/Earth/Continent/America~Central/Costa_Rica.md) 
 
-### [Costa_Rica.public](/_public/Earth/Continent/America~Central/Costa_Rica.public.md) 
+### #is_/same_as :: [Costa_Rica.public](/_public/Earth/Continent/America~Central/Costa_Rica.public.md) 
 
-### [Costa_Rica.internal](/_internal/Earth/Continent/America~Central/Costa_Rica.internal.md) 
+### #is_/same_as :: [Costa_Rica.internal](/_internal/Earth/Continent/America~Central/Costa_Rica.internal.md) 
 
-### [Costa_Rica.protect](/_protect/Earth/Continent/America~Central/Costa_Rica.protect.md) 
+### #is_/same_as :: [Costa_Rica.protect](/_protect/Earth/Continent/America~Central/Costa_Rica.protect.md) 
 
-### [Costa_Rica.private](/_private/Earth/Continent/America~Central/Costa_Rica.private.md) 
+### #is_/same_as :: [Costa_Rica.private](/_private/Earth/Continent/America~Central/Costa_Rica.private.md) 
 
-### [Costa_Rica.personal](/_personal/Earth/Continent/America~Central/Costa_Rica.personal.md) 
+### #is_/same_as :: [Costa_Rica.personal](/_personal/Earth/Continent/America~Central/Costa_Rica.personal.md) 
 
-### [Costa_Rica.secret](/_secret/Earth/Continent/America~Central/Costa_Rica.secret.md)
+### #is_/same_as :: [Costa_Rica.secret](/_secret/Earth/Continent/America~Central/Costa_Rica.secret.md)
 

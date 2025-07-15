@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_maximum_attendees](/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_attendees.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees](/_Standards/schema-org/Property/has_number_of/has_number_of_maximum_attendees.md) 
 
-### [has_number_of_maximum_attendees.public](/_public/schema-org/Property/has_number_of/has_number_of_maximum_attendees.public.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees.public](/_public/schema-org/Property/has_number_of/has_number_of_maximum_attendees.public.md) 
 
-### [has_number_of_maximum_attendees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.internal.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.internal.md) 
 
-### [has_number_of_maximum_attendees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_attendees.protect.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_attendees.protect.md) 
 
-### [has_number_of_maximum_attendees.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_attendees.private.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_attendees.private.md) 
 
-### [has_number_of_maximum_attendees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.personal.md) 
+### #is_/same_as :: [has_number_of_maximum_attendees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_attendees.personal.md) 
 
-### [has_number_of_maximum_attendees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_attendees.secret.md)
+### #is_/same_as :: [has_number_of_maximum_attendees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_attendees.secret.md)
 

@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_schedule_timezone](/_Standards/schema-org/Property/Texts/has_schedule_timezone.md) 
+### #is_/same_as :: [has_schedule_timezone](/_Standards/schema-org/Property/Texts/has_schedule_timezone.md) 
 
-### [has_schedule_timezone.public](/_public/schema-org/Property/Texts/has_schedule_timezone.public.md) 
+### #is_/same_as :: [has_schedule_timezone.public](/_public/schema-org/Property/Texts/has_schedule_timezone.public.md) 
 
-### [has_schedule_timezone.internal](/_internal/schema-org/Property/Texts/has_schedule_timezone.internal.md) 
+### #is_/same_as :: [has_schedule_timezone.internal](/_internal/schema-org/Property/Texts/has_schedule_timezone.internal.md) 
 
-### [has_schedule_timezone.protect](/_protect/schema-org/Property/Texts/has_schedule_timezone.protect.md) 
+### #is_/same_as :: [has_schedule_timezone.protect](/_protect/schema-org/Property/Texts/has_schedule_timezone.protect.md) 
 
-### [has_schedule_timezone.private](/_private/schema-org/Property/Texts/has_schedule_timezone.private.md) 
+### #is_/same_as :: [has_schedule_timezone.private](/_private/schema-org/Property/Texts/has_schedule_timezone.private.md) 
 
-### [has_schedule_timezone.personal](/_personal/schema-org/Property/Texts/has_schedule_timezone.personal.md) 
+### #is_/same_as :: [has_schedule_timezone.personal](/_personal/schema-org/Property/Texts/has_schedule_timezone.personal.md) 
 
-### [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md)
+### #is_/same_as :: [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md)
 

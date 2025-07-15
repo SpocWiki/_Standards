@@ -75,17 +75,17 @@ SeatingType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Seat](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.md) 
+### #is_/same_as :: [FileClass~Seat](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.md) 
 
-### [FileClass~Seat.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.public.md) 
+### #is_/same_as :: [FileClass~Seat.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.public.md) 
 
-### [FileClass~Seat.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.internal.md) 
+### #is_/same_as :: [FileClass~Seat.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.internal.md) 
 
-### [FileClass~Seat.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.protect.md) 
+### #is_/same_as :: [FileClass~Seat.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.protect.md) 
 
-### [FileClass~Seat.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.private.md) 
+### #is_/same_as :: [FileClass~Seat.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.private.md) 
 
-### [FileClass~Seat.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.personal.md) 
+### #is_/same_as :: [FileClass~Seat.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.personal.md) 
 
-### [FileClass~Seat.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.secret.md)
+### #is_/same_as :: [FileClass~Seat.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Seat.secret.md)
 

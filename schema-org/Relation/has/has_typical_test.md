@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_typical_test](/_Standards/schema-org/Relation/has/has_typical_test.md) 
+### #is_/same_as :: [has_typical_test](/_Standards/schema-org/Relation/has/has_typical_test.md) 
 
-### [has_typical_test.public](/_public/schema-org/Relation/has/has_typical_test.public.md) 
+### #is_/same_as :: [has_typical_test.public](/_public/schema-org/Relation/has/has_typical_test.public.md) 
 
-### [has_typical_test.internal](/_internal/schema-org/Relation/has/has_typical_test.internal.md) 
+### #is_/same_as :: [has_typical_test.internal](/_internal/schema-org/Relation/has/has_typical_test.internal.md) 
 
-### [has_typical_test.protect](/_protect/schema-org/Relation/has/has_typical_test.protect.md) 
+### #is_/same_as :: [has_typical_test.protect](/_protect/schema-org/Relation/has/has_typical_test.protect.md) 
 
-### [has_typical_test.private](/_private/schema-org/Relation/has/has_typical_test.private.md) 
+### #is_/same_as :: [has_typical_test.private](/_private/schema-org/Relation/has/has_typical_test.private.md) 
 
-### [has_typical_test.personal](/_personal/schema-org/Relation/has/has_typical_test.personal.md) 
+### #is_/same_as :: [has_typical_test.personal](/_personal/schema-org/Relation/has/has_typical_test.personal.md) 
 
-### [has_typical_test.secret](/_secret/schema-org/Relation/has/has_typical_test.secret.md)
+### #is_/same_as :: [has_typical_test.secret](/_secret/schema-org/Relation/has/has_typical_test.secret.md)
 

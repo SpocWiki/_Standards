@@ -45,17 +45,17 @@ The anatomical location at which two or more bones make contact.
 
 ## Confidential Links & Embeds: 
 
-### [joint](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.md) 
+### #is_/same_as :: [joint](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.md) 
 
-### [joint.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.public.md) 
+### #is_/same_as :: [joint.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.public.md) 
 
-### [joint.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.internal.md) 
+### #is_/same_as :: [joint.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.internal.md) 
 
-### [joint.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.protect.md) 
+### #is_/same_as :: [joint.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.protect.md) 
 
-### [joint.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.private.md) 
+### #is_/same_as :: [joint.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.private.md) 
 
-### [joint.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.personal.md) 
+### #is_/same_as :: [joint.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.personal.md) 
 
-### [joint.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.secret.md)
+### #is_/same_as :: [joint.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.secret.md)
 

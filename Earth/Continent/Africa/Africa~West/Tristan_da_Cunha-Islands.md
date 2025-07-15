@@ -52,17 +52,17 @@ Capital :: [[Jamestown]]
 
 ## Confidential Links & Embeds: 
 
-### [Tristan_da_Cunha-Islands](/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands](/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.md) 
 
-### [Tristan_da_Cunha-Islands.public](/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.public.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands.public](/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.public.md) 
 
-### [Tristan_da_Cunha-Islands.internal](/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.internal.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands.internal](/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.internal.md) 
 
-### [Tristan_da_Cunha-Islands.protect](/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.protect.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands.protect](/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.protect.md) 
 
-### [Tristan_da_Cunha-Islands.private](/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.private.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands.private](/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.private.md) 
 
-### [Tristan_da_Cunha-Islands.personal](/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.personal.md) 
+### #is_/same_as :: [Tristan_da_Cunha-Islands.personal](/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.personal.md) 
 
-### [Tristan_da_Cunha-Islands.secret](/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.secret.md)
+### #is_/same_as :: [Tristan_da_Cunha-Islands.secret](/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.secret.md)
 

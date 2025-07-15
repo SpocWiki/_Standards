@@ -59,17 +59,17 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 ## Confidential Links & Embeds: 
 
-### [original_media_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md) 
+### #is_/same_as :: [original_media_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md) 
 
-### [original_media_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.public.md) 
+### #is_/same_as :: [original_media_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.public.md) 
 
-### [original_media_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md) 
+### #is_/same_as :: [original_media_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md) 
 
-### [original_media_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.protect.md) 
+### #is_/same_as :: [original_media_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.protect.md) 
 
-### [original_media_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.private.md) 
+### #is_/same_as :: [original_media_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.private.md) 
 
-### [original_media_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.personal.md) 
+### #is_/same_as :: [original_media_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.personal.md) 
 
-### [original_media_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md)
+### #is_/same_as :: [original_media_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md)
 

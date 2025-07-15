@@ -61,17 +61,17 @@ ServerStatus:: {"type":"Select","options":{"valuesList":{"OfflinePermanently","O
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GameServer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.md) 
+### #is_/same_as :: [FileClass~GameServer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.md) 
 
-### [FileClass~GameServer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.public.md) 
+### #is_/same_as :: [FileClass~GameServer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.public.md) 
 
-### [FileClass~GameServer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.internal.md) 
+### #is_/same_as :: [FileClass~GameServer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.internal.md) 
 
-### [FileClass~GameServer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.protect.md) 
+### #is_/same_as :: [FileClass~GameServer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.protect.md) 
 
-### [FileClass~GameServer.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.private.md) 
+### #is_/same_as :: [FileClass~GameServer.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.private.md) 
 
-### [FileClass~GameServer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.personal.md) 
+### #is_/same_as :: [FileClass~GameServer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.personal.md) 
 
-### [FileClass~GameServer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret.md)
+### #is_/same_as :: [FileClass~GameServer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~GameServer.secret.md)
 

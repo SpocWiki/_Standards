@@ -51,17 +51,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_model](/_Standards/schema-org/Relation/has/has_model.md) 
+### #is_/same_as :: [has_model](/_Standards/schema-org/Relation/has/has_model.md) 
 
-### [has_model.public](/_public/schema-org/Relation/has/has_model.public.md) 
+### #is_/same_as :: [has_model.public](/_public/schema-org/Relation/has/has_model.public.md) 
 
-### [has_model.internal](/_internal/schema-org/Relation/has/has_model.internal.md) 
+### #is_/same_as :: [has_model.internal](/_internal/schema-org/Relation/has/has_model.internal.md) 
 
-### [has_model.protect](/_protect/schema-org/Relation/has/has_model.protect.md) 
+### #is_/same_as :: [has_model.protect](/_protect/schema-org/Relation/has/has_model.protect.md) 
 
-### [has_model.private](/_private/schema-org/Relation/has/has_model.private.md) 
+### #is_/same_as :: [has_model.private](/_private/schema-org/Relation/has/has_model.private.md) 
 
-### [has_model.personal](/_personal/schema-org/Relation/has/has_model.personal.md) 
+### #is_/same_as :: [has_model.personal](/_personal/schema-org/Relation/has/has_model.personal.md) 
 
-### [has_model.secret](/_secret/schema-org/Relation/has/has_model.secret.md)
+### #is_/same_as :: [has_model.secret](/_secret/schema-org/Relation/has/has_model.secret.md)
 

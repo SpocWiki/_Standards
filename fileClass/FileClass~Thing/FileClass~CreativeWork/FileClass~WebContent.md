@@ -35,17 +35,17 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~WebContent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.md) 
+### #is_/same_as :: [FileClass~WebContent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.md) 
 
-### [FileClass~WebContent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.public.md) 
+### #is_/same_as :: [FileClass~WebContent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.public.md) 
 
-### [FileClass~WebContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.internal.md) 
+### #is_/same_as :: [FileClass~WebContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.internal.md) 
 
-### [FileClass~WebContent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.protect.md) 
+### #is_/same_as :: [FileClass~WebContent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.protect.md) 
 
-### [FileClass~WebContent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.private.md) 
+### #is_/same_as :: [FileClass~WebContent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.private.md) 
 
-### [FileClass~WebContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.personal.md) 
+### #is_/same_as :: [FileClass~WebContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.personal.md) 
 
-### [FileClass~WebContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret.md)
+### #is_/same_as :: [FileClass~WebContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret.md)
 

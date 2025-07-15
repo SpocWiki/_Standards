@@ -89,17 +89,17 @@ Commons_category: Dubnium
 
 ## Confidential Links & Embeds: 
 
-### [Dubnium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.md) 
+### #is_/same_as :: [Dubnium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.md) 
 
-### [Dubnium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.public.md) 
+### #is_/same_as :: [Dubnium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.public.md) 
 
-### [Dubnium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.internal.md) 
+### #is_/same_as :: [Dubnium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.internal.md) 
 
-### [Dubnium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.protect.md) 
+### #is_/same_as :: [Dubnium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.protect.md) 
 
-### [Dubnium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.private.md) 
+### #is_/same_as :: [Dubnium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.private.md) 
 
-### [Dubnium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.personal.md) 
+### #is_/same_as :: [Dubnium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.personal.md) 
 
-### [Dubnium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.secret.md)
+### #is_/same_as :: [Dubnium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Dubnium.secret.md)
 

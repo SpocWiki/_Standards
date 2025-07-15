@@ -47,17 +47,17 @@ A description of an action that is supported.
 
 ## Confidential Links & Embeds: 
 
-### [potential_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
+### #is_/same_as :: [potential_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
 
-### [potential_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.public.md) 
+### #is_/same_as :: [potential_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.public.md) 
 
-### [potential_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md) 
+### #is_/same_as :: [potential_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md) 
 
-### [potential_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect.md) 
+### #is_/same_as :: [potential_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect.md) 
 
-### [potential_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private.md) 
+### #is_/same_as :: [potential_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private.md) 
 
-### [potential_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal.md) 
+### #is_/same_as :: [potential_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal.md) 
 
-### [potential_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md)
+### #is_/same_as :: [potential_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md)
 

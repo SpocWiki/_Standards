@@ -22,21 +22,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bolívar,Simón](/_Standards/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.md) 
+### #is_/same_as :: [Bolívar,Simón](/_Standards/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.md) 
 
-### [Bolívar,Simón.public](/_public/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.public.md) 
+### #is_/same_as :: [Bolívar,Simón.public](/_public/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.public.md) 
 
-### [Bolívar,Simón.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.internal.md) 
+### #is_/same_as :: [Bolívar,Simón.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.internal.md) 
 
-### [Bolívar,Simón.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.protect.md) 
+### #is_/same_as :: [Bolívar,Simón.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.protect.md) 
 
-### [Bolívar,Simón.private](/_private/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.private.md) 
+### #is_/same_as :: [Bolívar,Simón.private](/_private/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.private.md) 
 
-### [Bolívar,Simón.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.personal.md) 
+### #is_/same_as :: [Bolívar,Simón.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.personal.md) 
 
-### [Bolívar,Simón.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.secret.md)
+### #is_/same_as :: [Bolívar,Simón.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Bolívar,Simón.secret.md)
 

@@ -49,17 +49,17 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 ## Confidential Links & Embeds: 
 
-### [store_credit_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.md) 
+### #is_/same_as :: [store_credit_refund](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.md) 
 
-### [store_credit_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.public.md) 
+### #is_/same_as :: [store_credit_refund.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.public.md) 
 
-### [store_credit_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md) 
+### #is_/same_as :: [store_credit_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md) 
 
-### [store_credit_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.protect.md) 
+### #is_/same_as :: [store_credit_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.protect.md) 
 
-### [store_credit_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.private.md) 
+### #is_/same_as :: [store_credit_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.private.md) 
 
-### [store_credit_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md) 
+### #is_/same_as :: [store_credit_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md) 
 
-### [store_credit_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md)
+### #is_/same_as :: [store_credit_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md)
 

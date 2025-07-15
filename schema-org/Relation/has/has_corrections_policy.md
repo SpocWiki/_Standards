@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_corrections_policy](/_Standards/schema-org/Relation/has/has_corrections_policy.md) 
+### #is_/same_as :: [has_corrections_policy](/_Standards/schema-org/Relation/has/has_corrections_policy.md) 
 
-### [has_corrections_policy.public](/_public/schema-org/Relation/has/has_corrections_policy.public.md) 
+### #is_/same_as :: [has_corrections_policy.public](/_public/schema-org/Relation/has/has_corrections_policy.public.md) 
 
-### [has_corrections_policy.internal](/_internal/schema-org/Relation/has/has_corrections_policy.internal.md) 
+### #is_/same_as :: [has_corrections_policy.internal](/_internal/schema-org/Relation/has/has_corrections_policy.internal.md) 
 
-### [has_corrections_policy.protect](/_protect/schema-org/Relation/has/has_corrections_policy.protect.md) 
+### #is_/same_as :: [has_corrections_policy.protect](/_protect/schema-org/Relation/has/has_corrections_policy.protect.md) 
 
-### [has_corrections_policy.private](/_private/schema-org/Relation/has/has_corrections_policy.private.md) 
+### #is_/same_as :: [has_corrections_policy.private](/_private/schema-org/Relation/has/has_corrections_policy.private.md) 
 
-### [has_corrections_policy.personal](/_personal/schema-org/Relation/has/has_corrections_policy.personal.md) 
+### #is_/same_as :: [has_corrections_policy.personal](/_personal/schema-org/Relation/has/has_corrections_policy.personal.md) 
 
-### [has_corrections_policy.secret](/_secret/schema-org/Relation/has/has_corrections_policy.secret.md)
+### #is_/same_as :: [has_corrections_policy.secret](/_secret/schema-org/Relation/has/has_corrections_policy.secret.md)
 

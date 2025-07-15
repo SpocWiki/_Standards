@@ -25,17 +25,17 @@ Activities can encompass a series of related actions and may not always correspo
 
 ## Confidential Links & Embeds: 
 
-### [Activity](/_Standards/schema-org/Class/is_a_/Activity.md) 
+### #is_/same_as :: [Activity](/_Standards/schema-org/Class/is_a_/Activity.md) 
 
-### [Activity.public](/_public/schema-org/Class/is_a_/Activity.public.md) 
+### #is_/same_as :: [Activity.public](/_public/schema-org/Class/is_a_/Activity.public.md) 
 
-### [Activity.internal](/_internal/schema-org/Class/is_a_/Activity.internal.md) 
+### #is_/same_as :: [Activity.internal](/_internal/schema-org/Class/is_a_/Activity.internal.md) 
 
-### [Activity.protect](/_protect/schema-org/Class/is_a_/Activity.protect.md) 
+### #is_/same_as :: [Activity.protect](/_protect/schema-org/Class/is_a_/Activity.protect.md) 
 
-### [Activity.private](/_private/schema-org/Class/is_a_/Activity.private.md) 
+### #is_/same_as :: [Activity.private](/_private/schema-org/Class/is_a_/Activity.private.md) 
 
-### [Activity.personal](/_personal/schema-org/Class/is_a_/Activity.personal.md) 
+### #is_/same_as :: [Activity.personal](/_personal/schema-org/Class/is_a_/Activity.personal.md) 
 
-### [Activity.secret](/_secret/schema-org/Class/is_a_/Activity.secret.md)
+### #is_/same_as :: [Activity.secret](/_secret/schema-org/Class/is_a_/Activity.secret.md)
 

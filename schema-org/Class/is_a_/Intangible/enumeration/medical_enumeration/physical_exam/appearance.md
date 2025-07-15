@@ -47,17 +47,17 @@ Appearance assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [appearance](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.md) 
+### #is_/same_as :: [appearance](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.md) 
 
-### [appearance.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.public.md) 
+### #is_/same_as :: [appearance.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.public.md) 
 
-### [appearance.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.internal.md) 
+### #is_/same_as :: [appearance.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.internal.md) 
 
-### [appearance.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.protect.md) 
+### #is_/same_as :: [appearance.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.protect.md) 
 
-### [appearance.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.private.md) 
+### #is_/same_as :: [appearance.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.private.md) 
 
-### [appearance.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.personal.md) 
+### #is_/same_as :: [appearance.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.personal.md) 
 
-### [appearance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.secret.md)
+### #is_/same_as :: [appearance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/appearance.secret.md)
 

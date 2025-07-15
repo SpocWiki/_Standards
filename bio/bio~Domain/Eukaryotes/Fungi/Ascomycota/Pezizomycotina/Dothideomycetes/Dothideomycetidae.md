@@ -33,17 +33,17 @@ Containing group: [Dothideomycetes](Dothideomycetes.md)
 
 ## Confidential Links & Embeds: 
 
-### [Dothideomycetidae](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.md) 
+### #is_/same_as :: [Dothideomycetidae](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.md) 
 
-### [Dothideomycetidae.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.public.md) 
+### #is_/same_as :: [Dothideomycetidae.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.public.md) 
 
-### [Dothideomycetidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.internal.md) 
+### #is_/same_as :: [Dothideomycetidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.internal.md) 
 
-### [Dothideomycetidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.protect.md) 
+### #is_/same_as :: [Dothideomycetidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.protect.md) 
 
-### [Dothideomycetidae.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.private.md) 
+### #is_/same_as :: [Dothideomycetidae.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.private.md) 
 
-### [Dothideomycetidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.personal.md) 
+### #is_/same_as :: [Dothideomycetidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.personal.md) 
 
-### [Dothideomycetidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.secret.md)
+### #is_/same_as :: [Dothideomycetidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Dothideomycetes/Dothideomycetidae.secret.md)
 

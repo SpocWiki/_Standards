@@ -50,17 +50,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_occupational_category](/_Standards/schema-org/Relation/has/has_occupational_category.md) 
+### #is_/same_as :: [has_occupational_category](/_Standards/schema-org/Relation/has/has_occupational_category.md) 
 
-### [has_occupational_category.public](/_public/schema-org/Relation/has/has_occupational_category.public.md) 
+### #is_/same_as :: [has_occupational_category.public](/_public/schema-org/Relation/has/has_occupational_category.public.md) 
 
-### [has_occupational_category.internal](/_internal/schema-org/Relation/has/has_occupational_category.internal.md) 
+### #is_/same_as :: [has_occupational_category.internal](/_internal/schema-org/Relation/has/has_occupational_category.internal.md) 
 
-### [has_occupational_category.protect](/_protect/schema-org/Relation/has/has_occupational_category.protect.md) 
+### #is_/same_as :: [has_occupational_category.protect](/_protect/schema-org/Relation/has/has_occupational_category.protect.md) 
 
-### [has_occupational_category.private](/_private/schema-org/Relation/has/has_occupational_category.private.md) 
+### #is_/same_as :: [has_occupational_category.private](/_private/schema-org/Relation/has/has_occupational_category.private.md) 
 
-### [has_occupational_category.personal](/_personal/schema-org/Relation/has/has_occupational_category.personal.md) 
+### #is_/same_as :: [has_occupational_category.personal](/_personal/schema-org/Relation/has/has_occupational_category.personal.md) 
 
-### [has_occupational_category.secret](/_secret/schema-org/Relation/has/has_occupational_category.secret.md)
+### #is_/same_as :: [has_occupational_category.secret](/_secret/schema-org/Relation/has/has_occupational_category.secret.md)
 

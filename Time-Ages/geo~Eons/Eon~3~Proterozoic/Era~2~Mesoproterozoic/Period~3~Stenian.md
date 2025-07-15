@@ -65,17 +65,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~3~Stenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
+### #is_/same_as :: [Period~3~Stenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
 
-### [Period~3~Stenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public.md) 
+### #is_/same_as :: [Period~3~Stenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public.md) 
 
-### [Period~3~Stenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal.md) 
+### #is_/same_as :: [Period~3~Stenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal.md) 
 
-### [Period~3~Stenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect.md) 
+### #is_/same_as :: [Period~3~Stenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect.md) 
 
-### [Period~3~Stenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private.md) 
+### #is_/same_as :: [Period~3~Stenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private.md) 
 
-### [Period~3~Stenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal.md) 
+### #is_/same_as :: [Period~3~Stenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal.md) 
 
-### [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md)
+### #is_/same_as :: [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md)
 

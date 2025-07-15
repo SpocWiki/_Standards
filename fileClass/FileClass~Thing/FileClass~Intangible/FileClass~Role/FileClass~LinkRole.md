@@ -56,17 +56,17 @@ LinkRelationship:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LinkRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.md) 
+### #is_/same_as :: [FileClass~LinkRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.md) 
 
-### [FileClass~LinkRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.public.md) 
+### #is_/same_as :: [FileClass~LinkRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.public.md) 
 
-### [FileClass~LinkRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.internal.md) 
+### #is_/same_as :: [FileClass~LinkRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.internal.md) 
 
-### [FileClass~LinkRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.protect.md) 
+### #is_/same_as :: [FileClass~LinkRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.protect.md) 
 
-### [FileClass~LinkRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.private.md) 
+### #is_/same_as :: [FileClass~LinkRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.private.md) 
 
-### [FileClass~LinkRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.personal.md) 
+### #is_/same_as :: [FileClass~LinkRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.personal.md) 
 
-### [FileClass~LinkRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.secret.md)
+### #is_/same_as :: [FileClass~LinkRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.secret.md)
 

@@ -45,17 +45,17 @@ A short TV program or a segment/part of a TV program.
 
 ## Confidential Links & Embeds: 
 
-### [tv_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/tv_clip.md) 
+### #is_/same_as :: [tv_clip](/_Standards/schema-org/Class/is_a_/creative_work/clip/tv_clip.md) 
 
-### [tv_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/tv_clip.public.md) 
+### #is_/same_as :: [tv_clip.public](/_public/schema-org/Class/is_a_/creative_work/clip/tv_clip.public.md) 
 
-### [tv_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/tv_clip.internal.md) 
+### #is_/same_as :: [tv_clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip/tv_clip.internal.md) 
 
-### [tv_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/tv_clip.protect.md) 
+### #is_/same_as :: [tv_clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip/tv_clip.protect.md) 
 
-### [tv_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/tv_clip.private.md) 
+### #is_/same_as :: [tv_clip.private](/_private/schema-org/Class/is_a_/creative_work/clip/tv_clip.private.md) 
 
-### [tv_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/tv_clip.personal.md) 
+### #is_/same_as :: [tv_clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip/tv_clip.personal.md) 
 
-### [tv_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/tv_clip.secret.md)
+### #is_/same_as :: [tv_clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip/tv_clip.secret.md)
 

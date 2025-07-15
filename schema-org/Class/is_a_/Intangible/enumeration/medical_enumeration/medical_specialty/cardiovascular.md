@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### [cardiovascular](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.md) 
+### #is_/same_as :: [cardiovascular](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.md) 
 
-### [cardiovascular.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.public.md) 
+### #is_/same_as :: [cardiovascular.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.public.md) 
 
-### [cardiovascular.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.internal.md) 
+### #is_/same_as :: [cardiovascular.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.internal.md) 
 
-### [cardiovascular.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.protect.md) 
+### #is_/same_as :: [cardiovascular.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.protect.md) 
 
-### [cardiovascular.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.private.md) 
+### #is_/same_as :: [cardiovascular.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.private.md) 
 
-### [cardiovascular.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.personal.md) 
+### #is_/same_as :: [cardiovascular.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.personal.md) 
 
-### [cardiovascular.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.secret.md)
+### #is_/same_as :: [cardiovascular.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/cardiovascular.secret.md)
 

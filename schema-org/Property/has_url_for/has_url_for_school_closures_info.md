@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_school_closures_info](/_Standards/schema-org/Property/has_url_for/has_url_for_school_closures_info.md) 
+### #is_/same_as :: [has_url_for_school_closures_info](/_Standards/schema-org/Property/has_url_for/has_url_for_school_closures_info.md) 
 
-### [has_url_for_school_closures_info.public](/_public/schema-org/Property/has_url_for/has_url_for_school_closures_info.public.md) 
+### #is_/same_as :: [has_url_for_school_closures_info.public](/_public/schema-org/Property/has_url_for/has_url_for_school_closures_info.public.md) 
 
-### [has_url_for_school_closures_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_school_closures_info.internal.md) 
+### #is_/same_as :: [has_url_for_school_closures_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_school_closures_info.internal.md) 
 
-### [has_url_for_school_closures_info.protect](/_protect/schema-org/Property/has_url_for/has_url_for_school_closures_info.protect.md) 
+### #is_/same_as :: [has_url_for_school_closures_info.protect](/_protect/schema-org/Property/has_url_for/has_url_for_school_closures_info.protect.md) 
 
-### [has_url_for_school_closures_info.private](/_private/schema-org/Property/has_url_for/has_url_for_school_closures_info.private.md) 
+### #is_/same_as :: [has_url_for_school_closures_info.private](/_private/schema-org/Property/has_url_for/has_url_for_school_closures_info.private.md) 
 
-### [has_url_for_school_closures_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_school_closures_info.personal.md) 
+### #is_/same_as :: [has_url_for_school_closures_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_school_closures_info.personal.md) 
 
-### [has_url_for_school_closures_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_school_closures_info.secret.md)
+### #is_/same_as :: [has_url_for_school_closures_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_school_closures_info.secret.md)
 

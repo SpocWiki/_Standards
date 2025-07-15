@@ -47,17 +47,17 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 
 ## Confidential Links & Embeds: 
 
-### [size_specification](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.md) 
+### #is_/same_as :: [size_specification](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.md) 
 
-### [size_specification.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.public.md) 
+### #is_/same_as :: [size_specification.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.public.md) 
 
-### [size_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.internal.md) 
+### #is_/same_as :: [size_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.internal.md) 
 
-### [size_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.protect.md) 
+### #is_/same_as :: [size_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.protect.md) 
 
-### [size_specification.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.private.md) 
+### #is_/same_as :: [size_specification.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.private.md) 
 
-### [size_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.personal.md) 
+### #is_/same_as :: [size_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.personal.md) 
 
-### [size_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.secret.md)
+### #is_/same_as :: [size_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.secret.md)
 

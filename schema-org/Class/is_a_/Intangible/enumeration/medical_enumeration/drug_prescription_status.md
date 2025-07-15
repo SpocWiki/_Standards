@@ -43,17 +43,17 @@ Indicates whether this drug is available by prescription or over-the-counter.
 
 ## Confidential Links & Embeds: 
 
-### [drug_prescription_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.md) 
+### #is_/same_as :: [drug_prescription_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.md) 
 
-### [drug_prescription_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.public.md) 
+### #is_/same_as :: [drug_prescription_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.public.md) 
 
-### [drug_prescription_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md) 
+### #is_/same_as :: [drug_prescription_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md) 
 
-### [drug_prescription_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md) 
+### #is_/same_as :: [drug_prescription_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md) 
 
-### [drug_prescription_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.private.md) 
+### #is_/same_as :: [drug_prescription_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.private.md) 
 
-### [drug_prescription_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md) 
+### #is_/same_as :: [drug_prescription_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md) 
 
-### [drug_prescription_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md)
+### #is_/same_as :: [drug_prescription_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md)
 

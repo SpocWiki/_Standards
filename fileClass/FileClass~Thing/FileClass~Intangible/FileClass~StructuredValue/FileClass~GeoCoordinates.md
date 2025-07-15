@@ -97,17 +97,17 @@ PostalCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeoCoordinates](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.md) 
 
-### [FileClass~GeoCoordinates.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.public.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.public.md) 
 
-### [FileClass~GeoCoordinates.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.internal.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.internal.md) 
 
-### [FileClass~GeoCoordinates.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.protect.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.protect.md) 
 
-### [FileClass~GeoCoordinates.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.private.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.private.md) 
 
-### [FileClass~GeoCoordinates.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.personal.md) 
+### #is_/same_as :: [FileClass~GeoCoordinates.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.personal.md) 
 
-### [FileClass~GeoCoordinates.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.secret.md)
+### #is_/same_as :: [FileClass~GeoCoordinates.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.secret.md)
 

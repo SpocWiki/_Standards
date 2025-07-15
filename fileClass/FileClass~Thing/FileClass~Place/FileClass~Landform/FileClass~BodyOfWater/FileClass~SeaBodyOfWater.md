@@ -35,17 +35,17 @@ A sea (for example, the Caspian sea).
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SeaBodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.md) 
 
-### [FileClass~SeaBodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.public.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.public.md) 
 
-### [FileClass~SeaBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.internal.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.internal.md) 
 
-### [FileClass~SeaBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.protect.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.protect.md) 
 
-### [FileClass~SeaBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.private.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.private.md) 
 
-### [FileClass~SeaBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.personal.md) 
+### #is_/same_as :: [FileClass~SeaBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.personal.md) 
 
-### [FileClass~SeaBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.secret.md)
+### #is_/same_as :: [FileClass~SeaBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~SeaBodyOfWater.secret.md)
 

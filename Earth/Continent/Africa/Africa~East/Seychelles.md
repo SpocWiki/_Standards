@@ -421,17 +421,17 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 ## Confidential Links & Embeds: 
 
-### [Seychelles](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles.md) 
+### #is_/same_as :: [Seychelles](/_Standards/Earth/Continent/Africa/Africa~East/Seychelles.md) 
 
-### [Seychelles.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles.public.md) 
+### #is_/same_as :: [Seychelles.public](/_public/Earth/Continent/Africa/Africa~East/Seychelles.public.md) 
 
-### [Seychelles.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal.md) 
+### #is_/same_as :: [Seychelles.internal](/_internal/Earth/Continent/Africa/Africa~East/Seychelles.internal.md) 
 
-### [Seychelles.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles.protect.md) 
+### #is_/same_as :: [Seychelles.protect](/_protect/Earth/Continent/Africa/Africa~East/Seychelles.protect.md) 
 
-### [Seychelles.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles.private.md) 
+### #is_/same_as :: [Seychelles.private](/_private/Earth/Continent/Africa/Africa~East/Seychelles.private.md) 
 
-### [Seychelles.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal.md) 
+### #is_/same_as :: [Seychelles.personal](/_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal.md) 
 
-### [Seychelles.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret.md)
+### #is_/same_as :: [Seychelles.secret](/_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret.md)
 

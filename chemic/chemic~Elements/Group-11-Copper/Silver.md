@@ -174,17 +174,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
 
 ## Confidential Links & Embeds: 
 
-### [Silver](/_Standards/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
+### #is_/same_as :: [Silver](/_Standards/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
 
-### [Silver.public](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.public.md) 
+### #is_/same_as :: [Silver.public](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.public.md) 
 
-### [Silver.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Silver.internal.md) 
+### #is_/same_as :: [Silver.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Silver.internal.md) 
 
-### [Silver.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Silver.protect.md) 
+### #is_/same_as :: [Silver.protect](/_protect/chemic/chemic~Elements/Group-11-Copper/Silver.protect.md) 
 
-### [Silver.private](/_private/chemic/chemic~Elements/Group-11-Copper/Silver.private.md) 
+### #is_/same_as :: [Silver.private](/_private/chemic/chemic~Elements/Group-11-Copper/Silver.private.md) 
 
-### [Silver.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Silver.personal.md) 
+### #is_/same_as :: [Silver.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Silver.personal.md) 
 
-### [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md)
+### #is_/same_as :: [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md)
 

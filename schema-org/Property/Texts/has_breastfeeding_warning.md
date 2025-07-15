@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_breastfeeding_warning](/_Standards/schema-org/Property/Texts/has_breastfeeding_warning.md) 
+### #is_/same_as :: [has_breastfeeding_warning](/_Standards/schema-org/Property/Texts/has_breastfeeding_warning.md) 
 
-### [has_breastfeeding_warning.public](/_public/schema-org/Property/Texts/has_breastfeeding_warning.public.md) 
+### #is_/same_as :: [has_breastfeeding_warning.public](/_public/schema-org/Property/Texts/has_breastfeeding_warning.public.md) 
 
-### [has_breastfeeding_warning.internal](/_internal/schema-org/Property/Texts/has_breastfeeding_warning.internal.md) 
+### #is_/same_as :: [has_breastfeeding_warning.internal](/_internal/schema-org/Property/Texts/has_breastfeeding_warning.internal.md) 
 
-### [has_breastfeeding_warning.protect](/_protect/schema-org/Property/Texts/has_breastfeeding_warning.protect.md) 
+### #is_/same_as :: [has_breastfeeding_warning.protect](/_protect/schema-org/Property/Texts/has_breastfeeding_warning.protect.md) 
 
-### [has_breastfeeding_warning.private](/_private/schema-org/Property/Texts/has_breastfeeding_warning.private.md) 
+### #is_/same_as :: [has_breastfeeding_warning.private](/_private/schema-org/Property/Texts/has_breastfeeding_warning.private.md) 
 
-### [has_breastfeeding_warning.personal](/_personal/schema-org/Property/Texts/has_breastfeeding_warning.personal.md) 
+### #is_/same_as :: [has_breastfeeding_warning.personal](/_personal/schema-org/Property/Texts/has_breastfeeding_warning.personal.md) 
 
-### [has_breastfeeding_warning.secret](/_secret/schema-org/Property/Texts/has_breastfeeding_warning.secret.md)
+### #is_/same_as :: [has_breastfeeding_warning.secret](/_secret/schema-org/Property/Texts/has_breastfeeding_warning.secret.md)
 

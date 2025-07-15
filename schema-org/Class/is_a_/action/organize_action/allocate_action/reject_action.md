@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [reject_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.md) 
+### #is_/same_as :: [reject_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.md) 
 
-### [reject_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.public.md) 
+### #is_/same_as :: [reject_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.public.md) 
 
-### [reject_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.internal.md) 
+### #is_/same_as :: [reject_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.internal.md) 
 
-### [reject_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.protect.md) 
+### #is_/same_as :: [reject_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.protect.md) 
 
-### [reject_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.private.md) 
+### #is_/same_as :: [reject_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.private.md) 
 
-### [reject_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.personal.md) 
+### #is_/same_as :: [reject_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.personal.md) 
 
-### [reject_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.secret.md)
+### #is_/same_as :: [reject_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/reject_action.secret.md)
 

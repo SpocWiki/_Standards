@@ -35,17 +35,17 @@ The act of discovering/finding an object.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DiscoverAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.md) 
+### #is_/same_as :: [FileClass~DiscoverAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.md) 
 
-### [FileClass~DiscoverAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.public.md) 
+### #is_/same_as :: [FileClass~DiscoverAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.public.md) 
 
-### [FileClass~DiscoverAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.internal.md) 
+### #is_/same_as :: [FileClass~DiscoverAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.internal.md) 
 
-### [FileClass~DiscoverAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.protect.md) 
+### #is_/same_as :: [FileClass~DiscoverAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.protect.md) 
 
-### [FileClass~DiscoverAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.private.md) 
+### #is_/same_as :: [FileClass~DiscoverAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.private.md) 
 
-### [FileClass~DiscoverAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.personal.md) 
+### #is_/same_as :: [FileClass~DiscoverAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.personal.md) 
 
-### [FileClass~DiscoverAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.secret.md)
+### #is_/same_as :: [FileClass~DiscoverAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~FindAction/FileClass~DiscoverAction.secret.md)
 

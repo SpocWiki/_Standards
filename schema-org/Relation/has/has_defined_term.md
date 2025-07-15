@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_defined_term](/_Standards/schema-org/Relation/has/has_defined_term.md) 
+### #is_/same_as :: [has_defined_term](/_Standards/schema-org/Relation/has/has_defined_term.md) 
 
-### [has_defined_term.public](/_public/schema-org/Relation/has/has_defined_term.public.md) 
+### #is_/same_as :: [has_defined_term.public](/_public/schema-org/Relation/has/has_defined_term.public.md) 
 
-### [has_defined_term.internal](/_internal/schema-org/Relation/has/has_defined_term.internal.md) 
+### #is_/same_as :: [has_defined_term.internal](/_internal/schema-org/Relation/has/has_defined_term.internal.md) 
 
-### [has_defined_term.protect](/_protect/schema-org/Relation/has/has_defined_term.protect.md) 
+### #is_/same_as :: [has_defined_term.protect](/_protect/schema-org/Relation/has/has_defined_term.protect.md) 
 
-### [has_defined_term.private](/_private/schema-org/Relation/has/has_defined_term.private.md) 
+### #is_/same_as :: [has_defined_term.private](/_private/schema-org/Relation/has/has_defined_term.private.md) 
 
-### [has_defined_term.personal](/_personal/schema-org/Relation/has/has_defined_term.personal.md) 
+### #is_/same_as :: [has_defined_term.personal](/_personal/schema-org/Relation/has/has_defined_term.personal.md) 
 
-### [has_defined_term.secret](/_secret/schema-org/Relation/has/has_defined_term.secret.md)
+### #is_/same_as :: [has_defined_term.secret](/_secret/schema-org/Relation/has/has_defined_term.secret.md)
 

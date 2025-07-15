@@ -587,17 +587,17 @@ Capital :: [[N'Djamena]]
 
 ## Confidential Links & Embeds: 
 
-### [Chad](/_Standards/Earth/Continent/Africa/Africa~Central/Chad.md) 
+### #is_/same_as :: [Chad](/_Standards/Earth/Continent/Africa/Africa~Central/Chad.md) 
 
-### [Chad.public](/_public/Earth/Continent/Africa/Africa~Central/Chad.public.md) 
+### #is_/same_as :: [Chad.public](/_public/Earth/Continent/Africa/Africa~Central/Chad.public.md) 
 
-### [Chad.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal.md) 
+### #is_/same_as :: [Chad.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal.md) 
 
-### [Chad.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad.protect.md) 
+### #is_/same_as :: [Chad.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad.protect.md) 
 
-### [Chad.private](/_private/Earth/Continent/Africa/Africa~Central/Chad.private.md) 
+### #is_/same_as :: [Chad.private](/_private/Earth/Continent/Africa/Africa~Central/Chad.private.md) 
 
-### [Chad.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal.md) 
+### #is_/same_as :: [Chad.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal.md) 
 
-### [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md)
+### #is_/same_as :: [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md)
 

@@ -175,20 +175,19 @@ headshield of osteostracans. (Based on Liu 1975 and Pan 1992.)
 Copyright ::   © 1997 Philippe Janvier
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Galeaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.md) 
+### #is_/same_as :: [Galeaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.md) 
 
-### [Galeaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.public.md) 
+### #is_/same_as :: [Galeaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.public.md) 
 
-### [Galeaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.internal.md) 
+### #is_/same_as :: [Galeaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.internal.md) 
 
-### [Galeaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.protect.md) 
+### #is_/same_as :: [Galeaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.protect.md) 
 
-### [Galeaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.private.md) 
+### #is_/same_as :: [Galeaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.private.md) 
 
-### [Galeaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.personal.md) 
+### #is_/same_as :: [Galeaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.personal.md) 
 
-### [Galeaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.secret.md)
+### #is_/same_as :: [Galeaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Galeaspida.secret.md)
 

@@ -77,25 +77,19 @@ Commons_category: "Political parties"
 > [Wikipedia](https://en.wikipedia.org/wiki/Political%20party)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Political_Party](/_Standards/bio/Society/Government/Democracy/Political_Party.md) 
+### #is_/same_as :: [Political_Party](/_Standards/bio/Society/Government/Democracy/Political_Party.md) 
 
-### [Political_Party.public](/_public/bio/Society/Government/Democracy/Political_Party.public.md) 
+### #is_/same_as :: [Political_Party.public](/_public/bio/Society/Government/Democracy/Political_Party.public.md) 
 
-### [Political_Party.internal](/_internal/bio/Society/Government/Democracy/Political_Party.internal.md) 
+### #is_/same_as :: [Political_Party.internal](/_internal/bio/Society/Government/Democracy/Political_Party.internal.md) 
 
-### [Political_Party.protect](/_protect/bio/Society/Government/Democracy/Political_Party.protect.md) 
+### #is_/same_as :: [Political_Party.protect](/_protect/bio/Society/Government/Democracy/Political_Party.protect.md) 
 
-### [Political_Party.private](/_private/bio/Society/Government/Democracy/Political_Party.private.md) 
+### #is_/same_as :: [Political_Party.private](/_private/bio/Society/Government/Democracy/Political_Party.private.md) 
 
-### [Political_Party.personal](/_personal/bio/Society/Government/Democracy/Political_Party.personal.md) 
+### #is_/same_as :: [Political_Party.personal](/_personal/bio/Society/Government/Democracy/Political_Party.personal.md) 
 
-### [Political_Party.secret](/_secret/bio/Society/Government/Democracy/Political_Party.secret.md)
+### #is_/same_as :: [Political_Party.secret](/_secret/bio/Society/Government/Democracy/Political_Party.secret.md)
 

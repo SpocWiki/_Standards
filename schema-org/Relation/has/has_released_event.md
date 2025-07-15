@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_released_event](/_Standards/schema-org/Relation/has/has_released_event.md) 
+### #is_/same_as :: [has_released_event](/_Standards/schema-org/Relation/has/has_released_event.md) 
 
-### [has_released_event.public](/_public/schema-org/Relation/has/has_released_event.public.md) 
+### #is_/same_as :: [has_released_event.public](/_public/schema-org/Relation/has/has_released_event.public.md) 
 
-### [has_released_event.internal](/_internal/schema-org/Relation/has/has_released_event.internal.md) 
+### #is_/same_as :: [has_released_event.internal](/_internal/schema-org/Relation/has/has_released_event.internal.md) 
 
-### [has_released_event.protect](/_protect/schema-org/Relation/has/has_released_event.protect.md) 
+### #is_/same_as :: [has_released_event.protect](/_protect/schema-org/Relation/has/has_released_event.protect.md) 
 
-### [has_released_event.private](/_private/schema-org/Relation/has/has_released_event.private.md) 
+### #is_/same_as :: [has_released_event.private](/_private/schema-org/Relation/has/has_released_event.private.md) 
 
-### [has_released_event.personal](/_personal/schema-org/Relation/has/has_released_event.personal.md) 
+### #is_/same_as :: [has_released_event.personal](/_personal/schema-org/Relation/has/has_released_event.personal.md) 
 
-### [has_released_event.secret](/_secret/schema-org/Relation/has/has_released_event.secret.md)
+### #is_/same_as :: [has_released_event.secret](/_secret/schema-org/Relation/has/has_released_event.secret.md)
 

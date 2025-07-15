@@ -47,17 +47,17 @@ The most generic type of entity related to health and the practice of medicine.
 
 ## Confidential Links & Embeds: 
 
-### [medical_entity](/_Standards/schema-org/Class/is_a_/medical_entity.md) 
+### #is_/same_as :: [medical_entity](/_Standards/schema-org/Class/is_a_/medical_entity.md) 
 
-### [medical_entity.public](/_public/schema-org/Class/is_a_/medical_entity.public.md) 
+### #is_/same_as :: [medical_entity.public](/_public/schema-org/Class/is_a_/medical_entity.public.md) 
 
-### [medical_entity.internal](/_internal/schema-org/Class/is_a_/medical_entity.internal.md) 
+### #is_/same_as :: [medical_entity.internal](/_internal/schema-org/Class/is_a_/medical_entity.internal.md) 
 
-### [medical_entity.protect](/_protect/schema-org/Class/is_a_/medical_entity.protect.md) 
+### #is_/same_as :: [medical_entity.protect](/_protect/schema-org/Class/is_a_/medical_entity.protect.md) 
 
-### [medical_entity.private](/_private/schema-org/Class/is_a_/medical_entity.private.md) 
+### #is_/same_as :: [medical_entity.private](/_private/schema-org/Class/is_a_/medical_entity.private.md) 
 
-### [medical_entity.personal](/_personal/schema-org/Class/is_a_/medical_entity.personal.md) 
+### #is_/same_as :: [medical_entity.personal](/_personal/schema-org/Class/is_a_/medical_entity.personal.md) 
 
-### [medical_entity.secret](/_secret/schema-org/Class/is_a_/medical_entity.secret.md)
+### #is_/same_as :: [medical_entity.secret](/_secret/schema-org/Class/is_a_/medical_entity.secret.md)
 

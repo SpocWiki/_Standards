@@ -35,17 +35,17 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LifestyleModification](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.md) 
+### #is_/same_as :: [FileClass~LifestyleModification](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.md) 
 
-### [FileClass~LifestyleModification.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.public.md) 
+### #is_/same_as :: [FileClass~LifestyleModification.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.public.md) 
 
-### [FileClass~LifestyleModification.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.internal.md) 
+### #is_/same_as :: [FileClass~LifestyleModification.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.internal.md) 
 
-### [FileClass~LifestyleModification.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.protect.md) 
+### #is_/same_as :: [FileClass~LifestyleModification.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.protect.md) 
 
-### [FileClass~LifestyleModification.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.private.md) 
+### #is_/same_as :: [FileClass~LifestyleModification.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.private.md) 
 
-### [FileClass~LifestyleModification.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.personal.md) 
+### #is_/same_as :: [FileClass~LifestyleModification.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.personal.md) 
 
-### [FileClass~LifestyleModification.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.secret.md)
+### #is_/same_as :: [FileClass~LifestyleModification.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification.secret.md)
 

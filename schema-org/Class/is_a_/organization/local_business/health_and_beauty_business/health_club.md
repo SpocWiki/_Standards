@@ -45,17 +45,17 @@ A health club.
 
 ## Confidential Links & Embeds: 
 
-### [health_club](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.md) 
+### #is_/same_as :: [health_club](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.md) 
 
-### [health_club.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.public.md) 
+### #is_/same_as :: [health_club.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.public.md) 
 
-### [health_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.internal.md) 
+### #is_/same_as :: [health_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.internal.md) 
 
-### [health_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.protect.md) 
+### #is_/same_as :: [health_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.protect.md) 
 
-### [health_club.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.private.md) 
+### #is_/same_as :: [health_club.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.private.md) 
 
-### [health_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.personal.md) 
+### #is_/same_as :: [health_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.personal.md) 
 
-### [health_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.secret.md)
+### #is_/same_as :: [health_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/health_club.secret.md)
 

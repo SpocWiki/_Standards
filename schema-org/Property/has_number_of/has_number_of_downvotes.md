@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_downvotes](/_Standards/schema-org/Property/has_number_of/has_number_of_downvotes.md) 
+### #is_/same_as :: [has_number_of_downvotes](/_Standards/schema-org/Property/has_number_of/has_number_of_downvotes.md) 
 
-### [has_number_of_downvotes.public](/_public/schema-org/Property/has_number_of/has_number_of_downvotes.public.md) 
+### #is_/same_as :: [has_number_of_downvotes.public](/_public/schema-org/Property/has_number_of/has_number_of_downvotes.public.md) 
 
-### [has_number_of_downvotes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_downvotes.internal.md) 
+### #is_/same_as :: [has_number_of_downvotes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_downvotes.internal.md) 
 
-### [has_number_of_downvotes.protect](/_protect/schema-org/Property/has_number_of/has_number_of_downvotes.protect.md) 
+### #is_/same_as :: [has_number_of_downvotes.protect](/_protect/schema-org/Property/has_number_of/has_number_of_downvotes.protect.md) 
 
-### [has_number_of_downvotes.private](/_private/schema-org/Property/has_number_of/has_number_of_downvotes.private.md) 
+### #is_/same_as :: [has_number_of_downvotes.private](/_private/schema-org/Property/has_number_of/has_number_of_downvotes.private.md) 
 
-### [has_number_of_downvotes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_downvotes.personal.md) 
+### #is_/same_as :: [has_number_of_downvotes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_downvotes.personal.md) 
 
-### [has_number_of_downvotes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_downvotes.secret.md)
+### #is_/same_as :: [has_number_of_downvotes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_downvotes.secret.md)
 

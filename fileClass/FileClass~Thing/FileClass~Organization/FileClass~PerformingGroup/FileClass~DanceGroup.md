@@ -35,17 +35,17 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DanceGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.md) 
+### #is_/same_as :: [FileClass~DanceGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.md) 
 
-### [FileClass~DanceGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.public.md) 
+### #is_/same_as :: [FileClass~DanceGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.public.md) 
 
-### [FileClass~DanceGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.internal.md) 
+### #is_/same_as :: [FileClass~DanceGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.internal.md) 
 
-### [FileClass~DanceGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.protect.md) 
+### #is_/same_as :: [FileClass~DanceGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.protect.md) 
 
-### [FileClass~DanceGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.private.md) 
+### #is_/same_as :: [FileClass~DanceGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.private.md) 
 
-### [FileClass~DanceGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.personal.md) 
+### #is_/same_as :: [FileClass~DanceGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.personal.md) 
 
-### [FileClass~DanceGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.secret.md)
+### #is_/same_as :: [FileClass~DanceGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.secret.md)
 

@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_keywords](/_Standards/schema-org/Relation/has/has_keywords.md) 
+### #is_/same_as :: [has_keywords](/_Standards/schema-org/Relation/has/has_keywords.md) 
 
-### [has_keywords.public](/_public/schema-org/Relation/has/has_keywords.public.md) 
+### #is_/same_as :: [has_keywords.public](/_public/schema-org/Relation/has/has_keywords.public.md) 
 
-### [has_keywords.internal](/_internal/schema-org/Relation/has/has_keywords.internal.md) 
+### #is_/same_as :: [has_keywords.internal](/_internal/schema-org/Relation/has/has_keywords.internal.md) 
 
-### [has_keywords.protect](/_protect/schema-org/Relation/has/has_keywords.protect.md) 
+### #is_/same_as :: [has_keywords.protect](/_protect/schema-org/Relation/has/has_keywords.protect.md) 
 
-### [has_keywords.private](/_private/schema-org/Relation/has/has_keywords.private.md) 
+### #is_/same_as :: [has_keywords.private](/_private/schema-org/Relation/has/has_keywords.private.md) 
 
-### [has_keywords.personal](/_personal/schema-org/Relation/has/has_keywords.personal.md) 
+### #is_/same_as :: [has_keywords.personal](/_personal/schema-org/Relation/has/has_keywords.personal.md) 
 
-### [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md)
+### #is_/same_as :: [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md)
 

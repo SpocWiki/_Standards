@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_timezone](/_Standards/schema-org/Property/Texts/has_broadcast_timezone.md) 
+### #is_/same_as :: [has_broadcast_timezone](/_Standards/schema-org/Property/Texts/has_broadcast_timezone.md) 
 
-### [has_broadcast_timezone.public](/_public/schema-org/Property/Texts/has_broadcast_timezone.public.md) 
+### #is_/same_as :: [has_broadcast_timezone.public](/_public/schema-org/Property/Texts/has_broadcast_timezone.public.md) 
 
-### [has_broadcast_timezone.internal](/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal.md) 
+### #is_/same_as :: [has_broadcast_timezone.internal](/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal.md) 
 
-### [has_broadcast_timezone.protect](/_protect/schema-org/Property/Texts/has_broadcast_timezone.protect.md) 
+### #is_/same_as :: [has_broadcast_timezone.protect](/_protect/schema-org/Property/Texts/has_broadcast_timezone.protect.md) 
 
-### [has_broadcast_timezone.private](/_private/schema-org/Property/Texts/has_broadcast_timezone.private.md) 
+### #is_/same_as :: [has_broadcast_timezone.private](/_private/schema-org/Property/Texts/has_broadcast_timezone.private.md) 
 
-### [has_broadcast_timezone.personal](/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal.md) 
+### #is_/same_as :: [has_broadcast_timezone.personal](/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal.md) 
 
-### [has_broadcast_timezone.secret](/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret.md)
+### #is_/same_as :: [has_broadcast_timezone.secret](/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret.md)
 

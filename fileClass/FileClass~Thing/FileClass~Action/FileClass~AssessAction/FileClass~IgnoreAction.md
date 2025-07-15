@@ -35,17 +35,17 @@ The act of intentionally disregarding the object. An agent ignores an object.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~IgnoreAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.md) 
+### #is_/same_as :: [FileClass~IgnoreAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.md) 
 
-### [FileClass~IgnoreAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.public.md) 
+### #is_/same_as :: [FileClass~IgnoreAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.public.md) 
 
-### [FileClass~IgnoreAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.internal.md) 
+### #is_/same_as :: [FileClass~IgnoreAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.internal.md) 
 
-### [FileClass~IgnoreAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.protect.md) 
+### #is_/same_as :: [FileClass~IgnoreAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.protect.md) 
 
-### [FileClass~IgnoreAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.private.md) 
+### #is_/same_as :: [FileClass~IgnoreAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.private.md) 
 
-### [FileClass~IgnoreAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.personal.md) 
+### #is_/same_as :: [FileClass~IgnoreAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.personal.md) 
 
-### [FileClass~IgnoreAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.secret.md)
+### #is_/same_as :: [FileClass~IgnoreAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.secret.md)
 

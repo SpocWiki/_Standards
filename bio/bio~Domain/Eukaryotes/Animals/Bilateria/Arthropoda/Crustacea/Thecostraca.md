@@ -65,21 +65,19 @@ Barnacles and their relatives
     -   [Cirripedia](Cirripedia)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Thecostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.md) 
+### #is_/same_as :: [Thecostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.md) 
 
-### [Thecostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.public.md) 
+### #is_/same_as :: [Thecostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.public.md) 
 
-### [Thecostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.internal.md) 
+### #is_/same_as :: [Thecostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.internal.md) 
 
-### [Thecostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.protect.md) 
+### #is_/same_as :: [Thecostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.protect.md) 
 
-### [Thecostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.private.md) 
+### #is_/same_as :: [Thecostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.private.md) 
 
-### [Thecostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.personal.md) 
+### #is_/same_as :: [Thecostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.personal.md) 
 
-### [Thecostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.secret.md)
+### #is_/same_as :: [Thecostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.secret.md)
 

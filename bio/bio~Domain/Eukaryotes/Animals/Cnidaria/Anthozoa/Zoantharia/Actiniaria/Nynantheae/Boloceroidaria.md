@@ -60,17 +60,17 @@ Photo copyright © 2000, Ron Ates.
 
 ## Confidential Links & Embeds: 
 
-### [Boloceroidaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.md) 
+### #is_/same_as :: [Boloceroidaria](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.md) 
 
-### [Boloceroidaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.public.md) 
+### #is_/same_as :: [Boloceroidaria.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.public.md) 
 
-### [Boloceroidaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.internal.md) 
+### #is_/same_as :: [Boloceroidaria.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.internal.md) 
 
-### [Boloceroidaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.protect.md) 
+### #is_/same_as :: [Boloceroidaria.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.protect.md) 
 
-### [Boloceroidaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.private.md) 
+### #is_/same_as :: [Boloceroidaria.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.private.md) 
 
-### [Boloceroidaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.personal.md) 
+### #is_/same_as :: [Boloceroidaria.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.personal.md) 
 
-### [Boloceroidaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.secret.md)
+### #is_/same_as :: [Boloceroidaria.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae/Boloceroidaria.secret.md)
 

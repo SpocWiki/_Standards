@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accepted_payment_method](/_Standards/schema-org/Relation/has/has_accepted_payment_method.md) 
+### #is_/same_as :: [has_accepted_payment_method](/_Standards/schema-org/Relation/has/has_accepted_payment_method.md) 
 
-### [has_accepted_payment_method.public](/_public/schema-org/Relation/has/has_accepted_payment_method.public.md) 
+### #is_/same_as :: [has_accepted_payment_method.public](/_public/schema-org/Relation/has/has_accepted_payment_method.public.md) 
 
-### [has_accepted_payment_method.internal](/_internal/schema-org/Relation/has/has_accepted_payment_method.internal.md) 
+### #is_/same_as :: [has_accepted_payment_method.internal](/_internal/schema-org/Relation/has/has_accepted_payment_method.internal.md) 
 
-### [has_accepted_payment_method.protect](/_protect/schema-org/Relation/has/has_accepted_payment_method.protect.md) 
+### #is_/same_as :: [has_accepted_payment_method.protect](/_protect/schema-org/Relation/has/has_accepted_payment_method.protect.md) 
 
-### [has_accepted_payment_method.private](/_private/schema-org/Relation/has/has_accepted_payment_method.private.md) 
+### #is_/same_as :: [has_accepted_payment_method.private](/_private/schema-org/Relation/has/has_accepted_payment_method.private.md) 
 
-### [has_accepted_payment_method.personal](/_personal/schema-org/Relation/has/has_accepted_payment_method.personal.md) 
+### #is_/same_as :: [has_accepted_payment_method.personal](/_personal/schema-org/Relation/has/has_accepted_payment_method.personal.md) 
 
-### [has_accepted_payment_method.secret](/_secret/schema-org/Relation/has/has_accepted_payment_method.secret.md)
+### #is_/same_as :: [has_accepted_payment_method.secret](/_secret/schema-org/Relation/has/has_accepted_payment_method.secret.md)
 

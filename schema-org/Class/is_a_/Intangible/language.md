@@ -74,17 +74,17 @@ Alternatively use the RDFa-Lite:
 
 ## Confidential Links & Embeds: 
 
-### [language](/_Standards/schema-org/Class/is_a_/Intangible/language.md) 
+### #is_/same_as :: [language](/_Standards/schema-org/Class/is_a_/Intangible/language.md) 
 
-### [language.public](/_public/schema-org/Class/is_a_/Intangible/language.public.md) 
+### #is_/same_as :: [language.public](/_public/schema-org/Class/is_a_/Intangible/language.public.md) 
 
-### [language.internal](/_internal/schema-org/Class/is_a_/Intangible/language.internal.md) 
+### #is_/same_as :: [language.internal](/_internal/schema-org/Class/is_a_/Intangible/language.internal.md) 
 
-### [language.protect](/_protect/schema-org/Class/is_a_/Intangible/language.protect.md) 
+### #is_/same_as :: [language.protect](/_protect/schema-org/Class/is_a_/Intangible/language.protect.md) 
 
-### [language.private](/_private/schema-org/Class/is_a_/Intangible/language.private.md) 
+### #is_/same_as :: [language.private](/_private/schema-org/Class/is_a_/Intangible/language.private.md) 
 
-### [language.personal](/_personal/schema-org/Class/is_a_/Intangible/language.personal.md) 
+### #is_/same_as :: [language.personal](/_personal/schema-org/Class/is_a_/Intangible/language.personal.md) 
 
-### [language.secret](/_secret/schema-org/Class/is_a_/Intangible/language.secret.md)
+### #is_/same_as :: [language.secret](/_secret/schema-org/Class/is_a_/Intangible/language.secret.md)
 

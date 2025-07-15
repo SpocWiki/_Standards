@@ -31,21 +31,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Humphry%20Davy)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Davy,Humphry](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.md) 
+### #is_/same_as :: [Davy,Humphry](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.md) 
 
-### [Davy,Humphry.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.public.md) 
+### #is_/same_as :: [Davy,Humphry.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.public.md) 
 
-### [Davy,Humphry.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.internal.md) 
+### #is_/same_as :: [Davy,Humphry.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.internal.md) 
 
-### [Davy,Humphry.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.protect.md) 
+### #is_/same_as :: [Davy,Humphry.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.protect.md) 
 
-### [Davy,Humphry.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.private.md) 
+### #is_/same_as :: [Davy,Humphry.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.private.md) 
 
-### [Davy,Humphry.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.personal.md) 
+### #is_/same_as :: [Davy,Humphry.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.personal.md) 
 
-### [Davy,Humphry.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.secret.md)
+### #is_/same_as :: [Davy,Humphry.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Davy,Humphry.secret.md)
 

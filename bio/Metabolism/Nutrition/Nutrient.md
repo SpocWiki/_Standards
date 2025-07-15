@@ -46,22 +46,19 @@ These are not classified as essential, but they provide health benefits:
 | Carnitine           | [[Fat]] metabolism                            | Meat, fish, dairy                      |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nutrient](/_Standards/bio/Metabolism/Nutrition/Nutrient.md) 
+### #is_/same_as :: [Nutrient](/_Standards/bio/Metabolism/Nutrition/Nutrient.md) 
 
-### [Nutrient.public](/_public/bio/Metabolism/Nutrition/Nutrient.public.md) 
+### #is_/same_as :: [Nutrient.public](/_public/bio/Metabolism/Nutrition/Nutrient.public.md) 
 
-### [Nutrient.internal](/_internal/bio/Metabolism/Nutrition/Nutrient.internal.md) 
+### #is_/same_as :: [Nutrient.internal](/_internal/bio/Metabolism/Nutrition/Nutrient.internal.md) 
 
-### [Nutrient.protect](/_protect/bio/Metabolism/Nutrition/Nutrient.protect.md) 
+### #is_/same_as :: [Nutrient.protect](/_protect/bio/Metabolism/Nutrition/Nutrient.protect.md) 
 
-### [Nutrient.private](/_private/bio/Metabolism/Nutrition/Nutrient.private.md) 
+### #is_/same_as :: [Nutrient.private](/_private/bio/Metabolism/Nutrition/Nutrient.private.md) 
 
-### [Nutrient.personal](/_personal/bio/Metabolism/Nutrition/Nutrient.personal.md) 
+### #is_/same_as :: [Nutrient.personal](/_personal/bio/Metabolism/Nutrition/Nutrient.personal.md) 
 
-### [Nutrient.secret](/_secret/bio/Metabolism/Nutrition/Nutrient.secret.md)
+### #is_/same_as :: [Nutrient.secret](/_secret/bio/Metabolism/Nutrition/Nutrient.secret.md)
 

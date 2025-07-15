@@ -67,21 +67,19 @@ title: Glomeridesmus
 	-   *Glomeridesmus sbordoni*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Glomeridesmida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.md) 
+### #is_/same_as :: [Glomeridesmida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.md) 
 
-### [Glomeridesmida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.public.md) 
+### #is_/same_as :: [Glomeridesmida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.public.md) 
 
-### [Glomeridesmida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.internal.md) 
+### #is_/same_as :: [Glomeridesmida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.internal.md) 
 
-### [Glomeridesmida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.protect.md) 
+### #is_/same_as :: [Glomeridesmida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.protect.md) 
 
-### [Glomeridesmida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.private.md) 
+### #is_/same_as :: [Glomeridesmida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.private.md) 
 
-### [Glomeridesmida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.personal.md) 
+### #is_/same_as :: [Glomeridesmida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.personal.md) 
 
-### [Glomeridesmida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.secret.md)
+### #is_/same_as :: [Glomeridesmida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Glomeridesmida.secret.md)
 

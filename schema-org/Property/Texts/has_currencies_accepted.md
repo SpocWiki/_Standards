@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_currencies_accepted](/_Standards/schema-org/Property/Texts/has_currencies_accepted.md) 
+### #is_/same_as :: [has_currencies_accepted](/_Standards/schema-org/Property/Texts/has_currencies_accepted.md) 
 
-### [has_currencies_accepted.public](/_public/schema-org/Property/Texts/has_currencies_accepted.public.md) 
+### #is_/same_as :: [has_currencies_accepted.public](/_public/schema-org/Property/Texts/has_currencies_accepted.public.md) 
 
-### [has_currencies_accepted.internal](/_internal/schema-org/Property/Texts/has_currencies_accepted.internal.md) 
+### #is_/same_as :: [has_currencies_accepted.internal](/_internal/schema-org/Property/Texts/has_currencies_accepted.internal.md) 
 
-### [has_currencies_accepted.protect](/_protect/schema-org/Property/Texts/has_currencies_accepted.protect.md) 
+### #is_/same_as :: [has_currencies_accepted.protect](/_protect/schema-org/Property/Texts/has_currencies_accepted.protect.md) 
 
-### [has_currencies_accepted.private](/_private/schema-org/Property/Texts/has_currencies_accepted.private.md) 
+### #is_/same_as :: [has_currencies_accepted.private](/_private/schema-org/Property/Texts/has_currencies_accepted.private.md) 
 
-### [has_currencies_accepted.personal](/_personal/schema-org/Property/Texts/has_currencies_accepted.personal.md) 
+### #is_/same_as :: [has_currencies_accepted.personal](/_personal/schema-org/Property/Texts/has_currencies_accepted.personal.md) 
 
-### [has_currencies_accepted.secret](/_secret/schema-org/Property/Texts/has_currencies_accepted.secret.md)
+### #is_/same_as :: [has_currencies_accepted.secret](/_secret/schema-org/Property/Texts/has_currencies_accepted.secret.md)
 

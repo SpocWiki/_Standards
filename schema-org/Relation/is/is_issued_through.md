@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_issued_through](/_Standards/schema-org/Relation/is/is_issued_through.md) 
+### #is_/same_as :: [is_issued_through](/_Standards/schema-org/Relation/is/is_issued_through.md) 
 
-### [is_issued_through.public](/_public/schema-org/Relation/is/is_issued_through.public.md) 
+### #is_/same_as :: [is_issued_through.public](/_public/schema-org/Relation/is/is_issued_through.public.md) 
 
-### [is_issued_through.internal](/_internal/schema-org/Relation/is/is_issued_through.internal.md) 
+### #is_/same_as :: [is_issued_through.internal](/_internal/schema-org/Relation/is/is_issued_through.internal.md) 
 
-### [is_issued_through.protect](/_protect/schema-org/Relation/is/is_issued_through.protect.md) 
+### #is_/same_as :: [is_issued_through.protect](/_protect/schema-org/Relation/is/is_issued_through.protect.md) 
 
-### [is_issued_through.private](/_private/schema-org/Relation/is/is_issued_through.private.md) 
+### #is_/same_as :: [is_issued_through.private](/_private/schema-org/Relation/is/is_issued_through.private.md) 
 
-### [is_issued_through.personal](/_personal/schema-org/Relation/is/is_issued_through.personal.md) 
+### #is_/same_as :: [is_issued_through.personal](/_personal/schema-org/Relation/is/is_issued_through.personal.md) 
 
-### [is_issued_through.secret](/_secret/schema-org/Relation/is/is_issued_through.secret.md)
+### #is_/same_as :: [is_issued_through.secret](/_secret/schema-org/Relation/is/is_issued_through.secret.md)
 

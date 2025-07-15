@@ -41,17 +41,17 @@ markerFolder: ./Fiji~Western/
 
 ## Confidential Links & Embeds: 
 
-### [Fiji~Western](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.md) 
+### #is_/same_as :: [Fiji~Western](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.md) 
 
-### [Fiji~Western.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.public.md) 
+### #is_/same_as :: [Fiji~Western.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.public.md) 
 
-### [Fiji~Western.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.internal.md) 
+### #is_/same_as :: [Fiji~Western.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.internal.md) 
 
-### [Fiji~Western.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.protect.md) 
+### #is_/same_as :: [Fiji~Western.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.protect.md) 
 
-### [Fiji~Western.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.private.md) 
+### #is_/same_as :: [Fiji~Western.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.private.md) 
 
-### [Fiji~Western.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.personal.md) 
+### #is_/same_as :: [Fiji~Western.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.personal.md) 
 
-### [Fiji~Western.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.secret.md)
+### #is_/same_as :: [Fiji~Western.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.secret.md)
 

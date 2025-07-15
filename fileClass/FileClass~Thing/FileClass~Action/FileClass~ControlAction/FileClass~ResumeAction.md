@@ -35,17 +35,17 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ResumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.md) 
+### #is_/same_as :: [FileClass~ResumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.md) 
 
-### [FileClass~ResumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.public.md) 
+### #is_/same_as :: [FileClass~ResumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.public.md) 
 
-### [FileClass~ResumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.internal.md) 
+### #is_/same_as :: [FileClass~ResumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.internal.md) 
 
-### [FileClass~ResumeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.protect.md) 
+### #is_/same_as :: [FileClass~ResumeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.protect.md) 
 
-### [FileClass~ResumeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.private.md) 
+### #is_/same_as :: [FileClass~ResumeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.private.md) 
 
-### [FileClass~ResumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.personal.md) 
+### #is_/same_as :: [FileClass~ResumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.personal.md) 
 
-### [FileClass~ResumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.secret.md)
+### #is_/same_as :: [FileClass~ResumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ResumeAction.secret.md)
 

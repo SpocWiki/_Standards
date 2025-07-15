@@ -45,17 +45,17 @@ A WebSite is a set of related web pages and other items typically served from a 
 
 ## Confidential Links & Embeds: 
 
-### [web_site](/_Standards/schema-org/Class/is_a_/creative_work/web_site.md) 
+### #is_/same_as :: [web_site](/_Standards/schema-org/Class/is_a_/creative_work/web_site.md) 
 
-### [web_site.public](/_public/schema-org/Class/is_a_/creative_work/web_site.public.md) 
+### #is_/same_as :: [web_site.public](/_public/schema-org/Class/is_a_/creative_work/web_site.public.md) 
 
-### [web_site.internal](/_internal/schema-org/Class/is_a_/creative_work/web_site.internal.md) 
+### #is_/same_as :: [web_site.internal](/_internal/schema-org/Class/is_a_/creative_work/web_site.internal.md) 
 
-### [web_site.protect](/_protect/schema-org/Class/is_a_/creative_work/web_site.protect.md) 
+### #is_/same_as :: [web_site.protect](/_protect/schema-org/Class/is_a_/creative_work/web_site.protect.md) 
 
-### [web_site.private](/_private/schema-org/Class/is_a_/creative_work/web_site.private.md) 
+### #is_/same_as :: [web_site.private](/_private/schema-org/Class/is_a_/creative_work/web_site.private.md) 
 
-### [web_site.personal](/_personal/schema-org/Class/is_a_/creative_work/web_site.personal.md) 
+### #is_/same_as :: [web_site.personal](/_personal/schema-org/Class/is_a_/creative_work/web_site.personal.md) 
 
-### [web_site.secret](/_secret/schema-org/Class/is_a_/creative_work/web_site.secret.md)
+### #is_/same_as :: [web_site.secret](/_secret/schema-org/Class/is_a_/creative_work/web_site.secret.md)
 

@@ -66,17 +66,17 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 
 ## Confidential Links & Embeds: 
 
-### [decontextualized_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
+### #is_/same_as :: [decontextualized_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
 
-### [decontextualized_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.public.md) 
+### #is_/same_as :: [decontextualized_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.public.md) 
 
-### [decontextualized_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md) 
+### #is_/same_as :: [decontextualized_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md) 
 
-### [decontextualized_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect.md) 
+### #is_/same_as :: [decontextualized_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect.md) 
 
-### [decontextualized_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private.md) 
+### #is_/same_as :: [decontextualized_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private.md) 
 
-### [decontextualized_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal.md) 
+### #is_/same_as :: [decontextualized_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal.md) 
 
-### [decontextualized_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md)
+### #is_/same_as :: [decontextualized_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md)
 

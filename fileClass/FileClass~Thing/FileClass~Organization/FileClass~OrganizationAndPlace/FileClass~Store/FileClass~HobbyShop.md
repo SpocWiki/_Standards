@@ -35,17 +35,17 @@ A store that sells materials useful or necessary for various hobbies.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HobbyShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.md) 
+### #is_/same_as :: [FileClass~HobbyShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.md) 
 
-### [FileClass~HobbyShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.public.md) 
+### #is_/same_as :: [FileClass~HobbyShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.public.md) 
 
-### [FileClass~HobbyShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.internal.md) 
+### #is_/same_as :: [FileClass~HobbyShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.internal.md) 
 
-### [FileClass~HobbyShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.protect.md) 
+### #is_/same_as :: [FileClass~HobbyShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.protect.md) 
 
-### [FileClass~HobbyShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.private.md) 
+### #is_/same_as :: [FileClass~HobbyShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.private.md) 
 
-### [FileClass~HobbyShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.personal.md) 
+### #is_/same_as :: [FileClass~HobbyShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.personal.md) 
 
-### [FileClass~HobbyShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.secret.md)
+### #is_/same_as :: [FileClass~HobbyShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.secret.md)
 

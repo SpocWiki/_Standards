@@ -46,17 +46,17 @@ HasDigitalDocumentPermission:: {"type":"MultiFile","options":{"dvQueryString":"d
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.md) 
+### #is_/same_as :: [FileClass~DigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.md) 
 
-### [FileClass~DigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.public.md) 
+### #is_/same_as :: [FileClass~DigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.public.md) 
 
-### [FileClass~DigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.internal.md) 
+### #is_/same_as :: [FileClass~DigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.internal.md) 
 
-### [FileClass~DigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.protect.md) 
+### #is_/same_as :: [FileClass~DigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.protect.md) 
 
-### [FileClass~DigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.private.md) 
+### #is_/same_as :: [FileClass~DigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.private.md) 
 
-### [FileClass~DigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.personal.md) 
+### #is_/same_as :: [FileClass~DigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.personal.md) 
 
-### [FileClass~DigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret.md)
+### #is_/same_as :: [FileClass~DigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret.md)
 

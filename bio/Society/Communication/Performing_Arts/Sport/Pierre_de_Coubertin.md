@@ -32,24 +32,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20de%20Coubertin)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pierre_de_Coubertin](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.md) 
+### #is_/same_as :: [Pierre_de_Coubertin](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.md) 
 
-### [Pierre_de_Coubertin.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.public.md) 
+### #is_/same_as :: [Pierre_de_Coubertin.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.public.md) 
 
-### [Pierre_de_Coubertin.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.internal.md) 
+### #is_/same_as :: [Pierre_de_Coubertin.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.internal.md) 
 
-### [Pierre_de_Coubertin.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.protect.md) 
+### #is_/same_as :: [Pierre_de_Coubertin.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.protect.md) 
 
-### [Pierre_de_Coubertin.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.private.md) 
+### #is_/same_as :: [Pierre_de_Coubertin.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.private.md) 
 
-### [Pierre_de_Coubertin.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.personal.md) 
+### #is_/same_as :: [Pierre_de_Coubertin.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.personal.md) 
 
-### [Pierre_de_Coubertin.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.secret.md)
+### #is_/same_as :: [Pierre_de_Coubertin.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.secret.md)
 

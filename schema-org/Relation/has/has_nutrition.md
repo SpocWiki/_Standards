@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_nutrition](/_Standards/schema-org/Relation/has/has_nutrition.md) 
+### #is_/same_as :: [has_nutrition](/_Standards/schema-org/Relation/has/has_nutrition.md) 
 
-### [has_nutrition.public](/_public/schema-org/Relation/has/has_nutrition.public.md) 
+### #is_/same_as :: [has_nutrition.public](/_public/schema-org/Relation/has/has_nutrition.public.md) 
 
-### [has_nutrition.internal](/_internal/schema-org/Relation/has/has_nutrition.internal.md) 
+### #is_/same_as :: [has_nutrition.internal](/_internal/schema-org/Relation/has/has_nutrition.internal.md) 
 
-### [has_nutrition.protect](/_protect/schema-org/Relation/has/has_nutrition.protect.md) 
+### #is_/same_as :: [has_nutrition.protect](/_protect/schema-org/Relation/has/has_nutrition.protect.md) 
 
-### [has_nutrition.private](/_private/schema-org/Relation/has/has_nutrition.private.md) 
+### #is_/same_as :: [has_nutrition.private](/_private/schema-org/Relation/has/has_nutrition.private.md) 
 
-### [has_nutrition.personal](/_personal/schema-org/Relation/has/has_nutrition.personal.md) 
+### #is_/same_as :: [has_nutrition.personal](/_personal/schema-org/Relation/has/has_nutrition.personal.md) 
 
-### [has_nutrition.secret](/_secret/schema-org/Relation/has/has_nutrition.secret.md)
+### #is_/same_as :: [has_nutrition.secret](/_secret/schema-org/Relation/has/has_nutrition.secret.md)
 

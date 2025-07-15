@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_stage_as_number](/_Standards/schema-org/Property/has_number_of/has_number_of_stage_as_number.md) 
+### #is_/same_as :: [has_number_of_stage_as_number](/_Standards/schema-org/Property/has_number_of/has_number_of_stage_as_number.md) 
 
-### [has_number_of_stage_as_number.public](/_public/schema-org/Property/has_number_of/has_number_of_stage_as_number.public.md) 
+### #is_/same_as :: [has_number_of_stage_as_number.public](/_public/schema-org/Property/has_number_of/has_number_of_stage_as_number.public.md) 
 
-### [has_number_of_stage_as_number.internal](/_internal/schema-org/Property/has_number_of/has_number_of_stage_as_number.internal.md) 
+### #is_/same_as :: [has_number_of_stage_as_number.internal](/_internal/schema-org/Property/has_number_of/has_number_of_stage_as_number.internal.md) 
 
-### [has_number_of_stage_as_number.protect](/_protect/schema-org/Property/has_number_of/has_number_of_stage_as_number.protect.md) 
+### #is_/same_as :: [has_number_of_stage_as_number.protect](/_protect/schema-org/Property/has_number_of/has_number_of_stage_as_number.protect.md) 
 
-### [has_number_of_stage_as_number.private](/_private/schema-org/Property/has_number_of/has_number_of_stage_as_number.private.md) 
+### #is_/same_as :: [has_number_of_stage_as_number.private](/_private/schema-org/Property/has_number_of/has_number_of_stage_as_number.private.md) 
 
-### [has_number_of_stage_as_number.personal](/_personal/schema-org/Property/has_number_of/has_number_of_stage_as_number.personal.md) 
+### #is_/same_as :: [has_number_of_stage_as_number.personal](/_personal/schema-org/Property/has_number_of/has_number_of_stage_as_number.personal.md) 
 
-### [has_number_of_stage_as_number.secret](/_secret/schema-org/Property/has_number_of/has_number_of_stage_as_number.secret.md)
+### #is_/same_as :: [has_number_of_stage_as_number.secret](/_secret/schema-org/Property/has_number_of/has_number_of_stage_as_number.secret.md)
 

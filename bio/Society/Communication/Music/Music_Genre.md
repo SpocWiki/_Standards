@@ -42,21 +42,19 @@ Commons_category: "Musical genres"
 > [Wikipedia](https://en.wikipedia.org/wiki/Music%20genre) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Music_Genre](/_Standards/bio/Society/Communication/Music/Music_Genre.md) 
+### #is_/same_as :: [Music_Genre](/_Standards/bio/Society/Communication/Music/Music_Genre.md) 
 
-### [Music_Genre.public](/_public/bio/Society/Communication/Music/Music_Genre.public.md) 
+### #is_/same_as :: [Music_Genre.public](/_public/bio/Society/Communication/Music/Music_Genre.public.md) 
 
-### [Music_Genre.internal](/_internal/bio/Society/Communication/Music/Music_Genre.internal.md) 
+### #is_/same_as :: [Music_Genre.internal](/_internal/bio/Society/Communication/Music/Music_Genre.internal.md) 
 
-### [Music_Genre.protect](/_protect/bio/Society/Communication/Music/Music_Genre.protect.md) 
+### #is_/same_as :: [Music_Genre.protect](/_protect/bio/Society/Communication/Music/Music_Genre.protect.md) 
 
-### [Music_Genre.private](/_private/bio/Society/Communication/Music/Music_Genre.private.md) 
+### #is_/same_as :: [Music_Genre.private](/_private/bio/Society/Communication/Music/Music_Genre.private.md) 
 
-### [Music_Genre.personal](/_personal/bio/Society/Communication/Music/Music_Genre.personal.md) 
+### #is_/same_as :: [Music_Genre.personal](/_personal/bio/Society/Communication/Music/Music_Genre.personal.md) 
 
-### [Music_Genre.secret](/_secret/bio/Society/Communication/Music/Music_Genre.secret.md)
+### #is_/same_as :: [Music_Genre.secret](/_secret/bio/Society/Communication/Music/Music_Genre.secret.md)
 

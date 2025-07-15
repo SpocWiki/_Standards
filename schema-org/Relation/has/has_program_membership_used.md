@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_program_membership_used](/_Standards/schema-org/Relation/has/has_program_membership_used.md) 
+### #is_/same_as :: [has_program_membership_used](/_Standards/schema-org/Relation/has/has_program_membership_used.md) 
 
-### [has_program_membership_used.public](/_public/schema-org/Relation/has/has_program_membership_used.public.md) 
+### #is_/same_as :: [has_program_membership_used.public](/_public/schema-org/Relation/has/has_program_membership_used.public.md) 
 
-### [has_program_membership_used.internal](/_internal/schema-org/Relation/has/has_program_membership_used.internal.md) 
+### #is_/same_as :: [has_program_membership_used.internal](/_internal/schema-org/Relation/has/has_program_membership_used.internal.md) 
 
-### [has_program_membership_used.protect](/_protect/schema-org/Relation/has/has_program_membership_used.protect.md) 
+### #is_/same_as :: [has_program_membership_used.protect](/_protect/schema-org/Relation/has/has_program_membership_used.protect.md) 
 
-### [has_program_membership_used.private](/_private/schema-org/Relation/has/has_program_membership_used.private.md) 
+### #is_/same_as :: [has_program_membership_used.private](/_private/schema-org/Relation/has/has_program_membership_used.private.md) 
 
-### [has_program_membership_used.personal](/_personal/schema-org/Relation/has/has_program_membership_used.personal.md) 
+### #is_/same_as :: [has_program_membership_used.personal](/_personal/schema-org/Relation/has/has_program_membership_used.personal.md) 
 
-### [has_program_membership_used.secret](/_secret/schema-org/Relation/has/has_program_membership_used.secret.md)
+### #is_/same_as :: [has_program_membership_used.secret](/_secret/schema-org/Relation/has/has_program_membership_used.secret.md)
 

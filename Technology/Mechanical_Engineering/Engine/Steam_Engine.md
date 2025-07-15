@@ -18,23 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Steam%20engine) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Steam_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine.md) 
+### #is_/same_as :: [Steam_Engine](/_Standards/Technology/Mechanical_Engineering/Engine/Steam_Engine.md) 
 
-### [Steam_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine.public.md) 
+### #is_/same_as :: [Steam_Engine.public](/_public/Technology/Mechanical_Engineering/Engine/Steam_Engine.public.md) 
 
-### [Steam_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine.internal.md) 
+### #is_/same_as :: [Steam_Engine.internal](/_internal/Technology/Mechanical_Engineering/Engine/Steam_Engine.internal.md) 
 
-### [Steam_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine.protect.md) 
+### #is_/same_as :: [Steam_Engine.protect](/_protect/Technology/Mechanical_Engineering/Engine/Steam_Engine.protect.md) 
 
-### [Steam_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine.private.md) 
+### #is_/same_as :: [Steam_Engine.private](/_private/Technology/Mechanical_Engineering/Engine/Steam_Engine.private.md) 
 
-### [Steam_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine.personal.md) 
+### #is_/same_as :: [Steam_Engine.personal](/_personal/Technology/Mechanical_Engineering/Engine/Steam_Engine.personal.md) 
 
-### [Steam_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine.secret.md)
+### #is_/same_as :: [Steam_Engine.secret](/_secret/Technology/Mechanical_Engineering/Engine/Steam_Engine.secret.md)
 

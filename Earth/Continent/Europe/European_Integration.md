@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [European_Integration](/_Standards/Earth/Continent/Europe/European_Integration.md) 
+### #is_/same_as :: [European_Integration](/_Standards/Earth/Continent/Europe/European_Integration.md) 
 
-### [European_Integration.public](/_public/Earth/Continent/Europe/European_Integration.public.md) 
+### #is_/same_as :: [European_Integration.public](/_public/Earth/Continent/Europe/European_Integration.public.md) 
 
-### [European_Integration.internal](/_internal/Earth/Continent/Europe/European_Integration.internal.md) 
+### #is_/same_as :: [European_Integration.internal](/_internal/Earth/Continent/Europe/European_Integration.internal.md) 
 
-### [European_Integration.protect](/_protect/Earth/Continent/Europe/European_Integration.protect.md) 
+### #is_/same_as :: [European_Integration.protect](/_protect/Earth/Continent/Europe/European_Integration.protect.md) 
 
-### [European_Integration.private](/_private/Earth/Continent/Europe/European_Integration.private.md) 
+### #is_/same_as :: [European_Integration.private](/_private/Earth/Continent/Europe/European_Integration.private.md) 
 
-### [European_Integration.personal](/_personal/Earth/Continent/Europe/European_Integration.personal.md) 
+### #is_/same_as :: [European_Integration.personal](/_personal/Earth/Continent/Europe/European_Integration.personal.md) 
 
-### [European_Integration.secret](/_secret/Earth/Continent/Europe/European_Integration.secret.md)
+### #is_/same_as :: [European_Integration.secret](/_secret/Earth/Continent/Europe/European_Integration.secret.md)
 

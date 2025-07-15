@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_payment_accepted](/_Standards/schema-org/Property/Texts/has_payment_accepted.md) 
+### #is_/same_as :: [has_payment_accepted](/_Standards/schema-org/Property/Texts/has_payment_accepted.md) 
 
-### [has_payment_accepted.public](/_public/schema-org/Property/Texts/has_payment_accepted.public.md) 
+### #is_/same_as :: [has_payment_accepted.public](/_public/schema-org/Property/Texts/has_payment_accepted.public.md) 
 
-### [has_payment_accepted.internal](/_internal/schema-org/Property/Texts/has_payment_accepted.internal.md) 
+### #is_/same_as :: [has_payment_accepted.internal](/_internal/schema-org/Property/Texts/has_payment_accepted.internal.md) 
 
-### [has_payment_accepted.protect](/_protect/schema-org/Property/Texts/has_payment_accepted.protect.md) 
+### #is_/same_as :: [has_payment_accepted.protect](/_protect/schema-org/Property/Texts/has_payment_accepted.protect.md) 
 
-### [has_payment_accepted.private](/_private/schema-org/Property/Texts/has_payment_accepted.private.md) 
+### #is_/same_as :: [has_payment_accepted.private](/_private/schema-org/Property/Texts/has_payment_accepted.private.md) 
 
-### [has_payment_accepted.personal](/_personal/schema-org/Property/Texts/has_payment_accepted.personal.md) 
+### #is_/same_as :: [has_payment_accepted.personal](/_personal/schema-org/Property/Texts/has_payment_accepted.personal.md) 
 
-### [has_payment_accepted.secret](/_secret/schema-org/Property/Texts/has_payment_accepted.secret.md)
+### #is_/same_as :: [has_payment_accepted.secret](/_secret/schema-org/Property/Texts/has_payment_accepted.secret.md)
 

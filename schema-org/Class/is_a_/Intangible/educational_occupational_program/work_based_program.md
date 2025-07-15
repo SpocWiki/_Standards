@@ -47,17 +47,17 @@ A program with both an educational and employment component. Typically based at 
 
 ## Confidential Links & Embeds: 
 
-### [work_based_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.md) 
+### #is_/same_as :: [work_based_program](/_Standards/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.md) 
 
-### [work_based_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.public.md) 
+### #is_/same_as :: [work_based_program.public](/_public/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.public.md) 
 
-### [work_based_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.internal.md) 
+### #is_/same_as :: [work_based_program.internal](/_internal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.internal.md) 
 
-### [work_based_program.protect](/_protect/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.protect.md) 
+### #is_/same_as :: [work_based_program.protect](/_protect/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.protect.md) 
 
-### [work_based_program.private](/_private/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.private.md) 
+### #is_/same_as :: [work_based_program.private](/_private/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.private.md) 
 
-### [work_based_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.personal.md) 
+### #is_/same_as :: [work_based_program.personal](/_personal/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.personal.md) 
 
-### [work_based_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.secret.md)
+### #is_/same_as :: [work_based_program.secret](/_secret/schema-org/Class/is_a_/Intangible/educational_occupational_program/work_based_program.secret.md)
 

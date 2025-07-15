@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_eligible_transaction_volume](/_Standards/schema-org/Relation/has/has_eligible_transaction_volume.md) 
+### #is_/same_as :: [has_eligible_transaction_volume](/_Standards/schema-org/Relation/has/has_eligible_transaction_volume.md) 
 
-### [has_eligible_transaction_volume.public](/_public/schema-org/Relation/has/has_eligible_transaction_volume.public.md) 
+### #is_/same_as :: [has_eligible_transaction_volume.public](/_public/schema-org/Relation/has/has_eligible_transaction_volume.public.md) 
 
-### [has_eligible_transaction_volume.internal](/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal.md) 
+### #is_/same_as :: [has_eligible_transaction_volume.internal](/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal.md) 
 
-### [has_eligible_transaction_volume.protect](/_protect/schema-org/Relation/has/has_eligible_transaction_volume.protect.md) 
+### #is_/same_as :: [has_eligible_transaction_volume.protect](/_protect/schema-org/Relation/has/has_eligible_transaction_volume.protect.md) 
 
-### [has_eligible_transaction_volume.private](/_private/schema-org/Relation/has/has_eligible_transaction_volume.private.md) 
+### #is_/same_as :: [has_eligible_transaction_volume.private](/_private/schema-org/Relation/has/has_eligible_transaction_volume.private.md) 
 
-### [has_eligible_transaction_volume.personal](/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal.md) 
+### #is_/same_as :: [has_eligible_transaction_volume.personal](/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal.md) 
 
-### [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md)
+### #is_/same_as :: [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md)
 

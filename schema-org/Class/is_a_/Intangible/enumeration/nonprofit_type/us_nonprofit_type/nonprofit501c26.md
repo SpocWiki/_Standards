@@ -49,17 +49,17 @@ Nonprofit501c26: Non-profit type referring to State~Sponsored Organizations Prov
 
 ## Confidential Links & Embeds: 
 
-### [nonprofit501c26](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.md) 
+### #is_/same_as :: [nonprofit501c26](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.md) 
 
-### [nonprofit501c26.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.public.md) 
+### #is_/same_as :: [nonprofit501c26.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.public.md) 
 
-### [nonprofit501c26.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.internal.md) 
+### #is_/same_as :: [nonprofit501c26.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.internal.md) 
 
-### [nonprofit501c26.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.protect.md) 
+### #is_/same_as :: [nonprofit501c26.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.protect.md) 
 
-### [nonprofit501c26.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.private.md) 
+### #is_/same_as :: [nonprofit501c26.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.private.md) 
 
-### [nonprofit501c26.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.personal.md) 
+### #is_/same_as :: [nonprofit501c26.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.personal.md) 
 
-### [nonprofit501c26.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.secret.md)
+### #is_/same_as :: [nonprofit501c26.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.secret.md)
 

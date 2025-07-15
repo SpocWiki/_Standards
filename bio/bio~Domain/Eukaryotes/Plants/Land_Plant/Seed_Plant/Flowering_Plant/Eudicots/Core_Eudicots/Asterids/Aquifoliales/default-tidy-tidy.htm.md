@@ -102,17 +102,17 @@ copyright © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucdavis.edu).
 
 ## Confidential Links & Embeds: 
 
-### [default-tidy-tidy.htm](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.md) 
+### #is_/same_as :: [default-tidy-tidy.htm](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.md) 
 
-### [default-tidy-tidy.htm.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.public.md) 
+### #is_/same_as :: [default-tidy-tidy.htm.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.public.md) 
 
-### [default-tidy-tidy.htm.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.internal.md) 
+### #is_/same_as :: [default-tidy-tidy.htm.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.internal.md) 
 
-### [default-tidy-tidy.htm.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.protect.md) 
+### #is_/same_as :: [default-tidy-tidy.htm.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.protect.md) 
 
-### [default-tidy-tidy.htm.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.private.md) 
+### #is_/same_as :: [default-tidy-tidy.htm.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.private.md) 
 
-### [default-tidy-tidy.htm.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.personal.md) 
+### #is_/same_as :: [default-tidy-tidy.htm.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.personal.md) 
 
-### [default-tidy-tidy.htm.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.secret.md)
+### #is_/same_as :: [default-tidy-tidy.htm.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Aquifoliales/default-tidy-tidy.htm.secret.md)
 

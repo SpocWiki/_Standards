@@ -74,25 +74,19 @@ equivalent_class: "http://dbpedia.org/ontology/Opera"
 > [Wikipedia](https://en.wikipedia.org/wiki/Opera)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Opera](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.md) 
+### #is_/same_as :: [Opera](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.md) 
 
-### [Opera.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.public.md) 
+### #is_/same_as :: [Opera.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.public.md) 
 
-### [Opera.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.internal.md) 
+### #is_/same_as :: [Opera.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.internal.md) 
 
-### [Opera.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.protect.md) 
+### #is_/same_as :: [Opera.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.protect.md) 
 
-### [Opera.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.private.md) 
+### #is_/same_as :: [Opera.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.private.md) 
 
-### [Opera.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.personal.md) 
+### #is_/same_as :: [Opera.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.personal.md) 
 
-### [Opera.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.secret.md)
+### #is_/same_as :: [Opera.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Opera.secret.md)
 

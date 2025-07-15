@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_composer](/_Standards/schema-org/Relation/has/has_composer.md) 
+### #is_/same_as :: [has_composer](/_Standards/schema-org/Relation/has/has_composer.md) 
 
-### [has_composer.public](/_public/schema-org/Relation/has/has_composer.public.md) 
+### #is_/same_as :: [has_composer.public](/_public/schema-org/Relation/has/has_composer.public.md) 
 
-### [has_composer.internal](/_internal/schema-org/Relation/has/has_composer.internal.md) 
+### #is_/same_as :: [has_composer.internal](/_internal/schema-org/Relation/has/has_composer.internal.md) 
 
-### [has_composer.protect](/_protect/schema-org/Relation/has/has_composer.protect.md) 
+### #is_/same_as :: [has_composer.protect](/_protect/schema-org/Relation/has/has_composer.protect.md) 
 
-### [has_composer.private](/_private/schema-org/Relation/has/has_composer.private.md) 
+### #is_/same_as :: [has_composer.private](/_private/schema-org/Relation/has/has_composer.private.md) 
 
-### [has_composer.personal](/_personal/schema-org/Relation/has/has_composer.personal.md) 
+### #is_/same_as :: [has_composer.personal](/_personal/schema-org/Relation/has/has_composer.personal.md) 
 
-### [has_composer.secret](/_secret/schema-org/Relation/has/has_composer.secret.md)
+### #is_/same_as :: [has_composer.secret](/_secret/schema-org/Relation/has/has_composer.secret.md)
 

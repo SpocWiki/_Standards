@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_first_performance](/_Standards/schema-org/Relation/has/has_first_performance.md) 
+### #is_/same_as :: [has_first_performance](/_Standards/schema-org/Relation/has/has_first_performance.md) 
 
-### [has_first_performance.public](/_public/schema-org/Relation/has/has_first_performance.public.md) 
+### #is_/same_as :: [has_first_performance.public](/_public/schema-org/Relation/has/has_first_performance.public.md) 
 
-### [has_first_performance.internal](/_internal/schema-org/Relation/has/has_first_performance.internal.md) 
+### #is_/same_as :: [has_first_performance.internal](/_internal/schema-org/Relation/has/has_first_performance.internal.md) 
 
-### [has_first_performance.protect](/_protect/schema-org/Relation/has/has_first_performance.protect.md) 
+### #is_/same_as :: [has_first_performance.protect](/_protect/schema-org/Relation/has/has_first_performance.protect.md) 
 
-### [has_first_performance.private](/_private/schema-org/Relation/has/has_first_performance.private.md) 
+### #is_/same_as :: [has_first_performance.private](/_private/schema-org/Relation/has/has_first_performance.private.md) 
 
-### [has_first_performance.personal](/_personal/schema-org/Relation/has/has_first_performance.personal.md) 
+### #is_/same_as :: [has_first_performance.personal](/_personal/schema-org/Relation/has/has_first_performance.personal.md) 
 
-### [has_first_performance.secret](/_secret/schema-org/Relation/has/has_first_performance.secret.md)
+### #is_/same_as :: [has_first_performance.secret](/_secret/schema-org/Relation/has/has_first_performance.secret.md)
 

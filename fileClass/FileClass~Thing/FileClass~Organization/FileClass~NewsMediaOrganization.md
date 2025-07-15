@@ -79,17 +79,17 @@ VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~NewsMediaOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.md) 
 
-### [FileClass~NewsMediaOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.public.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.public.md) 
 
-### [FileClass~NewsMediaOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.internal.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.internal.md) 
 
-### [FileClass~NewsMediaOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.protect.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.protect.md) 
 
-### [FileClass~NewsMediaOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.private.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.private.md) 
 
-### [FileClass~NewsMediaOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.personal.md) 
+### #is_/same_as :: [FileClass~NewsMediaOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.personal.md) 
 
-### [FileClass~NewsMediaOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.secret.md)
+### #is_/same_as :: [FileClass~NewsMediaOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NewsMediaOrganization.secret.md)
 

@@ -35,17 +35,17 @@ Event type: Food event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FoodEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.md) 
+### #is_/same_as :: [FileClass~FoodEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.md) 
 
-### [FileClass~FoodEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.public.md) 
+### #is_/same_as :: [FileClass~FoodEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.public.md) 
 
-### [FileClass~FoodEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.internal.md) 
+### #is_/same_as :: [FileClass~FoodEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.internal.md) 
 
-### [FileClass~FoodEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.protect.md) 
+### #is_/same_as :: [FileClass~FoodEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.protect.md) 
 
-### [FileClass~FoodEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.private.md) 
+### #is_/same_as :: [FileClass~FoodEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.private.md) 
 
-### [FileClass~FoodEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.personal.md) 
+### #is_/same_as :: [FileClass~FoodEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.personal.md) 
 
-### [FileClass~FoodEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.secret.md)
+### #is_/same_as :: [FileClass~FoodEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.secret.md)
 

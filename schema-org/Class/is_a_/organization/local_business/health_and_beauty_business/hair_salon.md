@@ -45,17 +45,17 @@ A hair salon.
 
 ## Confidential Links & Embeds: 
 
-### [hair_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.md) 
+### #is_/same_as :: [hair_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.md) 
 
-### [hair_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.public.md) 
+### #is_/same_as :: [hair_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.public.md) 
 
-### [hair_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md) 
+### #is_/same_as :: [hair_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md) 
 
-### [hair_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md) 
+### #is_/same_as :: [hair_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md) 
 
-### [hair_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md) 
+### #is_/same_as :: [hair_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md) 
 
-### [hair_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md) 
+### #is_/same_as :: [hair_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md) 
 
-### [hair_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md)
+### #is_/same_as :: [hair_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md)
 

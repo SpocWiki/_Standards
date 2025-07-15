@@ -47,17 +47,17 @@ A parking map.
 
 ## Confidential Links & Embeds: 
 
-### [parking_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.md) 
+### #is_/same_as :: [parking_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.md) 
 
-### [parking_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.public.md) 
+### #is_/same_as :: [parking_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.public.md) 
 
-### [parking_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.internal.md) 
+### #is_/same_as :: [parking_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.internal.md) 
 
-### [parking_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.protect.md) 
+### #is_/same_as :: [parking_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.protect.md) 
 
-### [parking_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.private.md) 
+### #is_/same_as :: [parking_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.private.md) 
 
-### [parking_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.personal.md) 
+### #is_/same_as :: [parking_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.personal.md) 
 
-### [parking_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.secret.md)
+### #is_/same_as :: [parking_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.secret.md)
 

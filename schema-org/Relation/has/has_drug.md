@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_drug](/_Standards/schema-org/Relation/has/has_drug.md) 
+### #is_/same_as :: [has_drug](/_Standards/schema-org/Relation/has/has_drug.md) 
 
-### [has_drug.public](/_public/schema-org/Relation/has/has_drug.public.md) 
+### #is_/same_as :: [has_drug.public](/_public/schema-org/Relation/has/has_drug.public.md) 
 
-### [has_drug.internal](/_internal/schema-org/Relation/has/has_drug.internal.md) 
+### #is_/same_as :: [has_drug.internal](/_internal/schema-org/Relation/has/has_drug.internal.md) 
 
-### [has_drug.protect](/_protect/schema-org/Relation/has/has_drug.protect.md) 
+### #is_/same_as :: [has_drug.protect](/_protect/schema-org/Relation/has/has_drug.protect.md) 
 
-### [has_drug.private](/_private/schema-org/Relation/has/has_drug.private.md) 
+### #is_/same_as :: [has_drug.private](/_private/schema-org/Relation/has/has_drug.private.md) 
 
-### [has_drug.personal](/_personal/schema-org/Relation/has/has_drug.personal.md) 
+### #is_/same_as :: [has_drug.personal](/_personal/schema-org/Relation/has/has_drug.personal.md) 
 
-### [has_drug.secret](/_secret/schema-org/Relation/has/has_drug.secret.md)
+### #is_/same_as :: [has_drug.secret](/_secret/schema-org/Relation/has/has_drug.secret.md)
 

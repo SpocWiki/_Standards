@@ -127,23 +127,19 @@ aliases:
 	    -   *Stigonema*
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Cyanobacteria](/_Standards/bio/bio~Domain/Bacteria/Cyanobacteria.md) 
+### #is_/same_as :: [Cyanobacteria](/_Standards/bio/bio~Domain/Bacteria/Cyanobacteria.md) 
 
-### [Cyanobacteria.public](/_public/bio/bio~Domain/Bacteria/Cyanobacteria.public.md) 
+### #is_/same_as :: [Cyanobacteria.public](/_public/bio/bio~Domain/Bacteria/Cyanobacteria.public.md) 
 
-### [Cyanobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Cyanobacteria.internal.md) 
+### #is_/same_as :: [Cyanobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Cyanobacteria.internal.md) 
 
-### [Cyanobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Cyanobacteria.protect.md) 
+### #is_/same_as :: [Cyanobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Cyanobacteria.protect.md) 
 
-### [Cyanobacteria.private](/_private/bio/bio~Domain/Bacteria/Cyanobacteria.private.md) 
+### #is_/same_as :: [Cyanobacteria.private](/_private/bio/bio~Domain/Bacteria/Cyanobacteria.private.md) 
 
-### [Cyanobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Cyanobacteria.personal.md) 
+### #is_/same_as :: [Cyanobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Cyanobacteria.personal.md) 
 
-### [Cyanobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Cyanobacteria.secret.md)
+### #is_/same_as :: [Cyanobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Cyanobacteria.secret.md)
 

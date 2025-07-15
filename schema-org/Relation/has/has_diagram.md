@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_diagram](/_Standards/schema-org/Relation/has/has_diagram.md) 
+### #is_/same_as :: [has_diagram](/_Standards/schema-org/Relation/has/has_diagram.md) 
 
-### [has_diagram.public](/_public/schema-org/Relation/has/has_diagram.public.md) 
+### #is_/same_as :: [has_diagram.public](/_public/schema-org/Relation/has/has_diagram.public.md) 
 
-### [has_diagram.internal](/_internal/schema-org/Relation/has/has_diagram.internal.md) 
+### #is_/same_as :: [has_diagram.internal](/_internal/schema-org/Relation/has/has_diagram.internal.md) 
 
-### [has_diagram.protect](/_protect/schema-org/Relation/has/has_diagram.protect.md) 
+### #is_/same_as :: [has_diagram.protect](/_protect/schema-org/Relation/has/has_diagram.protect.md) 
 
-### [has_diagram.private](/_private/schema-org/Relation/has/has_diagram.private.md) 
+### #is_/same_as :: [has_diagram.private](/_private/schema-org/Relation/has/has_diagram.private.md) 
 
-### [has_diagram.personal](/_personal/schema-org/Relation/has/has_diagram.personal.md) 
+### #is_/same_as :: [has_diagram.personal](/_personal/schema-org/Relation/has/has_diagram.personal.md) 
 
-### [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md)
+### #is_/same_as :: [has_diagram.secret](/_secret/schema-org/Relation/has/has_diagram.secret.md)
 

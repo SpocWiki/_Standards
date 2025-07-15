@@ -500,17 +500,17 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 
 ## Confidential Links & Embeds: 
 
-### [Burkina_Faso](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso.md) 
+### #is_/same_as :: [Burkina_Faso](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso.md) 
 
-### [Burkina_Faso.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public.md) 
+### #is_/same_as :: [Burkina_Faso.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public.md) 
 
-### [Burkina_Faso.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal.md) 
+### #is_/same_as :: [Burkina_Faso.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal.md) 
 
-### [Burkina_Faso.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect.md) 
+### #is_/same_as :: [Burkina_Faso.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect.md) 
 
-### [Burkina_Faso.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private.md) 
+### #is_/same_as :: [Burkina_Faso.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private.md) 
 
-### [Burkina_Faso.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal.md) 
+### #is_/same_as :: [Burkina_Faso.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal.md) 
 
-### [Burkina_Faso.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret.md)
+### #is_/same_as :: [Burkina_Faso.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret.md)
 

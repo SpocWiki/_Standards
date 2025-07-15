@@ -49,17 +49,17 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 ## Confidential Links & Embeds: 
 
-### [mobile_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md) 
+### #is_/same_as :: [mobile_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md) 
 
-### [mobile_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.public.md) 
+### #is_/same_as :: [mobile_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.public.md) 
 
-### [mobile_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.internal.md) 
+### #is_/same_as :: [mobile_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.internal.md) 
 
-### [mobile_web_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.protect.md) 
+### #is_/same_as :: [mobile_web_platform.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.protect.md) 
 
-### [mobile_web_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.private.md) 
+### #is_/same_as :: [mobile_web_platform.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.private.md) 
 
-### [mobile_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.personal.md) 
+### #is_/same_as :: [mobile_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.personal.md) 
 
-### [mobile_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.secret.md)
+### #is_/same_as :: [mobile_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.secret.md)
 

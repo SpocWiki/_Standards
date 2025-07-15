@@ -45,17 +45,17 @@ ReviewAspect:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Guide](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.md) 
+### #is_/same_as :: [FileClass~Guide](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.md) 
 
-### [FileClass~Guide.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.public.md) 
+### #is_/same_as :: [FileClass~Guide.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.public.md) 
 
-### [FileClass~Guide.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.internal.md) 
+### #is_/same_as :: [FileClass~Guide.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.internal.md) 
 
-### [FileClass~Guide.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.protect.md) 
+### #is_/same_as :: [FileClass~Guide.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.protect.md) 
 
-### [FileClass~Guide.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.private.md) 
+### #is_/same_as :: [FileClass~Guide.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.private.md) 
 
-### [FileClass~Guide.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.personal.md) 
+### #is_/same_as :: [FileClass~Guide.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.personal.md) 
 
-### [FileClass~Guide.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.secret.md)
+### #is_/same_as :: [FileClass~Guide.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Guide.secret.md)
 

@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_varying_by](/_Standards/schema-org/Relation/is/is_varying_by.md) 
+### #is_/same_as :: [is_varying_by](/_Standards/schema-org/Relation/is/is_varying_by.md) 
 
-### [is_varying_by.public](/_public/schema-org/Relation/is/is_varying_by.public.md) 
+### #is_/same_as :: [is_varying_by.public](/_public/schema-org/Relation/is/is_varying_by.public.md) 
 
-### [is_varying_by.internal](/_internal/schema-org/Relation/is/is_varying_by.internal.md) 
+### #is_/same_as :: [is_varying_by.internal](/_internal/schema-org/Relation/is/is_varying_by.internal.md) 
 
-### [is_varying_by.protect](/_protect/schema-org/Relation/is/is_varying_by.protect.md) 
+### #is_/same_as :: [is_varying_by.protect](/_protect/schema-org/Relation/is/is_varying_by.protect.md) 
 
-### [is_varying_by.private](/_private/schema-org/Relation/is/is_varying_by.private.md) 
+### #is_/same_as :: [is_varying_by.private](/_private/schema-org/Relation/is/is_varying_by.private.md) 
 
-### [is_varying_by.personal](/_personal/schema-org/Relation/is/is_varying_by.personal.md) 
+### #is_/same_as :: [is_varying_by.personal](/_personal/schema-org/Relation/is/is_varying_by.personal.md) 
 
-### [is_varying_by.secret](/_secret/schema-org/Relation/is/is_varying_by.secret.md)
+### #is_/same_as :: [is_varying_by.secret](/_secret/schema-org/Relation/is/is_varying_by.secret.md)
 

@@ -28,21 +28,19 @@ Hard Pines
     -   [section Pinus](section_Pinus)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Pinus(SubGenus)](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).md) 
+### #is_/same_as :: [Pinus(SubGenus)](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).md) 
 
-### [Pinus(SubGenus).public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).public.md) 
+### #is_/same_as :: [Pinus(SubGenus).public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).public.md) 
 
-### [Pinus(SubGenus).internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).internal.md) 
+### #is_/same_as :: [Pinus(SubGenus).internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).internal.md) 
 
-### [Pinus(SubGenus).protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).protect.md) 
+### #is_/same_as :: [Pinus(SubGenus).protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).protect.md) 
 
-### [Pinus(SubGenus).private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).private.md) 
+### #is_/same_as :: [Pinus(SubGenus).private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).private.md) 
 
-### [Pinus(SubGenus).personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).personal.md) 
+### #is_/same_as :: [Pinus(SubGenus).personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).personal.md) 
 
-### [Pinus(SubGenus).secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).secret.md)
+### #is_/same_as :: [Pinus(SubGenus).secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).secret.md)
 

@@ -47,17 +47,17 @@ The associated telephone number is toll free.
 
 ## Confidential Links & Embeds: 
 
-### [toll_free](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.md) 
+### #is_/same_as :: [toll_free](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.md) 
 
-### [toll_free.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.public.md) 
+### #is_/same_as :: [toll_free.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.public.md) 
 
-### [toll_free.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.internal.md) 
+### #is_/same_as :: [toll_free.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.internal.md) 
 
-### [toll_free.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.protect.md) 
+### #is_/same_as :: [toll_free.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.protect.md) 
 
-### [toll_free.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.private.md) 
+### #is_/same_as :: [toll_free.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.private.md) 
 
-### [toll_free.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.personal.md) 
+### #is_/same_as :: [toll_free.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.personal.md) 
 
-### [toll_free.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.secret.md)
+### #is_/same_as :: [toll_free.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/toll_free.secret.md)
 

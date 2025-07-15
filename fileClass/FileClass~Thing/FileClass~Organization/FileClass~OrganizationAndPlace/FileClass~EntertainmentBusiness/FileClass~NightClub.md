@@ -35,17 +35,17 @@ A nightclub or discotheque.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~NightClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.md) 
+### #is_/same_as :: [FileClass~NightClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.md) 
 
-### [FileClass~NightClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.public.md) 
+### #is_/same_as :: [FileClass~NightClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.public.md) 
 
-### [FileClass~NightClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.internal.md) 
+### #is_/same_as :: [FileClass~NightClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.internal.md) 
 
-### [FileClass~NightClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.protect.md) 
+### #is_/same_as :: [FileClass~NightClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.protect.md) 
 
-### [FileClass~NightClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.private.md) 
+### #is_/same_as :: [FileClass~NightClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.private.md) 
 
-### [FileClass~NightClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.personal.md) 
+### #is_/same_as :: [FileClass~NightClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.personal.md) 
 
-### [FileClass~NightClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.secret.md)
+### #is_/same_as :: [FileClass~NightClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~NightClub.secret.md)
 

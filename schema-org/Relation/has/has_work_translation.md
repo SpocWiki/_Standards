@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_work_translation](/_Standards/schema-org/Relation/has/has_work_translation.md) 
+### #is_/same_as :: [has_work_translation](/_Standards/schema-org/Relation/has/has_work_translation.md) 
 
-### [has_work_translation.public](/_public/schema-org/Relation/has/has_work_translation.public.md) 
+### #is_/same_as :: [has_work_translation.public](/_public/schema-org/Relation/has/has_work_translation.public.md) 
 
-### [has_work_translation.internal](/_internal/schema-org/Relation/has/has_work_translation.internal.md) 
+### #is_/same_as :: [has_work_translation.internal](/_internal/schema-org/Relation/has/has_work_translation.internal.md) 
 
-### [has_work_translation.protect](/_protect/schema-org/Relation/has/has_work_translation.protect.md) 
+### #is_/same_as :: [has_work_translation.protect](/_protect/schema-org/Relation/has/has_work_translation.protect.md) 
 
-### [has_work_translation.private](/_private/schema-org/Relation/has/has_work_translation.private.md) 
+### #is_/same_as :: [has_work_translation.private](/_private/schema-org/Relation/has/has_work_translation.private.md) 
 
-### [has_work_translation.personal](/_personal/schema-org/Relation/has/has_work_translation.personal.md) 
+### #is_/same_as :: [has_work_translation.personal](/_personal/schema-org/Relation/has/has_work_translation.personal.md) 
 
-### [has_work_translation.secret](/_secret/schema-org/Relation/has/has_work_translation.secret.md)
+### #is_/same_as :: [has_work_translation.secret](/_secret/schema-org/Relation/has/has_work_translation.secret.md)
 

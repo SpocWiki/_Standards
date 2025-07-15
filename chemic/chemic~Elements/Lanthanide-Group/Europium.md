@@ -87,17 +87,17 @@ InChIKey: OGPBJKLSAFTDLK-UHFFFAOYSA-N
 
 ## Confidential Links & Embeds: 
 
-### [Europium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
+### #is_/same_as :: [Europium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Europium.md) 
 
-### [Europium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.public.md) 
+### #is_/same_as :: [Europium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Europium.public.md) 
 
-### [Europium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Europium.internal.md) 
+### #is_/same_as :: [Europium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Europium.internal.md) 
 
-### [Europium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Europium.protect.md) 
+### #is_/same_as :: [Europium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Europium.protect.md) 
 
-### [Europium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Europium.private.md) 
+### #is_/same_as :: [Europium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Europium.private.md) 
 
-### [Europium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Europium.personal.md) 
+### #is_/same_as :: [Europium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Europium.personal.md) 
 
-### [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md)
+### #is_/same_as :: [Europium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Europium.secret.md)
 

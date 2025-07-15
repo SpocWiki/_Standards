@@ -35,17 +35,17 @@ The act of distributing content to people for their amusement or edification.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShareAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.md) 
+### #is_/same_as :: [FileClass~ShareAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.md) 
 
-### [FileClass~ShareAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.public.md) 
+### #is_/same_as :: [FileClass~ShareAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.public.md) 
 
-### [FileClass~ShareAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.internal.md) 
+### #is_/same_as :: [FileClass~ShareAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.internal.md) 
 
-### [FileClass~ShareAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.protect.md) 
+### #is_/same_as :: [FileClass~ShareAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.protect.md) 
 
-### [FileClass~ShareAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.private.md) 
+### #is_/same_as :: [FileClass~ShareAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.private.md) 
 
-### [FileClass~ShareAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.personal.md) 
+### #is_/same_as :: [FileClass~ShareAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.personal.md) 
 
-### [FileClass~ShareAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.secret.md)
+### #is_/same_as :: [FileClass~ShareAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~ShareAction.secret.md)
 

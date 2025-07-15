@@ -57,17 +57,17 @@ HealthcareReportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pag
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hospital](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.md) 
+### #is_/same_as :: [FileClass~Hospital](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.md) 
 
-### [FileClass~Hospital.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.public.md) 
+### #is_/same_as :: [FileClass~Hospital.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.public.md) 
 
-### [FileClass~Hospital.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.internal.md) 
+### #is_/same_as :: [FileClass~Hospital.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.internal.md) 
 
-### [FileClass~Hospital.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.protect.md) 
+### #is_/same_as :: [FileClass~Hospital.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.protect.md) 
 
-### [FileClass~Hospital.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.private.md) 
+### #is_/same_as :: [FileClass~Hospital.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.private.md) 
 
-### [FileClass~Hospital.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.personal.md) 
+### #is_/same_as :: [FileClass~Hospital.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.personal.md) 
 
-### [FileClass~Hospital.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.secret.md)
+### #is_/same_as :: [FileClass~Hospital.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization/FileClass~Hospital.secret.md)
 

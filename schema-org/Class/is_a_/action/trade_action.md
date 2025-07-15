@@ -47,17 +47,17 @@ The act of participating in an exchange of goods and services for monetary compe
 
 ## Confidential Links & Embeds: 
 
-### [trade_action](/_Standards/schema-org/Class/is_a_/action/trade_action.md) 
+### #is_/same_as :: [trade_action](/_Standards/schema-org/Class/is_a_/action/trade_action.md) 
 
-### [trade_action.public](/_public/schema-org/Class/is_a_/action/trade_action.public.md) 
+### #is_/same_as :: [trade_action.public](/_public/schema-org/Class/is_a_/action/trade_action.public.md) 
 
-### [trade_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action.internal.md) 
+### #is_/same_as :: [trade_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action.internal.md) 
 
-### [trade_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action.protect.md) 
+### #is_/same_as :: [trade_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action.protect.md) 
 
-### [trade_action.private](/_private/schema-org/Class/is_a_/action/trade_action.private.md) 
+### #is_/same_as :: [trade_action.private](/_private/schema-org/Class/is_a_/action/trade_action.private.md) 
 
-### [trade_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action.personal.md) 
+### #is_/same_as :: [trade_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action.personal.md) 
 
-### [trade_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action.secret.md)
+### #is_/same_as :: [trade_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action.secret.md)
 

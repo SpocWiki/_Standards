@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_embed](/_Standards/schema-org/Property/has_url_for/has_url_for_embed.md) 
+### #is_/same_as :: [has_url_for_embed](/_Standards/schema-org/Property/has_url_for/has_url_for_embed.md) 
 
-### [has_url_for_embed.public](/_public/schema-org/Property/has_url_for/has_url_for_embed.public.md) 
+### #is_/same_as :: [has_url_for_embed.public](/_public/schema-org/Property/has_url_for/has_url_for_embed.public.md) 
 
-### [has_url_for_embed.internal](/_internal/schema-org/Property/has_url_for/has_url_for_embed.internal.md) 
+### #is_/same_as :: [has_url_for_embed.internal](/_internal/schema-org/Property/has_url_for/has_url_for_embed.internal.md) 
 
-### [has_url_for_embed.protect](/_protect/schema-org/Property/has_url_for/has_url_for_embed.protect.md) 
+### #is_/same_as :: [has_url_for_embed.protect](/_protect/schema-org/Property/has_url_for/has_url_for_embed.protect.md) 
 
-### [has_url_for_embed.private](/_private/schema-org/Property/has_url_for/has_url_for_embed.private.md) 
+### #is_/same_as :: [has_url_for_embed.private](/_private/schema-org/Property/has_url_for/has_url_for_embed.private.md) 
 
-### [has_url_for_embed.personal](/_personal/schema-org/Property/has_url_for/has_url_for_embed.personal.md) 
+### #is_/same_as :: [has_url_for_embed.personal](/_personal/schema-org/Property/has_url_for/has_url_for_embed.personal.md) 
 
-### [has_url_for_embed.secret](/_secret/schema-org/Property/has_url_for/has_url_for_embed.secret.md)
+### #is_/same_as :: [has_url_for_embed.secret](/_secret/schema-org/Property/has_url_for/has_url_for_embed.secret.md)
 

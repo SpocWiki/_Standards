@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_credits](/_Standards/schema-org/Property/has_number_of/has_number_of_credits.md) 
+### #is_/same_as :: [has_number_of_credits](/_Standards/schema-org/Property/has_number_of/has_number_of_credits.md) 
 
-### [has_number_of_credits.public](/_public/schema-org/Property/has_number_of/has_number_of_credits.public.md) 
+### #is_/same_as :: [has_number_of_credits.public](/_public/schema-org/Property/has_number_of/has_number_of_credits.public.md) 
 
-### [has_number_of_credits.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits.internal.md) 
+### #is_/same_as :: [has_number_of_credits.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits.internal.md) 
 
-### [has_number_of_credits.protect](/_protect/schema-org/Property/has_number_of/has_number_of_credits.protect.md) 
+### #is_/same_as :: [has_number_of_credits.protect](/_protect/schema-org/Property/has_number_of/has_number_of_credits.protect.md) 
 
-### [has_number_of_credits.private](/_private/schema-org/Property/has_number_of/has_number_of_credits.private.md) 
+### #is_/same_as :: [has_number_of_credits.private](/_private/schema-org/Property/has_number_of/has_number_of_credits.private.md) 
 
-### [has_number_of_credits.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits.personal.md) 
+### #is_/same_as :: [has_number_of_credits.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits.personal.md) 
 
-### [has_number_of_credits.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret.md)
+### #is_/same_as :: [has_number_of_credits.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits.secret.md)
 

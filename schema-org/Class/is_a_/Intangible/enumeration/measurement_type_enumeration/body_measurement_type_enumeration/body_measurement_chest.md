@@ -49,17 +49,17 @@ Maximum girth of chest. Used, for example, to fit men's suits.
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_chest](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.md) 
+### #is_/same_as :: [body_measurement_chest](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.md) 
 
-### [body_measurement_chest.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.public.md) 
+### #is_/same_as :: [body_measurement_chest.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.public.md) 
 
-### [body_measurement_chest.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.internal.md) 
+### #is_/same_as :: [body_measurement_chest.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.internal.md) 
 
-### [body_measurement_chest.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.protect.md) 
+### #is_/same_as :: [body_measurement_chest.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.protect.md) 
 
-### [body_measurement_chest.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.private.md) 
+### #is_/same_as :: [body_measurement_chest.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.private.md) 
 
-### [body_measurement_chest.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.personal.md) 
+### #is_/same_as :: [body_measurement_chest.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.personal.md) 
 
-### [body_measurement_chest.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.secret.md)
+### #is_/same_as :: [body_measurement_chest.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.secret.md)
 

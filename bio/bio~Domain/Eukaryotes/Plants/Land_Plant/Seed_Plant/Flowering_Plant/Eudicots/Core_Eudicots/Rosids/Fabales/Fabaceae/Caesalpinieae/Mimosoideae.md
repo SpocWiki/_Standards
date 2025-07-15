@@ -150,21 +150,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Mimosoideae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.md) 
+### #is_/same_as :: [Mimosoideae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.md) 
 
-### [Mimosoideae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.public.md) 
+### #is_/same_as :: [Mimosoideae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.public.md) 
 
-### [Mimosoideae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.internal.md) 
+### #is_/same_as :: [Mimosoideae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.internal.md) 
 
-### [Mimosoideae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.protect.md) 
+### #is_/same_as :: [Mimosoideae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.protect.md) 
 
-### [Mimosoideae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.private.md) 
+### #is_/same_as :: [Mimosoideae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.private.md) 
 
-### [Mimosoideae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.personal.md) 
+### #is_/same_as :: [Mimosoideae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.personal.md) 
 
-### [Mimosoideae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.secret.md)
+### #is_/same_as :: [Mimosoideae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae/Caesalpinieae/Mimosoideae.secret.md)
 

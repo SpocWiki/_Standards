@@ -41,17 +41,17 @@ luxury accommodations, the key feature of which is multiple rooms
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Suite](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.md) 
+### #is_/same_as :: [FileClass~Suite](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.md) 
 
-### [FileClass~Suite.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.public.md) 
+### #is_/same_as :: [FileClass~Suite.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.public.md) 
 
-### [FileClass~Suite.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.internal.md) 
+### #is_/same_as :: [FileClass~Suite.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.internal.md) 
 
-### [FileClass~Suite.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.protect.md) 
+### #is_/same_as :: [FileClass~Suite.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.protect.md) 
 
-### [FileClass~Suite.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.private.md) 
+### #is_/same_as :: [FileClass~Suite.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.private.md) 
 
-### [FileClass~Suite.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.personal.md) 
+### #is_/same_as :: [FileClass~Suite.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.personal.md) 
 
-### [FileClass~Suite.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.secret.md)
+### #is_/same_as :: [FileClass~Suite.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.secret.md)
 

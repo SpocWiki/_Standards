@@ -44,17 +44,17 @@ ScreenCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovieTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.md) 
+### #is_/same_as :: [FileClass~MovieTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.md) 
 
-### [FileClass~MovieTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.public.md) 
+### #is_/same_as :: [FileClass~MovieTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.public.md) 
 
-### [FileClass~MovieTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.internal.md) 
+### #is_/same_as :: [FileClass~MovieTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.internal.md) 
 
-### [FileClass~MovieTheater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.protect.md) 
+### #is_/same_as :: [FileClass~MovieTheater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.protect.md) 
 
-### [FileClass~MovieTheater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.private.md) 
+### #is_/same_as :: [FileClass~MovieTheater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.private.md) 
 
-### [FileClass~MovieTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.personal.md) 
+### #is_/same_as :: [FileClass~MovieTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.personal.md) 
 
-### [FileClass~MovieTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.secret.md)
+### #is_/same_as :: [FileClass~MovieTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.secret.md)
 

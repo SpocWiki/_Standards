@@ -71,21 +71,19 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q961
 > [Wikipedia](https://en.wikipedia.org/wiki/Kalidasa) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Kālidāsa](/_Standards/bio/People/Writer/Kālidāsa.md) 
+### #is_/same_as :: [Kālidāsa](/_Standards/bio/People/Writer/Kālidāsa.md) 
 
-### [Kālidāsa.public](/_public/bio/People/Writer/Kālidāsa.public.md) 
+### #is_/same_as :: [Kālidāsa.public](/_public/bio/People/Writer/Kālidāsa.public.md) 
 
-### [Kālidāsa.internal](/_internal/bio/People/Writer/Kālidāsa.internal.md) 
+### #is_/same_as :: [Kālidāsa.internal](/_internal/bio/People/Writer/Kālidāsa.internal.md) 
 
-### [Kālidāsa.protect](/_protect/bio/People/Writer/Kālidāsa.protect.md) 
+### #is_/same_as :: [Kālidāsa.protect](/_protect/bio/People/Writer/Kālidāsa.protect.md) 
 
-### [Kālidāsa.private](/_private/bio/People/Writer/Kālidāsa.private.md) 
+### #is_/same_as :: [Kālidāsa.private](/_private/bio/People/Writer/Kālidāsa.private.md) 
 
-### [Kālidāsa.personal](/_personal/bio/People/Writer/Kālidāsa.personal.md) 
+### #is_/same_as :: [Kālidāsa.personal](/_personal/bio/People/Writer/Kālidāsa.personal.md) 
 
-### [Kālidāsa.secret](/_secret/bio/People/Writer/Kālidāsa.secret.md)
+### #is_/same_as :: [Kālidāsa.secret](/_secret/bio/People/Writer/Kālidāsa.secret.md)
 

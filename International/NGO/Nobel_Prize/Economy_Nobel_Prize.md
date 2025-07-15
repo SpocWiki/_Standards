@@ -119,22 +119,19 @@ aliases:
 | ^^                                                                                                                                                                                             | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/James_A._Robinson_in_Ukraine_-_2018_%28MUS3218%29_%28cropped%29.jpg/75px-James_A._Robinson_in_Ukraine_-_2018_%28MUS3218%29_%28cropped%29.jpg)](https://en.wikipedia.org/wiki/File:James_A._Robinson_in_Ukraine_-_2018_\(MUS3218\)_\(cropped\).jpg)                                                                                           | [James A. Robinson](https://en.wikipedia.org/wiki/James_A._Robinson "James A. Robinson")  <br>(b. 1955)                                                                                                                                                                                                                                                                                                           | ![](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png)[United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom "United Kingdom")  <br> ![](https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png)[United States](https://en.wikipedia.org/wiki/United_States "United States")                                    | [Yale University](https://en.wikipedia.org/wiki/Yale_University "Yale University")                                                                                                                                                                                                                                                                           | [University of Chicago](https://en.wikipedia.org/wiki/University_of_Chicago "University of Chicago")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Economy_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Economy_Nobel_Prize.md) 
+### #is_/same_as :: [Economy_Nobel_Prize](/_Standards/International/NGO/Nobel_Prize/Economy_Nobel_Prize.md) 
 
-### [Economy_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Economy_Nobel_Prize.public.md) 
+### #is_/same_as :: [Economy_Nobel_Prize.public](/_public/International/NGO/Nobel_Prize/Economy_Nobel_Prize.public.md) 
 
-### [Economy_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Economy_Nobel_Prize.internal.md) 
+### #is_/same_as :: [Economy_Nobel_Prize.internal](/_internal/International/NGO/Nobel_Prize/Economy_Nobel_Prize.internal.md) 
 
-### [Economy_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Economy_Nobel_Prize.protect.md) 
+### #is_/same_as :: [Economy_Nobel_Prize.protect](/_protect/International/NGO/Nobel_Prize/Economy_Nobel_Prize.protect.md) 
 
-### [Economy_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Economy_Nobel_Prize.private.md) 
+### #is_/same_as :: [Economy_Nobel_Prize.private](/_private/International/NGO/Nobel_Prize/Economy_Nobel_Prize.private.md) 
 
-### [Economy_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Economy_Nobel_Prize.personal.md) 
+### #is_/same_as :: [Economy_Nobel_Prize.personal](/_personal/International/NGO/Nobel_Prize/Economy_Nobel_Prize.personal.md) 
 
-### [Economy_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Economy_Nobel_Prize.secret.md)
+### #is_/same_as :: [Economy_Nobel_Prize.secret](/_secret/International/NGO/Nobel_Prize/Economy_Nobel_Prize.secret.md)
 

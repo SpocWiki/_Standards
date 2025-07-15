@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~Tournaisian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.md) 
+### #is_/same_as :: [Age~Tournaisian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.md) 
 
-### [Age~Tournaisian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.public.md) 
+### #is_/same_as :: [Age~Tournaisian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.public.md) 
 
-### [Age~Tournaisian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.internal.md) 
+### #is_/same_as :: [Age~Tournaisian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.internal.md) 
 
-### [Age~Tournaisian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.protect.md) 
+### #is_/same_as :: [Age~Tournaisian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.protect.md) 
 
-### [Age~Tournaisian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.private.md) 
+### #is_/same_as :: [Age~Tournaisian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.private.md) 
 
-### [Age~Tournaisian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.personal.md) 
+### #is_/same_as :: [Age~Tournaisian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.personal.md) 
 
-### [Age~Tournaisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.secret.md)
+### #is_/same_as :: [Age~Tournaisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.secret.md)
 

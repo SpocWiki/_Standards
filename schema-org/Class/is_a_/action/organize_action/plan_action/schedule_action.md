@@ -51,17 +51,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [schedule_action](/_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.md) 
+### #is_/same_as :: [schedule_action](/_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.md) 
 
-### [schedule_action.public](/_public/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.public.md) 
+### #is_/same_as :: [schedule_action.public](/_public/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.public.md) 
 
-### [schedule_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal.md) 
+### #is_/same_as :: [schedule_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal.md) 
 
-### [schedule_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.protect.md) 
+### #is_/same_as :: [schedule_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.protect.md) 
 
-### [schedule_action.private](/_private/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.private.md) 
+### #is_/same_as :: [schedule_action.private](/_private/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.private.md) 
 
-### [schedule_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.personal.md) 
+### #is_/same_as :: [schedule_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.personal.md) 
 
-### [schedule_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.secret.md)
+### #is_/same_as :: [schedule_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.secret.md)
 

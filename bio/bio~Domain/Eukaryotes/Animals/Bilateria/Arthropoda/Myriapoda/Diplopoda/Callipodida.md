@@ -49,21 +49,19 @@ title: Callipodida
 	-   *Sinocallipodidae*
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Callipodida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.md) 
+### #is_/same_as :: [Callipodida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.md) 
 
-### [Callipodida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.public.md) 
+### #is_/same_as :: [Callipodida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.public.md) 
 
-### [Callipodida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.internal.md) 
+### #is_/same_as :: [Callipodida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.internal.md) 
 
-### [Callipodida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.protect.md) 
+### #is_/same_as :: [Callipodida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.protect.md) 
 
-### [Callipodida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.private.md) 
+### #is_/same_as :: [Callipodida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.private.md) 
 
-### [Callipodida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.personal.md) 
+### #is_/same_as :: [Callipodida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.personal.md) 
 
-### [Callipodida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.secret.md)
+### #is_/same_as :: [Callipodida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.secret.md)
 

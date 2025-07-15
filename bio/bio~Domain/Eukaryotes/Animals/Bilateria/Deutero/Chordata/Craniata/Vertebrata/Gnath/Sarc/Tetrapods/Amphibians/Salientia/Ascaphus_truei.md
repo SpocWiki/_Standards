@@ -159,20 +159,19 @@ sister-groups.
   Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ascaphus_truei](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.md) 
+### #is_/same_as :: [Ascaphus_truei](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.md) 
 
-### [Ascaphus_truei.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.public.md) 
+### #is_/same_as :: [Ascaphus_truei.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.public.md) 
 
-### [Ascaphus_truei.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.internal.md) 
+### #is_/same_as :: [Ascaphus_truei.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.internal.md) 
 
-### [Ascaphus_truei.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.protect.md) 
+### #is_/same_as :: [Ascaphus_truei.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.protect.md) 
 
-### [Ascaphus_truei.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.private.md) 
+### #is_/same_as :: [Ascaphus_truei.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.private.md) 
 
-### [Ascaphus_truei.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.personal.md) 
+### #is_/same_as :: [Ascaphus_truei.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.personal.md) 
 
-### [Ascaphus_truei.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.secret.md)
+### #is_/same_as :: [Ascaphus_truei.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Ascaphus_truei.secret.md)
 

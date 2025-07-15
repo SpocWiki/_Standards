@@ -47,17 +47,17 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 ## Confidential Links & Embeds: 
 
-### [infectious](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.md) 
+### #is_/same_as :: [infectious](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.md) 
 
-### [infectious.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.public.md) 
+### #is_/same_as :: [infectious.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.public.md) 
 
-### [infectious.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.internal.md) 
+### #is_/same_as :: [infectious.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.internal.md) 
 
-### [infectious.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.protect.md) 
+### #is_/same_as :: [infectious.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.protect.md) 
 
-### [infectious.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.private.md) 
+### #is_/same_as :: [infectious.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.private.md) 
 
-### [infectious.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.personal.md) 
+### #is_/same_as :: [infectious.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.personal.md) 
 
-### [infectious.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.secret.md)
+### #is_/same_as :: [infectious.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.secret.md)
 

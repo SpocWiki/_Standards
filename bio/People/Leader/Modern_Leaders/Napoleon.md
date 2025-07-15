@@ -285,21 +285,19 @@ Iconclass_notation: "61B2(NAPOLEONE I)"
 > [Wikipedia](https://en.wikipedia.org/wiki/Napoleon)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Napoleon](/_Standards/bio/People/Leader/Modern_Leaders/Napoleon.md) 
+### #is_/same_as :: [Napoleon](/_Standards/bio/People/Leader/Modern_Leaders/Napoleon.md) 
 
-### [Napoleon.public](/_public/bio/People/Leader/Modern_Leaders/Napoleon.public.md) 
+### #is_/same_as :: [Napoleon.public](/_public/bio/People/Leader/Modern_Leaders/Napoleon.public.md) 
 
-### [Napoleon.internal](/_internal/bio/People/Leader/Modern_Leaders/Napoleon.internal.md) 
+### #is_/same_as :: [Napoleon.internal](/_internal/bio/People/Leader/Modern_Leaders/Napoleon.internal.md) 
 
-### [Napoleon.protect](/_protect/bio/People/Leader/Modern_Leaders/Napoleon.protect.md) 
+### #is_/same_as :: [Napoleon.protect](/_protect/bio/People/Leader/Modern_Leaders/Napoleon.protect.md) 
 
-### [Napoleon.private](/_private/bio/People/Leader/Modern_Leaders/Napoleon.private.md) 
+### #is_/same_as :: [Napoleon.private](/_private/bio/People/Leader/Modern_Leaders/Napoleon.private.md) 
 
-### [Napoleon.personal](/_personal/bio/People/Leader/Modern_Leaders/Napoleon.personal.md) 
+### #is_/same_as :: [Napoleon.personal](/_personal/bio/People/Leader/Modern_Leaders/Napoleon.personal.md) 
 
-### [Napoleon.secret](/_secret/bio/People/Leader/Modern_Leaders/Napoleon.secret.md)
+### #is_/same_as :: [Napoleon.secret](/_secret/bio/People/Leader/Modern_Leaders/Napoleon.secret.md)
 

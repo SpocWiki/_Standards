@@ -35,17 +35,17 @@ A restaurant.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Restaurant](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.md) 
+### #is_/same_as :: [FileClass~Restaurant](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.md) 
 
-### [FileClass~Restaurant.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.public.md) 
+### #is_/same_as :: [FileClass~Restaurant.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.public.md) 
 
-### [FileClass~Restaurant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.internal.md) 
+### #is_/same_as :: [FileClass~Restaurant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.internal.md) 
 
-### [FileClass~Restaurant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.protect.md) 
+### #is_/same_as :: [FileClass~Restaurant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.protect.md) 
 
-### [FileClass~Restaurant.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.private.md) 
+### #is_/same_as :: [FileClass~Restaurant.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.private.md) 
 
-### [FileClass~Restaurant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.personal.md) 
+### #is_/same_as :: [FileClass~Restaurant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.personal.md) 
 
-### [FileClass~Restaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.secret.md)
+### #is_/same_as :: [FileClass~Restaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~Restaurant.secret.md)
 

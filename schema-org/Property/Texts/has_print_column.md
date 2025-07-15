@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_print_column](/_Standards/schema-org/Property/Texts/has_print_column.md) 
+### #is_/same_as :: [has_print_column](/_Standards/schema-org/Property/Texts/has_print_column.md) 
 
-### [has_print_column.public](/_public/schema-org/Property/Texts/has_print_column.public.md) 
+### #is_/same_as :: [has_print_column.public](/_public/schema-org/Property/Texts/has_print_column.public.md) 
 
-### [has_print_column.internal](/_internal/schema-org/Property/Texts/has_print_column.internal.md) 
+### #is_/same_as :: [has_print_column.internal](/_internal/schema-org/Property/Texts/has_print_column.internal.md) 
 
-### [has_print_column.protect](/_protect/schema-org/Property/Texts/has_print_column.protect.md) 
+### #is_/same_as :: [has_print_column.protect](/_protect/schema-org/Property/Texts/has_print_column.protect.md) 
 
-### [has_print_column.private](/_private/schema-org/Property/Texts/has_print_column.private.md) 
+### #is_/same_as :: [has_print_column.private](/_private/schema-org/Property/Texts/has_print_column.private.md) 
 
-### [has_print_column.personal](/_personal/schema-org/Property/Texts/has_print_column.personal.md) 
+### #is_/same_as :: [has_print_column.personal](/_personal/schema-org/Property/Texts/has_print_column.personal.md) 
 
-### [has_print_column.secret](/_secret/schema-org/Property/Texts/has_print_column.secret.md)
+### #is_/same_as :: [has_print_column.secret](/_secret/schema-org/Property/Texts/has_print_column.secret.md)
 

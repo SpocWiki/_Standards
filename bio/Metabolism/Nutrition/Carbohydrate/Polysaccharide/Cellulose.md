@@ -94,24 +94,19 @@ CosIng_number: 32480
 > [Wikipedia](https://en.wikipedia.org/wiki/Cellulose)
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Cellulose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.md) 
+### #is_/same_as :: [Cellulose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.md) 
 
-### [Cellulose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public.md) 
+### #is_/same_as :: [Cellulose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public.md) 
 
-### [Cellulose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.internal.md) 
+### #is_/same_as :: [Cellulose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.internal.md) 
 
-### [Cellulose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.protect.md) 
+### #is_/same_as :: [Cellulose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.protect.md) 
 
-### [Cellulose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.private.md) 
+### #is_/same_as :: [Cellulose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.private.md) 
 
-### [Cellulose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.personal.md) 
+### #is_/same_as :: [Cellulose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.personal.md) 
 
-### [Cellulose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.secret.md)
+### #is_/same_as :: [Cellulose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.secret.md)
 

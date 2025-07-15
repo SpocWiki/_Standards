@@ -70,17 +70,17 @@ PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TaxiReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.md) 
+### #is_/same_as :: [FileClass~TaxiReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.md) 
 
-### [FileClass~TaxiReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.public.md) 
+### #is_/same_as :: [FileClass~TaxiReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.public.md) 
 
-### [FileClass~TaxiReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.internal.md) 
+### #is_/same_as :: [FileClass~TaxiReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.internal.md) 
 
-### [FileClass~TaxiReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.protect.md) 
+### #is_/same_as :: [FileClass~TaxiReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.protect.md) 
 
-### [FileClass~TaxiReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.private.md) 
+### #is_/same_as :: [FileClass~TaxiReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.private.md) 
 
-### [FileClass~TaxiReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.personal.md) 
+### #is_/same_as :: [FileClass~TaxiReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.personal.md) 
 
-### [FileClass~TaxiReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.secret.md)
+### #is_/same_as :: [FileClass~TaxiReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TaxiReservation.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_proficiency_level](/_Standards/schema-org/Property/Texts/has_proficiency_level.md) 
+### #is_/same_as :: [has_proficiency_level](/_Standards/schema-org/Property/Texts/has_proficiency_level.md) 
 
-### [has_proficiency_level.public](/_public/schema-org/Property/Texts/has_proficiency_level.public.md) 
+### #is_/same_as :: [has_proficiency_level.public](/_public/schema-org/Property/Texts/has_proficiency_level.public.md) 
 
-### [has_proficiency_level.internal](/_internal/schema-org/Property/Texts/has_proficiency_level.internal.md) 
+### #is_/same_as :: [has_proficiency_level.internal](/_internal/schema-org/Property/Texts/has_proficiency_level.internal.md) 
 
-### [has_proficiency_level.protect](/_protect/schema-org/Property/Texts/has_proficiency_level.protect.md) 
+### #is_/same_as :: [has_proficiency_level.protect](/_protect/schema-org/Property/Texts/has_proficiency_level.protect.md) 
 
-### [has_proficiency_level.private](/_private/schema-org/Property/Texts/has_proficiency_level.private.md) 
+### #is_/same_as :: [has_proficiency_level.private](/_private/schema-org/Property/Texts/has_proficiency_level.private.md) 
 
-### [has_proficiency_level.personal](/_personal/schema-org/Property/Texts/has_proficiency_level.personal.md) 
+### #is_/same_as :: [has_proficiency_level.personal](/_personal/schema-org/Property/Texts/has_proficiency_level.personal.md) 
 
-### [has_proficiency_level.secret](/_secret/schema-org/Property/Texts/has_proficiency_level.secret.md)
+### #is_/same_as :: [has_proficiency_level.secret](/_secret/schema-org/Property/Texts/has_proficiency_level.secret.md)
 

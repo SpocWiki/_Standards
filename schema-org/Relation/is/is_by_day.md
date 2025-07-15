@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_by_day](/_Standards/schema-org/Relation/is/is_by_day.md) 
+### #is_/same_as :: [is_by_day](/_Standards/schema-org/Relation/is/is_by_day.md) 
 
-### [is_by_day.public](/_public/schema-org/Relation/is/is_by_day.public.md) 
+### #is_/same_as :: [is_by_day.public](/_public/schema-org/Relation/is/is_by_day.public.md) 
 
-### [is_by_day.internal](/_internal/schema-org/Relation/is/is_by_day.internal.md) 
+### #is_/same_as :: [is_by_day.internal](/_internal/schema-org/Relation/is/is_by_day.internal.md) 
 
-### [is_by_day.protect](/_protect/schema-org/Relation/is/is_by_day.protect.md) 
+### #is_/same_as :: [is_by_day.protect](/_protect/schema-org/Relation/is/is_by_day.protect.md) 
 
-### [is_by_day.private](/_private/schema-org/Relation/is/is_by_day.private.md) 
+### #is_/same_as :: [is_by_day.private](/_private/schema-org/Relation/is/is_by_day.private.md) 
 
-### [is_by_day.personal](/_personal/schema-org/Relation/is/is_by_day.personal.md) 
+### #is_/same_as :: [is_by_day.personal](/_personal/schema-org/Relation/is/is_by_day.personal.md) 
 
-### [is_by_day.secret](/_secret/schema-org/Relation/is/is_by_day.secret.md)
+### #is_/same_as :: [is_by_day.secret](/_secret/schema-org/Relation/is/is_by_day.secret.md)
 

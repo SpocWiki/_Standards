@@ -47,17 +47,17 @@ A specific object or file containing a Legislation. Note that the same Legislati
 
 ## Confidential Links & Embeds: 
 
-### [legislation_object](/_Standards/schema-org/Class/is_a_/creative_work/legislation/legislation_object.md) 
+### #is_/same_as :: [legislation_object](/_Standards/schema-org/Class/is_a_/creative_work/legislation/legislation_object.md) 
 
-### [legislation_object.public](/_public/schema-org/Class/is_a_/creative_work/legislation/legislation_object.public.md) 
+### #is_/same_as :: [legislation_object.public](/_public/schema-org/Class/is_a_/creative_work/legislation/legislation_object.public.md) 
 
-### [legislation_object.internal](/_internal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.internal.md) 
+### #is_/same_as :: [legislation_object.internal](/_internal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.internal.md) 
 
-### [legislation_object.protect](/_protect/schema-org/Class/is_a_/creative_work/legislation/legislation_object.protect.md) 
+### #is_/same_as :: [legislation_object.protect](/_protect/schema-org/Class/is_a_/creative_work/legislation/legislation_object.protect.md) 
 
-### [legislation_object.private](/_private/schema-org/Class/is_a_/creative_work/legislation/legislation_object.private.md) 
+### #is_/same_as :: [legislation_object.private](/_private/schema-org/Class/is_a_/creative_work/legislation/legislation_object.private.md) 
 
-### [legislation_object.personal](/_personal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.personal.md) 
+### #is_/same_as :: [legislation_object.personal](/_personal/schema-org/Class/is_a_/creative_work/legislation/legislation_object.personal.md) 
 
-### [legislation_object.secret](/_secret/schema-org/Class/is_a_/creative_work/legislation/legislation_object.secret.md)
+### #is_/same_as :: [legislation_object.secret](/_secret/schema-org/Class/is_a_/creative_work/legislation/legislation_object.secret.md)
 

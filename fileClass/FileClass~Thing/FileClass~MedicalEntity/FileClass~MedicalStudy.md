@@ -84,17 +84,17 @@ StudySubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.md) 
+### #is_/same_as :: [FileClass~MedicalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.md) 
 
-### [FileClass~MedicalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.public.md) 
+### #is_/same_as :: [FileClass~MedicalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.public.md) 
 
-### [FileClass~MedicalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.internal.md) 
+### #is_/same_as :: [FileClass~MedicalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.internal.md) 
 
-### [FileClass~MedicalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.protect.md) 
+### #is_/same_as :: [FileClass~MedicalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.protect.md) 
 
-### [FileClass~MedicalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.private.md) 
+### #is_/same_as :: [FileClass~MedicalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.private.md) 
 
-### [FileClass~MedicalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.personal.md) 
+### #is_/same_as :: [FileClass~MedicalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.personal.md) 
 
-### [FileClass~MedicalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.secret.md)
+### #is_/same_as :: [FileClass~MedicalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.secret.md)
 

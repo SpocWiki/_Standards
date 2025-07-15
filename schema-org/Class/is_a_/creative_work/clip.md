@@ -47,17 +47,17 @@ A short TV or radio program or a segment/part of a program.
 
 ## Confidential Links & Embeds: 
 
-### [clip](/_Standards/schema-org/Class/is_a_/creative_work/clip.md) 
+### #is_/same_as :: [clip](/_Standards/schema-org/Class/is_a_/creative_work/clip.md) 
 
-### [clip.public](/_public/schema-org/Class/is_a_/creative_work/clip.public.md) 
+### #is_/same_as :: [clip.public](/_public/schema-org/Class/is_a_/creative_work/clip.public.md) 
 
-### [clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip.internal.md) 
+### #is_/same_as :: [clip.internal](/_internal/schema-org/Class/is_a_/creative_work/clip.internal.md) 
 
-### [clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip.protect.md) 
+### #is_/same_as :: [clip.protect](/_protect/schema-org/Class/is_a_/creative_work/clip.protect.md) 
 
-### [clip.private](/_private/schema-org/Class/is_a_/creative_work/clip.private.md) 
+### #is_/same_as :: [clip.private](/_private/schema-org/Class/is_a_/creative_work/clip.private.md) 
 
-### [clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip.personal.md) 
+### #is_/same_as :: [clip.personal](/_personal/schema-org/Class/is_a_/creative_work/clip.personal.md) 
 
-### [clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip.secret.md)
+### #is_/same_as :: [clip.secret](/_secret/schema-org/Class/is_a_/creative_work/clip.secret.md)
 

@@ -47,17 +47,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [category_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code.md) 
+### #is_/same_as :: [category_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code.md) 
 
-### [category_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code.public.md) 
+### #is_/same_as :: [category_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code.public.md) 
 
-### [category_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code.internal.md) 
+### #is_/same_as :: [category_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code.internal.md) 
 
-### [category_code.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term/category_code.protect.md) 
+### #is_/same_as :: [category_code.protect](/_protect/schema-org/Class/is_a_/Intangible/defined_term/category_code.protect.md) 
 
-### [category_code.private](/_private/schema-org/Class/is_a_/Intangible/defined_term/category_code.private.md) 
+### #is_/same_as :: [category_code.private](/_private/schema-org/Class/is_a_/Intangible/defined_term/category_code.private.md) 
 
-### [category_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code.personal.md) 
+### #is_/same_as :: [category_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code.personal.md) 
 
-### [category_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code.secret.md)
+### #is_/same_as :: [category_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code.secret.md)
 

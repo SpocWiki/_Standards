@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_proprietary](/_Standards/schema-org/Property/Flags/is_proprietary.md) 
+### #is_/same_as :: [is_proprietary](/_Standards/schema-org/Property/Flags/is_proprietary.md) 
 
-### [is_proprietary.public](/_public/schema-org/Property/Flags/is_proprietary.public.md) 
+### #is_/same_as :: [is_proprietary.public](/_public/schema-org/Property/Flags/is_proprietary.public.md) 
 
-### [is_proprietary.internal](/_internal/schema-org/Property/Flags/is_proprietary.internal.md) 
+### #is_/same_as :: [is_proprietary.internal](/_internal/schema-org/Property/Flags/is_proprietary.internal.md) 
 
-### [is_proprietary.protect](/_protect/schema-org/Property/Flags/is_proprietary.protect.md) 
+### #is_/same_as :: [is_proprietary.protect](/_protect/schema-org/Property/Flags/is_proprietary.protect.md) 
 
-### [is_proprietary.private](/_private/schema-org/Property/Flags/is_proprietary.private.md) 
+### #is_/same_as :: [is_proprietary.private](/_private/schema-org/Property/Flags/is_proprietary.private.md) 
 
-### [is_proprietary.personal](/_personal/schema-org/Property/Flags/is_proprietary.personal.md) 
+### #is_/same_as :: [is_proprietary.personal](/_personal/schema-org/Property/Flags/is_proprietary.personal.md) 
 
-### [is_proprietary.secret](/_secret/schema-org/Property/Flags/is_proprietary.secret.md)
+### #is_/same_as :: [is_proprietary.secret](/_secret/schema-org/Property/Flags/is_proprietary.secret.md)
 

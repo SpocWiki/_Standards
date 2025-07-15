@@ -47,20 +47,19 @@ Drawing by Josée Soucie. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca
 ![Speleonectes_ondinae](Speleonectes_ondinae.gif)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Remipedia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.md) 
+### #is_/same_as :: [Remipedia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.md) 
 
-### [Remipedia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.public.md) 
+### #is_/same_as :: [Remipedia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.public.md) 
 
-### [Remipedia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.internal.md) 
+### #is_/same_as :: [Remipedia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.internal.md) 
 
-### [Remipedia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.protect.md) 
+### #is_/same_as :: [Remipedia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.protect.md) 
 
-### [Remipedia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.private.md) 
+### #is_/same_as :: [Remipedia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.private.md) 
 
-### [Remipedia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.personal.md) 
+### #is_/same_as :: [Remipedia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.personal.md) 
 
-### [Remipedia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.secret.md)
+### #is_/same_as :: [Remipedia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Remipedia.secret.md)
 

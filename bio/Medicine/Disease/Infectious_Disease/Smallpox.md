@@ -18,21 +18,19 @@ has_id_wikidata: Q12214
 > [Wikipedia](https://en.wikipedia.org/wiki/Smallpox)  
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Smallpox](/_Standards/bio/Medicine/Disease/Infectious_Disease/Smallpox.md) 
+### #is_/same_as :: [Smallpox](/_Standards/bio/Medicine/Disease/Infectious_Disease/Smallpox.md) 
 
-### [Smallpox.public](/_public/bio/Medicine/Disease/Infectious_Disease/Smallpox.public.md) 
+### #is_/same_as :: [Smallpox.public](/_public/bio/Medicine/Disease/Infectious_Disease/Smallpox.public.md) 
 
-### [Smallpox.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Smallpox.internal.md) 
+### #is_/same_as :: [Smallpox.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Smallpox.internal.md) 
 
-### [Smallpox.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Smallpox.protect.md) 
+### #is_/same_as :: [Smallpox.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Smallpox.protect.md) 
 
-### [Smallpox.private](/_private/bio/Medicine/Disease/Infectious_Disease/Smallpox.private.md) 
+### #is_/same_as :: [Smallpox.private](/_private/bio/Medicine/Disease/Infectious_Disease/Smallpox.private.md) 
 
-### [Smallpox.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Smallpox.personal.md) 
+### #is_/same_as :: [Smallpox.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Smallpox.personal.md) 
 
-### [Smallpox.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Smallpox.secret.md)
+### #is_/same_as :: [Smallpox.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Smallpox.secret.md)
 

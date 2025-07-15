@@ -45,17 +45,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [sunday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.md) 
+### #is_/same_as :: [sunday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.md) 
 
-### [sunday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.public.md) 
+### #is_/same_as :: [sunday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.public.md) 
 
-### [sunday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.internal.md) 
+### #is_/same_as :: [sunday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.internal.md) 
 
-### [sunday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.protect.md) 
+### #is_/same_as :: [sunday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.protect.md) 
 
-### [sunday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.private.md) 
+### #is_/same_as :: [sunday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.private.md) 
 
-### [sunday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.personal.md) 
+### #is_/same_as :: [sunday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.personal.md) 
 
-### [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md)
+### #is_/same_as :: [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md)
 

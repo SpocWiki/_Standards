@@ -110,22 +110,19 @@ has_time_started: 1506-04-28T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/St.%20Peter's%20Basilica) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [St.Peter's_Basilica](/_Standards/Technology/Construction/Architecture/St.Peter's_Basilica.md) 
+### #is_/same_as :: [St.Peter's_Basilica](/_Standards/Technology/Construction/Architecture/St.Peter's_Basilica.md) 
 
-### [St.Peter's_Basilica.public](/_public/Technology/Construction/Architecture/St.Peter's_Basilica.public.md) 
+### #is_/same_as :: [St.Peter's_Basilica.public](/_public/Technology/Construction/Architecture/St.Peter's_Basilica.public.md) 
 
-### [St.Peter's_Basilica.internal](/_internal/Technology/Construction/Architecture/St.Peter's_Basilica.internal.md) 
+### #is_/same_as :: [St.Peter's_Basilica.internal](/_internal/Technology/Construction/Architecture/St.Peter's_Basilica.internal.md) 
 
-### [St.Peter's_Basilica.protect](/_protect/Technology/Construction/Architecture/St.Peter's_Basilica.protect.md) 
+### #is_/same_as :: [St.Peter's_Basilica.protect](/_protect/Technology/Construction/Architecture/St.Peter's_Basilica.protect.md) 
 
-### [St.Peter's_Basilica.private](/_private/Technology/Construction/Architecture/St.Peter's_Basilica.private.md) 
+### #is_/same_as :: [St.Peter's_Basilica.private](/_private/Technology/Construction/Architecture/St.Peter's_Basilica.private.md) 
 
-### [St.Peter's_Basilica.personal](/_personal/Technology/Construction/Architecture/St.Peter's_Basilica.personal.md) 
+### #is_/same_as :: [St.Peter's_Basilica.personal](/_personal/Technology/Construction/Architecture/St.Peter's_Basilica.personal.md) 
 
-### [St.Peter's_Basilica.secret](/_secret/Technology/Construction/Architecture/St.Peter's_Basilica.secret.md)
+### #is_/same_as :: [St.Peter's_Basilica.secret](/_secret/Technology/Construction/Architecture/St.Peter's_Basilica.secret.md)
 

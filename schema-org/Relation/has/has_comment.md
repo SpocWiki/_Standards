@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_comment](/_Standards/schema-org/Relation/has/has_comment.md) 
+### #is_/same_as :: [has_comment](/_Standards/schema-org/Relation/has/has_comment.md) 
 
-### [has_comment.public](/_public/schema-org/Relation/has/has_comment.public.md) 
+### #is_/same_as :: [has_comment.public](/_public/schema-org/Relation/has/has_comment.public.md) 
 
-### [has_comment.internal](/_internal/schema-org/Relation/has/has_comment.internal.md) 
+### #is_/same_as :: [has_comment.internal](/_internal/schema-org/Relation/has/has_comment.internal.md) 
 
-### [has_comment.protect](/_protect/schema-org/Relation/has/has_comment.protect.md) 
+### #is_/same_as :: [has_comment.protect](/_protect/schema-org/Relation/has/has_comment.protect.md) 
 
-### [has_comment.private](/_private/schema-org/Relation/has/has_comment.private.md) 
+### #is_/same_as :: [has_comment.private](/_private/schema-org/Relation/has/has_comment.private.md) 
 
-### [has_comment.personal](/_personal/schema-org/Relation/has/has_comment.personal.md) 
+### #is_/same_as :: [has_comment.personal](/_personal/schema-org/Relation/has/has_comment.personal.md) 
 
-### [has_comment.secret](/_secret/schema-org/Relation/has/has_comment.secret.md)
+### #is_/same_as :: [has_comment.secret](/_secret/schema-org/Relation/has/has_comment.secret.md)
 

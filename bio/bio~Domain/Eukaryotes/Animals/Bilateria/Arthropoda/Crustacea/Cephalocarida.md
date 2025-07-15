@@ -66,21 +66,19 @@ Creator           J. Soucie
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Cephalocarida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.md) 
+### #is_/same_as :: [Cephalocarida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.md) 
 
-### [Cephalocarida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.public.md) 
+### #is_/same_as :: [Cephalocarida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.public.md) 
 
-### [Cephalocarida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.internal.md) 
+### #is_/same_as :: [Cephalocarida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.internal.md) 
 
-### [Cephalocarida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.protect.md) 
+### #is_/same_as :: [Cephalocarida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.protect.md) 
 
-### [Cephalocarida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.private.md) 
+### #is_/same_as :: [Cephalocarida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.private.md) 
 
-### [Cephalocarida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.personal.md) 
+### #is_/same_as :: [Cephalocarida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.personal.md) 
 
-### [Cephalocarida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.secret.md)
+### #is_/same_as :: [Cephalocarida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Cephalocarida.secret.md)
 

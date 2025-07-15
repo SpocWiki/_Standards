@@ -40,17 +40,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TakeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.md) 
+### #is_/same_as :: [FileClass~TakeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.md) 
 
-### [FileClass~TakeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.public.md) 
+### #is_/same_as :: [FileClass~TakeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.public.md) 
 
-### [FileClass~TakeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.internal.md) 
+### #is_/same_as :: [FileClass~TakeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.internal.md) 
 
-### [FileClass~TakeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.protect.md) 
+### #is_/same_as :: [FileClass~TakeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.protect.md) 
 
-### [FileClass~TakeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.private.md) 
+### #is_/same_as :: [FileClass~TakeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.private.md) 
 
-### [FileClass~TakeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.personal.md) 
+### #is_/same_as :: [FileClass~TakeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.personal.md) 
 
-### [FileClass~TakeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.secret.md)
+### #is_/same_as :: [FileClass~TakeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~TakeAction.secret.md)
 

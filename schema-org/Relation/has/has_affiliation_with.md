@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_affiliation_with](/_Standards/schema-org/Relation/has/has_affiliation_with.md) 
+### #is_/same_as :: [has_affiliation_with](/_Standards/schema-org/Relation/has/has_affiliation_with.md) 
 
-### [has_affiliation_with.public](/_public/schema-org/Relation/has/has_affiliation_with.public.md) 
+### #is_/same_as :: [has_affiliation_with.public](/_public/schema-org/Relation/has/has_affiliation_with.public.md) 
 
-### [has_affiliation_with.internal](/_internal/schema-org/Relation/has/has_affiliation_with.internal.md) 
+### #is_/same_as :: [has_affiliation_with.internal](/_internal/schema-org/Relation/has/has_affiliation_with.internal.md) 
 
-### [has_affiliation_with.protect](/_protect/schema-org/Relation/has/has_affiliation_with.protect.md) 
+### #is_/same_as :: [has_affiliation_with.protect](/_protect/schema-org/Relation/has/has_affiliation_with.protect.md) 
 
-### [has_affiliation_with.private](/_private/schema-org/Relation/has/has_affiliation_with.private.md) 
+### #is_/same_as :: [has_affiliation_with.private](/_private/schema-org/Relation/has/has_affiliation_with.private.md) 
 
-### [has_affiliation_with.personal](/_personal/schema-org/Relation/has/has_affiliation_with.personal.md) 
+### #is_/same_as :: [has_affiliation_with.personal](/_personal/schema-org/Relation/has/has_affiliation_with.personal.md) 
 
-### [has_affiliation_with.secret](/_secret/schema-org/Relation/has/has_affiliation_with.secret.md)
+### #is_/same_as :: [has_affiliation_with.secret](/_secret/schema-org/Relation/has/has_affiliation_with.secret.md)
 

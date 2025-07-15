@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_pagination](/_Standards/schema-org/Property/Texts/has_pagination.md) 
+### #is_/same_as :: [has_pagination](/_Standards/schema-org/Property/Texts/has_pagination.md) 
 
-### [has_pagination.public](/_public/schema-org/Property/Texts/has_pagination.public.md) 
+### #is_/same_as :: [has_pagination.public](/_public/schema-org/Property/Texts/has_pagination.public.md) 
 
-### [has_pagination.internal](/_internal/schema-org/Property/Texts/has_pagination.internal.md) 
+### #is_/same_as :: [has_pagination.internal](/_internal/schema-org/Property/Texts/has_pagination.internal.md) 
 
-### [has_pagination.protect](/_protect/schema-org/Property/Texts/has_pagination.protect.md) 
+### #is_/same_as :: [has_pagination.protect](/_protect/schema-org/Property/Texts/has_pagination.protect.md) 
 
-### [has_pagination.private](/_private/schema-org/Property/Texts/has_pagination.private.md) 
+### #is_/same_as :: [has_pagination.private](/_private/schema-org/Property/Texts/has_pagination.private.md) 
 
-### [has_pagination.personal](/_personal/schema-org/Property/Texts/has_pagination.personal.md) 
+### #is_/same_as :: [has_pagination.personal](/_personal/schema-org/Property/Texts/has_pagination.personal.md) 
 
-### [has_pagination.secret](/_secret/schema-org/Property/Texts/has_pagination.secret.md)
+### #is_/same_as :: [has_pagination.secret](/_secret/schema-org/Property/Texts/has_pagination.secret.md)
 

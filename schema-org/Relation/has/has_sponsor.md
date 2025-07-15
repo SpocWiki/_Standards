@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_sponsor](/_Standards/schema-org/Relation/has/has_sponsor.md) 
+### #is_/same_as :: [has_sponsor](/_Standards/schema-org/Relation/has/has_sponsor.md) 
 
-### [has_sponsor.public](/_public/schema-org/Relation/has/has_sponsor.public.md) 
+### #is_/same_as :: [has_sponsor.public](/_public/schema-org/Relation/has/has_sponsor.public.md) 
 
-### [has_sponsor.internal](/_internal/schema-org/Relation/has/has_sponsor.internal.md) 
+### #is_/same_as :: [has_sponsor.internal](/_internal/schema-org/Relation/has/has_sponsor.internal.md) 
 
-### [has_sponsor.protect](/_protect/schema-org/Relation/has/has_sponsor.protect.md) 
+### #is_/same_as :: [has_sponsor.protect](/_protect/schema-org/Relation/has/has_sponsor.protect.md) 
 
-### [has_sponsor.private](/_private/schema-org/Relation/has/has_sponsor.private.md) 
+### #is_/same_as :: [has_sponsor.private](/_private/schema-org/Relation/has/has_sponsor.private.md) 
 
-### [has_sponsor.personal](/_personal/schema-org/Relation/has/has_sponsor.personal.md) 
+### #is_/same_as :: [has_sponsor.personal](/_personal/schema-org/Relation/has/has_sponsor.personal.md) 
 
-### [has_sponsor.secret](/_secret/schema-org/Relation/has/has_sponsor.secret.md)
+### #is_/same_as :: [has_sponsor.secret](/_secret/schema-org/Relation/has/has_sponsor.secret.md)
 

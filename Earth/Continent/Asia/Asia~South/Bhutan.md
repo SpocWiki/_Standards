@@ -444,17 +444,17 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 
 ## Confidential Links & Embeds: 
 
-### [Bhutan](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan.md) 
+### #is_/same_as :: [Bhutan](/_Standards/Earth/Continent/Asia/Asia~South/Bhutan.md) 
 
-### [Bhutan.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan.public.md) 
+### #is_/same_as :: [Bhutan.public](/_public/Earth/Continent/Asia/Asia~South/Bhutan.public.md) 
 
-### [Bhutan.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan.internal.md) 
+### #is_/same_as :: [Bhutan.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan.internal.md) 
 
-### [Bhutan.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan.protect.md) 
+### #is_/same_as :: [Bhutan.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan.protect.md) 
 
-### [Bhutan.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan.private.md) 
+### #is_/same_as :: [Bhutan.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan.private.md) 
 
-### [Bhutan.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan.personal.md) 
+### #is_/same_as :: [Bhutan.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan.personal.md) 
 
-### [Bhutan.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret.md)
+### #is_/same_as :: [Bhutan.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret.md)
 

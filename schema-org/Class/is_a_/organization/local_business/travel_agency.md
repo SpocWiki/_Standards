@@ -45,17 +45,17 @@ A travel agency.
 
 ## Confidential Links & Embeds: 
 
-### [travel_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/travel_agency.md) 
+### #is_/same_as :: [travel_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/travel_agency.md) 
 
-### [travel_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/travel_agency.public.md) 
+### #is_/same_as :: [travel_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/travel_agency.public.md) 
 
-### [travel_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/travel_agency.internal.md) 
+### #is_/same_as :: [travel_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/travel_agency.internal.md) 
 
-### [travel_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/travel_agency.protect.md) 
+### #is_/same_as :: [travel_agency.protect](/_protect/schema-org/Class/is_a_/organization/local_business/travel_agency.protect.md) 
 
-### [travel_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/travel_agency.private.md) 
+### #is_/same_as :: [travel_agency.private](/_private/schema-org/Class/is_a_/organization/local_business/travel_agency.private.md) 
 
-### [travel_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/travel_agency.personal.md) 
+### #is_/same_as :: [travel_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/travel_agency.personal.md) 
 
-### [travel_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/travel_agency.secret.md)
+### #is_/same_as :: [travel_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/travel_agency.secret.md)
 

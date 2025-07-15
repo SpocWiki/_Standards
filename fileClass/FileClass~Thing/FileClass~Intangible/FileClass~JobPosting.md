@@ -407,17 +407,17 @@ WorkHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~JobPosting](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.md) 
+### #is_/same_as :: [FileClass~JobPosting](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.md) 
 
-### [FileClass~JobPosting.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.public.md) 
+### #is_/same_as :: [FileClass~JobPosting.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.public.md) 
 
-### [FileClass~JobPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.internal.md) 
+### #is_/same_as :: [FileClass~JobPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.internal.md) 
 
-### [FileClass~JobPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.protect.md) 
+### #is_/same_as :: [FileClass~JobPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.protect.md) 
 
-### [FileClass~JobPosting.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.private.md) 
+### #is_/same_as :: [FileClass~JobPosting.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.private.md) 
 
-### [FileClass~JobPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.personal.md) 
+### #is_/same_as :: [FileClass~JobPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.personal.md) 
 
-### [FileClass~JobPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret.md)
+### #is_/same_as :: [FileClass~JobPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret.md)
 

@@ -45,17 +45,17 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 ## Confidential Links & Embeds: 
 
-### [medical_risk_calculator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md) 
+### #is_/same_as :: [medical_risk_calculator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md) 
 
-### [medical_risk_calculator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.public.md) 
+### #is_/same_as :: [medical_risk_calculator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.public.md) 
 
-### [medical_risk_calculator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.internal.md) 
+### #is_/same_as :: [medical_risk_calculator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.internal.md) 
 
-### [medical_risk_calculator.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.protect.md) 
+### #is_/same_as :: [medical_risk_calculator.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.protect.md) 
 
-### [medical_risk_calculator.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.private.md) 
+### #is_/same_as :: [medical_risk_calculator.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.private.md) 
 
-### [medical_risk_calculator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.personal.md) 
+### #is_/same_as :: [medical_risk_calculator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.personal.md) 
 
-### [medical_risk_calculator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md)
+### #is_/same_as :: [medical_risk_calculator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md)
 

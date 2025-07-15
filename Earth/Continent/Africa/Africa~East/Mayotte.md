@@ -133,17 +133,17 @@ Capital :: [[Mamoudzou]]
 
 ## Confidential Links & Embeds: 
 
-### [Mayotte](/_Standards/Earth/Continent/Africa/Africa~East/Mayotte.md) 
+### #is_/same_as :: [Mayotte](/_Standards/Earth/Continent/Africa/Africa~East/Mayotte.md) 
 
-### [Mayotte.public](/_public/Earth/Continent/Africa/Africa~East/Mayotte.public.md) 
+### #is_/same_as :: [Mayotte.public](/_public/Earth/Continent/Africa/Africa~East/Mayotte.public.md) 
 
-### [Mayotte.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte.internal.md) 
+### #is_/same_as :: [Mayotte.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte.internal.md) 
 
-### [Mayotte.protect](/_protect/Earth/Continent/Africa/Africa~East/Mayotte.protect.md) 
+### #is_/same_as :: [Mayotte.protect](/_protect/Earth/Continent/Africa/Africa~East/Mayotte.protect.md) 
 
-### [Mayotte.private](/_private/Earth/Continent/Africa/Africa~East/Mayotte.private.md) 
+### #is_/same_as :: [Mayotte.private](/_private/Earth/Continent/Africa/Africa~East/Mayotte.private.md) 
 
-### [Mayotte.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte.personal.md) 
+### #is_/same_as :: [Mayotte.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte.personal.md) 
 
-### [Mayotte.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret.md)
+### #is_/same_as :: [Mayotte.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret.md)
 

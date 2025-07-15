@@ -16,22 +16,19 @@ has_id_wikidata: Q1420
 > [Wikipedia](https://en.wikipedia.org/wiki/Car) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Automobile](/_Standards/Technology/Transport/Road_Transport/Automobile.md) 
+### #is_/same_as :: [Automobile](/_Standards/Technology/Transport/Road_Transport/Automobile.md) 
 
-### [Automobile.public](/_public/Technology/Transport/Road_Transport/Automobile.public.md) 
+### #is_/same_as :: [Automobile.public](/_public/Technology/Transport/Road_Transport/Automobile.public.md) 
 
-### [Automobile.internal](/_internal/Technology/Transport/Road_Transport/Automobile.internal.md) 
+### #is_/same_as :: [Automobile.internal](/_internal/Technology/Transport/Road_Transport/Automobile.internal.md) 
 
-### [Automobile.protect](/_protect/Technology/Transport/Road_Transport/Automobile.protect.md) 
+### #is_/same_as :: [Automobile.protect](/_protect/Technology/Transport/Road_Transport/Automobile.protect.md) 
 
-### [Automobile.private](/_private/Technology/Transport/Road_Transport/Automobile.private.md) 
+### #is_/same_as :: [Automobile.private](/_private/Technology/Transport/Road_Transport/Automobile.private.md) 
 
-### [Automobile.personal](/_personal/Technology/Transport/Road_Transport/Automobile.personal.md) 
+### #is_/same_as :: [Automobile.personal](/_personal/Technology/Transport/Road_Transport/Automobile.personal.md) 
 
-### [Automobile.secret](/_secret/Technology/Transport/Road_Transport/Automobile.secret.md)
+### #is_/same_as :: [Automobile.secret](/_secret/Technology/Transport/Road_Transport/Automobile.secret.md)
 

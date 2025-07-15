@@ -43,17 +43,17 @@ Any specific branch of medical science or practice. Medical specialities include
 
 ## Confidential Links & Embeds: 
 
-### [medical_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.md) 
+### #is_/same_as :: [medical_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.md) 
 
-### [medical_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.public.md) 
+### #is_/same_as :: [medical_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.public.md) 
 
-### [medical_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.internal.md) 
+### #is_/same_as :: [medical_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.internal.md) 
 
-### [medical_specialty.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.protect.md) 
+### #is_/same_as :: [medical_specialty.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.protect.md) 
 
-### [medical_specialty.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.private.md) 
+### #is_/same_as :: [medical_specialty.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.private.md) 
 
-### [medical_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.personal.md) 
+### #is_/same_as :: [medical_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.personal.md) 
 
-### [medical_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.secret.md)
+### #is_/same_as :: [medical_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.secret.md)
 

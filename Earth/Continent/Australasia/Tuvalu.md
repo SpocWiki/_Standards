@@ -359,17 +359,17 @@ Capital :: [[Funafuti]]
 
 ## Confidential Links & Embeds: 
 
-### [Tuvalu](/_Standards/Earth/Continent/Australasia/Tuvalu.md) 
+### #is_/same_as :: [Tuvalu](/_Standards/Earth/Continent/Australasia/Tuvalu.md) 
 
-### [Tuvalu.public](/_public/Earth/Continent/Australasia/Tuvalu.public.md) 
+### #is_/same_as :: [Tuvalu.public](/_public/Earth/Continent/Australasia/Tuvalu.public.md) 
 
-### [Tuvalu.internal](/_internal/Earth/Continent/Australasia/Tuvalu.internal.md) 
+### #is_/same_as :: [Tuvalu.internal](/_internal/Earth/Continent/Australasia/Tuvalu.internal.md) 
 
-### [Tuvalu.protect](/_protect/Earth/Continent/Australasia/Tuvalu.protect.md) 
+### #is_/same_as :: [Tuvalu.protect](/_protect/Earth/Continent/Australasia/Tuvalu.protect.md) 
 
-### [Tuvalu.private](/_private/Earth/Continent/Australasia/Tuvalu.private.md) 
+### #is_/same_as :: [Tuvalu.private](/_private/Earth/Continent/Australasia/Tuvalu.private.md) 
 
-### [Tuvalu.personal](/_personal/Earth/Continent/Australasia/Tuvalu.personal.md) 
+### #is_/same_as :: [Tuvalu.personal](/_personal/Earth/Continent/Australasia/Tuvalu.personal.md) 
 
-### [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md)
+### #is_/same_as :: [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md)
 

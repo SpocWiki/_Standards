@@ -55,17 +55,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_place_elevation_meters](/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters.md) 
+### #is_/same_as :: [has_place_elevation_meters](/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters.md) 
 
-### [has_place_elevation_meters.public](/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public.md) 
+### #is_/same_as :: [has_place_elevation_meters.public](/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public.md) 
 
-### [has_place_elevation_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal.md) 
+### #is_/same_as :: [has_place_elevation_meters.internal](/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal.md) 
 
-### [has_place_elevation_meters.protect](/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect.md) 
+### #is_/same_as :: [has_place_elevation_meters.protect](/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect.md) 
 
-### [has_place_elevation_meters.private](/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private.md) 
+### #is_/same_as :: [has_place_elevation_meters.private](/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private.md) 
 
-### [has_place_elevation_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal.md) 
+### #is_/same_as :: [has_place_elevation_meters.personal](/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal.md) 
 
-### [has_place_elevation_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret.md)
+### #is_/same_as :: [has_place_elevation_meters.secret](/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret.md)
 

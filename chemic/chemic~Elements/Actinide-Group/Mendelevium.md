@@ -104,17 +104,17 @@ time_of_discovery_or_invention: "1955"
 
 ## Confidential Links & Embeds: 
 
-### [Mendelevium](/_Standards/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
+### #is_/same_as :: [Mendelevium](/_Standards/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
 
-### [Mendelevium.public](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.public.md) 
+### #is_/same_as :: [Mendelevium.public](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.public.md) 
 
-### [Mendelevium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Mendelevium.internal.md) 
+### #is_/same_as :: [Mendelevium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Mendelevium.internal.md) 
 
-### [Mendelevium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Mendelevium.protect.md) 
+### #is_/same_as :: [Mendelevium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Mendelevium.protect.md) 
 
-### [Mendelevium.private](/_private/chemic/chemic~Elements/Actinide-Group/Mendelevium.private.md) 
+### #is_/same_as :: [Mendelevium.private](/_private/chemic/chemic~Elements/Actinide-Group/Mendelevium.private.md) 
 
-### [Mendelevium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Mendelevium.personal.md) 
+### #is_/same_as :: [Mendelevium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Mendelevium.personal.md) 
 
-### [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md)
+### #is_/same_as :: [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md)
 

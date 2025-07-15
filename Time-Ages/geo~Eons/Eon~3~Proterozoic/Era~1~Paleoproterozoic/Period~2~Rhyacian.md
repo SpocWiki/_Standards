@@ -60,17 +60,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~2~Rhyacian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.md) 
+### #is_/same_as :: [Period~2~Rhyacian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.md) 
 
-### [Period~2~Rhyacian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.public.md) 
+### #is_/same_as :: [Period~2~Rhyacian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.public.md) 
 
-### [Period~2~Rhyacian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.internal.md) 
+### #is_/same_as :: [Period~2~Rhyacian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.internal.md) 
 
-### [Period~2~Rhyacian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.protect.md) 
+### #is_/same_as :: [Period~2~Rhyacian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.protect.md) 
 
-### [Period~2~Rhyacian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.private.md) 
+### #is_/same_as :: [Period~2~Rhyacian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.private.md) 
 
-### [Period~2~Rhyacian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.personal.md) 
+### #is_/same_as :: [Period~2~Rhyacian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.personal.md) 
 
-### [Period~2~Rhyacian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret.md)
+### #is_/same_as :: [Period~2~Rhyacian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret.md)
 

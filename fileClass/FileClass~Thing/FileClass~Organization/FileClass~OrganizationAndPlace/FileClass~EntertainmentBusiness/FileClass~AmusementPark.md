@@ -35,17 +35,17 @@ An amusement park.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AmusementPark](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.md) 
+### #is_/same_as :: [FileClass~AmusementPark](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.md) 
 
-### [FileClass~AmusementPark.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.public.md) 
+### #is_/same_as :: [FileClass~AmusementPark.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.public.md) 
 
-### [FileClass~AmusementPark.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.internal.md) 
+### #is_/same_as :: [FileClass~AmusementPark.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.internal.md) 
 
-### [FileClass~AmusementPark.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.protect.md) 
+### #is_/same_as :: [FileClass~AmusementPark.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.protect.md) 
 
-### [FileClass~AmusementPark.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.private.md) 
+### #is_/same_as :: [FileClass~AmusementPark.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.private.md) 
 
-### [FileClass~AmusementPark.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.personal.md) 
+### #is_/same_as :: [FileClass~AmusementPark.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.personal.md) 
 
-### [FileClass~AmusementPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.secret.md)
+### #is_/same_as :: [FileClass~AmusementPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.secret.md)
 

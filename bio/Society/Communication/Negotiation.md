@@ -43,24 +43,19 @@ Commons_category: Negotiation
 > [Wikipedia](https://en.wikipedia.org/wiki/Negotiation) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Negotiation](/_Standards/bio/Society/Communication/Negotiation.md) 
+### #is_/same_as :: [Negotiation](/_Standards/bio/Society/Communication/Negotiation.md) 
 
-### [Negotiation.public](/_public/bio/Society/Communication/Negotiation.public.md) 
+### #is_/same_as :: [Negotiation.public](/_public/bio/Society/Communication/Negotiation.public.md) 
 
-### [Negotiation.internal](/_internal/bio/Society/Communication/Negotiation.internal.md) 
+### #is_/same_as :: [Negotiation.internal](/_internal/bio/Society/Communication/Negotiation.internal.md) 
 
-### [Negotiation.protect](/_protect/bio/Society/Communication/Negotiation.protect.md) 
+### #is_/same_as :: [Negotiation.protect](/_protect/bio/Society/Communication/Negotiation.protect.md) 
 
-### [Negotiation.private](/_private/bio/Society/Communication/Negotiation.private.md) 
+### #is_/same_as :: [Negotiation.private](/_private/bio/Society/Communication/Negotiation.private.md) 
 
-### [Negotiation.personal](/_personal/bio/Society/Communication/Negotiation.personal.md) 
+### #is_/same_as :: [Negotiation.personal](/_personal/bio/Society/Communication/Negotiation.personal.md) 
 
-### [Negotiation.secret](/_secret/bio/Society/Communication/Negotiation.secret.md)
+### #is_/same_as :: [Negotiation.secret](/_secret/bio/Society/Communication/Negotiation.secret.md)
 

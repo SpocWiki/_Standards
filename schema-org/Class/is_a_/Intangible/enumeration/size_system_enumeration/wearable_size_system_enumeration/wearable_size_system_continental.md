@@ -49,17 +49,17 @@ Continental size system for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_system_continental](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.md) 
+### #is_/same_as :: [wearable_size_system_continental](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.md) 
 
-### [wearable_size_system_continental.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.public.md) 
+### #is_/same_as :: [wearable_size_system_continental.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.public.md) 
 
-### [wearable_size_system_continental.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.internal.md) 
+### #is_/same_as :: [wearable_size_system_continental.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.internal.md) 
 
-### [wearable_size_system_continental.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.protect.md) 
+### #is_/same_as :: [wearable_size_system_continental.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.protect.md) 
 
-### [wearable_size_system_continental.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.private.md) 
+### #is_/same_as :: [wearable_size_system_continental.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.private.md) 
 
-### [wearable_size_system_continental.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.personal.md) 
+### #is_/same_as :: [wearable_size_system_continental.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.personal.md) 
 
-### [wearable_size_system_continental.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.secret.md)
+### #is_/same_as :: [wearable_size_system_continental.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.secret.md)
 

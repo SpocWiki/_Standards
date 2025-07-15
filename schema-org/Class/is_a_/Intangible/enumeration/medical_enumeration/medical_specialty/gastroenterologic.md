@@ -47,17 +47,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### [gastroenterologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.md) 
+### #is_/same_as :: [gastroenterologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.md) 
 
-### [gastroenterologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.public.md) 
+### #is_/same_as :: [gastroenterologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.public.md) 
 
-### [gastroenterologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.internal.md) 
+### #is_/same_as :: [gastroenterologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.internal.md) 
 
-### [gastroenterologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.protect.md) 
+### #is_/same_as :: [gastroenterologic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.protect.md) 
 
-### [gastroenterologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.private.md) 
+### #is_/same_as :: [gastroenterologic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.private.md) 
 
-### [gastroenterologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.personal.md) 
+### #is_/same_as :: [gastroenterologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.personal.md) 
 
-### [gastroenterologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.secret.md)
+### #is_/same_as :: [gastroenterologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.secret.md)
 

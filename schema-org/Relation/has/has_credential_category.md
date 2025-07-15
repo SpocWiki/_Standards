@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_credential_category](/_Standards/schema-org/Relation/has/has_credential_category.md) 
+### #is_/same_as :: [has_credential_category](/_Standards/schema-org/Relation/has/has_credential_category.md) 
 
-### [has_credential_category.public](/_public/schema-org/Relation/has/has_credential_category.public.md) 
+### #is_/same_as :: [has_credential_category.public](/_public/schema-org/Relation/has/has_credential_category.public.md) 
 
-### [has_credential_category.internal](/_internal/schema-org/Relation/has/has_credential_category.internal.md) 
+### #is_/same_as :: [has_credential_category.internal](/_internal/schema-org/Relation/has/has_credential_category.internal.md) 
 
-### [has_credential_category.protect](/_protect/schema-org/Relation/has/has_credential_category.protect.md) 
+### #is_/same_as :: [has_credential_category.protect](/_protect/schema-org/Relation/has/has_credential_category.protect.md) 
 
-### [has_credential_category.private](/_private/schema-org/Relation/has/has_credential_category.private.md) 
+### #is_/same_as :: [has_credential_category.private](/_private/schema-org/Relation/has/has_credential_category.private.md) 
 
-### [has_credential_category.personal](/_personal/schema-org/Relation/has/has_credential_category.personal.md) 
+### #is_/same_as :: [has_credential_category.personal](/_personal/schema-org/Relation/has/has_credential_category.personal.md) 
 
-### [has_credential_category.secret](/_secret/schema-org/Relation/has/has_credential_category.secret.md)
+### #is_/same_as :: [has_credential_category.secret](/_secret/schema-org/Relation/has/has_credential_category.secret.md)
 

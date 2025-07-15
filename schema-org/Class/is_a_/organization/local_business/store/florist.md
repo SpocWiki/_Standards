@@ -45,17 +45,17 @@ A florist.
 
 ## Confidential Links & Embeds: 
 
-### [florist](/_Standards/schema-org/Class/is_a_/organization/local_business/store/florist.md) 
+### #is_/same_as :: [florist](/_Standards/schema-org/Class/is_a_/organization/local_business/store/florist.md) 
 
-### [florist.public](/_public/schema-org/Class/is_a_/organization/local_business/store/florist.public.md) 
+### #is_/same_as :: [florist.public](/_public/schema-org/Class/is_a_/organization/local_business/store/florist.public.md) 
 
-### [florist.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/florist.internal.md) 
+### #is_/same_as :: [florist.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/florist.internal.md) 
 
-### [florist.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/florist.protect.md) 
+### #is_/same_as :: [florist.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/florist.protect.md) 
 
-### [florist.private](/_private/schema-org/Class/is_a_/organization/local_business/store/florist.private.md) 
+### #is_/same_as :: [florist.private](/_private/schema-org/Class/is_a_/organization/local_business/store/florist.private.md) 
 
-### [florist.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/florist.personal.md) 
+### #is_/same_as :: [florist.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/florist.personal.md) 
 
-### [florist.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/florist.secret.md)
+### #is_/same_as :: [florist.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/florist.secret.md)
 

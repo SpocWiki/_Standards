@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_estimated_cost](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost.md) 
+### #is_/same_as :: [has_value_for_estimated_cost](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost.md) 
 
-### [has_value_for_estimated_cost.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public.md) 
+### #is_/same_as :: [has_value_for_estimated_cost.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public.md) 
 
-### [has_value_for_estimated_cost.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal.md) 
+### #is_/same_as :: [has_value_for_estimated_cost.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal.md) 
 
-### [has_value_for_estimated_cost.protect](/_protect/schema-org/Property/has_value_for/has_value_for_estimated_cost.protect.md) 
+### #is_/same_as :: [has_value_for_estimated_cost.protect](/_protect/schema-org/Property/has_value_for/has_value_for_estimated_cost.protect.md) 
 
-### [has_value_for_estimated_cost.private](/_private/schema-org/Property/has_value_for/has_value_for_estimated_cost.private.md) 
+### #is_/same_as :: [has_value_for_estimated_cost.private](/_private/schema-org/Property/has_value_for/has_value_for_estimated_cost.private.md) 
 
-### [has_value_for_estimated_cost.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal.md) 
+### #is_/same_as :: [has_value_for_estimated_cost.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal.md) 
 
-### [has_value_for_estimated_cost.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret.md)
+### #is_/same_as :: [has_value_for_estimated_cost.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret.md)
 

@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_software_requirements](/_Standards/schema-org/Property/Texts/has_software_requirements.md) 
+### #is_/same_as :: [has_software_requirements](/_Standards/schema-org/Property/Texts/has_software_requirements.md) 
 
-### [has_software_requirements.public](/_public/schema-org/Property/Texts/has_software_requirements.public.md) 
+### #is_/same_as :: [has_software_requirements.public](/_public/schema-org/Property/Texts/has_software_requirements.public.md) 
 
-### [has_software_requirements.internal](/_internal/schema-org/Property/Texts/has_software_requirements.internal.md) 
+### #is_/same_as :: [has_software_requirements.internal](/_internal/schema-org/Property/Texts/has_software_requirements.internal.md) 
 
-### [has_software_requirements.protect](/_protect/schema-org/Property/Texts/has_software_requirements.protect.md) 
+### #is_/same_as :: [has_software_requirements.protect](/_protect/schema-org/Property/Texts/has_software_requirements.protect.md) 
 
-### [has_software_requirements.private](/_private/schema-org/Property/Texts/has_software_requirements.private.md) 
+### #is_/same_as :: [has_software_requirements.private](/_private/schema-org/Property/Texts/has_software_requirements.private.md) 
 
-### [has_software_requirements.personal](/_personal/schema-org/Property/Texts/has_software_requirements.personal.md) 
+### #is_/same_as :: [has_software_requirements.personal](/_personal/schema-org/Property/Texts/has_software_requirements.personal.md) 
 
-### [has_software_requirements.secret](/_secret/schema-org/Property/Texts/has_software_requirements.secret.md)
+### #is_/same_as :: [has_software_requirements.secret](/_secret/schema-org/Property/Texts/has_software_requirements.secret.md)
 

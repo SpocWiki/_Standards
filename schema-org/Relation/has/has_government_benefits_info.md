@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_government_benefits_info](/_Standards/schema-org/Relation/has/has_government_benefits_info.md) 
+### #is_/same_as :: [has_government_benefits_info](/_Standards/schema-org/Relation/has/has_government_benefits_info.md) 
 
-### [has_government_benefits_info.public](/_public/schema-org/Relation/has/has_government_benefits_info.public.md) 
+### #is_/same_as :: [has_government_benefits_info.public](/_public/schema-org/Relation/has/has_government_benefits_info.public.md) 
 
-### [has_government_benefits_info.internal](/_internal/schema-org/Relation/has/has_government_benefits_info.internal.md) 
+### #is_/same_as :: [has_government_benefits_info.internal](/_internal/schema-org/Relation/has/has_government_benefits_info.internal.md) 
 
-### [has_government_benefits_info.protect](/_protect/schema-org/Relation/has/has_government_benefits_info.protect.md) 
+### #is_/same_as :: [has_government_benefits_info.protect](/_protect/schema-org/Relation/has/has_government_benefits_info.protect.md) 
 
-### [has_government_benefits_info.private](/_private/schema-org/Relation/has/has_government_benefits_info.private.md) 
+### #is_/same_as :: [has_government_benefits_info.private](/_private/schema-org/Relation/has/has_government_benefits_info.private.md) 
 
-### [has_government_benefits_info.personal](/_personal/schema-org/Relation/has/has_government_benefits_info.personal.md) 
+### #is_/same_as :: [has_government_benefits_info.personal](/_personal/schema-org/Relation/has/has_government_benefits_info.personal.md) 
 
-### [has_government_benefits_info.secret](/_secret/schema-org/Relation/has/has_government_benefits_info.secret.md)
+### #is_/same_as :: [has_government_benefits_info.secret](/_secret/schema-org/Relation/has/has_government_benefits_info.secret.md)
 

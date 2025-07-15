@@ -45,17 +45,17 @@ An embassy.
 
 ## Confidential Links & Embeds: 
 
-### [embassy](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.md) 
+### #is_/same_as :: [embassy](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.md) 
 
-### [embassy.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.public.md) 
+### #is_/same_as :: [embassy.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.public.md) 
 
-### [embassy.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.internal.md) 
+### #is_/same_as :: [embassy.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.internal.md) 
 
-### [embassy.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.protect.md) 
+### #is_/same_as :: [embassy.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.protect.md) 
 
-### [embassy.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.private.md) 
+### #is_/same_as :: [embassy.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.private.md) 
 
-### [embassy.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.personal.md) 
+### #is_/same_as :: [embassy.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.personal.md) 
 
-### [embassy.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.secret.md)
+### #is_/same_as :: [embassy.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.secret.md)
 

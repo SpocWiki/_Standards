@@ -41,17 +41,17 @@ markerFolder: ./Ngatpang/
 
 ## Confidential Links & Embeds: 
 
-### [Ngatpang](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.md) 
+### #is_/same_as :: [Ngatpang](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.md) 
 
-### [Ngatpang.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.public.md) 
+### #is_/same_as :: [Ngatpang.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.public.md) 
 
-### [Ngatpang.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal.md) 
+### #is_/same_as :: [Ngatpang.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal.md) 
 
-### [Ngatpang.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.protect.md) 
+### #is_/same_as :: [Ngatpang.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.protect.md) 
 
-### [Ngatpang.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.private.md) 
+### #is_/same_as :: [Ngatpang.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.private.md) 
 
-### [Ngatpang.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal.md) 
+### #is_/same_as :: [Ngatpang.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal.md) 
 
-### [Ngatpang.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret.md)
+### #is_/same_as :: [Ngatpang.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret.md)
 

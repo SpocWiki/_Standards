@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_dose_schedule](/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule.md) 
+### #is_/same_as :: [has_value_for_dose_schedule](/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule.md) 
 
-### [has_value_for_dose_schedule.public](/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public.md) 
+### #is_/same_as :: [has_value_for_dose_schedule.public](/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public.md) 
 
-### [has_value_for_dose_schedule.internal](/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal.md) 
+### #is_/same_as :: [has_value_for_dose_schedule.internal](/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal.md) 
 
-### [has_value_for_dose_schedule.protect](/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect.md) 
+### #is_/same_as :: [has_value_for_dose_schedule.protect](/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect.md) 
 
-### [has_value_for_dose_schedule.private](/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private.md) 
+### #is_/same_as :: [has_value_for_dose_schedule.private](/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private.md) 
 
-### [has_value_for_dose_schedule.personal](/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal.md) 
+### #is_/same_as :: [has_value_for_dose_schedule.personal](/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal.md) 
 
-### [has_value_for_dose_schedule.secret](/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret.md)
+### #is_/same_as :: [has_value_for_dose_schedule.secret](/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret.md)
 

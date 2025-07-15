@@ -44,17 +44,17 @@ A person (alive, dead, undead, or fictional).
 
 ## Confidential Links & Embeds: 
 
-### [person](/_Standards/schema-org/Class/is_a_/person.md) 
+### #is_/same_as :: [person](/_Standards/schema-org/Class/is_a_/person.md) 
 
-### [person.public](/_public/schema-org/Class/is_a_/person.public.md) 
+### #is_/same_as :: [person.public](/_public/schema-org/Class/is_a_/person.public.md) 
 
-### [person.internal](/_internal/schema-org/Class/is_a_/person.internal.md) 
+### #is_/same_as :: [person.internal](/_internal/schema-org/Class/is_a_/person.internal.md) 
 
-### [person.protect](/_protect/schema-org/Class/is_a_/person.protect.md) 
+### #is_/same_as :: [person.protect](/_protect/schema-org/Class/is_a_/person.protect.md) 
 
-### [person.private](/_private/schema-org/Class/is_a_/person.private.md) 
+### #is_/same_as :: [person.private](/_private/schema-org/Class/is_a_/person.private.md) 
 
-### [person.personal](/_personal/schema-org/Class/is_a_/person.personal.md) 
+### #is_/same_as :: [person.personal](/_personal/schema-org/Class/is_a_/person.personal.md) 
 
-### [person.secret](/_secret/schema-org/Class/is_a_/person.secret.md)
+### #is_/same_as :: [person.secret](/_secret/schema-org/Class/is_a_/person.secret.md)
 

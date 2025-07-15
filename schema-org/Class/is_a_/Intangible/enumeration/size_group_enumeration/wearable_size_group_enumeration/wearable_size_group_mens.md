@@ -49,17 +49,17 @@ Size group "Mens" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_mens](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.md) 
+### #is_/same_as :: [wearable_size_group_mens](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.md) 
 
-### [wearable_size_group_mens.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.public.md) 
+### #is_/same_as :: [wearable_size_group_mens.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.public.md) 
 
-### [wearable_size_group_mens.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.internal.md) 
+### #is_/same_as :: [wearable_size_group_mens.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.internal.md) 
 
-### [wearable_size_group_mens.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.protect.md) 
+### #is_/same_as :: [wearable_size_group_mens.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.protect.md) 
 
-### [wearable_size_group_mens.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.private.md) 
+### #is_/same_as :: [wearable_size_group_mens.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.private.md) 
 
-### [wearable_size_group_mens.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.personal.md) 
+### #is_/same_as :: [wearable_size_group_mens.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.personal.md) 
 
-### [wearable_size_group_mens.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.secret.md)
+### #is_/same_as :: [wearable_size_group_mens.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.secret.md)
 

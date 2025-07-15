@@ -448,17 +448,17 @@ Capital :: [[Reykjavik]]
 
 ## Confidential Links & Embeds: 
 
-### [Iceland](/_Standards/Earth/Continent/Europe/Europe~North/Iceland.md) 
+### #is_/same_as :: [Iceland](/_Standards/Earth/Continent/Europe/Europe~North/Iceland.md) 
 
-### [Iceland.public](/_public/Earth/Continent/Europe/Europe~North/Iceland.public.md) 
+### #is_/same_as :: [Iceland.public](/_public/Earth/Continent/Europe/Europe~North/Iceland.public.md) 
 
-### [Iceland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland.internal.md) 
+### #is_/same_as :: [Iceland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland.internal.md) 
 
-### [Iceland.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland.protect.md) 
+### #is_/same_as :: [Iceland.protect](/_protect/Earth/Continent/Europe/Europe~North/Iceland.protect.md) 
 
-### [Iceland.private](/_private/Earth/Continent/Europe/Europe~North/Iceland.private.md) 
+### #is_/same_as :: [Iceland.private](/_private/Earth/Continent/Europe/Europe~North/Iceland.private.md) 
 
-### [Iceland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal.md) 
+### #is_/same_as :: [Iceland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal.md) 
 
-### [Iceland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret.md)
+### #is_/same_as :: [Iceland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret.md)
 

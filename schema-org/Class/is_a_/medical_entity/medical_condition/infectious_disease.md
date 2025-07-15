@@ -45,17 +45,17 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 ## Confidential Links & Embeds: 
 
-### [infectious_disease](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.md) 
+### #is_/same_as :: [infectious_disease](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.md) 
 
-### [infectious_disease.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.public.md) 
+### #is_/same_as :: [infectious_disease.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.public.md) 
 
-### [infectious_disease.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal.md) 
+### #is_/same_as :: [infectious_disease.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal.md) 
 
-### [infectious_disease.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.protect.md) 
+### #is_/same_as :: [infectious_disease.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.protect.md) 
 
-### [infectious_disease.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.private.md) 
+### #is_/same_as :: [infectious_disease.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.private.md) 
 
-### [infectious_disease.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.personal.md) 
+### #is_/same_as :: [infectious_disease.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.personal.md) 
 
-### [infectious_disease.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.secret.md)
+### #is_/same_as :: [infectious_disease.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.secret.md)
 

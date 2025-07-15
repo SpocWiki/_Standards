@@ -67,17 +67,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Simón_Bolívar](/_Standards/Earth/Continent/America~South/Simón_Bolívar.md) 
+### #is_/same_as :: [Simón_Bolívar](/_Standards/Earth/Continent/America~South/Simón_Bolívar.md) 
 
-### [Simón_Bolívar.public](/_public/Earth/Continent/America~South/Simón_Bolívar.public.md) 
+### #is_/same_as :: [Simón_Bolívar.public](/_public/Earth/Continent/America~South/Simón_Bolívar.public.md) 
 
-### [Simón_Bolívar.internal](/_internal/Earth/Continent/America~South/Simón_Bolívar.internal.md) 
+### #is_/same_as :: [Simón_Bolívar.internal](/_internal/Earth/Continent/America~South/Simón_Bolívar.internal.md) 
 
-### [Simón_Bolívar.protect](/_protect/Earth/Continent/America~South/Simón_Bolívar.protect.md) 
+### #is_/same_as :: [Simón_Bolívar.protect](/_protect/Earth/Continent/America~South/Simón_Bolívar.protect.md) 
 
-### [Simón_Bolívar.private](/_private/Earth/Continent/America~South/Simón_Bolívar.private.md) 
+### #is_/same_as :: [Simón_Bolívar.private](/_private/Earth/Continent/America~South/Simón_Bolívar.private.md) 
 
-### [Simón_Bolívar.personal](/_personal/Earth/Continent/America~South/Simón_Bolívar.personal.md) 
+### #is_/same_as :: [Simón_Bolívar.personal](/_personal/Earth/Continent/America~South/Simón_Bolívar.personal.md) 
 
-### [Simón_Bolívar.secret](/_secret/Earth/Continent/America~South/Simón_Bolívar.secret.md)
+### #is_/same_as :: [Simón_Bolívar.secret](/_secret/Earth/Continent/America~South/Simón_Bolívar.secret.md)
 

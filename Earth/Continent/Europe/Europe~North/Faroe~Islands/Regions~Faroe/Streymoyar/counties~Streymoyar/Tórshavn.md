@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tórshavn](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.md) 
+### #is_/same_as :: [Tórshavn](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.md) 
 
-### [Tórshavn.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.public.md) 
+### #is_/same_as :: [Tórshavn.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.public.md) 
 
-### [Tórshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.internal.md) 
+### #is_/same_as :: [Tórshavn.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.internal.md) 
 
-### [Tórshavn.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.protect.md) 
+### #is_/same_as :: [Tórshavn.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.protect.md) 
 
-### [Tórshavn.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.private.md) 
+### #is_/same_as :: [Tórshavn.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.private.md) 
 
-### [Tórshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.personal.md) 
+### #is_/same_as :: [Tórshavn.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.personal.md) 
 
-### [Tórshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.secret.md)
+### #is_/same_as :: [Tórshavn.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands/Regions~Faroe/Streymoyar/counties~Streymoyar/Tórshavn.secret.md)
 

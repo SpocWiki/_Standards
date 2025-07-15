@@ -91,21 +91,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Olkhon%20Island%20and
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Baikal) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Lake_Baikal](/_Standards/Earth/Continent/Asia/Asia~Central/Lake_Baikal.md) 
+### #is_/same_as :: [Lake_Baikal](/_Standards/Earth/Continent/Asia/Asia~Central/Lake_Baikal.md) 
 
-### [Lake_Baikal.public](/_public/Earth/Continent/Asia/Asia~Central/Lake_Baikal.public.md) 
+### #is_/same_as :: [Lake_Baikal.public](/_public/Earth/Continent/Asia/Asia~Central/Lake_Baikal.public.md) 
 
-### [Lake_Baikal.internal](/_internal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.internal.md) 
+### #is_/same_as :: [Lake_Baikal.internal](/_internal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.internal.md) 
 
-### [Lake_Baikal.protect](/_protect/Earth/Continent/Asia/Asia~Central/Lake_Baikal.protect.md) 
+### #is_/same_as :: [Lake_Baikal.protect](/_protect/Earth/Continent/Asia/Asia~Central/Lake_Baikal.protect.md) 
 
-### [Lake_Baikal.private](/_private/Earth/Continent/Asia/Asia~Central/Lake_Baikal.private.md) 
+### #is_/same_as :: [Lake_Baikal.private](/_private/Earth/Continent/Asia/Asia~Central/Lake_Baikal.private.md) 
 
-### [Lake_Baikal.personal](/_personal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.personal.md) 
+### #is_/same_as :: [Lake_Baikal.personal](/_personal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.personal.md) 
 
-### [Lake_Baikal.secret](/_secret/Earth/Continent/Asia/Asia~Central/Lake_Baikal.secret.md)
+### #is_/same_as :: [Lake_Baikal.secret](/_secret/Earth/Continent/Asia/Asia~Central/Lake_Baikal.secret.md)
 

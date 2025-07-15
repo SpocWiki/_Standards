@@ -35,17 +35,17 @@ Event type: Theater performance.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TheaterEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.md) 
+### #is_/same_as :: [FileClass~TheaterEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.md) 
 
-### [FileClass~TheaterEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.public.md) 
+### #is_/same_as :: [FileClass~TheaterEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.public.md) 
 
-### [FileClass~TheaterEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.internal.md) 
+### #is_/same_as :: [FileClass~TheaterEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.internal.md) 
 
-### [FileClass~TheaterEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.protect.md) 
+### #is_/same_as :: [FileClass~TheaterEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.protect.md) 
 
-### [FileClass~TheaterEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.private.md) 
+### #is_/same_as :: [FileClass~TheaterEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.private.md) 
 
-### [FileClass~TheaterEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.personal.md) 
+### #is_/same_as :: [FileClass~TheaterEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.personal.md) 
 
-### [FileClass~TheaterEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.secret.md)
+### #is_/same_as :: [FileClass~TheaterEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.secret.md)
 

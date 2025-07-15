@@ -47,17 +47,17 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 
 ## Confidential Links & Embeds: 
 
-### [user_review](/_Standards/schema-org/Class/is_a_/creative_work/review/user_review.md) 
+### #is_/same_as :: [user_review](/_Standards/schema-org/Class/is_a_/creative_work/review/user_review.md) 
 
-### [user_review.public](/_public/schema-org/Class/is_a_/creative_work/review/user_review.public.md) 
+### #is_/same_as :: [user_review.public](/_public/schema-org/Class/is_a_/creative_work/review/user_review.public.md) 
 
-### [user_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/user_review.internal.md) 
+### #is_/same_as :: [user_review.internal](/_internal/schema-org/Class/is_a_/creative_work/review/user_review.internal.md) 
 
-### [user_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/user_review.protect.md) 
+### #is_/same_as :: [user_review.protect](/_protect/schema-org/Class/is_a_/creative_work/review/user_review.protect.md) 
 
-### [user_review.private](/_private/schema-org/Class/is_a_/creative_work/review/user_review.private.md) 
+### #is_/same_as :: [user_review.private](/_private/schema-org/Class/is_a_/creative_work/review/user_review.private.md) 
 
-### [user_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/user_review.personal.md) 
+### #is_/same_as :: [user_review.personal](/_personal/schema-org/Class/is_a_/creative_work/review/user_review.personal.md) 
 
-### [user_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/user_review.secret.md)
+### #is_/same_as :: [user_review.secret](/_secret/schema-org/Class/is_a_/creative_work/review/user_review.secret.md)
 

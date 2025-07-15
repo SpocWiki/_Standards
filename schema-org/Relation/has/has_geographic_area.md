@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_geographic_area](/_Standards/schema-org/Relation/has/has_geographic_area.md) 
+### #is_/same_as :: [has_geographic_area](/_Standards/schema-org/Relation/has/has_geographic_area.md) 
 
-### [has_geographic_area.public](/_public/schema-org/Relation/has/has_geographic_area.public.md) 
+### #is_/same_as :: [has_geographic_area.public](/_public/schema-org/Relation/has/has_geographic_area.public.md) 
 
-### [has_geographic_area.internal](/_internal/schema-org/Relation/has/has_geographic_area.internal.md) 
+### #is_/same_as :: [has_geographic_area.internal](/_internal/schema-org/Relation/has/has_geographic_area.internal.md) 
 
-### [has_geographic_area.protect](/_protect/schema-org/Relation/has/has_geographic_area.protect.md) 
+### #is_/same_as :: [has_geographic_area.protect](/_protect/schema-org/Relation/has/has_geographic_area.protect.md) 
 
-### [has_geographic_area.private](/_private/schema-org/Relation/has/has_geographic_area.private.md) 
+### #is_/same_as :: [has_geographic_area.private](/_private/schema-org/Relation/has/has_geographic_area.private.md) 
 
-### [has_geographic_area.personal](/_personal/schema-org/Relation/has/has_geographic_area.personal.md) 
+### #is_/same_as :: [has_geographic_area.personal](/_personal/schema-org/Relation/has/has_geographic_area.personal.md) 
 
-### [has_geographic_area.secret](/_secret/schema-org/Relation/has/has_geographic_area.secret.md)
+### #is_/same_as :: [has_geographic_area.secret](/_secret/schema-org/Relation/has/has_geographic_area.secret.md)
 

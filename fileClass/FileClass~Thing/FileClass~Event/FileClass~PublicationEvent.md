@@ -57,17 +57,17 @@ PublishedOn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~PublicationEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.md) 
+### #is_/same_as :: [FileClass~PublicationEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.md) 
 
-### [FileClass~PublicationEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.public.md) 
+### #is_/same_as :: [FileClass~PublicationEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.public.md) 
 
-### [FileClass~PublicationEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.internal.md) 
+### #is_/same_as :: [FileClass~PublicationEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.internal.md) 
 
-### [FileClass~PublicationEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.protect.md) 
+### #is_/same_as :: [FileClass~PublicationEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.protect.md) 
 
-### [FileClass~PublicationEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.private.md) 
+### #is_/same_as :: [FileClass~PublicationEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.private.md) 
 
-### [FileClass~PublicationEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.personal.md) 
+### #is_/same_as :: [FileClass~PublicationEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.personal.md) 
 
-### [FileClass~PublicationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.secret.md)
+### #is_/same_as :: [FileClass~PublicationEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent.secret.md)
 

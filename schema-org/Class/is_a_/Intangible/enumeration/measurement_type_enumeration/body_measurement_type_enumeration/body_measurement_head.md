@@ -49,17 +49,17 @@ Maximum girth of head above the ears. Used, for example, to fit hats.
 
 ## Confidential Links & Embeds: 
 
-### [body_measurement_head](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.md) 
+### #is_/same_as :: [body_measurement_head](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.md) 
 
-### [body_measurement_head.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.public.md) 
+### #is_/same_as :: [body_measurement_head.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.public.md) 
 
-### [body_measurement_head.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.internal.md) 
+### #is_/same_as :: [body_measurement_head.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.internal.md) 
 
-### [body_measurement_head.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.protect.md) 
+### #is_/same_as :: [body_measurement_head.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.protect.md) 
 
-### [body_measurement_head.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.private.md) 
+### #is_/same_as :: [body_measurement_head.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.private.md) 
 
-### [body_measurement_head.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.personal.md) 
+### #is_/same_as :: [body_measurement_head.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.personal.md) 
 
-### [body_measurement_head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.secret.md)
+### #is_/same_as :: [body_measurement_head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_head.secret.md)
 

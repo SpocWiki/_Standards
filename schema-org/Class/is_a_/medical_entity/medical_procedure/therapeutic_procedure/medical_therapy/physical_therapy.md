@@ -45,17 +45,17 @@ A process of progressive physical care and rehabilitation aimed at improving a h
 
 ## Confidential Links & Embeds: 
 
-### [physical_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.md) 
+### #is_/same_as :: [physical_therapy](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.md) 
 
-### [physical_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.public.md) 
+### #is_/same_as :: [physical_therapy.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.public.md) 
 
-### [physical_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.internal.md) 
+### #is_/same_as :: [physical_therapy.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.internal.md) 
 
-### [physical_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.protect.md) 
+### #is_/same_as :: [physical_therapy.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.protect.md) 
 
-### [physical_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.private.md) 
+### #is_/same_as :: [physical_therapy.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.private.md) 
 
-### [physical_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.personal.md) 
+### #is_/same_as :: [physical_therapy.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.personal.md) 
 
-### [physical_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.secret.md)
+### #is_/same_as :: [physical_therapy.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/physical_therapy.secret.md)
 

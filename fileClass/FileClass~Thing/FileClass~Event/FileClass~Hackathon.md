@@ -35,17 +35,17 @@ A [hackathon](https://en.wikipedia.org/wiki/Hackathon) event.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hackathon](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.md) 
+### #is_/same_as :: [FileClass~Hackathon](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.md) 
 
-### [FileClass~Hackathon.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.public.md) 
+### #is_/same_as :: [FileClass~Hackathon.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.public.md) 
 
-### [FileClass~Hackathon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.internal.md) 
+### #is_/same_as :: [FileClass~Hackathon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.internal.md) 
 
-### [FileClass~Hackathon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.protect.md) 
+### #is_/same_as :: [FileClass~Hackathon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.protect.md) 
 
-### [FileClass~Hackathon.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.private.md) 
+### #is_/same_as :: [FileClass~Hackathon.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.private.md) 
 
-### [FileClass~Hackathon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.personal.md) 
+### #is_/same_as :: [FileClass~Hackathon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.personal.md) 
 
-### [FileClass~Hackathon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.secret.md)
+### #is_/same_as :: [FileClass~Hackathon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Hackathon.secret.md)
 

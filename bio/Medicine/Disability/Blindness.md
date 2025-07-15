@@ -67,21 +67,19 @@ Gujarati_Vishwakosh_entry: અંધાપો
 > [Wikipedia](https://en.wikipedia.org/wiki/Visual%20impairment)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Blindness](/_Standards/bio/Medicine/Disability/Blindness.md) 
+### #is_/same_as :: [Blindness](/_Standards/bio/Medicine/Disability/Blindness.md) 
 
-### [Blindness.public](/_public/bio/Medicine/Disability/Blindness.public.md) 
+### #is_/same_as :: [Blindness.public](/_public/bio/Medicine/Disability/Blindness.public.md) 
 
-### [Blindness.internal](/_internal/bio/Medicine/Disability/Blindness.internal.md) 
+### #is_/same_as :: [Blindness.internal](/_internal/bio/Medicine/Disability/Blindness.internal.md) 
 
-### [Blindness.protect](/_protect/bio/Medicine/Disability/Blindness.protect.md) 
+### #is_/same_as :: [Blindness.protect](/_protect/bio/Medicine/Disability/Blindness.protect.md) 
 
-### [Blindness.private](/_private/bio/Medicine/Disability/Blindness.private.md) 
+### #is_/same_as :: [Blindness.private](/_private/bio/Medicine/Disability/Blindness.private.md) 
 
-### [Blindness.personal](/_personal/bio/Medicine/Disability/Blindness.personal.md) 
+### #is_/same_as :: [Blindness.personal](/_personal/bio/Medicine/Disability/Blindness.personal.md) 
 
-### [Blindness.secret](/_secret/bio/Medicine/Disability/Blindness.secret.md)
+### #is_/same_as :: [Blindness.secret](/_secret/bio/Medicine/Disability/Blindness.secret.md)
 

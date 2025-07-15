@@ -63,21 +63,19 @@ Krugosvet_article: biologiya/fotosintez
 > [Wikipedia](https://en.wikipedia.org/wiki/Photosynthesis)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Photosynthesis](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.md) 
+### #is_/same_as :: [Photosynthesis](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.md) 
 
-### [Photosynthesis.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.public.md) 
+### #is_/same_as :: [Photosynthesis.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.public.md) 
 
-### [Photosynthesis.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.internal.md) 
+### #is_/same_as :: [Photosynthesis.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.internal.md) 
 
-### [Photosynthesis.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.protect.md) 
+### #is_/same_as :: [Photosynthesis.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.protect.md) 
 
-### [Photosynthesis.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.private.md) 
+### #is_/same_as :: [Photosynthesis.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.private.md) 
 
-### [Photosynthesis.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.personal.md) 
+### #is_/same_as :: [Photosynthesis.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.personal.md) 
 
-### [Photosynthesis.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.secret.md)
+### #is_/same_as :: [Photosynthesis.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Photosynthesis.secret.md)
 

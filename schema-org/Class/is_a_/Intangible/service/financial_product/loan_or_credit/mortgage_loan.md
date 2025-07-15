@@ -47,17 +47,17 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 ## Confidential Links & Embeds: 
 
-### [mortgage_loan](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.md) 
+### #is_/same_as :: [mortgage_loan](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.md) 
 
-### [mortgage_loan.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.public.md) 
+### #is_/same_as :: [mortgage_loan.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.public.md) 
 
-### [mortgage_loan.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.internal.md) 
+### #is_/same_as :: [mortgage_loan.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.internal.md) 
 
-### [mortgage_loan.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.protect.md) 
+### #is_/same_as :: [mortgage_loan.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.protect.md) 
 
-### [mortgage_loan.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.private.md) 
+### #is_/same_as :: [mortgage_loan.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.private.md) 
 
-### [mortgage_loan.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.personal.md) 
+### #is_/same_as :: [mortgage_loan.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.personal.md) 
 
-### [mortgage_loan.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.secret.md)
+### #is_/same_as :: [mortgage_loan.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit/mortgage_loan.secret.md)
 

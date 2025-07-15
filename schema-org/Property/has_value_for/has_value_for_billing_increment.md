@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_billing_increment](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment.md) 
+### #is_/same_as :: [has_value_for_billing_increment](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment.md) 
 
-### [has_value_for_billing_increment.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public.md) 
+### #is_/same_as :: [has_value_for_billing_increment.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public.md) 
 
-### [has_value_for_billing_increment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal.md) 
+### #is_/same_as :: [has_value_for_billing_increment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal.md) 
 
-### [has_value_for_billing_increment.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_increment.protect.md) 
+### #is_/same_as :: [has_value_for_billing_increment.protect](/_protect/schema-org/Property/has_value_for/has_value_for_billing_increment.protect.md) 
 
-### [has_value_for_billing_increment.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private.md) 
+### #is_/same_as :: [has_value_for_billing_increment.private](/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private.md) 
 
-### [has_value_for_billing_increment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal.md) 
+### #is_/same_as :: [has_value_for_billing_increment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal.md) 
 
-### [has_value_for_billing_increment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret.md)
+### #is_/same_as :: [has_value_for_billing_increment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret.md)
 

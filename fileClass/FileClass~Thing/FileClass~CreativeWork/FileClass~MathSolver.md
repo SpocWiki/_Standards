@@ -46,17 +46,17 @@ MathExpression:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MathSolver](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.md) 
+### #is_/same_as :: [FileClass~MathSolver](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.md) 
 
-### [FileClass~MathSolver.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.public.md) 
+### #is_/same_as :: [FileClass~MathSolver.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.public.md) 
 
-### [FileClass~MathSolver.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.internal.md) 
+### #is_/same_as :: [FileClass~MathSolver.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.internal.md) 
 
-### [FileClass~MathSolver.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.protect.md) 
+### #is_/same_as :: [FileClass~MathSolver.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.protect.md) 
 
-### [FileClass~MathSolver.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.private.md) 
+### #is_/same_as :: [FileClass~MathSolver.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.private.md) 
 
-### [FileClass~MathSolver.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.personal.md) 
+### #is_/same_as :: [FileClass~MathSolver.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.personal.md) 
 
-### [FileClass~MathSolver.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.secret.md)
+### #is_/same_as :: [FileClass~MathSolver.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MathSolver.secret.md)
 

@@ -48,22 +48,19 @@ title: Chrysiogenes arsenatis
 	- *Chrysiogenes arsenatis* 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Chrysiogenes](/_Standards/bio/bio~Domain/Bacteria/Chrysiogenes.md) 
+### #is_/same_as :: [Chrysiogenes](/_Standards/bio/bio~Domain/Bacteria/Chrysiogenes.md) 
 
-### [Chrysiogenes.public](/_public/bio/bio~Domain/Bacteria/Chrysiogenes.public.md) 
+### #is_/same_as :: [Chrysiogenes.public](/_public/bio/bio~Domain/Bacteria/Chrysiogenes.public.md) 
 
-### [Chrysiogenes.internal](/_internal/bio/bio~Domain/Bacteria/Chrysiogenes.internal.md) 
+### #is_/same_as :: [Chrysiogenes.internal](/_internal/bio/bio~Domain/Bacteria/Chrysiogenes.internal.md) 
 
-### [Chrysiogenes.protect](/_protect/bio/bio~Domain/Bacteria/Chrysiogenes.protect.md) 
+### #is_/same_as :: [Chrysiogenes.protect](/_protect/bio/bio~Domain/Bacteria/Chrysiogenes.protect.md) 
 
-### [Chrysiogenes.private](/_private/bio/bio~Domain/Bacteria/Chrysiogenes.private.md) 
+### #is_/same_as :: [Chrysiogenes.private](/_private/bio/bio~Domain/Bacteria/Chrysiogenes.private.md) 
 
-### [Chrysiogenes.personal](/_personal/bio/bio~Domain/Bacteria/Chrysiogenes.personal.md) 
+### #is_/same_as :: [Chrysiogenes.personal](/_personal/bio/bio~Domain/Bacteria/Chrysiogenes.personal.md) 
 
-### [Chrysiogenes.secret](/_secret/bio/bio~Domain/Bacteria/Chrysiogenes.secret.md)
+### #is_/same_as :: [Chrysiogenes.secret](/_secret/bio/bio~Domain/Bacteria/Chrysiogenes.secret.md)
 

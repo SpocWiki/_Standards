@@ -47,17 +47,17 @@ A house is a building or structure that has the ability to be occupied for habit
 
 ## Confidential Links & Embeds: 
 
-### [house](/_Standards/schema-org/Class/is_a_/place/accommodation/house.md) 
+### #is_/same_as :: [house](/_Standards/schema-org/Class/is_a_/place/accommodation/house.md) 
 
-### [house.public](/_public/schema-org/Class/is_a_/place/accommodation/house.public.md) 
+### #is_/same_as :: [house.public](/_public/schema-org/Class/is_a_/place/accommodation/house.public.md) 
 
-### [house.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house.internal.md) 
+### #is_/same_as :: [house.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house.internal.md) 
 
-### [house.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house.protect.md) 
+### #is_/same_as :: [house.protect](/_protect/schema-org/Class/is_a_/place/accommodation/house.protect.md) 
 
-### [house.private](/_private/schema-org/Class/is_a_/place/accommodation/house.private.md) 
+### #is_/same_as :: [house.private](/_private/schema-org/Class/is_a_/place/accommodation/house.private.md) 
 
-### [house.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house.personal.md) 
+### #is_/same_as :: [house.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house.personal.md) 
 
-### [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md)
+### #is_/same_as :: [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md)
 

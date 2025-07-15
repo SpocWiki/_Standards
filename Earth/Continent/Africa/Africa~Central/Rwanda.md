@@ -426,17 +426,17 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 ## Confidential Links & Embeds: 
 
-### [Rwanda](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda.md) 
+### #is_/same_as :: [Rwanda](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda.md) 
 
-### [Rwanda.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda.public.md) 
+### #is_/same_as :: [Rwanda.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda.public.md) 
 
-### [Rwanda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda.internal.md) 
+### #is_/same_as :: [Rwanda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda.internal.md) 
 
-### [Rwanda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda.protect.md) 
+### #is_/same_as :: [Rwanda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Rwanda.protect.md) 
 
-### [Rwanda.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda.private.md) 
+### #is_/same_as :: [Rwanda.private](/_private/Earth/Continent/Africa/Africa~Central/Rwanda.private.md) 
 
-### [Rwanda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal.md) 
+### #is_/same_as :: [Rwanda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal.md) 
 
-### [Rwanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret.md)
+### #is_/same_as :: [Rwanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret.md)
 

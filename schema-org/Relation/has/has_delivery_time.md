@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_delivery_time](/_Standards/schema-org/Relation/has/has_delivery_time.md) 
+### #is_/same_as :: [has_delivery_time](/_Standards/schema-org/Relation/has/has_delivery_time.md) 
 
-### [has_delivery_time.public](/_public/schema-org/Relation/has/has_delivery_time.public.md) 
+### #is_/same_as :: [has_delivery_time.public](/_public/schema-org/Relation/has/has_delivery_time.public.md) 
 
-### [has_delivery_time.internal](/_internal/schema-org/Relation/has/has_delivery_time.internal.md) 
+### #is_/same_as :: [has_delivery_time.internal](/_internal/schema-org/Relation/has/has_delivery_time.internal.md) 
 
-### [has_delivery_time.protect](/_protect/schema-org/Relation/has/has_delivery_time.protect.md) 
+### #is_/same_as :: [has_delivery_time.protect](/_protect/schema-org/Relation/has/has_delivery_time.protect.md) 
 
-### [has_delivery_time.private](/_private/schema-org/Relation/has/has_delivery_time.private.md) 
+### #is_/same_as :: [has_delivery_time.private](/_private/schema-org/Relation/has/has_delivery_time.private.md) 
 
-### [has_delivery_time.personal](/_personal/schema-org/Relation/has/has_delivery_time.personal.md) 
+### #is_/same_as :: [has_delivery_time.personal](/_personal/schema-org/Relation/has/has_delivery_time.personal.md) 
 
-### [has_delivery_time.secret](/_secret/schema-org/Relation/has/has_delivery_time.secret.md)
+### #is_/same_as :: [has_delivery_time.secret](/_secret/schema-org/Relation/has/has_delivery_time.secret.md)
 

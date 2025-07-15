@@ -105,17 +105,17 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 
 ## Confidential Links & Embeds: 
 
-### [energy](/_Standards/schema-org/Predicate/Quantity/energy.md) 
+### #is_/same_as :: [energy](/_Standards/schema-org/Predicate/Quantity/energy.md) 
 
-### [energy.public](/_public/schema-org/Predicate/Quantity/energy.public.md) 
+### #is_/same_as :: [energy.public](/_public/schema-org/Predicate/Quantity/energy.public.md) 
 
-### [energy.internal](/_internal/schema-org/Predicate/Quantity/energy.internal.md) 
+### #is_/same_as :: [energy.internal](/_internal/schema-org/Predicate/Quantity/energy.internal.md) 
 
-### [energy.protect](/_protect/schema-org/Predicate/Quantity/energy.protect.md) 
+### #is_/same_as :: [energy.protect](/_protect/schema-org/Predicate/Quantity/energy.protect.md) 
 
-### [energy.private](/_private/schema-org/Predicate/Quantity/energy.private.md) 
+### #is_/same_as :: [energy.private](/_private/schema-org/Predicate/Quantity/energy.private.md) 
 
-### [energy.personal](/_personal/schema-org/Predicate/Quantity/energy.personal.md) 
+### #is_/same_as :: [energy.personal](/_personal/schema-org/Predicate/Quantity/energy.personal.md) 
 
-### [energy.secret](/_secret/schema-org/Predicate/Quantity/energy.secret.md)
+### #is_/same_as :: [energy.secret](/_secret/schema-org/Predicate/Quantity/energy.secret.md)
 

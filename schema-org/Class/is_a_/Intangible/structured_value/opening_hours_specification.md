@@ -49,17 +49,17 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 
 ## Confidential Links & Embeds: 
 
-### [opening_hours_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.md) 
+### #is_/same_as :: [opening_hours_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.md) 
 
-### [opening_hours_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.public.md) 
+### #is_/same_as :: [opening_hours_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.public.md) 
 
-### [opening_hours_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.internal.md) 
+### #is_/same_as :: [opening_hours_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.internal.md) 
 
-### [opening_hours_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.protect.md) 
+### #is_/same_as :: [opening_hours_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.protect.md) 
 
-### [opening_hours_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.private.md) 
+### #is_/same_as :: [opening_hours_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.private.md) 
 
-### [opening_hours_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.personal.md) 
+### #is_/same_as :: [opening_hours_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.personal.md) 
 
-### [opening_hours_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.secret.md)
+### #is_/same_as :: [opening_hours_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/opening_hours_specification.secret.md)
 

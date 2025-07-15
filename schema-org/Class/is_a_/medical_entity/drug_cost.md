@@ -45,17 +45,17 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 ## Confidential Links & Embeds: 
 
-### [drug_cost](/_Standards/schema-org/Class/is_a_/medical_entity/drug_cost.md) 
+### #is_/same_as :: [drug_cost](/_Standards/schema-org/Class/is_a_/medical_entity/drug_cost.md) 
 
-### [drug_cost.public](/_public/schema-org/Class/is_a_/medical_entity/drug_cost.public.md) 
+### #is_/same_as :: [drug_cost.public](/_public/schema-org/Class/is_a_/medical_entity/drug_cost.public.md) 
 
-### [drug_cost.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_cost.internal.md) 
+### #is_/same_as :: [drug_cost.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_cost.internal.md) 
 
-### [drug_cost.protect](/_protect/schema-org/Class/is_a_/medical_entity/drug_cost.protect.md) 
+### #is_/same_as :: [drug_cost.protect](/_protect/schema-org/Class/is_a_/medical_entity/drug_cost.protect.md) 
 
-### [drug_cost.private](/_private/schema-org/Class/is_a_/medical_entity/drug_cost.private.md) 
+### #is_/same_as :: [drug_cost.private](/_private/schema-org/Class/is_a_/medical_entity/drug_cost.private.md) 
 
-### [drug_cost.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_cost.personal.md) 
+### #is_/same_as :: [drug_cost.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_cost.personal.md) 
 
-### [drug_cost.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_cost.secret.md)
+### #is_/same_as :: [drug_cost.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_cost.secret.md)
 

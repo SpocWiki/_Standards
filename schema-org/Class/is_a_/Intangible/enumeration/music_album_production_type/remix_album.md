@@ -47,17 +47,17 @@ RemixAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [remix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.md) 
+### #is_/same_as :: [remix_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.md) 
 
-### [remix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.public.md) 
+### #is_/same_as :: [remix_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.public.md) 
 
-### [remix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.internal.md) 
+### #is_/same_as :: [remix_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.internal.md) 
 
-### [remix_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.protect.md) 
+### #is_/same_as :: [remix_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.protect.md) 
 
-### [remix_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.private.md) 
+### #is_/same_as :: [remix_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.private.md) 
 
-### [remix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.personal.md) 
+### #is_/same_as :: [remix_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.personal.md) 
 
-### [remix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.secret.md)
+### #is_/same_as :: [remix_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/remix_album.secret.md)
 

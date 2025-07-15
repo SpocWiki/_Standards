@@ -47,17 +47,17 @@ Withdrawn.
 
 ## Confidential Links & Embeds: 
 
-### [withdrawn](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
+### #is_/same_as :: [withdrawn](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
 
-### [withdrawn.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.public.md) 
+### #is_/same_as :: [withdrawn.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.public.md) 
 
-### [withdrawn.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md) 
+### #is_/same_as :: [withdrawn.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md) 
 
-### [withdrawn.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect.md) 
+### #is_/same_as :: [withdrawn.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect.md) 
 
-### [withdrawn.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private.md) 
+### #is_/same_as :: [withdrawn.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private.md) 
 
-### [withdrawn.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal.md) 
+### #is_/same_as :: [withdrawn.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal.md) 
 
-### [withdrawn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md)
+### #is_/same_as :: [withdrawn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md)
 

@@ -71,17 +71,17 @@ A city or town.
 
 ## Confidential Links & Embeds: 
 
-### [city](/_Standards/schema-org/Class/is_a_/place/administrative_area/city.md) 
+### #is_/same_as :: [city](/_Standards/schema-org/Class/is_a_/place/administrative_area/city.md) 
 
-### [city.public](/_public/schema-org/Class/is_a_/place/administrative_area/city.public.md) 
+### #is_/same_as :: [city.public](/_public/schema-org/Class/is_a_/place/administrative_area/city.public.md) 
 
-### [city.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/city.internal.md) 
+### #is_/same_as :: [city.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/city.internal.md) 
 
-### [city.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/city.protect.md) 
+### #is_/same_as :: [city.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/city.protect.md) 
 
-### [city.private](/_private/schema-org/Class/is_a_/place/administrative_area/city.private.md) 
+### #is_/same_as :: [city.private](/_private/schema-org/Class/is_a_/place/administrative_area/city.private.md) 
 
-### [city.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/city.personal.md) 
+### #is_/same_as :: [city.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/city.personal.md) 
 
-### [city.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/city.secret.md)
+### #is_/same_as :: [city.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/city.secret.md)
 

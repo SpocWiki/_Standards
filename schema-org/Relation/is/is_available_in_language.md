@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_available_in_language](/_Standards/schema-org/Relation/is/is_available_in_language.md) 
+### #is_/same_as :: [is_available_in_language](/_Standards/schema-org/Relation/is/is_available_in_language.md) 
 
-### [is_available_in_language.public](/_public/schema-org/Relation/is/is_available_in_language.public.md) 
+### #is_/same_as :: [is_available_in_language.public](/_public/schema-org/Relation/is/is_available_in_language.public.md) 
 
-### [is_available_in_language.internal](/_internal/schema-org/Relation/is/is_available_in_language.internal.md) 
+### #is_/same_as :: [is_available_in_language.internal](/_internal/schema-org/Relation/is/is_available_in_language.internal.md) 
 
-### [is_available_in_language.protect](/_protect/schema-org/Relation/is/is_available_in_language.protect.md) 
+### #is_/same_as :: [is_available_in_language.protect](/_protect/schema-org/Relation/is/is_available_in_language.protect.md) 
 
-### [is_available_in_language.private](/_private/schema-org/Relation/is/is_available_in_language.private.md) 
+### #is_/same_as :: [is_available_in_language.private](/_private/schema-org/Relation/is/is_available_in_language.private.md) 
 
-### [is_available_in_language.personal](/_personal/schema-org/Relation/is/is_available_in_language.personal.md) 
+### #is_/same_as :: [is_available_in_language.personal](/_personal/schema-org/Relation/is/is_available_in_language.personal.md) 
 
-### [is_available_in_language.secret](/_secret/schema-org/Relation/is/is_available_in_language.secret.md)
+### #is_/same_as :: [is_available_in_language.secret](/_secret/schema-org/Relation/is/is_available_in_language.secret.md)
 

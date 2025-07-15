@@ -49,17 +49,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### [react_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action.md) 
+### #is_/same_as :: [react_action](/_Standards/schema-org/Class/is_a_/action/assess_action/react_action.md) 
 
-### [react_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action.public.md) 
+### #is_/same_as :: [react_action.public](/_public/schema-org/Class/is_a_/action/assess_action/react_action.public.md) 
 
-### [react_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action.internal.md) 
+### #is_/same_as :: [react_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action.internal.md) 
 
-### [react_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action.protect.md) 
+### #is_/same_as :: [react_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action.protect.md) 
 
-### [react_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action.private.md) 
+### #is_/same_as :: [react_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action.private.md) 
 
-### [react_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action.personal.md) 
+### #is_/same_as :: [react_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action.personal.md) 
 
-### [react_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action.secret.md)
+### #is_/same_as :: [react_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action.secret.md)
 

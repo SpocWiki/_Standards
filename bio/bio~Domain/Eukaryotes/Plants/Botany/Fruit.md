@@ -49,21 +49,19 @@ Danbooru_tag: fruit
 > [Wikipedia](https://en.wikipedia.org/wiki/Fruit)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Fruit](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.md) 
+### #is_/same_as :: [Fruit](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.md) 
 
-### [Fruit.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.public.md) 
+### #is_/same_as :: [Fruit.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.public.md) 
 
-### [Fruit.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.internal.md) 
+### #is_/same_as :: [Fruit.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.internal.md) 
 
-### [Fruit.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.protect.md) 
+### #is_/same_as :: [Fruit.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.protect.md) 
 
-### [Fruit.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.private.md) 
+### #is_/same_as :: [Fruit.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.private.md) 
 
-### [Fruit.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.personal.md) 
+### #is_/same_as :: [Fruit.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.personal.md) 
 
-### [Fruit.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.secret.md)
+### #is_/same_as :: [Fruit.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit.secret.md)
 

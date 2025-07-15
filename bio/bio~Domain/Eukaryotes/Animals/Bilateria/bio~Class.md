@@ -39,21 +39,19 @@ Dewey_Decimal_Classification: "578.012"
 > [Wikipedia](https://en.wikipedia.org/wiki/Class%20(biology)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [bio~Class](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.md) 
+### #is_/same_as :: [bio~Class](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.md) 
 
-### [bio~Class.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.public.md) 
+### #is_/same_as :: [bio~Class.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.public.md) 
 
-### [bio~Class.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.internal.md) 
+### #is_/same_as :: [bio~Class.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.internal.md) 
 
-### [bio~Class.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.protect.md) 
+### #is_/same_as :: [bio~Class.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.protect.md) 
 
-### [bio~Class.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.private.md) 
+### #is_/same_as :: [bio~Class.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.private.md) 
 
-### [bio~Class.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.personal.md) 
+### #is_/same_as :: [bio~Class.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.personal.md) 
 
-### [bio~Class.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.secret.md)
+### #is_/same_as :: [bio~Class.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class.secret.md)
 

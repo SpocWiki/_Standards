@@ -45,21 +45,19 @@ the famous [rabbi](https://en.wikipedia.org/wiki/Rabbi "Rabbi"), philosopher an
 as well as to [Akiva Eger](https://en.wikipedia.org/wiki/Akiva_Eger "Akiva Eger"), [chief rabbi](https://en.wikipedia.org/wiki/Chief_rabbi "Chief rabbi") of [Posen](https://en.wikipedia.org/wiki/Pozna%C5%84 "Poznań") from 1815 to 1837. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Wiener,Norbert](/_Standards/bio/People/Mathematician/Wiener,Norbert.md) 
+### #is_/same_as :: [Wiener,Norbert](/_Standards/bio/People/Mathematician/Wiener,Norbert.md) 
 
-### [Wiener,Norbert.public](/_public/bio/People/Mathematician/Wiener,Norbert.public.md) 
+### #is_/same_as :: [Wiener,Norbert.public](/_public/bio/People/Mathematician/Wiener,Norbert.public.md) 
 
-### [Wiener,Norbert.internal](/_internal/bio/People/Mathematician/Wiener,Norbert.internal.md) 
+### #is_/same_as :: [Wiener,Norbert.internal](/_internal/bio/People/Mathematician/Wiener,Norbert.internal.md) 
 
-### [Wiener,Norbert.protect](/_protect/bio/People/Mathematician/Wiener,Norbert.protect.md) 
+### #is_/same_as :: [Wiener,Norbert.protect](/_protect/bio/People/Mathematician/Wiener,Norbert.protect.md) 
 
-### [Wiener,Norbert.private](/_private/bio/People/Mathematician/Wiener,Norbert.private.md) 
+### #is_/same_as :: [Wiener,Norbert.private](/_private/bio/People/Mathematician/Wiener,Norbert.private.md) 
 
-### [Wiener,Norbert.personal](/_personal/bio/People/Mathematician/Wiener,Norbert.personal.md) 
+### #is_/same_as :: [Wiener,Norbert.personal](/_personal/bio/People/Mathematician/Wiener,Norbert.personal.md) 
 
-### [Wiener,Norbert.secret](/_secret/bio/People/Mathematician/Wiener,Norbert.secret.md)
+### #is_/same_as :: [Wiener,Norbert.secret](/_secret/bio/People/Mathematician/Wiener,Norbert.secret.md)
 

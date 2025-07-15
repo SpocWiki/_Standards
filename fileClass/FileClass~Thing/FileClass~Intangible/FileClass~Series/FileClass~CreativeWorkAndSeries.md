@@ -1226,17 +1226,17 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWorkAndSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.md) 
 
-### [FileClass~CreativeWorkAndSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.public.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.public.md) 
 
-### [FileClass~CreativeWorkAndSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.internal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.internal.md) 
 
-### [FileClass~CreativeWorkAndSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.protect.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.protect.md) 
 
-### [FileClass~CreativeWorkAndSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.private.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.private.md) 
 
-### [FileClass~CreativeWorkAndSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.personal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.personal.md) 
 
-### [FileClass~CreativeWorkAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.secret.md)
+### #is_/same_as :: [FileClass~CreativeWorkAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries.secret.md)
 

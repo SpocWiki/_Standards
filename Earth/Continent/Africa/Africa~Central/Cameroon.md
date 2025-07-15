@@ -725,17 +725,17 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 
 ## Confidential Links & Embeds: 
 
-### [Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon.md) 
+### #is_/same_as :: [Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon.md) 
 
-### [Cameroon.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public.md) 
+### #is_/same_as :: [Cameroon.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public.md) 
 
-### [Cameroon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal.md) 
+### #is_/same_as :: [Cameroon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal.md) 
 
-### [Cameroon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon.protect.md) 
+### #is_/same_as :: [Cameroon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Cameroon.protect.md) 
 
-### [Cameroon.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon.private.md) 
+### #is_/same_as :: [Cameroon.private](/_private/Earth/Continent/Africa/Africa~Central/Cameroon.private.md) 
 
-### [Cameroon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal.md) 
+### #is_/same_as :: [Cameroon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal.md) 
 
-### [Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret.md)
+### #is_/same_as :: [Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret.md)
 

@@ -198,17 +198,17 @@ WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SpecialAnnouncement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.md) 
 
-### [FileClass~SpecialAnnouncement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.public.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.public.md) 
 
-### [FileClass~SpecialAnnouncement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.internal.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.internal.md) 
 
-### [FileClass~SpecialAnnouncement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.protect.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.protect.md) 
 
-### [FileClass~SpecialAnnouncement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.private.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.private.md) 
 
-### [FileClass~SpecialAnnouncement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.personal.md) 
+### #is_/same_as :: [FileClass~SpecialAnnouncement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.personal.md) 
 
-### [FileClass~SpecialAnnouncement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.secret.md)
+### #is_/same_as :: [FileClass~SpecialAnnouncement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SpecialAnnouncement.secret.md)
 

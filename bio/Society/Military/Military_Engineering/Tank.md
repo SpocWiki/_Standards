@@ -18,22 +18,19 @@ has_id_wikidata: Q12876
 > [Wikipedia](https://en.wikipedia.org/wiki/Tank) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Tank](/_Standards/bio/Society/Military/Military_Engineering/Tank.md) 
+### #is_/same_as :: [Tank](/_Standards/bio/Society/Military/Military_Engineering/Tank.md) 
 
-### [Tank.public](/_public/bio/Society/Military/Military_Engineering/Tank.public.md) 
+### #is_/same_as :: [Tank.public](/_public/bio/Society/Military/Military_Engineering/Tank.public.md) 
 
-### [Tank.internal](/_internal/bio/Society/Military/Military_Engineering/Tank.internal.md) 
+### #is_/same_as :: [Tank.internal](/_internal/bio/Society/Military/Military_Engineering/Tank.internal.md) 
 
-### [Tank.protect](/_protect/bio/Society/Military/Military_Engineering/Tank.protect.md) 
+### #is_/same_as :: [Tank.protect](/_protect/bio/Society/Military/Military_Engineering/Tank.protect.md) 
 
-### [Tank.private](/_private/bio/Society/Military/Military_Engineering/Tank.private.md) 
+### #is_/same_as :: [Tank.private](/_private/bio/Society/Military/Military_Engineering/Tank.private.md) 
 
-### [Tank.personal](/_personal/bio/Society/Military/Military_Engineering/Tank.personal.md) 
+### #is_/same_as :: [Tank.personal](/_personal/bio/Society/Military/Military_Engineering/Tank.personal.md) 
 
-### [Tank.secret](/_secret/bio/Society/Military/Military_Engineering/Tank.secret.md)
+### #is_/same_as :: [Tank.secret](/_secret/bio/Society/Military/Military_Engineering/Tank.secret.md)
 

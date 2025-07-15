@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_book_format](/_Standards/schema-org/Relation/has/has_book_format.md) 
+### #is_/same_as :: [has_book_format](/_Standards/schema-org/Relation/has/has_book_format.md) 
 
-### [has_book_format.public](/_public/schema-org/Relation/has/has_book_format.public.md) 
+### #is_/same_as :: [has_book_format.public](/_public/schema-org/Relation/has/has_book_format.public.md) 
 
-### [has_book_format.internal](/_internal/schema-org/Relation/has/has_book_format.internal.md) 
+### #is_/same_as :: [has_book_format.internal](/_internal/schema-org/Relation/has/has_book_format.internal.md) 
 
-### [has_book_format.protect](/_protect/schema-org/Relation/has/has_book_format.protect.md) 
+### #is_/same_as :: [has_book_format.protect](/_protect/schema-org/Relation/has/has_book_format.protect.md) 
 
-### [has_book_format.private](/_private/schema-org/Relation/has/has_book_format.private.md) 
+### #is_/same_as :: [has_book_format.private](/_private/schema-org/Relation/has/has_book_format.private.md) 
 
-### [has_book_format.personal](/_personal/schema-org/Relation/has/has_book_format.personal.md) 
+### #is_/same_as :: [has_book_format.personal](/_personal/schema-org/Relation/has/has_book_format.personal.md) 
 
-### [has_book_format.secret](/_secret/schema-org/Relation/has/has_book_format.secret.md)
+### #is_/same_as :: [has_book_format.secret](/_secret/schema-org/Relation/has/has_book_format.secret.md)
 

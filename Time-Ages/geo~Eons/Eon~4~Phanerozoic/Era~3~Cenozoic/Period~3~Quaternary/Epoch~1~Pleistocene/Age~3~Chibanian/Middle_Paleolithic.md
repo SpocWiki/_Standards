@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Middle_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.md) 
+### #is_/same_as :: [Middle_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.md) 
 
-### [Middle_Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public.md) 
+### #is_/same_as :: [Middle_Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public.md) 
 
-### [Middle_Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal.md) 
+### #is_/same_as :: [Middle_Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal.md) 
 
-### [Middle_Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect.md) 
+### #is_/same_as :: [Middle_Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect.md) 
 
-### [Middle_Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private.md) 
+### #is_/same_as :: [Middle_Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private.md) 
 
-### [Middle_Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal.md) 
+### #is_/same_as :: [Middle_Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal.md) 
 
-### [Middle_Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret.md)
+### #is_/same_as :: [Middle_Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret.md)
 

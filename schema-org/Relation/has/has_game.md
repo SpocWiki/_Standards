@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_game](/_Standards/schema-org/Relation/has/has_game.md) 
+### #is_/same_as :: [has_game](/_Standards/schema-org/Relation/has/has_game.md) 
 
-### [has_game.public](/_public/schema-org/Relation/has/has_game.public.md) 
+### #is_/same_as :: [has_game.public](/_public/schema-org/Relation/has/has_game.public.md) 
 
-### [has_game.internal](/_internal/schema-org/Relation/has/has_game.internal.md) 
+### #is_/same_as :: [has_game.internal](/_internal/schema-org/Relation/has/has_game.internal.md) 
 
-### [has_game.protect](/_protect/schema-org/Relation/has/has_game.protect.md) 
+### #is_/same_as :: [has_game.protect](/_protect/schema-org/Relation/has/has_game.protect.md) 
 
-### [has_game.private](/_private/schema-org/Relation/has/has_game.private.md) 
+### #is_/same_as :: [has_game.private](/_private/schema-org/Relation/has/has_game.private.md) 
 
-### [has_game.personal](/_personal/schema-org/Relation/has/has_game.personal.md) 
+### #is_/same_as :: [has_game.personal](/_personal/schema-org/Relation/has/has_game.personal.md) 
 
-### [has_game.secret](/_secret/schema-org/Relation/has/has_game.secret.md)
+### #is_/same_as :: [has_game.secret](/_secret/schema-org/Relation/has/has_game.secret.md)
 

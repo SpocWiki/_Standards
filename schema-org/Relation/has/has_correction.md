@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_correction](/_Standards/schema-org/Relation/has/has_correction.md) 
+### #is_/same_as :: [has_correction](/_Standards/schema-org/Relation/has/has_correction.md) 
 
-### [has_correction.public](/_public/schema-org/Relation/has/has_correction.public.md) 
+### #is_/same_as :: [has_correction.public](/_public/schema-org/Relation/has/has_correction.public.md) 
 
-### [has_correction.internal](/_internal/schema-org/Relation/has/has_correction.internal.md) 
+### #is_/same_as :: [has_correction.internal](/_internal/schema-org/Relation/has/has_correction.internal.md) 
 
-### [has_correction.protect](/_protect/schema-org/Relation/has/has_correction.protect.md) 
+### #is_/same_as :: [has_correction.protect](/_protect/schema-org/Relation/has/has_correction.protect.md) 
 
-### [has_correction.private](/_private/schema-org/Relation/has/has_correction.private.md) 
+### #is_/same_as :: [has_correction.private](/_private/schema-org/Relation/has/has_correction.private.md) 
 
-### [has_correction.personal](/_personal/schema-org/Relation/has/has_correction.personal.md) 
+### #is_/same_as :: [has_correction.personal](/_personal/schema-org/Relation/has/has_correction.personal.md) 
 
-### [has_correction.secret](/_secret/schema-org/Relation/has/has_correction.secret.md)
+### #is_/same_as :: [has_correction.secret](/_secret/schema-org/Relation/has/has_correction.secret.md)
 

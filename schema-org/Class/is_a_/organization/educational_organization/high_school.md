@@ -45,17 +45,17 @@ A high school.
 
 ## Confidential Links & Embeds: 
 
-### [high_school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/high_school.md) 
+### #is_/same_as :: [high_school](/_Standards/schema-org/Class/is_a_/organization/educational_organization/high_school.md) 
 
-### [high_school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/high_school.public.md) 
+### #is_/same_as :: [high_school.public](/_public/schema-org/Class/is_a_/organization/educational_organization/high_school.public.md) 
 
-### [high_school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/high_school.internal.md) 
+### #is_/same_as :: [high_school.internal](/_internal/schema-org/Class/is_a_/organization/educational_organization/high_school.internal.md) 
 
-### [high_school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/high_school.protect.md) 
+### #is_/same_as :: [high_school.protect](/_protect/schema-org/Class/is_a_/organization/educational_organization/high_school.protect.md) 
 
-### [high_school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/high_school.private.md) 
+### #is_/same_as :: [high_school.private](/_private/schema-org/Class/is_a_/organization/educational_organization/high_school.private.md) 
 
-### [high_school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/high_school.personal.md) 
+### #is_/same_as :: [high_school.personal](/_personal/schema-org/Class/is_a_/organization/educational_organization/high_school.personal.md) 
 
-### [high_school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/high_school.secret.md)
+### #is_/same_as :: [high_school.secret](/_secret/schema-org/Class/is_a_/organization/educational_organization/high_school.secret.md)
 

@@ -10,17 +10,17 @@ This can mean different Things like
 
 ## Confidential Links & Embeds: 
 
-### [skos~narrower](/_Standards/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.md) 
+### #is_/same_as :: [skos~narrower](/_Standards/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.md) 
 
-### [skos~narrower.public](/_public/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.public.md) 
+### #is_/same_as :: [skos~narrower.public](/_public/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.public.md) 
 
-### [skos~narrower.internal](/_internal/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.internal.md) 
+### #is_/same_as :: [skos~narrower.internal](/_internal/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.internal.md) 
 
-### [skos~narrower.protect](/_protect/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.protect.md) 
+### #is_/same_as :: [skos~narrower.protect](/_protect/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.protect.md) 
 
-### [skos~narrower.private](/_private/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.private.md) 
+### #is_/same_as :: [skos~narrower.private](/_private/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.private.md) 
 
-### [skos~narrower.personal](/_personal/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.personal.md) 
+### #is_/same_as :: [skos~narrower.personal](/_personal/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.personal.md) 
 
-### [skos~narrower.secret](/_secret/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.secret.md)
+### #is_/same_as :: [skos~narrower.secret](/_secret/W3C/RDF(Resource_Description_Framework)/skos/skos~narrower.secret.md)
 

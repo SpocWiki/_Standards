@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_availability](/_Standards/schema-org/Relation/has/has_availability.md) 
+### #is_/same_as :: [has_availability](/_Standards/schema-org/Relation/has/has_availability.md) 
 
-### [has_availability.public](/_public/schema-org/Relation/has/has_availability.public.md) 
+### #is_/same_as :: [has_availability.public](/_public/schema-org/Relation/has/has_availability.public.md) 
 
-### [has_availability.internal](/_internal/schema-org/Relation/has/has_availability.internal.md) 
+### #is_/same_as :: [has_availability.internal](/_internal/schema-org/Relation/has/has_availability.internal.md) 
 
-### [has_availability.protect](/_protect/schema-org/Relation/has/has_availability.protect.md) 
+### #is_/same_as :: [has_availability.protect](/_protect/schema-org/Relation/has/has_availability.protect.md) 
 
-### [has_availability.private](/_private/schema-org/Relation/has/has_availability.private.md) 
+### #is_/same_as :: [has_availability.private](/_private/schema-org/Relation/has/has_availability.private.md) 
 
-### [has_availability.personal](/_personal/schema-org/Relation/has/has_availability.personal.md) 
+### #is_/same_as :: [has_availability.personal](/_personal/schema-org/Relation/has/has_availability.personal.md) 
 
-### [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md)
+### #is_/same_as :: [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md)
 

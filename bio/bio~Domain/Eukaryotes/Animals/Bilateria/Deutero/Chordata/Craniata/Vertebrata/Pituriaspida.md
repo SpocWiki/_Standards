@@ -75,20 +75,19 @@ an enigmatic pit adjacent to the eyes. (Based on Young 1991.)
   Copyright ::   © 1997 Philippe Janvier
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Pituriaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.md) 
+### #is_/same_as :: [Pituriaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.md) 
 
-### [Pituriaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.public.md) 
+### #is_/same_as :: [Pituriaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.public.md) 
 
-### [Pituriaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.internal.md) 
+### #is_/same_as :: [Pituriaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.internal.md) 
 
-### [Pituriaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.protect.md) 
+### #is_/same_as :: [Pituriaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.protect.md) 
 
-### [Pituriaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.private.md) 
+### #is_/same_as :: [Pituriaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.private.md) 
 
-### [Pituriaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.personal.md) 
+### #is_/same_as :: [Pituriaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.personal.md) 
 
-### [Pituriaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.secret.md)
+### #is_/same_as :: [Pituriaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.secret.md)
 

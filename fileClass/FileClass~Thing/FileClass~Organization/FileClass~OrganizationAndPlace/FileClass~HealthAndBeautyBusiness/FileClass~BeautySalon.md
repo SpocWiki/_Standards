@@ -35,17 +35,17 @@ Beauty salon.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BeautySalon](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.md) 
+### #is_/same_as :: [FileClass~BeautySalon](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.md) 
 
-### [FileClass~BeautySalon.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.public.md) 
+### #is_/same_as :: [FileClass~BeautySalon.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.public.md) 
 
-### [FileClass~BeautySalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.internal.md) 
+### #is_/same_as :: [FileClass~BeautySalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.internal.md) 
 
-### [FileClass~BeautySalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.protect.md) 
+### #is_/same_as :: [FileClass~BeautySalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.protect.md) 
 
-### [FileClass~BeautySalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.private.md) 
+### #is_/same_as :: [FileClass~BeautySalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.private.md) 
 
-### [FileClass~BeautySalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.personal.md) 
+### #is_/same_as :: [FileClass~BeautySalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.personal.md) 
 
-### [FileClass~BeautySalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.secret.md)
+### #is_/same_as :: [FileClass~BeautySalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.secret.md)
 

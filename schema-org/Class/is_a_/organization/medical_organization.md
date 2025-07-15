@@ -47,17 +47,17 @@ A medical organization (physical or not), such as hospital, institution or clini
 
 ## Confidential Links & Embeds: 
 
-### [medical_organization](/_Standards/schema-org/Class/is_a_/organization/medical_organization.md) 
+### #is_/same_as :: [medical_organization](/_Standards/schema-org/Class/is_a_/organization/medical_organization.md) 
 
-### [medical_organization.public](/_public/schema-org/Class/is_a_/organization/medical_organization.public.md) 
+### #is_/same_as :: [medical_organization.public](/_public/schema-org/Class/is_a_/organization/medical_organization.public.md) 
 
-### [medical_organization.internal](/_internal/schema-org/Class/is_a_/organization/medical_organization.internal.md) 
+### #is_/same_as :: [medical_organization.internal](/_internal/schema-org/Class/is_a_/organization/medical_organization.internal.md) 
 
-### [medical_organization.protect](/_protect/schema-org/Class/is_a_/organization/medical_organization.protect.md) 
+### #is_/same_as :: [medical_organization.protect](/_protect/schema-org/Class/is_a_/organization/medical_organization.protect.md) 
 
-### [medical_organization.private](/_private/schema-org/Class/is_a_/organization/medical_organization.private.md) 
+### #is_/same_as :: [medical_organization.private](/_private/schema-org/Class/is_a_/organization/medical_organization.private.md) 
 
-### [medical_organization.personal](/_personal/schema-org/Class/is_a_/organization/medical_organization.personal.md) 
+### #is_/same_as :: [medical_organization.personal](/_personal/schema-org/Class/is_a_/organization/medical_organization.personal.md) 
 
-### [medical_organization.secret](/_secret/schema-org/Class/is_a_/organization/medical_organization.secret.md)
+### #is_/same_as :: [medical_organization.secret](/_secret/schema-org/Class/is_a_/organization/medical_organization.secret.md)
 

@@ -412,17 +412,17 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 ## Confidential Links & Embeds: 
 
-### [Maldives](/_Standards/Earth/Continent/Asia/Asia~South/Maldives.md) 
+### #is_/same_as :: [Maldives](/_Standards/Earth/Continent/Asia/Asia~South/Maldives.md) 
 
-### [Maldives.public](/_public/Earth/Continent/Asia/Asia~South/Maldives.public.md) 
+### #is_/same_as :: [Maldives.public](/_public/Earth/Continent/Asia/Asia~South/Maldives.public.md) 
 
-### [Maldives.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives.internal.md) 
+### #is_/same_as :: [Maldives.internal](/_internal/Earth/Continent/Asia/Asia~South/Maldives.internal.md) 
 
-### [Maldives.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives.protect.md) 
+### #is_/same_as :: [Maldives.protect](/_protect/Earth/Continent/Asia/Asia~South/Maldives.protect.md) 
 
-### [Maldives.private](/_private/Earth/Continent/Asia/Asia~South/Maldives.private.md) 
+### #is_/same_as :: [Maldives.private](/_private/Earth/Continent/Asia/Asia~South/Maldives.private.md) 
 
-### [Maldives.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives.personal.md) 
+### #is_/same_as :: [Maldives.personal](/_personal/Earth/Continent/Asia/Asia~South/Maldives.personal.md) 
 
-### [Maldives.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives.secret.md)
+### #is_/same_as :: [Maldives.secret](/_secret/Earth/Continent/Asia/Asia~South/Maldives.secret.md)
 

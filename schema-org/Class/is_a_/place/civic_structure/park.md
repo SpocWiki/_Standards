@@ -45,17 +45,17 @@ A park.
 
 ## Confidential Links & Embeds: 
 
-### [park](/_Standards/schema-org/Class/is_a_/place/civic_structure/park.md) 
+### #is_/same_as :: [park](/_Standards/schema-org/Class/is_a_/place/civic_structure/park.md) 
 
-### [park.public](/_public/schema-org/Class/is_a_/place/civic_structure/park.public.md) 
+### #is_/same_as :: [park.public](/_public/schema-org/Class/is_a_/place/civic_structure/park.public.md) 
 
-### [park.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/park.internal.md) 
+### #is_/same_as :: [park.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/park.internal.md) 
 
-### [park.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/park.protect.md) 
+### #is_/same_as :: [park.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/park.protect.md) 
 
-### [park.private](/_private/schema-org/Class/is_a_/place/civic_structure/park.private.md) 
+### #is_/same_as :: [park.private](/_private/schema-org/Class/is_a_/place/civic_structure/park.private.md) 
 
-### [park.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/park.personal.md) 
+### #is_/same_as :: [park.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/park.personal.md) 
 
-### [park.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/park.secret.md)
+### #is_/same_as :: [park.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/park.secret.md)
 

@@ -55,17 +55,17 @@ But a 3rd Family SHA-3 was defined in 2012.
 
 ## Confidential Links & Embeds: 
 
-### [has_sha256](/_Standards/schema-org/Property/Texts/has_sha256.md) 
+### #is_/same_as :: [has_sha256](/_Standards/schema-org/Property/Texts/has_sha256.md) 
 
-### [has_sha256.public](/_public/schema-org/Property/Texts/has_sha256.public.md) 
+### #is_/same_as :: [has_sha256.public](/_public/schema-org/Property/Texts/has_sha256.public.md) 
 
-### [has_sha256.internal](/_internal/schema-org/Property/Texts/has_sha256.internal.md) 
+### #is_/same_as :: [has_sha256.internal](/_internal/schema-org/Property/Texts/has_sha256.internal.md) 
 
-### [has_sha256.protect](/_protect/schema-org/Property/Texts/has_sha256.protect.md) 
+### #is_/same_as :: [has_sha256.protect](/_protect/schema-org/Property/Texts/has_sha256.protect.md) 
 
-### [has_sha256.private](/_private/schema-org/Property/Texts/has_sha256.private.md) 
+### #is_/same_as :: [has_sha256.private](/_private/schema-org/Property/Texts/has_sha256.private.md) 
 
-### [has_sha256.personal](/_personal/schema-org/Property/Texts/has_sha256.personal.md) 
+### #is_/same_as :: [has_sha256.personal](/_personal/schema-org/Property/Texts/has_sha256.personal.md) 
 
-### [has_sha256.secret](/_secret/schema-org/Property/Texts/has_sha256.secret.md)
+### #is_/same_as :: [has_sha256.secret](/_secret/schema-org/Property/Texts/has_sha256.secret.md)
 

@@ -148,17 +148,17 @@ PubChem_CID: 23931
 
 ## Confidential Links & Embeds: 
 
-### [Mercury](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Mercury.md) 
+### #is_/same_as :: [Mercury](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Mercury.md) 
 
-### [Mercury.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Mercury.public.md) 
+### #is_/same_as :: [Mercury.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Mercury.public.md) 
 
-### [Mercury.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Mercury.internal.md) 
+### #is_/same_as :: [Mercury.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Mercury.internal.md) 
 
-### [Mercury.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Mercury.protect.md) 
+### #is_/same_as :: [Mercury.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Mercury.protect.md) 
 
-### [Mercury.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Mercury.private.md) 
+### #is_/same_as :: [Mercury.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Mercury.private.md) 
 
-### [Mercury.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Mercury.personal.md) 
+### #is_/same_as :: [Mercury.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Mercury.personal.md) 
 
-### [Mercury.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Mercury.secret.md)
+### #is_/same_as :: [Mercury.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Mercury.secret.md)
 

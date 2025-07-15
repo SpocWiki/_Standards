@@ -89,17 +89,17 @@ UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.md) 
+### #is_/same_as :: [FileClass~MedicalTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.md) 
 
-### [FileClass~MedicalTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.public.md) 
+### #is_/same_as :: [FileClass~MedicalTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.public.md) 
 
-### [FileClass~MedicalTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.internal.md) 
+### #is_/same_as :: [FileClass~MedicalTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.internal.md) 
 
-### [FileClass~MedicalTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.protect.md) 
+### #is_/same_as :: [FileClass~MedicalTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.protect.md) 
 
-### [FileClass~MedicalTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.private.md) 
+### #is_/same_as :: [FileClass~MedicalTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.private.md) 
 
-### [FileClass~MedicalTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.personal.md) 
+### #is_/same_as :: [FileClass~MedicalTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.personal.md) 
 
-### [FileClass~MedicalTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret.md)
+### #is_/same_as :: [FileClass~MedicalTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest.secret.md)
 

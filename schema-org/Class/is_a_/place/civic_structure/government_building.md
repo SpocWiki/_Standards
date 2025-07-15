@@ -47,17 +47,17 @@ A government building.
 
 ## Confidential Links & Embeds: 
 
-### [government_building](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building.md) 
+### #is_/same_as :: [government_building](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building.md) 
 
-### [government_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building.public.md) 
+### #is_/same_as :: [government_building.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building.public.md) 
 
-### [government_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building.internal.md) 
+### #is_/same_as :: [government_building.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building.internal.md) 
 
-### [government_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building.protect.md) 
+### #is_/same_as :: [government_building.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/government_building.protect.md) 
 
-### [government_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building.private.md) 
+### #is_/same_as :: [government_building.private](/_private/schema-org/Class/is_a_/place/civic_structure/government_building.private.md) 
 
-### [government_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building.personal.md) 
+### #is_/same_as :: [government_building.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building.personal.md) 
 
-### [government_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building.secret.md)
+### #is_/same_as :: [government_building.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building.secret.md)
 

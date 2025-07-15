@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_thumbnail](/_Standards/schema-org/Relation/has/has_thumbnail.md) 
+### #is_/same_as :: [has_thumbnail](/_Standards/schema-org/Relation/has/has_thumbnail.md) 
 
-### [has_thumbnail.public](/_public/schema-org/Relation/has/has_thumbnail.public.md) 
+### #is_/same_as :: [has_thumbnail.public](/_public/schema-org/Relation/has/has_thumbnail.public.md) 
 
-### [has_thumbnail.internal](/_internal/schema-org/Relation/has/has_thumbnail.internal.md) 
+### #is_/same_as :: [has_thumbnail.internal](/_internal/schema-org/Relation/has/has_thumbnail.internal.md) 
 
-### [has_thumbnail.protect](/_protect/schema-org/Relation/has/has_thumbnail.protect.md) 
+### #is_/same_as :: [has_thumbnail.protect](/_protect/schema-org/Relation/has/has_thumbnail.protect.md) 
 
-### [has_thumbnail.private](/_private/schema-org/Relation/has/has_thumbnail.private.md) 
+### #is_/same_as :: [has_thumbnail.private](/_private/schema-org/Relation/has/has_thumbnail.private.md) 
 
-### [has_thumbnail.personal](/_personal/schema-org/Relation/has/has_thumbnail.personal.md) 
+### #is_/same_as :: [has_thumbnail.personal](/_personal/schema-org/Relation/has/has_thumbnail.personal.md) 
 
-### [has_thumbnail.secret](/_secret/schema-org/Relation/has/has_thumbnail.secret.md)
+### #is_/same_as :: [has_thumbnail.secret](/_secret/schema-org/Relation/has/has_thumbnail.secret.md)
 

@@ -45,17 +45,17 @@ A video game series.
 
 ## Confidential Links & Embeds: 
 
-### [video_game_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.md) 
+### #is_/same_as :: [video_game_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.md) 
 
-### [video_game_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.public.md) 
+### #is_/same_as :: [video_game_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.public.md) 
 
-### [video_game_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.internal.md) 
+### #is_/same_as :: [video_game_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.internal.md) 
 
-### [video_game_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.protect.md) 
+### #is_/same_as :: [video_game_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.protect.md) 
 
-### [video_game_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.private.md) 
+### #is_/same_as :: [video_game_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.private.md) 
 
-### [video_game_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.personal.md) 
+### #is_/same_as :: [video_game_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.personal.md) 
 
-### [video_game_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.secret.md)
+### #is_/same_as :: [video_game_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/video_game_series.secret.md)
 

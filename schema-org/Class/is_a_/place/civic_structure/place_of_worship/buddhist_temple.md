@@ -45,17 +45,17 @@ A Buddhist temple.
 
 ## Confidential Links & Embeds: 
 
-### [buddhist_temple](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.md) 
+### #is_/same_as :: [buddhist_temple](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.md) 
 
-### [buddhist_temple.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.public.md) 
+### #is_/same_as :: [buddhist_temple.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.public.md) 
 
-### [buddhist_temple.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md) 
+### #is_/same_as :: [buddhist_temple.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md) 
 
-### [buddhist_temple.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md) 
+### #is_/same_as :: [buddhist_temple.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md) 
 
-### [buddhist_temple.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md) 
+### #is_/same_as :: [buddhist_temple.private](/_private/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md) 
 
-### [buddhist_temple.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md) 
+### #is_/same_as :: [buddhist_temple.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md) 
 
-### [buddhist_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md)
+### #is_/same_as :: [buddhist_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md)
 

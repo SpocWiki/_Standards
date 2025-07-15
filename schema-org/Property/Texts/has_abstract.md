@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_abstract](/_Standards/schema-org/Property/Texts/has_abstract.md) 
+### #is_/same_as :: [has_abstract](/_Standards/schema-org/Property/Texts/has_abstract.md) 
 
-### [has_abstract.public](/_public/schema-org/Property/Texts/has_abstract.public.md) 
+### #is_/same_as :: [has_abstract.public](/_public/schema-org/Property/Texts/has_abstract.public.md) 
 
-### [has_abstract.internal](/_internal/schema-org/Property/Texts/has_abstract.internal.md) 
+### #is_/same_as :: [has_abstract.internal](/_internal/schema-org/Property/Texts/has_abstract.internal.md) 
 
-### [has_abstract.protect](/_protect/schema-org/Property/Texts/has_abstract.protect.md) 
+### #is_/same_as :: [has_abstract.protect](/_protect/schema-org/Property/Texts/has_abstract.protect.md) 
 
-### [has_abstract.private](/_private/schema-org/Property/Texts/has_abstract.private.md) 
+### #is_/same_as :: [has_abstract.private](/_private/schema-org/Property/Texts/has_abstract.private.md) 
 
-### [has_abstract.personal](/_personal/schema-org/Property/Texts/has_abstract.personal.md) 
+### #is_/same_as :: [has_abstract.personal](/_personal/schema-org/Property/Texts/has_abstract.personal.md) 
 
-### [has_abstract.secret](/_secret/schema-org/Property/Texts/has_abstract.secret.md)
+### #is_/same_as :: [has_abstract.secret](/_secret/schema-org/Property/Texts/has_abstract.secret.md)
 

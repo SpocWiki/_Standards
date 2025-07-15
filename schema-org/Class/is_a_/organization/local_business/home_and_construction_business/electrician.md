@@ -45,17 +45,17 @@ An electrician.
 
 ## Confidential Links & Embeds: 
 
-### [electrician](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.md) 
+### #is_/same_as :: [electrician](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.md) 
 
-### [electrician.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.public.md) 
+### #is_/same_as :: [electrician.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.public.md) 
 
-### [electrician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md) 
+### #is_/same_as :: [electrician.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md) 
 
-### [electrician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md) 
+### #is_/same_as :: [electrician.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md) 
 
-### [electrician.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.private.md) 
+### #is_/same_as :: [electrician.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.private.md) 
 
-### [electrician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md) 
+### #is_/same_as :: [electrician.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md) 
 
-### [electrician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md)
+### #is_/same_as :: [electrician.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md)
 

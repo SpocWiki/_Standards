@@ -20,21 +20,19 @@ Pollen is generated since ca. 300 mio years, enough time to get adjusted.
 ### Cellular Reaction 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Allergy](/_Standards/bio/Medicine/Health/Allergy.md) 
+### #is_/same_as :: [Allergy](/_Standards/bio/Medicine/Health/Allergy.md) 
 
-### [Allergy.public](/_public/bio/Medicine/Health/Allergy.public.md) 
+### #is_/same_as :: [Allergy.public](/_public/bio/Medicine/Health/Allergy.public.md) 
 
-### [Allergy.internal](/_internal/bio/Medicine/Health/Allergy.internal.md) 
+### #is_/same_as :: [Allergy.internal](/_internal/bio/Medicine/Health/Allergy.internal.md) 
 
-### [Allergy.protect](/_protect/bio/Medicine/Health/Allergy.protect.md) 
+### #is_/same_as :: [Allergy.protect](/_protect/bio/Medicine/Health/Allergy.protect.md) 
 
-### [Allergy.private](/_private/bio/Medicine/Health/Allergy.private.md) 
+### #is_/same_as :: [Allergy.private](/_private/bio/Medicine/Health/Allergy.private.md) 
 
-### [Allergy.personal](/_personal/bio/Medicine/Health/Allergy.personal.md) 
+### #is_/same_as :: [Allergy.personal](/_personal/bio/Medicine/Health/Allergy.personal.md) 
 
-### [Allergy.secret](/_secret/bio/Medicine/Health/Allergy.secret.md)
+### #is_/same_as :: [Allergy.secret](/_secret/bio/Medicine/Health/Allergy.secret.md)
 

@@ -43,21 +43,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Subspecies) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Subspecies](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.md) 
+### #is_/same_as :: [Subspecies](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.md) 
 
-### [Subspecies.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.public.md) 
+### #is_/same_as :: [Subspecies.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.public.md) 
 
-### [Subspecies.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.internal.md) 
+### #is_/same_as :: [Subspecies.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.internal.md) 
 
-### [Subspecies.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.protect.md) 
+### #is_/same_as :: [Subspecies.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.protect.md) 
 
-### [Subspecies.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.private.md) 
+### #is_/same_as :: [Subspecies.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.private.md) 
 
-### [Subspecies.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.personal.md) 
+### #is_/same_as :: [Subspecies.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.personal.md) 
 
-### [Subspecies.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.secret.md)
+### #is_/same_as :: [Subspecies.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Subspecies.secret.md)
 

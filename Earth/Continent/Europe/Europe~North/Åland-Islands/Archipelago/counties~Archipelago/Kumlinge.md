@@ -41,17 +41,17 @@ markerFolder: ./Kumlinge/
 
 ## Confidential Links & Embeds: 
 
-### [Kumlinge](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.md) 
+### #is_/same_as :: [Kumlinge](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.md) 
 
-### [Kumlinge.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.public.md) 
+### #is_/same_as :: [Kumlinge.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.public.md) 
 
-### [Kumlinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.internal.md) 
+### #is_/same_as :: [Kumlinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.internal.md) 
 
-### [Kumlinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.protect.md) 
+### #is_/same_as :: [Kumlinge.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.protect.md) 
 
-### [Kumlinge.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.private.md) 
+### #is_/same_as :: [Kumlinge.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.private.md) 
 
-### [Kumlinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.personal.md) 
+### #is_/same_as :: [Kumlinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.personal.md) 
 
-### [Kumlinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.secret.md)
+### #is_/same_as :: [Kumlinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.secret.md)
 

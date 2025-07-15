@@ -120,17 +120,17 @@ Commons_category: Rhenium
 
 ## Confidential Links & Embeds: 
 
-### [Rhenium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Rhenium.md) 
+### #is_/same_as :: [Rhenium](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Rhenium.md) 
 
-### [Rhenium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Rhenium.public.md) 
+### #is_/same_as :: [Rhenium.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Rhenium.public.md) 
 
-### [Rhenium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.internal.md) 
+### #is_/same_as :: [Rhenium.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.internal.md) 
 
-### [Rhenium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Rhenium.protect.md) 
+### #is_/same_as :: [Rhenium.protect](/_protect/chemic/chemic~Elements/Group-07-Manganese/Rhenium.protect.md) 
 
-### [Rhenium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Rhenium.private.md) 
+### #is_/same_as :: [Rhenium.private](/_private/chemic/chemic~Elements/Group-07-Manganese/Rhenium.private.md) 
 
-### [Rhenium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.personal.md) 
+### #is_/same_as :: [Rhenium.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Rhenium.personal.md) 
 
-### [Rhenium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Rhenium.secret.md)
+### #is_/same_as :: [Rhenium.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Rhenium.secret.md)
 

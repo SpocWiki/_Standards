@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_knows_about](/_Standards/schema-org/Property/Texts/has_knows_about.md) 
+### #is_/same_as :: [has_knows_about](/_Standards/schema-org/Property/Texts/has_knows_about.md) 
 
-### [has_knows_about.public](/_public/schema-org/Property/Texts/has_knows_about.public.md) 
+### #is_/same_as :: [has_knows_about.public](/_public/schema-org/Property/Texts/has_knows_about.public.md) 
 
-### [has_knows_about.internal](/_internal/schema-org/Property/Texts/has_knows_about.internal.md) 
+### #is_/same_as :: [has_knows_about.internal](/_internal/schema-org/Property/Texts/has_knows_about.internal.md) 
 
-### [has_knows_about.protect](/_protect/schema-org/Property/Texts/has_knows_about.protect.md) 
+### #is_/same_as :: [has_knows_about.protect](/_protect/schema-org/Property/Texts/has_knows_about.protect.md) 
 
-### [has_knows_about.private](/_private/schema-org/Property/Texts/has_knows_about.private.md) 
+### #is_/same_as :: [has_knows_about.private](/_private/schema-org/Property/Texts/has_knows_about.private.md) 
 
-### [has_knows_about.personal](/_personal/schema-org/Property/Texts/has_knows_about.personal.md) 
+### #is_/same_as :: [has_knows_about.personal](/_personal/schema-org/Property/Texts/has_knows_about.personal.md) 
 
-### [has_knows_about.secret](/_secret/schema-org/Property/Texts/has_knows_about.secret.md)
+### #is_/same_as :: [has_knows_about.secret](/_secret/schema-org/Property/Texts/has_knows_about.secret.md)
 

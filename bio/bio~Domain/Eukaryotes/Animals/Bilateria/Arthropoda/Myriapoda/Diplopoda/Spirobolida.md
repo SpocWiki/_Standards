@@ -82,20 +82,19 @@ Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://
 Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Spirobolida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.md) 
+### #is_/same_as :: [Spirobolida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.md) 
 
-### [Spirobolida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.public.md) 
+### #is_/same_as :: [Spirobolida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.public.md) 
 
-### [Spirobolida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.internal.md) 
+### #is_/same_as :: [Spirobolida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.internal.md) 
 
-### [Spirobolida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.protect.md) 
+### #is_/same_as :: [Spirobolida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.protect.md) 
 
-### [Spirobolida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.private.md) 
+### #is_/same_as :: [Spirobolida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.private.md) 
 
-### [Spirobolida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.personal.md) 
+### #is_/same_as :: [Spirobolida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.personal.md) 
 
-### [Spirobolida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.secret.md)
+### #is_/same_as :: [Spirobolida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Spirobolida.secret.md)
 

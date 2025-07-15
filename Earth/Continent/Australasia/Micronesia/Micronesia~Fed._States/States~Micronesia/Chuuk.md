@@ -41,17 +41,17 @@ markerFolder: ./Chuuk/
 
 ## Confidential Links & Embeds: 
 
-### [Chuuk](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
+### #is_/same_as :: [Chuuk](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.md) 
 
-### [Chuuk.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.public.md) 
+### #is_/same_as :: [Chuuk.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.public.md) 
 
-### [Chuuk.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal.md) 
+### #is_/same_as :: [Chuuk.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.internal.md) 
 
-### [Chuuk.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.protect.md) 
+### #is_/same_as :: [Chuuk.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.protect.md) 
 
-### [Chuuk.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.private.md) 
+### #is_/same_as :: [Chuuk.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.private.md) 
 
-### [Chuuk.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal.md) 
+### #is_/same_as :: [Chuuk.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.personal.md) 
 
-### [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md)
+### #is_/same_as :: [Chuuk.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Chuuk.secret.md)
 

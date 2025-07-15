@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_documentation](/_Standards/schema-org/Relation/has/has_documentation.md) 
+### #is_/same_as :: [has_documentation](/_Standards/schema-org/Relation/has/has_documentation.md) 
 
-### [has_documentation.public](/_public/schema-org/Relation/has/has_documentation.public.md) 
+### #is_/same_as :: [has_documentation.public](/_public/schema-org/Relation/has/has_documentation.public.md) 
 
-### [has_documentation.internal](/_internal/schema-org/Relation/has/has_documentation.internal.md) 
+### #is_/same_as :: [has_documentation.internal](/_internal/schema-org/Relation/has/has_documentation.internal.md) 
 
-### [has_documentation.protect](/_protect/schema-org/Relation/has/has_documentation.protect.md) 
+### #is_/same_as :: [has_documentation.protect](/_protect/schema-org/Relation/has/has_documentation.protect.md) 
 
-### [has_documentation.private](/_private/schema-org/Relation/has/has_documentation.private.md) 
+### #is_/same_as :: [has_documentation.private](/_private/schema-org/Relation/has/has_documentation.private.md) 
 
-### [has_documentation.personal](/_personal/schema-org/Relation/has/has_documentation.personal.md) 
+### #is_/same_as :: [has_documentation.personal](/_personal/schema-org/Relation/has/has_documentation.personal.md) 
 
-### [has_documentation.secret](/_secret/schema-org/Relation/has/has_documentation.secret.md)
+### #is_/same_as :: [has_documentation.secret](/_secret/schema-org/Relation/has/has_documentation.secret.md)
 

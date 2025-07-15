@@ -136,17 +136,17 @@ date_of_death: "1946-04-21"
 
 ## Confidential Links & Embeds: 
 
-### [Keynes,John_Maynard](/_Standards/bio/People/Economist/Keynes,John_Maynard.md) 
+### #is_/same_as :: [Keynes,John_Maynard](/_Standards/bio/People/Economist/Keynes,John_Maynard.md) 
 
-### [Keynes,John_Maynard.public](/_public/bio/People/Economist/Keynes,John_Maynard.public.md) 
+### #is_/same_as :: [Keynes,John_Maynard.public](/_public/bio/People/Economist/Keynes,John_Maynard.public.md) 
 
-### [Keynes,John_Maynard.internal](/_internal/bio/People/Economist/Keynes,John_Maynard.internal.md) 
+### #is_/same_as :: [Keynes,John_Maynard.internal](/_internal/bio/People/Economist/Keynes,John_Maynard.internal.md) 
 
-### [Keynes,John_Maynard.protect](/_protect/bio/People/Economist/Keynes,John_Maynard.protect.md) 
+### #is_/same_as :: [Keynes,John_Maynard.protect](/_protect/bio/People/Economist/Keynes,John_Maynard.protect.md) 
 
-### [Keynes,John_Maynard.private](/_private/bio/People/Economist/Keynes,John_Maynard.private.md) 
+### #is_/same_as :: [Keynes,John_Maynard.private](/_private/bio/People/Economist/Keynes,John_Maynard.private.md) 
 
-### [Keynes,John_Maynard.personal](/_personal/bio/People/Economist/Keynes,John_Maynard.personal.md) 
+### #is_/same_as :: [Keynes,John_Maynard.personal](/_personal/bio/People/Economist/Keynes,John_Maynard.personal.md) 
 
-### [Keynes,John_Maynard.secret](/_secret/bio/People/Economist/Keynes,John_Maynard.secret.md)
+### #is_/same_as :: [Keynes,John_Maynard.secret](/_secret/bio/People/Economist/Keynes,John_Maynard.secret.md)
 

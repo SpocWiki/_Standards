@@ -176,23 +176,19 @@ birth_name: "Thomas Alva Edison"
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Edison)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Edison,Thomas_Alva](/_Standards/bio/People/Inventor/Edison,Thomas_Alva.md) 
+### #is_/same_as :: [Edison,Thomas_Alva](/_Standards/bio/People/Inventor/Edison,Thomas_Alva.md) 
 
-### [Edison,Thomas_Alva.public](/_public/bio/People/Inventor/Edison,Thomas_Alva.public.md) 
+### #is_/same_as :: [Edison,Thomas_Alva.public](/_public/bio/People/Inventor/Edison,Thomas_Alva.public.md) 
 
-### [Edison,Thomas_Alva.internal](/_internal/bio/People/Inventor/Edison,Thomas_Alva.internal.md) 
+### #is_/same_as :: [Edison,Thomas_Alva.internal](/_internal/bio/People/Inventor/Edison,Thomas_Alva.internal.md) 
 
-### [Edison,Thomas_Alva.protect](/_protect/bio/People/Inventor/Edison,Thomas_Alva.protect.md) 
+### #is_/same_as :: [Edison,Thomas_Alva.protect](/_protect/bio/People/Inventor/Edison,Thomas_Alva.protect.md) 
 
-### [Edison,Thomas_Alva.private](/_private/bio/People/Inventor/Edison,Thomas_Alva.private.md) 
+### #is_/same_as :: [Edison,Thomas_Alva.private](/_private/bio/People/Inventor/Edison,Thomas_Alva.private.md) 
 
-### [Edison,Thomas_Alva.personal](/_personal/bio/People/Inventor/Edison,Thomas_Alva.personal.md) 
+### #is_/same_as :: [Edison,Thomas_Alva.personal](/_personal/bio/People/Inventor/Edison,Thomas_Alva.personal.md) 
 
-### [Edison,Thomas_Alva.secret](/_secret/bio/People/Inventor/Edison,Thomas_Alva.secret.md)
+### #is_/same_as :: [Edison,Thomas_Alva.secret](/_secret/bio/People/Inventor/Edison,Thomas_Alva.secret.md)
 

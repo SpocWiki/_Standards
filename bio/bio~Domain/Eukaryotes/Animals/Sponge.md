@@ -76,20 +76,19 @@ Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://w
 -------------------------------------------------------------------------------
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sponge](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Sponge.md) 
+### #is_/same_as :: [Sponge](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Sponge.md) 
 
-### [Sponge.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Sponge.public.md) 
+### #is_/same_as :: [Sponge.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Sponge.public.md) 
 
-### [Sponge.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Sponge.internal.md) 
+### #is_/same_as :: [Sponge.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Sponge.internal.md) 
 
-### [Sponge.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Sponge.protect.md) 
+### #is_/same_as :: [Sponge.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Sponge.protect.md) 
 
-### [Sponge.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Sponge.private.md) 
+### #is_/same_as :: [Sponge.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Sponge.private.md) 
 
-### [Sponge.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Sponge.personal.md) 
+### #is_/same_as :: [Sponge.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Sponge.personal.md) 
 
-### [Sponge.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Sponge.secret.md)
+### #is_/same_as :: [Sponge.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Sponge.secret.md)
 

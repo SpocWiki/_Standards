@@ -45,17 +45,17 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 
 ## Confidential Links & Embeds: 
 
-### [Micronesia~Fed._States](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
+### #is_/same_as :: [Micronesia~Fed._States](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
 
-### [Micronesia~Fed._States.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public.md) 
+### #is_/same_as :: [Micronesia~Fed._States.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public.md) 
 
-### [Micronesia~Fed._States.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal.md) 
+### #is_/same_as :: [Micronesia~Fed._States.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal.md) 
 
-### [Micronesia~Fed._States.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect.md) 
+### #is_/same_as :: [Micronesia~Fed._States.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect.md) 
 
-### [Micronesia~Fed._States.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private.md) 
+### #is_/same_as :: [Micronesia~Fed._States.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private.md) 
 
-### [Micronesia~Fed._States.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal.md) 
+### #is_/same_as :: [Micronesia~Fed._States.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal.md) 
 
-### [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md)
+### #is_/same_as :: [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md)
 

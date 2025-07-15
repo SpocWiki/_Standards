@@ -45,17 +45,17 @@ Enumerates several types of return labels for product returns.
 
 ## Confidential Links & Embeds: 
 
-### [return_label_source_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.md) 
+### #is_/same_as :: [return_label_source_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.md) 
 
-### [return_label_source_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.public.md) 
+### #is_/same_as :: [return_label_source_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.public.md) 
 
-### [return_label_source_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.internal.md) 
+### #is_/same_as :: [return_label_source_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.internal.md) 
 
-### [return_label_source_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.protect.md) 
+### #is_/same_as :: [return_label_source_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.protect.md) 
 
-### [return_label_source_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.private.md) 
+### #is_/same_as :: [return_label_source_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.private.md) 
 
-### [return_label_source_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.personal.md) 
+### #is_/same_as :: [return_label_source_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.personal.md) 
 
-### [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md)
+### #is_/same_as :: [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md)
 

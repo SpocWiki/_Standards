@@ -563,17 +563,17 @@ excluding [[Kosovo]]!
 
 ## Confidential Links & Embeds: 
 
-### [Serbia](/_Standards/Earth/Continent/Europe/Europe~South/Serbia.md) 
+### #is_/same_as :: [Serbia](/_Standards/Earth/Continent/Europe/Europe~South/Serbia.md) 
 
-### [Serbia.public](/_public/Earth/Continent/Europe/Europe~South/Serbia.public.md) 
+### #is_/same_as :: [Serbia.public](/_public/Earth/Continent/Europe/Europe~South/Serbia.public.md) 
 
-### [Serbia.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal.md) 
+### #is_/same_as :: [Serbia.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal.md) 
 
-### [Serbia.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia.protect.md) 
+### #is_/same_as :: [Serbia.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia.protect.md) 
 
-### [Serbia.private](/_private/Earth/Continent/Europe/Europe~South/Serbia.private.md) 
+### #is_/same_as :: [Serbia.private](/_private/Earth/Continent/Europe/Europe~South/Serbia.private.md) 
 
-### [Serbia.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia.personal.md) 
+### #is_/same_as :: [Serbia.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia.personal.md) 
 
-### [Serbia.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret.md)
+### #is_/same_as :: [Serbia.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret.md)
 

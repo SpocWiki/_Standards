@@ -137,23 +137,19 @@ Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Hexapoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.md) 
+### #is_/same_as :: [Hexapoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.md) 
 
-### [Hexapoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.public.md) 
+### #is_/same_as :: [Hexapoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.public.md) 
 
-### [Hexapoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.internal.md) 
+### #is_/same_as :: [Hexapoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.internal.md) 
 
-### [Hexapoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.protect.md) 
+### #is_/same_as :: [Hexapoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.protect.md) 
 
-### [Hexapoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.private.md) 
+### #is_/same_as :: [Hexapoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.private.md) 
 
-### [Hexapoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.personal.md) 
+### #is_/same_as :: [Hexapoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.personal.md) 
 
-### [Hexapoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.secret.md)
+### #is_/same_as :: [Hexapoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda.secret.md)
 

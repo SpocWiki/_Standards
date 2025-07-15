@@ -898,17 +898,17 @@ Sources:
 
 ## Confidential Links & Embeds: 
 
-### [USA](/_Standards/Earth/Continent/America~North/USA.md) 
+### #is_/same_as :: [USA](/_Standards/Earth/Continent/America~North/USA.md) 
 
-### [USA.public](/_public/Earth/Continent/America~North/USA.public.md) 
+### #is_/same_as :: [USA.public](/_public/Earth/Continent/America~North/USA.public.md) 
 
-### [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
+### #is_/same_as :: [USA.internal](/_internal/Earth/Continent/America~North/USA.internal.md) 
 
-### [USA.protect](/_protect/Earth/Continent/America~North/USA.protect.md) 
+### #is_/same_as :: [USA.protect](/_protect/Earth/Continent/America~North/USA.protect.md) 
 
-### [USA.private](/_private/Earth/Continent/America~North/USA.private.md) 
+### #is_/same_as :: [USA.private](/_private/Earth/Continent/America~North/USA.private.md) 
 
-### [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
+### #is_/same_as :: [USA.personal](/_personal/Earth/Continent/America~North/USA.personal.md) 
 
-### [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md)
+### #is_/same_as :: [USA.secret](/_secret/Earth/Continent/America~North/USA.secret.md)
 

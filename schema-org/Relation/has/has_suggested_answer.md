@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_suggested_answer](/_Standards/schema-org/Relation/has/has_suggested_answer.md) 
+### #is_/same_as :: [has_suggested_answer](/_Standards/schema-org/Relation/has/has_suggested_answer.md) 
 
-### [has_suggested_answer.public](/_public/schema-org/Relation/has/has_suggested_answer.public.md) 
+### #is_/same_as :: [has_suggested_answer.public](/_public/schema-org/Relation/has/has_suggested_answer.public.md) 
 
-### [has_suggested_answer.internal](/_internal/schema-org/Relation/has/has_suggested_answer.internal.md) 
+### #is_/same_as :: [has_suggested_answer.internal](/_internal/schema-org/Relation/has/has_suggested_answer.internal.md) 
 
-### [has_suggested_answer.protect](/_protect/schema-org/Relation/has/has_suggested_answer.protect.md) 
+### #is_/same_as :: [has_suggested_answer.protect](/_protect/schema-org/Relation/has/has_suggested_answer.protect.md) 
 
-### [has_suggested_answer.private](/_private/schema-org/Relation/has/has_suggested_answer.private.md) 
+### #is_/same_as :: [has_suggested_answer.private](/_private/schema-org/Relation/has/has_suggested_answer.private.md) 
 
-### [has_suggested_answer.personal](/_personal/schema-org/Relation/has/has_suggested_answer.personal.md) 
+### #is_/same_as :: [has_suggested_answer.personal](/_personal/schema-org/Relation/has/has_suggested_answer.personal.md) 
 
-### [has_suggested_answer.secret](/_secret/schema-org/Relation/has/has_suggested_answer.secret.md)
+### #is_/same_as :: [has_suggested_answer.secret](/_secret/schema-org/Relation/has/has_suggested_answer.secret.md)
 

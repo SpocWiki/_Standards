@@ -49,17 +49,17 @@ Represents the downpayment (up-front payment) price component of the total price
 
 ## Confidential Links & Embeds: 
 
-### [downpayment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.md) 
+### #is_/same_as :: [downpayment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.md) 
 
-### [downpayment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.public.md) 
+### #is_/same_as :: [downpayment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.public.md) 
 
-### [downpayment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
+### #is_/same_as :: [downpayment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
 
-### [downpayment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.protect.md) 
+### #is_/same_as :: [downpayment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.protect.md) 
 
-### [downpayment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.private.md) 
+### #is_/same_as :: [downpayment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.private.md) 
 
-### [downpayment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
+### #is_/same_as :: [downpayment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
 
-### [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md)
+### #is_/same_as :: [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md)
 

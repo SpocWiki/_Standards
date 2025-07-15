@@ -62,23 +62,19 @@ short_name: g.
 > [Wikipedia](https://en.wikipedia.org/wiki/Genus) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [bio~Genus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.md) 
+### #is_/same_as :: [bio~Genus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.md) 
 
-### [bio~Genus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.public.md) 
+### #is_/same_as :: [bio~Genus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.public.md) 
 
-### [bio~Genus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.internal.md) 
+### #is_/same_as :: [bio~Genus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.internal.md) 
 
-### [bio~Genus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.protect.md) 
+### #is_/same_as :: [bio~Genus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.protect.md) 
 
-### [bio~Genus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.private.md) 
+### #is_/same_as :: [bio~Genus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.private.md) 
 
-### [bio~Genus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.personal.md) 
+### #is_/same_as :: [bio~Genus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.personal.md) 
 
-### [bio~Genus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.secret.md)
+### #is_/same_as :: [bio~Genus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus.secret.md)
 

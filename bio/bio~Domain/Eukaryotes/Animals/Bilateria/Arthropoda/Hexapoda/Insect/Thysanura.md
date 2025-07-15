@@ -68,21 +68,19 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2003 [David R. Maddison](http://david.bembidion.org/) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Thysanura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.md) 
+### #is_/same_as :: [Thysanura](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.md) 
 
-### [Thysanura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.public.md) 
+### #is_/same_as :: [Thysanura.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.public.md) 
 
-### [Thysanura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.internal.md) 
+### #is_/same_as :: [Thysanura.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.internal.md) 
 
-### [Thysanura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.protect.md) 
+### #is_/same_as :: [Thysanura.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.protect.md) 
 
-### [Thysanura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.private.md) 
+### #is_/same_as :: [Thysanura.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.private.md) 
 
-### [Thysanura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.personal.md) 
+### #is_/same_as :: [Thysanura.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.personal.md) 
 
-### [Thysanura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.secret.md)
+### #is_/same_as :: [Thysanura.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Insect/Thysanura.secret.md)
 

@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_legislation_passed_by](/_Standards/schema-org/Relation/is/is_legislation_passed_by.md) 
+### #is_/same_as :: [is_legislation_passed_by](/_Standards/schema-org/Relation/is/is_legislation_passed_by.md) 
 
-### [is_legislation_passed_by.public](/_public/schema-org/Relation/is/is_legislation_passed_by.public.md) 
+### #is_/same_as :: [is_legislation_passed_by.public](/_public/schema-org/Relation/is/is_legislation_passed_by.public.md) 
 
-### [is_legislation_passed_by.internal](/_internal/schema-org/Relation/is/is_legislation_passed_by.internal.md) 
+### #is_/same_as :: [is_legislation_passed_by.internal](/_internal/schema-org/Relation/is/is_legislation_passed_by.internal.md) 
 
-### [is_legislation_passed_by.protect](/_protect/schema-org/Relation/is/is_legislation_passed_by.protect.md) 
+### #is_/same_as :: [is_legislation_passed_by.protect](/_protect/schema-org/Relation/is/is_legislation_passed_by.protect.md) 
 
-### [is_legislation_passed_by.private](/_private/schema-org/Relation/is/is_legislation_passed_by.private.md) 
+### #is_/same_as :: [is_legislation_passed_by.private](/_private/schema-org/Relation/is/is_legislation_passed_by.private.md) 
 
-### [is_legislation_passed_by.personal](/_personal/schema-org/Relation/is/is_legislation_passed_by.personal.md) 
+### #is_/same_as :: [is_legislation_passed_by.personal](/_personal/schema-org/Relation/is/is_legislation_passed_by.personal.md) 
 
-### [is_legislation_passed_by.secret](/_secret/schema-org/Relation/is/is_legislation_passed_by.secret.md)
+### #is_/same_as :: [is_legislation_passed_by.secret](/_secret/schema-org/Relation/is/is_legislation_passed_by.secret.md)
 

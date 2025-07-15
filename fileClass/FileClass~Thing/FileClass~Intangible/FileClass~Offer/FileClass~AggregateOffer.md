@@ -88,17 +88,17 @@ Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AggregateOffer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.md) 
+### #is_/same_as :: [FileClass~AggregateOffer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.md) 
 
-### [FileClass~AggregateOffer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.public.md) 
+### #is_/same_as :: [FileClass~AggregateOffer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.public.md) 
 
-### [FileClass~AggregateOffer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.internal.md) 
+### #is_/same_as :: [FileClass~AggregateOffer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.internal.md) 
 
-### [FileClass~AggregateOffer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.protect.md) 
+### #is_/same_as :: [FileClass~AggregateOffer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.protect.md) 
 
-### [FileClass~AggregateOffer.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.private.md) 
+### #is_/same_as :: [FileClass~AggregateOffer.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.private.md) 
 
-### [FileClass~AggregateOffer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.personal.md) 
+### #is_/same_as :: [FileClass~AggregateOffer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.personal.md) 
 
-### [FileClass~AggregateOffer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.secret.md)
+### #is_/same_as :: [FileClass~AggregateOffer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.secret.md)
 

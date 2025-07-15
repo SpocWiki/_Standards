@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_job_immediate_start](/_Standards/schema-org/Property/Flags/is_job_immediate_start.md) 
+### #is_/same_as :: [is_job_immediate_start](/_Standards/schema-org/Property/Flags/is_job_immediate_start.md) 
 
-### [is_job_immediate_start.public](/_public/schema-org/Property/Flags/is_job_immediate_start.public.md) 
+### #is_/same_as :: [is_job_immediate_start.public](/_public/schema-org/Property/Flags/is_job_immediate_start.public.md) 
 
-### [is_job_immediate_start.internal](/_internal/schema-org/Property/Flags/is_job_immediate_start.internal.md) 
+### #is_/same_as :: [is_job_immediate_start.internal](/_internal/schema-org/Property/Flags/is_job_immediate_start.internal.md) 
 
-### [is_job_immediate_start.protect](/_protect/schema-org/Property/Flags/is_job_immediate_start.protect.md) 
+### #is_/same_as :: [is_job_immediate_start.protect](/_protect/schema-org/Property/Flags/is_job_immediate_start.protect.md) 
 
-### [is_job_immediate_start.private](/_private/schema-org/Property/Flags/is_job_immediate_start.private.md) 
+### #is_/same_as :: [is_job_immediate_start.private](/_private/schema-org/Property/Flags/is_job_immediate_start.private.md) 
 
-### [is_job_immediate_start.personal](/_personal/schema-org/Property/Flags/is_job_immediate_start.personal.md) 
+### #is_/same_as :: [is_job_immediate_start.personal](/_personal/schema-org/Property/Flags/is_job_immediate_start.personal.md) 
 
-### [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md)
+### #is_/same_as :: [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md)
 

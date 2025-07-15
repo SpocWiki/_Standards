@@ -41,17 +41,17 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 
-### [Choiseul](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.md) 
+### #is_/same_as :: [Choiseul](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.md) 
 
-### [Choiseul.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.public.md) 
+### #is_/same_as :: [Choiseul.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.public.md) 
 
-### [Choiseul.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.internal.md) 
+### #is_/same_as :: [Choiseul.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.internal.md) 
 
-### [Choiseul.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.protect.md) 
+### #is_/same_as :: [Choiseul.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.protect.md) 
 
-### [Choiseul.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.private.md) 
+### #is_/same_as :: [Choiseul.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.private.md) 
 
-### [Choiseul.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.personal.md) 
+### #is_/same_as :: [Choiseul.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.personal.md) 
 
-### [Choiseul.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.secret.md)
+### #is_/same_as :: [Choiseul.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.secret.md)
 

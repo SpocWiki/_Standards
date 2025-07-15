@@ -123,17 +123,17 @@ ServiceUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ServiceChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.md) 
+### #is_/same_as :: [FileClass~ServiceChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.md) 
 
-### [FileClass~ServiceChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.public.md) 
+### #is_/same_as :: [FileClass~ServiceChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.public.md) 
 
-### [FileClass~ServiceChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.internal.md) 
+### #is_/same_as :: [FileClass~ServiceChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.internal.md) 
 
-### [FileClass~ServiceChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.protect.md) 
+### #is_/same_as :: [FileClass~ServiceChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.protect.md) 
 
-### [FileClass~ServiceChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.private.md) 
+### #is_/same_as :: [FileClass~ServiceChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.private.md) 
 
-### [FileClass~ServiceChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.personal.md) 
+### #is_/same_as :: [FileClass~ServiceChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.personal.md) 
 
-### [FileClass~ServiceChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret.md)
+### #is_/same_as :: [FileClass~ServiceChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret.md)
 

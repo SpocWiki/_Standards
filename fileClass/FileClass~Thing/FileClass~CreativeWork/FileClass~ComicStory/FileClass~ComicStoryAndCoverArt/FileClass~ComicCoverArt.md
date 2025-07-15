@@ -35,17 +35,17 @@ The artwork on the cover of a comic.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicCoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.md) 
 
-### [FileClass~ComicCoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.public.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.public.md) 
 
-### [FileClass~ComicCoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.internal.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.internal.md) 
 
-### [FileClass~ComicCoverArt.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.protect.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.protect.md) 
 
-### [FileClass~ComicCoverArt.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.private.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.private.md) 
 
-### [FileClass~ComicCoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.personal.md) 
+### #is_/same_as :: [FileClass~ComicCoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.personal.md) 
 
-### [FileClass~ComicCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.secret.md)
+### #is_/same_as :: [FileClass~ComicCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.secret.md)
 

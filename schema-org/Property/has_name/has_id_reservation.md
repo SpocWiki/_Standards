@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_reservation](/_Standards/schema-org/Property/has_name/has_id_reservation.md) 
+### #is_/same_as :: [has_id_reservation](/_Standards/schema-org/Property/has_name/has_id_reservation.md) 
 
-### [has_id_reservation.public](/_public/schema-org/Property/has_name/has_id_reservation.public.md) 
+### #is_/same_as :: [has_id_reservation.public](/_public/schema-org/Property/has_name/has_id_reservation.public.md) 
 
-### [has_id_reservation.internal](/_internal/schema-org/Property/has_name/has_id_reservation.internal.md) 
+### #is_/same_as :: [has_id_reservation.internal](/_internal/schema-org/Property/has_name/has_id_reservation.internal.md) 
 
-### [has_id_reservation.protect](/_protect/schema-org/Property/has_name/has_id_reservation.protect.md) 
+### #is_/same_as :: [has_id_reservation.protect](/_protect/schema-org/Property/has_name/has_id_reservation.protect.md) 
 
-### [has_id_reservation.private](/_private/schema-org/Property/has_name/has_id_reservation.private.md) 
+### #is_/same_as :: [has_id_reservation.private](/_private/schema-org/Property/has_name/has_id_reservation.private.md) 
 
-### [has_id_reservation.personal](/_personal/schema-org/Property/has_name/has_id_reservation.personal.md) 
+### #is_/same_as :: [has_id_reservation.personal](/_personal/schema-org/Property/has_name/has_id_reservation.personal.md) 
 
-### [has_id_reservation.secret](/_secret/schema-org/Property/has_name/has_id_reservation.secret.md)
+### #is_/same_as :: [has_id_reservation.secret](/_secret/schema-org/Property/has_name/has_id_reservation.secret.md)
 

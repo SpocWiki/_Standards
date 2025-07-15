@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_potential_action](/_Standards/schema-org/Relation/has/has_potential_action.md) 
+### #is_/same_as :: [has_potential_action](/_Standards/schema-org/Relation/has/has_potential_action.md) 
 
-### [has_potential_action.public](/_public/schema-org/Relation/has/has_potential_action.public.md) 
+### #is_/same_as :: [has_potential_action.public](/_public/schema-org/Relation/has/has_potential_action.public.md) 
 
-### [has_potential_action.internal](/_internal/schema-org/Relation/has/has_potential_action.internal.md) 
+### #is_/same_as :: [has_potential_action.internal](/_internal/schema-org/Relation/has/has_potential_action.internal.md) 
 
-### [has_potential_action.protect](/_protect/schema-org/Relation/has/has_potential_action.protect.md) 
+### #is_/same_as :: [has_potential_action.protect](/_protect/schema-org/Relation/has/has_potential_action.protect.md) 
 
-### [has_potential_action.private](/_private/schema-org/Relation/has/has_potential_action.private.md) 
+### #is_/same_as :: [has_potential_action.private](/_private/schema-org/Relation/has/has_potential_action.private.md) 
 
-### [has_potential_action.personal](/_personal/schema-org/Relation/has/has_potential_action.personal.md) 
+### #is_/same_as :: [has_potential_action.personal](/_personal/schema-org/Relation/has/has_potential_action.personal.md) 
 
-### [has_potential_action.secret](/_secret/schema-org/Relation/has/has_potential_action.secret.md)
+### #is_/same_as :: [has_potential_action.secret](/_secret/schema-org/Relation/has/has_potential_action.secret.md)
 

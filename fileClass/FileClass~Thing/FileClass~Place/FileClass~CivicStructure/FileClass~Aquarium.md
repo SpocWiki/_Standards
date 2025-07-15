@@ -35,17 +35,17 @@ Aquarium.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Aquarium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.md) 
+### #is_/same_as :: [FileClass~Aquarium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.md) 
 
-### [FileClass~Aquarium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.public.md) 
+### #is_/same_as :: [FileClass~Aquarium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.public.md) 
 
-### [FileClass~Aquarium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.internal.md) 
+### #is_/same_as :: [FileClass~Aquarium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.internal.md) 
 
-### [FileClass~Aquarium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.protect.md) 
+### #is_/same_as :: [FileClass~Aquarium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.protect.md) 
 
-### [FileClass~Aquarium.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.private.md) 
+### #is_/same_as :: [FileClass~Aquarium.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.private.md) 
 
-### [FileClass~Aquarium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.personal.md) 
+### #is_/same_as :: [FileClass~Aquarium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.personal.md) 
 
-### [FileClass~Aquarium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret.md)
+### #is_/same_as :: [FileClass~Aquarium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_code_for_discount](/_Standards/schema-org/Property/has_name/has_code_for_discount.md) 
+### #is_/same_as :: [has_code_for_discount](/_Standards/schema-org/Property/has_name/has_code_for_discount.md) 
 
-### [has_code_for_discount.public](/_public/schema-org/Property/has_name/has_code_for_discount.public.md) 
+### #is_/same_as :: [has_code_for_discount.public](/_public/schema-org/Property/has_name/has_code_for_discount.public.md) 
 
-### [has_code_for_discount.internal](/_internal/schema-org/Property/has_name/has_code_for_discount.internal.md) 
+### #is_/same_as :: [has_code_for_discount.internal](/_internal/schema-org/Property/has_name/has_code_for_discount.internal.md) 
 
-### [has_code_for_discount.protect](/_protect/schema-org/Property/has_name/has_code_for_discount.protect.md) 
+### #is_/same_as :: [has_code_for_discount.protect](/_protect/schema-org/Property/has_name/has_code_for_discount.protect.md) 
 
-### [has_code_for_discount.private](/_private/schema-org/Property/has_name/has_code_for_discount.private.md) 
+### #is_/same_as :: [has_code_for_discount.private](/_private/schema-org/Property/has_name/has_code_for_discount.private.md) 
 
-### [has_code_for_discount.personal](/_personal/schema-org/Property/has_name/has_code_for_discount.personal.md) 
+### #is_/same_as :: [has_code_for_discount.personal](/_personal/schema-org/Property/has_name/has_code_for_discount.personal.md) 
 
-### [has_code_for_discount.secret](/_secret/schema-org/Property/has_name/has_code_for_discount.secret.md)
+### #is_/same_as :: [has_code_for_discount.secret](/_secret/schema-org/Property/has_name/has_code_for_discount.secret.md)
 

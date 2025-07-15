@@ -107,21 +107,19 @@ present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Euclid)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Euclid](/_Standards/bio/People/Scientist/Ancient_Scientists/Euclid.md) 
+### #is_/same_as :: [Euclid](/_Standards/bio/People/Scientist/Ancient_Scientists/Euclid.md) 
 
-### [Euclid.public](/_public/bio/People/Scientist/Ancient_Scientists/Euclid.public.md) 
+### #is_/same_as :: [Euclid.public](/_public/bio/People/Scientist/Ancient_Scientists/Euclid.public.md) 
 
-### [Euclid.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Euclid.internal.md) 
+### #is_/same_as :: [Euclid.internal](/_internal/bio/People/Scientist/Ancient_Scientists/Euclid.internal.md) 
 
-### [Euclid.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Euclid.protect.md) 
+### #is_/same_as :: [Euclid.protect](/_protect/bio/People/Scientist/Ancient_Scientists/Euclid.protect.md) 
 
-### [Euclid.private](/_private/bio/People/Scientist/Ancient_Scientists/Euclid.private.md) 
+### #is_/same_as :: [Euclid.private](/_private/bio/People/Scientist/Ancient_Scientists/Euclid.private.md) 
 
-### [Euclid.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Euclid.personal.md) 
+### #is_/same_as :: [Euclid.personal](/_personal/bio/People/Scientist/Ancient_Scientists/Euclid.personal.md) 
 
-### [Euclid.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Euclid.secret.md)
+### #is_/same_as :: [Euclid.secret](/_secret/bio/People/Scientist/Ancient_Scientists/Euclid.secret.md)
 

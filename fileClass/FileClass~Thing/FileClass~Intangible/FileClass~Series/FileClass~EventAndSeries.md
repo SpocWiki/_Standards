@@ -449,17 +449,17 @@ WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~EventAndSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.md) 
+### #is_/same_as :: [FileClass~EventAndSeries](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.md) 
 
-### [FileClass~EventAndSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.public.md) 
+### #is_/same_as :: [FileClass~EventAndSeries.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.public.md) 
 
-### [FileClass~EventAndSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.internal.md) 
+### #is_/same_as :: [FileClass~EventAndSeries.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.internal.md) 
 
-### [FileClass~EventAndSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.protect.md) 
+### #is_/same_as :: [FileClass~EventAndSeries.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.protect.md) 
 
-### [FileClass~EventAndSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.private.md) 
+### #is_/same_as :: [FileClass~EventAndSeries.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.private.md) 
 
-### [FileClass~EventAndSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.personal.md) 
+### #is_/same_as :: [FileClass~EventAndSeries.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.personal.md) 
 
-### [FileClass~EventAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.secret.md)
+### #is_/same_as :: [FileClass~EventAndSeries.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries.secret.md)
 

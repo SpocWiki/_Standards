@@ -776,17 +776,17 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 
 ## Confidential Links & Embeds: 
 
-### [Japan](/_Standards/Earth/Continent/Asia/Asia~East/Japan.md) 
+### #is_/same_as :: [Japan](/_Standards/Earth/Continent/Asia/Asia~East/Japan.md) 
 
-### [Japan.public](/_public/Earth/Continent/Asia/Asia~East/Japan.public.md) 
+### #is_/same_as :: [Japan.public](/_public/Earth/Continent/Asia/Asia~East/Japan.public.md) 
 
-### [Japan.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan.internal.md) 
+### #is_/same_as :: [Japan.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan.internal.md) 
 
-### [Japan.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan.protect.md) 
+### #is_/same_as :: [Japan.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan.protect.md) 
 
-### [Japan.private](/_private/Earth/Continent/Asia/Asia~East/Japan.private.md) 
+### #is_/same_as :: [Japan.private](/_private/Earth/Continent/Asia/Asia~East/Japan.private.md) 
 
-### [Japan.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan.personal.md) 
+### #is_/same_as :: [Japan.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan.personal.md) 
 
-### [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md)
+### #is_/same_as :: [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md)
 

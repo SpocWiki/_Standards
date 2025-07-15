@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_cvd_facility](/_Standards/schema-org/Property/has_name/has_id_cvd_facility.md) 
+### #is_/same_as :: [has_id_cvd_facility](/_Standards/schema-org/Property/has_name/has_id_cvd_facility.md) 
 
-### [has_id_cvd_facility.public](/_public/schema-org/Property/has_name/has_id_cvd_facility.public.md) 
+### #is_/same_as :: [has_id_cvd_facility.public](/_public/schema-org/Property/has_name/has_id_cvd_facility.public.md) 
 
-### [has_id_cvd_facility.internal](/_internal/schema-org/Property/has_name/has_id_cvd_facility.internal.md) 
+### #is_/same_as :: [has_id_cvd_facility.internal](/_internal/schema-org/Property/has_name/has_id_cvd_facility.internal.md) 
 
-### [has_id_cvd_facility.protect](/_protect/schema-org/Property/has_name/has_id_cvd_facility.protect.md) 
+### #is_/same_as :: [has_id_cvd_facility.protect](/_protect/schema-org/Property/has_name/has_id_cvd_facility.protect.md) 
 
-### [has_id_cvd_facility.private](/_private/schema-org/Property/has_name/has_id_cvd_facility.private.md) 
+### #is_/same_as :: [has_id_cvd_facility.private](/_private/schema-org/Property/has_name/has_id_cvd_facility.private.md) 
 
-### [has_id_cvd_facility.personal](/_personal/schema-org/Property/has_name/has_id_cvd_facility.personal.md) 
+### #is_/same_as :: [has_id_cvd_facility.personal](/_personal/schema-org/Property/has_name/has_id_cvd_facility.personal.md) 
 
-### [has_id_cvd_facility.secret](/_secret/schema-org/Property/has_name/has_id_cvd_facility.secret.md)
+### #is_/same_as :: [has_id_cvd_facility.secret](/_secret/schema-org/Property/has_name/has_id_cvd_facility.secret.md)
 

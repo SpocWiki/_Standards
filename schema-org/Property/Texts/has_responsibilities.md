@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_responsibilities](/_Standards/schema-org/Property/Texts/has_responsibilities.md) 
+### #is_/same_as :: [has_responsibilities](/_Standards/schema-org/Property/Texts/has_responsibilities.md) 
 
-### [has_responsibilities.public](/_public/schema-org/Property/Texts/has_responsibilities.public.md) 
+### #is_/same_as :: [has_responsibilities.public](/_public/schema-org/Property/Texts/has_responsibilities.public.md) 
 
-### [has_responsibilities.internal](/_internal/schema-org/Property/Texts/has_responsibilities.internal.md) 
+### #is_/same_as :: [has_responsibilities.internal](/_internal/schema-org/Property/Texts/has_responsibilities.internal.md) 
 
-### [has_responsibilities.protect](/_protect/schema-org/Property/Texts/has_responsibilities.protect.md) 
+### #is_/same_as :: [has_responsibilities.protect](/_protect/schema-org/Property/Texts/has_responsibilities.protect.md) 
 
-### [has_responsibilities.private](/_private/schema-org/Property/Texts/has_responsibilities.private.md) 
+### #is_/same_as :: [has_responsibilities.private](/_private/schema-org/Property/Texts/has_responsibilities.private.md) 
 
-### [has_responsibilities.personal](/_personal/schema-org/Property/Texts/has_responsibilities.personal.md) 
+### #is_/same_as :: [has_responsibilities.personal](/_personal/schema-org/Property/Texts/has_responsibilities.personal.md) 
 
-### [has_responsibilities.secret](/_secret/schema-org/Property/Texts/has_responsibilities.secret.md)
+### #is_/same_as :: [has_responsibilities.secret](/_secret/schema-org/Property/Texts/has_responsibilities.secret.md)
 

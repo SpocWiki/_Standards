@@ -49,17 +49,17 @@ Measurement of the hip section, for example of a skirt
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_hips](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.md) 
+### #is_/same_as :: [wearable_measurement_hips](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.md) 
 
-### [wearable_measurement_hips.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.public.md) 
+### #is_/same_as :: [wearable_measurement_hips.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.public.md) 
 
-### [wearable_measurement_hips.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.internal.md) 
+### #is_/same_as :: [wearable_measurement_hips.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.internal.md) 
 
-### [wearable_measurement_hips.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.protect.md) 
+### #is_/same_as :: [wearable_measurement_hips.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.protect.md) 
 
-### [wearable_measurement_hips.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.private.md) 
+### #is_/same_as :: [wearable_measurement_hips.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.private.md) 
 
-### [wearable_measurement_hips.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.personal.md) 
+### #is_/same_as :: [wearable_measurement_hips.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.personal.md) 
 
-### [wearable_measurement_hips.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.secret.md)
+### #is_/same_as :: [wearable_measurement_hips.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.secret.md)
 

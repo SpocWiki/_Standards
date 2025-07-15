@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_recipe_cuisine](/_Standards/schema-org/Property/Texts/has_recipe_cuisine.md) 
+### #is_/same_as :: [has_recipe_cuisine](/_Standards/schema-org/Property/Texts/has_recipe_cuisine.md) 
 
-### [has_recipe_cuisine.public](/_public/schema-org/Property/Texts/has_recipe_cuisine.public.md) 
+### #is_/same_as :: [has_recipe_cuisine.public](/_public/schema-org/Property/Texts/has_recipe_cuisine.public.md) 
 
-### [has_recipe_cuisine.internal](/_internal/schema-org/Property/Texts/has_recipe_cuisine.internal.md) 
+### #is_/same_as :: [has_recipe_cuisine.internal](/_internal/schema-org/Property/Texts/has_recipe_cuisine.internal.md) 
 
-### [has_recipe_cuisine.protect](/_protect/schema-org/Property/Texts/has_recipe_cuisine.protect.md) 
+### #is_/same_as :: [has_recipe_cuisine.protect](/_protect/schema-org/Property/Texts/has_recipe_cuisine.protect.md) 
 
-### [has_recipe_cuisine.private](/_private/schema-org/Property/Texts/has_recipe_cuisine.private.md) 
+### #is_/same_as :: [has_recipe_cuisine.private](/_private/schema-org/Property/Texts/has_recipe_cuisine.private.md) 
 
-### [has_recipe_cuisine.personal](/_personal/schema-org/Property/Texts/has_recipe_cuisine.personal.md) 
+### #is_/same_as :: [has_recipe_cuisine.personal](/_personal/schema-org/Property/Texts/has_recipe_cuisine.personal.md) 
 
-### [has_recipe_cuisine.secret](/_secret/schema-org/Property/Texts/has_recipe_cuisine.secret.md)
+### #is_/same_as :: [has_recipe_cuisine.secret](/_secret/schema-org/Property/Texts/has_recipe_cuisine.secret.md)
 

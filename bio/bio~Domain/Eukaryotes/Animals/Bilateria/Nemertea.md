@@ -81,22 +81,19 @@ Collector            Jon L Norenburg
 Copyright ::            © 2004 [Jon L. Norenburg](http://nemertes.si.edu/) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nemertea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.md) 
+### #is_/same_as :: [Nemertea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.md) 
 
-### [Nemertea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.public.md) 
+### #is_/same_as :: [Nemertea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.public.md) 
 
-### [Nemertea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.internal.md) 
+### #is_/same_as :: [Nemertea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.internal.md) 
 
-### [Nemertea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.protect.md) 
+### #is_/same_as :: [Nemertea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.protect.md) 
 
-### [Nemertea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.private.md) 
+### #is_/same_as :: [Nemertea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.private.md) 
 
-### [Nemertea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.personal.md) 
+### #is_/same_as :: [Nemertea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.personal.md) 
 
-### [Nemertea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.secret.md)
+### #is_/same_as :: [Nemertea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nemertea.secret.md)
 

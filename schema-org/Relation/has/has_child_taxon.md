@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_child_taxon](/_Standards/schema-org/Relation/has/has_child_taxon.md) 
+### #is_/same_as :: [has_child_taxon](/_Standards/schema-org/Relation/has/has_child_taxon.md) 
 
-### [has_child_taxon.public](/_public/schema-org/Relation/has/has_child_taxon.public.md) 
+### #is_/same_as :: [has_child_taxon.public](/_public/schema-org/Relation/has/has_child_taxon.public.md) 
 
-### [has_child_taxon.internal](/_internal/schema-org/Relation/has/has_child_taxon.internal.md) 
+### #is_/same_as :: [has_child_taxon.internal](/_internal/schema-org/Relation/has/has_child_taxon.internal.md) 
 
-### [has_child_taxon.protect](/_protect/schema-org/Relation/has/has_child_taxon.protect.md) 
+### #is_/same_as :: [has_child_taxon.protect](/_protect/schema-org/Relation/has/has_child_taxon.protect.md) 
 
-### [has_child_taxon.private](/_private/schema-org/Relation/has/has_child_taxon.private.md) 
+### #is_/same_as :: [has_child_taxon.private](/_private/schema-org/Relation/has/has_child_taxon.private.md) 
 
-### [has_child_taxon.personal](/_personal/schema-org/Relation/has/has_child_taxon.personal.md) 
+### #is_/same_as :: [has_child_taxon.personal](/_personal/schema-org/Relation/has/has_child_taxon.personal.md) 
 
-### [has_child_taxon.secret](/_secret/schema-org/Relation/has/has_child_taxon.secret.md)
+### #is_/same_as :: [has_child_taxon.secret](/_secret/schema-org/Relation/has/has_child_taxon.secret.md)
 

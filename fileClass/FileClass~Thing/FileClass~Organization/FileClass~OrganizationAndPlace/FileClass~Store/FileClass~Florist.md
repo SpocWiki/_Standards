@@ -35,17 +35,17 @@ A florist.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Florist](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.md) 
+### #is_/same_as :: [FileClass~Florist](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.md) 
 
-### [FileClass~Florist.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.public.md) 
+### #is_/same_as :: [FileClass~Florist.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.public.md) 
 
-### [FileClass~Florist.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.internal.md) 
+### #is_/same_as :: [FileClass~Florist.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.internal.md) 
 
-### [FileClass~Florist.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.protect.md) 
+### #is_/same_as :: [FileClass~Florist.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.protect.md) 
 
-### [FileClass~Florist.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.private.md) 
+### #is_/same_as :: [FileClass~Florist.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.private.md) 
 
-### [FileClass~Florist.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.personal.md) 
+### #is_/same_as :: [FileClass~Florist.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.personal.md) 
 
-### [FileClass~Florist.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.secret.md)
+### #is_/same_as :: [FileClass~Florist.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~Florist.secret.md)
 

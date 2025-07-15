@@ -45,21 +45,19 @@ It forms scattered stands in Texas, Coahuila, Durango, and Nuevo Leon.
 -   » Sub-Groups 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [remota](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.md) 
+### #is_/same_as :: [remota](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.md) 
 
-### [remota.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.public.md) 
+### #is_/same_as :: [remota.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.public.md) 
 
-### [remota.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.internal.md) 
+### #is_/same_as :: [remota.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.internal.md) 
 
-### [remota.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.protect.md) 
+### #is_/same_as :: [remota.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.protect.md) 
 
-### [remota.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.private.md) 
+### #is_/same_as :: [remota.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.private.md) 
 
-### [remota.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.personal.md) 
+### #is_/same_as :: [remota.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.personal.md) 
 
-### [remota.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.secret.md)
+### #is_/same_as :: [remota.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/remota.secret.md)
 

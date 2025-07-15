@@ -45,17 +45,17 @@ A series of movies. Included movies can be indicated with the hasPart property.
 
 ## Confidential Links & Embeds: 
 
-### [movie_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.md) 
+### #is_/same_as :: [movie_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.md) 
 
-### [movie_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.public.md) 
+### #is_/same_as :: [movie_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.public.md) 
 
-### [movie_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.internal.md) 
+### #is_/same_as :: [movie_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.internal.md) 
 
-### [movie_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.protect.md) 
+### #is_/same_as :: [movie_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.protect.md) 
 
-### [movie_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.private.md) 
+### #is_/same_as :: [movie_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.private.md) 
 
-### [movie_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.personal.md) 
+### #is_/same_as :: [movie_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.personal.md) 
 
-### [movie_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.secret.md)
+### #is_/same_as :: [movie_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/movie_series.secret.md)
 

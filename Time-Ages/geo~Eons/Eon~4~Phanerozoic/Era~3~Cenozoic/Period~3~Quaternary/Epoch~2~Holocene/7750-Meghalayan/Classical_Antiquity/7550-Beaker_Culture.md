@@ -43,22 +43,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bell%20Beaker%20culture) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [7550-Beaker_Culture](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.md) 
+### #is_/same_as :: [7550-Beaker_Culture](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.md) 
 
-### [7550-Beaker_Culture.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.public.md) 
+### #is_/same_as :: [7550-Beaker_Culture.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.public.md) 
 
-### [7550-Beaker_Culture.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.internal.md) 
+### #is_/same_as :: [7550-Beaker_Culture.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.internal.md) 
 
-### [7550-Beaker_Culture.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.protect.md) 
+### #is_/same_as :: [7550-Beaker_Culture.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.protect.md) 
 
-### [7550-Beaker_Culture.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.private.md) 
+### #is_/same_as :: [7550-Beaker_Culture.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.private.md) 
 
-### [7550-Beaker_Culture.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.personal.md) 
+### #is_/same_as :: [7550-Beaker_Culture.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.personal.md) 
 
-### [7550-Beaker_Culture.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.secret.md)
+### #is_/same_as :: [7550-Beaker_Culture.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/7550-Beaker_Culture.secret.md)
 

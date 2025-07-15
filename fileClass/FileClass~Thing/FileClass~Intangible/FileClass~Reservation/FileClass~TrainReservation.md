@@ -37,17 +37,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TrainReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.md) 
+### #is_/same_as :: [FileClass~TrainReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.md) 
 
-### [FileClass~TrainReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.public.md) 
+### #is_/same_as :: [FileClass~TrainReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.public.md) 
 
-### [FileClass~TrainReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.internal.md) 
+### #is_/same_as :: [FileClass~TrainReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.internal.md) 
 
-### [FileClass~TrainReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.protect.md) 
+### #is_/same_as :: [FileClass~TrainReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.protect.md) 
 
-### [FileClass~TrainReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.private.md) 
+### #is_/same_as :: [FileClass~TrainReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.private.md) 
 
-### [FileClass~TrainReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.personal.md) 
+### #is_/same_as :: [FileClass~TrainReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.personal.md) 
 
-### [FileClass~TrainReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.secret.md)
+### #is_/same_as :: [FileClass~TrainReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.secret.md)
 

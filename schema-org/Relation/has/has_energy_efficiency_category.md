@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_energy_efficiency_category](/_Standards/schema-org/Relation/has/has_energy_efficiency_category.md) 
+### #is_/same_as :: [has_energy_efficiency_category](/_Standards/schema-org/Relation/has/has_energy_efficiency_category.md) 
 
-### [has_energy_efficiency_category.public](/_public/schema-org/Relation/has/has_energy_efficiency_category.public.md) 
+### #is_/same_as :: [has_energy_efficiency_category.public](/_public/schema-org/Relation/has/has_energy_efficiency_category.public.md) 
 
-### [has_energy_efficiency_category.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal.md) 
+### #is_/same_as :: [has_energy_efficiency_category.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal.md) 
 
-### [has_energy_efficiency_category.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_category.protect.md) 
+### #is_/same_as :: [has_energy_efficiency_category.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_category.protect.md) 
 
-### [has_energy_efficiency_category.private](/_private/schema-org/Relation/has/has_energy_efficiency_category.private.md) 
+### #is_/same_as :: [has_energy_efficiency_category.private](/_private/schema-org/Relation/has/has_energy_efficiency_category.private.md) 
 
-### [has_energy_efficiency_category.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal.md) 
+### #is_/same_as :: [has_energy_efficiency_category.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal.md) 
 
-### [has_energy_efficiency_category.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret.md)
+### #is_/same_as :: [has_energy_efficiency_category.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret.md)
 

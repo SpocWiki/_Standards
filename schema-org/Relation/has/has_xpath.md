@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_xpath](/_Standards/schema-org/Relation/has/has_xpath.md) 
+### #is_/same_as :: [has_xpath](/_Standards/schema-org/Relation/has/has_xpath.md) 
 
-### [has_xpath.public](/_public/schema-org/Relation/has/has_xpath.public.md) 
+### #is_/same_as :: [has_xpath.public](/_public/schema-org/Relation/has/has_xpath.public.md) 
 
-### [has_xpath.internal](/_internal/schema-org/Relation/has/has_xpath.internal.md) 
+### #is_/same_as :: [has_xpath.internal](/_internal/schema-org/Relation/has/has_xpath.internal.md) 
 
-### [has_xpath.protect](/_protect/schema-org/Relation/has/has_xpath.protect.md) 
+### #is_/same_as :: [has_xpath.protect](/_protect/schema-org/Relation/has/has_xpath.protect.md) 
 
-### [has_xpath.private](/_private/schema-org/Relation/has/has_xpath.private.md) 
+### #is_/same_as :: [has_xpath.private](/_private/schema-org/Relation/has/has_xpath.private.md) 
 
-### [has_xpath.personal](/_personal/schema-org/Relation/has/has_xpath.personal.md) 
+### #is_/same_as :: [has_xpath.personal](/_personal/schema-org/Relation/has/has_xpath.personal.md) 
 
-### [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md)
+### #is_/same_as :: [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md)
 

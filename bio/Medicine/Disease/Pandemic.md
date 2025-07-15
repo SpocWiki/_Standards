@@ -34,21 +34,19 @@ Einkorn -> Emmer -> Weizen -> Dinkel
 Nur Weizen hat keine Spelzen 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Pandemic](/_Standards/bio/Medicine/Disease/Pandemic.md) 
+### #is_/same_as :: [Pandemic](/_Standards/bio/Medicine/Disease/Pandemic.md) 
 
-### [Pandemic.public](/_public/bio/Medicine/Disease/Pandemic.public.md) 
+### #is_/same_as :: [Pandemic.public](/_public/bio/Medicine/Disease/Pandemic.public.md) 
 
-### [Pandemic.internal](/_internal/bio/Medicine/Disease/Pandemic.internal.md) 
+### #is_/same_as :: [Pandemic.internal](/_internal/bio/Medicine/Disease/Pandemic.internal.md) 
 
-### [Pandemic.protect](/_protect/bio/Medicine/Disease/Pandemic.protect.md) 
+### #is_/same_as :: [Pandemic.protect](/_protect/bio/Medicine/Disease/Pandemic.protect.md) 
 
-### [Pandemic.private](/_private/bio/Medicine/Disease/Pandemic.private.md) 
+### #is_/same_as :: [Pandemic.private](/_private/bio/Medicine/Disease/Pandemic.private.md) 
 
-### [Pandemic.personal](/_personal/bio/Medicine/Disease/Pandemic.personal.md) 
+### #is_/same_as :: [Pandemic.personal](/_personal/bio/Medicine/Disease/Pandemic.personal.md) 
 
-### [Pandemic.secret](/_secret/bio/Medicine/Disease/Pandemic.secret.md)
+### #is_/same_as :: [Pandemic.secret](/_secret/bio/Medicine/Disease/Pandemic.secret.md)
 

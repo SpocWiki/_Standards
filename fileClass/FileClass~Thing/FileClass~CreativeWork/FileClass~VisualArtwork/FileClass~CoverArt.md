@@ -35,17 +35,17 @@ The artwork on the outer surface of a CreativeWork.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.md) 
+### #is_/same_as :: [FileClass~CoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.md) 
 
-### [FileClass~CoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.public.md) 
+### #is_/same_as :: [FileClass~CoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.public.md) 
 
-### [FileClass~CoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.internal.md) 
+### #is_/same_as :: [FileClass~CoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.internal.md) 
 
-### [FileClass~CoverArt.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.protect.md) 
+### #is_/same_as :: [FileClass~CoverArt.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.protect.md) 
 
-### [FileClass~CoverArt.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.private.md) 
+### #is_/same_as :: [FileClass~CoverArt.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.private.md) 
 
-### [FileClass~CoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.personal.md) 
+### #is_/same_as :: [FileClass~CoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.personal.md) 
 
-### [FileClass~CoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret.md)
+### #is_/same_as :: [FileClass~CoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret.md)
 

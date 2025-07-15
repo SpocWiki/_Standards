@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_suggested_min_age](/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_min_age.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age](/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_min_age.md) 
 
-### [has_value_for_suggested_min_age.public](/_public/schema-org/Property/has_value_for/has_value_for_suggested_min_age.public.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age.public](/_public/schema-org/Property/has_value_for/has_value_for_suggested_min_age.public.md) 
 
-### [has_value_for_suggested_min_age.internal](/_internal/schema-org/Property/has_value_for/has_value_for_suggested_min_age.internal.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age.internal](/_internal/schema-org/Property/has_value_for/has_value_for_suggested_min_age.internal.md) 
 
-### [has_value_for_suggested_min_age.protect](/_protect/schema-org/Property/has_value_for/has_value_for_suggested_min_age.protect.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age.protect](/_protect/schema-org/Property/has_value_for/has_value_for_suggested_min_age.protect.md) 
 
-### [has_value_for_suggested_min_age.private](/_private/schema-org/Property/has_value_for/has_value_for_suggested_min_age.private.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age.private](/_private/schema-org/Property/has_value_for/has_value_for_suggested_min_age.private.md) 
 
-### [has_value_for_suggested_min_age.personal](/_personal/schema-org/Property/has_value_for/has_value_for_suggested_min_age.personal.md) 
+### #is_/same_as :: [has_value_for_suggested_min_age.personal](/_personal/schema-org/Property/has_value_for/has_value_for_suggested_min_age.personal.md) 
 
-### [has_value_for_suggested_min_age.secret](/_secret/schema-org/Property/has_value_for/has_value_for_suggested_min_age.secret.md)
+### #is_/same_as :: [has_value_for_suggested_min_age.secret](/_secret/schema-org/Property/has_value_for/has_value_for_suggested_min_age.secret.md)
 

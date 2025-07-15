@@ -14,17 +14,17 @@ Notable subclasses are
 
 ## Confidential Links & Embeds: 
 
-### [Agent](/_Standards/schema-org/Class/is_a_/Agent.md) 
+### #is_/same_as :: [Agent](/_Standards/schema-org/Class/is_a_/Agent.md) 
 
-### [Agent.public](/_public/schema-org/Class/is_a_/Agent.public.md) 
+### #is_/same_as :: [Agent.public](/_public/schema-org/Class/is_a_/Agent.public.md) 
 
-### [Agent.internal](/_internal/schema-org/Class/is_a_/Agent.internal.md) 
+### #is_/same_as :: [Agent.internal](/_internal/schema-org/Class/is_a_/Agent.internal.md) 
 
-### [Agent.protect](/_protect/schema-org/Class/is_a_/Agent.protect.md) 
+### #is_/same_as :: [Agent.protect](/_protect/schema-org/Class/is_a_/Agent.protect.md) 
 
-### [Agent.private](/_private/schema-org/Class/is_a_/Agent.private.md) 
+### #is_/same_as :: [Agent.private](/_private/schema-org/Class/is_a_/Agent.private.md) 
 
-### [Agent.personal](/_personal/schema-org/Class/is_a_/Agent.personal.md) 
+### #is_/same_as :: [Agent.personal](/_personal/schema-org/Class/is_a_/Agent.personal.md) 
 
-### [Agent.secret](/_secret/schema-org/Class/is_a_/Agent.secret.md)
+### #is_/same_as :: [Agent.secret](/_secret/schema-org/Class/is_a_/Agent.secret.md)
 

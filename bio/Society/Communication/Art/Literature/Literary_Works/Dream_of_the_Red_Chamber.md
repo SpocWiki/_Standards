@@ -121,21 +121,19 @@ copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Dream%20of%20the%20Red%20Chamber) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Dream_of_the_Red_Chamber](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.md) 
 
-### [Dream_of_the_Red_Chamber.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.public.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.public.md) 
 
-### [Dream_of_the_Red_Chamber.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.internal.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.internal.md) 
 
-### [Dream_of_the_Red_Chamber.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.protect.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.protect.md) 
 
-### [Dream_of_the_Red_Chamber.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.private.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.private.md) 
 
-### [Dream_of_the_Red_Chamber.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.personal.md) 
+### #is_/same_as :: [Dream_of_the_Red_Chamber.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.personal.md) 
 
-### [Dream_of_the_Red_Chamber.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.secret.md)
+### #is_/same_as :: [Dream_of_the_Red_Chamber.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Dream_of_the_Red_Chamber.secret.md)
 

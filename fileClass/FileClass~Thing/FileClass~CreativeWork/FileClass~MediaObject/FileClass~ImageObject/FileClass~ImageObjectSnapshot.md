@@ -35,17 +35,17 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ImageObjectSnapshot](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.md) 
 
-### [FileClass~ImageObjectSnapshot.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.public.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.public.md) 
 
-### [FileClass~ImageObjectSnapshot.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.internal.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.internal.md) 
 
-### [FileClass~ImageObjectSnapshot.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.protect.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.protect.md) 
 
-### [FileClass~ImageObjectSnapshot.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.private.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.private.md) 
 
-### [FileClass~ImageObjectSnapshot.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.personal.md) 
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.personal.md) 
 
-### [FileClass~ImageObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.secret.md)
+### #is_/same_as :: [FileClass~ImageObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.secret.md)
 

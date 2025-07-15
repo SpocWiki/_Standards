@@ -73,17 +73,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Tommotian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.md) 
+### #is_/same_as :: [Age~2~Tommotian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.md) 
 
-### [Age~2~Tommotian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.public.md) 
+### #is_/same_as :: [Age~2~Tommotian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.public.md) 
 
-### [Age~2~Tommotian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.internal.md) 
+### #is_/same_as :: [Age~2~Tommotian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.internal.md) 
 
-### [Age~2~Tommotian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.protect.md) 
+### #is_/same_as :: [Age~2~Tommotian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.protect.md) 
 
-### [Age~2~Tommotian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.private.md) 
+### #is_/same_as :: [Age~2~Tommotian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.private.md) 
 
-### [Age~2~Tommotian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.personal.md) 
+### #is_/same_as :: [Age~2~Tommotian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.personal.md) 
 
-### [Age~2~Tommotian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.secret.md)
+### #is_/same_as :: [Age~2~Tommotian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.secret.md)
 

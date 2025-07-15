@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_prescribing_by_mail](/_Standards/schema-org/Property/Flags/is_prescribing_by_mail.md) 
+### #is_/same_as :: [is_prescribing_by_mail](/_Standards/schema-org/Property/Flags/is_prescribing_by_mail.md) 
 
-### [is_prescribing_by_mail.public](/_public/schema-org/Property/Flags/is_prescribing_by_mail.public.md) 
+### #is_/same_as :: [is_prescribing_by_mail.public](/_public/schema-org/Property/Flags/is_prescribing_by_mail.public.md) 
 
-### [is_prescribing_by_mail.internal](/_internal/schema-org/Property/Flags/is_prescribing_by_mail.internal.md) 
+### #is_/same_as :: [is_prescribing_by_mail.internal](/_internal/schema-org/Property/Flags/is_prescribing_by_mail.internal.md) 
 
-### [is_prescribing_by_mail.protect](/_protect/schema-org/Property/Flags/is_prescribing_by_mail.protect.md) 
+### #is_/same_as :: [is_prescribing_by_mail.protect](/_protect/schema-org/Property/Flags/is_prescribing_by_mail.protect.md) 
 
-### [is_prescribing_by_mail.private](/_private/schema-org/Property/Flags/is_prescribing_by_mail.private.md) 
+### #is_/same_as :: [is_prescribing_by_mail.private](/_private/schema-org/Property/Flags/is_prescribing_by_mail.private.md) 
 
-### [is_prescribing_by_mail.personal](/_personal/schema-org/Property/Flags/is_prescribing_by_mail.personal.md) 
+### #is_/same_as :: [is_prescribing_by_mail.personal](/_personal/schema-org/Property/Flags/is_prescribing_by_mail.personal.md) 
 
-### [is_prescribing_by_mail.secret](/_secret/schema-org/Property/Flags/is_prescribing_by_mail.secret.md)
+### #is_/same_as :: [is_prescribing_by_mail.secret](/_secret/schema-org/Property/Flags/is_prescribing_by_mail.secret.md)
 

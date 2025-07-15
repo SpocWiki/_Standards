@@ -101,17 +101,17 @@ WorstRating:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Rating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.md) 
+### #is_/same_as :: [FileClass~Rating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.md) 
 
-### [FileClass~Rating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.public.md) 
+### #is_/same_as :: [FileClass~Rating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.public.md) 
 
-### [FileClass~Rating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.internal.md) 
+### #is_/same_as :: [FileClass~Rating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.internal.md) 
 
-### [FileClass~Rating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.protect.md) 
+### #is_/same_as :: [FileClass~Rating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.protect.md) 
 
-### [FileClass~Rating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.private.md) 
+### #is_/same_as :: [FileClass~Rating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.private.md) 
 
-### [FileClass~Rating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.personal.md) 
+### #is_/same_as :: [FileClass~Rating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.personal.md) 
 
-### [FileClass~Rating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.secret.md)
+### #is_/same_as :: [FileClass~Rating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating.secret.md)
 

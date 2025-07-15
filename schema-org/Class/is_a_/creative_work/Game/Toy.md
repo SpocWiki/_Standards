@@ -61,22 +61,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Toy) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Toy](/_Standards/schema-org/Class/is_a_/creative_work/Game/Toy.md) 
+### #is_/same_as :: [Toy](/_Standards/schema-org/Class/is_a_/creative_work/Game/Toy.md) 
 
-### [Toy.public](/_public/schema-org/Class/is_a_/creative_work/Game/Toy.public.md) 
+### #is_/same_as :: [Toy.public](/_public/schema-org/Class/is_a_/creative_work/Game/Toy.public.md) 
 
-### [Toy.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Toy.internal.md) 
+### #is_/same_as :: [Toy.internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Toy.internal.md) 
 
-### [Toy.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Toy.protect.md) 
+### #is_/same_as :: [Toy.protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Toy.protect.md) 
 
-### [Toy.private](/_private/schema-org/Class/is_a_/creative_work/Game/Toy.private.md) 
+### #is_/same_as :: [Toy.private](/_private/schema-org/Class/is_a_/creative_work/Game/Toy.private.md) 
 
-### [Toy.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Toy.personal.md) 
+### #is_/same_as :: [Toy.personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Toy.personal.md) 
 
-### [Toy.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Toy.secret.md)
+### #is_/same_as :: [Toy.secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Toy.secret.md)
 

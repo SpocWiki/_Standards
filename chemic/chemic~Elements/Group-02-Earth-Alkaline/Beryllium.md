@@ -161,17 +161,17 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%
 
 ## Confidential Links & Embeds: 
 
-### [Beryllium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.md) 
+### #is_/same_as :: [Beryllium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.md) 
 
-### [Beryllium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.public.md) 
+### #is_/same_as :: [Beryllium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.public.md) 
 
-### [Beryllium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.internal.md) 
+### #is_/same_as :: [Beryllium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.internal.md) 
 
-### [Beryllium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.protect.md) 
+### #is_/same_as :: [Beryllium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.protect.md) 
 
-### [Beryllium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.private.md) 
+### #is_/same_as :: [Beryllium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.private.md) 
 
-### [Beryllium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.personal.md) 
+### #is_/same_as :: [Beryllium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.personal.md) 
 
-### [Beryllium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.secret.md)
+### #is_/same_as :: [Beryllium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Beryllium.secret.md)
 

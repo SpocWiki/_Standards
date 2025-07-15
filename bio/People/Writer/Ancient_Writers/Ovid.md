@@ -95,21 +95,19 @@ Royal_Academy_new_identifier: ovid
 > [Wikipedia](https://en.wikipedia.org/wiki/Ovid)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Ovid](/_Standards/bio/People/Writer/Ancient_Writers/Ovid.md) 
+### #is_/same_as :: [Ovid](/_Standards/bio/People/Writer/Ancient_Writers/Ovid.md) 
 
-### [Ovid.public](/_public/bio/People/Writer/Ancient_Writers/Ovid.public.md) 
+### #is_/same_as :: [Ovid.public](/_public/bio/People/Writer/Ancient_Writers/Ovid.public.md) 
 
-### [Ovid.internal](/_internal/bio/People/Writer/Ancient_Writers/Ovid.internal.md) 
+### #is_/same_as :: [Ovid.internal](/_internal/bio/People/Writer/Ancient_Writers/Ovid.internal.md) 
 
-### [Ovid.protect](/_protect/bio/People/Writer/Ancient_Writers/Ovid.protect.md) 
+### #is_/same_as :: [Ovid.protect](/_protect/bio/People/Writer/Ancient_Writers/Ovid.protect.md) 
 
-### [Ovid.private](/_private/bio/People/Writer/Ancient_Writers/Ovid.private.md) 
+### #is_/same_as :: [Ovid.private](/_private/bio/People/Writer/Ancient_Writers/Ovid.private.md) 
 
-### [Ovid.personal](/_personal/bio/People/Writer/Ancient_Writers/Ovid.personal.md) 
+### #is_/same_as :: [Ovid.personal](/_personal/bio/People/Writer/Ancient_Writers/Ovid.personal.md) 
 
-### [Ovid.secret](/_secret/bio/People/Writer/Ancient_Writers/Ovid.secret.md)
+### #is_/same_as :: [Ovid.secret](/_secret/bio/People/Writer/Ancient_Writers/Ovid.secret.md)
 

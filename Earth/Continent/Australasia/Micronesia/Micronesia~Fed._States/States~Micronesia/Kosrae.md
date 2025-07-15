@@ -41,17 +41,17 @@ markerFolder: ./Kosrae/
 
 ## Confidential Links & Embeds: 
 
-### [Kosrae](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.md) 
+### #is_/same_as :: [Kosrae](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.md) 
 
-### [Kosrae.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public.md) 
+### #is_/same_as :: [Kosrae.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public.md) 
 
-### [Kosrae.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal.md) 
+### #is_/same_as :: [Kosrae.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal.md) 
 
-### [Kosrae.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect.md) 
+### #is_/same_as :: [Kosrae.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect.md) 
 
-### [Kosrae.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private.md) 
+### #is_/same_as :: [Kosrae.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private.md) 
 
-### [Kosrae.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal.md) 
+### #is_/same_as :: [Kosrae.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal.md) 
 
-### [Kosrae.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret.md)
+### #is_/same_as :: [Kosrae.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret.md)
 

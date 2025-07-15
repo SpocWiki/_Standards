@@ -47,17 +47,17 @@ A subclass of Role used to describe roles within organizations.
 
 ## Confidential Links & Embeds: 
 
-### [organization_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role.md) 
+### #is_/same_as :: [organization_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role.md) 
 
-### [organization_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role.public.md) 
+### #is_/same_as :: [organization_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role.public.md) 
 
-### [organization_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role.internal.md) 
+### #is_/same_as :: [organization_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role.internal.md) 
 
-### [organization_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/organization_role.protect.md) 
+### #is_/same_as :: [organization_role.protect](/_protect/schema-org/Class/is_a_/Intangible/role/organization_role.protect.md) 
 
-### [organization_role.private](/_private/schema-org/Class/is_a_/Intangible/role/organization_role.private.md) 
+### #is_/same_as :: [organization_role.private](/_private/schema-org/Class/is_a_/Intangible/role/organization_role.private.md) 
 
-### [organization_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role.personal.md) 
+### #is_/same_as :: [organization_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role.personal.md) 
 
-### [organization_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role.secret.md)
+### #is_/same_as :: [organization_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role.secret.md)
 

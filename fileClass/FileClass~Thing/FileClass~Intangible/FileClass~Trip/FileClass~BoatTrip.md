@@ -57,17 +57,17 @@ DepartureBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BoatTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.md) 
+### #is_/same_as :: [FileClass~BoatTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.md) 
 
-### [FileClass~BoatTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.public.md) 
+### #is_/same_as :: [FileClass~BoatTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.public.md) 
 
-### [FileClass~BoatTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.internal.md) 
+### #is_/same_as :: [FileClass~BoatTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.internal.md) 
 
-### [FileClass~BoatTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.protect.md) 
+### #is_/same_as :: [FileClass~BoatTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.protect.md) 
 
-### [FileClass~BoatTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.private.md) 
+### #is_/same_as :: [FileClass~BoatTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.private.md) 
 
-### [FileClass~BoatTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.personal.md) 
+### #is_/same_as :: [FileClass~BoatTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.personal.md) 
 
-### [FileClass~BoatTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.secret.md)
+### #is_/same_as :: [FileClass~BoatTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.secret.md)
 

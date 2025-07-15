@@ -35,17 +35,17 @@ Capital :: [[Paris]]
 
 ## Confidential Links & Embeds: 
 
-### [France~Metropolitan](/_Standards/Earth/Continent/Europe/Europe~West/France~Metropolitan.md) 
+### #is_/same_as :: [France~Metropolitan](/_Standards/Earth/Continent/Europe/Europe~West/France~Metropolitan.md) 
 
-### [France~Metropolitan.public](/_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.public.md) 
+### #is_/same_as :: [France~Metropolitan.public](/_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.public.md) 
 
-### [France~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~West/France~Metropolitan.internal.md) 
+### #is_/same_as :: [France~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~West/France~Metropolitan.internal.md) 
 
-### [France~Metropolitan.protect](/_protect/Earth/Continent/Europe/Europe~West/France~Metropolitan.protect.md) 
+### #is_/same_as :: [France~Metropolitan.protect](/_protect/Earth/Continent/Europe/Europe~West/France~Metropolitan.protect.md) 
 
-### [France~Metropolitan.private](/_private/Earth/Continent/Europe/Europe~West/France~Metropolitan.private.md) 
+### #is_/same_as :: [France~Metropolitan.private](/_private/Earth/Continent/Europe/Europe~West/France~Metropolitan.private.md) 
 
-### [France~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~West/France~Metropolitan.personal.md) 
+### #is_/same_as :: [France~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~West/France~Metropolitan.personal.md) 
 
-### [France~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret.md)
+### #is_/same_as :: [France~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret.md)
 

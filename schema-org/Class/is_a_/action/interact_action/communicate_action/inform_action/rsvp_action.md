@@ -45,17 +45,17 @@ The act of notifying an event organizer as to whether you expect to attend the e
 
 ## Confidential Links & Embeds: 
 
-### [rsvp_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.md) 
+### #is_/same_as :: [rsvp_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.md) 
 
-### [rsvp_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.public.md) 
+### #is_/same_as :: [rsvp_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.public.md) 
 
-### [rsvp_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.internal.md) 
+### #is_/same_as :: [rsvp_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.internal.md) 
 
-### [rsvp_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.protect.md) 
+### #is_/same_as :: [rsvp_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.protect.md) 
 
-### [rsvp_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.private.md) 
+### #is_/same_as :: [rsvp_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.private.md) 
 
-### [rsvp_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.personal.md) 
+### #is_/same_as :: [rsvp_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.personal.md) 
 
-### [rsvp_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.secret.md)
+### #is_/same_as :: [rsvp_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/rsvp_action.secret.md)
 

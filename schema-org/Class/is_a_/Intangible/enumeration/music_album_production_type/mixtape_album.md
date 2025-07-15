@@ -47,17 +47,17 @@ MixtapeAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [mixtape_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.md) 
+### #is_/same_as :: [mixtape_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.md) 
 
-### [mixtape_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.public.md) 
+### #is_/same_as :: [mixtape_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.public.md) 
 
-### [mixtape_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.internal.md) 
+### #is_/same_as :: [mixtape_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.internal.md) 
 
-### [mixtape_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.protect.md) 
+### #is_/same_as :: [mixtape_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.protect.md) 
 
-### [mixtape_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.private.md) 
+### #is_/same_as :: [mixtape_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.private.md) 
 
-### [mixtape_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.personal.md) 
+### #is_/same_as :: [mixtape_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.personal.md) 
 
-### [mixtape_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.secret.md)
+### #is_/same_as :: [mixtape_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/mixtape_album.secret.md)
 

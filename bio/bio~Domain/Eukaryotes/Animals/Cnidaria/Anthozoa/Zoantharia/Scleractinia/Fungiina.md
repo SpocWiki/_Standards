@@ -51,17 +51,17 @@ of Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### [Fungiina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.md) 
+### #is_/same_as :: [Fungiina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.md) 
 
-### [Fungiina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.public.md) 
+### #is_/same_as :: [Fungiina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.public.md) 
 
-### [Fungiina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.internal.md) 
+### #is_/same_as :: [Fungiina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.internal.md) 
 
-### [Fungiina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.protect.md) 
+### #is_/same_as :: [Fungiina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.protect.md) 
 
-### [Fungiina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.private.md) 
+### #is_/same_as :: [Fungiina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.private.md) 
 
-### [Fungiina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.personal.md) 
+### #is_/same_as :: [Fungiina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.personal.md) 
 
-### [Fungiina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.secret.md)
+### #is_/same_as :: [Fungiina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Fungiina.secret.md)
 

@@ -36,21 +36,19 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Ni%C3%B1o%E2%80%93Southern%20Oscillation)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [El_Niño–Southern_Oscillation](/_Standards/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation](/_Standards/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.md) 
 
-### [El_Niño–Southern_Oscillation.public](/_public/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.public.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.public](/_public/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.public.md) 
 
-### [El_Niño–Southern_Oscillation.internal](/_internal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.internal.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.internal](/_internal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.internal.md) 
 
-### [El_Niño–Southern_Oscillation.protect](/_protect/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.protect.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.protect](/_protect/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.protect.md) 
 
-### [El_Niño–Southern_Oscillation.private](/_private/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.private.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.private](/_private/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.private.md) 
 
-### [El_Niño–Southern_Oscillation.personal](/_personal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.personal.md) 
+### #is_/same_as :: [El_Niño–Southern_Oscillation.personal](/_personal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.personal.md) 
 
-### [El_Niño–Southern_Oscillation.secret](/_secret/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.secret.md)
+### #is_/same_as :: [El_Niño–Southern_Oscillation.secret](/_secret/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.secret.md)
 

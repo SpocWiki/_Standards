@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Levi-Civita,Tullio](/_Standards/bio/People/Mathematician/Levi-Civita,Tullio.md) 
+### #is_/same_as :: [Levi-Civita,Tullio](/_Standards/bio/People/Mathematician/Levi-Civita,Tullio.md) 
 
-### [Levi-Civita,Tullio.public](/_public/bio/People/Mathematician/Levi-Civita,Tullio.public.md) 
+### #is_/same_as :: [Levi-Civita,Tullio.public](/_public/bio/People/Mathematician/Levi-Civita,Tullio.public.md) 
 
-### [Levi-Civita,Tullio.internal](/_internal/bio/People/Mathematician/Levi-Civita,Tullio.internal.md) 
+### #is_/same_as :: [Levi-Civita,Tullio.internal](/_internal/bio/People/Mathematician/Levi-Civita,Tullio.internal.md) 
 
-### [Levi-Civita,Tullio.protect](/_protect/bio/People/Mathematician/Levi-Civita,Tullio.protect.md) 
+### #is_/same_as :: [Levi-Civita,Tullio.protect](/_protect/bio/People/Mathematician/Levi-Civita,Tullio.protect.md) 
 
-### [Levi-Civita,Tullio.private](/_private/bio/People/Mathematician/Levi-Civita,Tullio.private.md) 
+### #is_/same_as :: [Levi-Civita,Tullio.private](/_private/bio/People/Mathematician/Levi-Civita,Tullio.private.md) 
 
-### [Levi-Civita,Tullio.personal](/_personal/bio/People/Mathematician/Levi-Civita,Tullio.personal.md) 
+### #is_/same_as :: [Levi-Civita,Tullio.personal](/_personal/bio/People/Mathematician/Levi-Civita,Tullio.personal.md) 
 
-### [Levi-Civita,Tullio.secret](/_secret/bio/People/Mathematician/Levi-Civita,Tullio.secret.md)
+### #is_/same_as :: [Levi-Civita,Tullio.secret](/_secret/bio/People/Mathematician/Levi-Civita,Tullio.secret.md)
 

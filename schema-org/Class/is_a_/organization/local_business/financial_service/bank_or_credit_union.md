@@ -45,17 +45,17 @@ Bank or credit union.
 
 ## Confidential Links & Embeds: 
 
-### [bank_or_credit_union](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.md) 
+### #is_/same_as :: [bank_or_credit_union](/_Standards/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.md) 
 
-### [bank_or_credit_union.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.public.md) 
+### #is_/same_as :: [bank_or_credit_union.public](/_public/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.public.md) 
 
-### [bank_or_credit_union.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.internal.md) 
+### #is_/same_as :: [bank_or_credit_union.internal](/_internal/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.internal.md) 
 
-### [bank_or_credit_union.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.protect.md) 
+### #is_/same_as :: [bank_or_credit_union.protect](/_protect/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.protect.md) 
 
-### [bank_or_credit_union.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.private.md) 
+### #is_/same_as :: [bank_or_credit_union.private](/_private/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.private.md) 
 
-### [bank_or_credit_union.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.personal.md) 
+### #is_/same_as :: [bank_or_credit_union.personal](/_personal/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.personal.md) 
 
-### [bank_or_credit_union.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.secret.md)
+### #is_/same_as :: [bank_or_credit_union.secret](/_secret/schema-org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.secret.md)
 

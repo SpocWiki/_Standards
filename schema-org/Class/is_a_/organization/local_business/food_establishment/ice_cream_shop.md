@@ -45,17 +45,17 @@ An ice cream shop.
 
 ## Confidential Links & Embeds: 
 
-### [ice_cream_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.md) 
+### #is_/same_as :: [ice_cream_shop](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.md) 
 
-### [ice_cream_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.public.md) 
+### #is_/same_as :: [ice_cream_shop.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.public.md) 
 
-### [ice_cream_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md) 
+### #is_/same_as :: [ice_cream_shop.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md) 
 
-### [ice_cream_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md) 
+### #is_/same_as :: [ice_cream_shop.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md) 
 
-### [ice_cream_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md) 
+### #is_/same_as :: [ice_cream_shop.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md) 
 
-### [ice_cream_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md) 
+### #is_/same_as :: [ice_cream_shop.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md) 
 
-### [ice_cream_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md)
+### #is_/same_as :: [ice_cream_shop.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md)
 

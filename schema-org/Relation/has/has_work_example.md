@@ -58,17 +58,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_work_example](/_Standards/schema-org/Relation/has/has_work_example.md) 
+### #is_/same_as :: [has_work_example](/_Standards/schema-org/Relation/has/has_work_example.md) 
 
-### [has_work_example.public](/_public/schema-org/Relation/has/has_work_example.public.md) 
+### #is_/same_as :: [has_work_example.public](/_public/schema-org/Relation/has/has_work_example.public.md) 
 
-### [has_work_example.internal](/_internal/schema-org/Relation/has/has_work_example.internal.md) 
+### #is_/same_as :: [has_work_example.internal](/_internal/schema-org/Relation/has/has_work_example.internal.md) 
 
-### [has_work_example.protect](/_protect/schema-org/Relation/has/has_work_example.protect.md) 
+### #is_/same_as :: [has_work_example.protect](/_protect/schema-org/Relation/has/has_work_example.protect.md) 
 
-### [has_work_example.private](/_private/schema-org/Relation/has/has_work_example.private.md) 
+### #is_/same_as :: [has_work_example.private](/_private/schema-org/Relation/has/has_work_example.private.md) 
 
-### [has_work_example.personal](/_personal/schema-org/Relation/has/has_work_example.personal.md) 
+### #is_/same_as :: [has_work_example.personal](/_personal/schema-org/Relation/has/has_work_example.personal.md) 
 
-### [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md)
+### #is_/same_as :: [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md)
 

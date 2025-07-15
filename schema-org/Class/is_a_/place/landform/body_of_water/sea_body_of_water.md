@@ -45,17 +45,17 @@ A sea (for example, the Caspian sea).
 
 ## Confidential Links & Embeds: 
 
-### [sea_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.md) 
+### #is_/same_as :: [sea_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.md) 
 
-### [sea_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.public.md) 
+### #is_/same_as :: [sea_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.public.md) 
 
-### [sea_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.internal.md) 
+### #is_/same_as :: [sea_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.internal.md) 
 
-### [sea_body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.protect.md) 
+### #is_/same_as :: [sea_body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.protect.md) 
 
-### [sea_body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.private.md) 
+### #is_/same_as :: [sea_body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.private.md) 
 
-### [sea_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.personal.md) 
+### #is_/same_as :: [sea_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.personal.md) 
 
-### [sea_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.secret.md)
+### #is_/same_as :: [sea_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.secret.md)
 

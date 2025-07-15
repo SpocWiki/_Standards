@@ -47,17 +47,17 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 ## Confidential Links & Embeds: 
 
-### [health_plan_formulary](/_Standards/schema-org/Class/is_a_/Intangible/health_plan_formulary.md) 
+### #is_/same_as :: [health_plan_formulary](/_Standards/schema-org/Class/is_a_/Intangible/health_plan_formulary.md) 
 
-### [health_plan_formulary.public](/_public/schema-org/Class/is_a_/Intangible/health_plan_formulary.public.md) 
+### #is_/same_as :: [health_plan_formulary.public](/_public/schema-org/Class/is_a_/Intangible/health_plan_formulary.public.md) 
 
-### [health_plan_formulary.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_formulary.internal.md) 
+### #is_/same_as :: [health_plan_formulary.internal](/_internal/schema-org/Class/is_a_/Intangible/health_plan_formulary.internal.md) 
 
-### [health_plan_formulary.protect](/_protect/schema-org/Class/is_a_/Intangible/health_plan_formulary.protect.md) 
+### #is_/same_as :: [health_plan_formulary.protect](/_protect/schema-org/Class/is_a_/Intangible/health_plan_formulary.protect.md) 
 
-### [health_plan_formulary.private](/_private/schema-org/Class/is_a_/Intangible/health_plan_formulary.private.md) 
+### #is_/same_as :: [health_plan_formulary.private](/_private/schema-org/Class/is_a_/Intangible/health_plan_formulary.private.md) 
 
-### [health_plan_formulary.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_formulary.personal.md) 
+### #is_/same_as :: [health_plan_formulary.personal](/_personal/schema-org/Class/is_a_/Intangible/health_plan_formulary.personal.md) 
 
-### [health_plan_formulary.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_formulary.secret.md)
+### #is_/same_as :: [health_plan_formulary.secret](/_secret/schema-org/Class/is_a_/Intangible/health_plan_formulary.secret.md)
 

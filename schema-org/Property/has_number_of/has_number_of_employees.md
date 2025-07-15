@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_employees](/_Standards/schema-org/Property/has_number_of/has_number_of_employees.md) 
+### #is_/same_as :: [has_number_of_employees](/_Standards/schema-org/Property/has_number_of/has_number_of_employees.md) 
 
-### [has_number_of_employees.public](/_public/schema-org/Property/has_number_of/has_number_of_employees.public.md) 
+### #is_/same_as :: [has_number_of_employees.public](/_public/schema-org/Property/has_number_of/has_number_of_employees.public.md) 
 
-### [has_number_of_employees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal.md) 
+### #is_/same_as :: [has_number_of_employees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal.md) 
 
-### [has_number_of_employees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect.md) 
+### #is_/same_as :: [has_number_of_employees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect.md) 
 
-### [has_number_of_employees.private](/_private/schema-org/Property/has_number_of/has_number_of_employees.private.md) 
+### #is_/same_as :: [has_number_of_employees.private](/_private/schema-org/Property/has_number_of/has_number_of_employees.private.md) 
 
-### [has_number_of_employees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal.md) 
+### #is_/same_as :: [has_number_of_employees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal.md) 
 
-### [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md)
+### #is_/same_as :: [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md)
 

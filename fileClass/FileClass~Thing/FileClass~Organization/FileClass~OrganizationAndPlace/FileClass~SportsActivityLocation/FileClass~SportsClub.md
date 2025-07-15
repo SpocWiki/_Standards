@@ -35,17 +35,17 @@ A sports club.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SportsClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.md) 
+### #is_/same_as :: [FileClass~SportsClub](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.md) 
 
-### [FileClass~SportsClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.public.md) 
+### #is_/same_as :: [FileClass~SportsClub.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.public.md) 
 
-### [FileClass~SportsClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.internal.md) 
+### #is_/same_as :: [FileClass~SportsClub.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.internal.md) 
 
-### [FileClass~SportsClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.protect.md) 
+### #is_/same_as :: [FileClass~SportsClub.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.protect.md) 
 
-### [FileClass~SportsClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.private.md) 
+### #is_/same_as :: [FileClass~SportsClub.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.private.md) 
 
-### [FileClass~SportsClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.personal.md) 
+### #is_/same_as :: [FileClass~SportsClub.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.personal.md) 
 
-### [FileClass~SportsClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.secret.md)
+### #is_/same_as :: [FileClass~SportsClub.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~SportsClub.secret.md)
 

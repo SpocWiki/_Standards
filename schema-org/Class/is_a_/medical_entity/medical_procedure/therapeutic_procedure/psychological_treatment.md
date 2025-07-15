@@ -45,17 +45,17 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 ## Confidential Links & Embeds: 
 
-### [psychological_treatment](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.md) 
+### #is_/same_as :: [psychological_treatment](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.md) 
 
-### [psychological_treatment.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.public.md) 
+### #is_/same_as :: [psychological_treatment.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.public.md) 
 
-### [psychological_treatment.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.internal.md) 
+### #is_/same_as :: [psychological_treatment.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.internal.md) 
 
-### [psychological_treatment.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.protect.md) 
+### #is_/same_as :: [psychological_treatment.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.protect.md) 
 
-### [psychological_treatment.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.private.md) 
+### #is_/same_as :: [psychological_treatment.private](/_private/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.private.md) 
 
-### [psychological_treatment.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.personal.md) 
+### #is_/same_as :: [psychological_treatment.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.personal.md) 
 
-### [psychological_treatment.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.secret.md)
+### #is_/same_as :: [psychological_treatment.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.secret.md)
 

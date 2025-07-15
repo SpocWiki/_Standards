@@ -49,17 +49,17 @@ Specifies that the customer must pay the return shipping costs when returning a 
 
 ## Confidential Links & Embeds: 
 
-### [return_shipping_fees](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.md) 
+### #is_/same_as :: [return_shipping_fees](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.md) 
 
-### [return_shipping_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.public.md) 
+### #is_/same_as :: [return_shipping_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.public.md) 
 
-### [return_shipping_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.internal.md) 
+### #is_/same_as :: [return_shipping_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.internal.md) 
 
-### [return_shipping_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.protect.md) 
+### #is_/same_as :: [return_shipping_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.protect.md) 
 
-### [return_shipping_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.private.md) 
+### #is_/same_as :: [return_shipping_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.private.md) 
 
-### [return_shipping_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.personal.md) 
+### #is_/same_as :: [return_shipping_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.personal.md) 
 
-### [return_shipping_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.secret.md)
+### #is_/same_as :: [return_shipping_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.secret.md)
 

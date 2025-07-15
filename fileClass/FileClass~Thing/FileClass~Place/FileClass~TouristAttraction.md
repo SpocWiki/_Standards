@@ -56,17 +56,17 @@ TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TouristAttraction](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.md) 
+### #is_/same_as :: [FileClass~TouristAttraction](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.md) 
 
-### [FileClass~TouristAttraction.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.public.md) 
+### #is_/same_as :: [FileClass~TouristAttraction.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.public.md) 
 
-### [FileClass~TouristAttraction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.internal.md) 
+### #is_/same_as :: [FileClass~TouristAttraction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.internal.md) 
 
-### [FileClass~TouristAttraction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.protect.md) 
+### #is_/same_as :: [FileClass~TouristAttraction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.protect.md) 
 
-### [FileClass~TouristAttraction.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.private.md) 
+### #is_/same_as :: [FileClass~TouristAttraction.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.private.md) 
 
-### [FileClass~TouristAttraction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.personal.md) 
+### #is_/same_as :: [FileClass~TouristAttraction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.personal.md) 
 
-### [FileClass~TouristAttraction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.secret.md)
+### #is_/same_as :: [FileClass~TouristAttraction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristAttraction.secret.md)
 

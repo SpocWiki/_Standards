@@ -45,17 +45,17 @@ USNonprofitType: Non-profit organization type originating from the United States
 
 ## Confidential Links & Embeds: 
 
-### [us_nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.md) 
+### #is_/same_as :: [us_nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.md) 
 
-### [us_nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.public.md) 
+### #is_/same_as :: [us_nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.public.md) 
 
-### [us_nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md) 
+### #is_/same_as :: [us_nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md) 
 
-### [us_nonprofit_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.protect.md) 
+### #is_/same_as :: [us_nonprofit_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.protect.md) 
 
-### [us_nonprofit_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.private.md) 
+### #is_/same_as :: [us_nonprofit_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.private.md) 
 
-### [us_nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.personal.md) 
+### #is_/same_as :: [us_nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.personal.md) 
 
-### [us_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.secret.md)
+### #is_/same_as :: [us_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/us_nonprofit_type.secret.md)
 

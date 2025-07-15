@@ -35,17 +35,17 @@ The act of swallowing liquids.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrinkAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.md) 
+### #is_/same_as :: [FileClass~DrinkAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.md) 
 
-### [FileClass~DrinkAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.public.md) 
+### #is_/same_as :: [FileClass~DrinkAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.public.md) 
 
-### [FileClass~DrinkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.internal.md) 
+### #is_/same_as :: [FileClass~DrinkAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.internal.md) 
 
-### [FileClass~DrinkAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.protect.md) 
+### #is_/same_as :: [FileClass~DrinkAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.protect.md) 
 
-### [FileClass~DrinkAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.private.md) 
+### #is_/same_as :: [FileClass~DrinkAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.private.md) 
 
-### [FileClass~DrinkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.personal.md) 
+### #is_/same_as :: [FileClass~DrinkAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.personal.md) 
 
-### [FileClass~DrinkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.secret.md)
+### #is_/same_as :: [FileClass~DrinkAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~DrinkAction.secret.md)
 

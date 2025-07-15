@@ -38,17 +38,17 @@ has_id_wikidata: Q13955
 
 ## Confidential Links & Embeds: 
 
-### [Lang-ar](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
+### #is_/same_as :: [Lang-ar](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
 
-### [Lang-ar.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.public.md) 
+### #is_/same_as :: [Lang-ar.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.public.md) 
 
-### [Lang-ar.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.internal.md) 
+### #is_/same_as :: [Lang-ar.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.internal.md) 
 
-### [Lang-ar.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.protect.md) 
+### #is_/same_as :: [Lang-ar.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.protect.md) 
 
-### [Lang-ar.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.private.md) 
+### #is_/same_as :: [Lang-ar.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.private.md) 
 
-### [Lang-ar.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.personal.md) 
+### #is_/same_as :: [Lang-ar.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.personal.md) 
 
-### [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md)
+### #is_/same_as :: [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md)
 

@@ -60,17 +60,17 @@ markerFolder: ./Saipan/
 
 ## Confidential Links & Embeds: 
 
-### [Saipan](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.md) 
+### #is_/same_as :: [Saipan](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.md) 
 
-### [Saipan.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.public.md) 
+### #is_/same_as :: [Saipan.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.public.md) 
 
-### [Saipan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal.md) 
+### #is_/same_as :: [Saipan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal.md) 
 
-### [Saipan.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.protect.md) 
+### #is_/same_as :: [Saipan.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.protect.md) 
 
-### [Saipan.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.private.md) 
+### #is_/same_as :: [Saipan.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.private.md) 
 
-### [Saipan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal.md) 
+### #is_/same_as :: [Saipan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal.md) 
 
-### [Saipan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret.md)
+### #is_/same_as :: [Saipan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret.md)
 

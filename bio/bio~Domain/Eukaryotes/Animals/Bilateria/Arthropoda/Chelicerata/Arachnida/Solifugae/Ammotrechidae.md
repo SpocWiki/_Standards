@@ -75,22 +75,19 @@ Central America, South America, and the Caribbean Islands. 
   Copyright ::            © 2003 Warren E. Savary
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Ammotrechidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.md) 
+### #is_/same_as :: [Ammotrechidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.md) 
 
-### [Ammotrechidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.public.md) 
+### #is_/same_as :: [Ammotrechidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.public.md) 
 
-### [Ammotrechidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.internal.md) 
+### #is_/same_as :: [Ammotrechidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.internal.md) 
 
-### [Ammotrechidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.protect.md) 
+### #is_/same_as :: [Ammotrechidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.protect.md) 
 
-### [Ammotrechidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.private.md) 
+### #is_/same_as :: [Ammotrechidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.private.md) 
 
-### [Ammotrechidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.personal.md) 
+### #is_/same_as :: [Ammotrechidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.personal.md) 
 
-### [Ammotrechidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.secret.md)
+### #is_/same_as :: [Ammotrechidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Solifugae/Ammotrechidae.secret.md)
 

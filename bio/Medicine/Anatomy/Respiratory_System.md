@@ -46,24 +46,19 @@ TA98_Latin_term: "systema respiratorium"
 > [Wikipedia](https://en.wikipedia.org/wiki/Respiratory%20system)  
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Respiratory_System](/_Standards/bio/Medicine/Anatomy/Respiratory_System.md) 
+### #is_/same_as :: [Respiratory_System](/_Standards/bio/Medicine/Anatomy/Respiratory_System.md) 
 
-### [Respiratory_System.public](/_public/bio/Medicine/Anatomy/Respiratory_System.public.md) 
+### #is_/same_as :: [Respiratory_System.public](/_public/bio/Medicine/Anatomy/Respiratory_System.public.md) 
 
-### [Respiratory_System.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System.internal.md) 
+### #is_/same_as :: [Respiratory_System.internal](/_internal/bio/Medicine/Anatomy/Respiratory_System.internal.md) 
 
-### [Respiratory_System.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System.protect.md) 
+### #is_/same_as :: [Respiratory_System.protect](/_protect/bio/Medicine/Anatomy/Respiratory_System.protect.md) 
 
-### [Respiratory_System.private](/_private/bio/Medicine/Anatomy/Respiratory_System.private.md) 
+### #is_/same_as :: [Respiratory_System.private](/_private/bio/Medicine/Anatomy/Respiratory_System.private.md) 
 
-### [Respiratory_System.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System.personal.md) 
+### #is_/same_as :: [Respiratory_System.personal](/_personal/bio/Medicine/Anatomy/Respiratory_System.personal.md) 
 
-### [Respiratory_System.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System.secret.md)
+### #is_/same_as :: [Respiratory_System.secret](/_secret/bio/Medicine/Anatomy/Respiratory_System.secret.md)
 

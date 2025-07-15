@@ -98,17 +98,17 @@ ShippingRate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShippingRateSettings](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.md) 
 
-### [FileClass~ShippingRateSettings.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.public.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.public.md) 
 
-### [FileClass~ShippingRateSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.internal.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.internal.md) 
 
-### [FileClass~ShippingRateSettings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.protect.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.protect.md) 
 
-### [FileClass~ShippingRateSettings.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.private.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.private.md) 
 
-### [FileClass~ShippingRateSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.personal.md) 
+### #is_/same_as :: [FileClass~ShippingRateSettings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.personal.md) 
 
-### [FileClass~ShippingRateSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret.md)
+### #is_/same_as :: [FileClass~ShippingRateSettings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingRateSettings.secret.md)
 

@@ -35,17 +35,17 @@ One of the continents (for example, Europe or Africa).
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Continent](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.md) 
+### #is_/same_as :: [FileClass~Continent](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.md) 
 
-### [FileClass~Continent.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.public.md) 
+### #is_/same_as :: [FileClass~Continent.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.public.md) 
 
-### [FileClass~Continent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.internal.md) 
+### #is_/same_as :: [FileClass~Continent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.internal.md) 
 
-### [FileClass~Continent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.protect.md) 
+### #is_/same_as :: [FileClass~Continent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.protect.md) 
 
-### [FileClass~Continent.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.private.md) 
+### #is_/same_as :: [FileClass~Continent.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.private.md) 
 
-### [FileClass~Continent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.personal.md) 
+### #is_/same_as :: [FileClass~Continent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.personal.md) 
 
-### [FileClass~Continent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret.md)
+### #is_/same_as :: [FileClass~Continent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~Continent.secret.md)
 

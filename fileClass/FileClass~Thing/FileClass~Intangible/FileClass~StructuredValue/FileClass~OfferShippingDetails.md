@@ -169,17 +169,17 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~OfferShippingDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.md) 
 
-### [FileClass~OfferShippingDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.public.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.public.md) 
 
-### [FileClass~OfferShippingDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.internal.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.internal.md) 
 
-### [FileClass~OfferShippingDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.protect.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.protect.md) 
 
-### [FileClass~OfferShippingDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.private.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.private.md) 
 
-### [FileClass~OfferShippingDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.personal.md) 
+### #is_/same_as :: [FileClass~OfferShippingDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.personal.md) 
 
-### [FileClass~OfferShippingDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.secret.md)
+### #is_/same_as :: [FileClass~OfferShippingDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OfferShippingDetails.secret.md)
 

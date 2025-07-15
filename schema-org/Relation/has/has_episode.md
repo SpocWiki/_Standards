@@ -48,17 +48,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### [has_episode](/_Standards/schema-org/Relation/has/has_episode.md) 
+### #is_/same_as :: [has_episode](/_Standards/schema-org/Relation/has/has_episode.md) 
 
-### [has_episode.public](/_public/schema-org/Relation/has/has_episode.public.md) 
+### #is_/same_as :: [has_episode.public](/_public/schema-org/Relation/has/has_episode.public.md) 
 
-### [has_episode.internal](/_internal/schema-org/Relation/has/has_episode.internal.md) 
+### #is_/same_as :: [has_episode.internal](/_internal/schema-org/Relation/has/has_episode.internal.md) 
 
-### [has_episode.protect](/_protect/schema-org/Relation/has/has_episode.protect.md) 
+### #is_/same_as :: [has_episode.protect](/_protect/schema-org/Relation/has/has_episode.protect.md) 
 
-### [has_episode.private](/_private/schema-org/Relation/has/has_episode.private.md) 
+### #is_/same_as :: [has_episode.private](/_private/schema-org/Relation/has/has_episode.private.md) 
 
-### [has_episode.personal](/_personal/schema-org/Relation/has/has_episode.personal.md) 
+### #is_/same_as :: [has_episode.personal](/_personal/schema-org/Relation/has/has_episode.personal.md) 
 
-### [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md)
+### #is_/same_as :: [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md)
 

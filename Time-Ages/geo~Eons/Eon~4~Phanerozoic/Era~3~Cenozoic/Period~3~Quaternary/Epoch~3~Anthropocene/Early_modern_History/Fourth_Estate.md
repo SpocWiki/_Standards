@@ -33,24 +33,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fourth%20Estate) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fourth_Estate](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.md) 
+### #is_/same_as :: [Fourth_Estate](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.md) 
 
-### [Fourth_Estate.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.public.md) 
+### #is_/same_as :: [Fourth_Estate.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.public.md) 
 
-### [Fourth_Estate.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.internal.md) 
+### #is_/same_as :: [Fourth_Estate.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.internal.md) 
 
-### [Fourth_Estate.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.protect.md) 
+### #is_/same_as :: [Fourth_Estate.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.protect.md) 
 
-### [Fourth_Estate.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.private.md) 
+### #is_/same_as :: [Fourth_Estate.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.private.md) 
 
-### [Fourth_Estate.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.personal.md) 
+### #is_/same_as :: [Fourth_Estate.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.personal.md) 
 
-### [Fourth_Estate.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.secret.md)
+### #is_/same_as :: [Fourth_Estate.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.secret.md)
 

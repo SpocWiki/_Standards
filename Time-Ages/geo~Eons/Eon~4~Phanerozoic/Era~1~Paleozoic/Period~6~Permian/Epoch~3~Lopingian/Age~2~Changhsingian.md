@@ -77,17 +77,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Changhsingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.md) 
+### #is_/same_as :: [Age~2~Changhsingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.md) 
 
-### [Age~2~Changhsingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.public.md) 
+### #is_/same_as :: [Age~2~Changhsingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.public.md) 
 
-### [Age~2~Changhsingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.internal.md) 
+### #is_/same_as :: [Age~2~Changhsingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.internal.md) 
 
-### [Age~2~Changhsingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.protect.md) 
+### #is_/same_as :: [Age~2~Changhsingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.protect.md) 
 
-### [Age~2~Changhsingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.private.md) 
+### #is_/same_as :: [Age~2~Changhsingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.private.md) 
 
-### [Age~2~Changhsingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.personal.md) 
+### #is_/same_as :: [Age~2~Changhsingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.personal.md) 
 
-### [Age~2~Changhsingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.secret.md)
+### #is_/same_as :: [Age~2~Changhsingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~2~Changhsingian.secret.md)
 

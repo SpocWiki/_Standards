@@ -43,17 +43,17 @@ Status of a game server.
 
 ## Confidential Links & Embeds: 
 
-### [game_server_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.md) 
+### #is_/same_as :: [game_server_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.md) 
 
-### [game_server_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.public.md) 
+### #is_/same_as :: [game_server_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.public.md) 
 
-### [game_server_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.internal.md) 
+### #is_/same_as :: [game_server_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.internal.md) 
 
-### [game_server_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.protect.md) 
+### #is_/same_as :: [game_server_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.protect.md) 
 
-### [game_server_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.private.md) 
+### #is_/same_as :: [game_server_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.private.md) 
 
-### [game_server_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.personal.md) 
+### #is_/same_as :: [game_server_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.personal.md) 
 
-### [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md)
+### #is_/same_as :: [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md)
 

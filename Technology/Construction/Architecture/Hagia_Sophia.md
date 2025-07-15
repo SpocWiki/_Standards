@@ -24,22 +24,19 @@ has_id_wikidata: Q12506
 > [Wikipedia](https://en.wikipedia.org/wiki/Hagia%20Sophia) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Hagia_Sophia](/_Standards/Technology/Construction/Architecture/Hagia_Sophia.md) 
+### #is_/same_as :: [Hagia_Sophia](/_Standards/Technology/Construction/Architecture/Hagia_Sophia.md) 
 
-### [Hagia_Sophia.public](/_public/Technology/Construction/Architecture/Hagia_Sophia.public.md) 
+### #is_/same_as :: [Hagia_Sophia.public](/_public/Technology/Construction/Architecture/Hagia_Sophia.public.md) 
 
-### [Hagia_Sophia.internal](/_internal/Technology/Construction/Architecture/Hagia_Sophia.internal.md) 
+### #is_/same_as :: [Hagia_Sophia.internal](/_internal/Technology/Construction/Architecture/Hagia_Sophia.internal.md) 
 
-### [Hagia_Sophia.protect](/_protect/Technology/Construction/Architecture/Hagia_Sophia.protect.md) 
+### #is_/same_as :: [Hagia_Sophia.protect](/_protect/Technology/Construction/Architecture/Hagia_Sophia.protect.md) 
 
-### [Hagia_Sophia.private](/_private/Technology/Construction/Architecture/Hagia_Sophia.private.md) 
+### #is_/same_as :: [Hagia_Sophia.private](/_private/Technology/Construction/Architecture/Hagia_Sophia.private.md) 
 
-### [Hagia_Sophia.personal](/_personal/Technology/Construction/Architecture/Hagia_Sophia.personal.md) 
+### #is_/same_as :: [Hagia_Sophia.personal](/_personal/Technology/Construction/Architecture/Hagia_Sophia.personal.md) 
 
-### [Hagia_Sophia.secret](/_secret/Technology/Construction/Architecture/Hagia_Sophia.secret.md)
+### #is_/same_as :: [Hagia_Sophia.secret](/_secret/Technology/Construction/Architecture/Hagia_Sophia.secret.md)
 

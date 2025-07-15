@@ -47,17 +47,17 @@ A single feed providing structured information about one or more entities or top
 
 ## Confidential Links & Embeds: 
 
-### [data_feed](/_Standards/schema-org/Class/is_a_/creative_work/dataset/data_feed.md) 
+### #is_/same_as :: [data_feed](/_Standards/schema-org/Class/is_a_/creative_work/dataset/data_feed.md) 
 
-### [data_feed.public](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed.public.md) 
+### #is_/same_as :: [data_feed.public](/_public/schema-org/Class/is_a_/creative_work/dataset/data_feed.public.md) 
 
-### [data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed.internal.md) 
+### #is_/same_as :: [data_feed.internal](/_internal/schema-org/Class/is_a_/creative_work/dataset/data_feed.internal.md) 
 
-### [data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed.protect.md) 
+### #is_/same_as :: [data_feed.protect](/_protect/schema-org/Class/is_a_/creative_work/dataset/data_feed.protect.md) 
 
-### [data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed.private.md) 
+### #is_/same_as :: [data_feed.private](/_private/schema-org/Class/is_a_/creative_work/dataset/data_feed.private.md) 
 
-### [data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed.personal.md) 
+### #is_/same_as :: [data_feed.personal](/_personal/schema-org/Class/is_a_/creative_work/dataset/data_feed.personal.md) 
 
-### [data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed.secret.md)
+### #is_/same_as :: [data_feed.secret](/_secret/schema-org/Class/is_a_/creative_work/dataset/data_feed.secret.md)
 

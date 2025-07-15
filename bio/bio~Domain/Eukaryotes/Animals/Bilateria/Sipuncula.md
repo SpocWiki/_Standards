@@ -66,20 +66,19 @@ Creator           David Remsen
 Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sipuncula](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.md) 
+### #is_/same_as :: [Sipuncula](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.md) 
 
-### [Sipuncula.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.public.md) 
+### #is_/same_as :: [Sipuncula.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.public.md) 
 
-### [Sipuncula.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.internal.md) 
+### #is_/same_as :: [Sipuncula.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.internal.md) 
 
-### [Sipuncula.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.protect.md) 
+### #is_/same_as :: [Sipuncula.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.protect.md) 
 
-### [Sipuncula.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.private.md) 
+### #is_/same_as :: [Sipuncula.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.private.md) 
 
-### [Sipuncula.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.personal.md) 
+### #is_/same_as :: [Sipuncula.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.personal.md) 
 
-### [Sipuncula.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.secret.md)
+### #is_/same_as :: [Sipuncula.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Sipuncula.secret.md)
 

@@ -46,17 +46,17 @@ CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalCause](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.md) 
+### #is_/same_as :: [FileClass~MedicalCause](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.md) 
 
-### [FileClass~MedicalCause.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.public.md) 
+### #is_/same_as :: [FileClass~MedicalCause.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.public.md) 
 
-### [FileClass~MedicalCause.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.internal.md) 
+### #is_/same_as :: [FileClass~MedicalCause.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.internal.md) 
 
-### [FileClass~MedicalCause.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.protect.md) 
+### #is_/same_as :: [FileClass~MedicalCause.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.protect.md) 
 
-### [FileClass~MedicalCause.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.private.md) 
+### #is_/same_as :: [FileClass~MedicalCause.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.private.md) 
 
-### [FileClass~MedicalCause.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.personal.md) 
+### #is_/same_as :: [FileClass~MedicalCause.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.personal.md) 
 
-### [FileClass~MedicalCause.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret.md)
+### #is_/same_as :: [FileClass~MedicalCause.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret.md)
 

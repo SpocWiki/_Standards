@@ -40,17 +40,17 @@ Category:: {"type":"Select","options":{"valuesList":{"AerobicActivity","Anaerobi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Recommendation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.md) 
+### #is_/same_as :: [FileClass~Recommendation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.md) 
 
-### [FileClass~Recommendation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.public.md) 
+### #is_/same_as :: [FileClass~Recommendation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.public.md) 
 
-### [FileClass~Recommendation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.internal.md) 
+### #is_/same_as :: [FileClass~Recommendation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.internal.md) 
 
-### [FileClass~Recommendation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.protect.md) 
+### #is_/same_as :: [FileClass~Recommendation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.protect.md) 
 
-### [FileClass~Recommendation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.private.md) 
+### #is_/same_as :: [FileClass~Recommendation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.private.md) 
 
-### [FileClass~Recommendation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.personal.md) 
+### #is_/same_as :: [FileClass~Recommendation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.personal.md) 
 
-### [FileClass~Recommendation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.secret.md)
+### #is_/same_as :: [FileClass~Recommendation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.secret.md)
 

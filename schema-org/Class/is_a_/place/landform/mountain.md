@@ -45,17 +45,17 @@ A mountain, like Mount Whitney or Mount Everest.
 
 ## Confidential Links & Embeds: 
 
-### [mountain](/_Standards/schema-org/Class/is_a_/place/landform/mountain.md) 
+### #is_/same_as :: [mountain](/_Standards/schema-org/Class/is_a_/place/landform/mountain.md) 
 
-### [mountain.public](/_public/schema-org/Class/is_a_/place/landform/mountain.public.md) 
+### #is_/same_as :: [mountain.public](/_public/schema-org/Class/is_a_/place/landform/mountain.public.md) 
 
-### [mountain.internal](/_internal/schema-org/Class/is_a_/place/landform/mountain.internal.md) 
+### #is_/same_as :: [mountain.internal](/_internal/schema-org/Class/is_a_/place/landform/mountain.internal.md) 
 
-### [mountain.protect](/_protect/schema-org/Class/is_a_/place/landform/mountain.protect.md) 
+### #is_/same_as :: [mountain.protect](/_protect/schema-org/Class/is_a_/place/landform/mountain.protect.md) 
 
-### [mountain.private](/_private/schema-org/Class/is_a_/place/landform/mountain.private.md) 
+### #is_/same_as :: [mountain.private](/_private/schema-org/Class/is_a_/place/landform/mountain.private.md) 
 
-### [mountain.personal](/_personal/schema-org/Class/is_a_/place/landform/mountain.personal.md) 
+### #is_/same_as :: [mountain.personal](/_personal/schema-org/Class/is_a_/place/landform/mountain.personal.md) 
 
-### [mountain.secret](/_secret/schema-org/Class/is_a_/place/landform/mountain.secret.md)
+### #is_/same_as :: [mountain.secret](/_secret/schema-org/Class/is_a_/place/landform/mountain.secret.md)
 

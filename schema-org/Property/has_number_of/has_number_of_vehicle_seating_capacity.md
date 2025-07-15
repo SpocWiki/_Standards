@@ -51,17 +51,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_number_of_vehicle_seating_capacity](/_Standards/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity](/_Standards/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.md) 
 
-### [has_number_of_vehicle_seating_capacity.public](/_public/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.public.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.public](/_public/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.public.md) 
 
-### [has_number_of_vehicle_seating_capacity.internal](/_internal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.internal.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.internal](/_internal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.internal.md) 
 
-### [has_number_of_vehicle_seating_capacity.protect](/_protect/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.protect.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.protect](/_protect/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.protect.md) 
 
-### [has_number_of_vehicle_seating_capacity.private](/_private/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.private.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.private](/_private/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.private.md) 
 
-### [has_number_of_vehicle_seating_capacity.personal](/_personal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.personal.md) 
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.personal](/_personal/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.personal.md) 
 
-### [has_number_of_vehicle_seating_capacity.secret](/_secret/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.secret.md)
+### #is_/same_as :: [has_number_of_vehicle_seating_capacity.secret](/_secret/schema-org/Property/has_number_of/has_number_of_vehicle_seating_capacity.secret.md)
 

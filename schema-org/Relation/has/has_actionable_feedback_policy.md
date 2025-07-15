@@ -51,17 +51,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_actionable_feedback_policy](/_Standards/schema-org/Relation/has/has_actionable_feedback_policy.md) 
+### #is_/same_as :: [has_actionable_feedback_policy](/_Standards/schema-org/Relation/has/has_actionable_feedback_policy.md) 
 
-### [has_actionable_feedback_policy.public](/_public/schema-org/Relation/has/has_actionable_feedback_policy.public.md) 
+### #is_/same_as :: [has_actionable_feedback_policy.public](/_public/schema-org/Relation/has/has_actionable_feedback_policy.public.md) 
 
-### [has_actionable_feedback_policy.internal](/_internal/schema-org/Relation/has/has_actionable_feedback_policy.internal.md) 
+### #is_/same_as :: [has_actionable_feedback_policy.internal](/_internal/schema-org/Relation/has/has_actionable_feedback_policy.internal.md) 
 
-### [has_actionable_feedback_policy.protect](/_protect/schema-org/Relation/has/has_actionable_feedback_policy.protect.md) 
+### #is_/same_as :: [has_actionable_feedback_policy.protect](/_protect/schema-org/Relation/has/has_actionable_feedback_policy.protect.md) 
 
-### [has_actionable_feedback_policy.private](/_private/schema-org/Relation/has/has_actionable_feedback_policy.private.md) 
+### #is_/same_as :: [has_actionable_feedback_policy.private](/_private/schema-org/Relation/has/has_actionable_feedback_policy.private.md) 
 
-### [has_actionable_feedback_policy.personal](/_personal/schema-org/Relation/has/has_actionable_feedback_policy.personal.md) 
+### #is_/same_as :: [has_actionable_feedback_policy.personal](/_personal/schema-org/Relation/has/has_actionable_feedback_policy.personal.md) 
 
-### [has_actionable_feedback_policy.secret](/_secret/schema-org/Relation/has/has_actionable_feedback_policy.secret.md)
+### #is_/same_as :: [has_actionable_feedback_policy.secret](/_secret/schema-org/Relation/has/has_actionable_feedback_policy.secret.md)
 

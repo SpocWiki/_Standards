@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_product](/_Standards/schema-org/Property/has_name/has_id_product.md) 
+### #is_/same_as :: [has_id_product](/_Standards/schema-org/Property/has_name/has_id_product.md) 
 
-### [has_id_product.public](/_public/schema-org/Property/has_name/has_id_product.public.md) 
+### #is_/same_as :: [has_id_product.public](/_public/schema-org/Property/has_name/has_id_product.public.md) 
 
-### [has_id_product.internal](/_internal/schema-org/Property/has_name/has_id_product.internal.md) 
+### #is_/same_as :: [has_id_product.internal](/_internal/schema-org/Property/has_name/has_id_product.internal.md) 
 
-### [has_id_product.protect](/_protect/schema-org/Property/has_name/has_id_product.protect.md) 
+### #is_/same_as :: [has_id_product.protect](/_protect/schema-org/Property/has_name/has_id_product.protect.md) 
 
-### [has_id_product.private](/_private/schema-org/Property/has_name/has_id_product.private.md) 
+### #is_/same_as :: [has_id_product.private](/_private/schema-org/Property/has_name/has_id_product.private.md) 
 
-### [has_id_product.personal](/_personal/schema-org/Property/has_name/has_id_product.personal.md) 
+### #is_/same_as :: [has_id_product.personal](/_personal/schema-org/Property/has_name/has_id_product.personal.md) 
 
-### [has_id_product.secret](/_secret/schema-org/Property/has_name/has_id_product.secret.md)
+### #is_/same_as :: [has_id_product.secret](/_secret/schema-org/Property/has_name/has_id_product.secret.md)
 

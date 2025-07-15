@@ -60,17 +60,17 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-vi](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
+### #is_/same_as :: [Lang-vi](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
 
-### [Lang-vi.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.public.md) 
+### #is_/same_as :: [Lang-vi.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.public.md) 
 
-### [Lang-vi.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.internal.md) 
+### #is_/same_as :: [Lang-vi.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.internal.md) 
 
-### [Lang-vi.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.protect.md) 
+### #is_/same_as :: [Lang-vi.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.protect.md) 
 
-### [Lang-vi.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.private.md) 
+### #is_/same_as :: [Lang-vi.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.private.md) 
 
-### [Lang-vi.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.personal.md) 
+### #is_/same_as :: [Lang-vi.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.personal.md) 
 
-### [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md)
+### #is_/same_as :: [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md)
 

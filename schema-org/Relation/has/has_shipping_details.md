@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_shipping_details](/_Standards/schema-org/Relation/has/has_shipping_details.md) 
+### #is_/same_as :: [has_shipping_details](/_Standards/schema-org/Relation/has/has_shipping_details.md) 
 
-### [has_shipping_details.public](/_public/schema-org/Relation/has/has_shipping_details.public.md) 
+### #is_/same_as :: [has_shipping_details.public](/_public/schema-org/Relation/has/has_shipping_details.public.md) 
 
-### [has_shipping_details.internal](/_internal/schema-org/Relation/has/has_shipping_details.internal.md) 
+### #is_/same_as :: [has_shipping_details.internal](/_internal/schema-org/Relation/has/has_shipping_details.internal.md) 
 
-### [has_shipping_details.protect](/_protect/schema-org/Relation/has/has_shipping_details.protect.md) 
+### #is_/same_as :: [has_shipping_details.protect](/_protect/schema-org/Relation/has/has_shipping_details.protect.md) 
 
-### [has_shipping_details.private](/_private/schema-org/Relation/has/has_shipping_details.private.md) 
+### #is_/same_as :: [has_shipping_details.private](/_private/schema-org/Relation/has/has_shipping_details.private.md) 
 
-### [has_shipping_details.personal](/_personal/schema-org/Relation/has/has_shipping_details.personal.md) 
+### #is_/same_as :: [has_shipping_details.personal](/_personal/schema-org/Relation/has/has_shipping_details.personal.md) 
 
-### [has_shipping_details.secret](/_secret/schema-org/Relation/has/has_shipping_details.secret.md)
+### #is_/same_as :: [has_shipping_details.secret](/_secret/schema-org/Relation/has/has_shipping_details.secret.md)
 

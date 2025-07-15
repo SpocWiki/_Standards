@@ -343,17 +343,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### [_Australia-CityDB](/_Standards/Earth/Continent/Australasia/_Australia-CityDB.md) 
+### #is_/same_as :: [_Australia-CityDB](/_Standards/Earth/Continent/Australasia/_Australia-CityDB.md) 
 
-### [_Australia-CityDB.public](/_public/Earth/Continent/Australasia/_Australia-CityDB.public.md) 
+### #is_/same_as :: [_Australia-CityDB.public](/_public/Earth/Continent/Australasia/_Australia-CityDB.public.md) 
 
-### [_Australia-CityDB.internal](/_internal/Earth/Continent/Australasia/_Australia-CityDB.internal.md) 
+### #is_/same_as :: [_Australia-CityDB.internal](/_internal/Earth/Continent/Australasia/_Australia-CityDB.internal.md) 
 
-### [_Australia-CityDB.protect](/_protect/Earth/Continent/Australasia/_Australia-CityDB.protect.md) 
+### #is_/same_as :: [_Australia-CityDB.protect](/_protect/Earth/Continent/Australasia/_Australia-CityDB.protect.md) 
 
-### [_Australia-CityDB.private](/_private/Earth/Continent/Australasia/_Australia-CityDB.private.md) 
+### #is_/same_as :: [_Australia-CityDB.private](/_private/Earth/Continent/Australasia/_Australia-CityDB.private.md) 
 
-### [_Australia-CityDB.personal](/_personal/Earth/Continent/Australasia/_Australia-CityDB.personal.md) 
+### #is_/same_as :: [_Australia-CityDB.personal](/_personal/Earth/Continent/Australasia/_Australia-CityDB.personal.md) 
 
-### [_Australia-CityDB.secret](/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret.md)
+### #is_/same_as :: [_Australia-CityDB.secret](/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret.md)
 

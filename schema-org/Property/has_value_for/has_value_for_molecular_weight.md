@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_molecular_weight](/_Standards/schema-org/Property/has_value_for/has_value_for_molecular_weight.md) 
+### #is_/same_as :: [has_value_for_molecular_weight](/_Standards/schema-org/Property/has_value_for/has_value_for_molecular_weight.md) 
 
-### [has_value_for_molecular_weight.public](/_public/schema-org/Property/has_value_for/has_value_for_molecular_weight.public.md) 
+### #is_/same_as :: [has_value_for_molecular_weight.public](/_public/schema-org/Property/has_value_for/has_value_for_molecular_weight.public.md) 
 
-### [has_value_for_molecular_weight.internal](/_internal/schema-org/Property/has_value_for/has_value_for_molecular_weight.internal.md) 
+### #is_/same_as :: [has_value_for_molecular_weight.internal](/_internal/schema-org/Property/has_value_for/has_value_for_molecular_weight.internal.md) 
 
-### [has_value_for_molecular_weight.protect](/_protect/schema-org/Property/has_value_for/has_value_for_molecular_weight.protect.md) 
+### #is_/same_as :: [has_value_for_molecular_weight.protect](/_protect/schema-org/Property/has_value_for/has_value_for_molecular_weight.protect.md) 
 
-### [has_value_for_molecular_weight.private](/_private/schema-org/Property/has_value_for/has_value_for_molecular_weight.private.md) 
+### #is_/same_as :: [has_value_for_molecular_weight.private](/_private/schema-org/Property/has_value_for/has_value_for_molecular_weight.private.md) 
 
-### [has_value_for_molecular_weight.personal](/_personal/schema-org/Property/has_value_for/has_value_for_molecular_weight.personal.md) 
+### #is_/same_as :: [has_value_for_molecular_weight.personal](/_personal/schema-org/Property/has_value_for/has_value_for_molecular_weight.personal.md) 
 
-### [has_value_for_molecular_weight.secret](/_secret/schema-org/Property/has_value_for/has_value_for_molecular_weight.secret.md)
+### #is_/same_as :: [has_value_for_molecular_weight.secret](/_secret/schema-org/Property/has_value_for/has_value_for_molecular_weight.secret.md)
 

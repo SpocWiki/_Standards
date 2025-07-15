@@ -45,17 +45,17 @@ A collection of music tracks.
 
 ## Confidential Links & Embeds: 
 
-### [music_album](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist/music_album.md) 
+### #is_/same_as :: [music_album](/_Standards/schema-org/Class/is_a_/creative_work/music_playlist/music_album.md) 
 
-### [music_album.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_album.public.md) 
+### #is_/same_as :: [music_album.public](/_public/schema-org/Class/is_a_/creative_work/music_playlist/music_album.public.md) 
 
-### [music_album.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.internal.md) 
+### #is_/same_as :: [music_album.internal](/_internal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.internal.md) 
 
-### [music_album.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_album.protect.md) 
+### #is_/same_as :: [music_album.protect](/_protect/schema-org/Class/is_a_/creative_work/music_playlist/music_album.protect.md) 
 
-### [music_album.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_album.private.md) 
+### #is_/same_as :: [music_album.private](/_private/schema-org/Class/is_a_/creative_work/music_playlist/music_album.private.md) 
 
-### [music_album.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.personal.md) 
+### #is_/same_as :: [music_album.personal](/_personal/schema-org/Class/is_a_/creative_work/music_playlist/music_album.personal.md) 
 
-### [music_album.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_album.secret.md)
+### #is_/same_as :: [music_album.secret](/_secret/schema-org/Class/is_a_/creative_work/music_playlist/music_album.secret.md)
 

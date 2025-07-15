@@ -603,17 +603,17 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 
 ## Confidential Links & Embeds: 
 
-### [Peru](/_Standards/Earth/Continent/America~South/Peru.md) 
+### #is_/same_as :: [Peru](/_Standards/Earth/Continent/America~South/Peru.md) 
 
-### [Peru.public](/_public/Earth/Continent/America~South/Peru.public.md) 
+### #is_/same_as :: [Peru.public](/_public/Earth/Continent/America~South/Peru.public.md) 
 
-### [Peru.internal](/_internal/Earth/Continent/America~South/Peru.internal.md) 
+### #is_/same_as :: [Peru.internal](/_internal/Earth/Continent/America~South/Peru.internal.md) 
 
-### [Peru.protect](/_protect/Earth/Continent/America~South/Peru.protect.md) 
+### #is_/same_as :: [Peru.protect](/_protect/Earth/Continent/America~South/Peru.protect.md) 
 
-### [Peru.private](/_private/Earth/Continent/America~South/Peru.private.md) 
+### #is_/same_as :: [Peru.private](/_private/Earth/Continent/America~South/Peru.private.md) 
 
-### [Peru.personal](/_personal/Earth/Continent/America~South/Peru.personal.md) 
+### #is_/same_as :: [Peru.personal](/_personal/Earth/Continent/America~South/Peru.personal.md) 
 
-### [Peru.secret](/_secret/Earth/Continent/America~South/Peru.secret.md)
+### #is_/same_as :: [Peru.secret](/_secret/Earth/Continent/America~South/Peru.secret.md)
 

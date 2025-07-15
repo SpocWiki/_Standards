@@ -28,21 +28,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Oligosaccharide)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Oligosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.md) 
+### #is_/same_as :: [Oligosaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.md) 
 
-### [Oligosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public.md) 
+### #is_/same_as :: [Oligosaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.public.md) 
 
-### [Oligosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.internal.md) 
+### #is_/same_as :: [Oligosaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.internal.md) 
 
-### [Oligosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.protect.md) 
+### #is_/same_as :: [Oligosaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.protect.md) 
 
-### [Oligosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.private.md) 
+### #is_/same_as :: [Oligosaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.private.md) 
 
-### [Oligosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.personal.md) 
+### #is_/same_as :: [Oligosaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.personal.md) 
 
-### [Oligosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.secret.md)
+### #is_/same_as :: [Oligosaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide.secret.md)
 

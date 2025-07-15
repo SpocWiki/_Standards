@@ -50,17 +50,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_loan_recourseable](/_Standards/schema-org/Property/Flags/is_loan_recourseable.md) 
+### #is_/same_as :: [is_loan_recourseable](/_Standards/schema-org/Property/Flags/is_loan_recourseable.md) 
 
-### [is_loan_recourseable.public](/_public/schema-org/Property/Flags/is_loan_recourseable.public.md) 
+### #is_/same_as :: [is_loan_recourseable.public](/_public/schema-org/Property/Flags/is_loan_recourseable.public.md) 
 
-### [is_loan_recourseable.internal](/_internal/schema-org/Property/Flags/is_loan_recourseable.internal.md) 
+### #is_/same_as :: [is_loan_recourseable.internal](/_internal/schema-org/Property/Flags/is_loan_recourseable.internal.md) 
 
-### [is_loan_recourseable.protect](/_protect/schema-org/Property/Flags/is_loan_recourseable.protect.md) 
+### #is_/same_as :: [is_loan_recourseable.protect](/_protect/schema-org/Property/Flags/is_loan_recourseable.protect.md) 
 
-### [is_loan_recourseable.private](/_private/schema-org/Property/Flags/is_loan_recourseable.private.md) 
+### #is_/same_as :: [is_loan_recourseable.private](/_private/schema-org/Property/Flags/is_loan_recourseable.private.md) 
 
-### [is_loan_recourseable.personal](/_personal/schema-org/Property/Flags/is_loan_recourseable.personal.md) 
+### #is_/same_as :: [is_loan_recourseable.personal](/_personal/schema-org/Property/Flags/is_loan_recourseable.personal.md) 
 
-### [is_loan_recourseable.secret](/_secret/schema-org/Property/Flags/is_loan_recourseable.secret.md)
+### #is_/same_as :: [is_loan_recourseable.secret](/_secret/schema-org/Property/Flags/is_loan_recourseable.secret.md)
 

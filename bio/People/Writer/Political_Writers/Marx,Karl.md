@@ -177,23 +177,19 @@ PhilPapers_topic: karl-marx
 > [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Marx)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Marx,Karl](/_Standards/bio/People/Writer/Political_Writers/Marx,Karl.md) 
+### #is_/same_as :: [Marx,Karl](/_Standards/bio/People/Writer/Political_Writers/Marx,Karl.md) 
 
-### [Marx,Karl.public](/_public/bio/People/Writer/Political_Writers/Marx,Karl.public.md) 
+### #is_/same_as :: [Marx,Karl.public](/_public/bio/People/Writer/Political_Writers/Marx,Karl.public.md) 
 
-### [Marx,Karl.internal](/_internal/bio/People/Writer/Political_Writers/Marx,Karl.internal.md) 
+### #is_/same_as :: [Marx,Karl.internal](/_internal/bio/People/Writer/Political_Writers/Marx,Karl.internal.md) 
 
-### [Marx,Karl.protect](/_protect/bio/People/Writer/Political_Writers/Marx,Karl.protect.md) 
+### #is_/same_as :: [Marx,Karl.protect](/_protect/bio/People/Writer/Political_Writers/Marx,Karl.protect.md) 
 
-### [Marx,Karl.private](/_private/bio/People/Writer/Political_Writers/Marx,Karl.private.md) 
+### #is_/same_as :: [Marx,Karl.private](/_private/bio/People/Writer/Political_Writers/Marx,Karl.private.md) 
 
-### [Marx,Karl.personal](/_personal/bio/People/Writer/Political_Writers/Marx,Karl.personal.md) 
+### #is_/same_as :: [Marx,Karl.personal](/_personal/bio/People/Writer/Political_Writers/Marx,Karl.personal.md) 
 
-### [Marx,Karl.secret](/_secret/bio/People/Writer/Political_Writers/Marx,Karl.secret.md)
+### #is_/same_as :: [Marx,Karl.secret](/_secret/bio/People/Writer/Political_Writers/Marx,Karl.secret.md)
 

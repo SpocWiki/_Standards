@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_item_reviewed](/_Standards/schema-org/Relation/has/has_item_reviewed.md) 
+### #is_/same_as :: [has_item_reviewed](/_Standards/schema-org/Relation/has/has_item_reviewed.md) 
 
-### [has_item_reviewed.public](/_public/schema-org/Relation/has/has_item_reviewed.public.md) 
+### #is_/same_as :: [has_item_reviewed.public](/_public/schema-org/Relation/has/has_item_reviewed.public.md) 
 
-### [has_item_reviewed.internal](/_internal/schema-org/Relation/has/has_item_reviewed.internal.md) 
+### #is_/same_as :: [has_item_reviewed.internal](/_internal/schema-org/Relation/has/has_item_reviewed.internal.md) 
 
-### [has_item_reviewed.protect](/_protect/schema-org/Relation/has/has_item_reviewed.protect.md) 
+### #is_/same_as :: [has_item_reviewed.protect](/_protect/schema-org/Relation/has/has_item_reviewed.protect.md) 
 
-### [has_item_reviewed.private](/_private/schema-org/Relation/has/has_item_reviewed.private.md) 
+### #is_/same_as :: [has_item_reviewed.private](/_private/schema-org/Relation/has/has_item_reviewed.private.md) 
 
-### [has_item_reviewed.personal](/_personal/schema-org/Relation/has/has_item_reviewed.personal.md) 
+### #is_/same_as :: [has_item_reviewed.personal](/_personal/schema-org/Relation/has/has_item_reviewed.personal.md) 
 
-### [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md)
+### #is_/same_as :: [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md)
 

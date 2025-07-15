@@ -30,25 +30,19 @@ WALS_genus_code: iranian
 > [Wikipedia](https://en.wikipedia.org/wiki/Iranian%20languages) 
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Indo-Iranian](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.md) 
 
-### [LangFamily-Indo-Iranian.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.public.md) 
 
-### [LangFamily-Indo-Iranian.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.internal.md) 
 
-### [LangFamily-Indo-Iranian.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.protect.md) 
 
-### [LangFamily-Indo-Iranian.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.private.md) 
 
-### [LangFamily-Indo-Iranian.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
+### #is_/same_as :: [LangFamily-Indo-Iranian.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.personal.md) 
 
-### [LangFamily-Indo-Iranian.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
+### #is_/same_as :: [LangFamily-Indo-Iranian.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian.secret.md)
 

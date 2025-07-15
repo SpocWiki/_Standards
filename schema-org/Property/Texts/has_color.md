@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_color](/_Standards/schema-org/Property/Texts/has_color.md) 
+### #is_/same_as :: [has_color](/_Standards/schema-org/Property/Texts/has_color.md) 
 
-### [has_color.public](/_public/schema-org/Property/Texts/has_color.public.md) 
+### #is_/same_as :: [has_color.public](/_public/schema-org/Property/Texts/has_color.public.md) 
 
-### [has_color.internal](/_internal/schema-org/Property/Texts/has_color.internal.md) 
+### #is_/same_as :: [has_color.internal](/_internal/schema-org/Property/Texts/has_color.internal.md) 
 
-### [has_color.protect](/_protect/schema-org/Property/Texts/has_color.protect.md) 
+### #is_/same_as :: [has_color.protect](/_protect/schema-org/Property/Texts/has_color.protect.md) 
 
-### [has_color.private](/_private/schema-org/Property/Texts/has_color.private.md) 
+### #is_/same_as :: [has_color.private](/_private/schema-org/Property/Texts/has_color.private.md) 
 
-### [has_color.personal](/_personal/schema-org/Property/Texts/has_color.personal.md) 
+### #is_/same_as :: [has_color.personal](/_personal/schema-org/Property/Texts/has_color.personal.md) 
 
-### [has_color.secret](/_secret/schema-org/Property/Texts/has_color.secret.md)
+### #is_/same_as :: [has_color.secret](/_secret/schema-org/Property/Texts/has_color.secret.md)
 

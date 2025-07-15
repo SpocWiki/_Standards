@@ -45,17 +45,17 @@ An email message.
 
 ## Confidential Links & Embeds: 
 
-### [email_message](/_Standards/schema-org/Class/is_a_/creative_work/message/email_message.md) 
+### #is_/same_as :: [email_message](/_Standards/schema-org/Class/is_a_/creative_work/message/email_message.md) 
 
-### [email_message.public](/_public/schema-org/Class/is_a_/creative_work/message/email_message.public.md) 
+### #is_/same_as :: [email_message.public](/_public/schema-org/Class/is_a_/creative_work/message/email_message.public.md) 
 
-### [email_message.internal](/_internal/schema-org/Class/is_a_/creative_work/message/email_message.internal.md) 
+### #is_/same_as :: [email_message.internal](/_internal/schema-org/Class/is_a_/creative_work/message/email_message.internal.md) 
 
-### [email_message.protect](/_protect/schema-org/Class/is_a_/creative_work/message/email_message.protect.md) 
+### #is_/same_as :: [email_message.protect](/_protect/schema-org/Class/is_a_/creative_work/message/email_message.protect.md) 
 
-### [email_message.private](/_private/schema-org/Class/is_a_/creative_work/message/email_message.private.md) 
+### #is_/same_as :: [email_message.private](/_private/schema-org/Class/is_a_/creative_work/message/email_message.private.md) 
 
-### [email_message.personal](/_personal/schema-org/Class/is_a_/creative_work/message/email_message.personal.md) 
+### #is_/same_as :: [email_message.personal](/_personal/schema-org/Class/is_a_/creative_work/message/email_message.personal.md) 
 
-### [email_message.secret](/_secret/schema-org/Class/is_a_/creative_work/message/email_message.secret.md)
+### #is_/same_as :: [email_message.secret](/_secret/schema-org/Class/is_a_/creative_work/message/email_message.secret.md)
 

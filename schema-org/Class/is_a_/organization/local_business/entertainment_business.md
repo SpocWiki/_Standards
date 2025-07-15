@@ -47,17 +47,17 @@ A business providing entertainment.
 
 ## Confidential Links & Embeds: 
 
-### [entertainment_business](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business.md) 
+### #is_/same_as :: [entertainment_business](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business.md) 
 
-### [entertainment_business.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business.public.md) 
+### #is_/same_as :: [entertainment_business.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business.public.md) 
 
-### [entertainment_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business.internal.md) 
+### #is_/same_as :: [entertainment_business.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business.internal.md) 
 
-### [entertainment_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business.protect.md) 
+### #is_/same_as :: [entertainment_business.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business.protect.md) 
 
-### [entertainment_business.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business.private.md) 
+### #is_/same_as :: [entertainment_business.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business.private.md) 
 
-### [entertainment_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business.personal.md) 
+### #is_/same_as :: [entertainment_business.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business.personal.md) 
 
-### [entertainment_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business.secret.md)
+### #is_/same_as :: [entertainment_business.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business.secret.md)
 

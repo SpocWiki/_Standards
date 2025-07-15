@@ -474,17 +474,17 @@ Capital :: [[Phnom_Penh]]
 
 ## Confidential Links & Embeds: 
 
-### [Cambodia](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia.md) 
+### #is_/same_as :: [Cambodia](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia.md) 
 
-### [Cambodia.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.public.md) 
+### #is_/same_as :: [Cambodia.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.public.md) 
 
-### [Cambodia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal.md) 
+### #is_/same_as :: [Cambodia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal.md) 
 
-### [Cambodia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect.md) 
+### #is_/same_as :: [Cambodia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect.md) 
 
-### [Cambodia.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private.md) 
+### #is_/same_as :: [Cambodia.private](/_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private.md) 
 
-### [Cambodia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal.md) 
+### #is_/same_as :: [Cambodia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal.md) 
 
-### [Cambodia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret.md)
+### #is_/same_as :: [Cambodia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret.md)
 

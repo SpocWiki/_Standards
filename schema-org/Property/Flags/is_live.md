@@ -48,17 +48,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_live](/_Standards/schema-org/Property/Flags/is_live.md) 
+### #is_/same_as :: [is_live](/_Standards/schema-org/Property/Flags/is_live.md) 
 
-### [is_live.public](/_public/schema-org/Property/Flags/is_live.public.md) 
+### #is_/same_as :: [is_live.public](/_public/schema-org/Property/Flags/is_live.public.md) 
 
-### [is_live.internal](/_internal/schema-org/Property/Flags/is_live.internal.md) 
+### #is_/same_as :: [is_live.internal](/_internal/schema-org/Property/Flags/is_live.internal.md) 
 
-### [is_live.protect](/_protect/schema-org/Property/Flags/is_live.protect.md) 
+### #is_/same_as :: [is_live.protect](/_protect/schema-org/Property/Flags/is_live.protect.md) 
 
-### [is_live.private](/_private/schema-org/Property/Flags/is_live.private.md) 
+### #is_/same_as :: [is_live.private](/_private/schema-org/Property/Flags/is_live.private.md) 
 
-### [is_live.personal](/_personal/schema-org/Property/Flags/is_live.personal.md) 
+### #is_/same_as :: [is_live.personal](/_personal/schema-org/Property/Flags/is_live.personal.md) 
 
-### [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md)
+### #is_/same_as :: [is_live.secret](/_secret/schema-org/Property/Flags/is_live.secret.md)
 

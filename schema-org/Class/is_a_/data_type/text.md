@@ -39,17 +39,17 @@ Data type: Text.
 
 ## Confidential Links & Embeds: 
 
-### [text](/_Standards/schema-org/Class/is_a_/data_type/text.md) 
+### #is_/same_as :: [text](/_Standards/schema-org/Class/is_a_/data_type/text.md) 
 
-### [text.public](/_public/schema-org/Class/is_a_/data_type/text.public.md) 
+### #is_/same_as :: [text.public](/_public/schema-org/Class/is_a_/data_type/text.public.md) 
 
-### [text.internal](/_internal/schema-org/Class/is_a_/data_type/text.internal.md) 
+### #is_/same_as :: [text.internal](/_internal/schema-org/Class/is_a_/data_type/text.internal.md) 
 
-### [text.protect](/_protect/schema-org/Class/is_a_/data_type/text.protect.md) 
+### #is_/same_as :: [text.protect](/_protect/schema-org/Class/is_a_/data_type/text.protect.md) 
 
-### [text.private](/_private/schema-org/Class/is_a_/data_type/text.private.md) 
+### #is_/same_as :: [text.private](/_private/schema-org/Class/is_a_/data_type/text.private.md) 
 
-### [text.personal](/_personal/schema-org/Class/is_a_/data_type/text.personal.md) 
+### #is_/same_as :: [text.personal](/_personal/schema-org/Class/is_a_/data_type/text.personal.md) 
 
-### [text.secret](/_secret/schema-org/Class/is_a_/data_type/text.secret.md)
+### #is_/same_as :: [text.secret](/_secret/schema-org/Class/is_a_/data_type/text.secret.md)
 

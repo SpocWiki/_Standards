@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_consumable_for](/_Standards/schema-org/Relation/is/is_consumable_for.md) 
+### #is_/same_as :: [is_consumable_for](/_Standards/schema-org/Relation/is/is_consumable_for.md) 
 
-### [is_consumable_for.public](/_public/schema-org/Relation/is/is_consumable_for.public.md) 
+### #is_/same_as :: [is_consumable_for.public](/_public/schema-org/Relation/is/is_consumable_for.public.md) 
 
-### [is_consumable_for.internal](/_internal/schema-org/Relation/is/is_consumable_for.internal.md) 
+### #is_/same_as :: [is_consumable_for.internal](/_internal/schema-org/Relation/is/is_consumable_for.internal.md) 
 
-### [is_consumable_for.protect](/_protect/schema-org/Relation/is/is_consumable_for.protect.md) 
+### #is_/same_as :: [is_consumable_for.protect](/_protect/schema-org/Relation/is/is_consumable_for.protect.md) 
 
-### [is_consumable_for.private](/_private/schema-org/Relation/is/is_consumable_for.private.md) 
+### #is_/same_as :: [is_consumable_for.private](/_private/schema-org/Relation/is/is_consumable_for.private.md) 
 
-### [is_consumable_for.personal](/_personal/schema-org/Relation/is/is_consumable_for.personal.md) 
+### #is_/same_as :: [is_consumable_for.personal](/_personal/schema-org/Relation/is/is_consumable_for.personal.md) 
 
-### [is_consumable_for.secret](/_secret/schema-org/Relation/is/is_consumable_for.secret.md)
+### #is_/same_as :: [is_consumable_for.secret](/_secret/schema-org/Relation/is/is_consumable_for.secret.md)
 

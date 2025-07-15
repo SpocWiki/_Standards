@@ -49,17 +49,17 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 ## Confidential Links & Embeds: 
 
-### [weapon_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md) 
+### #is_/same_as :: [weapon_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md) 
 
-### [weapon_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.public.md) 
+### #is_/same_as :: [weapon_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.public.md) 
 
-### [weapon_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md) 
+### #is_/same_as :: [weapon_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md) 
 
-### [weapon_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.protect.md) 
+### #is_/same_as :: [weapon_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.protect.md) 
 
-### [weapon_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.private.md) 
+### #is_/same_as :: [weapon_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.private.md) 
 
-### [weapon_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md) 
+### #is_/same_as :: [weapon_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md) 
 
-### [weapon_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md)
+### #is_/same_as :: [weapon_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md)
 

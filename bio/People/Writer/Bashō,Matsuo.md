@@ -111,21 +111,19 @@ Commons_gallery: "Matsuo Bashō"
 > [Wikipedia](https://en.wikipedia.org/wiki/Matsuo%20Bash%C5%8D)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Bashō,Matsuo](/_Standards/bio/People/Writer/Bashō,Matsuo.md) 
+### #is_/same_as :: [Bashō,Matsuo](/_Standards/bio/People/Writer/Bashō,Matsuo.md) 
 
-### [Bashō,Matsuo.public](/_public/bio/People/Writer/Bashō,Matsuo.public.md) 
+### #is_/same_as :: [Bashō,Matsuo.public](/_public/bio/People/Writer/Bashō,Matsuo.public.md) 
 
-### [Bashō,Matsuo.internal](/_internal/bio/People/Writer/Bashō,Matsuo.internal.md) 
+### #is_/same_as :: [Bashō,Matsuo.internal](/_internal/bio/People/Writer/Bashō,Matsuo.internal.md) 
 
-### [Bashō,Matsuo.protect](/_protect/bio/People/Writer/Bashō,Matsuo.protect.md) 
+### #is_/same_as :: [Bashō,Matsuo.protect](/_protect/bio/People/Writer/Bashō,Matsuo.protect.md) 
 
-### [Bashō,Matsuo.private](/_private/bio/People/Writer/Bashō,Matsuo.private.md) 
+### #is_/same_as :: [Bashō,Matsuo.private](/_private/bio/People/Writer/Bashō,Matsuo.private.md) 
 
-### [Bashō,Matsuo.personal](/_personal/bio/People/Writer/Bashō,Matsuo.personal.md) 
+### #is_/same_as :: [Bashō,Matsuo.personal](/_personal/bio/People/Writer/Bashō,Matsuo.personal.md) 
 
-### [Bashō,Matsuo.secret](/_secret/bio/People/Writer/Bashō,Matsuo.secret.md)
+### #is_/same_as :: [Bashō,Matsuo.secret](/_secret/bio/People/Writer/Bashō,Matsuo.secret.md)
 

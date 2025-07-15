@@ -35,17 +35,17 @@ A grocery store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GroceryStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.md) 
+### #is_/same_as :: [FileClass~GroceryStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.md) 
 
-### [FileClass~GroceryStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.public.md) 
+### #is_/same_as :: [FileClass~GroceryStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.public.md) 
 
-### [FileClass~GroceryStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.internal.md) 
+### #is_/same_as :: [FileClass~GroceryStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.internal.md) 
 
-### [FileClass~GroceryStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.protect.md) 
+### #is_/same_as :: [FileClass~GroceryStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.protect.md) 
 
-### [FileClass~GroceryStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.private.md) 
+### #is_/same_as :: [FileClass~GroceryStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.private.md) 
 
-### [FileClass~GroceryStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.personal.md) 
+### #is_/same_as :: [FileClass~GroceryStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.personal.md) 
 
-### [FileClass~GroceryStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.secret.md)
+### #is_/same_as :: [FileClass~GroceryStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~GroceryStore.secret.md)
 

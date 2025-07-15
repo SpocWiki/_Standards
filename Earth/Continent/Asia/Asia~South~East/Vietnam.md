@@ -641,17 +641,17 @@ Capital :: [[Hanoe]]
 
 ## Confidential Links & Embeds: 
 
-### [Vietnam](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam.md) 
+### #is_/same_as :: [Vietnam](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam.md) 
 
-### [Vietnam.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public.md) 
+### #is_/same_as :: [Vietnam.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.public.md) 
 
-### [Vietnam.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal.md) 
+### #is_/same_as :: [Vietnam.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal.md) 
 
-### [Vietnam.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam.protect.md) 
+### #is_/same_as :: [Vietnam.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam.protect.md) 
 
-### [Vietnam.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam.private.md) 
+### #is_/same_as :: [Vietnam.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam.private.md) 
 
-### [Vietnam.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal.md) 
+### #is_/same_as :: [Vietnam.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal.md) 
 
-### [Vietnam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret.md)
+### #is_/same_as :: [Vietnam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret.md)
 

@@ -11,23 +11,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Performing%20arts) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Performing_Arts](/_Standards/bio/Society/Communication/Performing_Arts.md) 
+### #is_/same_as :: [Performing_Arts](/_Standards/bio/Society/Communication/Performing_Arts.md) 
 
-### [Performing_Arts.public](/_public/bio/Society/Communication/Performing_Arts.public.md) 
+### #is_/same_as :: [Performing_Arts.public](/_public/bio/Society/Communication/Performing_Arts.public.md) 
 
-### [Performing_Arts.internal](/_internal/bio/Society/Communication/Performing_Arts.internal.md) 
+### #is_/same_as :: [Performing_Arts.internal](/_internal/bio/Society/Communication/Performing_Arts.internal.md) 
 
-### [Performing_Arts.protect](/_protect/bio/Society/Communication/Performing_Arts.protect.md) 
+### #is_/same_as :: [Performing_Arts.protect](/_protect/bio/Society/Communication/Performing_Arts.protect.md) 
 
-### [Performing_Arts.private](/_private/bio/Society/Communication/Performing_Arts.private.md) 
+### #is_/same_as :: [Performing_Arts.private](/_private/bio/Society/Communication/Performing_Arts.private.md) 
 
-### [Performing_Arts.personal](/_personal/bio/Society/Communication/Performing_Arts.personal.md) 
+### #is_/same_as :: [Performing_Arts.personal](/_personal/bio/Society/Communication/Performing_Arts.personal.md) 
 
-### [Performing_Arts.secret](/_secret/bio/Society/Communication/Performing_Arts.secret.md)
+### #is_/same_as :: [Performing_Arts.secret](/_secret/bio/Society/Communication/Performing_Arts.secret.md)
 

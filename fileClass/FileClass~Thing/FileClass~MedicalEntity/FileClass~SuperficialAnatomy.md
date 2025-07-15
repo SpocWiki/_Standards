@@ -88,17 +88,17 @@ Significance:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~SuperficialAnatomy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.md) 
 
-### [FileClass~SuperficialAnatomy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.public.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.public.md) 
 
-### [FileClass~SuperficialAnatomy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.internal.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.internal.md) 
 
-### [FileClass~SuperficialAnatomy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.protect.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.protect.md) 
 
-### [FileClass~SuperficialAnatomy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.private.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.private.md) 
 
-### [FileClass~SuperficialAnatomy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.personal.md) 
+### #is_/same_as :: [FileClass~SuperficialAnatomy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.personal.md) 
 
-### [FileClass~SuperficialAnatomy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.secret.md)
+### #is_/same_as :: [FileClass~SuperficialAnatomy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.secret.md)
 

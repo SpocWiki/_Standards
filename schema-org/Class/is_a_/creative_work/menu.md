@@ -45,17 +45,17 @@ A structured representation of food or drink items available from a FoodEstablis
 
 ## Confidential Links & Embeds: 
 
-### [menu](/_Standards/schema-org/Class/is_a_/creative_work/menu.md) 
+### #is_/same_as :: [menu](/_Standards/schema-org/Class/is_a_/creative_work/menu.md) 
 
-### [menu.public](/_public/schema-org/Class/is_a_/creative_work/menu.public.md) 
+### #is_/same_as :: [menu.public](/_public/schema-org/Class/is_a_/creative_work/menu.public.md) 
 
-### [menu.internal](/_internal/schema-org/Class/is_a_/creative_work/menu.internal.md) 
+### #is_/same_as :: [menu.internal](/_internal/schema-org/Class/is_a_/creative_work/menu.internal.md) 
 
-### [menu.protect](/_protect/schema-org/Class/is_a_/creative_work/menu.protect.md) 
+### #is_/same_as :: [menu.protect](/_protect/schema-org/Class/is_a_/creative_work/menu.protect.md) 
 
-### [menu.private](/_private/schema-org/Class/is_a_/creative_work/menu.private.md) 
+### #is_/same_as :: [menu.private](/_private/schema-org/Class/is_a_/creative_work/menu.private.md) 
 
-### [menu.personal](/_personal/schema-org/Class/is_a_/creative_work/menu.personal.md) 
+### #is_/same_as :: [menu.personal](/_personal/schema-org/Class/is_a_/creative_work/menu.personal.md) 
 
-### [menu.secret](/_secret/schema-org/Class/is_a_/creative_work/menu.secret.md)
+### #is_/same_as :: [menu.secret](/_secret/schema-org/Class/is_a_/creative_work/menu.secret.md)
 

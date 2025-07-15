@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_review_aspect](/_Standards/schema-org/Property/Texts/has_review_aspect.md) 
+### #is_/same_as :: [has_review_aspect](/_Standards/schema-org/Property/Texts/has_review_aspect.md) 
 
-### [has_review_aspect.public](/_public/schema-org/Property/Texts/has_review_aspect.public.md) 
+### #is_/same_as :: [has_review_aspect.public](/_public/schema-org/Property/Texts/has_review_aspect.public.md) 
 
-### [has_review_aspect.internal](/_internal/schema-org/Property/Texts/has_review_aspect.internal.md) 
+### #is_/same_as :: [has_review_aspect.internal](/_internal/schema-org/Property/Texts/has_review_aspect.internal.md) 
 
-### [has_review_aspect.protect](/_protect/schema-org/Property/Texts/has_review_aspect.protect.md) 
+### #is_/same_as :: [has_review_aspect.protect](/_protect/schema-org/Property/Texts/has_review_aspect.protect.md) 
 
-### [has_review_aspect.private](/_private/schema-org/Property/Texts/has_review_aspect.private.md) 
+### #is_/same_as :: [has_review_aspect.private](/_private/schema-org/Property/Texts/has_review_aspect.private.md) 
 
-### [has_review_aspect.personal](/_personal/schema-org/Property/Texts/has_review_aspect.personal.md) 
+### #is_/same_as :: [has_review_aspect.personal](/_personal/schema-org/Property/Texts/has_review_aspect.personal.md) 
 
-### [has_review_aspect.secret](/_secret/schema-org/Property/Texts/has_review_aspect.secret.md)
+### #is_/same_as :: [has_review_aspect.secret](/_secret/schema-org/Property/Texts/has_review_aspect.secret.md)
 

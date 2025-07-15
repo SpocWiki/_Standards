@@ -52,17 +52,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_item_list_element](/_Standards/schema-org/Relation/has/has_item_list_element.md) 
+### #is_/same_as :: [has_item_list_element](/_Standards/schema-org/Relation/has/has_item_list_element.md) 
 
-### [has_item_list_element.public](/_public/schema-org/Relation/has/has_item_list_element.public.md) 
+### #is_/same_as :: [has_item_list_element.public](/_public/schema-org/Relation/has/has_item_list_element.public.md) 
 
-### [has_item_list_element.internal](/_internal/schema-org/Relation/has/has_item_list_element.internal.md) 
+### #is_/same_as :: [has_item_list_element.internal](/_internal/schema-org/Relation/has/has_item_list_element.internal.md) 
 
-### [has_item_list_element.protect](/_protect/schema-org/Relation/has/has_item_list_element.protect.md) 
+### #is_/same_as :: [has_item_list_element.protect](/_protect/schema-org/Relation/has/has_item_list_element.protect.md) 
 
-### [has_item_list_element.private](/_private/schema-org/Relation/has/has_item_list_element.private.md) 
+### #is_/same_as :: [has_item_list_element.private](/_private/schema-org/Relation/has/has_item_list_element.private.md) 
 
-### [has_item_list_element.personal](/_personal/schema-org/Relation/has/has_item_list_element.personal.md) 
+### #is_/same_as :: [has_item_list_element.personal](/_personal/schema-org/Relation/has/has_item_list_element.personal.md) 
 
-### [has_item_list_element.secret](/_secret/schema-org/Relation/has/has_item_list_element.secret.md)
+### #is_/same_as :: [has_item_list_element.secret](/_secret/schema-org/Relation/has/has_item_list_element.secret.md)
 

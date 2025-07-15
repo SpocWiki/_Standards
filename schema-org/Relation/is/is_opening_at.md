@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_opening_at](/_Standards/schema-org/Relation/is/is_opening_at.md) 
+### #is_/same_as :: [is_opening_at](/_Standards/schema-org/Relation/is/is_opening_at.md) 
 
-### [is_opening_at.public](/_public/schema-org/Relation/is/is_opening_at.public.md) 
+### #is_/same_as :: [is_opening_at.public](/_public/schema-org/Relation/is/is_opening_at.public.md) 
 
-### [is_opening_at.internal](/_internal/schema-org/Relation/is/is_opening_at.internal.md) 
+### #is_/same_as :: [is_opening_at.internal](/_internal/schema-org/Relation/is/is_opening_at.internal.md) 
 
-### [is_opening_at.protect](/_protect/schema-org/Relation/is/is_opening_at.protect.md) 
+### #is_/same_as :: [is_opening_at.protect](/_protect/schema-org/Relation/is/is_opening_at.protect.md) 
 
-### [is_opening_at.private](/_private/schema-org/Relation/is/is_opening_at.private.md) 
+### #is_/same_as :: [is_opening_at.private](/_private/schema-org/Relation/is/is_opening_at.private.md) 
 
-### [is_opening_at.personal](/_personal/schema-org/Relation/is/is_opening_at.personal.md) 
+### #is_/same_as :: [is_opening_at.personal](/_personal/schema-org/Relation/is/is_opening_at.personal.md) 
 
-### [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md)
+### #is_/same_as :: [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md)
 

@@ -47,17 +47,17 @@ The medical care by a physician, or other health-care professional, who is the p
 
 ## Confidential Links & Embeds: 
 
-### [primary_care](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.md) 
+### #is_/same_as :: [primary_care](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.md) 
 
-### [primary_care.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.public.md) 
+### #is_/same_as :: [primary_care.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.public.md) 
 
-### [primary_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md) 
+### #is_/same_as :: [primary_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md) 
 
-### [primary_care.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.protect.md) 
+### #is_/same_as :: [primary_care.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.protect.md) 
 
-### [primary_care.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.private.md) 
+### #is_/same_as :: [primary_care.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.private.md) 
 
-### [primary_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.personal.md) 
+### #is_/same_as :: [primary_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.personal.md) 
 
-### [primary_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md)
+### #is_/same_as :: [primary_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md)
 

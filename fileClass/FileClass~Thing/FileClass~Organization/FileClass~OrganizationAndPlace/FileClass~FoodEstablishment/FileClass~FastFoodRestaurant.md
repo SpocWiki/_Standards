@@ -35,17 +35,17 @@ A fast-food restaurant.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FastFoodRestaurant](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.md) 
 
-### [FileClass~FastFoodRestaurant.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.public.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.public.md) 
 
-### [FileClass~FastFoodRestaurant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.internal.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.internal.md) 
 
-### [FileClass~FastFoodRestaurant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.protect.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.protect.md) 
 
-### [FileClass~FastFoodRestaurant.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.private.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.private.md) 
 
-### [FileClass~FastFoodRestaurant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.personal.md) 
+### #is_/same_as :: [FileClass~FastFoodRestaurant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.personal.md) 
 
-### [FileClass~FastFoodRestaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.secret.md)
+### #is_/same_as :: [FileClass~FastFoodRestaurant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~FastFoodRestaurant.secret.md)
 

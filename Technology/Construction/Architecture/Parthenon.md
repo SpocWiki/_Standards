@@ -75,22 +75,19 @@ Wolfram_Language_entity_code: "Entity[\"Concept\", \"Parthenon::564n4\"]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Parthenon) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Parthenon](/_Standards/Technology/Construction/Architecture/Parthenon.md) 
+### #is_/same_as :: [Parthenon](/_Standards/Technology/Construction/Architecture/Parthenon.md) 
 
-### [Parthenon.public](/_public/Technology/Construction/Architecture/Parthenon.public.md) 
+### #is_/same_as :: [Parthenon.public](/_public/Technology/Construction/Architecture/Parthenon.public.md) 
 
-### [Parthenon.internal](/_internal/Technology/Construction/Architecture/Parthenon.internal.md) 
+### #is_/same_as :: [Parthenon.internal](/_internal/Technology/Construction/Architecture/Parthenon.internal.md) 
 
-### [Parthenon.protect](/_protect/Technology/Construction/Architecture/Parthenon.protect.md) 
+### #is_/same_as :: [Parthenon.protect](/_protect/Technology/Construction/Architecture/Parthenon.protect.md) 
 
-### [Parthenon.private](/_private/Technology/Construction/Architecture/Parthenon.private.md) 
+### #is_/same_as :: [Parthenon.private](/_private/Technology/Construction/Architecture/Parthenon.private.md) 
 
-### [Parthenon.personal](/_personal/Technology/Construction/Architecture/Parthenon.personal.md) 
+### #is_/same_as :: [Parthenon.personal](/_personal/Technology/Construction/Architecture/Parthenon.personal.md) 
 
-### [Parthenon.secret](/_secret/Technology/Construction/Architecture/Parthenon.secret.md)
+### #is_/same_as :: [Parthenon.secret](/_secret/Technology/Construction/Architecture/Parthenon.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_diet_features](/_Standards/schema-org/Property/Texts/has_diet_features.md) 
+### #is_/same_as :: [has_diet_features](/_Standards/schema-org/Property/Texts/has_diet_features.md) 
 
-### [has_diet_features.public](/_public/schema-org/Property/Texts/has_diet_features.public.md) 
+### #is_/same_as :: [has_diet_features.public](/_public/schema-org/Property/Texts/has_diet_features.public.md) 
 
-### [has_diet_features.internal](/_internal/schema-org/Property/Texts/has_diet_features.internal.md) 
+### #is_/same_as :: [has_diet_features.internal](/_internal/schema-org/Property/Texts/has_diet_features.internal.md) 
 
-### [has_diet_features.protect](/_protect/schema-org/Property/Texts/has_diet_features.protect.md) 
+### #is_/same_as :: [has_diet_features.protect](/_protect/schema-org/Property/Texts/has_diet_features.protect.md) 
 
-### [has_diet_features.private](/_private/schema-org/Property/Texts/has_diet_features.private.md) 
+### #is_/same_as :: [has_diet_features.private](/_private/schema-org/Property/Texts/has_diet_features.private.md) 
 
-### [has_diet_features.personal](/_personal/schema-org/Property/Texts/has_diet_features.personal.md) 
+### #is_/same_as :: [has_diet_features.personal](/_personal/schema-org/Property/Texts/has_diet_features.personal.md) 
 
-### [has_diet_features.secret](/_secret/schema-org/Property/Texts/has_diet_features.secret.md)
+### #is_/same_as :: [has_diet_features.secret](/_secret/schema-org/Property/Texts/has_diet_features.secret.md)
 

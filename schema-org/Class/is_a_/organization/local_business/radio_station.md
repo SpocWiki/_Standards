@@ -45,17 +45,17 @@ A radio station.
 
 ## Confidential Links & Embeds: 
 
-### [radio_station](/_Standards/schema-org/Class/is_a_/organization/local_business/radio_station.md) 
+### #is_/same_as :: [radio_station](/_Standards/schema-org/Class/is_a_/organization/local_business/radio_station.md) 
 
-### [radio_station.public](/_public/schema-org/Class/is_a_/organization/local_business/radio_station.public.md) 
+### #is_/same_as :: [radio_station.public](/_public/schema-org/Class/is_a_/organization/local_business/radio_station.public.md) 
 
-### [radio_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/radio_station.internal.md) 
+### #is_/same_as :: [radio_station.internal](/_internal/schema-org/Class/is_a_/organization/local_business/radio_station.internal.md) 
 
-### [radio_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/radio_station.protect.md) 
+### #is_/same_as :: [radio_station.protect](/_protect/schema-org/Class/is_a_/organization/local_business/radio_station.protect.md) 
 
-### [radio_station.private](/_private/schema-org/Class/is_a_/organization/local_business/radio_station.private.md) 
+### #is_/same_as :: [radio_station.private](/_private/schema-org/Class/is_a_/organization/local_business/radio_station.private.md) 
 
-### [radio_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/radio_station.personal.md) 
+### #is_/same_as :: [radio_station.personal](/_personal/schema-org/Class/is_a_/organization/local_business/radio_station.personal.md) 
 
-### [radio_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/radio_station.secret.md)
+### #is_/same_as :: [radio_station.secret](/_secret/schema-org/Class/is_a_/organization/local_business/radio_station.secret.md)
 

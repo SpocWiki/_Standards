@@ -51,17 +51,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_accepted_answer](/_Standards/schema-org/Relation/has/has_accepted_answer.md) 
+### #is_/same_as :: [has_accepted_answer](/_Standards/schema-org/Relation/has/has_accepted_answer.md) 
 
-### [has_accepted_answer.public](/_public/schema-org/Relation/has/has_accepted_answer.public.md) 
+### #is_/same_as :: [has_accepted_answer.public](/_public/schema-org/Relation/has/has_accepted_answer.public.md) 
 
-### [has_accepted_answer.internal](/_internal/schema-org/Relation/has/has_accepted_answer.internal.md) 
+### #is_/same_as :: [has_accepted_answer.internal](/_internal/schema-org/Relation/has/has_accepted_answer.internal.md) 
 
-### [has_accepted_answer.protect](/_protect/schema-org/Relation/has/has_accepted_answer.protect.md) 
+### #is_/same_as :: [has_accepted_answer.protect](/_protect/schema-org/Relation/has/has_accepted_answer.protect.md) 
 
-### [has_accepted_answer.private](/_private/schema-org/Relation/has/has_accepted_answer.private.md) 
+### #is_/same_as :: [has_accepted_answer.private](/_private/schema-org/Relation/has/has_accepted_answer.private.md) 
 
-### [has_accepted_answer.personal](/_personal/schema-org/Relation/has/has_accepted_answer.personal.md) 
+### #is_/same_as :: [has_accepted_answer.personal](/_personal/schema-org/Relation/has/has_accepted_answer.personal.md) 
 
-### [has_accepted_answer.secret](/_secret/schema-org/Relation/has/has_accepted_answer.secret.md)
+### #is_/same_as :: [has_accepted_answer.secret](/_secret/schema-org/Relation/has/has_accepted_answer.secret.md)
 

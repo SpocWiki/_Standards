@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_telephone](/_Standards/schema-org/Property/Texts/has_telephone.md) 
+### #is_/same_as :: [has_telephone](/_Standards/schema-org/Property/Texts/has_telephone.md) 
 
-### [has_telephone.public](/_public/schema-org/Property/Texts/has_telephone.public.md) 
+### #is_/same_as :: [has_telephone.public](/_public/schema-org/Property/Texts/has_telephone.public.md) 
 
-### [has_telephone.internal](/_internal/schema-org/Property/Texts/has_telephone.internal.md) 
+### #is_/same_as :: [has_telephone.internal](/_internal/schema-org/Property/Texts/has_telephone.internal.md) 
 
-### [has_telephone.protect](/_protect/schema-org/Property/Texts/has_telephone.protect.md) 
+### #is_/same_as :: [has_telephone.protect](/_protect/schema-org/Property/Texts/has_telephone.protect.md) 
 
-### [has_telephone.private](/_private/schema-org/Property/Texts/has_telephone.private.md) 
+### #is_/same_as :: [has_telephone.private](/_private/schema-org/Property/Texts/has_telephone.private.md) 
 
-### [has_telephone.personal](/_personal/schema-org/Property/Texts/has_telephone.personal.md) 
+### #is_/same_as :: [has_telephone.personal](/_personal/schema-org/Property/Texts/has_telephone.personal.md) 
 
-### [has_telephone.secret](/_secret/schema-org/Property/Texts/has_telephone.secret.md)
+### #is_/same_as :: [has_telephone.secret](/_secret/schema-org/Property/Texts/has_telephone.secret.md)
 

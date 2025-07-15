@@ -30,17 +30,17 @@ It depends on good Women's living Conditions.  Globally, estimated to be between
 
 ## Confidential Links & Embeds: 
 
-### [Fertility-Rate](/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate.md) 
+### #is_/same_as :: [Fertility-Rate](/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate.md) 
 
-### [Fertility-Rate.public](/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public.md) 
+### #is_/same_as :: [Fertility-Rate.public](/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public.md) 
 
-### [Fertility-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal.md) 
+### #is_/same_as :: [Fertility-Rate.internal](/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal.md) 
 
-### [Fertility-Rate.protect](/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect.md) 
+### #is_/same_as :: [Fertility-Rate.protect](/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect.md) 
 
-### [Fertility-Rate.private](/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private.md) 
+### #is_/same_as :: [Fertility-Rate.private](/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private.md) 
 
-### [Fertility-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal.md) 
+### #is_/same_as :: [Fertility-Rate.personal](/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal.md) 
 
-### [Fertility-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret.md)
+### #is_/same_as :: [Fertility-Rate.secret](/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret.md)
 

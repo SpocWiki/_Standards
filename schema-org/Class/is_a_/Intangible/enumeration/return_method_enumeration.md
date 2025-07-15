@@ -45,17 +45,17 @@ Enumerates several types of product return methods.
 
 ## Confidential Links & Embeds: 
 
-### [return_method_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.md) 
+### #is_/same_as :: [return_method_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.md) 
 
-### [return_method_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.public.md) 
+### #is_/same_as :: [return_method_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.public.md) 
 
-### [return_method_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.internal.md) 
+### #is_/same_as :: [return_method_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.internal.md) 
 
-### [return_method_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.protect.md) 
+### #is_/same_as :: [return_method_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.protect.md) 
 
-### [return_method_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.private.md) 
+### #is_/same_as :: [return_method_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.private.md) 
 
-### [return_method_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.personal.md) 
+### #is_/same_as :: [return_method_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.personal.md) 
 
-### [return_method_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.secret.md)
+### #is_/same_as :: [return_method_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.secret.md)
 

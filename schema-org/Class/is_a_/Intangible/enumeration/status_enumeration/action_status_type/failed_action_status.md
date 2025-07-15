@@ -47,17 +47,17 @@ An action that failed to complete. The action's error property and the HTTP retu
 
 ## Confidential Links & Embeds: 
 
-### [failed_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.md) 
+### #is_/same_as :: [failed_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.md) 
 
-### [failed_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.public.md) 
+### #is_/same_as :: [failed_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.public.md) 
 
-### [failed_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.internal.md) 
+### #is_/same_as :: [failed_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.internal.md) 
 
-### [failed_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.protect.md) 
+### #is_/same_as :: [failed_action_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.protect.md) 
 
-### [failed_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.private.md) 
+### #is_/same_as :: [failed_action_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.private.md) 
 
-### [failed_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.personal.md) 
+### #is_/same_as :: [failed_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.personal.md) 
 
-### [failed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.secret.md)
+### #is_/same_as :: [failed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.secret.md)
 

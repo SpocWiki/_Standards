@@ -47,17 +47,17 @@ One of the sections into which a book is divided. A chapter usually has a sectio
 
 ## Confidential Links & Embeds: 
 
-### [chapter](/_Standards/schema-org/Class/is_a_/creative_work/chapter.md) 
+### #is_/same_as :: [chapter](/_Standards/schema-org/Class/is_a_/creative_work/chapter.md) 
 
-### [chapter.public](/_public/schema-org/Class/is_a_/creative_work/chapter.public.md) 
+### #is_/same_as :: [chapter.public](/_public/schema-org/Class/is_a_/creative_work/chapter.public.md) 
 
-### [chapter.internal](/_internal/schema-org/Class/is_a_/creative_work/chapter.internal.md) 
+### #is_/same_as :: [chapter.internal](/_internal/schema-org/Class/is_a_/creative_work/chapter.internal.md) 
 
-### [chapter.protect](/_protect/schema-org/Class/is_a_/creative_work/chapter.protect.md) 
+### #is_/same_as :: [chapter.protect](/_protect/schema-org/Class/is_a_/creative_work/chapter.protect.md) 
 
-### [chapter.private](/_private/schema-org/Class/is_a_/creative_work/chapter.private.md) 
+### #is_/same_as :: [chapter.private](/_private/schema-org/Class/is_a_/creative_work/chapter.private.md) 
 
-### [chapter.personal](/_personal/schema-org/Class/is_a_/creative_work/chapter.personal.md) 
+### #is_/same_as :: [chapter.personal](/_personal/schema-org/Class/is_a_/creative_work/chapter.personal.md) 
 
-### [chapter.secret](/_secret/schema-org/Class/is_a_/creative_work/chapter.secret.md)
+### #is_/same_as :: [chapter.secret](/_secret/schema-org/Class/is_a_/creative_work/chapter.secret.md)
 

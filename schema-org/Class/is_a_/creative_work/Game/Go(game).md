@@ -68,22 +68,19 @@ inception: "http://www.wikidata.org/.well-known/genid/608be816cb2411d765977da3b7
 > [Wikipedia](https://en.wikipedia.org/wiki/Go%20(game)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Go(game)](/_Standards/schema-org/Class/is_a_/creative_work/Game/Go(game).md) 
+### #is_/same_as :: [Go(game)](/_Standards/schema-org/Class/is_a_/creative_work/Game/Go(game).md) 
 
-### [Go(game).public](/_public/schema-org/Class/is_a_/creative_work/Game/Go(game).public.md) 
+### #is_/same_as :: [Go(game).public](/_public/schema-org/Class/is_a_/creative_work/Game/Go(game).public.md) 
 
-### [Go(game).internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Go(game).internal.md) 
+### #is_/same_as :: [Go(game).internal](/_internal/schema-org/Class/is_a_/creative_work/Game/Go(game).internal.md) 
 
-### [Go(game).protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Go(game).protect.md) 
+### #is_/same_as :: [Go(game).protect](/_protect/schema-org/Class/is_a_/creative_work/Game/Go(game).protect.md) 
 
-### [Go(game).private](/_private/schema-org/Class/is_a_/creative_work/Game/Go(game).private.md) 
+### #is_/same_as :: [Go(game).private](/_private/schema-org/Class/is_a_/creative_work/Game/Go(game).private.md) 
 
-### [Go(game).personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Go(game).personal.md) 
+### #is_/same_as :: [Go(game).personal](/_personal/schema-org/Class/is_a_/creative_work/Game/Go(game).personal.md) 
 
-### [Go(game).secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Go(game).secret.md)
+### #is_/same_as :: [Go(game).secret](/_secret/schema-org/Class/is_a_/creative_work/Game/Go(game).secret.md)
 

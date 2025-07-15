@@ -55,24 +55,19 @@ Image © 1995 M. J. Donoghue
 > [Wikipedia](https://en.wikipedia.org/wiki/Canellales) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Canellales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.md) 
+### #is_/same_as :: [Canellales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.md) 
 
-### [Canellales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.public.md) 
+### #is_/same_as :: [Canellales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.public.md) 
 
-### [Canellales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.internal.md) 
+### #is_/same_as :: [Canellales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.internal.md) 
 
-### [Canellales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.protect.md) 
+### #is_/same_as :: [Canellales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.protect.md) 
 
-### [Canellales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.private.md) 
+### #is_/same_as :: [Canellales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.private.md) 
 
-### [Canellales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.personal.md) 
+### #is_/same_as :: [Canellales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.personal.md) 
 
-### [Canellales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.secret.md)
+### #is_/same_as :: [Canellales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.secret.md)
 

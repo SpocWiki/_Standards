@@ -47,17 +47,17 @@ An international trial.
 
 ## Confidential Links & Embeds: 
 
-### [international_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md) 
+### #is_/same_as :: [international_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md) 
 
-### [international_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.public.md) 
+### #is_/same_as :: [international_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.public.md) 
 
-### [international_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md) 
+### #is_/same_as :: [international_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md) 
 
-### [international_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.protect.md) 
+### #is_/same_as :: [international_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.protect.md) 
 
-### [international_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.private.md) 
+### #is_/same_as :: [international_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.private.md) 
 
-### [international_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.personal.md) 
+### #is_/same_as :: [international_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.personal.md) 
 
-### [international_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.secret.md)
+### #is_/same_as :: [international_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.secret.md)
 

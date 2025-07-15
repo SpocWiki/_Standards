@@ -54,22 +54,19 @@ Commons_category: Meats
 > [Wikipedia](https://en.wikipedia.org/wiki/Meat) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Meat](/_Standards/Home_Economics/Cooking/Food/Meat.md) 
+### #is_/same_as :: [Meat](/_Standards/Home_Economics/Cooking/Food/Meat.md) 
 
-### [Meat.public](/_public/Home_Economics/Cooking/Food/Meat.public.md) 
+### #is_/same_as :: [Meat.public](/_public/Home_Economics/Cooking/Food/Meat.public.md) 
 
-### [Meat.internal](/_internal/Home_Economics/Cooking/Food/Meat.internal.md) 
+### #is_/same_as :: [Meat.internal](/_internal/Home_Economics/Cooking/Food/Meat.internal.md) 
 
-### [Meat.protect](/_protect/Home_Economics/Cooking/Food/Meat.protect.md) 
+### #is_/same_as :: [Meat.protect](/_protect/Home_Economics/Cooking/Food/Meat.protect.md) 
 
-### [Meat.private](/_private/Home_Economics/Cooking/Food/Meat.private.md) 
+### #is_/same_as :: [Meat.private](/_private/Home_Economics/Cooking/Food/Meat.private.md) 
 
-### [Meat.personal](/_personal/Home_Economics/Cooking/Food/Meat.personal.md) 
+### #is_/same_as :: [Meat.personal](/_personal/Home_Economics/Cooking/Food/Meat.personal.md) 
 
-### [Meat.secret](/_secret/Home_Economics/Cooking/Food/Meat.secret.md)
+### #is_/same_as :: [Meat.secret](/_secret/Home_Economics/Cooking/Food/Meat.secret.md)
 

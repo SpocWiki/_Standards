@@ -39,17 +39,17 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProfessionalService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.md) 
+### #is_/same_as :: [FileClass~ProfessionalService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.md) 
 
-### [FileClass~ProfessionalService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.public.md) 
+### #is_/same_as :: [FileClass~ProfessionalService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.public.md) 
 
-### [FileClass~ProfessionalService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.internal.md) 
+### #is_/same_as :: [FileClass~ProfessionalService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.internal.md) 
 
-### [FileClass~ProfessionalService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.protect.md) 
+### #is_/same_as :: [FileClass~ProfessionalService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.protect.md) 
 
-### [FileClass~ProfessionalService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.private.md) 
+### #is_/same_as :: [FileClass~ProfessionalService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.private.md) 
 
-### [FileClass~ProfessionalService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.personal.md) 
+### #is_/same_as :: [FileClass~ProfessionalService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.personal.md) 
 
-### [FileClass~ProfessionalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret.md)
+### #is_/same_as :: [FileClass~ProfessionalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret.md)
 

@@ -47,17 +47,17 @@ A structured value representing repayment.
 
 ## Confidential Links & Embeds: 
 
-### [repayment_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.md) 
+### #is_/same_as :: [repayment_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.md) 
 
-### [repayment_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.public.md) 
+### #is_/same_as :: [repayment_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.public.md) 
 
-### [repayment_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.internal.md) 
+### #is_/same_as :: [repayment_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.internal.md) 
 
-### [repayment_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.protect.md) 
+### #is_/same_as :: [repayment_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.protect.md) 
 
-### [repayment_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.private.md) 
+### #is_/same_as :: [repayment_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.private.md) 
 
-### [repayment_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.personal.md) 
+### #is_/same_as :: [repayment_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.personal.md) 
 
-### [repayment_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.secret.md)
+### #is_/same_as :: [repayment_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.secret.md)
 

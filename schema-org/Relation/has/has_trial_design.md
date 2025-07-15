@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_trial_design](/_Standards/schema-org/Relation/has/has_trial_design.md) 
+### #is_/same_as :: [has_trial_design](/_Standards/schema-org/Relation/has/has_trial_design.md) 
 
-### [has_trial_design.public](/_public/schema-org/Relation/has/has_trial_design.public.md) 
+### #is_/same_as :: [has_trial_design.public](/_public/schema-org/Relation/has/has_trial_design.public.md) 
 
-### [has_trial_design.internal](/_internal/schema-org/Relation/has/has_trial_design.internal.md) 
+### #is_/same_as :: [has_trial_design.internal](/_internal/schema-org/Relation/has/has_trial_design.internal.md) 
 
-### [has_trial_design.protect](/_protect/schema-org/Relation/has/has_trial_design.protect.md) 
+### #is_/same_as :: [has_trial_design.protect](/_protect/schema-org/Relation/has/has_trial_design.protect.md) 
 
-### [has_trial_design.private](/_private/schema-org/Relation/has/has_trial_design.private.md) 
+### #is_/same_as :: [has_trial_design.private](/_private/schema-org/Relation/has/has_trial_design.private.md) 
 
-### [has_trial_design.personal](/_personal/schema-org/Relation/has/has_trial_design.personal.md) 
+### #is_/same_as :: [has_trial_design.personal](/_personal/schema-org/Relation/has/has_trial_design.personal.md) 
 
-### [has_trial_design.secret](/_secret/schema-org/Relation/has/has_trial_design.secret.md)
+### #is_/same_as :: [has_trial_design.secret](/_secret/schema-org/Relation/has/has_trial_design.secret.md)
 

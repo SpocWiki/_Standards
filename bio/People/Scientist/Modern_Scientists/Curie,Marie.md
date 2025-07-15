@@ -235,22 +235,19 @@ U_S_National_Archives_Identifier: 10568903
 > [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Curie)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Curie,Marie](/_Standards/bio/People/Scientist/Modern_Scientists/Curie,Marie.md) 
+### #is_/same_as :: [Curie,Marie](/_Standards/bio/People/Scientist/Modern_Scientists/Curie,Marie.md) 
 
-### [Curie,Marie.public](/_public/bio/People/Scientist/Modern_Scientists/Curie,Marie.public.md) 
+### #is_/same_as :: [Curie,Marie.public](/_public/bio/People/Scientist/Modern_Scientists/Curie,Marie.public.md) 
 
-### [Curie,Marie.internal](/_internal/bio/People/Scientist/Modern_Scientists/Curie,Marie.internal.md) 
+### #is_/same_as :: [Curie,Marie.internal](/_internal/bio/People/Scientist/Modern_Scientists/Curie,Marie.internal.md) 
 
-### [Curie,Marie.protect](/_protect/bio/People/Scientist/Modern_Scientists/Curie,Marie.protect.md) 
+### #is_/same_as :: [Curie,Marie.protect](/_protect/bio/People/Scientist/Modern_Scientists/Curie,Marie.protect.md) 
 
-### [Curie,Marie.private](/_private/bio/People/Scientist/Modern_Scientists/Curie,Marie.private.md) 
+### #is_/same_as :: [Curie,Marie.private](/_private/bio/People/Scientist/Modern_Scientists/Curie,Marie.private.md) 
 
-### [Curie,Marie.personal](/_personal/bio/People/Scientist/Modern_Scientists/Curie,Marie.personal.md) 
+### #is_/same_as :: [Curie,Marie.personal](/_personal/bio/People/Scientist/Modern_Scientists/Curie,Marie.personal.md) 
 
-### [Curie,Marie.secret](/_secret/bio/People/Scientist/Modern_Scientists/Curie,Marie.secret.md)
+### #is_/same_as :: [Curie,Marie.secret](/_secret/bio/People/Scientist/Modern_Scientists/Curie,Marie.secret.md)
 

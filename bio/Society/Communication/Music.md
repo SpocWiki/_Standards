@@ -42,22 +42,19 @@ has_id_wikidata: 638
 > [Wikipedia](https://en.wikipedia.org/wiki/Music)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Music](/_Standards/bio/Society/Communication/Music.md) 
+### #is_/same_as :: [Music](/_Standards/bio/Society/Communication/Music.md) 
 
-### [Music.public](/_public/bio/Society/Communication/Music.public.md) 
+### #is_/same_as :: [Music.public](/_public/bio/Society/Communication/Music.public.md) 
 
-### [Music.internal](/_internal/bio/Society/Communication/Music.internal.md) 
+### #is_/same_as :: [Music.internal](/_internal/bio/Society/Communication/Music.internal.md) 
 
-### [Music.protect](/_protect/bio/Society/Communication/Music.protect.md) 
+### #is_/same_as :: [Music.protect](/_protect/bio/Society/Communication/Music.protect.md) 
 
-### [Music.private](/_private/bio/Society/Communication/Music.private.md) 
+### #is_/same_as :: [Music.private](/_private/bio/Society/Communication/Music.private.md) 
 
-### [Music.personal](/_personal/bio/Society/Communication/Music.personal.md) 
+### #is_/same_as :: [Music.personal](/_personal/bio/Society/Communication/Music.personal.md) 
 
-### [Music.secret](/_secret/bio/Society/Communication/Music.secret.md)
+### #is_/same_as :: [Music.secret](/_secret/bio/Society/Communication/Music.secret.md)
 

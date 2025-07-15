@@ -35,17 +35,17 @@ An embassy.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Embassy](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.md) 
+### #is_/same_as :: [FileClass~Embassy](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.md) 
 
-### [FileClass~Embassy.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.public.md) 
+### #is_/same_as :: [FileClass~Embassy.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.public.md) 
 
-### [FileClass~Embassy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.internal.md) 
+### #is_/same_as :: [FileClass~Embassy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.internal.md) 
 
-### [FileClass~Embassy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.protect.md) 
+### #is_/same_as :: [FileClass~Embassy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.protect.md) 
 
-### [FileClass~Embassy.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.private.md) 
+### #is_/same_as :: [FileClass~Embassy.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.private.md) 
 
-### [FileClass~Embassy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.personal.md) 
+### #is_/same_as :: [FileClass~Embassy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.personal.md) 
 
-### [FileClass~Embassy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.secret.md)
+### #is_/same_as :: [FileClass~Embassy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.secret.md)
 

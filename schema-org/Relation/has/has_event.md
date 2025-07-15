@@ -48,17 +48,17 @@ Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../
 
 ## Confidential Links & Embeds: 
 
-### [has_event](/_Standards/schema-org/Relation/has/has_event.md) 
+### #is_/same_as :: [has_event](/_Standards/schema-org/Relation/has/has_event.md) 
 
-### [has_event.public](/_public/schema-org/Relation/has/has_event.public.md) 
+### #is_/same_as :: [has_event.public](/_public/schema-org/Relation/has/has_event.public.md) 
 
-### [has_event.internal](/_internal/schema-org/Relation/has/has_event.internal.md) 
+### #is_/same_as :: [has_event.internal](/_internal/schema-org/Relation/has/has_event.internal.md) 
 
-### [has_event.protect](/_protect/schema-org/Relation/has/has_event.protect.md) 
+### #is_/same_as :: [has_event.protect](/_protect/schema-org/Relation/has/has_event.protect.md) 
 
-### [has_event.private](/_private/schema-org/Relation/has/has_event.private.md) 
+### #is_/same_as :: [has_event.private](/_private/schema-org/Relation/has/has_event.private.md) 
 
-### [has_event.personal](/_personal/schema-org/Relation/has/has_event.personal.md) 
+### #is_/same_as :: [has_event.personal](/_personal/schema-org/Relation/has/has_event.personal.md) 
 
-### [has_event.secret](/_secret/schema-org/Relation/has/has_event.secret.md)
+### #is_/same_as :: [has_event.secret](/_secret/schema-org/Relation/has/has_event.secret.md)
 

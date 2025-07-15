@@ -37,17 +37,17 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BreadcrumbList](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.md) 
 
-### [FileClass~BreadcrumbList.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.public.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.public.md) 
 
-### [FileClass~BreadcrumbList.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.internal.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.internal.md) 
 
-### [FileClass~BreadcrumbList.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.protect.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.protect.md) 
 
-### [FileClass~BreadcrumbList.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.private.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.private.md) 
 
-### [FileClass~BreadcrumbList.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.personal.md) 
+### #is_/same_as :: [FileClass~BreadcrumbList.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.personal.md) 
 
-### [FileClass~BreadcrumbList.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.secret.md)
+### #is_/same_as :: [FileClass~BreadcrumbList.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ItemList/FileClass~BreadcrumbList.secret.md)
 

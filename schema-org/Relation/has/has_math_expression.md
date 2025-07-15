@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_math_expression](/_Standards/schema-org/Relation/has/has_math_expression.md) 
+### #is_/same_as :: [has_math_expression](/_Standards/schema-org/Relation/has/has_math_expression.md) 
 
-### [has_math_expression.public](/_public/schema-org/Relation/has/has_math_expression.public.md) 
+### #is_/same_as :: [has_math_expression.public](/_public/schema-org/Relation/has/has_math_expression.public.md) 
 
-### [has_math_expression.internal](/_internal/schema-org/Relation/has/has_math_expression.internal.md) 
+### #is_/same_as :: [has_math_expression.internal](/_internal/schema-org/Relation/has/has_math_expression.internal.md) 
 
-### [has_math_expression.protect](/_protect/schema-org/Relation/has/has_math_expression.protect.md) 
+### #is_/same_as :: [has_math_expression.protect](/_protect/schema-org/Relation/has/has_math_expression.protect.md) 
 
-### [has_math_expression.private](/_private/schema-org/Relation/has/has_math_expression.private.md) 
+### #is_/same_as :: [has_math_expression.private](/_private/schema-org/Relation/has/has_math_expression.private.md) 
 
-### [has_math_expression.personal](/_personal/schema-org/Relation/has/has_math_expression.personal.md) 
+### #is_/same_as :: [has_math_expression.personal](/_personal/schema-org/Relation/has/has_math_expression.personal.md) 
 
-### [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md)
+### #is_/same_as :: [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md)
 

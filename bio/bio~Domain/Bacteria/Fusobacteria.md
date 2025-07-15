@@ -85,22 +85,19 @@ aliases:
 	-   *Cetobacterium ceti*[ (incertae sedis) ]
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Fusobacteria](/_Standards/bio/bio~Domain/Bacteria/Fusobacteria.md) 
+### #is_/same_as :: [Fusobacteria](/_Standards/bio/bio~Domain/Bacteria/Fusobacteria.md) 
 
-### [Fusobacteria.public](/_public/bio/bio~Domain/Bacteria/Fusobacteria.public.md) 
+### #is_/same_as :: [Fusobacteria.public](/_public/bio/bio~Domain/Bacteria/Fusobacteria.public.md) 
 
-### [Fusobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Fusobacteria.internal.md) 
+### #is_/same_as :: [Fusobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Fusobacteria.internal.md) 
 
-### [Fusobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Fusobacteria.protect.md) 
+### #is_/same_as :: [Fusobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Fusobacteria.protect.md) 
 
-### [Fusobacteria.private](/_private/bio/bio~Domain/Bacteria/Fusobacteria.private.md) 
+### #is_/same_as :: [Fusobacteria.private](/_private/bio/bio~Domain/Bacteria/Fusobacteria.private.md) 
 
-### [Fusobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Fusobacteria.personal.md) 
+### #is_/same_as :: [Fusobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Fusobacteria.personal.md) 
 
-### [Fusobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Fusobacteria.secret.md)
+### #is_/same_as :: [Fusobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Fusobacteria.secret.md)
 

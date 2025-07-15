@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_copyright_year](/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year.md) 
+### #is_/same_as :: [has_value_for_copyright_year](/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year.md) 
 
-### [has_value_for_copyright_year.public](/_public/schema-org/Property/has_value_for/has_value_for_copyright_year.public.md) 
+### #is_/same_as :: [has_value_for_copyright_year.public](/_public/schema-org/Property/has_value_for/has_value_for_copyright_year.public.md) 
 
-### [has_value_for_copyright_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_copyright_year.internal.md) 
+### #is_/same_as :: [has_value_for_copyright_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_copyright_year.internal.md) 
 
-### [has_value_for_copyright_year.protect](/_protect/schema-org/Property/has_value_for/has_value_for_copyright_year.protect.md) 
+### #is_/same_as :: [has_value_for_copyright_year.protect](/_protect/schema-org/Property/has_value_for/has_value_for_copyright_year.protect.md) 
 
-### [has_value_for_copyright_year.private](/_private/schema-org/Property/has_value_for/has_value_for_copyright_year.private.md) 
+### #is_/same_as :: [has_value_for_copyright_year.private](/_private/schema-org/Property/has_value_for/has_value_for_copyright_year.private.md) 
 
-### [has_value_for_copyright_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_copyright_year.personal.md) 
+### #is_/same_as :: [has_value_for_copyright_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_copyright_year.personal.md) 
 
-### [has_value_for_copyright_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_copyright_year.secret.md)
+### #is_/same_as :: [has_value_for_copyright_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_copyright_year.secret.md)
 

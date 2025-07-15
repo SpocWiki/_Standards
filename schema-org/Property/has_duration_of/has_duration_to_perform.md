@@ -48,17 +48,17 @@ Has [sub_properties::cookTime]
 
 ## Confidential Links & Embeds: 
 
-### [has_duration_to_perform](/_Standards/schema-org/Property/has_duration_of/has_duration_to_perform.md) 
+### #is_/same_as :: [has_duration_to_perform](/_Standards/schema-org/Property/has_duration_of/has_duration_to_perform.md) 
 
-### [has_duration_to_perform.public](/_public/schema-org/Property/has_duration_of/has_duration_to_perform.public.md) 
+### #is_/same_as :: [has_duration_to_perform.public](/_public/schema-org/Property/has_duration_of/has_duration_to_perform.public.md) 
 
-### [has_duration_to_perform.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_perform.internal.md) 
+### #is_/same_as :: [has_duration_to_perform.internal](/_internal/schema-org/Property/has_duration_of/has_duration_to_perform.internal.md) 
 
-### [has_duration_to_perform.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_perform.protect.md) 
+### #is_/same_as :: [has_duration_to_perform.protect](/_protect/schema-org/Property/has_duration_of/has_duration_to_perform.protect.md) 
 
-### [has_duration_to_perform.private](/_private/schema-org/Property/has_duration_of/has_duration_to_perform.private.md) 
+### #is_/same_as :: [has_duration_to_perform.private](/_private/schema-org/Property/has_duration_of/has_duration_to_perform.private.md) 
 
-### [has_duration_to_perform.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_perform.personal.md) 
+### #is_/same_as :: [has_duration_to_perform.personal](/_personal/schema-org/Property/has_duration_of/has_duration_to_perform.personal.md) 
 
-### [has_duration_to_perform.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_perform.secret.md)
+### #is_/same_as :: [has_duration_to_perform.secret](/_secret/schema-org/Property/has_duration_of/has_duration_to_perform.secret.md)
 

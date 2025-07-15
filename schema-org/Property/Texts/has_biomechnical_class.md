@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_biomechnical_class](/_Standards/schema-org/Property/Texts/has_biomechnical_class.md) 
+### #is_/same_as :: [has_biomechnical_class](/_Standards/schema-org/Property/Texts/has_biomechnical_class.md) 
 
-### [has_biomechnical_class.public](/_public/schema-org/Property/Texts/has_biomechnical_class.public.md) 
+### #is_/same_as :: [has_biomechnical_class.public](/_public/schema-org/Property/Texts/has_biomechnical_class.public.md) 
 
-### [has_biomechnical_class.internal](/_internal/schema-org/Property/Texts/has_biomechnical_class.internal.md) 
+### #is_/same_as :: [has_biomechnical_class.internal](/_internal/schema-org/Property/Texts/has_biomechnical_class.internal.md) 
 
-### [has_biomechnical_class.protect](/_protect/schema-org/Property/Texts/has_biomechnical_class.protect.md) 
+### #is_/same_as :: [has_biomechnical_class.protect](/_protect/schema-org/Property/Texts/has_biomechnical_class.protect.md) 
 
-### [has_biomechnical_class.private](/_private/schema-org/Property/Texts/has_biomechnical_class.private.md) 
+### #is_/same_as :: [has_biomechnical_class.private](/_private/schema-org/Property/Texts/has_biomechnical_class.private.md) 
 
-### [has_biomechnical_class.personal](/_personal/schema-org/Property/Texts/has_biomechnical_class.personal.md) 
+### #is_/same_as :: [has_biomechnical_class.personal](/_personal/schema-org/Property/Texts/has_biomechnical_class.personal.md) 
 
-### [has_biomechnical_class.secret](/_secret/schema-org/Property/Texts/has_biomechnical_class.secret.md)
+### #is_/same_as :: [has_biomechnical_class.secret](/_secret/schema-org/Property/Texts/has_biomechnical_class.secret.md)
 

@@ -46,17 +46,17 @@ EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToSupply](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.md) 
+### #is_/same_as :: [FileClass~HowToSupply](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.md) 
 
-### [FileClass~HowToSupply.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.public.md) 
+### #is_/same_as :: [FileClass~HowToSupply.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.public.md) 
 
-### [FileClass~HowToSupply.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.internal.md) 
+### #is_/same_as :: [FileClass~HowToSupply.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.internal.md) 
 
-### [FileClass~HowToSupply.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.protect.md) 
+### #is_/same_as :: [FileClass~HowToSupply.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.protect.md) 
 
-### [FileClass~HowToSupply.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.private.md) 
+### #is_/same_as :: [FileClass~HowToSupply.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.private.md) 
 
-### [FileClass~HowToSupply.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.personal.md) 
+### #is_/same_as :: [FileClass~HowToSupply.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.personal.md) 
 
-### [FileClass~HowToSupply.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.secret.md)
+### #is_/same_as :: [FileClass~HowToSupply.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.secret.md)
 

@@ -47,17 +47,17 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 ## Confidential Links & Embeds: 
 
-### [anaerobic_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
+### #is_/same_as :: [anaerobic_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
 
-### [anaerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.public.md) 
+### #is_/same_as :: [anaerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.public.md) 
 
-### [anaerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md) 
+### #is_/same_as :: [anaerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md) 
 
-### [anaerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.protect.md) 
+### #is_/same_as :: [anaerobic_activity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.protect.md) 
 
-### [anaerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.private.md) 
+### #is_/same_as :: [anaerobic_activity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.private.md) 
 
-### [anaerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.personal.md) 
+### #is_/same_as :: [anaerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.personal.md) 
 
-### [anaerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md)
+### #is_/same_as :: [anaerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md)
 

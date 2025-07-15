@@ -586,17 +586,17 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 
 ## Confidential Links & Embeds: 
 
-### [Nepal](/_Standards/Earth/Continent/Asia/Asia~South/Nepal.md) 
+### #is_/same_as :: [Nepal](/_Standards/Earth/Continent/Asia/Asia~South/Nepal.md) 
 
-### [Nepal.public](/_public/Earth/Continent/Asia/Asia~South/Nepal.public.md) 
+### #is_/same_as :: [Nepal.public](/_public/Earth/Continent/Asia/Asia~South/Nepal.public.md) 
 
-### [Nepal.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal.internal.md) 
+### #is_/same_as :: [Nepal.internal](/_internal/Earth/Continent/Asia/Asia~South/Nepal.internal.md) 
 
-### [Nepal.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal.protect.md) 
+### #is_/same_as :: [Nepal.protect](/_protect/Earth/Continent/Asia/Asia~South/Nepal.protect.md) 
 
-### [Nepal.private](/_private/Earth/Continent/Asia/Asia~South/Nepal.private.md) 
+### #is_/same_as :: [Nepal.private](/_private/Earth/Continent/Asia/Asia~South/Nepal.private.md) 
 
-### [Nepal.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal.personal.md) 
+### #is_/same_as :: [Nepal.personal](/_personal/Earth/Continent/Asia/Asia~South/Nepal.personal.md) 
 
-### [Nepal.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal.secret.md)
+### #is_/same_as :: [Nepal.secret](/_secret/Earth/Continent/Asia/Asia~South/Nepal.secret.md)
 

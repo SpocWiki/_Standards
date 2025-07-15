@@ -16,22 +16,19 @@ has_id_wikidata: Q9794
 > [Wikipedia](https://en.wikipedia.org/wiki/Reggae) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Reggae](/_Standards/bio/Society/Communication/Music/Music_Genre/Reggae.md) 
+### #is_/same_as :: [Reggae](/_Standards/bio/Society/Communication/Music/Music_Genre/Reggae.md) 
 
-### [Reggae.public](/_public/bio/Society/Communication/Music/Music_Genre/Reggae.public.md) 
+### #is_/same_as :: [Reggae.public](/_public/bio/Society/Communication/Music/Music_Genre/Reggae.public.md) 
 
-### [Reggae.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Reggae.internal.md) 
+### #is_/same_as :: [Reggae.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Reggae.internal.md) 
 
-### [Reggae.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Reggae.protect.md) 
+### #is_/same_as :: [Reggae.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Reggae.protect.md) 
 
-### [Reggae.private](/_private/bio/Society/Communication/Music/Music_Genre/Reggae.private.md) 
+### #is_/same_as :: [Reggae.private](/_private/bio/Society/Communication/Music/Music_Genre/Reggae.private.md) 
 
-### [Reggae.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Reggae.personal.md) 
+### #is_/same_as :: [Reggae.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Reggae.personal.md) 
 
-### [Reggae.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Reggae.secret.md)
+### #is_/same_as :: [Reggae.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Reggae.secret.md)
 

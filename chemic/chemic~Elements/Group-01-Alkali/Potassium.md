@@ -179,17 +179,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Potassium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Potassium.md) 
+### #is_/same_as :: [Potassium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Potassium.md) 
 
-### [Potassium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Potassium.public.md) 
+### #is_/same_as :: [Potassium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Potassium.public.md) 
 
-### [Potassium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Potassium.internal.md) 
+### #is_/same_as :: [Potassium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Potassium.internal.md) 
 
-### [Potassium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Potassium.protect.md) 
+### #is_/same_as :: [Potassium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Potassium.protect.md) 
 
-### [Potassium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Potassium.private.md) 
+### #is_/same_as :: [Potassium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Potassium.private.md) 
 
-### [Potassium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Potassium.personal.md) 
+### #is_/same_as :: [Potassium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Potassium.personal.md) 
 
-### [Potassium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Potassium.secret.md)
+### #is_/same_as :: [Potassium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Potassium.secret.md)
 

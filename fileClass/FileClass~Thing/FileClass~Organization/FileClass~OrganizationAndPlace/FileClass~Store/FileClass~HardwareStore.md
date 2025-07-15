@@ -35,17 +35,17 @@ A hardware store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HardwareStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.md) 
+### #is_/same_as :: [FileClass~HardwareStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.md) 
 
-### [FileClass~HardwareStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.public.md) 
+### #is_/same_as :: [FileClass~HardwareStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.public.md) 
 
-### [FileClass~HardwareStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.internal.md) 
+### #is_/same_as :: [FileClass~HardwareStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.internal.md) 
 
-### [FileClass~HardwareStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.protect.md) 
+### #is_/same_as :: [FileClass~HardwareStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.protect.md) 
 
-### [FileClass~HardwareStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.private.md) 
+### #is_/same_as :: [FileClass~HardwareStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.private.md) 
 
-### [FileClass~HardwareStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.personal.md) 
+### #is_/same_as :: [FileClass~HardwareStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.personal.md) 
 
-### [FileClass~HardwareStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.secret.md)
+### #is_/same_as :: [FileClass~HardwareStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.secret.md)
 

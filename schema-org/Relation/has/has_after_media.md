@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_after_media](/_Standards/schema-org/Relation/has/has_after_media.md) 
+### #is_/same_as :: [has_after_media](/_Standards/schema-org/Relation/has/has_after_media.md) 
 
-### [has_after_media.public](/_public/schema-org/Relation/has/has_after_media.public.md) 
+### #is_/same_as :: [has_after_media.public](/_public/schema-org/Relation/has/has_after_media.public.md) 
 
-### [has_after_media.internal](/_internal/schema-org/Relation/has/has_after_media.internal.md) 
+### #is_/same_as :: [has_after_media.internal](/_internal/schema-org/Relation/has/has_after_media.internal.md) 
 
-### [has_after_media.protect](/_protect/schema-org/Relation/has/has_after_media.protect.md) 
+### #is_/same_as :: [has_after_media.protect](/_protect/schema-org/Relation/has/has_after_media.protect.md) 
 
-### [has_after_media.private](/_private/schema-org/Relation/has/has_after_media.private.md) 
+### #is_/same_as :: [has_after_media.private](/_private/schema-org/Relation/has/has_after_media.private.md) 
 
-### [has_after_media.personal](/_personal/schema-org/Relation/has/has_after_media.personal.md) 
+### #is_/same_as :: [has_after_media.personal](/_personal/schema-org/Relation/has/has_after_media.personal.md) 
 
-### [has_after_media.secret](/_secret/schema-org/Relation/has/has_after_media.secret.md)
+### #is_/same_as :: [has_after_media.secret](/_secret/schema-org/Relation/has/has_after_media.secret.md)
 

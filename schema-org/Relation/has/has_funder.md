@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_funder](/_Standards/schema-org/Relation/has/has_funder.md) 
+### #is_/same_as :: [has_funder](/_Standards/schema-org/Relation/has/has_funder.md) 
 
-### [has_funder.public](/_public/schema-org/Relation/has/has_funder.public.md) 
+### #is_/same_as :: [has_funder.public](/_public/schema-org/Relation/has/has_funder.public.md) 
 
-### [has_funder.internal](/_internal/schema-org/Relation/has/has_funder.internal.md) 
+### #is_/same_as :: [has_funder.internal](/_internal/schema-org/Relation/has/has_funder.internal.md) 
 
-### [has_funder.protect](/_protect/schema-org/Relation/has/has_funder.protect.md) 
+### #is_/same_as :: [has_funder.protect](/_protect/schema-org/Relation/has/has_funder.protect.md) 
 
-### [has_funder.private](/_private/schema-org/Relation/has/has_funder.private.md) 
+### #is_/same_as :: [has_funder.private](/_private/schema-org/Relation/has/has_funder.private.md) 
 
-### [has_funder.personal](/_personal/schema-org/Relation/has/has_funder.personal.md) 
+### #is_/same_as :: [has_funder.personal](/_personal/schema-org/Relation/has/has_funder.personal.md) 
 
-### [has_funder.secret](/_secret/schema-org/Relation/has/has_funder.secret.md)
+### #is_/same_as :: [has_funder.secret](/_secret/schema-org/Relation/has/has_funder.secret.md)
 

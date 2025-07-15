@@ -45,17 +45,17 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 ## Confidential Links & Embeds: 
 
-### [assign_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.md) 
+### #is_/same_as :: [assign_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.md) 
 
-### [assign_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.public.md) 
+### #is_/same_as :: [assign_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.public.md) 
 
-### [assign_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.internal.md) 
+### #is_/same_as :: [assign_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.internal.md) 
 
-### [assign_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.protect.md) 
+### #is_/same_as :: [assign_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.protect.md) 
 
-### [assign_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.private.md) 
+### #is_/same_as :: [assign_action.private](/_private/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.private.md) 
 
-### [assign_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.personal.md) 
+### #is_/same_as :: [assign_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.personal.md) 
 
-### [assign_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.secret.md)
+### #is_/same_as :: [assign_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action/assign_action.secret.md)
 

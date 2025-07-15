@@ -121,17 +121,17 @@ RTECS_number: MG4600000
 
 ## Confidential Links & Embeds: 
 
-### [Hafnium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Hafnium.md) 
+### #is_/same_as :: [Hafnium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Hafnium.md) 
 
-### [Hafnium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Hafnium.public.md) 
+### #is_/same_as :: [Hafnium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Hafnium.public.md) 
 
-### [Hafnium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.internal.md) 
+### #is_/same_as :: [Hafnium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.internal.md) 
 
-### [Hafnium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Hafnium.protect.md) 
+### #is_/same_as :: [Hafnium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Hafnium.protect.md) 
 
-### [Hafnium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Hafnium.private.md) 
+### #is_/same_as :: [Hafnium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Hafnium.private.md) 
 
-### [Hafnium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.personal.md) 
+### #is_/same_as :: [Hafnium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.personal.md) 
 
-### [Hafnium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Hafnium.secret.md)
+### #is_/same_as :: [Hafnium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Hafnium.secret.md)
 

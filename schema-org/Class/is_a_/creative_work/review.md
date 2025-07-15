@@ -70,17 +70,17 @@ A review of an item - for example, of a restaurant, movie, or store.
 
 ## Confidential Links & Embeds: 
 
-### [review](/_Standards/schema-org/Class/is_a_/creative_work/review.md) 
+### #is_/same_as :: [review](/_Standards/schema-org/Class/is_a_/creative_work/review.md) 
 
-### [review.public](/_public/schema-org/Class/is_a_/creative_work/review.public.md) 
+### #is_/same_as :: [review.public](/_public/schema-org/Class/is_a_/creative_work/review.public.md) 
 
-### [review.internal](/_internal/schema-org/Class/is_a_/creative_work/review.internal.md) 
+### #is_/same_as :: [review.internal](/_internal/schema-org/Class/is_a_/creative_work/review.internal.md) 
 
-### [review.protect](/_protect/schema-org/Class/is_a_/creative_work/review.protect.md) 
+### #is_/same_as :: [review.protect](/_protect/schema-org/Class/is_a_/creative_work/review.protect.md) 
 
-### [review.private](/_private/schema-org/Class/is_a_/creative_work/review.private.md) 
+### #is_/same_as :: [review.private](/_private/schema-org/Class/is_a_/creative_work/review.private.md) 
 
-### [review.personal](/_personal/schema-org/Class/is_a_/creative_work/review.personal.md) 
+### #is_/same_as :: [review.personal](/_personal/schema-org/Class/is_a_/creative_work/review.personal.md) 
 
-### [review.secret](/_secret/schema-org/Class/is_a_/creative_work/review.secret.md)
+### #is_/same_as :: [review.secret](/_secret/schema-org/Class/is_a_/creative_work/review.secret.md)
 

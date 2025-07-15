@@ -29,23 +29,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Keynesian%20economics) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Keynesianism](/_Standards/bio/Society/Ideology/Economic_Ideology/Keynesianism.md) 
+### #is_/same_as :: [Keynesianism](/_Standards/bio/Society/Ideology/Economic_Ideology/Keynesianism.md) 
 
-### [Keynesianism.public](/_public/bio/Society/Ideology/Economic_Ideology/Keynesianism.public.md) 
+### #is_/same_as :: [Keynesianism.public](/_public/bio/Society/Ideology/Economic_Ideology/Keynesianism.public.md) 
 
-### [Keynesianism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Keynesianism.internal.md) 
+### #is_/same_as :: [Keynesianism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Keynesianism.internal.md) 
 
-### [Keynesianism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Keynesianism.protect.md) 
+### #is_/same_as :: [Keynesianism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Keynesianism.protect.md) 
 
-### [Keynesianism.private](/_private/bio/Society/Ideology/Economic_Ideology/Keynesianism.private.md) 
+### #is_/same_as :: [Keynesianism.private](/_private/bio/Society/Ideology/Economic_Ideology/Keynesianism.private.md) 
 
-### [Keynesianism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Keynesianism.personal.md) 
+### #is_/same_as :: [Keynesianism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Keynesianism.personal.md) 
 
-### [Keynesianism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Keynesianism.secret.md)
+### #is_/same_as :: [Keynesianism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Keynesianism.secret.md)
 

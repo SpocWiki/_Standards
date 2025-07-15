@@ -47,17 +47,17 @@ A food-related business.
 
 ## Confidential Links & Embeds: 
 
-### [food_establishment](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment.md) 
+### #is_/same_as :: [food_establishment](/_Standards/schema-org/Class/is_a_/organization/local_business/food_establishment.md) 
 
-### [food_establishment.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment.public.md) 
+### #is_/same_as :: [food_establishment.public](/_public/schema-org/Class/is_a_/organization/local_business/food_establishment.public.md) 
 
-### [food_establishment.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment.internal.md) 
+### #is_/same_as :: [food_establishment.internal](/_internal/schema-org/Class/is_a_/organization/local_business/food_establishment.internal.md) 
 
-### [food_establishment.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment.protect.md) 
+### #is_/same_as :: [food_establishment.protect](/_protect/schema-org/Class/is_a_/organization/local_business/food_establishment.protect.md) 
 
-### [food_establishment.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment.private.md) 
+### #is_/same_as :: [food_establishment.private](/_private/schema-org/Class/is_a_/organization/local_business/food_establishment.private.md) 
 
-### [food_establishment.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment.personal.md) 
+### #is_/same_as :: [food_establishment.personal](/_personal/schema-org/Class/is_a_/organization/local_business/food_establishment.personal.md) 
 
-### [food_establishment.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment.secret.md)
+### #is_/same_as :: [food_establishment.secret](/_secret/schema-org/Class/is_a_/organization/local_business/food_establishment.secret.md)
 

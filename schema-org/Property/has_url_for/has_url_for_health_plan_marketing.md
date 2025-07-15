@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_health_plan_marketing](/_Standards/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing](/_Standards/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
 
-### [has_url_for_health_plan_marketing.public](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing.public](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public.md) 
 
-### [has_url_for_health_plan_marketing.internal](/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing.internal](/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal.md) 
 
-### [has_url_for_health_plan_marketing.protect](/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing.protect](/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect.md) 
 
-### [has_url_for_health_plan_marketing.private](/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing.private](/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private.md) 
 
-### [has_url_for_health_plan_marketing.personal](/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal.md) 
+### #is_/same_as :: [has_url_for_health_plan_marketing.personal](/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal.md) 
 
-### [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md)
+### #is_/same_as :: [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md)
 

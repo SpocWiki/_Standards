@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_median](/_Standards/schema-org/Property/has_value_for/has_value_for_median.md) 
+### #is_/same_as :: [has_value_for_median](/_Standards/schema-org/Property/has_value_for/has_value_for_median.md) 
 
-### [has_value_for_median.public](/_public/schema-org/Property/has_value_for/has_value_for_median.public.md) 
+### #is_/same_as :: [has_value_for_median.public](/_public/schema-org/Property/has_value_for/has_value_for_median.public.md) 
 
-### [has_value_for_median.internal](/_internal/schema-org/Property/has_value_for/has_value_for_median.internal.md) 
+### #is_/same_as :: [has_value_for_median.internal](/_internal/schema-org/Property/has_value_for/has_value_for_median.internal.md) 
 
-### [has_value_for_median.protect](/_protect/schema-org/Property/has_value_for/has_value_for_median.protect.md) 
+### #is_/same_as :: [has_value_for_median.protect](/_protect/schema-org/Property/has_value_for/has_value_for_median.protect.md) 
 
-### [has_value_for_median.private](/_private/schema-org/Property/has_value_for/has_value_for_median.private.md) 
+### #is_/same_as :: [has_value_for_median.private](/_private/schema-org/Property/has_value_for/has_value_for_median.private.md) 
 
-### [has_value_for_median.personal](/_personal/schema-org/Property/has_value_for/has_value_for_median.personal.md) 
+### #is_/same_as :: [has_value_for_median.personal](/_personal/schema-org/Property/has_value_for/has_value_for_median.personal.md) 
 
-### [has_value_for_median.secret](/_secret/schema-org/Property/has_value_for/has_value_for_median.secret.md)
+### #is_/same_as :: [has_value_for_median.secret](/_secret/schema-org/Property/has_value_for/has_value_for_median.secret.md)
 

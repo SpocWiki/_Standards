@@ -86,22 +86,19 @@ exact_match: "http://purl.obolibrary.org/obo/ENVO_01000015"
 > [Wikipedia](https://en.wikipedia.org/wiki/Beer) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Beer](/_Standards/Home_Economics/Cooking/Food/Drink/Beer.md) 
+### #is_/same_as :: [Beer](/_Standards/Home_Economics/Cooking/Food/Drink/Beer.md) 
 
-### [Beer.public](/_public/Home_Economics/Cooking/Food/Drink/Beer.public.md) 
+### #is_/same_as :: [Beer.public](/_public/Home_Economics/Cooking/Food/Drink/Beer.public.md) 
 
-### [Beer.internal](/_internal/Home_Economics/Cooking/Food/Drink/Beer.internal.md) 
+### #is_/same_as :: [Beer.internal](/_internal/Home_Economics/Cooking/Food/Drink/Beer.internal.md) 
 
-### [Beer.protect](/_protect/Home_Economics/Cooking/Food/Drink/Beer.protect.md) 
+### #is_/same_as :: [Beer.protect](/_protect/Home_Economics/Cooking/Food/Drink/Beer.protect.md) 
 
-### [Beer.private](/_private/Home_Economics/Cooking/Food/Drink/Beer.private.md) 
+### #is_/same_as :: [Beer.private](/_private/Home_Economics/Cooking/Food/Drink/Beer.private.md) 
 
-### [Beer.personal](/_personal/Home_Economics/Cooking/Food/Drink/Beer.personal.md) 
+### #is_/same_as :: [Beer.personal](/_personal/Home_Economics/Cooking/Food/Drink/Beer.personal.md) 
 
-### [Beer.secret](/_secret/Home_Economics/Cooking/Food/Drink/Beer.secret.md)
+### #is_/same_as :: [Beer.secret](/_secret/Home_Economics/Cooking/Food/Drink/Beer.secret.md)
 

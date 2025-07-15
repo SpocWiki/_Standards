@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_health_plan_copay](/_Standards/schema-org/Relation/has/has_health_plan_copay.md) 
+### #is_/same_as :: [has_health_plan_copay](/_Standards/schema-org/Relation/has/has_health_plan_copay.md) 
 
-### [has_health_plan_copay.public](/_public/schema-org/Relation/has/has_health_plan_copay.public.md) 
+### #is_/same_as :: [has_health_plan_copay.public](/_public/schema-org/Relation/has/has_health_plan_copay.public.md) 
 
-### [has_health_plan_copay.internal](/_internal/schema-org/Relation/has/has_health_plan_copay.internal.md) 
+### #is_/same_as :: [has_health_plan_copay.internal](/_internal/schema-org/Relation/has/has_health_plan_copay.internal.md) 
 
-### [has_health_plan_copay.protect](/_protect/schema-org/Relation/has/has_health_plan_copay.protect.md) 
+### #is_/same_as :: [has_health_plan_copay.protect](/_protect/schema-org/Relation/has/has_health_plan_copay.protect.md) 
 
-### [has_health_plan_copay.private](/_private/schema-org/Relation/has/has_health_plan_copay.private.md) 
+### #is_/same_as :: [has_health_plan_copay.private](/_private/schema-org/Relation/has/has_health_plan_copay.private.md) 
 
-### [has_health_plan_copay.personal](/_personal/schema-org/Relation/has/has_health_plan_copay.personal.md) 
+### #is_/same_as :: [has_health_plan_copay.personal](/_personal/schema-org/Relation/has/has_health_plan_copay.personal.md) 
 
-### [has_health_plan_copay.secret](/_secret/schema-org/Relation/has/has_health_plan_copay.secret.md)
+### #is_/same_as :: [has_health_plan_copay.secret](/_secret/schema-org/Relation/has/has_health_plan_copay.secret.md)
 

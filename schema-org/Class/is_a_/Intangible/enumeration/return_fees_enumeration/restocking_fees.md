@@ -49,17 +49,17 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 ## Confidential Links & Embeds: 
 
-### [restocking_fees](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.md) 
+### #is_/same_as :: [restocking_fees](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.md) 
 
-### [restocking_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.public.md) 
+### #is_/same_as :: [restocking_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.public.md) 
 
-### [restocking_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md) 
+### #is_/same_as :: [restocking_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md) 
 
-### [restocking_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md) 
+### #is_/same_as :: [restocking_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md) 
 
-### [restocking_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.private.md) 
+### #is_/same_as :: [restocking_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.private.md) 
 
-### [restocking_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md) 
+### #is_/same_as :: [restocking_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md) 
 
-### [restocking_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md)
+### #is_/same_as :: [restocking_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md)
 

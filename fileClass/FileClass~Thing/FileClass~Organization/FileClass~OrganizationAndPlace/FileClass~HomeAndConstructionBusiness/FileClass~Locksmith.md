@@ -35,17 +35,17 @@ A locksmith.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Locksmith](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.md) 
+### #is_/same_as :: [FileClass~Locksmith](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.md) 
 
-### [FileClass~Locksmith.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.public.md) 
+### #is_/same_as :: [FileClass~Locksmith.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.public.md) 
 
-### [FileClass~Locksmith.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.internal.md) 
+### #is_/same_as :: [FileClass~Locksmith.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.internal.md) 
 
-### [FileClass~Locksmith.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.protect.md) 
+### #is_/same_as :: [FileClass~Locksmith.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.protect.md) 
 
-### [FileClass~Locksmith.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.private.md) 
+### #is_/same_as :: [FileClass~Locksmith.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.private.md) 
 
-### [FileClass~Locksmith.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.personal.md) 
+### #is_/same_as :: [FileClass~Locksmith.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.personal.md) 
 
-### [FileClass~Locksmith.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.secret.md)
+### #is_/same_as :: [FileClass~Locksmith.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~Locksmith.secret.md)
 

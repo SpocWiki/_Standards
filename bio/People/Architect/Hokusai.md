@@ -195,21 +195,19 @@ signature: "http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Hokusai)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Hokusai](/_Standards/bio/People/Architect/Hokusai.md) 
+### #is_/same_as :: [Hokusai](/_Standards/bio/People/Architect/Hokusai.md) 
 
-### [Hokusai.public](/_public/bio/People/Architect/Hokusai.public.md) 
+### #is_/same_as :: [Hokusai.public](/_public/bio/People/Architect/Hokusai.public.md) 
 
-### [Hokusai.internal](/_internal/bio/People/Architect/Hokusai.internal.md) 
+### #is_/same_as :: [Hokusai.internal](/_internal/bio/People/Architect/Hokusai.internal.md) 
 
-### [Hokusai.protect](/_protect/bio/People/Architect/Hokusai.protect.md) 
+### #is_/same_as :: [Hokusai.protect](/_protect/bio/People/Architect/Hokusai.protect.md) 
 
-### [Hokusai.private](/_private/bio/People/Architect/Hokusai.private.md) 
+### #is_/same_as :: [Hokusai.private](/_private/bio/People/Architect/Hokusai.private.md) 
 
-### [Hokusai.personal](/_personal/bio/People/Architect/Hokusai.personal.md) 
+### #is_/same_as :: [Hokusai.personal](/_personal/bio/People/Architect/Hokusai.personal.md) 
 
-### [Hokusai.secret](/_secret/bio/People/Architect/Hokusai.secret.md)
+### #is_/same_as :: [Hokusai.secret](/_secret/bio/People/Architect/Hokusai.secret.md)
 

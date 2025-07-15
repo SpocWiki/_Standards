@@ -35,17 +35,17 @@ A file composed primarily of text.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TextDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.md) 
 
-### [FileClass~TextDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.public.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.public.md) 
 
-### [FileClass~TextDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.internal.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.internal.md) 
 
-### [FileClass~TextDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.protect.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.protect.md) 
 
-### [FileClass~TextDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.private.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.private.md) 
 
-### [FileClass~TextDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.personal.md) 
+### #is_/same_as :: [FileClass~TextDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.personal.md) 
 
-### [FileClass~TextDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.secret.md)
+### #is_/same_as :: [FileClass~TextDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~TextDigitalDocument.secret.md)
 

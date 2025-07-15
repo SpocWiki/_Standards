@@ -45,17 +45,17 @@ A nail salon.
 
 ## Confidential Links & Embeds: 
 
-### [nail_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.md) 
+### #is_/same_as :: [nail_salon](/_Standards/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.md) 
 
-### [nail_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.public.md) 
+### #is_/same_as :: [nail_salon.public](/_public/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.public.md) 
 
-### [nail_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.internal.md) 
+### #is_/same_as :: [nail_salon.internal](/_internal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.internal.md) 
 
-### [nail_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.protect.md) 
+### #is_/same_as :: [nail_salon.protect](/_protect/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.protect.md) 
 
-### [nail_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.private.md) 
+### #is_/same_as :: [nail_salon.private](/_private/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.private.md) 
 
-### [nail_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.personal.md) 
+### #is_/same_as :: [nail_salon.personal](/_personal/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.personal.md) 
 
-### [nail_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.secret.md)
+### #is_/same_as :: [nail_salon.secret](/_secret/schema-org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.secret.md)
 

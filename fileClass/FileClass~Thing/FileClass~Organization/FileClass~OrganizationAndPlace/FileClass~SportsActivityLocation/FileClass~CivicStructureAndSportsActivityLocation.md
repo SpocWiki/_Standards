@@ -50,17 +50,17 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CivicStructureAndSportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.public.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.public.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.internal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.internal.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.protect.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.protect.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.private.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.private.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.personal.md) 
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.personal.md) 
 
-### [FileClass~CivicStructureAndSportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.secret.md)
+### #is_/same_as :: [FileClass~CivicStructureAndSportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation.secret.md)
 

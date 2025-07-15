@@ -77,17 +77,17 @@ VideoFormat:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BroadcastEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.md) 
 
-### [FileClass~BroadcastEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.public.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.public.md) 
 
-### [FileClass~BroadcastEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.internal.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.internal.md) 
 
-### [FileClass~BroadcastEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.protect.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.protect.md) 
 
-### [FileClass~BroadcastEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.private.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.private.md) 
 
-### [FileClass~BroadcastEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.personal.md) 
+### #is_/same_as :: [FileClass~BroadcastEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.personal.md) 
 
-### [FileClass~BroadcastEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.secret.md)
+### #is_/same_as :: [FileClass~BroadcastEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~BroadcastEvent.secret.md)
 

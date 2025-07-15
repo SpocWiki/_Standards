@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_advance_booking_requirement](/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement](/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.md) 
 
-### [has_value_for_advance_booking_requirement.public](/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.public.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement.public](/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.public.md) 
 
-### [has_value_for_advance_booking_requirement.internal](/_internal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.internal.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement.internal](/_internal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.internal.md) 
 
-### [has_value_for_advance_booking_requirement.protect](/_protect/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.protect.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement.protect](/_protect/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.protect.md) 
 
-### [has_value_for_advance_booking_requirement.private](/_private/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.private.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement.private](/_private/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.private.md) 
 
-### [has_value_for_advance_booking_requirement.personal](/_personal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.personal.md) 
+### #is_/same_as :: [has_value_for_advance_booking_requirement.personal](/_personal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.personal.md) 
 
-### [has_value_for_advance_booking_requirement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret.md)
+### #is_/same_as :: [has_value_for_advance_booking_requirement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret.md)
 

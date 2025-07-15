@@ -147,23 +147,19 @@ Leistungsgesellschaft
 > [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Smith)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Smith,Adam](/_Standards/bio/People/Economist/Smith,Adam.md) 
+### #is_/same_as :: [Smith,Adam](/_Standards/bio/People/Economist/Smith,Adam.md) 
 
-### [Smith,Adam.public](/_public/bio/People/Economist/Smith,Adam.public.md) 
+### #is_/same_as :: [Smith,Adam.public](/_public/bio/People/Economist/Smith,Adam.public.md) 
 
-### [Smith,Adam.internal](/_internal/bio/People/Economist/Smith,Adam.internal.md) 
+### #is_/same_as :: [Smith,Adam.internal](/_internal/bio/People/Economist/Smith,Adam.internal.md) 
 
-### [Smith,Adam.protect](/_protect/bio/People/Economist/Smith,Adam.protect.md) 
+### #is_/same_as :: [Smith,Adam.protect](/_protect/bio/People/Economist/Smith,Adam.protect.md) 
 
-### [Smith,Adam.private](/_private/bio/People/Economist/Smith,Adam.private.md) 
+### #is_/same_as :: [Smith,Adam.private](/_private/bio/People/Economist/Smith,Adam.private.md) 
 
-### [Smith,Adam.personal](/_personal/bio/People/Economist/Smith,Adam.personal.md) 
+### #is_/same_as :: [Smith,Adam.personal](/_personal/bio/People/Economist/Smith,Adam.personal.md) 
 
-### [Smith,Adam.secret](/_secret/bio/People/Economist/Smith,Adam.secret.md)
+### #is_/same_as :: [Smith,Adam.secret](/_secret/bio/People/Economist/Smith,Adam.secret.md)
 

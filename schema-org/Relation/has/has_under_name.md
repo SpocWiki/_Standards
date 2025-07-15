@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_under_name](/_Standards/schema-org/Relation/has/has_under_name.md) 
+### #is_/same_as :: [has_under_name](/_Standards/schema-org/Relation/has/has_under_name.md) 
 
-### [has_under_name.public](/_public/schema-org/Relation/has/has_under_name.public.md) 
+### #is_/same_as :: [has_under_name.public](/_public/schema-org/Relation/has/has_under_name.public.md) 
 
-### [has_under_name.internal](/_internal/schema-org/Relation/has/has_under_name.internal.md) 
+### #is_/same_as :: [has_under_name.internal](/_internal/schema-org/Relation/has/has_under_name.internal.md) 
 
-### [has_under_name.protect](/_protect/schema-org/Relation/has/has_under_name.protect.md) 
+### #is_/same_as :: [has_under_name.protect](/_protect/schema-org/Relation/has/has_under_name.protect.md) 
 
-### [has_under_name.private](/_private/schema-org/Relation/has/has_under_name.private.md) 
+### #is_/same_as :: [has_under_name.private](/_private/schema-org/Relation/has/has_under_name.private.md) 
 
-### [has_under_name.personal](/_personal/schema-org/Relation/has/has_under_name.personal.md) 
+### #is_/same_as :: [has_under_name.personal](/_personal/schema-org/Relation/has/has_under_name.personal.md) 
 
-### [has_under_name.secret](/_secret/schema-org/Relation/has/has_under_name.secret.md)
+### #is_/same_as :: [has_under_name.secret](/_secret/schema-org/Relation/has/has_under_name.secret.md)
 

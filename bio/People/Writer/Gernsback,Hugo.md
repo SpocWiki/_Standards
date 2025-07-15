@@ -33,24 +33,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hugo%20Gernsback) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Gernsback,Hugo](/_Standards/bio/People/Writer/Gernsback,Hugo.md) 
+### #is_/same_as :: [Gernsback,Hugo](/_Standards/bio/People/Writer/Gernsback,Hugo.md) 
 
-### [Gernsback,Hugo.public](/_public/bio/People/Writer/Gernsback,Hugo.public.md) 
+### #is_/same_as :: [Gernsback,Hugo.public](/_public/bio/People/Writer/Gernsback,Hugo.public.md) 
 
-### [Gernsback,Hugo.internal](/_internal/bio/People/Writer/Gernsback,Hugo.internal.md) 
+### #is_/same_as :: [Gernsback,Hugo.internal](/_internal/bio/People/Writer/Gernsback,Hugo.internal.md) 
 
-### [Gernsback,Hugo.protect](/_protect/bio/People/Writer/Gernsback,Hugo.protect.md) 
+### #is_/same_as :: [Gernsback,Hugo.protect](/_protect/bio/People/Writer/Gernsback,Hugo.protect.md) 
 
-### [Gernsback,Hugo.private](/_private/bio/People/Writer/Gernsback,Hugo.private.md) 
+### #is_/same_as :: [Gernsback,Hugo.private](/_private/bio/People/Writer/Gernsback,Hugo.private.md) 
 
-### [Gernsback,Hugo.personal](/_personal/bio/People/Writer/Gernsback,Hugo.personal.md) 
+### #is_/same_as :: [Gernsback,Hugo.personal](/_personal/bio/People/Writer/Gernsback,Hugo.personal.md) 
 
-### [Gernsback,Hugo.secret](/_secret/bio/People/Writer/Gernsback,Hugo.secret.md)
+### #is_/same_as :: [Gernsback,Hugo.secret](/_secret/bio/People/Writer/Gernsback,Hugo.secret.md)
 

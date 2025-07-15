@@ -38,25 +38,19 @@ leading to a sucrose content of around 18% in modern varieties
 > [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20beet)
 
 
-
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Sugar_beet](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.md) 
+### #is_/same_as :: [Sugar_beet](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.md) 
 
-### [Sugar_beet.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.public.md) 
+### #is_/same_as :: [Sugar_beet.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.public.md) 
 
-### [Sugar_beet.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.internal.md) 
+### #is_/same_as :: [Sugar_beet.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.internal.md) 
 
-### [Sugar_beet.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.protect.md) 
+### #is_/same_as :: [Sugar_beet.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.protect.md) 
 
-### [Sugar_beet.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.private.md) 
+### #is_/same_as :: [Sugar_beet.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.private.md) 
 
-### [Sugar_beet.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.personal.md) 
+### #is_/same_as :: [Sugar_beet.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.personal.md) 
 
-### [Sugar_beet.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.secret.md)
+### #is_/same_as :: [Sugar_beet.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar_beet.secret.md)
 

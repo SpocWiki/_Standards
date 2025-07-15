@@ -58,17 +58,17 @@ Audio that has been created using actors or similarly contrived.
 
 ## Confidential Links & Embeds: 
 
-### [staged_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
+### #is_/same_as :: [staged_content](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
 
-### [staged_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.public.md) 
+### #is_/same_as :: [staged_content.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.public.md) 
 
-### [staged_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md) 
+### #is_/same_as :: [staged_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md) 
 
-### [staged_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md) 
+### #is_/same_as :: [staged_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md) 
 
-### [staged_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md) 
+### #is_/same_as :: [staged_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md) 
 
-### [staged_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md) 
+### #is_/same_as :: [staged_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md) 
 
-### [staged_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md)
+### #is_/same_as :: [staged_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md)
 

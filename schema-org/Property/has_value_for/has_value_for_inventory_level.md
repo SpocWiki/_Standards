@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_inventory_level](/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level.md) 
+### #is_/same_as :: [has_value_for_inventory_level](/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level.md) 
 
-### [has_value_for_inventory_level.public](/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public.md) 
+### #is_/same_as :: [has_value_for_inventory_level.public](/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public.md) 
 
-### [has_value_for_inventory_level.internal](/_internal/schema-org/Property/has_value_for/has_value_for_inventory_level.internal.md) 
+### #is_/same_as :: [has_value_for_inventory_level.internal](/_internal/schema-org/Property/has_value_for/has_value_for_inventory_level.internal.md) 
 
-### [has_value_for_inventory_level.protect](/_protect/schema-org/Property/has_value_for/has_value_for_inventory_level.protect.md) 
+### #is_/same_as :: [has_value_for_inventory_level.protect](/_protect/schema-org/Property/has_value_for/has_value_for_inventory_level.protect.md) 
 
-### [has_value_for_inventory_level.private](/_private/schema-org/Property/has_value_for/has_value_for_inventory_level.private.md) 
+### #is_/same_as :: [has_value_for_inventory_level.private](/_private/schema-org/Property/has_value_for/has_value_for_inventory_level.private.md) 
 
-### [has_value_for_inventory_level.personal](/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal.md) 
+### #is_/same_as :: [has_value_for_inventory_level.personal](/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal.md) 
 
-### [has_value_for_inventory_level.secret](/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret.md)
+### #is_/same_as :: [has_value_for_inventory_level.secret](/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret.md)
 

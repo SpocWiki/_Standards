@@ -47,17 +47,17 @@ Skin assessment with clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### [skin](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.md) 
+### #is_/same_as :: [skin](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.md) 
 
-### [skin.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.public.md) 
+### #is_/same_as :: [skin.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.public.md) 
 
-### [skin.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.internal.md) 
+### #is_/same_as :: [skin.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.internal.md) 
 
-### [skin.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.protect.md) 
+### #is_/same_as :: [skin.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.protect.md) 
 
-### [skin.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.private.md) 
+### #is_/same_as :: [skin.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.private.md) 
 
-### [skin.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.personal.md) 
+### #is_/same_as :: [skin.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.personal.md) 
 
-### [skin.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.secret.md)
+### #is_/same_as :: [skin.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.secret.md)
 

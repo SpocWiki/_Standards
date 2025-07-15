@@ -137,17 +137,17 @@ independent	 :: Part of FI ]
 
 ## Confidential Links & Embeds: 
 
-### [Åland-Islands](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands.md) 
+### #is_/same_as :: [Åland-Islands](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands.md) 
 
-### [Åland-Islands.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands.public.md) 
+### #is_/same_as :: [Åland-Islands.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands.public.md) 
 
-### [Åland-Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands.internal.md) 
+### #is_/same_as :: [Åland-Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands.internal.md) 
 
-### [Åland-Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands.protect.md) 
+### #is_/same_as :: [Åland-Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands.protect.md) 
 
-### [Åland-Islands.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands.private.md) 
+### #is_/same_as :: [Åland-Islands.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands.private.md) 
 
-### [Åland-Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands.personal.md) 
+### #is_/same_as :: [Åland-Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands.personal.md) 
 
-### [Åland-Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands.secret.md)
+### #is_/same_as :: [Åland-Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands.secret.md)
 

@@ -47,17 +47,17 @@ A seasonal override of a return policy, for example used for holidays.
 
 ## Confidential Links & Embeds: 
 
-### [merchant_return_policy_seasonal_override](/_Standards/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override](/_Standards/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.md) 
 
-### [merchant_return_policy_seasonal_override.public](/_public/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.public.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override.public](/_public/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.public.md) 
 
-### [merchant_return_policy_seasonal_override.internal](/_internal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.internal.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override.internal](/_internal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.internal.md) 
 
-### [merchant_return_policy_seasonal_override.protect](/_protect/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.protect.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override.protect](/_protect/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.protect.md) 
 
-### [merchant_return_policy_seasonal_override.private](/_private/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.private.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override.private](/_private/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.private.md) 
 
-### [merchant_return_policy_seasonal_override.personal](/_personal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.personal.md) 
+### #is_/same_as :: [merchant_return_policy_seasonal_override.personal](/_personal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.personal.md) 
 
-### [merchant_return_policy_seasonal_override.secret](/_secret/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.secret.md)
+### #is_/same_as :: [merchant_return_policy_seasonal_override.secret](/_secret/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.secret.md)
 

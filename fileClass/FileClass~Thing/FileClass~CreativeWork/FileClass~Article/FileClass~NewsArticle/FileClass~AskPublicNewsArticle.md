@@ -35,17 +35,17 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AskPublicNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.md) 
 
-### [FileClass~AskPublicNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.public.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.public.md) 
 
-### [FileClass~AskPublicNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.internal.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.internal.md) 
 
-### [FileClass~AskPublicNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.protect.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.protect.md) 
 
-### [FileClass~AskPublicNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.private.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.private.md) 
 
-### [FileClass~AskPublicNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.personal.md) 
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.personal.md) 
 
-### [FileClass~AskPublicNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.secret.md)
+### #is_/same_as :: [FileClass~AskPublicNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AskPublicNewsArticle.secret.md)
 

@@ -49,17 +49,17 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 
 ## Confidential Links & Embeds: 
 
-### [limited_by_guarantee_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md) 
+### #is_/same_as :: [limited_by_guarantee_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md) 
 
-### [limited_by_guarantee_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.public.md) 
+### #is_/same_as :: [limited_by_guarantee_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.public.md) 
 
-### [limited_by_guarantee_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md) 
+### #is_/same_as :: [limited_by_guarantee_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md) 
 
-### [limited_by_guarantee_charity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.protect.md) 
+### #is_/same_as :: [limited_by_guarantee_charity.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.protect.md) 
 
-### [limited_by_guarantee_charity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.private.md) 
+### #is_/same_as :: [limited_by_guarantee_charity.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.private.md) 
 
-### [limited_by_guarantee_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.personal.md) 
+### #is_/same_as :: [limited_by_guarantee_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.personal.md) 
 
-### [limited_by_guarantee_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md)
+### #is_/same_as :: [limited_by_guarantee_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md)
 

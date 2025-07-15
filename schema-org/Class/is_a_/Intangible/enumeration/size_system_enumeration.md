@@ -47,17 +47,17 @@ Enumerates common size systems for different categories of products, for example
 
 ## Confidential Links & Embeds: 
 
-### [size_system_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.md) 
+### #is_/same_as :: [size_system_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.md) 
 
-### [size_system_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.public.md) 
+### #is_/same_as :: [size_system_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.public.md) 
 
-### [size_system_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.internal.md) 
+### #is_/same_as :: [size_system_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.internal.md) 
 
-### [size_system_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.protect.md) 
+### #is_/same_as :: [size_system_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.protect.md) 
 
-### [size_system_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.private.md) 
+### #is_/same_as :: [size_system_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.private.md) 
 
-### [size_system_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.personal.md) 
+### #is_/same_as :: [size_system_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.personal.md) 
 
-### [size_system_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.secret.md)
+### #is_/same_as :: [size_system_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration.secret.md)
 

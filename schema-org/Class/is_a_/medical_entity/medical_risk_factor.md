@@ -45,17 +45,17 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 ## Confidential Links & Embeds: 
 
-### [medical_risk_factor](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_factor.md) 
+### #is_/same_as :: [medical_risk_factor](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_factor.md) 
 
-### [medical_risk_factor.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_factor.public.md) 
+### #is_/same_as :: [medical_risk_factor.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_factor.public.md) 
 
-### [medical_risk_factor.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.internal.md) 
+### #is_/same_as :: [medical_risk_factor.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.internal.md) 
 
-### [medical_risk_factor.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_factor.protect.md) 
+### #is_/same_as :: [medical_risk_factor.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_risk_factor.protect.md) 
 
-### [medical_risk_factor.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_factor.private.md) 
+### #is_/same_as :: [medical_risk_factor.private](/_private/schema-org/Class/is_a_/medical_entity/medical_risk_factor.private.md) 
 
-### [medical_risk_factor.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.personal.md) 
+### #is_/same_as :: [medical_risk_factor.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_factor.personal.md) 
 
-### [medical_risk_factor.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_factor.secret.md)
+### #is_/same_as :: [medical_risk_factor.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_factor.secret.md)
 

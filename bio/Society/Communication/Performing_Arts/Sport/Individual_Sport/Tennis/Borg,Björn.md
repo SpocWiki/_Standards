@@ -307,23 +307,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rn%20Borg)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Borg,Björn](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.md) 
+### #is_/same_as :: [Borg,Björn](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.md) 
 
-### [Borg,Björn.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.public.md) 
+### #is_/same_as :: [Borg,Björn.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.public.md) 
 
-### [Borg,Björn.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.internal.md) 
+### #is_/same_as :: [Borg,Björn.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.internal.md) 
 
-### [Borg,Björn.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.protect.md) 
+### #is_/same_as :: [Borg,Björn.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.protect.md) 
 
-### [Borg,Björn.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.private.md) 
+### #is_/same_as :: [Borg,Björn.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.private.md) 
 
-### [Borg,Björn.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.personal.md) 
+### #is_/same_as :: [Borg,Björn.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.personal.md) 
 
-### [Borg,Björn.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.secret.md)
+### #is_/same_as :: [Borg,Björn.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Tennis/Borg,Björn.secret.md)
 

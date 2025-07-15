@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_game_availability_type](/_Standards/schema-org/Relation/has/has_game_availability_type.md) 
+### #is_/same_as :: [has_game_availability_type](/_Standards/schema-org/Relation/has/has_game_availability_type.md) 
 
-### [has_game_availability_type.public](/_public/schema-org/Relation/has/has_game_availability_type.public.md) 
+### #is_/same_as :: [has_game_availability_type.public](/_public/schema-org/Relation/has/has_game_availability_type.public.md) 
 
-### [has_game_availability_type.internal](/_internal/schema-org/Relation/has/has_game_availability_type.internal.md) 
+### #is_/same_as :: [has_game_availability_type.internal](/_internal/schema-org/Relation/has/has_game_availability_type.internal.md) 
 
-### [has_game_availability_type.protect](/_protect/schema-org/Relation/has/has_game_availability_type.protect.md) 
+### #is_/same_as :: [has_game_availability_type.protect](/_protect/schema-org/Relation/has/has_game_availability_type.protect.md) 
 
-### [has_game_availability_type.private](/_private/schema-org/Relation/has/has_game_availability_type.private.md) 
+### #is_/same_as :: [has_game_availability_type.private](/_private/schema-org/Relation/has/has_game_availability_type.private.md) 
 
-### [has_game_availability_type.personal](/_personal/schema-org/Relation/has/has_game_availability_type.personal.md) 
+### #is_/same_as :: [has_game_availability_type.personal](/_personal/schema-org/Relation/has/has_game_availability_type.personal.md) 
 
-### [has_game_availability_type.secret](/_secret/schema-org/Relation/has/has_game_availability_type.secret.md)
+### #is_/same_as :: [has_game_availability_type.secret](/_secret/schema-org/Relation/has/has_game_availability_type.secret.md)
 

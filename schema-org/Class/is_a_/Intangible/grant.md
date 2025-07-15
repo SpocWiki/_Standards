@@ -54,17 +54,17 @@ The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]
 
 ## Confidential Links & Embeds: 
 
-### [grant](/_Standards/schema-org/Class/is_a_/Intangible/grant.md) 
+### #is_/same_as :: [grant](/_Standards/schema-org/Class/is_a_/Intangible/grant.md) 
 
-### [grant.public](/_public/schema-org/Class/is_a_/Intangible/grant.public.md) 
+### #is_/same_as :: [grant.public](/_public/schema-org/Class/is_a_/Intangible/grant.public.md) 
 
-### [grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant.internal.md) 
+### #is_/same_as :: [grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant.internal.md) 
 
-### [grant.protect](/_protect/schema-org/Class/is_a_/Intangible/grant.protect.md) 
+### #is_/same_as :: [grant.protect](/_protect/schema-org/Class/is_a_/Intangible/grant.protect.md) 
 
-### [grant.private](/_private/schema-org/Class/is_a_/Intangible/grant.private.md) 
+### #is_/same_as :: [grant.private](/_private/schema-org/Class/is_a_/Intangible/grant.private.md) 
 
-### [grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant.personal.md) 
+### #is_/same_as :: [grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant.personal.md) 
 
-### [grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant.secret.md)
+### #is_/same_as :: [grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant.secret.md)
 

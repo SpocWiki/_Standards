@@ -150,17 +150,17 @@ UNII: 00BH33GNGH
 
 ## Confidential Links & Embeds: 
 
-### [Cadmium](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Cadmium.md) 
+### #is_/same_as :: [Cadmium](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Cadmium.md) 
 
-### [Cadmium.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Cadmium.public.md) 
+### #is_/same_as :: [Cadmium.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Cadmium.public.md) 
 
-### [Cadmium.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.internal.md) 
+### #is_/same_as :: [Cadmium.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.internal.md) 
 
-### [Cadmium.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Cadmium.protect.md) 
+### #is_/same_as :: [Cadmium.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Cadmium.protect.md) 
 
-### [Cadmium.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Cadmium.private.md) 
+### #is_/same_as :: [Cadmium.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Cadmium.private.md) 
 
-### [Cadmium.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.personal.md) 
+### #is_/same_as :: [Cadmium.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.personal.md) 
 
-### [Cadmium.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Cadmium.secret.md)
+### #is_/same_as :: [Cadmium.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Cadmium.secret.md)
 

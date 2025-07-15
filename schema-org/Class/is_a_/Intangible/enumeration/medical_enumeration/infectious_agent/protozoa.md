@@ -42,17 +42,17 @@ Single-celled organism that causes an infection.
 
 ## Confidential Links & Embeds: 
 
-### [protozoa](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.md) 
+### #is_/same_as :: [protozoa](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.md) 
 
-### [protozoa.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.public.md) 
+### #is_/same_as :: [protozoa.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.public.md) 
 
-### [protozoa.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.internal.md) 
+### #is_/same_as :: [protozoa.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.internal.md) 
 
-### [protozoa.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.protect.md) 
+### #is_/same_as :: [protozoa.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.protect.md) 
 
-### [protozoa.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.private.md) 
+### #is_/same_as :: [protozoa.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.private.md) 
 
-### [protozoa.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.personal.md) 
+### #is_/same_as :: [protozoa.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.personal.md) 
 
-### [protozoa.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.secret.md)
+### #is_/same_as :: [protozoa.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/protozoa.secret.md)
 

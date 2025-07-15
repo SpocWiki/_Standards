@@ -13,21 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Internet)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Internet](/_Standards/Technology/IT/Computer_Network/Internet.md) 
+### #is_/same_as :: [Internet](/_Standards/Technology/IT/Computer_Network/Internet.md) 
 
-### [Internet.public](/_public/Technology/IT/Computer_Network/Internet.public.md) 
+### #is_/same_as :: [Internet.public](/_public/Technology/IT/Computer_Network/Internet.public.md) 
 
-### [Internet.internal](/_internal/Technology/IT/Computer_Network/Internet.internal.md) 
+### #is_/same_as :: [Internet.internal](/_internal/Technology/IT/Computer_Network/Internet.internal.md) 
 
-### [Internet.protect](/_protect/Technology/IT/Computer_Network/Internet.protect.md) 
+### #is_/same_as :: [Internet.protect](/_protect/Technology/IT/Computer_Network/Internet.protect.md) 
 
-### [Internet.private](/_private/Technology/IT/Computer_Network/Internet.private.md) 
+### #is_/same_as :: [Internet.private](/_private/Technology/IT/Computer_Network/Internet.private.md) 
 
-### [Internet.personal](/_personal/Technology/IT/Computer_Network/Internet.personal.md) 
+### #is_/same_as :: [Internet.personal](/_personal/Technology/IT/Computer_Network/Internet.personal.md) 
 
-### [Internet.secret](/_secret/Technology/IT/Computer_Network/Internet.secret.md)
+### #is_/same_as :: [Internet.secret](/_secret/Technology/IT/Computer_Network/Internet.secret.md)
 

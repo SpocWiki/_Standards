@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_known_vehicle_damages](/_Standards/schema-org/Property/Texts/has_known_vehicle_damages.md) 
+### #is_/same_as :: [has_known_vehicle_damages](/_Standards/schema-org/Property/Texts/has_known_vehicle_damages.md) 
 
-### [has_known_vehicle_damages.public](/_public/schema-org/Property/Texts/has_known_vehicle_damages.public.md) 
+### #is_/same_as :: [has_known_vehicle_damages.public](/_public/schema-org/Property/Texts/has_known_vehicle_damages.public.md) 
 
-### [has_known_vehicle_damages.internal](/_internal/schema-org/Property/Texts/has_known_vehicle_damages.internal.md) 
+### #is_/same_as :: [has_known_vehicle_damages.internal](/_internal/schema-org/Property/Texts/has_known_vehicle_damages.internal.md) 
 
-### [has_known_vehicle_damages.protect](/_protect/schema-org/Property/Texts/has_known_vehicle_damages.protect.md) 
+### #is_/same_as :: [has_known_vehicle_damages.protect](/_protect/schema-org/Property/Texts/has_known_vehicle_damages.protect.md) 
 
-### [has_known_vehicle_damages.private](/_private/schema-org/Property/Texts/has_known_vehicle_damages.private.md) 
+### #is_/same_as :: [has_known_vehicle_damages.private](/_private/schema-org/Property/Texts/has_known_vehicle_damages.private.md) 
 
-### [has_known_vehicle_damages.personal](/_personal/schema-org/Property/Texts/has_known_vehicle_damages.personal.md) 
+### #is_/same_as :: [has_known_vehicle_damages.personal](/_personal/schema-org/Property/Texts/has_known_vehicle_damages.personal.md) 
 
-### [has_known_vehicle_damages.secret](/_secret/schema-org/Property/Texts/has_known_vehicle_damages.secret.md)
+### #is_/same_as :: [has_known_vehicle_damages.secret](/_secret/schema-org/Property/Texts/has_known_vehicle_damages.secret.md)
 

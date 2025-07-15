@@ -48,17 +48,17 @@ Includes <a href="https://en.wikipedia.org/wiki/Advertorial">advertorials</a>, s
 
 ## Confidential Links & Embeds: 
 
-### [advertiser_content_article](/_Standards/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.md) 
+### #is_/same_as :: [advertiser_content_article](/_Standards/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.md) 
 
-### [advertiser_content_article.public](/_public/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.public.md) 
+### #is_/same_as :: [advertiser_content_article.public](/_public/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.public.md) 
 
-### [advertiser_content_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.internal.md) 
+### #is_/same_as :: [advertiser_content_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.internal.md) 
 
-### [advertiser_content_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.protect.md) 
+### #is_/same_as :: [advertiser_content_article.protect](/_protect/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.protect.md) 
 
-### [advertiser_content_article.private](/_private/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.private.md) 
+### #is_/same_as :: [advertiser_content_article.private](/_private/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.private.md) 
 
-### [advertiser_content_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.personal.md) 
+### #is_/same_as :: [advertiser_content_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.personal.md) 
 
-### [advertiser_content_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.secret.md)
+### #is_/same_as :: [advertiser_content_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/advertiser_content_article.secret.md)
 

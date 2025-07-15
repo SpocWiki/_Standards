@@ -40,21 +40,19 @@ Commons_category: Malnutrition
 > [Wikipedia](https://en.wikipedia.org/wiki/Malnutrition)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Malnutrition](/_Standards/bio/Metabolism/Nutrition/Malnutrition.md) 
+### #is_/same_as :: [Malnutrition](/_Standards/bio/Metabolism/Nutrition/Malnutrition.md) 
 
-### [Malnutrition.public](/_public/bio/Metabolism/Nutrition/Malnutrition.public.md) 
+### #is_/same_as :: [Malnutrition.public](/_public/bio/Metabolism/Nutrition/Malnutrition.public.md) 
 
-### [Malnutrition.internal](/_internal/bio/Metabolism/Nutrition/Malnutrition.internal.md) 
+### #is_/same_as :: [Malnutrition.internal](/_internal/bio/Metabolism/Nutrition/Malnutrition.internal.md) 
 
-### [Malnutrition.protect](/_protect/bio/Metabolism/Nutrition/Malnutrition.protect.md) 
+### #is_/same_as :: [Malnutrition.protect](/_protect/bio/Metabolism/Nutrition/Malnutrition.protect.md) 
 
-### [Malnutrition.private](/_private/bio/Metabolism/Nutrition/Malnutrition.private.md) 
+### #is_/same_as :: [Malnutrition.private](/_private/bio/Metabolism/Nutrition/Malnutrition.private.md) 
 
-### [Malnutrition.personal](/_personal/bio/Metabolism/Nutrition/Malnutrition.personal.md) 
+### #is_/same_as :: [Malnutrition.personal](/_personal/bio/Metabolism/Nutrition/Malnutrition.personal.md) 
 
-### [Malnutrition.secret](/_secret/bio/Metabolism/Nutrition/Malnutrition.secret.md)
+### #is_/same_as :: [Malnutrition.secret](/_secret/bio/Metabolism/Nutrition/Malnutrition.secret.md)
 

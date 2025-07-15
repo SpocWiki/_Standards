@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for_travel_bans](/_Standards/schema-org/Property/has_url_for/has_url_for_travel_bans.md) 
+### #is_/same_as :: [has_url_for_travel_bans](/_Standards/schema-org/Property/has_url_for/has_url_for_travel_bans.md) 
 
-### [has_url_for_travel_bans.public](/_public/schema-org/Property/has_url_for/has_url_for_travel_bans.public.md) 
+### #is_/same_as :: [has_url_for_travel_bans.public](/_public/schema-org/Property/has_url_for/has_url_for_travel_bans.public.md) 
 
-### [has_url_for_travel_bans.internal](/_internal/schema-org/Property/has_url_for/has_url_for_travel_bans.internal.md) 
+### #is_/same_as :: [has_url_for_travel_bans.internal](/_internal/schema-org/Property/has_url_for/has_url_for_travel_bans.internal.md) 
 
-### [has_url_for_travel_bans.protect](/_protect/schema-org/Property/has_url_for/has_url_for_travel_bans.protect.md) 
+### #is_/same_as :: [has_url_for_travel_bans.protect](/_protect/schema-org/Property/has_url_for/has_url_for_travel_bans.protect.md) 
 
-### [has_url_for_travel_bans.private](/_private/schema-org/Property/has_url_for/has_url_for_travel_bans.private.md) 
+### #is_/same_as :: [has_url_for_travel_bans.private](/_private/schema-org/Property/has_url_for/has_url_for_travel_bans.private.md) 
 
-### [has_url_for_travel_bans.personal](/_personal/schema-org/Property/has_url_for/has_url_for_travel_bans.personal.md) 
+### #is_/same_as :: [has_url_for_travel_bans.personal](/_personal/schema-org/Property/has_url_for/has_url_for_travel_bans.personal.md) 
 
-### [has_url_for_travel_bans.secret](/_secret/schema-org/Property/has_url_for/has_url_for_travel_bans.secret.md)
+### #is_/same_as :: [has_url_for_travel_bans.secret](/_secret/schema-org/Property/has_url_for/has_url_for_travel_bans.secret.md)
 

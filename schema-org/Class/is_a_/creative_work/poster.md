@@ -47,17 +47,17 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 ## Confidential Links & Embeds: 
 
-### [poster](/_Standards/schema-org/Class/is_a_/creative_work/poster.md) 
+### #is_/same_as :: [poster](/_Standards/schema-org/Class/is_a_/creative_work/poster.md) 
 
-### [poster.public](/_public/schema-org/Class/is_a_/creative_work/poster.public.md) 
+### #is_/same_as :: [poster.public](/_public/schema-org/Class/is_a_/creative_work/poster.public.md) 
 
-### [poster.internal](/_internal/schema-org/Class/is_a_/creative_work/poster.internal.md) 
+### #is_/same_as :: [poster.internal](/_internal/schema-org/Class/is_a_/creative_work/poster.internal.md) 
 
-### [poster.protect](/_protect/schema-org/Class/is_a_/creative_work/poster.protect.md) 
+### #is_/same_as :: [poster.protect](/_protect/schema-org/Class/is_a_/creative_work/poster.protect.md) 
 
-### [poster.private](/_private/schema-org/Class/is_a_/creative_work/poster.private.md) 
+### #is_/same_as :: [poster.private](/_private/schema-org/Class/is_a_/creative_work/poster.private.md) 
 
-### [poster.personal](/_personal/schema-org/Class/is_a_/creative_work/poster.personal.md) 
+### #is_/same_as :: [poster.personal](/_personal/schema-org/Class/is_a_/creative_work/poster.personal.md) 
 
-### [poster.secret](/_secret/schema-org/Class/is_a_/creative_work/poster.secret.md)
+### #is_/same_as :: [poster.secret](/_secret/schema-org/Class/is_a_/creative_work/poster.secret.md)
 

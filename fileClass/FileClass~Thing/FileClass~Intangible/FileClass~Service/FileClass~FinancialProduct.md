@@ -65,17 +65,17 @@ InterestRate:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~FinancialProduct](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.md) 
+### #is_/same_as :: [FileClass~FinancialProduct](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.md) 
 
-### [FileClass~FinancialProduct.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.public.md) 
+### #is_/same_as :: [FileClass~FinancialProduct.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.public.md) 
 
-### [FileClass~FinancialProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.internal.md) 
+### #is_/same_as :: [FileClass~FinancialProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.internal.md) 
 
-### [FileClass~FinancialProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.protect.md) 
+### #is_/same_as :: [FileClass~FinancialProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.protect.md) 
 
-### [FileClass~FinancialProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.private.md) 
+### #is_/same_as :: [FileClass~FinancialProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.private.md) 
 
-### [FileClass~FinancialProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.personal.md) 
+### #is_/same_as :: [FileClass~FinancialProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.personal.md) 
 
-### [FileClass~FinancialProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.secret.md)
+### #is_/same_as :: [FileClass~FinancialProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.secret.md)
 

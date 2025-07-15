@@ -190,21 +190,19 @@ Royal_Academy_new_identifier: louis-xiv
 > [Wikipedia](https://en.wikipedia.org/wiki/Louis%20XIV)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Louis_XIV](/_Standards/bio/People/Leader/Early_modern_Leaders/Louis_XIV.md) 
+### #is_/same_as :: [Louis_XIV](/_Standards/bio/People/Leader/Early_modern_Leaders/Louis_XIV.md) 
 
-### [Louis_XIV.public](/_public/bio/People/Leader/Early_modern_Leaders/Louis_XIV.public.md) 
+### #is_/same_as :: [Louis_XIV.public](/_public/bio/People/Leader/Early_modern_Leaders/Louis_XIV.public.md) 
 
-### [Louis_XIV.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Louis_XIV.internal.md) 
+### #is_/same_as :: [Louis_XIV.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Louis_XIV.internal.md) 
 
-### [Louis_XIV.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Louis_XIV.protect.md) 
+### #is_/same_as :: [Louis_XIV.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Louis_XIV.protect.md) 
 
-### [Louis_XIV.private](/_private/bio/People/Leader/Early_modern_Leaders/Louis_XIV.private.md) 
+### #is_/same_as :: [Louis_XIV.private](/_private/bio/People/Leader/Early_modern_Leaders/Louis_XIV.private.md) 
 
-### [Louis_XIV.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Louis_XIV.personal.md) 
+### #is_/same_as :: [Louis_XIV.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Louis_XIV.personal.md) 
 
-### [Louis_XIV.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Louis_XIV.secret.md)
+### #is_/same_as :: [Louis_XIV.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Louis_XIV.secret.md)
 

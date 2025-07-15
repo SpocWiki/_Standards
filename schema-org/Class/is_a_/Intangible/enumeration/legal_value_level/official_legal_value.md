@@ -49,17 +49,17 @@ All the documents published by an official publisher should have at least the le
 
 ## Confidential Links & Embeds: 
 
-### [official_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.md) 
+### #is_/same_as :: [official_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.md) 
 
-### [official_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.public.md) 
+### #is_/same_as :: [official_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.public.md) 
 
-### [official_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.internal.md) 
+### #is_/same_as :: [official_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.internal.md) 
 
-### [official_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.protect.md) 
+### #is_/same_as :: [official_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.protect.md) 
 
-### [official_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.private.md) 
+### #is_/same_as :: [official_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.private.md) 
 
-### [official_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.personal.md) 
+### #is_/same_as :: [official_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.personal.md) 
 
-### [official_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.secret.md)
+### #is_/same_as :: [official_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/official_legal_value.secret.md)
 

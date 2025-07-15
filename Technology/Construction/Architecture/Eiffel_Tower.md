@@ -112,21 +112,19 @@ Commons_category: "Eiffel Tower"
 > [Wikipedia](https://en.wikipedia.org/wiki/Eiffel%20Tower) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Eiffel_Tower](/_Standards/Technology/Construction/Architecture/Eiffel_Tower.md) 
+### #is_/same_as :: [Eiffel_Tower](/_Standards/Technology/Construction/Architecture/Eiffel_Tower.md) 
 
-### [Eiffel_Tower.public](/_public/Technology/Construction/Architecture/Eiffel_Tower.public.md) 
+### #is_/same_as :: [Eiffel_Tower.public](/_public/Technology/Construction/Architecture/Eiffel_Tower.public.md) 
 
-### [Eiffel_Tower.internal](/_internal/Technology/Construction/Architecture/Eiffel_Tower.internal.md) 
+### #is_/same_as :: [Eiffel_Tower.internal](/_internal/Technology/Construction/Architecture/Eiffel_Tower.internal.md) 
 
-### [Eiffel_Tower.protect](/_protect/Technology/Construction/Architecture/Eiffel_Tower.protect.md) 
+### #is_/same_as :: [Eiffel_Tower.protect](/_protect/Technology/Construction/Architecture/Eiffel_Tower.protect.md) 
 
-### [Eiffel_Tower.private](/_private/Technology/Construction/Architecture/Eiffel_Tower.private.md) 
+### #is_/same_as :: [Eiffel_Tower.private](/_private/Technology/Construction/Architecture/Eiffel_Tower.private.md) 
 
-### [Eiffel_Tower.personal](/_personal/Technology/Construction/Architecture/Eiffel_Tower.personal.md) 
+### #is_/same_as :: [Eiffel_Tower.personal](/_personal/Technology/Construction/Architecture/Eiffel_Tower.personal.md) 
 
-### [Eiffel_Tower.secret](/_secret/Technology/Construction/Architecture/Eiffel_Tower.secret.md)
+### #is_/same_as :: [Eiffel_Tower.secret](/_secret/Technology/Construction/Architecture/Eiffel_Tower.secret.md)
 

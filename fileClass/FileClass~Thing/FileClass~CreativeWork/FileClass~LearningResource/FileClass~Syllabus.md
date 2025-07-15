@@ -35,17 +35,17 @@ A syllabus that describes the material covered in a course, often with several s
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Syllabus](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.md) 
+### #is_/same_as :: [FileClass~Syllabus](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.md) 
 
-### [FileClass~Syllabus.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.public.md) 
+### #is_/same_as :: [FileClass~Syllabus.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.public.md) 
 
-### [FileClass~Syllabus.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.internal.md) 
+### #is_/same_as :: [FileClass~Syllabus.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.internal.md) 
 
-### [FileClass~Syllabus.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.protect.md) 
+### #is_/same_as :: [FileClass~Syllabus.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.protect.md) 
 
-### [FileClass~Syllabus.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.private.md) 
+### #is_/same_as :: [FileClass~Syllabus.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.private.md) 
 
-### [FileClass~Syllabus.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.personal.md) 
+### #is_/same_as :: [FileClass~Syllabus.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.personal.md) 
 
-### [FileClass~Syllabus.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.secret.md)
+### #is_/same_as :: [FileClass~Syllabus.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.secret.md)
 

@@ -117,17 +117,17 @@ Unicode_character: 釕
 
 ## Confidential Links & Embeds: 
 
-### [Ruthenium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Ruthenium.md) 
+### #is_/same_as :: [Ruthenium](/_Standards/chemic/chemic~Elements/Group-08-Iron/Ruthenium.md) 
 
-### [Ruthenium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Ruthenium.public.md) 
+### #is_/same_as :: [Ruthenium.public](/_public/chemic/chemic~Elements/Group-08-Iron/Ruthenium.public.md) 
 
-### [Ruthenium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.internal.md) 
+### #is_/same_as :: [Ruthenium.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.internal.md) 
 
-### [Ruthenium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Ruthenium.protect.md) 
+### #is_/same_as :: [Ruthenium.protect](/_protect/chemic/chemic~Elements/Group-08-Iron/Ruthenium.protect.md) 
 
-### [Ruthenium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Ruthenium.private.md) 
+### #is_/same_as :: [Ruthenium.private](/_private/chemic/chemic~Elements/Group-08-Iron/Ruthenium.private.md) 
 
-### [Ruthenium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.personal.md) 
+### #is_/same_as :: [Ruthenium.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Ruthenium.personal.md) 
 
-### [Ruthenium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Ruthenium.secret.md)
+### #is_/same_as :: [Ruthenium.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Ruthenium.secret.md)
 

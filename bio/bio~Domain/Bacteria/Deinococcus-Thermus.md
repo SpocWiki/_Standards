@@ -59,23 +59,19 @@ aliases:
 	-   *Vulcanithermus*
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Deinococcus-Thermus](/_Standards/bio/bio~Domain/Bacteria/Deinococcus-Thermus.md) 
+### #is_/same_as :: [Deinococcus-Thermus](/_Standards/bio/bio~Domain/Bacteria/Deinococcus-Thermus.md) 
 
-### [Deinococcus-Thermus.public](/_public/bio/bio~Domain/Bacteria/Deinococcus-Thermus.public.md) 
+### #is_/same_as :: [Deinococcus-Thermus.public](/_public/bio/bio~Domain/Bacteria/Deinococcus-Thermus.public.md) 
 
-### [Deinococcus-Thermus.internal](/_internal/bio/bio~Domain/Bacteria/Deinococcus-Thermus.internal.md) 
+### #is_/same_as :: [Deinococcus-Thermus.internal](/_internal/bio/bio~Domain/Bacteria/Deinococcus-Thermus.internal.md) 
 
-### [Deinococcus-Thermus.protect](/_protect/bio/bio~Domain/Bacteria/Deinococcus-Thermus.protect.md) 
+### #is_/same_as :: [Deinococcus-Thermus.protect](/_protect/bio/bio~Domain/Bacteria/Deinococcus-Thermus.protect.md) 
 
-### [Deinococcus-Thermus.private](/_private/bio/bio~Domain/Bacteria/Deinococcus-Thermus.private.md) 
+### #is_/same_as :: [Deinococcus-Thermus.private](/_private/bio/bio~Domain/Bacteria/Deinococcus-Thermus.private.md) 
 
-### [Deinococcus-Thermus.personal](/_personal/bio/bio~Domain/Bacteria/Deinococcus-Thermus.personal.md) 
+### #is_/same_as :: [Deinococcus-Thermus.personal](/_personal/bio/bio~Domain/Bacteria/Deinococcus-Thermus.personal.md) 
 
-### [Deinococcus-Thermus.secret](/_secret/bio/bio~Domain/Bacteria/Deinococcus-Thermus.secret.md)
+### #is_/same_as :: [Deinococcus-Thermus.secret](/_secret/bio/bio~Domain/Bacteria/Deinococcus-Thermus.secret.md)
 

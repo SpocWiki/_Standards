@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_signal_modulation](/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation](/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation.md) 
 
-### [has_broadcast_signal_modulation.public](/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation.public](/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public.md) 
 
-### [has_broadcast_signal_modulation.internal](/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation.internal](/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal.md) 
 
-### [has_broadcast_signal_modulation.protect](/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation.protect](/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect.md) 
 
-### [has_broadcast_signal_modulation.private](/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation.private](/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private.md) 
 
-### [has_broadcast_signal_modulation.personal](/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal.md) 
+### #is_/same_as :: [has_broadcast_signal_modulation.personal](/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal.md) 
 
-### [has_broadcast_signal_modulation.secret](/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret.md)
+### #is_/same_as :: [has_broadcast_signal_modulation.secret](/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret.md)
 

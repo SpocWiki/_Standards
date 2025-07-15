@@ -47,17 +47,17 @@ A contact point—for example, a Customer Complaints department.
 
 ## Confidential Links & Embeds: 
 
-### [contact_point](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point.md) 
+### #is_/same_as :: [contact_point](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point.md) 
 
-### [contact_point.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point.public.md) 
+### #is_/same_as :: [contact_point.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point.public.md) 
 
-### [contact_point.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.internal.md) 
+### #is_/same_as :: [contact_point.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.internal.md) 
 
-### [contact_point.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point.protect.md) 
+### #is_/same_as :: [contact_point.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/contact_point.protect.md) 
 
-### [contact_point.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point.private.md) 
+### #is_/same_as :: [contact_point.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/contact_point.private.md) 
 
-### [contact_point.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.personal.md) 
+### #is_/same_as :: [contact_point.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point.personal.md) 
 
-### [contact_point.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point.secret.md)
+### #is_/same_as :: [contact_point.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point.secret.md)
 

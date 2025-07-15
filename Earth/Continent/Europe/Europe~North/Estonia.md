@@ -528,17 +528,17 @@ Capital :: [[Tallinn]]
 
 ## Confidential Links & Embeds: 
 
-### [Estonia](/_Standards/Earth/Continent/Europe/Europe~North/Estonia.md) 
+### #is_/same_as :: [Estonia](/_Standards/Earth/Continent/Europe/Europe~North/Estonia.md) 
 
-### [Estonia.public](/_public/Earth/Continent/Europe/Europe~North/Estonia.public.md) 
+### #is_/same_as :: [Estonia.public](/_public/Earth/Continent/Europe/Europe~North/Estonia.public.md) 
 
-### [Estonia.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal.md) 
+### #is_/same_as :: [Estonia.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal.md) 
 
-### [Estonia.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect.md) 
+### #is_/same_as :: [Estonia.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect.md) 
 
-### [Estonia.private](/_private/Earth/Continent/Europe/Europe~North/Estonia.private.md) 
+### #is_/same_as :: [Estonia.private](/_private/Earth/Continent/Europe/Europe~North/Estonia.private.md) 
 
-### [Estonia.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal.md) 
+### #is_/same_as :: [Estonia.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal.md) 
 
-### [Estonia.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret.md)
+### #is_/same_as :: [Estonia.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret.md)
 

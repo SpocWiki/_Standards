@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_security_clearance_requirement](/_Standards/schema-org/Property/Texts/has_security_clearance_requirement.md) 
+### #is_/same_as :: [has_security_clearance_requirement](/_Standards/schema-org/Property/Texts/has_security_clearance_requirement.md) 
 
-### [has_security_clearance_requirement.public](/_public/schema-org/Property/Texts/has_security_clearance_requirement.public.md) 
+### #is_/same_as :: [has_security_clearance_requirement.public](/_public/schema-org/Property/Texts/has_security_clearance_requirement.public.md) 
 
-### [has_security_clearance_requirement.internal](/_internal/schema-org/Property/Texts/has_security_clearance_requirement.internal.md) 
+### #is_/same_as :: [has_security_clearance_requirement.internal](/_internal/schema-org/Property/Texts/has_security_clearance_requirement.internal.md) 
 
-### [has_security_clearance_requirement.protect](/_protect/schema-org/Property/Texts/has_security_clearance_requirement.protect.md) 
+### #is_/same_as :: [has_security_clearance_requirement.protect](/_protect/schema-org/Property/Texts/has_security_clearance_requirement.protect.md) 
 
-### [has_security_clearance_requirement.private](/_private/schema-org/Property/Texts/has_security_clearance_requirement.private.md) 
+### #is_/same_as :: [has_security_clearance_requirement.private](/_private/schema-org/Property/Texts/has_security_clearance_requirement.private.md) 
 
-### [has_security_clearance_requirement.personal](/_personal/schema-org/Property/Texts/has_security_clearance_requirement.personal.md) 
+### #is_/same_as :: [has_security_clearance_requirement.personal](/_personal/schema-org/Property/Texts/has_security_clearance_requirement.personal.md) 
 
-### [has_security_clearance_requirement.secret](/_secret/schema-org/Property/Texts/has_security_clearance_requirement.secret.md)
+### #is_/same_as :: [has_security_clearance_requirement.secret](/_secret/schema-org/Property/Texts/has_security_clearance_requirement.secret.md)
 

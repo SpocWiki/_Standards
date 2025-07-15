@@ -189,22 +189,19 @@ Acknowledgements   from the Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Arthropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.md) 
+### #is_/same_as :: [Arthropoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.md) 
 
-### [Arthropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.public.md) 
+### #is_/same_as :: [Arthropoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.public.md) 
 
-### [Arthropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.internal.md) 
+### #is_/same_as :: [Arthropoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.internal.md) 
 
-### [Arthropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.protect.md) 
+### #is_/same_as :: [Arthropoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.protect.md) 
 
-### [Arthropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.private.md) 
+### #is_/same_as :: [Arthropoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.private.md) 
 
-### [Arthropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.personal.md) 
+### #is_/same_as :: [Arthropoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.personal.md) 
 
-### [Arthropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.secret.md)
+### #is_/same_as :: [Arthropoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda.secret.md)
 

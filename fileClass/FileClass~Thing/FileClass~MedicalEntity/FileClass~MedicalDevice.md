@@ -98,17 +98,17 @@ SeriousAdverseOutcome:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalDevice](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.md) 
+### #is_/same_as :: [FileClass~MedicalDevice](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.md) 
 
-### [FileClass~MedicalDevice.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.public.md) 
+### #is_/same_as :: [FileClass~MedicalDevice.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.public.md) 
 
-### [FileClass~MedicalDevice.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.internal.md) 
+### #is_/same_as :: [FileClass~MedicalDevice.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.internal.md) 
 
-### [FileClass~MedicalDevice.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.protect.md) 
+### #is_/same_as :: [FileClass~MedicalDevice.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.protect.md) 
 
-### [FileClass~MedicalDevice.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.private.md) 
+### #is_/same_as :: [FileClass~MedicalDevice.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.private.md) 
 
-### [FileClass~MedicalDevice.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.personal.md) 
+### #is_/same_as :: [FileClass~MedicalDevice.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.personal.md) 
 
-### [FileClass~MedicalDevice.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret.md)
+### #is_/same_as :: [FileClass~MedicalDevice.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret.md)
 

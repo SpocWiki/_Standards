@@ -91,17 +91,17 @@ DrugUnit:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrugCost](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.md) 
+### #is_/same_as :: [FileClass~DrugCost](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.md) 
 
-### [FileClass~DrugCost.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.public.md) 
+### #is_/same_as :: [FileClass~DrugCost.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.public.md) 
 
-### [FileClass~DrugCost.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.internal.md) 
+### #is_/same_as :: [FileClass~DrugCost.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.internal.md) 
 
-### [FileClass~DrugCost.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.protect.md) 
+### #is_/same_as :: [FileClass~DrugCost.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.protect.md) 
 
-### [FileClass~DrugCost.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.private.md) 
+### #is_/same_as :: [FileClass~DrugCost.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.private.md) 
 
-### [FileClass~DrugCost.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.personal.md) 
+### #is_/same_as :: [FileClass~DrugCost.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.personal.md) 
 
-### [FileClass~DrugCost.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret.md)
+### #is_/same_as :: [FileClass~DrugCost.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret.md)
 

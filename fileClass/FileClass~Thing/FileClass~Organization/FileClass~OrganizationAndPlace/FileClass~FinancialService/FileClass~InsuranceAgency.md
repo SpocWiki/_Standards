@@ -35,17 +35,17 @@ An Insurance agency.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~InsuranceAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.md) 
 
-### [FileClass~InsuranceAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.public.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.public.md) 
 
-### [FileClass~InsuranceAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.internal.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.internal.md) 
 
-### [FileClass~InsuranceAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.protect.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.protect.md) 
 
-### [FileClass~InsuranceAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.private.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.private.md) 
 
-### [FileClass~InsuranceAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.personal.md) 
+### #is_/same_as :: [FileClass~InsuranceAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.personal.md) 
 
-### [FileClass~InsuranceAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.secret.md)
+### #is_/same_as :: [FileClass~InsuranceAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.secret.md)
 

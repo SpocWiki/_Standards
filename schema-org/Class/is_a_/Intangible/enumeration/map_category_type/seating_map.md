@@ -47,17 +47,17 @@ A seating map.
 
 ## Confidential Links & Embeds: 
 
-### [seating_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.md) 
+### #is_/same_as :: [seating_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.md) 
 
-### [seating_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.public.md) 
+### #is_/same_as :: [seating_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.public.md) 
 
-### [seating_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.internal.md) 
+### #is_/same_as :: [seating_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.internal.md) 
 
-### [seating_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.protect.md) 
+### #is_/same_as :: [seating_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.protect.md) 
 
-### [seating_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.private.md) 
+### #is_/same_as :: [seating_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.private.md) 
 
-### [seating_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.personal.md) 
+### #is_/same_as :: [seating_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.personal.md) 
 
-### [seating_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.secret.md)
+### #is_/same_as :: [seating_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.secret.md)
 

@@ -106,22 +106,19 @@ Life Cycle Stage ::    filariform larva
 Source Collection   [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Nematoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.md) 
+### #is_/same_as :: [Nematoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.md) 
 
-### [Nematoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.public.md) 
+### #is_/same_as :: [Nematoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.public.md) 
 
-### [Nematoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.internal.md) 
+### #is_/same_as :: [Nematoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.internal.md) 
 
-### [Nematoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.protect.md) 
+### #is_/same_as :: [Nematoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.protect.md) 
 
-### [Nematoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.private.md) 
+### #is_/same_as :: [Nematoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.private.md) 
 
-### [Nematoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.personal.md) 
+### #is_/same_as :: [Nematoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.personal.md) 
 
-### [Nematoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.secret.md)
+### #is_/same_as :: [Nematoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Nematoda.secret.md)
 

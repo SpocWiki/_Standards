@@ -145,17 +145,17 @@ Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWorkSeason](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.md) 
 
-### [FileClass~CreativeWorkSeason.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.public.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.public.md) 
 
-### [FileClass~CreativeWorkSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.internal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.internal.md) 
 
-### [FileClass~CreativeWorkSeason.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.protect.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.protect.md) 
 
-### [FileClass~CreativeWorkSeason.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.private.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.private.md) 
 
-### [FileClass~CreativeWorkSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.personal.md) 
+### #is_/same_as :: [FileClass~CreativeWorkSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.personal.md) 
 
-### [FileClass~CreativeWorkSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.secret.md)
+### #is_/same_as :: [FileClass~CreativeWorkSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_id_payment_method](/_Standards/schema-org/Property/has_name/has_id_payment_method.md) 
+### #is_/same_as :: [has_id_payment_method](/_Standards/schema-org/Property/has_name/has_id_payment_method.md) 
 
-### [has_id_payment_method.public](/_public/schema-org/Property/has_name/has_id_payment_method.public.md) 
+### #is_/same_as :: [has_id_payment_method.public](/_public/schema-org/Property/has_name/has_id_payment_method.public.md) 
 
-### [has_id_payment_method.internal](/_internal/schema-org/Property/has_name/has_id_payment_method.internal.md) 
+### #is_/same_as :: [has_id_payment_method.internal](/_internal/schema-org/Property/has_name/has_id_payment_method.internal.md) 
 
-### [has_id_payment_method.protect](/_protect/schema-org/Property/has_name/has_id_payment_method.protect.md) 
+### #is_/same_as :: [has_id_payment_method.protect](/_protect/schema-org/Property/has_name/has_id_payment_method.protect.md) 
 
-### [has_id_payment_method.private](/_private/schema-org/Property/has_name/has_id_payment_method.private.md) 
+### #is_/same_as :: [has_id_payment_method.private](/_private/schema-org/Property/has_name/has_id_payment_method.private.md) 
 
-### [has_id_payment_method.personal](/_personal/schema-org/Property/has_name/has_id_payment_method.personal.md) 
+### #is_/same_as :: [has_id_payment_method.personal](/_personal/schema-org/Property/has_name/has_id_payment_method.personal.md) 
 
-### [has_id_payment_method.secret](/_secret/schema-org/Property/has_name/has_id_payment_method.secret.md)
+### #is_/same_as :: [has_id_payment_method.secret](/_secret/schema-org/Property/has_name/has_id_payment_method.secret.md)
 

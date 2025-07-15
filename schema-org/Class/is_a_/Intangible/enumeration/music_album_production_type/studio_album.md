@@ -47,17 +47,17 @@ StudioAlbum.
 
 ## Confidential Links & Embeds: 
 
-### [studio_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.md) 
+### #is_/same_as :: [studio_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.md) 
 
-### [studio_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.public.md) 
+### #is_/same_as :: [studio_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.public.md) 
 
-### [studio_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.internal.md) 
+### #is_/same_as :: [studio_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.internal.md) 
 
-### [studio_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.protect.md) 
+### #is_/same_as :: [studio_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.protect.md) 
 
-### [studio_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.private.md) 
+### #is_/same_as :: [studio_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.private.md) 
 
-### [studio_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.personal.md) 
+### #is_/same_as :: [studio_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.personal.md) 
 
-### [studio_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.secret.md)
+### #is_/same_as :: [studio_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.secret.md)
 

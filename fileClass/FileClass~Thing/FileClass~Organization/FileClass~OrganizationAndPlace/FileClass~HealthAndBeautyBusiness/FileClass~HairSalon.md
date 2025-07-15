@@ -35,17 +35,17 @@ A hair salon.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~HairSalon](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.md) 
+### #is_/same_as :: [FileClass~HairSalon](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.md) 
 
-### [FileClass~HairSalon.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.public.md) 
+### #is_/same_as :: [FileClass~HairSalon.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.public.md) 
 
-### [FileClass~HairSalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.internal.md) 
+### #is_/same_as :: [FileClass~HairSalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.internal.md) 
 
-### [FileClass~HairSalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.protect.md) 
+### #is_/same_as :: [FileClass~HairSalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.protect.md) 
 
-### [FileClass~HairSalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.private.md) 
+### #is_/same_as :: [FileClass~HairSalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.private.md) 
 
-### [FileClass~HairSalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.personal.md) 
+### #is_/same_as :: [FileClass~HairSalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.personal.md) 
 
-### [FileClass~HairSalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.secret.md)
+### #is_/same_as :: [FileClass~HairSalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HairSalon.secret.md)
 

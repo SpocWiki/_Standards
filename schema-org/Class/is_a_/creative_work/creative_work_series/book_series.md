@@ -45,17 +45,17 @@ A series of books. Included books can be indicated with the hasPart property.
 
 ## Confidential Links & Embeds: 
 
-### [book_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.md) 
+### #is_/same_as :: [book_series](/_Standards/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.md) 
 
-### [book_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.public.md) 
+### #is_/same_as :: [book_series.public](/_public/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.public.md) 
 
-### [book_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.internal.md) 
+### #is_/same_as :: [book_series.internal](/_internal/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.internal.md) 
 
-### [book_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.protect.md) 
+### #is_/same_as :: [book_series.protect](/_protect/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.protect.md) 
 
-### [book_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.private.md) 
+### #is_/same_as :: [book_series.private](/_private/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.private.md) 
 
-### [book_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.personal.md) 
+### #is_/same_as :: [book_series.personal](/_personal/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.personal.md) 
 
-### [book_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.secret.md)
+### #is_/same_as :: [book_series.secret](/_secret/schema-org/Class/is_a_/creative_work/creative_work_series/book_series.secret.md)
 

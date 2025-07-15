@@ -45,17 +45,17 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 ## Confidential Links & Embeds: 
 
-### [how_to_step](/_Standards/schema-org/Class/is_a_/creative_work/how_to_step.md) 
+### #is_/same_as :: [how_to_step](/_Standards/schema-org/Class/is_a_/creative_work/how_to_step.md) 
 
-### [how_to_step.public](/_public/schema-org/Class/is_a_/creative_work/how_to_step.public.md) 
+### #is_/same_as :: [how_to_step.public](/_public/schema-org/Class/is_a_/creative_work/how_to_step.public.md) 
 
-### [how_to_step.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_step.internal.md) 
+### #is_/same_as :: [how_to_step.internal](/_internal/schema-org/Class/is_a_/creative_work/how_to_step.internal.md) 
 
-### [how_to_step.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_step.protect.md) 
+### #is_/same_as :: [how_to_step.protect](/_protect/schema-org/Class/is_a_/creative_work/how_to_step.protect.md) 
 
-### [how_to_step.private](/_private/schema-org/Class/is_a_/creative_work/how_to_step.private.md) 
+### #is_/same_as :: [how_to_step.private](/_private/schema-org/Class/is_a_/creative_work/how_to_step.private.md) 
 
-### [how_to_step.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_step.personal.md) 
+### #is_/same_as :: [how_to_step.personal](/_personal/schema-org/Class/is_a_/creative_work/how_to_step.personal.md) 
 
-### [how_to_step.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_step.secret.md)
+### #is_/same_as :: [how_to_step.secret](/_secret/schema-org/Class/is_a_/creative_work/how_to_step.secret.md)
 

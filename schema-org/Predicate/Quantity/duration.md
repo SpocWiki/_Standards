@@ -47,17 +47,17 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 
 ## Confidential Links & Embeds: 
 
-### [duration](/_Standards/schema-org/Predicate/Quantity/duration.md) 
+### #is_/same_as :: [duration](/_Standards/schema-org/Predicate/Quantity/duration.md) 
 
-### [duration.public](/_public/schema-org/Predicate/Quantity/duration.public.md) 
+### #is_/same_as :: [duration.public](/_public/schema-org/Predicate/Quantity/duration.public.md) 
 
-### [duration.internal](/_internal/schema-org/Predicate/Quantity/duration.internal.md) 
+### #is_/same_as :: [duration.internal](/_internal/schema-org/Predicate/Quantity/duration.internal.md) 
 
-### [duration.protect](/_protect/schema-org/Predicate/Quantity/duration.protect.md) 
+### #is_/same_as :: [duration.protect](/_protect/schema-org/Predicate/Quantity/duration.protect.md) 
 
-### [duration.private](/_private/schema-org/Predicate/Quantity/duration.private.md) 
+### #is_/same_as :: [duration.private](/_private/schema-org/Predicate/Quantity/duration.private.md) 
 
-### [duration.personal](/_personal/schema-org/Predicate/Quantity/duration.personal.md) 
+### #is_/same_as :: [duration.personal](/_personal/schema-org/Predicate/Quantity/duration.personal.md) 
 
-### [duration.secret](/_secret/schema-org/Predicate/Quantity/duration.secret.md)
+### #is_/same_as :: [duration.secret](/_secret/schema-org/Predicate/Quantity/duration.secret.md)
 

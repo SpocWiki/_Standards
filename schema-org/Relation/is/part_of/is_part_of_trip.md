@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_part_of_trip](/_Standards/schema-org/Relation/is/part_of/is_part_of_trip.md) 
+### #is_/same_as :: [is_part_of_trip](/_Standards/schema-org/Relation/is/part_of/is_part_of_trip.md) 
 
-### [is_part_of_trip.public](/_public/schema-org/Relation/is/part_of/is_part_of_trip.public.md) 
+### #is_/same_as :: [is_part_of_trip.public](/_public/schema-org/Relation/is/part_of/is_part_of_trip.public.md) 
 
-### [is_part_of_trip.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal.md) 
+### #is_/same_as :: [is_part_of_trip.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal.md) 
 
-### [is_part_of_trip.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_trip.protect.md) 
+### #is_/same_as :: [is_part_of_trip.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_trip.protect.md) 
 
-### [is_part_of_trip.private](/_private/schema-org/Relation/is/part_of/is_part_of_trip.private.md) 
+### #is_/same_as :: [is_part_of_trip.private](/_private/schema-org/Relation/is/part_of/is_part_of_trip.private.md) 
 
-### [is_part_of_trip.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal.md) 
+### #is_/same_as :: [is_part_of_trip.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal.md) 
 
-### [is_part_of_trip.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret.md)
+### #is_/same_as :: [is_part_of_trip.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret.md)
 

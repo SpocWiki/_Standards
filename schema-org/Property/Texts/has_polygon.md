@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_polygon](/_Standards/schema-org/Property/Texts/has_polygon.md) 
+### #is_/same_as :: [has_polygon](/_Standards/schema-org/Property/Texts/has_polygon.md) 
 
-### [has_polygon.public](/_public/schema-org/Property/Texts/has_polygon.public.md) 
+### #is_/same_as :: [has_polygon.public](/_public/schema-org/Property/Texts/has_polygon.public.md) 
 
-### [has_polygon.internal](/_internal/schema-org/Property/Texts/has_polygon.internal.md) 
+### #is_/same_as :: [has_polygon.internal](/_internal/schema-org/Property/Texts/has_polygon.internal.md) 
 
-### [has_polygon.protect](/_protect/schema-org/Property/Texts/has_polygon.protect.md) 
+### #is_/same_as :: [has_polygon.protect](/_protect/schema-org/Property/Texts/has_polygon.protect.md) 
 
-### [has_polygon.private](/_private/schema-org/Property/Texts/has_polygon.private.md) 
+### #is_/same_as :: [has_polygon.private](/_private/schema-org/Property/Texts/has_polygon.private.md) 
 
-### [has_polygon.personal](/_personal/schema-org/Property/Texts/has_polygon.personal.md) 
+### #is_/same_as :: [has_polygon.personal](/_personal/schema-org/Property/Texts/has_polygon.personal.md) 
 
-### [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md)
+### #is_/same_as :: [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md)
 

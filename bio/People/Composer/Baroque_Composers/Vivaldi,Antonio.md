@@ -148,21 +148,19 @@ date_of_birth: "1678-03-04"
 > [Wikipedia](https://en.wikipedia.org/wiki/Antonio%20Vivaldi)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Vivaldi,Antonio](/_Standards/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.md) 
+### #is_/same_as :: [Vivaldi,Antonio](/_Standards/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.md) 
 
-### [Vivaldi,Antonio.public](/_public/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.public.md) 
+### #is_/same_as :: [Vivaldi,Antonio.public](/_public/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.public.md) 
 
-### [Vivaldi,Antonio.internal](/_internal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.internal.md) 
+### #is_/same_as :: [Vivaldi,Antonio.internal](/_internal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.internal.md) 
 
-### [Vivaldi,Antonio.protect](/_protect/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.protect.md) 
+### #is_/same_as :: [Vivaldi,Antonio.protect](/_protect/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.protect.md) 
 
-### [Vivaldi,Antonio.private](/_private/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.private.md) 
+### #is_/same_as :: [Vivaldi,Antonio.private](/_private/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.private.md) 
 
-### [Vivaldi,Antonio.personal](/_personal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.personal.md) 
+### #is_/same_as :: [Vivaldi,Antonio.personal](/_personal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.personal.md) 
 
-### [Vivaldi,Antonio.secret](/_secret/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.secret.md)
+### #is_/same_as :: [Vivaldi,Antonio.secret](/_secret/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.secret.md)
 

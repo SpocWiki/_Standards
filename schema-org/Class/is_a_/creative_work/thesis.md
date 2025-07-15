@@ -47,17 +47,17 @@ A thesis or dissertation document submitted in support of candidature for an aca
 
 ## Confidential Links & Embeds: 
 
-### [thesis](/_Standards/schema-org/Class/is_a_/creative_work/thesis.md) 
+### #is_/same_as :: [thesis](/_Standards/schema-org/Class/is_a_/creative_work/thesis.md) 
 
-### [thesis.public](/_public/schema-org/Class/is_a_/creative_work/thesis.public.md) 
+### #is_/same_as :: [thesis.public](/_public/schema-org/Class/is_a_/creative_work/thesis.public.md) 
 
-### [thesis.internal](/_internal/schema-org/Class/is_a_/creative_work/thesis.internal.md) 
+### #is_/same_as :: [thesis.internal](/_internal/schema-org/Class/is_a_/creative_work/thesis.internal.md) 
 
-### [thesis.protect](/_protect/schema-org/Class/is_a_/creative_work/thesis.protect.md) 
+### #is_/same_as :: [thesis.protect](/_protect/schema-org/Class/is_a_/creative_work/thesis.protect.md) 
 
-### [thesis.private](/_private/schema-org/Class/is_a_/creative_work/thesis.private.md) 
+### #is_/same_as :: [thesis.private](/_private/schema-org/Class/is_a_/creative_work/thesis.private.md) 
 
-### [thesis.personal](/_personal/schema-org/Class/is_a_/creative_work/thesis.personal.md) 
+### #is_/same_as :: [thesis.personal](/_personal/schema-org/Class/is_a_/creative_work/thesis.personal.md) 
 
-### [thesis.secret](/_secret/schema-org/Class/is_a_/creative_work/thesis.secret.md)
+### #is_/same_as :: [thesis.secret](/_secret/schema-org/Class/is_a_/creative_work/thesis.secret.md)
 

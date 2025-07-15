@@ -49,17 +49,17 @@ Represents the invoice price of an offered product.
 
 ## Confidential Links & Embeds: 
 
-### [invoice_price](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.md) 
+### #is_/same_as :: [invoice_price](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.md) 
 
-### [invoice_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.public.md) 
+### #is_/same_as :: [invoice_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.public.md) 
 
-### [invoice_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.internal.md) 
+### #is_/same_as :: [invoice_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.internal.md) 
 
-### [invoice_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.protect.md) 
+### #is_/same_as :: [invoice_price.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.protect.md) 
 
-### [invoice_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.private.md) 
+### #is_/same_as :: [invoice_price.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.private.md) 
 
-### [invoice_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.personal.md) 
+### #is_/same_as :: [invoice_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.personal.md) 
 
-### [invoice_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.secret.md)
+### #is_/same_as :: [invoice_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/invoice_price.secret.md)
 

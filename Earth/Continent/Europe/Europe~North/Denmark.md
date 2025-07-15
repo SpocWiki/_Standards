@@ -668,17 +668,17 @@ Major Cities with Population in 1000s as of @2024
 
 ## Confidential Links & Embeds: 
 
-### [Denmark](/_Standards/Earth/Continent/Europe/Europe~North/Denmark.md) 
+### #is_/same_as :: [Denmark](/_Standards/Earth/Continent/Europe/Europe~North/Denmark.md) 
 
-### [Denmark.public](/_public/Earth/Continent/Europe/Europe~North/Denmark.public.md) 
+### #is_/same_as :: [Denmark.public](/_public/Earth/Continent/Europe/Europe~North/Denmark.public.md) 
 
-### [Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal.md) 
+### #is_/same_as :: [Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal.md) 
 
-### [Denmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark.protect.md) 
+### #is_/same_as :: [Denmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark.protect.md) 
 
-### [Denmark.private](/_private/Earth/Continent/Europe/Europe~North/Denmark.private.md) 
+### #is_/same_as :: [Denmark.private](/_private/Earth/Continent/Europe/Europe~North/Denmark.private.md) 
 
-### [Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark.personal.md) 
+### #is_/same_as :: [Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark.personal.md) 
 
-### [Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark.secret.md)
+### #is_/same_as :: [Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark.secret.md)
 

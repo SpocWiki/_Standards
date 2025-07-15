@@ -71,17 +71,17 @@ CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 
 ## Confidential Links & Embeds: 
 
-### [tv_series](/_Standards/schema-org/Class/is_a_/creative_work/tv_series.md) 
+### #is_/same_as :: [tv_series](/_Standards/schema-org/Class/is_a_/creative_work/tv_series.md) 
 
-### [tv_series.public](/_public/schema-org/Class/is_a_/creative_work/tv_series.public.md) 
+### #is_/same_as :: [tv_series.public](/_public/schema-org/Class/is_a_/creative_work/tv_series.public.md) 
 
-### [tv_series.internal](/_internal/schema-org/Class/is_a_/creative_work/tv_series.internal.md) 
+### #is_/same_as :: [tv_series.internal](/_internal/schema-org/Class/is_a_/creative_work/tv_series.internal.md) 
 
-### [tv_series.protect](/_protect/schema-org/Class/is_a_/creative_work/tv_series.protect.md) 
+### #is_/same_as :: [tv_series.protect](/_protect/schema-org/Class/is_a_/creative_work/tv_series.protect.md) 
 
-### [tv_series.private](/_private/schema-org/Class/is_a_/creative_work/tv_series.private.md) 
+### #is_/same_as :: [tv_series.private](/_private/schema-org/Class/is_a_/creative_work/tv_series.private.md) 
 
-### [tv_series.personal](/_personal/schema-org/Class/is_a_/creative_work/tv_series.personal.md) 
+### #is_/same_as :: [tv_series.personal](/_personal/schema-org/Class/is_a_/creative_work/tv_series.personal.md) 
 
-### [tv_series.secret](/_secret/schema-org/Class/is_a_/creative_work/tv_series.secret.md)
+### #is_/same_as :: [tv_series.secret](/_secret/schema-org/Class/is_a_/creative_work/tv_series.secret.md)
 

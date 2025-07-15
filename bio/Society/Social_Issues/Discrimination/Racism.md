@@ -19,21 +19,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Racism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Racism](/_Standards/bio/Society/Social_Issues/Discrimination/Racism.md) 
+### #is_/same_as :: [Racism](/_Standards/bio/Society/Social_Issues/Discrimination/Racism.md) 
 
-### [Racism.public](/_public/bio/Society/Social_Issues/Discrimination/Racism.public.md) 
+### #is_/same_as :: [Racism.public](/_public/bio/Society/Social_Issues/Discrimination/Racism.public.md) 
 
-### [Racism.internal](/_internal/bio/Society/Social_Issues/Discrimination/Racism.internal.md) 
+### #is_/same_as :: [Racism.internal](/_internal/bio/Society/Social_Issues/Discrimination/Racism.internal.md) 
 
-### [Racism.protect](/_protect/bio/Society/Social_Issues/Discrimination/Racism.protect.md) 
+### #is_/same_as :: [Racism.protect](/_protect/bio/Society/Social_Issues/Discrimination/Racism.protect.md) 
 
-### [Racism.private](/_private/bio/Society/Social_Issues/Discrimination/Racism.private.md) 
+### #is_/same_as :: [Racism.private](/_private/bio/Society/Social_Issues/Discrimination/Racism.private.md) 
 
-### [Racism.personal](/_personal/bio/Society/Social_Issues/Discrimination/Racism.personal.md) 
+### #is_/same_as :: [Racism.personal](/_personal/bio/Society/Social_Issues/Discrimination/Racism.personal.md) 
 
-### [Racism.secret](/_secret/bio/Society/Social_Issues/Discrimination/Racism.secret.md)
+### #is_/same_as :: [Racism.secret](/_secret/bio/Society/Social_Issues/Discrimination/Racism.secret.md)
 

@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_default_value](/_Standards/schema-org/Property/Texts/has_default_value.md) 
+### #is_/same_as :: [has_default_value](/_Standards/schema-org/Property/Texts/has_default_value.md) 
 
-### [has_default_value.public](/_public/schema-org/Property/Texts/has_default_value.public.md) 
+### #is_/same_as :: [has_default_value.public](/_public/schema-org/Property/Texts/has_default_value.public.md) 
 
-### [has_default_value.internal](/_internal/schema-org/Property/Texts/has_default_value.internal.md) 
+### #is_/same_as :: [has_default_value.internal](/_internal/schema-org/Property/Texts/has_default_value.internal.md) 
 
-### [has_default_value.protect](/_protect/schema-org/Property/Texts/has_default_value.protect.md) 
+### #is_/same_as :: [has_default_value.protect](/_protect/schema-org/Property/Texts/has_default_value.protect.md) 
 
-### [has_default_value.private](/_private/schema-org/Property/Texts/has_default_value.private.md) 
+### #is_/same_as :: [has_default_value.private](/_private/schema-org/Property/Texts/has_default_value.private.md) 
 
-### [has_default_value.personal](/_personal/schema-org/Property/Texts/has_default_value.personal.md) 
+### #is_/same_as :: [has_default_value.personal](/_personal/schema-org/Property/Texts/has_default_value.personal.md) 
 
-### [has_default_value.secret](/_secret/schema-org/Property/Texts/has_default_value.secret.md)
+### #is_/same_as :: [has_default_value.secret](/_secret/schema-org/Property/Texts/has_default_value.secret.md)
 

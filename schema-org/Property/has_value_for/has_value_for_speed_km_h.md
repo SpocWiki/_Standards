@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_speed_km_h](/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h.md) 
+### #is_/same_as :: [has_value_for_speed_km_h](/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h.md) 
 
-### [has_value_for_speed_km_h.public](/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public.md) 
+### #is_/same_as :: [has_value_for_speed_km_h.public](/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public.md) 
 
-### [has_value_for_speed_km_h.internal](/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal.md) 
+### #is_/same_as :: [has_value_for_speed_km_h.internal](/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal.md) 
 
-### [has_value_for_speed_km_h.protect](/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect.md) 
+### #is_/same_as :: [has_value_for_speed_km_h.protect](/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect.md) 
 
-### [has_value_for_speed_km_h.private](/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private.md) 
+### #is_/same_as :: [has_value_for_speed_km_h.private](/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private.md) 
 
-### [has_value_for_speed_km_h.personal](/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal.md) 
+### #is_/same_as :: [has_value_for_speed_km_h.personal](/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal.md) 
 
-### [has_value_for_speed_km_h.secret](/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret.md)
+### #is_/same_as :: [has_value_for_speed_km_h.secret](/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret.md)
 

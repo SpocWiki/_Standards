@@ -49,17 +49,17 @@ Measurement of the chest/bust section, for example of a suit
 
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_chest_or_bust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.md) 
 
-### [wearable_measurement_chest_or_bust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.public.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.public.md) 
 
-### [wearable_measurement_chest_or_bust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.internal.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.internal.md) 
 
-### [wearable_measurement_chest_or_bust.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.protect.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.protect.md) 
 
-### [wearable_measurement_chest_or_bust.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.private.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.private.md) 
 
-### [wearable_measurement_chest_or_bust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.personal.md) 
+### #is_/same_as :: [wearable_measurement_chest_or_bust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.personal.md) 
 
-### [wearable_measurement_chest_or_bust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.secret.md)
+### #is_/same_as :: [wearable_measurement_chest_or_bust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.secret.md)
 

@@ -45,17 +45,17 @@ Vital signs are measures of various physiological functions in order to assess t
 
 ## Confidential Links & Embeds: 
 
-### [vital_sign](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.md) 
+### #is_/same_as :: [vital_sign](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.md) 
 
-### [vital_sign.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.public.md) 
+### #is_/same_as :: [vital_sign.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.public.md) 
 
-### [vital_sign.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.internal.md) 
+### #is_/same_as :: [vital_sign.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.internal.md) 
 
-### [vital_sign.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.protect.md) 
+### #is_/same_as :: [vital_sign.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.protect.md) 
 
-### [vital_sign.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.private.md) 
+### #is_/same_as :: [vital_sign.private](/_private/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.private.md) 
 
-### [vital_sign.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.personal.md) 
+### #is_/same_as :: [vital_sign.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.personal.md) 
 
-### [vital_sign.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.secret.md)
+### #is_/same_as :: [vital_sign.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.secret.md)
 

@@ -45,17 +45,17 @@ A locksmith.
 
 ## Confidential Links & Embeds: 
 
-### [locksmith](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.md) 
+### #is_/same_as :: [locksmith](/_Standards/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.md) 
 
-### [locksmith.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.public.md) 
+### #is_/same_as :: [locksmith.public](/_public/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.public.md) 
 
-### [locksmith.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.internal.md) 
+### #is_/same_as :: [locksmith.internal](/_internal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.internal.md) 
 
-### [locksmith.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.protect.md) 
+### #is_/same_as :: [locksmith.protect](/_protect/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.protect.md) 
 
-### [locksmith.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.private.md) 
+### #is_/same_as :: [locksmith.private](/_private/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.private.md) 
 
-### [locksmith.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.personal.md) 
+### #is_/same_as :: [locksmith.personal](/_personal/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.personal.md) 
 
-### [locksmith.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.secret.md)
+### #is_/same_as :: [locksmith.secret](/_secret/schema-org/Class/is_a_/organization/local_business/home_and_construction_business/locksmith.secret.md)
 

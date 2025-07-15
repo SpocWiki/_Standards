@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_evidence_origin](/_Standards/schema-org/Property/Texts/has_evidence_origin.md) 
+### #is_/same_as :: [has_evidence_origin](/_Standards/schema-org/Property/Texts/has_evidence_origin.md) 
 
-### [has_evidence_origin.public](/_public/schema-org/Property/Texts/has_evidence_origin.public.md) 
+### #is_/same_as :: [has_evidence_origin.public](/_public/schema-org/Property/Texts/has_evidence_origin.public.md) 
 
-### [has_evidence_origin.internal](/_internal/schema-org/Property/Texts/has_evidence_origin.internal.md) 
+### #is_/same_as :: [has_evidence_origin.internal](/_internal/schema-org/Property/Texts/has_evidence_origin.internal.md) 
 
-### [has_evidence_origin.protect](/_protect/schema-org/Property/Texts/has_evidence_origin.protect.md) 
+### #is_/same_as :: [has_evidence_origin.protect](/_protect/schema-org/Property/Texts/has_evidence_origin.protect.md) 
 
-### [has_evidence_origin.private](/_private/schema-org/Property/Texts/has_evidence_origin.private.md) 
+### #is_/same_as :: [has_evidence_origin.private](/_private/schema-org/Property/Texts/has_evidence_origin.private.md) 
 
-### [has_evidence_origin.personal](/_personal/schema-org/Property/Texts/has_evidence_origin.personal.md) 
+### #is_/same_as :: [has_evidence_origin.personal](/_personal/schema-org/Property/Texts/has_evidence_origin.personal.md) 
 
-### [has_evidence_origin.secret](/_secret/schema-org/Property/Texts/has_evidence_origin.secret.md)
+### #is_/same_as :: [has_evidence_origin.secret](/_secret/schema-org/Property/Texts/has_evidence_origin.secret.md)
 

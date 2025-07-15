@@ -52,23 +52,19 @@ title: Thermomicrobium
 	 - *Thermomicrobium* 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Thermomicrobium](/_Standards/bio/bio~Domain/Bacteria/Thermomicrobium.md) 
+### #is_/same_as :: [Thermomicrobium](/_Standards/bio/bio~Domain/Bacteria/Thermomicrobium.md) 
 
-### [Thermomicrobium.public](/_public/bio/bio~Domain/Bacteria/Thermomicrobium.public.md) 
+### #is_/same_as :: [Thermomicrobium.public](/_public/bio/bio~Domain/Bacteria/Thermomicrobium.public.md) 
 
-### [Thermomicrobium.internal](/_internal/bio/bio~Domain/Bacteria/Thermomicrobium.internal.md) 
+### #is_/same_as :: [Thermomicrobium.internal](/_internal/bio/bio~Domain/Bacteria/Thermomicrobium.internal.md) 
 
-### [Thermomicrobium.protect](/_protect/bio/bio~Domain/Bacteria/Thermomicrobium.protect.md) 
+### #is_/same_as :: [Thermomicrobium.protect](/_protect/bio/bio~Domain/Bacteria/Thermomicrobium.protect.md) 
 
-### [Thermomicrobium.private](/_private/bio/bio~Domain/Bacteria/Thermomicrobium.private.md) 
+### #is_/same_as :: [Thermomicrobium.private](/_private/bio/bio~Domain/Bacteria/Thermomicrobium.private.md) 
 
-### [Thermomicrobium.personal](/_personal/bio/bio~Domain/Bacteria/Thermomicrobium.personal.md) 
+### #is_/same_as :: [Thermomicrobium.personal](/_personal/bio/bio~Domain/Bacteria/Thermomicrobium.personal.md) 
 
-### [Thermomicrobium.secret](/_secret/bio/bio~Domain/Bacteria/Thermomicrobium.secret.md)
+### #is_/same_as :: [Thermomicrobium.secret](/_secret/bio/bio~Domain/Bacteria/Thermomicrobium.secret.md)
 

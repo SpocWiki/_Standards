@@ -688,17 +688,17 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 
 ## Confidential Links & Embeds: 
 
-### [Slovenia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
+### #is_/same_as :: [Slovenia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
 
-### [Slovenia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public.md) 
+### #is_/same_as :: [Slovenia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public.md) 
 
-### [Slovenia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal.md) 
+### #is_/same_as :: [Slovenia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal.md) 
 
-### [Slovenia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect.md) 
+### #is_/same_as :: [Slovenia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect.md) 
 
-### [Slovenia.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private.md) 
+### #is_/same_as :: [Slovenia.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private.md) 
 
-### [Slovenia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal.md) 
+### #is_/same_as :: [Slovenia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal.md) 
 
-### [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md)
+### #is_/same_as :: [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md)
 

@@ -611,17 +611,17 @@ Capital :: [[./Latvia/Counties/Riga]]
 
 ## Confidential Links & Embeds: 
 
-### [Latvia](/_Standards/Earth/Continent/Europe/Europe~North/Latvia.md) 
+### #is_/same_as :: [Latvia](/_Standards/Earth/Continent/Europe/Europe~North/Latvia.md) 
 
-### [Latvia.public](/_public/Earth/Continent/Europe/Europe~North/Latvia.public.md) 
+### #is_/same_as :: [Latvia.public](/_public/Earth/Continent/Europe/Europe~North/Latvia.public.md) 
 
-### [Latvia.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal.md) 
+### #is_/same_as :: [Latvia.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal.md) 
 
-### [Latvia.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect.md) 
+### #is_/same_as :: [Latvia.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect.md) 
 
-### [Latvia.private](/_private/Earth/Continent/Europe/Europe~North/Latvia.private.md) 
+### #is_/same_as :: [Latvia.private](/_private/Earth/Continent/Europe/Europe~North/Latvia.private.md) 
 
-### [Latvia.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal.md) 
+### #is_/same_as :: [Latvia.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal.md) 
 
-### [Latvia.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret.md)
+### #is_/same_as :: [Latvia.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret.md)
 

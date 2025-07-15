@@ -45,17 +45,17 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 
 ## Confidential Links & Embeds: 
 
-### [government_benefits_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.md) 
+### #is_/same_as :: [government_benefits_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.md) 
 
-### [government_benefits_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.public.md) 
+### #is_/same_as :: [government_benefits_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.public.md) 
 
-### [government_benefits_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.internal.md) 
+### #is_/same_as :: [government_benefits_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.internal.md) 
 
-### [government_benefits_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.protect.md) 
+### #is_/same_as :: [government_benefits_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.protect.md) 
 
-### [government_benefits_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.private.md) 
+### #is_/same_as :: [government_benefits_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.private.md) 
 
-### [government_benefits_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.personal.md) 
+### #is_/same_as :: [government_benefits_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.personal.md) 
 
-### [government_benefits_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.secret.md)
+### #is_/same_as :: [government_benefits_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.secret.md)
 

@@ -48,17 +48,17 @@ CompetencyRequired:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~LearningResource](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.md) 
+### #is_/same_as :: [FileClass~LearningResource](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.md) 
 
-### [FileClass~LearningResource.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.public.md) 
+### #is_/same_as :: [FileClass~LearningResource.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.public.md) 
 
-### [FileClass~LearningResource.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.internal.md) 
+### #is_/same_as :: [FileClass~LearningResource.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.internal.md) 
 
-### [FileClass~LearningResource.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.protect.md) 
+### #is_/same_as :: [FileClass~LearningResource.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.protect.md) 
 
-### [FileClass~LearningResource.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.private.md) 
+### #is_/same_as :: [FileClass~LearningResource.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.private.md) 
 
-### [FileClass~LearningResource.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.personal.md) 
+### #is_/same_as :: [FileClass~LearningResource.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.personal.md) 
 
-### [FileClass~LearningResource.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.secret.md)
+### #is_/same_as :: [FileClass~LearningResource.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.secret.md)
 

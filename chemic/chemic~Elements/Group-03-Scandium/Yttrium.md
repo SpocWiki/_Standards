@@ -240,17 +240,17 @@ boiling_point: 5301
 
 ## Confidential Links & Embeds: 
 
-### [Yttrium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Yttrium.md) 
+### #is_/same_as :: [Yttrium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Yttrium.md) 
 
-### [Yttrium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Yttrium.public.md) 
+### #is_/same_as :: [Yttrium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Yttrium.public.md) 
 
-### [Yttrium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.internal.md) 
+### #is_/same_as :: [Yttrium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.internal.md) 
 
-### [Yttrium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Yttrium.protect.md) 
+### #is_/same_as :: [Yttrium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Yttrium.protect.md) 
 
-### [Yttrium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Yttrium.private.md) 
+### #is_/same_as :: [Yttrium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Yttrium.private.md) 
 
-### [Yttrium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.personal.md) 
+### #is_/same_as :: [Yttrium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.personal.md) 
 
-### [Yttrium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Yttrium.secret.md)
+### #is_/same_as :: [Yttrium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Yttrium.secret.md)
 

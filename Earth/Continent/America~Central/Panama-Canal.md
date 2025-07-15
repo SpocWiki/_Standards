@@ -88,17 +88,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Panama-Canal](/_Standards/Earth/Continent/America~Central/Panama-Canal.md) 
+### #is_/same_as :: [Panama-Canal](/_Standards/Earth/Continent/America~Central/Panama-Canal.md) 
 
-### [Panama-Canal.public](/_public/Earth/Continent/America~Central/Panama-Canal.public.md) 
+### #is_/same_as :: [Panama-Canal.public](/_public/Earth/Continent/America~Central/Panama-Canal.public.md) 
 
-### [Panama-Canal.internal](/_internal/Earth/Continent/America~Central/Panama-Canal.internal.md) 
+### #is_/same_as :: [Panama-Canal.internal](/_internal/Earth/Continent/America~Central/Panama-Canal.internal.md) 
 
-### [Panama-Canal.protect](/_protect/Earth/Continent/America~Central/Panama-Canal.protect.md) 
+### #is_/same_as :: [Panama-Canal.protect](/_protect/Earth/Continent/America~Central/Panama-Canal.protect.md) 
 
-### [Panama-Canal.private](/_private/Earth/Continent/America~Central/Panama-Canal.private.md) 
+### #is_/same_as :: [Panama-Canal.private](/_private/Earth/Continent/America~Central/Panama-Canal.private.md) 
 
-### [Panama-Canal.personal](/_personal/Earth/Continent/America~Central/Panama-Canal.personal.md) 
+### #is_/same_as :: [Panama-Canal.personal](/_personal/Earth/Continent/America~Central/Panama-Canal.personal.md) 
 
-### [Panama-Canal.secret](/_secret/Earth/Continent/America~Central/Panama-Canal.secret.md)
+### #is_/same_as :: [Panama-Canal.secret](/_secret/Earth/Continent/America~Central/Panama-Canal.secret.md)
 

@@ -45,17 +45,17 @@ A posting to a discussion forum.
 
 ## Confidential Links & Embeds: 
 
-### [discussion_forum_posting](/_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.md) 
+### #is_/same_as :: [discussion_forum_posting](/_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.md) 
 
-### [discussion_forum_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.public.md) 
+### #is_/same_as :: [discussion_forum_posting.public](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.public.md) 
 
-### [discussion_forum_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.internal.md) 
+### #is_/same_as :: [discussion_forum_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.internal.md) 
 
-### [discussion_forum_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.protect.md) 
+### #is_/same_as :: [discussion_forum_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.protect.md) 
 
-### [discussion_forum_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.private.md) 
+### #is_/same_as :: [discussion_forum_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.private.md) 
 
-### [discussion_forum_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.personal.md) 
+### #is_/same_as :: [discussion_forum_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.personal.md) 
 
-### [discussion_forum_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.secret.md)
+### #is_/same_as :: [discussion_forum_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/discussion_forum_posting.secret.md)
 

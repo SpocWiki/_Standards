@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_material_extent](/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
+### #is_/same_as :: [has_value_for_material_extent](/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
 
-### [has_value_for_material_extent.public](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public.md) 
+### #is_/same_as :: [has_value_for_material_extent.public](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public.md) 
 
-### [has_value_for_material_extent.internal](/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal.md) 
+### #is_/same_as :: [has_value_for_material_extent.internal](/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal.md) 
 
-### [has_value_for_material_extent.protect](/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect.md) 
+### #is_/same_as :: [has_value_for_material_extent.protect](/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect.md) 
 
-### [has_value_for_material_extent.private](/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private.md) 
+### #is_/same_as :: [has_value_for_material_extent.private](/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private.md) 
 
-### [has_value_for_material_extent.personal](/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal.md) 
+### #is_/same_as :: [has_value_for_material_extent.personal](/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal.md) 
 
-### [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md)
+### #is_/same_as :: [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md)
 

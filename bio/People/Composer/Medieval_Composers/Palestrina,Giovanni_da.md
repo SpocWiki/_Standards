@@ -32,21 +32,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Pierluigi%20da%20Palestrina)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Palestrina,Giovanni_da](/_Standards/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da](/_Standards/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.md) 
 
-### [Palestrina,Giovanni_da.public](/_public/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.public.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.public](/_public/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.public.md) 
 
-### [Palestrina,Giovanni_da.internal](/_internal/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.internal.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.internal](/_internal/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.internal.md) 
 
-### [Palestrina,Giovanni_da.protect](/_protect/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.protect.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.protect](/_protect/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.protect.md) 
 
-### [Palestrina,Giovanni_da.private](/_private/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.private.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.private](/_private/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.private.md) 
 
-### [Palestrina,Giovanni_da.personal](/_personal/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.personal.md) 
+### #is_/same_as :: [Palestrina,Giovanni_da.personal](/_personal/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.personal.md) 
 
-### [Palestrina,Giovanni_da.secret](/_secret/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.secret.md)
+### #is_/same_as :: [Palestrina,Giovanni_da.secret](/_secret/bio/People/Composer/Medieval_Composers/Palestrina,Giovanni_da.secret.md)
 

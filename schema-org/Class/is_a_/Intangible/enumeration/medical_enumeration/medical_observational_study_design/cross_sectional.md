@@ -47,17 +47,17 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 
 ## Confidential Links & Embeds: 
 
-### [cross_sectional](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md) 
+### #is_/same_as :: [cross_sectional](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md) 
 
-### [cross_sectional.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.public.md) 
+### #is_/same_as :: [cross_sectional.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.public.md) 
 
-### [cross_sectional.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.internal.md) 
+### #is_/same_as :: [cross_sectional.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.internal.md) 
 
-### [cross_sectional.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.protect.md) 
+### #is_/same_as :: [cross_sectional.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.protect.md) 
 
-### [cross_sectional.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.private.md) 
+### #is_/same_as :: [cross_sectional.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.private.md) 
 
-### [cross_sectional.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.personal.md) 
+### #is_/same_as :: [cross_sectional.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.personal.md) 
 
-### [cross_sectional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.secret.md)
+### #is_/same_as :: [cross_sectional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.secret.md)
 

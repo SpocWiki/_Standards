@@ -156,17 +156,17 @@ CosIng_number: 86562
 
 ## Confidential Links & Embeds: 
 
-### [Zinc](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
+### #is_/same_as :: [Zinc](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
 
-### [Zinc.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.public.md) 
+### #is_/same_as :: [Zinc.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.public.md) 
 
-### [Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Zinc.internal.md) 
+### #is_/same_as :: [Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Zinc.internal.md) 
 
-### [Zinc.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Zinc.protect.md) 
+### #is_/same_as :: [Zinc.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Zinc.protect.md) 
 
-### [Zinc.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Zinc.private.md) 
+### #is_/same_as :: [Zinc.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Zinc.private.md) 
 
-### [Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Zinc.personal.md) 
+### #is_/same_as :: [Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Zinc.personal.md) 
 
-### [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md)
+### #is_/same_as :: [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md)
 

@@ -35,17 +35,17 @@ A computer store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComputerStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.md) 
+### #is_/same_as :: [FileClass~ComputerStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.md) 
 
-### [FileClass~ComputerStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.public.md) 
+### #is_/same_as :: [FileClass~ComputerStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.public.md) 
 
-### [FileClass~ComputerStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.internal.md) 
+### #is_/same_as :: [FileClass~ComputerStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.internal.md) 
 
-### [FileClass~ComputerStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.protect.md) 
+### #is_/same_as :: [FileClass~ComputerStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.protect.md) 
 
-### [FileClass~ComputerStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.private.md) 
+### #is_/same_as :: [FileClass~ComputerStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.private.md) 
 
-### [FileClass~ComputerStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.personal.md) 
+### #is_/same_as :: [FileClass~ComputerStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.personal.md) 
 
-### [FileClass~ComputerStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.secret.md)
+### #is_/same_as :: [FileClass~ComputerStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ComputerStore.secret.md)
 

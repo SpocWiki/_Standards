@@ -47,17 +47,17 @@ This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 
 ## Confidential Links & Embeds: 
 
-### [attorney](/_Standards/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.md) 
+### #is_/same_as :: [attorney](/_Standards/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.md) 
 
-### [attorney.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.public.md) 
+### #is_/same_as :: [attorney.public](/_public/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.public.md) 
 
-### [attorney.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.internal.md) 
+### #is_/same_as :: [attorney.internal](/_internal/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.internal.md) 
 
-### [attorney.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.protect.md) 
+### #is_/same_as :: [attorney.protect](/_protect/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.protect.md) 
 
-### [attorney.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.private.md) 
+### #is_/same_as :: [attorney.private](/_private/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.private.md) 
 
-### [attorney.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.personal.md) 
+### #is_/same_as :: [attorney.personal](/_personal/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.personal.md) 
 
-### [attorney.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.secret.md)
+### #is_/same_as :: [attorney.secret](/_secret/schema-org/Class/is_a_/organization/local_business/legal_service/attorney.secret.md)
 

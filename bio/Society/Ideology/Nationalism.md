@@ -61,21 +61,19 @@ U_S_National_Archives_Identifier: 10642479
 > [Wikipedia](https://en.wikipedia.org/wiki/Nationalism)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Nationalism](/_Standards/bio/Society/Ideology/Nationalism.md) 
+### #is_/same_as :: [Nationalism](/_Standards/bio/Society/Ideology/Nationalism.md) 
 
-### [Nationalism.public](/_public/bio/Society/Ideology/Nationalism.public.md) 
+### #is_/same_as :: [Nationalism.public](/_public/bio/Society/Ideology/Nationalism.public.md) 
 
-### [Nationalism.internal](/_internal/bio/Society/Ideology/Nationalism.internal.md) 
+### #is_/same_as :: [Nationalism.internal](/_internal/bio/Society/Ideology/Nationalism.internal.md) 
 
-### [Nationalism.protect](/_protect/bio/Society/Ideology/Nationalism.protect.md) 
+### #is_/same_as :: [Nationalism.protect](/_protect/bio/Society/Ideology/Nationalism.protect.md) 
 
-### [Nationalism.private](/_private/bio/Society/Ideology/Nationalism.private.md) 
+### #is_/same_as :: [Nationalism.private](/_private/bio/Society/Ideology/Nationalism.private.md) 
 
-### [Nationalism.personal](/_personal/bio/Society/Ideology/Nationalism.personal.md) 
+### #is_/same_as :: [Nationalism.personal](/_personal/bio/Society/Ideology/Nationalism.personal.md) 
 
-### [Nationalism.secret](/_secret/bio/Society/Ideology/Nationalism.secret.md)
+### #is_/same_as :: [Nationalism.secret](/_secret/bio/Society/Ideology/Nationalism.secret.md)
 

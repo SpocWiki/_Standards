@@ -62,17 +62,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~2~Selandian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.md) 
+### #is_/same_as :: [Age~2~Selandian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.md) 
 
-### [Age~2~Selandian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.public.md) 
+### #is_/same_as :: [Age~2~Selandian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.public.md) 
 
-### [Age~2~Selandian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.internal.md) 
+### #is_/same_as :: [Age~2~Selandian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.internal.md) 
 
-### [Age~2~Selandian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.protect.md) 
+### #is_/same_as :: [Age~2~Selandian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.protect.md) 
 
-### [Age~2~Selandian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.private.md) 
+### #is_/same_as :: [Age~2~Selandian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.private.md) 
 
-### [Age~2~Selandian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.personal.md) 
+### #is_/same_as :: [Age~2~Selandian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.personal.md) 
 
-### [Age~2~Selandian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.secret.md)
+### #is_/same_as :: [Age~2~Selandian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.secret.md)
 

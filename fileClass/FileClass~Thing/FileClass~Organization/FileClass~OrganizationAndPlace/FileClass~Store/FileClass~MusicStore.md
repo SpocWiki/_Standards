@@ -35,17 +35,17 @@ A music store.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.md) 
+### #is_/same_as :: [FileClass~MusicStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.md) 
 
-### [FileClass~MusicStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.public.md) 
+### #is_/same_as :: [FileClass~MusicStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.public.md) 
 
-### [FileClass~MusicStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.internal.md) 
+### #is_/same_as :: [FileClass~MusicStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.internal.md) 
 
-### [FileClass~MusicStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.protect.md) 
+### #is_/same_as :: [FileClass~MusicStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.protect.md) 
 
-### [FileClass~MusicStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.private.md) 
+### #is_/same_as :: [FileClass~MusicStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.private.md) 
 
-### [FileClass~MusicStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.personal.md) 
+### #is_/same_as :: [FileClass~MusicStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.personal.md) 
 
-### [FileClass~MusicStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.secret.md)
+### #is_/same_as :: [FileClass~MusicStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.secret.md)
 

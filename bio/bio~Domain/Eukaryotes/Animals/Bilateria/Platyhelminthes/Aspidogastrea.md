@@ -205,22 +205,19 @@ Specimen Condition   Dead Specimen
 Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aspidogastrea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.md) 
+### #is_/same_as :: [Aspidogastrea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.md) 
 
-### [Aspidogastrea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.public.md) 
+### #is_/same_as :: [Aspidogastrea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.public.md) 
 
-### [Aspidogastrea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.internal.md) 
+### #is_/same_as :: [Aspidogastrea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.internal.md) 
 
-### [Aspidogastrea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.protect.md) 
+### #is_/same_as :: [Aspidogastrea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.protect.md) 
 
-### [Aspidogastrea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.private.md) 
+### #is_/same_as :: [Aspidogastrea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.private.md) 
 
-### [Aspidogastrea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.personal.md) 
+### #is_/same_as :: [Aspidogastrea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.personal.md) 
 
-### [Aspidogastrea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.secret.md)
+### #is_/same_as :: [Aspidogastrea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Aspidogastrea.secret.md)
 

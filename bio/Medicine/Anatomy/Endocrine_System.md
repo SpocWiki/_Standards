@@ -35,23 +35,19 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Endocrine%20system)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Endocrine_System](/_Standards/bio/Medicine/Anatomy/Endocrine_System.md) 
+### #is_/same_as :: [Endocrine_System](/_Standards/bio/Medicine/Anatomy/Endocrine_System.md) 
 
-### [Endocrine_System.public](/_public/bio/Medicine/Anatomy/Endocrine_System.public.md) 
+### #is_/same_as :: [Endocrine_System.public](/_public/bio/Medicine/Anatomy/Endocrine_System.public.md) 
 
-### [Endocrine_System.internal](/_internal/bio/Medicine/Anatomy/Endocrine_System.internal.md) 
+### #is_/same_as :: [Endocrine_System.internal](/_internal/bio/Medicine/Anatomy/Endocrine_System.internal.md) 
 
-### [Endocrine_System.protect](/_protect/bio/Medicine/Anatomy/Endocrine_System.protect.md) 
+### #is_/same_as :: [Endocrine_System.protect](/_protect/bio/Medicine/Anatomy/Endocrine_System.protect.md) 
 
-### [Endocrine_System.private](/_private/bio/Medicine/Anatomy/Endocrine_System.private.md) 
+### #is_/same_as :: [Endocrine_System.private](/_private/bio/Medicine/Anatomy/Endocrine_System.private.md) 
 
-### [Endocrine_System.personal](/_personal/bio/Medicine/Anatomy/Endocrine_System.personal.md) 
+### #is_/same_as :: [Endocrine_System.personal](/_personal/bio/Medicine/Anatomy/Endocrine_System.personal.md) 
 
-### [Endocrine_System.secret](/_secret/bio/Medicine/Anatomy/Endocrine_System.secret.md)
+### #is_/same_as :: [Endocrine_System.secret](/_secret/bio/Medicine/Anatomy/Endocrine_System.secret.md)
 

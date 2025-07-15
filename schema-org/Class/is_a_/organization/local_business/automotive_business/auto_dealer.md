@@ -45,17 +45,17 @@ An car dealership.
 
 ## Confidential Links & Embeds: 
 
-### [auto_dealer](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.md) 
+### #is_/same_as :: [auto_dealer](/_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.md) 
 
-### [auto_dealer.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.public.md) 
+### #is_/same_as :: [auto_dealer.public](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.public.md) 
 
-### [auto_dealer.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.internal.md) 
+### #is_/same_as :: [auto_dealer.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.internal.md) 
 
-### [auto_dealer.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.protect.md) 
+### #is_/same_as :: [auto_dealer.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.protect.md) 
 
-### [auto_dealer.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.private.md) 
+### #is_/same_as :: [auto_dealer.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.private.md) 
 
-### [auto_dealer.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.personal.md) 
+### #is_/same_as :: [auto_dealer.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.personal.md) 
 
-### [auto_dealer.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.secret.md)
+### #is_/same_as :: [auto_dealer.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.secret.md)
 

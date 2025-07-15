@@ -45,17 +45,17 @@ The header section of the page.
 
 ## Confidential Links & Embeds: 
 
-### [wp_header](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.md) 
+### #is_/same_as :: [wp_header](/_Standards/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.md) 
 
-### [wp_header.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.public.md) 
+### #is_/same_as :: [wp_header.public](/_public/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.public.md) 
 
-### [wp_header.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.internal.md) 
+### #is_/same_as :: [wp_header.internal](/_internal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.internal.md) 
 
-### [wp_header.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.protect.md) 
+### #is_/same_as :: [wp_header.protect](/_protect/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.protect.md) 
 
-### [wp_header.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.private.md) 
+### #is_/same_as :: [wp_header.private](/_private/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.private.md) 
 
-### [wp_header.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.personal.md) 
+### #is_/same_as :: [wp_header.personal](/_personal/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.personal.md) 
 
-### [wp_header.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.secret.md)
+### #is_/same_as :: [wp_header.secret](/_secret/schema-org/Class/is_a_/creative_work/web_page_element/wp_header.secret.md)
 

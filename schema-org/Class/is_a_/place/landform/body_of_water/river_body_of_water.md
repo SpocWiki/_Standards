@@ -45,17 +45,17 @@ A river (for example, the broad majestic Shannon).
 
 ## Confidential Links & Embeds: 
 
-### [river_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.md) 
+### #is_/same_as :: [river_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.md) 
 
-### [river_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.public.md) 
+### #is_/same_as :: [river_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.public.md) 
 
-### [river_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.internal.md) 
+### #is_/same_as :: [river_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.internal.md) 
 
-### [river_body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.protect.md) 
+### #is_/same_as :: [river_body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.protect.md) 
 
-### [river_body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.private.md) 
+### #is_/same_as :: [river_body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.private.md) 
 
-### [river_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.personal.md) 
+### #is_/same_as :: [river_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.personal.md) 
 
-### [river_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.secret.md)
+### #is_/same_as :: [river_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/river_body_of_water.secret.md)
 

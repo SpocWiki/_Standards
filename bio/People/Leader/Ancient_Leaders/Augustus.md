@@ -173,21 +173,19 @@ date_of_death: "0014-08-17"
 > [Wikipedia](https://en.wikipedia.org/wiki/Augustus)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Augustus](/_Standards/bio/People/Leader/Ancient_Leaders/Augustus.md) 
+### #is_/same_as :: [Augustus](/_Standards/bio/People/Leader/Ancient_Leaders/Augustus.md) 
 
-### [Augustus.public](/_public/bio/People/Leader/Ancient_Leaders/Augustus.public.md) 
+### #is_/same_as :: [Augustus.public](/_public/bio/People/Leader/Ancient_Leaders/Augustus.public.md) 
 
-### [Augustus.internal](/_internal/bio/People/Leader/Ancient_Leaders/Augustus.internal.md) 
+### #is_/same_as :: [Augustus.internal](/_internal/bio/People/Leader/Ancient_Leaders/Augustus.internal.md) 
 
-### [Augustus.protect](/_protect/bio/People/Leader/Ancient_Leaders/Augustus.protect.md) 
+### #is_/same_as :: [Augustus.protect](/_protect/bio/People/Leader/Ancient_Leaders/Augustus.protect.md) 
 
-### [Augustus.private](/_private/bio/People/Leader/Ancient_Leaders/Augustus.private.md) 
+### #is_/same_as :: [Augustus.private](/_private/bio/People/Leader/Ancient_Leaders/Augustus.private.md) 
 
-### [Augustus.personal](/_personal/bio/People/Leader/Ancient_Leaders/Augustus.personal.md) 
+### #is_/same_as :: [Augustus.personal](/_personal/bio/People/Leader/Ancient_Leaders/Augustus.personal.md) 
 
-### [Augustus.secret](/_secret/bio/People/Leader/Ancient_Leaders/Augustus.secret.md)
+### #is_/same_as :: [Augustus.secret](/_secret/bio/People/Leader/Ancient_Leaders/Augustus.secret.md)
 

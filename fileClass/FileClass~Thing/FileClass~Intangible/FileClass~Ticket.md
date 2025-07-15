@@ -127,17 +127,17 @@ UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Ticket](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.md) 
+### #is_/same_as :: [FileClass~Ticket](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.md) 
 
-### [FileClass~Ticket.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.public.md) 
+### #is_/same_as :: [FileClass~Ticket.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.public.md) 
 
-### [FileClass~Ticket.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.internal.md) 
+### #is_/same_as :: [FileClass~Ticket.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.internal.md) 
 
-### [FileClass~Ticket.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.protect.md) 
+### #is_/same_as :: [FileClass~Ticket.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.protect.md) 
 
-### [FileClass~Ticket.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.private.md) 
+### #is_/same_as :: [FileClass~Ticket.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.private.md) 
 
-### [FileClass~Ticket.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.personal.md) 
+### #is_/same_as :: [FileClass~Ticket.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.personal.md) 
 
-### [FileClass~Ticket.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret.md)
+### #is_/same_as :: [FileClass~Ticket.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret.md)
 

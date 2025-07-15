@@ -45,17 +45,17 @@ A nightclub or discotheque.
 
 ## Confidential Links & Embeds: 
 
-### [night_club](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.md) 
+### #is_/same_as :: [night_club](/_Standards/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.md) 
 
-### [night_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.public.md) 
+### #is_/same_as :: [night_club.public](/_public/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.public.md) 
 
-### [night_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal.md) 
+### #is_/same_as :: [night_club.internal](/_internal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal.md) 
 
-### [night_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect.md) 
+### #is_/same_as :: [night_club.protect](/_protect/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect.md) 
 
-### [night_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.private.md) 
+### #is_/same_as :: [night_club.private](/_private/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.private.md) 
 
-### [night_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal.md) 
+### #is_/same_as :: [night_club.personal](/_personal/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal.md) 
 
-### [night_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret.md)
+### #is_/same_as :: [night_club.secret](/_secret/schema-org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret.md)
 

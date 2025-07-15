@@ -45,17 +45,17 @@ An alternative, closely-related condition typically considered later in the diff
 
 ## Confidential Links & Embeds: 
 
-### [d_dx_element](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.md) 
+### #is_/same_as :: [d_dx_element](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.md) 
 
-### [d_dx_element.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.public.md) 
+### #is_/same_as :: [d_dx_element.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.public.md) 
 
-### [d_dx_element.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.internal.md) 
+### #is_/same_as :: [d_dx_element.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.internal.md) 
 
-### [d_dx_element.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.protect.md) 
+### #is_/same_as :: [d_dx_element.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.protect.md) 
 
-### [d_dx_element.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.private.md) 
+### #is_/same_as :: [d_dx_element.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.private.md) 
 
-### [d_dx_element.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.personal.md) 
+### #is_/same_as :: [d_dx_element.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.personal.md) 
 
-### [d_dx_element.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.secret.md)
+### #is_/same_as :: [d_dx_element.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.secret.md)
 

@@ -118,17 +118,17 @@ Vertebrate Paleontology 29 pages, 6 figures.
 
 ## Confidential Links & Embeds: 
 
-### [Utegenia shpinari](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.md) 
+### #is_/same_as :: [Utegenia shpinari](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.md) 
 
-### [Utegenia shpinari.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.public.md) 
+### #is_/same_as :: [Utegenia shpinari.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.public.md) 
 
-### [Utegenia shpinari.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.internal.md) 
+### #is_/same_as :: [Utegenia shpinari.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.internal.md) 
 
-### [Utegenia shpinari.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.protect.md) 
+### #is_/same_as :: [Utegenia shpinari.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.protect.md) 
 
-### [Utegenia shpinari.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.private.md) 
+### #is_/same_as :: [Utegenia shpinari.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.private.md) 
 
-### [Utegenia shpinari.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.personal.md) 
+### #is_/same_as :: [Utegenia shpinari.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.personal.md) 
 
-### [Utegenia shpinari.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.secret.md)
+### #is_/same_as :: [Utegenia shpinari.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha/Utegenia shpinari.secret.md)
 

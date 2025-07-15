@@ -45,17 +45,17 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 ## Confidential Links & Embeds: 
 
-### [individual_product](/_Standards/schema-org/Class/is_a_/product/individual_product.md) 
+### #is_/same_as :: [individual_product](/_Standards/schema-org/Class/is_a_/product/individual_product.md) 
 
-### [individual_product.public](/_public/schema-org/Class/is_a_/product/individual_product.public.md) 
+### #is_/same_as :: [individual_product.public](/_public/schema-org/Class/is_a_/product/individual_product.public.md) 
 
-### [individual_product.internal](/_internal/schema-org/Class/is_a_/product/individual_product.internal.md) 
+### #is_/same_as :: [individual_product.internal](/_internal/schema-org/Class/is_a_/product/individual_product.internal.md) 
 
-### [individual_product.protect](/_protect/schema-org/Class/is_a_/product/individual_product.protect.md) 
+### #is_/same_as :: [individual_product.protect](/_protect/schema-org/Class/is_a_/product/individual_product.protect.md) 
 
-### [individual_product.private](/_private/schema-org/Class/is_a_/product/individual_product.private.md) 
+### #is_/same_as :: [individual_product.private](/_private/schema-org/Class/is_a_/product/individual_product.private.md) 
 
-### [individual_product.personal](/_personal/schema-org/Class/is_a_/product/individual_product.personal.md) 
+### #is_/same_as :: [individual_product.personal](/_personal/schema-org/Class/is_a_/product/individual_product.personal.md) 
 
-### [individual_product.secret](/_secret/schema-org/Class/is_a_/product/individual_product.secret.md)
+### #is_/same_as :: [individual_product.secret](/_secret/schema-org/Class/is_a_/product/individual_product.secret.md)
 

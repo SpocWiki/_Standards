@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_including_health_plan_formulary](/_Standards/schema-org/Relation/is/is_including_health_plan_formulary.md) 
+### #is_/same_as :: [is_including_health_plan_formulary](/_Standards/schema-org/Relation/is/is_including_health_plan_formulary.md) 
 
-### [is_including_health_plan_formulary.public](/_public/schema-org/Relation/is/is_including_health_plan_formulary.public.md) 
+### #is_/same_as :: [is_including_health_plan_formulary.public](/_public/schema-org/Relation/is/is_including_health_plan_formulary.public.md) 
 
-### [is_including_health_plan_formulary.internal](/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal.md) 
+### #is_/same_as :: [is_including_health_plan_formulary.internal](/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal.md) 
 
-### [is_including_health_plan_formulary.protect](/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect.md) 
+### #is_/same_as :: [is_including_health_plan_formulary.protect](/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect.md) 
 
-### [is_including_health_plan_formulary.private](/_private/schema-org/Relation/is/is_including_health_plan_formulary.private.md) 
+### #is_/same_as :: [is_including_health_plan_formulary.private](/_private/schema-org/Relation/is/is_including_health_plan_formulary.private.md) 
 
-### [is_including_health_plan_formulary.personal](/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal.md) 
+### #is_/same_as :: [is_including_health_plan_formulary.personal](/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal.md) 
 
-### [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md)
+### #is_/same_as :: [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md)
 

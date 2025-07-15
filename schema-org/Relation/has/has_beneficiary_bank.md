@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_beneficiary_bank](/_Standards/schema-org/Relation/has/has_beneficiary_bank.md) 
+### #is_/same_as :: [has_beneficiary_bank](/_Standards/schema-org/Relation/has/has_beneficiary_bank.md) 
 
-### [has_beneficiary_bank.public](/_public/schema-org/Relation/has/has_beneficiary_bank.public.md) 
+### #is_/same_as :: [has_beneficiary_bank.public](/_public/schema-org/Relation/has/has_beneficiary_bank.public.md) 
 
-### [has_beneficiary_bank.internal](/_internal/schema-org/Relation/has/has_beneficiary_bank.internal.md) 
+### #is_/same_as :: [has_beneficiary_bank.internal](/_internal/schema-org/Relation/has/has_beneficiary_bank.internal.md) 
 
-### [has_beneficiary_bank.protect](/_protect/schema-org/Relation/has/has_beneficiary_bank.protect.md) 
+### #is_/same_as :: [has_beneficiary_bank.protect](/_protect/schema-org/Relation/has/has_beneficiary_bank.protect.md) 
 
-### [has_beneficiary_bank.private](/_private/schema-org/Relation/has/has_beneficiary_bank.private.md) 
+### #is_/same_as :: [has_beneficiary_bank.private](/_private/schema-org/Relation/has/has_beneficiary_bank.private.md) 
 
-### [has_beneficiary_bank.personal](/_personal/schema-org/Relation/has/has_beneficiary_bank.personal.md) 
+### #is_/same_as :: [has_beneficiary_bank.personal](/_personal/schema-org/Relation/has/has_beneficiary_bank.personal.md) 
 
-### [has_beneficiary_bank.secret](/_secret/schema-org/Relation/has/has_beneficiary_bank.secret.md)
+### #is_/same_as :: [has_beneficiary_bank.secret](/_secret/schema-org/Relation/has/has_beneficiary_bank.secret.md)
 

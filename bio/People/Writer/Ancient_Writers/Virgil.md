@@ -117,21 +117,19 @@ ISNI: "0000000430695667"
 > [Wikipedia](https://en.wikipedia.org/wiki/Virgil)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Virgil](/_Standards/bio/People/Writer/Ancient_Writers/Virgil.md) 
+### #is_/same_as :: [Virgil](/_Standards/bio/People/Writer/Ancient_Writers/Virgil.md) 
 
-### [Virgil.public](/_public/bio/People/Writer/Ancient_Writers/Virgil.public.md) 
+### #is_/same_as :: [Virgil.public](/_public/bio/People/Writer/Ancient_Writers/Virgil.public.md) 
 
-### [Virgil.internal](/_internal/bio/People/Writer/Ancient_Writers/Virgil.internal.md) 
+### #is_/same_as :: [Virgil.internal](/_internal/bio/People/Writer/Ancient_Writers/Virgil.internal.md) 
 
-### [Virgil.protect](/_protect/bio/People/Writer/Ancient_Writers/Virgil.protect.md) 
+### #is_/same_as :: [Virgil.protect](/_protect/bio/People/Writer/Ancient_Writers/Virgil.protect.md) 
 
-### [Virgil.private](/_private/bio/People/Writer/Ancient_Writers/Virgil.private.md) 
+### #is_/same_as :: [Virgil.private](/_private/bio/People/Writer/Ancient_Writers/Virgil.private.md) 
 
-### [Virgil.personal](/_personal/bio/People/Writer/Ancient_Writers/Virgil.personal.md) 
+### #is_/same_as :: [Virgil.personal](/_personal/bio/People/Writer/Ancient_Writers/Virgil.personal.md) 
 
-### [Virgil.secret](/_secret/bio/People/Writer/Ancient_Writers/Virgil.secret.md)
+### #is_/same_as :: [Virgil.secret](/_secret/bio/People/Writer/Ancient_Writers/Virgil.secret.md)
 

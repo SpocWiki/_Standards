@@ -47,17 +47,17 @@ The day of the week between Monday and Wednesday.
 
 ## Confidential Links & Embeds: 
 
-### [tuesday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.md) 
+### #is_/same_as :: [tuesday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.md) 
 
-### [tuesday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.public.md) 
+### #is_/same_as :: [tuesday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.public.md) 
 
-### [tuesday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.internal.md) 
+### #is_/same_as :: [tuesday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.internal.md) 
 
-### [tuesday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.protect.md) 
+### #is_/same_as :: [tuesday.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.protect.md) 
 
-### [tuesday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.private.md) 
+### #is_/same_as :: [tuesday.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.private.md) 
 
-### [tuesday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.personal.md) 
+### #is_/same_as :: [tuesday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.personal.md) 
 
-### [tuesday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.secret.md)
+### #is_/same_as :: [tuesday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/tuesday.secret.md)
 

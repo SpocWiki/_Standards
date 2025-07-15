@@ -76,21 +76,19 @@ Colon_Classification: O,1
 > [Wikipedia](https://en.wikipedia.org/wiki/Poetry) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Poetry](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.md) 
+### #is_/same_as :: [Poetry](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.md) 
 
-### [Poetry.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.public.md) 
+### #is_/same_as :: [Poetry.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.public.md) 
 
-### [Poetry.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.internal.md) 
+### #is_/same_as :: [Poetry.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.internal.md) 
 
-### [Poetry.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.protect.md) 
+### #is_/same_as :: [Poetry.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.protect.md) 
 
-### [Poetry.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.private.md) 
+### #is_/same_as :: [Poetry.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.private.md) 
 
-### [Poetry.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.personal.md) 
+### #is_/same_as :: [Poetry.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.personal.md) 
 
-### [Poetry.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.secret.md)
+### #is_/same_as :: [Poetry.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Poetry.secret.md)
 

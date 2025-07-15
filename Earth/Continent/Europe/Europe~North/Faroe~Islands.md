@@ -251,17 +251,17 @@ Capital :: [[Tórshavn]]
 
 ## Confidential Links & Embeds: 
 
-### [Faroe~Islands](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands.md) 
+### #is_/same_as :: [Faroe~Islands](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands.md) 
 
-### [Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md) 
+### #is_/same_as :: [Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md) 
 
-### [Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md) 
+### #is_/same_as :: [Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md) 
 
-### [Faroe~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands.protect.md) 
+### #is_/same_as :: [Faroe~Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/Faroe~Islands.protect.md) 
 
-### [Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md) 
+### #is_/same_as :: [Faroe~Islands.private](/_private/Earth/Continent/Europe/Europe~North/Faroe~Islands.private.md) 
 
-### [Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md) 
+### #is_/same_as :: [Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md) 
 
-### [Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)
+### #is_/same_as :: [Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)
 

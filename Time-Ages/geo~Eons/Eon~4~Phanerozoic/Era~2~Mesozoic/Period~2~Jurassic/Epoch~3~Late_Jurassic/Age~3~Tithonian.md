@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Age~3~Tithonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.md) 
+### #is_/same_as :: [Age~3~Tithonian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.md) 
 
-### [Age~3~Tithonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.public.md) 
+### #is_/same_as :: [Age~3~Tithonian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.public.md) 
 
-### [Age~3~Tithonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.internal.md) 
+### #is_/same_as :: [Age~3~Tithonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.internal.md) 
 
-### [Age~3~Tithonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.protect.md) 
+### #is_/same_as :: [Age~3~Tithonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.protect.md) 
 
-### [Age~3~Tithonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.private.md) 
+### #is_/same_as :: [Age~3~Tithonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.private.md) 
 
-### [Age~3~Tithonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.personal.md) 
+### #is_/same_as :: [Age~3~Tithonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.personal.md) 
 
-### [Age~3~Tithonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.secret.md)
+### #is_/same_as :: [Age~3~Tithonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.secret.md)
 

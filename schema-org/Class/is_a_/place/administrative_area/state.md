@@ -106,17 +106,17 @@ Tag Instances like this: #is_a_/state
 
 ## Confidential Links & Embeds: 
 
-### [state](/_Standards/schema-org/Class/is_a_/place/administrative_area/state.md) 
+### #is_/same_as :: [state](/_Standards/schema-org/Class/is_a_/place/administrative_area/state.md) 
 
-### [state.public](/_public/schema-org/Class/is_a_/place/administrative_area/state.public.md) 
+### #is_/same_as :: [state.public](/_public/schema-org/Class/is_a_/place/administrative_area/state.public.md) 
 
-### [state.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/state.internal.md) 
+### #is_/same_as :: [state.internal](/_internal/schema-org/Class/is_a_/place/administrative_area/state.internal.md) 
 
-### [state.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/state.protect.md) 
+### #is_/same_as :: [state.protect](/_protect/schema-org/Class/is_a_/place/administrative_area/state.protect.md) 
 
-### [state.private](/_private/schema-org/Class/is_a_/place/administrative_area/state.private.md) 
+### #is_/same_as :: [state.private](/_private/schema-org/Class/is_a_/place/administrative_area/state.private.md) 
 
-### [state.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/state.personal.md) 
+### #is_/same_as :: [state.personal](/_personal/schema-org/Class/is_a_/place/administrative_area/state.personal.md) 
 
-### [state.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/state.secret.md)
+### #is_/same_as :: [state.secret](/_secret/schema-org/Class/is_a_/place/administrative_area/state.secret.md)
 

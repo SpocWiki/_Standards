@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_safety_consideration](/_Standards/schema-org/Property/Texts/has_safety_consideration.md) 
+### #is_/same_as :: [has_safety_consideration](/_Standards/schema-org/Property/Texts/has_safety_consideration.md) 
 
-### [has_safety_consideration.public](/_public/schema-org/Property/Texts/has_safety_consideration.public.md) 
+### #is_/same_as :: [has_safety_consideration.public](/_public/schema-org/Property/Texts/has_safety_consideration.public.md) 
 
-### [has_safety_consideration.internal](/_internal/schema-org/Property/Texts/has_safety_consideration.internal.md) 
+### #is_/same_as :: [has_safety_consideration.internal](/_internal/schema-org/Property/Texts/has_safety_consideration.internal.md) 
 
-### [has_safety_consideration.protect](/_protect/schema-org/Property/Texts/has_safety_consideration.protect.md) 
+### #is_/same_as :: [has_safety_consideration.protect](/_protect/schema-org/Property/Texts/has_safety_consideration.protect.md) 
 
-### [has_safety_consideration.private](/_private/schema-org/Property/Texts/has_safety_consideration.private.md) 
+### #is_/same_as :: [has_safety_consideration.private](/_private/schema-org/Property/Texts/has_safety_consideration.private.md) 
 
-### [has_safety_consideration.personal](/_personal/schema-org/Property/Texts/has_safety_consideration.personal.md) 
+### #is_/same_as :: [has_safety_consideration.personal](/_personal/schema-org/Property/Texts/has_safety_consideration.personal.md) 
 
-### [has_safety_consideration.secret](/_secret/schema-org/Property/Texts/has_safety_consideration.secret.md)
+### #is_/same_as :: [has_safety_consideration.secret](/_secret/schema-org/Property/Texts/has_safety_consideration.secret.md)
 

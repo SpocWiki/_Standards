@@ -52,17 +52,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_role](/_Standards/schema-org/Property/has_name/has_role.md) 
+### #is_/same_as :: [has_role](/_Standards/schema-org/Property/has_name/has_role.md) 
 
-### [has_role.public](/_public/schema-org/Property/has_name/has_role.public.md) 
+### #is_/same_as :: [has_role.public](/_public/schema-org/Property/has_name/has_role.public.md) 
 
-### [has_role.internal](/_internal/schema-org/Property/has_name/has_role.internal.md) 
+### #is_/same_as :: [has_role.internal](/_internal/schema-org/Property/has_name/has_role.internal.md) 
 
-### [has_role.protect](/_protect/schema-org/Property/has_name/has_role.protect.md) 
+### #is_/same_as :: [has_role.protect](/_protect/schema-org/Property/has_name/has_role.protect.md) 
 
-### [has_role.private](/_private/schema-org/Property/has_name/has_role.private.md) 
+### #is_/same_as :: [has_role.private](/_private/schema-org/Property/has_name/has_role.private.md) 
 
-### [has_role.personal](/_personal/schema-org/Property/has_name/has_role.personal.md) 
+### #is_/same_as :: [has_role.personal](/_personal/schema-org/Property/has_name/has_role.personal.md) 
 
-### [has_role.secret](/_secret/schema-org/Property/has_name/has_role.secret.md)
+### #is_/same_as :: [has_role.secret](/_secret/schema-org/Property/has_name/has_role.secret.md)
 

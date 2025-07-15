@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_part_of_system](/_Standards/schema-org/Relation/is/part_of/is_part_of_system.md) 
+### #is_/same_as :: [is_part_of_system](/_Standards/schema-org/Relation/is/part_of/is_part_of_system.md) 
 
-### [is_part_of_system.public](/_public/schema-org/Relation/is/part_of/is_part_of_system.public.md) 
+### #is_/same_as :: [is_part_of_system.public](/_public/schema-org/Relation/is/part_of/is_part_of_system.public.md) 
 
-### [is_part_of_system.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal.md) 
+### #is_/same_as :: [is_part_of_system.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal.md) 
 
-### [is_part_of_system.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_system.protect.md) 
+### #is_/same_as :: [is_part_of_system.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_system.protect.md) 
 
-### [is_part_of_system.private](/_private/schema-org/Relation/is/part_of/is_part_of_system.private.md) 
+### #is_/same_as :: [is_part_of_system.private](/_private/schema-org/Relation/is/part_of/is_part_of_system.private.md) 
 
-### [is_part_of_system.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal.md) 
+### #is_/same_as :: [is_part_of_system.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal.md) 
 
-### [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md)
+### #is_/same_as :: [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md)
 

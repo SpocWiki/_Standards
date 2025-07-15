@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_value_for_eligible_duration](/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration.md) 
+### #is_/same_as :: [has_value_for_eligible_duration](/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration.md) 
 
-### [has_value_for_eligible_duration.public](/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public.md) 
+### #is_/same_as :: [has_value_for_eligible_duration.public](/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public.md) 
 
-### [has_value_for_eligible_duration.internal](/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal.md) 
+### #is_/same_as :: [has_value_for_eligible_duration.internal](/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal.md) 
 
-### [has_value_for_eligible_duration.protect](/_protect/schema-org/Property/has_value_for/has_value_for_eligible_duration.protect.md) 
+### #is_/same_as :: [has_value_for_eligible_duration.protect](/_protect/schema-org/Property/has_value_for/has_value_for_eligible_duration.protect.md) 
 
-### [has_value_for_eligible_duration.private](/_private/schema-org/Property/has_value_for/has_value_for_eligible_duration.private.md) 
+### #is_/same_as :: [has_value_for_eligible_duration.private](/_private/schema-org/Property/has_value_for/has_value_for_eligible_duration.private.md) 
 
-### [has_value_for_eligible_duration.personal](/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal.md) 
+### #is_/same_as :: [has_value_for_eligible_duration.personal](/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal.md) 
 
-### [has_value_for_eligible_duration.secret](/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret.md)
+### #is_/same_as :: [has_value_for_eligible_duration.secret](/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret.md)
 

@@ -35,17 +35,17 @@ A Catholic church.
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CatholicChurch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.md) 
+### #is_/same_as :: [FileClass~CatholicChurch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.md) 
 
-### [FileClass~CatholicChurch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.public.md) 
+### #is_/same_as :: [FileClass~CatholicChurch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.public.md) 
 
-### [FileClass~CatholicChurch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.internal.md) 
+### #is_/same_as :: [FileClass~CatholicChurch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.internal.md) 
 
-### [FileClass~CatholicChurch.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.protect.md) 
+### #is_/same_as :: [FileClass~CatholicChurch.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.protect.md) 
 
-### [FileClass~CatholicChurch.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.private.md) 
+### #is_/same_as :: [FileClass~CatholicChurch.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.private.md) 
 
-### [FileClass~CatholicChurch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.personal.md) 
+### #is_/same_as :: [FileClass~CatholicChurch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.personal.md) 
 
-### [FileClass~CatholicChurch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.secret.md)
+### #is_/same_as :: [FileClass~CatholicChurch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.secret.md)
 

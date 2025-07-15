@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Period~1~Tonian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
+### #is_/same_as :: [Period~1~Tonian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
 
-### [Period~1~Tonian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.public.md) 
+### #is_/same_as :: [Period~1~Tonian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.public.md) 
 
-### [Period~1~Tonian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal.md) 
+### #is_/same_as :: [Period~1~Tonian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal.md) 
 
-### [Period~1~Tonian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.protect.md) 
+### #is_/same_as :: [Period~1~Tonian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.protect.md) 
 
-### [Period~1~Tonian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.private.md) 
+### #is_/same_as :: [Period~1~Tonian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.private.md) 
 
-### [Period~1~Tonian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal.md) 
+### #is_/same_as :: [Period~1~Tonian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal.md) 
 
-### [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md)
+### #is_/same_as :: [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md)
 

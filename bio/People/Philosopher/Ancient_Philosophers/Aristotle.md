@@ -202,23 +202,19 @@ Experience => Thinking => Reality
 > [Wikipedia](https://en.wikipedia.org/wiki/Aristotle)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Aristotle](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Aristotle.md) 
+### #is_/same_as :: [Aristotle](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Aristotle.md) 
 
-### [Aristotle.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Aristotle.public.md) 
+### #is_/same_as :: [Aristotle.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Aristotle.public.md) 
 
-### [Aristotle.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.internal.md) 
+### #is_/same_as :: [Aristotle.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.internal.md) 
 
-### [Aristotle.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Aristotle.protect.md) 
+### #is_/same_as :: [Aristotle.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Aristotle.protect.md) 
 
-### [Aristotle.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Aristotle.private.md) 
+### #is_/same_as :: [Aristotle.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Aristotle.private.md) 
 
-### [Aristotle.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.personal.md) 
+### #is_/same_as :: [Aristotle.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Aristotle.personal.md) 
 
-### [Aristotle.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Aristotle.secret.md)
+### #is_/same_as :: [Aristotle.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Aristotle.secret.md)
 

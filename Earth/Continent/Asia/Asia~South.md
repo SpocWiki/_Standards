@@ -25,17 +25,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Asia~South](/_Standards/Earth/Continent/Asia/Asia~South.md) 
+### #is_/same_as :: [Asia~South](/_Standards/Earth/Continent/Asia/Asia~South.md) 
 
-### [Asia~South.public](/_public/Earth/Continent/Asia/Asia~South.public.md) 
+### #is_/same_as :: [Asia~South.public](/_public/Earth/Continent/Asia/Asia~South.public.md) 
 
-### [Asia~South.internal](/_internal/Earth/Continent/Asia/Asia~South.internal.md) 
+### #is_/same_as :: [Asia~South.internal](/_internal/Earth/Continent/Asia/Asia~South.internal.md) 
 
-### [Asia~South.protect](/_protect/Earth/Continent/Asia/Asia~South.protect.md) 
+### #is_/same_as :: [Asia~South.protect](/_protect/Earth/Continent/Asia/Asia~South.protect.md) 
 
-### [Asia~South.private](/_private/Earth/Continent/Asia/Asia~South.private.md) 
+### #is_/same_as :: [Asia~South.private](/_private/Earth/Continent/Asia/Asia~South.private.md) 
 
-### [Asia~South.personal](/_personal/Earth/Continent/Asia/Asia~South.personal.md) 
+### #is_/same_as :: [Asia~South.personal](/_personal/Earth/Continent/Asia/Asia~South.personal.md) 
 
-### [Asia~South.secret](/_secret/Earth/Continent/Asia/Asia~South.secret.md)
+### #is_/same_as :: [Asia~South.secret](/_secret/Earth/Continent/Asia/Asia~South.secret.md)
 

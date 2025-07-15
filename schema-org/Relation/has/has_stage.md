@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_stage](/_Standards/schema-org/Relation/has/has_stage.md) 
+### #is_/same_as :: [has_stage](/_Standards/schema-org/Relation/has/has_stage.md) 
 
-### [has_stage.public](/_public/schema-org/Relation/has/has_stage.public.md) 
+### #is_/same_as :: [has_stage.public](/_public/schema-org/Relation/has/has_stage.public.md) 
 
-### [has_stage.internal](/_internal/schema-org/Relation/has/has_stage.internal.md) 
+### #is_/same_as :: [has_stage.internal](/_internal/schema-org/Relation/has/has_stage.internal.md) 
 
-### [has_stage.protect](/_protect/schema-org/Relation/has/has_stage.protect.md) 
+### #is_/same_as :: [has_stage.protect](/_protect/schema-org/Relation/has/has_stage.protect.md) 
 
-### [has_stage.private](/_private/schema-org/Relation/has/has_stage.private.md) 
+### #is_/same_as :: [has_stage.private](/_private/schema-org/Relation/has/has_stage.private.md) 
 
-### [has_stage.personal](/_personal/schema-org/Relation/has/has_stage.personal.md) 
+### #is_/same_as :: [has_stage.personal](/_personal/schema-org/Relation/has/has_stage.personal.md) 
 
-### [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md)
+### #is_/same_as :: [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md)
 

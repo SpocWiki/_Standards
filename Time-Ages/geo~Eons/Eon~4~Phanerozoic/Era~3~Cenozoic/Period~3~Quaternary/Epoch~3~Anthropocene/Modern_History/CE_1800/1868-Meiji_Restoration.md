@@ -39,22 +39,19 @@ has_time_started: 1868-06
 > [Wikipedia](https://en.wikipedia.org/wiki/Meiji%20Restoration) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [1868-Meiji_Restoration](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.md) 
+### #is_/same_as :: [1868-Meiji_Restoration](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.md) 
 
-### [1868-Meiji_Restoration.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.public.md) 
+### #is_/same_as :: [1868-Meiji_Restoration.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.public.md) 
 
-### [1868-Meiji_Restoration.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.internal.md) 
+### #is_/same_as :: [1868-Meiji_Restoration.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.internal.md) 
 
-### [1868-Meiji_Restoration.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.protect.md) 
+### #is_/same_as :: [1868-Meiji_Restoration.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.protect.md) 
 
-### [1868-Meiji_Restoration.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.private.md) 
+### #is_/same_as :: [1868-Meiji_Restoration.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.private.md) 
 
-### [1868-Meiji_Restoration.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.personal.md) 
+### #is_/same_as :: [1868-Meiji_Restoration.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.personal.md) 
 
-### [1868-Meiji_Restoration.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.secret.md)
+### #is_/same_as :: [1868-Meiji_Restoration.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.secret.md)
 

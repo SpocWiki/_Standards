@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_educational_alignment](/_Standards/schema-org/Relation/has/has_educational_alignment.md) 
+### #is_/same_as :: [has_educational_alignment](/_Standards/schema-org/Relation/has/has_educational_alignment.md) 
 
-### [has_educational_alignment.public](/_public/schema-org/Relation/has/has_educational_alignment.public.md) 
+### #is_/same_as :: [has_educational_alignment.public](/_public/schema-org/Relation/has/has_educational_alignment.public.md) 
 
-### [has_educational_alignment.internal](/_internal/schema-org/Relation/has/has_educational_alignment.internal.md) 
+### #is_/same_as :: [has_educational_alignment.internal](/_internal/schema-org/Relation/has/has_educational_alignment.internal.md) 
 
-### [has_educational_alignment.protect](/_protect/schema-org/Relation/has/has_educational_alignment.protect.md) 
+### #is_/same_as :: [has_educational_alignment.protect](/_protect/schema-org/Relation/has/has_educational_alignment.protect.md) 
 
-### [has_educational_alignment.private](/_private/schema-org/Relation/has/has_educational_alignment.private.md) 
+### #is_/same_as :: [has_educational_alignment.private](/_private/schema-org/Relation/has/has_educational_alignment.private.md) 
 
-### [has_educational_alignment.personal](/_personal/schema-org/Relation/has/has_educational_alignment.personal.md) 
+### #is_/same_as :: [has_educational_alignment.personal](/_personal/schema-org/Relation/has/has_educational_alignment.personal.md) 
 
-### [has_educational_alignment.secret](/_secret/schema-org/Relation/has/has_educational_alignment.secret.md)
+### #is_/same_as :: [has_educational_alignment.secret](/_secret/schema-org/Relation/has/has_educational_alignment.secret.md)
 

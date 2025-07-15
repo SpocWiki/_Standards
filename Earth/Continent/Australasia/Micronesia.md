@@ -280,17 +280,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Micronesia](/_Standards/Earth/Continent/Australasia/Micronesia.md) 
+### #is_/same_as :: [Micronesia](/_Standards/Earth/Continent/Australasia/Micronesia.md) 
 
-### [Micronesia.public](/_public/Earth/Continent/Australasia/Micronesia.public.md) 
+### #is_/same_as :: [Micronesia.public](/_public/Earth/Continent/Australasia/Micronesia.public.md) 
 
-### [Micronesia.internal](/_internal/Earth/Continent/Australasia/Micronesia.internal.md) 
+### #is_/same_as :: [Micronesia.internal](/_internal/Earth/Continent/Australasia/Micronesia.internal.md) 
 
-### [Micronesia.protect](/_protect/Earth/Continent/Australasia/Micronesia.protect.md) 
+### #is_/same_as :: [Micronesia.protect](/_protect/Earth/Continent/Australasia/Micronesia.protect.md) 
 
-### [Micronesia.private](/_private/Earth/Continent/Australasia/Micronesia.private.md) 
+### #is_/same_as :: [Micronesia.private](/_private/Earth/Continent/Australasia/Micronesia.private.md) 
 
-### [Micronesia.personal](/_personal/Earth/Continent/Australasia/Micronesia.personal.md) 
+### #is_/same_as :: [Micronesia.personal](/_personal/Earth/Continent/Australasia/Micronesia.personal.md) 
 
-### [Micronesia.secret](/_secret/Earth/Continent/Australasia/Micronesia.secret.md)
+### #is_/same_as :: [Micronesia.secret](/_secret/Earth/Continent/Australasia/Micronesia.secret.md)
 

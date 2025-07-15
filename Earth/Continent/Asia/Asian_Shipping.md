@@ -35,17 +35,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### [Asian_Shipping](/_Standards/Earth/Continent/Asia/Asian_Shipping.md) 
+### #is_/same_as :: [Asian_Shipping](/_Standards/Earth/Continent/Asia/Asian_Shipping.md) 
 
-### [Asian_Shipping.public](/_public/Earth/Continent/Asia/Asian_Shipping.public.md) 
+### #is_/same_as :: [Asian_Shipping.public](/_public/Earth/Continent/Asia/Asian_Shipping.public.md) 
 
-### [Asian_Shipping.internal](/_internal/Earth/Continent/Asia/Asian_Shipping.internal.md) 
+### #is_/same_as :: [Asian_Shipping.internal](/_internal/Earth/Continent/Asia/Asian_Shipping.internal.md) 
 
-### [Asian_Shipping.protect](/_protect/Earth/Continent/Asia/Asian_Shipping.protect.md) 
+### #is_/same_as :: [Asian_Shipping.protect](/_protect/Earth/Continent/Asia/Asian_Shipping.protect.md) 
 
-### [Asian_Shipping.private](/_private/Earth/Continent/Asia/Asian_Shipping.private.md) 
+### #is_/same_as :: [Asian_Shipping.private](/_private/Earth/Continent/Asia/Asian_Shipping.private.md) 
 
-### [Asian_Shipping.personal](/_personal/Earth/Continent/Asia/Asian_Shipping.personal.md) 
+### #is_/same_as :: [Asian_Shipping.personal](/_personal/Earth/Continent/Asia/Asian_Shipping.personal.md) 
 
-### [Asian_Shipping.secret](/_secret/Earth/Continent/Asia/Asian_Shipping.secret.md)
+### #is_/same_as :: [Asian_Shipping.secret](/_secret/Earth/Continent/Asia/Asian_Shipping.secret.md)
 

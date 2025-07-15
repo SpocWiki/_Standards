@@ -47,17 +47,17 @@ Ultrasound imaging.
 
 ## Confidential Links & Embeds: 
 
-### [ultrasound](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md) 
+### #is_/same_as :: [ultrasound](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md) 
 
-### [ultrasound.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.public.md) 
+### #is_/same_as :: [ultrasound.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.public.md) 
 
-### [ultrasound.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.internal.md) 
+### #is_/same_as :: [ultrasound.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.internal.md) 
 
-### [ultrasound.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.protect.md) 
+### #is_/same_as :: [ultrasound.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.protect.md) 
 
-### [ultrasound.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.private.md) 
+### #is_/same_as :: [ultrasound.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.private.md) 
 
-### [ultrasound.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.personal.md) 
+### #is_/same_as :: [ultrasound.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.personal.md) 
 
-### [ultrasound.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.secret.md)
+### #is_/same_as :: [ultrasound.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.secret.md)
 
