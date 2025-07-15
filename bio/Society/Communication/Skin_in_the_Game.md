@@ -18,3 +18,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Skin_in_the_Game](/_Standards/bio/Society/Communication/Skin_in_the_Game.md) 
+
+### [Skin_in_the_Game.public](/_public/bio/Society/Communication/Skin_in_the_Game.public.md) 
+
+### [Skin_in_the_Game.internal](/_internal/bio/Society/Communication/Skin_in_the_Game.internal.md) 
+
+### [Skin_in_the_Game.protect](/_protect/bio/Society/Communication/Skin_in_the_Game.protect.md) 
+
+### [Skin_in_the_Game.private](/_private/bio/Society/Communication/Skin_in_the_Game.private.md) 
+
+### [Skin_in_the_Game.personal](/_personal/bio/Society/Communication/Skin_in_the_Game.personal.md) 
+
+### [Skin_in_the_Game.secret](/_secret/bio/Society/Communication/Skin_in_the_Game.secret.md)
+

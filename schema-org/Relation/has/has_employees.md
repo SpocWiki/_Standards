@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 #is_/inverse_of :: [[has_employer]] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_employees](/_public/schema-org/Relation/has/has_employees.md) 
+### [has_employees](/_Standards/schema-org/Relation/has/has_employees.md) 
+
+### [has_employees.public](/_public/schema-org/Relation/has/has_employees.public.md) 
 
 ### [has_employees.internal](/_internal/schema-org/Relation/has/has_employees.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_employees.personal](/_personal/schema-org/Relation/has/has_employees.personal.md) 
 
-### [has_employees.secret](/_secret/schema-org/Relation/has/has_employees.secret.md) 
+### [has_employees.secret](/_secret/schema-org/Relation/has/has_employees.secret.md)
+

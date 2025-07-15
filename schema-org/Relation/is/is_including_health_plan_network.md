@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_including_health_plan_network)
 ( #has_/range :: HealthPlanNetwork)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_including_health_plan_network](/_public/schema-org/Relation/is/is_including_health_plan_network.md) 
+### [is_including_health_plan_network](/_Standards/schema-org/Relation/is/is_including_health_plan_network.md) 
+
+### [is_including_health_plan_network.public](/_public/schema-org/Relation/is/is_including_health_plan_network.public.md) 
 
 ### [is_including_health_plan_network.internal](/_internal/schema-org/Relation/is/is_including_health_plan_network.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_including_health_plan_network.personal](/_personal/schema-org/Relation/is/is_including_health_plan_network.personal.md) 
 
-### [is_including_health_plan_network.secret](/_secret/schema-org/Relation/is/is_including_health_plan_network.secret.md) 
+### [is_including_health_plan_network.secret](/_secret/schema-org/Relation/is/is_including_health_plan_network.secret.md)
+

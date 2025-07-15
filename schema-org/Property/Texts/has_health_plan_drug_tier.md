@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_health_plan_drug_tier )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_health_plan_drug_tier](/_public/schema-org/Property/Texts/has_health_plan_drug_tier.md) 
+### [has_health_plan_drug_tier](/_Standards/schema-org/Property/Texts/has_health_plan_drug_tier.md) 
+
+### [has_health_plan_drug_tier.public](/_public/schema-org/Property/Texts/has_health_plan_drug_tier.public.md) 
 
 ### [has_health_plan_drug_tier.internal](/_internal/schema-org/Property/Texts/has_health_plan_drug_tier.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_health_plan_drug_tier.personal](/_personal/schema-org/Property/Texts/has_health_plan_drug_tier.personal.md) 
 
-### [has_health_plan_drug_tier.secret](/_secret/schema-org/Property/Texts/has_health_plan_drug_tier.secret.md) 
+### [has_health_plan_drug_tier.secret](/_secret/schema-org/Property/Texts/has_health_plan_drug_tier.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_production)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_production](/_public/schema-org/Property/has_Date_Time/has_time_of_production.md) 
+### [has_time_of_production](/_Standards/schema-org/Property/has_Date_Time/has_time_of_production.md) 
+
+### [has_time_of_production.public](/_public/schema-org/Property/has_Date_Time/has_time_of_production.public.md) 
 
 ### [has_time_of_production.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_production.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_production.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_production.personal.md) 
 
-### [has_time_of_production.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_production.secret.md) 
+### [has_time_of_production.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_production.secret.md)
+

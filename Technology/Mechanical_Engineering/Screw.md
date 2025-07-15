@@ -15,3 +15,20 @@ has_id_wikidata: Q11022
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Screw) 
 
+
+## Confidential Links & Embeds: 
+
+### [Screw](/_Standards/Technology/Mechanical_Engineering/Screw.md) 
+
+### [Screw.public](/_public/Technology/Mechanical_Engineering/Screw.public.md) 
+
+### [Screw.internal](/_internal/Technology/Mechanical_Engineering/Screw.internal.md) 
+
+### [Screw.protect](/_protect/Technology/Mechanical_Engineering/Screw.protect.md) 
+
+### [Screw.private](/_private/Technology/Mechanical_Engineering/Screw.private.md) 
+
+### [Screw.personal](/_personal/Technology/Mechanical_Engineering/Screw.personal.md) 
+
+### [Screw.secret](/_secret/Technology/Mechanical_Engineering/Screw.secret.md)
+

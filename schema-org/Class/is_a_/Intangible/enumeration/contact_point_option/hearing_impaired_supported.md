@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Uses devices to support users with hearing impairments.
 
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hearing_impaired_supported](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.md) 
+### [hearing_impaired_supported](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.md) 
+
+### [hearing_impaired_supported.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.public.md) 
 
 ### [hearing_impaired_supported.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md) 
 
@@ -56,4 +59,5 @@ Uses devices to support users with hearing impairments.
 
 ### [hearing_impaired_supported.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.personal.md) 
 
-### [hearing_impaired_supported.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md) 
+### [hearing_impaired_supported.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md)
+

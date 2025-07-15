@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A statistical distribution of values.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [quantitative_value_distribution](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.md) 
+### [quantitative_value_distribution](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.md) 
+
+### [quantitative_value_distribution.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.public.md) 
 
 ### [quantitative_value_distribution.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.internal.md) 
 
@@ -56,4 +59,5 @@ A statistical distribution of values.
 
 ### [quantitative_value_distribution.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.personal.md) 
 
-### [quantitative_value_distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.secret.md) 
+### [quantitative_value_distribution.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value_distribution.secret.md)
+

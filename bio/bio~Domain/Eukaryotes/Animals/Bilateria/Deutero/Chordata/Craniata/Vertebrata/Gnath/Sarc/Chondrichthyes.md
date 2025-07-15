@@ -52,3 +52,22 @@ start_time: -430000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Chondrichthyes) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chondrichthyes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.md) 
+
+### [Chondrichthyes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.public.md) 
+
+### [Chondrichthyes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.internal.md) 
+
+### [Chondrichthyes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.protect.md) 
+
+### [Chondrichthyes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.private.md) 
+
+### [Chondrichthyes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.personal.md) 
+
+### [Chondrichthyes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_available_through)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_available_through](/_public/schema-org/Property/has_Date_Time/has_time_available_through.md) 
+### [has_time_available_through](/_Standards/schema-org/Property/has_Date_Time/has_time_available_through.md) 
+
+### [has_time_available_through.public](/_public/schema-org/Property/has_Date_Time/has_time_available_through.public.md) 
 
 ### [has_time_available_through.internal](/_internal/schema-org/Property/has_Date_Time/has_time_available_through.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_available_through.personal](/_personal/schema-org/Property/has_Date_Time/has_time_available_through.personal.md) 
 
-### [has_time_available_through.secret](/_secret/schema-org/Property/has_Date_Time/has_time_available_through.secret.md) 
+### [has_time_available_through.secret](/_secret/schema-org/Property/has_Date_Time/has_time_available_through.secret.md)
+

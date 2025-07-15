@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.63 , 134.65 ] 
 type: geo-Region
 title: Ngaraard
@@ -41,7 +41,9 @@ markerFolder: ./Ngaraard/
 
 ## Confidential Links & Embeds: 
 
-### [Ngaraard](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.md) 
+### [Ngaraard](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.md) 
+
+### [Ngaraard.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.public.md) 
 
 ### [Ngaraard.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngaraard/
 
 ### [Ngaraard.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.personal.md) 
 
-### [Ngaraard.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.secret.md) 
+### [Ngaraard.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.secret.md)
+

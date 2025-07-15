@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21924
 has_id_wikidata: Q725
@@ -165,11 +165,11 @@ time_of_discovery_or_invention: "1797"
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Chromium](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
+### [Chromium](/_Standards/chemic/chemic~Elements/Group-06-Chromium/Chromium.md) 
+
+### [Chromium.public](/_public/chemic/chemic~Elements/Group-06-Chromium/Chromium.public.md) 
 
 ### [Chromium.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Chromium.internal.md) 
 
@@ -179,4 +179,5 @@ time_of_discovery_or_invention: "1797"
 
 ### [Chromium.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Chromium.personal.md) 
 
-### [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md) 
+### [Chromium.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Chromium.secret.md)
+

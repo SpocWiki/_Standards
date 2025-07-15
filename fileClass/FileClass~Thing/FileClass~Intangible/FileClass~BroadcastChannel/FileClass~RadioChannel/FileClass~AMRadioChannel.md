@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A radio channel that uses AM.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AMRadioChannel](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.md) 
+### [FileClass~AMRadioChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.md) 
+
+### [FileClass~AMRadioChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.public.md) 
 
 ### [FileClass~AMRadioChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.internal.md) 
 
@@ -46,4 +47,5 @@ A radio channel that uses AM.
 
 ### [FileClass~AMRadioChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.personal.md) 
 
-### [FileClass~AMRadioChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.secret.md) 
+### [FileClass~AMRadioChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel/FileClass~AMRadioChannel.secret.md)
+

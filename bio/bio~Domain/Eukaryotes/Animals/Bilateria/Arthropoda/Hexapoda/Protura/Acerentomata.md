@@ -51,3 +51,22 @@ aliases:
     -   [Protentomidae](Protentomidae.md)
     -   [Acerentomidae](Acerentomidae.md)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Acerentomata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.md) 
+
+### [Acerentomata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.public.md) 
+
+### [Acerentomata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.internal.md) 
+
+### [Acerentomata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.protect.md) 
+
+### [Acerentomata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.private.md) 
+
+### [Acerentomata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.personal.md) 
+
+### [Acerentomata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata.secret.md)
+

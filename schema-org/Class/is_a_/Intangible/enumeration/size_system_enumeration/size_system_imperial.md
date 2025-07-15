@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Imperial size system.
 
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [size_system_imperial](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.md) 
+### [size_system_imperial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.md) 
+
+### [size_system_imperial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.public.md) 
 
 ### [size_system_imperial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md) 
 
@@ -58,4 +61,5 @@ Imperial size system.
 
 ### [size_system_imperial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md) 
 
-### [size_system_imperial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md) 
+### [size_system_imperial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md)
+

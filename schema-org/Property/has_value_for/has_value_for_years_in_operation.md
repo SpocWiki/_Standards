@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_years_in_operation )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_years_in_operation](/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.md) 
+### [has_value_for_years_in_operation](/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation.md) 
+
+### [has_value_for_years_in_operation.public](/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public.md) 
 
 ### [has_value_for_years_in_operation.internal](/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_years_in_operation.personal](/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal.md) 
 
-### [has_value_for_years_in_operation.secret](/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret.md) 
+### [has_value_for_years_in_operation.secret](/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret.md)
+

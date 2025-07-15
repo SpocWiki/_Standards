@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A trial that takes place at a single center.
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [single_center_trial](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.md) 
+### [single_center_trial](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.md) 
+
+### [single_center_trial.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.public.md) 
 
 ### [single_center_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.internal.md) 
 
@@ -56,4 +59,5 @@ A trial that takes place at a single center.
 
 ### [single_center_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.personal.md) 
 
-### [single_center_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.secret.md) 
+### [single_center_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/single_center_trial.secret.md)
+

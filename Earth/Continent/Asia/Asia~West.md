@@ -1,4 +1,4 @@
-﻿
+
 # [[Asia~West]]
 
 ```leaflet
@@ -22,9 +22,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Asia~West](/_public/Earth/Continent/Asia/Asia~West.md) 
+### [Asia~West](/_Standards/Earth/Continent/Asia/Asia~West.md) 
+
+### [Asia~West.public](/_public/Earth/Continent/Asia/Asia~West.public.md) 
 
 ### [Asia~West.internal](/_internal/Earth/Continent/Asia/Asia~West.internal.md) 
 
@@ -34,4 +37,5 @@ type: folder_brief_live
 
 ### [Asia~West.personal](/_personal/Earth/Continent/Asia/Asia~West.personal.md) 
 
-### [Asia~West.secret](/_secret/Earth/Continent/Asia/Asia~West.secret.md) 
+### [Asia~West.secret](/_secret/Earth/Continent/Asia/Asia~West.secret.md)
+

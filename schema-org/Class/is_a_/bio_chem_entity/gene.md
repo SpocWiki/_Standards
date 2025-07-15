@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-spe
 
 [ #has_/properties :: [ additionalType, alternateName, alternativeOf, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, encodesBioChemEntity, expressedIn, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [gene](/_public/schema-org/Class/is_a_/bio_chem_entity/gene.md) 
+### [gene](/_Standards/schema-org/Class/is_a_/bio_chem_entity/gene.md) 
+
+### [gene.public](/_public/schema-org/Class/is_a_/bio_chem_entity/gene.public.md) 
 
 ### [gene.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/gene.internal.md) 
 
@@ -59,4 +62,5 @@ Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-spe
 
 ### [gene.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/gene.personal.md) 
 
-### [gene.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/gene.secret.md) 
+### [gene.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/gene.secret.md)
+

@@ -131,3 +131,22 @@ Scientific Name ::     Leiopelma hamiltoni
 Specimen Condition   Dead Specimen
 Body Part            Cleared and stained skeleton
 Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Leiopelma](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.md) 
+
+### [Leiopelma.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.public.md) 
+
+### [Leiopelma.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.internal.md) 
+
+### [Leiopelma.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.protect.md) 
+
+### [Leiopelma.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.private.md) 
+
+### [Leiopelma.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.personal.md) 
+
+### [Leiopelma.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Leiopelma.secret.md)
+

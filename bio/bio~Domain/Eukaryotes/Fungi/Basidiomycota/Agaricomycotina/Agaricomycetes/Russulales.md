@@ -31,3 +31,21 @@ title: Russulales
 coming soon!
 
 Containing group: [Agaricomycetes](Agaricomycetes.md)
+
+
+## Confidential Links & Embeds: 
+
+### [Russulales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.md) 
+
+### [Russulales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.public.md) 
+
+### [Russulales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.internal.md) 
+
+### [Russulales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.protect.md) 
+
+### [Russulales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.private.md) 
+
+### [Russulales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.personal.md) 
+
+### [Russulales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Russulales.secret.md)
+

@@ -455,9 +455,12 @@ Capital :: [[Monrovia]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liberia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Liberia](/_public/Earth/Continent/Africa/Africa~West/Liberia.md) 
+### [Liberia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia.md) 
+
+### [Liberia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia.public.md) 
 
 ### [Liberia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal.md) 
 
@@ -467,4 +470,5 @@ Capital :: [[Monrovia]]
 
 ### [Liberia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal.md) 
 
-### [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md) 
+### [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md)
+

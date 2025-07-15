@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A process of care using radiation aimed at improving a health condition.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RadiationTherapy](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.md) 
+### [FileClass~RadiationTherapy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.md) 
+
+### [FileClass~RadiationTherapy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.public.md) 
 
 ### [FileClass~RadiationTherapy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.internal.md) 
 
@@ -46,4 +47,5 @@ A process of care using radiation aimed at improving a health condition.
 
 ### [FileClass~RadiationTherapy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.personal.md) 
 
-### [FileClass~RadiationTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.secret.md) 
+### [FileClass~RadiationTherapy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~RadiationTherapy.secret.md)
+

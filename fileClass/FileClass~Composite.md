@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 icon: component
@@ -21,9 +21,13 @@ fields:
 ---
 
 Components:: {"type":"MultiFile","options":{}}
+
+
 ## Confidential Links & Embeds: 
 
-### [FileClass~Composite](/_public/fileClass/FileClass~Composite.md) 
+### [FileClass~Composite](/_Standards/fileClass/FileClass~Composite.md) 
+
+### [FileClass~Composite.public](/_public/fileClass/FileClass~Composite.public.md) 
 
 ### [FileClass~Composite.internal](/_internal/fileClass/FileClass~Composite.internal.md) 
 
@@ -33,4 +37,5 @@ Components:: {"type":"MultiFile","options":{}}
 
 ### [FileClass~Composite.personal](/_personal/fileClass/FileClass~Composite.personal.md) 
 
-### [FileClass~Composite.secret](/_secret/fileClass/FileClass~Composite.secret.md) 
+### [FileClass~Composite.secret](/_secret/fileClass/FileClass~Composite.secret.md)
+

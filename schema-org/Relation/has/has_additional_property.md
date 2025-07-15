@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_additional_property )
 ( #has_/range :: PropertyValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_additional_property](/_public/schema-org/Relation/has/has_additional_property.md) 
+### [has_additional_property](/_Standards/schema-org/Relation/has/has_additional_property.md) 
+
+### [has_additional_property.public](/_public/schema-org/Relation/has/has_additional_property.public.md) 
 
 ### [has_additional_property.internal](/_internal/schema-org/Relation/has/has_additional_property.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_additional_property.personal](/_personal/schema-org/Relation/has/has_additional_property.personal.md) 
 
-### [has_additional_property.secret](/_secret/schema-org/Relation/has/has_additional_property.secret.md) 
+### [has_additional_property.secret](/_secret/schema-org/Relation/has/has_additional_property.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_message_attachment )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_message_attachment](/_public/schema-org/Relation/has/has_message_attachment.md) 
+### [has_message_attachment](/_Standards/schema-org/Relation/has/has_message_attachment.md) 
+
+### [has_message_attachment.public](/_public/schema-org/Relation/has/has_message_attachment.public.md) 
 
 ### [has_message_attachment.internal](/_internal/schema-org/Relation/has/has_message_attachment.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_message_attachment.personal](/_personal/schema-org/Relation/has/has_message_attachment.personal.md) 
 
-### [has_message_attachment.secret](/_secret/schema-org/Relation/has/has_message_attachment.secret.md) 
+### [has_message_attachment.secret](/_secret/schema-org/Relation/has/has_message_attachment.secret.md)
+

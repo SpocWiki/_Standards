@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 [ #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [diagnostic_procedure](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.md) 
+### [diagnostic_procedure](/_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.md) 
+
+### [diagnostic_procedure.public](/_public/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.public.md) 
 
 ### [diagnostic_procedure.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.internal.md) 
 
@@ -54,4 +57,5 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 ### [diagnostic_procedure.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.personal.md) 
 
-### [diagnostic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md) 
+### [diagnostic_procedure.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md)
+

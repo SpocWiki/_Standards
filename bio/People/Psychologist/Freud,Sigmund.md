@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sigmund Freud"
 - "Sigismund Schlomo Freud"
@@ -160,4 +160,23 @@ plaque_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Stele%20-%20Si
 > Though in overall decline as a diagnostic and clinical practice, psychoanalysis remains influential within psychology, psychiatry, psychotherapy, and across the humanities. It thus continues to generate extensive and highly contested debate concerning its therapeutic efficacy, its scientific status, and whether it advances or hinders the feminist cause. Nonetheless, Freud's work has suffused contemporary Western thought and popular culture. W. H. Auden's 1940 poetic tribute to Freud describes him as having created "a whole climate of opinion / under whom we conduct our different lives".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sigmund%20Freud)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Freud,Sigmund](/_Standards/bio/People/Psychologist/Freud,Sigmund.md) 
+
+### [Freud,Sigmund.public](/_public/bio/People/Psychologist/Freud,Sigmund.public.md) 
+
+### [Freud,Sigmund.internal](/_internal/bio/People/Psychologist/Freud,Sigmund.internal.md) 
+
+### [Freud,Sigmund.protect](/_protect/bio/People/Psychologist/Freud,Sigmund.protect.md) 
+
+### [Freud,Sigmund.private](/_private/bio/People/Psychologist/Freud,Sigmund.private.md) 
+
+### [Freud,Sigmund.personal](/_personal/bio/People/Psychologist/Freud,Sigmund.personal.md) 
+
+### [Freud,Sigmund.secret](/_secret/bio/People/Psychologist/Freud,Sigmund.secret.md)
 

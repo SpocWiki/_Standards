@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - location vector
   - radius vector
@@ -34,10 +34,11 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Position%20(geometry))
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Position-Vector](/_public/Mathematics/Geometry/Position-Vector.md) 
+### [Position-Vector](/_Standards/Mathematics/Geometry/Position-Vector.md) 
+
+### [Position-Vector.public](/_public/Mathematics/Geometry/Position-Vector.public.md) 
 
 ### [Position-Vector.internal](/_internal/Mathematics/Geometry/Position-Vector.internal.md) 
 
@@ -47,4 +48,5 @@ aliases:
 
 ### [Position-Vector.personal](/_personal/Mathematics/Geometry/Position-Vector.personal.md) 
 
-### [Position-Vector.secret](/_secret/Mathematics/Geometry/Position-Vector.secret.md) 
+### [Position-Vector.secret](/_secret/Mathematics/Geometry/Position-Vector.secret.md)
+

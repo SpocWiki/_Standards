@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ Capital :: [[Paris]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [France~Metropolitan](/_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.md) 
+### [France~Metropolitan](/_Standards/Earth/Continent/Europe/Europe~West/France~Metropolitan.md) 
+
+### [France~Metropolitan.public](/_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.public.md) 
 
 ### [France~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~West/France~Metropolitan.internal.md) 
 
@@ -46,4 +47,5 @@ Capital :: [[Paris]]
 
 ### [France~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~West/France~Metropolitan.personal.md) 
 
-### [France~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret.md) 
+### [France~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::Nilo-Saharan]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Nilo-Saharan](/_public/Language/Lang~Family/LangFamily-Nilo-Saharan.md) 
+### [LangFamily-Nilo-Saharan](/_Standards/Language/Lang~Family/LangFamily-Nilo-Saharan.md) 
+
+### [LangFamily-Nilo-Saharan.public](/_public/Language/Lang~Family/LangFamily-Nilo-Saharan.public.md) 
 
 ### [LangFamily-Nilo-Saharan.internal](/_internal/Language/Lang~Family/LangFamily-Nilo-Saharan.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-Nilo-Saharan.personal](/_personal/Language/Lang~Family/LangFamily-Nilo-Saharan.personal.md) 
 
-### [LangFamily-Nilo-Saharan.secret](/_secret/Language/Lang~Family/LangFamily-Nilo-Saharan.secret.md) 
+### [LangFamily-Nilo-Saharan.secret](/_secret/Language/Lang~Family/LangFamily-Nilo-Saharan.secret.md)
+

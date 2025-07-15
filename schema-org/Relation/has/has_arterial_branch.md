@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: has_arterial_branch )
 ( #has_/range :: AnatomicalStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_arterial_branch](/_public/schema-org/Relation/has/has_arterial_branch.md) 
+### [has_arterial_branch](/_Standards/schema-org/Relation/has/has_arterial_branch.md) 
+
+### [has_arterial_branch.public](/_public/schema-org/Relation/has/has_arterial_branch.public.md) 
 
 ### [has_arterial_branch.internal](/_internal/schema-org/Relation/has/has_arterial_branch.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_arterial_branch.personal](/_personal/schema-org/Relation/has/has_arterial_branch.personal.md) 
 
-### [has_arterial_branch.secret](/_secret/schema-org/Relation/has/has_arterial_branch.secret.md) 
+### [has_arterial_branch.secret](/_secret/schema-org/Relation/has/has_arterial_branch.secret.md)
+

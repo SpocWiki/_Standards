@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A photograph.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Photograph](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.md) 
+### [FileClass~Photograph](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.md) 
+
+### [FileClass~Photograph.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.public.md) 
 
 ### [FileClass~Photograph.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.internal.md) 
 
@@ -46,4 +47,5 @@ A photograph.
 
 ### [FileClass~Photograph.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.personal.md) 
 
-### [FileClass~Photograph.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.secret.md) 
+### [FileClass~Photograph.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Photograph.secret.md)
+

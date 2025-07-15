@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of conveying information to another person via a communication medium (i
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [communicate_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
+### [communicate_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
+
+### [communicate_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.public.md) 
 
 ### [communicate_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of conveying information to another person via a communication medium (i
 
 ### [communicate_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action.personal.md) 
 
-### [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md) 
+### [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md)
+

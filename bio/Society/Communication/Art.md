@@ -97,3 +97,22 @@ GitHub_topic: art
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Art) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Art](/_Standards/bio/Society/Communication/Art.md) 
+
+### [Art.public](/_public/bio/Society/Communication/Art.public.md) 
+
+### [Art.internal](/_internal/bio/Society/Communication/Art.internal.md) 
+
+### [Art.protect](/_protect/bio/Society/Communication/Art.protect.md) 
+
+### [Art.private](/_private/bio/Society/Communication/Art.private.md) 
+
+### [Art.personal](/_personal/bio/Society/Communication/Art.personal.md) 
+
+### [Art.secret](/_secret/bio/Society/Communication/Art.secret.md)
+

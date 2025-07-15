@@ -1,4 +1,4 @@
-﻿#[[Chemist]]] 
+#[[Chemist]]] 
 
 > A chemist (from Greek chēm(ía) alchemy; 
 > replacing chymist from Medieval Latin alchemist) 
@@ -40,14 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Chemists](/_public/chemic/Chemists.md) 
+### [Chemist](/_Standards/chemic/Chemist.md) 
 
-### [Chemists.internal](/_internal/chemic/Chemists.internal.md) 
+### [Chemist.public](/_public/chemic/Chemist.public.md) 
 
-### [Chemists.protect](/_protect/chemic/Chemists.protect.md) 
+### [Chemist.internal](/_internal/chemic/Chemist.internal.md) 
 
-### [Chemists.private](/_private/chemic/Chemists.private.md) 
+### [Chemist.protect](/_protect/chemic/Chemist.protect.md) 
 
-### [Chemists.personal](/_personal/chemic/Chemists.personal.md) 
+### [Chemist.private](/_private/chemic/Chemist.private.md) 
 
-### [Chemists.secret](/_secret/chemic/Chemists.secret.md) 
+### [Chemist.personal](/_personal/chemic/Chemist.personal.md) 
+
+### [Chemist.secret](/_secret/chemic/Chemist.secret.md)
+

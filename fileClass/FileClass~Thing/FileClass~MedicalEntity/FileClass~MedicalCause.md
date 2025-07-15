@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The condition, complication, symptom, sign, etc. caused.
 CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalCause](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.md) 
+### [FileClass~MedicalCause](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.md) 
+
+### [FileClass~MedicalCause.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.public.md) 
 
 ### [FileClass~MedicalCause.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.internal.md) 
 
@@ -57,4 +58,5 @@ CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### [FileClass~MedicalCause.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.personal.md) 
 
-### [FileClass~MedicalCause.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret.md) 
+### [FileClass~MedicalCause.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCause.secret.md)
+

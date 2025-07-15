@@ -562,9 +562,12 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bangladesh)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bangladesh](/_public/Earth/Continent/Asia/Asia~South/Bangladesh.md) 
+### [Bangladesh](/_Standards/Earth/Continent/Asia/Asia~South/Bangladesh.md) 
+
+### [Bangladesh.public](/_public/Earth/Continent/Asia/Asia~South/Bangladesh.public.md) 
 
 ### [Bangladesh.internal](/_internal/Earth/Continent/Asia/Asia~South/Bangladesh.internal.md) 
 
@@ -574,4 +577,5 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 ### [Bangladesh.personal](/_personal/Earth/Continent/Asia/Asia~South/Bangladesh.personal.md) 
 
-### [Bangladesh.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret.md) 
+### [Bangladesh.secret](/_secret/Earth/Continent/Asia/Asia~South/Bangladesh.secret.md)
+

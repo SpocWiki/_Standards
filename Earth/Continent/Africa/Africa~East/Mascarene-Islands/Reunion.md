@@ -55,10 +55,11 @@ Capital :: [[Saint_Denis]]
 [has_place_latitude::-20.8833]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Reunion](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.md) 
+### [Reunion](/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.md) 
+
+### [Reunion.public](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.public.md) 
 
 ### [Reunion.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.internal.md) 
 
@@ -68,4 +69,5 @@ Capital :: [[Saint_Denis]]
 
 ### [Reunion.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.personal.md) 
 
-### [Reunion.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.secret.md) 
+### [Reunion.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.secret.md)
+

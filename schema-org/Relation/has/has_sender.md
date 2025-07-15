@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sender](/_public/schema-org/Relation/has/has_sender.md) 
+### [has_sender](/_Standards/schema-org/Relation/has/has_sender.md) 
+
+### [has_sender.public](/_public/schema-org/Relation/has/has_sender.public.md) 
 
 ### [has_sender.internal](/_internal/schema-org/Relation/has/has_sender.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_sender.personal](/_personal/schema-org/Relation/has/has_sender.personal.md) 
 
-### [has_sender.secret](/_secret/schema-org/Relation/has/has_sender.secret.md) 
+### [has_sender.secret](/_secret/schema-org/Relation/has/has_sender.secret.md)
+

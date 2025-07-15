@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Speed]] 
 
 Speed is the first Derivative of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
@@ -8,7 +8,9 @@ Speed is the first Derivative of the [[../../Mathematics/Geometry/Position-Vecto
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Speed](/_public/Dimension/Linear_Dimension/Dim~Speed.md) 
+### [Dim~Speed](/_Standards/Dimension/Linear_Dimension/Dim~Speed.md) 
+
+### [Dim~Speed.public](/_public/Dimension/Linear_Dimension/Dim~Speed.public.md) 
 
 ### [Dim~Speed.internal](/_internal/Dimension/Linear_Dimension/Dim~Speed.internal.md) 
 
@@ -18,4 +20,5 @@ Speed is the first Derivative of the [[../../Mathematics/Geometry/Position-Vecto
 
 ### [Dim~Speed.personal](/_personal/Dimension/Linear_Dimension/Dim~Speed.personal.md) 
 
-### [Dim~Speed.secret](/_secret/Dimension/Linear_Dimension/Dim~Speed.secret.md) 
+### [Dim~Speed.secret](/_secret/Dimension/Linear_Dimension/Dim~Speed.secret.md)
+

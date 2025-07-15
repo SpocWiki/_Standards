@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A Hindu temple.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hindu_temple](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.md) 
+### [hindu_temple](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.md) 
+
+### [hindu_temple.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.public.md) 
 
 ### [hindu_temple.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.internal.md) 
 
@@ -54,4 +57,5 @@ A Hindu temple.
 
 ### [hindu_temple.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.personal.md) 
 
-### [hindu_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.secret.md) 
+### [hindu_temple.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/hindu_temple.secret.md)
+

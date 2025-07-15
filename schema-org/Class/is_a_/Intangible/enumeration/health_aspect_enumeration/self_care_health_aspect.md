@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Self care actions or measures that can be taken to sooth, health or avoid a topi
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [self_care_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.md) 
+### [self_care_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.md) 
+
+### [self_care_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.public.md) 
 
 ### [self_care_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Self care actions or measures that can be taken to sooth, health or avoid a topi
 
 ### [self_care_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.personal.md) 
 
-### [self_care_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.secret.md) 
+### [self_care_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/self_care_health_aspect.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.53 , 21.07 ] 
 type: geo-Region
 title: Brändö
@@ -41,7 +41,9 @@ markerFolder: ./Brändö/
 
 ## Confidential Links & Embeds: 
 
-### [Brändö](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.md) 
+### [Brändö](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.md) 
+
+### [Brändö.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.public.md) 
 
 ### [Brändö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Brändö/
 
 ### [Brändö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.personal.md) 
 
-### [Brändö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret.md) 
+### [Brändö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Brändö.secret.md)
+

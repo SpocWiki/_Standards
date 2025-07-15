@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The mailing address.
 
 [ #has_/properties :: [ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [postal_address](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.md) 
+### [postal_address](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.md) 
+
+### [postal_address.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.public.md) 
 
 ### [postal_address.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.internal.md) 
 
@@ -54,4 +57,5 @@ The mailing address.
 
 ### [postal_address.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.personal.md) 
 
-### [postal_address.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.secret.md) 
+### [postal_address.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/contact_point/postal_address.secret.md)
+

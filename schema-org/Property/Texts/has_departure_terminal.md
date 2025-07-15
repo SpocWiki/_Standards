@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_departure_terminal )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_departure_terminal](/_public/schema-org/Property/Texts/has_departure_terminal.md) 
+### [has_departure_terminal](/_Standards/schema-org/Property/Texts/has_departure_terminal.md) 
+
+### [has_departure_terminal.public](/_public/schema-org/Property/Texts/has_departure_terminal.public.md) 
 
 ### [has_departure_terminal.internal](/_internal/schema-org/Property/Texts/has_departure_terminal.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_departure_terminal.personal](/_personal/schema-org/Property/Texts/has_departure_terminal.personal.md) 
 
-### [has_departure_terminal.secret](/_secret/schema-org/Property/Texts/has_departure_terminal.secret.md) 
+### [has_departure_terminal.secret](/_secret/schema-org/Property/Texts/has_departure_terminal.secret.md)
+

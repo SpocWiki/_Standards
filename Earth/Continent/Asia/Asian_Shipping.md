@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Asia]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Asian_Shipping](/_public/Earth/Continent/Asia/Asian_Shipping.md) 
+### [Asian_Shipping](/_Standards/Earth/Continent/Asia/Asian_Shipping.md) 
+
+### [Asian_Shipping.public](/_public/Earth/Continent/Asia/Asian_Shipping.public.md) 
 
 ### [Asian_Shipping.internal](/_internal/Earth/Continent/Asia/Asian_Shipping.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Asia]]
 
 ### [Asian_Shipping.personal](/_personal/Earth/Continent/Asia/Asian_Shipping.personal.md) 
 
-### [Asian_Shipping.secret](/_secret/Earth/Continent/Asia/Asian_Shipping.secret.md) 
+### [Asian_Shipping.secret](/_secret/Earth/Continent/Asia/Asian_Shipping.secret.md)
+

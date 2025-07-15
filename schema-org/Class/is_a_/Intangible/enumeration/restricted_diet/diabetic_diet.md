@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet appropriate for people with diabetes.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [diabetic_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.md) 
+### [diabetic_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.md) 
+
+### [diabetic_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.public.md) 
 
 ### [diabetic_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet appropriate for people with diabetes.
 
 ### [diabetic_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.personal.md) 
 
-### [diabetic_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.secret.md) 
+### [diabetic_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/diabetic_diet.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12861
 instance_of:
 - '[[_Standards/WikiData/WD~mixture,169336]]'
@@ -49,4 +49,23 @@ Commons_category: Gunpowder
 > The Winter Olympic Games have been hosted in the Swiss, French, Italian, Austrian and German Alps. As of 2010, the region is home to 14 million people and has 120 million annual visitors.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alps) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Alps](/_Standards/Earth/Continent/Europe/Europe~Central/Alps.md) 
+
+### [Alps.public](/_public/Earth/Continent/Europe/Europe~Central/Alps.public.md) 
+
+### [Alps.internal](/_internal/Earth/Continent/Europe/Europe~Central/Alps.internal.md) 
+
+### [Alps.protect](/_protect/Earth/Continent/Europe/Europe~Central/Alps.protect.md) 
+
+### [Alps.private](/_private/Earth/Continent/Europe/Europe~Central/Alps.private.md) 
+
+### [Alps.personal](/_personal/Earth/Continent/Europe/Europe~Central/Alps.personal.md) 
+
+### [Alps.secret](/_secret/Earth/Continent/Europe/Europe~Central/Alps.secret.md)
 

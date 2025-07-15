@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_read)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_read](/_public/schema-org/Property/has_Date_Time/has_time_read.md) 
+### [has_time_read](/_Standards/schema-org/Property/has_Date_Time/has_time_read.md) 
+
+### [has_time_read.public](/_public/schema-org/Property/has_Date_Time/has_time_read.public.md) 
 
 ### [has_time_read.internal](/_internal/schema-org/Property/has_Date_Time/has_time_read.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_read.personal](/_personal/schema-org/Property/has_Date_Time/has_time_read.personal.md) 
 
-### [has_time_read.secret](/_secret/schema-org/Property/has_Date_Time/has_time_read.secret.md) 
+### [has_time_read.secret](/_secret/schema-org/Property/has_Date_Time/has_time_read.secret.md)
+

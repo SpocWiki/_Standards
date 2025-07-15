@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-0.5477778,166.9208] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -61,7 +61,9 @@ markerFolder: ./Yaren/
 
 ## Confidential Links & Embeds: 
 
-### [Yaren](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.md) 
+### [Yaren](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.md) 
+
+### [Yaren.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.public.md) 
 
 ### [Yaren.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.internal.md) 
 
@@ -71,4 +73,5 @@ markerFolder: ./Yaren/
 
 ### [Yaren.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.personal.md) 
 
-### [Yaren.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.secret.md) 
+### [Yaren.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.secret.md)
+

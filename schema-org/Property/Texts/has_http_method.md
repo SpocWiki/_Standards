@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_http_method )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_http_method](/_public/schema-org/Property/Texts/has_http_method.md) 
+### [has_http_method](/_Standards/schema-org/Property/Texts/has_http_method.md) 
+
+### [has_http_method.public](/_public/schema-org/Property/Texts/has_http_method.public.md) 
 
 ### [has_http_method.internal](/_internal/schema-org/Property/Texts/has_http_method.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_http_method.personal](/_personal/schema-org/Property/Texts/has_http_method.personal.md) 
 
-### [has_http_method.secret](/_secret/schema-org/Property/Texts/has_http_method.secret.md) 
+### [has_http_method.secret](/_secret/schema-org/Property/Texts/has_http_method.secret.md)
+

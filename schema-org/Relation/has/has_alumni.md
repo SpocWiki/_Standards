@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 **
 
+
 ## Confidential Links & Embeds: 
 
-### [has_alumni](/_public/schema-org/Relation/has/has_alumni.md) 
+### [has_alumni](/_Standards/schema-org/Relation/has/has_alumni.md) 
+
+### [has_alumni.public](/_public/schema-org/Relation/has/has_alumni.public.md) 
 
 ### [has_alumni.internal](/_internal/schema-org/Relation/has/has_alumni.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_alumni.personal](/_personal/schema-org/Relation/has/has_alumni.personal.md) 
 
-### [has_alumni.secret](/_secret/schema-org/Relation/has/has_alumni.secret.md) 
+### [has_alumni.secret](/_secret/schema-org/Relation/has/has_alumni.secret.md)
+

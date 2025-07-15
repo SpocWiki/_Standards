@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11395
 partially_coincident_with: '[[_Standards/WikiData/WD~cultivation,357279]]'
 different_from: "[[_Standards/WikiData/WD~Domestication_and_foreignization,5290237]]"
@@ -24,4 +24,23 @@ MeSH_tree_code: J01.040.330
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Domestication) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Domestication](/_Standards/Economics/Industry/Agriculture/Domestication.md) 
+
+### [Domestication.public](/_public/Economics/Industry/Agriculture/Domestication.public.md) 
+
+### [Domestication.internal](/_internal/Economics/Industry/Agriculture/Domestication.internal.md) 
+
+### [Domestication.protect](/_protect/Economics/Industry/Agriculture/Domestication.protect.md) 
+
+### [Domestication.private](/_private/Economics/Industry/Agriculture/Domestication.private.md) 
+
+### [Domestication.personal](/_personal/Economics/Industry/Agriculture/Domestication.personal.md) 
+
+### [Domestication.secret](/_secret/Economics/Industry/Agriculture/Domestication.secret.md)
 

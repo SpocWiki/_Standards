@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21956
 has_id_wikidata: Q1388
@@ -118,11 +118,11 @@ CAS_Registry_Number: 7440-00-8
 > [Wikipedia](https://en.wikipedia.org/wiki/Neodymium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Neodymium](/_public/chemic/chemic~Elements/Lanthanide-Group/Neodymium.md) 
+### [Neodymium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Neodymium.md) 
+
+### [Neodymium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Neodymium.public.md) 
 
 ### [Neodymium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.internal.md) 
 
@@ -132,4 +132,5 @@ CAS_Registry_Number: 7440-00-8
 
 ### [Neodymium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Neodymium.personal.md) 
 
-### [Neodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Neodymium.secret.md) 
+### [Neodymium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Neodymium.secret.md)
+

@@ -11,3 +11,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Architect) 
 
+
+## Confidential Links & Embeds: 
+
+### [Architect](/_Standards/bio/People/Architect.md) 
+
+### [Architect.public](/_public/bio/People/Architect.public.md) 
+
+### [Architect.internal](/_internal/bio/People/Architect.internal.md) 
+
+### [Architect.protect](/_protect/bio/People/Architect.protect.md) 
+
+### [Architect.private](/_private/bio/People/Architect.private.md) 
+
+### [Architect.personal](/_personal/bio/People/Architect.personal.md) 
+
+### [Architect.secret](/_secret/bio/People/Architect.secret.md)
+

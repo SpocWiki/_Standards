@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_possible_treatment )
 ( #has_/range :: MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_possible_treatment](/_public/schema-org/Relation/has/has_possible_treatment.md) 
+### [has_possible_treatment](/_Standards/schema-org/Relation/has/has_possible_treatment.md) 
+
+### [has_possible_treatment.public](/_public/schema-org/Relation/has/has_possible_treatment.public.md) 
 
 ### [has_possible_treatment.internal](/_internal/schema-org/Relation/has/has_possible_treatment.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_possible_treatment.personal](/_personal/schema-org/Relation/has/has_possible_treatment.personal.md) 
 
-### [has_possible_treatment.secret](/_secret/schema-org/Relation/has/has_possible_treatment.secret.md) 
+### [has_possible_treatment.secret](/_secret/schema-org/Relation/has/has_possible_treatment.secret.md)
+

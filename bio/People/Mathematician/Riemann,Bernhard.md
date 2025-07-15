@@ -128,17 +128,19 @@ NLC_authorities: 000311020
 > [Wikipedia](https://en.wikipedia.org/wiki/Bernhard%20Riemann)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Riemann,Bernhard](/_public/Mathematics/Mathematicians/Riemann,Bernhard.md) 
+### [Riemann,Bernhard](/_Standards/bio/People/Mathematician/Riemann,Bernhard.md) 
 
-### [Riemann,Bernhard.internal](/_internal/Mathematics/Mathematicians/Riemann,Bernhard.internal.md) 
+### [Riemann,Bernhard.public](/_public/bio/People/Mathematician/Riemann,Bernhard.public.md) 
 
-### [Riemann,Bernhard.protect](/_protect/Mathematics/Mathematicians/Riemann,Bernhard.protect.md) 
+### [Riemann,Bernhard.internal](/_internal/bio/People/Mathematician/Riemann,Bernhard.internal.md) 
 
-### [Riemann,Bernhard.private](/_private/Mathematics/Mathematicians/Riemann,Bernhard.private.md) 
+### [Riemann,Bernhard.protect](/_protect/bio/People/Mathematician/Riemann,Bernhard.protect.md) 
 
-### [Riemann,Bernhard.personal](/_personal/Mathematics/Mathematicians/Riemann,Bernhard.personal.md) 
+### [Riemann,Bernhard.private](/_private/bio/People/Mathematician/Riemann,Bernhard.private.md) 
 
-### [Riemann,Bernhard.secret](/_secret/Mathematics/Mathematicians/Riemann,Bernhard.secret.md) 
+### [Riemann,Bernhard.personal](/_personal/bio/People/Mathematician/Riemann,Bernhard.personal.md) 
+
+### [Riemann,Bernhard.secret](/_secret/bio/People/Mathematician/Riemann,Bernhard.secret.md)
+

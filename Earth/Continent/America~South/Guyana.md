@@ -411,9 +411,12 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guyana)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guyana](/_public/Earth/Continent/America~South/Guyana.md) 
+### [Guyana](/_Standards/Earth/Continent/America~South/Guyana.md) 
+
+### [Guyana.public](/_public/Earth/Continent/America~South/Guyana.public.md) 
 
 ### [Guyana.internal](/_internal/Earth/Continent/America~South/Guyana.internal.md) 
 
@@ -423,4 +426,5 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 
 ### [Guyana.personal](/_personal/Earth/Continent/America~South/Guyana.personal.md) 
 
-### [Guyana.secret](/_secret/Earth/Continent/America~South/Guyana.secret.md) 
+### [Guyana.secret](/_secret/Earth/Continent/America~South/Guyana.secret.md)
+

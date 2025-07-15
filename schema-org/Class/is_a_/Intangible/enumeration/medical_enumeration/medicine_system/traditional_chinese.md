@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [traditional_chinese](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md) 
+### [traditional_chinese](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md) 
+
+### [traditional_chinese.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.public.md) 
 
 ### [traditional_chinese.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.internal.md) 
 
@@ -56,4 +59,5 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 ### [traditional_chinese.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.personal.md) 
 
-### [traditional_chinese.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.secret.md) 
+### [traditional_chinese.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.secret.md)
+

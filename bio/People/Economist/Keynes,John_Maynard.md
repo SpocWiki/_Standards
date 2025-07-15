@@ -132,3 +132,21 @@ date_of_death: "1946-04-21"
 > When Time magazine included Keynes among its Most Important People of the Century in 1999, it reported that "his radical idea that governments should spend money they don't have may have saved capitalism". The Economist has described Keynes as "Britain's most famous 20th-century economist". In addition to being an economist, Keynes was also a civil servant, a director of the Bank of England, and a part of the Bloomsbury Group of intellectuals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/John%20Maynard%20Keynes)
+
+
+## Confidential Links & Embeds: 
+
+### [Keynes,John_Maynard](/_Standards/bio/People/Economist/Keynes,John_Maynard.md) 
+
+### [Keynes,John_Maynard.public](/_public/bio/People/Economist/Keynes,John_Maynard.public.md) 
+
+### [Keynes,John_Maynard.internal](/_internal/bio/People/Economist/Keynes,John_Maynard.internal.md) 
+
+### [Keynes,John_Maynard.protect](/_protect/bio/People/Economist/Keynes,John_Maynard.protect.md) 
+
+### [Keynes,John_Maynard.private](/_private/bio/People/Economist/Keynes,John_Maynard.private.md) 
+
+### [Keynes,John_Maynard.personal](/_personal/bio/People/Economist/Keynes,John_Maynard.personal.md) 
+
+### [Keynes,John_Maynard.secret](/_secret/bio/People/Economist/Keynes,John_Maynard.secret.md)
+

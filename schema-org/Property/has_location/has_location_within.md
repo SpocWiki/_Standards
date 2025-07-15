@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -67,9 +67,12 @@ but all these are too granular and create unnecessary Redundancy.
 We are using this Relation exclusively, because there is typically only one (smallest) Geometry covering/containing another, so that it lies within it, especially politically. 
 The Reverse Relation typically has multiple Values.
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_within](/_public/schema-org/Property/has_location/has_location_within.md) 
+### [has_location_within](/_Standards/schema-org/Property/has_location/has_location_within.md) 
+
+### [has_location_within.public](/_public/schema-org/Property/has_location/has_location_within.public.md) 
 
 ### [has_location_within.internal](/_internal/schema-org/Property/has_location/has_location_within.internal.md) 
 
@@ -79,4 +82,5 @@ The Reverse Relation typically has multiple Values.
 
 ### [has_location_within.personal](/_personal/schema-org/Property/has_location/has_location_within.personal.md) 
 
-### [has_location_within.secret](/_secret/schema-org/Property/has_location/has_location_within.secret.md) 
+### [has_location_within.secret](/_secret/schema-org/Property/has_location/has_location_within.secret.md)
+

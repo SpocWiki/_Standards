@@ -50,3 +50,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20dollar)
 
+
+## Confidential Links & Embeds: 
+
+### [Dollar,US](/_Standards/Economics/Currency/Dollar,US.md) 
+
+### [Dollar,US.public](/_public/Economics/Currency/Dollar,US.public.md) 
+
+### [Dollar,US.internal](/_internal/Economics/Currency/Dollar,US.internal.md) 
+
+### [Dollar,US.protect](/_protect/Economics/Currency/Dollar,US.protect.md) 
+
+### [Dollar,US.private](/_private/Economics/Currency/Dollar,US.private.md) 
+
+### [Dollar,US.personal](/_personal/Economics/Currency/Dollar,US.personal.md) 
+
+### [Dollar,US.secret](/_secret/Economics/Currency/Dollar,US.secret.md)
+

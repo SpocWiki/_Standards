@@ -134,3 +134,22 @@ GS1 GPC code: "10005466"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reptile) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Reptile](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.md) 
+
+### [Reptile.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.public.md) 
+
+### [Reptile.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.internal.md) 
+
+### [Reptile.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.protect.md) 
+
+### [Reptile.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.private.md) 
+
+### [Reptile.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.personal.md) 
+
+### [Reptile.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida/Reptile.secret.md)
+

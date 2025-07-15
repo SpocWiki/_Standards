@@ -30,3 +30,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Keynesianism](/_Standards/bio/Society/Ideology/Economic_Ideology/Keynesianism.md) 
+
+### [Keynesianism.public](/_public/bio/Society/Ideology/Economic_Ideology/Keynesianism.public.md) 
+
+### [Keynesianism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Keynesianism.internal.md) 
+
+### [Keynesianism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Keynesianism.protect.md) 
+
+### [Keynesianism.private](/_private/bio/Society/Ideology/Economic_Ideology/Keynesianism.private.md) 
+
+### [Keynesianism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Keynesianism.personal.md) 
+
+### [Keynesianism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Keynesianism.secret.md)
+

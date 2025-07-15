@@ -50,3 +50,22 @@ title: Thermodesulfobacteria
 	-   *Thermodesulfatator*
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Thermodesulfobacteria](/_Standards/bio/bio~Domain/Bacteria/Thermodesulfobacteria.md) 
+
+### [Thermodesulfobacteria.public](/_public/bio/bio~Domain/Bacteria/Thermodesulfobacteria.public.md) 
+
+### [Thermodesulfobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.internal.md) 
+
+### [Thermodesulfobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Thermodesulfobacteria.protect.md) 
+
+### [Thermodesulfobacteria.private](/_private/bio/bio~Domain/Bacteria/Thermodesulfobacteria.private.md) 
+
+### [Thermodesulfobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Thermodesulfobacteria.personal.md) 
+
+### [Thermodesulfobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Thermodesulfobacteria.secret.md)
+

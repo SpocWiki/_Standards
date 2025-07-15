@@ -493,9 +493,12 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20Macedonia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Macedonia~North](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.md) 
+### [Macedonia~North](/_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North.md) 
+
+### [Macedonia~North.public](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public.md) 
 
 ### [Macedonia~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal.md) 
 
@@ -505,4 +508,5 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 
 ### [Macedonia~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal.md) 
 
-### [Macedonia~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret.md) 
+### [Macedonia~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret.md)
+

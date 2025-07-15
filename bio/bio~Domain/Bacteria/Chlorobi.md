@@ -65,3 +65,22 @@ green sulfur bacteria
 	-   *Prosthecochloris*
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chlorobi](/_Standards/bio/bio~Domain/Bacteria/Chlorobi.md) 
+
+### [Chlorobi.public](/_public/bio/bio~Domain/Bacteria/Chlorobi.public.md) 
+
+### [Chlorobi.internal](/_internal/bio/bio~Domain/Bacteria/Chlorobi.internal.md) 
+
+### [Chlorobi.protect](/_protect/bio/bio~Domain/Bacteria/Chlorobi.protect.md) 
+
+### [Chlorobi.private](/_private/bio/bio~Domain/Bacteria/Chlorobi.private.md) 
+
+### [Chlorobi.personal](/_personal/bio/bio~Domain/Bacteria/Chlorobi.personal.md) 
+
+### [Chlorobi.secret](/_secret/bio/bio~Domain/Bacteria/Chlorobi.secret.md)
+

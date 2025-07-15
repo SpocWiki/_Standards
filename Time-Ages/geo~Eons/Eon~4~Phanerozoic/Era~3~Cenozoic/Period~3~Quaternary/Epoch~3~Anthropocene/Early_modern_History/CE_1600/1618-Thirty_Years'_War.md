@@ -98,3 +98,22 @@ end_time: 1648-10-24
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thirty%20Years'%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1618-Thirty_Years'_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.md) 
+
+### [1618-Thirty_Years'_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.public.md) 
+
+### [1618-Thirty_Years'_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.internal.md) 
+
+### [1618-Thirty_Years'_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.protect.md) 
+
+### [1618-Thirty_Years'_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.private.md) 
+
+### [1618-Thirty_Years'_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.personal.md) 
+
+### [1618-Thirty_Years'_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years'_War.secret.md)
+

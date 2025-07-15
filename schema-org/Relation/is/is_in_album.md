@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_in_album )
 ( #has_/range :: MusicAlbum )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_album](/_public/schema-org/Relation/is/is_in_album.md) 
+### [is_in_album](/_Standards/schema-org/Relation/is/is_in_album.md) 
+
+### [is_in_album.public](/_public/schema-org/Relation/is/is_in_album.public.md) 
 
 ### [is_in_album.internal](/_internal/schema-org/Relation/is/is_in_album.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_in_album.personal](/_personal/schema-org/Relation/is/is_in_album.personal.md) 
 
-### [is_in_album.secret](/_secret/schema-org/Relation/is/is_in_album.secret.md) 
+### [is_in_album.secret](/_secret/schema-org/Relation/is/is_in_album.secret.md)
+

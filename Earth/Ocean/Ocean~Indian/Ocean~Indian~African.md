@@ -1,4 +1,4 @@
-﻿# [[Ocean~Indian~African]] 
+# [[Ocean~Indian~African]] 
 
 ## Edit
 
@@ -36,7 +36,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Indian~African](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.md) 
+### [Ocean~Indian~African](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.md) 
+
+### [Ocean~Indian~African.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.public.md) 
 
 ### [Ocean~Indian~African.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.internal.md) 
 
@@ -46,4 +48,5 @@ noteOnly: true
 
 ### [Ocean~Indian~African.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.personal.md) 
 
-### [Ocean~Indian~African.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret.md) 
+### [Ocean~Indian~African.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret.md)
+

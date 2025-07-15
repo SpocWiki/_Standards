@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalSignOrSymptom](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.md) 
+### [FileClass~MedicalSignOrSymptom](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.md) 
+
+### [FileClass~MedicalSignOrSymptom.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.public.md) 
 
 ### [FileClass~MedicalSignOrSymptom.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.internal.md) 
 
@@ -46,4 +47,5 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ### [FileClass~MedicalSignOrSymptom.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.personal.md) 
 
-### [FileClass~MedicalSignOrSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.secret.md) 
+### [FileClass~MedicalSignOrSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.secret.md)
+

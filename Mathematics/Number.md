@@ -56,3 +56,21 @@ PhilPapers_topic: numbers
 > During the 19th century, mathematicians began to develop many different abstractions which share certain properties of numbers, and may be seen as extending the concept. Among the first were the hypercomplex numbers, which consist of various extensions or modifications of the complex number system. In modern mathematics, number systems are considered important special examples of more general algebraic structures such as rings and fields, and the application of the term "number" is a matter of convention, without fundamental significance.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Number)
+
+
+## Confidential Links & Embeds: 
+
+### [Number](/_Standards/Mathematics/Number.md) 
+
+### [Number.public](/_public/Mathematics/Number.public.md) 
+
+### [Number.internal](/_internal/Mathematics/Number.internal.md) 
+
+### [Number.protect](/_protect/Mathematics/Number.protect.md) 
+
+### [Number.private](/_private/Mathematics/Number.private.md) 
+
+### [Number.personal](/_personal/Mathematics/Number.personal.md) 
+
+### [Number.secret](/_secret/Mathematics/Number.secret.md)
+

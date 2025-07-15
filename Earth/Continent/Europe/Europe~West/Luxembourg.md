@@ -491,9 +491,12 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg)
 
+
 ## Confidential Links & Embeds: 
 
-### [Luxembourg](/_public/Earth/Continent/Europe/Europe~West/Luxembourg.md) 
+### [Luxembourg](/_Standards/Earth/Continent/Europe/Europe~West/Luxembourg.md) 
+
+### [Luxembourg.public](/_public/Earth/Continent/Europe/Europe~West/Luxembourg.public.md) 
 
 ### [Luxembourg.internal](/_internal/Earth/Continent/Europe/Europe~West/Luxembourg.internal.md) 
 
@@ -503,4 +506,5 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 
 ### [Luxembourg.personal](/_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal.md) 
 
-### [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret.md) 
+### [Luxembourg.secret](/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret.md)
+

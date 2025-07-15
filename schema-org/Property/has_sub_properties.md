@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-prope
 
 #is_/inverse_of  :: [[../Property/is_sub_property_of]]   
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sub_properties](/_public/schema-org/Property/has_sub_properties.md) 
+### [has_sub_properties](/_Standards/schema-org/Property/has_sub_properties.md) 
+
+### [has_sub_properties.public](/_public/schema-org/Property/has_sub_properties.public.md) 
 
 ### [has_sub_properties.internal](/_internal/schema-org/Property/has_sub_properties.internal.md) 
 
@@ -59,4 +62,5 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-prope
 
 ### [has_sub_properties.personal](/_personal/schema-org/Property/has_sub_properties.personal.md) 
 
-### [has_sub_properties.secret](/_secret/schema-org/Property/has_sub_properties.secret.md) 
+### [has_sub_properties.secret](/_secret/schema-org/Property/has_sub_properties.secret.md)
+

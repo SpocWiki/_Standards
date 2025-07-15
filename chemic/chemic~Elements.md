@@ -130,7 +130,9 @@ Wolfram_Language_entity_type: Element
 
 ## Confidential Links & Embeds: 
 
-### [chemic~Elements](/_public/chemic/chemic~Elements.md) 
+### [chemic~Elements](/_Standards/chemic/chemic~Elements.md) 
+
+### [chemic~Elements.public](/_public/chemic/chemic~Elements.public.md) 
 
 ### [chemic~Elements.internal](/_internal/chemic/chemic~Elements.internal.md) 
 
@@ -140,4 +142,5 @@ Wolfram_Language_entity_type: Element
 
 ### [chemic~Elements.personal](/_personal/chemic/chemic~Elements.personal.md) 
 
-### [chemic~Elements.secret](/_secret/chemic/chemic~Elements.secret.md) 
+### [chemic~Elements.secret](/_secret/chemic/chemic~Elements.secret.md)
+

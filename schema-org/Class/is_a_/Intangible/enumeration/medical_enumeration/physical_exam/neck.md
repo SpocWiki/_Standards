@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Neck assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [neck](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.md) 
+### [neck](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.md) 
+
+### [neck.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.public.md) 
 
 ### [neck.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.internal.md) 
 
@@ -56,4 +59,5 @@ Neck assessment with clinical examination.
 
 ### [neck.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.personal.md) 
 
-### [neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.secret.md) 
+### [neck.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/neck.secret.md)
+

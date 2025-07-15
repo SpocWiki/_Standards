@@ -70,3 +70,21 @@ London.
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [sigmoides](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.md) 
+
+### [sigmoides.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.public.md) 
+
+### [sigmoides.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.internal.md) 
+
+### [sigmoides.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.protect.md) 
+
+### [sigmoides.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.private.md) 
+
+### [sigmoides.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.personal.md) 
+
+### [sigmoides.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/sigmoides.secret.md)
+

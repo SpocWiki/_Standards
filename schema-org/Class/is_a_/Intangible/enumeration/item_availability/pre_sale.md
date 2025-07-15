@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is available for ordering and delivery before general av
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pre_sale](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.md) 
+### [pre_sale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.md) 
+
+### [pre_sale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.public.md) 
 
 ### [pre_sale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is available for ordering and delivery before general av
 
 ### [pre_sale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.personal.md) 
 
-### [pre_sale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.secret.md) 
+### [pre_sale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_sale.secret.md)
+

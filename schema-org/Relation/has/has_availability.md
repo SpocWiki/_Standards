@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_availability )
 ( #has_/range :: ItemAvailability )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_availability](/_public/schema-org/Relation/has/has_availability.md) 
+### [has_availability](/_Standards/schema-org/Relation/has/has_availability.md) 
+
+### [has_availability.public](/_public/schema-org/Relation/has/has_availability.public.md) 
 
 ### [has_availability.internal](/_internal/schema-org/Relation/has/has_availability.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_availability.personal](/_personal/schema-org/Relation/has/has_availability.personal.md) 
 
-### [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md) 
+### [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Throat assessment with  clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [throat](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.md) 
+### [throat](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.md) 
+
+### [throat.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.public.md) 
 
 ### [throat.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.internal.md) 
 
@@ -56,4 +59,5 @@ Throat assessment with  clinical examination.
 
 ### [throat.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.personal.md) 
 
-### [throat.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.secret.md) 
+### [throat.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/throat.secret.md)
+

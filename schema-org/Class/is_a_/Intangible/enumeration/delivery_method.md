@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,9 +53,12 @@ Commonly used values:
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [delivery_method](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.md) 
+### [delivery_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.md) 
+
+### [delivery_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.public.md) 
 
 ### [delivery_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.internal.md) 
 
@@ -65,4 +68,5 @@ Commonly used values:
 
 ### [delivery_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.personal.md) 
 
-### [delivery_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.secret.md) 
+### [delivery_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method.secret.md)
+

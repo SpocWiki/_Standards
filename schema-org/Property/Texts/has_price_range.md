@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_price_range )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_price_range](/_public/schema-org/Property/Texts/has_price_range.md) 
+### [has_price_range](/_Standards/schema-org/Property/Texts/has_price_range.md) 
+
+### [has_price_range.public](/_public/schema-org/Property/Texts/has_price_range.public.md) 
 
 ### [has_price_range.internal](/_internal/schema-org/Property/Texts/has_price_range.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_price_range.personal](/_personal/schema-org/Property/Texts/has_price_range.personal.md) 
 
-### [has_price_range.secret](/_secret/schema-org/Property/Texts/has_price_range.secret.md) 
+### [has_price_range.secret](/_secret/schema-org/Property/Texts/has_price_range.secret.md)
+

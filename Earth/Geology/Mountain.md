@@ -16,3 +16,19 @@ has_id_wikidata: Q8502
 > [Wikipedia](https://en.wikipedia.org/wiki/Mountain) 
 
 
+## Confidential Links & Embeds: 
+
+### [Mountain](/_Standards/Earth/Geology/Mountain.md) 
+
+### [Mountain.public](/_public/Earth/Geology/Mountain.public.md) 
+
+### [Mountain.internal](/_internal/Earth/Geology/Mountain.internal.md) 
+
+### [Mountain.protect](/_protect/Earth/Geology/Mountain.protect.md) 
+
+### [Mountain.private](/_private/Earth/Geology/Mountain.private.md) 
+
+### [Mountain.personal](/_personal/Earth/Geology/Mountain.personal.md) 
+
+### [Mountain.secret](/_secret/Earth/Geology/Mountain.secret.md)
+

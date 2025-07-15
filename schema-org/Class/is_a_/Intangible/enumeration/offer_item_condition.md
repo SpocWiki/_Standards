@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ A list of possible conditions for the item.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offer_item_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.md) 
+### [offer_item_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.md) 
+
+### [offer_item_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.public.md) 
 
 ### [offer_item_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.internal.md) 
 
@@ -52,4 +55,5 @@ A list of possible conditions for the item.
 
 ### [offer_item_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.personal.md) 
 
-### [offer_item_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.secret.md) 
+### [offer_item_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition.secret.md)
+

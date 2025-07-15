@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Four-wheel drive is a transmission layout where the engine primarily drives two 
 
 [ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [four_wheel_drive_configuration](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.md) 
+### [four_wheel_drive_configuration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.md) 
+
+### [four_wheel_drive_configuration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.public.md) 
 
 ### [four_wheel_drive_configuration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.internal.md) 
 
@@ -56,4 +59,5 @@ Four-wheel drive is a transmission layout where the engine primarily drives two 
 
 ### [four_wheel_drive_configuration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.personal.md) 
 
-### [four_wheel_drive_configuration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.secret.md) 
+### [four_wheel_drive_configuration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/four_wheel_drive_configuration.secret.md)
+

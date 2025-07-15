@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing availability of an order for pickup.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_pickup_available](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.md) 
+### [order_pickup_available](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.md) 
+
+### [order_pickup_available.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.public.md) 
 
 ### [order_pickup_available.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing availability of an order for pickup.
 
 ### [order_pickup_available.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.personal.md) 
 
-### [order_pickup_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.secret.md) 
+### [order_pickup_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_pickup_available.secret.md)
+

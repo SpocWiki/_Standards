@@ -89,3 +89,22 @@ Stylochus. Photograph from Gray Museum Slide Collection, copyright ©
 
 ![Stylochus](stylochus.gif)
 Copyright ::   © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Platyhelminthes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.md) 
+
+### [Platyhelminthes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.public.md) 
+
+### [Platyhelminthes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.internal.md) 
+
+### [Platyhelminthes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.protect.md) 
+
+### [Platyhelminthes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.private.md) 
+
+### [Platyhelminthes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.personal.md) 
+
+### [Platyhelminthes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes.secret.md)
+

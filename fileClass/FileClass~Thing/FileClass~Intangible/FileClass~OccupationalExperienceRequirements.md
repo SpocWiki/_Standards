@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ Indicates the minimal number of months of experience required for a position.
 MonthsOfExperience:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OccupationalExperienceRequirements](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.md) 
+### [FileClass~OccupationalExperienceRequirements](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.md) 
+
+### [FileClass~OccupationalExperienceRequirements.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.public.md) 
 
 ### [FileClass~OccupationalExperienceRequirements.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.internal.md) 
 
@@ -56,4 +57,5 @@ MonthsOfExperience:: {"type":"Number","options":{}}
 
 ### [FileClass~OccupationalExperienceRequirements.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.personal.md) 
 
-### [FileClass~OccupationalExperienceRequirements.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.secret.md) 
+### [FileClass~OccupationalExperienceRequirements.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OccupationalExperienceRequirements.secret.md)
+

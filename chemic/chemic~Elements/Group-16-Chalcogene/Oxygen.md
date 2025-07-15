@@ -176,9 +176,12 @@ time_of_discovery_or_invention: "1774"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxygen)
 
+
 ## Confidential Links & Embeds: 
 
-### [Oxygen](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.md) 
+### [Oxygen](/_Standards/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.md) 
+
+### [Oxygen.public](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.public.md) 
 
 ### [Oxygen.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.internal.md) 
 
@@ -188,4 +191,5 @@ time_of_discovery_or_invention: "1774"
 
 ### [Oxygen.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.personal.md) 
 
-### [Oxygen.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.secret.md) 
+### [Oxygen.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Oxygen.secret.md)
+

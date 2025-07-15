@@ -73,3 +73,19 @@ or numbered e.g.
 SMILES `O=C=O` ([carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide "Carbon dioxide") CO2), `C#N` ([hydrogen cyanide](https://en.wikipedia.org/wiki/Hydrogen_cyanide "Hydrogen cyanide") HCN) and  ([gallium arsenide](https://en.wikipedia.org/wiki/Gallium_arsenide "Gallium arsenide")).
 
 
+## Confidential Links & Embeds: 
+
+### [SMILES-Formula](/_Standards/chemic/SMILES-Formula.md) 
+
+### [SMILES-Formula.public](/_public/chemic/SMILES-Formula.public.md) 
+
+### [SMILES-Formula.internal](/_internal/chemic/SMILES-Formula.internal.md) 
+
+### [SMILES-Formula.protect](/_protect/chemic/SMILES-Formula.protect.md) 
+
+### [SMILES-Formula.private](/_private/chemic/SMILES-Formula.private.md) 
+
+### [SMILES-Formula.personal](/_personal/chemic/SMILES-Formula.personal.md) 
+
+### [SMILES-Formula.secret](/_secret/chemic/SMILES-Formula.secret.md)
+

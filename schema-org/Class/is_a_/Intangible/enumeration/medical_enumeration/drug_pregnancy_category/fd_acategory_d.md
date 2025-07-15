@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A designation by the US FDA signifying that there is positive evidence of human 
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [fd_acategory_d](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md) 
+### [fd_acategory_d](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md) 
+
+### [fd_acategory_d.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.public.md) 
 
 ### [fd_acategory_d.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.internal.md) 
 
@@ -56,4 +59,5 @@ A designation by the US FDA signifying that there is positive evidence of human 
 
 ### [fd_acategory_d.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.personal.md) 
 
-### [fd_acategory_d.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.secret.md) 
+### [fd_acategory_d.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.secret.md)
+

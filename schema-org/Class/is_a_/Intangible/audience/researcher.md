@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Researchers.
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [researcher](/_public/schema-org/Class/is_a_/Intangible/audience/researcher.md) 
+### [researcher](/_Standards/schema-org/Class/is_a_/Intangible/audience/researcher.md) 
+
+### [researcher.public](/_public/schema-org/Class/is_a_/Intangible/audience/researcher.public.md) 
 
 ### [researcher.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/researcher.internal.md) 
 
@@ -54,4 +57,5 @@ Researchers.
 
 ### [researcher.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/researcher.personal.md) 
 
-### [researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/researcher.secret.md) 
+### [researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/researcher.secret.md)
+

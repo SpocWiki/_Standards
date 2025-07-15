@@ -70,3 +70,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/H.%20G.%20Wells)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Wells,H.G.](/_Standards/bio/People/Writer/Wells,H.G..md) 
+
+### [Wells,H.G..public](/_public/bio/People/Writer/Wells,H.G..public.md) 
+
+### [Wells,H.G..internal](/_internal/bio/People/Writer/Wells,H.G..internal.md) 
+
+### [Wells,H.G..protect](/_protect/bio/People/Writer/Wells,H.G..protect.md) 
+
+### [Wells,H.G..private](/_private/bio/People/Writer/Wells,H.G..private.md) 
+
+### [Wells,H.G..personal](/_personal/bio/People/Writer/Wells,H.G..personal.md) 
+
+### [Wells,H.G..secret](/_secret/bio/People/Writer/Wells,H.G..secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ OrderStatus representing that an order is in transit.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_in_transit](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.md) 
+### [order_in_transit](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.md) 
+
+### [order_in_transit.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.public.md) 
 
 ### [order_in_transit.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.internal.md) 
 
@@ -56,4 +59,5 @@ OrderStatus representing that an order is in transit.
 
 ### [order_in_transit.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.personal.md) 
 
-### [order_in_transit.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.secret.md) 
+### [order_in_transit.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_in_transit.secret.md)
+

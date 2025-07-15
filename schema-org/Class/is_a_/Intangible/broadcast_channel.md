@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [broadcast_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel.md) 
+### [broadcast_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel.md) 
+
+### [broadcast_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel.public.md) 
 
 ### [broadcast_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel.internal.md) 
 
@@ -56,4 +59,5 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 ### [broadcast_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel.personal.md) 
 
-### [broadcast_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel.secret.md) 
+### [broadcast_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [choose_action](/_public/schema-org/Class/is_a_/action/assess_action/choose_action.md) 
+### [choose_action](/_Standards/schema-org/Class/is_a_/action/assess_action/choose_action.md) 
+
+### [choose_action.public](/_public/schema-org/Class/is_a_/action/assess_action/choose_action.public.md) 
 
 ### [choose_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/choose_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 ### [choose_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/choose_action.personal.md) 
 
-### [choose_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/choose_action.secret.md) 
+### [choose_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/choose_action.secret.md)
+

@@ -40,3 +40,22 @@ Commons_category: Infrared
 > [Wikipedia](https://en.wikipedia.org/wiki/Infrared)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Infrared](/_Standards/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.md) 
+
+### [Infrared.public](/_public/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.public.md) 
+
+### [Infrared.internal](/_internal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.internal.md) 
+
+### [Infrared.protect](/_protect/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.protect.md) 
+
+### [Infrared.private](/_private/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.private.md) 
+
+### [Infrared.personal](/_personal/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.personal.md) 
+
+### [Infrared.secret](/_secret/Science/Physics/Electricity/Electromagnetic_Radiation/Light/Infrared.secret.md)
+

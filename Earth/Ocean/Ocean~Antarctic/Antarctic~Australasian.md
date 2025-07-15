@@ -1,4 +1,4 @@
-﻿# [[Antarctic~Australasian]] 
+# [[Antarctic~Australasian]] 
 
 ## Edit
 
@@ -34,7 +34,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~Australasian](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.md) 
+### [Antarctic~Australasian](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.md) 
+
+### [Antarctic~Australasian.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.public.md) 
 
 ### [Antarctic~Australasian.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal.md) 
 
@@ -44,4 +46,5 @@ noteOnly: true
 
 ### [Antarctic~Australasian.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal.md) 
 
-### [Antarctic~Australasian.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret.md) 
+### [Antarctic~Australasian.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret.md)
+

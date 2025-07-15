@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Posttraumatic stress disorder"
 - PTSD
@@ -116,4 +116,23 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q338
 > Symptoms of trauma-related mental disorders have been documented since at least the time of the ancient Greeks. A few instances of evidence of post-traumatic illness have been argued to exist from the seventeenth and eighteenth centuries, such as the diary of Samuel Pepys, who described intrusive and distressing symptoms following the 1666 Fire of London. During the world wars, the condition was known under various terms, including 'shell shock', 'war nerves', neurasthenia and 'combat neurosis'. The term "post-traumatic stress disorder" came into use in the 1970s, in large part due to the diagnoses of U.S. military veterans of the Vietnam War. It was officially recognized by the American Psychiatric Association in 1980 in the third edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-III).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-traumatic%20stress%20disorder)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Posttraumatic_Stress_Disorder](/_Standards/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.md) 
+
+### [Posttraumatic_Stress_Disorder.public](/_public/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.public.md) 
+
+### [Posttraumatic_Stress_Disorder.internal](/_internal/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.internal.md) 
+
+### [Posttraumatic_Stress_Disorder.protect](/_protect/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.protect.md) 
+
+### [Posttraumatic_Stress_Disorder.private](/_private/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.private.md) 
+
+### [Posttraumatic_Stress_Disorder.personal](/_personal/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.personal.md) 
+
+### [Posttraumatic_Stress_Disorder.secret](/_secret/bio/Medicine/Disease/Mental_Disorder/Posttraumatic_Stress_Disorder.secret.md)
 

@@ -20,5 +20,19 @@ Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase)
 
 
+## Confidential Links & Embeds: 
 
+### [Cyclooxygenase](/_Standards/bio/Medicine/Cyclooxygenase.md) 
+
+### [Cyclooxygenase.public](/_public/bio/Medicine/Cyclooxygenase.public.md) 
+
+### [Cyclooxygenase.internal](/_internal/bio/Medicine/Cyclooxygenase.internal.md) 
+
+### [Cyclooxygenase.protect](/_protect/bio/Medicine/Cyclooxygenase.protect.md) 
+
+### [Cyclooxygenase.private](/_private/bio/Medicine/Cyclooxygenase.private.md) 
+
+### [Cyclooxygenase.personal](/_personal/bio/Medicine/Cyclooxygenase.personal.md) 
+
+### [Cyclooxygenase.secret](/_secret/bio/Medicine/Cyclooxygenase.secret.md)
 

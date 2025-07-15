@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_tracks )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_tracks](/_public/schema-org/Property/has_number_of/has_number_of_tracks.md) 
+### [has_number_of_tracks](/_Standards/schema-org/Property/has_number_of/has_number_of_tracks.md) 
+
+### [has_number_of_tracks.public](/_public/schema-org/Property/has_number_of/has_number_of_tracks.public.md) 
 
 ### [has_number_of_tracks.internal](/_internal/schema-org/Property/has_number_of/has_number_of_tracks.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_tracks.personal](/_personal/schema-org/Property/has_number_of/has_number_of_tracks.personal.md) 
 
-### [has_number_of_tracks.secret](/_secret/schema-org/Property/has_number_of/has_number_of_tracks.secret.md) 
+### [has_number_of_tracks.secret](/_secret/schema-org/Property/has_number_of/has_number_of_tracks.secret.md)
+

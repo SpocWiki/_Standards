@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_representation](/_public/schema-org/Relation/has/has_representation.md) 
+### [has_representation](/_Standards/schema-org/Relation/has/has_representation.md) 
+
+### [has_representation.public](/_public/schema-org/Relation/has/has_representation.public.md) 
 
 ### [has_representation.internal](/_internal/schema-org/Relation/has/has_representation.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_representation.personal](/_personal/schema-org/Relation/has/has_representation.personal.md) 
 
-### [has_representation.secret](/_secret/schema-org/Relation/has/has_representation.secret.md) 
+### [has_representation.secret](/_secret/schema-org/Relation/has/has_representation.secret.md)
+

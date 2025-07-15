@@ -157,3 +157,21 @@ work_location: '[[_Standards/WikiData/WD~England,21]]'
 > one of the greatest scientific discoverers of all time."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Faraday)
+
+
+## Confidential Links & Embeds: 
+
+### [Faraday,Michael](/_Standards/bio/People/Scientist/Modern_Scientists/Faraday,Michael.md) 
+
+### [Faraday,Michael.public](/_public/bio/People/Scientist/Modern_Scientists/Faraday,Michael.public.md) 
+
+### [Faraday,Michael.internal](/_internal/bio/People/Scientist/Modern_Scientists/Faraday,Michael.internal.md) 
+
+### [Faraday,Michael.protect](/_protect/bio/People/Scientist/Modern_Scientists/Faraday,Michael.protect.md) 
+
+### [Faraday,Michael.private](/_private/bio/People/Scientist/Modern_Scientists/Faraday,Michael.private.md) 
+
+### [Faraday,Michael.personal](/_personal/bio/People/Scientist/Modern_Scientists/Faraday,Michael.personal.md) 
+
+### [Faraday,Michael.secret](/_secret/bio/People/Scientist/Modern_Scientists/Faraday,Michael.secret.md)
+

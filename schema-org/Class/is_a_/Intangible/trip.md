@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A trip or journey. An itinerary of visits to one or more places.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [trip](/_public/schema-org/Class/is_a_/Intangible/trip.md) 
+### [trip](/_Standards/schema-org/Class/is_a_/Intangible/trip.md) 
+
+### [trip.public](/_public/schema-org/Class/is_a_/Intangible/trip.public.md) 
 
 ### [trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip.internal.md) 
 
@@ -56,4 +59,5 @@ A trip or journey. An itinerary of visits to one or more places.
 
 ### [trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip.personal.md) 
 
-### [trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip.secret.md) 
+### [trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip.secret.md)
+

@@ -460,9 +460,12 @@ Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paraguay)
 
+
 ## Confidential Links & Embeds: 
 
-### [Paraguay](/_public/Earth/Continent/America~South/Paraguay.md) 
+### [Paraguay](/_Standards/Earth/Continent/America~South/Paraguay.md) 
+
+### [Paraguay.public](/_public/Earth/Continent/America~South/Paraguay.public.md) 
 
 ### [Paraguay.internal](/_internal/Earth/Continent/America~South/Paraguay.internal.md) 
 
@@ -472,4 +475,5 @@ Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]
 
 ### [Paraguay.personal](/_personal/Earth/Continent/America~South/Paraguay.personal.md) 
 
-### [Paraguay.secret](/_secret/Earth/Continent/America~South/Paraguay.secret.md) 
+### [Paraguay.secret](/_secret/Earth/Continent/America~South/Paraguay.secret.md)
+

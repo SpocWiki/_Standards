@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21981
 has_id_wikidata: Q1133
@@ -96,9 +96,12 @@ canonical_SMILES: '[Rn]'
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Radon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.md) 
+### [Radon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.md) 
+
+### [Radon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.public.md) 
 
 ### [Radon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.internal.md) 
 
@@ -108,4 +111,5 @@ canonical_SMILES: '[Rn]'
 
 ### [Radon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.personal.md) 
 
-### [Radon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.secret.md) 
+### [Radon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Radon.secret.md)
+

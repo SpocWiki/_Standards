@@ -89,4 +89,19 @@ Unicode_range: U+1F46A-1F46D
 > [Wikipedia](https://en.wikipedia.org/wiki/Family)
 
 
+## Confidential Links & Embeds: 
+
+### [Family](/_Standards/bio/Society/Family.md) 
+
+### [Family.public](/_public/bio/Society/Family.public.md) 
+
+### [Family.internal](/_internal/bio/Society/Family.internal.md) 
+
+### [Family.protect](/_protect/bio/Society/Family.protect.md) 
+
+### [Family.private](/_private/bio/Society/Family.private.md) 
+
+### [Family.personal](/_personal/bio/Society/Family.personal.md) 
+
+### [Family.secret](/_secret/bio/Society/Family.secret.md)
 

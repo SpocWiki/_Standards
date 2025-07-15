@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_cargo_volume )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_cargo_volume](/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.md) 
+### [has_value_for_cargo_volume](/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume.md) 
+
+### [has_value_for_cargo_volume.public](/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public.md) 
 
 ### [has_value_for_cargo_volume.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal.md) 
 
@@ -64,4 +67,5 @@ Predicate describes that:
 
 ### [has_value_for_cargo_volume.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal.md) 
 
-### [has_value_for_cargo_volume.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret.md) 
+### [has_value_for_cargo_volume.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret.md)
+

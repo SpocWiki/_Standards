@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: recordingOf ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recorded_as](/_public/schema-org/Relation/has/has_recorded_as.md) 
+### [has_recorded_as](/_Standards/schema-org/Relation/has/has_recorded_as.md) 
+
+### [has_recorded_as.public](/_public/schema-org/Relation/has/has_recorded_as.public.md) 
 
 ### [has_recorded_as.internal](/_internal/schema-org/Relation/has/has_recorded_as.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_recorded_as.personal](/_personal/schema-org/Relation/has/has_recorded_as.personal.md) 
 
-### [has_recorded_as.secret](/_secret/schema-org/Relation/has/has_recorded_as.secret.md) 
+### [has_recorded_as.secret](/_secret/schema-org/Relation/has/has_recorded_as.secret.md)
+

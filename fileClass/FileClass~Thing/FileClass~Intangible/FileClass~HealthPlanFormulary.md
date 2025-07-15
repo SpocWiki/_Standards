@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,10 +63,11 @@ Whether prescriptions can be delivered by mail.
 OffersPrescriptionByMail:: {"type":"Boolean","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HealthPlanFormulary](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.md) 
+### [FileClass~HealthPlanFormulary](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.md) 
+
+### [FileClass~HealthPlanFormulary.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.public.md) 
 
 ### [FileClass~HealthPlanFormulary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.internal.md) 
 
@@ -76,4 +77,5 @@ OffersPrescriptionByMail:: {"type":"Boolean","options":{}}
 
 ### [FileClass~HealthPlanFormulary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.personal.md) 
 
-### [FileClass~HealthPlanFormulary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.secret.md) 
+### [FileClass~HealthPlanFormulary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.secret.md)
+

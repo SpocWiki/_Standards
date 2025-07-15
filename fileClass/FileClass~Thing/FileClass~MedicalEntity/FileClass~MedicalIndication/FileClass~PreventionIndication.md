@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An indication for preventing an underlying condition, symptom, etc.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PreventionIndication](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.md) 
+### [FileClass~PreventionIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.md) 
+
+### [FileClass~PreventionIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.public.md) 
 
 ### [FileClass~PreventionIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.internal.md) 
 
@@ -46,4 +47,5 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ### [FileClass~PreventionIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.personal.md) 
 
-### [FileClass~PreventionIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret.md) 
+### [FileClass~PreventionIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret.md)
+

@@ -413,9 +413,12 @@ Capital :: [[Maseru]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lesotho)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lesotho](/_public/Earth/Continent/Africa/Africa~South/Lesotho.md) 
+### [Lesotho](/_Standards/Earth/Continent/Africa/Africa~South/Lesotho.md) 
+
+### [Lesotho.public](/_public/Earth/Continent/Africa/Africa~South/Lesotho.public.md) 
 
 ### [Lesotho.internal](/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal.md) 
 
@@ -425,4 +428,5 @@ Capital :: [[Maseru]]
 
 ### [Lesotho.personal](/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal.md) 
 
-### [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md) 
+### [Lesotho.secret](/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret.md)
+

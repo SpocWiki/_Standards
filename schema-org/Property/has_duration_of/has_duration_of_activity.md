@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_duration_of_activity)
 (range::Duration, QuantitativeValue)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_activity](/_public/schema-org/Property/has_duration_of/has_duration_of_activity.md) 
+### [has_duration_of_activity](/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity.md) 
+
+### [has_duration_of_activity.public](/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public.md) 
 
 ### [has_duration_of_activity.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_duration_of_activity.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_activity.personal.md) 
 
-### [has_duration_of_activity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret.md) 
+### [has_duration_of_activity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret.md)
+

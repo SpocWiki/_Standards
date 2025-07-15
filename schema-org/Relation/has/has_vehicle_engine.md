@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_vehicle_engine )
 ( #has_/range :: EngineSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_engine](/_public/schema-org/Relation/has/has_vehicle_engine.md) 
+### [has_vehicle_engine](/_Standards/schema-org/Relation/has/has_vehicle_engine.md) 
+
+### [has_vehicle_engine.public](/_public/schema-org/Relation/has/has_vehicle_engine.public.md) 
 
 ### [has_vehicle_engine.internal](/_internal/schema-org/Relation/has/has_vehicle_engine.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_vehicle_engine.personal](/_personal/schema-org/Relation/has/has_vehicle_engine.personal.md) 
 
-### [has_vehicle_engine.secret](/_secret/schema-org/Relation/has/has_vehicle_engine.secret.md) 
+### [has_vehicle_engine.secret](/_secret/schema-org/Relation/has/has_vehicle_engine.secret.md)
+

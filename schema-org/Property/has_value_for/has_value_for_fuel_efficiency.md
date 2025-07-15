@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_fuel_efficiency )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_fuel_efficiency](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
+### [has_value_for_fuel_efficiency](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
+
+### [has_value_for_fuel_efficiency.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public.md) 
 
 ### [has_value_for_fuel_efficiency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal.md) 
 
@@ -64,4 +67,5 @@ Predicate describes that:
 
 ### [has_value_for_fuel_efficiency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal.md) 
 
-### [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md) 
+### [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md)
+

@@ -110,3 +110,22 @@ date_of_death: "1525-01-03"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vasco%20da%20Gama)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gama,Vasco_da](/_Standards/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.md) 
+
+### [Gama,Vasco_da.public](/_public/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.public.md) 
+
+### [Gama,Vasco_da.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.internal.md) 
+
+### [Gama,Vasco_da.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.protect.md) 
+
+### [Gama,Vasco_da.private](/_private/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.private.md) 
+
+### [Gama,Vasco_da.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.personal.md) 
+
+### [Gama,Vasco_da.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Gama,Vasco_da.secret.md)
+

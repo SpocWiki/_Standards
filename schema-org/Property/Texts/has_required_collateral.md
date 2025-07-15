@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_required_collateral )
 ( #has_/range :: Text, Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_required_collateral](/_public/schema-org/Property/Texts/has_required_collateral.md) 
+### [has_required_collateral](/_Standards/schema-org/Property/Texts/has_required_collateral.md) 
+
+### [has_required_collateral.public](/_public/schema-org/Property/Texts/has_required_collateral.public.md) 
 
 ### [has_required_collateral.internal](/_internal/schema-org/Property/Texts/has_required_collateral.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_required_collateral.personal](/_personal/schema-org/Property/Texts/has_required_collateral.personal.md) 
 
-### [has_required_collateral.secret](/_secret/schema-org/Property/Texts/has_required_collateral.secret.md) 
+### [has_required_collateral.secret](/_secret/schema-org/Property/Texts/has_required_collateral.secret.md)
+

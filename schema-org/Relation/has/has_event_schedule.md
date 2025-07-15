@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -58,9 +58,12 @@ Relation describes that:
 ( #has_/name :: has_event_schedule )
 ( #has_/range :: Schedule )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_event_schedule](/_public/schema-org/Relation/has/has_event_schedule.md) 
+### [has_event_schedule](/_Standards/schema-org/Relation/has/has_event_schedule.md) 
+
+### [has_event_schedule.public](/_public/schema-org/Relation/has/has_event_schedule.public.md) 
 
 ### [has_event_schedule.internal](/_internal/schema-org/Relation/has/has_event_schedule.internal.md) 
 
@@ -70,4 +73,5 @@ Relation describes that:
 
 ### [has_event_schedule.personal](/_personal/schema-org/Relation/has/has_event_schedule.personal.md) 
 
-### [has_event_schedule.secret](/_secret/schema-org/Relation/has/has_event_schedule.secret.md) 
+### [has_event_schedule.secret](/_secret/schema-org/Relation/has/has_event_schedule.secret.md)
+

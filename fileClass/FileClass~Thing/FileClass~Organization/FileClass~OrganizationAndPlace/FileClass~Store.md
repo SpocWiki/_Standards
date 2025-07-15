@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A retail good store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Store](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.md) 
+### [FileClass~Store](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.md) 
+
+### [FileClass~Store.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.public.md) 
 
 ### [FileClass~Store.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.internal.md) 
 
@@ -46,4 +47,5 @@ A retail good store.
 
 ### [FileClass~Store.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.personal.md) 
 
-### [FileClass~Store.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.secret.md) 
+### [FileClass~Store.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store.secret.md)
+

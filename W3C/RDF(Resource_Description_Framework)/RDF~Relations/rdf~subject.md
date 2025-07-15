@@ -1,4 +1,4 @@
-﻿
+
 ## Confidential Links & Embeds: 
 
 ### [rdf~subject](../../../../_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.md) 
@@ -13,9 +13,12 @@
 
 ### [rdf~subject.secret](../../../../_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.secret.md) 
 
+
 ## Confidential Links & Embeds: 
 
-### [rdf~subject](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.md) 
+### [rdf~subject](/_Standards/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.md) 
+
+### [rdf~subject.public](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.public.md) 
 
 ### [rdf~subject.internal](/_internal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.internal.md) 
 
@@ -25,4 +28,5 @@
 
 ### [rdf~subject.personal](/_personal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.personal.md) 
 
-### [rdf~subject.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.secret.md) 
+### [rdf~subject.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject.secret.md)
+

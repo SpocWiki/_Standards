@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_variable_measured )
 ( #has_/range :: PropertyValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_variable_measured](/_public/schema-org/Relation/has/has_variable_measured.md) 
+### [has_variable_measured](/_Standards/schema-org/Relation/has/has_variable_measured.md) 
+
+### [has_variable_measured.public](/_public/schema-org/Relation/has/has_variable_measured.public.md) 
 
 ### [has_variable_measured.internal](/_internal/schema-org/Relation/has/has_variable_measured.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_variable_measured.personal](/_personal/schema-org/Relation/has/has_variable_measured.personal.md) 
 
-### [has_variable_measured.secret](/_secret/schema-org/Relation/has/has_variable_measured.secret.md) 
+### [has_variable_measured.secret](/_secret/schema-org/Relation/has/has_variable_measured.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet conforming to Hindu dietary practices, in particular, beef-free.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hindu_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.md) 
+### [hindu_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.md) 
+
+### [hindu_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.public.md) 
 
 ### [hindu_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet conforming to Hindu dietary practices, in particular, beef-free.
 
 ### [hindu_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.personal.md) 
 
-### [hindu_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.secret.md) 
+### [hindu_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/hindu_diet.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is available for pre-order.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pre_order](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.md) 
+### [pre_order](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.md) 
+
+### [pre_order.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.public.md) 
 
 ### [pre_order.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is available for pre-order.
 
 ### [pre_order.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.personal.md) 
 
-### [pre_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.secret.md) 
+### [pre_order.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/pre_order.secret.md)
+

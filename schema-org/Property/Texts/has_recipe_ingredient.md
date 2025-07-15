@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: supply ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recipe_ingredient](/_public/schema-org/Property/Texts/has_recipe_ingredient.md) 
+### [has_recipe_ingredient](/_Standards/schema-org/Property/Texts/has_recipe_ingredient.md) 
+
+### [has_recipe_ingredient.public](/_public/schema-org/Property/Texts/has_recipe_ingredient.public.md) 
 
 ### [has_recipe_ingredient.internal](/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_recipe_ingredient.personal](/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal.md) 
 
-### [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md) 
+### [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md)
+

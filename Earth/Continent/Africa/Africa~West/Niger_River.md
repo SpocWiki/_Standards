@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Niger River"
 has_id_wikidata: Q3542
@@ -66,4 +66,23 @@ Commons_category: "Niger River"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niger%20River) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Niger_River](/_Standards/Earth/Continent/Africa/Africa~West/Niger_River.md) 
+
+### [Niger_River.public](/_public/Earth/Continent/Africa/Africa~West/Niger_River.public.md) 
+
+### [Niger_River.internal](/_internal/Earth/Continent/Africa/Africa~West/Niger_River.internal.md) 
+
+### [Niger_River.protect](/_protect/Earth/Continent/Africa/Africa~West/Niger_River.protect.md) 
+
+### [Niger_River.private](/_private/Earth/Continent/Africa/Africa~West/Niger_River.private.md) 
+
+### [Niger_River.personal](/_personal/Earth/Continent/Africa/Africa~West/Niger_River.personal.md) 
+
+### [Niger_River.secret](/_secret/Earth/Continent/Africa/Africa~West/Niger_River.secret.md)
 

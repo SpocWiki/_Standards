@@ -154,3 +154,22 @@ Specimen Condition   Live Specimen
 Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Amphilinidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.md) 
+
+### [Amphilinidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public.md) 
+
+### [Amphilinidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.internal.md) 
+
+### [Amphilinidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.protect.md) 
+
+### [Amphilinidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.private.md) 
+
+### [Amphilinidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.personal.md) 
+
+### [Amphilinidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.secret.md)
+

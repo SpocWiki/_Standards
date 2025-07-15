@@ -804,10 +804,11 @@ Capital :: [[Spain/Provinces~Spain/Madrid,Region]]
 [has_place_latitude::40.0911]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Spain](/_public/Earth/Continent/Europe/Europe~South/Spain.md) 
+### [Spain](/_Standards/Earth/Continent/Europe/Europe~South/Spain.md) 
+
+### [Spain.public](/_public/Earth/Continent/Europe/Europe~South/Spain.public.md) 
 
 ### [Spain.internal](/_internal/Earth/Continent/Europe/Europe~South/Spain.internal.md) 
 
@@ -817,4 +818,5 @@ Capital :: [[Spain/Provinces~Spain/Madrid,Region]]
 
 ### [Spain.personal](/_personal/Earth/Continent/Europe/Europe~South/Spain.personal.md) 
 
-### [Spain.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain.secret.md) 
+### [Spain.secret](/_secret/Earth/Continent/Europe/Europe~South/Spain.secret.md)
+

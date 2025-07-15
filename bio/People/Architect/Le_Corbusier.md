@@ -233,3 +233,22 @@ excalidraw-autoexport: svg
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [Le_Corbusier](/_Standards/bio/People/Architect/Le_Corbusier.md) 
+
+### [Le_Corbusier.public](/_public/bio/People/Architect/Le_Corbusier.public.md) 
+
+### [Le_Corbusier.internal](/_internal/bio/People/Architect/Le_Corbusier.internal.md) 
+
+### [Le_Corbusier.protect](/_protect/bio/People/Architect/Le_Corbusier.protect.md) 
+
+### [Le_Corbusier.private](/_private/bio/People/Architect/Le_Corbusier.private.md) 
+
+### [Le_Corbusier.personal](/_personal/bio/People/Architect/Le_Corbusier.personal.md) 
+
+### [Le_Corbusier.secret](/_secret/bio/People/Architect/Le_Corbusier.secret.md)
+

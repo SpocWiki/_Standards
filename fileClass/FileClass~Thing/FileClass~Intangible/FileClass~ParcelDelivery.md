@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -148,10 +148,11 @@ Tracking url for the parcel delivery.
 TrackingUrl:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ParcelDelivery](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.md) 
+### [FileClass~ParcelDelivery](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.md) 
+
+### [FileClass~ParcelDelivery.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.public.md) 
 
 ### [FileClass~ParcelDelivery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.internal.md) 
 
@@ -161,4 +162,5 @@ TrackingUrl:: {"type":"Input","options":{}}
 
 ### [FileClass~ParcelDelivery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.personal.md) 
 
-### [FileClass~ParcelDelivery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret.md) 
+### [FileClass~ParcelDelivery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ParcelDelivery.secret.md)
+

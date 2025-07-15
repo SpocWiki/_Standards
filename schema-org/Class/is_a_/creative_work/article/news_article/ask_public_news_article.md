@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, dateline, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, printColumn, printEdition, printPage, printSection, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ask_public_news_article](/_public/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.md) 
+### [ask_public_news_article](/_Standards/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.md) 
+
+### [ask_public_news_article.public](/_public/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.public.md) 
 
 ### [ask_public_news_article.internal](/_internal/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.internal.md) 
 
@@ -56,4 +59,5 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 
 ### [ask_public_news_article.personal](/_personal/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.personal.md) 
 
-### [ask_public_news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.secret.md) 
+### [ask_public_news_article.secret](/_secret/schema-org/Class/is_a_/creative_work/article/news_article/ask_public_news_article.secret.md)
+

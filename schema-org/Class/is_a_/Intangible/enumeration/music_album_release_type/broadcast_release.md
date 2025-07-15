@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ BroadcastRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [broadcast_release](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.md) 
+### [broadcast_release](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.md) 
+
+### [broadcast_release.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.public.md) 
 
 ### [broadcast_release.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.internal.md) 
 
@@ -56,4 +59,5 @@ BroadcastRelease.
 
 ### [broadcast_release.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.personal.md) 
 
-### [broadcast_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.secret.md) 
+### [broadcast_release.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_release_type/broadcast_release.secret.md)
+

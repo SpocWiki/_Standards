@@ -165,3 +165,21 @@ Contr. Zool., No. 586:373-384..
   Location ::        off Hawaii
   Copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
   ------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Ommastrephidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.md) 
+
+### [Ommastrephidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.public.md) 
+
+### [Ommastrephidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.internal.md) 
+
+### [Ommastrephidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.protect.md) 
+
+### [Ommastrephidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.private.md) 
+
+### [Ommastrephidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.personal.md) 
+
+### [Ommastrephidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Ommastrephidae.secret.md)
+

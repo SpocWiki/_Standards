@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of participant. The participant/person/organization that bought t
 Buyer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SellAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.md) 
+### [FileClass~SellAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.md) 
+
+### [FileClass~SellAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.public.md) 
 
 ### [FileClass~SellAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.internal.md) 
 
@@ -57,4 +58,5 @@ Buyer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/O
 
 ### [FileClass~SellAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.personal.md) 
 
-### [FileClass~SellAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.secret.md) 
+### [FileClass~SellAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~SellAction.secret.md)
+

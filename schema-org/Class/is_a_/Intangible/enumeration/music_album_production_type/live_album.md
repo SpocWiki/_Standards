@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ LiveAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [live_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.md) 
+### [live_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.md) 
+
+### [live_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.public.md) 
 
 ### [live_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.internal.md) 
 
@@ -56,4 +59,5 @@ LiveAlbum.
 
 ### [live_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.personal.md) 
 
-### [live_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.secret.md) 
+### [live_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.secret.md)
+

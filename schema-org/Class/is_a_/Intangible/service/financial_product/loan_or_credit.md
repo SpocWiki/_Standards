@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [loan_or_credit](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.md) 
+### [loan_or_credit](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.md) 
+
+### [loan_or_credit.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.public.md) 
 
 ### [loan_or_credit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.internal.md) 
 
@@ -56,4 +59,5 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 ### [loan_or_credit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.personal.md) 
 
-### [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md) 
+### [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md)
+

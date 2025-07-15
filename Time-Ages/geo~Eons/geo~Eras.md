@@ -46,7 +46,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [geo~Eras](/_public/Time-Ages/geo~Eons/geo~Eras.md) 
+### [geo~Eras](/_Standards/Time-Ages/geo~Eons/geo~Eras.md) 
+
+### [geo~Eras.public](/_public/Time-Ages/geo~Eons/geo~Eras.public.md) 
 
 ### [geo~Eras.internal](/_internal/Time-Ages/geo~Eons/geo~Eras.internal.md) 
 
@@ -56,4 +58,5 @@ noteOnly: true
 
 ### [geo~Eras.personal](/_personal/Time-Ages/geo~Eons/geo~Eras.personal.md) 
 
-### [geo~Eras.secret](/_secret/Time-Ages/geo~Eons/geo~Eras.secret.md) 
+### [geo~Eras.secret](/_secret/Time-Ages/geo~Eons/geo~Eras.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that is concerned with the study of the cau
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pathology](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.md) 
+### [pathology](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.md) 
+
+### [pathology.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.public.md) 
 
 ### [pathology.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that is concerned with the study of the cau
 
 ### [pathology.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.personal.md) 
 
-### [pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md) 
+### [pathology.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pathology.secret.md)
+

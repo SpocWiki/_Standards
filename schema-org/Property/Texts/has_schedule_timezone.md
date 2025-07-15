@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_schedule_timezone )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_schedule_timezone](/_public/schema-org/Property/Texts/has_schedule_timezone.md) 
+### [has_schedule_timezone](/_Standards/schema-org/Property/Texts/has_schedule_timezone.md) 
+
+### [has_schedule_timezone.public](/_public/schema-org/Property/Texts/has_schedule_timezone.public.md) 
 
 ### [has_schedule_timezone.internal](/_internal/schema-org/Property/Texts/has_schedule_timezone.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_schedule_timezone.personal](/_personal/schema-org/Property/Texts/has_schedule_timezone.personal.md) 
 
-### [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md) 
+### [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md)
+

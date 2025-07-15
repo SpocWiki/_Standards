@@ -48,3 +48,22 @@ Photograph copyright © 1988, Scott A. Stockwell.
 Copyright ::   © 1988 Scott A. Stockwell
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Superstitionidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.md) 
+
+### [Superstitionidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.public.md) 
+
+### [Superstitionidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.internal.md) 
+
+### [Superstitionidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.protect.md) 
+
+### [Superstitionidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.private.md) 
+
+### [Superstitionidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.personal.md) 
+
+### [Superstitionidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Superstitionidae.secret.md)
+

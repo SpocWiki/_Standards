@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -32,10 +32,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Channel-Islands](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.md) 
+### [Channel-Islands](/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands.md) 
+
+### [Channel-Islands.public](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.public.md) 
 
 ### [Channel-Islands.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal.md) 
 
@@ -45,4 +46,5 @@ has_place_continent:: [[Europe]]
 
 ### [Channel-Islands.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal.md) 
 
-### [Channel-Islands.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret.md) 
+### [Channel-Islands.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret.md)
+

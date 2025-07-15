@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_access_mode )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_access_mode](/_public/schema-org/Property/Texts/has_access_mode.md) 
+### [has_access_mode](/_Standards/schema-org/Property/Texts/has_access_mode.md) 
+
+### [has_access_mode.public](/_public/schema-org/Property/Texts/has_access_mode.public.md) 
 
 ### [has_access_mode.internal](/_internal/schema-org/Property/Texts/has_access_mode.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_access_mode.personal](/_personal/schema-org/Property/Texts/has_access_mode.personal.md) 
 
-### [has_access_mode.secret](/_secret/schema-org/Property/Texts/has_access_mode.secret.md) 
+### [has_access_mode.secret](/_secret/schema-org/Property/Texts/has_access_mode.secret.md)
+

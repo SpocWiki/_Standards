@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: gameServer ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_game](/_public/schema-org/Relation/has/has_game.md) 
+### [has_game](/_Standards/schema-org/Relation/has/has_game.md) 
+
+### [has_game.public](/_public/schema-org/Relation/has/has_game.public.md) 
 
 ### [has_game.internal](/_internal/schema-org/Relation/has/has_game.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_game.personal](/_personal/schema-org/Relation/has/has_game.personal.md) 
 
-### [has_game.secret](/_secret/schema-org/Relation/has/has_game.secret.md) 
+### [has_game.secret](/_secret/schema-org/Relation/has/has_game.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ The type of the medical article, taken from the US NLM MeSH publication type cat
 PublicationType:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalScholarlyArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.md) 
+### [FileClass~MedicalScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.md) 
+
+### [FileClass~MedicalScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.public.md) 
 
 ### [FileClass~MedicalScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.internal.md) 
 
@@ -56,4 +57,5 @@ PublicationType:: {"type":"Input","options":{}}
 
 ### [FileClass~MedicalScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.personal.md) 
 
-### [FileClass~MedicalScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret.md) 
+### [FileClass~MedicalScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret.md)
+

@@ -1,4 +1,4 @@
-﻿# [[ISO]] 
+# [[ISO]] 
 
 ## Edit
 
@@ -15,9 +15,12 @@ briefMax: 128
 noteOnly: true
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [ISO](/_public/ISO.md) 
+### [ISO](/_Standards/ISO.md) 
+
+### [ISO.public](/_public/ISO.public.md) 
 
 ### [ISO.internal](/_internal/ISO.internal.md) 
 
@@ -27,4 +30,5 @@ noteOnly: true
 
 ### [ISO.personal](/_personal/ISO.personal.md) 
 
-### [ISO.secret](/_secret/ISO.secret.md) 
+### [ISO.secret](/_secret/ISO.secret.md)
+

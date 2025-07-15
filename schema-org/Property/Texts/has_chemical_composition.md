@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_chemical_composition )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_chemical_composition](/_public/schema-org/Property/Texts/has_chemical_composition.md) 
+### [has_chemical_composition](/_Standards/schema-org/Property/Texts/has_chemical_composition.md) 
+
+### [has_chemical_composition.public](/_public/schema-org/Property/Texts/has_chemical_composition.public.md) 
 
 ### [has_chemical_composition.internal](/_internal/schema-org/Property/Texts/has_chemical_composition.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_chemical_composition.personal](/_personal/schema-org/Property/Texts/has_chemical_composition.personal.md) 
 
-### [has_chemical_composition.secret](/_secret/schema-org/Property/Texts/has_chemical_composition.secret.md) 
+### [has_chemical_composition.secret](/_secret/schema-org/Property/Texts/has_chemical_composition.secret.md)
+

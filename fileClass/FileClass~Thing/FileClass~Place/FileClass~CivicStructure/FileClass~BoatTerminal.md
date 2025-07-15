@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A terminal for boats, ships, and other water vessels.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BoatTerminal](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.md) 
+### [FileClass~BoatTerminal](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.md) 
+
+### [FileClass~BoatTerminal.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.public.md) 
 
 ### [FileClass~BoatTerminal.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.internal.md) 
 
@@ -46,4 +47,5 @@ A terminal for boats, ships, and other water vessels.
 
 ### [FileClass~BoatTerminal.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.personal.md) 
 
-### [FileClass~BoatTerminal.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.secret.md) 
+### [FileClass~BoatTerminal.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BoatTerminal.secret.md)
+

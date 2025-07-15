@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [limited_by_guarantee_charity](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md) 
+### [limited_by_guarantee_charity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md) 
+
+### [limited_by_guarantee_charity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.public.md) 
 
 ### [limited_by_guarantee_charity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md) 
 
@@ -58,4 +61,5 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 
 ### [limited_by_guarantee_charity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.personal.md) 
 
-### [limited_by_guarantee_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md) 
+### [limited_by_guarantee_charity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md)
+

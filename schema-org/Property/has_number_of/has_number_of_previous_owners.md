@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_previous_owners )
 ( #has_/range :: Number, QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_previous_owners](/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.md) 
+### [has_number_of_previous_owners](/_Standards/schema-org/Property/has_number_of/has_number_of_previous_owners.md) 
+
+### [has_number_of_previous_owners.public](/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.public.md) 
 
 ### [has_number_of_previous_owners.internal](/_internal/schema-org/Property/has_number_of/has_number_of_previous_owners.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_number_of_previous_owners.personal](/_personal/schema-org/Property/has_number_of/has_number_of_previous_owners.personal.md) 
 
-### [has_number_of_previous_owners.secret](/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret.md) 
+### [has_number_of_previous_owners.secret](/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret.md)
+

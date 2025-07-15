@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The artwork on the cover of a comic.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicCoverArt](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.md) 
+### [FileClass~ComicCoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.md) 
+
+### [FileClass~ComicCoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.public.md) 
 
 ### [FileClass~ComicCoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.internal.md) 
 
@@ -46,4 +47,5 @@ The artwork on the cover of a comic.
 
 ### [FileClass~ComicCoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.personal.md) 
 
-### [FileClass~ComicCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.secret.md) 
+### [FileClass~ComicCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory/FileClass~ComicStoryAndCoverArt/FileClass~ComicCoverArt.secret.md)
+

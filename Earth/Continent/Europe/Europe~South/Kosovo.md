@@ -312,9 +312,12 @@ markerFolder: ./Kosovo//
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kosovo)
 
+
 ## Confidential Links & Embeds: 
 
-### [Kosovo](/_public/Earth/Continent/Europe/Europe~South/Kosovo.md) 
+### [Kosovo](/_Standards/Earth/Continent/Europe/Europe~South/Kosovo.md) 
+
+### [Kosovo.public](/_public/Earth/Continent/Europe/Europe~South/Kosovo.public.md) 
 
 ### [Kosovo.internal](/_internal/Earth/Continent/Europe/Europe~South/Kosovo.internal.md) 
 
@@ -324,4 +327,5 @@ markerFolder: ./Kosovo//
 
 ### [Kosovo.personal](/_personal/Earth/Continent/Europe/Europe~South/Kosovo.personal.md) 
 
-### [Kosovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret.md) 
+### [Kosovo.secret](/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret.md)
+

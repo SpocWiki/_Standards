@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_energy_efficiency_scale_min )
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_energy_efficiency_scale_min](/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.md) 
+### [has_energy_efficiency_scale_min](/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min.md) 
+
+### [has_energy_efficiency_scale_min.public](/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public.md) 
 
 ### [has_energy_efficiency_scale_min.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_energy_efficiency_scale_min.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal.md) 
 
-### [has_energy_efficiency_scale_min.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret.md) 
+### [has_energy_efficiency_scale_min.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret.md)
+

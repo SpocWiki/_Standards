@@ -190,9 +190,12 @@ Capital :: [[San_Marino]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/San%20Marino)
 
+
 ## Confidential Links & Embeds: 
 
-### [San_Marino](/_public/Earth/Continent/Europe/Europe~South/San_Marino.md) 
+### [San_Marino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino.md) 
+
+### [San_Marino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino.public.md) 
 
 ### [San_Marino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal.md) 
 
@@ -202,4 +205,5 @@ Capital :: [[San_Marino]]
 
 ### [San_Marino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal.md) 
 
-### [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md) 
+### [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md)
+

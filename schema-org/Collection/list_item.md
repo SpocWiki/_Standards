@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An list item, e.g. a step in a checklist or how-to description.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [list_item](/_public/schema-org/Collection/list_item.md) 
+### [list_item](/_Standards/schema-org/Collection/list_item.md) 
+
+### [list_item.public](/_public/schema-org/Collection/list_item.public.md) 
 
 ### [list_item.internal](/_internal/schema-org/Collection/list_item.internal.md) 
 
@@ -56,4 +59,5 @@ An list item, e.g. a step in a checklist or how-to description.
 
 ### [list_item.personal](/_personal/schema-org/Collection/list_item.personal.md) 
 
-### [list_item.secret](/_secret/schema-org/Collection/list_item.secret.md) 
+### [list_item.secret](/_secret/schema-org/Collection/list_item.secret.md)
+

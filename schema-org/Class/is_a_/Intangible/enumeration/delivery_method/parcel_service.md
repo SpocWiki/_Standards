@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Commonly used values:
 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parcel_service](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.md) 
+### [parcel_service](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.md) 
+
+### [parcel_service.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.public.md) 
 
 ### [parcel_service.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.internal.md) 
 
@@ -64,4 +67,5 @@ Commonly used values:
 
 ### [parcel_service.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.personal.md) 
 
-### [parcel_service.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.secret.md) 
+### [parcel_service.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/delivery_method/parcel_service.secret.md)
+

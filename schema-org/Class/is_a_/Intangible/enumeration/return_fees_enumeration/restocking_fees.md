@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [restocking_fees](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.md) 
+### [restocking_fees](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.md) 
+
+### [restocking_fees.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.public.md) 
 
 ### [restocking_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 ### [restocking_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md) 
 
-### [restocking_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md) 
+### [restocking_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md)
+

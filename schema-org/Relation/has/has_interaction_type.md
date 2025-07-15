@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_interaction_type](/_public/schema-org/Relation/has/has_interaction_type.md) 
+### [has_interaction_type](/_Standards/schema-org/Relation/has/has_interaction_type.md) 
+
+### [has_interaction_type.public](/_public/schema-org/Relation/has/has_interaction_type.public.md) 
 
 ### [has_interaction_type.internal](/_internal/schema-org/Relation/has/has_interaction_type.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_interaction_type.personal](/_personal/schema-org/Relation/has/has_interaction_type.personal.md) 
 
-### [has_interaction_type.secret](/_secret/schema-org/Relation/has/has_interaction_type.secret.md) 
+### [has_interaction_type.secret](/_secret/schema-org/Relation/has/has_interaction_type.secret.md)
+

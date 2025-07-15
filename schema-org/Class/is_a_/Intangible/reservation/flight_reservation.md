@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice, underName, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [flight_reservation](/_public/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.md) 
+### [flight_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.md) 
+
+### [flight_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.public.md) 
 
 ### [flight_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.internal.md) 
 
@@ -56,4 +59,5 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ### [flight_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.personal.md) 
 
-### [flight_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.secret.md) 
+### [flight_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/flight_reservation.secret.md)
+

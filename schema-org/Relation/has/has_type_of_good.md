@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_type_of_good )
 ( #has_/range :: Product, Service )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_type_of_good](/_public/schema-org/Relation/has/has_type_of_good.md) 
+### [has_type_of_good](/_Standards/schema-org/Relation/has/has_type_of_good.md) 
+
+### [has_type_of_good.public](/_public/schema-org/Relation/has/has_type_of_good.public.md) 
 
 ### [has_type_of_good.internal](/_internal/schema-org/Relation/has/has_type_of_good.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_type_of_good.personal](/_personal/schema-org/Relation/has/has_type_of_good.personal.md) 
 
-### [has_type_of_good.secret](/_secret/schema-org/Relation/has/has_type_of_good.secret.md) 
+### [has_type_of_good.secret](/_secret/schema-org/Relation/has/has_type_of_good.secret.md)
+

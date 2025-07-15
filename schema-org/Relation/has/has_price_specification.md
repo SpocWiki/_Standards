@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_price_specification )
 ( #has_/range :: PriceSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_price_specification](/_public/schema-org/Relation/has/has_price_specification.md) 
+### [has_price_specification](/_Standards/schema-org/Relation/has/has_price_specification.md) 
+
+### [has_price_specification.public](/_public/schema-org/Relation/has/has_price_specification.public.md) 
 
 ### [has_price_specification.internal](/_internal/schema-org/Relation/has/has_price_specification.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_price_specification.personal](/_personal/schema-org/Relation/has/has_price_specification.personal.md) 
 
-### [has_price_specification.secret](/_secret/schema-org/Relation/has/has_price_specification.secret.md) 
+### [has_price_specification.secret](/_secret/schema-org/Relation/has/has_price_specification.secret.md)
+

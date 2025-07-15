@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_carrier_requirements )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_carrier_requirements](/_public/schema-org/Property/Texts/has_carrier_requirements.md) 
+### [has_carrier_requirements](/_Standards/schema-org/Property/Texts/has_carrier_requirements.md) 
+
+### [has_carrier_requirements.public](/_public/schema-org/Property/Texts/has_carrier_requirements.public.md) 
 
 ### [has_carrier_requirements.internal](/_internal/schema-org/Property/Texts/has_carrier_requirements.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_carrier_requirements.personal](/_personal/schema-org/Property/Texts/has_carrier_requirements.personal.md) 
 
-### [has_carrier_requirements.secret](/_secret/schema-org/Property/Texts/has_carrier_requirements.secret.md) 
+### [has_carrier_requirements.secret](/_secret/schema-org/Property/Texts/has_carrier_requirements.secret.md)
+

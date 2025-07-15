@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A volcano, like Fujisan.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [volcano](/_public/schema-org/Class/is_a_/place/landform/volcano.md) 
+### [volcano](/_Standards/schema-org/Class/is_a_/place/landform/volcano.md) 
+
+### [volcano.public](/_public/schema-org/Class/is_a_/place/landform/volcano.public.md) 
 
 ### [volcano.internal](/_internal/schema-org/Class/is_a_/place/landform/volcano.internal.md) 
 
@@ -54,4 +57,5 @@ A volcano, like Fujisan.
 
 ### [volcano.personal](/_personal/schema-org/Class/is_a_/place/landform/volcano.personal.md) 
 
-### [volcano.secret](/_secret/schema-org/Class/is_a_/place/landform/volcano.secret.md) 
+### [volcano.secret](/_secret/schema-org/Class/is_a_/place/landform/volcano.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Tullio Levi-Civita
 ---
@@ -24,18 +24,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tullio%20Levi-Civita)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Levi-Civita,Tullio](/_public/Mathematics/Mathematicians/Levi-Civita,Tullio.md) 
+### [Levi-Civita,Tullio](/_Standards/bio/People/Mathematician/Levi-Civita,Tullio.md) 
 
-### [Levi-Civita,Tullio.internal](/_internal/Mathematics/Mathematicians/Levi-Civita,Tullio.internal.md) 
+### [Levi-Civita,Tullio.public](/_public/bio/People/Mathematician/Levi-Civita,Tullio.public.md) 
 
-### [Levi-Civita,Tullio.protect](/_protect/Mathematics/Mathematicians/Levi-Civita,Tullio.protect.md) 
+### [Levi-Civita,Tullio.internal](/_internal/bio/People/Mathematician/Levi-Civita,Tullio.internal.md) 
 
-### [Levi-Civita,Tullio.private](/_private/Mathematics/Mathematicians/Levi-Civita,Tullio.private.md) 
+### [Levi-Civita,Tullio.protect](/_protect/bio/People/Mathematician/Levi-Civita,Tullio.protect.md) 
 
-### [Levi-Civita,Tullio.personal](/_personal/Mathematics/Mathematicians/Levi-Civita,Tullio.personal.md) 
+### [Levi-Civita,Tullio.private](/_private/bio/People/Mathematician/Levi-Civita,Tullio.private.md) 
 
-### [Levi-Civita,Tullio.secret](/_secret/Mathematics/Mathematicians/Levi-Civita,Tullio.secret.md) 
+### [Levi-Civita,Tullio.personal](/_personal/bio/People/Mathematician/Levi-Civita,Tullio.personal.md) 
+
+### [Levi-Civita,Tullio.secret](/_secret/bio/People/Mathematician/Levi-Civita,Tullio.secret.md)
+

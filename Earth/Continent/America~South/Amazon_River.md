@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Amazon River"
 has_id_wikidata: Q3783
@@ -96,4 +96,23 @@ pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/De-Amaz
 > The Amazon River has an average discharge of about 215,000–230,000 m3/s (7,600,000–8,100,000 cu ft/s)—approximately 6,591–7,570 km3 (1,581–1,816 cu mi) per year, greater than the next seven largest independent rivers combined. Two of the top ten rivers by discharge are tributaries of the Amazon river. The Amazon represents 20% of the global riverine discharge into oceans. The Amazon basin is the largest drainage basin in the world, with an area of approximately 7,000,000 km2 (2,700,000 sq mi). The portion of the river's drainage basin in Brazil alone is larger than any other river's basin. The Amazon enters Brazil with only one-fifth of the flow it finally discharges into the Atlantic Ocean, yet already has a greater flow at this point than the discharge of any other river in the world.It has a length of 6,400 km (3977 miles) but according to some report its length varies from 7,025-7,100 km (4,365-4,410 miles).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20River) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Amazon_River](/_Standards/Earth/Continent/America~South/Amazon_River.md) 
+
+### [Amazon_River.public](/_public/Earth/Continent/America~South/Amazon_River.public.md) 
+
+### [Amazon_River.internal](/_internal/Earth/Continent/America~South/Amazon_River.internal.md) 
+
+### [Amazon_River.protect](/_protect/Earth/Continent/America~South/Amazon_River.protect.md) 
+
+### [Amazon_River.private](/_private/Earth/Continent/America~South/Amazon_River.private.md) 
+
+### [Amazon_River.personal](/_personal/Earth/Continent/America~South/Amazon_River.personal.md) 
+
+### [Amazon_River.secret](/_secret/Earth/Continent/America~South/Amazon_River.secret.md)
 

@@ -69,10 +69,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~1~Calymmian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
+### [Period~1~Calymmian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
+
+### [Period~1~Calymmian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.public.md) 
 
 ### [Period~1~Calymmian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal.md) 
 
@@ -82,4 +83,5 @@ noteOnly: true
 
 ### [Period~1~Calymmian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal.md) 
 
-### [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md) 
+### [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -69,10 +69,11 @@ Indicates the first known occurrence of a [[Claim]] in some [[CreativeWork]].
 FirstAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Claim](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.md) 
+### [FileClass~Claim](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.md) 
+
+### [FileClass~Claim.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.public.md) 
 
 ### [FileClass~Claim.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.internal.md) 
 
@@ -82,4 +83,5 @@ FirstAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~Claim.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.personal.md) 
 
-### [FileClass~Claim.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.secret.md) 
+### [FileClass~Claim.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Claim.secret.md)
+

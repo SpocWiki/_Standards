@@ -1,4 +1,4 @@
-﻿# [[African]] 
+# [[African]] 
 
 ## Edit
 
@@ -33,7 +33,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [African](/_public/Earth/Ocean/Ocean~Atlantic/African.md) 
+### [African](/_Standards/Earth/Ocean/Ocean~Atlantic/African.md) 
+
+### [African.public](/_public/Earth/Ocean/Ocean~Atlantic/African.public.md) 
 
 ### [African.internal](/_internal/Earth/Ocean/Ocean~Atlantic/African.internal.md) 
 
@@ -43,4 +45,5 @@ noteOnly: true
 
 ### [African.personal](/_personal/Earth/Ocean/Ocean~Atlantic/African.personal.md) 
 
-### [African.secret](/_secret/Earth/Ocean/Ocean~Atlantic/African.secret.md) 
+### [African.secret](/_secret/Earth/Ocean/Ocean~Atlantic/African.secret.md)
+

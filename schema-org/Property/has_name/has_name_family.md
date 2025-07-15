@@ -88,10 +88,11 @@ Predicated describes that:
 ## as first Part of a Persons Name in Countries 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [has_name_family](/_public/schema-org/Property/has_name/has_name_family.md) 
+### [has_name_family](/_Standards/schema-org/Property/has_name/has_name_family.md) 
+
+### [has_name_family.public](/_public/schema-org/Property/has_name/has_name_family.public.md) 
 
 ### [has_name_family.internal](/_internal/schema-org/Property/has_name/has_name_family.internal.md) 
 
@@ -101,4 +102,5 @@ Predicated describes that:
 
 ### [has_name_family.personal](/_personal/schema-org/Property/has_name/has_name_family.personal.md) 
 
-### [has_name_family.secret](/_secret/schema-org/Property/has_name/has_name_family.secret.md) 
+### [has_name_family.secret](/_secret/schema-org/Property/has_name/has_name_family.secret.md)
+

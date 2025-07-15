@@ -1,8 +1,11 @@
-﻿Subclass of [[rdfs~Class]] with more expressive power. 
+Subclass of [[rdfs~Class]] with more expressive power. 
+
 
 ## Confidential Links & Embeds: 
 
-### [owl~Class](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.md) 
+### [owl~Class](/_Standards/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.md) 
+
+### [owl~Class.public](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.public.md) 
 
 ### [owl~Class.internal](/_internal/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.internal.md) 
 
@@ -12,4 +15,5 @@
 
 ### [owl~Class.personal](/_personal/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.personal.md) 
 
-### [owl~Class.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.secret.md) 
+### [owl~Class.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Classes/owl~Class.secret.md)
+

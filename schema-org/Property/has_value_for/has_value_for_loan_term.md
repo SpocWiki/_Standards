@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: duration ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_loan_term](/_public/schema-org/Property/has_value_for/has_value_for_loan_term.md) 
+### [has_value_for_loan_term](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_term.md) 
+
+### [has_value_for_loan_term.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_term.public.md) 
 
 ### [has_value_for_loan_term.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_term.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_loan_term.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_term.personal.md) 
 
-### [has_value_for_loan_term.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_term.secret.md) 
+### [has_value_for_loan_term.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_term.secret.md)
+

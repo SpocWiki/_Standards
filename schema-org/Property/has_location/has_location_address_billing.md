@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_address_billing )
 ( #has_/range :: PostalAddress )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_address_billing](/_public/schema-org/Property/has_location/has_location_address_billing.md) 
+### [has_location_address_billing](/_Standards/schema-org/Property/has_location/has_location_address_billing.md) 
+
+### [has_location_address_billing.public](/_public/schema-org/Property/has_location/has_location_address_billing.public.md) 
 
 ### [has_location_address_billing.internal](/_internal/schema-org/Property/has_location/has_location_address_billing.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_address_billing.personal](/_personal/schema-org/Property/has_location/has_location_address_billing.personal.md) 
 
-### [has_location_address_billing.secret](/_secret/schema-org/Property/has_location/has_location_address_billing.secret.md) 
+### [has_location_address_billing.secret](/_secret/schema-org/Property/has_location/has_location_address_billing.secret.md)
+

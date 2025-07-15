@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "World Bank"
 has_id_wikidata: Q7164
@@ -106,4 +106,21 @@ motto_text: "Working for a World Free of Poverty"
 > The World Bank has been criticized as promoting inflation and harming economic development. There has also been criticism of the bank's governance and response to the COVID-19 pandemic. The current president (starting in 2023) is Ajay Banga who is known to support climate action, unlike his predecessor David Malpass.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Bank)
+
+
+## Confidential Links & Embeds: 
+
+### [World_Bank](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.md) 
+
+### [World_Bank.public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.public.md) 
+
+### [World_Bank.internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.internal.md) 
+
+### [World_Bank.protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.protect.md) 
+
+### [World_Bank.private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.private.md) 
+
+### [World_Bank.personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.personal.md) 
+
+### [World_Bank.secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank.secret.md)
 

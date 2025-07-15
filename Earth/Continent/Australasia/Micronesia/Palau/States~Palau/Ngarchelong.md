@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.71 , 134.64 ] 
 type: geo-Region
 title: Ngarchelong
@@ -41,7 +41,9 @@ markerFolder: ./Ngarchelong/
 
 ## Confidential Links & Embeds: 
 
-### [Ngarchelong](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.md) 
+### [Ngarchelong](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.md) 
+
+### [Ngarchelong.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.public.md) 
 
 ### [Ngarchelong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngarchelong/
 
 ### [Ngarchelong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.personal.md) 
 
-### [Ngarchelong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.secret.md) 
+### [Ngarchelong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngarchelong.secret.md)
+

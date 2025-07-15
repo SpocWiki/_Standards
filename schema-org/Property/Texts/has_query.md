@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_query](/_public/schema-org/Property/Texts/has_query.md) 
+### [has_query](/_Standards/schema-org/Property/Texts/has_query.md) 
+
+### [has_query.public](/_public/schema-org/Property/Texts/has_query.public.md) 
 
 ### [has_query.internal](/_internal/schema-org/Property/Texts/has_query.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_query.personal](/_personal/schema-org/Property/Texts/has_query.personal.md) 
 
-### [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md) 
+### [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md)
+

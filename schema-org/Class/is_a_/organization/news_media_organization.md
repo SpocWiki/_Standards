@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A News/Media organization such as a newspaper or TV station.
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, masthead, member, memberOf, members, missionCoveragePrioritiesPolicy, naics, name, noBylinesPolicy, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID, verificationFactCheckingPolicy ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [news_media_organization](/_public/schema-org/Class/is_a_/organization/news_media_organization.md) 
+### [news_media_organization](/_Standards/schema-org/Class/is_a_/organization/news_media_organization.md) 
+
+### [news_media_organization.public](/_public/schema-org/Class/is_a_/organization/news_media_organization.public.md) 
 
 ### [news_media_organization.internal](/_internal/schema-org/Class/is_a_/organization/news_media_organization.internal.md) 
 
@@ -56,4 +59,5 @@ A News/Media organization such as a newspaper or TV station.
 
 ### [news_media_organization.personal](/_personal/schema-org/Class/is_a_/organization/news_media_organization.personal.md) 
 
-### [news_media_organization.secret](/_secret/schema-org/Class/is_a_/organization/news_media_organization.secret.md) 
+### [news_media_organization.secret](/_secret/schema-org/Class/is_a_/organization/news_media_organization.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -121,10 +121,11 @@ Minimum recommended age in years for the audience or user.
 SuggestedMinAge:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PeopleAudience](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.md) 
+### [FileClass~PeopleAudience](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.md) 
+
+### [FileClass~PeopleAudience.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.public.md) 
 
 ### [FileClass~PeopleAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.internal.md) 
 
@@ -134,4 +135,5 @@ SuggestedMinAge:: {"type":"Number","options":{}}
 
 ### [FileClass~PeopleAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.personal.md) 
 
-### [FileClass~PeopleAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.secret.md) 
+### [FileClass~PeopleAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience.secret.md)
+

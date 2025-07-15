@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_loan_payment_frequency )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_loan_payment_frequency](/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.md) 
+### [has_value_for_loan_payment_frequency](/_Standards/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.md) 
+
+### [has_value_for_loan_payment_frequency.public](/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.public.md) 
 
 ### [has_value_for_loan_payment_frequency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_loan_payment_frequency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.personal.md) 
 
-### [has_value_for_loan_payment_frequency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.secret.md) 
+### [has_value_for_loan_payment_frequency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_frequency.secret.md)
+

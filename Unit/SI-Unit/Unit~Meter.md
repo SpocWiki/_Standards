@@ -109,7 +109,9 @@ Unit :: #Unit/SI/m
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Meter](/_public/Unit/SI-Unit/Unit~Meter.md) 
+### [Unit~Meter](/_Standards/Unit/SI-Unit/Unit~Meter.md) 
+
+### [Unit~Meter.public](/_public/Unit/SI-Unit/Unit~Meter.public.md) 
 
 ### [Unit~Meter.internal](/_internal/Unit/SI-Unit/Unit~Meter.internal.md) 
 
@@ -119,4 +121,5 @@ Unit :: #Unit/SI/m
 
 ### [Unit~Meter.personal](/_personal/Unit/SI-Unit/Unit~Meter.personal.md) 
 
-### [Unit~Meter.secret](/_secret/Unit/SI-Unit/Unit~Meter.secret.md) 
+### [Unit~Meter.secret](/_secret/Unit/SI-Unit/Unit~Meter.secret.md)
+

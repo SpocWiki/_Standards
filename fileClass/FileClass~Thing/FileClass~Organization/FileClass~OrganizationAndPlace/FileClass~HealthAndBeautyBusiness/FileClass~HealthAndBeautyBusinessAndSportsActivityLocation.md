@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ See HealthAndBeautyBusiness, SportsActivityLocation for more information.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.md) 
+### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.md) 
+
+### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public.md) 
 
 ### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal.md) 
 
@@ -46,4 +47,5 @@ See HealthAndBeautyBusiness, SportsActivityLocation for more information.
 
 ### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal.md) 
 
-### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret.md) 
+### [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, commentText, commentTime, composer, contributor, creator, description, director, disambiguatingDescription, discusses, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, replyToUrl, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [user_comments](/_public/schema-org/Class/is_a_/event/user_interaction/user_comments.md) 
+### [user_comments](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_comments.md) 
+
+### [user_comments.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_comments.public.md) 
 
 ### [user_comments.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_comments.internal.md) 
 
@@ -57,4 +60,5 @@ Tag Instances like this:
 
 ### [user_comments.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_comments.personal.md) 
 
-### [user_comments.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_comments.secret.md) 
+### [user_comments.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_comments.secret.md)
+

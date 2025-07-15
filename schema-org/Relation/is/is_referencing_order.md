@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_referencing_order)
 ( #has_/range :: Order)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_referencing_order](/_public/schema-org/Relation/is/is_referencing_order.md) 
+### [is_referencing_order](/_Standards/schema-org/Relation/is/is_referencing_order.md) 
+
+### [is_referencing_order.public](/_public/schema-org/Relation/is/is_referencing_order.public.md) 
 
 ### [is_referencing_order.internal](/_internal/schema-org/Relation/is/is_referencing_order.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_referencing_order.personal](/_personal/schema-org/Relation/is/is_referencing_order.personal.md) 
 
-### [is_referencing_order.secret](/_secret/schema-org/Relation/is/is_referencing_order.secret.md) 
+### [is_referencing_order.secret](/_secret/schema-org/Relation/is/is_referencing_order.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_prescribing_by_mail )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_prescribing_by_mail](/_public/schema-org/Property/Flags/is_prescribing_by_mail.md) 
+### [is_prescribing_by_mail](/_Standards/schema-org/Property/Flags/is_prescribing_by_mail.md) 
+
+### [is_prescribing_by_mail.public](/_public/schema-org/Property/Flags/is_prescribing_by_mail.public.md) 
 
 ### [is_prescribing_by_mail.internal](/_internal/schema-org/Property/Flags/is_prescribing_by_mail.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_prescribing_by_mail.personal](/_personal/schema-org/Property/Flags/is_prescribing_by_mail.personal.md) 
 
-### [is_prescribing_by_mail.secret](/_secret/schema-org/Property/Flags/is_prescribing_by_mail.secret.md) 
+### [is_prescribing_by_mail.secret](/_secret/schema-org/Property/Flags/is_prescribing_by_mail.secret.md)
+

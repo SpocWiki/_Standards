@@ -1,4 +1,4 @@
-﻿Use this Relation to specify a [[../Class]] for Any-[[Thing]] like this: 
+Use this Relation to specify a [[../Class]] for Any-[[Thing]] like this: 
 #is_a_ :: [[../Relation]] 
 
 The Name is motivated from the [[TRTL]]-Language which abbreviates the [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type|rdf~type]] Relation with "is a" because it is so common. 
@@ -13,9 +13,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [is_a_](/_public/schema-org/Class/is_a_.md) 
+### [is_a_](/_Standards/schema-org/Class/is_a_.md) 
+
+### [is_a_.public](/_public/schema-org/Class/is_a_.public.md) 
 
 ### [is_a_.internal](/_internal/schema-org/Class/is_a_.internal.md) 
 
@@ -25,4 +28,5 @@ type: folder_brief_live
 
 ### [is_a_.personal](/_personal/schema-org/Class/is_a_.personal.md) 
 
-### [is_a_.secret](/_secret/schema-org/Class/is_a_.secret.md) 
+### [is_a_.secret](/_secret/schema-org/Class/is_a_.secret.md)
+

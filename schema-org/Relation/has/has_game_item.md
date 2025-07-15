@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_game_item )
 ( #has_/range :: Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_game_item](/_public/schema-org/Relation/has/has_game_item.md) 
+### [has_game_item](/_Standards/schema-org/Relation/has/has_game_item.md) 
+
+### [has_game_item.public](/_public/schema-org/Relation/has/has_game_item.public.md) 
 
 ### [has_game_item.internal](/_internal/schema-org/Relation/has/has_game_item.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_game_item.personal](/_personal/schema-org/Relation/has/has_game_item.personal.md) 
 
-### [has_game_item.secret](/_secret/schema-org/Relation/has/has_game_item.secret.md) 
+### [has_game_item.secret](/_secret/schema-org/Relation/has/has_game_item.secret.md)
+

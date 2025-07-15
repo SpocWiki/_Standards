@@ -121,3 +121,22 @@ Verlag des Bibliographischen Instituts, Leipzig and Vienna. Scans
 courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
 
 ![Calanus_pavo](Calanus_pavo.jpg)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Calanoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.md) 
+
+### [Calanoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.public.md) 
+
+### [Calanoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.internal.md) 
+
+### [Calanoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.protect.md) 
+
+### [Calanoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.private.md) 
+
+### [Calanoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.personal.md) 
+
+### [Calanoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Calanoida.secret.md)
+

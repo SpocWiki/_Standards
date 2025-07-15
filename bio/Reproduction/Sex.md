@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q290
 different_from:
 - "[[_Standards/WikiData/WD~grammatical_gender,162378]]"
@@ -59,4 +59,21 @@ Commons_category: Sex
 > The terms male and female typically do not apply in sexually undifferentiated species in which the individuals are isomorphic (look the same) and the gametes are isogamous (indistinguishable in size and shape), such as the green alga Ulva lactuca. Some kinds of functional differences between individuals, such as in fungi, may be referred to as mating types.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sex)
+
+
+## Confidential Links & Embeds: 
+
+### [Sex](/_Standards/bio/Reproduction/Sex.md) 
+
+### [Sex.public](/_public/bio/Reproduction/Sex.public.md) 
+
+### [Sex.internal](/_internal/bio/Reproduction/Sex.internal.md) 
+
+### [Sex.protect](/_protect/bio/Reproduction/Sex.protect.md) 
+
+### [Sex.private](/_private/bio/Reproduction/Sex.private.md) 
+
+### [Sex.personal](/_personal/bio/Reproduction/Sex.personal.md) 
+
+### [Sex.secret](/_secret/bio/Reproduction/Sex.secret.md)
 

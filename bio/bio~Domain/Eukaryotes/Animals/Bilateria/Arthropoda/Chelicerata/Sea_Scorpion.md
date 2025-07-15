@@ -110,3 +110,22 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ![](Pterygotus_anglicus.jpg)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sea_Scorpion](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.md) 
+
+### [Sea_Scorpion.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.public.md) 
+
+### [Sea_Scorpion.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.internal.md) 
+
+### [Sea_Scorpion.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.protect.md) 
+
+### [Sea_Scorpion.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.private.md) 
+
+### [Sea_Scorpion.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.personal.md) 
+
+### [Sea_Scorpion.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Sea_Scorpion.secret.md)
+

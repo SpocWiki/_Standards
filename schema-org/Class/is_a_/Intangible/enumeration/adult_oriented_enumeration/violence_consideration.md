@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Item shows or promotes violence.
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [violence_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.md) 
+### [violence_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.md) 
+
+### [violence_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.public.md) 
 
 ### [violence_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ Item shows or promotes violence.
 
 ### [violence_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.personal.md) 
 
-### [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md) 
+### [violence_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/violence_consideration.secret.md)
+

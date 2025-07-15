@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_shipping_origin )
 ( #has_/range :: DefinedRegion )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_shipping_origin](/_public/schema-org/Relation/has/has_shipping_origin.md) 
+### [has_shipping_origin](/_Standards/schema-org/Relation/has/has_shipping_origin.md) 
+
+### [has_shipping_origin.public](/_public/schema-org/Relation/has/has_shipping_origin.public.md) 
 
 ### [has_shipping_origin.internal](/_internal/schema-org/Relation/has/has_shipping_origin.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_shipping_origin.personal](/_personal/schema-org/Relation/has/has_shipping_origin.personal.md) 
 
-### [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md) 
+### [has_shipping_origin.secret](/_secret/schema-org/Relation/has/has_shipping_origin.secret.md)
+

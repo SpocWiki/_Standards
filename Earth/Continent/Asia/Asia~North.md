@@ -1,4 +1,4 @@
-﻿
+
 # [[Asia~North]] 
 
 These Regions are part of [[Russia]].
@@ -26,7 +26,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Asia~North](/_public/Earth/Continent/Asia/Asia~North.md) 
+### [Asia~North](/_Standards/Earth/Continent/Asia/Asia~North.md) 
+
+### [Asia~North.public](/_public/Earth/Continent/Asia/Asia~North.public.md) 
 
 ### [Asia~North.internal](/_internal/Earth/Continent/Asia/Asia~North.internal.md) 
 
@@ -36,4 +38,5 @@ type: folder_brief_live
 
 ### [Asia~North.personal](/_personal/Earth/Continent/Asia/Asia~North.personal.md) 
 
-### [Asia~North.secret](/_secret/Earth/Continent/Asia/Asia~North.secret.md) 
+### [Asia~North.secret](/_secret/Earth/Continent/Asia/Asia~North.secret.md)
+

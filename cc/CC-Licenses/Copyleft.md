@@ -1,4 +1,4 @@
-﻿
+
 #has_/creator :: [[../../../IT/Programming/Programmers/Stallman,Richard]] 
 
 Copyleft is a Reaction to the [[US_Copyright_Act,1976]] on Software, 
@@ -42,10 +42,11 @@ which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998.
 > [Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Copyleft](/_public/cc/CC-Licenses/Copyleft.md) 
+### [Copyleft](/_Standards/cc/CC-Licenses/Copyleft.md) 
+
+### [Copyleft.public](/_public/cc/CC-Licenses/Copyleft.public.md) 
 
 ### [Copyleft.internal](/_internal/cc/CC-Licenses/Copyleft.internal.md) 
 
@@ -55,4 +56,5 @@ which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998.
 
 ### [Copyleft.personal](/_personal/cc/CC-Licenses/Copyleft.personal.md) 
 
-### [Copyleft.secret](/_secret/cc/CC-Licenses/Copyleft.secret.md) 
+### [Copyleft.secret](/_secret/cc/CC-Licenses/Copyleft.secret.md)
+

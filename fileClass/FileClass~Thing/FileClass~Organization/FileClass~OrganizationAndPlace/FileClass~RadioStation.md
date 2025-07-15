@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A radio station.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RadioStation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.md) 
+### [FileClass~RadioStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.md) 
+
+### [FileClass~RadioStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.public.md) 
 
 ### [FileClass~RadioStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.internal.md) 
 
@@ -46,4 +47,5 @@ A radio station.
 
 ### [FileClass~RadioStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.personal.md) 
 
-### [FileClass~RadioStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.secret.md) 
+### [FileClass~RadioStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.secret.md)
+

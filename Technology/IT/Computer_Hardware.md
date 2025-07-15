@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Computer hardware"
 has_id_wikidata: Q3966
@@ -59,6 +59,19 @@ Universal_Decimal_Classification: 004.3
 > [Wikipedia](https://en.wikipedia.org/wiki/Computer%20hardware)
 
 
+## Confidential Links & Embeds: 
 
+### [Computer_Hardware](/_Standards/Technology/IT/Computer_Hardware.md) 
 
+### [Computer_Hardware.public](/_public/Technology/IT/Computer_Hardware.public.md) 
+
+### [Computer_Hardware.internal](/_internal/Technology/IT/Computer_Hardware.internal.md) 
+
+### [Computer_Hardware.protect](/_protect/Technology/IT/Computer_Hardware.protect.md) 
+
+### [Computer_Hardware.private](/_private/Technology/IT/Computer_Hardware.private.md) 
+
+### [Computer_Hardware.personal](/_personal/Technology/IT/Computer_Hardware.personal.md) 
+
+### [Computer_Hardware.secret](/_secret/Technology/IT/Computer_Hardware.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_material_extent )
 ( #has_/range :: QuantitativeValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_material_extent](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
+### [has_value_for_material_extent](/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
+
+### [has_value_for_material_extent.public](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public.md) 
 
 ### [has_value_for_material_extent.internal](/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_material_extent.personal](/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal.md) 
 
-### [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md) 
+### [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md)
+

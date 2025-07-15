@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A permit issued by an organization, e.g. a parking pass.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [permit](/_public/schema-org/Class/is_a_/Intangible/permit.md) 
+### [permit](/_Standards/schema-org/Class/is_a_/Intangible/permit.md) 
+
+### [permit.public](/_public/schema-org/Class/is_a_/Intangible/permit.public.md) 
 
 ### [permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit.internal.md) 
 
@@ -56,4 +59,5 @@ A permit issued by an organization, e.g. a parking pass.
 
 ### [permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit.personal.md) 
 
-### [permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit.secret.md) 
+### [permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit.secret.md)
+

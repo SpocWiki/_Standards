@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ A tourist destination. In principle any [[Place]] can be a [[TouristDestination]
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [tourist_destination](/_public/schema-org/Class/is_a_/place/tourist_destination.md) 
+### [tourist_destination](/_Standards/schema-org/Class/is_a_/place/tourist_destination.md) 
+
+### [tourist_destination.public](/_public/schema-org/Class/is_a_/place/tourist_destination.public.md) 
 
 ### [tourist_destination.internal](/_internal/schema-org/Class/is_a_/place/tourist_destination.internal.md) 
 
@@ -57,4 +60,5 @@ A tourist destination. In principle any [[Place]] can be a [[TouristDestination]
 
 ### [tourist_destination.personal](/_personal/schema-org/Class/is_a_/place/tourist_destination.personal.md) 
 
-### [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md) 
+### [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md)
+

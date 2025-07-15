@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ Place of worship, such as a church, synagogue, or mosque.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PlaceOfWorship](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.md) 
+### [FileClass~PlaceOfWorship](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.md) 
+
+### [FileClass~PlaceOfWorship.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.public.md) 
 
 ### [FileClass~PlaceOfWorship.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.internal.md) 
 
@@ -46,4 +47,5 @@ Place of worship, such as a church, synagogue, or mosque.
 
 ### [FileClass~PlaceOfWorship.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.personal.md) 
 
-### [FileClass~PlaceOfWorship.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.secret.md) 
+### [FileClass~PlaceOfWorship.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship.secret.md)
+

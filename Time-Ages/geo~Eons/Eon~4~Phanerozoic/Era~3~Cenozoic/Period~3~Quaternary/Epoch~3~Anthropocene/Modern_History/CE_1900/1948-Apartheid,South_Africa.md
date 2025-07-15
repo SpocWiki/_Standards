@@ -83,3 +83,22 @@ has_time_started: 1948-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apartheid) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1948-Apartheid,South_Africa](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.md) 
+
+### [1948-Apartheid,South_Africa.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.public.md) 
+
+### [1948-Apartheid,South_Africa.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.internal.md) 
+
+### [1948-Apartheid,South_Africa.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.protect.md) 
+
+### [1948-Apartheid,South_Africa.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.private.md) 
+
+### [1948-Apartheid,South_Africa.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.personal.md) 
+
+### [1948-Apartheid,South_Africa.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.secret.md)
+

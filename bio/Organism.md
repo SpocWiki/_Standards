@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7239
 uses:
 - '[[_Standards/WikiData/WD~fertilizer,83323]]'
@@ -70,4 +70,21 @@ Commons_category: Organisms
 > The evolutionary biologists David Queller and Joan Strassmann state that "organismality", the qualities or attributes that define an entity as an organism, has evolved socially as groups of simpler units (from cells upwards) came to cooperate without conflicts. They propose that cooperation should be used as the "defining trait" of an organism. This would treat many types of collaboration, including the fungus/alga partnership of different species in a lichen, or the permanent sexual partnership of an anglerfish, as an organism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Organism)
+
+
+## Confidential Links & Embeds: 
+
+### [Organism](/_Standards/bio/Organism.md) 
+
+### [Organism.public](/_public/bio/Organism.public.md) 
+
+### [Organism.internal](/_internal/bio/Organism.internal.md) 
+
+### [Organism.protect](/_protect/bio/Organism.protect.md) 
+
+### [Organism.private](/_private/bio/Organism.private.md) 
+
+### [Organism.personal](/_personal/bio/Organism.personal.md) 
+
+### [Organism.secret](/_secret/bio/Organism.secret.md)
 

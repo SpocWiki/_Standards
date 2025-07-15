@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7895
 subclass_of:
 - "[[_Standards/WikiData/WD~organ_system,188193]]"
@@ -26,4 +26,23 @@ TA98_Latin_term: "systemata genitalia"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reproductive%20system)  
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Reproductive_System](/_Standards/bio/Medicine/Anatomy/Reproductive_System.md) 
+
+### [Reproductive_System.public](/_public/bio/Medicine/Anatomy/Reproductive_System.public.md) 
+
+### [Reproductive_System.internal](/_internal/bio/Medicine/Anatomy/Reproductive_System.internal.md) 
+
+### [Reproductive_System.protect](/_protect/bio/Medicine/Anatomy/Reproductive_System.protect.md) 
+
+### [Reproductive_System.private](/_private/bio/Medicine/Anatomy/Reproductive_System.private.md) 
+
+### [Reproductive_System.personal](/_personal/bio/Medicine/Anatomy/Reproductive_System.personal.md) 
+
+### [Reproductive_System.secret](/_secret/bio/Medicine/Anatomy/Reproductive_System.secret.md)
 

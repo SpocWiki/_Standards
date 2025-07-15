@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_warranty_scope )
 ( #has_/range :: WarrantyScope )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_warranty_scope](/_public/schema-org/Relation/has/has_warranty_scope.md) 
+### [has_warranty_scope](/_Standards/schema-org/Relation/has/has_warranty_scope.md) 
+
+### [has_warranty_scope.public](/_public/schema-org/Relation/has/has_warranty_scope.public.md) 
 
 ### [has_warranty_scope.internal](/_internal/schema-org/Relation/has/has_warranty_scope.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_warranty_scope.personal](/_personal/schema-org/Relation/has/has_warranty_scope.personal.md) 
 
-### [has_warranty_scope.secret](/_secret/schema-org/Relation/has/has_warranty_scope.secret.md) 
+### [has_warranty_scope.secret](/_secret/schema-org/Relation/has/has_warranty_scope.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_artform )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_artform](/_public/schema-org/Property/Texts/has_artform.md) 
+### [has_artform](/_Standards/schema-org/Property/Texts/has_artform.md) 
+
+### [has_artform.public](/_public/schema-org/Property/Texts/has_artform.public.md) 
 
 ### [has_artform.internal](/_internal/schema-org/Property/Texts/has_artform.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_artform.personal](/_personal/schema-org/Property/Texts/has_artform.personal.md) 
 
-### [has_artform.secret](/_secret/schema-org/Property/Texts/has_artform.secret.md) 
+### [has_artform.secret](/_secret/schema-org/Property/Texts/has_artform.secret.md)
+

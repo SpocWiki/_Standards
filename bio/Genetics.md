@@ -16,3 +16,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetics)
 
+
+## Confidential Links & Embeds: 
+
+### [Genetics](/_Standards/bio/Genetics.md) 
+
+### [Genetics.public](/_public/bio/Genetics.public.md) 
+
+### [Genetics.internal](/_internal/bio/Genetics.internal.md) 
+
+### [Genetics.protect](/_protect/bio/Genetics.protect.md) 
+
+### [Genetics.private](/_private/bio/Genetics.private.md) 
+
+### [Genetics.personal](/_personal/bio/Genetics.personal.md) 
+
+### [Genetics.secret](/_secret/bio/Genetics.secret.md)
+

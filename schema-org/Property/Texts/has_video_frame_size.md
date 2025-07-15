@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_video_frame_size )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_video_frame_size](/_public/schema-org/Property/Texts/has_video_frame_size.md) 
+### [has_video_frame_size](/_Standards/schema-org/Property/Texts/has_video_frame_size.md) 
+
+### [has_video_frame_size.public](/_public/schema-org/Property/Texts/has_video_frame_size.public.md) 
 
 ### [has_video_frame_size.internal](/_internal/schema-org/Property/Texts/has_video_frame_size.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_video_frame_size.personal](/_personal/schema-org/Property/Texts/has_video_frame_size.personal.md) 
 
-### [has_video_frame_size.secret](/_secret/schema-org/Property/Texts/has_video_frame_size.secret.md) 
+### [has_video_frame_size.secret](/_secret/schema-org/Property/Texts/has_video_frame_size.secret.md)
+

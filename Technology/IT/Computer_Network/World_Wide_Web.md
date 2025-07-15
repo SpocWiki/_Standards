@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q466
 discoverer_or_inventor:
 - "[[_Standards/WikiData/WD~Robert_Cailliau,92749]]"
@@ -57,4 +57,23 @@ public_domain_date: "1993-04-30"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Wide%20Web) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [World_Wide_Web](/_Standards/Technology/IT/Computer_Network/World_Wide_Web.md) 
+
+### [World_Wide_Web.public](/_public/Technology/IT/Computer_Network/World_Wide_Web.public.md) 
+
+### [World_Wide_Web.internal](/_internal/Technology/IT/Computer_Network/World_Wide_Web.internal.md) 
+
+### [World_Wide_Web.protect](/_protect/Technology/IT/Computer_Network/World_Wide_Web.protect.md) 
+
+### [World_Wide_Web.private](/_private/Technology/IT/Computer_Network/World_Wide_Web.private.md) 
+
+### [World_Wide_Web.personal](/_personal/Technology/IT/Computer_Network/World_Wide_Web.personal.md) 
+
+### [World_Wide_Web.secret](/_secret/Technology/IT/Computer_Network/World_Wide_Web.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [category_code](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code.md) 
+### [category_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code.md) 
+
+### [category_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code.public.md) 
 
 ### [category_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code.internal.md) 
 
@@ -56,4 +59,5 @@ Tag Instances like this:
 
 ### [category_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code.personal.md) 
 
-### [category_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code.secret.md) 
+### [category_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code.secret.md)
+

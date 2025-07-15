@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_character_attribute )
 ( #has_/range :: Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_character_attribute](/_public/schema-org/Relation/has/has_character_attribute.md) 
+### [has_character_attribute](/_Standards/schema-org/Relation/has/has_character_attribute.md) 
+
+### [has_character_attribute.public](/_public/schema-org/Relation/has/has_character_attribute.public.md) 
 
 ### [has_character_attribute.internal](/_internal/schema-org/Relation/has/has_character_attribute.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_character_attribute.personal](/_personal/schema-org/Relation/has/has_character_attribute.personal.md) 
 
-### [has_character_attribute.secret](/_secret/schema-org/Relation/has/has_character_attribute.secret.md) 
+### [has_character_attribute.secret](/_secret/schema-org/Relation/has/has_character_attribute.secret.md)
+

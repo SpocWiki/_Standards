@@ -1,4 +1,4 @@
-﻿
+
 #has_/url_for_/content :: https://bivector.net/
 #has_/url_for_/content :: https://geometricalgebra.org/
 #has_/url_for_/content :: https://geometricalgebratutorial.com/
@@ -40,7 +40,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Geometric_Algebra](/_public/Mathematics/Geometry/Geometric_Algebra.md) 
+### [Geometric_Algebra](/_Standards/Mathematics/Geometry/Geometric_Algebra.md) 
+
+### [Geometric_Algebra.public](/_public/Mathematics/Geometry/Geometric_Algebra.public.md) 
 
 ### [Geometric_Algebra.internal](/_internal/Mathematics/Geometry/Geometric_Algebra.internal.md) 
 
@@ -50,4 +52,5 @@
 
 ### [Geometric_Algebra.personal](/_personal/Mathematics/Geometry/Geometric_Algebra.personal.md) 
 
-### [Geometric_Algebra.secret](/_secret/Mathematics/Geometry/Geometric_Algebra.secret.md) 
+### [Geometric_Algebra.secret](/_secret/Mathematics/Geometry/Geometric_Algebra.secret.md)
+

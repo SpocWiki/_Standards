@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [use_action](/_public/schema-org/Class/is_a_/action/consume_action/use_action.md) 
+### [use_action](/_Standards/schema-org/Class/is_a_/action/consume_action/use_action.md) 
+
+### [use_action.public](/_public/schema-org/Class/is_a_/action/consume_action/use_action.public.md) 
 
 ### [use_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/use_action.internal.md) 
 
@@ -50,4 +53,5 @@ Tag Instances like this:
 
 ### [use_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/use_action.personal.md) 
 
-### [use_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/use_action.secret.md) 
+### [use_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/use_action.secret.md)
+

@@ -233,9 +233,12 @@ atomic_number: 58
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cerium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Cerium](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
+### [Cerium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Cerium.md) 
+
+### [Cerium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Cerium.public.md) 
 
 ### [Cerium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Cerium.internal.md) 
 
@@ -245,4 +248,5 @@ atomic_number: 58
 
 ### [Cerium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Cerium.personal.md) 
 
-### [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md) 
+### [Cerium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Cerium.secret.md)
+

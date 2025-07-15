@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_experience_requirements )
 ( #has_/range :: OccupationalExperienceRequirements, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_experience_requirements](/_public/schema-org/Relation/has/has_experience_requirements.md) 
+### [has_experience_requirements](/_Standards/schema-org/Relation/has/has_experience_requirements.md) 
+
+### [has_experience_requirements.public](/_public/schema-org/Relation/has/has_experience_requirements.public.md) 
 
 ### [has_experience_requirements.internal](/_internal/schema-org/Relation/has/has_experience_requirements.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_experience_requirements.personal](/_personal/schema-org/Relation/has/has_experience_requirements.personal.md) 
 
-### [has_experience_requirements.secret](/_secret/schema-org/Relation/has/has_experience_requirements.secret.md) 
+### [has_experience_requirements.secret](/_secret/schema-org/Relation/has/has_experience_requirements.secret.md)
+

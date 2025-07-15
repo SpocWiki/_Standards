@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 is: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time](/_public/schema-org/Property/has_Date_Time/has_time.md) 
+### [has_time](/_Standards/schema-org/Property/has_Date_Time/has_time.md) 
+
+### [has_time.public](/_public/schema-org/Property/has_Date_Time/has_time.public.md) 
 
 ### [has_time.internal](/_internal/schema-org/Property/has_Date_Time/has_time.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time.personal](/_personal/schema-org/Property/has_Date_Time/has_time.personal.md) 
 
-### [has_time.secret](/_secret/schema-org/Property/has_Date_Time/has_time.secret.md) 
+### [has_time.secret](/_secret/schema-org/Property/has_Date_Time/has_time.secret.md)
+

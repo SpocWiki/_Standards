@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Active, but not recruiting new participants.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [active_not_recruiting](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md) 
+### [active_not_recruiting](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md) 
+
+### [active_not_recruiting.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.public.md) 
 
 ### [active_not_recruiting.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal.md) 
 
@@ -56,4 +59,5 @@ Active, but not recruiting new participants.
 
 ### [active_not_recruiting.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.personal.md) 
 
-### [active_not_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret.md) 
+### [active_not_recruiting.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret.md)
+

@@ -18,3 +18,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20energy)
 
+
+## Confidential Links & Embeds: 
+
+### [Conservation_of_Energy](/_Standards/Science/Physics/Conservation_of_Energy.md) 
+
+### [Conservation_of_Energy.public](/_public/Science/Physics/Conservation_of_Energy.public.md) 
+
+### [Conservation_of_Energy.internal](/_internal/Science/Physics/Conservation_of_Energy.internal.md) 
+
+### [Conservation_of_Energy.protect](/_protect/Science/Physics/Conservation_of_Energy.protect.md) 
+
+### [Conservation_of_Energy.private](/_private/Science/Physics/Conservation_of_Energy.private.md) 
+
+### [Conservation_of_Energy.personal](/_personal/Science/Physics/Conservation_of_Energy.personal.md) 
+
+### [Conservation_of_Energy.secret](/_secret/Science/Physics/Conservation_of_Energy.secret.md)
+

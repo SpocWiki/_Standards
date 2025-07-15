@@ -50,3 +50,22 @@ Wolfram_Language_entity_code: "Entity[\"MilitaryConflict\", \"HundredYearsWar\"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hundred%20Years'%20War) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1337-Hundred_Years_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.md) 
+
+### [1337-Hundred_Years_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.public.md) 
+
+### [1337-Hundred_Years_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.internal.md) 
+
+### [1337-Hundred_Years_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.protect.md) 
+
+### [1337-Hundred_Years_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.private.md) 
+
+### [1337-Hundred_Years_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.personal.md) 
+
+### [1337-Hundred_Years_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War.secret.md)
+

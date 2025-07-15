@@ -607,9 +607,12 @@ Major Cities with Population in 1000s as of @2022
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ireland)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ireland](/_public/Earth/Continent/Europe/Europe~North/Ireland.md) 
+### [Ireland](/_Standards/Earth/Continent/Europe/Europe~North/Ireland.md) 
+
+### [Ireland.public](/_public/Earth/Continent/Europe/Europe~North/Ireland.public.md) 
 
 ### [Ireland.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal.md) 
 
@@ -619,4 +622,5 @@ Major Cities with Population in 1000s as of @2022
 
 ### [Ireland.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland.personal.md) 
 
-### [Ireland.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret.md) 
+### [Ireland.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret.md)
+

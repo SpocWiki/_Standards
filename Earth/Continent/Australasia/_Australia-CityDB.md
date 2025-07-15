@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,9 +340,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Australia-CityDB](/_public/Earth/Continent/Australasia/_Australia-CityDB.md) 
+### [_Australia-CityDB](/_Standards/Earth/Continent/Australasia/_Australia-CityDB.md) 
+
+### [_Australia-CityDB.public](/_public/Earth/Continent/Australasia/_Australia-CityDB.public.md) 
 
 ### [_Australia-CityDB.internal](/_internal/Earth/Continent/Australasia/_Australia-CityDB.internal.md) 
 
@@ -352,4 +355,5 @@ filters:
 
 ### [_Australia-CityDB.personal](/_personal/Earth/Continent/Australasia/_Australia-CityDB.personal.md) 
 
-### [_Australia-CityDB.secret](/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret.md) 
+### [_Australia-CityDB.secret](/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PodcastSeason](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.md) 
+### [FileClass~PodcastSeason](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.md) 
+
+### [FileClass~PodcastSeason.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.public.md) 
 
 ### [FileClass~PodcastSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.internal.md) 
 
@@ -46,4 +47,5 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 ### [FileClass~PodcastSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.personal.md) 
 
-### [FileClass~PodcastSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.secret.md) 
+### [FileClass~PodcastSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.secret.md)
+

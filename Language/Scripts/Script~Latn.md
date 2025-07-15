@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Latin Script
   - Roman Script
@@ -85,10 +85,11 @@ either their native Script or a Latin Transcription:
     - Latin Script (Transcription): bo-Latn
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Script~Latn](/_public/Language/Scripts/Script~Latn.md) 
+### [Script~Latn](/_Standards/Language/Scripts/Script~Latn.md) 
+
+### [Script~Latn.public](/_public/Language/Scripts/Script~Latn.public.md) 
 
 ### [Script~Latn.internal](/_internal/Language/Scripts/Script~Latn.internal.md) 
 
@@ -98,4 +99,5 @@ either their native Script or a Latin Transcription:
 
 ### [Script~Latn.personal](/_personal/Language/Scripts/Script~Latn.personal.md) 
 
-### [Script~Latn.secret](/_secret/Language/Scripts/Script~Latn.secret.md) 
+### [Script~Latn.secret](/_secret/Language/Scripts/Script~Latn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Angular_Momentum]] 
 
 [[Dim~Angular_Momentum]] is the Product of [[../Dim~Mass|Dim~Mass]] and [[../Linear_Dimension/Dim~Speed]]. 
@@ -9,10 +9,11 @@ In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [
 given by its inverse [[Dim~Angular_Momentum]]:  ___λ = h / p___ 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Dim~Angular_Momentum](/_public/Dimension/Angular_Dimension/Dim~Angular_Momentum.md) 
+### [Dim~Angular_Momentum](/_Standards/Dimension/Angular_Dimension/Dim~Angular_Momentum.md) 
+
+### [Dim~Angular_Momentum.public](/_public/Dimension/Angular_Dimension/Dim~Angular_Momentum.public.md) 
 
 ### [Dim~Angular_Momentum.internal](/_internal/Dimension/Angular_Dimension/Dim~Angular_Momentum.internal.md) 
 
@@ -22,4 +23,5 @@ given by its inverse [[Dim~Angular_Momentum]]:  ___λ = h / p___
 
 ### [Dim~Angular_Momentum.personal](/_personal/Dimension/Angular_Dimension/Dim~Angular_Momentum.personal.md) 
 
-### [Dim~Angular_Momentum.secret](/_secret/Dimension/Angular_Dimension/Dim~Angular_Momentum.secret.md) 
+### [Dim~Angular_Momentum.secret](/_secret/Dimension/Angular_Dimension/Dim~Angular_Momentum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: description ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_interpreted_as_claim](/_public/schema-org/Relation/is/is_interpreted_as_claim.md) 
+### [is_interpreted_as_claim](/_Standards/schema-org/Relation/is/is_interpreted_as_claim.md) 
+
+### [is_interpreted_as_claim.public](/_public/schema-org/Relation/is/is_interpreted_as_claim.public.md) 
 
 ### [is_interpreted_as_claim.internal](/_internal/schema-org/Relation/is/is_interpreted_as_claim.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_interpreted_as_claim.personal](/_personal/schema-org/Relation/is/is_interpreted_as_claim.personal.md) 
 
-### [is_interpreted_as_claim.secret](/_secret/schema-org/Relation/is/is_interpreted_as_claim.secret.md) 
+### [is_interpreted_as_claim.secret](/_secret/schema-org/Relation/is/is_interpreted_as_claim.secret.md)
+

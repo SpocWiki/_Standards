@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_in_playlist )
 ( #has_/range :: MusicPlaylist )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_playlist](/_public/schema-org/Relation/is/is_in_playlist.md) 
+### [is_in_playlist](/_Standards/schema-org/Relation/is/is_in_playlist.md) 
+
+### [is_in_playlist.public](/_public/schema-org/Relation/is/is_in_playlist.public.md) 
 
 ### [is_in_playlist.internal](/_internal/schema-org/Relation/is/is_in_playlist.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_in_playlist.personal](/_personal/schema-org/Relation/is/is_in_playlist.personal.md) 
 
-### [is_in_playlist.secret](/_secret/schema-org/Relation/is/is_in_playlist.secret.md) 
+### [is_in_playlist.secret](/_secret/schema-org/Relation/is/is_in_playlist.secret.md)
+

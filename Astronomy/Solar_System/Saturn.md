@@ -210,6 +210,12 @@ argument_of_periapsis: 92.59887831
 parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 ---
 
+# [[Saturn]]
+
+#is_/same_as :: [[../../WikiData/WD~Saturn,193]]
+#is_/different_from :: [[_Standards/WikiData/WD~Saturn,134388]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Saturn,3950829]]  
+
 ## #has_/text_of_/abstract 
 
 > **Saturn** is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about nine times that of Earth. It has an eighth the average density of Earth, but is over 95 times more massive. Even though Saturn is almost as big as Jupiter, Saturn has less than a third its mass. Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.
@@ -221,7 +227,19 @@ parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Saturn)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Saturn](/_Standards/Astronomy/Solar_System/Saturn.md) 
 
+### #is_/same_as :: [Saturn.public](/_public/Astronomy/Solar_System/Saturn.public.md) 
 
+### #is_/same_as :: [Saturn.internal](/_internal/Astronomy/Solar_System/Saturn.internal.md) 
+
+### #is_/same_as :: [Saturn.protect](/_protect/Astronomy/Solar_System/Saturn.protect.md) 
+
+### #is_/same_as :: [Saturn.private](/_private/Astronomy/Solar_System/Saturn.private.md) 
+
+### #is_/same_as :: [Saturn.personal](/_personal/Astronomy/Solar_System/Saturn.personal.md) 
+
+### #is_/same_as :: [Saturn.secret](/_secret/Astronomy/Solar_System/Saturn.secret.md)
 

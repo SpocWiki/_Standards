@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8183
 different_from:
 - '[[_Standards/WikiData/WD~allophone,146863]]'
@@ -29,4 +29,20 @@ OmegaWiki_Defined_Meaning: 375783
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phoneme) 
 
+
+## Confidential Links & Embeds: 
+
+### [Phoneme](/_Standards/Language/Word/Phoneme.md) 
+
+### [Phoneme.public](/_public/Language/Word/Phoneme.public.md) 
+
+### [Phoneme.internal](/_internal/Language/Word/Phoneme.internal.md) 
+
+### [Phoneme.protect](/_protect/Language/Word/Phoneme.protect.md) 
+
+### [Phoneme.private](/_private/Language/Word/Phoneme.private.md) 
+
+### [Phoneme.personal](/_personal/Language/Word/Phoneme.personal.md) 
+
+### [Phoneme.secret](/_secret/Language/Word/Phoneme.secret.md)
 

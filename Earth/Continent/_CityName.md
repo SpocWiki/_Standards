@@ -1,12 +1,11 @@
-﻿_Cities/{{City}}.md
-
-
-
+_Cities/{{City}}.md
 
 
 ## Confidential Links & Embeds: 
 
-### [_CityName](/_public/Earth/Continent/_CityName.md) 
+### [_CityName](/_Standards/Earth/Continent/_CityName.md) 
+
+### [_CityName.public](/_public/Earth/Continent/_CityName.public.md) 
 
 ### [_CityName.internal](/_internal/Earth/Continent/_CityName.internal.md) 
 
@@ -16,4 +15,5 @@
 
 ### [_CityName.personal](/_personal/Earth/Continent/_CityName.personal.md) 
 
-### [_CityName.secret](/_secret/Earth/Continent/_CityName.secret.md) 
+### [_CityName.secret](/_secret/Earth/Continent/_CityName.secret.md)
+

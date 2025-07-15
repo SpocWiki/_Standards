@@ -303,3 +303,22 @@ Comments             Mariametridae
 Specimen Condition   Live Specimen
 Copyright ::            © 1997 [Charles G. Messing](http://www.nova.edu/ocean/messing/index.html) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Crinoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.md) 
+
+### [Crinoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.public.md) 
+
+### [Crinoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.internal.md) 
+
+### [Crinoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.protect.md) 
+
+### [Crinoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.private.md) 
+
+### [Crinoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.personal.md) 
+
+### [Crinoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Crinoidea.secret.md)
+

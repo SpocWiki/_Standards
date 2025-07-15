@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9332
 different_from:
 - '[[_Standards/WikiData/WD~Behaviour,1206352]]'
@@ -45,4 +45,21 @@ U_S_National_Archives_Identifier: 10676224
 > This can be represented as a behavior vector.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Behavior)
+
+
+## Confidential Links & Embeds: 
+
+### [Behavior](/_Standards/bio/Psychology/Behavior.md) 
+
+### [Behavior.public](/_public/bio/Psychology/Behavior.public.md) 
+
+### [Behavior.internal](/_internal/bio/Psychology/Behavior.internal.md) 
+
+### [Behavior.protect](/_protect/bio/Psychology/Behavior.protect.md) 
+
+### [Behavior.private](/_private/bio/Psychology/Behavior.private.md) 
+
+### [Behavior.personal](/_personal/bio/Psychology/Behavior.personal.md) 
+
+### [Behavior.secret](/_secret/bio/Psychology/Behavior.secret.md)
 

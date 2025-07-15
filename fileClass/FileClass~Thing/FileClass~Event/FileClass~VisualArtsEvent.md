@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Visual arts event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VisualArtsEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.md) 
+### [FileClass~VisualArtsEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.md) 
+
+### [FileClass~VisualArtsEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.public.md) 
 
 ### [FileClass~VisualArtsEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Visual arts event.
 
 ### [FileClass~VisualArtsEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.personal.md) 
 
-### [FileClass~VisualArtsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.secret.md) 
+### [FileClass~VisualArtsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~VisualArtsEvent.secret.md)
+

@@ -24,9 +24,12 @@ Relation describes that:
 The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_Cons](/_public/schema-org/Relation/has/has_Cons.md) 
+### [has_Cons](/_Standards/schema-org/Relation/has/has_Cons.md) 
+
+### [has_Cons.public](/_public/schema-org/Relation/has/has_Cons.public.md) 
 
 ### [has_Cons.internal](/_internal/schema-org/Relation/has/has_Cons.internal.md) 
 
@@ -36,4 +39,5 @@ The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages
 
 ### [has_Cons.personal](/_personal/schema-org/Relation/has/has_Cons.personal.md) 
 
-### [has_Cons.secret](/_secret/schema-org/Relation/has/has_Cons.secret.md) 
+### [has_Cons.secret](/_secret/schema-org/Relation/has/has_Cons.secret.md)
+

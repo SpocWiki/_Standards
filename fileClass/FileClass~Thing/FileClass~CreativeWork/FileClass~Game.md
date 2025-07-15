@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -88,10 +88,11 @@ The task that a player-controlled character, or group of characters may complete
 Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Game](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.md) 
+### [FileClass~Game](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.md) 
+
+### [FileClass~Game.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.public.md) 
 
 ### [FileClass~Game.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.internal.md) 
 
@@ -101,4 +102,5 @@ Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')
 
 ### [FileClass~Game.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.personal.md) 
 
-### [FileClass~Game.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.secret.md) 
+### [FileClass~Game.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.secret.md)
+

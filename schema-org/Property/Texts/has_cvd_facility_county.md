@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_cvd_facility_county )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cvd_facility_county](/_public/schema-org/Property/Texts/has_cvd_facility_county.md) 
+### [has_cvd_facility_county](/_Standards/schema-org/Property/Texts/has_cvd_facility_county.md) 
+
+### [has_cvd_facility_county.public](/_public/schema-org/Property/Texts/has_cvd_facility_county.public.md) 
 
 ### [has_cvd_facility_county.internal](/_internal/schema-org/Property/Texts/has_cvd_facility_county.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_cvd_facility_county.personal](/_personal/schema-org/Property/Texts/has_cvd_facility_county.personal.md) 
 
-### [has_cvd_facility_county.secret](/_secret/schema-org/Property/Texts/has_cvd_facility_county.secret.md) 
+### [has_cvd_facility_county.secret](/_secret/schema-org/Property/Texts/has_cvd_facility_county.secret.md)
+

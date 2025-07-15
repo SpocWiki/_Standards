@@ -70,3 +70,22 @@ Leiopelma.
 
 -   » Sub-Groups 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Notobatrachus_degiustoi](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.md) 
+
+### [Notobatrachus_degiustoi.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.public.md) 
+
+### [Notobatrachus_degiustoi.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.internal.md) 
+
+### [Notobatrachus_degiustoi.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.protect.md) 
+
+### [Notobatrachus_degiustoi.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.private.md) 
+
+### [Notobatrachus_degiustoi.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.personal.md) 
+
+### [Notobatrachus_degiustoi.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Notobatrachus_degiustoi.secret.md)
+

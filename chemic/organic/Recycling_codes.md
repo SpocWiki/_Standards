@@ -82,3 +82,19 @@
 |     | 99                                                  | other                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 
+## Confidential Links & Embeds: 
+
+### [Recycling_codes](/_Standards/chemic/organic/Recycling_codes.md) 
+
+### [Recycling_codes.public](/_public/chemic/organic/Recycling_codes.public.md) 
+
+### [Recycling_codes.internal](/_internal/chemic/organic/Recycling_codes.internal.md) 
+
+### [Recycling_codes.protect](/_protect/chemic/organic/Recycling_codes.protect.md) 
+
+### [Recycling_codes.private](/_private/chemic/organic/Recycling_codes.private.md) 
+
+### [Recycling_codes.personal](/_personal/chemic/organic/Recycling_codes.personal.md) 
+
+### [Recycling_codes.secret](/_secret/chemic/organic/Recycling_codes.secret.md)
+

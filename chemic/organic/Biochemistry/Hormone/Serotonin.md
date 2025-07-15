@@ -62,3 +62,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serotonin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Serotonin](/_Standards/chemic/organic/Biochemistry/Hormone/Serotonin.md) 
+
+### [Serotonin.public](/_public/chemic/organic/Biochemistry/Hormone/Serotonin.public.md) 
+
+### [Serotonin.internal](/_internal/chemic/organic/Biochemistry/Hormone/Serotonin.internal.md) 
+
+### [Serotonin.protect](/_protect/chemic/organic/Biochemistry/Hormone/Serotonin.protect.md) 
+
+### [Serotonin.private](/_private/chemic/organic/Biochemistry/Hormone/Serotonin.private.md) 
+
+### [Serotonin.personal](/_personal/chemic/organic/Biochemistry/Hormone/Serotonin.personal.md) 
+
+### [Serotonin.secret](/_secret/chemic/organic/Biochemistry/Hormone/Serotonin.secret.md)
+

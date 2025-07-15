@@ -1,4 +1,4 @@
-﻿---
+---
 type: Property
 license: CC BY-SA 4.0
 publish: true
@@ -64,9 +64,12 @@ Complement is all Pairs NOT in the Relation:
 The Complement is typically much larger than the Relation! 
 That is why it is usually less helpful
 
+
 ## Confidential Links & Embeds: 
 
-### [Relation](/_public/schema-org/Relation.md) 
+### [Relation](/_Standards/schema-org/Relation.md) 
+
+### [Relation.public](/_public/schema-org/Relation.public.md) 
 
 ### [Relation.internal](/_internal/schema-org/Relation.internal.md) 
 
@@ -76,4 +79,5 @@ That is why it is usually less helpful
 
 ### [Relation.personal](/_personal/schema-org/Relation.personal.md) 
 
-### [Relation.secret](/_secret/schema-org/Relation.secret.md) 
+### [Relation.secret](/_secret/schema-org/Relation.secret.md)
+

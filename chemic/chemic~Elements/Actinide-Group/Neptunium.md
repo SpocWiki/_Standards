@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21988
 has_id_wikidata: Q1105
@@ -111,9 +111,12 @@ time_of_discovery_or_invention: "1940"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neptunium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Neptunium](/_public/chemic/chemic~Elements/Actinide-Group/Neptunium.md) 
+### [Neptunium](/_Standards/chemic/chemic~Elements/Actinide-Group/Neptunium.md) 
+
+### [Neptunium.public](/_public/chemic/chemic~Elements/Actinide-Group/Neptunium.public.md) 
 
 ### [Neptunium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Neptunium.internal.md) 
 
@@ -123,4 +126,5 @@ time_of_discovery_or_invention: "1940"
 
 ### [Neptunium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Neptunium.personal.md) 
 
-### [Neptunium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Neptunium.secret.md) 
+### [Neptunium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Neptunium.secret.md)
+

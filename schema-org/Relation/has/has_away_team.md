@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: competitor ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_away_team](/_public/schema-org/Relation/has/has_away_team.md) 
+### [has_away_team](/_Standards/schema-org/Relation/has/has_away_team.md) 
+
+### [has_away_team.public](/_public/schema-org/Relation/has/has_away_team.public.md) 
 
 ### [has_away_team.internal](/_internal/schema-org/Relation/has/has_away_team.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_away_team.personal](/_personal/schema-org/Relation/has/has_away_team.personal.md) 
 
-### [has_away_team.secret](/_secret/schema-org/Relation/has/has_away_team.secret.md) 
+### [has_away_team.secret](/_secret/schema-org/Relation/has/has_away_team.secret.md)
+

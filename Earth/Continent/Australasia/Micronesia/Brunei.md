@@ -422,9 +422,12 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brunei)
 
+
 ## Confidential Links & Embeds: 
 
-### [Brunei](/_public/Earth/Continent/Australasia/Micronesia/Brunei.md) 
+### [Brunei](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei.md) 
+
+### [Brunei.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei.public.md) 
 
 ### [Brunei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei.internal.md) 
 
@@ -434,4 +437,5 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 
 ### [Brunei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei.personal.md) 
 
-### [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md) 
+### [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md)
+

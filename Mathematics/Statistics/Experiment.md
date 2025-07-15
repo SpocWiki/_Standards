@@ -35,4 +35,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Experiment) 
 
 
+## Confidential Links & Embeds: 
+
+### [Experiment](/_Standards/Mathematics/Statistics/Experiment.md) 
+
+### [Experiment.public](/_public/Mathematics/Statistics/Experiment.public.md) 
+
+### [Experiment.internal](/_internal/Mathematics/Statistics/Experiment.internal.md) 
+
+### [Experiment.protect](/_protect/Mathematics/Statistics/Experiment.protect.md) 
+
+### [Experiment.private](/_private/Mathematics/Statistics/Experiment.private.md) 
+
+### [Experiment.personal](/_personal/Mathematics/Statistics/Experiment.personal.md) 
+
+### [Experiment.secret](/_secret/Mathematics/Statistics/Experiment.secret.md)
 

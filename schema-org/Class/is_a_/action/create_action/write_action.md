@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of authoring written creative content.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [write_action](/_public/schema-org/Class/is_a_/action/create_action/write_action.md) 
+### [write_action](/_Standards/schema-org/Class/is_a_/action/create_action/write_action.md) 
+
+### [write_action.public](/_public/schema-org/Class/is_a_/action/create_action/write_action.public.md) 
 
 ### [write_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/write_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of authoring written creative content.
 
 ### [write_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/write_action.personal.md) 
 
-### [write_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/write_action.secret.md) 
+### [write_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/write_action.secret.md)
+

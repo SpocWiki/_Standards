@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_location_regions_allowed )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_regions_allowed](/_public/schema-org/Property/has_location/has_location_regions_allowed.md) 
+### [has_location_regions_allowed](/_Standards/schema-org/Property/has_location/has_location_regions_allowed.md) 
+
+### [has_location_regions_allowed.public](/_public/schema-org/Property/has_location/has_location_regions_allowed.public.md) 
 
 ### [has_location_regions_allowed.internal](/_internal/schema-org/Property/has_location/has_location_regions_allowed.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_location_regions_allowed.personal](/_personal/schema-org/Property/has_location/has_location_regions_allowed.personal.md) 
 
-### [has_location_regions_allowed.secret](/_secret/schema-org/Property/has_location/has_location_regions_allowed.secret.md) 
+### [has_location_regions_allowed.secret](/_secret/schema-org/Property/has_location/has_location_regions_allowed.secret.md)
+

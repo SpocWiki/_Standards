@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_associated_disease )
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_associated_disease](/_public/schema-org/Relation/has/has_associated_disease.md) 
+### [has_associated_disease](/_Standards/schema-org/Relation/has/has_associated_disease.md) 
+
+### [has_associated_disease.public](/_public/schema-org/Relation/has/has_associated_disease.public.md) 
 
 ### [has_associated_disease.internal](/_internal/schema-org/Relation/has/has_associated_disease.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_associated_disease.personal](/_personal/schema-org/Relation/has/has_associated_disease.personal.md) 
 
-### [has_associated_disease.secret](/_secret/schema-org/Relation/has/has_associated_disease.secret.md) 
+### [has_associated_disease.secret](/_secret/schema-org/Relation/has/has_associated_disease.secret.md)
+

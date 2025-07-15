@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Relation describes that:
 ( #has_/name :: has_legislation_changes_to )
 ( #has_/range :: Legislation )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legislation_changes_to](/_public/schema-org/Relation/has/has_legislation_changes_to.md) 
+### [has_legislation_changes_to](/_Standards/schema-org/Relation/has/has_legislation_changes_to.md) 
+
+### [has_legislation_changes_to.public](/_public/schema-org/Relation/has/has_legislation_changes_to.public.md) 
 
 ### [has_legislation_changes_to.internal](/_internal/schema-org/Relation/has/has_legislation_changes_to.internal.md) 
 
@@ -64,4 +67,5 @@ Relation describes that:
 
 ### [has_legislation_changes_to.personal](/_personal/schema-org/Relation/has/has_legislation_changes_to.personal.md) 
 
-### [has_legislation_changes_to.secret](/_secret/schema-org/Relation/has/has_legislation_changes_to.secret.md) 
+### [has_legislation_changes_to.secret](/_secret/schema-org/Relation/has/has_legislation_changes_to.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_carrier )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_carrier](/_public/schema-org/Relation/has/has_carrier.md) 
+### [has_carrier](/_Standards/schema-org/Relation/has/has_carrier.md) 
+
+### [has_carrier.public](/_public/schema-org/Relation/has/has_carrier.public.md) 
 
 ### [has_carrier.internal](/_internal/schema-org/Relation/has/has_carrier.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_carrier.personal](/_personal/schema-org/Relation/has/has_carrier.personal.md) 
 
-### [has_carrier.secret](/_secret/schema-org/Relation/has/has_carrier.secret.md) 
+### [has_carrier.secret](/_secret/schema-org/Relation/has/has_carrier.secret.md)
+

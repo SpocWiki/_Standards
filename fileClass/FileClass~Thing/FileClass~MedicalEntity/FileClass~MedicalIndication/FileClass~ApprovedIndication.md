@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An indication for a medical therapy that has been formally specified or approved
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ApprovedIndication](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.md) 
+### [FileClass~ApprovedIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.md) 
+
+### [FileClass~ApprovedIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.public.md) 
 
 ### [FileClass~ApprovedIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.internal.md) 
 
@@ -46,4 +47,5 @@ An indication for a medical therapy that has been formally specified or approved
 
 ### [FileClass~ApprovedIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.personal.md) 
 
-### [FileClass~ApprovedIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.secret.md) 
+### [FileClass~ApprovedIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~ApprovedIndication.secret.md)
+

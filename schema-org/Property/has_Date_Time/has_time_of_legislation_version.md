@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_time_of_legislation_version)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_legislation_version](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation_version.md) 
+### [has_time_of_legislation_version](/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation_version.md) 
+
+### [has_time_of_legislation_version.public](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation_version.public.md) 
 
 ### [has_time_of_legislation_version.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_time_of_legislation_version.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.personal.md) 
 
-### [has_time_of_legislation_version.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation_version.secret.md) 
+### [has_time_of_legislation_version.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation_version.secret.md)
+

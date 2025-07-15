@@ -18,3 +18,22 @@ has_id_wikidata: Q1072
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Heart](/_Standards/bio/Medicine/Anatomy/Heart.md) 
+
+### [Heart.public](/_public/bio/Medicine/Anatomy/Heart.public.md) 
+
+### [Heart.internal](/_internal/bio/Medicine/Anatomy/Heart.internal.md) 
+
+### [Heart.protect](/_protect/bio/Medicine/Anatomy/Heart.protect.md) 
+
+### [Heart.private](/_private/bio/Medicine/Anatomy/Heart.private.md) 
+
+### [Heart.personal](/_personal/bio/Medicine/Anatomy/Heart.personal.md) 
+
+### [Heart.secret](/_secret/bio/Medicine/Anatomy/Heart.secret.md)
+

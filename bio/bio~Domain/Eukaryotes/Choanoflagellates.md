@@ -192,3 +192,21 @@ ancestor and the earliest events in metazoan evolution.
   Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
 
   
+
+
+## Confidential Links & Embeds: 
+
+### [Choanoflagellates](/_Standards/bio/bio~Domain/Eukaryotes/Choanoflagellates.md) 
+
+### [Choanoflagellates.public](/_public/bio/bio~Domain/Eukaryotes/Choanoflagellates.public.md) 
+
+### [Choanoflagellates.internal](/_internal/bio/bio~Domain/Eukaryotes/Choanoflagellates.internal.md) 
+
+### [Choanoflagellates.protect](/_protect/bio/bio~Domain/Eukaryotes/Choanoflagellates.protect.md) 
+
+### [Choanoflagellates.private](/_private/bio/bio~Domain/Eukaryotes/Choanoflagellates.private.md) 
+
+### [Choanoflagellates.personal](/_personal/bio/bio~Domain/Eukaryotes/Choanoflagellates.personal.md) 
+
+### [Choanoflagellates.secret](/_secret/bio/bio~Domain/Eukaryotes/Choanoflagellates.secret.md)
+

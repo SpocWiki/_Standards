@@ -1,4 +1,4 @@
-﻿
+
 # [[Planck-Momentum]] 
 
 #has_/scale :: 6.5249e3 
@@ -10,7 +10,9 @@ This is a very large, mesoscopic Momentum.
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Momentum](/_public/Unit/Planck-Unit/Planck-Momentum.md) 
+### [Planck-Momentum](/_Standards/Unit/Planck-Unit/Planck-Momentum.md) 
+
+### [Planck-Momentum.public](/_public/Unit/Planck-Unit/Planck-Momentum.public.md) 
 
 ### [Planck-Momentum.internal](/_internal/Unit/Planck-Unit/Planck-Momentum.internal.md) 
 
@@ -20,4 +22,5 @@ This is a very large, mesoscopic Momentum.
 
 ### [Planck-Momentum.personal](/_personal/Unit/Planck-Unit/Planck-Momentum.personal.md) 
 
-### [Planck-Momentum.secret](/_secret/Unit/Planck-Unit/Planck-Momentum.secret.md) 
+### [Planck-Momentum.secret](/_secret/Unit/Planck-Unit/Planck-Momentum.secret.md)
+

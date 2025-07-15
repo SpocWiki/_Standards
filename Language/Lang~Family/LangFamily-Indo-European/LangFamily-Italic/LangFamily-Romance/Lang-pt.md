@@ -160,9 +160,12 @@ Stack_Exchange_site_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-pt](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.md) 
+### [Lang-pt](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.md) 
+
+### [Lang-pt.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.public.md) 
 
 ### [Lang-pt.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.internal.md) 
 
@@ -172,4 +175,5 @@ Stack_Exchange_site_URL:
 
 ### [Lang-pt.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.personal.md) 
 
-### [Lang-pt.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.secret.md) 
+### [Lang-pt.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-pt.secret.md)
+

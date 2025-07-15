@@ -90,3 +90,22 @@ Specimen Condition   Live Specimen
 Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dyschoriste](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.md) 
+
+### [Dyschoriste.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.public.md) 
+
+### [Dyschoriste.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.internal.md) 
+
+### [Dyschoriste.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.protect.md) 
+
+### [Dyschoriste.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.private.md) 
+
+### [Dyschoriste.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.personal.md) 
+
+### [Dyschoriste.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Ruellieae/Dyschoriste.secret.md)
+

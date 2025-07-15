@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_item_reviewed )
 ( #has_/range :: Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_item_reviewed](/_public/schema-org/Relation/has/has_item_reviewed.md) 
+### [has_item_reviewed](/_Standards/schema-org/Relation/has/has_item_reviewed.md) 
+
+### [has_item_reviewed.public](/_public/schema-org/Relation/has/has_item_reviewed.public.md) 
 
 ### [has_item_reviewed.internal](/_internal/schema-org/Relation/has/has_item_reviewed.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_item_reviewed.personal](/_personal/schema-org/Relation/has/has_item_reviewed.personal.md) 
 
-### [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md) 
+### [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md)
+

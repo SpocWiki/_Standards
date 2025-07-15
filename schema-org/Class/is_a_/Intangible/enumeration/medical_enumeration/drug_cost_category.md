@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Enumerated categories of medical drug costs.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug_cost_category](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.md) 
+### [drug_cost_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.md) 
+
+### [drug_cost_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.public.md) 
 
 ### [drug_cost_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.internal.md) 
 
@@ -52,4 +55,5 @@ Enumerated categories of medical drug costs.
 
 ### [drug_cost_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.personal.md) 
 
-### [drug_cost_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.secret.md) 
+### [drug_cost_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.secret.md)
+

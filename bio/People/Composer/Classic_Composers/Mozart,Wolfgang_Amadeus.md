@@ -194,3 +194,22 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/MOTSART_VOLFGANG_AMADE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Amadeus%20Mozart)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mozart,Wolfgang_Amadeus](/_Standards/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.md) 
+
+### [Mozart,Wolfgang_Amadeus.public](/_public/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.public.md) 
+
+### [Mozart,Wolfgang_Amadeus.internal](/_internal/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.internal.md) 
+
+### [Mozart,Wolfgang_Amadeus.protect](/_protect/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.protect.md) 
+
+### [Mozart,Wolfgang_Amadeus.private](/_private/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.private.md) 
+
+### [Mozart,Wolfgang_Amadeus.personal](/_personal/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.personal.md) 
+
+### [Mozart,Wolfgang_Amadeus.secret](/_secret/bio/People/Composer/Classic_Composers/Mozart,Wolfgang_Amadeus.secret.md)
+

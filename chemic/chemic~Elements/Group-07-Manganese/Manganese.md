@@ -150,11 +150,11 @@ electron_configuration: "[Ar] 3d⁵ 4s²"
 > [Wikipedia](https://en.wikipedia.org/wiki/Manganese)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Manganese](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
+### [Manganese](/_Standards/chemic/chemic~Elements/Group-07-Manganese/Manganese.md) 
+
+### [Manganese.public](/_public/chemic/chemic~Elements/Group-07-Manganese/Manganese.public.md) 
 
 ### [Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese/Manganese.internal.md) 
 
@@ -164,4 +164,5 @@ electron_configuration: "[Ar] 3d⁵ 4s²"
 
 ### [Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese/Manganese.personal.md) 
 
-### [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md) 
+### [Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese/Manganese.secret.md)
+

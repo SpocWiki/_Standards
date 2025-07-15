@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [bio_chem_entity](/_public/schema-org/Class/is_a_/bio_chem_entity.md) 
+### [bio_chem_entity](/_Standards/schema-org/Class/is_a_/bio_chem_entity.md) 
+
+### [bio_chem_entity.public](/_public/schema-org/Class/is_a_/bio_chem_entity.public.md) 
 
 ### [bio_chem_entity.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity.internal.md) 
 
@@ -58,4 +61,5 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 ### [bio_chem_entity.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity.personal.md) 
 
-### [bio_chem_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity.secret.md) 
+### [bio_chem_entity.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity.secret.md)
+

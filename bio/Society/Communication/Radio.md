@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q872
 has_part_s_:
 - '[[_Standards/WikiData/WD~antenna,131214]]'
@@ -62,4 +62,23 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/RADIO_I_TELEVIDENIE.html
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Radio](/_Standards/bio/Society/Communication/Radio.md) 
+
+### [Radio.public](/_public/bio/Society/Communication/Radio.public.md) 
+
+### [Radio.internal](/_internal/bio/Society/Communication/Radio.internal.md) 
+
+### [Radio.protect](/_protect/bio/Society/Communication/Radio.protect.md) 
+
+### [Radio.private](/_private/bio/Society/Communication/Radio.private.md) 
+
+### [Radio.personal](/_personal/bio/Society/Communication/Radio.personal.md) 
+
+### [Radio.secret](/_secret/bio/Society/Communication/Radio.secret.md)
 

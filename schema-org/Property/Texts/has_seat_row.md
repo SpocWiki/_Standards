@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_seat_row )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_seat_row](/_public/schema-org/Property/Texts/has_seat_row.md) 
+### [has_seat_row](/_Standards/schema-org/Property/Texts/has_seat_row.md) 
+
+### [has_seat_row.public](/_public/schema-org/Property/Texts/has_seat_row.public.md) 
 
 ### [has_seat_row.internal](/_internal/schema-org/Property/Texts/has_seat_row.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_seat_row.personal](/_personal/schema-org/Property/Texts/has_seat_row.personal.md) 
 
-### [has_seat_row.secret](/_secret/schema-org/Property/Texts/has_seat_row.secret.md) 
+### [has_seat_row.secret](/_secret/schema-org/Property/Texts/has_seat_row.secret.md)
+

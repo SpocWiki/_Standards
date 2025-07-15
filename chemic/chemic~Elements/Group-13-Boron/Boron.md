@@ -111,11 +111,11 @@ CAS_Registry_Number: 7440-42-8
 > [Wikipedia](https://en.wikipedia.org/wiki/Boron)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Boron](/_public/chemic/chemic~Elements/Group-13-Boron/Boron.md) 
+### [Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron/Boron.md) 
+
+### [Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron/Boron.public.md) 
 
 ### [Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Boron.internal.md) 
 
@@ -125,4 +125,5 @@ CAS_Registry_Number: 7440-42-8
 
 ### [Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Boron.personal.md) 
 
-### [Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Boron.secret.md) 
+### [Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Boron.secret.md)
+

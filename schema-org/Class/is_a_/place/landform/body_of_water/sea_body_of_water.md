@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A sea (for example, the Caspian sea).
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sea_body_of_water](/_public/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.md) 
+### [sea_body_of_water](/_Standards/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.md) 
+
+### [sea_body_of_water.public](/_public/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.public.md) 
 
 ### [sea_body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.internal.md) 
 
@@ -54,4 +57,5 @@ A sea (for example, the Caspian sea).
 
 ### [sea_body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.personal.md) 
 
-### [sea_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.secret.md) 
+### [sea_body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water/sea_body_of_water.secret.md)
+

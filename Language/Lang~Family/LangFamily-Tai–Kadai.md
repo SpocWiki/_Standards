@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::Tai–Kadai]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Tai–Kadai](/_public/Language/Lang~Family/LangFamily-Tai–Kadai.md) 
+### [LangFamily-Tai–Kadai](/_Standards/Language/Lang~Family/LangFamily-Tai–Kadai.md) 
+
+### [LangFamily-Tai–Kadai.public](/_public/Language/Lang~Family/LangFamily-Tai–Kadai.public.md) 
 
 ### [LangFamily-Tai–Kadai.internal](/_internal/Language/Lang~Family/LangFamily-Tai–Kadai.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-Tai–Kadai.personal](/_personal/Language/Lang~Family/LangFamily-Tai–Kadai.personal.md) 
 
-### [LangFamily-Tai–Kadai.secret](/_secret/Language/Lang~Family/LangFamily-Tai–Kadai.secret.md) 
+### [LangFamily-Tai–Kadai.secret](/_secret/Language/Lang~Family/LangFamily-Tai–Kadai.secret.md)
+

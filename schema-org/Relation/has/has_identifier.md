@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_identifier](/_public/schema-org/Relation/has/has_identifier.md) 
+### [has_identifier](/_Standards/schema-org/Relation/has/has_identifier.md) 
+
+### [has_identifier.public](/_public/schema-org/Relation/has/has_identifier.public.md) 
 
 ### [has_identifier.internal](/_internal/schema-org/Relation/has/has_identifier.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_identifier.personal](/_personal/schema-org/Relation/has/has_identifier.personal.md) 
 
-### [has_identifier.secret](/_secret/schema-org/Relation/has/has_identifier.secret.md) 
+### [has_identifier.secret](/_secret/schema-org/Relation/has/has_identifier.secret.md)
+

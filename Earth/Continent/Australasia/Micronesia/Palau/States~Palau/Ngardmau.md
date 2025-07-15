@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.59 , 134.59 ] 
 type: geo-Region
 title: Ngardmau
@@ -41,7 +41,9 @@ markerFolder: ./Ngardmau/
 
 ## Confidential Links & Embeds: 
 
-### [Ngardmau](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.md) 
+### [Ngardmau](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.md) 
+
+### [Ngardmau.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.public.md) 
 
 ### [Ngardmau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngardmau/
 
 ### [Ngardmau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.personal.md) 
 
-### [Ngardmau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.secret.md) 
+### [Ngardmau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.secret.md)
+

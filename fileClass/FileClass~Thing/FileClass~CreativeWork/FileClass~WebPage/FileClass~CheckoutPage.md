@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Web page type: Checkout page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CheckoutPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.md) 
+### [FileClass~CheckoutPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.md) 
+
+### [FileClass~CheckoutPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.public.md) 
 
 ### [FileClass~CheckoutPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.internal.md) 
 
@@ -46,4 +47,5 @@ Web page type: Checkout page.
 
 ### [FileClass~CheckoutPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.personal.md) 
 
-### [FileClass~CheckoutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.secret.md) 
+### [FileClass~CheckoutPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CheckoutPage.secret.md)
+

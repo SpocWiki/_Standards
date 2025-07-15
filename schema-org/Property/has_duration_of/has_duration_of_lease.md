@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_duration_of_lease)
 (range::Duration, QuantitativeValue)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_lease](/_public/schema-org/Property/has_duration_of/has_duration_of_lease.md) 
+### [has_duration_of_lease](/_Standards/schema-org/Property/has_duration_of/has_duration_of_lease.md) 
+
+### [has_duration_of_lease.public](/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public.md) 
 
 ### [has_duration_of_lease.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_duration_of_lease.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_lease.personal.md) 
 
-### [has_duration_of_lease.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret.md) 
+### [has_duration_of_lease.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret.md)
+

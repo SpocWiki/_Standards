@@ -25,9 +25,12 @@ Unit :: #Unit/SI/g
 
 Since the Planck-Constant combined with the Caesium Frequency yields an Energy and Energy is equivalent to mass using E=m* c² an equivalent Mass can be defined. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Unit~Gram](/_public/Unit/SI-Unit/Unit~Gram.md) 
+### [Unit~Gram](/_Standards/Unit/SI-Unit/Unit~Gram.md) 
+
+### [Unit~Gram.public](/_public/Unit/SI-Unit/Unit~Gram.public.md) 
 
 ### [Unit~Gram.internal](/_internal/Unit/SI-Unit/Unit~Gram.internal.md) 
 
@@ -37,4 +40,5 @@ Since the Planck-Constant combined with the Caesium Frequency yields an Energy a
 
 ### [Unit~Gram.personal](/_personal/Unit/SI-Unit/Unit~Gram.personal.md) 
 
-### [Unit~Gram.secret](/_secret/Unit/SI-Unit/Unit~Gram.secret.md) 
+### [Unit~Gram.secret](/_secret/Unit/SI-Unit/Unit~Gram.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 icon: fas_location_dot
 ---
 # geos
@@ -10,7 +10,9 @@ Class of [[../Predicate|Predicates]] /Relations with a geographical Location of 
 
 ## Confidential Links & Embeds: 
 
-### [has_location](/_public/schema-org/Property/has_location.md) 
+### [has_location](/_Standards/schema-org/Property/has_location.md) 
+
+### [has_location.public](/_public/schema-org/Property/has_location.public.md) 
 
 ### [has_location.internal](/_internal/schema-org/Property/has_location.internal.md) 
 
@@ -20,4 +22,5 @@ Class of [[../Predicate|Predicates]] /Relations with a geographical Location of 
 
 ### [has_location.personal](/_personal/schema-org/Property/has_location.personal.md) 
 
-### [has_location.secret](/_secret/schema-org/Property/has_location.secret.md) 
+### [has_location.secret](/_secret/schema-org/Property/has_location.secret.md)
+

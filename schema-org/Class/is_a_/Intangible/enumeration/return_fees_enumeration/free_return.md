@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that product returns are free of charge for the customer.
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [free_return](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.md) 
+### [free_return](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.md) 
+
+### [free_return.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.public.md) 
 
 ### [free_return.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that product returns are free of charge for the customer.
 
 ### [free_return.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.personal.md) 
 
-### [free_return.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.secret.md) 
+### [free_return.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/free_return.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Use it like this:
 
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_episode](/_public/schema-org/Relation/has/has_episode.md) 
+### [has_episode](/_Standards/schema-org/Relation/has/has_episode.md) 
+
+### [has_episode.public](/_public/schema-org/Relation/has/has_episode.public.md) 
 
 ### [has_episode.internal](/_internal/schema-org/Relation/has/has_episode.internal.md) 
 
@@ -57,4 +60,5 @@ Use it like this:
 
 ### [has_episode.personal](/_personal/schema-org/Relation/has/has_episode.personal.md) 
 
-### [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md) 
+### [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md)
+

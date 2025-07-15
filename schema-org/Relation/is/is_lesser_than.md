@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of :: [[is_greater_than]]] 
 
+
 ## Confidential Links & Embeds: 
 
-### [is_lesser_than](/_public/schema-org/Relation/is/is_lesser_than.md) 
+### [is_lesser_than](/_Standards/schema-org/Relation/is/is_lesser_than.md) 
+
+### [is_lesser_than.public](/_public/schema-org/Relation/is/is_lesser_than.public.md) 
 
 ### [is_lesser_than.internal](/_internal/schema-org/Relation/is/is_lesser_than.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_lesser_than.personal](/_personal/schema-org/Relation/is/is_lesser_than.personal.md) 
 
-### [is_lesser_than.secret](/_secret/schema-org/Relation/is/is_lesser_than.secret.md) 
+### [is_lesser_than.secret](/_secret/schema-org/Relation/is/is_lesser_than.secret.md)
+

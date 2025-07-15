@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_additional_variable )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_additional_variable](/_public/schema-org/Property/Texts/has_additional_variable.md) 
+### [has_additional_variable](/_Standards/schema-org/Property/Texts/has_additional_variable.md) 
+
+### [has_additional_variable.public](/_public/schema-org/Property/Texts/has_additional_variable.public.md) 
 
 ### [has_additional_variable.internal](/_internal/schema-org/Property/Texts/has_additional_variable.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_additional_variable.personal](/_personal/schema-org/Property/Texts/has_additional_variable.personal.md) 
 
-### [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md) 
+### [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md)
+

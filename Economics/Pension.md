@@ -27,3 +27,20 @@ it may trigger unwanted reduction of Workforce.
 
 This is exacerbated by inflation which makes earlier pension even more valuable. 
 
+
+## Confidential Links & Embeds: 
+
+### [Pension](/_Standards/Economics/Pension.md) 
+
+### [Pension.public](/_public/Economics/Pension.public.md) 
+
+### [Pension.internal](/_internal/Economics/Pension.internal.md) 
+
+### [Pension.protect](/_protect/Economics/Pension.protect.md) 
+
+### [Pension.private](/_private/Economics/Pension.private.md) 
+
+### [Pension.personal](/_personal/Economics/Pension.personal.md) 
+
+### [Pension.secret](/_secret/Economics/Pension.secret.md)
+

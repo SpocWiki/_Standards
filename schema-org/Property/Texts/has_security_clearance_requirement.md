@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_security_clearance_requirement )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_security_clearance_requirement](/_public/schema-org/Property/Texts/has_security_clearance_requirement.md) 
+### [has_security_clearance_requirement](/_Standards/schema-org/Property/Texts/has_security_clearance_requirement.md) 
+
+### [has_security_clearance_requirement.public](/_public/schema-org/Property/Texts/has_security_clearance_requirement.public.md) 
 
 ### [has_security_clearance_requirement.internal](/_internal/schema-org/Property/Texts/has_security_clearance_requirement.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_security_clearance_requirement.personal](/_personal/schema-org/Property/Texts/has_security_clearance_requirement.personal.md) 
 
-### [has_security_clearance_requirement.secret](/_secret/schema-org/Property/Texts/has_security_clearance_requirement.secret.md) 
+### [has_security_clearance_requirement.secret](/_secret/schema-org/Property/Texts/has_security_clearance_requirement.secret.md)
+

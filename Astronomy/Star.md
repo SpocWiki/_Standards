@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q523
 nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Ciel%20%C3%A9toil%C3%A9%20dans%20les%20Vosges.jpg"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sun%20by%20the%20Atmospheric%20Imaging%20Assembly%20of%20NASA%27s%20Solar%20Dynamics%20Observatory%20-%2020100819.jpg"
@@ -80,4 +80,21 @@ Commons_category: Stars
 > Stars can form orbital systems with other astronomical objects, as in planetary systems and star systems with two or more stars. When two such stars orbit closely, their gravitational interaction can significantly impact their evolution. Stars can form part of a much larger gravitationally bound structure, such as a star cluster or a galaxy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Star)
+
+
+## Confidential Links & Embeds: 
+
+### [Star](/_Standards/Astronomy/Star.md) 
+
+### [Star.public](/_public/Astronomy/Star.public.md) 
+
+### [Star.internal](/_internal/Astronomy/Star.internal.md) 
+
+### [Star.protect](/_protect/Astronomy/Star.protect.md) 
+
+### [Star.private](/_private/Astronomy/Star.private.md) 
+
+### [Star.personal](/_personal/Astronomy/Star.personal.md) 
+
+### [Star.secret](/_secret/Astronomy/Star.secret.md)
 

@@ -66,3 +66,22 @@ aliases:
     -   [Gnetum](Gnetales/Gnetum.md)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gnetales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.md) 
+
+### [Gnetales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.public.md) 
+
+### [Gnetales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.internal.md) 
+
+### [Gnetales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.protect.md) 
+
+### [Gnetales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.private.md) 
+
+### [Gnetales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.personal.md) 
+
+### [Gnetales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales.secret.md)
+

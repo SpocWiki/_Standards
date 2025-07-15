@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A play is a form of literature, usually consisting of dialogue between character
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Play](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.md) 
+### [FileClass~Play](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.md) 
+
+### [FileClass~Play.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.public.md) 
 
 ### [FileClass~Play.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.internal.md) 
 
@@ -46,4 +47,5 @@ A play is a form of literature, usually consisting of dialogue between character
 
 ### [FileClass~Play.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.personal.md) 
 
-### [FileClass~Play.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.secret.md) 
+### [FileClass~Play.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.secret.md)
+

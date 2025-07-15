@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_hours_available )
 ( #has_/range :: OpeningHoursSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_hours_available](/_public/schema-org/Relation/has/has_hours_available.md) 
+### [has_hours_available](/_Standards/schema-org/Relation/has/has_hours_available.md) 
+
+### [has_hours_available.public](/_public/schema-org/Relation/has/has_hours_available.public.md) 
 
 ### [has_hours_available.internal](/_internal/schema-org/Relation/has/has_hours_available.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_hours_available.personal](/_personal/schema-org/Relation/has/has_hours_available.personal.md) 
 
-### [has_hours_available.secret](/_secret/schema-org/Relation/has/has_hours_available.secret.md) 
+### [has_hours_available.secret](/_secret/schema-org/Relation/has/has_hours_available.secret.md)
+

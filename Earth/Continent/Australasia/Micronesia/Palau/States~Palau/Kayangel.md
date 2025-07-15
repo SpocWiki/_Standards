@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 8.07 , 134.71 ] 
 type: geo-Region
 title: Kayangel
@@ -41,7 +41,9 @@ markerFolder: ./Kayangel/
 
 ## Confidential Links & Embeds: 
 
-### [Kayangel](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.md) 
+### [Kayangel](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.md) 
+
+### [Kayangel.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.public.md) 
 
 ### [Kayangel.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Kayangel/
 
 ### [Kayangel.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.personal.md) 
 
-### [Kayangel.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.secret.md) 
+### [Kayangel.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Kayangel.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q1368
 named_after: '[[_Standards/WikiData/WD~groschen,159505]]'
 history_of_topic: "[[_Standards/WikiData/WD~history_of_money,167328]]"
@@ -59,4 +59,19 @@ Colon_Classification: X6
 > [Wikipedia](https://en.wikipedia.org/wiki/Money)
 
 
+## Confidential Links & Embeds: 
+
+### [Money](/_Standards/Economics/Money.md) 
+
+### [Money.public](/_public/Economics/Money.public.md) 
+
+### [Money.internal](/_internal/Economics/Money.internal.md) 
+
+### [Money.protect](/_protect/Economics/Money.protect.md) 
+
+### [Money.private](/_private/Economics/Money.private.md) 
+
+### [Money.personal](/_personal/Economics/Money.personal.md) 
+
+### [Money.secret](/_secret/Economics/Money.secret.md)
 

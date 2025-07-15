@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Food event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FoodEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.md) 
+### [FileClass~FoodEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.md) 
+
+### [FileClass~FoodEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.public.md) 
 
 ### [FileClass~FoodEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Food event.
 
 ### [FileClass~FoodEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.personal.md) 
 
-### [FileClass~FoodEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.secret.md) 
+### [FileClass~FoodEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~FoodEvent.secret.md)
+

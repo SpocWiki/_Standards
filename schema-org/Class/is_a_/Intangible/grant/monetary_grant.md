@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A monetary grant.
 
 [ #has_/properties :: [ additionalType, alternateName, amount, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [monetary_grant](/_public/schema-org/Class/is_a_/Intangible/grant/monetary_grant.md) 
+### [monetary_grant](/_Standards/schema-org/Class/is_a_/Intangible/grant/monetary_grant.md) 
+
+### [monetary_grant.public](/_public/schema-org/Class/is_a_/Intangible/grant/monetary_grant.public.md) 
 
 ### [monetary_grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.internal.md) 
 
@@ -56,4 +59,5 @@ A monetary grant.
 
 ### [monetary_grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.personal.md) 
 
-### [monetary_grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant/monetary_grant.secret.md) 
+### [monetary_grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant/monetary_grant.secret.md)
+

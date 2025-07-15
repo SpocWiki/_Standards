@@ -470,16 +470,20 @@ Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georgia%20(country))
 
+
 ## Confidential Links & Embeds: 
 
-### [Georgia.Europe](/_public/Earth/Continent/Europe/Europe~East/Georgia.Europe.md) 
+### [Georgia,Europe](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe.md) 
 
-### [Georgia.Europe.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia.Europe.internal.md) 
+### [Georgia,Europe.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public.md) 
 
-### [Georgia.Europe.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia.Europe.protect.md) 
+### [Georgia,Europe.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal.md) 
 
-### [Georgia.Europe.private](/_private/Earth/Continent/Europe/Europe~East/Georgia.Europe.private.md) 
+### [Georgia,Europe.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe.protect.md) 
 
-### [Georgia.Europe.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia.Europe.personal.md) 
+### [Georgia,Europe.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe.private.md) 
 
-### [Georgia.Europe.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia.Europe.secret.md) 
+### [Georgia,Europe.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal.md) 
+
+### [Georgia,Europe.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret.md)
+

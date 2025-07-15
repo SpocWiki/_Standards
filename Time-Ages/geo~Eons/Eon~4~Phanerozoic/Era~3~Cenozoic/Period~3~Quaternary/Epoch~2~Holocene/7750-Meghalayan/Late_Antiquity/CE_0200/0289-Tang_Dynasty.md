@@ -106,3 +106,22 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Tang%20dynasty) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [0289-Tang_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.md) 
+
+### [0289-Tang_Dynasty.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.public.md) 
+
+### [0289-Tang_Dynasty.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.internal.md) 
+
+### [0289-Tang_Dynasty.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.protect.md) 
+
+### [0289-Tang_Dynasty.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.private.md) 
+
+### [0289-Tang_Dynasty.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.personal.md) 
+
+### [0289-Tang_Dynasty.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0200/0289-Tang_Dynasty.secret.md)
+

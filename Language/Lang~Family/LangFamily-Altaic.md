@@ -12,10 +12,11 @@ has_id_wikidata: Q37845
 [Name::Altaic]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Altaic](/_public/Language/Lang~Family/LangFamily-Altaic.md) 
+### [LangFamily-Altaic](/_Standards/Language/Lang~Family/LangFamily-Altaic.md) 
+
+### [LangFamily-Altaic.public](/_public/Language/Lang~Family/LangFamily-Altaic.public.md) 
 
 ### [LangFamily-Altaic.internal](/_internal/Language/Lang~Family/LangFamily-Altaic.internal.md) 
 
@@ -25,4 +26,5 @@ has_id_wikidata: Q37845
 
 ### [LangFamily-Altaic.personal](/_personal/Language/Lang~Family/LangFamily-Altaic.personal.md) 
 
-### [LangFamily-Altaic.secret](/_secret/Language/Lang~Family/LangFamily-Altaic.secret.md) 
+### [LangFamily-Altaic.secret](/_secret/Language/Lang~Family/LangFamily-Altaic.secret.md)
+

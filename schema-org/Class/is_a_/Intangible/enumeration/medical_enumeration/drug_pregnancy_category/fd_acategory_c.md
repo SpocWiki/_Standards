@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A designation by the US FDA signifying that animal reproduction studies have sho
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [fd_acategory_c](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.md) 
+### [fd_acategory_c](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.md) 
+
+### [fd_acategory_c.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.public.md) 
 
 ### [fd_acategory_c.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.internal.md) 
 
@@ -56,4 +59,5 @@ A designation by the US FDA signifying that animal reproduction studies have sho
 
 ### [fd_acategory_c.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.personal.md) 
 
-### [fd_acategory_c.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.secret.md) 
+### [fd_acategory_c.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_c.secret.md)
+

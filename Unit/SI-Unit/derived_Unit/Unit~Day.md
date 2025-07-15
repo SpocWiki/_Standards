@@ -91,7 +91,9 @@ Commons_category: Day
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Day](/_public/Unit/SI-Unit/derived_Unit/Unit~Day.md) 
+### [Unit~Day](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Day.md) 
+
+### [Unit~Day.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Day.public.md) 
 
 ### [Unit~Day.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Day.internal.md) 
 
@@ -101,4 +103,5 @@ Commons_category: Day
 
 ### [Unit~Day.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Day.personal.md) 
 
-### [Unit~Day.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Day.secret.md) 
+### [Unit~Day.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Day.secret.md)
+

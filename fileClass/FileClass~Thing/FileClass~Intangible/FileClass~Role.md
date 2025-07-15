@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -69,10 +69,11 @@ The start date and time of the item (in [ISO 8601 date format](http://en.wikiped
 StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Role](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.md) 
+### [FileClass~Role](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.md) 
+
+### [FileClass~Role.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.public.md) 
 
 ### [FileClass~Role.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.internal.md) 
 
@@ -82,4 +83,5 @@ StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ### [FileClass~Role.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.personal.md) 
 
-### [FileClass~Role.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.secret.md) 
+### [FileClass~Role.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role.secret.md)
+

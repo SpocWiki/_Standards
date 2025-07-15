@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_safety_consideration )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_safety_consideration](/_public/schema-org/Property/Texts/has_safety_consideration.md) 
+### [has_safety_consideration](/_Standards/schema-org/Property/Texts/has_safety_consideration.md) 
+
+### [has_safety_consideration.public](/_public/schema-org/Property/Texts/has_safety_consideration.public.md) 
 
 ### [has_safety_consideration.internal](/_internal/schema-org/Property/Texts/has_safety_consideration.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_safety_consideration.personal](/_personal/schema-org/Property/Texts/has_safety_consideration.personal.md) 
 
-### [has_safety_consideration.secret](/_secret/schema-org/Property/Texts/has_safety_consideration.secret.md) 
+### [has_safety_consideration.secret](/_secret/schema-org/Property/Texts/has_safety_consideration.secret.md)
+

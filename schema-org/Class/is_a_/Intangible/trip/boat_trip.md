@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A trip on a commercial ferry line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [boat_trip](/_public/schema-org/Class/is_a_/Intangible/trip/boat_trip.md) 
+### [boat_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/boat_trip.md) 
+
+### [boat_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/boat_trip.public.md) 
 
 ### [boat_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/boat_trip.internal.md) 
 
@@ -56,4 +59,5 @@ A trip on a commercial ferry line.
 
 ### [boat_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/boat_trip.personal.md) 
 
-### [boat_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/boat_trip.secret.md) 
+### [boat_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/boat_trip.secret.md)
+

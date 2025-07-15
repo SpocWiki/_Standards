@@ -31,3 +31,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamaica%20Accords) 
 
 
+## Confidential Links & Embeds: 
+
+### [Jamaica_Accords](/_Standards/Economics/Currency/Jamaica_Accords.md) 
+
+### [Jamaica_Accords.public](/_public/Economics/Currency/Jamaica_Accords.public.md) 
+
+### [Jamaica_Accords.internal](/_internal/Economics/Currency/Jamaica_Accords.internal.md) 
+
+### [Jamaica_Accords.protect](/_protect/Economics/Currency/Jamaica_Accords.protect.md) 
+
+### [Jamaica_Accords.private](/_private/Economics/Currency/Jamaica_Accords.private.md) 
+
+### [Jamaica_Accords.personal](/_personal/Economics/Currency/Jamaica_Accords.personal.md) 
+
+### [Jamaica_Accords.secret](/_secret/Economics/Currency/Jamaica_Accords.secret.md)
+

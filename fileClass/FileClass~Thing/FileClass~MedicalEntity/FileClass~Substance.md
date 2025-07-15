@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -61,10 +61,11 @@ Recommended intake of this supplement for a given population as defined by a spe
 MaximumIntake:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Substance](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.md) 
+### [FileClass~Substance](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.md) 
+
+### [FileClass~Substance.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.public.md) 
 
 ### [FileClass~Substance.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.internal.md) 
 
@@ -74,4 +75,5 @@ MaximumIntake:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### [FileClass~Substance.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.personal.md) 
 
-### [FileClass~Substance.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.secret.md) 
+### [FileClass~Substance.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance.secret.md)
+

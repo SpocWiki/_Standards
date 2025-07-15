@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q637776
 product_material_or_service_produced_or_provided:
 - "[[_Standards/WikiData/WD~dairy_product,185217]]"
@@ -36,4 +36,23 @@ GeoNames_feature_code: S.DARY
 > [Wikipedia](https://en.wikipedia.org/wiki/Dairy) 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dairy](/_Standards/Home_Economics/Cooking/Food/Dairy.md) 
+
+### [Dairy.public](/_public/Home_Economics/Cooking/Food/Dairy.public.md) 
+
+### [Dairy.internal](/_internal/Home_Economics/Cooking/Food/Dairy.internal.md) 
+
+### [Dairy.protect](/_protect/Home_Economics/Cooking/Food/Dairy.protect.md) 
+
+### [Dairy.private](/_private/Home_Economics/Cooking/Food/Dairy.private.md) 
+
+### [Dairy.personal](/_personal/Home_Economics/Cooking/Food/Dairy.personal.md) 
+
+### [Dairy.secret](/_secret/Home_Economics/Cooking/Food/Dairy.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A service to convert funds from one currency to another currency.
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [currency_conversion_service](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.md) 
+### [currency_conversion_service](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.md) 
+
+### [currency_conversion_service.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.public.md) 
 
 ### [currency_conversion_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.internal.md) 
 
@@ -54,4 +57,5 @@ A service to convert funds from one currency to another currency.
 
 ### [currency_conversion_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.personal.md) 
 
-### [currency_conversion_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.secret.md) 
+### [currency_conversion_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/currency_conversion_service.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -62,9 +62,12 @@ Usage guidelines:
 ( #has_/name :: has_value_for_rating )
 ( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_rating](/_public/schema-org/Property/has_value_for/has_value_for_rating.md) 
+### [has_value_for_rating](/_Standards/schema-org/Property/has_value_for/has_value_for_rating.md) 
+
+### [has_value_for_rating.public](/_public/schema-org/Property/has_value_for/has_value_for_rating.public.md) 
 
 ### [has_value_for_rating.internal](/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal.md) 
 
@@ -74,4 +77,5 @@ Usage guidelines:
 
 ### [has_value_for_rating.personal](/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal.md) 
 
-### [has_value_for_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret.md) 
+### [has_value_for_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret.md)
+

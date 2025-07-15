@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_suggested_gender )
 ( #has_/range :: GenderType, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_suggested_gender](/_public/schema-org/Relation/has/has_suggested_gender.md) 
+### [has_suggested_gender](/_Standards/schema-org/Relation/has/has_suggested_gender.md) 
+
+### [has_suggested_gender.public](/_public/schema-org/Relation/has/has_suggested_gender.public.md) 
 
 ### [has_suggested_gender.internal](/_internal/schema-org/Relation/has/has_suggested_gender.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_suggested_gender.personal](/_personal/schema-org/Relation/has/has_suggested_gender.personal.md) 
 
-### [has_suggested_gender.secret](/_secret/schema-org/Relation/has/has_suggested_gender.secret.md) 
+### [has_suggested_gender.secret](/_secret/schema-org/Relation/has/has_suggested_gender.secret.md)
+

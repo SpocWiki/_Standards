@@ -1,11 +1,14 @@
-﻿---
+---
 icon: ril_file_text
 ---
 # Texts
 
+
 ## Confidential Links & Embeds: 
 
-### [Texts](/_public/schema-org/Property/Texts.md) 
+### [Texts](/_Standards/schema-org/Property/Texts.md) 
+
+### [Texts.public](/_public/schema-org/Property/Texts.public.md) 
 
 ### [Texts.internal](/_internal/schema-org/Property/Texts.internal.md) 
 
@@ -15,4 +18,5 @@ icon: ril_file_text
 
 ### [Texts.personal](/_personal/schema-org/Property/Texts.personal.md) 
 
-### [Texts.secret](/_secret/schema-org/Property/Texts.secret.md) 
+### [Texts.secret](/_secret/schema-org/Property/Texts.secret.md)
+

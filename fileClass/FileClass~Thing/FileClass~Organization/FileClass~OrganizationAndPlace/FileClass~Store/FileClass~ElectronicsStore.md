@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An electronics store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ElectronicsStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.md) 
+### [FileClass~ElectronicsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.md) 
+
+### [FileClass~ElectronicsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.public.md) 
 
 ### [FileClass~ElectronicsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.internal.md) 
 
@@ -46,4 +47,5 @@ An electronics store.
 
 ### [FileClass~ElectronicsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.personal.md) 
 
-### [FileClass~ElectronicsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.secret.md) 
+### [FileClass~ElectronicsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ElectronicsStore.secret.md)
+

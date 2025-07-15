@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_code_for_discount )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_for_discount](/_public/schema-org/Property/has_name/has_code_for_discount.md) 
+### [has_code_for_discount](/_Standards/schema-org/Property/has_name/has_code_for_discount.md) 
+
+### [has_code_for_discount.public](/_public/schema-org/Property/has_name/has_code_for_discount.public.md) 
 
 ### [has_code_for_discount.internal](/_internal/schema-org/Property/has_name/has_code_for_discount.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_code_for_discount.personal](/_personal/schema-org/Property/has_name/has_code_for_discount.personal.md) 
 
-### [has_code_for_discount.secret](/_secret/schema-org/Property/has_name/has_code_for_discount.secret.md) 
+### [has_code_for_discount.secret](/_secret/schema-org/Property/has_name/has_code_for_discount.secret.md)
+

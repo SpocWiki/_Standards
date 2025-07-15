@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,10 +55,11 @@ An Offer which must be accepted before the user can perform the Action. For exam
 ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConsumeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.md) 
+### [FileClass~ConsumeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.md) 
+
+### [FileClass~ConsumeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.public.md) 
 
 ### [FileClass~ConsumeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.internal.md) 
 
@@ -68,4 +69,5 @@ ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ### [FileClass~ConsumeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.personal.md) 
 
-### [FileClass~ConsumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret.md) 
+### [FileClass~ConsumeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction.secret.md)
+

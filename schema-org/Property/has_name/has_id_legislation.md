@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_legislation](/_public/schema-org/Property/has_name/has_id_legislation.md) 
+### [has_id_legislation](/_Standards/schema-org/Property/has_name/has_id_legislation.md) 
+
+### [has_id_legislation.public](/_public/schema-org/Property/has_name/has_id_legislation.public.md) 
 
 ### [has_id_legislation.internal](/_internal/schema-org/Property/has_name/has_id_legislation.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_id_legislation.personal](/_personal/schema-org/Property/has_name/has_id_legislation.personal.md) 
 
-### [has_id_legislation.secret](/_secret/schema-org/Property/has_name/has_id_legislation.secret.md) 
+### [has_id_legislation.secret](/_secret/schema-org/Property/has_name/has_id_legislation.secret.md)
+

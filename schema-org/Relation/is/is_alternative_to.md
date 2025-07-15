@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_alternative_to )
 ( #has_/range :: Gene )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_alternative_to](/_public/schema-org/Relation/is/is_alternative_to.md) 
+### [is_alternative_to](/_Standards/schema-org/Relation/is/is_alternative_to.md) 
+
+### [is_alternative_to.public](/_public/schema-org/Relation/is/is_alternative_to.public.md) 
 
 ### [is_alternative_to.internal](/_internal/schema-org/Relation/is/is_alternative_to.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_alternative_to.personal](/_personal/schema-org/Relation/is/is_alternative_to.personal.md) 
 
-### [is_alternative_to.secret](/_secret/schema-org/Relation/is/is_alternative_to.secret.md) 
+### [is_alternative_to.secret](/_secret/schema-org/Relation/is/is_alternative_to.secret.md)
+

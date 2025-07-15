@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_related_to )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_related_to](/_public/schema-org/Relation/has/has_related_to.md) 
+### [has_related_to](/_Standards/schema-org/Relation/has/has_related_to.md) 
+
+### [has_related_to.public](/_public/schema-org/Relation/has/has_related_to.public.md) 
 
 ### [has_related_to.internal](/_internal/schema-org/Relation/has/has_related_to.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_related_to.personal](/_personal/schema-org/Relation/has/has_related_to.personal.md) 
 
-### [has_related_to.secret](/_secret/schema-org/Relation/has/has_related_to.secret.md) 
+### [has_related_to.secret](/_secret/schema-org/Relation/has/has_related_to.secret.md)
+

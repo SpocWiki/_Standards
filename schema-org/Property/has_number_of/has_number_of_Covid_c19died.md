@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_c19died )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_c19died](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.md) 
+### [has_number_of_Covid_c19died](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died.md) 
+
+### [has_number_of_Covid_c19died.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public.md) 
 
 ### [has_number_of_Covid_c19died.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_Covid_c19died.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal.md) 
 
-### [has_number_of_Covid_c19died.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret.md) 
+### [has_number_of_Covid_c19died.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret.md)
+

@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_domain )
 ( #has_/range :: [Class](../Classes.md) )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_domain](/_public/schema-org/Predicate/has_domain.md) 
+### [has_domain](/_Standards/schema-org/Predicate/has_domain.md) 
+
+### [has_domain.public](/_public/schema-org/Predicate/has_domain.public.md) 
 
 ### [has_domain.internal](/_internal/schema-org/Predicate/has_domain.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_domain.personal](/_personal/schema-org/Predicate/has_domain.personal.md) 
 
-### [has_domain.secret](/_secret/schema-org/Predicate/has_domain.secret.md) 
+### [has_domain.secret](/_secret/schema-org/Predicate/has_domain.secret.md)
+

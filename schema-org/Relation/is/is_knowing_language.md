@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_knowing_language )
 ( #has_/range :: Language, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_knowing_language](/_public/schema-org/Relation/is/is_knowing_language.md) 
+### [is_knowing_language](/_Standards/schema-org/Relation/is/is_knowing_language.md) 
+
+### [is_knowing_language.public](/_public/schema-org/Relation/is/is_knowing_language.public.md) 
 
 ### [is_knowing_language.internal](/_internal/schema-org/Relation/is/is_knowing_language.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_knowing_language.personal](/_personal/schema-org/Relation/is/is_knowing_language.personal.md) 
 
-### [is_knowing_language.secret](/_secret/schema-org/Relation/is/is_knowing_language.secret.md) 
+### [is_knowing_language.secret](/_secret/schema-org/Relation/is/is_knowing_language.secret.md)
+

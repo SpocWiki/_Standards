@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Ampere]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -35,10 +35,11 @@ Unit :: #Unit/SI/A
 > [Wikipedia](https://en.wikipedia.org/wiki/Ampere)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Unit~Ampere](/_public/Unit/SI-Unit/Unit~Ampere.md) 
+### [Unit~Ampere](/_Standards/Unit/SI-Unit/Unit~Ampere.md) 
+
+### [Unit~Ampere.public](/_public/Unit/SI-Unit/Unit~Ampere.public.md) 
 
 ### [Unit~Ampere.internal](/_internal/Unit/SI-Unit/Unit~Ampere.internal.md) 
 
@@ -48,4 +49,5 @@ Unit :: #Unit/SI/A
 
 ### [Unit~Ampere.personal](/_personal/Unit/SI-Unit/Unit~Ampere.personal.md) 
 
-### [Unit~Ampere.secret](/_secret/Unit/SI-Unit/Unit~Ampere.secret.md) 
+### [Unit~Ampere.secret](/_secret/Unit/SI-Unit/Unit~Ampere.secret.md)
+

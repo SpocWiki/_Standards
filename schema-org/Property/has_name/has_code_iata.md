@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_code_iata )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_iata](/_public/schema-org/Property/has_name/has_code_iata.md) 
+### [has_code_iata](/_Standards/schema-org/Property/has_name/has_code_iata.md) 
+
+### [has_code_iata.public](/_public/schema-org/Property/has_name/has_code_iata.public.md) 
 
 ### [has_code_iata.internal](/_internal/schema-org/Property/has_name/has_code_iata.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_code_iata.personal](/_personal/schema-org/Property/has_name/has_code_iata.personal.md) 
 
-### [has_code_iata.secret](/_secret/schema-org/Property/has_name/has_code_iata.secret.md) 
+### [has_code_iata.secret](/_secret/schema-org/Property/has_name/has_code_iata.secret.md)
+

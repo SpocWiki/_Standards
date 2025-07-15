@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A designation by the US FDA signifying that adequate and well-controlled studies
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [fd_acategory_a](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.md) 
+### [fd_acategory_a](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.md) 
+
+### [fd_acategory_a.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.public.md) 
 
 ### [fd_acategory_a.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.internal.md) 
 
@@ -56,4 +59,5 @@ A designation by the US FDA signifying that adequate and well-controlled studies
 
 ### [fd_acategory_a.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.personal.md) 
 
-### [fd_acategory_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.secret.md) 
+### [fd_acategory_a.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_a.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 3285
 has_id_wikidata: Q1096
@@ -130,9 +130,12 @@ density: 7.28
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tin)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tin](/_public/chemic/chemic~Elements/Group-14-Carbon/Tin.md) 
+### [Tin](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Tin.md) 
+
+### [Tin.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Tin.public.md) 
 
 ### [Tin.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Tin.internal.md) 
 
@@ -142,4 +145,5 @@ density: 7.28
 
 ### [Tin.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Tin.personal.md) 
 
-### [Tin.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Tin.secret.md) 
+### [Tin.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Tin.secret.md)
+

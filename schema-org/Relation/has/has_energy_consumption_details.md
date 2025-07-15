@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_energy_consumption_details )
 ( #has_/range :: EnergyConsumptionDetails )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_energy_consumption_details](/_public/schema-org/Relation/has/has_energy_consumption_details.md) 
+### [has_energy_consumption_details](/_Standards/schema-org/Relation/has/has_energy_consumption_details.md) 
+
+### [has_energy_consumption_details.public](/_public/schema-org/Relation/has/has_energy_consumption_details.public.md) 
 
 ### [has_energy_consumption_details.internal](/_internal/schema-org/Relation/has/has_energy_consumption_details.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_energy_consumption_details.personal](/_personal/schema-org/Relation/has/has_energy_consumption_details.personal.md) 
 
-### [has_energy_consumption_details.secret](/_secret/schema-org/Relation/has/has_energy_consumption_details.secret.md) 
+### [has_energy_consumption_details.secret](/_secret/schema-org/Relation/has/has_energy_consumption_details.secret.md)
+

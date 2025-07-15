@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A general contractor.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeneralContractor](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.md) 
+### [FileClass~GeneralContractor](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.md) 
+
+### [FileClass~GeneralContractor.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.public.md) 
 
 ### [FileClass~GeneralContractor.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.internal.md) 
 
@@ -46,4 +47,5 @@ A general contractor.
 
 ### [FileClass~GeneralContractor.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.personal.md) 
 
-### [FileClass~GeneralContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.secret.md) 
+### [FileClass~GeneralContractor.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~GeneralContractor.secret.md)
+

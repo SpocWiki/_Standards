@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_time_of_observation)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_observation](/_public/schema-org/Property/has_Date_Time/has_time_of_observation.md) 
+### [has_time_of_observation](/_Standards/schema-org/Property/has_Date_Time/has_time_of_observation.md) 
+
+### [has_time_of_observation.public](/_public/schema-org/Property/has_Date_Time/has_time_of_observation.public.md) 
 
 ### [has_time_of_observation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_observation.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_time_of_observation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_observation.personal.md) 
 
-### [has_time_of_observation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret.md) 
+### [has_time_of_observation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret.md)
+

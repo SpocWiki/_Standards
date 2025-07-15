@@ -44,6 +44,19 @@ subreddit: trigonometry
 > [Wikipedia](https://en.wikipedia.org/wiki/Trigonometry)
 
 
+## Confidential Links & Embeds: 
 
+### [Trigonometry](/_Standards/Mathematics/Trigonometry.md) 
 
+### [Trigonometry.public](/_public/Mathematics/Trigonometry.public.md) 
+
+### [Trigonometry.internal](/_internal/Mathematics/Trigonometry.internal.md) 
+
+### [Trigonometry.protect](/_protect/Mathematics/Trigonometry.protect.md) 
+
+### [Trigonometry.private](/_private/Mathematics/Trigonometry.private.md) 
+
+### [Trigonometry.personal](/_personal/Mathematics/Trigonometry.personal.md) 
+
+### [Trigonometry.secret](/_secret/Mathematics/Trigonometry.secret.md)
 

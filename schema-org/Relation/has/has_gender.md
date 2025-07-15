@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: has_gender )
 ( #has_/range :: GenderType, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_gender](/_public/schema-org/Relation/has/has_gender.md) 
+### [has_gender](/_Standards/schema-org/Relation/has/has_gender.md) 
+
+### [has_gender.public](/_public/schema-org/Relation/has/has_gender.public.md) 
 
 ### [has_gender.internal](/_internal/schema-org/Relation/has/has_gender.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_gender.personal](/_personal/schema-org/Relation/has/has_gender.personal.md) 
 
-### [has_gender.secret](/_secret/schema-org/Relation/has/has_gender.secret.md) 
+### [has_gender.secret](/_secret/schema-org/Relation/has/has_gender.secret.md)
+

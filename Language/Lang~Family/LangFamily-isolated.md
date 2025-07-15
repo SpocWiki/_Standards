@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::isolated]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-isolated](/_public/Language/Lang~Family/LangFamily-isolated.md) 
+### [LangFamily-isolated](/_Standards/Language/Lang~Family/LangFamily-isolated.md) 
+
+### [LangFamily-isolated.public](/_public/Language/Lang~Family/LangFamily-isolated.public.md) 
 
 ### [LangFamily-isolated.internal](/_internal/Language/Lang~Family/LangFamily-isolated.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-isolated.personal](/_personal/Language/Lang~Family/LangFamily-isolated.personal.md) 
 
-### [LangFamily-isolated.secret](/_secret/Language/Lang~Family/LangFamily-isolated.secret.md) 
+### [LangFamily-isolated.secret](/_secret/Language/Lang~Family/LangFamily-isolated.secret.md)
+

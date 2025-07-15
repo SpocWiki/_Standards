@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Peter the Great"
 - "Pyotr I Alekseyevich"
@@ -137,4 +137,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Inconnu%20d%27apr%C3%
 > Peter is primarily credited with the modernization of the country, quickly transforming it into a major European power. His administrative reforms, creating a Governing Senate in 1711, the Collegium in 1717 and the Table of Ranks in 1722 had a lasting impact on Russia, and many institutions of the Russian government trace their origins to his reign.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20the%20Great)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Peter_the_Great](/_Standards/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.md) 
+
+### [Peter_the_Great.public](/_public/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.public.md) 
+
+### [Peter_the_Great.internal](/_internal/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.internal.md) 
+
+### [Peter_the_Great.protect](/_protect/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.protect.md) 
+
+### [Peter_the_Great.private](/_private/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.private.md) 
+
+### [Peter_the_Great.personal](/_personal/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.personal.md) 
+
+### [Peter_the_Great.secret](/_secret/bio/People/Leader/Early_modern_Leaders/Peter_the_Great.secret.md)
 

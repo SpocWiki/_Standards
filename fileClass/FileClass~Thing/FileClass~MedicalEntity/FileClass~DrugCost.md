@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -89,10 +89,11 @@ The unit in which the drug is measured, e.g. '5 mg tablet'.
 DrugUnit:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DrugCost](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.md) 
+### [FileClass~DrugCost](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.md) 
+
+### [FileClass~DrugCost.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.public.md) 
 
 ### [FileClass~DrugCost.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.internal.md) 
 
@@ -102,4 +103,5 @@ DrugUnit:: {"type":"Input","options":{}}
 
 ### [FileClass~DrugCost.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.personal.md) 
 
-### [FileClass~DrugCost.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret.md) 
+### [FileClass~DrugCost.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret.md)
+

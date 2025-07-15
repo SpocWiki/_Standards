@@ -24,6 +24,19 @@ has_id_wikidata: Q11464
 > [Wikipedia](https://en.wikipedia.org/wiki/Plough) 
 
 
+## Confidential Links & Embeds: 
 
+### [Plough](/_Standards/Technology/Tool/Plough.md) 
 
+### [Plough.public](/_public/Technology/Tool/Plough.public.md) 
+
+### [Plough.internal](/_internal/Technology/Tool/Plough.internal.md) 
+
+### [Plough.protect](/_protect/Technology/Tool/Plough.protect.md) 
+
+### [Plough.private](/_private/Technology/Tool/Plough.private.md) 
+
+### [Plough.personal](/_personal/Technology/Tool/Plough.personal.md) 
+
+### [Plough.secret](/_secret/Technology/Tool/Plough.secret.md)
 

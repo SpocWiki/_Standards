@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_party_members )
 ( #has_/range :: Integer, QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_party_members](/_public/schema-org/Property/has_number_of/has_number_of_party_members.md) 
+### [has_number_of_party_members](/_Standards/schema-org/Property/has_number_of/has_number_of_party_members.md) 
+
+### [has_number_of_party_members.public](/_public/schema-org/Property/has_number_of/has_number_of_party_members.public.md) 
 
 ### [has_number_of_party_members.internal](/_internal/schema-org/Property/has_number_of/has_number_of_party_members.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_party_members.personal](/_personal/schema-org/Property/has_number_of/has_number_of_party_members.personal.md) 
 
-### [has_number_of_party_members.secret](/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret.md) 
+### [has_number_of_party_members.secret](/_secret/schema-org/Property/has_number_of/has_number_of_party_members.secret.md)
+

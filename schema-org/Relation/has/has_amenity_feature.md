@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_amenity_feature )
 ( #has_/range :: LocationFeatureSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_amenity_feature](/_public/schema-org/Relation/has/has_amenity_feature.md) 
+### [has_amenity_feature](/_Standards/schema-org/Relation/has/has_amenity_feature.md) 
+
+### [has_amenity_feature.public](/_public/schema-org/Relation/has/has_amenity_feature.public.md) 
 
 ### [has_amenity_feature.internal](/_internal/schema-org/Relation/has/has_amenity_feature.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_amenity_feature.personal](/_personal/schema-org/Relation/has/has_amenity_feature.personal.md) 
 
-### [has_amenity_feature.secret](/_secret/schema-org/Relation/has/has_amenity_feature.secret.md) 
+### [has_amenity_feature.secret](/_secret/schema-org/Relation/has/has_amenity_feature.secret.md)
+

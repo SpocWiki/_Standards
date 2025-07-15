@@ -58,3 +58,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nitrospira](/_Standards/bio/bio~Domain/Bacteria/Nitrospira.md) 
+
+### [Nitrospira.public](/_public/bio/bio~Domain/Bacteria/Nitrospira.public.md) 
+
+### [Nitrospira.internal](/_internal/bio/bio~Domain/Bacteria/Nitrospira.internal.md) 
+
+### [Nitrospira.protect](/_protect/bio/bio~Domain/Bacteria/Nitrospira.protect.md) 
+
+### [Nitrospira.private](/_private/bio/bio~Domain/Bacteria/Nitrospira.private.md) 
+
+### [Nitrospira.personal](/_personal/bio/bio~Domain/Bacteria/Nitrospira.personal.md) 
+
+### [Nitrospira.secret](/_secret/bio/bio~Domain/Bacteria/Nitrospira.secret.md)
+

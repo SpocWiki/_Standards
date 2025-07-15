@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -122,10 +122,11 @@ The telephone number.
 Telephone:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ContactPoint](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.md) 
+### [FileClass~ContactPoint](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.md) 
+
+### [FileClass~ContactPoint.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.public.md) 
 
 ### [FileClass~ContactPoint.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.internal.md) 
 
@@ -135,4 +136,5 @@ Telephone:: {"type":"Input","options":{}}
 
 ### [FileClass~ContactPoint.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.personal.md) 
 
-### [FileClass~ContactPoint.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.secret.md) 
+### [FileClass~ContactPoint.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.secret.md)
+

@@ -222,10 +222,11 @@ long: 10
 [ #has_/code  :: AF ]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Africa](/_public/Earth/Continent/Africa.md) 
+### [Africa](/_Standards/Earth/Continent/Africa.md) 
+
+### [Africa.public](/_public/Earth/Continent/Africa.public.md) 
 
 ### [Africa.internal](/_internal/Earth/Continent/Africa.internal.md) 
 
@@ -235,5 +236,5 @@ long: 10
 
 ### [Africa.personal](/_personal/Earth/Continent/Africa.personal.md) 
 
-### [Africa.secret](/_secret/Earth/Continent/Africa.secret.md) 
+### [Africa.secret](/_secret/Earth/Continent/Africa.secret.md)
 

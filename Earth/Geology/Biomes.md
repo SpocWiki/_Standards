@@ -25,3 +25,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Biome)
 
 
+## Confidential Links & Embeds: 
+
+### [Biomes](/_Standards/Earth/Geology/Biomes.md) 
+
+### [Biomes.public](/_public/Earth/Geology/Biomes.public.md) 
+
+### [Biomes.internal](/_internal/Earth/Geology/Biomes.internal.md) 
+
+### [Biomes.protect](/_protect/Earth/Geology/Biomes.protect.md) 
+
+### [Biomes.private](/_private/Earth/Geology/Biomes.private.md) 
+
+### [Biomes.personal](/_personal/Earth/Geology/Biomes.personal.md) 
+
+### [Biomes.secret](/_secret/Earth/Geology/Biomes.secret.md)
+

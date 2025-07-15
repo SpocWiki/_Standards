@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12861
 instance_of:
 - '[[_Standards/WikiData/WD~mixture,169336]]'
@@ -38,4 +38,23 @@ Commons_category: Gunpowder
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gunpowder) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gunpowder](/_Standards/bio/Society/Military/Military_Engineering/Gunpowder.md) 
+
+### [Gunpowder.public](/_public/bio/Society/Military/Military_Engineering/Gunpowder.public.md) 
+
+### [Gunpowder.internal](/_internal/bio/Society/Military/Military_Engineering/Gunpowder.internal.md) 
+
+### [Gunpowder.protect](/_protect/bio/Society/Military/Military_Engineering/Gunpowder.protect.md) 
+
+### [Gunpowder.private](/_private/bio/Society/Military/Military_Engineering/Gunpowder.private.md) 
+
+### [Gunpowder.personal](/_personal/bio/Society/Military/Military_Engineering/Gunpowder.personal.md) 
+
+### [Gunpowder.secret](/_secret/bio/Society/Military/Military_Engineering/Gunpowder.secret.md)
 

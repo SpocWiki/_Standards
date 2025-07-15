@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -177,10 +177,11 @@ The type of the legislation. Examples of values are "law", "act", "directive", "
 LegislationType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Legislation](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.md) 
+### [FileClass~Legislation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.md) 
+
+### [FileClass~Legislation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.public.md) 
 
 ### [FileClass~Legislation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.internal.md) 
 
@@ -190,4 +191,5 @@ LegislationType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~Legislation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.personal.md) 
 
-### [FileClass~Legislation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.secret.md) 
+### [FileClass~Legislation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Legislation.secret.md)
+

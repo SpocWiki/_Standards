@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -176,10 +176,11 @@ The taxonomic grouping of the organism that expresses, encodes, or in some way r
 TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BioChemEntity](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity.md) 
+### [FileClass~BioChemEntity](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity.md) 
+
+### [FileClass~BioChemEntity.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity.public.md) 
 
 ### [FileClass~BioChemEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity.internal.md) 
 
@@ -189,4 +190,5 @@ TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~BioChemEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity.personal.md) 
 
-### [FileClass~BioChemEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity.secret.md) 
+### [FileClass~BioChemEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity.secret.md)
+

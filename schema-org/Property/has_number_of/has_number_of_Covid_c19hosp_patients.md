@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_c19hosp_patients )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_c19hosp_patients](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.md) 
+### [has_number_of_Covid_c19hosp_patients](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.md) 
+
+### [has_number_of_Covid_c19hosp_patients.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.public.md) 
 
 ### [has_number_of_Covid_c19hosp_patients.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_Covid_c19hosp_patients.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.personal.md) 
 
-### [has_number_of_Covid_c19hosp_patients.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.secret.md) 
+### [has_number_of_Covid_c19hosp_patients.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19hosp_patients.secret.md)
+

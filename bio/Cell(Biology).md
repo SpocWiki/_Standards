@@ -53,4 +53,19 @@ Commons_category: Cells
 > [Wikipedia](https://en.wikipedia.org/wiki/Cell%20(biology)) 
 
 
+## Confidential Links & Embeds: 
+
+### [Cell(Biology)](/_Standards/bio/Cell(Biology).md) 
+
+### [Cell(Biology).public](/_public/bio/Cell(Biology).public.md) 
+
+### [Cell(Biology).internal](/_internal/bio/Cell(Biology).internal.md) 
+
+### [Cell(Biology).protect](/_protect/bio/Cell(Biology).protect.md) 
+
+### [Cell(Biology).private](/_private/bio/Cell(Biology).private.md) 
+
+### [Cell(Biology).personal](/_personal/bio/Cell(Biology).personal.md) 
+
+### [Cell(Biology).secret](/_secret/bio/Cell(Biology).secret.md)
 

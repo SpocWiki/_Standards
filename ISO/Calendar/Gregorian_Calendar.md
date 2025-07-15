@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12138
 named_after: "[[_Standards/WikiData/WD~Gregory_XIII,83029]]"
 instance_of:
@@ -93,4 +93,21 @@ between its introduction -0045-01-01 and the reform in 1582-10-15.
 > During the 20th century, most non-Western countries also adopted the calendar, at least for civil purposes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregorian%20calendar) 
+
+
+## Confidential Links & Embeds: 
+
+### [Gregorian_Calendar](/_Standards/ISO/Calendar/Gregorian_Calendar.md) 
+
+### [Gregorian_Calendar.public](/_public/ISO/Calendar/Gregorian_Calendar.public.md) 
+
+### [Gregorian_Calendar.internal](/_internal/ISO/Calendar/Gregorian_Calendar.internal.md) 
+
+### [Gregorian_Calendar.protect](/_protect/ISO/Calendar/Gregorian_Calendar.protect.md) 
+
+### [Gregorian_Calendar.private](/_private/ISO/Calendar/Gregorian_Calendar.private.md) 
+
+### [Gregorian_Calendar.personal](/_personal/ISO/Calendar/Gregorian_Calendar.personal.md) 
+
+### [Gregorian_Calendar.secret](/_secret/ISO/Calendar/Gregorian_Calendar.secret.md)
 

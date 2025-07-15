@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_incentive_compensation )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_incentive_compensation](/_public/schema-org/Property/Texts/has_incentive_compensation.md) 
+### [has_incentive_compensation](/_Standards/schema-org/Property/Texts/has_incentive_compensation.md) 
+
+### [has_incentive_compensation.public](/_public/schema-org/Property/Texts/has_incentive_compensation.public.md) 
 
 ### [has_incentive_compensation.internal](/_internal/schema-org/Property/Texts/has_incentive_compensation.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_incentive_compensation.personal](/_personal/schema-org/Property/Texts/has_incentive_compensation.personal.md) 
 
-### [has_incentive_compensation.secret](/_secret/schema-org/Property/Texts/has_incentive_compensation.secret.md) 
+### [has_incentive_compensation.secret](/_secret/schema-org/Property/Texts/has_incentive_compensation.secret.md)
+

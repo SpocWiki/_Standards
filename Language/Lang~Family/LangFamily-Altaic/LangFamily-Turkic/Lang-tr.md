@@ -150,16 +150,20 @@ page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Rhodiapolis%20%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-tr](/_public/Language/Lang~Family/LangFamily-Turkic/Lang-tr.md) 
+### [Lang-tr](/_Standards/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.md) 
 
-### [Lang-tr.internal](/_internal/Language/Lang~Family/LangFamily-Turkic/Lang-tr.internal.md) 
+### [Lang-tr.public](/_public/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.public.md) 
 
-### [Lang-tr.protect](/_protect/Language/Lang~Family/LangFamily-Turkic/Lang-tr.protect.md) 
+### [Lang-tr.internal](/_internal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.internal.md) 
 
-### [Lang-tr.private](/_private/Language/Lang~Family/LangFamily-Turkic/Lang-tr.private.md) 
+### [Lang-tr.protect](/_protect/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.protect.md) 
 
-### [Lang-tr.personal](/_personal/Language/Lang~Family/LangFamily-Turkic/Lang-tr.personal.md) 
+### [Lang-tr.private](/_private/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.private.md) 
 
-### [Lang-tr.secret](/_secret/Language/Lang~Family/LangFamily-Turkic/Lang-tr.secret.md) 
+### [Lang-tr.personal](/_personal/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.personal.md) 
+
+### [Lang-tr.secret](/_secret/Language/Lang~Family/LangFamily-Altaic/LangFamily-Turkic/Lang-tr.secret.md)
+

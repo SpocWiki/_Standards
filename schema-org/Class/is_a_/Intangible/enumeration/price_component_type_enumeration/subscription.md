@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the subscription pricing component of the total price for an offered 
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [subscription](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.md) 
+### [subscription](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.md) 
+
+### [subscription.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.public.md) 
 
 ### [subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the subscription pricing component of the total price for an offered 
 
 ### [subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.personal.md) 
 
-### [subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.secret.md) 
+### [subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.secret.md)
+

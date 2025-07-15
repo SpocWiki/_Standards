@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_accessibility_hazard )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accessibility_hazard](/_public/schema-org/Property/Texts/has_accessibility_hazard.md) 
+### [has_accessibility_hazard](/_Standards/schema-org/Property/Texts/has_accessibility_hazard.md) 
+
+### [has_accessibility_hazard.public](/_public/schema-org/Property/Texts/has_accessibility_hazard.public.md) 
 
 ### [has_accessibility_hazard.internal](/_internal/schema-org/Property/Texts/has_accessibility_hazard.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_accessibility_hazard.personal](/_personal/schema-org/Property/Texts/has_accessibility_hazard.personal.md) 
 
-### [has_accessibility_hazard.secret](/_secret/schema-org/Property/Texts/has_accessibility_hazard.secret.md) 
+### [has_accessibility_hazard.secret](/_secret/schema-org/Property/Texts/has_accessibility_hazard.secret.md)
+

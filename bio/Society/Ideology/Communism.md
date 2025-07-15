@@ -64,15 +64,17 @@ Commons_category: Communism
 
 ## Confidential Links & Embeds: 
 
-### [Earth](/_public/Earth.md) 
+### [Communism](/_Standards/bio/Society/Ideology/Communism.md) 
 
-### [Earth.internal](/_internal/Earth.internal.md) 
+### [Communism.public](/_public/bio/Society/Ideology/Communism.public.md) 
 
-### [Earth.protect](/_protect/Earth.protect.md) 
+### [Communism.internal](/_internal/bio/Society/Ideology/Communism.internal.md) 
 
-### [Earth.private](/_private/Earth.private.md) 
+### [Communism.protect](/_protect/bio/Society/Ideology/Communism.protect.md) 
 
-### [Earth.personal](/_personal/Earth.personal.md) 
+### [Communism.private](/_private/bio/Society/Ideology/Communism.private.md) 
 
-### [Earth.secret](/_secret/Earth.secret.md) 
+### [Communism.personal](/_personal/bio/Society/Ideology/Communism.personal.md) 
+
+### [Communism.secret](/_secret/bio/Society/Ideology/Communism.secret.md)
 

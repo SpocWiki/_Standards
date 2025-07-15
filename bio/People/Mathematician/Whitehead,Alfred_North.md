@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Alfred North Whitehead
 ---
@@ -47,14 +47,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Whitehead,Alfred_North](/_public/Mathematics/Mathematicians/Whitehead,Alfred_North.md) 
+### [Whitehead,Alfred_North](/_Standards/bio/People/Mathematician/Whitehead,Alfred_North.md) 
 
-### [Whitehead,Alfred_North.internal](/_internal/Mathematics/Mathematicians/Whitehead,Alfred_North.internal.md) 
+### [Whitehead,Alfred_North.public](/_public/bio/People/Mathematician/Whitehead,Alfred_North.public.md) 
 
-### [Whitehead,Alfred_North.protect](/_protect/Mathematics/Mathematicians/Whitehead,Alfred_North.protect.md) 
+### [Whitehead,Alfred_North.internal](/_internal/bio/People/Mathematician/Whitehead,Alfred_North.internal.md) 
 
-### [Whitehead,Alfred_North.private](/_private/Mathematics/Mathematicians/Whitehead,Alfred_North.private.md) 
+### [Whitehead,Alfred_North.protect](/_protect/bio/People/Mathematician/Whitehead,Alfred_North.protect.md) 
 
-### [Whitehead,Alfred_North.personal](/_personal/Mathematics/Mathematicians/Whitehead,Alfred_North.personal.md) 
+### [Whitehead,Alfred_North.private](/_private/bio/People/Mathematician/Whitehead,Alfred_North.private.md) 
 
-### [Whitehead,Alfred_North.secret](/_secret/Mathematics/Mathematicians/Whitehead,Alfred_North.secret.md) 
+### [Whitehead,Alfred_North.personal](/_personal/bio/People/Mathematician/Whitehead,Alfred_North.personal.md) 
+
+### [Whitehead,Alfred_North.secret](/_secret/bio/People/Mathematician/Whitehead,Alfred_North.secret.md)
+

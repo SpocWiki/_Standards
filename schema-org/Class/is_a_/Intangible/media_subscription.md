@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A subscription which allows a user to access media including audio, video, books
 
 [ #has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [media_subscription](/_public/schema-org/Class/is_a_/Intangible/media_subscription.md) 
+### [media_subscription](/_Standards/schema-org/Class/is_a_/Intangible/media_subscription.md) 
+
+### [media_subscription.public](/_public/schema-org/Class/is_a_/Intangible/media_subscription.public.md) 
 
 ### [media_subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/media_subscription.internal.md) 
 
@@ -54,4 +57,5 @@ A subscription which allows a user to access media including audio, video, books
 
 ### [media_subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/media_subscription.personal.md) 
 
-### [media_subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/media_subscription.secret.md) 
+### [media_subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/media_subscription.secret.md)
+

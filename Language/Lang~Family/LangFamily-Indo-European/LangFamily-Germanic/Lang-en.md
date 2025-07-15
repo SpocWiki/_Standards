@@ -364,7 +364,9 @@ native_label: English
 
 ## Confidential Links & Embeds: 
 
-### [Lang-en](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.md) 
+### [Lang-en](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.md) 
+
+### [Lang-en.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.public.md) 
 
 ### [Lang-en.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.internal.md) 
 
@@ -374,4 +376,5 @@ native_label: English
 
 ### [Lang-en.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.personal.md) 
 
-### [Lang-en.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.secret.md) 
+### [Lang-en.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.secret.md)
+

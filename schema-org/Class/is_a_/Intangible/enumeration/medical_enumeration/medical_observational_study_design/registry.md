@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A registry-based study design.
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [registry](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md) 
+### [registry](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md) 
+
+### [registry.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.public.md) 
 
 ### [registry.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.internal.md) 
 
@@ -56,4 +59,5 @@ A registry-based study design.
 
 ### [registry.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.personal.md) 
 
-### [registry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.secret.md) 
+### [registry.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -173,7 +173,9 @@ Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Action](/_public/fileClass/FileClass~Thing/FileClass~Action.md) 
+### [FileClass~Action](/_Standards/fileClass/FileClass~Thing/FileClass~Action.md) 
+
+### [FileClass~Action.public](/_public/fileClass/FileClass~Thing/FileClass~Action.public.md) 
 
 ### [FileClass~Action.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action.internal.md) 
 
@@ -183,4 +185,5 @@ Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~Action.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action.personal.md) 
 
-### [FileClass~Action.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action.secret.md) 
+### [FileClass~Action.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action.secret.md)
+

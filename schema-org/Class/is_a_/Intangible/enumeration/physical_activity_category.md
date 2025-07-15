@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Categories of physical activity, organized by physiologic classification.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [physical_activity_category](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.md) 
+### [physical_activity_category](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.md) 
+
+### [physical_activity_category.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.public.md) 
 
 ### [physical_activity_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.internal.md) 
 
@@ -52,4 +55,5 @@ Categories of physical activity, organized by physiologic classification.
 
 ### [physical_activity_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.personal.md) 
 
-### [physical_activity_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.secret.md) 
+### [physical_activity_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category.secret.md)
+

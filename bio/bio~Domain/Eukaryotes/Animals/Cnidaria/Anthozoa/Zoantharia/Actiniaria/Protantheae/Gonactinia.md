@@ -51,3 +51,21 @@ see the family.
 Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
+
+
+## Confidential Links & Embeds: 
+
+### [Gonactinia](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.md) 
+
+### [Gonactinia.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.public.md) 
+
+### [Gonactinia.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.internal.md) 
+
+### [Gonactinia.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.protect.md) 
+
+### [Gonactinia.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.private.md) 
+
+### [Gonactinia.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.personal.md) 
+
+### [Gonactinia.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Protantheae/Gonactinia.secret.md)
+

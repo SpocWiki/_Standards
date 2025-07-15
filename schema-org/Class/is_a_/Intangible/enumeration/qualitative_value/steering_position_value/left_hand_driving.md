@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The steering position is on the left side of the vehicle (viewed from the main d
 
 [ #is_/enum_of :: [[../SteeringPositionValue]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [left_hand_driving](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md) 
+### [left_hand_driving](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md) 
+
+### [left_hand_driving.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.public.md) 
 
 ### [left_hand_driving.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal.md) 
 
@@ -56,4 +59,5 @@ The steering position is on the left side of the vehicle (viewed from the main d
 
 ### [left_hand_driving.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.personal.md) 
 
-### [left_hand_driving.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret.md) 
+### [left_hand_driving.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret.md)
+

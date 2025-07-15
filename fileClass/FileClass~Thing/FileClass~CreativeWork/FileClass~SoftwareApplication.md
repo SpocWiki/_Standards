@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -257,10 +257,11 @@ Supporting data for a SoftwareApplication.
 SupportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SoftwareApplication](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.md) 
+### [FileClass~SoftwareApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.md) 
+
+### [FileClass~SoftwareApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.public.md) 
 
 ### [FileClass~SoftwareApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.internal.md) 
 
@@ -270,4 +271,5 @@ SupportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~SoftwareApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.personal.md) 
 
-### [FileClass~SoftwareApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.secret.md) 
+### [FileClass~SoftwareApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication.secret.md)
+

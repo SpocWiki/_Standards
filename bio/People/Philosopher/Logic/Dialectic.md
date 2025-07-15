@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9453
 subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
 described_by_source:
@@ -22,4 +22,23 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauers%20b
 > Dialectic implies a developmental process and so does not fit naturally within classical logic. Nevertheless, some twentieth-century logicians have attempted to formalize it.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dialectic)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dialectic](/_Standards/bio/People/Philosopher/Logic/Dialectic.md) 
+
+### [Dialectic.public](/_public/bio/People/Philosopher/Logic/Dialectic.public.md) 
+
+### [Dialectic.internal](/_internal/bio/People/Philosopher/Logic/Dialectic.internal.md) 
+
+### [Dialectic.protect](/_protect/bio/People/Philosopher/Logic/Dialectic.protect.md) 
+
+### [Dialectic.private](/_private/bio/People/Philosopher/Logic/Dialectic.private.md) 
+
+### [Dialectic.personal](/_personal/bio/People/Philosopher/Logic/Dialectic.personal.md) 
+
+### [Dialectic.secret](/_secret/bio/People/Philosopher/Logic/Dialectic.secret.md)
 

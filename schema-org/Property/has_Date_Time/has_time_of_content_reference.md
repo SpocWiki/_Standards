@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_time_of_content_reference)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_content_reference](/_public/schema-org/Property/has_Date_Time/has_time_of_content_reference.md) 
+### [has_time_of_content_reference](/_Standards/schema-org/Property/has_Date_Time/has_time_of_content_reference.md) 
+
+### [has_time_of_content_reference.public](/_public/schema-org/Property/has_Date_Time/has_time_of_content_reference.public.md) 
 
 ### [has_time_of_content_reference.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_content_reference.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_time_of_content_reference.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_content_reference.personal.md) 
 
-### [has_time_of_content_reference.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_content_reference.secret.md) 
+### [has_time_of_content_reference.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_content_reference.secret.md)
+

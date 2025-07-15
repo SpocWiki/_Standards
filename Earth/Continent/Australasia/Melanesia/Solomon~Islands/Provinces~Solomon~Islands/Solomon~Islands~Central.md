@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.06 , 160.2 ] 
 type: geo-Region
 title: Solomon~Islands~Central
@@ -41,7 +41,9 @@ markerFolder: ./Solomon~Islands~Central/
 
 ## Confidential Links & Embeds: 
 
-### [Solomon~Islands~Central](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.md) 
+### [Solomon~Islands~Central](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.md) 
+
+### [Solomon~Islands~Central.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.public.md) 
 
 ### [Solomon~Islands~Central.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Solomon~Islands~Central/
 
 ### [Solomon~Islands~Central.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.personal.md) 
 
-### [Solomon~Islands~Central.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.secret.md) 
+### [Solomon~Islands~Central.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Solomon~Islands~Central.secret.md)
+

@@ -1,4 +1,4 @@
-﻿
+
 # [[Planck-Length]] 
 
 #has_/scale :: 1.61625518e−35
@@ -19,7 +19,9 @@ would result in black hole production.
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Length](/_public/Unit/Planck-Unit/Planck-Length.md) 
+### [Planck-Length](/_Standards/Unit/Planck-Unit/Planck-Length.md) 
+
+### [Planck-Length.public](/_public/Unit/Planck-Unit/Planck-Length.public.md) 
 
 ### [Planck-Length.internal](/_internal/Unit/Planck-Unit/Planck-Length.internal.md) 
 
@@ -29,4 +31,5 @@ would result in black hole production.
 
 ### [Planck-Length.personal](/_personal/Unit/Planck-Unit/Planck-Length.personal.md) 
 
-### [Planck-Length.secret](/_secret/Unit/Planck-Unit/Planck-Length.secret.md) 
+### [Planck-Length.secret](/_secret/Unit/Planck-Unit/Planck-Length.secret.md)
+

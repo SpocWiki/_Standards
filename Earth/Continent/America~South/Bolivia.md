@@ -523,10 +523,11 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Bolivia) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bolivia](/_public/Earth/Continent/America~South/Bolivia.md) 
+### [Bolivia](/_Standards/Earth/Continent/America~South/Bolivia.md) 
+
+### [Bolivia.public](/_public/Earth/Continent/America~South/Bolivia.public.md) 
 
 ### [Bolivia.internal](/_internal/Earth/Continent/America~South/Bolivia.internal.md) 
 
@@ -536,4 +537,5 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 ### [Bolivia.personal](/_personal/Earth/Continent/America~South/Bolivia.personal.md) 
 
-### [Bolivia.secret](/_secret/Earth/Continent/America~South/Bolivia.secret.md) 
+### [Bolivia.secret](/_secret/Earth/Continent/America~South/Bolivia.secret.md)
+

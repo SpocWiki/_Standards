@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [breadcrumb_list](/_public/schema-org/Collection/item_list/breadcrumb_list.md) 
+### [breadcrumb_list](/_Standards/schema-org/Collection/item_list/breadcrumb_list.md) 
+
+### [breadcrumb_list.public](/_public/schema-org/Collection/item_list/breadcrumb_list.public.md) 
 
 ### [breadcrumb_list.internal](/_internal/schema-org/Collection/item_list/breadcrumb_list.internal.md) 
 
@@ -56,4 +59,5 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 ### [breadcrumb_list.personal](/_personal/schema-org/Collection/item_list/breadcrumb_list.personal.md) 
 
-### [breadcrumb_list.secret](/_secret/schema-org/Collection/item_list/breadcrumb_list.secret.md) 
+### [breadcrumb_list.secret](/_secret/schema-org/Collection/item_list/breadcrumb_list.secret.md)
+

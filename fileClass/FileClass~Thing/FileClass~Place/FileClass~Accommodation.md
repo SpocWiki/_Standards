@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -199,7 +199,9 @@ YearBuilt:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Accommodation](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.md) 
+### [FileClass~Accommodation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.md) 
+
+### [FileClass~Accommodation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.public.md) 
 
 ### [FileClass~Accommodation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.internal.md) 
 
@@ -209,4 +211,5 @@ YearBuilt:: {"type":"Number","options":{}}
 
 ### [FileClass~Accommodation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.personal.md) 
 
-### [FileClass~Accommodation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret.md) 
+### [FileClass~Accommodation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret.md)
+

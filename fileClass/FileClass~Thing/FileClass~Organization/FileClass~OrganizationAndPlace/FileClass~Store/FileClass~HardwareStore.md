@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A hardware store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HardwareStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.md) 
+### [FileClass~HardwareStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.md) 
+
+### [FileClass~HardwareStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.public.md) 
 
 ### [FileClass~HardwareStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.internal.md) 
 
@@ -46,4 +47,5 @@ A hardware store.
 
 ### [FileClass~HardwareStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.personal.md) 
 
-### [FileClass~HardwareStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.secret.md) 
+### [FileClass~HardwareStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HardwareStore.secret.md)
+

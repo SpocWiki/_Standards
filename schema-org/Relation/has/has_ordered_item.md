@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_ordered_item )
 ( #has_/range :: OrderItem, Product, Service )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_ordered_item](/_public/schema-org/Relation/has/has_ordered_item.md) 
+### [has_ordered_item](/_Standards/schema-org/Relation/has/has_ordered_item.md) 
+
+### [has_ordered_item.public](/_public/schema-org/Relation/has/has_ordered_item.public.md) 
 
 ### [has_ordered_item.internal](/_internal/schema-org/Relation/has/has_ordered_item.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_ordered_item.personal](/_personal/schema-org/Relation/has/has_ordered_item.personal.md) 
 
-### [has_ordered_item.secret](/_secret/schema-org/Relation/has/has_ordered_item.secret.md) 
+### [has_ordered_item.secret](/_secret/schema-org/Relation/has/has_ordered_item.secret.md)
+

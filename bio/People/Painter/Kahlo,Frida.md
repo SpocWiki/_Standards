@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Frida Kahlo"
 - "Magdalena Carmen Frida Kahlo y Calderón"
@@ -139,4 +139,23 @@ date_of_birth: "1907-07-06"
 > In 2025 all of Kahlo’s work entered the public domain in the United States.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Frida%20Kahlo)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kahlo,Frida](/_Standards/bio/People/Painter/Kahlo,Frida.md) 
+
+### [Kahlo,Frida.public](/_public/bio/People/Painter/Kahlo,Frida.public.md) 
+
+### [Kahlo,Frida.internal](/_internal/bio/People/Painter/Kahlo,Frida.internal.md) 
+
+### [Kahlo,Frida.protect](/_protect/bio/People/Painter/Kahlo,Frida.protect.md) 
+
+### [Kahlo,Frida.private](/_private/bio/People/Painter/Kahlo,Frida.private.md) 
+
+### [Kahlo,Frida.personal](/_personal/bio/People/Painter/Kahlo,Frida.personal.md) 
+
+### [Kahlo,Frida.secret](/_secret/bio/People/Painter/Kahlo,Frida.secret.md)
 

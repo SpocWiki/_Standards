@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21962
 has_id_wikidata: Q1843
@@ -92,9 +92,12 @@ Unicode_character: 鏑
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dysprosium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Dysprosium](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
+### [Dysprosium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
+
+### [Dysprosium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.public.md) 
 
 ### [Dysprosium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.internal.md) 
 
@@ -104,4 +107,5 @@ Unicode_character: 鏑
 
 ### [Dysprosium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.personal.md) 
 
-### [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md) 
+### [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md)
+

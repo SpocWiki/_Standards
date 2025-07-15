@@ -1,4 +1,4 @@
-﻿---
+---
 location: [44.8167,20.4667]
 type: Country
 tags:
@@ -38,10 +38,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::44.8167]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Serbia_and_Montenegro](/_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.md) 
+### [Serbia_and_Montenegro](/_Standards/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.md) 
+
+### [Serbia_and_Montenegro.public](/_public/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.public.md) 
 
 ### [Serbia_and_Montenegro.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.internal.md) 
 
@@ -51,4 +52,5 @@ has_place_continent:: [[Europe]]
 
 ### [Serbia_and_Montenegro.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.personal.md) 
 
-### [Serbia_and_Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret.md) 
+### [Serbia_and_Montenegro.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia_and_Montenegro.secret.md)
+

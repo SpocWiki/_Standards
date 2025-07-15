@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -121,10 +121,11 @@ The website to access the service.
 ServiceUrl:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ServiceChannel](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.md) 
+### [FileClass~ServiceChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.md) 
+
+### [FileClass~ServiceChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.public.md) 
 
 ### [FileClass~ServiceChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.internal.md) 
 
@@ -134,4 +135,5 @@ ServiceUrl:: {"type":"Input","options":{}}
 
 ### [FileClass~ServiceChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.personal.md) 
 
-### [FileClass~ServiceChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret.md) 
+### [FileClass~ServiceChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret.md)
+

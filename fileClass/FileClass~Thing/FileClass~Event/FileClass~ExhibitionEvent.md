@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ExhibitionEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.md) 
+### [FileClass~ExhibitionEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.md) 
+
+### [FileClass~ExhibitionEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.public.md) 
 
 ### [FileClass~ExhibitionEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 
 ### [FileClass~ExhibitionEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.personal.md) 
 
-### [FileClass~ExhibitionEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.secret.md) 
+### [FileClass~ExhibitionEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.secret.md)
+

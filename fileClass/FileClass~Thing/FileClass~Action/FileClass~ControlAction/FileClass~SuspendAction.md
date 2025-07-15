@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SuspendAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.md) 
+### [FileClass~SuspendAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.md) 
+
+### [FileClass~SuspendAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.public.md) 
 
 ### [FileClass~SuspendAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 ### [FileClass~SuspendAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.personal.md) 
 
-### [FileClass~SuspendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.secret.md) 
+### [FileClass~SuspendAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~SuspendAction.secret.md)
+

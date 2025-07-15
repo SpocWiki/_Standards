@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 
 [ #is_/sub_class_of :: [[../NonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [uk_nonprofit_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.md) 
+### [uk_nonprofit_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.md) 
+
+### [uk_nonprofit_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.public.md) 
 
 ### [uk_nonprofit_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.internal.md) 
 
@@ -54,4 +57,5 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 
 ### [uk_nonprofit_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.personal.md) 
 
-### [uk_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret.md) 
+### [uk_nonprofit_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret.md)
+

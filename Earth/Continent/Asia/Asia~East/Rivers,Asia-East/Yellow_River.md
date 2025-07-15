@@ -91,3 +91,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yellow%20River) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Yellow_River](/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.md) 
+
+### [Yellow_River.public](/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.public.md) 
+
+### [Yellow_River.internal](/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.internal.md) 
+
+### [Yellow_River.protect](/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.protect.md) 
+
+### [Yellow_River.private](/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private.md) 
+
+### [Yellow_River.personal](/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal.md) 
+
+### [Yellow_River.secret](/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret.md)
+

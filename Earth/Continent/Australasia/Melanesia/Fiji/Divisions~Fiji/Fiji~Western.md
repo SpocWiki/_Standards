@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.8 , 177.7 ] 
 type: geo-Region
 title: Fiji~Western
@@ -41,7 +41,9 @@ markerFolder: ./Fiji~Western/
 
 ## Confidential Links & Embeds: 
 
-### [Fiji~Western](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.md) 
+### [Fiji~Western](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.md) 
+
+### [Fiji~Western.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.public.md) 
 
 ### [Fiji~Western.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Fiji~Western/
 
 ### [Fiji~Western.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.personal.md) 
 
-### [Fiji~Western.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.secret.md) 
+### [Fiji~Western.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Western.secret.md)
+

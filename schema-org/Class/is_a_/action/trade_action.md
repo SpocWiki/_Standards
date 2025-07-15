@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of participating in an exchange of goods and services for monetary compe
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [trade_action](/_public/schema-org/Class/is_a_/action/trade_action.md) 
+### [trade_action](/_Standards/schema-org/Class/is_a_/action/trade_action.md) 
+
+### [trade_action.public](/_public/schema-org/Class/is_a_/action/trade_action.public.md) 
 
 ### [trade_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of participating in an exchange of goods and services for monetary compe
 
 ### [trade_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action.personal.md) 
 
-### [trade_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action.secret.md) 
+### [trade_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action.secret.md)
+

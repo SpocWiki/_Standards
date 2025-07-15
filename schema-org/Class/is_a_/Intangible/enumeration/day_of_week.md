@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [day_of_week](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.md) 
+### [day_of_week](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.md) 
+
+### [day_of_week.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.public.md) 
 
 ### [day_of_week.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.internal.md) 
 
@@ -54,4 +57,5 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 ### [day_of_week.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.personal.md) 
 
-### [day_of_week.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.secret.md) 
+### [day_of_week.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week.secret.md)
+

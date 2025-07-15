@@ -56,9 +56,12 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acceleration)
 
+
 ## Confidential Links & Embeds: 
 
-### [Dim~Acceleration](/_public/Dimension/Linear_Dimension/Dim~Acceleration.md) 
+### [Dim~Acceleration](/_Standards/Dimension/Linear_Dimension/Dim~Acceleration.md) 
+
+### [Dim~Acceleration.public](/_public/Dimension/Linear_Dimension/Dim~Acceleration.public.md) 
 
 ### [Dim~Acceleration.internal](/_internal/Dimension/Linear_Dimension/Dim~Acceleration.internal.md) 
 
@@ -68,4 +71,5 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 
 ### [Dim~Acceleration.personal](/_personal/Dimension/Linear_Dimension/Dim~Acceleration.personal.md) 
 
-### [Dim~Acceleration.secret](/_secret/Dimension/Linear_Dimension/Dim~Acceleration.secret.md) 
+### [Dim~Acceleration.secret](/_secret/Dimension/Linear_Dimension/Dim~Acceleration.secret.md)
+

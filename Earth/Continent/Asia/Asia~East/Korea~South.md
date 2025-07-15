@@ -478,9 +478,12 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Korea)
 
+
 ## Confidential Links & Embeds: 
 
-### [Korea~South](/_public/Earth/Continent/Asia/Asia~East/Korea~South.md) 
+### [Korea~South](/_Standards/Earth/Continent/Asia/Asia~East/Korea~South.md) 
+
+### [Korea~South.public](/_public/Earth/Continent/Asia/Asia~East/Korea~South.public.md) 
 
 ### [Korea~South.internal](/_internal/Earth/Continent/Asia/Asia~East/Korea~South.internal.md) 
 
@@ -490,4 +493,5 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 
 ### [Korea~South.personal](/_personal/Earth/Continent/Asia/Asia~East/Korea~South.personal.md) 
 
-### [Korea~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South.secret.md) 
+### [Korea~South.secret](/_secret/Earth/Continent/Asia/Asia~East/Korea~South.secret.md)
+

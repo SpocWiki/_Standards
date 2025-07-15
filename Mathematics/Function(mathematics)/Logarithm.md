@@ -49,3 +49,20 @@ Krugosvet_article: nauka_i_tehnika/matematika/LOGARIFM.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
 
+
+## Confidential Links & Embeds: 
+
+### [Logarithm](/_Standards/Mathematics/Function(mathematics)/Logarithm.md) 
+
+### [Logarithm.public](/_public/Mathematics/Function(mathematics)/Logarithm.public.md) 
+
+### [Logarithm.internal](/_internal/Mathematics/Function(mathematics)/Logarithm.internal.md) 
+
+### [Logarithm.protect](/_protect/Mathematics/Function(mathematics)/Logarithm.protect.md) 
+
+### [Logarithm.private](/_private/Mathematics/Function(mathematics)/Logarithm.private.md) 
+
+### [Logarithm.personal](/_personal/Mathematics/Function(mathematics)/Logarithm.personal.md) 
+
+### [Logarithm.secret](/_secret/Mathematics/Function(mathematics)/Logarithm.secret.md)
+

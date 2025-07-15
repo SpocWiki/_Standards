@@ -71,7 +71,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Continent](/_public/Earth/Continent.md) 
+### [Continent](/_Standards/Earth/Continent.md) 
+
+### [Continent.public](/_public/Earth/Continent.public.md) 
 
 ### [Continent.internal](/_internal/Earth/Continent.internal.md) 
 
@@ -81,4 +83,5 @@ type: folder_brief_live
 
 ### [Continent.personal](/_personal/Earth/Continent.personal.md) 
 
-### [Continent.secret](/_secret/Earth/Continent.secret.md) 
+### [Continent.secret](/_secret/Earth/Continent.secret.md)
+

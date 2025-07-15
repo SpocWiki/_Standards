@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nsn](/_public/schema-org/Property/has_name/has_nsn.md) 
+### [has_nsn](/_Standards/schema-org/Property/has_name/has_nsn.md) 
+
+### [has_nsn.public](/_public/schema-org/Property/has_name/has_nsn.public.md) 
 
 ### [has_nsn.internal](/_internal/schema-org/Property/has_name/has_nsn.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_nsn.personal](/_personal/schema-org/Property/has_name/has_nsn.personal.md) 
 
-### [has_nsn.secret](/_secret/schema-org/Property/has_name/has_nsn.secret.md) 
+### [has_nsn.secret](/_secret/schema-org/Property/has_name/has_nsn.secret.md)
+

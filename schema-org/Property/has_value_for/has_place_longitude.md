@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Predicate describes that:
 ( #has_/name :: has_place_longitude )
 ( #has_/range :: Number, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_place_longitude](/_public/schema-org/Property/has_value_for/has_place_longitude.md) 
+### [has_place_longitude](/_Standards/schema-org/Property/has_value_for/has_place_longitude.md) 
+
+### [has_place_longitude.public](/_public/schema-org/Property/has_value_for/has_place_longitude.public.md) 
 
 ### [has_place_longitude.internal](/_internal/schema-org/Property/has_value_for/has_place_longitude.internal.md) 
 
@@ -53,4 +56,5 @@ Predicate describes that:
 
 ### [has_place_longitude.personal](/_personal/schema-org/Property/has_value_for/has_place_longitude.personal.md) 
 
-### [has_place_longitude.secret](/_secret/schema-org/Property/has_value_for/has_place_longitude.secret.md) 
+### [has_place_longitude.secret](/_secret/schema-org/Property/has_value_for/has_place_longitude.secret.md)
+

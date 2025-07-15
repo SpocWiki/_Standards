@@ -600,9 +600,12 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peru)
 
+
 ## Confidential Links & Embeds: 
 
-### [Peru](/_public/Earth/Continent/America~South/Peru.md) 
+### [Peru](/_Standards/Earth/Continent/America~South/Peru.md) 
+
+### [Peru.public](/_public/Earth/Continent/America~South/Peru.public.md) 
 
 ### [Peru.internal](/_internal/Earth/Continent/America~South/Peru.internal.md) 
 
@@ -612,4 +615,5 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 
 ### [Peru.personal](/_personal/Earth/Continent/America~South/Peru.personal.md) 
 
-### [Peru.secret](/_secret/Earth/Continent/America~South/Peru.secret.md) 
+### [Peru.secret](/_secret/Earth/Continent/America~South/Peru.secret.md)
+

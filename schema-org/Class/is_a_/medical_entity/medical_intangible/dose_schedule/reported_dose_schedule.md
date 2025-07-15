@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [reported_dose_schedule](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.md) 
+### [reported_dose_schedule](/_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.md) 
+
+### [reported_dose_schedule.public](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.public.md) 
 
 ### [reported_dose_schedule.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.internal.md) 
 
@@ -54,4 +57,5 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 ### [reported_dose_schedule.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.personal.md) 
 
-### [reported_dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.secret.md) 
+### [reported_dose_schedule.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_product_supported )
 ( #has_/range :: Product, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_product_supported](/_public/schema-org/Relation/has/has_product_supported.md) 
+### [has_product_supported](/_Standards/schema-org/Relation/has/has_product_supported.md) 
+
+### [has_product_supported.public](/_public/schema-org/Relation/has/has_product_supported.public.md) 
 
 ### [has_product_supported.internal](/_internal/schema-org/Relation/has/has_product_supported.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_product_supported.personal](/_personal/schema-org/Relation/has/has_product_supported.personal.md) 
 
-### [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md) 
+### [has_product_supported.secret](/_secret/schema-org/Relation/has/has_product_supported.secret.md)
+

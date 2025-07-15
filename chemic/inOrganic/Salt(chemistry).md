@@ -50,3 +50,20 @@ name_in_kana: えん
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salt%20(chemistry))
 
+
+## Confidential Links & Embeds: 
+
+### [Salt(chemistry)](/_Standards/chemic/inOrganic/Salt(chemistry).md) 
+
+### [Salt(chemistry).public](/_public/chemic/inOrganic/Salt(chemistry).public.md) 
+
+### [Salt(chemistry).internal](/_internal/chemic/inOrganic/Salt(chemistry).internal.md) 
+
+### [Salt(chemistry).protect](/_protect/chemic/inOrganic/Salt(chemistry).protect.md) 
+
+### [Salt(chemistry).private](/_private/chemic/inOrganic/Salt(chemistry).private.md) 
+
+### [Salt(chemistry).personal](/_personal/chemic/inOrganic/Salt(chemistry).personal.md) 
+
+### [Salt(chemistry).secret](/_secret/chemic/inOrganic/Salt(chemistry).secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An art gallery.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArtGallery](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.md) 
+### [FileClass~ArtGallery](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.md) 
+
+### [FileClass~ArtGallery.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.public.md) 
 
 ### [FileClass~ArtGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.internal.md) 
 
@@ -46,4 +47,5 @@ An art gallery.
 
 ### [FileClass~ArtGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.personal.md) 
 
-### [FileClass~ArtGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.secret.md) 
+### [FileClass~ArtGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~ArtGallery.secret.md)
+

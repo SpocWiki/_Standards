@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Results are available.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [results_available](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.md) 
+### [results_available](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.md) 
+
+### [results_available.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.public.md) 
 
 ### [results_available.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.internal.md) 
 
@@ -56,4 +59,5 @@ Results are available.
 
 ### [results_available.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.personal.md) 
 
-### [results_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.secret.md) 
+### [results_available.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/results_available.secret.md)
+

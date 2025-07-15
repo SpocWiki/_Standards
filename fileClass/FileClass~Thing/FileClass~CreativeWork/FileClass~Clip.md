@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -129,10 +129,11 @@ The start time of the clip expressed as the number of seconds from the beginning
 StartOffset:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Clip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.md) 
+### [FileClass~Clip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.md) 
+
+### [FileClass~Clip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.public.md) 
 
 ### [FileClass~Clip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.internal.md) 
 
@@ -142,4 +143,5 @@ StartOffset:: {"type":"Number","options":{}}
 
 ### [FileClass~Clip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.personal.md) 
 
-### [FileClass~Clip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.secret.md) 
+### [FileClass~Clip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip.secret.md)
+

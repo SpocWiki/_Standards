@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ One or more messages between organizations or people on a particular topic. Indi
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Conversation](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.md) 
+### [FileClass~Conversation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.md) 
+
+### [FileClass~Conversation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.public.md) 
 
 ### [FileClass~Conversation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.internal.md) 
 
@@ -46,4 +47,5 @@ One or more messages between organizations or people on a particular topic. Indi
 
 ### [FileClass~Conversation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.personal.md) 
 
-### [FileClass~Conversation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.secret.md) 
+### [FileClass~Conversation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.secret.md)
+

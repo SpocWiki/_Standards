@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: caption ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_embedded_text_caption](/_public/schema-org/Property/Texts/has_embedded_text_caption.md) 
+### [has_embedded_text_caption](/_Standards/schema-org/Property/Texts/has_embedded_text_caption.md) 
+
+### [has_embedded_text_caption.public](/_public/schema-org/Property/Texts/has_embedded_text_caption.public.md) 
 
 ### [has_embedded_text_caption.internal](/_internal/schema-org/Property/Texts/has_embedded_text_caption.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_embedded_text_caption.personal](/_personal/schema-org/Property/Texts/has_embedded_text_caption.personal.md) 
 
-### [has_embedded_text_caption.secret](/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret.md) 
+### [has_embedded_text_caption.secret](/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret.md)
+

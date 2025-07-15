@@ -35,3 +35,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sewage](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.md) 
+
+### [Sewage.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.public.md) 
+
+### [Sewage.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.internal.md) 
+
+### [Sewage.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.protect.md) 
+
+### [Sewage.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.private.md) 
+
+### [Sewage.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.personal.md) 
+
+### [Sewage.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Sewage.secret.md)
+

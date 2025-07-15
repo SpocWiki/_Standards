@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_plan_for_apartment)
 ( #has_/range :: Accommodation)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_plan_for_apartment](/_public/schema-org/Relation/is/is_plan_for_apartment.md) 
+### [is_plan_for_apartment](/_Standards/schema-org/Relation/is/is_plan_for_apartment.md) 
+
+### [is_plan_for_apartment.public](/_public/schema-org/Relation/is/is_plan_for_apartment.public.md) 
 
 ### [is_plan_for_apartment.internal](/_internal/schema-org/Relation/is/is_plan_for_apartment.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_plan_for_apartment.personal](/_personal/schema-org/Relation/is/is_plan_for_apartment.personal.md) 
 
-### [is_plan_for_apartment.secret](/_secret/schema-org/Relation/is/is_plan_for_apartment.secret.md) 
+### [is_plan_for_apartment.secret](/_secret/schema-org/Relation/is/is_plan_for_apartment.secret.md)
+

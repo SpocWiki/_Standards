@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_customer_remorse_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_customer_remorse_return_label_source](/_public/schema-org/Relation/has/has_customer_remorse_return_label_source.md) 
+### [has_customer_remorse_return_label_source](/_Standards/schema-org/Relation/has/has_customer_remorse_return_label_source.md) 
+
+### [has_customer_remorse_return_label_source.public](/_public/schema-org/Relation/has/has_customer_remorse_return_label_source.public.md) 
 
 ### [has_customer_remorse_return_label_source.internal](/_internal/schema-org/Relation/has/has_customer_remorse_return_label_source.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_customer_remorse_return_label_source.personal](/_personal/schema-org/Relation/has/has_customer_remorse_return_label_source.personal.md) 
 
-### [has_customer_remorse_return_label_source.secret](/_secret/schema-org/Relation/has/has_customer_remorse_return_label_source.secret.md) 
+### [has_customer_remorse_return_label_source.secret](/_secret/schema-org/Relation/has/has_customer_remorse_return_label_source.secret.md)
+

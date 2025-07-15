@@ -112,3 +112,22 @@ native_language: "[[_Standards/WikiData/WD~Middle_English,36395]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Chaucer)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chaucer,Geoffrey](/_Standards/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.md) 
+
+### [Chaucer,Geoffrey.public](/_public/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.public.md) 
+
+### [Chaucer,Geoffrey.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.internal.md) 
+
+### [Chaucer,Geoffrey.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.protect.md) 
+
+### [Chaucer,Geoffrey.private](/_private/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.private.md) 
+
+### [Chaucer,Geoffrey.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.personal.md) 
+
+### [Chaucer,Geoffrey.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Chaucer,Geoffrey.secret.md)
+

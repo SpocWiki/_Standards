@@ -103,3 +103,22 @@ Commons_category: "Diabetes mellitus"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diabetes)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diabetes_mellitus](/_Standards/bio/Medicine/Disease/Diabetes_mellitus.md) 
+
+### [Diabetes_mellitus.public](/_public/bio/Medicine/Disease/Diabetes_mellitus.public.md) 
+
+### [Diabetes_mellitus.internal](/_internal/bio/Medicine/Disease/Diabetes_mellitus.internal.md) 
+
+### [Diabetes_mellitus.protect](/_protect/bio/Medicine/Disease/Diabetes_mellitus.protect.md) 
+
+### [Diabetes_mellitus.private](/_private/bio/Medicine/Disease/Diabetes_mellitus.private.md) 
+
+### [Diabetes_mellitus.personal](/_personal/bio/Medicine/Disease/Diabetes_mellitus.personal.md) 
+
+### [Diabetes_mellitus.secret](/_secret/bio/Medicine/Disease/Diabetes_mellitus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,10 +66,11 @@ Specifying a drug or medicine used in a medication procedure.
 Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TherapeuticProcedure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.md) 
+### [FileClass~TherapeuticProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.md) 
+
+### [FileClass~TherapeuticProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.public.md) 
 
 ### [FileClass~TherapeuticProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.internal.md) 
 
@@ -79,4 +80,5 @@ Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Me
 
 ### [FileClass~TherapeuticProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.personal.md) 
 
-### [FileClass~TherapeuticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.secret.md) 
+### [FileClass~TherapeuticProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A moving company.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovingCompany](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.md) 
+### [FileClass~MovingCompany](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.md) 
+
+### [FileClass~MovingCompany.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.public.md) 
 
 ### [FileClass~MovingCompany.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.internal.md) 
 
@@ -46,4 +47,5 @@ A moving company.
 
 ### [FileClass~MovingCompany.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.personal.md) 
 
-### [FileClass~MovingCompany.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.secret.md) 
+### [FileClass~MovingCompany.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness/FileClass~MovingCompany.secret.md)
+

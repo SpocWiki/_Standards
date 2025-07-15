@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A body of water, such as a sea, ocean, or lake.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BodyOfWater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.md) 
+### [FileClass~BodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.md) 
+
+### [FileClass~BodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.public.md) 
 
 ### [FileClass~BodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.internal.md) 
 
@@ -46,4 +47,5 @@ A body of water, such as a sea, ocean, or lake.
 
 ### [FileClass~BodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.personal.md) 
 
-### [FileClass~BodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.secret.md) 
+### [FileClass~BodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater.secret.md)
+

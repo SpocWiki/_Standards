@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_located_in_subcellular_location)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_located_in_subcellular_location](/_public/schema-org/Relation/is/is_located_in_subcellular_location.md) 
+### [is_located_in_subcellular_location](/_Standards/schema-org/Relation/is/is_located_in_subcellular_location.md) 
+
+### [is_located_in_subcellular_location.public](/_public/schema-org/Relation/is/is_located_in_subcellular_location.public.md) 
 
 ### [is_located_in_subcellular_location.internal](/_internal/schema-org/Relation/is/is_located_in_subcellular_location.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_located_in_subcellular_location.personal](/_personal/schema-org/Relation/is/is_located_in_subcellular_location.personal.md) 
 
-### [is_located_in_subcellular_location.secret](/_secret/schema-org/Relation/is/is_located_in_subcellular_location.secret.md) 
+### [is_located_in_subcellular_location.secret](/_secret/schema-org/Relation/is/is_located_in_subcellular_location.secret.md)
+

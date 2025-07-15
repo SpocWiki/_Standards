@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Structured values are used when the value of a property has a more complex struc
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~StructuredValue](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.md) 
+### [FileClass~StructuredValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.md) 
+
+### [FileClass~StructuredValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.public.md) 
 
 ### [FileClass~StructuredValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.internal.md) 
 
@@ -46,4 +47,5 @@ Structured values are used when the value of a property has a more complex struc
 
 ### [FileClass~StructuredValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.personal.md) 
 
-### [FileClass~StructuredValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.secret.md) 
+### [FileClass~StructuredValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.secret.md)
+

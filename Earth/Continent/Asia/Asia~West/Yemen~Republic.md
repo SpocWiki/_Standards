@@ -377,9 +377,12 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yemen)
 
+
 ## Confidential Links & Embeds: 
 
-### [Yemen~Republic](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.md) 
+### [Yemen~Republic](/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic.md) 
+
+### [Yemen~Republic.public](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public.md) 
 
 ### [Yemen~Republic.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal.md) 
 
@@ -389,4 +392,5 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 
 ### [Yemen~Republic.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal.md) 
 
-### [Yemen~Republic.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret.md) 
+### [Yemen~Republic.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret.md)
+

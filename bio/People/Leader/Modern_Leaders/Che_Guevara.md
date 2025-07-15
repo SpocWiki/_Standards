@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Che Guevara"
 - "Ernesto Che Guevara"
@@ -165,4 +165,23 @@ Wolfram_Language_entity_code: "Entity[\"Person\", \"CheGuevara::95v73\"]"
 > was cited by the Maryland Institute College of Art as "the most famous photograph in the world".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Che%20Guevara)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Che_Guevara](/_Standards/bio/People/Leader/Modern_Leaders/Che_Guevara.md) 
+
+### [Che_Guevara.public](/_public/bio/People/Leader/Modern_Leaders/Che_Guevara.public.md) 
+
+### [Che_Guevara.internal](/_internal/bio/People/Leader/Modern_Leaders/Che_Guevara.internal.md) 
+
+### [Che_Guevara.protect](/_protect/bio/People/Leader/Modern_Leaders/Che_Guevara.protect.md) 
+
+### [Che_Guevara.private](/_private/bio/People/Leader/Modern_Leaders/Che_Guevara.private.md) 
+
+### [Che_Guevara.personal](/_personal/bio/People/Leader/Modern_Leaders/Che_Guevara.personal.md) 
+
+### [Che_Guevara.secret](/_secret/bio/People/Leader/Modern_Leaders/Che_Guevara.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21915
 has_id_wikidata: Q670
@@ -132,9 +132,12 @@ vapor_pressure: 0
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Silicon](/_public/chemic/chemic~Elements/Group-14-Carbon/Silicon.md) 
+### [Silicon](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Silicon.md) 
+
+### [Silicon.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Silicon.public.md) 
 
 ### [Silicon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Silicon.internal.md) 
 
@@ -144,4 +147,5 @@ vapor_pressure: 0
 
 ### [Silicon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Silicon.personal.md) 
 
-### [Silicon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Silicon.secret.md) 
+### [Silicon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Silicon.secret.md)
+

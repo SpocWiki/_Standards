@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21990
 has_id_wikidata: Q1872
@@ -90,7 +90,9 @@ Commons_category: Americium
 
 ## Confidential Links & Embeds: 
 
-### [Americium](/_public/chemic/chemic~Elements/Actinide-Group/Americium.md) 
+### [Americium](/_Standards/chemic/chemic~Elements/Actinide-Group/Americium.md) 
+
+### [Americium.public](/_public/chemic/chemic~Elements/Actinide-Group/Americium.public.md) 
 
 ### [Americium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Americium.internal.md) 
 
@@ -100,4 +102,5 @@ Commons_category: Americium
 
 ### [Americium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Americium.personal.md) 
 
-### [Americium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Americium.secret.md) 
+### [Americium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Americium.secret.md)
+

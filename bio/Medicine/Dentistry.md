@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12128
 described_by_source:
 - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -52,4 +52,21 @@ IPTC_NewsCode: mediatopic/20000712
 > The modern movement of evidence-based dentistry calls for the use of high-quality scientific research and evidence to guide decision-making such as in manual tooth conservation, use of fluoride water treatment and fluoride toothpaste, dealing with oral diseases such as tooth decay and periodontitis, as well as systematic diseases such as osteoporosis, diabetes, celiac disease, cancer, and HIV/AIDS which could also affect the oral cavity. Other practices relevant to evidence-based dentistry include radiology of the mouth to inspect teeth deformity or oral malaises, haematology (study of blood) to avoid bleeding complications during dental surgery, cardiology (due to various severe complications arising from dental surgery with patients with heart disease), etc.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dentistry)
+
+
+## Confidential Links & Embeds: 
+
+### [Dentistry](/_Standards/bio/Medicine/Dentistry.md) 
+
+### [Dentistry.public](/_public/bio/Medicine/Dentistry.public.md) 
+
+### [Dentistry.internal](/_internal/bio/Medicine/Dentistry.internal.md) 
+
+### [Dentistry.protect](/_protect/bio/Medicine/Dentistry.protect.md) 
+
+### [Dentistry.private](/_private/bio/Medicine/Dentistry.private.md) 
+
+### [Dentistry.personal](/_personal/bio/Medicine/Dentistry.personal.md) 
+
+### [Dentistry.secret](/_secret/bio/Medicine/Dentistry.secret.md)
 

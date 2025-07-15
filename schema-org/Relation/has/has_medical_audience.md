@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_medical_audience )
 ( #has_/range :: MedicalAudience, MedicalAudienceType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_medical_audience](/_public/schema-org/Relation/has/has_medical_audience.md) 
+### [has_medical_audience](/_Standards/schema-org/Relation/has/has_medical_audience.md) 
+
+### [has_medical_audience.public](/_public/schema-org/Relation/has/has_medical_audience.public.md) 
 
 ### [has_medical_audience.internal](/_internal/schema-org/Relation/has/has_medical_audience.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_medical_audience.personal](/_personal/schema-org/Relation/has/has_medical_audience.personal.md) 
 
-### [has_medical_audience.secret](/_secret/schema-org/Relation/has/has_medical_audience.secret.md) 
+### [has_medical_audience.secret](/_secret/schema-org/Relation/has/has_medical_audience.secret.md)
+

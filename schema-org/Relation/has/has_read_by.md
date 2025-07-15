@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: actor ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_read_by](/_public/schema-org/Relation/has/has_read_by.md) 
+### [has_read_by](/_Standards/schema-org/Relation/has/has_read_by.md) 
+
+### [has_read_by.public](/_public/schema-org/Relation/has/has_read_by.public.md) 
 
 ### [has_read_by.internal](/_internal/schema-org/Relation/has/has_read_by.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_read_by.personal](/_personal/schema-org/Relation/has/has_read_by.personal.md) 
 
-### [has_read_by.secret](/_secret/schema-org/Relation/has/has_read_by.secret.md) 
+### [has_read_by.secret](/_secret/schema-org/Relation/has/has_read_by.secret.md)
+

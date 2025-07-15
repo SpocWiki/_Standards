@@ -1,4 +1,4 @@
-﻿---
+---
 location: [31.8833,35.2]
 type: Country
 tags:
@@ -35,10 +35,11 @@ Capital :: [[Israel/Counties/Jerusalem]]
 [has_place_latitude::31.8833]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Palestinian_Territory,_Occupied](/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.md) 
+### [Palestinian_Territory,_Occupied](/_Standards/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.md) 
+
+### [Palestinian_Territory,_Occupied.public](/_public/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.public.md) 
 
 ### [Palestinian_Territory,_Occupied.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.internal.md) 
 
@@ -48,4 +49,5 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 ### [Palestinian_Territory,_Occupied.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.personal.md) 
 
-### [Palestinian_Territory,_Occupied.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret.md) 
+### [Palestinian_Territory,_Occupied.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestinian_Territory,_Occupied.secret.md)
+

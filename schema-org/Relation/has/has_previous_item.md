@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,7 +51,9 @@ This Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_previous_item](/_public/schema-org/Relation/has/has_previous_item.md) 
+### [has_previous_item](/_Standards/schema-org/Relation/has/has_previous_item.md) 
+
+### [has_previous_item.public](/_public/schema-org/Relation/has/has_previous_item.public.md) 
 
 ### [has_previous_item.internal](/_internal/schema-org/Relation/has/has_previous_item.internal.md) 
 
@@ -61,4 +63,5 @@ This Relation describes that:
 
 ### [has_previous_item.personal](/_personal/schema-org/Relation/has/has_previous_item.personal.md) 
 
-### [has_previous_item.secret](/_secret/schema-org/Relation/has/has_previous_item.secret.md) 
+### [has_previous_item.secret](/_secret/schema-org/Relation/has/has_previous_item.secret.md)
+

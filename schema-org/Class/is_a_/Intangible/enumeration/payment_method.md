@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,9 +56,12 @@ Commonly used values:
 
 [ #has_/sub_classes :: [ PaymentCard ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_method](/_public/schema-org/Class/is_a_/Intangible/enumeration/payment_method.md) 
+### [payment_method](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/payment_method.md) 
+
+### [payment_method.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/payment_method.public.md) 
 
 ### [payment_method.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.internal.md) 
 
@@ -68,4 +71,5 @@ Commonly used values:
 
 ### [payment_method.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/payment_method.personal.md) 
 
-### [payment_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/payment_method.secret.md) 
+### [payment_method.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/payment_method.secret.md)
+

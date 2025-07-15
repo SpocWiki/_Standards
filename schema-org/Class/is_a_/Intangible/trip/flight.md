@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An airline flight.
 
 [ #has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [flight](/_public/schema-org/Class/is_a_/Intangible/trip/flight.md) 
+### [flight](/_Standards/schema-org/Class/is_a_/Intangible/trip/flight.md) 
+
+### [flight.public](/_public/schema-org/Class/is_a_/Intangible/trip/flight.public.md) 
 
 ### [flight.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/flight.internal.md) 
 
@@ -54,4 +57,5 @@ An airline flight.
 
 ### [flight.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/flight.personal.md) 
 
-### [flight.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/flight.secret.md) 
+### [flight.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/flight.secret.md)
+

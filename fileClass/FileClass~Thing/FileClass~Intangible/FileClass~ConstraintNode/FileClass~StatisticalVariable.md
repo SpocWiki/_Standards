@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -67,10 +67,11 @@ Indicates the kind of statistic represented by a [[StatisticalVariable]], e.g. m
 StatType:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~StatisticalVariable](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.md) 
+### [FileClass~StatisticalVariable](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.md) 
+
+### [FileClass~StatisticalVariable.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.public.md) 
 
 ### [FileClass~StatisticalVariable.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.internal.md) 
 
@@ -80,4 +81,5 @@ StatType:: {"type":"Input","options":{}}
 
 ### [FileClass~StatisticalVariable.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.personal.md) 
 
-### [FileClass~StatisticalVariable.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.secret.md) 
+### [FileClass~StatisticalVariable.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode/FileClass~StatisticalVariable.secret.md)
+

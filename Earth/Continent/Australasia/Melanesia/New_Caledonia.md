@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -22.2758
 - 166.458
@@ -136,10 +136,11 @@ Capital :: [[Nouméa]]
 [has_place_latitude::-22.2758]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [New_Caledonia](/_public/Earth/Continent/Australasia/Melanesia/New_Caledonia.md) 
+### [New_Caledonia](/_Standards/Earth/Continent/Australasia/Melanesia/New_Caledonia.md) 
+
+### [New_Caledonia.public](/_public/Earth/Continent/Australasia/Melanesia/New_Caledonia.public.md) 
 
 ### [New_Caledonia.internal](/_internal/Earth/Continent/Australasia/Melanesia/New_Caledonia.internal.md) 
 
@@ -149,4 +150,5 @@ Capital :: [[Nouméa]]
 
 ### [New_Caledonia.personal](/_personal/Earth/Continent/Australasia/Melanesia/New_Caledonia.personal.md) 
 
-### [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/Melanesia/New_Caledonia.secret.md) 
+### [New_Caledonia.secret](/_secret/Earth/Continent/Australasia/Melanesia/New_Caledonia.secret.md)
+

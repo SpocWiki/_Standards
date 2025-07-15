@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_axles )
 ( #has_/range :: Number, QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_axles](/_public/schema-org/Property/has_number_of/has_number_of_axles.md) 
+### [has_number_of_axles](/_Standards/schema-org/Property/has_number_of/has_number_of_axles.md) 
+
+### [has_number_of_axles.public](/_public/schema-org/Property/has_number_of/has_number_of_axles.public.md) 
 
 ### [has_number_of_axles.internal](/_internal/schema-org/Property/has_number_of/has_number_of_axles.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_number_of_axles.personal](/_personal/schema-org/Property/has_number_of/has_number_of_axles.personal.md) 
 
-### [has_number_of_axles.secret](/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret.md) 
+### [has_number_of_axles.secret](/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret.md)
+

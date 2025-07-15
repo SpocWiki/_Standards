@@ -56,10 +56,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Age~1~Gorstian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.md) 
+### [Age~1~Gorstian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.md) 
+
+### [Age~1~Gorstian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.public.md) 
 
 ### [Age~1~Gorstian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.internal.md) 
 
@@ -69,4 +70,5 @@ noteOnly: true
 
 ### [Age~1~Gorstian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.personal.md) 
 
-### [Age~1~Gorstian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.secret.md) 
+### [Age~1~Gorstian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.secret.md)
+

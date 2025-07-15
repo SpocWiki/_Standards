@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A CreativeWork such as an image, video, or audio clip shared as part of this pos
 SharedContent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SocialMediaPosting](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.md) 
+### [FileClass~SocialMediaPosting](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.md) 
+
+### [FileClass~SocialMediaPosting.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.public.md) 
 
 ### [FileClass~SocialMediaPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.internal.md) 
 
@@ -57,4 +58,5 @@ SharedContent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### [FileClass~SocialMediaPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.personal.md) 
 
-### [FileClass~SocialMediaPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.secret.md) 
+### [FileClass~SocialMediaPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting.secret.md)
+

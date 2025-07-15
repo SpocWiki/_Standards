@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 [ #has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_insurance_plan](/_public/schema-org/Class/is_a_/Intangible/health_insurance_plan.md) 
+### [health_insurance_plan](/_Standards/schema-org/Class/is_a_/Intangible/health_insurance_plan.md) 
+
+### [health_insurance_plan.public](/_public/schema-org/Class/is_a_/Intangible/health_insurance_plan.public.md) 
 
 ### [health_insurance_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/health_insurance_plan.internal.md) 
 
@@ -56,4 +59,5 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 ### [health_insurance_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/health_insurance_plan.personal.md) 
 
-### [health_insurance_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/health_insurance_plan.secret.md) 
+### [health_insurance_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/health_insurance_plan.secret.md)
+

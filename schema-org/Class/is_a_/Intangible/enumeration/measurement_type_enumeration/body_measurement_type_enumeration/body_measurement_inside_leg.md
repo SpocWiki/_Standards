@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_inside_leg](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.md) 
+### [body_measurement_inside_leg](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.md) 
+
+### [body_measurement_inside_leg.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.public.md) 
 
 ### [body_measurement_inside_leg.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.internal.md) 
 
@@ -58,4 +61,5 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 
 ### [body_measurement_inside_leg.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.personal.md) 
 
-### [body_measurement_inside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.secret.md) 
+### [body_measurement_inside_leg.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.secret.md)
+

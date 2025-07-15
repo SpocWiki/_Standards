@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of discovering/finding an object.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [discover_action](/_public/schema-org/Class/is_a_/action/find_action/discover_action.md) 
+### [discover_action](/_Standards/schema-org/Class/is_a_/action/find_action/discover_action.md) 
+
+### [discover_action.public](/_public/schema-org/Class/is_a_/action/find_action/discover_action.public.md) 
 
 ### [discover_action.internal](/_internal/schema-org/Class/is_a_/action/find_action/discover_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of discovering/finding an object.
 
 ### [discover_action.personal](/_personal/schema-org/Class/is_a_/action/find_action/discover_action.personal.md) 
 
-### [discover_action.secret](/_secret/schema-org/Class/is_a_/action/find_action/discover_action.secret.md) 
+### [discover_action.secret](/_secret/schema-org/Class/is_a_/action/find_action/discover_action.secret.md)
+

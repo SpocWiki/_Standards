@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [inform_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.md) 
+### [inform_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.md) 
+
+### [inform_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.public.md) 
 
 ### [inform_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 ### [inform_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.personal.md) 
 
-### [inform_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.secret.md) 
+### [inform_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action.secret.md)
+

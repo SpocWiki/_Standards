@@ -297,3 +297,22 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MATISS_ANRI.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Matisse)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Matisse,Henri](/_Standards/bio/People/Painter/Matisse,Henri.md) 
+
+### [Matisse,Henri.public](/_public/bio/People/Painter/Matisse,Henri.public.md) 
+
+### [Matisse,Henri.internal](/_internal/bio/People/Painter/Matisse,Henri.internal.md) 
+
+### [Matisse,Henri.protect](/_protect/bio/People/Painter/Matisse,Henri.protect.md) 
+
+### [Matisse,Henri.private](/_private/bio/People/Painter/Matisse,Henri.private.md) 
+
+### [Matisse,Henri.personal](/_personal/bio/People/Painter/Matisse,Henri.personal.md) 
+
+### [Matisse,Henri.secret](/_secret/bio/People/Painter/Matisse,Henri.secret.md)
+

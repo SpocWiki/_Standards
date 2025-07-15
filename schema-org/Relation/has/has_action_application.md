@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_action_application )
 ( #has_/range :: [[Software_Application]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_action_application](/_public/schema-org/Relation/has/has_action_application.md) 
+### [has_action_application](/_Standards/schema-org/Relation/has/has_action_application.md) 
+
+### [has_action_application.public](/_public/schema-org/Relation/has/has_action_application.public.md) 
 
 ### [has_action_application.internal](/_internal/schema-org/Relation/has/has_action_application.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_action_application.personal](/_personal/schema-org/Relation/has/has_action_application.personal.md) 
 
-### [has_action_application.secret](/_secret/schema-org/Relation/has/has_action_application.secret.md) 
+### [has_action_application.secret](/_secret/schema-org/Relation/has/has_action_application.secret.md)
+

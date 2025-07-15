@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q385378
 practiced_by:
 - "[[_Standards/WikiData/WD~general_contractor,289612]]"
@@ -64,4 +64,20 @@ Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_ZDANI.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Construction) 
 
+
+## Confidential Links & Embeds: 
+
+### [Construction](/_Standards/Technology/Construction.md) 
+
+### [Construction.public](/_public/Technology/Construction.public.md) 
+
+### [Construction.internal](/_internal/Technology/Construction.internal.md) 
+
+### [Construction.protect](/_protect/Technology/Construction.protect.md) 
+
+### [Construction.private](/_private/Technology/Construction.private.md) 
+
+### [Construction.personal](/_personal/Technology/Construction.personal.md) 
+
+### [Construction.secret](/_secret/Technology/Construction.secret.md)
 

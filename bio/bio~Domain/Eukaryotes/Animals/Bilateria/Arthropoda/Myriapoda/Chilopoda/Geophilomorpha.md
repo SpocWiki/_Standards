@@ -40,3 +40,21 @@ Minelli, A. 1993. Chilopoda. Pages 57-114 in Microscopic Anatomy of
 Invertebrates. Volume 12. Onychophora, Chilopoda and lesser
 Protostomata. F. W. Harrison and M. E. Rice, eds. Wiley-Liss, New York,
 Chichester, Weinheim, Brisbane, Singapore, Toronto.
+
+
+## Confidential Links & Embeds: 
+
+### [Geophilomorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.md) 
+
+### [Geophilomorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.public.md) 
+
+### [Geophilomorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.internal.md) 
+
+### [Geophilomorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.protect.md) 
+
+### [Geophilomorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.private.md) 
+
+### [Geophilomorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.personal.md) 
+
+### [Geophilomorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Chilopoda/Geophilomorpha.secret.md)
+

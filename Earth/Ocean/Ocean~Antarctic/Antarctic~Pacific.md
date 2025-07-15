@@ -1,4 +1,4 @@
-﻿# [[Antarctic~Pacific]] 
+# [[Antarctic~Pacific]] 
 
 ## Edit
 
@@ -34,7 +34,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~Pacific](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.md) 
+### [Antarctic~Pacific](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.md) 
+
+### [Antarctic~Pacific.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.public.md) 
 
 ### [Antarctic~Pacific.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal.md) 
 
@@ -44,4 +46,5 @@ noteOnly: true
 
 ### [Antarctic~Pacific.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal.md) 
 
-### [Antarctic~Pacific.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret.md) 
+### [Antarctic~Pacific.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret.md)
+

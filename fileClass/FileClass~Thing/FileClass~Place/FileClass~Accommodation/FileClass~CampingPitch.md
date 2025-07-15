@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -40,10 +40,11 @@ A [[CampingPitch]] is an individual place for overnight stay in the outdoors, ty
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CampingPitch](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.md) 
+### [FileClass~CampingPitch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.md) 
+
+### [FileClass~CampingPitch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.public.md) 
 
 ### [FileClass~CampingPitch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.internal.md) 
 
@@ -53,4 +54,5 @@ A [[CampingPitch]] is an individual place for overnight stay in the outdoors, ty
 
 ### [FileClass~CampingPitch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.personal.md) 
 
-### [FileClass~CampingPitch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.secret.md) 
+### [FileClass~CampingPitch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~CampingPitch.secret.md)
+

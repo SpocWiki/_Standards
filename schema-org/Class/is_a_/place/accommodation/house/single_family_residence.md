@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Residence type: Single-family home.
 
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, occupancy, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [single_family_residence](/_public/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.md) 
+### [single_family_residence](/_Standards/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.md) 
+
+### [single_family_residence.public](/_public/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.public.md) 
 
 ### [single_family_residence.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.internal.md) 
 
@@ -54,4 +57,5 @@ Residence type: Single-family home.
 
 ### [single_family_residence.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.personal.md) 
 
-### [single_family_residence.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md) 
+### [single_family_residence.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md)
+

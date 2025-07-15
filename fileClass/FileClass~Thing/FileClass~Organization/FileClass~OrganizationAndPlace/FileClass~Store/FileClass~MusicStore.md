@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A music store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.md) 
+### [FileClass~MusicStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.md) 
+
+### [FileClass~MusicStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.public.md) 
 
 ### [FileClass~MusicStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.internal.md) 
 
@@ -46,4 +47,5 @@ A music store.
 
 ### [FileClass~MusicStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.personal.md) 
 
-### [FileClass~MusicStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.secret.md) 
+### [FileClass~MusicStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MusicStore.secret.md)
+

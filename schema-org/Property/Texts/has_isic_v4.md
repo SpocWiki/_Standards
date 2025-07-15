@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_isic_v4 )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_isic_v4](/_public/schema-org/Property/Texts/has_isic_v4.md) 
+### [has_isic_v4](/_Standards/schema-org/Property/Texts/has_isic_v4.md) 
+
+### [has_isic_v4.public](/_public/schema-org/Property/Texts/has_isic_v4.public.md) 
 
 ### [has_isic_v4.internal](/_internal/schema-org/Property/Texts/has_isic_v4.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_isic_v4.personal](/_personal/schema-org/Property/Texts/has_isic_v4.personal.md) 
 
-### [has_isic_v4.secret](/_secret/schema-org/Property/Texts/has_isic_v4.secret.md) 
+### [has_isic_v4.secret](/_secret/schema-org/Property/Texts/has_isic_v4.secret.md)
+

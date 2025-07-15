@@ -136,10 +136,11 @@ time_of_discovery_or_invention: "1941"
 > [Wikipedia](https://en.wikipedia.org/wiki/Plutonium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Plutonium](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
+### [Plutonium](/_Standards/chemic/chemic~Elements/Actinide-Group/Plutonium.md) 
+
+### [Plutonium.public](/_public/chemic/chemic~Elements/Actinide-Group/Plutonium.public.md) 
 
 ### [Plutonium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Plutonium.internal.md) 
 
@@ -149,4 +150,5 @@ time_of_discovery_or_invention: "1941"
 
 ### [Plutonium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Plutonium.personal.md) 
 
-### [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md) 
+### [Plutonium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Plutonium.secret.md)
+

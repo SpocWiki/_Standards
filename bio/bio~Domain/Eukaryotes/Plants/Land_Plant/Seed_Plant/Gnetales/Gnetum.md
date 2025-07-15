@@ -94,3 +94,21 @@ Sciences157(6, Suppl.): S40-S49.
   Body Part            new and old leaves
   Copyright ::            © University of Basel, Basel, Switzerland 
   ----------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Gnetum](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.md) 
+
+### [Gnetum.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.public.md) 
+
+### [Gnetum.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.internal.md) 
+
+### [Gnetum.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.protect.md) 
+
+### [Gnetum.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.private.md) 
+
+### [Gnetum.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.personal.md) 
+
+### [Gnetum.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Gnetales/Gnetum.secret.md)
+

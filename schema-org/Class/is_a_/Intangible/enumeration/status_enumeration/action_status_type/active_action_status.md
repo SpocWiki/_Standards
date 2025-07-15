@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An in-progress action (e.g., while watching the movie, or driving to a location)
 
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [active_action_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.md) 
+### [active_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.md) 
+
+### [active_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.public.md) 
 
 ### [active_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.internal.md) 
 
@@ -56,4 +59,5 @@ An in-progress action (e.g., while watching the movie, or driving to a location)
 
 ### [active_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.personal.md) 
 
-### [active_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.secret.md) 
+### [active_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/active_action_status.secret.md)
+

@@ -7,14 +7,14 @@ flattening: 0.06487
 synodic_period: 398.88
 declination: 64.496
 radius:
-- 66854
-- 69911
-- 71492
+- 66854 
+- 69911 
+- 71492 
 diameter: 142984
 volume_as_quantity: 1431280000000000
 mass:
-- 1898190
-- 1
+- 1.898190e6
+- 1 
 right_ascension: 268.057
 argument_of_periapsis: 273.867
 Commons_gallery: Jupiter
@@ -186,6 +186,11 @@ different_from: '[[_Standards/WikiData/WD~Jowisz,16280772]]'
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 ---
 
+# [[Jupiter]] 
+
+#is_/same_as :: [[../../WikiData/WD~Jupiter,319]] 
+#is_/different_from  :: [[../../WikiData/WD~Jupiter,4649]]  
+
 ## #has_/text_of_/abstract 
 
 > **Jupiter** is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun. Its diameter is eleven times that of Earth, and a tenth that of the Sun. Jupiter orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years. It is the third-brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times. Its name derives from that of Jupiter, the chief deity of ancient Roman religion.
@@ -197,4 +202,21 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 > At least 95 moons orbit the planet; the four largest moons—Io, Europa, Ganymede, and Callisto—orbit within the magnetosphere, and were discovered by Galileo Galilei in 1610. Ganymede, the largest of the four, is larger than the planet Mercury. Since 1973, Jupiter has been visited by nine robotic probes: seven flybys and two dedicated orbiters, with two more en route.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jupiter)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Jupiter](/_Standards/Astronomy/Solar_System/Jupiter.md) 
+
+### #is_/same_as :: [Jupiter.public](/_public/Astronomy/Solar_System/Jupiter.public.md) 
+
+### #is_/same_as :: [Jupiter.internal](/_internal/Astronomy/Solar_System/Jupiter.internal.md) 
+
+### #is_/same_as :: [Jupiter.protect](/_protect/Astronomy/Solar_System/Jupiter.protect.md) 
+
+### #is_/same_as :: [Jupiter.private](/_private/Astronomy/Solar_System/Jupiter.private.md) 
+
+### #is_/same_as :: [Jupiter.personal](/_personal/Astronomy/Solar_System/Jupiter.personal.md) 
+
+### #is_/same_as :: [Jupiter.secret](/_secret/Astronomy/Solar_System/Jupiter.secret.md)
 

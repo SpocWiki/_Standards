@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.9957,17.6905]
 type: Country
 tags:
@@ -62,10 +62,11 @@ Capital :: [[Beograd]]
 [has_place_latitude::43.9957]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Yugoslavia](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
+### [Yugoslavia](/_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
+
+### [Yugoslavia.public](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public.md) 
 
 ### [Yugoslavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal.md) 
 
@@ -75,4 +76,5 @@ Capital :: [[Beograd]]
 
 ### [Yugoslavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal.md) 
 
-### [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md) 
+### [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md)
+

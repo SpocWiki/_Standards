@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Item contains alcohol or promotes alcohol consumption.
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [alcohol_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md) 
+### [alcohol_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md) 
+
+### [alcohol_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.public.md) 
 
 ### [alcohol_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ Item contains alcohol or promotes alcohol consumption.
 
 ### [alcohol_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md) 
 
-### [alcohol_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md) 
+### [alcohol_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md)
+

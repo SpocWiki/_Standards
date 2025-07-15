@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The status for a previously confirmed reservation that is now cancelled.
 
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [reservation_cancelled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md) 
+### [reservation_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md) 
+
+### [reservation_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.public.md) 
 
 ### [reservation_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md) 
 
@@ -56,4 +59,5 @@ The status for a previously confirmed reservation that is now cancelled.
 
 ### [reservation_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md) 
 
-### [reservation_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md) 
+### [reservation_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md)
+

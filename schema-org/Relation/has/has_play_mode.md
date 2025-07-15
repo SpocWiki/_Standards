@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_play_mode )
 ( #has_/range :: GamePlayMode )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_play_mode](/_public/schema-org/Relation/has/has_play_mode.md) 
+### [has_play_mode](/_Standards/schema-org/Relation/has/has_play_mode.md) 
+
+### [has_play_mode.public](/_public/schema-org/Relation/has/has_play_mode.public.md) 
 
 ### [has_play_mode.internal](/_internal/schema-org/Relation/has/has_play_mode.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_play_mode.personal](/_personal/schema-org/Relation/has/has_play_mode.personal.md) 
 
-### [has_play_mode.secret](/_secret/schema-org/Relation/has/has_play_mode.secret.md) 
+### [has_play_mode.secret](/_secret/schema-org/Relation/has/has_play_mode.secret.md)
+

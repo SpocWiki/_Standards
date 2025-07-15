@@ -511,9 +511,12 @@ Capital :: [[Port_Vila]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanuatu)
 
+
 ## Confidential Links & Embeds: 
 
-### [Vanuatu](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu.md) 
+### [Vanuatu](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu.md) 
+
+### [Vanuatu.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu.public.md) 
 
 ### [Vanuatu.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu.internal.md) 
 
@@ -523,4 +526,5 @@ Capital :: [[Port_Vila]]
 
 ### [Vanuatu.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu.personal.md) 
 
-### [Vanuatu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu.secret.md) 
+### [Vanuatu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu.secret.md)
+

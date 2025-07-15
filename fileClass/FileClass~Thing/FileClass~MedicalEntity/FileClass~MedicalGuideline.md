@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -71,10 +71,11 @@ The medical conditions, treatments, etc. that are the subject of the guideline.
 GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalGuideline](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.md) 
+### [FileClass~MedicalGuideline](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.md) 
+
+### [FileClass~MedicalGuideline.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.public.md) 
 
 ### [FileClass~MedicalGuideline.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.internal.md) 
 
@@ -84,4 +85,5 @@ GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ### [FileClass~MedicalGuideline.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.personal.md) 
 
-### [FileClass~MedicalGuideline.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.secret.md) 
+### [FileClass~MedicalGuideline.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline.secret.md)
+

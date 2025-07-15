@@ -48,10 +48,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [geo~Periods](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods.md) 
+### [geo~Periods](/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods.md) 
+
+### [geo~Periods.public](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods.public.md) 
 
 ### [geo~Periods.internal](/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods.internal.md) 
 
@@ -61,4 +62,5 @@ noteOnly: true
 
 ### [geo~Periods.personal](/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods.personal.md) 
 
-### [geo~Periods.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods.secret.md) 
+### [geo~Periods.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods.secret.md)
+

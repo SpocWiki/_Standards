@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -140,10 +140,11 @@ The total number of students that have enrolled in the history of the course.
 TotalHistoricalEnrollment:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Course](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.md) 
+### [FileClass~Course](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.md) 
+
+### [FileClass~Course.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.public.md) 
 
 ### [FileClass~Course.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.internal.md) 
 
@@ -153,4 +154,5 @@ TotalHistoricalEnrollment:: {"type":"Number","options":{}}
 
 ### [FileClass~Course.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.personal.md) 
 
-### [FileClass~Course.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.secret.md) 
+### [FileClass~Course.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Course.secret.md)
+

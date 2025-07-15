@@ -248,3 +248,22 @@ ArhivX_LOD: 34010
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leonhard%20Euler)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Euler,Leonhard](/_Standards/bio/People/Mathematician/Euler,Leonhard.md) 
+
+### [Euler,Leonhard.public](/_public/bio/People/Mathematician/Euler,Leonhard.public.md) 
+
+### [Euler,Leonhard.internal](/_internal/bio/People/Mathematician/Euler,Leonhard.internal.md) 
+
+### [Euler,Leonhard.protect](/_protect/bio/People/Mathematician/Euler,Leonhard.protect.md) 
+
+### [Euler,Leonhard.private](/_private/bio/People/Mathematician/Euler,Leonhard.private.md) 
+
+### [Euler,Leonhard.personal](/_personal/bio/People/Mathematician/Euler,Leonhard.personal.md) 
+
+### [Euler,Leonhard.secret](/_secret/bio/People/Mathematician/Euler,Leonhard.secret.md)
+

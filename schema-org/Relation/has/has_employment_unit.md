@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_employment_unit )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_employment_unit](/_public/schema-org/Relation/has/has_employment_unit.md) 
+### [has_employment_unit](/_Standards/schema-org/Relation/has/has_employment_unit.md) 
+
+### [has_employment_unit.public](/_public/schema-org/Relation/has/has_employment_unit.public.md) 
 
 ### [has_employment_unit.internal](/_internal/schema-org/Relation/has/has_employment_unit.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_employment_unit.personal](/_personal/schema-org/Relation/has/has_employment_unit.personal.md) 
 
-### [has_employment_unit.secret](/_secret/schema-org/Relation/has/has_employment_unit.secret.md) 
+### [has_employment_unit.secret](/_secret/schema-org/Relation/has/has_employment_unit.secret.md)
+

@@ -1,4 +1,4 @@
-﻿# [[Australasian_Sea]] 
+# [[Australasian_Sea]] 
 
 ## Edit
 
@@ -37,7 +37,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Australasian_Sea](/_public/Earth/Ocean/Australasian_Sea.md) 
+### [Australasian_Sea](/_Standards/Earth/Ocean/Australasian_Sea.md) 
+
+### [Australasian_Sea.public](/_public/Earth/Ocean/Australasian_Sea.public.md) 
 
 ### [Australasian_Sea.internal](/_internal/Earth/Ocean/Australasian_Sea.internal.md) 
 
@@ -47,4 +49,5 @@ noteOnly: true
 
 ### [Australasian_Sea.personal](/_personal/Earth/Ocean/Australasian_Sea.personal.md) 
 
-### [Australasian_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea.secret.md) 
+### [Australasian_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea.secret.md)
+

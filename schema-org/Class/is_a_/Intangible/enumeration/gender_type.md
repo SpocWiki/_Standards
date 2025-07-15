@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ An enumeration of genders.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [gender_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type.md) 
+### [gender_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/gender_type.md) 
+
+### [gender_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type.public.md) 
 
 ### [gender_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.internal.md) 
 
@@ -52,4 +55,5 @@ An enumeration of genders.
 
 ### [gender_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type.personal.md) 
 
-### [gender_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type.secret.md) 
+### [gender_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type.secret.md)
+

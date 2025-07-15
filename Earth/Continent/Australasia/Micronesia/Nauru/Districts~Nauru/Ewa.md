@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.5 , 166.93 ] 
 type: geo-Region
 title: Ewa
@@ -40,7 +40,9 @@ markerFolder: ./Ewa/
 
 ## Confidential Links & Embeds: 
 
-### [Ewa](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.md) 
+### [Ewa](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.md) 
+
+### [Ewa.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.public.md) 
 
 ### [Ewa.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.internal.md) 
 
@@ -50,4 +52,5 @@ markerFolder: ./Ewa/
 
 ### [Ewa.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.personal.md) 
 
-### [Ewa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.secret.md) 
+### [Ewa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.secret.md)
+

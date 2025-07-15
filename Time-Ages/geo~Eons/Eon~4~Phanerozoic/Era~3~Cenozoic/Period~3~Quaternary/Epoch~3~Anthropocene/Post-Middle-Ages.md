@@ -83,14 +83,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Post-Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Post-Middle-Ages.md) 
+### [Post-Middle-Ages](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.md) 
 
-### [Post-Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Post-Middle-Ages.internal.md) 
+### [Post-Middle-Ages.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.public.md) 
 
-### [Post-Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Post-Middle-Ages.protect.md) 
+### [Post-Middle-Ages.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.internal.md) 
 
-### [Post-Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Post-Middle-Ages.private.md) 
+### [Post-Middle-Ages.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.protect.md) 
 
-### [Post-Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Post-Middle-Ages.personal.md) 
+### [Post-Middle-Ages.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.private.md) 
 
-### [Post-Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Post-Middle-Ages.secret.md) 
+### [Post-Middle-Ages.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.personal.md) 
+
+### [Post-Middle-Ages.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Post-Middle-Ages.secret.md)
+

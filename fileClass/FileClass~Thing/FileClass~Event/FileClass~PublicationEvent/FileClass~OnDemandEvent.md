@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OnDemandEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.md) 
+### [FileClass~OnDemandEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.md) 
+
+### [FileClass~OnDemandEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.public.md) 
 
 ### [FileClass~OnDemandEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.internal.md) 
 
@@ -46,4 +47,5 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 ### [FileClass~OnDemandEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.personal.md) 
 
-### [FileClass~OnDemandEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.secret.md) 
+### [FileClass~OnDemandEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~PublicationEvent/FileClass~OnDemandEvent.secret.md)
+

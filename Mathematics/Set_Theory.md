@@ -16,3 +16,19 @@ has_id_wikidata: Q12482
 > [Wikipedia](https://en.wikipedia.org/wiki/Set%20theory)
 
 
+## Confidential Links & Embeds: 
+
+### [Set_Theory](/_Standards/Mathematics/Set_Theory.md) 
+
+### [Set_Theory.public](/_public/Mathematics/Set_Theory.public.md) 
+
+### [Set_Theory.internal](/_internal/Mathematics/Set_Theory.internal.md) 
+
+### [Set_Theory.protect](/_protect/Mathematics/Set_Theory.protect.md) 
+
+### [Set_Theory.private](/_private/Mathematics/Set_Theory.private.md) 
+
+### [Set_Theory.personal](/_personal/Mathematics/Set_Theory.personal.md) 
+
+### [Set_Theory.secret](/_secret/Mathematics/Set_Theory.secret.md)
+

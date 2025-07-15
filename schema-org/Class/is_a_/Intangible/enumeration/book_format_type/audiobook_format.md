@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [audiobook_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.md) 
+### [audiobook_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.md) 
+
+### [audiobook_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.public.md) 
 
 ### [audiobook_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.internal.md) 
 
@@ -56,4 +59,5 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 ### [audiobook_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.personal.md) 
 
-### [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md) 
+### [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md)
+

@@ -78,3 +78,22 @@ aliases:
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
   Copyright ::            © 2006 [Mark](http://flickr.com/people/u123072/)
   --------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Buxaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.md) 
+
+### [Buxaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.public.md) 
+
+### [Buxaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.internal.md) 
+
+### [Buxaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.protect.md) 
+
+### [Buxaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.private.md) 
+
+### [Buxaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.personal.md) 
+
+### [Buxaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Buxaceae.secret.md)
+

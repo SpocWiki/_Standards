@@ -42,3 +42,22 @@ Commons_category: Swimming
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Swimming) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Swimming](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.md) 
+
+### [Swimming.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.public.md) 
+
+### [Swimming.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.internal.md) 
+
+### [Swimming.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.protect.md) 
+
+### [Swimming.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.private.md) 
+
+### [Swimming.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.personal.md) 
+
+### [Swimming.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Water_Sport/Swimming.secret.md)
+

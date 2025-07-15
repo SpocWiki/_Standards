@@ -433,10 +433,11 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 [has_place_latitude::13.6667]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [El_Salvador](/_public/Earth/Continent/America~Central/El_Salvador.md) 
+### [El_Salvador](/_Standards/Earth/Continent/America~Central/El_Salvador.md) 
+
+### [El_Salvador.public](/_public/Earth/Continent/America~Central/El_Salvador.public.md) 
 
 ### [El_Salvador.internal](/_internal/Earth/Continent/America~Central/El_Salvador.internal.md) 
 
@@ -446,4 +447,5 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 ### [El_Salvador.personal](/_personal/Earth/Continent/America~Central/El_Salvador.personal.md) 
 
-### [El_Salvador.secret](/_secret/Earth/Continent/America~Central/El_Salvador.secret.md) 
+### [El_Salvador.secret](/_secret/Earth/Continent/America~Central/El_Salvador.secret.md)
+

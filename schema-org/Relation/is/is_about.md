@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_about](/_public/schema-org/Relation/is/is_about.md) 
+### [is_about](/_Standards/schema-org/Relation/is/is_about.md) 
+
+### [is_about.public](/_public/schema-org/Relation/is/is_about.public.md) 
 
 ### [is_about.internal](/_internal/schema-org/Relation/is/is_about.internal.md) 
 
@@ -59,4 +62,5 @@ Relation describes that:
 
 ### [is_about.personal](/_personal/schema-org/Relation/is/is_about.personal.md) 
 
-### [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md) 
+### [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md)
+

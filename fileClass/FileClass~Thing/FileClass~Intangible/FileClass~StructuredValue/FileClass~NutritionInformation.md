@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -153,10 +153,11 @@ The number of grams of unsaturated fat.
 UnsaturatedFatContent:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~NutritionInformation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.md) 
+### [FileClass~NutritionInformation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.md) 
+
+### [FileClass~NutritionInformation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.public.md) 
 
 ### [FileClass~NutritionInformation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.internal.md) 
 
@@ -166,4 +167,5 @@ UnsaturatedFatContent:: {"type":"Input","options":{}}
 
 ### [FileClass~NutritionInformation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.personal.md) 
 
-### [FileClass~NutritionInformation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.secret.md) 
+### [FileClass~NutritionInformation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.secret.md)
+

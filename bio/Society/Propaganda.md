@@ -90,4 +90,19 @@ Part of Propaganda is the creation of Panic, not only Urgency.
 > [Wikipedia](https://en.wikipedia.org/wiki/Propaganda)
 
 
+## Confidential Links & Embeds: 
+
+### [Propaganda](/_Standards/bio/Society/Propaganda.md) 
+
+### [Propaganda.public](/_public/bio/Society/Propaganda.public.md) 
+
+### [Propaganda.internal](/_internal/bio/Society/Propaganda.internal.md) 
+
+### [Propaganda.protect](/_protect/bio/Society/Propaganda.protect.md) 
+
+### [Propaganda.private](/_private/bio/Society/Propaganda.private.md) 
+
+### [Propaganda.personal](/_personal/bio/Society/Propaganda.personal.md) 
+
+### [Propaganda.secret](/_secret/bio/Society/Propaganda.secret.md)
 

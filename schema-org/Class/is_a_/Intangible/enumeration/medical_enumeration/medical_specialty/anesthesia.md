@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [anesthesia](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.md) 
+### [anesthesia](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.md) 
+
+### [anesthesia.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.public.md) 
 
 ### [anesthesia.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 ### [anesthesia.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.personal.md) 
 
-### [anesthesia.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.secret.md) 
+### [anesthesia.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.secret.md)
+

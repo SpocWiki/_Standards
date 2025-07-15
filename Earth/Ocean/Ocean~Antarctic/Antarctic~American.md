@@ -1,4 +1,4 @@
-﻿# [[Antarctic~American]] 
+# [[Antarctic~American]] 
 
 ## Edit
 
@@ -34,7 +34,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antarctic~American](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.md) 
+### [Antarctic~American](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American.md) 
+
+### [Antarctic~American.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.public.md) 
 
 ### [Antarctic~American.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.internal.md) 
 
@@ -44,4 +46,5 @@ noteOnly: true
 
 ### [Antarctic~American.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.personal.md) 
 
-### [Antarctic~American.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret.md) 
+### [Antarctic~American.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret.md)
+

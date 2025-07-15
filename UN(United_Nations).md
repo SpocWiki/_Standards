@@ -289,10 +289,11 @@ Libris_URI: vs686bpd13rcfvg
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [UN(United_Nations)](/_public/UN(United_Nations).md) 
+### [UN(United_Nations)](/_Standards/UN(United_Nations).md) 
+
+### [UN(United_Nations).public](/_public/UN(United_Nations).public.md) 
 
 ### [UN(United_Nations).internal](/_internal/UN(United_Nations).internal.md) 
 
@@ -302,4 +303,5 @@ Libris_URI: vs686bpd13rcfvg
 
 ### [UN(United_Nations).personal](/_personal/UN(United_Nations).personal.md) 
 
-### [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md) 
+### [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md)
+

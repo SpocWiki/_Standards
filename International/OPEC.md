@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Organization of the Petroleum Exporting Countries"
 - "Organization of Petroleum Exporting Countries"
@@ -148,4 +148,21 @@ social_media_followers: 68432
 > Current OPEC members are Algeria, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, the Republic of the Congo, Saudi Arabia, the United Arab Emirates and Venezuela. Meanwhile, Angola, Ecuador, Indonesia, and Qatar are former OPEC members. A larger group called OPEC+, consisting of OPEC members plus other oil-producing countries,  formed in late 2016 to exert more control on the global crude-oil market. Canada, Egypt, Norway, and Oman are observer states.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/OPEC)
+
+
+## Confidential Links & Embeds: 
+
+### [OPEC](/_Standards/International/OPEC.md) 
+
+### [OPEC.public](/_public/International/OPEC.public.md) 
+
+### [OPEC.internal](/_internal/International/OPEC.internal.md) 
+
+### [OPEC.protect](/_protect/International/OPEC.protect.md) 
+
+### [OPEC.private](/_private/International/OPEC.private.md) 
+
+### [OPEC.personal](/_personal/International/OPEC.personal.md) 
+
+### [OPEC.secret](/_secret/International/OPEC.secret.md)
 

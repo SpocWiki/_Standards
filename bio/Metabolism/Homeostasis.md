@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q103191
 different_from:
 - '[[_Standards/WikiData/WD~hemostasis,487937]]'
@@ -34,4 +34,20 @@ MeSH_tree_code: G07.410
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Homeostasis)
 
+
+## Confidential Links & Embeds: 
+
+### [Homeostasis](/_Standards/bio/Metabolism/Homeostasis.md) 
+
+### [Homeostasis.public](/_public/bio/Metabolism/Homeostasis.public.md) 
+
+### [Homeostasis.internal](/_internal/bio/Metabolism/Homeostasis.internal.md) 
+
+### [Homeostasis.protect](/_protect/bio/Metabolism/Homeostasis.protect.md) 
+
+### [Homeostasis.private](/_private/bio/Metabolism/Homeostasis.private.md) 
+
+### [Homeostasis.personal](/_personal/bio/Metabolism/Homeostasis.personal.md) 
+
+### [Homeostasis.secret](/_secret/bio/Metabolism/Homeostasis.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_provider_mobility )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_provider_mobility](/_public/schema-org/Property/Texts/has_provider_mobility.md) 
+### [has_provider_mobility](/_Standards/schema-org/Property/Texts/has_provider_mobility.md) 
+
+### [has_provider_mobility.public](/_public/schema-org/Property/Texts/has_provider_mobility.public.md) 
 
 ### [has_provider_mobility.internal](/_internal/schema-org/Property/Texts/has_provider_mobility.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_provider_mobility.personal](/_personal/schema-org/Property/Texts/has_provider_mobility.personal.md) 
 
-### [has_provider_mobility.secret](/_secret/schema-org/Property/Texts/has_provider_mobility.secret.md) 
+### [has_provider_mobility.secret](/_secret/schema-org/Property/Texts/has_provider_mobility.secret.md)
+

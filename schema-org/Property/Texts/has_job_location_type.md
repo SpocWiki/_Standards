@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_job_location_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_job_location_type](/_public/schema-org/Property/Texts/has_job_location_type.md) 
+### [has_job_location_type](/_Standards/schema-org/Property/Texts/has_job_location_type.md) 
+
+### [has_job_location_type.public](/_public/schema-org/Property/Texts/has_job_location_type.public.md) 
 
 ### [has_job_location_type.internal](/_internal/schema-org/Property/Texts/has_job_location_type.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_job_location_type.personal](/_personal/schema-org/Property/Texts/has_job_location_type.personal.md) 
 
-### [has_job_location_type.secret](/_secret/schema-org/Property/Texts/has_job_location_type.secret.md) 
+### [has_job_location_type.secret](/_secret/schema-org/Property/Texts/has_job_location_type.secret.md)
+

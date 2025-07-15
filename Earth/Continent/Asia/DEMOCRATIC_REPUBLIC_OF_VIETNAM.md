@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ Capital :: [[Hanoe]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_Standards/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
+
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.public](/_public/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public.md) 
 
 ### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal](/_internal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md) 
 
@@ -46,4 +47,5 @@ Capital :: [[Hanoe]]
 
 ### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal](/_personal/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md) 
 
-### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md) 
+### [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md)
+

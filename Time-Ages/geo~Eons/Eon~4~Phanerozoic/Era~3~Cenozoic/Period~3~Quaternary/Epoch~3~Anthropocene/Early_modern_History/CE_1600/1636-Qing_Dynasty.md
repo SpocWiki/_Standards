@@ -137,3 +137,22 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22
 > [Wikipedia](https://en.wikipedia.org/wiki/Qing%20dynasty) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1636-Qing_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.md) 
+
+### [1636-Qing_Dynasty.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.public.md) 
+
+### [1636-Qing_Dynasty.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.internal.md) 
+
+### [1636-Qing_Dynasty.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.protect.md) 
+
+### [1636-Qing_Dynasty.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.private.md) 
+
+### [1636-Qing_Dynasty.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal.md) 
+
+### [1636-Qing_Dynasty.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret.md)
+

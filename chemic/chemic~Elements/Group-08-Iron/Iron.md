@@ -196,9 +196,13 @@ As of January 2022, the average price of commonly used
 carbon steel was approximately $0.55 to $0.65 per pound.
 the average price of iron ore was around $150 to $200 per metric ton.
 the average price of hot-rolled coil steel in the United States was approximately $1,400 to $1,600 per metric ton
+
+
 ## Confidential Links & Embeds: 
 
-### [Iron](/_public/chemic/chemic~Elements/Group-08-Iron/Iron.md) 
+### [Iron](/_Standards/chemic/chemic~Elements/Group-08-Iron/Iron.md) 
+
+### [Iron.public](/_public/chemic/chemic~Elements/Group-08-Iron/Iron.public.md) 
 
 ### [Iron.internal](/_internal/chemic/chemic~Elements/Group-08-Iron/Iron.internal.md) 
 
@@ -208,4 +212,5 @@ the average price of hot-rolled coil steel in the United States was approximatel
 
 ### [Iron.personal](/_personal/chemic/chemic~Elements/Group-08-Iron/Iron.personal.md) 
 
-### [Iron.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Iron.secret.md) 
+### [Iron.secret](/_secret/chemic/chemic~Elements/Group-08-Iron/Iron.secret.md)
+

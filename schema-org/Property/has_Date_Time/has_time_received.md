@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_received)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_received](/_public/schema-org/Property/has_Date_Time/has_time_received.md) 
+### [has_time_received](/_Standards/schema-org/Property/has_Date_Time/has_time_received.md) 
+
+### [has_time_received.public](/_public/schema-org/Property/has_Date_Time/has_time_received.public.md) 
 
 ### [has_time_received.internal](/_internal/schema-org/Property/has_Date_Time/has_time_received.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_received.personal](/_personal/schema-org/Property/has_Date_Time/has_time_received.personal.md) 
 
-### [has_time_received.secret](/_secret/schema-org/Property/has_Date_Time/has_time_received.secret.md) 
+### [has_time_received.secret](/_secret/schema-org/Property/has_Date_Time/has_time_received.secret.md)
+

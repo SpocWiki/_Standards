@@ -309,3 +309,22 @@ Thys, Duke University. Copyright © 1995, Tierney Thys.
 ![](selenexray.gif)
 Copyright ::   © 1995 Tierney Thys
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vertebrata](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.md) 
+
+### [Vertebrata.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.public.md) 
+
+### [Vertebrata.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.internal.md) 
+
+### [Vertebrata.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.protect.md) 
+
+### [Vertebrata.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.private.md) 
+
+### [Vertebrata.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.personal.md) 
+
+### [Vertebrata.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata.secret.md)
+

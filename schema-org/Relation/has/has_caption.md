@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ embeddedTextCaption ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_caption](/_public/schema-org/Relation/has/has_caption.md) 
+### [has_caption](/_Standards/schema-org/Relation/has/has_caption.md) 
+
+### [has_caption.public](/_public/schema-org/Relation/has/has_caption.public.md) 
 
 ### [has_caption.internal](/_internal/schema-org/Relation/has/has_caption.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_caption.personal](/_personal/schema-org/Relation/has/has_caption.personal.md) 
 
-### [has_caption.secret](/_secret/schema-org/Relation/has/has_caption.secret.md) 
+### [has_caption.secret](/_secret/schema-org/Relation/has/has_caption.secret.md)
+

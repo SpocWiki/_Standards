@@ -40,3 +40,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen%20embrittlement) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hydrogen_Embrittlement](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.md) 
+
+### [Hydrogen_Embrittlement.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public.md) 
+
+### [Hydrogen_Embrittlement.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal.md) 
+
+### [Hydrogen_Embrittlement.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect.md) 
+
+### [Hydrogen_Embrittlement.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private.md) 
+
+### [Hydrogen_Embrittlement.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal.md) 
+
+### [Hydrogen_Embrittlement.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret.md)
+

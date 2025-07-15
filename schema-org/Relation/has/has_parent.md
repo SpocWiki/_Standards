@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 #is_/sub_relation_of :: [[has_creator]] 
 #is_/inverse_of :: [[has_children]] 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_parent](/_public/schema-org/Relation/has/has_parent.md) 
+### [has_parent](/_Standards/schema-org/Relation/has/has_parent.md) 
+
+### [has_parent.public](/_public/schema-org/Relation/has/has_parent.public.md) 
 
 ### [has_parent.internal](/_internal/schema-org/Relation/has/has_parent.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_parent.personal](/_personal/schema-org/Relation/has/has_parent.personal.md) 
 
-### [has_parent.secret](/_secret/schema-org/Relation/has/has_parent.secret.md) 
+### [has_parent.secret](/_secret/schema-org/Relation/has/has_parent.secret.md)
+

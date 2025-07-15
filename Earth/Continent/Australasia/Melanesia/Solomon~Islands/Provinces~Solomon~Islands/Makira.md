@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.5 , 161.9 ] 
 type: geo-Region
 title: Makira
@@ -41,7 +41,9 @@ markerFolder: ./Makira/
 
 ## Confidential Links & Embeds: 
 
-### [Makira](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.md) 
+### [Makira](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.md) 
+
+### [Makira.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.public.md) 
 
 ### [Makira.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Makira/
 
 ### [Makira.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.personal.md) 
 
-### [Makira.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.secret.md) 
+### [Makira.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Makira.secret.md)
+

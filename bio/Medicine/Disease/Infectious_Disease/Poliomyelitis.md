@@ -102,3 +102,22 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polio) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Poliomyelitis](/_Standards/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.md) 
+
+### [Poliomyelitis.public](/_public/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.public.md) 
+
+### [Poliomyelitis.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.internal.md) 
+
+### [Poliomyelitis.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.protect.md) 
+
+### [Poliomyelitis.private](/_private/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.private.md) 
+
+### [Poliomyelitis.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.personal.md) 
+
+### [Poliomyelitis.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Poliomyelitis.secret.md)
+

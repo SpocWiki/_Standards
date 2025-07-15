@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_review_aspect )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_review_aspect](/_public/schema-org/Property/Texts/has_review_aspect.md) 
+### [has_review_aspect](/_Standards/schema-org/Property/Texts/has_review_aspect.md) 
+
+### [has_review_aspect.public](/_public/schema-org/Property/Texts/has_review_aspect.public.md) 
 
 ### [has_review_aspect.internal](/_internal/schema-org/Property/Texts/has_review_aspect.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_review_aspect.personal](/_personal/schema-org/Property/Texts/has_review_aspect.personal.md) 
 
-### [has_review_aspect.secret](/_secret/schema-org/Property/Texts/has_review_aspect.secret.md) 
+### [has_review_aspect.secret](/_secret/schema-org/Property/Texts/has_review_aspect.secret.md)
+

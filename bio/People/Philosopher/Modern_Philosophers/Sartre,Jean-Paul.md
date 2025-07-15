@@ -154,3 +154,22 @@ date_of_birth: "1905-06-21"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul%20Sartre)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sartre,Jean-Paul](/_Standards/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.md) 
+
+### [Sartre,Jean-Paul.public](/_public/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.public.md) 
+
+### [Sartre,Jean-Paul.internal](/_internal/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.internal.md) 
+
+### [Sartre,Jean-Paul.protect](/_protect/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.protect.md) 
+
+### [Sartre,Jean-Paul.private](/_private/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.private.md) 
+
+### [Sartre,Jean-Paul.personal](/_personal/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.personal.md) 
+
+### [Sartre,Jean-Paul.secret](/_secret/bio/People/Philosopher/Modern_Philosophers/Sartre,Jean-Paul.secret.md)
+

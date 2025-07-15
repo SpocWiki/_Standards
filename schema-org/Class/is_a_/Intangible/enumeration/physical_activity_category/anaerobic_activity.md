@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [anaerobic_activity](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
+### [anaerobic_activity](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
+
+### [anaerobic_activity.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.public.md) 
 
 ### [anaerobic_activity.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md) 
 
@@ -56,4 +59,5 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 ### [anaerobic_activity.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.personal.md) 
 
-### [anaerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md) 
+### [anaerobic_activity.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md)
+

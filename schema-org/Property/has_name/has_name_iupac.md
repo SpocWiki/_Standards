@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_name_iupac )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_name_iupac](/_public/schema-org/Property/has_name/has_name_iupac.md) 
+### [has_name_iupac](/_Standards/schema-org/Property/has_name/has_name_iupac.md) 
+
+### [has_name_iupac.public](/_public/schema-org/Property/has_name/has_name_iupac.public.md) 
 
 ### [has_name_iupac.internal](/_internal/schema-org/Property/has_name/has_name_iupac.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_name_iupac.personal](/_personal/schema-org/Property/has_name/has_name_iupac.personal.md) 
 
-### [has_name_iupac.secret](/_secret/schema-org/Property/has_name/has_name_iupac.secret.md) 
+### [has_name_iupac.secret](/_secret/schema-org/Property/has_name/has_name_iupac.secret.md)
+

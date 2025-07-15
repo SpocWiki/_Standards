@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "El Niño–Southern Oscillation"
 - "El Niño"
@@ -34,4 +34,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3
 > In climate change science, ENSO is known as one of the internal climate variability phenomena.: 23  Future trends in ENSO due to climate change are uncertain, although climate change exacerbates the effects of droughts and floods. The IPCC Sixth Assessment Report summarized the scientific knowledge in 2021 for the future of ENSO as follows: "In the long term, it is very likely that the precipitation variance related to El Niño–Southern Oscillation will increase".: 113  The scientific consensus is also that "it is very likely that rainfall variability related to changes in the strength and spatial extent of ENSO teleconnections will lead to significant changes at regional scale".: 114
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/El%20Ni%C3%B1o%E2%80%93Southern%20Oscillation)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [El_Niño–Southern_Oscillation](/_Standards/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.md) 
+
+### [El_Niño–Southern_Oscillation.public](/_public/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.public.md) 
+
+### [El_Niño–Southern_Oscillation.internal](/_internal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.internal.md) 
+
+### [El_Niño–Southern_Oscillation.protect](/_protect/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.protect.md) 
+
+### [El_Niño–Southern_Oscillation.private](/_private/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.private.md) 
+
+### [El_Niño–Southern_Oscillation.personal](/_personal/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.personal.md) 
+
+### [El_Niño–Southern_Oscillation.secret](/_secret/Earth/Atmosphere/Climate/El_Niño–Southern_Oscillation.secret.md)
 

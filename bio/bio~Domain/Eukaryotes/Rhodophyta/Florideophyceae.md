@@ -159,3 +159,22 @@ Scientific Name ::  Gracilaria
 Location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
 Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
 Copyright ::         © 2000 K. T. Bird
+
+
+
+## Confidential Links & Embeds: 
+
+### [Florideophyceae](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.md) 
+
+### [Florideophyceae.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.public.md) 
+
+### [Florideophyceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.internal.md) 
+
+### [Florideophyceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.protect.md) 
+
+### [Florideophyceae.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.private.md) 
+
+### [Florideophyceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.personal.md) 
+
+### [Florideophyceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae.secret.md)
+

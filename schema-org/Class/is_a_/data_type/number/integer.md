@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Data type: Integer.
 
 [ #is_/sub_class_of :: [[../Number]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [integer](/_public/schema-org/Class/is_a_/data_type/number/integer.md) 
+### [integer](/_Standards/schema-org/Class/is_a_/data_type/number/integer.md) 
+
+### [integer.public](/_public/schema-org/Class/is_a_/data_type/number/integer.public.md) 
 
 ### [integer.internal](/_internal/schema-org/Class/is_a_/data_type/number/integer.internal.md) 
 
@@ -52,4 +55,5 @@ Data type: Integer.
 
 ### [integer.personal](/_personal/schema-org/Class/is_a_/data_type/number/integer.personal.md) 
 
-### [integer.secret](/_secret/schema-org/Class/is_a_/data_type/number/integer.secret.md) 
+### [integer.secret](/_secret/schema-org/Class/is_a_/data_type/number/integer.secret.md)
+

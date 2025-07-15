@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_reservation_accepted )
 ( #has_/range :: Boolean, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_reservation_accepted](/_public/schema-org/Property/Flags/is_reservation_accepted.md) 
+### [is_reservation_accepted](/_Standards/schema-org/Property/Flags/is_reservation_accepted.md) 
+
+### [is_reservation_accepted.public](/_public/schema-org/Property/Flags/is_reservation_accepted.public.md) 
 
 ### [is_reservation_accepted.internal](/_internal/schema-org/Property/Flags/is_reservation_accepted.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_reservation_accepted.personal](/_personal/schema-org/Property/Flags/is_reservation_accepted.personal.md) 
 
-### [is_reservation_accepted.secret](/_secret/schema-org/Property/Flags/is_reservation_accepted.secret.md) 
+### [is_reservation_accepted.secret](/_secret/schema-org/Property/Flags/is_reservation_accepted.secret.md)
+

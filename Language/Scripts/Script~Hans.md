@@ -1,4 +1,4 @@
-﻿Simplified Han-Script: 
+Simplified Han-Script: 
 
 
 2. **Chinese (Mainland China):**
@@ -10,7 +10,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Script~Hans](/_public/Language/Scripts/Script~Hans.md) 
+### [Script~Hans](/_Standards/Language/Scripts/Script~Hans.md) 
+
+### [Script~Hans.public](/_public/Language/Scripts/Script~Hans.public.md) 
 
 ### [Script~Hans.internal](/_internal/Language/Scripts/Script~Hans.internal.md) 
 
@@ -20,4 +22,5 @@
 
 ### [Script~Hans.personal](/_personal/Language/Scripts/Script~Hans.personal.md) 
 
-### [Script~Hans.secret](/_secret/Language/Scripts/Script~Hans.secret.md) 
+### [Script~Hans.secret](/_secret/Language/Scripts/Script~Hans.secret.md)
+

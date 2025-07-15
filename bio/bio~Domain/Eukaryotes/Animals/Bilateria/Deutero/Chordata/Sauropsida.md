@@ -10,3 +10,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sauropsida) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sauropsida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.md) 
+
+### [Sauropsida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.public.md) 
+
+### [Sauropsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.internal.md) 
+
+### [Sauropsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.protect.md) 
+
+### [Sauropsida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.private.md) 
+
+### [Sauropsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.personal.md) 
+
+### [Sauropsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Sauropsida.secret.md)
+

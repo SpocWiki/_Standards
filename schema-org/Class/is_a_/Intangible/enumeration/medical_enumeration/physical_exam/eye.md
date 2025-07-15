@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Eye or ophthalmological function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [eye](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.md) 
+### [eye](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.md) 
+
+### [eye.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.public.md) 
 
 ### [eye.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.internal.md) 
 
@@ -55,4 +58,5 @@ Eye or ophthalmological function assessment with clinical examination.
 
 ### [eye.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.personal.md) 
 
-### [eye.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.secret.md) 
+### [eye.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/eye.secret.md)
+

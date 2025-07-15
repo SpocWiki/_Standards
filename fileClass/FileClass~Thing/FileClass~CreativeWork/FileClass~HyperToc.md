@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ Indicates a [[HyperTocEntry]] in a [[HyperToc]].
 TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HyperTocEntry')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HyperToc](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.md) 
+### [FileClass~HyperToc](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.md) 
+
+### [FileClass~HyperToc.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.public.md) 
 
 ### [FileClass~HyperToc.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.internal.md) 
 
@@ -57,4 +58,5 @@ TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~HyperToc.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.personal.md) 
 
-### [FileClass~HyperToc.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret.md) 
+### [FileClass~HyperToc.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret.md)
+

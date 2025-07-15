@@ -119,3 +119,19 @@ GeoNames_feature_code: S.BDG
 > [Wikipedia](https://en.wikipedia.org/wiki/Bridge) 
 
 
+## Confidential Links & Embeds: 
+
+### [Bridge](/_Standards/Technology/Construction/Bridge.md) 
+
+### [Bridge.public](/_public/Technology/Construction/Bridge.public.md) 
+
+### [Bridge.internal](/_internal/Technology/Construction/Bridge.internal.md) 
+
+### [Bridge.protect](/_protect/Technology/Construction/Bridge.protect.md) 
+
+### [Bridge.private](/_private/Technology/Construction/Bridge.private.md) 
+
+### [Bridge.personal](/_personal/Technology/Construction/Bridge.personal.md) 
+
+### [Bridge.secret](/_secret/Technology/Construction/Bridge.secret.md)
+

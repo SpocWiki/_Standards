@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_exif_data )
 ( #has_/range :: PropertyValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_exif_data](/_public/schema-org/Relation/has/has_exif_data.md) 
+### [has_exif_data](/_Standards/schema-org/Relation/has/has_exif_data.md) 
+
+### [has_exif_data.public](/_public/schema-org/Relation/has/has_exif_data.public.md) 
 
 ### [has_exif_data.internal](/_internal/schema-org/Relation/has/has_exif_data.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_exif_data.personal](/_personal/schema-org/Relation/has/has_exif_data.personal.md) 
 
-### [has_exif_data.secret](/_secret/schema-org/Relation/has/has_exif_data.secret.md) 
+### [has_exif_data.secret](/_secret/schema-org/Relation/has/has_exif_data.secret.md)
+

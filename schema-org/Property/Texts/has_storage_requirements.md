@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_storage_requirements )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_storage_requirements](/_public/schema-org/Property/Texts/has_storage_requirements.md) 
+### [has_storage_requirements](/_Standards/schema-org/Property/Texts/has_storage_requirements.md) 
+
+### [has_storage_requirements.public](/_public/schema-org/Property/Texts/has_storage_requirements.public.md) 
 
 ### [has_storage_requirements.internal](/_internal/schema-org/Property/Texts/has_storage_requirements.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_storage_requirements.personal](/_personal/schema-org/Property/Texts/has_storage_requirements.personal.md) 
 
-### [has_storage_requirements.secret](/_secret/schema-org/Property/Texts/has_storage_requirements.secret.md) 
+### [has_storage_requirements.secret](/_secret/schema-org/Property/Texts/has_storage_requirements.secret.md)
+

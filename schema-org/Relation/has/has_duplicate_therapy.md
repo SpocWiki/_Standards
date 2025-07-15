@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_duplicate_therapy )
 ( #has_/range :: MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duplicate_therapy](/_public/schema-org/Relation/has/has_duplicate_therapy.md) 
+### [has_duplicate_therapy](/_Standards/schema-org/Relation/has/has_duplicate_therapy.md) 
+
+### [has_duplicate_therapy.public](/_public/schema-org/Relation/has/has_duplicate_therapy.public.md) 
 
 ### [has_duplicate_therapy.internal](/_internal/schema-org/Relation/has/has_duplicate_therapy.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_duplicate_therapy.personal](/_personal/schema-org/Relation/has/has_duplicate_therapy.personal.md) 
 
-### [has_duplicate_therapy.secret](/_secret/schema-org/Relation/has/has_duplicate_therapy.secret.md) 
+### [has_duplicate_therapy.secret](/_secret/schema-org/Relation/has/has_duplicate_therapy.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The practice of treatment of disease, injury, or deformity by physical methods s
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [physiotherapy](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.md) 
+### [physiotherapy](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.md) 
+
+### [physiotherapy.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.public.md) 
 
 ### [physiotherapy.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.internal.md) 
 
@@ -56,4 +59,5 @@ The practice of treatment of disease, injury, or deformity by physical methods s
 
 ### [physiotherapy.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.personal.md) 
 
-### [physiotherapy.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.secret.md) 
+### [physiotherapy.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/physiotherapy.secret.md)
+

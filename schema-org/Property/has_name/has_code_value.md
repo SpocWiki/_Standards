@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: termCode ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_value](/_public/schema-org/Property/has_name/has_code_value.md) 
+### [has_code_value](/_Standards/schema-org/Property/has_name/has_code_value.md) 
+
+### [has_code_value.public](/_public/schema-org/Property/has_name/has_code_value.public.md) 
 
 ### [has_code_value.internal](/_internal/schema-org/Property/has_name/has_code_value.internal.md) 
 
@@ -59,4 +62,5 @@ Predicated describes that:
 
 ### [has_code_value.personal](/_personal/schema-org/Property/has_name/has_code_value.personal.md) 
 
-### [has_code_value.secret](/_secret/schema-org/Property/has_name/has_code_value.secret.md) 
+### [has_code_value.secret](/_secret/schema-org/Property/has_name/has_code_value.secret.md)
+

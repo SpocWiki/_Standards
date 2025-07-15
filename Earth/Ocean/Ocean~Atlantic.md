@@ -174,9 +174,12 @@ Named after the fabled Island of Atlantis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atlantic%20Ocean)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ocean~Atlantic](/_public/Earth/Ocean/Ocean~Atlantic.md) 
+### [Ocean~Atlantic](/_Standards/Earth/Ocean/Ocean~Atlantic.md) 
+
+### [Ocean~Atlantic.public](/_public/Earth/Ocean/Ocean~Atlantic.public.md) 
 
 ### [Ocean~Atlantic.internal](/_internal/Earth/Ocean/Ocean~Atlantic.internal.md) 
 
@@ -186,4 +189,5 @@ Named after the fabled Island of Atlantis.
 
 ### [Ocean~Atlantic.personal](/_personal/Earth/Ocean/Ocean~Atlantic.personal.md) 
 
-### [Ocean~Atlantic.secret](/_secret/Earth/Ocean/Ocean~Atlantic.secret.md) 
+### [Ocean~Atlantic.secret](/_secret/Earth/Ocean/Ocean~Atlantic.secret.md)
+

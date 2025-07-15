@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Al Gharbiyah
 ---
@@ -18,9 +18,12 @@ aliases:
     - [Gharb Basin](https://en.wikipedia.org/wiki/Gharb_Basin "Gharb Basin")
 - [Gharbia, Algeria](https://en.wikipedia.org/wiki/Gharbia,_Algeria "Gharbia, Algeria")
 
+
 ## Confidential Links & Embeds: 
 
-### [Direction~West](/_public/Earth/2D-Directions/Direction~West.md) 
+### [Direction~West](/_Standards/Earth/2D-Directions/Direction~West.md) 
+
+### [Direction~West.public](/_public/Earth/2D-Directions/Direction~West.public.md) 
 
 ### [Direction~West.internal](/_internal/Earth/2D-Directions/Direction~West.internal.md) 
 
@@ -30,4 +33,5 @@ aliases:
 
 ### [Direction~West.personal](/_personal/Earth/2D-Directions/Direction~West.personal.md) 
 
-### [Direction~West.secret](/_secret/Earth/2D-Directions/Direction~West.secret.md) 
+### [Direction~West.secret](/_secret/Earth/2D-Directions/Direction~West.secret.md)
+

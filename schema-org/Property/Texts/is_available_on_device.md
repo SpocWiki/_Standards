@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicated describes that:
 ( #has_/name :: [[is_available_on_device]] )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_available_on_device](/_public/schema-org/Property/Texts/is_available_on_device.md) 
+### [is_available_on_device](/_Standards/schema-org/Property/Texts/is_available_on_device.md) 
+
+### [is_available_on_device.public](/_public/schema-org/Property/Texts/is_available_on_device.public.md) 
 
 ### [is_available_on_device.internal](/_internal/schema-org/Property/Texts/is_available_on_device.internal.md) 
 
@@ -59,4 +62,5 @@ Predicated describes that:
 
 ### [is_available_on_device.personal](/_personal/schema-org/Property/Texts/is_available_on_device.personal.md) 
 
-### [is_available_on_device.secret](/_secret/schema-org/Property/Texts/is_available_on_device.secret.md) 
+### [is_available_on_device.secret](/_secret/schema-org/Property/Texts/is_available_on_device.secret.md)
+

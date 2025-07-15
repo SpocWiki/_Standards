@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_cancelled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md) 
+### [event_cancelled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md) 
+
+### [event_cancelled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.public.md) 
 
 ### [event_cancelled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md) 
 
@@ -56,4 +59,5 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 ### [event_cancelled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md) 
 
-### [event_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md) 
+### [event_cancelled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md)
+

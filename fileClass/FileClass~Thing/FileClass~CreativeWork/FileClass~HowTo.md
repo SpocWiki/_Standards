@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -124,10 +124,11 @@ The quantity that results by performing instructions. For example, a paper airpl
 Yield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowTo](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.md) 
+### [FileClass~HowTo](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.md) 
+
+### [FileClass~HowTo.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.public.md) 
 
 ### [FileClass~HowTo.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.internal.md) 
 
@@ -137,4 +138,5 @@ Yield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ### [FileClass~HowTo.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.personal.md) 
 
-### [FileClass~HowTo.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.secret.md) 
+### [FileClass~HowTo.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo.secret.md)
+

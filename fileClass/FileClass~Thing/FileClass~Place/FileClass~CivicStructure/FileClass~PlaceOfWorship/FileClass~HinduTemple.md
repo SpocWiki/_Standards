@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A Hindu temple.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HinduTemple](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.md) 
+### [FileClass~HinduTemple](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.md) 
+
+### [FileClass~HinduTemple.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.public.md) 
 
 ### [FileClass~HinduTemple.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.internal.md) 
 
@@ -46,4 +47,5 @@ A Hindu temple.
 
 ### [FileClass~HinduTemple.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.personal.md) 
 
-### [FileClass~HinduTemple.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.secret.md) 
+### [FileClass~HinduTemple.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.secret.md)
+

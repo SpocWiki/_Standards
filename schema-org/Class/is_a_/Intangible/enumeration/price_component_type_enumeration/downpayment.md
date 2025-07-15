@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the downpayment (up-front payment) price component of the total price
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [downpayment](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.md) 
+### [downpayment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.md) 
+
+### [downpayment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.public.md) 
 
 ### [downpayment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the downpayment (up-front payment) price component of the total price
 
 ### [downpayment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
 
-### [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md) 
+### [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md)
+

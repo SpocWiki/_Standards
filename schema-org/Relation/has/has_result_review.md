@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: result ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_result_review](/_public/schema-org/Relation/has/has_result_review.md) 
+### [has_result_review](/_Standards/schema-org/Relation/has/has_result_review.md) 
+
+### [has_result_review.public](/_public/schema-org/Relation/has/has_result_review.public.md) 
 
 ### [has_result_review.internal](/_internal/schema-org/Relation/has/has_result_review.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_result_review.personal](/_personal/schema-org/Relation/has/has_result_review.personal.md) 
 
-### [has_result_review.secret](/_secret/schema-org/Relation/has/has_result_review.secret.md) 
+### [has_result_review.secret](/_secret/schema-org/Relation/has/has_result_review.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_video )
 ( #has_/range :: Clip, VideoObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_video](/_public/schema-org/Relation/has/has_video.md) 
+### [has_video](/_Standards/schema-org/Relation/has/has_video.md) 
+
+### [has_video.public](/_public/schema-org/Relation/has/has_video.public.md) 
 
 ### [has_video.internal](/_internal/schema-org/Relation/has/has_video.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_video.personal](/_personal/schema-org/Relation/has/has_video.personal.md) 
 
-### [has_video.secret](/_secret/schema-org/Relation/has/has_video.secret.md) 
+### [has_video.secret](/_secret/schema-org/Relation/has/has_video.secret.md)
+

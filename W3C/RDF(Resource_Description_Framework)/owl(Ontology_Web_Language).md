@@ -1,4 +1,4 @@
-﻿# [[OWL(Ontology_Web_Language)]] 
+# [[OWL(Ontology_Web_Language)]] 
 
 is a very expressive Language with more inference and strictness than [[rdfs]]
 
@@ -48,14 +48,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [OWL(Ontology_Web_Language)](/_public/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).md) 
+### [owl(Ontology_Web_Language)](/_Standards/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).md) 
 
-### [OWL(Ontology_Web_Language).internal](/_internal/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).internal.md) 
+### [owl(Ontology_Web_Language).public](/_public/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).public.md) 
 
-### [OWL(Ontology_Web_Language).protect](/_protect/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).protect.md) 
+### [owl(Ontology_Web_Language).internal](/_internal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).internal.md) 
 
-### [OWL(Ontology_Web_Language).private](/_private/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).private.md) 
+### [owl(Ontology_Web_Language).protect](/_protect/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).protect.md) 
 
-### [OWL(Ontology_Web_Language).personal](/_personal/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).personal.md) 
+### [owl(Ontology_Web_Language).private](/_private/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).private.md) 
 
-### [OWL(Ontology_Web_Language).secret](/_secret/W3C/RDF(Resource_Description_Framework)/OWL(Ontology_Web_Language).secret.md) 
+### [owl(Ontology_Web_Language).personal](/_personal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).personal.md) 
+
+### [owl(Ontology_Web_Language).secret](/_secret/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).secret.md)
+

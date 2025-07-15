@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The status of a reservation on hold pending an update like credit card number or
 
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [reservation_hold](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.md) 
+### [reservation_hold](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.md) 
+
+### [reservation_hold.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.public.md) 
 
 ### [reservation_hold.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.internal.md) 
 
@@ -56,4 +59,5 @@ The status of a reservation on hold pending an update like credit card number or
 
 ### [reservation_hold.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.personal.md) 
 
-### [reservation_hold.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.secret.md) 
+### [reservation_hold.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.secret.md)
+

@@ -10,3 +10,22 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Pellagra)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pellagra](/_Standards/bio/Metabolism/Nutrition/Vitamin/Pellagra.md) 
+
+### [Pellagra.public](/_public/bio/Metabolism/Nutrition/Vitamin/Pellagra.public.md) 
+
+### [Pellagra.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Pellagra.internal.md) 
+
+### [Pellagra.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Pellagra.protect.md) 
+
+### [Pellagra.private](/_private/bio/Metabolism/Nutrition/Vitamin/Pellagra.private.md) 
+
+### [Pellagra.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Pellagra.personal.md) 
+
+### [Pellagra.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Pellagra.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -84,7 +84,9 @@ but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Patt
 
 ## Confidential Links & Embeds: 
 
-### [Class](/_public/schema-org/Class.md) 
+### [Class](/_Standards/schema-org/Class.md) 
+
+### [Class.public](/_public/schema-org/Class.public.md) 
 
 ### [Class.internal](/_internal/schema-org/Class.internal.md) 
 
@@ -94,4 +96,5 @@ but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Patt
 
 ### [Class.personal](/_personal/schema-org/Class.personal.md) 
 
-### [Class.secret](/_secret/schema-org/Class.secret.md) 
+### [Class.secret](/_secret/schema-org/Class.secret.md)
+

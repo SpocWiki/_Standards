@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_value_reference )
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_reference](/_public/schema-org/Relation/has/has_value_reference.md) 
+### [has_value_reference](/_Standards/schema-org/Relation/has/has_value_reference.md) 
+
+### [has_value_reference.public](/_public/schema-org/Relation/has/has_value_reference.public.md) 
 
 ### [has_value_reference.internal](/_internal/schema-org/Relation/has/has_value_reference.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_value_reference.personal](/_personal/schema-org/Relation/has/has_value_reference.personal.md) 
 
-### [has_value_reference.secret](/_secret/schema-org/Relation/has/has_value_reference.secret.md) 
+### [has_value_reference.secret](/_secret/schema-org/Relation/has/has_value_reference.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_arrival_bus_stop )
 ( #has_/range :: BusStation, BusStop )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_arrival_bus_stop](/_public/schema-org/Relation/has/has_arrival_bus_stop.md) 
+### [has_arrival_bus_stop](/_Standards/schema-org/Relation/has/has_arrival_bus_stop.md) 
+
+### [has_arrival_bus_stop.public](/_public/schema-org/Relation/has/has_arrival_bus_stop.public.md) 
 
 ### [has_arrival_bus_stop.internal](/_internal/schema-org/Relation/has/has_arrival_bus_stop.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_arrival_bus_stop.personal](/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal.md) 
 
-### [has_arrival_bus_stop.secret](/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret.md) 
+### [has_arrival_bus_stop.secret](/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret.md)
+

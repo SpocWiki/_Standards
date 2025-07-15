@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_alignment_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_alignment_type](/_public/schema-org/Property/Texts/has_alignment_type.md) 
+### [has_alignment_type](/_Standards/schema-org/Property/Texts/has_alignment_type.md) 
+
+### [has_alignment_type.public](/_public/schema-org/Property/Texts/has_alignment_type.public.md) 
 
 ### [has_alignment_type.internal](/_internal/schema-org/Property/Texts/has_alignment_type.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_alignment_type.personal](/_personal/schema-org/Property/Texts/has_alignment_type.personal.md) 
 
-### [has_alignment_type.secret](/_secret/schema-org/Property/Texts/has_alignment_type.secret.md) 
+### [has_alignment_type.secret](/_secret/schema-org/Property/Texts/has_alignment_type.secret.md)
+

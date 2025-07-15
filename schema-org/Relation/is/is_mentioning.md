@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_mentioning )
 ( #has_/range :: [[../../../Class/Thing|thing]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_mentioning](/_public/schema-org/Relation/is/is_mentioning.md) 
+### [is_mentioning](/_Standards/schema-org/Relation/is/is_mentioning.md) 
+
+### [is_mentioning.public](/_public/schema-org/Relation/is/is_mentioning.public.md) 
 
 ### [is_mentioning.internal](/_internal/schema-org/Relation/is/is_mentioning.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_mentioning.personal](/_personal/schema-org/Relation/is/is_mentioning.personal.md) 
 
-### [is_mentioning.secret](/_secret/schema-org/Relation/is/is_mentioning.secret.md) 
+### [is_mentioning.secret](/_secret/schema-org/Relation/is/is_mentioning.secret.md)
+

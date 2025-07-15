@@ -61,3 +61,22 @@ title: Myxozoa
 	        -   *Variisporina*
 	        -   *Sphaeromyxina*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Myxozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.md) 
+
+### [Myxozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.public.md) 
+
+### [Myxozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.internal.md) 
+
+### [Myxozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.protect.md) 
+
+### [Myxozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.private.md) 
+
+### [Myxozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.personal.md) 
+
+### [Myxozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Myxozoa.secret.md)
+

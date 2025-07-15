@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_arrival_gate )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_arrival_gate](/_public/schema-org/Property/Texts/has_arrival_gate.md) 
+### [has_arrival_gate](/_Standards/schema-org/Property/Texts/has_arrival_gate.md) 
+
+### [has_arrival_gate.public](/_public/schema-org/Property/Texts/has_arrival_gate.public.md) 
 
 ### [has_arrival_gate.internal](/_internal/schema-org/Property/Texts/has_arrival_gate.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_arrival_gate.personal](/_personal/schema-org/Property/Texts/has_arrival_gate.personal.md) 
 
-### [has_arrival_gate.secret](/_secret/schema-org/Property/Texts/has_arrival_gate.secret.md) 
+### [has_arrival_gate.secret](/_secret/schema-org/Property/Texts/has_arrival_gate.secret.md)
+

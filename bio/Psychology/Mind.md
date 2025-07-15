@@ -38,3 +38,20 @@ native_label: Hiş
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mind)
 
+
+## Confidential Links & Embeds: 
+
+### [Mind](/_Standards/bio/Psychology/Mind.md) 
+
+### [Mind.public](/_public/bio/Psychology/Mind.public.md) 
+
+### [Mind.internal](/_internal/bio/Psychology/Mind.internal.md) 
+
+### [Mind.protect](/_protect/bio/Psychology/Mind.protect.md) 
+
+### [Mind.private](/_private/bio/Psychology/Mind.private.md) 
+
+### [Mind.personal](/_personal/bio/Psychology/Mind.personal.md) 
+
+### [Mind.secret](/_secret/bio/Psychology/Mind.secret.md)
+

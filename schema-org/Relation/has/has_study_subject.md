@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_study_subject )
 ( #has_/range :: MedicalEntity )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_study_subject](/_public/schema-org/Relation/has/has_study_subject.md) 
+### [has_study_subject](/_Standards/schema-org/Relation/has/has_study_subject.md) 
+
+### [has_study_subject.public](/_public/schema-org/Relation/has/has_study_subject.public.md) 
 
 ### [has_study_subject.internal](/_internal/schema-org/Relation/has/has_study_subject.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_study_subject.personal](/_personal/schema-org/Relation/has/has_study_subject.personal.md) 
 
-### [has_study_subject.secret](/_secret/schema-org/Relation/has/has_study_subject.secret.md) 
+### [has_study_subject.secret](/_secret/schema-org/Relation/has/has_study_subject.secret.md)
+

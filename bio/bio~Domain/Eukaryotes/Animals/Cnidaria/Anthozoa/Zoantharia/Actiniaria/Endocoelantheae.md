@@ -51,3 +51,21 @@ p-mastigophors.
 Carlgren, O. 1949. A Survey of the Ptychodactiaria, Corallimorpharia and
 Actiniaria. Kungl. Svenska Vetenskapsakadamiens Handlingar, series 4,
 volume 1, number 1.
+
+
+## Confidential Links & Embeds: 
+
+### [Endocoelantheae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.md) 
+
+### [Endocoelantheae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.public.md) 
+
+### [Endocoelantheae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.internal.md) 
+
+### [Endocoelantheae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.protect.md) 
+
+### [Endocoelantheae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.private.md) 
+
+### [Endocoelantheae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.personal.md) 
+
+### [Endocoelantheae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Endocoelantheae.secret.md)
+

@@ -102,3 +102,21 @@ Soil. Archiv für Protistenkunde 116:254-269.
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 Flemming Ekelund
   --------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Apusomonas](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.md) 
+
+### [Apusomonas.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.public.md) 
+
+### [Apusomonas.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.internal.md) 
+
+### [Apusomonas.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.protect.md) 
+
+### [Apusomonas.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.private.md) 
+
+### [Apusomonas.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.personal.md) 
+
+### [Apusomonas.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Apusomonas.secret.md)
+

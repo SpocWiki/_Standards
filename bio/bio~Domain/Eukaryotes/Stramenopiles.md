@@ -98,3 +98,22 @@ Source Collection                   [Flickr](http://flickr.com/)
 Copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Stramenopiles](/_Standards/bio/bio~Domain/Eukaryotes/Stramenopiles.md) 
+
+### [Stramenopiles.public](/_public/bio/bio~Domain/Eukaryotes/Stramenopiles.public.md) 
+
+### [Stramenopiles.internal](/_internal/bio/bio~Domain/Eukaryotes/Stramenopiles.internal.md) 
+
+### [Stramenopiles.protect](/_protect/bio/bio~Domain/Eukaryotes/Stramenopiles.protect.md) 
+
+### [Stramenopiles.private](/_private/bio/bio~Domain/Eukaryotes/Stramenopiles.private.md) 
+
+### [Stramenopiles.personal](/_personal/bio/bio~Domain/Eukaryotes/Stramenopiles.personal.md) 
+
+### [Stramenopiles.secret](/_secret/bio/bio~Domain/Eukaryotes/Stramenopiles.secret.md)
+

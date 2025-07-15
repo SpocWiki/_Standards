@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q277954
 subclass_of:
 - "[[_Standards/WikiData/WD~steroid_hormone,422137]]"
@@ -57,4 +57,23 @@ aliases:
 > and can cause health issues and reproductive disfunction in both wildlife and humans.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Estrogen)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Estrogen](/_Standards/chemic/organic/Biochemistry/Hormone/Estrogen.md) 
+
+### [Estrogen.public](/_public/chemic/organic/Biochemistry/Hormone/Estrogen.public.md) 
+
+### [Estrogen.internal](/_internal/chemic/organic/Biochemistry/Hormone/Estrogen.internal.md) 
+
+### [Estrogen.protect](/_protect/chemic/organic/Biochemistry/Hormone/Estrogen.protect.md) 
+
+### [Estrogen.private](/_private/chemic/organic/Biochemistry/Hormone/Estrogen.private.md) 
+
+### [Estrogen.personal](/_personal/chemic/organic/Biochemistry/Hormone/Estrogen.personal.md) 
+
+### [Estrogen.secret](/_secret/chemic/organic/Biochemistry/Hormone/Estrogen.secret.md)
 

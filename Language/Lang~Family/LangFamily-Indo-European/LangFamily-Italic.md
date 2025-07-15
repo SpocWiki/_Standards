@@ -27,3 +27,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Romance%20languages) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [LangFamily-Italic](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.md) 
+
+### [LangFamily-Italic.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.public.md) 
+
+### [LangFamily-Italic.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.internal.md) 
+
+### [LangFamily-Italic.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.protect.md) 
+
+### [LangFamily-Italic.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.private.md) 
+
+### [LangFamily-Italic.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.personal.md) 
+
+### [LangFamily-Italic.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic.secret.md)
+

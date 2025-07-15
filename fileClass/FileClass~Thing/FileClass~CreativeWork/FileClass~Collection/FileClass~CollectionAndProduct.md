@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -255,9 +255,13 @@ fields: []
   The width of the item.
   
   Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+
+
 ## Confidential Links & Embeds: 
 
-### [FileClass~CollectionAndProduct](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.md) 
+### [FileClass~CollectionAndProduct](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.md) 
+
+### [FileClass~CollectionAndProduct.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.public.md) 
 
 ### [FileClass~CollectionAndProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.internal.md) 
 
@@ -267,4 +271,5 @@ fields: []
 
 ### [FileClass~CollectionAndProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.personal.md) 
 
-### [FileClass~CollectionAndProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.secret.md) 
+### [FileClass~CollectionAndProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.secret.md)
+

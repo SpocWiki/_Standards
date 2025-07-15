@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_of_item](/_public/schema-org/Property/has_location/has_location_of_item.md) 
+### [has_location_of_item](/_Standards/schema-org/Property/has_location/has_location_of_item.md) 
+
+### [has_location_of_item.public](/_public/schema-org/Property/has_location/has_location_of_item.public.md) 
 
 ### [has_location_of_item.internal](/_internal/schema-org/Property/has_location/has_location_of_item.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_location_of_item.personal](/_personal/schema-org/Property/has_location/has_location_of_item.personal.md) 
 
-### [has_location_of_item.secret](/_secret/schema-org/Property/has_location/has_location_of_item.secret.md) 
+### [has_location_of_item.secret](/_secret/schema-org/Property/has_location/has_location_of_item.secret.md)
+

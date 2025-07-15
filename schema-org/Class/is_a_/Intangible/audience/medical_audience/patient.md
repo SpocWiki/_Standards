@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A patient is any person recipient of health care services.
 
 [ #has_/properties :: [ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [patient](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.md) 
+### [patient](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.md) 
+
+### [patient.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.public.md) 
 
 ### [patient.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.internal.md) 
 
@@ -56,4 +59,5 @@ A patient is any person recipient of health care services.
 
 ### [patient.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.personal.md) 
 
-### [patient.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.secret.md) 
+### [patient.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience/patient.secret.md)
+

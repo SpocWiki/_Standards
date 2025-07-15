@@ -138,3 +138,22 @@ Europeana_entity: agent/base/60182
 > [Wikipedia](https://en.wikipedia.org/wiki/Naguib%20Mahfouz)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mahfouz,Naguib](/_Standards/bio/People/Writer/Mahfouz,Naguib.md) 
+
+### [Mahfouz,Naguib.public](/_public/bio/People/Writer/Mahfouz,Naguib.public.md) 
+
+### [Mahfouz,Naguib.internal](/_internal/bio/People/Writer/Mahfouz,Naguib.internal.md) 
+
+### [Mahfouz,Naguib.protect](/_protect/bio/People/Writer/Mahfouz,Naguib.protect.md) 
+
+### [Mahfouz,Naguib.private](/_private/bio/People/Writer/Mahfouz,Naguib.private.md) 
+
+### [Mahfouz,Naguib.personal](/_personal/bio/People/Writer/Mahfouz,Naguib.personal.md) 
+
+### [Mahfouz,Naguib.secret](/_secret/bio/People/Writer/Mahfouz,Naguib.secret.md)
+

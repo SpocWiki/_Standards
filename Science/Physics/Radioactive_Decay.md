@@ -18,3 +18,19 @@ has_id_wikidata: Q11448
 > [Wikipedia](https://en.wikipedia.org/wiki/Radioactive%20decay)
 
 
+## Confidential Links & Embeds: 
+
+### [Radioactive_Decay](/_Standards/Science/Physics/Radioactive_Decay.md) 
+
+### [Radioactive_Decay.public](/_public/Science/Physics/Radioactive_Decay.public.md) 
+
+### [Radioactive_Decay.internal](/_internal/Science/Physics/Radioactive_Decay.internal.md) 
+
+### [Radioactive_Decay.protect](/_protect/Science/Physics/Radioactive_Decay.protect.md) 
+
+### [Radioactive_Decay.private](/_private/Science/Physics/Radioactive_Decay.private.md) 
+
+### [Radioactive_Decay.personal](/_personal/Science/Physics/Radioactive_Decay.personal.md) 
+
+### [Radioactive_Decay.secret](/_secret/Science/Physics/Radioactive_Decay.secret.md)
+

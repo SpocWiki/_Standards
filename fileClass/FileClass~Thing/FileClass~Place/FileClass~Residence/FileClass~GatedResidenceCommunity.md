@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ Residence type: Gated community.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GatedResidenceCommunity](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.md) 
+### [FileClass~GatedResidenceCommunity](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.md) 
+
+### [FileClass~GatedResidenceCommunity.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.public.md) 
 
 ### [FileClass~GatedResidenceCommunity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.internal.md) 
 
@@ -46,4 +47,5 @@ Residence type: Gated community.
 
 ### [FileClass~GatedResidenceCommunity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.personal.md) 
 
-### [FileClass~GatedResidenceCommunity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.secret.md) 
+### [FileClass~GatedResidenceCommunity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~GatedResidenceCommunity.secret.md)
+

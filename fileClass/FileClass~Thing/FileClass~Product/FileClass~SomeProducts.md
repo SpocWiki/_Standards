@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The current approximate inventory level for the item or items.
 InventoryLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SomeProducts](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.md) 
+### [FileClass~SomeProducts](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.md) 
+
+### [FileClass~SomeProducts.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.public.md) 
 
 ### [FileClass~SomeProducts.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.internal.md) 
 
@@ -57,4 +58,5 @@ InventoryLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ### [FileClass~SomeProducts.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.personal.md) 
 
-### [FileClass~SomeProducts.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.secret.md) 
+### [FileClass~SomeProducts.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~SomeProducts.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [how_to_supply](/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.md) 
+### [how_to_supply](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply.md) 
+
+### [how_to_supply.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public.md) 
 
 ### [how_to_supply.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal.md) 
 
@@ -54,4 +57,5 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 ### [how_to_supply.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal.md) 
 
-### [how_to_supply.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret.md) 
+### [how_to_supply.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret.md)
+

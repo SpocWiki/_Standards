@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_calories )
 ( #has_/range :: Energy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_calories](/_public/schema-org/Relation/has/has_calories.md) 
+### [has_calories](/_Standards/schema-org/Relation/has/has_calories.md) 
+
+### [has_calories.public](/_public/schema-org/Relation/has/has_calories.public.md) 
 
 ### [has_calories.internal](/_internal/schema-org/Relation/has/has_calories.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_calories.personal](/_personal/schema-org/Relation/has/has_calories.personal.md) 
 
-### [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md) 
+### [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md)
+

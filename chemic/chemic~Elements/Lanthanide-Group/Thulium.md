@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21965
 has_id_wikidata: Q1853
@@ -83,9 +83,12 @@ mass: 168.934219
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thulium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Thulium](/_public/chemic/chemic~Elements/Lanthanide-Group/Thulium.md) 
+### [Thulium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Thulium.md) 
+
+### [Thulium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Thulium.public.md) 
 
 ### [Thulium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Thulium.internal.md) 
 
@@ -95,4 +98,5 @@ mass: 168.934219
 
 ### [Thulium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Thulium.personal.md) 
 
-### [Thulium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Thulium.secret.md) 
+### [Thulium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Thulium.secret.md)
+

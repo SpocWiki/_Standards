@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ The [[ReportageNewsArticle]] type is a subtype of [[NewsArticle]] representing
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReportageNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.md) 
+### [FileClass~ReportageNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.md) 
+
+### [FileClass~ReportageNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.public.md) 
 
 ### [FileClass~ReportageNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.internal.md) 
 
@@ -50,4 +51,5 @@ The [[ReportageNewsArticle]] type is a subtype of [[NewsArticle]] representing
 
 ### [FileClass~ReportageNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.personal.md) 
 
-### [FileClass~ReportageNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.secret.md) 
+### [FileClass~ReportageNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~ReportageNewsArticle.secret.md)
+

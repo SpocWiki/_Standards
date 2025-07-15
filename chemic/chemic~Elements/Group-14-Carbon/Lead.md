@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21977
 has_id_wikidata: Q708
@@ -172,9 +172,12 @@ Unicode_character: 鉛
 
 Due to the large Silver Refining in the Roman Empire, it is likely that it was detrimental to general health. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Lead](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
+### [Lead](/_Standards/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
+
+### [Lead.public](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.public.md) 
 
 ### [Lead.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Lead.internal.md) 
 
@@ -184,4 +187,5 @@ Due to the large Silver Refining in the Roman Empire, it is likely that it was d
 
 ### [Lead.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Lead.personal.md) 
 
-### [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md) 
+### [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md)
+

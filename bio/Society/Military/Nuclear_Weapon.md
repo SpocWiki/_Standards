@@ -13,3 +13,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nuclear_Weapon](/_Standards/bio/Society/Military/Nuclear_Weapon.md) 
+
+### [Nuclear_Weapon.public](/_public/bio/Society/Military/Nuclear_Weapon.public.md) 
+
+### [Nuclear_Weapon.internal](/_internal/bio/Society/Military/Nuclear_Weapon.internal.md) 
+
+### [Nuclear_Weapon.protect](/_protect/bio/Society/Military/Nuclear_Weapon.protect.md) 
+
+### [Nuclear_Weapon.private](/_private/bio/Society/Military/Nuclear_Weapon.private.md) 
+
+### [Nuclear_Weapon.personal](/_personal/bio/Society/Military/Nuclear_Weapon.personal.md) 
+
+### [Nuclear_Weapon.secret](/_secret/bio/Society/Military/Nuclear_Weapon.secret.md)
+

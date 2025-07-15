@@ -1,4 +1,4 @@
-﻿
+
 # [[North_Sea]] 
 
 ## #has_/text_of_/abstract 
@@ -46,7 +46,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [North_Sea](/_public/Earth/Ocean/North_Sea.md) 
+### [North_Sea](/_Standards/Earth/Ocean/North_Sea.md) 
+
+### [North_Sea.public](/_public/Earth/Ocean/North_Sea.public.md) 
 
 ### [North_Sea.internal](/_internal/Earth/Ocean/North_Sea.internal.md) 
 
@@ -56,4 +58,5 @@ noteOnly: true
 
 ### [North_Sea.personal](/_personal/Earth/Ocean/North_Sea.personal.md) 
 
-### [North_Sea.secret](/_secret/Earth/Ocean/North_Sea.secret.md) 
+### [North_Sea.secret](/_secret/Earth/Ocean/North_Sea.secret.md)
+

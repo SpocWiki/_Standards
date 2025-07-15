@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_aircraft )
 ( #has_/range :: Text, Vehicle )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_aircraft](/_public/schema-org/Relation/has/has_aircraft.md) 
+### [has_aircraft](/_Standards/schema-org/Relation/has/has_aircraft.md) 
+
+### [has_aircraft.public](/_public/schema-org/Relation/has/has_aircraft.public.md) 
 
 ### [has_aircraft.internal](/_internal/schema-org/Relation/has/has_aircraft.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_aircraft.personal](/_personal/schema-org/Relation/has/has_aircraft.personal.md) 
 
-### [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md) 
+### [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md)
+

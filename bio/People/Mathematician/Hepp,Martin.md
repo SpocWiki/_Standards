@@ -1,4 +1,4 @@
-﻿
+
 #has_/created [[goodRelations|goodRelations]] 
 
 Univ.-Prof. Dr. Martin Hepp  
@@ -14,14 +14,17 @@ Fax: +49-89-6004-4620
 
 ## Confidential Links & Embeds: 
 
-### [Hepp,Martin](/_public/Mathematics/Mathematicians/Hepp,Martin.md) 
+### [Hepp,Martin](/_Standards/bio/People/Mathematician/Hepp,Martin.md) 
 
-### [Hepp,Martin.internal](/_internal/Mathematics/Mathematicians/Hepp,Martin.internal.md) 
+### [Hepp,Martin.public](/_public/bio/People/Mathematician/Hepp,Martin.public.md) 
 
-### [Hepp,Martin.protect](/_protect/Mathematics/Mathematicians/Hepp,Martin.protect.md) 
+### [Hepp,Martin.internal](/_internal/bio/People/Mathematician/Hepp,Martin.internal.md) 
 
-### [Hepp,Martin.private](/_private/Mathematics/Mathematicians/Hepp,Martin.private.md) 
+### [Hepp,Martin.protect](/_protect/bio/People/Mathematician/Hepp,Martin.protect.md) 
 
-### [Hepp,Martin.personal](/_personal/Mathematics/Mathematicians/Hepp,Martin.personal.md) 
+### [Hepp,Martin.private](/_private/bio/People/Mathematician/Hepp,Martin.private.md) 
 
-### [Hepp,Martin.secret](/_secret/Mathematics/Mathematicians/Hepp,Martin.secret.md) 
+### [Hepp,Martin.personal](/_personal/bio/People/Mathematician/Hepp,Martin.personal.md) 
+
+### [Hepp,Martin.secret](/_secret/bio/People/Mathematician/Hepp,Martin.secret.md)
+

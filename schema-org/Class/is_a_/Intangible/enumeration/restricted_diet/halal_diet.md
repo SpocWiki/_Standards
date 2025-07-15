@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet conforming to Islamic dietary practices.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [halal_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.md) 
+### [halal_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.md) 
+
+### [halal_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.public.md) 
 
 ### [halal_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet conforming to Islamic dietary practices.
 
 ### [halal_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.personal.md) 
 
-### [halal_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.secret.md) 
+### [halal_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/halal_diet.secret.md)
+

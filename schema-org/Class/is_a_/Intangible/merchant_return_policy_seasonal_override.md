@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A seasonal override of a return policy, for example used for holidays.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, merchantReturnDays, name, potentialAction, returnPolicyCategory, sameAs, startDate, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [merchant_return_policy_seasonal_override](/_public/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.md) 
+### [merchant_return_policy_seasonal_override](/_Standards/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.md) 
+
+### [merchant_return_policy_seasonal_override.public](/_public/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.public.md) 
 
 ### [merchant_return_policy_seasonal_override.internal](/_internal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.internal.md) 
 
@@ -56,4 +59,5 @@ A seasonal override of a return policy, for example used for holidays.
 
 ### [merchant_return_policy_seasonal_override.personal](/_personal/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.personal.md) 
 
-### [merchant_return_policy_seasonal_override.secret](/_secret/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.secret.md) 
+### [merchant_return_policy_seasonal_override.secret](/_secret/schema-org/Class/is_a_/Intangible/merchant_return_policy_seasonal_override.secret.md)
+

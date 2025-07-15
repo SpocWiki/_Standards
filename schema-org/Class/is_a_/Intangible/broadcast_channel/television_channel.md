@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [television_channel](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.md) 
+### [television_channel](/_Standards/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.md) 
+
+### [television_channel.public](/_public/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.public.md) 
 
 ### [television_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.internal.md) 
 
@@ -54,4 +57,5 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 ### [television_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.personal.md) 
 
-### [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md) 
+### [television_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/broadcast_channel/television_channel.secret.md)
+

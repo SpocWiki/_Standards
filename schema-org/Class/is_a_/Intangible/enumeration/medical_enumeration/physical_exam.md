@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A type of physical examination of a patient performed by a physician.
 
 [ #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [physical_exam](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.md) 
+### [physical_exam](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.md) 
+
+### [physical_exam.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.public.md) 
 
 ### [physical_exam.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.internal.md) 
 
@@ -54,4 +57,5 @@ A type of physical examination of a patient performed by a physician.
 
 ### [physical_exam.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.personal.md) 
 
-### [physical_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.secret.md) 
+### [physical_exam.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam.secret.md)
+

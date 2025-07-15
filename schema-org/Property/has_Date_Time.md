@@ -1,13 +1,16 @@
-﻿---
+---
 icon: date
 ---
 # Date_Times
 
 Class of [[../Predicate|Predicates]] with Date and / or Time. 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_Date_Time](/_public/schema-org/Property/has_Date_Time.md) 
+### [has_Date_Time](/_Standards/schema-org/Property/has_Date_Time.md) 
+
+### [has_Date_Time.public](/_public/schema-org/Property/has_Date_Time.public.md) 
 
 ### [has_Date_Time.internal](/_internal/schema-org/Property/has_Date_Time.internal.md) 
 
@@ -17,4 +20,5 @@ Class of [[../Predicate|Predicates]] with Date and / or Time.
 
 ### [has_Date_Time.personal](/_personal/schema-org/Property/has_Date_Time.personal.md) 
 
-### [has_Date_Time.secret](/_secret/schema-org/Property/has_Date_Time.secret.md) 
+### [has_Date_Time.secret](/_secret/schema-org/Property/has_Date_Time.secret.md)
+

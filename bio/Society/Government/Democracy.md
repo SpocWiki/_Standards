@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 has_id_wikidata: Q7174
 IPTC_NewsCode: mediatopic/20000654
 has_part_s_:
@@ -47,6 +48,56 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/Demokratie%20in%20Ath
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Election%20MG%203455.JPG"
 WordLift_URL: "http://data.thenextweb.com/tnw/entity/democracy"
 U_S_National_Archives_Identifier: 10638055
+=======
+has_id_wikidata: Q7174
+IPTC_NewsCode: mediatopic/20000654
+has_part_s_:
+- "[[_Standards/WikiData/WD~direct_democracy,171174]]"
+- "[[_Standards/WikiData/WD~representative_democracy,188759]]"
+- "[[_Standards/WikiData/WD~ethnic_democracy,3705343]]"
+- "[[_Standards/WikiData/WD~electoral_body,5290079]]"
+- '[[_Standards/WikiData/WD~president,30461]]'
+opposite_of: '[[_Standards/WikiData/WD~autocracy,173424]]'
+instance_of:
+- "[[_Standards/WikiData/WD~form_of_state,183039]]"
+- "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+uses:
+- '[[_Standards/WikiData/WD~voting,189760]]'
+- "[[_Standards/WikiData/WD~political_participation,2101513]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_democracy,587404]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory_(2010_ed.),20743760]]"
+- "[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]"
+- "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Democracy_sidebar,6820948]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_democracy,7112606]]"
+part_of: "[[_Standards/WikiData/WD~Plato's_five_regimes,7202412]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_democracy,25112605]]"
+UMLS_CUI: C0011283
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/EL-%CE%B4%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/De-Demokratie2.ogg"
+MeSH_tree_code: I01.696.374
+subclass_of: "[[_Standards/WikiData/WD~political_system,28108]]"
+OmegaWiki_Defined_Meaning: 871
+Colon_Classification: W6
+GitHub_topic: democracy
+PhilPapers_topic: democracy
+Commons_category: Democracy
+Basisklassifikation: 89.35
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Demokratie%20in%20Athen%20%28CC%20BY%204.0%29.webm"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Election%20MG%203455.JPG"
+WordLift_URL: "http://data.thenextweb.com/tnw/entity/democracy"
+U_S_National_Archives_Identifier: 10638055
+>>>>>>> 826a6bf0e9323e712c2fe68aa17344c8d7744cf5
 ---
 
 ## Types of Democracies
@@ -110,4 +161,23 @@ Each characteristic is given a binary distinction, representing possible alterna
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Democracy](/_Standards/bio/Society/Government/Democracy.md) 
+
+### [Democracy.public](/_public/bio/Society/Government/Democracy.public.md) 
+
+### [Democracy.internal](/_internal/bio/Society/Government/Democracy.internal.md) 
+
+### [Democracy.protect](/_protect/bio/Society/Government/Democracy.protect.md) 
+
+### [Democracy.private](/_private/bio/Society/Government/Democracy.private.md) 
+
+### [Democracy.personal](/_personal/bio/Society/Government/Democracy.personal.md) 
+
+### [Democracy.secret](/_secret/bio/Society/Government/Democracy.secret.md)
 

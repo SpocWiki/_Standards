@@ -58,3 +58,20 @@ Gujarati_Vishwakosh_entry: અગ્નિ-1-ઊર્જા
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fire)
 
+
+## Confidential Links & Embeds: 
+
+### [Fire](/_Standards/chemic/inOrganic/Fire.md) 
+
+### [Fire.public](/_public/chemic/inOrganic/Fire.public.md) 
+
+### [Fire.internal](/_internal/chemic/inOrganic/Fire.internal.md) 
+
+### [Fire.protect](/_protect/chemic/inOrganic/Fire.protect.md) 
+
+### [Fire.private](/_private/chemic/inOrganic/Fire.private.md) 
+
+### [Fire.personal](/_personal/chemic/inOrganic/Fire.personal.md) 
+
+### [Fire.secret](/_secret/chemic/inOrganic/Fire.secret.md)
+

@@ -67,3 +67,22 @@ Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License
 Copyright ::            © 2005 [Eric in SF](http://flickr.com/people/39312862@N00)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Berberidopsidales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.md) 
+
+### [Berberidopsidales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.public.md) 
+
+### [Berberidopsidales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.internal.md) 
+
+### [Berberidopsidales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.protect.md) 
+
+### [Berberidopsidales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.private.md) 
+
+### [Berberidopsidales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.personal.md) 
+
+### [Berberidopsidales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Berberidopsidales.secret.md)
+

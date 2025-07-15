@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.26 , 20.82 ] 
 type: geo-Region
 title: Kumlinge
@@ -41,7 +41,9 @@ markerFolder: ./Kumlinge/
 
 ## Confidential Links & Embeds: 
 
-### [Kumlinge](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.md) 
+### [Kumlinge](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.md) 
+
+### [Kumlinge.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.public.md) 
 
 ### [Kumlinge.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Kumlinge/
 
 ### [Kumlinge.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.personal.md) 
 
-### [Kumlinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.secret.md) 
+### [Kumlinge.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kumlinge.secret.md)
+

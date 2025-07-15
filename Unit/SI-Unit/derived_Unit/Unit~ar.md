@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~ar]] 
 
 Abbreviation of 'area' 
@@ -12,7 +12,9 @@ Abbreviation of 'area'
 
 ## Confidential Links & Embeds: 
 
-### [Unit~ar](/_public/Unit/SI-Unit/derived_Unit/Unit~ar.md) 
+### [Unit~ar](/_Standards/Unit/SI-Unit/derived_Unit/Unit~ar.md) 
+
+### [Unit~ar.public](/_public/Unit/SI-Unit/derived_Unit/Unit~ar.public.md) 
 
 ### [Unit~ar.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~ar.internal.md) 
 
@@ -22,4 +24,5 @@ Abbreviation of 'area'
 
 ### [Unit~ar.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~ar.personal.md) 
 
-### [Unit~ar.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~ar.secret.md) 
+### [Unit~ar.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~ar.secret.md)
+

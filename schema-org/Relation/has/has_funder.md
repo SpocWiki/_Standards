@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: sponsor ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_funder](/_public/schema-org/Relation/has/has_funder.md) 
+### [has_funder](/_Standards/schema-org/Relation/has/has_funder.md) 
+
+### [has_funder.public](/_public/schema-org/Relation/has/has_funder.public.md) 
 
 ### [has_funder.internal](/_internal/schema-org/Relation/has/has_funder.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_funder.personal](/_personal/schema-org/Relation/has/has_funder.personal.md) 
 
-### [has_funder.secret](/_secret/schema-org/Relation/has/has_funder.secret.md) 
+### [has_funder.secret](/_secret/schema-org/Relation/has/has_funder.secret.md)
+

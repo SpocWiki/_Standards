@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A golf course.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GolfCourse](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.md) 
+### [FileClass~GolfCourse](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.md) 
+
+### [FileClass~GolfCourse.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.public.md) 
 
 ### [FileClass~GolfCourse.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.internal.md) 
 
@@ -46,4 +47,5 @@ A golf course.
 
 ### [FileClass~GolfCourse.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.personal.md) 
 
-### [FileClass~GolfCourse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.secret.md) 
+### [FileClass~GolfCourse.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~GolfCourse.secret.md)
+

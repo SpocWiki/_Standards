@@ -470,9 +470,12 @@ Capital :: [[Chisinau]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Moldova)
 
+
 ## Confidential Links & Embeds: 
 
-### [Moldova](/_public/Earth/Continent/Europe/Europe~East/Moldova.md) 
+### [Moldova](/_Standards/Earth/Continent/Europe/Europe~East/Moldova.md) 
+
+### [Moldova.public](/_public/Earth/Continent/Europe/Europe~East/Moldova.public.md) 
 
 ### [Moldova.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal.md) 
 
@@ -482,4 +485,5 @@ Capital :: [[Chisinau]]
 
 ### [Moldova.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova.personal.md) 
 
-### [Moldova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret.md) 
+### [Moldova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret.md)
+

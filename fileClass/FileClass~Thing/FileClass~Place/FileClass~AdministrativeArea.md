@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -34,7 +34,9 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~AdministrativeArea](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.md) 
+### [FileClass~AdministrativeArea](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.md) 
+
+### [FileClass~AdministrativeArea.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.public.md) 
 
 ### [FileClass~AdministrativeArea.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.internal.md) 
 
@@ -44,4 +46,5 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ### [FileClass~AdministrativeArea.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.personal.md) 
 
-### [FileClass~AdministrativeArea.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.secret.md) 
+### [FileClass~AdministrativeArea.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.secret.md)
+

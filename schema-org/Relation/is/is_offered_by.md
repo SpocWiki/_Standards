@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../is/is_making_offer|makesOffer]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_offered_by](/_public/schema-org/Relation/is/is_offered_by.md) 
+### [is_offered_by](/_Standards/schema-org/Relation/is/is_offered_by.md) 
+
+### [is_offered_by.public](/_public/schema-org/Relation/is/is_offered_by.public.md) 
 
 ### [is_offered_by.internal](/_internal/schema-org/Relation/is/is_offered_by.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_offered_by.personal](/_personal/schema-org/Relation/is/is_offered_by.personal.md) 
 
-### [is_offered_by.secret](/_secret/schema-org/Relation/is/is_offered_by.secret.md) 
+### [is_offered_by.secret](/_secret/schema-org/Relation/is/is_offered_by.secret.md)
+

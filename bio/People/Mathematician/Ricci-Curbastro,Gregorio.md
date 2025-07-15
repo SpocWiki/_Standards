@@ -23,18 +23,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gregorio%20Ricci-Curbastro)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Gregorio Ricci-Curbastro](/_public/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.md) 
+### [Ricci-Curbastro,Gregorio](/_Standards/bio/People/Mathematician/Ricci-Curbastro,Gregorio.md) 
 
-### [Gregorio Ricci-Curbastro.internal](/_internal/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.internal.md) 
+### [Ricci-Curbastro,Gregorio.public](/_public/bio/People/Mathematician/Ricci-Curbastro,Gregorio.public.md) 
 
-### [Gregorio Ricci-Curbastro.protect](/_protect/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.protect.md) 
+### [Ricci-Curbastro,Gregorio.internal](/_internal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.internal.md) 
 
-### [Gregorio Ricci-Curbastro.private](/_private/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.private.md) 
+### [Ricci-Curbastro,Gregorio.protect](/_protect/bio/People/Mathematician/Ricci-Curbastro,Gregorio.protect.md) 
 
-### [Gregorio Ricci-Curbastro.personal](/_personal/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.personal.md) 
+### [Ricci-Curbastro,Gregorio.private](/_private/bio/People/Mathematician/Ricci-Curbastro,Gregorio.private.md) 
 
-### [Gregorio Ricci-Curbastro.secret](/_secret/Mathematics/Mathematicians/Gregorio Ricci-Curbastro.secret.md) 
+### [Ricci-Curbastro,Gregorio.personal](/_personal/bio/People/Mathematician/Ricci-Curbastro,Gregorio.personal.md) 
+
+### [Ricci-Curbastro,Gregorio.secret](/_secret/bio/People/Mathematician/Ricci-Curbastro,Gregorio.secret.md)
+

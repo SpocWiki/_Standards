@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -347,9 +347,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_North-America-CityDB](/_public/Earth/Continent/America~North/_North-America-CityDB.md) 
+### [_North-America-CityDB](/_Standards/Earth/Continent/America~North/_North-America-CityDB.md) 
+
+### [_North-America-CityDB.public](/_public/Earth/Continent/America~North/_North-America-CityDB.public.md) 
 
 ### [_North-America-CityDB.internal](/_internal/Earth/Continent/America~North/_North-America-CityDB.internal.md) 
 
@@ -359,4 +362,5 @@ filters:
 
 ### [_North-America-CityDB.personal](/_personal/Earth/Continent/America~North/_North-America-CityDB.personal.md) 
 
-### [_North-America-CityDB.secret](/_secret/Earth/Continent/America~North/_North-America-CityDB.secret.md) 
+### [_North-America-CityDB.secret](/_secret/Earth/Continent/America~North/_North-America-CityDB.secret.md)
+

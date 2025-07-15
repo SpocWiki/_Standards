@@ -21,9 +21,12 @@ has_id_wikidata: Q33199
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Austroasiatic%20languages)
 
+
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Austro-Asiatic](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic.md) 
+### [LangFamily-Austro-Asiatic](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic.md) 
+
+### [LangFamily-Austro-Asiatic.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic.public.md) 
 
 ### [LangFamily-Austro-Asiatic.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic.internal.md) 
 
@@ -33,4 +36,5 @@ has_id_wikidata: Q33199
 
 ### [LangFamily-Austro-Asiatic.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic.personal.md) 
 
-### [LangFamily-Austro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic.secret.md) 
+### [LangFamily-Austro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic.secret.md)
+

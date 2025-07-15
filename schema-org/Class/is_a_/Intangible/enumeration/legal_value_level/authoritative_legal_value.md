@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates that the publisher gives some special status to the publication of the
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [authoritative_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.md) 
+### [authoritative_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.md) 
+
+### [authoritative_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.public.md) 
 
 ### [authoritative_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates that the publisher gives some special status to the publication of the
 
 ### [authoritative_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.personal.md) 
 
-### [authoritative_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.secret.md) 
+### [authoritative_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/authoritative_legal_value.secret.md)
+

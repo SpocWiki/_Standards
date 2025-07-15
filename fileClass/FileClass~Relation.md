@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 100
 mapWithTag: true
 icon: external-link
@@ -35,7 +35,9 @@ has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Relation](/_public/fileClass/FileClass~Relation.md) 
+### [FileClass~Relation](/_Standards/fileClass/FileClass~Relation.md) 
+
+### [FileClass~Relation.public](/_public/fileClass/FileClass~Relation.public.md) 
 
 ### [FileClass~Relation.internal](/_internal/fileClass/FileClass~Relation.internal.md) 
 
@@ -45,4 +47,5 @@ has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')
 
 ### [FileClass~Relation.personal](/_personal/fileClass/FileClass~Relation.personal.md) 
 
-### [FileClass~Relation.secret](/_secret/fileClass/FileClass~Relation.secret.md) 
+### [FileClass~Relation.secret](/_secret/fileClass/FileClass~Relation.secret.md)
+

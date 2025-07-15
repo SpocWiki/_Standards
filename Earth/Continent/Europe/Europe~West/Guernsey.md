@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.45
 - -2.55
@@ -122,10 +122,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::49.45]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Guernsey](/_public/Earth/Continent/Europe/Europe~West/Guernsey.md) 
+### [Guernsey](/_Standards/Earth/Continent/Europe/Europe~West/Guernsey.md) 
+
+### [Guernsey.public](/_public/Earth/Continent/Europe/Europe~West/Guernsey.public.md) 
 
 ### [Guernsey.internal](/_internal/Earth/Continent/Europe/Europe~West/Guernsey.internal.md) 
 
@@ -135,4 +136,5 @@ has_place_continent:: [[Europe]]
 
 ### [Guernsey.personal](/_personal/Earth/Continent/Europe/Europe~West/Guernsey.personal.md) 
 
-### [Guernsey.secret](/_secret/Earth/Continent/Europe/Europe~West/Guernsey.secret.md) 
+### [Guernsey.secret](/_secret/Earth/Continent/Europe/Europe~West/Guernsey.secret.md)
+

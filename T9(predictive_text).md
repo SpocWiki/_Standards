@@ -1,4 +1,4 @@
-﻿
+
 # [[T9(predictive_text)]]
 
 > T9 is a predictive text technology for mobile phones 
@@ -40,7 +40,9 @@ Key-Mapping:
 
 ## Confidential Links & Embeds: 
 
-### [T9(predictive_text)](/_public/T9(predictive_text).md) 
+### [T9(predictive_text)](/_Standards/T9(predictive_text).md) 
+
+### [T9(predictive_text).public](/_public/T9(predictive_text).public.md) 
 
 ### [T9(predictive_text).internal](/_internal/T9(predictive_text).internal.md) 
 
@@ -50,4 +52,5 @@ Key-Mapping:
 
 ### [T9(predictive_text).personal](/_personal/T9(predictive_text).personal.md) 
 
-### [T9(predictive_text).secret](/_secret/T9(predictive_text).secret.md) 
+### [T9(predictive_text).secret](/_secret/T9(predictive_text).secret.md)
+

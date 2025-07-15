@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21921
 has_id_wikidata: Q706
@@ -157,9 +157,12 @@ PubChem_CID: 5460341
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Calcium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.md) 
+### [Calcium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.md) 
+
+### [Calcium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.public.md) 
 
 ### [Calcium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
 
@@ -169,4 +172,5 @@ PubChem_CID: 5460341
 
 ### [Calcium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
 
-### [Calcium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.secret.md) 
+### [Calcium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.secret.md)
+

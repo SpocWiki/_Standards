@@ -1,4 +1,4 @@
-﻿
+
 # [[Simón_Bolívar]] 
 
 > Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco 
@@ -67,7 +67,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Simón_Bolívar](/_public/Earth/Continent/America~South/Simón_Bolívar.md) 
+### [Simón_Bolívar](/_Standards/Earth/Continent/America~South/Simón_Bolívar.md) 
+
+### [Simón_Bolívar.public](/_public/Earth/Continent/America~South/Simón_Bolívar.public.md) 
 
 ### [Simón_Bolívar.internal](/_internal/Earth/Continent/America~South/Simón_Bolívar.internal.md) 
 
@@ -77,4 +79,5 @@
 
 ### [Simón_Bolívar.personal](/_personal/Earth/Continent/America~South/Simón_Bolívar.personal.md) 
 
-### [Simón_Bolívar.secret](/_secret/Earth/Continent/America~South/Simón_Bolívar.secret.md) 
+### [Simón_Bolívar.secret](/_secret/Earth/Continent/America~South/Simón_Bolívar.secret.md)
+

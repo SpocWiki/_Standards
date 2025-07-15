@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_first_performance )
 ( #has_/range :: Event )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_first_performance](/_public/schema-org/Relation/has/has_first_performance.md) 
+### [has_first_performance](/_Standards/schema-org/Relation/has/has_first_performance.md) 
+
+### [has_first_performance.public](/_public/schema-org/Relation/has/has_first_performance.public.md) 
 
 ### [has_first_performance.internal](/_internal/schema-org/Relation/has/has_first_performance.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_first_performance.personal](/_personal/schema-org/Relation/has/has_first_performance.personal.md) 
 
-### [has_first_performance.secret](/_secret/schema-org/Relation/has/has_first_performance.secret.md) 
+### [has_first_performance.secret](/_secret/schema-org/Relation/has/has_first_performance.secret.md)
+

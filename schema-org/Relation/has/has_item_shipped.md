@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_item_shipped )
 ( #has_/range :: Product )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_item_shipped](/_public/schema-org/Relation/has/has_item_shipped.md) 
+### [has_item_shipped](/_Standards/schema-org/Relation/has/has_item_shipped.md) 
+
+### [has_item_shipped.public](/_public/schema-org/Relation/has/has_item_shipped.public.md) 
 
 ### [has_item_shipped.internal](/_internal/schema-org/Relation/has/has_item_shipped.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_item_shipped.personal](/_personal/schema-org/Relation/has/has_item_shipped.personal.md) 
 
-### [has_item_shipped.secret](/_secret/schema-org/Relation/has/has_item_shipped.secret.md) 
+### [has_item_shipped.secret](/_secret/schema-org/Relation/has/has_item_shipped.secret.md)
+

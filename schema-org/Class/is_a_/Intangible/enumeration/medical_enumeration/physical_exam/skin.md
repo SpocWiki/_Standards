@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Skin assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [skin](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.md) 
+### [skin](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.md) 
+
+### [skin.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.public.md) 
 
 ### [skin.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.internal.md) 
 
@@ -56,4 +59,5 @@ Skin assessment with clinical examination.
 
 ### [skin.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.personal.md) 
 
-### [skin.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.secret.md) 
+### [skin.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/skin.secret.md)
+

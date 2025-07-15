@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A chemical or biologic substance, used as a medical therapy, that has a physiolo
 
 [ #has_/properties :: [ activeIngredient, additionalProperty, additionalType, administrationRoute, aggregateRating, alcoholWarning, alternateName, asin, audience, availableStrength, award, awards, brand, breastfeedingWarning, category, clincalPharmacology, clinicalPharmacology, code, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, dosageForm, doseSchedule, drugClass, drugUnit, foodWarning, funding, gtin, gtin12, gtin13, gtin14, gtin8, guideline, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, includedInHealthInsurancePlan, interactingDrug, isAccessoryOrSparePartFor, isAvailableGenerically, isConsumableFor, isFamilyFriendly, isProprietary, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, labelDetails, legalStatus, logo, mainEntityOfPage, manufacturer, material, maximumIntake, mechanismOfAction, medicineSystem, mobileUrl, model, mpn, name, negativeNotes, nonProprietaryName, nsn, offers, overdosage, pattern, positiveNotes, potentialAction, pregnancyCategory, pregnancyWarning, prescribingInfo, prescriptionStatus, productID, productionDate, proprietaryName, purchaseDate, recognizingAuthority, relatedDrug, releaseDate, relevantSpecialty, review, reviews, rxcui, sameAs, size, sku, slogan, study, subjectOf, url, warning, weight, width ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug](/_public/schema-org/Class/is_a_/product/drug.md) 
+### [drug](/_Standards/schema-org/Class/is_a_/product/drug.md) 
+
+### [drug.public](/_public/schema-org/Class/is_a_/product/drug.public.md) 
 
 ### [drug.internal](/_internal/schema-org/Class/is_a_/product/drug.internal.md) 
 
@@ -56,4 +59,5 @@ A chemical or biologic substance, used as a medical therapy, that has a physiolo
 
 ### [drug.personal](/_personal/schema-org/Class/is_a_/product/drug.personal.md) 
 
-### [drug.secret](/_secret/schema-org/Class/is_a_/product/drug.secret.md) 
+### [drug.secret](/_secret/schema-org/Class/is_a_/product/drug.secret.md)
+

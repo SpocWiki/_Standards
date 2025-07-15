@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Formal Predicate:
 (name::has_time_destroyed)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_destroyed](/_public/schema-org/Property/has_Date_Time/has_time_destroyed.md) 
+### [has_time_destroyed](/_Standards/schema-org/Property/has_Date_Time/has_time_destroyed.md) 
+
+### [has_time_destroyed.public](/_public/schema-org/Property/has_Date_Time/has_time_destroyed.public.md) 
 
 ### [has_time_destroyed.internal](/_internal/schema-org/Property/has_Date_Time/has_time_destroyed.internal.md) 
 
@@ -61,4 +64,5 @@ Formal Predicate:
 
 ### [has_time_destroyed.personal](/_personal/schema-org/Property/has_Date_Time/has_time_destroyed.personal.md) 
 
-### [has_time_destroyed.secret](/_secret/schema-org/Property/has_Date_Time/has_time_destroyed.secret.md) 
+### [has_time_destroyed.secret](/_secret/schema-org/Property/has_Date_Time/has_time_destroyed.secret.md)
+

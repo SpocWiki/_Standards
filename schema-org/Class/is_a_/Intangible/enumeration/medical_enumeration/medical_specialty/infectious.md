@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [infectious](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.md) 
+### [infectious](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.md) 
+
+### [infectious.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.public.md) 
 
 ### [infectious.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.internal.md) 
 
@@ -56,4 +59,5 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 ### [infectious.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.personal.md) 
 
-### [infectious.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.secret.md) 
+### [infectious.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/infectious.secret.md)
+

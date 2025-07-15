@@ -1,4 +1,4 @@
-﻿---
+---
 type: Type
 license: "CC BY-SA 4.0"
 publish: true
@@ -119,7 +119,9 @@ unlike Structs / Objects  on the [[Call-Stack]].
 
 ## Confidential Links & Embeds: 
 
-### [Thing](/_public/schema-org/Class/Thing.md) 
+### [Thing](/_Standards/schema-org/Class/Thing.md) 
+
+### [Thing.public](/_public/schema-org/Class/Thing.public.md) 
 
 ### [Thing.internal](/_internal/schema-org/Class/Thing.internal.md) 
 
@@ -129,4 +131,5 @@ unlike Structs / Objects  on the [[Call-Stack]].
 
 ### [Thing.personal](/_personal/schema-org/Class/Thing.personal.md) 
 
-### [Thing.secret](/_secret/schema-org/Class/Thing.secret.md) 
+### [Thing.secret](/_secret/schema-org/Class/Thing.secret.md)
+

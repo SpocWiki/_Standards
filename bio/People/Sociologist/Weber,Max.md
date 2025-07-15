@@ -149,3 +149,22 @@ date_of_birth: "1864-04-21"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Weber,Max](/_Standards/bio/People/Sociologist/Weber,Max.md) 
+
+### [Weber,Max.public](/_public/bio/People/Sociologist/Weber,Max.public.md) 
+
+### [Weber,Max.internal](/_internal/bio/People/Sociologist/Weber,Max.internal.md) 
+
+### [Weber,Max.protect](/_protect/bio/People/Sociologist/Weber,Max.protect.md) 
+
+### [Weber,Max.private](/_private/bio/People/Sociologist/Weber,Max.private.md) 
+
+### [Weber,Max.personal](/_personal/bio/People/Sociologist/Weber,Max.personal.md) 
+
+### [Weber,Max.secret](/_secret/bio/People/Sociologist/Weber,Max.secret.md)
+

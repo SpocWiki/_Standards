@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_operating_system )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_operating_system](/_public/schema-org/Property/Texts/has_operating_system.md) 
+### [has_operating_system](/_Standards/schema-org/Property/Texts/has_operating_system.md) 
+
+### [has_operating_system.public](/_public/schema-org/Property/Texts/has_operating_system.public.md) 
 
 ### [has_operating_system.internal](/_internal/schema-org/Property/Texts/has_operating_system.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_operating_system.personal](/_personal/schema-org/Property/Texts/has_operating_system.personal.md) 
 
-### [has_operating_system.secret](/_secret/schema-org/Property/Texts/has_operating_system.secret.md) 
+### [has_operating_system.secret](/_secret/schema-org/Property/Texts/has_operating_system.secret.md)
+

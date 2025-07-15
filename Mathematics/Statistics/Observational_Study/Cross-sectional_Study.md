@@ -43,3 +43,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cross-sectional%20study) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cross-sectional_Study](/_Standards/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.md) 
+
+### [Cross-sectional_Study.public](/_public/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.public.md) 
+
+### [Cross-sectional_Study.internal](/_internal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.internal.md) 
+
+### [Cross-sectional_Study.protect](/_protect/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.protect.md) 
+
+### [Cross-sectional_Study.private](/_private/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.private.md) 
+
+### [Cross-sectional_Study.personal](/_personal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.personal.md) 
+
+### [Cross-sectional_Study.secret](/_secret/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.secret.md)
+

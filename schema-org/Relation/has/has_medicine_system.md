@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_medicine_system )
 ( #has_/range :: MedicineSystem )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_medicine_system](/_public/schema-org/Relation/has/has_medicine_system.md) 
+### [has_medicine_system](/_Standards/schema-org/Relation/has/has_medicine_system.md) 
+
+### [has_medicine_system.public](/_public/schema-org/Relation/has/has_medicine_system.public.md) 
 
 ### [has_medicine_system.internal](/_internal/schema-org/Relation/has/has_medicine_system.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_medicine_system.personal](/_personal/schema-org/Relation/has/has_medicine_system.personal.md) 
 
-### [has_medicine_system.secret](/_secret/schema-org/Relation/has/has_medicine_system.secret.md) 
+### [has_medicine_system.secret](/_secret/schema-org/Relation/has/has_medicine_system.secret.md)
+

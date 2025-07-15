@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_specialty )
 ( #has_/range :: Specialty )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_specialty](/_public/schema-org/Relation/has/has_specialty.md) 
+### [has_specialty](/_Standards/schema-org/Relation/has/has_specialty.md) 
+
+### [has_specialty.public](/_public/schema-org/Relation/has/has_specialty.public.md) 
 
 ### [has_specialty.internal](/_internal/schema-org/Relation/has/has_specialty.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_specialty.personal](/_personal/schema-org/Relation/has/has_specialty.personal.md) 
 
-### [has_specialty.secret](/_secret/schema-org/Relation/has/has_specialty.secret.md) 
+### [has_specialty.secret](/_secret/schema-org/Relation/has/has_specialty.secret.md)
+

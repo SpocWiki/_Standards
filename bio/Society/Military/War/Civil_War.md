@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Civil war"
 has_id_wikidata: Q8465
@@ -35,4 +35,23 @@ PhilPapers_topic: civil-war
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Civil_War](/_Standards/bio/Society/Military/War/Civil_War.md) 
+
+### [Civil_War.public](/_public/bio/Society/Military/War/Civil_War.public.md) 
+
+### [Civil_War.internal](/_internal/bio/Society/Military/War/Civil_War.internal.md) 
+
+### [Civil_War.protect](/_protect/bio/Society/Military/War/Civil_War.protect.md) 
+
+### [Civil_War.private](/_private/bio/Society/Military/War/Civil_War.private.md) 
+
+### [Civil_War.personal](/_personal/bio/Society/Military/War/Civil_War.personal.md) 
+
+### [Civil_War.secret](/_secret/bio/Society/Military/War/Civil_War.secret.md)
 

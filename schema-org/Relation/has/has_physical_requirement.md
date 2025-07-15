@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_physical_requirement )
 ( #has_/range :: DefinedTerm, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_physical_requirement](/_public/schema-org/Relation/has/has_physical_requirement.md) 
+### [has_physical_requirement](/_Standards/schema-org/Relation/has/has_physical_requirement.md) 
+
+### [has_physical_requirement.public](/_public/schema-org/Relation/has/has_physical_requirement.public.md) 
 
 ### [has_physical_requirement.internal](/_internal/schema-org/Relation/has/has_physical_requirement.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_physical_requirement.personal](/_personal/schema-org/Relation/has/has_physical_requirement.personal.md) 
 
-### [has_physical_requirement.secret](/_secret/schema-org/Relation/has/has_physical_requirement.secret.md) 
+### [has_physical_requirement.secret](/_secret/schema-org/Relation/has/has_physical_requirement.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A city hall.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [city_hall](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.md) 
+### [city_hall](/_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.md) 
+
+### [city_hall.public](/_public/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.public.md) 
 
 ### [city_hall.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.internal.md) 
 
@@ -54,4 +57,5 @@ A city hall.
 
 ### [city_hall.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.personal.md) 
 
-### [city_hall.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md) 
+### [city_hall.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md)
+

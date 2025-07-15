@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The payment is due, but still within an acceptable time to be received.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [payment_due](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.md) 
+### [payment_due](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.md) 
+
+### [payment_due.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.public.md) 
 
 ### [payment_due.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.internal.md) 
 
@@ -56,4 +59,5 @@ The payment is due, but still within an acceptable time to be received.
 
 ### [payment_due.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.personal.md) 
 
-### [payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.secret.md) 
+### [payment_due.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/payment_status_type/payment_due.secret.md)
+

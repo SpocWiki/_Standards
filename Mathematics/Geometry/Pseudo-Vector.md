@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - axial vector
 ---
@@ -51,12 +51,11 @@ compared to a true [[Scalar]] or [[Tensor]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Vector](/_public/Mathematics/Geometry/Pseudo-Vector.md) 
+### [Pseudo-Vector](/_Standards/Mathematics/Geometry/Pseudo-Vector.md) 
+
+### [Pseudo-Vector.public](/_public/Mathematics/Geometry/Pseudo-Vector.public.md) 
 
 ### [Pseudo-Vector.internal](/_internal/Mathematics/Geometry/Pseudo-Vector.internal.md) 
 
@@ -66,4 +65,5 @@ compared to a true [[Scalar]] or [[Tensor]].
 
 ### [Pseudo-Vector.personal](/_personal/Mathematics/Geometry/Pseudo-Vector.personal.md) 
 
-### [Pseudo-Vector.secret](/_secret/Mathematics/Geometry/Pseudo-Vector.secret.md) 
+### [Pseudo-Vector.secret](/_secret/Mathematics/Geometry/Pseudo-Vector.secret.md)
+

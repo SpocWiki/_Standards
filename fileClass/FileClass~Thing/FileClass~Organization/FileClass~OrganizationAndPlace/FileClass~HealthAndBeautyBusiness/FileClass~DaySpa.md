@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A day spa.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DaySpa](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.md) 
+### [FileClass~DaySpa](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.md) 
+
+### [FileClass~DaySpa.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.public.md) 
 
 ### [FileClass~DaySpa.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.internal.md) 
 
@@ -46,4 +47,5 @@ A day spa.
 
 ### [FileClass~DaySpa.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.personal.md) 
 
-### [FileClass~DaySpa.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.secret.md) 
+### [FileClass~DaySpa.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~DaySpa.secret.md)
+

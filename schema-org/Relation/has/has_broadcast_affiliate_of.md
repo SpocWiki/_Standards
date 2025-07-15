@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_broadcast_affiliate_of )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_affiliate_of](/_public/schema-org/Relation/has/has_broadcast_affiliate_of.md) 
+### [has_broadcast_affiliate_of](/_Standards/schema-org/Relation/has/has_broadcast_affiliate_of.md) 
+
+### [has_broadcast_affiliate_of.public](/_public/schema-org/Relation/has/has_broadcast_affiliate_of.public.md) 
 
 ### [has_broadcast_affiliate_of.internal](/_internal/schema-org/Relation/has/has_broadcast_affiliate_of.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_broadcast_affiliate_of.personal](/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal.md) 
 
-### [has_broadcast_affiliate_of.secret](/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret.md) 
+### [has_broadcast_affiliate_of.secret](/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret.md)
+

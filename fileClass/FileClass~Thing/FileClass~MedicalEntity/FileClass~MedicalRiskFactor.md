@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The condition, complication, etc. influenced by this factor.
 IncreasesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalRiskFactor](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.md) 
+### [FileClass~MedicalRiskFactor](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.md) 
+
+### [FileClass~MedicalRiskFactor.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.public.md) 
 
 ### [FileClass~MedicalRiskFactor.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.internal.md) 
 
@@ -57,4 +58,5 @@ IncreasesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~MedicalRiskFactor.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.personal.md) 
 
-### [FileClass~MedicalRiskFactor.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.secret.md) 
+### [FileClass~MedicalRiskFactor.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskFactor.secret.md)
+

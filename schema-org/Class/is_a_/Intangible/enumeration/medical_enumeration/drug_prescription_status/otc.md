@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ The character of a medical substance, typically a medicine, of being available o
 
 [ #is_/enum_of :: [[../DrugPrescriptionStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [otc](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md) 
+### [otc](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md) 
+
+### [otc.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.public.md) 
 
 ### [otc.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.internal.md) 
 
@@ -55,4 +58,5 @@ The character of a medical substance, typically a medicine, of being available o
 
 ### [otc.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.personal.md) 
 
-### [otc.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.secret.md) 
+### [otc.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/otc.secret.md)
+

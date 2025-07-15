@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_shipping_destination )
 ( #has_/range :: DefinedRegion )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_shipping_destination](/_public/schema-org/Relation/has/has_shipping_destination.md) 
+### [has_shipping_destination](/_Standards/schema-org/Relation/has/has_shipping_destination.md) 
+
+### [has_shipping_destination.public](/_public/schema-org/Relation/has/has_shipping_destination.public.md) 
 
 ### [has_shipping_destination.internal](/_internal/schema-org/Relation/has/has_shipping_destination.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_shipping_destination.personal](/_personal/schema-org/Relation/has/has_shipping_destination.personal.md) 
 
-### [has_shipping_destination.secret](/_secret/schema-org/Relation/has/has_shipping_destination.secret.md) 
+### [has_shipping_destination.secret](/_secret/schema-org/Relation/has/has_shipping_destination.secret.md)
+

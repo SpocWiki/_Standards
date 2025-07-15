@@ -525,9 +525,12 @@ Capital :: [[Accra]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ghana)
 
+
 ## Confidential Links & Embeds: 
 
-### [Ghana](/_public/Earth/Continent/Africa/Africa~West/Ghana.md) 
+### [Ghana](/_Standards/Earth/Continent/Africa/Africa~West/Ghana.md) 
+
+### [Ghana.public](/_public/Earth/Continent/Africa/Africa~West/Ghana.public.md) 
 
 ### [Ghana.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal.md) 
 
@@ -537,4 +540,5 @@ Capital :: [[Accra]]
 
 ### [Ghana.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal.md) 
 
-### [Ghana.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret.md) 
+### [Ghana.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_loan_recourseable )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_loan_recourseable](/_public/schema-org/Property/Flags/is_loan_recourseable.md) 
+### [is_loan_recourseable](/_Standards/schema-org/Property/Flags/is_loan_recourseable.md) 
+
+### [is_loan_recourseable.public](/_public/schema-org/Property/Flags/is_loan_recourseable.public.md) 
 
 ### [is_loan_recourseable.internal](/_internal/schema-org/Property/Flags/is_loan_recourseable.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_loan_recourseable.personal](/_personal/schema-org/Property/Flags/is_loan_recourseable.personal.md) 
 
-### [is_loan_recourseable.secret](/_secret/schema-org/Property/Flags/is_loan_recourseable.secret.md) 
+### [is_loan_recourseable.secret](/_secret/schema-org/Property/Flags/is_loan_recourseable.secret.md)
+

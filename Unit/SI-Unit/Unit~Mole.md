@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Mole]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -38,7 +38,9 @@ Unit :: #Unit/SI/mol
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Mole](/_public/Unit/SI-Unit/Unit~Mole.md) 
+### [Unit~Mole](/_Standards/Unit/SI-Unit/Unit~Mole.md) 
+
+### [Unit~Mole.public](/_public/Unit/SI-Unit/Unit~Mole.public.md) 
 
 ### [Unit~Mole.internal](/_internal/Unit/SI-Unit/Unit~Mole.internal.md) 
 
@@ -48,4 +50,5 @@ Unit :: #Unit/SI/mol
 
 ### [Unit~Mole.personal](/_personal/Unit/SI-Unit/Unit~Mole.personal.md) 
 
-### [Unit~Mole.secret](/_secret/Unit/SI-Unit/Unit~Mole.secret.md) 
+### [Unit~Mole.secret](/_secret/Unit/SI-Unit/Unit~Mole.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_code](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.md) 
+### [medical_code](/_Standards/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.md) 
+
+### [medical_code.public](/_public/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.public.md) 
 
 ### [medical_code.internal](/_internal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.internal.md) 
 
@@ -52,4 +55,5 @@ Tag Instances like this:
 
 ### [medical_code.personal](/_personal/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.personal.md) 
 
-### [medical_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.secret.md) 
+### [medical_code.secret](/_secret/schema-org/Class/is_a_/Intangible/defined_term/category_code/medical_code.secret.md)
+

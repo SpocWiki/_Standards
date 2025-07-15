@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_customer )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_customer](/_public/schema-org/Relation/has/has_customer.md) 
+### [has_customer](/_Standards/schema-org/Relation/has/has_customer.md) 
+
+### [has_customer.public](/_public/schema-org/Relation/has/has_customer.public.md) 
 
 ### [has_customer.internal](/_internal/schema-org/Relation/has/has_customer.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_customer.personal](/_personal/schema-org/Relation/has/has_customer.personal.md) 
 
-### [has_customer.secret](/_secret/schema-org/Relation/has/has_customer.secret.md) 
+### [has_customer.secret](/_secret/schema-org/Relation/has/has_customer.secret.md)
+

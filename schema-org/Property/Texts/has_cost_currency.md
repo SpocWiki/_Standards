@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_cost_currency )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cost_currency](/_public/schema-org/Property/Texts/has_cost_currency.md) 
+### [has_cost_currency](/_Standards/schema-org/Property/Texts/has_cost_currency.md) 
+
+### [has_cost_currency.public](/_public/schema-org/Property/Texts/has_cost_currency.public.md) 
 
 ### [has_cost_currency.internal](/_internal/schema-org/Property/Texts/has_cost_currency.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_cost_currency.personal](/_personal/schema-org/Property/Texts/has_cost_currency.personal.md) 
 
-### [has_cost_currency.secret](/_secret/schema-org/Property/Texts/has_cost_currency.secret.md) 
+### [has_cost_currency.secret](/_secret/schema-org/Property/Texts/has_cost_currency.secret.md)
+

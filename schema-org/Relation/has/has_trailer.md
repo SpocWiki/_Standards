@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_trailer )
 ( #has_/range :: VideoObject )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_trailer](/_public/schema-org/Relation/has/has_trailer.md) 
+### [has_trailer](/_Standards/schema-org/Relation/has/has_trailer.md) 
+
+### [has_trailer.public](/_public/schema-org/Relation/has/has_trailer.public.md) 
 
 ### [has_trailer.internal](/_internal/schema-org/Relation/has/has_trailer.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_trailer.personal](/_personal/schema-org/Relation/has/has_trailer.personal.md) 
 
-### [has_trailer.secret](/_secret/schema-org/Relation/has/has_trailer.secret.md) 
+### [has_trailer.secret](/_secret/schema-org/Relation/has/has_trailer.secret.md)
+

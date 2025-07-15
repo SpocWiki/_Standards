@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A television station.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TelevisionStation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.md) 
+### [FileClass~TelevisionStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.md) 
+
+### [FileClass~TelevisionStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.public.md) 
 
 ### [FileClass~TelevisionStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.internal.md) 
 
@@ -46,4 +47,5 @@ A television station.
 
 ### [FileClass~TelevisionStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.personal.md) 
 
-### [FileClass~TelevisionStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.secret.md) 
+### [FileClass~TelevisionStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TelevisionStation.secret.md)
+

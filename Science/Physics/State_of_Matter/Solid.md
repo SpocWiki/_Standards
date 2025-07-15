@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11438
 different_from:
 - "[[_Standards/WikiData/WD~physical_object,223557]]"
@@ -30,4 +30,23 @@ Commons_category: "Solids (matter)"
 > The branch of physics that deals with solids is called solid-state physics, and is the main branch of condensed matter physics (which also includes liquids). Materials science is primarily concerned with the physical and chemical properties of solids. Solid-state chemistry is especially concerned with the synthesis of novel materials, as well as the science of identification and chemical composition.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solid)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Solid](/_Standards/Science/Physics/State_of_Matter/Solid.md) 
+
+### [Solid.public](/_public/Science/Physics/State_of_Matter/Solid.public.md) 
+
+### [Solid.internal](/_internal/Science/Physics/State_of_Matter/Solid.internal.md) 
+
+### [Solid.protect](/_protect/Science/Physics/State_of_Matter/Solid.protect.md) 
+
+### [Solid.private](/_private/Science/Physics/State_of_Matter/Solid.private.md) 
+
+### [Solid.personal](/_personal/Science/Physics/State_of_Matter/Solid.personal.md) 
+
+### [Solid.secret](/_secret/Science/Physics/State_of_Matter/Solid.secret.md)
 

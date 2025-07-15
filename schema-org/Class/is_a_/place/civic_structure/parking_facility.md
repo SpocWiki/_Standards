@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A parking lot or other parking facility.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parking_facility](/_public/schema-org/Class/is_a_/place/civic_structure/parking_facility.md) 
+### [parking_facility](/_Standards/schema-org/Class/is_a_/place/civic_structure/parking_facility.md) 
+
+### [parking_facility.public](/_public/schema-org/Class/is_a_/place/civic_structure/parking_facility.public.md) 
 
 ### [parking_facility.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/parking_facility.internal.md) 
 
@@ -54,4 +57,5 @@ A parking lot or other parking facility.
 
 ### [parking_facility.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/parking_facility.personal.md) 
 
-### [parking_facility.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/parking_facility.secret.md) 
+### [parking_facility.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/parking_facility.secret.md)
+

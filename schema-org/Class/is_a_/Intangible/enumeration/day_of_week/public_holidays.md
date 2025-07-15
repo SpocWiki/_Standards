@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [public_holidays](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.md) 
+### [public_holidays](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.md) 
+
+### [public_holidays.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.public.md) 
 
 ### [public_holidays.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.internal.md) 
 
@@ -56,4 +59,5 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 ### [public_holidays.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.personal.md) 
 
-### [public_holidays.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.secret.md) 
+### [public_holidays.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/public_holidays.secret.md)
+

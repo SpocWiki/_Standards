@@ -114,3 +114,22 @@ Comments            Pine Hill Fremontia (/Malvoideae)
 Creator             Photograph by G. F. Hrusa
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Core_Malvales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.md) 
+
+### [Core_Malvales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.public.md) 
+
+### [Core_Malvales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.internal.md) 
+
+### [Core_Malvales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.protect.md) 
+
+### [Core_Malvales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.private.md) 
+
+### [Core_Malvales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.personal.md) 
+
+### [Core_Malvales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Core_Malvales.secret.md)
+

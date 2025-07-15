@@ -462,3 +462,22 @@ Scientific Name ::     Astropecten irregularis (Paxillosida)
 Location ::           Lauvsnes - North Trøndelag, Norway, 12 meters
 Specimen Condition   Live Specimen
 Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Asteroidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.md) 
+
+### [Asteroidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.public.md) 
+
+### [Asteroidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.internal.md) 
+
+### [Asteroidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.protect.md) 
+
+### [Asteroidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.private.md) 
+
+### [Asteroidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.personal.md) 
+
+### [Asteroidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Asteroidea.secret.md)
+

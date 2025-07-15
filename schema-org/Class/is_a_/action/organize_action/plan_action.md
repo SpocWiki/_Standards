@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [plan_action](/_public/schema-org/Class/is_a_/action/organize_action/plan_action.md) 
+### [plan_action](/_Standards/schema-org/Class/is_a_/action/organize_action/plan_action.md) 
+
+### [plan_action.public](/_public/schema-org/Class/is_a_/action/organize_action/plan_action.public.md) 
 
 ### [plan_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 
 ### [plan_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action.personal.md) 
 
-### [plan_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action.secret.md) 
+### [plan_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,10 +75,11 @@ The type of security screening the passenger is subject to.
 SecurityScreening:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FlightReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.md) 
+### [FileClass~FlightReservation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.md) 
+
+### [FileClass~FlightReservation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.public.md) 
 
 ### [FileClass~FlightReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.internal.md) 
 
@@ -88,4 +89,5 @@ SecurityScreening:: {"type":"Input","options":{}}
 
 ### [FileClass~FlightReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.personal.md) 
 
-### [FileClass~FlightReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.secret.md) 
+### [FileClass~FlightReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FlightReservation.secret.md)
+

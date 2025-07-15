@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A travel agency.
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [travel_agency](/_public/schema-org/Class/is_a_/organization/local_business/travel_agency.md) 
+### [travel_agency](/_Standards/schema-org/Class/is_a_/organization/local_business/travel_agency.md) 
+
+### [travel_agency.public](/_public/schema-org/Class/is_a_/organization/local_business/travel_agency.public.md) 
 
 ### [travel_agency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/travel_agency.internal.md) 
 
@@ -54,4 +57,5 @@ A travel agency.
 
 ### [travel_agency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/travel_agency.personal.md) 
 
-### [travel_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/travel_agency.secret.md) 
+### [travel_agency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/travel_agency.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -14.2 , 167.5 ] 
 type: geo-Region
 title: Torba
@@ -41,7 +41,9 @@ markerFolder: ./Torba/
 
 ## Confidential Links & Embeds: 
 
-### [Torba](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.md) 
+### [Torba](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.md) 
+
+### [Torba.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.public.md) 
 
 ### [Torba.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Torba/
 
 ### [Torba.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.personal.md) 
 
-### [Torba.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.secret.md) 
+### [Torba.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.secret.md)
+

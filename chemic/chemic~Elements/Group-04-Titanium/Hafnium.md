@@ -119,10 +119,11 @@ RTECS_number: MG4600000
 > [Wikipedia](https://en.wikipedia.org/wiki/Hafnium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Hafnium](/_public/chemic/chemic~Elements/Group-04-Titanium/Hafnium.md) 
+### [Hafnium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Hafnium.md) 
+
+### [Hafnium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Hafnium.public.md) 
 
 ### [Hafnium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.internal.md) 
 
@@ -132,4 +133,5 @@ RTECS_number: MG4600000
 
 ### [Hafnium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Hafnium.personal.md) 
 
-### [Hafnium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Hafnium.secret.md) 
+### [Hafnium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Hafnium.secret.md)
+

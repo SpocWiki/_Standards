@@ -514,10 +514,11 @@ Colon_Classification: SG--97
 > [Wikipedia](https://en.wikipedia.org/wiki/Pacific%20Ocean) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ocean~Pacific](/_public/Earth/Ocean/Ocean~Pacific.md) 
+### [Ocean~Pacific](/_Standards/Earth/Ocean/Ocean~Pacific.md) 
+
+### [Ocean~Pacific.public](/_public/Earth/Ocean/Ocean~Pacific.public.md) 
 
 ### [Ocean~Pacific.internal](/_internal/Earth/Ocean/Ocean~Pacific.internal.md) 
 
@@ -527,4 +528,5 @@ Colon_Classification: SG--97
 
 ### [Ocean~Pacific.personal](/_personal/Earth/Ocean/Ocean~Pacific.personal.md) 
 
-### [Ocean~Pacific.secret](/_secret/Earth/Ocean/Ocean~Pacific.secret.md) 
+### [Ocean~Pacific.secret](/_secret/Earth/Ocean/Ocean~Pacific.secret.md)
+

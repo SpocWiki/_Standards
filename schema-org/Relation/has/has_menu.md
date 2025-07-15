@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -37,9 +37,12 @@ Relation describes that:
 ( #has_/name :: has_menu )
 ( #has_/range :: Menu, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_menu](/_public/schema-org/Relation/has/has_menu.md) 
+### [has_menu](/_Standards/schema-org/Relation/has/has_menu.md) 
+
+### [has_menu.public](/_public/schema-org/Relation/has/has_menu.public.md) 
 
 ### [has_menu.internal](/_internal/schema-org/Relation/has/has_menu.internal.md) 
 
@@ -49,4 +52,5 @@ Relation describes that:
 
 ### [has_menu.personal](/_personal/schema-org/Relation/has/has_menu.personal.md) 
 
-### [has_menu.secret](/_secret/schema-org/Relation/has/has_menu.secret.md) 
+### [has_menu.secret](/_secret/schema-org/Relation/has/has_menu.secret.md)
+

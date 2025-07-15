@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9764
 instance_of:
 - "[[_Standards/WikiData/WD~music_genre,188451]]"
@@ -52,4 +52,23 @@ has_time_started: 1774-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Flamenco) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Flamenco](/_Standards/bio/Society/Communication/Performing_Arts/Dance/Flamenco.md) 
+
+### [Flamenco.public](/_public/bio/Society/Communication/Performing_Arts/Dance/Flamenco.public.md) 
+
+### [Flamenco.internal](/_internal/bio/Society/Communication/Performing_Arts/Dance/Flamenco.internal.md) 
+
+### [Flamenco.protect](/_protect/bio/Society/Communication/Performing_Arts/Dance/Flamenco.protect.md) 
+
+### [Flamenco.private](/_private/bio/Society/Communication/Performing_Arts/Dance/Flamenco.private.md) 
+
+### [Flamenco.personal](/_personal/bio/Society/Communication/Performing_Arts/Dance/Flamenco.personal.md) 
+
+### [Flamenco.secret](/_secret/bio/Society/Communication/Performing_Arts/Dance/Flamenco.secret.md)
 

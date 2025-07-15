@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Angkor Wat"
 has_id_wikidata: Q43473
@@ -46,4 +46,23 @@ native_label: អង្គរវត្ត
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angkor%20Wat) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Angkor_Wat](/_Standards/Technology/Construction/Architecture/Angkor_Wat.md) 
+
+### [Angkor_Wat.public](/_public/Technology/Construction/Architecture/Angkor_Wat.public.md) 
+
+### [Angkor_Wat.internal](/_internal/Technology/Construction/Architecture/Angkor_Wat.internal.md) 
+
+### [Angkor_Wat.protect](/_protect/Technology/Construction/Architecture/Angkor_Wat.protect.md) 
+
+### [Angkor_Wat.private](/_private/Technology/Construction/Architecture/Angkor_Wat.private.md) 
+
+### [Angkor_Wat.personal](/_personal/Technology/Construction/Architecture/Angkor_Wat.personal.md) 
+
+### [Angkor_Wat.secret](/_secret/Technology/Construction/Architecture/Angkor_Wat.secret.md)
 

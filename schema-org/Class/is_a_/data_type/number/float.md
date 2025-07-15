@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Data type: Floating number.
 
 [ #is_/sub_class_of :: [[../Number]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [float](/_public/schema-org/Class/is_a_/data_type/number/float.md) 
+### [float](/_Standards/schema-org/Class/is_a_/data_type/number/float.md) 
+
+### [float.public](/_public/schema-org/Class/is_a_/data_type/number/float.public.md) 
 
 ### [float.internal](/_internal/schema-org/Class/is_a_/data_type/number/float.internal.md) 
 
@@ -52,4 +55,5 @@ Data type: Floating number.
 
 ### [float.personal](/_personal/schema-org/Class/is_a_/data_type/number/float.personal.md) 
 
-### [float.secret](/_secret/schema-org/Class/is_a_/data_type/number/float.secret.md) 
+### [float.secret](/_secret/schema-org/Class/is_a_/data_type/number/float.secret.md)
+

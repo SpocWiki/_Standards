@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A transit map.
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [transit_map](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.md) 
+### [transit_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.md) 
+
+### [transit_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.public.md) 
 
 ### [transit_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.internal.md) 
 
@@ -56,4 +59,5 @@ A transit map.
 
 ### [transit_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.personal.md) 
 
-### [transit_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.secret.md) 
+### [transit_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/transit_map.secret.md)
+

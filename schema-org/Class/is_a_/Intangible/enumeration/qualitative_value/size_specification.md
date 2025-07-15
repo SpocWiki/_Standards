@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [size_specification](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.md) 
+### [size_specification](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.md) 
+
+### [size_specification.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.public.md) 
 
 ### [size_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.internal.md) 
 
@@ -56,4 +59,5 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 
 ### [size_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.personal.md) 
 
-### [size_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.secret.md) 
+### [size_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/size_specification.secret.md)
+

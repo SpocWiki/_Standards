@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_in_store_return_offered )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_store_return_offered](/_public/schema-org/Property/Flags/is_in_store_return_offered.md) 
+### [is_in_store_return_offered](/_Standards/schema-org/Property/Flags/is_in_store_return_offered.md) 
+
+### [is_in_store_return_offered.public](/_public/schema-org/Property/Flags/is_in_store_return_offered.public.md) 
 
 ### [is_in_store_return_offered.internal](/_internal/schema-org/Property/Flags/is_in_store_return_offered.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_in_store_return_offered.personal](/_personal/schema-org/Property/Flags/is_in_store_return_offered.personal.md) 
 
-### [is_in_store_return_offered.secret](/_secret/schema-org/Property/Flags/is_in_store_return_offered.secret.md) 
+### [is_in_store_return_offered.secret](/_secret/schema-org/Property/Flags/is_in_store_return_offered.secret.md)
+

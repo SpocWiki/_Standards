@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_guideline_recommendation](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.md) 
+### [medical_guideline_recommendation](/_Standards/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.md) 
+
+### [medical_guideline_recommendation.public](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.public.md) 
 
 ### [medical_guideline_recommendation.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.internal.md) 
 
@@ -54,4 +57,5 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 ### [medical_guideline_recommendation.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.personal.md) 
 
-### [medical_guideline_recommendation.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.secret.md) 
+### [medical_guideline_recommendation.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.secret.md)
+

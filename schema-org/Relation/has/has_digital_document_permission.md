@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_digital_document_permission )
 ( #has_/range :: DigitalDocumentPermission )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_digital_document_permission](/_public/schema-org/Relation/has/has_digital_document_permission.md) 
+### [has_digital_document_permission](/_Standards/schema-org/Relation/has/has_digital_document_permission.md) 
+
+### [has_digital_document_permission.public](/_public/schema-org/Relation/has/has_digital_document_permission.public.md) 
 
 ### [has_digital_document_permission.internal](/_internal/schema-org/Relation/has/has_digital_document_permission.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_digital_document_permission.personal](/_personal/schema-org/Relation/has/has_digital_document_permission.personal.md) 
 
-### [has_digital_document_permission.secret](/_secret/schema-org/Relation/has/has_digital_document_permission.secret.md) 
+### [has_digital_document_permission.secret](/_secret/schema-org/Relation/has/has_digital_document_permission.secret.md)
+

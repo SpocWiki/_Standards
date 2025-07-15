@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -219,9 +219,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_ContinentDB](/_public/Earth/Continent/_ContinentDB.md) 
+### [_ContinentDB](/_Standards/Earth/Continent/_ContinentDB.md) 
+
+### [_ContinentDB.public](/_public/Earth/Continent/_ContinentDB.public.md) 
 
 ### [_ContinentDB.internal](/_internal/Earth/Continent/_ContinentDB.internal.md) 
 
@@ -231,4 +234,5 @@ filters:
 
 ### [_ContinentDB.personal](/_personal/Earth/Continent/_ContinentDB.personal.md) 
 
-### [_ContinentDB.secret](/_secret/Earth/Continent/_ContinentDB.secret.md) 
+### [_ContinentDB.secret](/_secret/Earth/Continent/_ContinentDB.secret.md)
+

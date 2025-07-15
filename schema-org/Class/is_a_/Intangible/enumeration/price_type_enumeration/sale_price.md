@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sale_price](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.md) 
+### [sale_price](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.md) 
+
+### [sale_price.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.public.md) 
 
 ### [sale_price.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.internal.md) 
 
@@ -58,4 +61,5 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 ### [sale_price.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.personal.md) 
 
-### [sale_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.secret.md) 
+### [sale_price.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/sale_price.secret.md)
+

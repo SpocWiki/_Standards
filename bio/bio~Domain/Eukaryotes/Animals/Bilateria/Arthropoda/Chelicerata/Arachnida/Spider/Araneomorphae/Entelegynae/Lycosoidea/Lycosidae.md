@@ -176,3 +176,21 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
   Size                 ca. 15mm
   Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
   -------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Lycosidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.md) 
+
+### [Lycosidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.public.md) 
+
+### [Lycosidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.internal.md) 
+
+### [Lycosidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.protect.md) 
+
+### [Lycosidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.private.md) 
+
+### [Lycosidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.personal.md) 
+
+### [Lycosidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Lycosoidea/Lycosidae.secret.md)
+

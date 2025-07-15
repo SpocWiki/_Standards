@@ -161,9 +161,12 @@ Capital :: [[Naypyidaw]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myanmar)
 
+
 ## Confidential Links & Embeds: 
 
-### [Myanmar](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.md) 
+### [Myanmar](/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar.md) 
+
+### [Myanmar.public](/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public.md) 
 
 ### [Myanmar.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal.md) 
 
@@ -173,4 +176,5 @@ Capital :: [[Naypyidaw]]
 
 ### [Myanmar.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal.md) 
 
-### [Myanmar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret.md) 
+### [Myanmar.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret.md)
+

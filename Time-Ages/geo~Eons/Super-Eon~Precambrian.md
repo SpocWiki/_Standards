@@ -92,10 +92,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Super-Eon~Precambrian](/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.md) 
+### [Super-Eon~Precambrian](/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian.md) 
+
+### [Super-Eon~Precambrian.public](/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public.md) 
 
 ### [Super-Eon~Precambrian.internal](/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal.md) 
 
@@ -105,4 +106,5 @@ noteOnly: true
 
 ### [Super-Eon~Precambrian.personal](/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal.md) 
 
-### [Super-Eon~Precambrian.secret](/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret.md) 
+### [Super-Eon~Precambrian.secret](/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret.md)
+

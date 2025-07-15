@@ -158,3 +158,22 @@ date_of_death: 2012-08-25T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Armstrong)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Armstrong,Neil](/_Standards/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.md) 
+
+### [Armstrong,Neil.public](/_public/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.public.md) 
+
+### [Armstrong,Neil.internal](/_internal/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.internal.md) 
+
+### [Armstrong,Neil.protect](/_protect/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.protect.md) 
+
+### [Armstrong,Neil.private](/_private/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.private.md) 
+
+### [Armstrong,Neil.personal](/_personal/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.personal.md) 
+
+### [Armstrong,Neil.secret](/_secret/bio/People/Explorers/Modern_Explorers/Armstrong,Neil.secret.md)
+

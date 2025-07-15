@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A product provided to consumers and businesses by financial institutions such as
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [financial_product](/_public/schema-org/Class/is_a_/Intangible/service/financial_product.md) 
+### [financial_product](/_Standards/schema-org/Class/is_a_/Intangible/service/financial_product.md) 
+
+### [financial_product.public](/_public/schema-org/Class/is_a_/Intangible/service/financial_product.public.md) 
 
 ### [financial_product.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product.internal.md) 
 
@@ -56,4 +59,5 @@ A product provided to consumers and businesses by financial institutions such as
 
 ### [financial_product.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product.personal.md) 
 
-### [financial_product.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product.secret.md) 
+### [financial_product.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product.secret.md)
+

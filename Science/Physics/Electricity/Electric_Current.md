@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Electric current"
 has_id_wikidata: Q11651
@@ -31,4 +31,23 @@ Commons_category: "Electric current"
 > Electric currents create magnetic fields, which are used in motors, generators, inductors, and transformers. In ordinary conductors, they cause Joule heating, which creates light in incandescent light bulbs. Time-varying currents emit electromagnetic waves, which are used in telecommunications to broadcast information.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electric%20current)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Electric_Current](/_Standards/Science/Physics/Electricity/Electric_Current.md) 
+
+### [Electric_Current.public](/_public/Science/Physics/Electricity/Electric_Current.public.md) 
+
+### [Electric_Current.internal](/_internal/Science/Physics/Electricity/Electric_Current.internal.md) 
+
+### [Electric_Current.protect](/_protect/Science/Physics/Electricity/Electric_Current.protect.md) 
+
+### [Electric_Current.private](/_private/Science/Physics/Electricity/Electric_Current.private.md) 
+
+### [Electric_Current.personal](/_personal/Science/Physics/Electricity/Electric_Current.personal.md) 
+
+### [Electric_Current.secret](/_secret/Science/Physics/Electricity/Electric_Current.secret.md)
 

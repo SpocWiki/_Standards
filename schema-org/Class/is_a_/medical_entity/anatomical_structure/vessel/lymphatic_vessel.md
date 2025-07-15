@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, originatesFrom, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, runsTo, sameAs, study, subStructure, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [lymphatic_vessel](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md) 
+### [lymphatic_vessel](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md) 
+
+### [lymphatic_vessel.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.public.md) 
 
 ### [lymphatic_vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md) 
 
@@ -54,4 +57,5 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 ### [lymphatic_vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md) 
 
-### [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md) 
+### [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md)
+

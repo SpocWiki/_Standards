@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11456
 subclass_of:
 - "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
@@ -42,4 +42,23 @@ Commons_category: Semiconductors
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Semiconductor](/_Standards/Technology/Electronics/Electronic_Component/Semiconductor.md) 
+
+### [Semiconductor.public](/_public/Technology/Electronics/Electronic_Component/Semiconductor.public.md) 
+
+### [Semiconductor.internal](/_internal/Technology/Electronics/Electronic_Component/Semiconductor.internal.md) 
+
+### [Semiconductor.protect](/_protect/Technology/Electronics/Electronic_Component/Semiconductor.protect.md) 
+
+### [Semiconductor.private](/_private/Technology/Electronics/Electronic_Component/Semiconductor.private.md) 
+
+### [Semiconductor.personal](/_personal/Technology/Electronics/Electronic_Component/Semiconductor.personal.md) 
+
+### [Semiconductor.secret](/_secret/Technology/Electronics/Electronic_Component/Semiconductor.secret.md)
 

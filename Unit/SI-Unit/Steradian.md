@@ -1,4 +1,4 @@
-﻿
+
 # [[Steradian]]
 
 #is_a_/unit_/for_/angle3D  
@@ -38,7 +38,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Steradian](/_public/Unit/SI-Unit/Steradian.md) 
+### [Steradian](/_Standards/Unit/SI-Unit/Steradian.md) 
+
+### [Steradian.public](/_public/Unit/SI-Unit/Steradian.public.md) 
 
 ### [Steradian.internal](/_internal/Unit/SI-Unit/Steradian.internal.md) 
 
@@ -48,4 +50,5 @@
 
 ### [Steradian.personal](/_personal/Unit/SI-Unit/Steradian.personal.md) 
 
-### [Steradian.secret](/_secret/Unit/SI-Unit/Steradian.secret.md) 
+### [Steradian.secret](/_secret/Unit/SI-Unit/Steradian.secret.md)
+

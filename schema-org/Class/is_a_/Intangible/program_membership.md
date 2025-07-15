@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [program_membership](/_public/schema-org/Class/is_a_/Intangible/program_membership.md) 
+### [program_membership](/_Standards/schema-org/Class/is_a_/Intangible/program_membership.md) 
+
+### [program_membership.public](/_public/schema-org/Class/is_a_/Intangible/program_membership.public.md) 
 
 ### [program_membership.internal](/_internal/schema-org/Class/is_a_/Intangible/program_membership.internal.md) 
 
@@ -54,4 +57,5 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 
 ### [program_membership.personal](/_personal/schema-org/Class/is_a_/Intangible/program_membership.personal.md) 
 
-### [program_membership.secret](/_secret/schema-org/Class/is_a_/Intangible/program_membership.secret.md) 
+### [program_membership.secret](/_secret/schema-org/Class/is_a_/Intangible/program_membership.secret.md)
+

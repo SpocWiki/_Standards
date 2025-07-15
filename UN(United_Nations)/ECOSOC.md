@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - CESNU
 ---
@@ -26,7 +26,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [ECOSOC](/_public/UN(United_Nations)/ECOSOC.md) 
+### [ECOSOC](/_Standards/UN(United_Nations)/ECOSOC.md) 
+
+### [ECOSOC.public](/_public/UN(United_Nations)/ECOSOC.public.md) 
 
 ### [ECOSOC.internal](/_internal/UN(United_Nations)/ECOSOC.internal.md) 
 
@@ -36,4 +38,5 @@ type: folder_brief_live
 
 ### [ECOSOC.personal](/_personal/UN(United_Nations)/ECOSOC.personal.md) 
 
-### [ECOSOC.secret](/_secret/UN(United_Nations)/ECOSOC.secret.md) 
+### [ECOSOC.secret](/_secret/UN(United_Nations)/ECOSOC.secret.md)
+

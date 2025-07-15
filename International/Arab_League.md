@@ -20,3 +20,19 @@ has_id_wikidata: Q7172
 > [Wikipedia](https://en.wikipedia.org/wiki/Arab%20League)
 
 
+## Confidential Links & Embeds: 
+
+### [Arab_League](/_Standards/International/Arab_League.md) 
+
+### [Arab_League.public](/_public/International/Arab_League.public.md) 
+
+### [Arab_League.internal](/_internal/International/Arab_League.internal.md) 
+
+### [Arab_League.protect](/_protect/International/Arab_League.protect.md) 
+
+### [Arab_League.private](/_private/International/Arab_League.private.md) 
+
+### [Arab_League.personal](/_personal/International/Arab_League.personal.md) 
+
+### [Arab_League.secret](/_secret/International/Arab_League.secret.md)
+

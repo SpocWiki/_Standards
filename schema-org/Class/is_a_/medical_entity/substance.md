@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [substance](/_public/schema-org/Class/is_a_/medical_entity/substance.md) 
+### [substance](/_Standards/schema-org/Class/is_a_/medical_entity/substance.md) 
+
+### [substance.public](/_public/schema-org/Class/is_a_/medical_entity/substance.public.md) 
 
 ### [substance.internal](/_internal/schema-org/Class/is_a_/medical_entity/substance.internal.md) 
 
@@ -58,4 +61,5 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 ### [substance.personal](/_personal/schema-org/Class/is_a_/medical_entity/substance.personal.md) 
 
-### [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md) 
+### [substance.secret](/_secret/schema-org/Class/is_a_/medical_entity/substance.secret.md)
+

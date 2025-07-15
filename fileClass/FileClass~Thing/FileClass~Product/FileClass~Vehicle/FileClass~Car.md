@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 icon: car
@@ -60,7 +60,9 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Car](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.md) 
+### [FileClass~Car](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.md) 
+
+### [FileClass~Car.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.public.md) 
 
 ### [FileClass~Car.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.internal.md) 
 
@@ -70,4 +72,5 @@ RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~Car.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.personal.md) 
 
-### [FileClass~Car.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.secret.md) 
+### [FileClass~Car.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle/FileClass~Car.secret.md)
+

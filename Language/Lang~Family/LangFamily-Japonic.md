@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::Japanese~Ryukyu]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Japonic](/_public/Language/Lang~Family/LangFamily-Japonic.md) 
+### [LangFamily-Japonic](/_Standards/Language/Lang~Family/LangFamily-Japonic.md) 
+
+### [LangFamily-Japonic.public](/_public/Language/Lang~Family/LangFamily-Japonic.public.md) 
 
 ### [LangFamily-Japonic.internal](/_internal/Language/Lang~Family/LangFamily-Japonic.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-Japonic.personal](/_personal/Language/Lang~Family/LangFamily-Japonic.personal.md) 
 
-### [LangFamily-Japonic.secret](/_secret/Language/Lang~Family/LangFamily-Japonic.secret.md) 
+### [LangFamily-Japonic.secret](/_secret/Language/Lang~Family/LangFamily-Japonic.secret.md)
+

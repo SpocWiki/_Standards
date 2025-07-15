@@ -43,3 +43,22 @@ title: Single-stranded DNA Viruses
   Comments             This electron micrograph depicts a number of parvovirus H-1 virions of the Parvoviridae family of DNA viruses.
   Specimen Condition   Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Single-stranded_DNA_Virus](/_Standards/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.md) 
+
+### [Single-stranded_DNA_Virus.public](/_public/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.public.md) 
+
+### [Single-stranded_DNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.internal.md) 
+
+### [Single-stranded_DNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.protect.md) 
+
+### [Single-stranded_DNA_Virus.private](/_private/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.private.md) 
+
+### [Single-stranded_DNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.personal.md) 
+
+### [Single-stranded_DNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.secret.md)
+

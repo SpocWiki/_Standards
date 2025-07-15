@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of giving money in return for temporary use, but not ownership, of an ob
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, landlord, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, realEstateAgent, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rent_action](/_public/schema-org/Class/is_a_/action/trade_action/rent_action.md) 
+### [rent_action](/_Standards/schema-org/Class/is_a_/action/trade_action/rent_action.md) 
+
+### [rent_action.public](/_public/schema-org/Class/is_a_/action/trade_action/rent_action.public.md) 
 
 ### [rent_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/rent_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of giving money in return for temporary use, but not ownership, of an ob
 
 ### [rent_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/rent_action.personal.md) 
 
-### [rent_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/rent_action.secret.md) 
+### [rent_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/rent_action.secret.md)
+

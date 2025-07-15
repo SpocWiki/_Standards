@@ -117,3 +117,22 @@ water_footprint:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apple)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Apple](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.md) 
+
+### [Apple.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.public.md) 
+
+### [Apple.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.internal.md) 
+
+### [Apple.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.protect.md) 
+
+### [Apple.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.private.md) 
+
+### [Apple.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.personal.md) 
+
+### [Apple.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Fruit/Apple.secret.md)
+

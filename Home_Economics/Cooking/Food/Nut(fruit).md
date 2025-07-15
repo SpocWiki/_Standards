@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Nut (fruit)"
 has_id_wikidata: Q11009
@@ -48,4 +48,23 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Nut\"]"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Nut(fruit)](/_Standards/Home_Economics/Cooking/Food/Nut(fruit).md) 
+
+### [Nut(fruit).public](/_public/Home_Economics/Cooking/Food/Nut(fruit).public.md) 
+
+### [Nut(fruit).internal](/_internal/Home_Economics/Cooking/Food/Nut(fruit).internal.md) 
+
+### [Nut(fruit).protect](/_protect/Home_Economics/Cooking/Food/Nut(fruit).protect.md) 
+
+### [Nut(fruit).private](/_private/Home_Economics/Cooking/Food/Nut(fruit).private.md) 
+
+### [Nut(fruit).personal](/_personal/Home_Economics/Cooking/Food/Nut(fruit).personal.md) 
+
+### [Nut(fruit).secret](/_secret/Home_Economics/Cooking/Food/Nut(fruit).secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q2811
 part_of: "[[_Standards/WikiData/WD~water_transport,155930]]"
 different_from:
@@ -59,4 +59,23 @@ GitHub_topic: submarine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Submarine) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Submarine](/_Standards/bio/Society/Military/Military_Engineering/Submarine.md) 
+
+### [Submarine.public](/_public/bio/Society/Military/Military_Engineering/Submarine.public.md) 
+
+### [Submarine.internal](/_internal/bio/Society/Military/Military_Engineering/Submarine.internal.md) 
+
+### [Submarine.protect](/_protect/bio/Society/Military/Military_Engineering/Submarine.protect.md) 
+
+### [Submarine.private](/_private/bio/Society/Military/Military_Engineering/Submarine.private.md) 
+
+### [Submarine.personal](/_personal/bio/Society/Military/Military_Engineering/Submarine.personal.md) 
+
+### [Submarine.secret](/_secret/bio/Society/Military/Military_Engineering/Submarine.secret.md)
 

@@ -84,3 +84,21 @@ Photographs copyright © 2000, Ron Ates.
   -------
   Copyright ::   © 2000 Ron Ates
   -------
+
+
+## Confidential Links & Embeds: 
+
+### [Nynantheae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.md) 
+
+### [Nynantheae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.public.md) 
+
+### [Nynantheae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.internal.md) 
+
+### [Nynantheae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.protect.md) 
+
+### [Nynantheae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.private.md) 
+
+### [Nynantheae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.personal.md) 
+
+### [Nynantheae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Actiniaria/Nynantheae.secret.md)
+

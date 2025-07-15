@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_evidence_level )
 ( #has_/range :: MedicalEvidenceLevel )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_evidence_level](/_public/schema-org/Relation/has/has_evidence_level.md) 
+### [has_evidence_level](/_Standards/schema-org/Relation/has/has_evidence_level.md) 
+
+### [has_evidence_level.public](/_public/schema-org/Relation/has/has_evidence_level.public.md) 
 
 ### [has_evidence_level.internal](/_internal/schema-org/Relation/has/has_evidence_level.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_evidence_level.personal](/_personal/schema-org/Relation/has/has_evidence_level.personal.md) 
 
-### [has_evidence_level.secret](/_secret/schema-org/Relation/has/has_evidence_level.secret.md) 
+### [has_evidence_level.secret](/_secret/schema-org/Relation/has/has_evidence_level.secret.md)
+

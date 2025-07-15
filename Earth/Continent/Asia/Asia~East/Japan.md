@@ -773,9 +773,12 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Japan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Japan](/_public/Earth/Continent/Asia/Asia~East/Japan.md) 
+### [Japan](/_Standards/Earth/Continent/Asia/Asia~East/Japan.md) 
+
+### [Japan.public](/_public/Earth/Continent/Asia/Asia~East/Japan.public.md) 
 
 ### [Japan.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan.internal.md) 
 
@@ -785,4 +788,5 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 
 ### [Japan.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan.personal.md) 
 
-### [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md) 
+### [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md)
+

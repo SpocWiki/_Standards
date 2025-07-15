@@ -106,3 +106,22 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1945-Cold_War](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.md) 
+
+### [1945-Cold_War.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.public.md) 
+
+### [1945-Cold_War.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.internal.md) 
+
+### [1945-Cold_War.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.protect.md) 
+
+### [1945-Cold_War.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.private.md) 
+
+### [1945-Cold_War.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.personal.md) 
+
+### [1945-Cold_War.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.secret.md)
+

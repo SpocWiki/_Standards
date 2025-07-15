@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_unlabelled_fallback )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_unlabelled_fallback](/_public/schema-org/Property/Flags/is_unlabelled_fallback.md) 
+### [is_unlabelled_fallback](/_Standards/schema-org/Property/Flags/is_unlabelled_fallback.md) 
+
+### [is_unlabelled_fallback.public](/_public/schema-org/Property/Flags/is_unlabelled_fallback.public.md) 
 
 ### [is_unlabelled_fallback.internal](/_internal/schema-org/Property/Flags/is_unlabelled_fallback.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_unlabelled_fallback.personal](/_personal/schema-org/Property/Flags/is_unlabelled_fallback.personal.md) 
 
-### [is_unlabelled_fallback.secret](/_secret/schema-org/Property/Flags/is_unlabelled_fallback.secret.md) 
+### [is_unlabelled_fallback.secret](/_secret/schema-org/Property/Flags/is_unlabelled_fallback.secret.md)
+

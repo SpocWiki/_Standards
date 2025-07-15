@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21999
 has_id_wikidata: Q1226
@@ -88,9 +88,12 @@ Unicode_character: 鑪
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Rutherfordium](/_public/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.md) 
+### [Rutherfordium](/_Standards/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.md) 
+
+### [Rutherfordium.public](/_public/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.public.md) 
 
 ### [Rutherfordium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.internal.md) 
 
@@ -100,4 +103,5 @@ Unicode_character: 鑪
 
 ### [Rutherfordium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.personal.md) 
 
-### [Rutherfordium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.secret.md) 
+### [Rutherfordium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Rutherfordium.secret.md)
+

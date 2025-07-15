@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_antagonist )
 ( #has_/range :: Muscle )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_antagonist](/_public/schema-org/Relation/has/has_antagonist.md) 
+### [has_antagonist](/_Standards/schema-org/Relation/has/has_antagonist.md) 
+
+### [has_antagonist.public](/_public/schema-org/Relation/has/has_antagonist.public.md) 
 
 ### [has_antagonist.internal](/_internal/schema-org/Relation/has/has_antagonist.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_antagonist.personal](/_personal/schema-org/Relation/has/has_antagonist.personal.md) 
 
-### [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md) 
+### [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md)
+

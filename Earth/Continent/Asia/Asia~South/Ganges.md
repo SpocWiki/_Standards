@@ -73,3 +73,22 @@ coordinate_location:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ganges) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ganges](/_Standards/Earth/Continent/Asia/Asia~South/Ganges.md) 
+
+### [Ganges.public](/_public/Earth/Continent/Asia/Asia~South/Ganges.public.md) 
+
+### [Ganges.internal](/_internal/Earth/Continent/Asia/Asia~South/Ganges.internal.md) 
+
+### [Ganges.protect](/_protect/Earth/Continent/Asia/Asia~South/Ganges.protect.md) 
+
+### [Ganges.private](/_private/Earth/Continent/Asia/Asia~South/Ganges.private.md) 
+
+### [Ganges.personal](/_personal/Earth/Continent/Asia/Asia~South/Ganges.personal.md) 
+
+### [Ganges.secret](/_secret/Earth/Continent/Asia/Asia~South/Ganges.secret.md)
+

@@ -144,3 +144,22 @@ tentacles (after Bardack 1991). Copyright © Philippe Janvier.
 ----------
 ![](hyperotreti.gif)
 Copyright ::   © 1997 Philippe Janvier
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hyperotreti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.md) 
+
+### [Hyperotreti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.public.md) 
+
+### [Hyperotreti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.internal.md) 
+
+### [Hyperotreti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.protect.md) 
+
+### [Hyperotreti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.private.md) 
+
+### [Hyperotreti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.personal.md) 
+
+### [Hyperotreti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Hyperotreti.secret.md)
+

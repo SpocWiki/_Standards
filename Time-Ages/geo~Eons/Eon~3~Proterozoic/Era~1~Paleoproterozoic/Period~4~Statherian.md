@@ -58,10 +58,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~4~Statherian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.md) 
+### [Period~4~Statherian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.md) 
+
+### [Period~4~Statherian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.public.md) 
 
 ### [Period~4~Statherian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.internal.md) 
 
@@ -71,4 +72,5 @@ noteOnly: true
 
 ### [Period~4~Statherian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.personal.md) 
 
-### [Period~4~Statherian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.secret.md) 
+### [Period~4~Statherian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~4~Statherian.secret.md)
+

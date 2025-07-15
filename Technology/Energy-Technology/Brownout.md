@@ -12,3 +12,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brownout%20(electricity)) 
 
+
+## Confidential Links & Embeds: 
+
+### [Brownout](/_Standards/Technology/Energy-Technology/Brownout.md) 
+
+### [Brownout.public](/_public/Technology/Energy-Technology/Brownout.public.md) 
+
+### [Brownout.internal](/_internal/Technology/Energy-Technology/Brownout.internal.md) 
+
+### [Brownout.protect](/_protect/Technology/Energy-Technology/Brownout.protect.md) 
+
+### [Brownout.private](/_private/Technology/Energy-Technology/Brownout.private.md) 
+
+### [Brownout.personal](/_personal/Technology/Energy-Technology/Brownout.personal.md) 
+
+### [Brownout.secret](/_secret/Technology/Energy-Technology/Brownout.secret.md)
+

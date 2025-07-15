@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A subclass of Role used to describe roles within organizations.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [organization_role](/_public/schema-org/Class/is_a_/Intangible/role/organization_role.md) 
+### [organization_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role.md) 
+
+### [organization_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role.public.md) 
 
 ### [organization_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role.internal.md) 
 
@@ -56,4 +59,5 @@ A subclass of Role used to describe roles within organizations.
 
 ### [organization_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role.personal.md) 
 
-### [organization_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role.secret.md) 
+### [organization_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role.secret.md)
+

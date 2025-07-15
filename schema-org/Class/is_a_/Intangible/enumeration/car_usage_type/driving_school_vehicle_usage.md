@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates the usage of the vehicle for driving school.
 
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [driving_school_vehicle_usage](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.md) 
+### [driving_school_vehicle_usage](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.md) 
+
+### [driving_school_vehicle_usage.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.public.md) 
 
 ### [driving_school_vehicle_usage.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates the usage of the vehicle for driving school.
 
 ### [driving_school_vehicle_usage.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.personal.md) 
 
-### [driving_school_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.secret.md) 
+### [driving_school_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/driving_school_vehicle_usage.secret.md)
+

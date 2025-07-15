@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -96,10 +96,11 @@ A possible serious complication and/or serious side effect of this therapy. Seri
 SeriousAdverseOutcome:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalDevice](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.md) 
+### [FileClass~MedicalDevice](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.md) 
+
+### [FileClass~MedicalDevice.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.public.md) 
 
 ### [FileClass~MedicalDevice.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.internal.md) 
 
@@ -109,4 +110,5 @@ SeriousAdverseOutcome:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ### [FileClass~MedicalDevice.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.personal.md) 
 
-### [FileClass~MedicalDevice.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret.md) 
+### [FileClass~MedicalDevice.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret.md)
+

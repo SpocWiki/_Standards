@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A kind of lodging business that focuses on renting single properties for limited
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VacationRental](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.md) 
+### [FileClass~VacationRental](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.md) 
+
+### [FileClass~VacationRental.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.public.md) 
 
 ### [FileClass~VacationRental.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.internal.md) 
 
@@ -46,4 +47,5 @@ A kind of lodging business that focuses on renting single properties for limited
 
 ### [FileClass~VacationRental.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.personal.md) 
 
-### [FileClass~VacationRental.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.secret.md) 
+### [FileClass~VacationRental.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~VacationRental.secret.md)
+

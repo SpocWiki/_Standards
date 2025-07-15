@@ -41,7 +41,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [geo~Ages](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.md) 
+### [geo~Ages](/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.md) 
+
+### [geo~Ages.public](/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.public.md) 
 
 ### [geo~Ages.internal](/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.internal.md) 
 
@@ -51,4 +53,5 @@ noteOnly: true
 
 ### [geo~Ages.personal](/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.personal.md) 
 
-### [geo~Ages.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.secret.md) 
+### [geo~Ages.secret](/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epochs/geo~Ages.secret.md)
+

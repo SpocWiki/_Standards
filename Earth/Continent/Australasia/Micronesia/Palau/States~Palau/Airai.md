@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.39 , 134.56 ] 
 type: geo-Region
 title: Airai
@@ -41,7 +41,9 @@ markerFolder: ./Airai/
 
 ## Confidential Links & Embeds: 
 
-### [Airai](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.md) 
+### [Airai](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.md) 
+
+### [Airai.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.public.md) 
 
 ### [Airai.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Airai/
 
 ### [Airai.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.personal.md) 
 
-### [Airai.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.secret.md) 
+### [Airai.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.secret.md)
+

@@ -13,3 +13,19 @@ has_id_wikidata: Q118291
 > [Wikipedia](https://en.wikipedia.org/wiki/Naval%20architecture) 
 
 
+## Confidential Links & Embeds: 
+
+### [Naval_Engineering](/_Standards/Technology/Naval_Engineering.md) 
+
+### [Naval_Engineering.public](/_public/Technology/Naval_Engineering.public.md) 
+
+### [Naval_Engineering.internal](/_internal/Technology/Naval_Engineering.internal.md) 
+
+### [Naval_Engineering.protect](/_protect/Technology/Naval_Engineering.protect.md) 
+
+### [Naval_Engineering.private](/_private/Technology/Naval_Engineering.private.md) 
+
+### [Naval_Engineering.personal](/_personal/Technology/Naval_Engineering.personal.md) 
+
+### [Naval_Engineering.secret](/_secret/Technology/Naval_Engineering.secret.md)
+

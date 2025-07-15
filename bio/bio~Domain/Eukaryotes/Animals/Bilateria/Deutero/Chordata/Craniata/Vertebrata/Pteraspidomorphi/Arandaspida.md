@@ -115,3 +115,22 @@ head lamps. (after Janvier 1996)
 
 ![](arandaspida.gif)
 Copyright ::   © 1997 Philippe Janvier
+
+
+
+## Confidential Links & Embeds: 
+
+### [Arandaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.md) 
+
+### [Arandaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.public.md) 
+
+### [Arandaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.internal.md) 
+
+### [Arandaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.protect.md) 
+
+### [Arandaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.private.md) 
+
+### [Arandaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.personal.md) 
+
+### [Arandaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Arandaspida.secret.md)
+

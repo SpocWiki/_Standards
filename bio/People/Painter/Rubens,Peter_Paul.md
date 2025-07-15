@@ -515,3 +515,21 @@ described_at_URL:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Paul%20Rubens)
 > 
+
+
+## Confidential Links & Embeds: 
+
+### [Rubens,Peter_Paul](/_Standards/bio/People/Painter/Rubens,Peter_Paul.md) 
+
+### [Rubens,Peter_Paul.public](/_public/bio/People/Painter/Rubens,Peter_Paul.public.md) 
+
+### [Rubens,Peter_Paul.internal](/_internal/bio/People/Painter/Rubens,Peter_Paul.internal.md) 
+
+### [Rubens,Peter_Paul.protect](/_protect/bio/People/Painter/Rubens,Peter_Paul.protect.md) 
+
+### [Rubens,Peter_Paul.private](/_private/bio/People/Painter/Rubens,Peter_Paul.private.md) 
+
+### [Rubens,Peter_Paul.personal](/_personal/bio/People/Painter/Rubens,Peter_Paul.personal.md) 
+
+### [Rubens,Peter_Paul.secret](/_secret/bio/People/Painter/Rubens,Peter_Paul.secret.md)
+

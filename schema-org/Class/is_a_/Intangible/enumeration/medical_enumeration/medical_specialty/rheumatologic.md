@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that deals with the study and treatment of 
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rheumatologic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.md) 
+### [rheumatologic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.md) 
+
+### [rheumatologic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.public.md) 
 
 ### [rheumatologic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that deals with the study and treatment of 
 
 ### [rheumatologic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.personal.md) 
 
-### [rheumatologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.secret.md) 
+### [rheumatologic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.secret.md)
+

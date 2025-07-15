@@ -177,3 +177,22 @@ date_of_birth: "1928-07-26"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Kubrick)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kubrick,Stanley](/_Standards/bio/People/Movie-Directors/Kubrick,Stanley.md) 
+
+### [Kubrick,Stanley.public](/_public/bio/People/Movie-Directors/Kubrick,Stanley.public.md) 
+
+### [Kubrick,Stanley.internal](/_internal/bio/People/Movie-Directors/Kubrick,Stanley.internal.md) 
+
+### [Kubrick,Stanley.protect](/_protect/bio/People/Movie-Directors/Kubrick,Stanley.protect.md) 
+
+### [Kubrick,Stanley.private](/_private/bio/People/Movie-Directors/Kubrick,Stanley.private.md) 
+
+### [Kubrick,Stanley.personal](/_personal/bio/People/Movie-Directors/Kubrick,Stanley.personal.md) 
+
+### [Kubrick,Stanley.secret](/_secret/bio/People/Movie-Directors/Kubrick,Stanley.secret.md)
+

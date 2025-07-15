@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Force]] 
 
 The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]]. 
@@ -6,7 +6,9 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Force](/_public/Dimension/Linear_Dimension/Dim~Force.md) 
+### [Dim~Force](/_Standards/Dimension/Linear_Dimension/Dim~Force.md) 
+
+### [Dim~Force.public](/_public/Dimension/Linear_Dimension/Dim~Force.public.md) 
 
 ### [Dim~Force.internal](/_internal/Dimension/Linear_Dimension/Dim~Force.internal.md) 
 
@@ -16,4 +18,5 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 
 ### [Dim~Force.personal](/_personal/Dimension/Linear_Dimension/Dim~Force.personal.md) 
 
-### [Dim~Force.secret](/_secret/Dimension/Linear_Dimension/Dim~Force.secret.md) 
+### [Dim~Force.secret](/_secret/Dimension/Linear_Dimension/Dim~Force.secret.md)
+

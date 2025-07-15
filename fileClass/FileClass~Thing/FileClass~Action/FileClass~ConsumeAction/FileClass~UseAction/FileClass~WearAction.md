@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of dressing oneself in clothing.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WearAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.md) 
+### [FileClass~WearAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.md) 
+
+### [FileClass~WearAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.public.md) 
 
 ### [FileClass~WearAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of dressing oneself in clothing.
 
 ### [FileClass~WearAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.personal.md) 
 
-### [FileClass~WearAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.secret.md) 
+### [FileClass~WearAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.secret.md)
+

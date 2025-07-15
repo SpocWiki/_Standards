@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7167
 different_from: '[[_Standards/WikiData/WD~colony,133156]]'
 has_effect:
@@ -31,4 +31,23 @@ Library_of_Congress_Classification: JV51
 > [Wikipedia](https://en.wikipedia.org/wiki/Colonialism)
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Colonialism](/_Standards/bio/Society/Government/Colonialism.md) 
+
+### [Colonialism.public](/_public/bio/Society/Government/Colonialism.public.md) 
+
+### [Colonialism.internal](/_internal/bio/Society/Government/Colonialism.internal.md) 
+
+### [Colonialism.protect](/_protect/bio/Society/Government/Colonialism.protect.md) 
+
+### [Colonialism.private](/_private/bio/Society/Government/Colonialism.private.md) 
+
+### [Colonialism.personal](/_personal/bio/Society/Government/Colonialism.personal.md) 
+
+### [Colonialism.secret](/_secret/bio/Society/Government/Colonialism.secret.md)
 

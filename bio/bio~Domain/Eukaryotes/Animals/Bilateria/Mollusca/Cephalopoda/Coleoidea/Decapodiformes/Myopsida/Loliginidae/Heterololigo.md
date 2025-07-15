@@ -118,3 +118,21 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   View               Ventral
   Size               ca. 30 cm
   ------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Heterololigo](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.md) 
+
+### [Heterololigo.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.public.md) 
+
+### [Heterololigo.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.internal.md) 
+
+### [Heterololigo.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.protect.md) 
+
+### [Heterololigo.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.private.md) 
+
+### [Heterololigo.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.personal.md) 
+
+### [Heterololigo.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Heterololigo.secret.md)
+

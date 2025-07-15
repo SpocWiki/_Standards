@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Measurement of the chest/bust section, for example of a suit
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_measurement_chest_or_bust](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.md) 
+### [wearable_measurement_chest_or_bust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.md) 
+
+### [wearable_measurement_chest_or_bust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.public.md) 
 
 ### [wearable_measurement_chest_or_bust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.internal.md) 
 
@@ -58,4 +61,5 @@ Measurement of the chest/bust section, for example of a suit
 
 ### [wearable_measurement_chest_or_bust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.personal.md) 
 
-### [wearable_measurement_chest_or_bust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.secret.md) 
+### [wearable_measurement_chest_or_bust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_chest_or_bust.secret.md)
+

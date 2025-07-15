@@ -51,3 +51,22 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VOENNO-INZHENERNOE_DELO.html
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Military_Engineering](/_Standards/bio/Society/Military/Military_Engineering.md) 
+
+### [Military_Engineering.public](/_public/bio/Society/Military/Military_Engineering.public.md) 
+
+### [Military_Engineering.internal](/_internal/bio/Society/Military/Military_Engineering.internal.md) 
+
+### [Military_Engineering.protect](/_protect/bio/Society/Military/Military_Engineering.protect.md) 
+
+### [Military_Engineering.private](/_private/bio/Society/Military/Military_Engineering.private.md) 
+
+### [Military_Engineering.personal](/_personal/bio/Society/Military/Military_Engineering.personal.md) 
+
+### [Military_Engineering.secret](/_secret/bio/Society/Military/Military_Engineering.secret.md)
+

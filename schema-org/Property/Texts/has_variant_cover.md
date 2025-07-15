@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_variant_cover )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_variant_cover](/_public/schema-org/Property/Texts/has_variant_cover.md) 
+### [has_variant_cover](/_Standards/schema-org/Property/Texts/has_variant_cover.md) 
+
+### [has_variant_cover.public](/_public/schema-org/Property/Texts/has_variant_cover.public.md) 
 
 ### [has_variant_cover.internal](/_internal/schema-org/Property/Texts/has_variant_cover.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_variant_cover.personal](/_personal/schema-org/Property/Texts/has_variant_cover.personal.md) 
 
-### [has_variant_cover.secret](/_secret/schema-org/Property/Texts/has_variant_cover.secret.md) 
+### [has_variant_cover.secret](/_secret/schema-org/Property/Texts/has_variant_cover.secret.md)
+

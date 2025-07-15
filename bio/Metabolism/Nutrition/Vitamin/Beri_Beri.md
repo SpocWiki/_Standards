@@ -44,3 +44,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Beri_Beri](/_Standards/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.md) 
+
+### [Beri_Beri.public](/_public/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.public.md) 
+
+### [Beri_Beri.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.internal.md) 
+
+### [Beri_Beri.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.protect.md) 
+
+### [Beri_Beri.private](/_private/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.private.md) 
+
+### [Beri_Beri.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.personal.md) 
+
+### [Beri_Beri.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Beri_Beri.secret.md)
+

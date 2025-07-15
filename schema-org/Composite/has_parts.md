@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,9 +51,13 @@ Relation describes that:
 
 `$=dv.current().has_sub_properties`
 `$=dv.current().has_sub_properties`
+
+
 ## Confidential Links & Embeds: 
 
-### [has_parts](/_public/schema-org/Composite/has_parts.md) 
+### [has_parts](/_Standards/schema-org/Composite/has_parts.md) 
+
+### [has_parts.public](/_public/schema-org/Composite/has_parts.public.md) 
 
 ### [has_parts.internal](/_internal/schema-org/Composite/has_parts.internal.md) 
 
@@ -63,4 +67,5 @@ Relation describes that:
 
 ### [has_parts.personal](/_personal/schema-org/Composite/has_parts.personal.md) 
 
-### [has_parts.secret](/_secret/schema-org/Composite/has_parts.secret.md) 
+### [has_parts.secret](/_secret/schema-org/Composite/has_parts.secret.md)
+

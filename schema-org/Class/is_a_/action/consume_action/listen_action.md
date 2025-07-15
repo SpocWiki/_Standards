@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of consuming audio content.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [listen_action](/_public/schema-org/Class/is_a_/action/consume_action/listen_action.md) 
+### [listen_action](/_Standards/schema-org/Class/is_a_/action/consume_action/listen_action.md) 
+
+### [listen_action.public](/_public/schema-org/Class/is_a_/action/consume_action/listen_action.public.md) 
 
 ### [listen_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/listen_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of consuming audio content.
 
 ### [listen_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/listen_action.personal.md) 
 
-### [listen_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/listen_action.secret.md) 
+### [listen_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/listen_action.secret.md)
+

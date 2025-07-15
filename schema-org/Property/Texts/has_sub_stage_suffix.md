@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_sub_stage_suffix )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sub_stage_suffix](/_public/schema-org/Property/Texts/has_sub_stage_suffix.md) 
+### [has_sub_stage_suffix](/_Standards/schema-org/Property/Texts/has_sub_stage_suffix.md) 
+
+### [has_sub_stage_suffix.public](/_public/schema-org/Property/Texts/has_sub_stage_suffix.public.md) 
 
 ### [has_sub_stage_suffix.internal](/_internal/schema-org/Property/Texts/has_sub_stage_suffix.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_sub_stage_suffix.personal](/_personal/schema-org/Property/Texts/has_sub_stage_suffix.personal.md) 
 
-### [has_sub_stage_suffix.secret](/_secret/schema-org/Property/Texts/has_sub_stage_suffix.secret.md) 
+### [has_sub_stage_suffix.secret](/_secret/schema-org/Property/Texts/has_sub_stage_suffix.secret.md)
+

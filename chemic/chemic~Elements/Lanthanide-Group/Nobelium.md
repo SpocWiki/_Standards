@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21997
 has_id_wikidata: Q1901
@@ -80,9 +80,12 @@ Unicode_character: 鍩
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobelium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nobelium](/_public/chemic/chemic~Elements/Lanthanide-Group/Nobelium.md) 
+### [Nobelium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Nobelium.md) 
+
+### [Nobelium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Nobelium.public.md) 
 
 ### [Nobelium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.internal.md) 
 
@@ -92,4 +95,5 @@ Unicode_character: 鍩
 
 ### [Nobelium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.personal.md) 
 
-### [Nobelium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Nobelium.secret.md) 
+### [Nobelium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Nobelium.secret.md)
+

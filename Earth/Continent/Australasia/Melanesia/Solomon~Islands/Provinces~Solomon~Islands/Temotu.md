@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -10.8 , 165.9 ] 
 type: geo-Region
 title: Temotu
@@ -41,7 +41,9 @@ markerFolder: ./Temotu/
 
 ## Confidential Links & Embeds: 
 
-### [Temotu](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.md) 
+### [Temotu](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.md) 
+
+### [Temotu.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.public.md) 
 
 ### [Temotu.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Temotu/
 
 ### [Temotu.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.personal.md) 
 
-### [Temotu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.secret.md) 
+### [Temotu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.secret.md)
+

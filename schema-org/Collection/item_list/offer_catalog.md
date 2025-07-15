@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offer_catalog](/_public/schema-org/Collection/item_list/offer_catalog.md) 
+### [offer_catalog](/_Standards/schema-org/Collection/item_list/offer_catalog.md) 
+
+### [offer_catalog.public](/_public/schema-org/Collection/item_list/offer_catalog.public.md) 
 
 ### [offer_catalog.internal](/_internal/schema-org/Collection/item_list/offer_catalog.internal.md) 
 
@@ -54,4 +57,5 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 
 ### [offer_catalog.personal](/_personal/schema-org/Collection/item_list/offer_catalog.personal.md) 
 
-### [offer_catalog.secret](/_secret/schema-org/Collection/item_list/offer_catalog.secret.md) 
+### [offer_catalog.secret](/_secret/schema-org/Collection/item_list/offer_catalog.secret.md)
+

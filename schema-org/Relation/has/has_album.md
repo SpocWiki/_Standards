@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_album )
 ( #has_/range :: MusicAlbum )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_album](/_public/schema-org/Relation/has/has_album.md) 
+### [has_album](/_Standards/schema-org/Relation/has/has_album.md) 
+
+### [has_album.public](/_public/schema-org/Relation/has/has_album.public.md) 
 
 ### [has_album.internal](/_internal/schema-org/Relation/has/has_album.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_album.personal](/_personal/schema-org/Relation/has/has_album.personal.md) 
 
-### [has_album.secret](/_secret/schema-org/Relation/has/has_album.secret.md) 
+### [has_album.secret](/_secret/schema-org/Relation/has/has_album.secret.md)
+

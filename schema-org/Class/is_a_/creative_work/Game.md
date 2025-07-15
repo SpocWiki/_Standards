@@ -117,16 +117,20 @@ The Game type represents things which are games. These are typically rule-govern
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Game)
 
+
 ## Confidential Links & Embeds: 
 
-### [game](/_public/schema-org/Class/is_a_/creative_work/game.md) 
+### [Game](/_Standards/schema-org/Class/is_a_/creative_work/Game.md) 
 
-### [game.internal](/_internal/schema-org/Class/is_a_/creative_work/game.internal.md) 
+### [Game.public](/_public/schema-org/Class/is_a_/creative_work/Game.public.md) 
 
-### [game.protect](/_protect/schema-org/Class/is_a_/creative_work/game.protect.md) 
+### [Game.internal](/_internal/schema-org/Class/is_a_/creative_work/Game.internal.md) 
 
-### [game.private](/_private/schema-org/Class/is_a_/creative_work/game.private.md) 
+### [Game.protect](/_protect/schema-org/Class/is_a_/creative_work/Game.protect.md) 
 
-### [game.personal](/_personal/schema-org/Class/is_a_/creative_work/game.personal.md) 
+### [Game.private](/_private/schema-org/Class/is_a_/creative_work/Game.private.md) 
 
-### [game.secret](/_secret/schema-org/Class/is_a_/creative_work/game.secret.md) 
+### [Game.personal](/_personal/schema-org/Class/is_a_/creative_work/Game.personal.md) 
+
+### [Game.secret](/_secret/schema-org/Class/is_a_/creative_work/Game.secret.md)
+

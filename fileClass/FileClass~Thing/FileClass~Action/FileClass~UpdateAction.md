@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A sub property of object. The collection target of the action.
 TargetCollection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~UpdateAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.md) 
+### [FileClass~UpdateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.md) 
+
+### [FileClass~UpdateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.public.md) 
 
 ### [FileClass~UpdateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.internal.md) 
 
@@ -57,4 +58,5 @@ TargetCollection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ### [FileClass~UpdateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.personal.md) 
 
-### [FileClass~UpdateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.secret.md) 
+### [FileClass~UpdateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.secret.md)
+

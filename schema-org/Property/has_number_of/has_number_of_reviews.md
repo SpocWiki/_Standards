@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_reviews )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_reviews](/_public/schema-org/Property/has_number_of/has_number_of_reviews.md) 
+### [has_number_of_reviews](/_Standards/schema-org/Property/has_number_of/has_number_of_reviews.md) 
+
+### [has_number_of_reviews.public](/_public/schema-org/Property/has_number_of/has_number_of_reviews.public.md) 
 
 ### [has_number_of_reviews.internal](/_internal/schema-org/Property/has_number_of/has_number_of_reviews.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_reviews.personal](/_personal/schema-org/Property/has_number_of/has_number_of_reviews.personal.md) 
 
-### [has_number_of_reviews.secret](/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret.md) 
+### [has_number_of_reviews.secret](/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret.md)
+

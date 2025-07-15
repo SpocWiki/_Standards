@@ -17,10 +17,11 @@ subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
 #is_/part_of :: ---
 #has_/parts :: [[geo~Eons/geo~Eras]]  
 
-An eon is the largest formal geochronologic time unit 
+An eon is the largest formal geo-chronologic time unit 
 and is equivalent to a chronostratigraphic eonothem. 
 These are several hundred million years to two billion years in length.
 
+They naturally apply to the [[../Earth]] only. E.g. [[../Astronomy/Solar_System/Mars|Mars]] has its own Periods. 
 ## Eon 
 
 
@@ -1208,7 +1209,9 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 
 ## Confidential Links & Embeds: 
 
-### [geo~Eons](/_public/Time-Ages/geo~Eons.md) 
+### [geo~Eons](/_Standards/Time-Ages/geo~Eons.md) 
+
+### [geo~Eons.public](/_public/Time-Ages/geo~Eons.public.md) 
 
 ### [geo~Eons.internal](/_internal/Time-Ages/geo~Eons.internal.md) 
 
@@ -1218,4 +1221,5 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 
 ### [geo~Eons.personal](/_personal/Time-Ages/geo~Eons.personal.md) 
 
-### [geo~Eons.secret](/_secret/Time-Ages/geo~Eons.secret.md) 
+### [geo~Eons.secret](/_secret/Time-Ages/geo~Eons.secret.md)
+

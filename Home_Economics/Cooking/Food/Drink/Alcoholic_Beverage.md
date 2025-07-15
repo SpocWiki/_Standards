@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Alcoholic beverage"
 has_id_wikidata: Q154
@@ -53,4 +53,23 @@ Iconclass_notation: 41C71
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alcoholic%20beverage) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Alcoholic_Beverage](/_Standards/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.md) 
+
+### [Alcoholic_Beverage.public](/_public/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.public.md) 
+
+### [Alcoholic_Beverage.internal](/_internal/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.internal.md) 
+
+### [Alcoholic_Beverage.protect](/_protect/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.protect.md) 
+
+### [Alcoholic_Beverage.private](/_private/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.private.md) 
+
+### [Alcoholic_Beverage.personal](/_personal/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.personal.md) 
+
+### [Alcoholic_Beverage.secret](/_secret/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage.secret.md)
 

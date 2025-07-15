@@ -1,4 +1,4 @@
-﻿
+
 ## Confidential Links & Embeds: 
 
 ### [rdf~predicate](../../../../_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.md) 
@@ -13,9 +13,12 @@
 
 ### [rdf~predicate.secret](../../../../_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.secret.md) 
 
+
 ## Confidential Links & Embeds: 
 
-### [rdf~predicate](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.md) 
+### [rdf~predicate](/_Standards/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.md) 
+
+### [rdf~predicate.public](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.public.md) 
 
 ### [rdf~predicate.internal](/_internal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.internal.md) 
 
@@ -25,4 +28,5 @@
 
 ### [rdf~predicate.personal](/_personal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.personal.md) 
 
-### [rdf~predicate.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.secret.md) 
+### [rdf~predicate.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~predicate.secret.md)
+

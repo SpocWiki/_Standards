@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_arrival)
 (range::DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_arrival](/_public/schema-org/Property/has_Date_Time/has_time_of_arrival.md) 
+### [has_time_of_arrival](/_Standards/schema-org/Property/has_Date_Time/has_time_of_arrival.md) 
+
+### [has_time_of_arrival.public](/_public/schema-org/Property/has_Date_Time/has_time_of_arrival.public.md) 
 
 ### [has_time_of_arrival.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_arrival.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_arrival.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_arrival.personal.md) 
 
-### [has_time_of_arrival.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_arrival.secret.md) 
+### [has_time_of_arrival.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_arrival.secret.md)
+

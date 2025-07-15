@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,7 +52,9 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [is_same_as](/_public/schema-org/Relation/is_same_as.md) 
+### [is_same_as](/_Standards/schema-org/Relation/is_same_as.md) 
+
+### [is_same_as.public](/_public/schema-org/Relation/is_same_as.public.md) 
 
 ### [is_same_as.internal](/_internal/schema-org/Relation/is_same_as.internal.md) 
 
@@ -62,4 +64,5 @@ Predicate describes that:
 
 ### [is_same_as.personal](/_personal/schema-org/Relation/is_same_as.personal.md) 
 
-### [is_same_as.secret](/_secret/schema-org/Relation/is_same_as.secret.md) 
+### [is_same_as.secret](/_secret/schema-org/Relation/is_same_as.secret.md)
+

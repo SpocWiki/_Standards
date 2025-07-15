@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ An EndorsementRating is a rating that expresses some level of endorsement, for e
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EndorsementRating](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.md) 
+### [FileClass~EndorsementRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.md) 
+
+### [FileClass~EndorsementRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.public.md) 
 
 ### [FileClass~EndorsementRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.internal.md) 
 
@@ -50,4 +51,5 @@ An EndorsementRating is a rating that expresses some level of endorsement, for e
 
 ### [FileClass~EndorsementRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.personal.md) 
 
-### [FileClass~EndorsementRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.secret.md) 
+### [FileClass~EndorsementRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~EndorsementRating.secret.md)
+

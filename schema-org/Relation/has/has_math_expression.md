@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 ( #has_/name :: has_math_expression )
 ( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_math_expression](/_public/schema-org/Relation/has/has_math_expression.md) 
+### [has_math_expression](/_Standards/schema-org/Relation/has/has_math_expression.md) 
+
+### [has_math_expression.public](/_public/schema-org/Relation/has/has_math_expression.public.md) 
 
 ### [has_math_expression.internal](/_internal/schema-org/Relation/has/has_math_expression.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_math_expression.personal](/_personal/schema-org/Relation/has/has_math_expression.personal.md) 
 
-### [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md) 
+### [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md)
+

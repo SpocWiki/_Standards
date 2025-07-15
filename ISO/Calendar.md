@@ -72,3 +72,19 @@ MeSH_tree_code: V02.220
 > [Wikipedia](https://en.wikipedia.org/wiki/Calendar)
 
 
+## Confidential Links & Embeds: 
+
+### [Calendar](/_Standards/ISO/Calendar.md) 
+
+### [Calendar.public](/_public/ISO/Calendar.public.md) 
+
+### [Calendar.internal](/_internal/ISO/Calendar.internal.md) 
+
+### [Calendar.protect](/_protect/ISO/Calendar.protect.md) 
+
+### [Calendar.private](/_private/ISO/Calendar.private.md) 
+
+### [Calendar.personal](/_personal/ISO/Calendar.personal.md) 
+
+### [Calendar.secret](/_secret/ISO/Calendar.secret.md)
+

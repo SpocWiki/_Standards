@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Victor Hugo"
 - "Victor-Marie Hugo"
@@ -226,4 +226,23 @@ date_of_birth: "1802-02-26"
 > which was attended by over two million people, the largest in French history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victor%20Hugo)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hugo,Victor](/_Standards/bio/People/Writer/Hugo,Victor.md) 
+
+### [Hugo,Victor.public](/_public/bio/People/Writer/Hugo,Victor.public.md) 
+
+### [Hugo,Victor.internal](/_internal/bio/People/Writer/Hugo,Victor.internal.md) 
+
+### [Hugo,Victor.protect](/_protect/bio/People/Writer/Hugo,Victor.protect.md) 
+
+### [Hugo,Victor.private](/_private/bio/People/Writer/Hugo,Victor.private.md) 
+
+### [Hugo,Victor.personal](/_personal/bio/People/Writer/Hugo,Victor.personal.md) 
+
+### [Hugo,Victor.secret](/_secret/bio/People/Writer/Hugo,Victor.secret.md)
 

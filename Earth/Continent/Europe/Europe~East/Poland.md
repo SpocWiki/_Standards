@@ -763,10 +763,11 @@ Capital :: [[Warszawa]]
 [Language-Id::494]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Poland](/_public/Earth/Continent/Europe/Europe~East/Poland.md) 
+### [Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland.md) 
+
+### [Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland.public.md) 
 
 ### [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
 
@@ -776,4 +777,5 @@ Capital :: [[Warszawa]]
 
 ### [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
 
-### [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md) 
+### [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md)
+

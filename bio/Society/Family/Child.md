@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7569
 IPTC_NewsCode: mediatopic/20000790
 has_characteristic: '[[_Standards/WikiData/WD~childhood,276258]]'
@@ -59,3 +59,22 @@ U_S_National_Archives_Identifier: 10638853
 > or circumstance, as in "a child of nature" or "a child of the Sixties."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Child)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Child](/_Standards/bio/Society/Family/Child.md) 
+
+### [Child.public](/_public/bio/Society/Family/Child.public.md) 
+
+### [Child.internal](/_internal/bio/Society/Family/Child.internal.md) 
+
+### [Child.protect](/_protect/bio/Society/Family/Child.protect.md) 
+
+### [Child.private](/_private/bio/Society/Family/Child.private.md) 
+
+### [Child.personal](/_personal/bio/Society/Family/Child.personal.md) 
+
+### [Child.secret](/_secret/bio/Society/Family/Child.secret.md)
+

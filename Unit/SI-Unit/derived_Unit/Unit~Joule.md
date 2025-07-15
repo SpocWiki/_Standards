@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Joule]] 
 
 #is_a_/unit_/for_/energy 
@@ -8,7 +8,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Joule](/_public/Unit/SI-Unit/derived_Unit/Unit~Joule.md) 
+### [Unit~Joule](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Joule.md) 
+
+### [Unit~Joule.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Joule.public.md) 
 
 ### [Unit~Joule.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Joule.internal.md) 
 
@@ -18,4 +20,5 @@
 
 ### [Unit~Joule.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Joule.personal.md) 
 
-### [Unit~Joule.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Joule.secret.md) 
+### [Unit~Joule.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Joule.secret.md)
+

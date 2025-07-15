@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_value_added_tax_included )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_value_added_tax_included](/_public/schema-org/Property/Flags/is_value_added_tax_included.md) 
+### [is_value_added_tax_included](/_Standards/schema-org/Property/Flags/is_value_added_tax_included.md) 
+
+### [is_value_added_tax_included.public](/_public/schema-org/Property/Flags/is_value_added_tax_included.public.md) 
 
 ### [is_value_added_tax_included.internal](/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_value_added_tax_included.personal](/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal.md) 
 
-### [is_value_added_tax_included.secret](/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret.md) 
+### [is_value_added_tax_included.secret](/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret.md)
+

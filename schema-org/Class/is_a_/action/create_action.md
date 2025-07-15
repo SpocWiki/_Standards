@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of deliberately creating/producing/generating/building a result out of t
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [create_action](/_public/schema-org/Class/is_a_/action/create_action.md) 
+### [create_action](/_Standards/schema-org/Class/is_a_/action/create_action.md) 
+
+### [create_action.public](/_public/schema-org/Class/is_a_/action/create_action.public.md) 
 
 ### [create_action.internal](/_internal/schema-org/Class/is_a_/action/create_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of deliberately creating/producing/generating/building a result out of t
 
 ### [create_action.personal](/_personal/schema-org/Class/is_a_/action/create_action.personal.md) 
 
-### [create_action.secret](/_secret/schema-org/Class/is_a_/action/create_action.secret.md) 
+### [create_action.secret](/_secret/schema-org/Class/is_a_/action/create_action.secret.md)
+

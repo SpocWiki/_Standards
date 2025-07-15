@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Relation describes that:
 ( #has_/name :: has_nutrition )
 ( #has_/range :: NutritionInformation )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_nutrition](/_public/schema-org/Relation/has/has_nutrition.md) 
+### [has_nutrition](/_Standards/schema-org/Relation/has/has_nutrition.md) 
+
+### [has_nutrition.public](/_public/schema-org/Relation/has/has_nutrition.public.md) 
 
 ### [has_nutrition.internal](/_internal/schema-org/Relation/has/has_nutrition.internal.md) 
 
@@ -50,4 +53,5 @@ Relation describes that:
 
 ### [has_nutrition.personal](/_personal/schema-org/Relation/has/has_nutrition.personal.md) 
 
-### [has_nutrition.secret](/_secret/schema-org/Relation/has/has_nutrition.secret.md) 
+### [has_nutrition.secret](/_secret/schema-org/Relation/has/has_nutrition.secret.md)
+

@@ -1,4 +1,4 @@
-﻿# [[HTML~Attributes]] 
+# [[HTML~Attributes]] 
 
 ## Overview
 
@@ -15,7 +15,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [HTML~Attributes](/_public/W3C/HTML/HTML~Attributes.md) 
+### [HTML~Attributes](/_Standards/W3C/HTML/HTML~Attributes.md) 
+
+### [HTML~Attributes.public](/_public/W3C/HTML/HTML~Attributes.public.md) 
 
 ### [HTML~Attributes.internal](/_internal/W3C/HTML/HTML~Attributes.internal.md) 
 
@@ -25,4 +27,5 @@ type: folder_brief_live
 
 ### [HTML~Attributes.personal](/_personal/W3C/HTML/HTML~Attributes.personal.md) 
 
-### [HTML~Attributes.secret](/_secret/W3C/HTML/HTML~Attributes.secret.md) 
+### [HTML~Attributes.secret](/_secret/W3C/HTML/HTML~Attributes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The artwork on the outer surface of a CreativeWork.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CoverArt](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.md) 
+### [FileClass~CoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.md) 
+
+### [FileClass~CoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.public.md) 
 
 ### [FileClass~CoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.internal.md) 
 
@@ -46,4 +47,5 @@ The artwork on the outer surface of a CreativeWork.
 
 ### [FileClass~CoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.personal.md) 
 
-### [FileClass~CoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret.md) 
+### [FileClass~CoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt.secret.md)
+

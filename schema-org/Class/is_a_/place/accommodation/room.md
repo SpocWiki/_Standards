@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [room](/_public/schema-org/Class/is_a_/place/accommodation/room.md) 
+### [room](/_Standards/schema-org/Class/is_a_/place/accommodation/room.md) 
+
+### [room.public](/_public/schema-org/Class/is_a_/place/accommodation/room.public.md) 
 
 ### [room.internal](/_internal/schema-org/Class/is_a_/place/accommodation/room.internal.md) 
 
@@ -58,4 +61,5 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ### [room.personal](/_personal/schema-org/Class/is_a_/place/accommodation/room.personal.md) 
 
-### [room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room.secret.md) 
+### [room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.14 , 19.92 ] 
 type: geo-Region
 title: Jomala
@@ -41,7 +41,9 @@ markerFolder: ./Jomala/
 
 ## Confidential Links & Embeds: 
 
-### [Jomala](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.md) 
+### [Jomala](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.md) 
+
+### [Jomala.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.public.md) 
 
 ### [Jomala.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Jomala/
 
 ### [Jomala.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.personal.md) 
 
-### [Jomala.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.secret.md) 
+### [Jomala.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala.secret.md)
+

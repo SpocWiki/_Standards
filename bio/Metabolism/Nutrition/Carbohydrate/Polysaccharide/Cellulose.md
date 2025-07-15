@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q80294
 NSC_number: 225105
 E_number: E460
@@ -95,4 +95,23 @@ CosIng_number: 32480
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cellulose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.md) 
+
+### [Cellulose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.public.md) 
+
+### [Cellulose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.internal.md) 
+
+### [Cellulose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.protect.md) 
+
+### [Cellulose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.private.md) 
+
+### [Cellulose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.personal.md) 
+
+### [Cellulose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Cellulose.secret.md)
 

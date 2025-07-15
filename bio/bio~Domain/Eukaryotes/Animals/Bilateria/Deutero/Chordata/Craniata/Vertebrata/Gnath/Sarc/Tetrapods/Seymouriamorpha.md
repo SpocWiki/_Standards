@@ -315,3 +315,21 @@ seymouriamorphs in Xinjiang, China. Vertebrata PalAsiatica 22: 294-304.
   Reference            Reproduced from White, T. E. 1939. Osteology of Seymouria baylorensis Broili. Bulletin of the Museum of Comparative Zoology 85:325-409.
   Specimen Condition   Fossil \-- Period: Lower Permian
   ------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Seymouriamorpha](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.md) 
+
+### [Seymouriamorpha.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.public.md) 
+
+### [Seymouriamorpha.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.internal.md) 
+
+### [Seymouriamorpha.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.protect.md) 
+
+### [Seymouriamorpha.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.private.md) 
+
+### [Seymouriamorpha.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.personal.md) 
+
+### [Seymouriamorpha.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Seymouriamorpha.secret.md)
+

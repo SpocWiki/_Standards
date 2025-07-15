@@ -245,3 +245,22 @@ Libris_URI: 53hkkdkp4cljjgm
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Winston%20Churchill)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Churchill,Winston](/_Standards/bio/People/Leader/Modern_Leaders/Churchill,Winston.md) 
+
+### [Churchill,Winston.public](/_public/bio/People/Leader/Modern_Leaders/Churchill,Winston.public.md) 
+
+### [Churchill,Winston.internal](/_internal/bio/People/Leader/Modern_Leaders/Churchill,Winston.internal.md) 
+
+### [Churchill,Winston.protect](/_protect/bio/People/Leader/Modern_Leaders/Churchill,Winston.protect.md) 
+
+### [Churchill,Winston.private](/_private/bio/People/Leader/Modern_Leaders/Churchill,Winston.private.md) 
+
+### [Churchill,Winston.personal](/_personal/bio/People/Leader/Modern_Leaders/Churchill,Winston.personal.md) 
+
+### [Churchill,Winston.secret](/_secret/bio/People/Leader/Modern_Leaders/Churchill,Winston.secret.md)
+

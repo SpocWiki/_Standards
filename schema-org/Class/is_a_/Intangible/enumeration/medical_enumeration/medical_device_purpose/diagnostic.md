@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A medical device used for diagnostic purposes.
 
 [ #is_/enum_of :: [[../MedicalDevicePurpose]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [diagnostic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
+### [diagnostic](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
+
+### [diagnostic.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.public.md) 
 
 ### [diagnostic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md) 
 
@@ -56,4 +59,5 @@ A medical device used for diagnostic purposes.
 
 ### [diagnostic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal.md) 
 
-### [diagnostic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md) 
+### [diagnostic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md)
+

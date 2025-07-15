@@ -15,3 +15,21 @@ aliases:
 > and at Hochelaga (Montreal Island).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Cartier)
+
+
+## Confidential Links & Embeds: 
+
+### [Cartier,Jacques](/_Standards/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.md) 
+
+### [Cartier,Jacques.public](/_public/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.public.md) 
+
+### [Cartier,Jacques.internal](/_internal/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.internal.md) 
+
+### [Cartier,Jacques.protect](/_protect/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.protect.md) 
+
+### [Cartier,Jacques.private](/_private/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.private.md) 
+
+### [Cartier,Jacques.personal](/_personal/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.personal.md) 
+
+### [Cartier,Jacques.secret](/_secret/bio/People/Explorers/Age_of_Discovery/Cartier,Jacques.secret.md)
+

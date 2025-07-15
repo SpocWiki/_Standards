@@ -100,9 +100,12 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bismuth)
 
+
 ## Confidential Links & Embeds: 
 
-### [Bismuth](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.md) 
+### [Bismuth](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.md) 
+
+### [Bismuth.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.public.md) 
 
 ### [Bismuth.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.internal.md) 
 
@@ -112,4 +115,5 @@ MeSH_tree_code:
 
 ### [Bismuth.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.personal.md) 
 
-### [Bismuth.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.secret.md) 
+### [Bismuth.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.secret.md)
+

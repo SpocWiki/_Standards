@@ -161,3 +161,21 @@ Technical Report NMFS 152: 1-58.
   Reference         Rancurel, P. 1973. Mastigoteuthis hjorti Chun 1913 description de trois échantillons proventant du Golfe de Guinée. Cah. O.R.S.T.O.M., ser. Océanogr., 11: 27-32.
   Size              44 mm ML
   -------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [hjorti](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.md) 
+
+### [hjorti.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.public.md) 
+
+### [hjorti.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.internal.md) 
+
+### [hjorti.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.protect.md) 
+
+### [hjorti.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.private.md) 
+
+### [hjorti.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.personal.md) 
+
+### [hjorti.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/hjorti.secret.md)
+

@@ -61,3 +61,22 @@ OmegaWiki_Defined_Meaning: 1349
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethics)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ethics](/_Standards/bio/People/Philosopher/Ethics.md) 
+
+### [Ethics.public](/_public/bio/People/Philosopher/Ethics.public.md) 
+
+### [Ethics.internal](/_internal/bio/People/Philosopher/Ethics.internal.md) 
+
+### [Ethics.protect](/_protect/bio/People/Philosopher/Ethics.protect.md) 
+
+### [Ethics.private](/_private/bio/People/Philosopher/Ethics.private.md) 
+
+### [Ethics.personal](/_personal/bio/People/Philosopher/Ethics.personal.md) 
+
+### [Ethics.secret](/_secret/bio/People/Philosopher/Ethics.secret.md)
+

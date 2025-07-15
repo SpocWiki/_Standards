@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.53 , 134.56 ] 
 type: geo-Region
 title: Ngeremlengui
@@ -41,7 +41,9 @@ markerFolder: ./Ngeremlengui/
 
 ## Confidential Links & Embeds: 
 
-### [Ngeremlengui](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.md) 
+### [Ngeremlengui](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.md) 
+
+### [Ngeremlengui.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.public.md) 
 
 ### [Ngeremlengui.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngeremlengui/
 
 ### [Ngeremlengui.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.personal.md) 
 
-### [Ngeremlengui.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.secret.md) 
+### [Ngeremlengui.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.secret.md)
+

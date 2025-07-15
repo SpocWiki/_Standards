@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: description ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_disambiguating_description](/_public/schema-org/Property/Texts/has_disambiguating_description.md) 
+### [has_disambiguating_description](/_Standards/schema-org/Property/Texts/has_disambiguating_description.md) 
+
+### [has_disambiguating_description.public](/_public/schema-org/Property/Texts/has_disambiguating_description.public.md) 
 
 ### [has_disambiguating_description.internal](/_internal/schema-org/Property/Texts/has_disambiguating_description.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_disambiguating_description.personal](/_personal/schema-org/Property/Texts/has_disambiguating_description.personal.md) 
 
-### [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md) 
+### [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md)
+

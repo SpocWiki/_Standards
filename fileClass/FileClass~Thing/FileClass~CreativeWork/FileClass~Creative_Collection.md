@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -45,7 +45,9 @@ CollectionSize:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Creative_Collection](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.md) 
+### [FileClass~Creative_Collection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.md) 
+
+### [FileClass~Creative_Collection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.public.md) 
 
 ### [FileClass~Creative_Collection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.internal.md) 
 
@@ -55,4 +57,5 @@ CollectionSize:: {"type":"Number","options":{}}
 
 ### [FileClass~Creative_Collection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.personal.md) 
 
-### [FileClass~Creative_Collection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret.md) 
+### [FileClass~Creative_Collection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,9 +53,12 @@ Relation describes that:
 ( #has_/name :: is_positive_notes )
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_positive_notes](/_public/schema-org/Relation/has/has_positive_notes.md) 
+### [has_positive_notes](/_Standards/schema-org/Relation/has/has_positive_notes.md) 
+
+### [has_positive_notes.public](/_public/schema-org/Relation/has/has_positive_notes.public.md) 
 
 ### [has_positive_notes.internal](/_internal/schema-org/Relation/has/has_positive_notes.internal.md) 
 
@@ -65,4 +68,5 @@ Relation describes that:
 
 ### [has_positive_notes.personal](/_personal/schema-org/Relation/has/has_positive_notes.personal.md) 
 
-### [has_positive_notes.secret](/_secret/schema-org/Relation/has/has_positive_notes.secret.md) 
+### [has_positive_notes.secret](/_secret/schema-org/Relation/has/has_positive_notes.secret.md)
+

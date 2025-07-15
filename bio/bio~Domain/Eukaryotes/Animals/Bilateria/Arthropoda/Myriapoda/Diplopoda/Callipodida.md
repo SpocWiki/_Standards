@@ -48,3 +48,22 @@ title: Callipodida
 	-   *Schizopetalidae*
 	-   *Sinocallipodidae*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Callipodida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.md) 
+
+### [Callipodida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.public.md) 
+
+### [Callipodida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.internal.md) 
+
+### [Callipodida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.protect.md) 
+
+### [Callipodida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.private.md) 
+
+### [Callipodida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.personal.md) 
+
+### [Callipodida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda/Diplopoda/Callipodida.secret.md)
+

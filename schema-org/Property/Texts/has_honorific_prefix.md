@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_honorific_prefix )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_honorific_prefix](/_public/schema-org/Property/Texts/has_honorific_prefix.md) 
+### [has_honorific_prefix](/_Standards/schema-org/Property/Texts/has_honorific_prefix.md) 
+
+### [has_honorific_prefix.public](/_public/schema-org/Property/Texts/has_honorific_prefix.public.md) 
 
 ### [has_honorific_prefix.internal](/_internal/schema-org/Property/Texts/has_honorific_prefix.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_honorific_prefix.personal](/_personal/schema-org/Property/Texts/has_honorific_prefix.personal.md) 
 
-### [has_honorific_prefix.secret](/_secret/schema-org/Property/Texts/has_honorific_prefix.secret.md) 
+### [has_honorific_prefix.secret](/_secret/schema-org/Property/Texts/has_honorific_prefix.secret.md)
+

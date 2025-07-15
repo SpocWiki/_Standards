@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_shipping_label )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_shipping_label](/_public/schema-org/Property/Texts/has_shipping_label.md) 
+### [has_shipping_label](/_Standards/schema-org/Property/Texts/has_shipping_label.md) 
+
+### [has_shipping_label.public](/_public/schema-org/Property/Texts/has_shipping_label.public.md) 
 
 ### [has_shipping_label.internal](/_internal/schema-org/Property/Texts/has_shipping_label.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_shipping_label.personal](/_personal/schema-org/Property/Texts/has_shipping_label.personal.md) 
 
-### [has_shipping_label.secret](/_secret/schema-org/Property/Texts/has_shipping_label.secret.md) 
+### [has_shipping_label.secret](/_secret/schema-org/Property/Texts/has_shipping_label.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [funding_scheme](/_public/schema-org/Class/is_a_/organization/funding_scheme.md) 
+### [funding_scheme](/_Standards/schema-org/Class/is_a_/organization/funding_scheme.md) 
+
+### [funding_scheme.public](/_public/schema-org/Class/is_a_/organization/funding_scheme.public.md) 
 
 ### [funding_scheme.internal](/_internal/schema-org/Class/is_a_/organization/funding_scheme.internal.md) 
 
@@ -58,4 +61,5 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 ### [funding_scheme.personal](/_personal/schema-org/Class/is_a_/organization/funding_scheme.personal.md) 
 
-### [funding_scheme.secret](/_secret/schema-org/Class/is_a_/organization/funding_scheme.secret.md) 
+### [funding_scheme.secret](/_secret/schema-org/Class/is_a_/organization/funding_scheme.secret.md)
+

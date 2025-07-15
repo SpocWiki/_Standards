@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.54 , 166.94 ] 
 type: geo-Region
 title: Meneng
@@ -41,7 +41,9 @@ markerFolder: ./Meneng/
 
 ## Confidential Links & Embeds: 
 
-### [Meneng](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.md) 
+### [Meneng](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.md) 
+
+### [Meneng.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.public.md) 
 
 ### [Meneng.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Meneng/
 
 ### [Meneng.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.personal.md) 
 
-### [Meneng.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.secret.md) 
+### [Meneng.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.secret.md)
+

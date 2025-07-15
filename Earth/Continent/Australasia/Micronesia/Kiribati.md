@@ -371,9 +371,12 @@ Capital :: [[South_Tarawa]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kiribati)
 
+
 ## Confidential Links & Embeds: 
 
-### [Kiribati](/_public/Earth/Continent/Australasia/Micronesia/Kiribati.md) 
+### [Kiribati](/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati.md) 
+
+### [Kiribati.public](/_public/Earth/Continent/Australasia/Micronesia/Kiribati.public.md) 
 
 ### [Kiribati.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal.md) 
 
@@ -383,4 +386,5 @@ Capital :: [[South_Tarawa]]
 
 ### [Kiribati.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal.md) 
 
-### [Kiribati.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret.md) 
+### [Kiribati.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret.md)
+

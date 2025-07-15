@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An ItemList ordered with lower values listed first.
 
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [item_list_order_ascending](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.md) 
+### [item_list_order_ascending](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.md) 
+
+### [item_list_order_ascending.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.public.md) 
 
 ### [item_list_order_ascending.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.internal.md) 
 
@@ -56,4 +59,5 @@ An ItemList ordered with lower values listed first.
 
 ### [item_list_order_ascending.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.personal.md) 
 
-### [item_list_order_ascending.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.secret.md) 
+### [item_list_order_ascending.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_order_ascending.secret.md)
+

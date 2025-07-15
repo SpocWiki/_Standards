@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_in_support_of )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_in_support_of](/_public/schema-org/Property/Texts/has_in_support_of.md) 
+### [has_in_support_of](/_Standards/schema-org/Property/Texts/has_in_support_of.md) 
+
+### [has_in_support_of.public](/_public/schema-org/Property/Texts/has_in_support_of.public.md) 
 
 ### [has_in_support_of.internal](/_internal/schema-org/Property/Texts/has_in_support_of.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_in_support_of.personal](/_personal/schema-org/Property/Texts/has_in_support_of.personal.md) 
 
-### [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md) 
+### [has_in_support_of.secret](/_secret/schema-org/Property/Texts/has_in_support_of.secret.md)
+

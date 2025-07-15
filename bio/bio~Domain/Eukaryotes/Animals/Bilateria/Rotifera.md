@@ -86,3 +86,22 @@ Creator           J. M. Cavanihac
 Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rotifera](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.md) 
+
+### [Rotifera.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.public.md) 
+
+### [Rotifera.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.internal.md) 
+
+### [Rotifera.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.protect.md) 
+
+### [Rotifera.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.private.md) 
+
+### [Rotifera.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.personal.md) 
+
+### [Rotifera.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Rotifera.secret.md)
+

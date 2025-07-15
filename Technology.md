@@ -62,4 +62,19 @@ subreddit:
 > [Wikipedia](https://en.wikipedia.org/wiki/Technology)  
 
 
+## Confidential Links & Embeds: 
+
+### [Technology](/_Standards/Technology.md) 
+
+### [Technology.public](/_public/Technology.public.md) 
+
+### [Technology.internal](/_internal/Technology.internal.md) 
+
+### [Technology.protect](/_protect/Technology.protect.md) 
+
+### [Technology.private](/_private/Technology.private.md) 
+
+### [Technology.personal](/_personal/Technology.personal.md) 
+
+### [Technology.secret](/_secret/Technology.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_supply_to )
 ( #has_/range :: AnatomicalStructure )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_supply_to](/_public/schema-org/Relation/has/has_supply_to.md) 
+### [has_supply_to](/_Standards/schema-org/Relation/has/has_supply_to.md) 
+
+### [has_supply_to.public](/_public/schema-org/Relation/has/has_supply_to.public.md) 
 
 ### [has_supply_to.internal](/_internal/schema-org/Relation/has/has_supply_to.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_supply_to.personal](/_personal/schema-org/Relation/has/has_supply_to.personal.md) 
 
-### [has_supply_to.secret](/_secret/schema-org/Relation/has/has_supply_to.secret.md) 
+### [has_supply_to.secret](/_secret/schema-org/Relation/has/has_supply_to.secret.md)
+

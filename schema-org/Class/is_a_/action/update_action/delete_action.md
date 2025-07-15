@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of editing a recipient by removing one of its objects.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [delete_action](/_public/schema-org/Class/is_a_/action/update_action/delete_action.md) 
+### [delete_action](/_Standards/schema-org/Class/is_a_/action/update_action/delete_action.md) 
+
+### [delete_action.public](/_public/schema-org/Class/is_a_/action/update_action/delete_action.public.md) 
 
 ### [delete_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/delete_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of editing a recipient by removing one of its objects.
 
 ### [delete_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/delete_action.personal.md) 
 
-### [delete_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/delete_action.secret.md) 
+### [delete_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/delete_action.secret.md)
+

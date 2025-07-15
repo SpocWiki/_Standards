@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_cost_per_unit )
 ( #has_/range :: Number, QualitativeValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_cost_per_unit](/_public/schema-org/Property/has_value_for/has_value_for_cost_per_unit.md) 
+### [has_value_for_cost_per_unit](/_Standards/schema-org/Property/has_value_for/has_value_for_cost_per_unit.md) 
+
+### [has_value_for_cost_per_unit.public](/_public/schema-org/Property/has_value_for/has_value_for_cost_per_unit.public.md) 
 
 ### [has_value_for_cost_per_unit.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_cost_per_unit.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cost_per_unit.personal.md) 
 
-### [has_value_for_cost_per_unit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cost_per_unit.secret.md) 
+### [has_value_for_cost_per_unit.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cost_per_unit.secret.md)
+

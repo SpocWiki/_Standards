@@ -87,10 +87,11 @@ has_id_wikidata: Q9610
 > [Wikipedia](https://en.wikipedia.org/wiki/Bengali%20language)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lang-bn](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.md) 
+### [Lang-bn](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.md) 
+
+### [Lang-bn.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.public.md) 
 
 ### [Lang-bn.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.internal.md) 
 
@@ -100,4 +101,5 @@ has_id_wikidata: Q9610
 
 ### [Lang-bn.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.personal.md) 
 
-### [Lang-bn.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.secret.md) 
+### [Lang-bn.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.secret.md)
+

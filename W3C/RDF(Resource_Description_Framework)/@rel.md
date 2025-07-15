@@ -1,4 +1,4 @@
-﻿Valid HTML rel=Attributes are [registered with IANA](https://www.iana.org/assignments/link-relations/link-relations-1.csv) 
+Valid HTML rel=Attributes are [registered with IANA](https://www.iana.org/assignments/link-relations/link-relations-1.csv) 
 and a Subset is also described in [WHATWG](https://html.spec.whatwg.org/multipage/links.html#linkTypes): 
 There is also a rev=Attribute for the Reverse Relation, but that was eliminated in HTML5. 
 
@@ -130,7 +130,9 @@ There is also a rev=Attribute for the Reverse Relation, but that was eliminated 
 
 ## Confidential Links & Embeds: 
 
-### [@rel](/_public/W3C/RDF(Resource_Description_Framework)/@rel.md) 
+### [@rel](/_Standards/W3C/RDF(Resource_Description_Framework)/@rel.md) 
+
+### [@rel.public](/_public/W3C/RDF(Resource_Description_Framework)/@rel.public.md) 
 
 ### [@rel.internal](/_internal/W3C/RDF(Resource_Description_Framework)/@rel.internal.md) 
 
@@ -140,4 +142,5 @@ There is also a rev=Attribute for the Reverse Relation, but that was eliminated 
 
 ### [@rel.personal](/_personal/W3C/RDF(Resource_Description_Framework)/@rel.personal.md) 
 
-### [@rel.secret](/_secret/W3C/RDF(Resource_Description_Framework)/@rel.secret.md) 
+### [@rel.secret](/_secret/W3C/RDF(Resource_Description_Framework)/@rel.secret.md)
+

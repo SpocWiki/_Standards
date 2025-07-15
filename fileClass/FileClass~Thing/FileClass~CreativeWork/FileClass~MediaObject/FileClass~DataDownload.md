@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -46,10 +46,11 @@ A technique, method or technology used in an [[Observation]], [[StatisticalVaria
 MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasurementMethodEnum"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DataDownload](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.md) 
+### [FileClass~DataDownload](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.md) 
+
+### [FileClass~DataDownload.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.public.md) 
 
 ### [FileClass~DataDownload.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.internal.md) 
 
@@ -59,4 +60,5 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 
 ### [FileClass~DataDownload.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.personal.md) 
 
-### [FileClass~DataDownload.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.secret.md) 
+### [FileClass~DataDownload.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~DataDownload.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_potential_action )
 ( #has_/range :: Action )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_potential_action](/_public/schema-org/Relation/has/has_potential_action.md) 
+### [has_potential_action](/_Standards/schema-org/Relation/has/has_potential_action.md) 
+
+### [has_potential_action.public](/_public/schema-org/Relation/has/has_potential_action.public.md) 
 
 ### [has_potential_action.internal](/_internal/schema-org/Relation/has/has_potential_action.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_potential_action.personal](/_personal/schema-org/Relation/has/has_potential_action.personal.md) 
 
-### [has_potential_action.secret](/_secret/schema-org/Relation/has/has_potential_action.secret.md) 
+### [has_potential_action.secret](/_secret/schema-org/Relation/has/has_potential_action.secret.md)
+

@@ -214,3 +214,22 @@ date_of_birth: "1265"
 > [Wikipedia](https://en.wikipedia.org/wiki/Dante%20Alighieri)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Alighieri,Dante](/_Standards/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.md) 
+
+### [Alighieri,Dante.public](/_public/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.public.md) 
+
+### [Alighieri,Dante.internal](/_internal/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.internal.md) 
+
+### [Alighieri,Dante.protect](/_protect/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.protect.md) 
+
+### [Alighieri,Dante.private](/_private/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.private.md) 
+
+### [Alighieri,Dante.personal](/_personal/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.personal.md) 
+
+### [Alighieri,Dante.secret](/_secret/bio/People/Writer/Middle_Age_Writers/Alighieri,Dante.secret.md)
+

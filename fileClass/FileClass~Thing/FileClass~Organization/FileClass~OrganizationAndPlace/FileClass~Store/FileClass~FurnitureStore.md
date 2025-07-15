@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A furniture store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FurnitureStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.md) 
+### [FileClass~FurnitureStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.md) 
+
+### [FileClass~FurnitureStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.public.md) 
 
 ### [FileClass~FurnitureStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.internal.md) 
 
@@ -46,4 +47,5 @@ A furniture store.
 
 ### [FileClass~FurnitureStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.personal.md) 
 
-### [FileClass~FurnitureStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.secret.md) 
+### [FileClass~FurnitureStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.secret.md)
+

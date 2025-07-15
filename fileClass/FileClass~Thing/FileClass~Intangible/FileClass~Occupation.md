@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -121,10 +121,11 @@ A statement of knowledge, skill, ability, task or any other assertion expressing
 Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Occupation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.md) 
+### [FileClass~Occupation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.md) 
+
+### [FileClass~Occupation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.public.md) 
 
 ### [FileClass~Occupation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.internal.md) 
 
@@ -134,4 +135,5 @@ Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~Occupation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.personal.md) 
 
-### [FileClass~Occupation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.secret.md) 
+### [FileClass~Occupation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.secret.md)
+

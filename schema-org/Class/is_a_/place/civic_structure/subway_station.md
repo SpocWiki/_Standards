@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A subway station.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [subway_station](/_public/schema-org/Class/is_a_/place/civic_structure/subway_station.md) 
+### [subway_station](/_Standards/schema-org/Class/is_a_/place/civic_structure/subway_station.md) 
+
+### [subway_station.public](/_public/schema-org/Class/is_a_/place/civic_structure/subway_station.public.md) 
 
 ### [subway_station.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/subway_station.internal.md) 
 
@@ -54,4 +57,5 @@ A subway station.
 
 ### [subway_station.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/subway_station.personal.md) 
 
-### [subway_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/subway_station.secret.md) 
+### [subway_station.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/subway_station.secret.md)
+

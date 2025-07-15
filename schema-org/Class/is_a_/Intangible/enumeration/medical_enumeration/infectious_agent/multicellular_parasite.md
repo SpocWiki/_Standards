@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,9 +39,12 @@ Multicellular parasite that causes an infection.
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [multicellular_parasite](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.md) 
+### [multicellular_parasite](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.md) 
+
+### [multicellular_parasite.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.public.md) 
 
 ### [multicellular_parasite.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.internal.md) 
 
@@ -51,4 +54,5 @@ Multicellular parasite that causes an infection.
 
 ### [multicellular_parasite.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.personal.md) 
 
-### [multicellular_parasite.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.secret.md) 
+### [multicellular_parasite.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/multicellular_parasite.secret.md)
+

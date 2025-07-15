@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_stage )
 ( #has_/range :: MedicalConditionStage )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_stage](/_public/schema-org/Relation/has/has_stage.md) 
+### [has_stage](/_Standards/schema-org/Relation/has/has_stage.md) 
+
+### [has_stage.public](/_public/schema-org/Relation/has/has_stage.public.md) 
 
 ### [has_stage.internal](/_internal/schema-org/Relation/has/has_stage.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_stage.personal](/_personal/schema-org/Relation/has/has_stage.personal.md) 
 
-### [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md) 
+### [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md)
+

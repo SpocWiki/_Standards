@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ A short summary of the specific claims reviewed in a ClaimReview.
 ClaimReviewed:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ClaimReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.md) 
+### [FileClass~ClaimReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.md) 
+
+### [FileClass~ClaimReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.public.md) 
 
 ### [FileClass~ClaimReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.internal.md) 
 
@@ -56,4 +57,5 @@ ClaimReviewed:: {"type":"Input","options":{}}
 
 ### [FileClass~ClaimReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.personal.md) 
 
-### [FileClass~ClaimReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.secret.md) 
+### [FileClass~ClaimReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~ClaimReview.secret.md)
+

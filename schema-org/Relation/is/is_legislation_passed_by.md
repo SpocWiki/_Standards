@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: [[has_creator]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_legislation_passed_by](/_public/schema-org/Relation/is/is_legislation_passed_by.md) 
+### [is_legislation_passed_by](/_Standards/schema-org/Relation/is/is_legislation_passed_by.md) 
+
+### [is_legislation_passed_by.public](/_public/schema-org/Relation/is/is_legislation_passed_by.public.md) 
 
 ### [is_legislation_passed_by.internal](/_internal/schema-org/Relation/is/is_legislation_passed_by.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_legislation_passed_by.personal](/_personal/schema-org/Relation/is/is_legislation_passed_by.personal.md) 
 
-### [is_legislation_passed_by.secret](/_secret/schema-org/Relation/is/is_legislation_passed_by.secret.md) 
+### [is_legislation_passed_by.secret](/_secret/schema-org/Relation/is/is_legislation_passed_by.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A medical trial is a type of medical study that uses a scientific process to com
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, trialDesign, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_trial](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.md) 
+### [medical_trial](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.md) 
+
+### [medical_trial.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.public.md) 
 
 ### [medical_trial.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.internal.md) 
 
@@ -54,4 +57,5 @@ A medical trial is a type of medical study that uses a scientific process to com
 
 ### [medical_trial.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.personal.md) 
 
-### [medical_trial.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.secret.md) 
+### [medical_trial.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_trial.secret.md)
+

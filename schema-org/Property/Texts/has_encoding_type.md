@@ -47,9 +47,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_encoding_type )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_encoding_type](/_public/schema-org/Property/Texts/has_encoding_type.md) 
+### [has_encoding_type](/_Standards/schema-org/Property/Texts/has_encoding_type.md) 
+
+### [has_encoding_type.public](/_public/schema-org/Property/Texts/has_encoding_type.public.md) 
 
 ### [has_encoding_type.internal](/_internal/schema-org/Property/Texts/has_encoding_type.internal.md) 
 
@@ -59,4 +62,5 @@ Predicated describes that:
 
 ### [has_encoding_type.personal](/_personal/schema-org/Property/Texts/has_encoding_type.personal.md) 
 
-### [has_encoding_type.secret](/_secret/schema-org/Property/Texts/has_encoding_type.secret.md) 
+### [has_encoding_type.secret](/_secret/schema-org/Property/Texts/has_encoding_type.secret.md)
+

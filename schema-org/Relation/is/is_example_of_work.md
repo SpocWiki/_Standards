@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: workExample ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_example_of_work](/_public/schema-org/Relation/is/is_example_of_work.md) 
+### [is_example_of_work](/_Standards/schema-org/Relation/is/is_example_of_work.md) 
+
+### [is_example_of_work.public](/_public/schema-org/Relation/is/is_example_of_work.public.md) 
 
 ### [is_example_of_work.internal](/_internal/schema-org/Relation/is/is_example_of_work.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [is_example_of_work.personal](/_personal/schema-org/Relation/is/is_example_of_work.personal.md) 
 
-### [is_example_of_work.secret](/_secret/schema-org/Relation/is/is_example_of_work.secret.md) 
+### [is_example_of_work.secret](/_secret/schema-org/Relation/is/is_example_of_work.secret.md)
+

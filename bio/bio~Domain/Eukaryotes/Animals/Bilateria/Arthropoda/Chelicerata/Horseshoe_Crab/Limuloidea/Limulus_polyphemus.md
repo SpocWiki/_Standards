@@ -68,3 +68,22 @@ Location ::          Washington D.C., USA
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2000 [John White](mailto:reptiles@erols.com)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Limulus_polyphemus](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.md) 
+
+### [Limulus_polyphemus.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.public.md) 
+
+### [Limulus_polyphemus.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.internal.md) 
+
+### [Limulus_polyphemus.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.protect.md) 
+
+### [Limulus_polyphemus.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.private.md) 
+
+### [Limulus_polyphemus.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.personal.md) 
+
+### [Limulus_polyphemus.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A shopping center or mall.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ShoppingCenter](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.md) 
+### [FileClass~ShoppingCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.md) 
+
+### [FileClass~ShoppingCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.public.md) 
 
 ### [FileClass~ShoppingCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.internal.md) 
 
@@ -46,4 +47,5 @@ A shopping center or mall.
 
 ### [FileClass~ShoppingCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.personal.md) 
 
-### [FileClass~ShoppingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret.md) 
+### [FileClass~ShoppingCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ShoppingCenter.secret.md)
+

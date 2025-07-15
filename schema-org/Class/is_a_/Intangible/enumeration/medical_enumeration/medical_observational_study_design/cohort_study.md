@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Also known as a panel study. A cohort study is a form of longitudinal study used
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cohort_study](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.md) 
+### [cohort_study](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.md) 
+
+### [cohort_study.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.public.md) 
 
 ### [cohort_study.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.internal.md) 
 
@@ -56,4 +59,5 @@ Also known as a panel study. A cohort study is a form of longitudinal study used
 
 ### [cohort_study.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.personal.md) 
 
-### [cohort_study.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.secret.md) 
+### [cohort_study.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.secret.md)
+

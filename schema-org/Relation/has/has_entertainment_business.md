@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_entertainment_business](/_public/schema-org/Relation/has/has_entertainment_business.md) 
+### [has_entertainment_business](/_Standards/schema-org/Relation/has/has_entertainment_business.md) 
+
+### [has_entertainment_business.public](/_public/schema-org/Relation/has/has_entertainment_business.public.md) 
 
 ### [has_entertainment_business.internal](/_internal/schema-org/Relation/has/has_entertainment_business.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_entertainment_business.personal](/_personal/schema-org/Relation/has/has_entertainment_business.personal.md) 
 
-### [has_entertainment_business.secret](/_secret/schema-org/Relation/has/has_entertainment_business.secret.md) 
+### [has_entertainment_business.secret](/_secret/schema-org/Relation/has/has_entertainment_business.secret.md)
+

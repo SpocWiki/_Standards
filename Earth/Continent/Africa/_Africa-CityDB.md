@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -340,9 +340,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Africa-CityDB](/_public/Earth/Continent/Africa/_Africa-CityDB.md) 
+### [_Africa-CityDB](/_Standards/Earth/Continent/Africa/_Africa-CityDB.md) 
+
+### [_Africa-CityDB.public](/_public/Earth/Continent/Africa/_Africa-CityDB.public.md) 
 
 ### [_Africa-CityDB.internal](/_internal/Earth/Continent/Africa/_Africa-CityDB.internal.md) 
 
@@ -352,4 +355,5 @@ filters:
 
 ### [_Africa-CityDB.personal](/_personal/Earth/Continent/Africa/_Africa-CityDB.personal.md) 
 
-### [_Africa-CityDB.secret](/_secret/Earth/Continent/Africa/_Africa-CityDB.secret.md) 
+### [_Africa-CityDB.secret](/_secret/Earth/Continent/Africa/_Africa-CityDB.secret.md)
+

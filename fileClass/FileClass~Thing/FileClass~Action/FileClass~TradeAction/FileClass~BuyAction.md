@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ An entity which offers (sells / leases / lends / loans) the services / goods.  A
 Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BuyAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.md) 
+### [FileClass~BuyAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.md) 
+
+### [FileClass~BuyAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.public.md) 
 
 ### [FileClass~BuyAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.internal.md) 
 
@@ -57,4 +58,5 @@ Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~BuyAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.personal.md) 
 
-### [FileClass~BuyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.secret.md) 
+### [FileClass~BuyAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~BuyAction.secret.md)
+

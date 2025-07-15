@@ -110,3 +110,21 @@ name_in_native_language: "Roald Amundsen"
 > Following a failed attempt in 1918 to reach the North Pole by traversing the Northeast Passage on the ship Maud, Amundsen began planning for an aerial expedition instead. On 12 May 1926, Amundsen and 15 other men in the airship Norge became the first explorers verified to have reached the North Pole. Amundsen disappeared in June 1928 while flying on a rescue mission for the airship Italia in the Arctic. The search for his remains, which have not been found, was called off that September.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Amundsen)
+
+
+## Confidential Links & Embeds: 
+
+### [Amundsen,Roald](/_Standards/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.md) 
+
+### [Amundsen,Roald.public](/_public/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.public.md) 
+
+### [Amundsen,Roald.internal](/_internal/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.internal.md) 
+
+### [Amundsen,Roald.protect](/_protect/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.protect.md) 
+
+### [Amundsen,Roald.private](/_private/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.private.md) 
+
+### [Amundsen,Roald.personal](/_personal/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.personal.md) 
+
+### [Amundsen,Roald.secret](/_secret/bio/People/Explorers/Modern_Explorers/Amundsen,Roald.secret.md)
+

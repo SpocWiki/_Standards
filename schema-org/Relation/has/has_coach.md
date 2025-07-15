@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_coach )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_coach](/_public/schema-org/Relation/has/has_coach.md) 
+### [has_coach](/_Standards/schema-org/Relation/has/has_coach.md) 
+
+### [has_coach.public](/_public/schema-org/Relation/has/has_coach.public.md) 
 
 ### [has_coach.internal](/_internal/schema-org/Relation/has/has_coach.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_coach.personal](/_personal/schema-org/Relation/has/has_coach.personal.md) 
 
-### [has_coach.secret](/_secret/schema-org/Relation/has/has_coach.secret.md) 
+### [has_coach.secret](/_secret/schema-org/Relation/has/has_coach.secret.md)
+

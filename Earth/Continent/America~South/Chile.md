@@ -496,10 +496,11 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Chile) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chile](/_public/Earth/Continent/America~South/Chile.md) 
+### [Chile](/_Standards/Earth/Continent/America~South/Chile.md) 
+
+### [Chile.public](/_public/Earth/Continent/America~South/Chile.public.md) 
 
 ### [Chile.internal](/_internal/Earth/Continent/America~South/Chile.internal.md) 
 
@@ -509,4 +510,5 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 ### [Chile.personal](/_personal/Earth/Continent/America~South/Chile.personal.md) 
 
-### [Chile.secret](/_secret/Earth/Continent/America~South/Chile.secret.md) 
+### [Chile.secret](/_secret/Earth/Continent/America~South/Chile.secret.md)
+

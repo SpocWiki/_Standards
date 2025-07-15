@@ -79,9 +79,12 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/language"
 ﻿The Entities in this Folder describes 'natural', human Languages and Scripts, 
 ﻿as well as Data- and Programming Languages. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Language](/_public/Language.md) 
+### [Language](/_Standards/Language.md) 
+
+### [Language.public](/_public/Language.public.md) 
 
 ### [Language.internal](/_internal/Language.internal.md) 
 
@@ -91,4 +94,5 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/language"
 
 ### [Language.personal](/_personal/Language.personal.md) 
 
-### [Language.secret](/_secret/Language.secret.md) 
+### [Language.secret](/_secret/Language.secret.md)
+

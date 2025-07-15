@@ -72,3 +72,21 @@ cultivated garden soil in Australia. Archiv für Protistenkunde 148:
   Scientific Name ::  Amastigomonas terricola
   Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   --------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [terricola](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.md) 
+
+### [terricola.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.public.md) 
+
+### [terricola.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.internal.md) 
+
+### [terricola.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.protect.md) 
+
+### [terricola.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.private.md) 
+
+### [terricola.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.personal.md) 
+
+### [terricola.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/terricola.secret.md)
+

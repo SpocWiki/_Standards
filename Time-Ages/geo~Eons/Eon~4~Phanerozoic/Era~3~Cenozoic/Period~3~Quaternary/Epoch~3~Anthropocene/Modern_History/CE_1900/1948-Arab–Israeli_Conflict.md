@@ -45,3 +45,22 @@ U_S_National_Archives_Identifier: 10637980
 > [Wikipedia](https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli%20conflict) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1948-Arab–Israeli_Conflict](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.md) 
+
+### [1948-Arab–Israeli_Conflict.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public.md) 
+
+### [1948-Arab–Israeli_Conflict.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal.md) 
+
+### [1948-Arab–Israeli_Conflict.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect.md) 
+
+### [1948-Arab–Israeli_Conflict.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private.md) 
+
+### [1948-Arab–Israeli_Conflict.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal.md) 
+
+### [1948-Arab–Israeli_Conflict.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret.md)
+

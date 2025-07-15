@@ -161,9 +161,12 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Azerbaijan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Azerbaijan](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.md) 
+### [Azerbaijan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan.md) 
+
+### [Azerbaijan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public.md) 
 
 ### [Azerbaijan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal.md) 
 
@@ -173,4 +176,5 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 ### [Azerbaijan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal.md) 
 
-### [Azerbaijan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret.md) 
+### [Azerbaijan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret.md)
+

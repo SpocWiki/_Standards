@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [car_usage_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.md) 
+### [car_usage_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.md) 
+
+### [car_usage_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.public.md) 
 
 ### [car_usage_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.internal.md) 
 
@@ -54,4 +57,5 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 ### [car_usage_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.personal.md) 
 
-### [car_usage_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.secret.md) 
+### [car_usage_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.secret.md)
+

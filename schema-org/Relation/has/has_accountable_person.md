@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_accountable_person )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accountable_person](/_public/schema-org/Relation/has/has_accountable_person.md) 
+### [has_accountable_person](/_Standards/schema-org/Relation/has/has_accountable_person.md) 
+
+### [has_accountable_person.public](/_public/schema-org/Relation/has/has_accountable_person.public.md) 
 
 ### [has_accountable_person.internal](/_internal/schema-org/Relation/has/has_accountable_person.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_accountable_person.personal](/_personal/schema-org/Relation/has/has_accountable_person.personal.md) 
 
-### [has_accountable_person.secret](/_secret/schema-org/Relation/has/has_accountable_person.secret.md) 
+### [has_accountable_person.secret](/_secret/schema-org/Relation/has/has_accountable_person.secret.md)
+

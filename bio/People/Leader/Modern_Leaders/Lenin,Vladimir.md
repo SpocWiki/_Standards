@@ -218,3 +218,22 @@ Commons_Creator_page: "Vladimir Lenin"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Lenin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Lenin,Vladimir](/_Standards/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.md) 
+
+### [Lenin,Vladimir.public](/_public/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.public.md) 
+
+### [Lenin,Vladimir.internal](/_internal/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.internal.md) 
+
+### [Lenin,Vladimir.protect](/_protect/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.protect.md) 
+
+### [Lenin,Vladimir.private](/_private/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.private.md) 
+
+### [Lenin,Vladimir.personal](/_personal/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.personal.md) 
+
+### [Lenin,Vladimir.secret](/_secret/bio/People/Leader/Modern_Leaders/Lenin,Vladimir.secret.md)
+

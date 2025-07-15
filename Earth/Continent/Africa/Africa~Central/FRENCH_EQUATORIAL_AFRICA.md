@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Africa]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FRENCH_EQUATORIAL_AFRICA](/_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.md) 
+### [FRENCH_EQUATORIAL_AFRICA](/_Standards/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.public](/_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.public.md) 
 
 ### [FRENCH_EQUATORIAL_AFRICA.internal](/_internal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Africa]]
 
 ### [FRENCH_EQUATORIAL_AFRICA.personal](/_personal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.personal.md) 
 
-### [FRENCH_EQUATORIAL_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret.md) 
+### [FRENCH_EQUATORIAL_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret.md)
+

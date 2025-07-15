@@ -17,3 +17,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Galactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.md) 
+
+### [Galactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.public.md) 
+
+### [Galactose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.internal.md) 
+
+### [Galactose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.protect.md) 
+
+### [Galactose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.private.md) 
+
+### [Galactose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.personal.md) 
+
+### [Galactose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Monosaccharide/Galactose.secret.md)
+

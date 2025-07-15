@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9530
 part_of: '[[_Standards/WikiData/WD~respiration,472287]]'
 described_by_source:
@@ -32,5 +32,19 @@ Commons_category: Respiration
 > [Wikipedia](https://en.wikipedia.org/wiki/Breathing)
 
 
+## Confidential Links & Embeds: 
 
+### [Breathing](/_Standards/bio/Metabolism/Breathing.md) 
+
+### [Breathing.public](/_public/bio/Metabolism/Breathing.public.md) 
+
+### [Breathing.internal](/_internal/bio/Metabolism/Breathing.internal.md) 
+
+### [Breathing.protect](/_protect/bio/Metabolism/Breathing.protect.md) 
+
+### [Breathing.private](/_private/bio/Metabolism/Breathing.private.md) 
+
+### [Breathing.personal](/_personal/bio/Metabolism/Breathing.personal.md) 
+
+### [Breathing.secret](/_secret/bio/Metabolism/Breathing.secret.md)
 

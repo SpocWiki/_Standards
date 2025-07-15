@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Africa]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Yemen_Arab_Republic_(Former)](/_public/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).md) 
+### [Yemen_Arab_Republic_(Former)](/_Standards/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).md) 
+
+### [Yemen_Arab_Republic_(Former).public](/_public/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).public.md) 
 
 ### [Yemen_Arab_Republic_(Former).internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Africa]]
 
 ### [Yemen_Arab_Republic_(Former).personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).personal.md) 
 
-### [Yemen_Arab_Republic_(Former).secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).secret.md) 
+### [Yemen_Arab_Republic_(Former).secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen_Arab_Republic_(Former).secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: childTaxon ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_parent_taxon](/_public/schema-org/Relation/has/has_parent_taxon.md) 
+### [has_parent_taxon](/_Standards/schema-org/Relation/has/has_parent_taxon.md) 
+
+### [has_parent_taxon.public](/_public/schema-org/Relation/has/has_parent_taxon.public.md) 
 
 ### [has_parent_taxon.internal](/_internal/schema-org/Relation/has/has_parent_taxon.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_parent_taxon.personal](/_personal/schema-org/Relation/has/has_parent_taxon.personal.md) 
 
-### [has_parent_taxon.secret](/_secret/schema-org/Relation/has/has_parent_taxon.secret.md) 
+### [has_parent_taxon.secret](/_secret/schema-org/Relation/has/has_parent_taxon.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A HyperToEntry is an item within a [[HyperToc]], which represents a hypertext ta
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, tocContinuation, translationOfWork, translator, typicalAgeRange, url, usageInfo, utterances, version, video, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [hyper_toc_entry](/_public/schema-org/Class/is_a_/creative_work/hyper_toc_entry.md) 
+### [hyper_toc_entry](/_Standards/schema-org/Class/is_a_/creative_work/hyper_toc_entry.md) 
+
+### [hyper_toc_entry.public](/_public/schema-org/Class/is_a_/creative_work/hyper_toc_entry.public.md) 
 
 ### [hyper_toc_entry.internal](/_internal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.internal.md) 
 
@@ -56,4 +59,5 @@ A HyperToEntry is an item within a [[HyperToc]], which represents a hypertext ta
 
 ### [hyper_toc_entry.personal](/_personal/schema-org/Class/is_a_/creative_work/hyper_toc_entry.personal.md) 
 
-### [hyper_toc_entry.secret](/_secret/schema-org/Class/is_a_/creative_work/hyper_toc_entry.secret.md) 
+### [hyper_toc_entry.secret](/_secret/schema-org/Class/is_a_/creative_work/hyper_toc_entry.secret.md)
+

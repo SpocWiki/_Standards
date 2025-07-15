@@ -180,3 +180,22 @@ number_of_children: 9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anton%C3%ADn%20Dvo%C5%99%C3%A1k)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dvořák,Antonín](/_Standards/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.md) 
+
+### [Dvořák,Antonín.public](/_public/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.public.md) 
+
+### [Dvořák,Antonín.internal](/_internal/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.internal.md) 
+
+### [Dvořák,Antonín.protect](/_protect/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.protect.md) 
+
+### [Dvořák,Antonín.private](/_private/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.private.md) 
+
+### [Dvořák,Antonín.personal](/_personal/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.personal.md) 
+
+### [Dvořák,Antonín.secret](/_secret/bio/People/Composer/Romantic_Composers/Dvořák,Antonín.secret.md)
+

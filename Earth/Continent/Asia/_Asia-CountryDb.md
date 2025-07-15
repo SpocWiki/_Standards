@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Asia-CountryDb](/_public/Earth/Continent/Asia/_Asia-CountryDb.md) 
+### [_Asia-CountryDb](/_Standards/Earth/Continent/Asia/_Asia-CountryDb.md) 
+
+### [_Asia-CountryDb.public](/_public/Earth/Continent/Asia/_Asia-CountryDb.public.md) 
 
 ### [_Asia-CountryDb.internal](/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_Asia-CountryDb.personal](/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal.md) 
 
-### [_Asia-CountryDb.secret](/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret.md) 
+### [_Asia-CountryDb.secret](/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret.md)
+

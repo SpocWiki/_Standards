@@ -58,10 +58,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~2~Rhyacian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.md) 
+### [Period~2~Rhyacian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.md) 
+
+### [Period~2~Rhyacian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.public.md) 
 
 ### [Period~2~Rhyacian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.internal.md) 
 
@@ -71,4 +72,5 @@ noteOnly: true
 
 ### [Period~2~Rhyacian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.personal.md) 
 
-### [Period~2~Rhyacian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret.md) 
+### [Period~2~Rhyacian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~2~Rhyacian.secret.md)
+

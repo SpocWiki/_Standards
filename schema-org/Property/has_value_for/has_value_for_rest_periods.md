@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_rest_periods )
 ( #has_/range :: QuantitativeValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_rest_periods](/_public/schema-org/Property/has_value_for/has_value_for_rest_periods.md) 
+### [has_value_for_rest_periods](/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods.md) 
+
+### [has_value_for_rest_periods.public](/_public/schema-org/Property/has_value_for/has_value_for_rest_periods.public.md) 
 
 ### [has_value_for_rest_periods.internal](/_internal/schema-org/Property/has_value_for/has_value_for_rest_periods.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_rest_periods.personal](/_personal/schema-org/Property/has_value_for/has_value_for_rest_periods.personal.md) 
 
-### [has_value_for_rest_periods.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret.md) 
+### [has_value_for_rest_periods.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret.md)
+

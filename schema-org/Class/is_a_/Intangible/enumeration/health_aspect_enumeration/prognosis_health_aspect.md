@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Typical progression and happenings of life course of the topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [prognosis_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md) 
+### [prognosis_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md) 
+
+### [prognosis_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.public.md) 
 
 ### [prognosis_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Typical progression and happenings of life course of the topic.
 
 ### [prognosis_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.personal.md) 
 
-### [prognosis_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.secret.md) 
+### [prognosis_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.secret.md)
+

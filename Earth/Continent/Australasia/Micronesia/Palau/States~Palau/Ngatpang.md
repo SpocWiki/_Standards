@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.48 , 134.54 ] 
 type: geo-Region
 title: Ngatpang
@@ -41,7 +41,9 @@ markerFolder: ./Ngatpang/
 
 ## Confidential Links & Embeds: 
 
-### [Ngatpang](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.md) 
+### [Ngatpang](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.md) 
+
+### [Ngatpang.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.public.md) 
 
 ### [Ngatpang.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngatpang/
 
 ### [Ngatpang.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal.md) 
 
-### [Ngatpang.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret.md) 
+### [Ngatpang.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret.md)
+

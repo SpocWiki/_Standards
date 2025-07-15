@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An outlet store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OutletStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.md) 
+### [FileClass~OutletStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.md) 
+
+### [FileClass~OutletStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.public.md) 
 
 ### [FileClass~OutletStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.internal.md) 
 
@@ -46,4 +47,5 @@ An outlet store.
 
 ### [FileClass~OutletStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.personal.md) 
 
-### [FileClass~OutletStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.secret.md) 
+### [FileClass~OutletStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OutletStore.secret.md)
+

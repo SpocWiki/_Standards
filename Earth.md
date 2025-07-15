@@ -499,9 +499,12 @@ briefMax: 128
 noteOnly: true
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [Earth](/_public/Earth.md) 
+### [Earth](/_Standards/Earth.md) 
+
+### [Earth.public](/_public/Earth.public.md) 
 
 ### [Earth.internal](/_internal/Earth.internal.md) 
 
@@ -511,5 +514,5 @@ noteOnly: true
 
 ### [Earth.personal](/_personal/Earth.personal.md) 
 
-### [Earth.secret](/_secret/Earth.secret.md) 
+### [Earth.secret](/_secret/Earth.secret.md)
 

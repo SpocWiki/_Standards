@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_government_benefits_info )
 ( #has_/range :: GovernmentService )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_government_benefits_info](/_public/schema-org/Relation/has/has_government_benefits_info.md) 
+### [has_government_benefits_info](/_Standards/schema-org/Relation/has/has_government_benefits_info.md) 
+
+### [has_government_benefits_info.public](/_public/schema-org/Relation/has/has_government_benefits_info.public.md) 
 
 ### [has_government_benefits_info.internal](/_internal/schema-org/Relation/has/has_government_benefits_info.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_government_benefits_info.personal](/_personal/schema-org/Relation/has/has_government_benefits_info.personal.md) 
 
-### [has_government_benefits_info.secret](/_secret/schema-org/Relation/has/has_government_benefits_info.secret.md) 
+### [has_government_benefits_info.secret](/_secret/schema-org/Relation/has/has_government_benefits_info.secret.md)
+

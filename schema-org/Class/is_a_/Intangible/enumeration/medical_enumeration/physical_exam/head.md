@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Head assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [head](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.md) 
+### [head](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.md) 
+
+### [head.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.public.md) 
 
 ### [head.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.internal.md) 
 
@@ -56,4 +59,5 @@ Head assessment with clinical examination.
 
 ### [head.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.personal.md) 
 
-### [head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.secret.md) 
+### [head.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/head.secret.md)
+

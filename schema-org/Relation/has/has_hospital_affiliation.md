@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_hospital_affiliation )
 ( #has_/range :: Hospital )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_hospital_affiliation](/_public/schema-org/Relation/has/has_hospital_affiliation.md) 
+### [has_hospital_affiliation](/_Standards/schema-org/Relation/has/has_hospital_affiliation.md) 
+
+### [has_hospital_affiliation.public](/_public/schema-org/Relation/has/has_hospital_affiliation.public.md) 
 
 ### [has_hospital_affiliation.internal](/_internal/schema-org/Relation/has/has_hospital_affiliation.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_hospital_affiliation.personal](/_personal/schema-org/Relation/has/has_hospital_affiliation.personal.md) 
 
-### [has_hospital_affiliation.secret](/_secret/schema-org/Relation/has/has_hospital_affiliation.secret.md) 
+### [has_hospital_affiliation.secret](/_secret/schema-org/Relation/has/has_hospital_affiliation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_secondary_prevention )
 ( #has_/range :: MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_secondary_prevention](/_public/schema-org/Relation/has/has_secondary_prevention.md) 
+### [has_secondary_prevention](/_Standards/schema-org/Relation/has/has_secondary_prevention.md) 
+
+### [has_secondary_prevention.public](/_public/schema-org/Relation/has/has_secondary_prevention.public.md) 
 
 ### [has_secondary_prevention.internal](/_internal/schema-org/Relation/has/has_secondary_prevention.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_secondary_prevention.personal](/_personal/schema-org/Relation/has/has_secondary_prevention.personal.md) 
 
-### [has_secondary_prevention.secret](/_secret/schema-org/Relation/has/has_secondary_prevention.secret.md) 
+### [has_secondary_prevention.secret](/_secret/schema-org/Relation/has/has_secondary_prevention.secret.md)
+

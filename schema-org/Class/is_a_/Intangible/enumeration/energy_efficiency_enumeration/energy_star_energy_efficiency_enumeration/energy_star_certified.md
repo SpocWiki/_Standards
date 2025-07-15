@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents EnergyStar certification.
 
 [ #is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [energy_star_certified](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.md) 
+### [energy_star_certified](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.md) 
+
+### [energy_star_certified.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.public.md) 
 
 ### [energy_star_certified.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.internal.md) 
 
@@ -58,4 +61,5 @@ Represents EnergyStar certification.
 
 ### [energy_star_certified.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.personal.md) 
 
-### [energy_star_certified.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.secret.md) 
+### [energy_star_certified.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.secret.md)
+

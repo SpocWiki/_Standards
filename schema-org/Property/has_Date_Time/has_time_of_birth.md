@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Formal Predicate:
 (name::has_time_of_birth)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_birth](/_public/schema-org/Property/has_Date_Time/has_time_of_birth.md) 
+### [has_time_of_birth](/_Standards/schema-org/Property/has_Date_Time/has_time_of_birth.md) 
+
+### [has_time_of_birth.public](/_public/schema-org/Property/has_Date_Time/has_time_of_birth.public.md) 
 
 ### [has_time_of_birth.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal.md) 
 
@@ -53,4 +56,5 @@ Formal Predicate:
 
 ### [has_time_of_birth.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal.md) 
 
-### [has_time_of_birth.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret.md) 
+### [has_time_of_birth.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret.md)
+

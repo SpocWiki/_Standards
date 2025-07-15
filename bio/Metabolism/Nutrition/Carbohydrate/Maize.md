@@ -55,3 +55,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Maize](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Maize.md) 
+
+### [Maize.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Maize.public.md) 
+
+### [Maize.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Maize.internal.md) 
+
+### [Maize.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Maize.protect.md) 
+
+### [Maize.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Maize.private.md) 
+
+### [Maize.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Maize.personal.md) 
+
+### [Maize.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Maize.secret.md)
+

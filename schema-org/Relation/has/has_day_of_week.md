@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_day_of_week )
 ( #has_/range :: DayOfWeek )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_day_of_week](/_public/schema-org/Relation/has/has_day_of_week.md) 
+### [has_day_of_week](/_Standards/schema-org/Relation/has/has_day_of_week.md) 
+
+### [has_day_of_week.public](/_public/schema-org/Relation/has/has_day_of_week.public.md) 
 
 ### [has_day_of_week.internal](/_internal/schema-org/Relation/has/has_day_of_week.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_day_of_week.personal](/_personal/schema-org/Relation/has/has_day_of_week.personal.md) 
 
-### [has_day_of_week.secret](/_secret/schema-org/Relation/has/has_day_of_week.secret.md) 
+### [has_day_of_week.secret](/_secret/schema-org/Relation/has/has_day_of_week.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q5325
 aliases: 
 has_characteristic: '[[_Standards/WikiData/WD~inductance,177897]]'
@@ -27,4 +27,23 @@ Commons_category: Inductors
 > The term inductor seems to come from Heinrich Daniel Ruhmkorff, who called the induction coil he invented in 1851 an inductorium.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inductor)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Inductor](/_Standards/Technology/Electronics/Electronic_Component/Inductor.md) 
+
+### [Inductor.public](/_public/Technology/Electronics/Electronic_Component/Inductor.public.md) 
+
+### [Inductor.internal](/_internal/Technology/Electronics/Electronic_Component/Inductor.internal.md) 
+
+### [Inductor.protect](/_protect/Technology/Electronics/Electronic_Component/Inductor.protect.md) 
+
+### [Inductor.private](/_private/Technology/Electronics/Electronic_Component/Inductor.private.md) 
+
+### [Inductor.personal](/_personal/Technology/Electronics/Electronic_Component/Inductor.personal.md) 
+
+### [Inductor.secret](/_secret/Technology/Electronics/Electronic_Component/Inductor.secret.md)
 

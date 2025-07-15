@@ -147,9 +147,12 @@ UNII: 00BH33GNGH
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cadmium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Cadmium](/_public/chemic/chemic~Elements/Group-12-Zinc/Cadmium.md) 
+### [Cadmium](/_Standards/chemic/chemic~Elements/Group-12-Zinc/Cadmium.md) 
+
+### [Cadmium.public](/_public/chemic/chemic~Elements/Group-12-Zinc/Cadmium.public.md) 
 
 ### [Cadmium.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.internal.md) 
 
@@ -159,4 +162,5 @@ UNII: 00BH33GNGH
 
 ### [Cadmium.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Cadmium.personal.md) 
 
-### [Cadmium.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Cadmium.secret.md) 
+### [Cadmium.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Cadmium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [narcotic_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.md) 
+### [narcotic_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.md) 
+
+### [narcotic_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.public.md) 
 
 ### [narcotic_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 ### [narcotic_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.personal.md) 
 
-### [narcotic_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret.md) 
+### [narcotic_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret.md)
+

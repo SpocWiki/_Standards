@@ -139,3 +139,22 @@ date_of_birth: "1926-06-01"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marilyn%20Monroe)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Monroe,Marilyn](/_Standards/bio/People/Actor/Monroe,Marilyn.md) 
+
+### [Monroe,Marilyn.public](/_public/bio/People/Actor/Monroe,Marilyn.public.md) 
+
+### [Monroe,Marilyn.internal](/_internal/bio/People/Actor/Monroe,Marilyn.internal.md) 
+
+### [Monroe,Marilyn.protect](/_protect/bio/People/Actor/Monroe,Marilyn.protect.md) 
+
+### [Monroe,Marilyn.private](/_private/bio/People/Actor/Monroe,Marilyn.private.md) 
+
+### [Monroe,Marilyn.personal](/_personal/bio/People/Actor/Monroe,Marilyn.personal.md) 
+
+### [Monroe,Marilyn.secret](/_secret/bio/People/Actor/Monroe,Marilyn.secret.md)
+

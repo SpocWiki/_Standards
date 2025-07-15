@@ -24,3 +24,21 @@ has_id_wikidata: Q9372
 > Sima was acutely aware of the importance of his work to posterity and its relationship to his own personal suffering. In the postface of the Records, he implicitly compared his universal history of China to the classics of his day, the Guoyu by Zuo Qiuming, "Li Sao" by Qu Yuan, and the Art of War by Sun Bin, pointing out that their authors all suffered great personal misfortunes before their lasting monumental works could come to fruition. Sima Qian is also depicted in the Wu Shuang Pu by Jin Guliang.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sima%20Qian)
+
+
+## Confidential Links & Embeds: 
+
+### [Sima_Qian](/_Standards/bio/People/Historian/Sima_Qian.md) 
+
+### [Sima_Qian.public](/_public/bio/People/Historian/Sima_Qian.public.md) 
+
+### [Sima_Qian.internal](/_internal/bio/People/Historian/Sima_Qian.internal.md) 
+
+### [Sima_Qian.protect](/_protect/bio/People/Historian/Sima_Qian.protect.md) 
+
+### [Sima_Qian.private](/_private/bio/People/Historian/Sima_Qian.private.md) 
+
+### [Sima_Qian.personal](/_personal/bio/People/Historian/Sima_Qian.personal.md) 
+
+### [Sima_Qian.secret](/_secret/bio/People/Historian/Sima_Qian.secret.md)
+

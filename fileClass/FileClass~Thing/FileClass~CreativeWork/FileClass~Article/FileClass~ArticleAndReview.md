@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -140,7 +140,9 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ArticleAndReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.md) 
+### [FileClass~ArticleAndReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.md) 
+
+### [FileClass~ArticleAndReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.public.md) 
 
 ### [FileClass~ArticleAndReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.internal.md) 
 
@@ -150,4 +152,5 @@ ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ArticleAndReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.personal.md) 
 
-### [FileClass~ArticleAndReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.secret.md) 
+### [FileClass~ArticleAndReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ArticleAndReview.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [distance_fee](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.md) 
+### [distance_fee](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.md) 
+
+### [distance_fee.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.public.md) 
 
 ### [distance_fee.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 ### [distance_fee.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md) 
 
-### [distance_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md) 
+### [distance_fee.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md)
+

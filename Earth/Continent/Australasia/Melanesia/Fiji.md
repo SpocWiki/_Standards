@@ -404,10 +404,11 @@ Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiji) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Fiji](/_public/Earth/Continent/Australasia/Melanesia/Fiji.md) 
+### [Fiji](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji.md) 
+
+### [Fiji.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji.public.md) 
 
 ### [Fiji.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal.md) 
 
@@ -417,4 +418,5 @@ Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]
 
 ### [Fiji.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal.md) 
 
-### [Fiji.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret.md) 
+### [Fiji.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret.md)
+

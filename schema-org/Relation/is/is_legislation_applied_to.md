@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ legislationTransposes ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_legislation_applied_to](/_public/schema-org/Relation/is/is_legislation_applied_to.md) 
+### [is_legislation_applied_to](/_Standards/schema-org/Relation/is/is_legislation_applied_to.md) 
+
+### [is_legislation_applied_to.public](/_public/schema-org/Relation/is/is_legislation_applied_to.public.md) 
 
 ### [is_legislation_applied_to.internal](/_internal/schema-org/Relation/is/is_legislation_applied_to.internal.md) 
 
@@ -64,4 +67,5 @@ Relation describes that:
 
 ### [is_legislation_applied_to.personal](/_personal/schema-org/Relation/is/is_legislation_applied_to.personal.md) 
 
-### [is_legislation_applied_to.secret](/_secret/schema-org/Relation/is/is_legislation_applied_to.secret.md) 
+### [is_legislation_applied_to.secret](/_secret/schema-org/Relation/is/is_legislation_applied_to.secret.md)
+

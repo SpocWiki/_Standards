@@ -40,9 +40,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_algorithm )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_algorithm](/_public/schema-org/Property/Texts/has_algorithm.md) 
+### [has_algorithm](/_Standards/schema-org/Property/Texts/has_algorithm.md) 
+
+### [has_algorithm.public](/_public/schema-org/Property/Texts/has_algorithm.public.md) 
 
 ### [has_algorithm.internal](/_internal/schema-org/Property/Texts/has_algorithm.internal.md) 
 
@@ -52,4 +55,5 @@ Predicated describes that:
 
 ### [has_algorithm.personal](/_personal/schema-org/Property/Texts/has_algorithm.personal.md) 
 
-### [has_algorithm.secret](/_secret/schema-org/Property/Texts/has_algorithm.secret.md) 
+### [has_algorithm.secret](/_secret/schema-org/Property/Texts/has_algorithm.secret.md)
+

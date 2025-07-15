@@ -124,3 +124,22 @@ disease_burden: 43650273
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tuberculosis](/_Standards/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.md) 
+
+### [Tuberculosis.public](/_public/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.public.md) 
+
+### [Tuberculosis.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.internal.md) 
+
+### [Tuberculosis.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.protect.md) 
+
+### [Tuberculosis.private](/_private/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.private.md) 
+
+### [Tuberculosis.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.personal.md) 
+
+### [Tuberculosis.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Tuberculosis.secret.md)
+

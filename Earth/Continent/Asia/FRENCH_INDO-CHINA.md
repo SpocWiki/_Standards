@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -33,10 +33,11 @@ has_place_continent:: [[Asia]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FRENCH_INDO-CHINA](/_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.md) 
+### [FRENCH_INDO-CHINA](/_Standards/Earth/Continent/Asia/FRENCH_INDO-CHINA.md) 
+
+### [FRENCH_INDO-CHINA.public](/_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.public.md) 
 
 ### [FRENCH_INDO-CHINA.internal](/_internal/Earth/Continent/Asia/FRENCH_INDO-CHINA.internal.md) 
 
@@ -46,4 +47,5 @@ has_place_continent:: [[Asia]]
 
 ### [FRENCH_INDO-CHINA.personal](/_personal/Earth/Continent/Asia/FRENCH_INDO-CHINA.personal.md) 
 
-### [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/FRENCH_INDO-CHINA.secret.md) 
+### [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/FRENCH_INDO-CHINA.secret.md)
+

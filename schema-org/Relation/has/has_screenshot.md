@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_screenshot )
 ( #has_/range :: ImageObject, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_screenshot](/_public/schema-org/Relation/has/has_screenshot.md) 
+### [has_screenshot](/_Standards/schema-org/Relation/has/has_screenshot.md) 
+
+### [has_screenshot.public](/_public/schema-org/Relation/has/has_screenshot.public.md) 
 
 ### [has_screenshot.internal](/_internal/schema-org/Relation/has/has_screenshot.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_screenshot.personal](/_personal/schema-org/Relation/has/has_screenshot.personal.md) 
 
-### [has_screenshot.secret](/_secret/schema-org/Relation/has/has_screenshot.secret.md) 
+### [has_screenshot.secret](/_secret/schema-org/Relation/has/has_screenshot.secret.md)
+

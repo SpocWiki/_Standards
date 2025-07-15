@@ -1,4 +1,4 @@
-﻿
+
 #has_/time_/started :: 2009-12-01 
 #has_/time_/incepted :: 2007-01-01 
 
@@ -67,11 +67,11 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Lisbon)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [EU-Treaty_of_Lisbon](/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.md) 
+### [EU-Treaty_of_Lisbon](/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.md) 
+
+### [EU-Treaty_of_Lisbon.public](/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public.md) 
 
 ### [EU-Treaty_of_Lisbon.internal](/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal.md) 
 
@@ -81,4 +81,5 @@
 
 ### [EU-Treaty_of_Lisbon.personal](/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal.md) 
 
-### [EU-Treaty_of_Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret.md) 
+### [EU-Treaty_of_Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret.md)
+

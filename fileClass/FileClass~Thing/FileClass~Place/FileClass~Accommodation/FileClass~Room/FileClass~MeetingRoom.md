@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -39,10 +39,11 @@ provided for singular events such as business conferences and meetings
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MeetingRoom](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.md) 
+### [FileClass~MeetingRoom](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.md) 
+
+### [FileClass~MeetingRoom.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.public.md) 
 
 ### [FileClass~MeetingRoom.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.internal.md) 
 
@@ -52,4 +53,5 @@ provided for singular events such as business conferences and meetings
 
 ### [FileClass~MeetingRoom.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.personal.md) 
 
-### [FileClass~MeetingRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.secret.md) 
+### [FileClass~MeetingRoom.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room/FileClass~MeetingRoom.secret.md)
+

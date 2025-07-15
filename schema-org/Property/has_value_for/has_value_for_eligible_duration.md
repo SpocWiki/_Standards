@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_eligible_duration )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_eligible_duration](/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.md) 
+### [has_value_for_eligible_duration](/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration.md) 
+
+### [has_value_for_eligible_duration.public](/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public.md) 
 
 ### [has_value_for_eligible_duration.internal](/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_eligible_duration.personal](/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal.md) 
 
-### [has_value_for_eligible_duration.secret](/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret.md) 
+### [has_value_for_eligible_duration.secret](/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret.md)
+

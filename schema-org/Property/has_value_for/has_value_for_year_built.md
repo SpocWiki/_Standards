@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_year_built )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_year_built](/_public/schema-org/Property/has_value_for/has_value_for_year_built.md) 
+### [has_value_for_year_built](/_Standards/schema-org/Property/has_value_for/has_value_for_year_built.md) 
+
+### [has_value_for_year_built.public](/_public/schema-org/Property/has_value_for/has_value_for_year_built.public.md) 
 
 ### [has_value_for_year_built.internal](/_internal/schema-org/Property/has_value_for/has_value_for_year_built.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_value_for_year_built.personal](/_personal/schema-org/Property/has_value_for/has_value_for_year_built.personal.md) 
 
-### [has_value_for_year_built.secret](/_secret/schema-org/Property/has_value_for/has_value_for_year_built.secret.md) 
+### [has_value_for_year_built.secret](/_secret/schema-org/Property/has_value_for/has_value_for_year_built.secret.md)
+

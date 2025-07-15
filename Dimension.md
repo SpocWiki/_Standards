@@ -1,4 +1,4 @@
-﻿# [[Dimension]] 
+# [[Dimension]] 
 
 ## Edit 
 
@@ -18,7 +18,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Dimension](/_public/Dimension.md) 
+### [Dimension](/_Standards/Dimension.md) 
+
+### [Dimension.public](/_public/Dimension.public.md) 
 
 ### [Dimension.internal](/_internal/Dimension.internal.md) 
 
@@ -28,4 +30,5 @@ type: folder_brief_live
 
 ### [Dimension.personal](/_personal/Dimension.personal.md) 
 
-### [Dimension.secret](/_secret/Dimension.secret.md) 
+### [Dimension.secret](/_secret/Dimension.secret.md)
+

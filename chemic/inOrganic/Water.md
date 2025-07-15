@@ -267,3 +267,19 @@ standard_enthalpy_of_formation:
 > [Wikipedia](https://en.wikipedia.org/wiki/Water)
 
 
+## Confidential Links & Embeds: 
+
+### [Water](/_Standards/chemic/inOrganic/Water.md) 
+
+### [Water.public](/_public/chemic/inOrganic/Water.public.md) 
+
+### [Water.internal](/_internal/chemic/inOrganic/Water.internal.md) 
+
+### [Water.protect](/_protect/chemic/inOrganic/Water.protect.md) 
+
+### [Water.private](/_private/chemic/inOrganic/Water.private.md) 
+
+### [Water.personal](/_personal/chemic/inOrganic/Water.personal.md) 
+
+### [Water.secret](/_secret/chemic/inOrganic/Water.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ StudioAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [studio_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.md) 
+### [studio_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.md) 
+
+### [studio_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.public.md) 
 
 ### [studio_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.internal.md) 
 
@@ -56,4 +59,5 @@ StudioAlbum.
 
 ### [studio_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.personal.md) 
 
-### [studio_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.secret.md) 
+### [studio_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/studio_album.secret.md)
+

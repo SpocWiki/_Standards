@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An action that failed to complete. The action's error property and the HTTP retu
 
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [failed_action_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.md) 
+### [failed_action_status](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.md) 
+
+### [failed_action_status.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.public.md) 
 
 ### [failed_action_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.internal.md) 
 
@@ -56,4 +59,5 @@ An action that failed to complete. The action's error property and the HTTP retu
 
 ### [failed_action_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.personal.md) 
 
-### [failed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.secret.md) 
+### [failed_action_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/action_status_type/failed_action_status.secret.md)
+

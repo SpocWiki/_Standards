@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.2 , 19.7 ] 
 type: geo-Region
 title: Hammarland
@@ -41,7 +41,9 @@ markerFolder: ./Hammarland/
 
 ## Confidential Links & Embeds: 
 
-### [Hammarland](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.md) 
+### [Hammarland](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.md) 
+
+### [Hammarland.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.public.md) 
 
 ### [Hammarland.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Hammarland/
 
 ### [Hammarland.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.personal.md) 
 
-### [Hammarland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.secret.md) 
+### [Hammarland.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Hammarland.secret.md)
+

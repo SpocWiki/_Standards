@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_measured_value )
 ( #has_/range :: DataType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_measured_value](/_public/schema-org/Relation/has/has_measured_value.md) 
+### [has_measured_value](/_Standards/schema-org/Relation/has/has_measured_value.md) 
+
+### [has_measured_value.public](/_public/schema-org/Relation/has/has_measured_value.public.md) 
 
 ### [has_measured_value.internal](/_internal/schema-org/Relation/has/has_measured_value.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_measured_value.personal](/_personal/schema-org/Relation/has/has_measured_value.personal.md) 
 
-### [has_measured_value.secret](/_secret/schema-org/Relation/has/has_measured_value.secret.md) 
+### [has_measured_value.secret](/_secret/schema-org/Relation/has/has_measured_value.secret.md)
+

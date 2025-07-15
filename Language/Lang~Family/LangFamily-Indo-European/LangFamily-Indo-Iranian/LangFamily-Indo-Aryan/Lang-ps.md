@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Pashto
@@ -47,10 +47,11 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Pashto)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lang-ps](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.md) 
+### [Lang-ps](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.md) 
+
+### [Lang-ps.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.public.md) 
 
 ### [Lang-ps.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.internal.md) 
 
@@ -60,4 +61,5 @@ tags:
 
 ### [Lang-ps.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.personal.md) 
 
-### [Lang-ps.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.secret.md) 
+### [Lang-ps.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-ps.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_direct_apply )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_direct_apply](/_public/schema-org/Property/Flags/is_direct_apply.md) 
+### [is_direct_apply](/_Standards/schema-org/Property/Flags/is_direct_apply.md) 
+
+### [is_direct_apply.public](/_public/schema-org/Property/Flags/is_direct_apply.public.md) 
 
 ### [is_direct_apply.internal](/_internal/schema-org/Property/Flags/is_direct_apply.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_direct_apply.personal](/_personal/schema-org/Property/Flags/is_direct_apply.personal.md) 
 
-### [is_direct_apply.secret](/_secret/schema-org/Property/Flags/is_direct_apply.secret.md) 
+### [is_direct_apply.secret](/_secret/schema-org/Property/Flags/is_direct_apply.secret.md)
+

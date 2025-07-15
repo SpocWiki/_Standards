@@ -57,3 +57,22 @@ coordinate_location: "Point(-66.698 -21.826)"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Andes) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Andes](/_Standards/Earth/Continent/America~South/Andes.md) 
+
+### [Andes.public](/_public/Earth/Continent/America~South/Andes.public.md) 
+
+### [Andes.internal](/_internal/Earth/Continent/America~South/Andes.internal.md) 
+
+### [Andes.protect](/_protect/Earth/Continent/America~South/Andes.protect.md) 
+
+### [Andes.private](/_private/Earth/Continent/America~South/Andes.private.md) 
+
+### [Andes.personal](/_personal/Earth/Continent/America~South/Andes.personal.md) 
+
+### [Andes.secret](/_secret/Earth/Continent/America~South/Andes.secret.md)
+

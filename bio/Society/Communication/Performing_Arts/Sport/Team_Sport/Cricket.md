@@ -15,3 +15,21 @@
 > The most successful side playing international cricket is Australia, which has won eight One Day International trophies, including six World Cups, more than any other country, and has been the top-rated Test side more than any other country.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cricket)
+
+
+## Confidential Links & Embeds: 
+
+### [Cricket](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.md) 
+
+### [Cricket.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.public.md) 
+
+### [Cricket.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.internal.md) 
+
+### [Cricket.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.protect.md) 
+
+### [Cricket.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.private.md) 
+
+### [Cricket.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.personal.md) 
+
+### [Cricket.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Cricket.secret.md)
+

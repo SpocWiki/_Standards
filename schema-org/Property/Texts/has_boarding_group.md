@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_boarding_group )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_boarding_group](/_public/schema-org/Property/Texts/has_boarding_group.md) 
+### [has_boarding_group](/_Standards/schema-org/Property/Texts/has_boarding_group.md) 
+
+### [has_boarding_group.public](/_public/schema-org/Property/Texts/has_boarding_group.public.md) 
 
 ### [has_boarding_group.internal](/_internal/schema-org/Property/Texts/has_boarding_group.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_boarding_group.personal](/_personal/schema-org/Property/Texts/has_boarding_group.personal.md) 
 
-### [has_boarding_group.secret](/_secret/schema-org/Property/Texts/has_boarding_group.secret.md) 
+### [has_boarding_group.secret](/_secret/schema-org/Property/Texts/has_boarding_group.secret.md)
+

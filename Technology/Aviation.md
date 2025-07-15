@@ -68,3 +68,20 @@ MeSH_tree_code: J01.937.285
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aviation) 
 
+
+## Confidential Links & Embeds: 
+
+### [Aviation](/_Standards/Technology/Aviation.md) 
+
+### [Aviation.public](/_public/Technology/Aviation.public.md) 
+
+### [Aviation.internal](/_internal/Technology/Aviation.internal.md) 
+
+### [Aviation.protect](/_protect/Technology/Aviation.protect.md) 
+
+### [Aviation.private](/_private/Technology/Aviation.private.md) 
+
+### [Aviation.personal](/_personal/Technology/Aviation.personal.md) 
+
+### [Aviation.secret](/_secret/Technology/Aviation.secret.md)
+

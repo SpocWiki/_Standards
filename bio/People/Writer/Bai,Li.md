@@ -122,3 +122,21 @@ date_of_birth: "0701-05-23"
 > Li Bai is depicted in the Wu Shuang Pu (無雙譜, Table of Peerless Heroes) by Jin Guliang.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Li%20Bai)
+
+
+## Confidential Links & Embeds: 
+
+### [Bai,Li](/_Standards/bio/People/Writer/Bai,Li.md) 
+
+### [Bai,Li.public](/_public/bio/People/Writer/Bai,Li.public.md) 
+
+### [Bai,Li.internal](/_internal/bio/People/Writer/Bai,Li.internal.md) 
+
+### [Bai,Li.protect](/_protect/bio/People/Writer/Bai,Li.protect.md) 
+
+### [Bai,Li.private](/_private/bio/People/Writer/Bai,Li.private.md) 
+
+### [Bai,Li.personal](/_personal/bio/People/Writer/Bai,Li.personal.md) 
+
+### [Bai,Li.secret](/_secret/bio/People/Writer/Bai,Li.secret.md)
+

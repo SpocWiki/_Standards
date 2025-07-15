@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates the usage of the car as a taxi.
 
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [taxi_vehicle_usage](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.md) 
+### [taxi_vehicle_usage](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.md) 
+
+### [taxi_vehicle_usage.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.public.md) 
 
 ### [taxi_vehicle_usage.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates the usage of the car as a taxi.
 
 ### [taxi_vehicle_usage.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.personal.md) 
 
-### [taxi_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.secret.md) 
+### [taxi_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.secret.md)
+

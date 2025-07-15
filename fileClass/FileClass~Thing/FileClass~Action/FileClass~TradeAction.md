@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,10 +73,11 @@ One or more detailed price specifications, indicating the unit price and deliver
 PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TradeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.md) 
+### [FileClass~TradeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.md) 
+
+### [FileClass~TradeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.public.md) 
 
 ### [FileClass~TradeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.internal.md) 
 
@@ -86,4 +87,5 @@ PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ### [FileClass~TradeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.personal.md) 
 
-### [FileClass~TradeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret.md) 
+### [FileClass~TradeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret.md)
+

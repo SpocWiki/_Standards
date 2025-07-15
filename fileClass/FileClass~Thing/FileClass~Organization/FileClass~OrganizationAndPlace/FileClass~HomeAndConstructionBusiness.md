@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HomeAndConstructionBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.md) 
+### [FileClass~HomeAndConstructionBusiness](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.md) 
+
+### [FileClass~HomeAndConstructionBusiness.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.public.md) 
 
 ### [FileClass~HomeAndConstructionBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.internal.md) 
 
@@ -50,4 +51,5 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 
 ### [FileClass~HomeAndConstructionBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.personal.md) 
 
-### [FileClass~HomeAndConstructionBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.secret.md) 
+### [FileClass~HomeAndConstructionBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness.secret.md)
+

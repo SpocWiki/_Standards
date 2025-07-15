@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [organize_action](/_public/schema-org/Class/is_a_/action/organize_action.md) 
+### [organize_action](/_Standards/schema-org/Class/is_a_/action/organize_action.md) 
+
+### [organize_action.public](/_public/schema-org/Class/is_a_/action/organize_action.public.md) 
 
 ### [organize_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 ### [organize_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action.personal.md) 
 
-### [organize_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action.secret.md) 
+### [organize_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action.secret.md)
+

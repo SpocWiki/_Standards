@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_order_delivery )
 ( #has_/range :: ParcelDelivery )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_order_delivery](/_public/schema-org/Relation/has/has_order_delivery.md) 
+### [has_order_delivery](/_Standards/schema-org/Relation/has/has_order_delivery.md) 
+
+### [has_order_delivery.public](/_public/schema-org/Relation/has/has_order_delivery.public.md) 
 
 ### [has_order_delivery.internal](/_internal/schema-org/Relation/has/has_order_delivery.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_order_delivery.personal](/_personal/schema-org/Relation/has/has_order_delivery.personal.md) 
 
-### [has_order_delivery.secret](/_secret/schema-org/Relation/has/has_order_delivery.secret.md) 
+### [has_order_delivery.secret](/_secret/schema-org/Relation/has/has_order_delivery.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8432
 described_by_source: "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 facet_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
@@ -50,4 +50,20 @@ Colon_Classification: "Y:1"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Civilization) 
 
+
+## Confidential Links & Embeds: 
+
+### [Civilization](/_Standards/bio/Society/Civilization.md) 
+
+### [Civilization.public](/_public/bio/Society/Civilization.public.md) 
+
+### [Civilization.internal](/_internal/bio/Society/Civilization.internal.md) 
+
+### [Civilization.protect](/_protect/bio/Society/Civilization.protect.md) 
+
+### [Civilization.private](/_private/bio/Society/Civilization.private.md) 
+
+### [Civilization.personal](/_personal/bio/Society/Civilization.personal.md) 
+
+### [Civilization.secret](/_secret/bio/Society/Civilization.secret.md)
 

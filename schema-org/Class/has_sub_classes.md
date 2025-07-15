@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 
 #is_/inverse_of  :: [[is_sub_class_of]]   
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sub_classes](/_public/schema-org/Class/has_sub_classes.md) 
+### [has_sub_classes](/_Standards/schema-org/Class/has_sub_classes.md) 
+
+### [has_sub_classes.public](/_public/schema-org/Class/has_sub_classes.public.md) 
 
 ### [has_sub_classes.internal](/_internal/schema-org/Class/has_sub_classes.internal.md) 
 
@@ -60,4 +63,5 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 
 ### [has_sub_classes.personal](/_personal/schema-org/Class/has_sub_classes.personal.md) 
 
-### [has_sub_classes.secret](/_secret/schema-org/Class/has_sub_classes.secret.md) 
+### [has_sub_classes.secret](/_secret/schema-org/Class/has_sub_classes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21939
 has_id_wikidata: Q1046
@@ -128,7 +128,9 @@ Commons_category: Niobium
 
 ## Confidential Links & Embeds: 
 
-### [Niobium](/_public/chemic/chemic~Elements/Group-05-Vanadium/Niobium.md) 
+### [Niobium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium/Niobium.md) 
+
+### [Niobium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium/Niobium.public.md) 
 
 ### [Niobium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.internal.md) 
 
@@ -138,4 +140,5 @@ Commons_category: Niobium
 
 ### [Niobium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Niobium.personal.md) 
 
-### [Niobium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Niobium.secret.md) 
+### [Niobium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Niobium.secret.md)
+

@@ -83,3 +83,21 @@ has_time_started: "-57000"
 > Clothing also hybridizes into a personal transportation system (ice skates, roller skates, cargo pants, other outdoor survival gear, one-man band) or concealment system (stage magicians, hidden linings or pockets in tradecraft, integrated holsters for concealed carry, merchandise-laden trench coats on the black market — where the purpose of the clothing often carries over into disguise). A mode of dress fit to purpose, whether stylistic or functional, is known as an outfit or ensemble.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Clothing)
+
+
+## Confidential Links & Embeds: 
+
+### [Clothing](/_Standards/Technology/Tool/Clothing.md) 
+
+### [Clothing.public](/_public/Technology/Tool/Clothing.public.md) 
+
+### [Clothing.internal](/_internal/Technology/Tool/Clothing.internal.md) 
+
+### [Clothing.protect](/_protect/Technology/Tool/Clothing.protect.md) 
+
+### [Clothing.private](/_private/Technology/Tool/Clothing.private.md) 
+
+### [Clothing.personal](/_personal/Technology/Tool/Clothing.personal.md) 
+
+### [Clothing.secret](/_secret/Technology/Tool/Clothing.secret.md)
+

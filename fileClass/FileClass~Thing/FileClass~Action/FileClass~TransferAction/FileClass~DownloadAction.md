@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of downloading an object.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DownloadAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.md) 
+### [FileClass~DownloadAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.md) 
+
+### [FileClass~DownloadAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.public.md) 
 
 ### [FileClass~DownloadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of downloading an object.
 
 ### [FileClass~DownloadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.personal.md) 
 
-### [FileClass~DownloadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.secret.md) 
+### [FileClass~DownloadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.secret.md)
+

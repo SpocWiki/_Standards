@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Sahara Desert"
 has_id_wikidata: Q6583
@@ -70,3 +70,21 @@ PM20_geo_code: C1a
 > [Wikipedia](https://en.wikipedia.org/wiki/Sahara) 
 
 ![[SAHARA-Desert.geojson]]
+
+
+## Confidential Links & Embeds: 
+
+### [Sahara](/_Standards/Earth/Continent/Africa/Africa~North/Sahara.md) 
+
+### [Sahara.public](/_public/Earth/Continent/Africa/Africa~North/Sahara.public.md) 
+
+### [Sahara.internal](/_internal/Earth/Continent/Africa/Africa~North/Sahara.internal.md) 
+
+### [Sahara.protect](/_protect/Earth/Continent/Africa/Africa~North/Sahara.protect.md) 
+
+### [Sahara.private](/_private/Earth/Continent/Africa/Africa~North/Sahara.private.md) 
+
+### [Sahara.personal](/_personal/Earth/Continent/Africa/Africa~North/Sahara.personal.md) 
+
+### [Sahara.secret](/_secret/Earth/Continent/Africa/Africa~North/Sahara.secret.md)
+

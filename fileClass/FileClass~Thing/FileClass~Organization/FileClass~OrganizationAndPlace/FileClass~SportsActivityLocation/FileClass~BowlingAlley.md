@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A bowling alley.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BowlingAlley](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.md) 
+### [FileClass~BowlingAlley](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.md) 
+
+### [FileClass~BowlingAlley.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.public.md) 
 
 ### [FileClass~BowlingAlley.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.internal.md) 
 
@@ -46,4 +47,5 @@ A bowling alley.
 
 ### [FileClass~BowlingAlley.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.personal.md) 
 
-### [FileClass~BowlingAlley.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.secret.md) 
+### [FileClass~BowlingAlley.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~BowlingAlley.secret.md)
+

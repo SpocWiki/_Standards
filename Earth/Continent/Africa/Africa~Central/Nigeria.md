@@ -1036,9 +1036,12 @@ Capital :: [[Abuja]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nigeria)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nigeria](/_public/Earth/Continent/Africa/Africa~Central/Nigeria.md) 
+### [Nigeria](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria.md) 
+
+### [Nigeria.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public.md) 
 
 ### [Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal.md) 
 
@@ -1048,4 +1051,5 @@ Capital :: [[Abuja]]
 
 ### [Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal.md) 
 
-### [Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret.md) 
+### [Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret.md)
+

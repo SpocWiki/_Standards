@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A statement of the money due for goods or services; a bill.
 
 [ #has_/properties :: [ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [invoice](/_public/schema-org/Class/is_a_/Intangible/invoice.md) 
+### [invoice](/_Standards/schema-org/Class/is_a_/Intangible/invoice.md) 
+
+### [invoice.public](/_public/schema-org/Class/is_a_/Intangible/invoice.public.md) 
 
 ### [invoice.internal](/_internal/schema-org/Class/is_a_/Intangible/invoice.internal.md) 
 
@@ -54,4 +57,5 @@ A statement of the money due for goods or services; a bill.
 
 ### [invoice.personal](/_personal/schema-org/Class/is_a_/Intangible/invoice.personal.md) 
 
-### [invoice.secret](/_secret/schema-org/Class/is_a_/Intangible/invoice.secret.md) 
+### [invoice.secret](/_secret/schema-org/Class/is_a_/Intangible/invoice.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalSymptom](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.md) 
+### [FileClass~MedicalSymptom](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.md) 
+
+### [FileClass~MedicalSymptom.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.public.md) 
 
 ### [FileClass~MedicalSymptom.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.internal.md) 
 
@@ -46,4 +47,5 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 
 ### [FileClass~MedicalSymptom.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.personal.md) 
 
-### [FileClass~MedicalSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.secret.md) 
+### [FileClass~MedicalSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSymptom.secret.md)
+

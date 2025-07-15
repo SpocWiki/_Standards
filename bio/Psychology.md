@@ -24,19 +24,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychology)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Psychology](/_public/Psychology.md) 
+### [Psychology](/_Standards/bio/Psychology.md) 
 
-### [[Psychology.internal]] 
+### [Psychology.public](/_public/bio/Psychology.public.md) 
 
-### [Psychology.protect](/_protect/Psychology.protect.md) 
+### [Psychology.internal](/_internal/bio/Psychology.internal.md) 
 
-### [Psychology.private](/_private/Psychology.private.md) 
+### [Psychology.protect](/_protect/bio/Psychology.protect.md) 
 
-### [Psychology.personal](/_personal/Psychology.personal.md) 
+### [Psychology.private](/_private/bio/Psychology.private.md) 
 
-### [Psychology.secret](/_secret/Psychology.secret.md) 
+### [Psychology.personal](/_personal/bio/Psychology.personal.md) 
 
+### [Psychology.secret](/_secret/bio/Psychology.secret.md)
 

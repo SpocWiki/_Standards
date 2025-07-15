@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fr
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, availableLanguage, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [tourist_attraction](/_public/schema-org/Class/is_a_/place/tourist_attraction.md) 
+### [tourist_attraction](/_Standards/schema-org/Class/is_a_/place/tourist_attraction.md) 
+
+### [tourist_attraction.public](/_public/schema-org/Class/is_a_/place/tourist_attraction.public.md) 
 
 ### [tourist_attraction.internal](/_internal/schema-org/Class/is_a_/place/tourist_attraction.internal.md) 
 
@@ -54,4 +57,5 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fr
 
 ### [tourist_attraction.personal](/_personal/schema-org/Class/is_a_/place/tourist_attraction.personal.md) 
 
-### [tourist_attraction.secret](/_secret/schema-org/Class/is_a_/place/tourist_attraction.secret.md) 
+### [tourist_attraction.secret](/_secret/schema-org/Class/is_a_/place/tourist_attraction.secret.md)
+

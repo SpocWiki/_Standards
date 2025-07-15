@@ -32,3 +32,19 @@ Krugosvet_article:
 > [Wikipedia](https://en.wikipedia.org/wiki/Arch) 
 
 
+## Confidential Links & Embeds: 
+
+### [Arch](/_Standards/Technology/Construction/Arch.md) 
+
+### [Arch.public](/_public/Technology/Construction/Arch.public.md) 
+
+### [Arch.internal](/_internal/Technology/Construction/Arch.internal.md) 
+
+### [Arch.protect](/_protect/Technology/Construction/Arch.protect.md) 
+
+### [Arch.private](/_private/Technology/Construction/Arch.private.md) 
+
+### [Arch.personal](/_personal/Technology/Construction/Arch.personal.md) 
+
+### [Arch.secret](/_secret/Technology/Construction/Arch.secret.md)
+

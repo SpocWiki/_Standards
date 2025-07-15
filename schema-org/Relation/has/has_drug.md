@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_drug )
 ( #has_/range :: Drug )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_drug](/_public/schema-org/Relation/has/has_drug.md) 
+### [has_drug](/_Standards/schema-org/Relation/has/has_drug.md) 
+
+### [has_drug.public](/_public/schema-org/Relation/has/has_drug.public.md) 
 
 ### [has_drug.internal](/_internal/schema-org/Relation/has/has_drug.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_drug.personal](/_personal/schema-org/Relation/has/has_drug.personal.md) 
 
-### [has_drug.secret](/_secret/schema-org/Relation/has/has_drug.secret.md) 
+### [has_drug.secret](/_secret/schema-org/Relation/has/has_drug.secret.md)
+

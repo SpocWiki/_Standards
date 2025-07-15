@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_doors )
 ( #has_/range :: Number, QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_doors](/_public/schema-org/Property/has_number_of/has_number_of_doors.md) 
+### [has_number_of_doors](/_Standards/schema-org/Property/has_number_of/has_number_of_doors.md) 
+
+### [has_number_of_doors.public](/_public/schema-org/Property/has_number_of/has_number_of_doors.public.md) 
 
 ### [has_number_of_doors.internal](/_internal/schema-org/Property/has_number_of/has_number_of_doors.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_number_of_doors.personal](/_personal/schema-org/Property/has_number_of/has_number_of_doors.personal.md) 
 
-### [has_number_of_doors.secret](/_secret/schema-org/Property/has_number_of/has_number_of_doors.secret.md) 
+### [has_number_of_doors.secret](/_secret/schema-org/Property/has_number_of/has_number_of_doors.secret.md)
+

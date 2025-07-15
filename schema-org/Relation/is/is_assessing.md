@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: is_assessing )
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/defined_term]]], [[Text]] )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_assessing](/_public/schema-org/Relation/is/is_assessing.md) 
+### [is_assessing](/_Standards/schema-org/Relation/is/is_assessing.md) 
+
+### [is_assessing.public](/_public/schema-org/Relation/is/is_assessing.public.md) 
 
 ### [is_assessing.internal](/_internal/schema-org/Relation/is/is_assessing.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [is_assessing.personal](/_personal/schema-org/Relation/is/is_assessing.personal.md) 
 
-### [is_assessing.secret](/_secret/schema-org/Relation/is/is_assessing.secret.md) 
+### [is_assessing.secret](/_secret/schema-org/Relation/is/is_assessing.secret.md)
+

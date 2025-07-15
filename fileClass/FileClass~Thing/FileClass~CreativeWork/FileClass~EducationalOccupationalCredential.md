@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -89,10 +89,11 @@ The geographic area where a permit or similar thing is valid.
 ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EducationalOccupationalCredential](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.md) 
+### [FileClass~EducationalOccupationalCredential](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.md) 
+
+### [FileClass~EducationalOccupationalCredential.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.public.md) 
 
 ### [FileClass~EducationalOccupationalCredential.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.internal.md) 
 
@@ -102,4 +103,5 @@ ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ### [FileClass~EducationalOccupationalCredential.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.personal.md) 
 
-### [FileClass~EducationalOccupationalCredential.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.secret.md) 
+### [FileClass~EducationalOccupationalCredential.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~EducationalOccupationalCredential.secret.md)
+

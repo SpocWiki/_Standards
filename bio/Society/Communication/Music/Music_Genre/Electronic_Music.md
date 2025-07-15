@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Electronic music"
 has_id_wikidata: Q9778
@@ -33,4 +33,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20commercial%20Mo
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electronic%20music) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Electronic_Music](/_Standards/bio/Society/Communication/Music/Music_Genre/Electronic_Music.md) 
+
+### [Electronic_Music.public](/_public/bio/Society/Communication/Music/Music_Genre/Electronic_Music.public.md) 
+
+### [Electronic_Music.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Electronic_Music.internal.md) 
+
+### [Electronic_Music.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Electronic_Music.protect.md) 
+
+### [Electronic_Music.private](/_private/bio/Society/Communication/Music/Music_Genre/Electronic_Music.private.md) 
+
+### [Electronic_Music.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Electronic_Music.personal.md) 
+
+### [Electronic_Music.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Electronic_Music.secret.md)
 

@@ -58,3 +58,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Reindeer)
 
 
+## Confidential Links & Embeds: 
+
+### [Reindeer](/_Standards/bio/Reindeer.md) 
+
+### [Reindeer.public](/_public/bio/Reindeer.public.md) 
+
+### [Reindeer.internal](/_internal/bio/Reindeer.internal.md) 
+
+### [Reindeer.protect](/_protect/bio/Reindeer.protect.md) 
+
+### [Reindeer.private](/_private/bio/Reindeer.private.md) 
+
+### [Reindeer.personal](/_personal/bio/Reindeer.personal.md) 
+
+### [Reindeer.secret](/_secret/bio/Reindeer.secret.md)
+

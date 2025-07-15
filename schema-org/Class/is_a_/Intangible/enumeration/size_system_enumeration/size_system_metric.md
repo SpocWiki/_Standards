@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Metric size system.
 
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [size_system_metric](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.md) 
+### [size_system_metric](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.md) 
+
+### [size_system_metric.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.public.md) 
 
 ### [size_system_metric.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.internal.md) 
 
@@ -58,4 +61,5 @@ Metric size system.
 
 ### [size_system_metric.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.personal.md) 
 
-### [size_system_metric.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.secret.md) 
+### [size_system_metric.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_system_enumeration/size_system_metric.secret.md)
+

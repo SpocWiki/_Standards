@@ -91,6 +91,11 @@ orbital_period: 90553.02
 video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50sec-20150714.webm"
 ---
 
+# [[Pluto]] 
+
+#is_/same_as :: [[../../WikiData/WD~Pluto,339]] 
+#is_/different_from :: [[../../WikiData/WD~Pluto,152262]] 
+
 ## #has_/text_of_/abstract 
 
 > **Pluto** (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume, by a small margin, but is less massive than Eris. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has roughly one-sixth the mass of the Moon, and one-third its volume.
@@ -102,4 +107,21 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50
 > Pluto was discovered in 1930 by Clyde W. Tombaugh, making it by far the first known object in the Kuiper belt. It was immediately hailed as the ninth planet. However,: 27  its planetary status was questioned when it was found to be much smaller than expected. These doubts increased following the discovery of additional objects in the Kuiper belt starting in the 1990s, and particularly the more massive scattered disk object Eris in 2005. In 2006, the International Astronomical Union (IAU) formally redefined the term planet to exclude dwarf planets such as Pluto. Many planetary astronomers, however, continue to consider Pluto and other dwarf planets to be planets.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pluto)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Pluto](/_Standards/Astronomy/Solar_System/Pluto.md) 
+
+### #is_/same_as :: [Pluto.public](/_public/Astronomy/Solar_System/Pluto.public.md) 
+
+### #is_/same_as :: [Pluto.internal](/_internal/Astronomy/Solar_System/Pluto.internal.md) 
+
+### #is_/same_as :: [Pluto.protect](/_protect/Astronomy/Solar_System/Pluto.protect.md) 
+
+### #is_/same_as :: [Pluto.private](/_private/Astronomy/Solar_System/Pluto.private.md) 
+
+### #is_/same_as :: [Pluto.personal](/_personal/Astronomy/Solar_System/Pluto.personal.md) 
+
+### #is_/same_as :: [Pluto.secret](/_secret/Astronomy/Solar_System/Pluto.secret.md)
 

@@ -128,7 +128,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Eon~4~Phanerozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.md) 
+### [Eon~4~Phanerozoic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic.md) 
+
+### [Eon~4~Phanerozoic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.public.md) 
 
 ### [Eon~4~Phanerozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.internal.md) 
 
@@ -138,4 +140,5 @@ noteOnly: true
 
 ### [Eon~4~Phanerozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.personal.md) 
 
-### [Eon~4~Phanerozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret.md) 
+### [Eon~4~Phanerozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret.md)
+

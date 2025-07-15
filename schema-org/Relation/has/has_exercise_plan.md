@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_exercise_plan](/_public/schema-org/Relation/has/has_exercise_plan.md) 
+### [has_exercise_plan](/_Standards/schema-org/Relation/has/has_exercise_plan.md) 
+
+### [has_exercise_plan.public](/_public/schema-org/Relation/has/has_exercise_plan.public.md) 
 
 ### [has_exercise_plan.internal](/_internal/schema-org/Relation/has/has_exercise_plan.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_exercise_plan.personal](/_personal/schema-org/Relation/has/has_exercise_plan.personal.md) 
 
-### [has_exercise_plan.secret](/_secret/schema-org/Relation/has/has_exercise_plan.secret.md) 
+### [has_exercise_plan.secret](/_secret/schema-org/Relation/has/has_exercise_plan.secret.md)
+

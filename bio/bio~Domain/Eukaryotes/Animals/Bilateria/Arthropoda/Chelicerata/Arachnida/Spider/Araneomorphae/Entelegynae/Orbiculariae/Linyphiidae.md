@@ -62,3 +62,21 @@ characters (Spider). Bulletin of the British Arachnological Society
 Penney D. and P. A. Selden. 2002. The oldest linyphiid spider, in Lower
 Cretaceous Lebanese amber (Spider, Linyphiidae, Linyphiinae). Journal
 of Arachnology 30 (3):487-493.
+
+
+## Confidential Links & Embeds: 
+
+### [Linyphiidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.md) 
+
+### [Linyphiidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.public.md) 
+
+### [Linyphiidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.internal.md) 
+
+### [Linyphiidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.protect.md) 
+
+### [Linyphiidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.private.md) 
+
+### [Linyphiidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.personal.md) 
+
+### [Linyphiidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Araneomorphae/Entelegynae/Orbiculariae/Linyphiidae.secret.md)
+

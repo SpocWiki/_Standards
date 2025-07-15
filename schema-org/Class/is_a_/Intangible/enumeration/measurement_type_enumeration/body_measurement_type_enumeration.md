@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 [ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [body_measurement_type_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md) 
+### [body_measurement_type_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md) 
+
+### [body_measurement_type_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.public.md) 
 
 ### [body_measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 ### [body_measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.personal.md) 
 
-### [body_measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md) 
+### [body_measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md)
+

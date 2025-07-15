@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-15.9167,-5.71667]
 type: Country
 tags:
@@ -50,10 +50,11 @@ Capital :: [[Jamestown]]
 [has_place_latitude::-15.9167]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Tristan_da_Cunha-Islands](/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.md) 
+### [Tristan_da_Cunha-Islands](/_Standards/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.md) 
+
+### [Tristan_da_Cunha-Islands.public](/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.public.md) 
 
 ### [Tristan_da_Cunha-Islands.internal](/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.internal.md) 
 
@@ -63,4 +64,5 @@ Capital :: [[Jamestown]]
 
 ### [Tristan_da_Cunha-Islands.personal](/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.personal.md) 
 
-### [Tristan_da_Cunha-Islands.secret](/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.secret.md) 
+### [Tristan_da_Cunha-Islands.secret](/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.secret.md)
+

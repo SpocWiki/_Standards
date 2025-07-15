@@ -1,4 +1,4 @@
-﻿---
+---
 
 type: Country
 tags:
@@ -42,10 +42,11 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Czechoslovakia](/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.md) 
+### [Czechoslovakia](/_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia.md) 
+
+### [Czechoslovakia.public](/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public.md) 
 
 ### [Czechoslovakia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal.md) 
 
@@ -55,4 +56,5 @@ has_place_continent:: [[Europe]]
 
 ### [Czechoslovakia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal.md) 
 
-### [Czechoslovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret.md) 
+### [Czechoslovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret.md)
+

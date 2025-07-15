@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.494 , 166.943 ] 
 type: geo-Region
 title: Anabar
@@ -41,7 +41,9 @@ markerFolder: ./Anabar/
 
 ## Confidential Links & Embeds: 
 
-### [Anabar](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.md) 
+### [Anabar](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.md) 
+
+### [Anabar.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.public.md) 
 
 ### [Anabar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Anabar/
 
 ### [Anabar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal.md) 
 
-### [Anabar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret.md) 
+### [Anabar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret.md)
+

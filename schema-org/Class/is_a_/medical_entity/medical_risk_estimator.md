@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_risk_estimator](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.md) 
+### [medical_risk_estimator](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.md) 
+
+### [medical_risk_estimator.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.public.md) 
 
 ### [medical_risk_estimator.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.internal.md) 
 
@@ -56,4 +59,5 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 ### [medical_risk_estimator.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.personal.md) 
 
-### [medical_risk_estimator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.secret.md) 
+### [medical_risk_estimator.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator.secret.md)
+

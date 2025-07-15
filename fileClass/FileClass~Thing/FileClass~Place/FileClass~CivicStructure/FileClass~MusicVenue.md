@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A music venue.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicVenue](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.md) 
+### [FileClass~MusicVenue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.md) 
+
+### [FileClass~MusicVenue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.public.md) 
 
 ### [FileClass~MusicVenue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.internal.md) 
 
@@ -46,4 +47,5 @@ A music venue.
 
 ### [FileClass~MusicVenue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.personal.md) 
 
-### [FileClass~MusicVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.secret.md) 
+### [FileClass~MusicVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.secret.md)
+

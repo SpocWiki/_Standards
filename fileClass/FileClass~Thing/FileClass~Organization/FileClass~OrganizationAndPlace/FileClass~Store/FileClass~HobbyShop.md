@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A store that sells materials useful or necessary for various hobbies.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HobbyShop](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.md) 
+### [FileClass~HobbyShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.md) 
+
+### [FileClass~HobbyShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.public.md) 
 
 ### [FileClass~HobbyShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.internal.md) 
 
@@ -46,4 +47,5 @@ A store that sells materials useful or necessary for various hobbies.
 
 ### [FileClass~HobbyShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.personal.md) 
 
-### [FileClass~HobbyShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.secret.md) 
+### [FileClass~HobbyShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~HobbyShop.secret.md)
+

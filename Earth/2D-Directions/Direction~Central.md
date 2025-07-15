@@ -1,4 +1,4 @@
-﻿
+
 
 #has_/name_/ar_/Latn :: Al Wusta 
 #has_/name_/ar_/Arab ::  الوسطى  
@@ -14,7 +14,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Direction~Central](/_public/Earth/2D-Directions/Direction~Central.md) 
+### [Direction~Central](/_Standards/Earth/2D-Directions/Direction~Central.md) 
+
+### [Direction~Central.public](/_public/Earth/2D-Directions/Direction~Central.public.md) 
 
 ### [Direction~Central.internal](/_internal/Earth/2D-Directions/Direction~Central.internal.md) 
 
@@ -24,4 +26,5 @@
 
 ### [Direction~Central.personal](/_personal/Earth/2D-Directions/Direction~Central.personal.md) 
 
-### [Direction~Central.secret](/_secret/Earth/2D-Directions/Direction~Central.secret.md) 
+### [Direction~Central.secret](/_secret/Earth/2D-Directions/Direction~Central.secret.md)
+

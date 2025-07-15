@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - East Africa
   - Eastern Africa
@@ -64,7 +64,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Africa~East](/_public/Earth/Continent/Africa/Africa~East.md) 
+### [Africa~East](/_Standards/Earth/Continent/Africa/Africa~East.md) 
+
+### [Africa~East.public](/_public/Earth/Continent/Africa/Africa~East.public.md) 
 
 ### [Africa~East.internal](/_internal/Earth/Continent/Africa/Africa~East.internal.md) 
 
@@ -74,4 +76,5 @@ noteOnly: true
 
 ### [Africa~East.personal](/_personal/Earth/Continent/Africa/Africa~East.personal.md) 
 
-### [Africa~East.secret](/_secret/Earth/Continent/Africa/Africa~East.secret.md) 
+### [Africa~East.secret](/_secret/Earth/Continent/Africa/Africa~East.secret.md)
+

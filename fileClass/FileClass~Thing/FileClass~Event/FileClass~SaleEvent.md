@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Sales event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SaleEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.md) 
+### [FileClass~SaleEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.md) 
+
+### [FileClass~SaleEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.public.md) 
 
 ### [FileClass~SaleEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Sales event.
 
 ### [FileClass~SaleEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.personal.md) 
 
-### [FileClass~SaleEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.secret.md) 
+### [FileClass~SaleEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SaleEvent.secret.md)
+

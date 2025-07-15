@@ -143,3 +143,22 @@ BHCL_UUID: 3915ed65-7142-4146-a2d2-822b62a1fa8b
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Austen)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Austen,Jane](/_Standards/bio/People/Writer/Austen,Jane.md) 
+
+### [Austen,Jane.public](/_public/bio/People/Writer/Austen,Jane.public.md) 
+
+### [Austen,Jane.internal](/_internal/bio/People/Writer/Austen,Jane.internal.md) 
+
+### [Austen,Jane.protect](/_protect/bio/People/Writer/Austen,Jane.protect.md) 
+
+### [Austen,Jane.private](/_private/bio/People/Writer/Austen,Jane.private.md) 
+
+### [Austen,Jane.personal](/_personal/bio/People/Writer/Austen,Jane.personal.md) 
+
+### [Austen,Jane.secret](/_secret/bio/People/Writer/Austen,Jane.secret.md)
+

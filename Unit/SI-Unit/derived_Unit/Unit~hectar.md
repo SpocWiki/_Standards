@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~hectar]] 
 
 #is_a_/unit_/for_/area 
@@ -10,7 +10,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~hectar](/_public/Unit/SI-Unit/derived_Unit/Unit~hectar.md) 
+### [Unit~hectar](/_Standards/Unit/SI-Unit/derived_Unit/Unit~hectar.md) 
+
+### [Unit~hectar.public](/_public/Unit/SI-Unit/derived_Unit/Unit~hectar.public.md) 
 
 ### [Unit~hectar.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~hectar.internal.md) 
 
@@ -20,4 +22,5 @@
 
 ### [Unit~hectar.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~hectar.personal.md) 
 
-### [Unit~hectar.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~hectar.secret.md) 
+### [Unit~hectar.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~hectar.secret.md)
+

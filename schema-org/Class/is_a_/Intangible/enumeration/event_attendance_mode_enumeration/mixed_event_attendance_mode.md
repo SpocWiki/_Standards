@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [mixed_event_attendance_mode](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md) 
+### [mixed_event_attendance_mode](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md) 
+
+### [mixed_event_attendance_mode.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.public.md) 
 
 ### [mixed_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md) 
 
@@ -58,4 +61,5 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 
 ### [mixed_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal.md) 
 
-### [mixed_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md) 
+### [mixed_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md)
+

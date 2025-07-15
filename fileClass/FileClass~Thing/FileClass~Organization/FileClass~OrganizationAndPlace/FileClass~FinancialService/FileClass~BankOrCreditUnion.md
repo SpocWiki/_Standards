@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Bank or credit union.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BankOrCreditUnion](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.md) 
+### [FileClass~BankOrCreditUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.md) 
+
+### [FileClass~BankOrCreditUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.public.md) 
 
 ### [FileClass~BankOrCreditUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.internal.md) 
 
@@ -46,4 +47,5 @@ Bank or credit union.
 
 ### [FileClass~BankOrCreditUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.personal.md) 
 
-### [FileClass~BankOrCreditUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.secret.md) 
+### [FileClass~BankOrCreditUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~BankOrCreditUnion.secret.md)
+

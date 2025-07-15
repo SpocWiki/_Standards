@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: position ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_issue](/_public/schema-org/Property/has_number_of/has_number_of_issue.md) 
+### [has_number_of_issue](/_Standards/schema-org/Property/has_number_of/has_number_of_issue.md) 
+
+### [has_number_of_issue.public](/_public/schema-org/Property/has_number_of/has_number_of_issue.public.md) 
 
 ### [has_number_of_issue.internal](/_internal/schema-org/Property/has_number_of/has_number_of_issue.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_issue.personal](/_personal/schema-org/Property/has_number_of/has_number_of_issue.personal.md) 
 
-### [has_number_of_issue.secret](/_secret/schema-org/Property/has_number_of/has_number_of_issue.secret.md) 
+### [has_number_of_issue.secret](/_secret/schema-org/Property/has_number_of/has_number_of_issue.secret.md)
+

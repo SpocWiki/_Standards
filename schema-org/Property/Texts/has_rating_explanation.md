@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_rating_explanation )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_rating_explanation](/_public/schema-org/Property/Texts/has_rating_explanation.md) 
+### [has_rating_explanation](/_Standards/schema-org/Property/Texts/has_rating_explanation.md) 
+
+### [has_rating_explanation.public](/_public/schema-org/Property/Texts/has_rating_explanation.public.md) 
 
 ### [has_rating_explanation.internal](/_internal/schema-org/Property/Texts/has_rating_explanation.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_rating_explanation.personal](/_personal/schema-org/Property/Texts/has_rating_explanation.personal.md) 
 
-### [has_rating_explanation.secret](/_secret/schema-org/Property/Texts/has_rating_explanation.secret.md) 
+### [has_rating_explanation.secret](/_secret/schema-org/Property/Texts/has_rating_explanation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_billing_increment )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_billing_increment](/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.md) 
+### [has_value_for_billing_increment](/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment.md) 
+
+### [has_value_for_billing_increment.public](/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public.md) 
 
 ### [has_value_for_billing_increment.internal](/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_billing_increment.personal](/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal.md) 
 
-### [has_value_for_billing_increment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret.md) 
+### [has_value_for_billing_increment.secret](/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret.md)
+

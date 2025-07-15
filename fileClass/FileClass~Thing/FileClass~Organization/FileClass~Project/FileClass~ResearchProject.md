@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Research project.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ResearchProject](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.md) 
+### [FileClass~ResearchProject](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.md) 
+
+### [FileClass~ResearchProject.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.public.md) 
 
 ### [FileClass~ResearchProject.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.internal.md) 
 
@@ -46,4 +47,5 @@ A Research project.
 
 ### [FileClass~ResearchProject.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.personal.md) 
 
-### [FileClass~ResearchProject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.secret.md) 
+### [FileClass~ResearchProject.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project/FileClass~ResearchProject.secret.md)
+

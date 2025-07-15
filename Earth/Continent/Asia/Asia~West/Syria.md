@@ -454,9 +454,12 @@ Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syria)
 
+
 ## Confidential Links & Embeds: 
 
-### [Syria](/_public/Earth/Continent/Asia/Asia~West/Syria.md) 
+### [Syria](/_Standards/Earth/Continent/Asia/Asia~West/Syria.md) 
+
+### [Syria.public](/_public/Earth/Continent/Asia/Asia~West/Syria.public.md) 
 
 ### [Syria.internal](/_internal/Earth/Continent/Asia/Asia~West/Syria.internal.md) 
 
@@ -466,4 +469,5 @@ Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]
 
 ### [Syria.personal](/_personal/Earth/Continent/Asia/Asia~West/Syria.personal.md) 
 
-### [Syria.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria.secret.md) 
+### [Syria.secret](/_secret/Earth/Continent/Asia/Asia~West/Syria.secret.md)
+

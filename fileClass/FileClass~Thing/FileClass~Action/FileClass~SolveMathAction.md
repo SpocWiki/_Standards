@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ For questions that are part of learning resources (e.g. Quiz), eduQuestionType i
 EduQuestionType:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SolveMathAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.md) 
+### [FileClass~SolveMathAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.md) 
+
+### [FileClass~SolveMathAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.public.md) 
 
 ### [FileClass~SolveMathAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.internal.md) 
 
@@ -56,4 +57,5 @@ EduQuestionType:: {"type":"Input","options":{}}
 
 ### [FileClass~SolveMathAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.personal.md) 
 
-### [FileClass~SolveMathAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret.md) 
+### [FileClass~SolveMathAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret.md)
+

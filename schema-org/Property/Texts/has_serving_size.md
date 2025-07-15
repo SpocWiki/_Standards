@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_serving_size )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_serving_size](/_public/schema-org/Property/Texts/has_serving_size.md) 
+### [has_serving_size](/_Standards/schema-org/Property/Texts/has_serving_size.md) 
+
+### [has_serving_size.public](/_public/schema-org/Property/Texts/has_serving_size.public.md) 
 
 ### [has_serving_size.internal](/_internal/schema-org/Property/Texts/has_serving_size.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_serving_size.personal](/_personal/schema-org/Property/Texts/has_serving_size.personal.md) 
 
-### [has_serving_size.secret](/_secret/schema-org/Property/Texts/has_serving_size.secret.md) 
+### [has_serving_size.secret](/_secret/schema-org/Property/Texts/has_serving_size.secret.md)
+

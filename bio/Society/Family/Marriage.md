@@ -26,3 +26,22 @@ has_id_wikidata: Q8445
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Marriage](/_Standards/bio/Society/Family/Marriage.md) 
+
+### [Marriage.public](/_public/bio/Society/Family/Marriage.public.md) 
+
+### [Marriage.internal](/_internal/bio/Society/Family/Marriage.internal.md) 
+
+### [Marriage.protect](/_protect/bio/Society/Family/Marriage.protect.md) 
+
+### [Marriage.private](/_private/bio/Society/Family/Marriage.private.md) 
+
+### [Marriage.personal](/_personal/bio/Society/Family/Marriage.personal.md) 
+
+### [Marriage.secret](/_secret/bio/Society/Family/Marriage.secret.md)
+

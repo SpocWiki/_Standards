@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,7 +45,9 @@ A point value or interval for product characteristics and other purposes.
 
 ## Confidential Links & Embeds: 
 
-### [quantitative_value](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.md) 
+### [quantitative_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.md) 
+
+### [quantitative_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.public.md) 
 
 ### [quantitative_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.internal.md) 
 
@@ -55,4 +57,5 @@ A point value or interval for product characteristics and other purposes.
 
 ### [quantitative_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.personal.md) 
 
-### [quantitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.secret.md) 
+### [quantitative_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/quantitative_value.secret.md)
+

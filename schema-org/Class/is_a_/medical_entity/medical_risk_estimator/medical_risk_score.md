@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 [ #has_/properties :: [ additionalType, algorithm, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_risk_score](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.md) 
+### [medical_risk_score](/_Standards/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.md) 
+
+### [medical_risk_score.public](/_public/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.public.md) 
 
 ### [medical_risk_score.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.internal.md) 
 
@@ -54,4 +57,5 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 ### [medical_risk_score.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.personal.md) 
 
-### [medical_risk_score.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.secret.md) 
+### [medical_risk_score.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.secret.md)
+

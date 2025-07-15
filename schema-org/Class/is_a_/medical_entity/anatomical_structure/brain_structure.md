@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [brain_structure](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md) 
+### [brain_structure](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md) 
+
+### [brain_structure.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.public.md) 
 
 ### [brain_structure.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md) 
 
@@ -54,4 +57,5 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ### [brain_structure.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.personal.md) 
 
-### [brain_structure.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md) 
+### [brain_structure.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md)
+

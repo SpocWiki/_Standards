@@ -94,3 +94,21 @@ Mar. Sci. 20: 421-428.
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
   Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
   ------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [glacialis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.md) 
+
+### [glacialis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.public.md) 
+
+### [glacialis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.internal.md) 
+
+### [glacialis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.protect.md) 
+
+### [glacialis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.private.md) 
+
+### [glacialis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.personal.md) 
+
+### [glacialis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Cirroctopus/glacialis.secret.md)
+

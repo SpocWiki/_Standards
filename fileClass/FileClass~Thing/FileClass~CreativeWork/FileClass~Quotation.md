@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The (e.g. fictional) character, Person or Organization to whom the quotation is 
 SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Quotation](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.md) 
+### [FileClass~Quotation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.md) 
+
+### [FileClass~Quotation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.public.md) 
 
 ### [FileClass~Quotation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.internal.md) 
 
@@ -57,4 +58,5 @@ SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 
 ### [FileClass~Quotation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.personal.md) 
 
-### [FileClass~Quotation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret.md) 
+### [FileClass~Quotation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Quotation.secret.md)
+

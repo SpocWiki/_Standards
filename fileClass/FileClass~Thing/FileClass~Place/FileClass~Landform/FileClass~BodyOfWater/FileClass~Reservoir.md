@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Reservoir](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.md) 
+### [FileClass~Reservoir](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.md) 
+
+### [FileClass~Reservoir.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.public.md) 
 
 ### [FileClass~Reservoir.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.internal.md) 
 
@@ -46,4 +47,5 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 
 ### [FileClass~Reservoir.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.personal.md) 
 
-### [FileClass~Reservoir.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.secret.md) 
+### [FileClass~Reservoir.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.secret.md)
+

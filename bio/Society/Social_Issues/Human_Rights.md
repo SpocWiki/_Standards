@@ -178,3 +178,22 @@ excalidraw-autoexport: svg
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### [Human_Rights](/_Standards/bio/Society/Social_Issues/Human_Rights.md) 
+
+### [Human_Rights.public](/_public/bio/Society/Social_Issues/Human_Rights.public.md) 
+
+### [Human_Rights.internal](/_internal/bio/Society/Social_Issues/Human_Rights.internal.md) 
+
+### [Human_Rights.protect](/_protect/bio/Society/Social_Issues/Human_Rights.protect.md) 
+
+### [Human_Rights.private](/_private/bio/Society/Social_Issues/Human_Rights.private.md) 
+
+### [Human_Rights.personal](/_personal/bio/Society/Social_Issues/Human_Rights.personal.md) 
+
+### [Human_Rights.secret](/_secret/bio/Society/Social_Issues/Human_Rights.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An email message.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EmailMessage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.md) 
+### [FileClass~EmailMessage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.md) 
+
+### [FileClass~EmailMessage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.public.md) 
 
 ### [FileClass~EmailMessage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.internal.md) 
 
@@ -46,4 +47,5 @@ An email message.
 
 ### [FileClass~EmailMessage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.personal.md) 
 
-### [FileClass~EmailMessage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.secret.md) 
+### [FileClass~EmailMessage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message/FileClass~EmailMessage.secret.md)
+

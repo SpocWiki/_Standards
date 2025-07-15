@@ -1,10 +1,13 @@
-﻿RDF defines the Rules and Vocabulary to describe Resources identified with URLs. 
+RDF defines the Rules and Vocabulary to describe Resources identified with URLs. 
 This allows to write Claims/Triples 
 RDFS extends this with Classes which define Properties and Relations. 
 
+
 ## Confidential Links & Embeds: 
 
-### [RDF(Resource_Description_Framework)](/_public/RDF(Resource_Description_Framework).md) 
+### [RDF(Resource_Description_Framework)](/_Standards/RDF(Resource_Description_Framework).md) 
+
+### [RDF(Resource_Description_Framework).public](/_public/RDF(Resource_Description_Framework).public.md) 
 
 ### [RDF(Resource_Description_Framework).internal](/_internal/RDF(Resource_Description_Framework).internal.md) 
 
@@ -14,4 +17,5 @@ RDFS extends this with Classes which define Properties and Relations.
 
 ### [RDF(Resource_Description_Framework).personal](/_personal/RDF(Resource_Description_Framework).personal.md) 
 
-### [RDF(Resource_Description_Framework).secret](/_secret/RDF(Resource_Description_Framework).secret.md) 
+### [RDF(Resource_Description_Framework).secret](/_secret/RDF(Resource_Description_Framework).secret.md)
+

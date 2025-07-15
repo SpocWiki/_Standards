@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Web page type: Collection page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CollectionPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.md) 
+### [FileClass~CollectionPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.md) 
+
+### [FileClass~CollectionPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.public.md) 
 
 ### [FileClass~CollectionPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.internal.md) 
 
@@ -46,4 +47,5 @@ Web page type: Collection page.
 
 ### [FileClass~CollectionPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.personal.md) 
 
-### [FileClass~CollectionPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.secret.md) 
+### [FileClass~CollectionPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage.secret.md)
+

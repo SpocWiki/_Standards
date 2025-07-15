@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,10 +38,11 @@ Specifics about the trial design (enumerated).
 TrialDesign:: {"type":"Select","options":{"valuesList":{"DoubleBlindedTrial","InternationalTrial","MultiCenterTrial","OpenTrial","PlaceboControlledTrial","RandomizedTrial","SingleBlindedTrial","SingleCenterTrial","TripleBlindedTrial"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalTrial](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.md) 
+### [FileClass~MedicalTrial](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.md) 
+
+### [FileClass~MedicalTrial.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.public.md) 
 
 ### [FileClass~MedicalTrial.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.internal.md) 
 
@@ -51,4 +52,5 @@ TrialDesign:: {"type":"Select","options":{"valuesList":{"DoubleBlindedTrial","In
 
 ### [FileClass~MedicalTrial.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.personal.md) 
 
-### [FileClass~MedicalTrial.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.secret.md) 
+### [FileClass~MedicalTrial.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.secret.md)
+

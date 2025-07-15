@@ -66,3 +66,22 @@ Basisklassifikation: 89.12
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liberalism)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Liberalism](/_Standards/bio/Society/Ideology/Liberalism.md) 
+
+### [Liberalism.public](/_public/bio/Society/Ideology/Liberalism.public.md) 
+
+### [Liberalism.internal](/_internal/bio/Society/Ideology/Liberalism.internal.md) 
+
+### [Liberalism.protect](/_protect/bio/Society/Ideology/Liberalism.protect.md) 
+
+### [Liberalism.private](/_private/bio/Society/Ideology/Liberalism.private.md) 
+
+### [Liberalism.personal](/_personal/bio/Society/Ideology/Liberalism.personal.md) 
+
+### [Liberalism.secret](/_secret/bio/Society/Ideology/Liberalism.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -39,10 +39,11 @@ A camping site, campsite, or [[Campground]] is a place used for overnight stay i
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Campground](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.md) 
+### [FileClass~Campground](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.md) 
+
+### [FileClass~Campground.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.public.md) 
 
 ### [FileClass~Campground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.internal.md) 
 
@@ -52,4 +53,5 @@ A camping site, campsite, or [[Campground]] is a place used for overnight stay i
 
 ### [FileClass~Campground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.personal.md) 
 
-### [FileClass~Campground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.secret.md) 
+### [FileClass~Campground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.secret.md)
+

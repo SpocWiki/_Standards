@@ -86,3 +86,22 @@ in the Ordovician of Colorado. (From Ørvig 1958.)
 Copyright ::   © 1997 Philippe Janvier
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Eriptychiida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.md) 
+
+### [Eriptychiida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.public.md) 
+
+### [Eriptychiida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.internal.md) 
+
+### [Eriptychiida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.protect.md) 
+
+### [Eriptychiida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.private.md) 
+
+### [Eriptychiida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.personal.md) 
+
+### [Eriptychiida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pteraspidomorphi/Eriptychiida.secret.md)
+

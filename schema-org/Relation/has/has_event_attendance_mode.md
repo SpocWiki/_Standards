@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_event_attendance_mode )
 ( #has_/range :: EventAttendanceModeEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_event_attendance_mode](/_public/schema-org/Relation/has/has_event_attendance_mode.md) 
+### [has_event_attendance_mode](/_Standards/schema-org/Relation/has/has_event_attendance_mode.md) 
+
+### [has_event_attendance_mode.public](/_public/schema-org/Relation/has/has_event_attendance_mode.public.md) 
 
 ### [has_event_attendance_mode.internal](/_internal/schema-org/Relation/has/has_event_attendance_mode.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_event_attendance_mode.personal](/_personal/schema-org/Relation/has/has_event_attendance_mode.personal.md) 
 
-### [has_event_attendance_mode.secret](/_secret/schema-org/Relation/has/has_event_attendance_mode.secret.md) 
+### [has_event_attendance_mode.secret](/_secret/schema-org/Relation/has/has_event_attendance_mode.secret.md)
+

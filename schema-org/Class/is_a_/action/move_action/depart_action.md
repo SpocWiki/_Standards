@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [depart_action](/_public/schema-org/Class/is_a_/action/move_action/depart_action.md) 
+### [depart_action](/_Standards/schema-org/Class/is_a_/action/move_action/depart_action.md) 
+
+### [depart_action.public](/_public/schema-org/Class/is_a_/action/move_action/depart_action.public.md) 
 
 ### [depart_action.internal](/_internal/schema-org/Class/is_a_/action/move_action/depart_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 
 ### [depart_action.personal](/_personal/schema-org/Class/is_a_/action/move_action/depart_action.personal.md) 
 
-### [depart_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/depart_action.secret.md) 
+### [depart_action.secret](/_secret/schema-org/Class/is_a_/action/move_action/depart_action.secret.md)
+

@@ -15,3 +15,20 @@ has_id_wikidata: Q3559
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Comet)
 
+
+## Confidential Links & Embeds: 
+
+### [Comet](/_Standards/Astronomy/Comet.md) 
+
+### [Comet.public](/_public/Astronomy/Comet.public.md) 
+
+### [Comet.internal](/_internal/Astronomy/Comet.internal.md) 
+
+### [Comet.protect](/_protect/Astronomy/Comet.protect.md) 
+
+### [Comet.private](/_private/Astronomy/Comet.private.md) 
+
+### [Comet.personal](/_personal/Astronomy/Comet.personal.md) 
+
+### [Comet.secret](/_secret/Astronomy/Comet.secret.md)
+

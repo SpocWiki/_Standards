@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The drug's cost represents the maximum reimbursement paid by an insurer for the 
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [reimbursement_cap](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.md) 
+### [reimbursement_cap](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.md) 
+
+### [reimbursement_cap.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.public.md) 
 
 ### [reimbursement_cap.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.internal.md) 
 
@@ -56,4 +59,5 @@ The drug's cost represents the maximum reimbursement paid by an insurer for the 
 
 ### [reimbursement_cap.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.personal.md) 
 
-### [reimbursement_cap.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.secret.md) 
+### [reimbursement_cap.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.secret.md)
+

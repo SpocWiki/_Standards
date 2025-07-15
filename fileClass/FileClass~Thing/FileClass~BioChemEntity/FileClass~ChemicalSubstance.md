@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -65,10 +65,11 @@ Intended use of the BioChemEntity by humans.
 PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ChemicalSubstance](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.md) 
+### [FileClass~ChemicalSubstance](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.md) 
+
+### [FileClass~ChemicalSubstance.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.public.md) 
 
 ### [FileClass~ChemicalSubstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.internal.md) 
 
@@ -78,4 +79,5 @@ PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ### [FileClass~ChemicalSubstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.personal.md) 
 
-### [FileClass~ChemicalSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.secret.md) 
+### [FileClass~ChemicalSubstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~ChemicalSubstance.secret.md)
+

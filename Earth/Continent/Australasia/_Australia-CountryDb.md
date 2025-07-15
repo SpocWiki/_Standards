@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Australia-CountryDb](/_public/Earth/Continent/Australasia/_Australia-CountryDb.md) 
+### [_Australia-CountryDb](/_Standards/Earth/Continent/Australasia/_Australia-CountryDb.md) 
+
+### [_Australia-CountryDb.public](/_public/Earth/Continent/Australasia/_Australia-CountryDb.public.md) 
 
 ### [_Australia-CountryDb.internal](/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_Australia-CountryDb.personal](/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal.md) 
 
-### [_Australia-CountryDb.secret](/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret.md) 
+### [_Australia-CountryDb.secret](/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret.md)
+

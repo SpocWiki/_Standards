@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Yank]] 
 
 [[Dim~Yank]] is the Change in Force over Time, 
@@ -7,9 +7,12 @@ or equivalently the 2nd Derivative of [[Dim~Momentum]] by [[../Dim~Time]].
 
 The corresponding [[../Angular_Dimension]] is 
 
+
 ## Confidential Links & Embeds: 
 
-### [Dim~Yank](/_public/Dimension/Linear_Dimension/Dim~Yank.md) 
+### [Dim~Yank](/_Standards/Dimension/Linear_Dimension/Dim~Yank.md) 
+
+### [Dim~Yank.public](/_public/Dimension/Linear_Dimension/Dim~Yank.public.md) 
 
 ### [Dim~Yank.internal](/_internal/Dimension/Linear_Dimension/Dim~Yank.internal.md) 
 
@@ -19,4 +22,5 @@ The corresponding [[../Angular_Dimension]] is
 
 ### [Dim~Yank.personal](/_personal/Dimension/Linear_Dimension/Dim~Yank.personal.md) 
 
-### [Dim~Yank.secret](/_secret/Dimension/Linear_Dimension/Dim~Yank.secret.md) 
+### [Dim~Yank.secret](/_secret/Dimension/Linear_Dimension/Dim~Yank.secret.md)
+

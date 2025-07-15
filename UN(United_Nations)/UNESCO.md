@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "United Nations Educational, Scientific and Cultural Organization"
 has_id_wikidata: Q7809
@@ -166,5 +166,19 @@ MeSH_tree_code: N03.540.514.718.400
 > [Wikipedia](https://en.wikipedia.org/wiki/UNESCO)
 
 
+## Confidential Links & Embeds: 
 
+### [UNESCO](/_Standards/UN(United_Nations)/UNESCO.md) 
+
+### [UNESCO.public](/_public/UN(United_Nations)/UNESCO.public.md) 
+
+### [UNESCO.internal](/_internal/UN(United_Nations)/UNESCO.internal.md) 
+
+### [UNESCO.protect](/_protect/UN(United_Nations)/UNESCO.protect.md) 
+
+### [UNESCO.private](/_private/UN(United_Nations)/UNESCO.private.md) 
+
+### [UNESCO.personal](/_personal/UN(United_Nations)/UNESCO.personal.md) 
+
+### [UNESCO.secret](/_secret/UN(United_Nations)/UNESCO.secret.md)
 

@@ -1,4 +1,4 @@
-﻿
+
 # [[Darién_Gap]] 
 
 > Darién Gap (UK: , US: , Spanish: Tapón del Darién, lit. 'Darién plug') 
@@ -62,10 +62,11 @@
 The Pan American Highway is a Project by the OAS(Organization_of_American_States):
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Darién_Gap](/_public/Earth/Continent/America~Central/Darién_Gap.md) 
+### [Darién_Gap](/_Standards/Earth/Continent/America~Central/Darién_Gap.md) 
+
+### [Darién_Gap.public](/_public/Earth/Continent/America~Central/Darién_Gap.public.md) 
 
 ### [Darién_Gap.internal](/_internal/Earth/Continent/America~Central/Darién_Gap.internal.md) 
 
@@ -75,4 +76,5 @@ The Pan American Highway is a Project by the OAS(Organization_of_American_States
 
 ### [Darién_Gap.personal](/_personal/Earth/Continent/America~Central/Darién_Gap.personal.md) 
 
-### [Darién_Gap.secret](/_secret/Earth/Continent/America~Central/Darién_Gap.secret.md) 
+### [Darién_Gap.secret](/_secret/Earth/Continent/America~Central/Darién_Gap.secret.md)
+

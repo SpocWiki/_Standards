@@ -53,10 +53,11 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 > [Wikipedia](https://en.wikipedia.org/wiki/Torque)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Dim~Torque](/_public/Dimension/Linear_Dimension/Dim~Torque.md) 
+### [Dim~Torque](/_Standards/Dimension/Linear_Dimension/Dim~Torque.md) 
+
+### [Dim~Torque.public](/_public/Dimension/Linear_Dimension/Dim~Torque.public.md) 
 
 ### [Dim~Torque.internal](/_internal/Dimension/Linear_Dimension/Dim~Torque.internal.md) 
 
@@ -66,4 +67,5 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 
 ### [Dim~Torque.personal](/_personal/Dimension/Linear_Dimension/Dim~Torque.personal.md) 
 
-### [Dim~Torque.secret](/_secret/Dimension/Linear_Dimension/Dim~Torque.secret.md) 
+### [Dim~Torque.secret](/_secret/Dimension/Linear_Dimension/Dim~Torque.secret.md)
+

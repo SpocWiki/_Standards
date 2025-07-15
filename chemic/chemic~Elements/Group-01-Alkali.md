@@ -1,6 +1,7 @@
-﻿---
+---
 type: ElementGroup
 ---
+
 #chemic/Group 
 
 1)[[Group-01-Alkali/Hydrogen]]]
@@ -22,10 +23,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkali%20metal)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-01-Alkali](/_public/chemic/chemic~Elements/Group-01-Alkali.md) 
+### [Group-01-Alkali](/_Standards/chemic/chemic~Elements/Group-01-Alkali.md) 
+
+### [Group-01-Alkali.public](/_public/chemic/chemic~Elements/Group-01-Alkali.public.md) 
 
 ### [Group-01-Alkali.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali.internal.md) 
 
@@ -35,4 +37,5 @@ type: ElementGroup
 
 ### [Group-01-Alkali.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali.personal.md) 
 
-### [Group-01-Alkali.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali.secret.md) 
+### [Group-01-Alkali.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_industry )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_industry](/_public/schema-org/Relation/has/has_industry.md) 
+### [has_industry](/_Standards/schema-org/Relation/has/has_industry.md) 
+
+### [has_industry.public](/_public/schema-org/Relation/has/has_industry.public.md) 
 
 ### [has_industry.internal](/_internal/schema-org/Relation/has/has_industry.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_industry.personal](/_personal/schema-org/Relation/has/has_industry.personal.md) 
 
-### [has_industry.secret](/_secret/schema-org/Relation/has/has_industry.secret.md) 
+### [has_industry.secret](/_secret/schema-org/Relation/has/has_industry.secret.md)
+

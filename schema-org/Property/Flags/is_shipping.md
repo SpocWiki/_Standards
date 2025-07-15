@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_shipping )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_shipping](/_public/schema-org/Property/Flags/is_shipping.md) 
+### [is_shipping](/_Standards/schema-org/Property/Flags/is_shipping.md) 
+
+### [is_shipping.public](/_public/schema-org/Property/Flags/is_shipping.public.md) 
 
 ### [is_shipping.internal](/_internal/schema-org/Property/Flags/is_shipping.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_shipping.personal](/_personal/schema-org/Property/Flags/is_shipping.personal.md) 
 
-### [is_shipping.secret](/_secret/schema-org/Property/Flags/is_shipping.secret.md) 
+### [is_shipping.secret](/_secret/schema-org/Property/Flags/is_shipping.secret.md)
+

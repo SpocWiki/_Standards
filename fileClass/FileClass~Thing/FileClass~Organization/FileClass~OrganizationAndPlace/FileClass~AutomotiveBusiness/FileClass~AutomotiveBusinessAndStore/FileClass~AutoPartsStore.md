@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An auto parts store.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AutoPartsStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.md) 
+### [FileClass~AutoPartsStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.md) 
+
+### [FileClass~AutoPartsStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.public.md) 
 
 ### [FileClass~AutoPartsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.internal.md) 
 
@@ -46,4 +47,5 @@ An auto parts store.
 
 ### [FileClass~AutoPartsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.personal.md) 
 
-### [FileClass~AutoPartsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.secret.md) 
+### [FileClass~AutoPartsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~AutomotiveBusinessAndStore/FileClass~AutoPartsStore.secret.md)
+

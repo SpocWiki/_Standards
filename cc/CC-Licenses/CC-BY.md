@@ -1,4 +1,4 @@
-﻿---
+---
 title: CC-BY
 linkTitle: 
 keywords: 
@@ -39,7 +39,9 @@ This has a dual Benefit:
 
 ## Confidential Links & Embeds: 
 
-### [CC-BY](/_public/cc/CC-Licenses/CC-BY.md) 
+### [CC-BY](/_Standards/cc/CC-Licenses/CC-BY.md) 
+
+### [CC-BY.public](/_public/cc/CC-Licenses/CC-BY.public.md) 
 
 ### [CC-BY.internal](/_internal/cc/CC-Licenses/CC-BY.internal.md) 
 
@@ -49,4 +51,5 @@ This has a dual Benefit:
 
 ### [CC-BY.personal](/_personal/cc/CC-Licenses/CC-BY.personal.md) 
 
-### [CC-BY.secret](/_secret/cc/CC-Licenses/CC-BY.secret.md) 
+### [CC-BY.secret](/_secret/cc/CC-Licenses/CC-BY.secret.md)
+

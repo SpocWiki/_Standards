@@ -1,8 +1,12 @@
-﻿Untyped Member of a (mutable) [Collection](../Collection.md). 
+Untyped Member of a (mutable) [Collection](../Collection.md). 
 This is the Domain of the [[../Relation/has/is_member_of|is_member_of]] Relation with the Range being [[../Collection|Collections]] 
+
+
 ## Confidential Links & Embeds: 
 
-### [Item](/_public/schema-org/Collection/Item.md) 
+### [Item](/_Standards/schema-org/Collection/Item.md) 
+
+### [Item.public](/_public/schema-org/Collection/Item.public.md) 
 
 ### [Item.internal](/_internal/schema-org/Collection/Item.internal.md) 
 
@@ -12,4 +16,5 @@ This is the Domain of the [[../Relation/has/is_member_of|is_member_of]] Relation
 
 ### [Item.personal](/_personal/schema-org/Collection/Item.personal.md) 
 
-### [Item.secret](/_secret/schema-org/Collection/Item.secret.md) 
+### [Item.secret](/_secret/schema-org/Collection/Item.secret.md)
+

@@ -13,18 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20Hofstadter)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Douglas Hofstadter](/_public/Mathematics/Mathematicians/Douglas Hofstadter.md) 
+### [Hofstadter,Douglas](/_Standards/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.md) 
 
-### [Douglas Hofstadter.internal](/_internal/Mathematics/Mathematicians/Douglas Hofstadter.internal.md) 
+### [Hofstadter,Douglas.public](/_public/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.public.md) 
 
-### [Douglas Hofstadter.protect](/_protect/Mathematics/Mathematicians/Douglas Hofstadter.protect.md) 
+### [Hofstadter,Douglas.internal](/_internal/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.internal.md) 
 
-### [Douglas Hofstadter.private](/_private/Mathematics/Mathematicians/Douglas Hofstadter.private.md) 
+### [Hofstadter,Douglas.protect](/_protect/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.protect.md) 
 
-### [Douglas Hofstadter.personal](/_personal/Mathematics/Mathematicians/Douglas Hofstadter.personal.md) 
+### [Hofstadter,Douglas.private](/_private/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.private.md) 
 
-### [Douglas Hofstadter.secret](/_secret/Mathematics/Mathematicians/Douglas Hofstadter.secret.md) 
+### [Hofstadter,Douglas.personal](/_personal/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.personal.md) 
+
+### [Hofstadter,Douglas.secret](/_secret/bio/People/Mathematician/Modern_Mathematicians/Hofstadter,Douglas.secret.md)
+

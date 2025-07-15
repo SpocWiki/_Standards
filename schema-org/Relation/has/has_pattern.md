@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 ( #has_/name :: has_pattern )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_pattern](/_public/schema-org/Relation/has/has_pattern.md) 
+### [has_pattern](/_Standards/schema-org/Relation/has/has_pattern.md) 
+
+### [has_pattern.public](/_public/schema-org/Relation/has/has_pattern.public.md) 
 
 ### [has_pattern.internal](/_internal/schema-org/Relation/has/has_pattern.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_pattern.personal](/_personal/schema-org/Relation/has/has_pattern.personal.md) 
 
-### [has_pattern.secret](/_secret/schema-org/Relation/has/has_pattern.secret.md) 
+### [has_pattern.secret](/_secret/schema-org/Relation/has/has_pattern.secret.md)
+

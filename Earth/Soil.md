@@ -99,3 +99,20 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00001998
 Soil grows slowly in Depth: ca. 1 mm per year 
 It takes hundreds of years for soil to regain its biological properties. 
 
+
+## Confidential Links & Embeds: 
+
+### [Soil](/_Standards/Earth/Soil.md) 
+
+### [Soil.public](/_public/Earth/Soil.public.md) 
+
+### [Soil.internal](/_internal/Earth/Soil.internal.md) 
+
+### [Soil.protect](/_protect/Earth/Soil.protect.md) 
+
+### [Soil.private](/_private/Earth/Soil.private.md) 
+
+### [Soil.personal](/_personal/Earth/Soil.personal.md) 
+
+### [Soil.secret](/_secret/Earth/Soil.secret.md)
+

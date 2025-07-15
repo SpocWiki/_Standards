@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -35,9 +35,12 @@ Tag Instances like this:
 
 A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
 
+
 ## Confidential Links & Embeds: 
 
-### [date_time](/_public/schema-org/Class/is_a_/data_type/date_time.md) 
+### [date_time](/_Standards/schema-org/Class/is_a_/data_type/date_time.md) 
+
+### [date_time.public](/_public/schema-org/Class/is_a_/data_type/date_time.public.md) 
 
 ### [date_time.internal](/_internal/schema-org/Class/is_a_/data_type/date_time.internal.md) 
 
@@ -47,4 +50,5 @@ A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-
 
 ### [date_time.personal](/_personal/schema-org/Class/is_a_/data_type/date_time.personal.md) 
 
-### [date_time.secret](/_secret/schema-org/Class/is_a_/data_type/date_time.secret.md) 
+### [date_time.secret](/_secret/schema-org/Class/is_a_/data_type/date_time.secret.md)
+

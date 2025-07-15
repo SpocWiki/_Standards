@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Tag Instances like this:
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sunday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.md) 
+### [sunday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.md) 
+
+### [sunday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.public.md) 
 
 ### [sunday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.internal.md) 
 
@@ -54,4 +57,5 @@ Tag Instances like this:
 
 ### [sunday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.personal.md) 
 
-### [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md) 
+### [sunday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/sunday.secret.md)
+

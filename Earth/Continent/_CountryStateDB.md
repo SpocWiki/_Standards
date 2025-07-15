@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -370,9 +370,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_CountryStateDB](/_public/Earth/Continent/_CountryStateDB.md) 
+### [_CountryStateDB](/_Standards/Earth/Continent/_CountryStateDB.md) 
+
+### [_CountryStateDB.public](/_public/Earth/Continent/_CountryStateDB.public.md) 
 
 ### [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
 
@@ -382,4 +385,5 @@ filters:
 
 ### [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
 
-### [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md) 
+### [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md)
+

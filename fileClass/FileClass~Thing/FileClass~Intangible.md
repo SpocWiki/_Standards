@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,7 +37,9 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Intangible](/_public/fileClass/FileClass~Thing/FileClass~Intangible.md) 
+### [FileClass~Intangible](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible.md) 
+
+### [FileClass~Intangible.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible.public.md) 
 
 ### [FileClass~Intangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible.internal.md) 
 
@@ -47,4 +49,5 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 
 ### [FileClass~Intangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible.personal.md) 
 
-### [FileClass~Intangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible.secret.md) 
+### [FileClass~Intangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible.secret.md)
+

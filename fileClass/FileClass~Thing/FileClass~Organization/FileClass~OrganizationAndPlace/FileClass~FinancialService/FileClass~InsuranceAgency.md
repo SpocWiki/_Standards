@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An Insurance agency.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~InsuranceAgency](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.md) 
+### [FileClass~InsuranceAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.md) 
+
+### [FileClass~InsuranceAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.public.md) 
 
 ### [FileClass~InsuranceAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.internal.md) 
 
@@ -46,4 +47,5 @@ An Insurance agency.
 
 ### [FileClass~InsuranceAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.personal.md) 
 
-### [FileClass~InsuranceAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.secret.md) 
+### [FileClass~InsuranceAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~InsuranceAgency.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../is/part_of/is_part_of_bio_chem_entity]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_bio_chem_entity_part](/_public/schema-org/Relation/has/has_bio_chem_entity_part.md) 
+### [has_bio_chem_entity_part](/_Standards/schema-org/Relation/has/has_bio_chem_entity_part.md) 
+
+### [has_bio_chem_entity_part.public](/_public/schema-org/Relation/has/has_bio_chem_entity_part.public.md) 
 
 ### [has_bio_chem_entity_part.internal](/_internal/schema-org/Relation/has/has_bio_chem_entity_part.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_bio_chem_entity_part.personal](/_personal/schema-org/Relation/has/has_bio_chem_entity_part.personal.md) 
 
-### [has_bio_chem_entity_part.secret](/_secret/schema-org/Relation/has/has_bio_chem_entity_part.secret.md) 
+### [has_bio_chem_entity_part.secret](/_secret/schema-org/Relation/has/has_bio_chem_entity_part.secret.md)
+

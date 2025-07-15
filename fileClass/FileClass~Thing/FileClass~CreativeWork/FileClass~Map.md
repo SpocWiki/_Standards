@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,10 +38,11 @@ Indicates the kind of Map, from the MapCategoryType Enumeration.
 MapType:: {"type":"Select","options":{"valuesList":{"ParkingMap","SeatingMap","TransitMap","VenueMap"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Map](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.md) 
+### [FileClass~Map](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.md) 
+
+### [FileClass~Map.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.public.md) 
 
 ### [FileClass~Map.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.internal.md) 
 
@@ -51,4 +52,5 @@ MapType:: {"type":"Select","options":{"valuesList":{"ParkingMap","SeatingMap","T
 
 ### [FileClass~Map.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.personal.md) 
 
-### [FileClass~Map.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.secret.md) 
+### [FileClass~Map.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.secret.md)
+

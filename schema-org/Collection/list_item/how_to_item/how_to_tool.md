@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [how_to_tool](/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.md) 
+### [how_to_tool](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool.md) 
+
+### [how_to_tool.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public.md) 
 
 ### [how_to_tool.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_tool.internal.md) 
 
@@ -54,4 +57,5 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 
 ### [how_to_tool.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal.md) 
 
-### [how_to_tool.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret.md) 
+### [how_to_tool.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret.md)
+

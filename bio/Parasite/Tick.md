@@ -19,6 +19,19 @@ Transfers:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tick) 
 
 
+## Confidential Links & Embeds: 
 
+### [Tick](/_Standards/bio/Parasite/Tick.md) 
 
+### [Tick.public](/_public/bio/Parasite/Tick.public.md) 
+
+### [Tick.internal](/_internal/bio/Parasite/Tick.internal.md) 
+
+### [Tick.protect](/_protect/bio/Parasite/Tick.protect.md) 
+
+### [Tick.private](/_private/bio/Parasite/Tick.private.md) 
+
+### [Tick.personal](/_personal/bio/Parasite/Tick.personal.md) 
+
+### [Tick.secret](/_secret/bio/Parasite/Tick.secret.md)
 

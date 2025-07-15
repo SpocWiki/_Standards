@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.52 , 166.92 ] 
 type: geo-Region
 title: Nibok
@@ -41,7 +41,9 @@ markerFolder: ./Nibok/
 
 ## Confidential Links & Embeds: 
 
-### [Nibok](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.md) 
+### [Nibok](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.md) 
+
+### [Nibok.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.public.md) 
 
 ### [Nibok.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Nibok/
 
 ### [Nibok.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.personal.md) 
 
-### [Nibok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.secret.md) 
+### [Nibok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.secret.md)
+

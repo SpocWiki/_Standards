@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The footer section of the page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WPFooter](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.md) 
+### [FileClass~WPFooter](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.md) 
+
+### [FileClass~WPFooter.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.public.md) 
 
 ### [FileClass~WPFooter.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.internal.md) 
 
@@ -46,4 +47,5 @@ The footer section of the page.
 
 ### [FileClass~WPFooter.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.personal.md) 
 
-### [FileClass~WPFooter.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.secret.md) 
+### [FileClass~WPFooter.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~WPFooter.secret.md)
+

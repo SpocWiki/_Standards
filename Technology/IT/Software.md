@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7397
 studied_in: "[[_Standards/WikiData/WD~software_engineering,80993]]"
 has_characteristic:
@@ -132,4 +132,20 @@ IPTC_NewsCode: mediatopic/20000231
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Software) 
 
+
+## Confidential Links & Embeds: 
+
+### [Software](/_Standards/Technology/IT/Software.md) 
+
+### [Software.public](/_public/Technology/IT/Software.public.md) 
+
+### [Software.internal](/_internal/Technology/IT/Software.internal.md) 
+
+### [Software.protect](/_protect/Technology/IT/Software.protect.md) 
+
+### [Software.private](/_private/Technology/IT/Software.private.md) 
+
+### [Software.personal](/_personal/Technology/IT/Software.personal.md) 
+
+### [Software.secret](/_secret/Technology/IT/Software.secret.md)
 

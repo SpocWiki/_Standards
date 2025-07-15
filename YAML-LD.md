@@ -1,4 +1,4 @@
-﻿
+
 # [[YAML-LD]] 
 
 #has_/url_for_/description :: https://www.w3.org/community/reports/json-ld/CG-FINAL-yaml-ld-20231206/ 
@@ -28,7 +28,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [YAML-LD](/_public/YAML-LD.md) 
+### [YAML-LD](/_Standards/YAML-LD.md) 
+
+### [YAML-LD.public](/_public/YAML-LD.public.md) 
 
 ### [YAML-LD.internal](/_internal/YAML-LD.internal.md) 
 
@@ -38,4 +40,5 @@
 
 ### [YAML-LD.personal](/_personal/YAML-LD.personal.md) 
 
-### [YAML-LD.secret](/_secret/YAML-LD.secret.md) 
+### [YAML-LD.secret](/_secret/YAML-LD.secret.md)
+

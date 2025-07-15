@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 99
 mapWithTag: true
 excludes: 
@@ -493,10 +493,11 @@ The width of the item.
 Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Shape](/_public/fileClass/FileClass~Thing/FileClass~Shape.md) 
+### [FileClass~Shape](/_Standards/fileClass/FileClass~Thing/FileClass~Shape.md) 
+
+### [FileClass~Shape.public](/_public/fileClass/FileClass~Thing/FileClass~Shape.public.md) 
 
 ### [FileClass~Shape.internal](/_internal/fileClass/FileClass~Thing/FileClass~Shape.internal.md) 
 
@@ -506,4 +507,5 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ### [FileClass~Shape.personal](/_personal/fileClass/FileClass~Thing/FileClass~Shape.personal.md) 
 
-### [FileClass~Shape.secret](/_secret/fileClass/FileClass~Thing/FileClass~Shape.secret.md) 
+### [FileClass~Shape.secret](/_secret/fileClass/FileClass~Thing/FileClass~Shape.secret.md)
+

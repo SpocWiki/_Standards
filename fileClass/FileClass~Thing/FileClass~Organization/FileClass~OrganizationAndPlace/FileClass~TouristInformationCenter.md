@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A tourist information center.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TouristInformationCenter](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.md) 
+### [FileClass~TouristInformationCenter](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.md) 
+
+### [FileClass~TouristInformationCenter.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.public.md) 
 
 ### [FileClass~TouristInformationCenter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.internal.md) 
 
@@ -46,4 +47,5 @@ A tourist information center.
 
 ### [FileClass~TouristInformationCenter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.personal.md) 
 
-### [FileClass~TouristInformationCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.secret.md) 
+### [FileClass~TouristInformationCenter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~TouristInformationCenter.secret.md)
+

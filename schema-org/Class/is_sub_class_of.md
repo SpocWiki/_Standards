@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Use it like this:
 ( #has_/name :: [is_subclass_of](is_sub_class_of.md))
 ( #has_/range :: [Class](../../Classes.md))
 
+
 ## Confidential Links & Embeds: 
 
-### [is_sub_class_of](/_public/schema-org/Class/is_sub_class_of.md) 
+### [is_sub_class_of](/_Standards/schema-org/Class/is_sub_class_of.md) 
+
+### [is_sub_class_of.public](/_public/schema-org/Class/is_sub_class_of.public.md) 
 
 ### [is_sub_class_of.internal](/_internal/schema-org/Class/is_sub_class_of.internal.md) 
 
@@ -61,4 +64,5 @@ Use it like this:
 
 ### [is_sub_class_of.personal](/_personal/schema-org/Class/is_sub_class_of.personal.md) 
 
-### [is_sub_class_of.secret](/_secret/schema-org/Class/is_sub_class_of.secret.md) 
+### [is_sub_class_of.secret](/_secret/schema-org/Class/is_sub_class_of.secret.md)
+

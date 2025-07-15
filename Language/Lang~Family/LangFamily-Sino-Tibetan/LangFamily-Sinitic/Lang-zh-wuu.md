@@ -76,9 +76,12 @@ has_id_wikidata: Q34290
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wu%20Chinese)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-zh-wuu](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
+### [Lang-zh-wuu](/_Standards/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.md) 
+
+### [Lang-zh-wuu.public](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.public.md) 
 
 ### [Lang-zh-wuu.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.internal.md) 
 
@@ -88,4 +91,5 @@ has_id_wikidata: Q34290
 
 ### [Lang-zh-wuu.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.personal.md) 
 
-### [Lang-zh-wuu.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md) 
+### [Lang-zh-wuu.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-wuu.secret.md)
+

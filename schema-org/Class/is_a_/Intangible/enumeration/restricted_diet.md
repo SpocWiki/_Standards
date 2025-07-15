@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [restricted_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.md) 
+### [restricted_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.md) 
+
+### [restricted_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.public.md) 
 
 ### [restricted_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.internal.md) 
 
@@ -52,4 +55,5 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 ### [restricted_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.personal.md) 
 
-### [restricted_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.secret.md) 
+### [restricted_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet.secret.md)
+

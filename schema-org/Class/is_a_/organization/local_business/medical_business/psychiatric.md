@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that is concerned with the study, treatment
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [psychiatric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.md) 
+### [psychiatric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.md) 
+
+### [psychiatric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.public.md) 
 
 ### [psychiatric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that is concerned with the study, treatment
 
 ### [psychiatric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.personal.md) 
 
-### [psychiatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.secret.md) 
+### [psychiatric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/psychiatric.secret.md)
+

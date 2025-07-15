@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_id_health_plan )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_health_plan](/_public/schema-org/Property/has_name/has_id_health_plan.md) 
+### [has_id_health_plan](/_Standards/schema-org/Property/has_name/has_id_health_plan.md) 
+
+### [has_id_health_plan.public](/_public/schema-org/Property/has_name/has_id_health_plan.public.md) 
 
 ### [has_id_health_plan.internal](/_internal/schema-org/Property/has_name/has_id_health_plan.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_id_health_plan.personal](/_personal/schema-org/Property/has_name/has_id_health_plan.personal.md) 
 
-### [has_id_health_plan.secret](/_secret/schema-org/Property/has_name/has_id_health_plan.secret.md) 
+### [has_id_health_plan.secret](/_secret/schema-org/Property/has_name/has_id_health_plan.secret.md)
+

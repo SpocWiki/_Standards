@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ HealthCare: this is a benefit for health care.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [health_care](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.md) 
+### [health_care](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.md) 
+
+### [health_care.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.public.md) 
 
 ### [health_care.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.internal.md) 
 
@@ -58,4 +61,5 @@ HealthCare: this is a benefit for health care.
 
 ### [health_care.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.personal.md) 
 
-### [health_care.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.secret.md) 
+### [health_care.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type/health_care.secret.md)
+

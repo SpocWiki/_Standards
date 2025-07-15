@@ -1,4 +1,4 @@
-﻿---
+---
 location: [22.2783,114.159]
 type: Country
 tags:
@@ -35,10 +35,11 @@ Capital :: [[China/Hong_Kong]]
 [has_place_latitude::22.2783]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Hong_Kong,_China](/_public/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.md) 
+### [Hong_Kong,_China](/_Standards/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.md) 
+
+### [Hong_Kong,_China.public](/_public/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.public.md) 
 
 ### [Hong_Kong,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.internal.md) 
 
@@ -48,4 +49,5 @@ Capital :: [[China/Hong_Kong]]
 
 ### [Hong_Kong,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.personal.md) 
 
-### [Hong_Kong,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret.md) 
+### [Hong_Kong,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret.md)
+

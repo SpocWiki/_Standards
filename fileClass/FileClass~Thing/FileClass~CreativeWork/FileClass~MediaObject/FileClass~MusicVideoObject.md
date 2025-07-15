@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A music video file.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicVideoObject](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.md) 
+### [FileClass~MusicVideoObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.md) 
+
+### [FileClass~MusicVideoObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.public.md) 
 
 ### [FileClass~MusicVideoObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.internal.md) 
 
@@ -46,4 +47,5 @@ A music video file.
 
 ### [FileClass~MusicVideoObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.personal.md) 
 
-### [FileClass~MusicVideoObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.secret.md) 
+### [FileClass~MusicVideoObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.secret.md)
+

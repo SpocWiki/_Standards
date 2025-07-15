@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ A particular online business, either standalone or the online part of a broader 
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [online_business](/_public/schema-org/Class/is_a_/organization/online_business.md) 
+### [online_business](/_Standards/schema-org/Class/is_a_/organization/online_business.md) 
+
+### [online_business.public](/_public/schema-org/Class/is_a_/organization/online_business.public.md) 
 
 ### [online_business.internal](/_internal/schema-org/Class/is_a_/organization/online_business.internal.md) 
 
@@ -58,4 +61,5 @@ A particular online business, either standalone or the online part of a broader 
 
 ### [online_business.personal](/_personal/schema-org/Class/is_a_/organization/online_business.personal.md) 
 
-### [online_business.secret](/_secret/schema-org/Class/is_a_/organization/online_business.secret.md) 
+### [online_business.secret](/_secret/schema-org/Class/is_a_/organization/online_business.secret.md)
+

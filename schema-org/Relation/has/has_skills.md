@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_skills )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_skills](/_public/schema-org/Relation/has/has_skills.md) 
+### [has_skills](/_Standards/schema-org/Relation/has/has_skills.md) 
+
+### [has_skills.public](/_public/schema-org/Relation/has/has_skills.public.md) 
 
 ### [has_skills.internal](/_internal/schema-org/Relation/has/has_skills.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_skills.personal](/_personal/schema-org/Relation/has/has_skills.personal.md) 
 
-### [has_skills.secret](/_secret/schema-org/Relation/has/has_skills.secret.md) 
+### [has_skills.secret](/_secret/schema-org/Relation/has/has_skills.secret.md)
+

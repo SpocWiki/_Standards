@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_refund_type )
 ( #has_/range :: RefundTypeEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_refund_type](/_public/schema-org/Relation/has/has_refund_type.md) 
+### [has_refund_type](/_Standards/schema-org/Relation/has/has_refund_type.md) 
+
+### [has_refund_type.public](/_public/schema-org/Relation/has/has_refund_type.public.md) 
 
 ### [has_refund_type.internal](/_internal/schema-org/Relation/has/has_refund_type.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_refund_type.personal](/_personal/schema-org/Relation/has/has_refund_type.personal.md) 
 
-### [has_refund_type.secret](/_secret/schema-org/Relation/has/has_refund_type.secret.md) 
+### [has_refund_type.secret](/_secret/schema-org/Relation/has/has_refund_type.secret.md)
+

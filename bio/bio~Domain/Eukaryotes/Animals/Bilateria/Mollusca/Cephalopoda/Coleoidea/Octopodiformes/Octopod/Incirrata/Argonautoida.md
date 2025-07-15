@@ -118,3 +118,21 @@ anatomical characters. J. Moll. Stud. 63: 311-325.
   Acknowledgements   courtesy of Mark Norman
   Copyright ::          © 1996 David Paul (Argonauta), Ron Gilmer (Haliphron), Dorothy Petersen (Ocythoe), M. Vecchione (Tremoctopus)
   ---------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Argonautoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.md) 
+
+### [Argonautoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.public.md) 
+
+### [Argonautoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.internal.md) 
+
+### [Argonautoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.protect.md) 
+
+### [Argonautoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.private.md) 
+
+### [Argonautoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.personal.md) 
+
+### [Argonautoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Argonautoida.secret.md)
+

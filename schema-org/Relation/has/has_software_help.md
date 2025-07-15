@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_software_help )
 ( #has_/range :: CreativeWork )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_software_help](/_public/schema-org/Relation/has/has_software_help.md) 
+### [has_software_help](/_Standards/schema-org/Relation/has/has_software_help.md) 
+
+### [has_software_help.public](/_public/schema-org/Relation/has/has_software_help.public.md) 
 
 ### [has_software_help.internal](/_internal/schema-org/Relation/has/has_software_help.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_software_help.personal](/_personal/schema-org/Relation/has/has_software_help.personal.md) 
 
-### [has_software_help.secret](/_secret/schema-org/Relation/has/has_software_help.secret.md) 
+### [has_software_help.secret](/_secret/schema-org/Relation/has/has_software_help.secret.md)
+

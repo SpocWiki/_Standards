@@ -477,9 +477,12 @@ Capital :: [[Windhoek]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Namibia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Namibia](/_public/Earth/Continent/Africa/Africa~South/Namibia.md) 
+### [Namibia](/_Standards/Earth/Continent/Africa/Africa~South/Namibia.md) 
+
+### [Namibia.public](/_public/Earth/Continent/Africa/Africa~South/Namibia.public.md) 
 
 ### [Namibia.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal.md) 
 
@@ -489,4 +492,5 @@ Capital :: [[Windhoek]]
 
 ### [Namibia.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal.md) 
 
-### [Namibia.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret.md) 
+### [Namibia.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret.md)
+

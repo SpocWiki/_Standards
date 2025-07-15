@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 17799
 has_id_wikidata: Q1090
@@ -171,9 +171,12 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silver)
 
+
 ## Confidential Links & Embeds: 
 
-### [Silver](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
+### [Silver](/_Standards/chemic/chemic~Elements/Group-11-Copper/Silver.md) 
+
+### [Silver.public](/_public/chemic/chemic~Elements/Group-11-Copper/Silver.public.md) 
 
 ### [Silver.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Silver.internal.md) 
 
@@ -183,4 +186,5 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg"
 
 ### [Silver.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Silver.personal.md) 
 
-### [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md) 
+### [Silver.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Silver.secret.md)
+

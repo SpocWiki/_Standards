@@ -1,14 +1,15 @@
-﻿North 
+North 
 American 
 Industry 
 Classification 
 System
 
 
-
 ## Confidential Links & Embeds: 
 
-### [NAICS](/_public/NAICS.md) 
+### [NAICS](/_Standards/NAICS.md) 
+
+### [NAICS.public](/_public/NAICS.public.md) 
 
 ### [NAICS.internal](/_internal/NAICS.internal.md) 
 
@@ -18,4 +19,5 @@ System
 
 ### [NAICS.personal](/_personal/NAICS.personal.md) 
 
-### [NAICS.secret](/_secret/NAICS.secret.md) 
+### [NAICS.secret](/_secret/NAICS.secret.md)
+

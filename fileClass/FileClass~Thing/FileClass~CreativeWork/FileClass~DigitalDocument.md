@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ A permission related to the access to this document (e.g. permission to read or 
 HasDigitalDocumentPermission:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DigitalDocumentPermission')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DigitalDocument](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.md) 
+### [FileClass~DigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.md) 
+
+### [FileClass~DigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.public.md) 
 
 ### [FileClass~DigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.internal.md) 
 
@@ -57,4 +58,5 @@ HasDigitalDocumentPermission:: {"type":"MultiFile","options":{"dvQueryString":"d
 
 ### [FileClass~DigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.personal.md) 
 
-### [FileClass~DigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret.md) 
+### [FileClass~DigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument.secret.md)
+

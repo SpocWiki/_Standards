@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 [ #is_/enum_of :: [[../NLNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nonprofit_sbbi](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md) 
+### [nonprofit_sbbi](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md) 
+
+### [nonprofit_sbbi.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.public.md) 
 
 ### [nonprofit_sbbi.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md) 
 
@@ -58,4 +61,5 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 ### [nonprofit_sbbi.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal.md) 
 
-### [nonprofit_sbbi.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md) 
+### [nonprofit_sbbi.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md)
+

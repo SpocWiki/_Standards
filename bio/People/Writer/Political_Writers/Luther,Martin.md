@@ -172,3 +172,22 @@ birth_name: "Martin Luder"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Luther,Martin](/_Standards/bio/People/Writer/Political_Writers/Luther,Martin.md) 
+
+### [Luther,Martin.public](/_public/bio/People/Writer/Political_Writers/Luther,Martin.public.md) 
+
+### [Luther,Martin.internal](/_internal/bio/People/Writer/Political_Writers/Luther,Martin.internal.md) 
+
+### [Luther,Martin.protect](/_protect/bio/People/Writer/Political_Writers/Luther,Martin.protect.md) 
+
+### [Luther,Martin.private](/_private/bio/People/Writer/Political_Writers/Luther,Martin.private.md) 
+
+### [Luther,Martin.personal](/_personal/bio/People/Writer/Political_Writers/Luther,Martin.personal.md) 
+
+### [Luther,Martin.secret](/_secret/bio/People/Writer/Political_Writers/Luther,Martin.secret.md)
+

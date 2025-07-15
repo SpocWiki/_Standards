@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessm
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReviewNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.md) 
+### [FileClass~ReviewNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.md) 
+
+### [FileClass~ReviewNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.public.md) 
 
 ### [FileClass~ReviewNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.internal.md) 
 
@@ -46,4 +47,5 @@ A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessm
 
 ### [FileClass~ReviewNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.personal.md) 
 
-### [FileClass~ReviewNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.secret.md) 
+### [FileClass~ReviewNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.secret.md)
+

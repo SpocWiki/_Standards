@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A delivery service through which radio content is provided via broadcast over th
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RadioBroadcastService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.md) 
+### [FileClass~RadioBroadcastService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.md) 
+
+### [FileClass~RadioBroadcastService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.public.md) 
 
 ### [FileClass~RadioBroadcastService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.internal.md) 
 
@@ -46,4 +47,5 @@ A delivery service through which radio content is provided via broadcast over th
 
 ### [FileClass~RadioBroadcastService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.personal.md) 
 
-### [FileClass~RadioBroadcastService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.secret.md) 
+### [FileClass~RadioBroadcastService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService/FileClass~RadioBroadcastService.secret.md)
+

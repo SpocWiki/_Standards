@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7366
 different_from:
 - '[[_Standards/WikiData/WD~Song,250281]]'
@@ -77,4 +77,23 @@ Wikidata_usage_instructions: "Use audio track (Q7302866) instead for track on a 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Song) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Song](/_Standards/bio/Society/Communication/Music/Song.md) 
+
+### [Song.public](/_public/bio/Society/Communication/Music/Song.public.md) 
+
+### [Song.internal](/_internal/bio/Society/Communication/Music/Song.internal.md) 
+
+### [Song.protect](/_protect/bio/Society/Communication/Music/Song.protect.md) 
+
+### [Song.private](/_private/bio/Society/Communication/Music/Song.private.md) 
+
+### [Song.personal](/_personal/bio/Society/Communication/Music/Song.personal.md) 
+
+### [Song.secret](/_secret/bio/Society/Communication/Music/Song.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Web page type: Contact page.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ContactPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.md) 
+### [FileClass~ContactPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.md) 
+
+### [FileClass~ContactPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.public.md) 
 
 ### [FileClass~ContactPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.internal.md) 
 
@@ -46,4 +47,5 @@ Web page type: Contact page.
 
 ### [FileClass~ContactPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.personal.md) 
 
-### [FileClass~ContactPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.secret.md) 
+### [FileClass~ContactPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.secret.md)
+

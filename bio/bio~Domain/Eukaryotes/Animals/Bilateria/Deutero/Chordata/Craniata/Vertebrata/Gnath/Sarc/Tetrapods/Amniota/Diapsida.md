@@ -308,3 +308,22 @@ Scientific Name ::  Spinoaequalis schultzei, Haptodus garnettensis, Sigillaria
 Comments          The Pennsylvanian diapsid Spinoaequalis schultzei jumps into the water to escape a hungry Haptodus garnettensis (a synapsid). The base of a Sigillaria trunk is visible in the upper right corner.
 Creator           Michael deBraga
 Copyright ::         © 2000 Michael deBraga
+
+
+
+## Confidential Links & Embeds: 
+
+### [Diapsida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.md) 
+
+### [Diapsida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.public.md) 
+
+### [Diapsida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.internal.md) 
+
+### [Diapsida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.protect.md) 
+
+### [Diapsida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.private.md) 
+
+### [Diapsida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.personal.md) 
+
+### [Diapsida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Diapsida.secret.md)
+

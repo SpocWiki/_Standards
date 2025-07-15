@@ -74,3 +74,22 @@ Scientific Name ::  Microciona
 Creator           David Remsen
 Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 -------------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Sponge](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Sponge.md) 
+
+### [Sponge.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Sponge.public.md) 
+
+### [Sponge.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Sponge.internal.md) 
+
+### [Sponge.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Sponge.protect.md) 
+
+### [Sponge.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Sponge.private.md) 
+
+### [Sponge.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Sponge.personal.md) 
+
+### [Sponge.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Sponge.secret.md)
+

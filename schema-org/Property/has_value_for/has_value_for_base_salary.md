@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_base_salary )
 ( #has_/range :: MonetaryAmount, Number, PriceSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_base_salary](/_public/schema-org/Property/has_value_for/has_value_for_base_salary.md) 
+### [has_value_for_base_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary.md) 
+
+### [has_value_for_base_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public.md) 
 
 ### [has_value_for_base_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_base_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal.md) 
 
-### [has_value_for_base_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret.md) 
+### [has_value_for_base_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret.md)
+

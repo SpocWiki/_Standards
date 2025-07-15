@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_course_prerequisites )
 ( #has_/range :: AlignmentObject, Course, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_course_prerequisites](/_public/schema-org/Relation/has/has_course_prerequisites.md) 
+### [has_course_prerequisites](/_Standards/schema-org/Relation/has/has_course_prerequisites.md) 
+
+### [has_course_prerequisites.public](/_public/schema-org/Relation/has/has_course_prerequisites.public.md) 
 
 ### [has_course_prerequisites.internal](/_internal/schema-org/Relation/has/has_course_prerequisites.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_course_prerequisites.personal](/_personal/schema-org/Relation/has/has_course_prerequisites.personal.md) 
 
-### [has_course_prerequisites.secret](/_secret/schema-org/Relation/has/has_course_prerequisites.secret.md) 
+### [has_course_prerequisites.secret](/_secret/schema-org/Relation/has/has_course_prerequisites.secret.md)
+

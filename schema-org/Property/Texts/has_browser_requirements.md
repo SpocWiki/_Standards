@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_browser_requirements )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_browser_requirements](/_public/schema-org/Property/Texts/has_browser_requirements.md) 
+### [has_browser_requirements](/_Standards/schema-org/Property/Texts/has_browser_requirements.md) 
+
+### [has_browser_requirements.public](/_public/schema-org/Property/Texts/has_browser_requirements.public.md) 
 
 ### [has_browser_requirements.internal](/_internal/schema-org/Property/Texts/has_browser_requirements.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_browser_requirements.personal](/_personal/schema-org/Property/Texts/has_browser_requirements.personal.md) 
 
-### [has_browser_requirements.secret](/_secret/schema-org/Property/Texts/has_browser_requirements.secret.md) 
+### [has_browser_requirements.secret](/_secret/schema-org/Property/Texts/has_browser_requirements.secret.md)
+

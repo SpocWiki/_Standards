@@ -155,9 +155,12 @@ Unicode_character: 鎂
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Magnesium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.md) 
+### [Magnesium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.md) 
+
+### [Magnesium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.public.md) 
 
 ### [Magnesium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.internal.md) 
 
@@ -167,4 +170,5 @@ Unicode_character: 鎂
 
 ### [Magnesium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.personal.md) 
 
-### [Magnesium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.secret.md) 
+### [Magnesium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.secret.md)
+

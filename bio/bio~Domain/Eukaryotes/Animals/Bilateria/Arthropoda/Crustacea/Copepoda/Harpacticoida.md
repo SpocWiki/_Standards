@@ -119,3 +119,22 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ![](Clytemnestra_scutellata.jpg)
 ::::::::::::::::
+
+
+
+## Confidential Links & Embeds: 
+
+### [Harpacticoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.md) 
+
+### [Harpacticoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.public.md) 
+
+### [Harpacticoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.internal.md) 
+
+### [Harpacticoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.protect.md) 
+
+### [Harpacticoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.private.md) 
+
+### [Harpacticoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.personal.md) 
+
+### [Harpacticoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Harpacticoida.secret.md)
+

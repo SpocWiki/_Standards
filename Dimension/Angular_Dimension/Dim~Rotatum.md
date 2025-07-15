@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Rotatum]] 
 
 [[Dim~Rotatum]] is the Change in [[Dim~Torque]] over Time, 
@@ -7,9 +7,12 @@ or equivalently the 2nd Derivative of [[../Angular_Dimension/Dim~Angular_Momentu
 
 The corresponding [[../Linear_Dimension]] is [[Dim~Yank]]. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Dim~Rotatum](/_public/Dimension/Angular_Dimension/Dim~Rotatum.md) 
+### [Dim~Rotatum](/_Standards/Dimension/Angular_Dimension/Dim~Rotatum.md) 
+
+### [Dim~Rotatum.public](/_public/Dimension/Angular_Dimension/Dim~Rotatum.public.md) 
 
 ### [Dim~Rotatum.internal](/_internal/Dimension/Angular_Dimension/Dim~Rotatum.internal.md) 
 
@@ -19,4 +22,5 @@ The corresponding [[../Linear_Dimension]] is [[Dim~Yank]].
 
 ### [Dim~Rotatum.personal](/_personal/Dimension/Angular_Dimension/Dim~Rotatum.personal.md) 
 
-### [Dim~Rotatum.secret](/_secret/Dimension/Angular_Dimension/Dim~Rotatum.secret.md) 
+### [Dim~Rotatum.secret](/_secret/Dimension/Angular_Dimension/Dim~Rotatum.secret.md)
+

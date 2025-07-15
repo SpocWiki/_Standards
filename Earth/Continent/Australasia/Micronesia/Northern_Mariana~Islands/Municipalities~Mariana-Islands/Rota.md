@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 14.16 , 145.21 ] 
 type: geo-Region
 title: Rota
@@ -41,7 +41,9 @@ markerFolder: ./Rota/
 
 ## Confidential Links & Embeds: 
 
-### [Rota](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.md) 
+### [Rota](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.md) 
+
+### [Rota.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.public.md) 
 
 ### [Rota.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Rota/
 
 ### [Rota.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.personal.md) 
 
-### [Rota.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.secret.md) 
+### [Rota.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Rota.secret.md)
+

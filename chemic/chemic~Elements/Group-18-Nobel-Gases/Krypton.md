@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21934
 has_id_wikidata: Q888
@@ -104,9 +104,12 @@ CAS_Registry_Number: 7439-90-9
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krypton)
 
+
 ## Confidential Links & Embeds: 
 
-### [Krypton](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.md) 
+### [Krypton](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.md) 
+
+### [Krypton.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.public.md) 
 
 ### [Krypton.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.internal.md) 
 
@@ -116,4 +119,5 @@ CAS_Registry_Number: 7439-90-9
 
 ### [Krypton.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.personal.md) 
 
-### [Krypton.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.secret.md) 
+### [Krypton.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Krypton.secret.md)
+

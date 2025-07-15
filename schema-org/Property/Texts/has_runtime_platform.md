@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_runtime_platform )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_runtime_platform](/_public/schema-org/Property/Texts/has_runtime_platform.md) 
+### [has_runtime_platform](/_Standards/schema-org/Property/Texts/has_runtime_platform.md) 
+
+### [has_runtime_platform.public](/_public/schema-org/Property/Texts/has_runtime_platform.public.md) 
 
 ### [has_runtime_platform.internal](/_internal/schema-org/Property/Texts/has_runtime_platform.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_runtime_platform.personal](/_personal/schema-org/Property/Texts/has_runtime_platform.personal.md) 
 
-### [has_runtime_platform.secret](/_secret/schema-org/Property/Texts/has_runtime_platform.secret.md) 
+### [has_runtime_platform.secret](/_secret/schema-org/Property/Texts/has_runtime_platform.secret.md)
+

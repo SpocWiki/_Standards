@@ -452,9 +452,12 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kyrgyzstan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Kyrgyzstan](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.md) 
+### [Kyrgyzstan](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.md) 
+
+### [Kyrgyzstan.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public.md) 
 
 ### [Kyrgyzstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal.md) 
 
@@ -464,4 +467,5 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 ### [Kyrgyzstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal.md) 
 
-### [Kyrgyzstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret.md) 
+### [Kyrgyzstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret.md)
+

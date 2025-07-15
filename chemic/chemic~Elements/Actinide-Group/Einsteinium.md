@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21994
 has_id_wikidata: Q1892
@@ -102,7 +102,9 @@ Unicode_character: 鑀
 
 ## Confidential Links & Embeds: 
 
-### [Einsteinium](/_public/chemic/chemic~Elements/Actinide-Group/Einsteinium.md) 
+### [Einsteinium](/_Standards/chemic/chemic~Elements/Actinide-Group/Einsteinium.md) 
+
+### [Einsteinium.public](/_public/chemic/chemic~Elements/Actinide-Group/Einsteinium.public.md) 
 
 ### [Einsteinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Einsteinium.internal.md) 
 
@@ -112,4 +114,5 @@ Unicode_character: 鑀
 
 ### [Einsteinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Einsteinium.personal.md) 
 
-### [Einsteinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Einsteinium.secret.md) 
+### [Einsteinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Einsteinium.secret.md)
+

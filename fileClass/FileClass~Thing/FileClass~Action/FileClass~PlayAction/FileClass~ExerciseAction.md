@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -163,10 +163,11 @@ A sub property of location. The final location of the object or the agent after 
 ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ExerciseAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.md) 
+### [FileClass~ExerciseAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.md) 
+
+### [FileClass~ExerciseAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.public.md) 
 
 ### [FileClass~ExerciseAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.internal.md) 
 
@@ -176,4 +177,5 @@ ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ### [FileClass~ExerciseAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.personal.md) 
 
-### [FileClass~ExerciseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.secret.md) 
+### [FileClass~ExerciseAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction/FileClass~ExerciseAction.secret.md)
+

@@ -526,10 +526,11 @@ Capital :: [[Tallinn]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Estonia) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Estonia](/_public/Earth/Continent/Europe/Europe~North/Estonia.md) 
+### [Estonia](/_Standards/Earth/Continent/Europe/Europe~North/Estonia.md) 
+
+### [Estonia.public](/_public/Earth/Continent/Europe/Europe~North/Estonia.public.md) 
 
 ### [Estonia.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal.md) 
 
@@ -539,4 +540,5 @@ Capital :: [[Tallinn]]
 
 ### [Estonia.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal.md) 
 
-### [Estonia.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret.md) 
+### [Estonia.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret.md)
+

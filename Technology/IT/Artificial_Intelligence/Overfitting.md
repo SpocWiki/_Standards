@@ -98,3 +98,22 @@ This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor|Occam’s_Raz
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Overfitting](/_Standards/Technology/IT/Artificial_Intelligence/Overfitting.md) 
+
+### [Overfitting.public](/_public/Technology/IT/Artificial_Intelligence/Overfitting.public.md) 
+
+### [Overfitting.internal](/_internal/Technology/IT/Artificial_Intelligence/Overfitting.internal.md) 
+
+### [Overfitting.protect](/_protect/Technology/IT/Artificial_Intelligence/Overfitting.protect.md) 
+
+### [Overfitting.private](/_private/Technology/IT/Artificial_Intelligence/Overfitting.private.md) 
+
+### [Overfitting.personal](/_personal/Technology/IT/Artificial_Intelligence/Overfitting.personal.md) 
+
+### [Overfitting.secret](/_secret/Technology/IT/Artificial_Intelligence/Overfitting.secret.md)
+

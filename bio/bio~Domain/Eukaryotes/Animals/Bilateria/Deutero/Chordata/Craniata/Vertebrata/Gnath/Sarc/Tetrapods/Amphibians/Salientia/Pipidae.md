@@ -152,3 +152,22 @@ Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/)
 ![Pipa](Pipidae/Pipa.jpg)
 Scientific Name ::  Pipa pipa
 Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pipidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.md) 
+
+### [Pipidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.public.md) 
+
+### [Pipidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.internal.md) 
+
+### [Pipidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.protect.md) 
+
+### [Pipidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.private.md) 
+
+### [Pipidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.personal.md) 
+
+### [Pipidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibians/Salientia/Pipidae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Georgian Script
 ---
@@ -12,7 +12,9 @@ Georgian Script is used in[[../../Earth/Continent/Europe/Europe~East/Georgia,Eur
 
 ## Confidential Links & Embeds: 
 
-### [Script~Geor](/_public/Language/Scripts/Script~Geor.md) 
+### [Script~Geor](/_Standards/Language/Scripts/Script~Geor.md) 
+
+### [Script~Geor.public](/_public/Language/Scripts/Script~Geor.public.md) 
 
 ### [Script~Geor.internal](/_internal/Language/Scripts/Script~Geor.internal.md) 
 
@@ -22,4 +24,5 @@ Georgian Script is used in[[../../Earth/Continent/Europe/Europe~East/Georgia,Eur
 
 ### [Script~Geor.personal](/_personal/Language/Scripts/Script~Geor.personal.md) 
 
-### [Script~Geor.secret](/_secret/Language/Scripts/Script~Geor.secret.md) 
+### [Script~Geor.secret](/_secret/Language/Scripts/Script~Geor.secret.md)
+

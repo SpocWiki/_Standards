@@ -42,3 +42,22 @@ OmegaWiki_Defined_Meaning: "801379"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [bio~Kingdom](/_Standards/bio/bio~Domain/Eukaryotes/bio~Kingdom.md) 
+
+### [bio~Kingdom.public](/_public/bio/bio~Domain/Eukaryotes/bio~Kingdom.public.md) 
+
+### [bio~Kingdom.internal](/_internal/bio/bio~Domain/Eukaryotes/bio~Kingdom.internal.md) 
+
+### [bio~Kingdom.protect](/_protect/bio/bio~Domain/Eukaryotes/bio~Kingdom.protect.md) 
+
+### [bio~Kingdom.private](/_private/bio/bio~Domain/Eukaryotes/bio~Kingdom.private.md) 
+
+### [bio~Kingdom.personal](/_personal/bio/bio~Domain/Eukaryotes/bio~Kingdom.personal.md) 
+
+### [bio~Kingdom.secret](/_secret/bio/bio~Domain/Eukaryotes/bio~Kingdom.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_accommodation_floor_plan )
 ( #has_/range :: FloorPlan )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_accommodation_floor_plan](/_public/schema-org/Relation/has/has_accommodation_floor_plan.md) 
+### [has_accommodation_floor_plan](/_Standards/schema-org/Relation/has/has_accommodation_floor_plan.md) 
+
+### [has_accommodation_floor_plan.public](/_public/schema-org/Relation/has/has_accommodation_floor_plan.public.md) 
 
 ### [has_accommodation_floor_plan.internal](/_internal/schema-org/Relation/has/has_accommodation_floor_plan.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_accommodation_floor_plan.personal](/_personal/schema-org/Relation/has/has_accommodation_floor_plan.personal.md) 
 
-### [has_accommodation_floor_plan.secret](/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret.md) 
+### [has_accommodation_floor_plan.secret](/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret.md)
+

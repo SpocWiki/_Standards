@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [adult_oriented_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.md) 
+### [adult_oriented_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.md) 
+
+### [adult_oriented_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.public.md) 
 
 ### [adult_oriented_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 ### [adult_oriented_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.personal.md) 
 
-### [adult_oriented_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.secret.md) 
+### [adult_oriented_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration.secret.md)
+

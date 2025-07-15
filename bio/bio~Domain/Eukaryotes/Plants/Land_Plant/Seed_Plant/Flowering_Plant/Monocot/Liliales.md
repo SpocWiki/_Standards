@@ -107,3 +107,22 @@ Comments            Melanthiaceae
 Creator             Photograph by Robert Potts
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
 Copyright ::           © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Liliales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.md) 
+
+### [Liliales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.public.md) 
+
+### [Liliales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.internal.md) 
+
+### [Liliales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.protect.md) 
+
+### [Liliales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.private.md) 
+
+### [Liliales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.personal.md) 
+
+### [Liliales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales.secret.md)
+

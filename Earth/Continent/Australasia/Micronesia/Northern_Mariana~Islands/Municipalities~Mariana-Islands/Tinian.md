@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15 , 145.6 ] 
 type: geo-Region
 title: Tinian
@@ -41,7 +41,9 @@ markerFolder: ./Tinian/
 
 ## Confidential Links & Embeds: 
 
-### [Tinian](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.md) 
+### [Tinian](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.md) 
+
+### [Tinian.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.public.md) 
 
 ### [Tinian.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Tinian/
 
 ### [Tinian.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.personal.md) 
 
-### [Tinian.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.secret.md) 
+### [Tinian.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Tinian.secret.md)
+

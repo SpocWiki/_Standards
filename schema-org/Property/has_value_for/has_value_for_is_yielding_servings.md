@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: yield ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_is_yielding_servings](/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.md) 
+### [has_value_for_is_yielding_servings](/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.md) 
+
+### [has_value_for_is_yielding_servings.public](/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.public.md) 
 
 ### [has_value_for_is_yielding_servings.internal](/_internal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_is_yielding_servings.personal](/_personal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.personal.md) 
 
-### [has_value_for_is_yielding_servings.secret](/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret.md) 
+### [has_value_for_is_yielding_servings.secret](/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret.md)
+

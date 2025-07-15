@@ -44,9 +44,12 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [duration](/_public/schema-org/Predicate/Quantity/duration.md) 
+### [duration](/_Standards/schema-org/Predicate/Quantity/duration.md) 
+
+### [duration.public](/_public/schema-org/Predicate/Quantity/duration.public.md) 
 
 ### [duration.internal](/_internal/schema-org/Predicate/Quantity/duration.internal.md) 
 
@@ -56,4 +59,5 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 
 ### [duration.personal](/_personal/schema-org/Predicate/Quantity/duration.personal.md) 
 
-### [duration.secret](/_secret/schema-org/Predicate/Quantity/duration.secret.md) 
+### [duration.secret](/_secret/schema-org/Predicate/Quantity/duration.secret.md)
+

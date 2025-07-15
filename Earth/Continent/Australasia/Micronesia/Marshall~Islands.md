@@ -394,9 +394,13 @@ Capital :: [[Majuro]]
 > The majority of the citizens of the Republic of Marshall Islands are of Marshallese descent, though there are small numbers of immigrants from the United States, China, Philippines, and other Pacific islands. The two official languages are Marshallese, which is one of the Oceanic languages, and English. Almost the entire population of the islands practices some religion: three-quarters of the country follows either the United Church of Christ – Congregational in the Marshall Islands (UCCCMI) or the Assemblies of God.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20Islands)
+
+
 ## Confidential Links & Embeds: 
 
-### [Marshall~Islands](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands.md) 
+### [Marshall~Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands.md) 
+
+### [Marshall~Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands.public.md) 
 
 ### [Marshall~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.internal.md) 
 
@@ -406,4 +410,5 @@ Capital :: [[Majuro]]
 
 ### [Marshall~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.personal.md) 
 
-### [Marshall~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands.secret.md) 
+### [Marshall~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands.secret.md)
+

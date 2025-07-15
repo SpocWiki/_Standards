@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [sexual_content_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.md) 
+### [sexual_content_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.md) 
+
+### [sexual_content_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.public.md) 
 
 ### [sexual_content_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 ### [sexual_content_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.personal.md) 
 
-### [sexual_content_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.secret.md) 
+### [sexual_content_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.secret.md)
+

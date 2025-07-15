@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1222,7 +1222,9 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWork](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.md) 
+### [FileClass~CreativeWork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork.md) 
+
+### [FileClass~CreativeWork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.public.md) 
 
 ### [FileClass~CreativeWork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork.internal.md) 
 
@@ -1232,4 +1234,5 @@ WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ### [FileClass~CreativeWork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork.personal.md) 
 
-### [FileClass~CreativeWork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret.md) 
+### [FileClass~CreativeWork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret.md)
+

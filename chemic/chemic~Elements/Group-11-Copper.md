@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -13,11 +13,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%2011%20element)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Group-11-Copper](/_public/chemic/chemic~Elements/Group-11-Copper.md) 
+### [Group-11-Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper.md) 
+
+### [Group-11-Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper.public.md) 
 
 ### [Group-11-Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper.internal.md) 
 
@@ -27,4 +27,5 @@ type: ElementGroup
 
 ### [Group-11-Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper.personal.md) 
 
-### [Group-11-Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper.secret.md) 
+### [Group-11-Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper.secret.md)
+

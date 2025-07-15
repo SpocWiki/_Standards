@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21992
 has_id_wikidata: Q1882
@@ -102,7 +102,9 @@ element_symbol: Bk
 
 ## Confidential Links & Embeds: 
 
-### [Berkelium](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
+### [Berkelium](/_Standards/chemic/chemic~Elements/Actinide-Group/Berkelium.md) 
+
+### [Berkelium.public](/_public/chemic/chemic~Elements/Actinide-Group/Berkelium.public.md) 
 
 ### [Berkelium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Berkelium.internal.md) 
 
@@ -112,4 +114,5 @@ element_symbol: Bk
 
 ### [Berkelium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Berkelium.personal.md) 
 
-### [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md) 
+### [Berkelium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Berkelium.secret.md)
+

@@ -57,3 +57,22 @@ Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/boti
 Copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ceratophyllaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.md) 
+
+### [Ceratophyllaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.public.md) 
+
+### [Ceratophyllaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.internal.md) 
+
+### [Ceratophyllaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.protect.md) 
+
+### [Ceratophyllaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.private.md) 
+
+### [Ceratophyllaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.personal.md) 
+
+### [Ceratophyllaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Ceratophyllaceae.secret.md)
+

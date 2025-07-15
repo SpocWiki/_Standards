@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The day of the week between Wednesday and Friday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [thursday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.md) 
+### [thursday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.md) 
+
+### [thursday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.public.md) 
 
 ### [thursday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.internal.md) 
 
@@ -56,4 +59,5 @@ The day of the week between Wednesday and Friday.
 
 ### [thursday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.personal.md) 
 
-### [thursday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.secret.md) 
+### [thursday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/thursday.secret.md)
+

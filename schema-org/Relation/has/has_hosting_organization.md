@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_hosting_organization )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_hosting_organization](/_public/schema-org/Relation/has/has_hosting_organization.md) 
+### [has_hosting_organization](/_Standards/schema-org/Relation/has/has_hosting_organization.md) 
+
+### [has_hosting_organization.public](/_public/schema-org/Relation/has/has_hosting_organization.public.md) 
 
 ### [has_hosting_organization.internal](/_internal/schema-org/Relation/has/has_hosting_organization.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_hosting_organization.personal](/_personal/schema-org/Relation/has/has_hosting_organization.personal.md) 
 
-### [has_hosting_organization.secret](/_secret/schema-org/Relation/has/has_hosting_organization.secret.md) 
+### [has_hosting_organization.secret](/_secret/schema-org/Relation/has/has_hosting_organization.secret.md)
+

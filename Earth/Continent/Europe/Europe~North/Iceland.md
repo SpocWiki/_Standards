@@ -445,9 +445,12 @@ Capital :: [[Reykjavik]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iceland)
 
+
 ## Confidential Links & Embeds: 
 
-### [Iceland](/_public/Earth/Continent/Europe/Europe~North/Iceland.md) 
+### [Iceland](/_Standards/Earth/Continent/Europe/Europe~North/Iceland.md) 
+
+### [Iceland.public](/_public/Earth/Continent/Europe/Europe~North/Iceland.public.md) 
 
 ### [Iceland.internal](/_internal/Earth/Continent/Europe/Europe~North/Iceland.internal.md) 
 
@@ -457,4 +460,5 @@ Capital :: [[Reykjavik]]
 
 ### [Iceland.personal](/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal.md) 
 
-### [Iceland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret.md) 
+### [Iceland.secret](/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret.md)
+

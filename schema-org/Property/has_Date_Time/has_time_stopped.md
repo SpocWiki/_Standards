@@ -53,16 +53,20 @@ Formal Predicate:
 (name::has_time_deleted) 
 (range::Date, DateTime) 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_deleted](/_public/schema-org/Property/has_Date_Time/has_time_deleted.md) 
+### [has_time_stopped](/_Standards/schema-org/Property/has_Date_Time/has_time_stopped.md) 
 
-### [has_time_deleted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_deleted.internal.md) 
+### [has_time_stopped.public](/_public/schema-org/Property/has_Date_Time/has_time_stopped.public.md) 
 
-### [has_time_deleted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_deleted.protect.md) 
+### [has_time_stopped.internal](/_internal/schema-org/Property/has_Date_Time/has_time_stopped.internal.md) 
 
-### [has_time_deleted.private](/_private/schema-org/Property/has_Date_Time/has_time_deleted.private.md) 
+### [has_time_stopped.protect](/_protect/schema-org/Property/has_Date_Time/has_time_stopped.protect.md) 
 
-### [has_time_deleted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_deleted.personal.md) 
+### [has_time_stopped.private](/_private/schema-org/Property/has_Date_Time/has_time_stopped.private.md) 
 
-### [has_time_deleted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_deleted.secret.md) 
+### [has_time_stopped.personal](/_personal/schema-org/Property/has_Date_Time/has_time_stopped.personal.md) 
+
+### [has_time_stopped.secret](/_secret/schema-org/Property/has_Date_Time/has_time_stopped.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_by_day )
 ( #has_/range :: DayOfWeek, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_by_day](/_public/schema-org/Relation/is/is_by_day.md) 
+### [is_by_day](/_Standards/schema-org/Relation/is/is_by_day.md) 
+
+### [is_by_day.public](/_public/schema-org/Relation/is/is_by_day.public.md) 
 
 ### [is_by_day.internal](/_internal/schema-org/Relation/is/is_by_day.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_by_day.personal](/_personal/schema-org/Relation/is/is_by_day.personal.md) 
 
-### [is_by_day.secret](/_secret/schema-org/Relation/is/is_by_day.secret.md) 
+### [is_by_day.secret](/_secret/schema-org/Relation/is/is_by_day.secret.md)
+

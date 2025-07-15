@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_tracking_url )
 ( #has_/range :: URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_tracking](/_public/schema-org/Property/has_url_for/has_url_for_tracking.md) 
+### [has_url_for_tracking](/_Standards/schema-org/Property/has_url_for/has_url_for_tracking.md) 
+
+### [has_url_for_tracking.public](/_public/schema-org/Property/has_url_for/has_url_for_tracking.public.md) 
 
 ### [has_url_for_tracking.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_url_for_tracking.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal.md) 
 
-### [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md) 
+### [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md)
+

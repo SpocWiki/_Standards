@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A complex mathematical calculation requiring an online calculator, used to asses
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalRiskCalculator](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.md) 
+### [FileClass~MedicalRiskCalculator](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.md) 
+
+### [FileClass~MedicalRiskCalculator.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.public.md) 
 
 ### [FileClass~MedicalRiskCalculator.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.internal.md) 
 
@@ -46,4 +47,5 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 ### [FileClass~MedicalRiskCalculator.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.personal.md) 
 
-### [FileClass~MedicalRiskCalculator.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.secret.md) 
+### [FileClass~MedicalRiskCalculator.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.secret.md)
+

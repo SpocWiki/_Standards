@@ -84,7 +84,9 @@ Pathogenic fungus.
 
 ## Confidential Links & Embeds: 
 
-### [fungus](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.md) 
+### [fungus](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.md) 
+
+### [fungus.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.public.md) 
 
 ### [fungus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.internal.md) 
 
@@ -94,4 +96,5 @@ Pathogenic fungus.
 
 ### [fungus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.personal.md) 
 
-### [fungus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.secret.md) 
+### [fungus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/fungus.secret.md)
+

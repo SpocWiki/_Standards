@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Treatments or related therapies for a Topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [treatments_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.md) 
+### [treatments_health_aspect](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.md) 
+
+### [treatments_health_aspect.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.public.md) 
 
 ### [treatments_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.internal.md) 
 
@@ -58,4 +61,5 @@ Treatments or related therapies for a Topic.
 
 ### [treatments_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.personal.md) 
 
-### [treatments_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.secret.md) 
+### [treatments_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.secret.md)
+

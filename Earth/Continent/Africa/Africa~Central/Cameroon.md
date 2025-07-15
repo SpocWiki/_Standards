@@ -722,9 +722,12 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cameroon)
 
+
 ## Confidential Links & Embeds: 
 
-### [Cameroon](/_public/Earth/Continent/Africa/Africa~Central/Cameroon.md) 
+### [Cameroon](/_Standards/Earth/Continent/Africa/Africa~Central/Cameroon.md) 
+
+### [Cameroon.public](/_public/Earth/Continent/Africa/Africa~Central/Cameroon.public.md) 
 
 ### [Cameroon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Cameroon.internal.md) 
 
@@ -734,4 +737,5 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 
 ### [Cameroon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Cameroon.personal.md) 
 
-### [Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret.md) 
+### [Cameroon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Cameroon.secret.md)
+

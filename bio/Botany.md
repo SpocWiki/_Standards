@@ -76,3 +76,20 @@ Stack_Exchange_tag: "https://biology.stackexchange.com/tags/botany"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Botany)
 
+
+## Confidential Links & Embeds: 
+
+### [Botany](/_Standards/bio/Botany.md) 
+
+### [Botany.public](/_public/bio/Botany.public.md) 
+
+### [Botany.internal](/_internal/bio/Botany.internal.md) 
+
+### [Botany.protect](/_protect/bio/Botany.protect.md) 
+
+### [Botany.private](/_private/bio/Botany.private.md) 
+
+### [Botany.personal](/_personal/bio/Botany.personal.md) 
+
+### [Botany.secret](/_secret/bio/Botany.secret.md)
+

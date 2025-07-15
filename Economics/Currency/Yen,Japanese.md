@@ -71,3 +71,21 @@ aliases:
 > Since that time, however, the world price of the yen has greatly decreased, falling to an average of almost ¥158 per dollar and ¥171 per euro in July 2024. The Bank of Japan maintains a policy of zero to near-zero interest rates and the Japanese government has previously had a strict anti-inflation policy. From late 2020 to first half 2024, the yen depreciated against the dollar by about 60% (From 101 yen per dollar in the second half of 2020 to 162 yen per dollar in the first half of 2024.), giving rise to serious concern in Japan about long-term prospects for the currency. The sharp fall in the value of the currency has led some companies, including Modec, to stop presenting their financial statements in **Japanese yen**. However, this weakness has had some benefits for Japan's tourism industry, as the low exchange rate makes its purchasing power attractive for travellers, particularly those from foreign nations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20yen)
+
+
+## Confidential Links & Embeds: 
+
+### [Yen,Japanese](/_Standards/Economics/Currency/Yen,Japanese.md) 
+
+### [Yen,Japanese.public](/_public/Economics/Currency/Yen,Japanese.public.md) 
+
+### [Yen,Japanese.internal](/_internal/Economics/Currency/Yen,Japanese.internal.md) 
+
+### [Yen,Japanese.protect](/_protect/Economics/Currency/Yen,Japanese.protect.md) 
+
+### [Yen,Japanese.private](/_private/Economics/Currency/Yen,Japanese.private.md) 
+
+### [Yen,Japanese.personal](/_personal/Economics/Currency/Yen,Japanese.personal.md) 
+
+### [Yen,Japanese.secret](/_secret/Economics/Currency/Yen,Japanese.secret.md)
+

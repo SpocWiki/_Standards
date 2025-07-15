@@ -529,3 +529,21 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Size              Diameter of larger spores is approximately 200 µm
   Copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Glomeromycota](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.md) 
+
+### [Glomeromycota.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.public.md) 
+
+### [Glomeromycota.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.internal.md) 
+
+### [Glomeromycota.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.protect.md) 
+
+### [Glomeromycota.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.private.md) 
+
+### [Glomeromycota.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.personal.md) 
+
+### [Glomeromycota.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Glomeromycota.secret.md)
+

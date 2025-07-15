@@ -419,3 +419,22 @@ ferns are each well supported clades, their interrelationships (and
 those of all basal families) remain unresolved.
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Leptosporangiate_Ferns](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.md) 
+
+### [Leptosporangiate_Ferns.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.public.md) 
+
+### [Leptosporangiate_Ferns.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.internal.md) 
+
+### [Leptosporangiate_Ferns.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.protect.md) 
+
+### [Leptosporangiate_Ferns.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.private.md) 
+
+### [Leptosporangiate_Ferns.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.personal.md) 
+
+### [Leptosporangiate_Ferns.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Fern/Leptosporangiate_Ferns.secret.md)
+

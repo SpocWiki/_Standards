@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_departure_station )
 ( #has_/range :: TrainStation )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_departure_station](/_public/schema-org/Relation/has/has_departure_station.md) 
+### [has_departure_station](/_Standards/schema-org/Relation/has/has_departure_station.md) 
+
+### [has_departure_station.public](/_public/schema-org/Relation/has/has_departure_station.public.md) 
 
 ### [has_departure_station.internal](/_internal/schema-org/Relation/has/has_departure_station.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_departure_station.personal](/_personal/schema-org/Relation/has/has_departure_station.personal.md) 
 
-### [has_departure_station.secret](/_secret/schema-org/Relation/has/has_departure_station.secret.md) 
+### [has_departure_station.secret](/_secret/schema-org/Relation/has/has_departure_station.secret.md)
+

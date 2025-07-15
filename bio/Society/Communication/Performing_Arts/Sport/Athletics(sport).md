@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q542
 Colon_Classification: MY2
 OpenStreetMap_tag_or_key: "Tag:sport=athletics"
@@ -77,4 +77,23 @@ U_S_National_Archives_Identifier: 10637707
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sport%20of%20athletics)  
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Athletics(sport)](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).md) 
+
+### [Athletics(sport).public](/_public/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).public.md) 
+
+### [Athletics(sport).internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).internal.md) 
+
+### [Athletics(sport).protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).protect.md) 
+
+### [Athletics(sport).private](/_private/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).private.md) 
+
+### [Athletics(sport).personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).personal.md) 
+
+### [Athletics(sport).secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Athletics(sport).secret.md)
 

@@ -580,9 +580,12 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taiwan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Taiwan](/_public/Earth/Continent/Asia/Asia~East/Taiwan.md) 
+### [Taiwan](/_Standards/Earth/Continent/Asia/Asia~East/Taiwan.md) 
+
+### [Taiwan.public](/_public/Earth/Continent/Asia/Asia~East/Taiwan.public.md) 
 
 ### [Taiwan.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal.md) 
 
@@ -592,4 +595,5 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 
 ### [Taiwan.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal.md) 
 
-### [Taiwan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret.md) 
+### [Taiwan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret.md)
+

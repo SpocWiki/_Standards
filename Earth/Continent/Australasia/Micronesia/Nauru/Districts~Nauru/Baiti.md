@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.504 , 166.929 ] 
 type: geo-Region
 title: Baiti
@@ -41,7 +41,9 @@ markerFolder: ./Baiti/
 
 ## Confidential Links & Embeds: 
 
-### [Baiti](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.md) 
+### [Baiti](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.md) 
+
+### [Baiti.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.public.md) 
 
 ### [Baiti.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Baiti/
 
 ### [Baiti.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.personal.md) 
 
-### [Baiti.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.secret.md) 
+### [Baiti.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.secret.md)
+

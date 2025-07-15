@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A permission for a particular person or group to access a particular file.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [digital_document_permission](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
+### [digital_document_permission](/_Standards/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
+
+### [digital_document_permission.public](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.public.md) 
 
 ### [digital_document_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/digital_document_permission.internal.md) 
 
@@ -54,4 +57,5 @@ A permission for a particular person or group to access a particular file.
 
 ### [digital_document_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/digital_document_permission.personal.md) 
 
-### [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md) 
+### [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md)
+

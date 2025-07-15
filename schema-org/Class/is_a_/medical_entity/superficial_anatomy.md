@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedAnatomy, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, significance, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [superficial_anatomy](/_public/schema-org/Class/is_a_/medical_entity/superficial_anatomy.md) 
+### [superficial_anatomy](/_Standards/schema-org/Class/is_a_/medical_entity/superficial_anatomy.md) 
+
+### [superficial_anatomy.public](/_public/schema-org/Class/is_a_/medical_entity/superficial_anatomy.public.md) 
 
 ### [superficial_anatomy.internal](/_internal/schema-org/Class/is_a_/medical_entity/superficial_anatomy.internal.md) 
 
@@ -54,4 +57,5 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 ### [superficial_anatomy.personal](/_personal/schema-org/Class/is_a_/medical_entity/superficial_anatomy.personal.md) 
 
-### [superficial_anatomy.secret](/_secret/schema-org/Class/is_a_/medical_entity/superficial_anatomy.secret.md) 
+### [superficial_anatomy.secret](/_secret/schema-org/Class/is_a_/medical_entity/superficial_anatomy.secret.md)
+

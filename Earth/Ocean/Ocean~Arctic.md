@@ -79,9 +79,12 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arctic%20Ocean) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Ocean~Arctic](/_public/Earth/Ocean/Ocean~Arctic.md) 
+### [Ocean~Arctic](/_Standards/Earth/Ocean/Ocean~Arctic.md) 
+
+### [Ocean~Arctic.public](/_public/Earth/Ocean/Ocean~Arctic.public.md) 
 
 ### [Ocean~Arctic.internal](/_internal/Earth/Ocean/Ocean~Arctic.internal.md) 
 
@@ -91,4 +94,5 @@ aliases:
 
 ### [Ocean~Arctic.personal](/_personal/Earth/Ocean/Ocean~Arctic.personal.md) 
 
-### [Ocean~Arctic.secret](/_secret/Earth/Ocean/Ocean~Arctic.secret.md) 
+### [Ocean~Arctic.secret](/_secret/Earth/Ocean/Ocean~Arctic.secret.md)
+

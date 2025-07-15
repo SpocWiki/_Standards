@@ -120,6 +120,12 @@ demonym:
 argument_of_periapsis: 44.96476227
 ---
 
+# [[Neptune]] 
+
+#is_/same_as :: [[../../WikiData/WD~Neptune,332|WD~Neptune,332]]
+#is_/different_from :: [[_Standards/WikiData/WD~Neptune,3954]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Neptune,2456503]] 
+
 ## #has_/text_of_/abstract 
 
 > **Neptune** is the eighth and farthest known planet from the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth. Compared to its fellow ice giant Uranus, Neptune is slightly more massive, but denser and smaller. Being composed primarily of gases and liquids, it has no well-defined solid surface, and orbits the Sun once every 164.8 years at an orbital distance of 30.1 astronomical units (4.5 billion kilometres; 2.8 billion miles). It is named after the Roman god of the sea and has the astronomical symbol , representing Neptune's trident.
@@ -133,5 +139,19 @@ argument_of_periapsis: 44.96476227
 > [Wikipedia](https://en.wikipedia.org/wiki/Neptune)
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [Neptune](/_Standards/Astronomy/Solar_System/Neptune.md) 
+
+### #is_/same_as :: [Neptune.public](/_public/Astronomy/Solar_System/Neptune.public.md) 
+
+### #is_/same_as :: [Neptune.internal](/_internal/Astronomy/Solar_System/Neptune.internal.md) 
+
+### #is_/same_as :: [Neptune.protect](/_protect/Astronomy/Solar_System/Neptune.protect.md) 
+
+### #is_/same_as :: [Neptune.private](/_private/Astronomy/Solar_System/Neptune.private.md) 
+
+### #is_/same_as :: [Neptune.personal](/_personal/Astronomy/Solar_System/Neptune.personal.md) 
+
+### #is_/same_as :: [Neptune.secret](/_secret/Astronomy/Solar_System/Neptune.secret.md)
 

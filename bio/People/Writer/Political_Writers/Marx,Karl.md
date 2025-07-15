@@ -178,3 +178,22 @@ PhilPapers_topic: karl-marx
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Marx,Karl](/_Standards/bio/People/Writer/Political_Writers/Marx,Karl.md) 
+
+### [Marx,Karl.public](/_public/bio/People/Writer/Political_Writers/Marx,Karl.public.md) 
+
+### [Marx,Karl.internal](/_internal/bio/People/Writer/Political_Writers/Marx,Karl.internal.md) 
+
+### [Marx,Karl.protect](/_protect/bio/People/Writer/Political_Writers/Marx,Karl.protect.md) 
+
+### [Marx,Karl.private](/_private/bio/People/Writer/Political_Writers/Marx,Karl.private.md) 
+
+### [Marx,Karl.personal](/_personal/bio/People/Writer/Political_Writers/Marx,Karl.personal.md) 
+
+### [Marx,Karl.secret](/_secret/bio/People/Writer/Political_Writers/Marx,Karl.secret.md)
+

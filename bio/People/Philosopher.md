@@ -22,3 +22,21 @@ aliases:
 
 [[Philosopher/Fukuyama,Francis]] 
 [[../../../Knowledge/Philosophy/Philosopher/Sloterdijk,Peter]]   
+
+
+## Confidential Links & Embeds: 
+
+### [Philosopher](/_Standards/bio/People/Philosopher.md) 
+
+### [Philosopher.public](/_public/bio/People/Philosopher.public.md) 
+
+### [Philosopher.internal](/_internal/bio/People/Philosopher.internal.md) 
+
+### [Philosopher.protect](/_protect/bio/People/Philosopher.protect.md) 
+
+### [Philosopher.private](/_private/bio/People/Philosopher.private.md) 
+
+### [Philosopher.personal](/_personal/bio/People/Philosopher.personal.md) 
+
+### [Philosopher.secret](/_secret/bio/People/Philosopher.secret.md)
+

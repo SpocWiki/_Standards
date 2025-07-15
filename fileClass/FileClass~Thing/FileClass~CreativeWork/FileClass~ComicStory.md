@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -92,10 +92,11 @@ The individual who draws the primary narrative artwork.
 Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicStory](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.md) 
+### [FileClass~ComicStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.md) 
+
+### [FileClass~ComicStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.public.md) 
 
 ### [FileClass~ComicStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.internal.md) 
 
@@ -105,4 +106,5 @@ Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~ComicStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.personal.md) 
 
-### [FileClass~ComicStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.secret.md) 
+### [FileClass~ComicStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ComicStory.secret.md)
+

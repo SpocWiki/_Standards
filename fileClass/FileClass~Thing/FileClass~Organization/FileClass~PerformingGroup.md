@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A performance group, such as a band, an orchestra, or a circus.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PerformingGroup](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.md) 
+### [FileClass~PerformingGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.md) 
+
+### [FileClass~PerformingGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.public.md) 
 
 ### [FileClass~PerformingGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.internal.md) 
 
@@ -46,4 +47,5 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ### [FileClass~PerformingGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.personal.md) 
 
-### [FileClass~PerformingGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.secret.md) 
+### [FileClass~PerformingGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.secret.md)
+

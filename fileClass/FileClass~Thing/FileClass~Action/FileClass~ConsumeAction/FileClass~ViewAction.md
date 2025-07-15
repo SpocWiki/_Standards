@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of consuming static visual content.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ViewAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.md) 
+### [FileClass~ViewAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.md) 
+
+### [FileClass~ViewAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.public.md) 
 
 ### [FileClass~ViewAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of consuming static visual content.
 
 ### [FileClass~ViewAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.personal.md) 
 
-### [FileClass~ViewAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.secret.md) 
+### [FileClass~ViewAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ViewAction.secret.md)
+

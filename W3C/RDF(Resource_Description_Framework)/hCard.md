@@ -1,4 +1,4 @@
-﻿
+
 > **hCard** is a microformat for publishing the contact details 
 > (which might be no more than the name) of people, companies, organizations, 
 > and places, in HTML, Atom, RSS, or arbitrary XML. 
@@ -33,9 +33,12 @@ EMAIL:john.doe@example.com
 END:VCARD
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [hCard](/_public/W3C/RDF(Resource_Description_Framework)/hCard.md) 
+### [hCard](/_Standards/W3C/RDF(Resource_Description_Framework)/hCard.md) 
+
+### [hCard.public](/_public/W3C/RDF(Resource_Description_Framework)/hCard.public.md) 
 
 ### [hCard.internal](/_internal/W3C/RDF(Resource_Description_Framework)/hCard.internal.md) 
 
@@ -45,4 +48,5 @@ END:VCARD
 
 ### [hCard.personal](/_personal/W3C/RDF(Resource_Description_Framework)/hCard.personal.md) 
 
-### [hCard.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCard.secret.md) 
+### [hCard.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCard.secret.md)
+

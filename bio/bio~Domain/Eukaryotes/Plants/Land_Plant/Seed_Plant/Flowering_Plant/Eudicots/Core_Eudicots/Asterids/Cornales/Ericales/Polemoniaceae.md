@@ -409,3 +409,22 @@ Location ::        USA: Juab Co., Utah
 Sex ::             Perfect flowers
 Body Part         upper 2/3 of plant
 Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Polemoniaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.md) 
+
+### [Polemoniaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.public.md) 
+
+### [Polemoniaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.internal.md) 
+
+### [Polemoniaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.protect.md) 
+
+### [Polemoniaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.private.md) 
+
+### [Polemoniaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.personal.md) 
+
+### [Polemoniaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Polemoniaceae.secret.md)
+

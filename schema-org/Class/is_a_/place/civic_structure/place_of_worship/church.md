@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A church.
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [church](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.md) 
+### [church](/_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.md) 
+
+### [church.public](/_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.public.md) 
 
 ### [church.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.internal.md) 
 
@@ -56,4 +59,5 @@ A church.
 
 ### [church.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.personal.md) 
 
-### [church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.secret.md) 
+### [church.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/place_of_worship/church.secret.md)
+

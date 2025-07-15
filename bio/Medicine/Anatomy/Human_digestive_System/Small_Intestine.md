@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11090
 has_part_s_:
 - '[[_Standards/WikiData/WD~duodenum,134955]]'
@@ -43,4 +43,23 @@ Commons_category: "Small intestines"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Small_Intestine](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.md) 
+
+### [Small_Intestine.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.public.md) 
+
+### [Small_Intestine.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.internal.md) 
+
+### [Small_Intestine.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.protect.md) 
+
+### [Small_Intestine.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.private.md) 
+
+### [Small_Intestine.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.personal.md) 
+
+### [Small_Intestine.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Small_Intestine.secret.md)
 

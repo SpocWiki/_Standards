@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_broadcaster )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcaster](/_public/schema-org/Relation/has/has_broadcaster.md) 
+### [has_broadcaster](/_Standards/schema-org/Relation/has/has_broadcaster.md) 
+
+### [has_broadcaster.public](/_public/schema-org/Relation/has/has_broadcaster.public.md) 
 
 ### [has_broadcaster.internal](/_internal/schema-org/Relation/has/has_broadcaster.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_broadcaster.personal](/_personal/schema-org/Relation/has/has_broadcaster.personal.md) 
 
-### [has_broadcaster.secret](/_secret/schema-org/Relation/has/has_broadcaster.secret.md) 
+### [has_broadcaster.secret](/_secret/schema-org/Relation/has/has_broadcaster.secret.md)
+

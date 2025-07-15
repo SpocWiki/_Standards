@@ -179,3 +179,22 @@ work_period_start_: "1904"
 > [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Kafka)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kafka,Franz](/_Standards/bio/People/Writer/Modern_Writers/Kafka,Franz.md) 
+
+### [Kafka,Franz.public](/_public/bio/People/Writer/Modern_Writers/Kafka,Franz.public.md) 
+
+### [Kafka,Franz.internal](/_internal/bio/People/Writer/Modern_Writers/Kafka,Franz.internal.md) 
+
+### [Kafka,Franz.protect](/_protect/bio/People/Writer/Modern_Writers/Kafka,Franz.protect.md) 
+
+### [Kafka,Franz.private](/_private/bio/People/Writer/Modern_Writers/Kafka,Franz.private.md) 
+
+### [Kafka,Franz.personal](/_personal/bio/People/Writer/Modern_Writers/Kafka,Franz.personal.md) 
+
+### [Kafka,Franz.secret](/_secret/bio/People/Writer/Modern_Writers/Kafka,Franz.secret.md)
+

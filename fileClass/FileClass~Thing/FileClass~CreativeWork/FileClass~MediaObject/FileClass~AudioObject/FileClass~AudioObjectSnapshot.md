@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A specific and exact (byte-for-byte) version of an [[AudioObject]]. Two byte-for
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AudioObjectSnapshot](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.md) 
+### [FileClass~AudioObjectSnapshot](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.md) 
+
+### [FileClass~AudioObjectSnapshot.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.public.md) 
 
 ### [FileClass~AudioObjectSnapshot.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.internal.md) 
 
@@ -46,4 +47,5 @@ A specific and exact (byte-for-byte) version of an [[AudioObject]]. Two byte-for
 
 ### [FileClass~AudioObjectSnapshot.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.personal.md) 
 
-### [FileClass~AudioObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.secret.md) 
+### [FileClass~AudioObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectSnapshot.secret.md)
+

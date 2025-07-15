@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -18.8933
 - 47.5083
@@ -139,10 +139,11 @@ Capital :: [[Antananarivo]]
 [has_place_latitude::-18.8933]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Madagascar](/_public/Earth/Continent/Africa/Africa~East/Madagascar.md) 
+### [Madagascar](/_Standards/Earth/Continent/Africa/Africa~East/Madagascar.md) 
+
+### [Madagascar.public](/_public/Earth/Continent/Africa/Africa~East/Madagascar.public.md) 
 
 ### [Madagascar.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal.md) 
 
@@ -152,4 +153,5 @@ Capital :: [[Antananarivo]]
 
 ### [Madagascar.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal.md) 
 
-### [Madagascar.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret.md) 
+### [Madagascar.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret.md)
+

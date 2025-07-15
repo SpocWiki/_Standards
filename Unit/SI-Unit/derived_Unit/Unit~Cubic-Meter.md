@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Cubic-Meter]] 
 
 #is_a_/unit_/for_/volume 
@@ -6,7 +6,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Cubic-Meter](/_public/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.md) 
+### [Unit~Cubic-Meter](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.md) 
+
+### [Unit~Cubic-Meter.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.public.md) 
 
 ### [Unit~Cubic-Meter.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.internal.md) 
 
@@ -16,4 +18,5 @@
 
 ### [Unit~Cubic-Meter.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.personal.md) 
 
-### [Unit~Cubic-Meter.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.secret.md) 
+### [Unit~Cubic-Meter.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Cubic-Meter.secret.md)
+

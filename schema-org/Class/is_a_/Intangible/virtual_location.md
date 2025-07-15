@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An online or virtual location for attending events. For example, one may attend 
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [virtual_location](/_public/schema-org/Class/is_a_/Intangible/virtual_location.md) 
+### [virtual_location](/_Standards/schema-org/Class/is_a_/Intangible/virtual_location.md) 
+
+### [virtual_location.public](/_public/schema-org/Class/is_a_/Intangible/virtual_location.public.md) 
 
 ### [virtual_location.internal](/_internal/schema-org/Class/is_a_/Intangible/virtual_location.internal.md) 
 
@@ -56,4 +59,5 @@ An online or virtual location for attending events. For example, one may attend 
 
 ### [virtual_location.personal](/_personal/schema-org/Class/is_a_/Intangible/virtual_location.personal.md) 
 
-### [virtual_location.secret](/_secret/schema-org/Class/is_a_/Intangible/virtual_location.secret.md) 
+### [virtual_location.secret](/_secret/schema-org/Class/is_a_/Intangible/virtual_location.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21974
 has_id_wikidata: Q880
@@ -129,10 +129,11 @@ element_symbol: Pt
 > [Wikipedia](https://en.wikipedia.org/wiki/Platinum)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Platinum](/_public/chemic/chemic~Elements/Group-10-Nickel/Platinum.md) 
+### [Platinum](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Platinum.md) 
+
+### [Platinum.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Platinum.public.md) 
 
 ### [Platinum.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Platinum.internal.md) 
 
@@ -142,4 +143,5 @@ element_symbol: Pt
 
 ### [Platinum.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Platinum.personal.md) 
 
-### [Platinum.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Platinum.secret.md) 
+### [Platinum.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Platinum.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,10 +54,11 @@ Text of an utterances (spoken words, lyrics etc.) that occurs at a certain secti
 Utterances:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HyperTocEntry](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.md) 
+### [FileClass~HyperTocEntry](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.md) 
+
+### [FileClass~HyperTocEntry.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.public.md) 
 
 ### [FileClass~HyperTocEntry.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.internal.md) 
 
@@ -67,4 +68,5 @@ Utterances:: {"type":"Input","options":{}}
 
 ### [FileClass~HyperTocEntry.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.personal.md) 
 
-### [FileClass~HyperTocEntry.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.secret.md) 
+### [FileClass~HyperTocEntry.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperTocEntry.secret.md)
+

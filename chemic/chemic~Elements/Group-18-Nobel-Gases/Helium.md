@@ -129,9 +129,12 @@ Common_Procurement_Vocabulary_code: 24111300
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Helium](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.md) 
+### [Helium](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.md) 
+
+### [Helium.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.public.md) 
 
 ### [Helium.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.internal.md) 
 
@@ -141,4 +144,5 @@ Common_Procurement_Vocabulary_code: 24111300
 
 ### [Helium.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.personal.md) 
 
-### [Helium.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.secret.md) 
+### [Helium.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_population_type )
 ( #has_/range :: Class )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_population_type](/_public/schema-org/Relation/has/has_population_type.md) 
+### [has_population_type](/_Standards/schema-org/Relation/has/has_population_type.md) 
+
+### [has_population_type.public](/_public/schema-org/Relation/has/has_population_type.public.md) 
 
 ### [has_population_type.internal](/_internal/schema-org/Relation/has/has_population_type.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_population_type.personal](/_personal/schema-org/Relation/has/has_population_type.personal.md) 
 
-### [has_population_type.secret](/_secret/schema-org/Relation/has/has_population_type.secret.md) 
+### [has_population_type.secret](/_secret/schema-org/Relation/has/has_population_type.secret.md)
+

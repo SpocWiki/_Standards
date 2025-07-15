@@ -34,3 +34,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pierre_de_Coubertin](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.md) 
+
+### [Pierre_de_Coubertin.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.public.md) 
+
+### [Pierre_de_Coubertin.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.internal.md) 
+
+### [Pierre_de_Coubertin.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.protect.md) 
+
+### [Pierre_de_Coubertin.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.private.md) 
+
+### [Pierre_de_Coubertin.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.personal.md) 
+
+### [Pierre_de_Coubertin.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Pierre_de_Coubertin.secret.md)
+

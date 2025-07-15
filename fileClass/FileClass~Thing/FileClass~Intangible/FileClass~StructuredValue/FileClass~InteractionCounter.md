@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -113,7 +113,9 @@ UserInteractionCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~InteractionCounter](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
+### [FileClass~InteractionCounter](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.md) 
+
+### [FileClass~InteractionCounter.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.public.md) 
 
 ### [FileClass~InteractionCounter.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.internal.md) 
 
@@ -123,4 +125,5 @@ UserInteractionCount:: {"type":"Number","options":{}}
 
 ### [FileClass~InteractionCounter.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.personal.md) 
 
-### [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md) 
+### [FileClass~InteractionCounter.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~InteractionCounter.secret.md)
+

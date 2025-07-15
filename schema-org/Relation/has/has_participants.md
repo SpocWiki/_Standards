@@ -59,14 +59,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_participant](/_public/schema-org/Relation/has/has_participant.md) 
+### [has_participants](/_Standards/schema-org/Relation/has/has_participants.md) 
 
-### [has_participant.internal](/_internal/schema-org/Relation/has/has_participant.internal.md) 
+### [has_participants.public](/_public/schema-org/Relation/has/has_participants.public.md) 
 
-### [has_participant.protect](/_protect/schema-org/Relation/has/has_participant.protect.md) 
+### [has_participants.internal](/_internal/schema-org/Relation/has/has_participants.internal.md) 
 
-### [has_participant.private](/_private/schema-org/Relation/has/has_participant.private.md) 
+### [has_participants.protect](/_protect/schema-org/Relation/has/has_participants.protect.md) 
 
-### [has_participant.personal](/_personal/schema-org/Relation/has/has_participant.personal.md) 
+### [has_participants.private](/_private/schema-org/Relation/has/has_participants.private.md) 
 
-### [has_participant.secret](/_secret/schema-org/Relation/has/has_participant.secret.md) 
+### [has_participants.personal](/_personal/schema-org/Relation/has/has_participants.personal.md) 
+
+### [has_participants.secret](/_secret/schema-org/Relation/has/has_participants.secret.md)
+

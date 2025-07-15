@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ repeatFrequency ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_frequency](/_public/schema-org/Property/Texts/has_frequency.md) 
+### [has_frequency](/_Standards/schema-org/Property/Texts/has_frequency.md) 
+
+### [has_frequency.public](/_public/schema-org/Property/Texts/has_frequency.public.md) 
 
 ### [has_frequency.internal](/_internal/schema-org/Property/Texts/has_frequency.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_frequency.personal](/_personal/schema-org/Property/Texts/has_frequency.personal.md) 
 
-### [has_frequency.secret](/_secret/schema-org/Property/Texts/has_frequency.secret.md) 
+### [has_frequency.secret](/_secret/schema-org/Property/Texts/has_frequency.secret.md)
+

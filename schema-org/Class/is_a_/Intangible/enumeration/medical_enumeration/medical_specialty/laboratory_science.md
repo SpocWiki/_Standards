@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A medical science pertaining to chemical, hematological, immunologic, microscopi
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [laboratory_science](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.md) 
+### [laboratory_science](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.md) 
+
+### [laboratory_science.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.public.md) 
 
 ### [laboratory_science.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.internal.md) 
 
@@ -56,4 +59,5 @@ A medical science pertaining to chemical, hematological, immunologic, microscopi
 
 ### [laboratory_science.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.personal.md) 
 
-### [laboratory_science.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.secret.md) 
+### [laboratory_science.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.secret.md)
+

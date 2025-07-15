@@ -68,10 +68,11 @@ Capital :: [[Bangui]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Central%20African%20Republic) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Central_African_Rep](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.md) 
+### [Central_African_Rep](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep.md) 
+
+### [Central_African_Rep.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public.md) 
 
 ### [Central_African_Rep.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal.md) 
 
@@ -81,4 +82,5 @@ Capital :: [[Bangui]]
 
 ### [Central_African_Rep.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal.md) 
 
-### [Central_African_Rep.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret.md) 
+### [Central_African_Rep.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret.md)
+

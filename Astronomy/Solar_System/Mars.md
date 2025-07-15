@@ -157,19 +157,73 @@ subreddit: Mars
 hashtag: Mars
 ---
 
+# [[Mars]] 
+
+#is_/same_as :: [[../../WikiData/WD~Mars,111|WD~Mars,111]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Mars,426315]] 
+
 ## #has_/text_of_/abstract 
 
-> **Mars** is the fourth planet from the Sun. The surface of Mars is orange-red because it is covered in iron(III) oxide dust, giving it the nickname "the Red Planet". Mars is among the brightest objects in Earth's sky, and its high-contrast albedo features have made it a common subject for telescope viewing. It is classified as a terrestrial planet and is the second smallest of the Solar System's planets with a diameter of 6,779 km (4,212 mi). In terms of orbital motion, a Martian solar day (sol) is equal to 24.6 hours, and a Martian solar year is equal to 1.88 Earth years (687 Earth days). Mars has two natural satellites that are small and irregular in shape: Phobos and Deimos.
+> **Mars** is the fourth planet from the Sun. 
+> The surface of Mars is orange-red because it is covered in iron(III) oxide dust, giving it the nickname "the Red Planet". 
+> Mars is among the brightest objects in Earth's sky, 
+> and its high-contrast albedo features have made it a common subject for telescope viewing. 
+> 
+> It is classified as a terrestrial planet and is the second smallest of the Solar System's planets with a diameter of 6,779 km (4,212 mi). 
+> In terms of orbital motion, a Martian solar day (sol) is equal to 24.6 hours, 
+> and a Martian solar year is equal to 1.88 Earth years (687 Earth days). 
+> Mars has two natural satellites that are small and irregular in shape: Phobos and Deimos.
 >
-> The relatively flat plains in northern parts of Mars strongly contrast with the cratered terrain in southern highlands – this terrain observation is known as the Martian dichotomy. Mars hosts many enormous extinct volcanoes (the tallest is Olympus Mons, 21.9 km or 13.6 mi tall) and one of the largest canyons in the Solar System (Valles Marineris, 4,000 km or 2,500 mi long). Geologically, the planet is fairly active with marsquakes trembling underneath the ground, dust devils sweeping across the landscape, and cirrus clouds. Carbon dioxide is substantially present in Mars's polar ice caps and thin atmosphere. During a year, there are large surface temperature swings on the surface between −78.5 °C (−109.3 °F) to 5.7 °C (42.3 °F) similar to Earth's seasons, as both planets have significant axial tilt, Earth at 23.5 degrees and Mars at 25 degrees.
+> The relatively flat plains in northern parts of Mars strongly contrast with the cratered terrain in southern highlands – 
+> this terrain observation is known as the Martian dichotomy. 
+> 
+> Mars hosts many enormous extinct volcanoes (the tallest is Olympus Mons, 21.9 km or 13.6 mi tall) 
+> and one of the largest canyons in the Solar System (Valles Marineris, 4,000 km or 2,500 mi long). 
+> 
+> Geologically, the planet is fairly active with marsquakes trembling underneath the ground, 
+> dust devils sweeping across the landscape, and cirrus clouds. 
+> 
+> Carbon dioxide is substantially present in Mars's polar ice caps and thin atmosphere. 
+> During a year, there are large surface temperature swings on the surface 
+> between −78.5 °C (−109.3 °F) to 5.7 °C (42.3 °F) similar to Earth's seasons, 
+> as both planets have significant axial tilt, 
+> Earth at 23.5 degrees and Mars at 25 degrees.
 >
-> Mars was formed approximately 4.5 billion years ago. During the Noachian period (4.5 to 3.5 billion years ago), Mars's surface was marked by meteor impacts, valley formation, erosion, and the possible presence of water oceans. The Hesperian period (3.5 to 3.3–2.9 billion years ago) was dominated by widespread volcanic activity and flooding that carved immense outflow channels. The Amazonian period, which continues to the present, has been marked by the wind as a dominant influence on geological processes. Due to Mars's geological history, the possibility of past or present life on Mars remains of great scientific interest.
+> Mars was formed approximately 4.5 billion years ago. 
+> During the [[Noachian period]] (4.5 to 3.5 billion years ago), 
+> Mars's surface was marked by meteor impacts, valley formation, erosion, and the possible presence of water oceans. 
+> The [[Hesperian period]] (3.5 to 3.3–2.9 billion years ago) was dominated by widespread volcanic activity 
+> and flooding that carved immense outflow channels. 
+> 
+> The [[Amazonian period]], which continues to the present, 
+> has been marked by the wind as a dominant influence on geological processes. 
+> Due to Mars's geological history, the possibility of past or present life on Mars remains of great scientific interest.
 >
-> Since the late 20th century, Mars has been explored by uncrewed spacecraft and rovers, with the first flyby by the Mariner 4 probe in 1965, the first orbit by the Mars 2 probe in 1971, and the first landing by the Viking 1 probe in 1976. As of 2023, there are at least 11 active probes orbiting Mars or on the Martian surface. Mars is an attractive target for future human exploration missions, though in the 2020s no such mission is planned.
+> Since the late 20th century, Mars has been explored by uncrewed spacecraft and rovers, 
+> - with the first flyby by the Mariner 4 probe in 1965, 
+> - the first orbit by the Mars 2 probe in 1971, and 
+> - the first landing by the Viking 1 probe in 1976. 
+> As of 2023, there are at least 11 active probes orbiting Mars or on the Martian surface. 
+> Mars is an attractive target for future human exploration missions, though in the 2020s no such mission is planned.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mars)
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Mars](/_Standards/Astronomy/Solar_System/Mars.md) 
+
+### #is_/same_as :: [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
+
+### #is_/same_as :: [Mars.internal](/_internal/Astronomy/Solar_System/Mars.internal.md) 
+
+### #is_/same_as :: [Mars.protect](/_protect/Astronomy/Solar_System/Mars.protect.md) 
+
+### #is_/same_as :: [Mars.private](/_private/Astronomy/Solar_System/Mars.private.md) 
+
+### #is_/same_as :: [Mars.personal](/_personal/Astronomy/Solar_System/Mars.personal.md) 
+
+### #is_/same_as :: [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
 
 
-
+`=this.is_same_as`

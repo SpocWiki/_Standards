@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [game_availability_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.md) 
+### [game_availability_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.md) 
+
+### [game_availability_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.public.md) 
 
 ### [game_availability_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 ### [game_availability_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.personal.md) 
 
-### [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md) 
+### [game_availability_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration.secret.md)
+

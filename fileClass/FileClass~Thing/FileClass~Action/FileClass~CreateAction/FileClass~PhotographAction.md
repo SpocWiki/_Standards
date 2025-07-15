@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of capturing still images of objects using a camera.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PhotographAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
+### [FileClass~PhotographAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.md) 
+
+### [FileClass~PhotographAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.public.md) 
 
 ### [FileClass~PhotographAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of capturing still images of objects using a camera.
 
 ### [FileClass~PhotographAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.personal.md) 
 
-### [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md) 
+### [FileClass~PhotographAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PhotographAction.secret.md)
+

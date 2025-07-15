@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_grantee )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_grantee](/_public/schema-org/Relation/has/has_grantee.md) 
+### [has_grantee](/_Standards/schema-org/Relation/has/has_grantee.md) 
+
+### [has_grantee.public](/_public/schema-org/Relation/has/has_grantee.public.md) 
 
 ### [has_grantee.internal](/_internal/schema-org/Relation/has/has_grantee.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_grantee.personal](/_personal/schema-org/Relation/has/has_grantee.personal.md) 
 
-### [has_grantee.secret](/_secret/schema-org/Relation/has/has_grantee.secret.md) 
+### [has_grantee.secret](/_secret/schema-org/Relation/has/has_grantee.secret.md)
+

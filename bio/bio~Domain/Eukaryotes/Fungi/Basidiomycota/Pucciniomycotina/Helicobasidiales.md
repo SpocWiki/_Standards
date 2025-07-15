@@ -98,3 +98,21 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Collection           1999
   Copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Helicobasidiales](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.md) 
+
+### [Helicobasidiales.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.public.md) 
+
+### [Helicobasidiales.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.internal.md) 
+
+### [Helicobasidiales.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.protect.md) 
+
+### [Helicobasidiales.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.private.md) 
+
+### [Helicobasidiales.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.personal.md) 
+
+### [Helicobasidiales.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales.secret.md)
+

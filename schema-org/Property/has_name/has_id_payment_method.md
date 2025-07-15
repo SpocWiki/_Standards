@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_payment_method )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_payment_method](/_public/schema-org/Property/has_name/has_id_payment_method.md) 
+### [has_id_payment_method](/_Standards/schema-org/Property/has_name/has_id_payment_method.md) 
+
+### [has_id_payment_method.public](/_public/schema-org/Property/has_name/has_id_payment_method.public.md) 
 
 ### [has_id_payment_method.internal](/_internal/schema-org/Property/has_name/has_id_payment_method.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_payment_method.personal](/_personal/schema-org/Property/has_name/has_id_payment_method.personal.md) 
 
-### [has_id_payment_method.secret](/_secret/schema-org/Property/has_name/has_id_payment_method.secret.md) 
+### [has_id_payment_method.secret](/_secret/schema-org/Property/has_name/has_id_payment_method.secret.md)
+

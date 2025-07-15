@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offline_temporarily](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md) 
+### [offline_temporarily](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md) 
+
+### [offline_temporarily.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.public.md) 
 
 ### [offline_temporarily.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.internal.md) 
 
@@ -56,4 +59,5 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 
 ### [offline_temporarily.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.personal.md) 
 
-### [offline_temporarily.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.secret.md) 
+### [offline_temporarily.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.secret.md)
+

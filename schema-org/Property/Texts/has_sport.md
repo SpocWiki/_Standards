@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_sport )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sport](/_public/schema-org/Property/Texts/has_sport.md) 
+### [has_sport](/_Standards/schema-org/Property/Texts/has_sport.md) 
+
+### [has_sport.public](/_public/schema-org/Property/Texts/has_sport.public.md) 
 
 ### [has_sport.internal](/_internal/schema-org/Property/Texts/has_sport.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_sport.personal](/_personal/schema-org/Property/Texts/has_sport.personal.md) 
 
-### [has_sport.secret](/_secret/schema-org/Property/Texts/has_sport.secret.md) 
+### [has_sport.secret](/_secret/schema-org/Property/Texts/has_sport.secret.md)
+

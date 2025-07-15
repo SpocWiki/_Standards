@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Candela]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -21,7 +21,9 @@ Unit :: #Unit/SI/cd
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Candela](/_public/Unit/SI-Unit/Unit~Candela.md) 
+### [Unit~Candela](/_Standards/Unit/SI-Unit/Unit~Candela.md) 
+
+### [Unit~Candela.public](/_public/Unit/SI-Unit/Unit~Candela.public.md) 
 
 ### [Unit~Candela.internal](/_internal/Unit/SI-Unit/Unit~Candela.internal.md) 
 
@@ -31,4 +33,5 @@ Unit :: #Unit/SI/cd
 
 ### [Unit~Candela.personal](/_personal/Unit/SI-Unit/Unit~Candela.personal.md) 
 
-### [Unit~Candela.secret](/_secret/Unit/SI-Unit/Unit~Candela.secret.md) 
+### [Unit~Candela.secret](/_secret/Unit/SI-Unit/Unit~Candela.secret.md)
+

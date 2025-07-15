@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 [ #has_/properties :: [ additionalType, alternateName, applicableLocation, code, costCategory, costCurrency, costOrigin, costPerUnit, description, disambiguatingDescription, drugUnit, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug_cost](/_public/schema-org/Class/is_a_/medical_entity/drug_cost.md) 
+### [drug_cost](/_Standards/schema-org/Class/is_a_/medical_entity/drug_cost.md) 
+
+### [drug_cost.public](/_public/schema-org/Class/is_a_/medical_entity/drug_cost.public.md) 
 
 ### [drug_cost.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_cost.internal.md) 
 
@@ -54,4 +57,5 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 ### [drug_cost.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_cost.personal.md) 
 
-### [drug_cost.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_cost.secret.md) 
+### [drug_cost.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_cost.secret.md)
+

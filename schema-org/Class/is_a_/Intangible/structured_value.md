@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Structured values are used when the value of a property has a more complex struc
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [structured_value](/_public/schema-org/Class/is_a_/Intangible/structured_value.md) 
+### [structured_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value.md) 
+
+### [structured_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value.public.md) 
 
 ### [structured_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value.internal.md) 
 
@@ -50,4 +53,5 @@ Structured values are used when the value of a property has a more complex struc
 
 ### [structured_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value.personal.md) 
 
-### [structured_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value.secret.md) 
+### [structured_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value.secret.md)
+

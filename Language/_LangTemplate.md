@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 license: CC BY-SA 4.0
 publish: true
@@ -24,10 +24,11 @@ SpocWebEntityId: {{Id}}
 [Iso3::{{Iso3}}]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [_LangTemplate](/_public/Language/_LangTemplate.md) 
+### [_LangTemplate](/_Standards/Language/_LangTemplate.md) 
+
+### [_LangTemplate.public](/_public/Language/_LangTemplate.public.md) 
 
 ### [_LangTemplate.internal](/_internal/Language/_LangTemplate.internal.md) 
 
@@ -37,4 +38,5 @@ SpocWebEntityId: {{Id}}
 
 ### [_LangTemplate.personal](/_personal/Language/_LangTemplate.personal.md) 
 
-### [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md) 
+### [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md)
+

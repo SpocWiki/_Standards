@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_xpath )
 ( #has_/range :: XPathType )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_xpath](/_public/schema-org/Relation/has/has_xpath.md) 
+### [has_xpath](/_Standards/schema-org/Relation/has/has_xpath.md) 
+
+### [has_xpath.public](/_public/schema-org/Relation/has/has_xpath.public.md) 
 
 ### [has_xpath.internal](/_internal/schema-org/Relation/has/has_xpath.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_xpath.personal](/_personal/schema-org/Relation/has/has_xpath.personal.md) 
 
-### [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md) 
+### [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md)
+

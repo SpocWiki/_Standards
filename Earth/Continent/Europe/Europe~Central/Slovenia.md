@@ -685,9 +685,12 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slovenia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Slovenia](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
+### [Slovenia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
+
+### [Slovenia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public.md) 
 
 ### [Slovenia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal.md) 
 
@@ -697,4 +700,5 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 
 ### [Slovenia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal.md) 
 
-### [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md) 
+### [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md)
+

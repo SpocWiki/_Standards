@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6256
 has_part_s_: '[[_Standards/WikiData/WD~territory,183366]]'
 different_from:
@@ -138,4 +138,20 @@ OpenStreetMap_tag_or_key:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Country) 
 
+
+## Confidential Links & Embeds: 
+
+### [Country](/_Standards/Earth/Geography/Country.md) 
+
+### [Country.public](/_public/Earth/Geography/Country.public.md) 
+
+### [Country.internal](/_internal/Earth/Geography/Country.internal.md) 
+
+### [Country.protect](/_protect/Earth/Geography/Country.protect.md) 
+
+### [Country.private](/_private/Earth/Geography/Country.private.md) 
+
+### [Country.personal](/_personal/Earth/Geography/Country.personal.md) 
+
+### [Country.secret](/_secret/Earth/Geography/Country.secret.md)
 

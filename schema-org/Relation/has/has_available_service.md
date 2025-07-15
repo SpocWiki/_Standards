@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_available_service )
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_available_service](/_public/schema-org/Relation/has/has_available_service.md) 
+### [has_available_service](/_Standards/schema-org/Relation/has/has_available_service.md) 
+
+### [has_available_service.public](/_public/schema-org/Relation/has/has_available_service.public.md) 
 
 ### [has_available_service.internal](/_internal/schema-org/Relation/has/has_available_service.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_available_service.personal](/_personal/schema-org/Relation/has/has_available_service.personal.md) 
 
-### [has_available_service.secret](/_secret/schema-org/Relation/has/has_available_service.secret.md) 
+### [has_available_service.secret](/_secret/schema-org/Relation/has/has_available_service.secret.md)
+

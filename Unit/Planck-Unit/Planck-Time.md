@@ -1,4 +1,4 @@
-﻿
+
 # [[Planck-Time]] 
 
 #has_/scale :: 5.3912476e−44 
@@ -9,7 +9,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Time](/_public/Unit/Planck-Unit/Planck-Time.md) 
+### [Planck-Time](/_Standards/Unit/Planck-Unit/Planck-Time.md) 
+
+### [Planck-Time.public](/_public/Unit/Planck-Unit/Planck-Time.public.md) 
 
 ### [Planck-Time.internal](/_internal/Unit/Planck-Unit/Planck-Time.internal.md) 
 
@@ -19,4 +21,5 @@
 
 ### [Planck-Time.personal](/_personal/Unit/Planck-Unit/Planck-Time.personal.md) 
 
-### [Planck-Time.secret](/_secret/Unit/Planck-Unit/Planck-Time.secret.md) 
+### [Planck-Time.secret](/_secret/Unit/Planck-Unit/Planck-Time.secret.md)
+

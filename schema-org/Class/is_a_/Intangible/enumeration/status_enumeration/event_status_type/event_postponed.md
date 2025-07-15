@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The event has been postponed and no new date has been set. The event's previousS
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_postponed](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.md) 
+### [event_postponed](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.md) 
+
+### [event_postponed.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.public.md) 
 
 ### [event_postponed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md) 
 
@@ -56,4 +59,5 @@ The event has been postponed and no new date has been set. The event's previousS
 
 ### [event_postponed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md) 
 
-### [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md) 
+### [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md)
+

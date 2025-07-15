@@ -55,3 +55,19 @@ has_id_wikidata: Q11661
 Especially the cost of Compute has drastically been reduced by 1.4 billion, enabling AI. 
 
 
+## Confidential Links & Embeds: 
+
+### [IT](/_Standards/Technology/IT.md) 
+
+### [IT.public](/_public/Technology/IT.public.md) 
+
+### [IT.internal](/_internal/Technology/IT.internal.md) 
+
+### [IT.protect](/_protect/Technology/IT.protect.md) 
+
+### [IT.private](/_private/Technology/IT.private.md) 
+
+### [IT.personal](/_personal/Technology/IT.personal.md) 
+
+### [IT.secret](/_secret/Technology/IT.secret.md)
+

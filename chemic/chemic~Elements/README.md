@@ -1,4 +1,4 @@
-﻿# Obsidian.Elements
+# Obsidian.Elements
 Shared Facts about chemical Elements
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -13,9 +13,12 @@ Shared Facts about chemical Elements
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
 
+
 ## Confidential Links & Embeds: 
 
-### [README](/_public/chemic/chemic~Elements/README.md) 
+### [README](/_Standards/chemic/chemic~Elements/README.md) 
+
+### [README.public](/_public/chemic/chemic~Elements/README.public.md) 
 
 ### [README.internal](/_internal/chemic/chemic~Elements/README.internal.md) 
 
@@ -25,4 +28,5 @@ Shared Facts about chemical Elements
 
 ### [README.personal](/_personal/chemic/chemic~Elements/README.personal.md) 
 
-### [README.secret](/_secret/chemic/chemic~Elements/README.secret.md) 
+### [README.secret](/_secret/chemic/chemic~Elements/README.secret.md)
+

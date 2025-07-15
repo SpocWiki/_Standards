@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A place offering space for "Recreational Vehicles", Caravans, mobile homes and t
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RVPark](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.md) 
+### [FileClass~RVPark](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.md) 
+
+### [FileClass~RVPark.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.public.md) 
 
 ### [FileClass~RVPark.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.internal.md) 
 
@@ -46,4 +47,5 @@ A place offering space for "Recreational Vehicles", Caravans, mobile homes and t
 
 ### [FileClass~RVPark.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.personal.md) 
 
-### [FileClass~RVPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.secret.md) 
+### [FileClass~RVPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~RVPark.secret.md)
+

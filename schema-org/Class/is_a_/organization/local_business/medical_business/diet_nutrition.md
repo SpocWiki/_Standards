@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Dietetics and nutrition as a medical specialty.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [diet_nutrition](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.md) 
+### [diet_nutrition](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.md) 
+
+### [diet_nutrition.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.public.md) 
 
 ### [diet_nutrition.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.internal.md) 
 
@@ -56,4 +59,5 @@ Dietetics and nutrition as a medical specialty.
 
 ### [diet_nutrition.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.personal.md) 
 
-### [diet_nutrition.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.secret.md) 
+### [diet_nutrition.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.secret.md)
+

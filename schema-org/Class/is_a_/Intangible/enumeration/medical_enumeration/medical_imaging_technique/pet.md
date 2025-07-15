@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Positron emission tomography imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pet](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.md) 
+### [pet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.md) 
+
+### [pet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.public.md) 
 
 ### [pet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.internal.md) 
 
@@ -56,4 +59,5 @@ Positron emission tomography imaging.
 
 ### [pet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.personal.md) 
 
-### [pet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.secret.md) 
+### [pet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.secret.md)
+

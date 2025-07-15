@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, branch, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, nerveMotor, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, sensoryUnit, sourcedFrom, study, subStructure, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [nerve](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.md) 
+### [nerve](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.md) 
+
+### [nerve.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.public.md) 
 
 ### [nerve.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.internal.md) 
 
@@ -54,4 +57,5 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 ### [nerve.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.personal.md) 
 
-### [nerve.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md) 
+### [nerve.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md)
+

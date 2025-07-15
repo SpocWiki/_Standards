@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [vote_action](/_public/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.md) 
+### [vote_action](/_Standards/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.md) 
+
+### [vote_action.public](/_public/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.public.md) 
 
 ### [vote_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 
 ### [vote_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.personal.md) 
 
-### [vote_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.secret.md) 
+### [vote_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [15.18333,145.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -60,7 +60,9 @@ markerFolder: ./Saipan/
 
 ## Confidential Links & Embeds: 
 
-### [Saipan](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.md) 
+### [Saipan](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.md) 
+
+### [Saipan.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.public.md) 
 
 ### [Saipan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal.md) 
 
@@ -70,4 +72,5 @@ markerFolder: ./Saipan/
 
 ### [Saipan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal.md) 
 
-### [Saipan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret.md) 
+### [Saipan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret.md)
+

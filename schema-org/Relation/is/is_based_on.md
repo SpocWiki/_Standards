@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Relation describes that:
 ( #has_/name :: is_based_on)
 ( #has_/range :: CreativeWork, Product, URL)
 
+
 ## Confidential Links & Embeds: 
 
-### [is_based_on](/_public/schema-org/Relation/is/is_based_on.md) 
+### [is_based_on](/_Standards/schema-org/Relation/is/is_based_on.md) 
+
+### [is_based_on.public](/_public/schema-org/Relation/is/is_based_on.public.md) 
 
 ### [is_based_on.internal](/_internal/schema-org/Relation/is/is_based_on.internal.md) 
 
@@ -50,4 +53,5 @@ Relation describes that:
 
 ### [is_based_on.personal](/_personal/schema-org/Relation/is/is_based_on.personal.md) 
 
-### [is_based_on.secret](/_secret/schema-org/Relation/is/is_based_on.secret.md) 
+### [is_based_on.secret](/_secret/schema-org/Relation/is/is_based_on.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_sign_or_symptom](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.md) 
+### [medical_sign_or_symptom](/_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.md) 
+
+### [medical_sign_or_symptom.public](/_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.public.md) 
 
 ### [medical_sign_or_symptom.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.internal.md) 
 
@@ -56,4 +59,5 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ### [medical_sign_or_symptom.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.personal.md) 
 
-### [medical_sign_or_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.secret.md) 
+### [medical_sign_or_symptom.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom.secret.md)
+

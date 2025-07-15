@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: subTrip ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_part_of_trip](/_public/schema-org/Relation/is/part_of/is_part_of_trip.md) 
+### [is_part_of_trip](/_Standards/schema-org/Relation/is/part_of/is_part_of_trip.md) 
+
+### [is_part_of_trip.public](/_public/schema-org/Relation/is/part_of/is_part_of_trip.public.md) 
 
 ### [is_part_of_trip.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [is_part_of_trip.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal.md) 
 
-### [is_part_of_trip.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret.md) 
+### [is_part_of_trip.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret.md)
+

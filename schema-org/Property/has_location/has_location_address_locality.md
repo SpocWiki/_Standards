@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicated describes that:
 ( #has_/name :: has_location_address_locality )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_address_locality](/_public/schema-org/Property/has_location/has_location_address_locality.md) 
+### [has_location_address_locality](/_Standards/schema-org/Property/has_location/has_location_address_locality.md) 
+
+### [has_location_address_locality.public](/_public/schema-org/Property/has_location/has_location_address_locality.public.md) 
 
 ### [has_location_address_locality.internal](/_internal/schema-org/Property/has_location/has_location_address_locality.internal.md) 
 
@@ -57,4 +60,5 @@ Predicated describes that:
 
 ### [has_location_address_locality.personal](/_personal/schema-org/Property/has_location/has_location_address_locality.personal.md) 
 
-### [has_location_address_locality.secret](/_secret/schema-org/Property/has_location/has_location_address_locality.secret.md) 
+### [has_location_address_locality.secret](/_secret/schema-org/Property/has_location/has_location_address_locality.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -125,10 +125,11 @@ The person or organization the reservation or ticket is for.
 UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Ticket](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.md) 
+### [FileClass~Ticket](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.md) 
+
+### [FileClass~Ticket.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.public.md) 
 
 ### [FileClass~Ticket.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.internal.md) 
 
@@ -138,4 +139,5 @@ UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ### [FileClass~Ticket.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.personal.md) 
 
-### [FileClass~Ticket.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret.md) 
+### [FileClass~Ticket.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Ticket.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Analytical chemistry"
 has_id_wikidata: Q2346
@@ -35,5 +35,19 @@ schematic: "http://commons.wikimedia.org/wiki/Special:FilePath/Analytical%20inst
 > [Wikipedia](https://en.wikipedia.org/wiki/Analytical%20chemistry)
 
 
+## Confidential Links & Embeds: 
 
+### [Analytical_Chemistry](/_Standards/chemic/Analytical_Chemistry.md) 
+
+### [Analytical_Chemistry.public](/_public/chemic/Analytical_Chemistry.public.md) 
+
+### [Analytical_Chemistry.internal](/_internal/chemic/Analytical_Chemistry.internal.md) 
+
+### [Analytical_Chemistry.protect](/_protect/chemic/Analytical_Chemistry.protect.md) 
+
+### [Analytical_Chemistry.private](/_private/chemic/Analytical_Chemistry.private.md) 
+
+### [Analytical_Chemistry.personal](/_personal/chemic/Analytical_Chemistry.personal.md) 
+
+### [Analytical_Chemistry.secret](/_secret/chemic/Analytical_Chemistry.secret.md)
 

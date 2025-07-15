@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_action_platform )
 ( #has_/range :: DigitalPlatformEnumeration, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_action_platform](/_public/schema-org/Relation/has/has_action_platform.md) 
+### [has_action_platform](/_Standards/schema-org/Relation/has/has_action_platform.md) 
+
+### [has_action_platform.public](/_public/schema-org/Relation/has/has_action_platform.public.md) 
 
 ### [has_action_platform.internal](/_internal/schema-org/Relation/has/has_action_platform.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_action_platform.personal](/_personal/schema-org/Relation/has/has_action_platform.personal.md) 
 
-### [has_action_platform.secret](/_secret/schema-org/Relation/has/has_action_platform.secret.md) 
+### [has_action_platform.secret](/_secret/schema-org/Relation/has/has_action_platform.secret.md)
+

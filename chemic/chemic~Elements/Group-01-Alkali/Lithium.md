@@ -32,6 +32,8 @@ social_media_followers: 43663
 date_of_birth: "1968-07-05"
 ---
 
+# [[Lithium]] 
+
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568_WD~Lithium,568]] 
 
 #chemic/Element 
@@ -100,9 +102,16 @@ date_of_birth: "1968-07-05"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
 
+## Lithium Batteries 
+
+require Graphite instead of amorphous Carbon which can be used with [[Natrium]]
+
+
 ## Confidential Links & Embeds: 
 
-### [Lithium](/_public/chemic/chemic~Elements/Group-01-Alkali/Lithium.md) 
+### [Lithium](/_Standards/chemic/chemic~Elements/Group-01-Alkali/Lithium.md) 
+
+### [Lithium.public](/_public/chemic/chemic~Elements/Group-01-Alkali/Lithium.public.md) 
 
 ### [Lithium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Lithium.internal.md) 
 
@@ -112,4 +121,5 @@ date_of_birth: "1968-07-05"
 
 ### [Lithium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Lithium.personal.md) 
 
-### [Lithium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Lithium.secret.md) 
+### [Lithium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Lithium.secret.md)
+

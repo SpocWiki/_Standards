@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AnalysisNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.md) 
+### [FileClass~AnalysisNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.md) 
+
+### [FileClass~AnalysisNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.public.md) 
 
 ### [FileClass~AnalysisNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.internal.md) 
 
@@ -46,4 +47,5 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 
 ### [FileClass~AnalysisNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.personal.md) 
 
-### [FileClass~AnalysisNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.secret.md) 
+### [FileClass~AnalysisNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~AnalysisNewsArticle.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Vietnamese
@@ -57,9 +57,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vietnamese%20language) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-vi](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
+### [Lang-vi](/_Standards/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.md) 
+
+### [Lang-vi.public](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.public.md) 
 
 ### [Lang-vi.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.internal.md) 
 
@@ -69,4 +72,5 @@ tags:
 
 ### [Lang-vi.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.personal.md) 
 
-### [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md) 
+### [Lang-vi.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic/Lang-vi.secret.md)
+

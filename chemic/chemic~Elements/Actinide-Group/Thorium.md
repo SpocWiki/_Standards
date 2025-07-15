@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21985
 has_id_wikidata: Q1115
@@ -141,7 +141,9 @@ Krugosvet_article: nauka_i_tehnika/himiya/TORI.html
 
 ## Confidential Links & Embeds: 
 
-### [Thorium](/_public/chemic/chemic~Elements/Actinide-Group/Thorium.md) 
+### [Thorium](/_Standards/chemic/chemic~Elements/Actinide-Group/Thorium.md) 
+
+### [Thorium.public](/_public/chemic/chemic~Elements/Actinide-Group/Thorium.public.md) 
 
 ### [Thorium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Thorium.internal.md) 
 
@@ -151,4 +153,5 @@ Krugosvet_article: nauka_i_tehnika/himiya/TORI.html
 
 ### [Thorium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Thorium.personal.md) 
 
-### [Thorium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Thorium.secret.md) 
+### [Thorium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Thorium.secret.md)
+

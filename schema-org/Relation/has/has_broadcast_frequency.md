@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_broadcast_frequency )
 ( #has_/range :: BroadcastFrequencySpecification, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_frequency](/_public/schema-org/Relation/has/has_broadcast_frequency.md) 
+### [has_broadcast_frequency](/_Standards/schema-org/Relation/has/has_broadcast_frequency.md) 
+
+### [has_broadcast_frequency.public](/_public/schema-org/Relation/has/has_broadcast_frequency.public.md) 
 
 ### [has_broadcast_frequency.internal](/_internal/schema-org/Relation/has/has_broadcast_frequency.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_broadcast_frequency.personal](/_personal/schema-org/Relation/has/has_broadcast_frequency.personal.md) 
 
-### [has_broadcast_frequency.secret](/_secret/schema-org/Relation/has/has_broadcast_frequency.secret.md) 
+### [has_broadcast_frequency.secret](/_secret/schema-org/Relation/has/has_broadcast_frequency.secret.md)
+

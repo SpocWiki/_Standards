@@ -55,3 +55,20 @@ GitHub_topic: paleontology
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleontology)
 
+
+## Confidential Links & Embeds: 
+
+### [Paleontology](/_Standards/bio/Paleontology.md) 
+
+### [Paleontology.public](/_public/bio/Paleontology.public.md) 
+
+### [Paleontology.internal](/_internal/bio/Paleontology.internal.md) 
+
+### [Paleontology.protect](/_protect/bio/Paleontology.protect.md) 
+
+### [Paleontology.private](/_private/bio/Paleontology.private.md) 
+
+### [Paleontology.personal](/_personal/bio/Paleontology.personal.md) 
+
+### [Paleontology.secret](/_secret/bio/Paleontology.secret.md)
+

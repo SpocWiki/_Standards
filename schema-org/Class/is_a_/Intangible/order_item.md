@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [order_item](/_public/schema-org/Class/is_a_/Intangible/order_item.md) 
+### [order_item](/_Standards/schema-org/Class/is_a_/Intangible/order_item.md) 
+
+### [order_item.public](/_public/schema-org/Class/is_a_/Intangible/order_item.public.md) 
 
 ### [order_item.internal](/_internal/schema-org/Class/is_a_/Intangible/order_item.internal.md) 
 
@@ -54,4 +57,5 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 ### [order_item.personal](/_personal/schema-org/Class/is_a_/Intangible/order_item.personal.md) 
 
-### [order_item.secret](/_secret/schema-org/Class/is_a_/Intangible/order_item.secret.md) 
+### [order_item.secret](/_secret/schema-org/Class/is_a_/Intangible/order_item.secret.md)
+

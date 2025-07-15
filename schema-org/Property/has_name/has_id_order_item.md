@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_id_order_item )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_order_item](/_public/schema-org/Property/has_name/has_id_order_item.md) 
+### [has_id_order_item](/_Standards/schema-org/Property/has_name/has_id_order_item.md) 
+
+### [has_id_order_item.public](/_public/schema-org/Property/has_name/has_id_order_item.public.md) 
 
 ### [has_id_order_item.internal](/_internal/schema-org/Property/has_name/has_id_order_item.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_id_order_item.personal](/_personal/schema-org/Property/has_name/has_id_order_item.personal.md) 
 
-### [has_id_order_item.secret](/_secret/schema-org/Property/has_name/has_id_order_item.secret.md) 
+### [has_id_order_item.secret](/_secret/schema-org/Property/has_name/has_id_order_item.secret.md)
+

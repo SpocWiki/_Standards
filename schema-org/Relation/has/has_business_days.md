@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_business_days )
 ( #has_/range :: OpeningHoursSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_business_days](/_public/schema-org/Relation/has/has_business_days.md) 
+### [has_business_days](/_Standards/schema-org/Relation/has/has_business_days.md) 
+
+### [has_business_days.public](/_public/schema-org/Relation/has/has_business_days.public.md) 
 
 ### [has_business_days.internal](/_internal/schema-org/Relation/has/has_business_days.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_business_days.personal](/_personal/schema-org/Relation/has/has_business_days.personal.md) 
 
-### [has_business_days.secret](/_secret/schema-org/Relation/has/has_business_days.secret.md) 
+### [has_business_days.secret](/_secret/schema-org/Relation/has/has_business_days.secret.md)
+

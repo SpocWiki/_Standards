@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_subscription_required )
 ( #has_/range :: Boolean, MediaSubscription )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_subscription_required](/_public/schema-org/Property/Flags/is_subscription_required.md) 
+### [is_subscription_required](/_Standards/schema-org/Property/Flags/is_subscription_required.md) 
+
+### [is_subscription_required.public](/_public/schema-org/Property/Flags/is_subscription_required.public.md) 
 
 ### [is_subscription_required.internal](/_internal/schema-org/Property/Flags/is_subscription_required.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_subscription_required.personal](/_personal/schema-org/Property/Flags/is_subscription_required.personal.md) 
 
-### [is_subscription_required.secret](/_secret/schema-org/Property/Flags/is_subscription_required.secret.md) 
+### [is_subscription_required.secret](/_secret/schema-org/Property/Flags/is_subscription_required.secret.md)
+

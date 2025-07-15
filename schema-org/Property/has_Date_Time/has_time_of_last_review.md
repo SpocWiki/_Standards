@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_last_review)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_last_review](/_public/schema-org/Property/has_Date_Time/has_time_of_last_review.md) 
+### [has_time_of_last_review](/_Standards/schema-org/Property/has_Date_Time/has_time_of_last_review.md) 
+
+### [has_time_of_last_review.public](/_public/schema-org/Property/has_Date_Time/has_time_of_last_review.public.md) 
 
 ### [has_time_of_last_review.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_last_review.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_last_review.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_last_review.personal.md) 
 
-### [has_time_of_last_review.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_last_review.secret.md) 
+### [has_time_of_last_review.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_last_review.secret.md)
+

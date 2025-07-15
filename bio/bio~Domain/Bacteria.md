@@ -323,16 +323,21 @@ Specimen Condition   Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
   
   
+
+
 ## Confidential Links & Embeds: 
 
-### [bacteria](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.md) 
+### [Bacteria](/_Standards/bio/bio~Domain/Bacteria.md) 
 
-### [bacteria.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.internal.md) 
+### [Bacteria.public](/_public/bio/bio~Domain/Bacteria.public.md) 
 
-### [bacteria.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.protect.md) 
+### [Bacteria.internal](/_internal/bio/bio~Domain/Bacteria.internal.md) 
 
-### [bacteria.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.private.md) 
+### [Bacteria.protect](/_protect/bio/bio~Domain/Bacteria.protect.md) 
 
-### [bacteria.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.personal.md) 
+### [Bacteria.private](/_private/bio/bio~Domain/Bacteria.private.md) 
 
-### [bacteria.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/bacteria.secret.md) 
+### [Bacteria.personal](/_personal/bio/bio~Domain/Bacteria.personal.md) 
+
+### [Bacteria.secret](/_secret/bio/bio~Domain/Bacteria.secret.md)
+

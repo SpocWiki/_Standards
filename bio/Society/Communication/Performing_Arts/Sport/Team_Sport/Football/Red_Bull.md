@@ -22,3 +22,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Red%20Bull)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Red_Bull](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.md) 
+
+### [Red_Bull.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.public.md) 
+
+### [Red_Bull.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.internal.md) 
+
+### [Red_Bull.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.protect.md) 
+
+### [Red_Bull.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.private.md) 
+
+### [Red_Bull.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.personal.md) 
+
+### [Red_Bull.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Football/Red_Bull.secret.md)
+

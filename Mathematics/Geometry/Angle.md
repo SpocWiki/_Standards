@@ -44,3 +44,21 @@ Unicode_character: ∠
 > Angle of rotation is a measure conventionally defined as the ratio of a circular arc length to its radius, and may be a negative number. In the case of an ordinary angle, the arc is centered at the vertex and delimited by the sides. In the case of an angle of rotation, the arc is centered at the center of the rotation and delimited by any other point and its image after the rotation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angle)
+
+
+## Confidential Links & Embeds: 
+
+### [Angle](/_Standards/Mathematics/Geometry/Angle.md) 
+
+### [Angle.public](/_public/Mathematics/Geometry/Angle.public.md) 
+
+### [Angle.internal](/_internal/Mathematics/Geometry/Angle.internal.md) 
+
+### [Angle.protect](/_protect/Mathematics/Geometry/Angle.protect.md) 
+
+### [Angle.private](/_private/Mathematics/Geometry/Angle.private.md) 
+
+### [Angle.personal](/_personal/Mathematics/Geometry/Angle.personal.md) 
+
+### [Angle.secret](/_secret/Mathematics/Geometry/Angle.secret.md)
+

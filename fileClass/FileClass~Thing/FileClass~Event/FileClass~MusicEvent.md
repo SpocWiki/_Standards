@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Music event.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MusicEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.md) 
+### [FileClass~MusicEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.md) 
+
+### [FileClass~MusicEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.public.md) 
 
 ### [FileClass~MusicEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Music event.
 
 ### [FileClass~MusicEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.personal.md) 
 
-### [FileClass~MusicEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.secret.md) 
+### [FileClass~MusicEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~MusicEvent.secret.md)
+

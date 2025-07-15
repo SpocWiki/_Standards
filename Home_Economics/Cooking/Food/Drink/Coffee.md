@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8486
 made_from_material:
 - "[[_Standards/WikiData/WD~coffee_bean,153697]]"
@@ -80,4 +80,23 @@ Wolfram_Language_entity_code: "Entity[\"FoodType\", \"Coffee\"]"
 > The two most commonly grown coffee bean types are C. arabica and C. robusta. Coffee plants are cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, the Indian subcontinent, and Africa. Green, unroasted coffee is traded as an agricultural commodity. The global coffee industry is massive and worth $495.50 billion as of 2023. In the same year, Brazil was the leading grower of coffee beans, producing 35% of the world's total, followed by Vietnam and Colombia. While coffee sales reach billions of dollars annually worldwide, coffee farmers disproportionately live in poverty. Critics of the coffee industry have also pointed to its negative impact on the environment and the clearing of land for coffee-growing and water use.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coffee) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Coffee](/_Standards/Home_Economics/Cooking/Food/Drink/Coffee.md) 
+
+### [Coffee.public](/_public/Home_Economics/Cooking/Food/Drink/Coffee.public.md) 
+
+### [Coffee.internal](/_internal/Home_Economics/Cooking/Food/Drink/Coffee.internal.md) 
+
+### [Coffee.protect](/_protect/Home_Economics/Cooking/Food/Drink/Coffee.protect.md) 
+
+### [Coffee.private](/_private/Home_Economics/Cooking/Food/Drink/Coffee.private.md) 
+
+### [Coffee.personal](/_personal/Home_Economics/Cooking/Food/Drink/Coffee.personal.md) 
+
+### [Coffee.secret](/_secret/Home_Economics/Cooking/Food/Drink/Coffee.secret.md)
 

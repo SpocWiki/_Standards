@@ -70,10 +70,11 @@ Relation describes that:
 # #has_/examples 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [is_complement_of](/_public/schema-org/Relation/is_complement_of.md) 
+### [is_complement_of](/_Standards/schema-org/Relation/is_complement_of.md) 
+
+### [is_complement_of.public](/_public/schema-org/Relation/is_complement_of.public.md) 
 
 ### [is_complement_of.internal](/_internal/schema-org/Relation/is_complement_of.internal.md) 
 
@@ -83,4 +84,5 @@ Relation describes that:
 
 ### [is_complement_of.personal](/_personal/schema-org/Relation/is_complement_of.personal.md) 
 
-### [is_complement_of.secret](/_secret/schema-org/Relation/is_complement_of.secret.md) 
+### [is_complement_of.secret](/_secret/schema-org/Relation/is_complement_of.secret.md)
+

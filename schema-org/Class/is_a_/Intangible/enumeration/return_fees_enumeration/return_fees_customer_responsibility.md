@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_fees_customer_responsibility](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md) 
+### [return_fees_customer_responsibility](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md) 
+
+### [return_fees_customer_responsibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.public.md) 
 
 ### [return_fees_customer_responsibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 
 ### [return_fees_customer_responsibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.personal.md) 
 
-### [return_fees_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret.md) 
+### [return_fees_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret.md)
+

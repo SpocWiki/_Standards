@@ -619,10 +619,11 @@ Capital ::[[Austria/Austrias_States/Wien,State/Wien,City]]]
 [has_place_latitude::47.712]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Austria](/_public/Earth/Continent/Europe/Europe~Central/Austria.md) 
+### [Austria](/_Standards/Earth/Continent/Europe/Europe~Central/Austria.md) 
+
+### [Austria.public](/_public/Earth/Continent/Europe/Europe~Central/Austria.public.md) 
 
 ### [Austria.internal](/_internal/Earth/Continent/Europe/Europe~Central/Austria.internal.md) 
 
@@ -632,4 +633,5 @@ Capital ::[[Austria/Austrias_States/Wien,State/Wien,City]]]
 
 ### [Austria.personal](/_personal/Earth/Continent/Europe/Europe~Central/Austria.personal.md) 
 
-### [Austria.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret.md) 
+### [Austria.secret](/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret.md)
+

@@ -82,3 +82,19 @@ Iconclass_notation: 49K31
 > [Wikipedia](https://en.wikipedia.org/wiki/Linguistics) 
 
 
+## Confidential Links & Embeds: 
+
+### [Linguistics](/_Standards/Language/Linguistics.md) 
+
+### [Linguistics.public](/_public/Language/Linguistics.public.md) 
+
+### [Linguistics.internal](/_internal/Language/Linguistics.internal.md) 
+
+### [Linguistics.protect](/_protect/Language/Linguistics.protect.md) 
+
+### [Linguistics.private](/_private/Language/Linguistics.private.md) 
+
+### [Linguistics.personal](/_personal/Language/Linguistics.personal.md) 
+
+### [Linguistics.secret](/_secret/Language/Linguistics.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Formal Predicate:
 
 Is [sub_property_of::frequency]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_until_repeat](/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.md) 
+### [has_duration_until_repeat](/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat.md) 
+
+### [has_duration_until_repeat.public](/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public.md) 
 
 ### [has_duration_until_repeat.internal](/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal.md) 
 
@@ -60,4 +63,5 @@ Is [sub_property_of::frequency]
 
 ### [has_duration_until_repeat.personal](/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal.md) 
 
-### [has_duration_until_repeat.secret](/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret.md) 
+### [has_duration_until_repeat.secret](/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret.md)
+

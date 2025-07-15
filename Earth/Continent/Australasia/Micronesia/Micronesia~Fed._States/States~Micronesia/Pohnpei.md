@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.9 , 158.2 ] 
 type: geo-Region
 title: Pohnpei
@@ -41,7 +41,9 @@ markerFolder: ./Pohnpei/
 
 ## Confidential Links & Embeds: 
 
-### [Pohnpei](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.md) 
+### [Pohnpei](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.md) 
+
+### [Pohnpei.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.public.md) 
 
 ### [Pohnpei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Pohnpei/
 
 ### [Pohnpei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.personal.md) 
 
-### [Pohnpei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.secret.md) 
+### [Pohnpei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.secret.md)
+

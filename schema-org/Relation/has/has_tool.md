@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_tool](/_public/schema-org/Relation/has/has_tool.md) 
+### [has_tool](/_Standards/schema-org/Relation/has/has_tool.md) 
+
+### [has_tool.public](/_public/schema-org/Relation/has/has_tool.public.md) 
 
 ### [has_tool.internal](/_internal/schema-org/Relation/has/has_tool.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_tool.personal](/_personal/schema-org/Relation/has/has_tool.personal.md) 
 
-### [has_tool.secret](/_secret/schema-org/Relation/has/has_tool.secret.md) 
+### [has_tool.secret](/_secret/schema-org/Relation/has/has_tool.secret.md)
+

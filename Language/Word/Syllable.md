@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8188
 subclass_of:
 - '[[_Standards/WikiData/WD~phone,202064]]'
@@ -36,4 +36,21 @@ notation: '[[_Standards/WikiData/WD~Σ,14413]]'
 > A word that consists of a single syllable (like English dog) is called a monosyllable (and is said to be monosyllabic). Similar terms include disyllable (and disyllabic; also bisyllable and bisyllabic) for a word of two syllables; trisyllable (and trisyllabic) for a word of three syllables; and polysyllable (and polysyllabic), which may refer either to a word of more than three syllables or to any word of more than one syllable.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Syllable) 
+
+
+## Confidential Links & Embeds: 
+
+### [Syllable](/_Standards/Language/Word/Syllable.md) 
+
+### [Syllable.public](/_public/Language/Word/Syllable.public.md) 
+
+### [Syllable.internal](/_internal/Language/Word/Syllable.internal.md) 
+
+### [Syllable.protect](/_protect/Language/Word/Syllable.protect.md) 
+
+### [Syllable.private](/_private/Language/Word/Syllable.private.md) 
+
+### [Syllable.personal](/_personal/Language/Word/Syllable.personal.md) 
+
+### [Syllable.secret](/_secret/Language/Word/Syllable.secret.md)
 

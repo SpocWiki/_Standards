@@ -56,3 +56,21 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [filosa](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.md) 
+
+### [filosa.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.public.md) 
+
+### [filosa.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.internal.md) 
+
+### [filosa.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.protect.md) 
+
+### [filosa.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.private.md) 
+
+### [filosa.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.personal.md) 
+
+### [filosa.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/filosa.secret.md)
+

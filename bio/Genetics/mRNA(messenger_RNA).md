@@ -36,5 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Messenger%20RNA)
 
 
+## Confidential Links & Embeds: 
 
+### [mRNA(messenger_RNA)](/_Standards/bio/Genetics/mRNA(messenger_RNA).md) 
+
+### [mRNA(messenger_RNA).public](/_public/bio/Genetics/mRNA(messenger_RNA).public.md) 
+
+### [mRNA(messenger_RNA).internal](/_internal/bio/Genetics/mRNA(messenger_RNA).internal.md) 
+
+### [mRNA(messenger_RNA).protect](/_protect/bio/Genetics/mRNA(messenger_RNA).protect.md) 
+
+### [mRNA(messenger_RNA).private](/_private/bio/Genetics/mRNA(messenger_RNA).private.md) 
+
+### [mRNA(messenger_RNA).personal](/_personal/bio/Genetics/mRNA(messenger_RNA).personal.md) 
+
+### [mRNA(messenger_RNA).secret](/_secret/bio/Genetics/mRNA(messenger_RNA).secret.md)
 

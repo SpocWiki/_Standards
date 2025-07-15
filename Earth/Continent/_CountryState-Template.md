@@ -1,4 +1,4 @@
-﻿---
+---
 type: State
 license: CC BY-SA 4.0
 publish: true
@@ -24,10 +24,11 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [Population::{{Population}}]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [_CountryState-Template](/_public/Earth/Continent/_CountryState-Template.md) 
+### [_CountryState-Template](/_Standards/Earth/Continent/_CountryState-Template.md) 
+
+### [_CountryState-Template.public](/_public/Earth/Continent/_CountryState-Template.public.md) 
 
 ### [_CountryState-Template.internal](/_internal/Earth/Continent/_CountryState-Template.internal.md) 
 
@@ -37,4 +38,5 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ### [_CountryState-Template.personal](/_personal/Earth/Continent/_CountryState-Template.personal.md) 
 
-### [_CountryState-Template.secret](/_secret/Earth/Continent/_CountryState-Template.secret.md) 
+### [_CountryState-Template.secret](/_secret/Earth/Continent/_CountryState-Template.secret.md)
+

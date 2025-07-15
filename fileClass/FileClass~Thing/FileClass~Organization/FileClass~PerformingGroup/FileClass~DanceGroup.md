@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DanceGroup](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.md) 
+### [FileClass~DanceGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.md) 
+
+### [FileClass~DanceGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.public.md) 
 
 ### [FileClass~DanceGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.internal.md) 
 
@@ -46,4 +47,5 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 
 ### [FileClass~DanceGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.personal.md) 
 
-### [FileClass~DanceGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.secret.md) 
+### [FileClass~DanceGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~DanceGroup.secret.md)
+

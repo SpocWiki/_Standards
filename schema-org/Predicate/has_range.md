@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: is_range_includes )
 ( #has_/range :: [Class](../Classes.md) )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_range](/_public/schema-org/Predicate/has_range.md) 
+### [has_range](/_Standards/schema-org/Predicate/has_range.md) 
+
+### [has_range.public](/_public/schema-org/Predicate/has_range.public.md) 
 
 ### [has_range.internal](/_internal/schema-org/Predicate/has_range.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_range.personal](/_personal/schema-org/Predicate/has_range.personal.md) 
 
-### [has_range.secret](/_secret/schema-org/Predicate/has_range.secret.md) 
+### [has_range.secret](/_secret/schema-org/Predicate/has_range.secret.md)
+

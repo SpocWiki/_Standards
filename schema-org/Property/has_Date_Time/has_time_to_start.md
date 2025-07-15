@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Formal Predicate:
 (name::has_time_to_start)
 (range::Date, DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_to_start](/_public/schema-org/Property/has_Date_Time/has_time_to_start.md) 
+### [has_time_to_start](/_Standards/schema-org/Property/has_Date_Time/has_time_to_start.md) 
+
+### [has_time_to_start.public](/_public/schema-org/Property/has_Date_Time/has_time_to_start.public.md) 
 
 ### [has_time_to_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_start.internal.md) 
 
@@ -59,4 +62,5 @@ Formal Predicate:
 
 ### [has_time_to_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_start.personal.md) 
 
-### [has_time_to_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret.md) 
+### [has_time_to_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret.md)
+

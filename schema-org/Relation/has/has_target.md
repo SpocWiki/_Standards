@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_target )
 ( #has_/range :: EntryPoint, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_target](/_public/schema-org/Relation/has/has_target.md) 
+### [has_target](/_Standards/schema-org/Relation/has/has_target.md) 
+
+### [has_target.public](/_public/schema-org/Relation/has/has_target.public.md) 
 
 ### [has_target.internal](/_internal/schema-org/Relation/has/has_target.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_target.personal](/_personal/schema-org/Relation/has/has_target.personal.md) 
 
-### [has_target.secret](/_secret/schema-org/Relation/has/has_target.secret.md) 
+### [has_target.secret](/_secret/schema-org/Relation/has/has_target.secret.md)
+

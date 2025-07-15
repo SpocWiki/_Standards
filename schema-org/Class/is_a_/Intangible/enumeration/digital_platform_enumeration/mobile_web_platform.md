@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [mobile_web_platform](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md) 
+### [mobile_web_platform](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md) 
+
+### [mobile_web_platform.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.public.md) 
 
 ### [mobile_web_platform.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 ### [mobile_web_platform.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.personal.md) 
 
-### [mobile_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.secret.md) 
+### [mobile_web_platform.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/digital_platform_enumeration/mobile_web_platform.secret.md)
+

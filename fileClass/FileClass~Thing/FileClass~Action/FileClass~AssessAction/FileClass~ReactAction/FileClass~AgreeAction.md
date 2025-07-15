@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AgreeAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.md) 
+### [FileClass~AgreeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.md) 
+
+### [FileClass~AgreeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.public.md) 
 
 ### [FileClass~AgreeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 
 ### [FileClass~AgreeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.personal.md) 
 
-### [FileClass~AgreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.secret.md) 
+### [FileClass~AgreeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~AgreeAction.secret.md)
+

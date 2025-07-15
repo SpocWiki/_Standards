@@ -294,3 +294,21 @@ Kansas Press, Lawrence.
   Comments          Colony of alcyonarians (\"soft corals\"). Note eight tentacles on each polyp.
   Copyright ::         © 1999 George Miller
   ----------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Anthozoa](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.md) 
+
+### [Anthozoa.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.public.md) 
+
+### [Anthozoa.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.internal.md) 
+
+### [Anthozoa.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.protect.md) 
+
+### [Anthozoa.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.private.md) 
+
+### [Anthozoa.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.personal.md) 
+
+### [Anthozoa.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa.secret.md)
+

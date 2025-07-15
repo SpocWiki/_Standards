@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_bank_account_type )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_bank_account_type](/_public/schema-org/Property/Texts/has_bank_account_type.md) 
+### [has_bank_account_type](/_Standards/schema-org/Property/Texts/has_bank_account_type.md) 
+
+### [has_bank_account_type.public](/_public/schema-org/Property/Texts/has_bank_account_type.public.md) 
 
 ### [has_bank_account_type.internal](/_internal/schema-org/Property/Texts/has_bank_account_type.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_bank_account_type.personal](/_personal/schema-org/Property/Texts/has_bank_account_type.personal.md) 
 
-### [has_bank_account_type.secret](/_secret/schema-org/Property/Texts/has_bank_account_type.secret.md) 
+### [has_bank_account_type.secret](/_secret/schema-org/Property/Texts/has_bank_account_type.secret.md)
+

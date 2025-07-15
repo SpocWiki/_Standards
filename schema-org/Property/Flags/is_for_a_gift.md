@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Predicate describes that:
 ( #has_/name :: is_for_a_gift )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_for_a_gift](/_public/schema-org/Property/Flags/is_for_a_gift.md) 
+### [is_for_a_gift](/_Standards/schema-org/Property/Flags/is_for_a_gift.md) 
+
+### [is_for_a_gift.public](/_public/schema-org/Property/Flags/is_for_a_gift.public.md) 
 
 ### [is_for_a_gift.internal](/_internal/schema-org/Property/Flags/is_for_a_gift.internal.md) 
 
@@ -57,4 +60,5 @@ Predicate describes that:
 
 ### [is_for_a_gift.personal](/_personal/schema-org/Property/Flags/is_for_a_gift.personal.md) 
 
-### [is_for_a_gift.secret](/_secret/schema-org/Property/Flags/is_for_a_gift.secret.md) 
+### [is_for_a_gift.secret](/_secret/schema-org/Property/Flags/is_for_a_gift.secret.md)
+

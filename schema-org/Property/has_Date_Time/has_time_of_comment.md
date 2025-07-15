@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_comment)
 (range::Date, DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_comment](/_public/schema-org/Property/has_Date_Time/has_time_of_comment.md) 
+### [has_time_of_comment](/_Standards/schema-org/Property/has_Date_Time/has_time_of_comment.md) 
+
+### [has_time_of_comment.public](/_public/schema-org/Property/has_Date_Time/has_time_of_comment.public.md) 
 
 ### [has_time_of_comment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_comment.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_comment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_comment.personal.md) 
 
-### [has_time_of_comment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret.md) 
+### [has_time_of_comment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret.md)
+

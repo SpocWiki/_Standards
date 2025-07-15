@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Commonly used values:
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [warranty_scope](/_public/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.md) 
+### [warranty_scope](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.md) 
+
+### [warranty_scope.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.public.md) 
 
 ### [warranty_scope.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.internal.md) 
 
@@ -60,4 +63,5 @@ Commonly used values:
 
 ### [warranty_scope.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.personal.md) 
 
-### [warranty_scope.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.secret.md) 
+### [warranty_scope.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/warranty_scope.secret.md)
+

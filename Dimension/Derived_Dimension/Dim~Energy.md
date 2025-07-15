@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Energy]] 
 
 Energy and [[../Dim~Mass]] are convertible, 
@@ -12,10 +12,11 @@ In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [
 given by its [[Dim~Energy]]:  ___E = h * f_ __
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Dim~Energy](/_public/Dimension/Derived_Dimension/Dim~Energy.md) 
+### [Dim~Energy](/_Standards/Dimension/Derived_Dimension/Dim~Energy.md) 
+
+### [Dim~Energy.public](/_public/Dimension/Derived_Dimension/Dim~Energy.public.md) 
 
 ### [Dim~Energy.internal](/_internal/Dimension/Derived_Dimension/Dim~Energy.internal.md) 
 
@@ -25,4 +26,5 @@ given by its [[Dim~Energy]]:  ___E = h * f_ __
 
 ### [Dim~Energy.personal](/_personal/Dimension/Derived_Dimension/Dim~Energy.personal.md) 
 
-### [Dim~Energy.secret](/_secret/Dimension/Derived_Dimension/Dim~Energy.secret.md) 
+### [Dim~Energy.secret](/_secret/Dimension/Derived_Dimension/Dim~Energy.secret.md)
+

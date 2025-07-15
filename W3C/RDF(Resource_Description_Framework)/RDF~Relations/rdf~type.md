@@ -1,4 +1,4 @@
-﻿The Property relating an Entity to a Class. 
+The Property relating an Entity to a Class. 
 
 ```turtle
 ex:Person rdf:type foaf:Person .
@@ -8,9 +8,12 @@ ex:StudentA rdf:type ex:Person .
 
 Type of all Types.
 
+
 ## Confidential Links & Embeds: 
 
-### [rdf~type](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.md) 
+### [rdf~type](/_Standards/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.md) 
+
+### [rdf~type.public](/_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.public.md) 
 
 ### [rdf~type.internal](/_internal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.internal.md) 
 
@@ -20,4 +23,5 @@ Type of all Types.
 
 ### [rdf~type.personal](/_personal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.personal.md) 
 
-### [rdf~type.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.secret.md) 
+### [rdf~type.secret](/_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type.secret.md)
+

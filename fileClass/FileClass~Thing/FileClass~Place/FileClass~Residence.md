@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -45,7 +45,9 @@ AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.page
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Residence](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.md) 
+### [FileClass~Residence](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.md) 
+
+### [FileClass~Residence.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.public.md) 
 
 ### [FileClass~Residence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.internal.md) 
 
@@ -55,4 +57,5 @@ AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.page
 
 ### [FileClass~Residence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.personal.md) 
 
-### [FileClass~Residence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.secret.md) 
+### [FileClass~Residence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.secret.md)
+

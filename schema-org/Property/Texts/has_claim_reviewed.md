@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_claim_reviewed )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_claim_reviewed](/_public/schema-org/Property/Texts/has_claim_reviewed.md) 
+### [has_claim_reviewed](/_Standards/schema-org/Property/Texts/has_claim_reviewed.md) 
+
+### [has_claim_reviewed.public](/_public/schema-org/Property/Texts/has_claim_reviewed.public.md) 
 
 ### [has_claim_reviewed.internal](/_internal/schema-org/Property/Texts/has_claim_reviewed.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_claim_reviewed.personal](/_personal/schema-org/Property/Texts/has_claim_reviewed.personal.md) 
 
-### [has_claim_reviewed.secret](/_secret/schema-org/Property/Texts/has_claim_reviewed.secret.md) 
+### [has_claim_reviewed.secret](/_secret/schema-org/Property/Texts/has_claim_reviewed.secret.md)
+

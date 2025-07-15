@@ -1,4 +1,4 @@
-﻿# [[Arctica]]
+# [[Arctica]]
 
 ## #has_/map 
 
@@ -24,9 +24,12 @@ type: folder_brief_live
 ```
  
 
+
 ## Confidential Links & Embeds: 
 
-### [Arctica](/_public/Earth/Continent/Arctica.md) 
+### [Arctica](/_Standards/Earth/Continent/Arctica.md) 
+
+### [Arctica.public](/_public/Earth/Continent/Arctica.public.md) 
 
 ### [Arctica.internal](/_internal/Earth/Continent/Arctica.internal.md) 
 
@@ -36,4 +39,5 @@ type: folder_brief_live
 
 ### [Arctica.personal](/_personal/Earth/Continent/Arctica.personal.md) 
 
-### [Arctica.secret](/_secret/Earth/Continent/Arctica.secret.md) 
+### [Arctica.secret](/_secret/Earth/Continent/Arctica.secret.md)
+

@@ -1,4 +1,4 @@
-﻿International 
+International 
 Civil 
 Aviation 
 Organization 
@@ -7,9 +7,12 @@ a United Nations Agency.
 
 Publishes Standards for electronic readable Travel Documents 
 
+
 ## Confidential Links & Embeds: 
 
-### [ICAO](/_public/UN(United_Nations)/ICAO.md) 
+### [ICAO](/_Standards/UN(United_Nations)/ICAO.md) 
+
+### [ICAO.public](/_public/UN(United_Nations)/ICAO.public.md) 
 
 ### [ICAO.internal](/_internal/UN(United_Nations)/ICAO.internal.md) 
 
@@ -19,4 +22,5 @@ Publishes Standards for electronic readable Travel Documents
 
 ### [ICAO.personal](/_personal/UN(United_Nations)/ICAO.personal.md) 
 
-### [ICAO.secret](/_secret/UN(United_Nations)/ICAO.secret.md) 
+### [ICAO.secret](/_secret/UN(United_Nations)/ICAO.secret.md)
+

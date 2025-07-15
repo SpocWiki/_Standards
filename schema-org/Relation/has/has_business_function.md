@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_business_function )
 ( #has_/range :: BusinessFunction )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_business_function](/_public/schema-org/Relation/has/has_business_function.md) 
+### [has_business_function](/_Standards/schema-org/Relation/has/has_business_function.md) 
+
+### [has_business_function.public](/_public/schema-org/Relation/has/has_business_function.public.md) 
 
 ### [has_business_function.internal](/_internal/schema-org/Relation/has/has_business_function.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_business_function.personal](/_personal/schema-org/Relation/has/has_business_function.personal.md) 
 
-### [has_business_function.secret](/_secret/schema-org/Relation/has/has_business_function.secret.md) 
+### [has_business_function.secret](/_secret/schema-org/Relation/has/has_business_function.secret.md)
+

@@ -709,9 +709,12 @@ Capital :: [[UK/London,City]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom)
 
+
 ## Confidential Links & Embeds: 
 
-### [UK](/_public/Earth/Continent/Europe/Europe~North/UK.md) 
+### [UK](/_Standards/Earth/Continent/Europe/Europe~North/UK.md) 
+
+### [UK.public](/_public/Earth/Continent/Europe/Europe~North/UK.public.md) 
 
 ### [UK.internal](/_internal/Earth/Continent/Europe/Europe~North/UK.internal.md) 
 
@@ -721,4 +724,5 @@ Capital :: [[UK/London,City]]
 
 ### [UK.personal](/_personal/Earth/Continent/Europe/Europe~North/UK.personal.md) 
 
-### [UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK.secret.md) 
+### [UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK.secret.md)
+

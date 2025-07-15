@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToStep](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.md) 
+### [FileClass~HowToStep](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.md) 
+
+### [FileClass~HowToStep.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.public.md) 
 
 ### [FileClass~HowToStep.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.internal.md) 
 
@@ -46,4 +47,5 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 ### [FileClass~HowToStep.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.personal.md) 
 
-### [FileClass~HowToStep.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.secret.md) 
+### [FileClass~HowToStep.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.secret.md)
+

@@ -423,9 +423,12 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rwanda)
 
+
 ## Confidential Links & Embeds: 
 
-### [Rwanda](/_public/Earth/Continent/Africa/Africa~Central/Rwanda.md) 
+### [Rwanda](/_Standards/Earth/Continent/Africa/Africa~Central/Rwanda.md) 
+
+### [Rwanda.public](/_public/Earth/Continent/Africa/Africa~Central/Rwanda.public.md) 
 
 ### [Rwanda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Rwanda.internal.md) 
 
@@ -435,4 +438,5 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 ### [Rwanda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal.md) 
 
-### [Rwanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret.md) 
+### [Rwanda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret.md)
+

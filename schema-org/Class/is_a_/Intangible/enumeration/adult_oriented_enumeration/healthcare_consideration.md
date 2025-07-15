@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [healthcare_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.md) 
+### [healthcare_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.md) 
+
+### [healthcare_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.public.md) 
 
 ### [healthcare_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 
 ### [healthcare_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.personal.md) 
 
-### [healthcare_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret.md) 
+### [healthcare_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret.md)
+

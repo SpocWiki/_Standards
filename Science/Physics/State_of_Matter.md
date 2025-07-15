@@ -54,5 +54,19 @@ Commons_category: "States of aggregation"
 > [Wikipedia](https://en.wikipedia.org/wiki/State%20of%20matter)
 
 
+## Confidential Links & Embeds: 
 
+### [State_of_Matter](/_Standards/Science/Physics/State_of_Matter.md) 
+
+### [State_of_Matter.public](/_public/Science/Physics/State_of_Matter.public.md) 
+
+### [State_of_Matter.internal](/_internal/Science/Physics/State_of_Matter.internal.md) 
+
+### [State_of_Matter.protect](/_protect/Science/Physics/State_of_Matter.protect.md) 
+
+### [State_of_Matter.private](/_private/Science/Physics/State_of_Matter.private.md) 
+
+### [State_of_Matter.personal](/_personal/Science/Physics/State_of_Matter.personal.md) 
+
+### [State_of_Matter.secret](/_secret/Science/Physics/State_of_Matter.secret.md)
 

@@ -122,3 +122,21 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
   Type                 Holotype
   Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
   -----------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [psychrophila](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.md) 
+
+### [psychrophila.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.public.md) 
+
+### [psychrophila.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.internal.md) 
+
+### [psychrophila.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.protect.md) 
+
+### [psychrophila.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.private.md) 
+
+### [psychrophila.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.personal.md) 
+
+### [psychrophila.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/psychrophila.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A structured value representing a price or price range. Typically, only the subc
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [price_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification.md) 
+### [price_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/price_specification.md) 
+
+### [price_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/price_specification.public.md) 
 
 ### [price_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/price_specification.internal.md) 
 
@@ -56,4 +59,5 @@ A structured value representing a price or price range. Typically, only the subc
 
 ### [price_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/price_specification.personal.md) 
 
-### [price_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification.secret.md) 
+### [price_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/price_specification.secret.md)
+

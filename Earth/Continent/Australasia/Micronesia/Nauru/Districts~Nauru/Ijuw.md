@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.506 , 166.95 ] 
 type: geo-Region
 title: Ijuw
@@ -41,7 +41,9 @@ markerFolder: ./Ijuw/
 
 ## Confidential Links & Embeds: 
 
-### [Ijuw](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.md) 
+### [Ijuw](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.md) 
+
+### [Ijuw.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.public.md) 
 
 ### [Ijuw.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ijuw/
 
 ### [Ijuw.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.personal.md) 
 
-### [Ijuw.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret.md) 
+### [Ijuw.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret.md)
+

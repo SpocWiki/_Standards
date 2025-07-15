@@ -67,3 +67,22 @@ Creator            Photograph by Jean-François Cornuet
 Sex ::              Female
 Life Cycle Stage ::   Female with egg sacs
 Copyright ::          © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cyclopoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.md) 
+
+### [Cyclopoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.public.md) 
+
+### [Cyclopoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.internal.md) 
+
+### [Cyclopoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.protect.md) 
+
+### [Cyclopoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.private.md) 
+
+### [Cyclopoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.personal.md) 
+
+### [Cyclopoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Cyclopoida.secret.md)
+

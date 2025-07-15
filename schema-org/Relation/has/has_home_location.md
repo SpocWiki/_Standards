@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_home_location](/_public/schema-org/Relation/has/has_home_location.md) 
+### [has_home_location](/_Standards/schema-org/Relation/has/has_home_location.md) 
+
+### [has_home_location.public](/_public/schema-org/Relation/has/has_home_location.public.md) 
 
 ### [has_home_location.internal](/_internal/schema-org/Relation/has/has_home_location.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_home_location.personal](/_personal/schema-org/Relation/has/has_home_location.personal.md) 
 
-### [has_home_location.secret](/_secret/schema-org/Relation/has/has_home_location.secret.md) 
+### [has_home_location.secret](/_secret/schema-org/Relation/has/has_home_location.secret.md)
+

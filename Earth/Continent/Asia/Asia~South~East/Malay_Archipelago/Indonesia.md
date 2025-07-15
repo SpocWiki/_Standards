@@ -1356,9 +1356,12 @@ Capital :: [[Djakarta]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indonesia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Indonesia](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.md) 
+### [Indonesia](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.md) 
+
+### [Indonesia.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.public.md) 
 
 ### [Indonesia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.internal.md) 
 
@@ -1368,4 +1371,5 @@ Capital :: [[Djakarta]]
 
 ### [Indonesia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.personal.md) 
 
-### [Indonesia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.secret.md) 
+### [Indonesia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.secret.md)
+

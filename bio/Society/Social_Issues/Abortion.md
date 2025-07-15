@@ -17,3 +17,22 @@ has_id_wikidata: Q8452
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Abortion)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Abortion](/_Standards/bio/Society/Social_Issues/Abortion.md) 
+
+### [Abortion.public](/_public/bio/Society/Social_Issues/Abortion.public.md) 
+
+### [Abortion.internal](/_internal/bio/Society/Social_Issues/Abortion.internal.md) 
+
+### [Abortion.protect](/_protect/bio/Society/Social_Issues/Abortion.protect.md) 
+
+### [Abortion.private](/_private/bio/Society/Social_Issues/Abortion.private.md) 
+
+### [Abortion.personal](/_personal/bio/Society/Social_Issues/Abortion.personal.md) 
+
+### [Abortion.secret](/_secret/bio/Society/Social_Issues/Abortion.secret.md)
+

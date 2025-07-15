@@ -46,9 +46,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ legislationJurisdiction ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_jurisdiction](/_public/schema-org/Relation/has/has_jurisdiction.md) 
+### [has_jurisdiction](/_Standards/schema-org/Relation/has/has_jurisdiction.md) 
+
+### [has_jurisdiction.public](/_public/schema-org/Relation/has/has_jurisdiction.public.md) 
 
 ### [has_jurisdiction.internal](/_internal/schema-org/Relation/has/has_jurisdiction.internal.md) 
 
@@ -58,4 +61,5 @@ Relation describes that:
 
 ### [has_jurisdiction.personal](/_personal/schema-org/Relation/has/has_jurisdiction.personal.md) 
 
-### [has_jurisdiction.secret](/_secret/schema-org/Relation/has/has_jurisdiction.secret.md) 
+### [has_jurisdiction.secret](/_secret/schema-org/Relation/has/has_jurisdiction.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_quest )
 ( #has_/range :: Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_quest](/_public/schema-org/Relation/has/has_quest.md) 
+### [has_quest](/_Standards/schema-org/Relation/has/has_quest.md) 
+
+### [has_quest.public](/_public/schema-org/Relation/has/has_quest.public.md) 
 
 ### [has_quest.internal](/_internal/schema-org/Relation/has/has_quest.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_quest.personal](/_personal/schema-org/Relation/has/has_quest.personal.md) 
 
-### [has_quest.secret](/_secret/schema-org/Relation/has/has_quest.secret.md) 
+### [has_quest.secret](/_secret/schema-org/Relation/has/has_quest.secret.md)
+

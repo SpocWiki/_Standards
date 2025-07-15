@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,9 +51,12 @@ A list of possible product availability options:
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [item_availability](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability.md) 
+### [item_availability](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/item_availability.md) 
+
+### [item_availability.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability.public.md) 
 
 ### [item_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability.internal.md) 
 
@@ -63,4 +66,5 @@ A list of possible product availability options:
 
 ### [item_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability.personal.md) 
 
-### [item_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability.secret.md) 
+### [item_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability.secret.md)
+

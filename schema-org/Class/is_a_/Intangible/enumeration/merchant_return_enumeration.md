@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Enumerates several kinds of product return policies.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [merchant_return_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.md) 
+### [merchant_return_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.md) 
+
+### [merchant_return_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.public.md) 
 
 ### [merchant_return_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Enumerates several kinds of product return policies.
 
 ### [merchant_return_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.personal.md) 
 
-### [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md) 
+### [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md)
+

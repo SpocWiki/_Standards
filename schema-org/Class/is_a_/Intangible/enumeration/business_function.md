@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,9 +53,12 @@ Commonly used values:
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [business_function](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.md) 
+### [business_function](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/business_function.md) 
+
+### [business_function.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/business_function.public.md) 
 
 ### [business_function.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/business_function.internal.md) 
 
@@ -65,4 +68,5 @@ Commonly used values:
 
 ### [business_function.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/business_function.personal.md) 
 
-### [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md) 
+### [business_function.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/business_function.secret.md)
+

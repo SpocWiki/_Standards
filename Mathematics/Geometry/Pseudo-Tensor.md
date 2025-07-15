@@ -50,7 +50,9 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Tensor](/_public/Mathematics/Geometry/Pseudo-Tensor.md) 
+### [Pseudo-Tensor](/_Standards/Mathematics/Geometry/Pseudo-Tensor.md) 
+
+### [Pseudo-Tensor.public](/_public/Mathematics/Geometry/Pseudo-Tensor.public.md) 
 
 ### [Pseudo-Tensor.internal](/_internal/Mathematics/Geometry/Pseudo-Tensor.internal.md) 
 
@@ -60,4 +62,5 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 
 ### [Pseudo-Tensor.personal](/_personal/Mathematics/Geometry/Pseudo-Tensor.personal.md) 
 
-### [Pseudo-Tensor.secret](/_secret/Mathematics/Geometry/Pseudo-Tensor.secret.md) 
+### [Pseudo-Tensor.secret](/_secret/Mathematics/Geometry/Pseudo-Tensor.secret.md)
+

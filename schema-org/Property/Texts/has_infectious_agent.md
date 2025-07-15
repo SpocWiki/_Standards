@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_infectious_agent )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_infectious_agent](/_public/schema-org/Property/Texts/has_infectious_agent.md) 
+### [has_infectious_agent](/_Standards/schema-org/Property/Texts/has_infectious_agent.md) 
+
+### [has_infectious_agent.public](/_public/schema-org/Property/Texts/has_infectious_agent.public.md) 
 
 ### [has_infectious_agent.internal](/_internal/schema-org/Property/Texts/has_infectious_agent.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_infectious_agent.personal](/_personal/schema-org/Property/Texts/has_infectious_agent.personal.md) 
 
-### [has_infectious_agent.secret](/_secret/schema-org/Property/Texts/has_infectious_agent.secret.md) 
+### [has_infectious_agent.secret](/_secret/schema-org/Property/Texts/has_infectious_agent.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_default_value )
 ( #has_/range :: Text, Thing )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_default_value](/_public/schema-org/Property/Texts/has_default_value.md) 
+### [has_default_value](/_Standards/schema-org/Property/Texts/has_default_value.md) 
+
+### [has_default_value.public](/_public/schema-org/Property/Texts/has_default_value.public.md) 
 
 ### [has_default_value.internal](/_internal/schema-org/Property/Texts/has_default_value.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_default_value.personal](/_personal/schema-org/Property/Texts/has_default_value.personal.md) 
 
-### [has_default_value.secret](/_secret/schema-org/Property/Texts/has_default_value.secret.md) 
+### [has_default_value.secret](/_secret/schema-org/Property/Texts/has_default_value.secret.md)
+

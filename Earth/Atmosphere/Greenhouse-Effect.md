@@ -104,12 +104,11 @@ options:
 ```
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Greenhouse-Effect](/_public/Earth/Atmosphere/Greenhouse-Effect.md) 
+### [Greenhouse-Effect](/_Standards/Earth/Atmosphere/Greenhouse-Effect.md) 
+
+### [Greenhouse-Effect.public](/_public/Earth/Atmosphere/Greenhouse-Effect.public.md) 
 
 ### [Greenhouse-Effect.internal](/_internal/Earth/Atmosphere/Greenhouse-Effect.internal.md) 
 
@@ -119,4 +118,5 @@ options:
 
 ### [Greenhouse-Effect.personal](/_personal/Earth/Atmosphere/Greenhouse-Effect.personal.md) 
 
-### [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere/Greenhouse-Effect.secret.md) 
+### [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere/Greenhouse-Effect.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -55,9 +55,12 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_Quantity-Template](/_public/schema-org/Property/has_value_for/_Quantity-Template.md) 
+### [_Quantity-Template](/_Standards/schema-org/Property/has_value_for/_Quantity-Template.md) 
+
+### [_Quantity-Template.public](/_public/schema-org/Property/has_value_for/_Quantity-Template.public.md) 
 
 ### [_Quantity-Template.internal](/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal.md) 
 
@@ -67,4 +70,5 @@ Predicate describes that:
 
 ### [_Quantity-Template.personal](/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal.md) 
 
-### [_Quantity-Template.secret](/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret.md) 
+### [_Quantity-Template.secret](/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret.md)
+

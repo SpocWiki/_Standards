@@ -434,3 +434,22 @@ Copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.o
 ![Prosopis pallida](Prosopis_pallida.jpg)
 Scientific Name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
 Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fabaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.md) 
+
+### [Fabaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.public.md) 
+
+### [Fabaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.internal.md) 
+
+### [Fabaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.protect.md) 
+
+### [Fabaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.private.md) 
+
+### [Fabaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.personal.md) 
+
+### [Fabaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Fabales/Fabaceae.secret.md)
+

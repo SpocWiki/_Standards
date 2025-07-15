@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 (name::has_time_of_application_deadline)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_application_deadline](/_public/schema-org/Property/has_Date_Time/has_time_of_application_deadline.md) 
+### [has_time_of_application_deadline](/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_deadline.md) 
+
+### [has_time_of_application_deadline.public](/_public/schema-org/Property/has_Date_Time/has_time_of_application_deadline.public.md) 
 
 ### [has_time_of_application_deadline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.internal.md) 
 
@@ -57,4 +60,5 @@ Formal Predicate:
 
 ### [has_time_of_application_deadline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.personal.md) 
 
-### [has_time_of_application_deadline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_deadline.secret.md) 
+### [has_time_of_application_deadline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_deadline.secret.md)
+

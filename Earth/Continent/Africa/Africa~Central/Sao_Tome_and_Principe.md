@@ -287,9 +287,12 @@ has_place_continent:: [[Africa]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sao_Tome_and_Principe](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.md) 
+### [Sao_Tome_and_Principe](/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.md) 
+
+### [Sao_Tome_and_Principe.public](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public.md) 
 
 ### [Sao_Tome_and_Principe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal.md) 
 
@@ -299,4 +302,5 @@ has_place_continent:: [[Africa]]
 
 ### [Sao_Tome_and_Principe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal.md) 
 
-### [Sao_Tome_and_Principe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret.md) 
+### [Sao_Tome_and_Principe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret.md)
+

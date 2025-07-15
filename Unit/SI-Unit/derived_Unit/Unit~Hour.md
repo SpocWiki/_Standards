@@ -1,4 +1,4 @@
-﻿
+
 # [[Unit~Hour]] 
 
 #is_a_/unit_/for_/time 
@@ -8,7 +8,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Hour](/_public/Unit/SI-Unit/derived_Unit/Unit~Hour.md) 
+### [Unit~Hour](/_Standards/Unit/SI-Unit/derived_Unit/Unit~Hour.md) 
+
+### [Unit~Hour.public](/_public/Unit/SI-Unit/derived_Unit/Unit~Hour.public.md) 
 
 ### [Unit~Hour.internal](/_internal/Unit/SI-Unit/derived_Unit/Unit~Hour.internal.md) 
 
@@ -18,4 +20,5 @@
 
 ### [Unit~Hour.personal](/_personal/Unit/SI-Unit/derived_Unit/Unit~Hour.personal.md) 
 
-### [Unit~Hour.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Hour.secret.md) 
+### [Unit~Hour.secret](/_secret/Unit/SI-Unit/derived_Unit/Unit~Hour.secret.md)
+

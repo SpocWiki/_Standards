@@ -503,9 +503,12 @@ Capital :: [[Lusaka]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zambia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Zambia](/_public/Earth/Continent/Africa/Africa~Central/Zambia.md) 
+### [Zambia](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia.md) 
+
+### [Zambia.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia.public.md) 
 
 ### [Zambia.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal.md) 
 
@@ -515,4 +518,5 @@ Capital :: [[Lusaka]]
 
 ### [Zambia.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal.md) 
 
-### [Zambia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret.md) 
+### [Zambia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret.md)
+

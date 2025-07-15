@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 9523
 has_id_wikidata: Q663
@@ -165,11 +165,11 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Aluminium)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Aluminium](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
+### [Aluminium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
+
+### [Aluminium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.public.md) 
 
 ### [Aluminium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Aluminium.internal.md) 
 
@@ -179,4 +179,5 @@ aliases:
 
 ### [Aluminium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Aluminium.personal.md) 
 
-### [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md) 
+### [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md)
+

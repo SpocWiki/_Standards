@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Any specific branch of medical science or practice. Medical specialities include
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration, Specialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_specialty](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.md) 
+### [medical_specialty](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.md) 
+
+### [medical_specialty.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.public.md) 
 
 ### [medical_specialty.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.internal.md) 
 
@@ -52,4 +55,5 @@ Any specific branch of medical science or practice. Medical specialities include
 
 ### [medical_specialty.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.personal.md) 
 
-### [medical_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.secret.md) 
+### [medical_specialty.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A component of the human body circulatory system comprised of an intricate netwo
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Vessel](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.md) 
+### [FileClass~Vessel](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.md) 
+
+### [FileClass~Vessel.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.public.md) 
 
 ### [FileClass~Vessel.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.internal.md) 
 
@@ -46,4 +47,5 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 ### [FileClass~Vessel.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.personal.md) 
 
-### [FileClass~Vessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.secret.md) 
+### [FileClass~Vessel.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel.secret.md)
+

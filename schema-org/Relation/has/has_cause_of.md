@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_cause_of )
 ( #has_/range :: MedicalEntity )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cause_of](/_public/schema-org/Relation/has/has_cause_of.md) 
+### [has_cause_of](/_Standards/schema-org/Relation/has/has_cause_of.md) 
+
+### [has_cause_of.public](/_public/schema-org/Relation/has/has_cause_of.public.md) 
 
 ### [has_cause_of.internal](/_internal/schema-org/Relation/has/has_cause_of.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_cause_of.personal](/_personal/schema-org/Relation/has/has_cause_of.personal.md) 
 
-### [has_cause_of.secret](/_secret/schema-org/Relation/has/has_cause_of.secret.md) 
+### [has_cause_of.secret](/_secret/schema-org/Relation/has/has_cause_of.secret.md)
+

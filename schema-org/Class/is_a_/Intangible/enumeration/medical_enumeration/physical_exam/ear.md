@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Ear function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [ear](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.md) 
+### [ear](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.md) 
+
+### [ear.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.public.md) 
 
 ### [ear.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.internal.md) 
 
@@ -56,4 +59,5 @@ Ear function assessment with clinical examination.
 
 ### [ear.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.personal.md) 
 
-### [ear.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.secret.md) 
+### [ear.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/ear.secret.md)
+

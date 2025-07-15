@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,10 +54,11 @@ The scope of the warranty promise.
 WarrantyScope:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WarrantyPromise](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.md) 
+### [FileClass~WarrantyPromise](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.md) 
+
+### [FileClass~WarrantyPromise.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.public.md) 
 
 ### [FileClass~WarrantyPromise.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.internal.md) 
 
@@ -67,4 +68,5 @@ WarrantyScope:: {"type":"Input","options":{}}
 
 ### [FileClass~WarrantyPromise.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.personal.md) 
 
-### [FileClass~WarrantyPromise.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret.md) 
+### [FileClass~WarrantyPromise.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret.md)
+

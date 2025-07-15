@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A guideline contraindication that designates a process as harmful and where qual
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_guideline_contraindication](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.md) 
+### [medical_guideline_contraindication](/_Standards/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.md) 
+
+### [medical_guideline_contraindication.public](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.public.md) 
 
 ### [medical_guideline_contraindication.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.internal.md) 
 
@@ -54,4 +57,5 @@ A guideline contraindication that designates a process as harmful and where qual
 
 ### [medical_guideline_contraindication.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.personal.md) 
 
-### [medical_guideline_contraindication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.secret.md) 
+### [medical_guideline_contraindication.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_contraindication.secret.md)
+

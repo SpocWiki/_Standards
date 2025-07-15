@@ -59,3 +59,19 @@ Commons_category: Area
 > [Wikipedia](https://en.wikipedia.org/wiki/Area)
 
 
+## Confidential Links & Embeds: 
+
+### [Area](/_Standards/Mathematics/Geometry/Area.md) 
+
+### [Area.public](/_public/Mathematics/Geometry/Area.public.md) 
+
+### [Area.internal](/_internal/Mathematics/Geometry/Area.internal.md) 
+
+### [Area.protect](/_protect/Mathematics/Geometry/Area.protect.md) 
+
+### [Area.private](/_private/Mathematics/Geometry/Area.private.md) 
+
+### [Area.personal](/_personal/Mathematics/Geometry/Area.personal.md) 
+
+### [Area.secret](/_secret/Mathematics/Geometry/Area.secret.md)
+

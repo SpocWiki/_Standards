@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7272
 Commons_category: Socialism
 instance_of:
@@ -55,4 +55,23 @@ subreddit: socialism
 > Although the emergence of the Soviet Union as the world's first nominally socialist state led to widespread association of socialism with the Soviet economic model, it has since shifted in favour of democratic socialism. Academics recognised the mixed economies of several Western European and Nordic countries as "democratic socialist". Following the revolutions of 1989, many of these countries moved away from socialism as a neoliberal consensus replaced the social democratic consensus in the advanced capitalist world. In parallel, many former socialist politicians and political parties embraced "Third Way" politics, remaining committed to equality and welfare while abandoning public ownership and class-based politics. Socialism experienced a resurgence in popularity in the 2010s.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Socialism)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Socialism](/_Standards/bio/Society/Ideology/Socialism.md) 
+
+### [Socialism.public](/_public/bio/Society/Ideology/Socialism.public.md) 
+
+### [Socialism.internal](/_internal/bio/Society/Ideology/Socialism.internal.md) 
+
+### [Socialism.protect](/_protect/bio/Society/Ideology/Socialism.protect.md) 
+
+### [Socialism.private](/_private/bio/Society/Ideology/Socialism.private.md) 
+
+### [Socialism.personal](/_personal/bio/Society/Ideology/Socialism.personal.md) 
+
+### [Socialism.secret](/_secret/bio/Society/Ideology/Socialism.secret.md)
 

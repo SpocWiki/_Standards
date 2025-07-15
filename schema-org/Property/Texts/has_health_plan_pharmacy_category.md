@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_health_plan_pharmacy_category )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_health_plan_pharmacy_category](/_public/schema-org/Property/Texts/has_health_plan_pharmacy_category.md) 
+### [has_health_plan_pharmacy_category](/_Standards/schema-org/Property/Texts/has_health_plan_pharmacy_category.md) 
+
+### [has_health_plan_pharmacy_category.public](/_public/schema-org/Property/Texts/has_health_plan_pharmacy_category.public.md) 
 
 ### [has_health_plan_pharmacy_category.internal](/_internal/schema-org/Property/Texts/has_health_plan_pharmacy_category.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_health_plan_pharmacy_category.personal](/_personal/schema-org/Property/Texts/has_health_plan_pharmacy_category.personal.md) 
 
-### [has_health_plan_pharmacy_category.secret](/_secret/schema-org/Property/Texts/has_health_plan_pharmacy_category.secret.md) 
+### [has_health_plan_pharmacy_category.secret](/_secret/schema-org/Property/Texts/has_health_plan_pharmacy_category.secret.md)
+

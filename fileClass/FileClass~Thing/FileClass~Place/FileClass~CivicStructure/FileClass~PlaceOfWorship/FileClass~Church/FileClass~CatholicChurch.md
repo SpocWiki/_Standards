@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A Catholic church.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CatholicChurch](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.md) 
+### [FileClass~CatholicChurch](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.md) 
+
+### [FileClass~CatholicChurch.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.public.md) 
 
 ### [FileClass~CatholicChurch.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.internal.md) 
 
@@ -46,4 +47,5 @@ A Catholic church.
 
 ### [FileClass~CatholicChurch.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.personal.md) 
 
-### [FileClass~CatholicChurch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.secret.md) 
+### [FileClass~CatholicChurch.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church/FileClass~CatholicChurch.secret.md)
+

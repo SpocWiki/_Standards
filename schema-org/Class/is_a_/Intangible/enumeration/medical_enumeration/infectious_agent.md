@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [infectious_agent](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
+### [infectious_agent](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
+
+### [infectious_agent.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.public.md) 
 
 ### [infectious_agent.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.internal.md) 
 
@@ -50,4 +53,5 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 
 ### [infectious_agent.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.personal.md) 
 
-### [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md) 
+### [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md)
+

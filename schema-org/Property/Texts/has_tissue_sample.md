@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_tissue_sample )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_tissue_sample](/_public/schema-org/Property/Texts/has_tissue_sample.md) 
+### [has_tissue_sample](/_Standards/schema-org/Property/Texts/has_tissue_sample.md) 
+
+### [has_tissue_sample.public](/_public/schema-org/Property/Texts/has_tissue_sample.public.md) 
 
 ### [has_tissue_sample.internal](/_internal/schema-org/Property/Texts/has_tissue_sample.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_tissue_sample.personal](/_personal/schema-org/Property/Texts/has_tissue_sample.personal.md) 
 
-### [has_tissue_sample.secret](/_secret/schema-org/Property/Texts/has_tissue_sample.secret.md) 
+### [has_tissue_sample.secret](/_secret/schema-org/Property/Texts/has_tissue_sample.secret.md)
+

@@ -74,3 +74,22 @@ Specimen Condition   Dead Specimen
 Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Alveolates](/_Standards/bio/bio~Domain/Eukaryotes/Alveolates.md) 
+
+### [Alveolates.public](/_public/bio/bio~Domain/Eukaryotes/Alveolates.public.md) 
+
+### [Alveolates.internal](/_internal/bio/bio~Domain/Eukaryotes/Alveolates.internal.md) 
+
+### [Alveolates.protect](/_protect/bio/bio~Domain/Eukaryotes/Alveolates.protect.md) 
+
+### [Alveolates.private](/_private/bio/bio~Domain/Eukaryotes/Alveolates.private.md) 
+
+### [Alveolates.personal](/_personal/bio/bio~Domain/Eukaryotes/Alveolates.personal.md) 
+
+### [Alveolates.secret](/_secret/bio/bio~Domain/Eukaryotes/Alveolates.secret.md)
+

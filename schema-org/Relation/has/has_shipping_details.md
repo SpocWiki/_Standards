@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_shipping_details )
 ( #has_/range :: OfferShippingDetails )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_shipping_details](/_public/schema-org/Relation/has/has_shipping_details.md) 
+### [has_shipping_details](/_Standards/schema-org/Relation/has/has_shipping_details.md) 
+
+### [has_shipping_details.public](/_public/schema-org/Relation/has/has_shipping_details.public.md) 
 
 ### [has_shipping_details.internal](/_internal/schema-org/Relation/has/has_shipping_details.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_shipping_details.personal](/_personal/schema-org/Relation/has/has_shipping_details.personal.md) 
 
-### [has_shipping_details.secret](/_secret/schema-org/Relation/has/has_shipping_details.secret.md) 
+### [has_shipping_details.secret](/_secret/schema-org/Relation/has/has_shipping_details.secret.md)
+

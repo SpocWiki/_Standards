@@ -104,9 +104,12 @@ markerFolder: ./Oceania/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oceania)
 
+
 ## Confidential Links & Embeds: 
 
-### [Oceania](/_public/Earth/Continent/Oceania.md) 
+### [Oceania](/_Standards/Earth/Continent/Oceania.md) 
+
+### [Oceania.public](/_public/Earth/Continent/Oceania.public.md) 
 
 ### [Oceania.internal](/_internal/Earth/Continent/Oceania.internal.md) 
 
@@ -116,4 +119,5 @@ markerFolder: ./Oceania/
 
 ### [Oceania.personal](/_personal/Earth/Continent/Oceania.personal.md) 
 
-### [Oceania.secret](/_secret/Earth/Continent/Oceania.secret.md) 
+### [Oceania.secret](/_secret/Earth/Continent/Oceania.secret.md)
+

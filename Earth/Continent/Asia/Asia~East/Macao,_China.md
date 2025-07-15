@@ -1,4 +1,4 @@
-﻿---
+---
 location: [22.1667,113.55]
 type: Country
 tags:
@@ -35,10 +35,11 @@ has_place_continent:: [[Asia]]
 [has_place_latitude::22.1667]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Macao,_China](/_public/Earth/Continent/Asia/Asia~East/Macao,_China.md) 
+### [Macao,_China](/_Standards/Earth/Continent/Asia/Asia~East/Macao,_China.md) 
+
+### [Macao,_China.public](/_public/Earth/Continent/Asia/Asia~East/Macao,_China.public.md) 
 
 ### [Macao,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal.md) 
 
@@ -48,4 +49,5 @@ has_place_continent:: [[Asia]]
 
 ### [Macao,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal.md) 
 
-### [Macao,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret.md) 
+### [Macao,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret.md)
+

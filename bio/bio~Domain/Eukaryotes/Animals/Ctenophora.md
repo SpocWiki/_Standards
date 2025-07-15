@@ -64,3 +64,22 @@ Scientific Name ::   Mnemiopsis
 Acknowledgements   Photograph from Gray Museum Slide Collection
 Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ctenophora](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.md) 
+
+### [Ctenophora.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.public.md) 
+
+### [Ctenophora.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.internal.md) 
+
+### [Ctenophora.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.protect.md) 
+
+### [Ctenophora.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.private.md) 
+
+### [Ctenophora.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.personal.md) 
+
+### [Ctenophora.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Ctenophora.secret.md)
+

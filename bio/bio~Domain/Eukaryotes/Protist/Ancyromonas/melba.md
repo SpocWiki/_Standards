@@ -90,3 +90,21 @@ European Journal of Protistology 32:423-448.
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 David J. Patterson and Alastair Simpson
   ---------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [melba](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.md) 
+
+### [melba.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.public.md) 
+
+### [melba.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.internal.md) 
+
+### [melba.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.protect.md) 
+
+### [melba.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.private.md) 
+
+### [melba.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.personal.md) 
+
+### [melba.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas/melba.secret.md)
+

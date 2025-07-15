@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An emergency service, such as a fire station or ER.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~EmergencyService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.md) 
+### [FileClass~EmergencyService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.md) 
+
+### [FileClass~EmergencyService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.public.md) 
 
 ### [FileClass~EmergencyService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.internal.md) 
 
@@ -46,4 +47,5 @@ An emergency service, such as a fire station or ER.
 
 ### [FileClass~EmergencyService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.personal.md) 
 
-### [FileClass~EmergencyService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.secret.md) 
+### [FileClass~EmergencyService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService.secret.md)
+

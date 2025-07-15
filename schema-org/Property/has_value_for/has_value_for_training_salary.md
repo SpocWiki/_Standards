@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_training_salary )
 ( #has_/range :: MonetaryAmountDistribution )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_training_salary](/_public/schema-org/Property/has_value_for/has_value_for_training_salary.md) 
+### [has_value_for_training_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_training_salary.md) 
+
+### [has_value_for_training_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_training_salary.public.md) 
 
 ### [has_value_for_training_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_training_salary.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_training_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_training_salary.personal.md) 
 
-### [has_value_for_training_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret.md) 
+### [has_value_for_training_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret.md)
+

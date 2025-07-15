@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The language of the content or performance or used in an action. Please use one 
 InLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Language')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WriteAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.md) 
+### [FileClass~WriteAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.md) 
+
+### [FileClass~WriteAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.public.md) 
 
 ### [FileClass~WriteAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.internal.md) 
 
@@ -57,4 +58,5 @@ InLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ### [FileClass~WriteAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.personal.md) 
 
-### [FileClass~WriteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.secret.md) 
+### [FileClass~WriteAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~WriteAction.secret.md)
+

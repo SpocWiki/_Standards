@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_healthcare_reporting_data )
 ( #has_/range :: CDCPMDRecord, Dataset )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_healthcare_reporting_data](/_public/schema-org/Relation/has/has_healthcare_reporting_data.md) 
+### [has_healthcare_reporting_data](/_Standards/schema-org/Relation/has/has_healthcare_reporting_data.md) 
+
+### [has_healthcare_reporting_data.public](/_public/schema-org/Relation/has/has_healthcare_reporting_data.public.md) 
 
 ### [has_healthcare_reporting_data.internal](/_internal/schema-org/Relation/has/has_healthcare_reporting_data.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_healthcare_reporting_data.personal](/_personal/schema-org/Relation/has/has_healthcare_reporting_data.personal.md) 
 
-### [has_healthcare_reporting_data.secret](/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret.md) 
+### [has_healthcare_reporting_data.secret](/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret.md)
+

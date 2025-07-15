@@ -135,9 +135,12 @@ entry_in_abbreviations_table: греч.
 #has_/name_/en_ :: Greek 
 #has_/name_/de_ :: Griechisch  
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-gr](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
+### [Lang-gr](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
+
+### [Lang-gr.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.public.md) 
 
 ### [Lang-gr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.internal.md) 
 
@@ -147,4 +150,5 @@ entry_in_abbreviations_table: греч.
 
 ### [Lang-gr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.personal.md) 
 
-### [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md) 
+### [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md)
+

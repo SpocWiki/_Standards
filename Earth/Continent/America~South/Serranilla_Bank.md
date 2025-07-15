@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.866 , -78.638 ] 
 type: geo-Region
 title: Serranilla_Bank
@@ -53,7 +53,9 @@ markerFolder: ./Serranilla_Bank/
 
 ## Confidential Links & Embeds: 
 
-### [Serranilla_Bank](/_public/Earth/Continent/America~South/Serranilla_Bank.md) 
+### [Serranilla_Bank](/_Standards/Earth/Continent/America~South/Serranilla_Bank.md) 
+
+### [Serranilla_Bank.public](/_public/Earth/Continent/America~South/Serranilla_Bank.public.md) 
 
 ### [Serranilla_Bank.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank.internal.md) 
 
@@ -63,4 +65,5 @@ markerFolder: ./Serranilla_Bank/
 
 ### [Serranilla_Bank.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank.personal.md) 
 
-### [Serranilla_Bank.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank.secret.md) 
+### [Serranilla_Bank.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank.secret.md)
+

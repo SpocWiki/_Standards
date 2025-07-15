@@ -63,3 +63,22 @@ Below is a detailed explanation:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Glycogen](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.md) 
+
+### [Glycogen.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public.md) 
+
+### [Glycogen.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.internal.md) 
+
+### [Glycogen.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.protect.md) 
+
+### [Glycogen.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.private.md) 
+
+### [Glycogen.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.personal.md) 
+
+### [Glycogen.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.secret.md)
+

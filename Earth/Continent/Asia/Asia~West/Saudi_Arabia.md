@@ -548,9 +548,12 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saudi%20Arabia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Saudi_Arabia](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.md) 
+### [Saudi_Arabia](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia.md) 
+
+### [Saudi_Arabia.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public.md) 
 
 ### [Saudi_Arabia.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal.md) 
 
@@ -560,4 +563,5 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 
 ### [Saudi_Arabia.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal.md) 
 
-### [Saudi_Arabia.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret.md) 
+### [Saudi_Arabia.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret.md)
+

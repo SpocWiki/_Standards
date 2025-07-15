@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_part_of_system )
 ( #has_/range :: AnatomicalSystem )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_part_of_system](/_public/schema-org/Relation/is/part_of/is_part_of_system.md) 
+### [is_part_of_system](/_Standards/schema-org/Relation/is/part_of/is_part_of_system.md) 
+
+### [is_part_of_system.public](/_public/schema-org/Relation/is/part_of/is_part_of_system.public.md) 
 
 ### [is_part_of_system.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_system.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_part_of_system.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_system.personal.md) 
 
-### [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md) 
+### [is_part_of_system.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_system.secret.md)
+

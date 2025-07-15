@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21936
 has_id_wikidata: Q938
@@ -128,9 +128,12 @@ InChI: InChI=1S/Sr
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strontium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Strontium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
+### [Strontium](/_Standards/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.md) 
+
+### [Strontium.public](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.public.md) 
 
 ### [Strontium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
 
@@ -140,4 +143,5 @@ InChI: InChI=1S/Sr
 
 ### [Strontium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
 
-### [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md) 
+### [Strontium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Strontium.secret.md)
+

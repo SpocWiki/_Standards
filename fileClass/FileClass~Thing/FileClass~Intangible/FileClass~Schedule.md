@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -182,10 +182,11 @@ Note that Event uses startDate/endDate instead of startTime/endTime, even when d
 StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Schedule](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.md) 
+### [FileClass~Schedule](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.md) 
+
+### [FileClass~Schedule.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.public.md) 
 
 ### [FileClass~Schedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.internal.md) 
 
@@ -195,4 +196,5 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 
 ### [FileClass~Schedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.personal.md) 
 
-### [FileClass~Schedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret.md) 
+### [FileClass~Schedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Schedule.secret.md)
+

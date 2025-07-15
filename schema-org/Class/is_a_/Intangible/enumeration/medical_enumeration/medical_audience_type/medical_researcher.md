@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Medical researchers.
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_researcher](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md) 
+### [medical_researcher](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md) 
+
+### [medical_researcher.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.public.md) 
 
 ### [medical_researcher.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.internal.md) 
 
@@ -56,4 +59,5 @@ Medical researchers.
 
 ### [medical_researcher.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.personal.md) 
 
-### [medical_researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.secret.md) 
+### [medical_researcher.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.secret.md)
+

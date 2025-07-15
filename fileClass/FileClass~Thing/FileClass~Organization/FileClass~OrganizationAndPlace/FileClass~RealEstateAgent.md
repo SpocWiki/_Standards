@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A real-estate agent.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~RealEstateAgent](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.md) 
+### [FileClass~RealEstateAgent](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.md) 
+
+### [FileClass~RealEstateAgent.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.public.md) 
 
 ### [FileClass~RealEstateAgent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.internal.md) 
 
@@ -46,4 +47,5 @@ A real-estate agent.
 
 ### [FileClass~RealEstateAgent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.personal.md) 
 
-### [FileClass~RealEstateAgent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.secret.md) 
+### [FileClass~RealEstateAgent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RealEstateAgent.secret.md)
+

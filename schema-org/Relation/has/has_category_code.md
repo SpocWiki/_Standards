@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: hasDefinedTerm ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_category_code](/_public/schema-org/Relation/has/has_category_code.md) 
+### [has_category_code](/_Standards/schema-org/Relation/has/has_category_code.md) 
+
+### [has_category_code.public](/_public/schema-org/Relation/has/has_category_code.public.md) 
 
 ### [has_category_code.internal](/_internal/schema-org/Relation/has/has_category_code.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_category_code.personal](/_personal/schema-org/Relation/has/has_category_code.personal.md) 
 
-### [has_category_code.secret](/_secret/schema-org/Relation/has/has_category_code.secret.md) 
+### [has_category_code.secret](/_secret/schema-org/Relation/has/has_category_code.secret.md)
+

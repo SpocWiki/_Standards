@@ -250,3 +250,21 @@ African Jour. Mar. Sci.., 20: 393-420.
   View                 Ventral
   Copyright ::            © [David Shale](mailto:david.shale@virgin.net)
   -------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Grimpoteuthis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.md) 
+
+### [Grimpoteuthis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.public.md) 
+
+### [Grimpoteuthis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.internal.md) 
+
+### [Grimpoteuthis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.protect.md) 
+
+### [Grimpoteuthis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.private.md) 
+
+### [Grimpoteuthis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.personal.md) 
+
+### [Grimpoteuthis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Cirrata/Opisthoteuthidae/Grimpoteuthis.secret.md)
+

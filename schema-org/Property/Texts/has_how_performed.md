@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_how_performed )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_how_performed](/_public/schema-org/Property/Texts/has_how_performed.md) 
+### [has_how_performed](/_Standards/schema-org/Property/Texts/has_how_performed.md) 
+
+### [has_how_performed.public](/_public/schema-org/Property/Texts/has_how_performed.public.md) 
 
 ### [has_how_performed.internal](/_internal/schema-org/Property/Texts/has_how_performed.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_how_performed.personal](/_personal/schema-org/Property/Texts/has_how_performed.personal.md) 
 
-### [has_how_performed.secret](/_secret/schema-org/Property/Texts/has_how_performed.secret.md) 
+### [has_how_performed.secret](/_secret/schema-org/Property/Texts/has_how_performed.secret.md)
+

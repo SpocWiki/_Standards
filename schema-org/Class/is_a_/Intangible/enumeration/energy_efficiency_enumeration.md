@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [energy_efficiency_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.md) 
+### [energy_efficiency_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.md) 
+
+### [energy_efficiency_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.public.md) 
 
 ### [energy_efficiency_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.internal.md) 
 
@@ -56,4 +59,5 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 
 ### [energy_efficiency_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.personal.md) 
 
-### [energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.secret.md) 
+### [energy_efficiency_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/energy_efficiency_enumeration.secret.md)
+

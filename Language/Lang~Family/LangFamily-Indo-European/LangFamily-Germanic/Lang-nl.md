@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
   - Dutch
@@ -25,7 +25,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-nl](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.md) 
+### [Lang-nl](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.md) 
+
+### [Lang-nl.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.public.md) 
 
 ### [Lang-nl.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.internal.md) 
 
@@ -35,4 +37,5 @@ tags:
 
 ### [Lang-nl.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.personal.md) 
 
-### [Lang-nl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.secret.md) 
+### [Lang-nl.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-nl.secret.md)
+

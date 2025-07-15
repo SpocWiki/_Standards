@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ The estimated cost of the supply or supplies consumed when performing instructio
 EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HowToSupply](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.md) 
+### [FileClass~HowToSupply](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.md) 
+
+### [FileClass~HowToSupply.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.public.md) 
 
 ### [FileClass~HowToSupply.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.internal.md) 
 
@@ -57,4 +58,5 @@ EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ### [FileClass~HowToSupply.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.personal.md) 
 
-### [FileClass~HowToSupply.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.secret.md) 
+### [FileClass~HowToSupply.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem/FileClass~HowToSupply.secret.md)
+

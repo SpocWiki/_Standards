@@ -70,3 +70,22 @@ MeSH_tree_code: J01.637.870.350
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Firearm)  
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Firearm](/_Standards/bio/Society/Military/Military_Engineering/Firearm.md) 
+
+### [Firearm.public](/_public/bio/Society/Military/Military_Engineering/Firearm.public.md) 
+
+### [Firearm.internal](/_internal/bio/Society/Military/Military_Engineering/Firearm.internal.md) 
+
+### [Firearm.protect](/_protect/bio/Society/Military/Military_Engineering/Firearm.protect.md) 
+
+### [Firearm.private](/_private/bio/Society/Military/Military_Engineering/Firearm.private.md) 
+
+### [Firearm.personal](/_personal/bio/Society/Military/Military_Engineering/Firearm.personal.md) 
+
+### [Firearm.secret](/_secret/bio/Society/Military/Military_Engineering/Firearm.secret.md)
+

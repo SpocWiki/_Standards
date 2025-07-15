@@ -100,3 +100,21 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
   Specimen Condition   Live Specimen
   Copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
   ---------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Pickfordiateuthis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.md) 
+
+### [Pickfordiateuthis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.public.md) 
+
+### [Pickfordiateuthis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.internal.md) 
+
+### [Pickfordiateuthis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.protect.md) 
+
+### [Pickfordiateuthis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.private.md) 
+
+### [Pickfordiateuthis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.personal.md) 
+
+### [Pickfordiateuthis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Myopsida/Loliginidae/Pickfordiateuthis.secret.md)
+

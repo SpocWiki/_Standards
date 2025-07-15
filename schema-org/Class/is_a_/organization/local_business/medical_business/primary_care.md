@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The medical care by a physician, or other health-care professional, who is the p
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [primary_care](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.md) 
+### [primary_care](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.md) 
+
+### [primary_care.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.public.md) 
 
 ### [primary_care.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md) 
 
@@ -56,4 +59,5 @@ The medical care by a physician, or other health-care professional, who is the p
 
 ### [primary_care.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.personal.md) 
 
-### [primary_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md) 
+### [primary_care.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md)
+

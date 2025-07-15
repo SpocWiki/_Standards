@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_of_dissolution)
 (range::Date)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_dissolution](/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.md) 
+### [has_time_of_dissolution](/_Standards/schema-org/Property/has_Date_Time/has_time_of_dissolution.md) 
+
+### [has_time_of_dissolution.public](/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.public.md) 
 
 ### [has_time_of_dissolution.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_dissolution.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_of_dissolution.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_dissolution.personal.md) 
 
-### [has_time_of_dissolution.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret.md) 
+### [has_time_of_dissolution.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret.md)
+

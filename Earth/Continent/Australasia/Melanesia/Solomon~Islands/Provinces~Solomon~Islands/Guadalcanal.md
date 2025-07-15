@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -9.6 , 160.1 ] 
 type: geo-Region
 title: Guadalcanal
@@ -42,7 +42,9 @@ markerFolder: ./Guadalcanal//
 
 ## Confidential Links & Embeds: 
 
-### [Guadalcanal](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.md) 
+### [Guadalcanal](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.md) 
+
+### [Guadalcanal.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.public.md) 
 
 ### [Guadalcanal.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.internal.md) 
 
@@ -52,4 +54,5 @@ markerFolder: ./Guadalcanal//
 
 ### [Guadalcanal.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.personal.md) 
 
-### [Guadalcanal.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.secret.md) 
+### [Guadalcanal.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.secret.md)
+

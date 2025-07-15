@@ -532,9 +532,12 @@ Capital :: [[Tunis]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tunisia) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Tunisia](/_public/Earth/Continent/Africa/Africa~North/Tunisia.md) 
+### [Tunisia](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia.md) 
+
+### [Tunisia.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia.public.md) 
 
 ### [Tunisia.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia.internal.md) 
 
@@ -544,4 +547,5 @@ Capital :: [[Tunis]]
 
 ### [Tunisia.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia.personal.md) 
 
-### [Tunisia.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret.md) 
+### [Tunisia.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret.md)
+

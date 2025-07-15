@@ -18,6 +18,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Writer) 
 
 
+## Confidential Links & Embeds: 
 
+### [Writer](/_Standards/bio/People/Writer.md) 
 
+### [Writer.public](/_public/bio/People/Writer.public.md) 
+
+### [Writer.internal](/_internal/bio/People/Writer.internal.md) 
+
+### [Writer.protect](/_protect/bio/People/Writer.protect.md) 
+
+### [Writer.private](/_private/bio/People/Writer.private.md) 
+
+### [Writer.personal](/_personal/bio/People/Writer.personal.md) 
+
+### [Writer.secret](/_secret/bio/People/Writer.secret.md)
 

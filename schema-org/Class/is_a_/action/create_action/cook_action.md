@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of producing/preparing food.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, foodEstablishment, foodEvent, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipe, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cook_action](/_public/schema-org/Class/is_a_/action/create_action/cook_action.md) 
+### [cook_action](/_Standards/schema-org/Class/is_a_/action/create_action/cook_action.md) 
+
+### [cook_action.public](/_public/schema-org/Class/is_a_/action/create_action/cook_action.public.md) 
 
 ### [cook_action.internal](/_internal/schema-org/Class/is_a_/action/create_action/cook_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of producing/preparing food.
 
 ### [cook_action.personal](/_personal/schema-org/Class/is_a_/action/create_action/cook_action.personal.md) 
 
-### [cook_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/cook_action.secret.md) 
+### [cook_action.secret](/_secret/schema-org/Class/is_a_/action/create_action/cook_action.secret.md)
+

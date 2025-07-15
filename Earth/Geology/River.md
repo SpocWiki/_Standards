@@ -103,3 +103,20 @@ Commons_category: Rivers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/River)
 
+
+## Confidential Links & Embeds: 
+
+### [River](/_Standards/Earth/Geology/River.md) 
+
+### [River.public](/_public/Earth/Geology/River.public.md) 
+
+### [River.internal](/_internal/Earth/Geology/River.internal.md) 
+
+### [River.protect](/_protect/Earth/Geology/River.protect.md) 
+
+### [River.private](/_private/Earth/Geology/River.private.md) 
+
+### [River.personal](/_personal/Earth/Geology/River.personal.md) 
+
+### [River.secret](/_secret/Earth/Geology/River.secret.md)
+

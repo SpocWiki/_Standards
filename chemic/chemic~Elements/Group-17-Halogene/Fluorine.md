@@ -117,9 +117,12 @@ Commons_category: Fluorine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluorine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Fluorine](/_public/chemic/chemic~Elements/Group-17-Halogene/Fluorine.md) 
+### [Fluorine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Fluorine.md) 
+
+### [Fluorine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Fluorine.public.md) 
 
 ### [Fluorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.internal.md) 
 
@@ -129,4 +132,5 @@ Commons_category: Fluorine
 
 ### [Fluorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.personal.md) 
 
-### [Fluorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Fluorine.secret.md) 
+### [Fluorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Fluorine.secret.md)
+

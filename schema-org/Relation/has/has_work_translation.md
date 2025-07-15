@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: translationOfWork ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_work_translation](/_public/schema-org/Relation/has/has_work_translation.md) 
+### [has_work_translation](/_Standards/schema-org/Relation/has/has_work_translation.md) 
+
+### [has_work_translation.public](/_public/schema-org/Relation/has/has_work_translation.public.md) 
 
 ### [has_work_translation.internal](/_internal/schema-org/Relation/has/has_work_translation.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_work_translation.personal](/_personal/schema-org/Relation/has/has_work_translation.personal.md) 
 
-### [has_work_translation.secret](/_secret/schema-org/Relation/has/has_work_translation.secret.md) 
+### [has_work_translation.secret](/_secret/schema-org/Relation/has/has_work_translation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_video_quality )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_video_quality](/_public/schema-org/Property/Texts/has_video_quality.md) 
+### [has_video_quality](/_Standards/schema-org/Property/Texts/has_video_quality.md) 
+
+### [has_video_quality.public](/_public/schema-org/Property/Texts/has_video_quality.public.md) 
 
 ### [has_video_quality.internal](/_internal/schema-org/Property/Texts/has_video_quality.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_video_quality.personal](/_personal/schema-org/Property/Texts/has_video_quality.personal.md) 
 
-### [has_video_quality.secret](/_secret/schema-org/Property/Texts/has_video_quality.secret.md) 
+### [has_video_quality.secret](/_secret/schema-org/Property/Texts/has_video_quality.secret.md)
+

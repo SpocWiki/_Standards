@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_spoken_by_character )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_spoken_by_character](/_public/schema-org/Relation/has/has_spoken_by_character.md) 
+### [has_spoken_by_character](/_Standards/schema-org/Relation/has/has_spoken_by_character.md) 
+
+### [has_spoken_by_character.public](/_public/schema-org/Relation/has/has_spoken_by_character.public.md) 
 
 ### [has_spoken_by_character.internal](/_internal/schema-org/Relation/has/has_spoken_by_character.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_spoken_by_character.personal](/_personal/schema-org/Relation/has/has_spoken_by_character.personal.md) 
 
-### [has_spoken_by_character.secret](/_secret/schema-org/Relation/has/has_spoken_by_character.secret.md) 
+### [has_spoken_by_character.secret](/_secret/schema-org/Relation/has/has_spoken_by_character.secret.md)
+

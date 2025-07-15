@@ -16,5 +16,19 @@ has_id_wikidata: Q7779
 > [Wikipedia](https://en.wikipedia.org/wiki/Commonwealth%20of%20Independent%20States)
 
 
+## Confidential Links & Embeds: 
 
+### [CIS(Commonwealth_of_Independent_States)](/_Standards/International/CIS(Commonwealth_of_Independent_States).md) 
+
+### [CIS(Commonwealth_of_Independent_States).public](/_public/International/CIS(Commonwealth_of_Independent_States).public.md) 
+
+### [CIS(Commonwealth_of_Independent_States).internal](/_internal/International/CIS(Commonwealth_of_Independent_States).internal.md) 
+
+### [CIS(Commonwealth_of_Independent_States).protect](/_protect/International/CIS(Commonwealth_of_Independent_States).protect.md) 
+
+### [CIS(Commonwealth_of_Independent_States).private](/_private/International/CIS(Commonwealth_of_Independent_States).private.md) 
+
+### [CIS(Commonwealth_of_Independent_States).personal](/_personal/International/CIS(Commonwealth_of_Independent_States).personal.md) 
+
+### [CIS(Commonwealth_of_Independent_States).secret](/_secret/International/CIS(Commonwealth_of_Independent_States).secret.md)
 

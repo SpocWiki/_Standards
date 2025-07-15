@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -93,7 +93,9 @@ Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~GameAndSoftwareApplication](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.md) 
+### [FileClass~GameAndSoftwareApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.md) 
+
+### [FileClass~GameAndSoftwareApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.public.md) 
 
 ### [FileClass~GameAndSoftwareApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.internal.md) 
 
@@ -103,4 +105,5 @@ Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')
 
 ### [FileClass~GameAndSoftwareApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.personal.md) 
 
-### [FileClass~GameAndSoftwareApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.secret.md) 
+### [FileClass~GameAndSoftwareApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication.secret.md)
+

@@ -67,6 +67,19 @@ Iconclass_notation: 49E21
 > [Wikipedia](https://en.wikipedia.org/wiki/Physics)
 
 
+## Confidential Links & Embeds: 
 
+### [Physics](/_Standards/Science/Physics.md) 
 
+### [Physics.public](/_public/Science/Physics.public.md) 
+
+### [Physics.internal](/_internal/Science/Physics.internal.md) 
+
+### [Physics.protect](/_protect/Science/Physics.protect.md) 
+
+### [Physics.private](/_private/Science/Physics.private.md) 
+
+### [Physics.personal](/_personal/Science/Physics.personal.md) 
+
+### [Physics.secret](/_secret/Science/Physics.secret.md)
 

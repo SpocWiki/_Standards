@@ -589,9 +589,12 @@ Capital :: [[Bangkok]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thailand)
 
+
 ## Confidential Links & Embeds: 
 
-### [Thailand](/_public/Earth/Continent/Asia/Asia~South~East/Thailand.md) 
+### [Thailand](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand.md) 
+
+### [Thailand.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public.md) 
 
 ### [Thailand.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal.md) 
 
@@ -601,4 +604,5 @@ Capital :: [[Bangkok]]
 
 ### [Thailand.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal.md) 
 
-### [Thailand.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret.md) 
+### [Thailand.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret.md)
+

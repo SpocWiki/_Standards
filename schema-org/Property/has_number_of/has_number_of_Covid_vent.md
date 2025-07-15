@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_vent )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_Covid_vent](/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.md) 
+### [has_number_of_Covid_vent](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_vent.md) 
+
+### [has_number_of_Covid_vent.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.public.md) 
 
 ### [has_number_of_Covid_vent.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_number_of_Covid_vent.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent.personal.md) 
 
-### [has_number_of_Covid_vent.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret.md) 
+### [has_number_of_Covid_vent.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: has_action_accessibility_requirement )
 ( #has_/range :: ActionAccessSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_action_accessibility_requirement](/_public/schema-org/Relation/has/has_action_accessibility_requirement.md) 
+### [has_action_accessibility_requirement](/_Standards/schema-org/Relation/has/has_action_accessibility_requirement.md) 
+
+### [has_action_accessibility_requirement.public](/_public/schema-org/Relation/has/has_action_accessibility_requirement.public.md) 
 
 ### [has_action_accessibility_requirement.internal](/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_action_accessibility_requirement.personal](/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal.md) 
 
-### [has_action_accessibility_requirement.secret](/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret.md) 
+### [has_action_accessibility_requirement.secret](/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret.md)
+

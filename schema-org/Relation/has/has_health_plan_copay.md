@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_health_plan_copay )
 ( #has_/range :: PriceSpecification )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_health_plan_copay](/_public/schema-org/Relation/has/has_health_plan_copay.md) 
+### [has_health_plan_copay](/_Standards/schema-org/Relation/has/has_health_plan_copay.md) 
+
+### [has_health_plan_copay.public](/_public/schema-org/Relation/has/has_health_plan_copay.public.md) 
 
 ### [has_health_plan_copay.internal](/_internal/schema-org/Relation/has/has_health_plan_copay.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_health_plan_copay.personal](/_personal/schema-org/Relation/has/has_health_plan_copay.personal.md) 
 
-### [has_health_plan_copay.secret](/_secret/schema-org/Relation/has/has_health_plan_copay.secret.md) 
+### [has_health_plan_copay.secret](/_secret/schema-org/Relation/has/has_health_plan_copay.secret.md)
+

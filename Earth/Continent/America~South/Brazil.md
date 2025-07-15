@@ -965,9 +965,12 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brazil)
 
+
 ## Confidential Links & Embeds: 
 
-### [Brazil](/_public/Earth/Continent/America~South/Brazil.md) 
+### [Brazil](/_Standards/Earth/Continent/America~South/Brazil.md) 
+
+### [Brazil.public](/_public/Earth/Continent/America~South/Brazil.public.md) 
 
 ### [Brazil.internal](/_internal/Earth/Continent/America~South/Brazil.internal.md) 
 
@@ -977,5 +980,5 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 ### [Brazil.personal](/_personal/Earth/Continent/America~South/Brazil.personal.md) 
 
-### [Brazil.secret](/_secret/Earth/Continent/America~South/Brazil.secret.md) 
+### [Brazil.secret](/_secret/Earth/Continent/America~South/Brazil.secret.md)
 

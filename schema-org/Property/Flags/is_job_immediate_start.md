@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_job_immediate_start )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_job_immediate_start](/_public/schema-org/Property/Flags/is_job_immediate_start.md) 
+### [is_job_immediate_start](/_Standards/schema-org/Property/Flags/is_job_immediate_start.md) 
+
+### [is_job_immediate_start.public](/_public/schema-org/Property/Flags/is_job_immediate_start.public.md) 
 
 ### [is_job_immediate_start.internal](/_internal/schema-org/Property/Flags/is_job_immediate_start.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_job_immediate_start.personal](/_personal/schema-org/Property/Flags/is_job_immediate_start.personal.md) 
 
-### [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md) 
+### [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md)
+

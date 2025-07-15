@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7 , 156.9 ] 
 type: geo-Region
 title: Choiseul
@@ -41,7 +41,9 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 
-### [Choiseul](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.md) 
+### [Choiseul](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.md) 
+
+### [Choiseul.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.public.md) 
 
 ### [Choiseul.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Choiseul/
 
 ### [Choiseul.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.personal.md) 
 
-### [Choiseul.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.secret.md) 
+### [Choiseul.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Choiseul.secret.md)
+

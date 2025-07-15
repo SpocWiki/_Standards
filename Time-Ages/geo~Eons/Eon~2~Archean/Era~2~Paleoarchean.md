@@ -59,10 +59,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Era~2~Paleoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.md) 
+### [Era~2~Paleoarchean](/_Standards/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.md) 
+
+### [Era~2~Paleoarchean.public](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.public.md) 
 
 ### [Era~2~Paleoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.internal.md) 
 
@@ -72,4 +73,5 @@ noteOnly: true
 
 ### [Era~2~Paleoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.personal.md) 
 
-### [Era~2~Paleoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret.md) 
+### [Era~2~Paleoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret.md)
+

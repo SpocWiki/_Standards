@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ Description of fees, commissions, and other terms applied either to a class of f
 FeesAndCommissionsSpecification:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~FinancialService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.md) 
+### [FileClass~FinancialService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.md) 
+
+### [FileClass~FinancialService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.public.md) 
 
 ### [FileClass~FinancialService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.internal.md) 
 
@@ -56,4 +57,5 @@ FeesAndCommissionsSpecification:: {"type":"Input","options":{}}
 
 ### [FileClass~FinancialService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.personal.md) 
 
-### [FileClass~FinancialService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.secret.md) 
+### [FileClass~FinancialService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService.secret.md)
+

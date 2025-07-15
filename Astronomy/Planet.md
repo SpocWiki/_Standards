@@ -85,3 +85,20 @@ MeSH_tree_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planet)
 
+
+## Confidential Links & Embeds: 
+
+### [Planet](/_Standards/Astronomy/Planet.md) 
+
+### [Planet.public](/_public/Astronomy/Planet.public.md) 
+
+### [Planet.internal](/_internal/Astronomy/Planet.internal.md) 
+
+### [Planet.protect](/_protect/Astronomy/Planet.protect.md) 
+
+### [Planet.private](/_private/Astronomy/Planet.private.md) 
+
+### [Planet.personal](/_personal/Astronomy/Planet.personal.md) 
+
+### [Planet.secret](/_secret/Astronomy/Planet.secret.md)
+

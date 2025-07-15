@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet focused on reduced calorie intake.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [low_calorie_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.md) 
+### [low_calorie_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.md) 
+
+### [low_calorie_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.public.md) 
 
 ### [low_calorie_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet focused on reduced calorie intake.
 
 ### [low_calorie_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.personal.md) 
 
-### [low_calorie_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.secret.md) 
+### [low_calorie_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_calorie_diet.secret.md)
+

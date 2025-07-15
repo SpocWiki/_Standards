@@ -239,3 +239,22 @@ BHCL_UUID: 5315dcd0-098d-49ba-94aa-c4afd74194c5
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Linnaeus)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Linnaeus,Carl](/_Standards/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.md) 
+
+### [Linnaeus,Carl.public](/_public/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.public.md) 
+
+### [Linnaeus,Carl.internal](/_internal/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.internal.md) 
+
+### [Linnaeus,Carl.protect](/_protect/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.protect.md) 
+
+### [Linnaeus,Carl.private](/_private/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.private.md) 
+
+### [Linnaeus,Carl.personal](/_personal/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.personal.md) 
+
+### [Linnaeus,Carl.secret](/_secret/bio/People/Scientist/Early_Modern_Scientists/Linnaeus,Carl.secret.md)
+

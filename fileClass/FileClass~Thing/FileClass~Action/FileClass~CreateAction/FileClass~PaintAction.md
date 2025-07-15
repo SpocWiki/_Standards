@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of producing a painting, typically with paint and canvas as instruments.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PaintAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.md) 
+### [FileClass~PaintAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.md) 
+
+### [FileClass~PaintAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.public.md) 
 
 ### [FileClass~PaintAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of producing a painting, typically with paint and canvas as instruments.
 
 ### [FileClass~PaintAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.personal.md) 
 
-### [FileClass~PaintAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.secret.md) 
+### [FileClass~PaintAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~CreateAction/FileClass~PaintAction.secret.md)
+

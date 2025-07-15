@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_id_product_group )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_product_group](/_public/schema-org/Property/has_name/has_id_product_group.md) 
+### [has_id_product_group](/_Standards/schema-org/Property/has_name/has_id_product_group.md) 
+
+### [has_id_product_group.public](/_public/schema-org/Property/has_name/has_id_product_group.public.md) 
 
 ### [has_id_product_group.internal](/_internal/schema-org/Property/has_name/has_id_product_group.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_id_product_group.personal](/_personal/schema-org/Property/has_name/has_id_product_group.personal.md) 
 
-### [has_id_product_group.secret](/_secret/schema-org/Property/has_name/has_id_product_group.secret.md) 
+### [has_id_product_group.secret](/_secret/schema-org/Property/has_name/has_id_product_group.secret.md)
+

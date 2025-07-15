@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_cutoff_time )
 ( #has_/range :: Time )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cutoff_time](/_public/schema-org/Relation/has/has_cutoff_time.md) 
+### [has_cutoff_time](/_Standards/schema-org/Relation/has/has_cutoff_time.md) 
+
+### [has_cutoff_time.public](/_public/schema-org/Relation/has/has_cutoff_time.public.md) 
 
 ### [has_cutoff_time.internal](/_internal/schema-org/Relation/has/has_cutoff_time.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_cutoff_time.personal](/_personal/schema-org/Relation/has/has_cutoff_time.personal.md) 
 
-### [has_cutoff_time.secret](/_secret/schema-org/Relation/has/has_cutoff_time.secret.md) 
+### [has_cutoff_time.secret](/_secret/schema-org/Relation/has/has_cutoff_time.secret.md)
+

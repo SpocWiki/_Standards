@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_role_biological )
 ( #has_/range :: DefinedTerm )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_role_biological](/_public/schema-org/Relation/has/has_role_biological.md) 
+### [has_role_biological](/_Standards/schema-org/Relation/has/has_role_biological.md) 
+
+### [has_role_biological.public](/_public/schema-org/Relation/has/has_role_biological.public.md) 
 
 ### [has_role_biological.internal](/_internal/schema-org/Relation/has/has_role_biological.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_role_biological.personal](/_personal/schema-org/Relation/has/has_role_biological.personal.md) 
 
-### [has_role_biological.secret](/_secret/schema-org/Relation/has/has_role_biological.secret.md) 
+### [has_role_biological.secret](/_secret/schema-org/Relation/has/has_role_biological.secret.md)
+

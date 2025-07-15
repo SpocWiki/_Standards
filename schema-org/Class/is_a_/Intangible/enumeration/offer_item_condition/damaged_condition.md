@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Indicates that the item is damaged.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [damaged_condition](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.md) 
+### [damaged_condition](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.md) 
+
+### [damaged_condition.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.public.md) 
 
 ### [damaged_condition.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.internal.md) 
 
@@ -56,4 +59,5 @@ Indicates that the item is damaged.
 
 ### [damaged_condition.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.personal.md) 
 
-### [damaged_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.secret.md) 
+### [damaged_condition.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/offer_item_condition/damaged_condition.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::Quechuan]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Quechuan](/_public/Language/Lang~Family/LangFamily-Quechuan.md) 
+### [LangFamily-Quechuan](/_Standards/Language/Lang~Family/LangFamily-Quechuan.md) 
+
+### [LangFamily-Quechuan.public](/_public/Language/Lang~Family/LangFamily-Quechuan.public.md) 
 
 ### [LangFamily-Quechuan.internal](/_internal/Language/Lang~Family/LangFamily-Quechuan.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-Quechuan.personal](/_personal/Language/Lang~Family/LangFamily-Quechuan.personal.md) 
 
-### [LangFamily-Quechuan.secret](/_secret/Language/Lang~Family/LangFamily-Quechuan.secret.md) 
+### [LangFamily-Quechuan.secret](/_secret/Language/Lang~Family/LangFamily-Quechuan.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_procedure )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_procedure](/_public/schema-org/Property/Texts/has_procedure.md) 
+### [has_procedure](/_Standards/schema-org/Property/Texts/has_procedure.md) 
+
+### [has_procedure.public](/_public/schema-org/Property/Texts/has_procedure.public.md) 
 
 ### [has_procedure.internal](/_internal/schema-org/Property/Texts/has_procedure.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_procedure.personal](/_personal/schema-org/Property/Texts/has_procedure.personal.md) 
 
-### [has_procedure.secret](/_secret/schema-org/Property/Texts/has_procedure.secret.md) 
+### [has_procedure.secret](/_secret/schema-org/Property/Texts/has_procedure.secret.md)
+

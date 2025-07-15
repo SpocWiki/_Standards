@@ -166,3 +166,20 @@ these form a cone with a Black Tip and White in the Center of the Base.
 type: folder_brief_live
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Color](/_Standards/bio/Psychology/Color.md) 
+
+### [Color.public](/_public/bio/Psychology/Color.public.md) 
+
+### [Color.internal](/_internal/bio/Psychology/Color.internal.md) 
+
+### [Color.protect](/_protect/bio/Psychology/Color.protect.md) 
+
+### [Color.private](/_private/bio/Psychology/Color.private.md) 
+
+### [Color.personal](/_personal/bio/Psychology/Color.personal.md) 
+
+### [Color.secret](/_secret/bio/Psychology/Color.secret.md)
+

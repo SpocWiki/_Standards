@@ -65,6 +65,19 @@ Krugosvet_article:
 > [Wikipedia](https://en.wikipedia.org/wiki/Geometry)
 
 
+## Confidential Links & Embeds: 
 
+### [Geometry](/_Standards/Mathematics/Geometry.md) 
 
+### [Geometry.public](/_public/Mathematics/Geometry.public.md) 
+
+### [Geometry.internal](/_internal/Mathematics/Geometry.internal.md) 
+
+### [Geometry.protect](/_protect/Mathematics/Geometry.protect.md) 
+
+### [Geometry.private](/_private/Mathematics/Geometry.private.md) 
+
+### [Geometry.personal](/_personal/Mathematics/Geometry.personal.md) 
+
+### [Geometry.secret](/_secret/Mathematics/Geometry.secret.md)
 

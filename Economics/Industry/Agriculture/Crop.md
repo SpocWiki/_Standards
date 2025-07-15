@@ -43,3 +43,22 @@ OpenStreetMap_tag_or_key: "Key:crop"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Crop](/_Standards/Economics/Industry/Agriculture/Crop.md) 
+
+### [Crop.public](/_public/Economics/Industry/Agriculture/Crop.public.md) 
+
+### [Crop.internal](/_internal/Economics/Industry/Agriculture/Crop.internal.md) 
+
+### [Crop.protect](/_protect/Economics/Industry/Agriculture/Crop.protect.md) 
+
+### [Crop.private](/_private/Economics/Industry/Agriculture/Crop.private.md) 
+
+### [Crop.personal](/_personal/Economics/Industry/Agriculture/Crop.personal.md) 
+
+### [Crop.secret](/_secret/Economics/Industry/Agriculture/Crop.secret.md)
+

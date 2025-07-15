@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -54,9 +54,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ {{properties}} ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [_a_Type-Template](/_public/schema-org/Class/_a_Type-Template.md) 
+### [_a_Type-Template](/_Standards/schema-org/Class/_a_Type-Template.md) 
+
+### [_a_Type-Template.public](/_public/schema-org/Class/_a_Type-Template.public.md) 
 
 ### [_a_Type-Template.internal](/_internal/schema-org/Class/_a_Type-Template.internal.md) 
 
@@ -66,4 +69,5 @@ Tag Instances like this:
 
 ### [_a_Type-Template.personal](/_personal/schema-org/Class/_a_Type-Template.personal.md) 
 
-### [_a_Type-Template.secret](/_secret/schema-org/Class/_a_Type-Template.secret.md) 
+### [_a_Type-Template.secret](/_secret/schema-org/Class/_a_Type-Template.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_service_phone )
 ( #has_/range :: ContactPoint )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_service_phone](/_public/schema-org/Relation/has/has_service_phone.md) 
+### [has_service_phone](/_Standards/schema-org/Relation/has/has_service_phone.md) 
+
+### [has_service_phone.public](/_public/schema-org/Relation/has/has_service_phone.public.md) 
 
 ### [has_service_phone.internal](/_internal/schema-org/Relation/has/has_service_phone.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_service_phone.personal](/_personal/schema-org/Relation/has/has_service_phone.personal.md) 
 
-### [has_service_phone.secret](/_secret/schema-org/Relation/has/has_service_phone.secret.md) 
+### [has_service_phone.secret](/_secret/schema-org/Relation/has/has_service_phone.secret.md)
+

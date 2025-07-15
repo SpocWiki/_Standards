@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 7.57 , 134.63 ] 
 type: geo-Region
 title: Ngiwal
@@ -41,7 +41,9 @@ markerFolder: ./Ngiwal/
 
 ## Confidential Links & Embeds: 
 
-### [Ngiwal](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.md) 
+### [Ngiwal](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.md) 
+
+### [Ngiwal.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.public.md) 
 
 ### [Ngiwal.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ngiwal/
 
 ### [Ngiwal.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.personal.md) 
 
-### [Ngiwal.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.secret.md) 
+### [Ngiwal.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngiwal.secret.md)
+

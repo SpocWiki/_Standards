@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1258,7 +1258,9 @@ NumberOfItems:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~CreativeWorkAndItemListAndListItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.md) 
+### [FileClass~CreativeWorkAndItemListAndListItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.md) 
+
+### [FileClass~CreativeWorkAndItemListAndListItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.public.md) 
 
 ### [FileClass~CreativeWorkAndItemListAndListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.internal.md) 
 
@@ -1268,4 +1270,5 @@ NumberOfItems:: {"type":"Number","options":{}}
 
 ### [FileClass~CreativeWorkAndItemListAndListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.personal.md) 
 
-### [FileClass~CreativeWorkAndItemListAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.secret.md) 
+### [FileClass~CreativeWorkAndItemListAndListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem.secret.md)
+

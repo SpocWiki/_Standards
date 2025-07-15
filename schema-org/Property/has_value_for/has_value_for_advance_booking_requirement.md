@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_advance_booking_requirement )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_advance_booking_requirement](/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.md) 
+### [has_value_for_advance_booking_requirement](/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.md) 
+
+### [has_value_for_advance_booking_requirement.public](/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.public.md) 
 
 ### [has_value_for_advance_booking_requirement.internal](/_internal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_advance_booking_requirement.personal](/_personal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.personal.md) 
 
-### [has_value_for_advance_booking_requirement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret.md) 
+### [has_value_for_advance_booking_requirement.secret](/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret.md)
+

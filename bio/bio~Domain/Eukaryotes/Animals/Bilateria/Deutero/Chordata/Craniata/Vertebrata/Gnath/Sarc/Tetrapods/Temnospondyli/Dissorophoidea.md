@@ -200,3 +200,22 @@ Location ::           North-central New Mexico
 Specimen Condition   Fossil \-- Period: Early Permian (Cutler Fm)
 Identified By        Berman et al., 1985
 Copyright ::            © [Adam Huttenlocker](http://www.geocities.com/paleo_biology/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dissorophoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.md) 
+
+### [Dissorophoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.public.md) 
+
+### [Dissorophoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.internal.md) 
+
+### [Dissorophoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.protect.md) 
+
+### [Dissorophoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.private.md) 
+
+### [Dissorophoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.personal.md) 
+
+### [Dissorophoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Temnospondyli/Dissorophoidea.secret.md)
+

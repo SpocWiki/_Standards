@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -86,10 +86,11 @@ The significance associated with the superficial anatomy; as an example, how cha
 Significance:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SuperficialAnatomy](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.md) 
+### [FileClass~SuperficialAnatomy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.md) 
+
+### [FileClass~SuperficialAnatomy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.public.md) 
 
 ### [FileClass~SuperficialAnatomy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.internal.md) 
 
@@ -99,4 +100,5 @@ Significance:: {"type":"Input","options":{}}
 
 ### [FileClass~SuperficialAnatomy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.personal.md) 
 
-### [FileClass~SuperficialAnatomy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.secret.md) 
+### [FileClass~SuperficialAnatomy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~SuperficialAnatomy.secret.md)
+

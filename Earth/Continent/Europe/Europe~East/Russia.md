@@ -1165,9 +1165,12 @@ Capital :: [Moskwa](Moskwa)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Russia](/_public/Earth/Continent/Europe/Europe~East/Russia.md) 
+### [Russia](/_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
+
+### [Russia.public](/_public/Earth/Continent/Europe/Europe~East/Russia.public.md) 
 
 ### [Russia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia.internal.md) 
 
@@ -1177,4 +1180,5 @@ Capital :: [Moskwa](Moskwa)
 
 ### [Russia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia.personal.md) 
 
-### [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md) 
+### [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md)
+

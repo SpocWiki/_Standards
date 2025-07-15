@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.4 , 114.5 ] 
 type: geo-Region
 title: Belait
@@ -41,7 +41,9 @@ markerFolder: ./Belait/
 
 ## Confidential Links & Embeds: 
 
-### [Belait](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
+### [Belait](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
+
+### [Belait.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.public.md) 
 
 ### [Belait.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Belait/
 
 ### [Belait.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.personal.md) 
 
-### [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md) 
+### [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md)
+

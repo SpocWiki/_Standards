@@ -136,3 +136,22 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 dv.view("TableByName", ["EU(European_Union).tsv"]);
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [EU(European_Union)](/_Standards/Earth/Continent/Europe/EU(European_Union).md) 
+
+### [EU(European_Union).public](/_public/Earth/Continent/Europe/EU(European_Union).public.md) 
+
+### [EU(European_Union).internal](/_internal/Earth/Continent/Europe/EU(European_Union).internal.md) 
+
+### [EU(European_Union).protect](/_protect/Earth/Continent/Europe/EU(European_Union).protect.md) 
+
+### [EU(European_Union).private](/_private/Earth/Continent/Europe/EU(European_Union).private.md) 
+
+### [EU(European_Union).personal](/_personal/Earth/Continent/Europe/EU(European_Union).personal.md) 
+
+### [EU(European_Union).secret](/_secret/Earth/Continent/Europe/EU(European_Union).secret.md)
+

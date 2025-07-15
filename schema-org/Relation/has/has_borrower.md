@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_borrower](/_public/schema-org/Relation/has/has_borrower.md) 
+### [has_borrower](/_Standards/schema-org/Relation/has/has_borrower.md) 
+
+### [has_borrower.public](/_public/schema-org/Relation/has/has_borrower.public.md) 
 
 ### [has_borrower.internal](/_internal/schema-org/Relation/has/has_borrower.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_borrower.personal](/_personal/schema-org/Relation/has/has_borrower.personal.md) 
 
-### [has_borrower.secret](/_secret/schema-org/Relation/has/has_borrower.secret.md) 
+### [has_borrower.secret](/_secret/schema-org/Relation/has/has_borrower.secret.md)
+

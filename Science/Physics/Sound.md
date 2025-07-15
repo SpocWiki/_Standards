@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11461
 studied_in:
 - '[[_Standards/WikiData/WD~acoustics,82811]]'
@@ -48,4 +48,21 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/23.%20%D0%97%D0%B2%D1
 > In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges, allowing some to even hear ultrasounds.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sound)
+
+
+## Confidential Links & Embeds: 
+
+### [Sound](/_Standards/Science/Physics/Sound.md) 
+
+### [Sound.public](/_public/Science/Physics/Sound.public.md) 
+
+### [Sound.internal](/_internal/Science/Physics/Sound.internal.md) 
+
+### [Sound.protect](/_protect/Science/Physics/Sound.protect.md) 
+
+### [Sound.private](/_private/Science/Physics/Sound.private.md) 
+
+### [Sound.personal](/_personal/Science/Physics/Sound.personal.md) 
+
+### [Sound.secret](/_secret/Science/Physics/Sound.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_maintainer )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_maintainer](/_public/schema-org/Relation/has/has_maintainer.md) 
+### [has_maintainer](/_Standards/schema-org/Relation/has/has_maintainer.md) 
+
+### [has_maintainer.public](/_public/schema-org/Relation/has/has_maintainer.public.md) 
 
 ### [has_maintainer.internal](/_internal/schema-org/Relation/has/has_maintainer.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_maintainer.personal](/_personal/schema-org/Relation/has/has_maintainer.personal.md) 
 
-### [has_maintainer.secret](/_secret/schema-org/Relation/has/has_maintainer.secret.md) 
+### [has_maintainer.secret](/_secret/schema-org/Relation/has/has_maintainer.secret.md)
+

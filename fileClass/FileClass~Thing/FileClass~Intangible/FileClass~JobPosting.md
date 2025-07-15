@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -405,10 +405,11 @@ The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).
 WorkHours:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~JobPosting](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.md) 
+### [FileClass~JobPosting](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.md) 
+
+### [FileClass~JobPosting.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.public.md) 
 
 ### [FileClass~JobPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.internal.md) 
 
@@ -418,4 +419,5 @@ WorkHours:: {"type":"Input","options":{}}
 
 ### [FileClass~JobPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.personal.md) 
 
-### [FileClass~JobPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret.md) 
+### [FileClass~JobPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret.md)
+

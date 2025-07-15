@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Organization: Non-governmental Organization.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~NGO](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.md) 
+### [FileClass~NGO](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.md) 
+
+### [FileClass~NGO.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.public.md) 
 
 ### [FileClass~NGO.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.internal.md) 
 
@@ -46,4 +47,5 @@ Organization: Non-governmental Organization.
 
 ### [FileClass~NGO.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.personal.md) 
 
-### [FileClass~NGO.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.secret.md) 
+### [FileClass~NGO.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~NGO.secret.md)
+

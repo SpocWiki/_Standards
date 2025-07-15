@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A statement about something, for example a fun or interesting fact. If known, th
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Statement](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.md) 
+### [FileClass~Statement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.md) 
+
+### [FileClass~Statement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.public.md) 
 
 ### [FileClass~Statement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.internal.md) 
 
@@ -46,4 +47,5 @@ A statement about something, for example a fun or interesting fact. If known, th
 
 ### [FileClass~Statement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.personal.md) 
 
-### [FileClass~Statement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.secret.md) 
+### [FileClass~Statement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Statement.secret.md)
+

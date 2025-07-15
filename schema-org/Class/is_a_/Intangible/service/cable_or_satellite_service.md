@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A service which provides access to media programming like TV or radio. Access ma
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cable_or_satellite_service](/_public/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.md) 
+### [cable_or_satellite_service](/_Standards/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.md) 
+
+### [cable_or_satellite_service.public](/_public/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.public.md) 
 
 ### [cable_or_satellite_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.internal.md) 
 
@@ -54,4 +57,5 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ### [cable_or_satellite_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.personal.md) 
 
-### [cable_or_satellite_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.secret.md) 
+### [cable_or_satellite_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/cable_or_satellite_service.secret.md)
+

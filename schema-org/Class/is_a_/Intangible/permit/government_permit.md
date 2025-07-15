@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A permit issued by a government agency.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [government_permit](/_public/schema-org/Class/is_a_/Intangible/permit/government_permit.md) 
+### [government_permit](/_Standards/schema-org/Class/is_a_/Intangible/permit/government_permit.md) 
+
+### [government_permit.public](/_public/schema-org/Class/is_a_/Intangible/permit/government_permit.public.md) 
 
 ### [government_permit.internal](/_internal/schema-org/Class/is_a_/Intangible/permit/government_permit.internal.md) 
 
@@ -54,4 +57,5 @@ A permit issued by a government agency.
 
 ### [government_permit.personal](/_personal/schema-org/Class/is_a_/Intangible/permit/government_permit.personal.md) 
 
-### [government_permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit/government_permit.secret.md) 
+### [government_permit.secret](/_secret/schema-org/Class/is_a_/Intangible/permit/government_permit.secret.md)
+

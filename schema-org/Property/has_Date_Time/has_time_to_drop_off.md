@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Formal Predicate:
 (name::has_time_to_drop_off)
 (range::DateTime)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_to_drop_off](/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.md) 
+### [has_time_to_drop_off](/_Standards/schema-org/Property/has_Date_Time/has_time_to_drop_off.md) 
+
+### [has_time_to_drop_off.public](/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.public.md) 
 
 ### [has_time_to_drop_off.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_drop_off.internal.md) 
 
@@ -55,4 +58,5 @@ Formal Predicate:
 
 ### [has_time_to_drop_off.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_drop_off.personal.md) 
 
-### [has_time_to_drop_off.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret.md) 
+### [has_time_to_drop_off.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret.md)
+

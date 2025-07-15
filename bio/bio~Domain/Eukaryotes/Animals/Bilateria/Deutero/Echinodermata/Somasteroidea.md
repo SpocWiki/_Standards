@@ -241,3 +241,22 @@ Specimen Condition   Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
 Body Part            ventral side showing schematic of oral test
 Copyright ::            © 1951 Royal Society of London
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Somasteroidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.md) 
+
+### [Somasteroidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.public.md) 
+
+### [Somasteroidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.internal.md) 
+
+### [Somasteroidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.protect.md) 
+
+### [Somasteroidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.private.md) 
+
+### [Somasteroidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.personal.md) 
+
+### [Somasteroidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Echinodermata/Somasteroidea.secret.md)
+

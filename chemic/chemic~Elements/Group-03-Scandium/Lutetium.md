@@ -126,7 +126,9 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Lutetium](/_public/chemic/chemic~Elements/Group-03-Scandium/Lutetium.md) 
+### [Lutetium](/_Standards/chemic/chemic~Elements/Group-03-Scandium/Lutetium.md) 
+
+### [Lutetium.public](/_public/chemic/chemic~Elements/Group-03-Scandium/Lutetium.public.md) 
 
 ### [Lutetium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Lutetium.internal.md) 
 
@@ -136,4 +138,5 @@ aliases:
 
 ### [Lutetium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Lutetium.personal.md) 
 
-### [Lutetium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lutetium.secret.md) 
+### [Lutetium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Lutetium.secret.md)
+

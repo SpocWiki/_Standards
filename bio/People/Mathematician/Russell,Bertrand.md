@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Bertrand Russell
 ---
@@ -45,16 +45,20 @@ aliases:
 
 #has_/created_/quote :: The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts
 
+
 ## Confidential Links & Embeds: 
 
-### [Russell,Bertrand](/_public/Mathematics/Mathematicians/Russell,Bertrand.md) 
+### [Russell,Bertrand](/_Standards/bio/People/Mathematician/Russell,Bertrand.md) 
 
-### [Russell,Bertrand.internal](/_internal/Mathematics/Mathematicians/Russell,Bertrand.internal.md) 
+### [Russell,Bertrand.public](/_public/bio/People/Mathematician/Russell,Bertrand.public.md) 
 
-### [Russell,Bertrand.protect](/_protect/Mathematics/Mathematicians/Russell,Bertrand.protect.md) 
+### [Russell,Bertrand.internal](/_internal/bio/People/Mathematician/Russell,Bertrand.internal.md) 
 
-### [Russell,Bertrand.private](/_private/Mathematics/Mathematicians/Russell,Bertrand.private.md) 
+### [Russell,Bertrand.protect](/_protect/bio/People/Mathematician/Russell,Bertrand.protect.md) 
 
-### [Russell,Bertrand.personal](/_personal/Mathematics/Mathematicians/Russell,Bertrand.personal.md) 
+### [Russell,Bertrand.private](/_private/bio/People/Mathematician/Russell,Bertrand.private.md) 
 
-### [Russell,Bertrand.secret](/_secret/Mathematics/Mathematicians/Russell,Bertrand.secret.md) 
+### [Russell,Bertrand.personal](/_personal/bio/People/Mathematician/Russell,Bertrand.personal.md) 
+
+### [Russell,Bertrand.secret](/_secret/bio/People/Mathematician/Russell,Bertrand.secret.md)
+

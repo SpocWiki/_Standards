@@ -42,14 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Haber,Fritz](/_public/chemic/Chemists/Haber,Fritz.md) 
+### [Haber,Fritz](/_Standards/chemic/Chemist/Haber,Fritz.md) 
 
-### [Haber,Fritz.internal](/_internal/chemic/Chemists/Haber,Fritz.internal.md) 
+### [Haber,Fritz.public](/_public/chemic/Chemist/Haber,Fritz.public.md) 
 
-### [Haber,Fritz.protect](/_protect/chemic/Chemists/Haber,Fritz.protect.md) 
+### [Haber,Fritz.internal](/_internal/chemic/Chemist/Haber,Fritz.internal.md) 
 
-### [Haber,Fritz.private](/_private/chemic/Chemists/Haber,Fritz.private.md) 
+### [Haber,Fritz.protect](/_protect/chemic/Chemist/Haber,Fritz.protect.md) 
 
-### [Haber,Fritz.personal](/_personal/chemic/Chemists/Haber,Fritz.personal.md) 
+### [Haber,Fritz.private](/_private/chemic/Chemist/Haber,Fritz.private.md) 
 
-### [Haber,Fritz.secret](/_secret/chemic/Chemists/Haber,Fritz.secret.md) 
+### [Haber,Fritz.personal](/_personal/chemic/Chemist/Haber,Fritz.personal.md) 
+
+### [Haber,Fritz.secret](/_secret/chemic/Chemist/Haber,Fritz.secret.md)
+

@@ -115,3 +115,22 @@ History commonly starts with the [[Epoch~2~Holocene|Human Era]].
 > [Wikipedia](https://en.wikipedia.org/wiki/History) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [History](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.md) 
+
+### [History.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.public.md) 
+
+### [History.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.internal.md) 
+
+### [History.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.protect.md) 
+
+### [History.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.private.md) 
+
+### [History.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.personal.md) 
+
+### [History.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/History.secret.md)
+

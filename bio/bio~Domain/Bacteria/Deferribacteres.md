@@ -56,3 +56,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Deferribacteres](/_Standards/bio/bio~Domain/Bacteria/Deferribacteres.md) 
+
+### [Deferribacteres.public](/_public/bio/bio~Domain/Bacteria/Deferribacteres.public.md) 
+
+### [Deferribacteres.internal](/_internal/bio/bio~Domain/Bacteria/Deferribacteres.internal.md) 
+
+### [Deferribacteres.protect](/_protect/bio/bio~Domain/Bacteria/Deferribacteres.protect.md) 
+
+### [Deferribacteres.private](/_private/bio/bio~Domain/Bacteria/Deferribacteres.private.md) 
+
+### [Deferribacteres.personal](/_personal/bio/bio~Domain/Bacteria/Deferribacteres.personal.md) 
+
+### [Deferribacteres.secret](/_secret/bio/bio~Domain/Bacteria/Deferribacteres.secret.md)
+

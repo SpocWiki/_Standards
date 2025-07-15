@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_dose_unit )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_dose_unit](/_public/schema-org/Property/Texts/has_dose_unit.md) 
+### [has_dose_unit](/_Standards/schema-org/Property/Texts/has_dose_unit.md) 
+
+### [has_dose_unit.public](/_public/schema-org/Property/Texts/has_dose_unit.public.md) 
 
 ### [has_dose_unit.internal](/_internal/schema-org/Property/Texts/has_dose_unit.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_dose_unit.personal](/_personal/schema-org/Property/Texts/has_dose_unit.personal.md) 
 
-### [has_dose_unit.secret](/_secret/schema-org/Property/Texts/has_dose_unit.secret.md) 
+### [has_dose_unit.secret](/_secret/schema-org/Property/Texts/has_dose_unit.secret.md)
+

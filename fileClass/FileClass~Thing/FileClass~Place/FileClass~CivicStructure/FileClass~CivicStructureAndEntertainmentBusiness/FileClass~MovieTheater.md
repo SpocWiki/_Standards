@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -44,7 +44,9 @@ ScreenCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovieTheater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.md) 
+### [FileClass~MovieTheater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.md) 
+
+### [FileClass~MovieTheater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.public.md) 
 
 ### [FileClass~MovieTheater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.internal.md) 
 
@@ -54,4 +56,5 @@ ScreenCount:: {"type":"Number","options":{}}
 
 ### [FileClass~MovieTheater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.personal.md) 
 
-### [FileClass~MovieTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.secret.md) 
+### [FileClass~MovieTheater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndEntertainmentBusiness/FileClass~MovieTheater.secret.md)
+

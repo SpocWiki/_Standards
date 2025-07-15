@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_occupation_location )
 ( #has_/range :: AdministrativeArea )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_occupation_location](/_public/schema-org/Relation/has/has_occupation_location.md) 
+### [has_occupation_location](/_Standards/schema-org/Relation/has/has_occupation_location.md) 
+
+### [has_occupation_location.public](/_public/schema-org/Relation/has/has_occupation_location.public.md) 
 
 ### [has_occupation_location.internal](/_internal/schema-org/Relation/has/has_occupation_location.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_occupation_location.personal](/_personal/schema-org/Relation/has/has_occupation_location.personal.md) 
 
-### [has_occupation_location.secret](/_secret/schema-org/Relation/has/has_occupation_location.secret.md) 
+### [has_occupation_location.secret](/_secret/schema-org/Relation/has/has_occupation_location.secret.md)
+

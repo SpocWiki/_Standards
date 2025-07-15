@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -13,10 +13,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%2012%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-12-Zinc](/_public/chemic/chemic~Elements/Group-12-Zinc.md) 
+### [Group-12-Zinc](/_Standards/chemic/chemic~Elements/Group-12-Zinc.md) 
+
+### [Group-12-Zinc.public](/_public/chemic/chemic~Elements/Group-12-Zinc.public.md) 
 
 ### [Group-12-Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc.internal.md) 
 
@@ -26,4 +27,5 @@ type: ElementGroup
 
 ### [Group-12-Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc.personal.md) 
 
-### [Group-12-Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc.secret.md) 
+### [Group-12-Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc.secret.md)
+

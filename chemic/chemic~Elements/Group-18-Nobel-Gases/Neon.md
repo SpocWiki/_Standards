@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21912
 has_id_wikidata: Q654
@@ -121,10 +121,11 @@ Commons_gallery: Neon
 > [Wikipedia](https://en.wikipedia.org/wiki/Neon)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Neon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.md) 
+### [Neon](/_Standards/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.md) 
+
+### [Neon.public](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.public.md) 
 
 ### [Neon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.internal.md) 
 
@@ -134,4 +135,5 @@ Commons_gallery: Neon
 
 ### [Neon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.personal.md) 
 
-### [Neon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.secret.md) 
+### [Neon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.secret.md)
+

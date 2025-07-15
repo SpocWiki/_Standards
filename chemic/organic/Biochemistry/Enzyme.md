@@ -32,3 +32,22 @@ has_id_wikidata: Q8047
 > [Wikipedia](https://en.wikipedia.org/wiki/Enzyme)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Enzyme](/_Standards/chemic/organic/Biochemistry/Enzyme.md) 
+
+### [Enzyme.public](/_public/chemic/organic/Biochemistry/Enzyme.public.md) 
+
+### [Enzyme.internal](/_internal/chemic/organic/Biochemistry/Enzyme.internal.md) 
+
+### [Enzyme.protect](/_protect/chemic/organic/Biochemistry/Enzyme.protect.md) 
+
+### [Enzyme.private](/_private/chemic/organic/Biochemistry/Enzyme.private.md) 
+
+### [Enzyme.personal](/_personal/chemic/organic/Biochemistry/Enzyme.personal.md) 
+
+### [Enzyme.secret](/_secret/chemic/organic/Biochemistry/Enzyme.secret.md)
+

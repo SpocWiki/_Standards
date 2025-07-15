@@ -64,3 +64,22 @@ Barnacles and their relatives
 -   » Sub-Groups
     -   [Cirripedia](Cirripedia)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Thecostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.md) 
+
+### [Thecostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.public.md) 
+
+### [Thecostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.internal.md) 
+
+### [Thecostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.protect.md) 
+
+### [Thecostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.private.md) 
+
+### [Thecostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.personal.md) 
+
+### [Thecostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Thecostraca.secret.md)
+

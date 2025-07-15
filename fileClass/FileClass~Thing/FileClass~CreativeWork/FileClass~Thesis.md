@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ Qualification, candidature, degree, application that Thesis supports.
 InSupportOf:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Thesis](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.md) 
+### [FileClass~Thesis](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.md) 
+
+### [FileClass~Thesis.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.public.md) 
 
 ### [FileClass~Thesis.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.internal.md) 
 
@@ -56,4 +57,5 @@ InSupportOf:: {"type":"Input","options":{}}
 
 ### [FileClass~Thesis.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.personal.md) 
 
-### [FileClass~Thesis.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.secret.md) 
+### [FileClass~Thesis.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_web_feed )
 ( #has_/range :: DataFeed, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_web_feed](/_public/schema-org/Relation/has/has_web_feed.md) 
+### [has_web_feed](/_Standards/schema-org/Relation/has/has_web_feed.md) 
+
+### [has_web_feed.public](/_public/schema-org/Relation/has/has_web_feed.public.md) 
 
 ### [has_web_feed.internal](/_internal/schema-org/Relation/has/has_web_feed.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_web_feed.personal](/_personal/schema-org/Relation/has/has_web_feed.personal.md) 
 
-### [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md) 
+### [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md)
+

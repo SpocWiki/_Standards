@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of intentionally disregarding the object. An agent ignores an object.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~IgnoreAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.md) 
+### [FileClass~IgnoreAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.md) 
+
+### [FileClass~IgnoreAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.public.md) 
 
 ### [FileClass~IgnoreAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of intentionally disregarding the object. An agent ignores an object.
 
 ### [FileClass~IgnoreAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.personal.md) 
 
-### [FileClass~IgnoreAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.secret.md) 
+### [FileClass~IgnoreAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~IgnoreAction.secret.md)
+

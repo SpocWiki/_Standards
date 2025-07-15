@@ -1,4 +1,4 @@
-﻿# Provenance RDF Namespace
+# Provenance RDF Namespace
 
 The Provenance Namespace defines Documents, Entities, Activities, Agents, and Relations 
 to describe Facts about the Origins('Provenance') of anything . 
@@ -8,7 +8,9 @@ to describe Facts about the Origins('Provenance') of anything .
 
 ## Confidential Links & Embeds: 
 
-### [prov](/_public/prov.md) 
+### [prov](/_Standards/prov.md) 
+
+### [prov.public](/_public/prov.public.md) 
 
 ### [prov.internal](/_internal/prov.internal.md) 
 
@@ -18,4 +20,5 @@ to describe Facts about the Origins('Provenance') of anything .
 
 ### [prov.personal](/_personal/prov.personal.md) 
 
-### [prov.secret](/_secret/prov.secret.md) 
+### [prov.secret](/_secret/prov.secret.md)
+

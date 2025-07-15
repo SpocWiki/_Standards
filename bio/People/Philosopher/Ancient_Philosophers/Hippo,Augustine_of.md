@@ -161,3 +161,22 @@ Iconclass_notation: 11H(AUGUSTINE)
 > [Wikipedia](https://en.wikipedia.org/wiki/Augustine%20of%20Hippo)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hippo,Augustine_of](/_Standards/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.md) 
+
+### [Hippo,Augustine_of.public](/_public/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.public.md) 
+
+### [Hippo,Augustine_of.internal](/_internal/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.internal.md) 
+
+### [Hippo,Augustine_of.protect](/_protect/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.protect.md) 
+
+### [Hippo,Augustine_of.private](/_private/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.private.md) 
+
+### [Hippo,Augustine_of.personal](/_personal/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.personal.md) 
+
+### [Hippo,Augustine_of.secret](/_secret/bio/People/Philosopher/Ancient_Philosophers/Hippo,Augustine_of.secret.md)
+

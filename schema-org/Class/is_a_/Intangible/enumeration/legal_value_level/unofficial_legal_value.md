@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicates that a document has no particular or special standing (e.g. a republic
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [unofficial_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
+### [unofficial_legal_value](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
+
+### [unofficial_legal_value.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.public.md) 
 
 ### [unofficial_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md) 
 
@@ -58,4 +61,5 @@ Indicates that a document has no particular or special standing (e.g. a republic
 
 ### [unofficial_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.personal.md) 
 
-### [unofficial_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md) 
+### [unofficial_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md)
+

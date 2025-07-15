@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, audience, availableLanguage, award, awards, branchCode, branchOf, brand, checkinTime, checkoutTime, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, numberOfRooms, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, petsAllowed, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, starRating, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [resort](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.md) 
+### [resort](/_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.md) 
+
+### [resort.public](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.public.md) 
 
 ### [resort.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.internal.md) 
 
@@ -58,4 +61,5 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ### [resort.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.personal.md) 
 
-### [resort.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.secret.md) 
+### [resort.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/resort.secret.md)
+

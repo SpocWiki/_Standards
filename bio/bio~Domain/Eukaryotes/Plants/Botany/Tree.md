@@ -82,3 +82,21 @@ video:
 > Trees play a significant role in reducing erosion and moderating the climate. They remove carbon dioxide from the atmosphere and store large quantities of carbon in their tissues. Trees and forests provide a habitat for many species of animals and plants. Tropical rainforests are among the most biodiverse habitats in the world. Trees provide shade and shelter, timber for construction, fuel for cooking and heating, and fruit for food as well as having many other uses. In much of the world, forests are shrinking as trees are cleared to increase the amount of land available for agriculture. Because of their longevity and usefulness, trees have always been revered, with sacred groves in various cultures, and they play a role in many of the world's mythologies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tree)
+
+
+## Confidential Links & Embeds: 
+
+### [Tree](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.md) 
+
+### [Tree.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.public.md) 
+
+### [Tree.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.internal.md) 
+
+### [Tree.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.protect.md) 
+
+### [Tree.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.private.md) 
+
+### [Tree.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.personal.md) 
+
+### [Tree.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Botany/Tree.secret.md)
+

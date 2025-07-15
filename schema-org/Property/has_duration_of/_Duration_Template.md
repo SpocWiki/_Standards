@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,9 +52,12 @@ Is [sub_property_of::{{subPropertyOf}}]
 
 Has [sub_properties::{{subproperties}}]
 
+
 ## Confidential Links & Embeds: 
 
-### [_Duration_Template](/_public/schema-org/Property/has_duration_of/_Duration_Template.md) 
+### [_Duration_Template](/_Standards/schema-org/Property/has_duration_of/_Duration_Template.md) 
+
+### [_Duration_Template.public](/_public/schema-org/Property/has_duration_of/_Duration_Template.public.md) 
 
 ### [_Duration_Template.internal](/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal.md) 
 
@@ -64,4 +67,5 @@ Has [sub_properties::{{subproperties}}]
 
 ### [_Duration_Template.personal](/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal.md) 
 
-### [_Duration_Template.secret](/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret.md) 
+### [_Duration_Template.secret](/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret.md)
+

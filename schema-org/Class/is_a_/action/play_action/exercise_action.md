@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of participating in exertive activity for the purposes of improving heal
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [exercise_action](/_public/schema-org/Class/is_a_/action/play_action/exercise_action.md) 
+### [exercise_action](/_Standards/schema-org/Class/is_a_/action/play_action/exercise_action.md) 
+
+### [exercise_action.public](/_public/schema-org/Class/is_a_/action/play_action/exercise_action.public.md) 
 
 ### [exercise_action.internal](/_internal/schema-org/Class/is_a_/action/play_action/exercise_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of participating in exertive activity for the purposes of improving heal
 
 ### [exercise_action.personal](/_personal/schema-org/Class/is_a_/action/play_action/exercise_action.personal.md) 
 
-### [exercise_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/exercise_action.secret.md) 
+### [exercise_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/exercise_action.secret.md)
+

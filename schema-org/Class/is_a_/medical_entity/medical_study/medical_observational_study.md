@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An observational study is a type of medical study that attempts to infer the pos
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyDesign, studyLocation, studySubject, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_observational_study](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.md) 
+### [medical_observational_study](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.md) 
+
+### [medical_observational_study.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.public.md) 
 
 ### [medical_observational_study.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.internal.md) 
 
@@ -54,4 +57,5 @@ An observational study is a type of medical study that attempts to infer the pos
 
 ### [medical_observational_study.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.personal.md) 
 
-### [medical_observational_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.secret.md) 
+### [medical_observational_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study/medical_observational_study.secret.md)
+

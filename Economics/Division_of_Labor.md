@@ -26,3 +26,20 @@ even if one country is more competitive in every area than its trading counterpa
 | Empirical Fit    | Strong for simple models and historical trade flows      | Better for modern, complex economies with diverse inputs         |
 | Developed by     | [[Ricardo,David\|David Ricardo]] (1817)                                     | Eli Heckscher (1919), Bertil Ohlin (1933)                        |
 
+
+## Confidential Links & Embeds: 
+
+### [Division_of_Labor](/_Standards/Economics/Division_of_Labor.md) 
+
+### [Division_of_Labor.public](/_public/Economics/Division_of_Labor.public.md) 
+
+### [Division_of_Labor.internal](/_internal/Economics/Division_of_Labor.internal.md) 
+
+### [Division_of_Labor.protect](/_protect/Economics/Division_of_Labor.protect.md) 
+
+### [Division_of_Labor.private](/_private/Economics/Division_of_Labor.private.md) 
+
+### [Division_of_Labor.personal](/_personal/Economics/Division_of_Labor.personal.md) 
+
+### [Division_of_Labor.secret](/_secret/Economics/Division_of_Labor.secret.md)
+

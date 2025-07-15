@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_job_benefits )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_job_benefits](/_public/schema-org/Property/Texts/has_job_benefits.md) 
+### [has_job_benefits](/_Standards/schema-org/Property/Texts/has_job_benefits.md) 
+
+### [has_job_benefits.public](/_public/schema-org/Property/Texts/has_job_benefits.public.md) 
 
 ### [has_job_benefits.internal](/_internal/schema-org/Property/Texts/has_job_benefits.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_job_benefits.personal](/_personal/schema-org/Property/Texts/has_job_benefits.personal.md) 
 
-### [has_job_benefits.secret](/_secret/schema-org/Property/Texts/has_job_benefits.secret.md) 
+### [has_job_benefits.secret](/_secret/schema-org/Property/Texts/has_job_benefits.secret.md)
+

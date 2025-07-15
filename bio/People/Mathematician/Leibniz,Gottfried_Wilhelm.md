@@ -301,14 +301,17 @@ ISNI: 0000000120990070
 
 ## Confidential Links & Embeds: 
 
-### [Leibniz,Gottfried_Wilhelm](/_public/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.md) 
+### [Leibniz,Gottfried_Wilhelm](/_Standards/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.md) 
 
-### [Leibniz,Gottfried_Wilhelm.internal](/_internal/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.internal.md) 
+### [Leibniz,Gottfried_Wilhelm.public](/_public/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.public.md) 
 
-### [Leibniz,Gottfried_Wilhelm.protect](/_protect/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.protect.md) 
+### [Leibniz,Gottfried_Wilhelm.internal](/_internal/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.internal.md) 
 
-### [Leibniz,Gottfried_Wilhelm.private](/_private/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.private.md) 
+### [Leibniz,Gottfried_Wilhelm.protect](/_protect/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.protect.md) 
 
-### [Leibniz,Gottfried_Wilhelm.personal](/_personal/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.personal.md) 
+### [Leibniz,Gottfried_Wilhelm.private](/_private/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.private.md) 
 
-### [Leibniz,Gottfried_Wilhelm.secret](/_secret/Mathematics/Mathematicians/Leibniz,Gottfried_Wilhelm.secret.md) 
+### [Leibniz,Gottfried_Wilhelm.personal](/_personal/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.personal.md) 
+
+### [Leibniz,Gottfried_Wilhelm.secret](/_secret/bio/People/Mathematician/Leibniz,Gottfried_Wilhelm.secret.md)
+

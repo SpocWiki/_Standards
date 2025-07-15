@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Book format: Paperback.
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [paperback](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.md) 
+### [paperback](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.md) 
+
+### [paperback.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.public.md) 
 
 ### [paperback.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.internal.md) 
 
@@ -56,4 +59,5 @@ Book format: Paperback.
 
 ### [paperback.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.personal.md) 
 
-### [paperback.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.secret.md) 
+### [paperback.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/paperback.secret.md)
+

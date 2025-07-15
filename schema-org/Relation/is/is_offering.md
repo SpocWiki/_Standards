@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: itemOffered ]
 
+
 ## Confidential Links & Embeds: 
 
-### [is_offering](/_public/schema-org/Relation/is/is_offering.md) 
+### [is_offering](/_Standards/schema-org/Relation/is/is_offering.md) 
+
+### [is_offering.public](/_public/schema-org/Relation/is/is_offering.public.md) 
 
 ### [is_offering.internal](/_internal/schema-org/Relation/is/is_offering.internal.md) 
 
@@ -62,4 +65,5 @@ Relation describes that:
 
 ### [is_offering.personal](/_personal/schema-org/Relation/is/is_offering.personal.md) 
 
-### [is_offering.secret](/_secret/schema-org/Relation/is/is_offering.secret.md) 
+### [is_offering.secret](/_secret/schema-org/Relation/is/is_offering.secret.md)
+

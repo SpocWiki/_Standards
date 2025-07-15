@@ -409,9 +409,12 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kuwait)
 
+
 ## Confidential Links & Embeds: 
 
-### [Kuwait](/_public/Earth/Continent/Asia/Asia~West/Kuwait.md) 
+### [Kuwait](/_Standards/Earth/Continent/Asia/Asia~West/Kuwait.md) 
+
+### [Kuwait.public](/_public/Earth/Continent/Asia/Asia~West/Kuwait.public.md) 
 
 ### [Kuwait.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal.md) 
 
@@ -421,4 +424,5 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 
 ### [Kuwait.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal.md) 
 
-### [Kuwait.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret.md) 
+### [Kuwait.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret.md)
+

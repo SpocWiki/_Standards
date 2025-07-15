@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - -51.7
     - -57.85
@@ -50,10 +50,11 @@ Capital :: [[Falkland~Islands/City/Stanley]]
 [has_place_latitude::-51.7]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Falkland~Islands](/_public/Earth/Continent/America~South/Falkland~Islands.md) 
+### [Falkland~Islands](/_Standards/Earth/Continent/America~South/Falkland~Islands.md) 
+
+### [Falkland~Islands.public](/_public/Earth/Continent/America~South/Falkland~Islands.public.md) 
 
 ### [Falkland~Islands.internal](/_internal/Earth/Continent/America~South/Falkland~Islands.internal.md) 
 
@@ -63,4 +64,5 @@ Capital :: [[Falkland~Islands/City/Stanley]]
 
 ### [Falkland~Islands.personal](/_personal/Earth/Continent/America~South/Falkland~Islands.personal.md) 
 
-### [Falkland~Islands.secret](/_secret/Earth/Continent/America~South/Falkland~Islands.secret.md) 
+### [Falkland~Islands.secret](/_secret/Earth/Continent/America~South/Falkland~Islands.secret.md)
+

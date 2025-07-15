@@ -142,3 +142,22 @@ Krugosvet_article: medicina/MALYARIYA.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Malaria)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Malaria](/_Standards/bio/Medicine/Disease/Infectious_Disease/Malaria.md) 
+
+### [Malaria.public](/_public/bio/Medicine/Disease/Infectious_Disease/Malaria.public.md) 
+
+### [Malaria.internal](/_internal/bio/Medicine/Disease/Infectious_Disease/Malaria.internal.md) 
+
+### [Malaria.protect](/_protect/bio/Medicine/Disease/Infectious_Disease/Malaria.protect.md) 
+
+### [Malaria.private](/_private/bio/Medicine/Disease/Infectious_Disease/Malaria.private.md) 
+
+### [Malaria.personal](/_personal/bio/Medicine/Disease/Infectious_Disease/Malaria.personal.md) 
+
+### [Malaria.secret](/_secret/bio/Medicine/Disease/Infectious_Disease/Malaria.secret.md)
+

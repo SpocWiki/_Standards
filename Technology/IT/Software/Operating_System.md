@@ -124,3 +124,22 @@ GitHub_topic: operating-system
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Operating_System](/_Standards/Technology/IT/Software/Operating_System.md) 
+
+### [Operating_System.public](/_public/Technology/IT/Software/Operating_System.public.md) 
+
+### [Operating_System.internal](/_internal/Technology/IT/Software/Operating_System.internal.md) 
+
+### [Operating_System.protect](/_protect/Technology/IT/Software/Operating_System.protect.md) 
+
+### [Operating_System.private](/_private/Technology/IT/Software/Operating_System.private.md) 
+
+### [Operating_System.personal](/_personal/Technology/IT/Software/Operating_System.personal.md) 
+
+### [Operating_System.secret](/_secret/Technology/IT/Software/Operating_System.secret.md)
+

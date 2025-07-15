@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_vehicle_interior_color )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_vehicle_interior_color](/_public/schema-org/Property/Texts/has_vehicle_interior_color.md) 
+### [has_vehicle_interior_color](/_Standards/schema-org/Property/Texts/has_vehicle_interior_color.md) 
+
+### [has_vehicle_interior_color.public](/_public/schema-org/Property/Texts/has_vehicle_interior_color.public.md) 
 
 ### [has_vehicle_interior_color.internal](/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_vehicle_interior_color.personal](/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal.md) 
 
-### [has_vehicle_interior_color.secret](/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret.md) 
+### [has_vehicle_interior_color.secret](/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret.md)
+

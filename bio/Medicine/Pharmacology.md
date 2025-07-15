@@ -55,5 +55,19 @@ U_S_National_Archives_Identifier: 10642247
 > [Wikipedia](https://en.wikipedia.org/wiki/Pharmacology)
 
 
+## Confidential Links & Embeds: 
 
+### [Pharmacology](/_Standards/bio/Medicine/Pharmacology.md) 
+
+### [Pharmacology.public](/_public/bio/Medicine/Pharmacology.public.md) 
+
+### [Pharmacology.internal](/_internal/bio/Medicine/Pharmacology.internal.md) 
+
+### [Pharmacology.protect](/_protect/bio/Medicine/Pharmacology.protect.md) 
+
+### [Pharmacology.private](/_private/bio/Medicine/Pharmacology.private.md) 
+
+### [Pharmacology.personal](/_personal/bio/Medicine/Pharmacology.personal.md) 
+
+### [Pharmacology.secret](/_secret/bio/Medicine/Pharmacology.secret.md)
 

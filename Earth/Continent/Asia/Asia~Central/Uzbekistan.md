@@ -462,9 +462,12 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uzbekistan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Uzbekistan](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.md) 
+### [Uzbekistan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan.md) 
+
+### [Uzbekistan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public.md) 
 
 ### [Uzbekistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal.md) 
 
@@ -474,4 +477,5 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 ### [Uzbekistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal.md) 
 
-### [Uzbekistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret.md) 
+### [Uzbekistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret.md)
+

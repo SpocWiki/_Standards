@@ -216,10 +216,11 @@ ABS_ASCL_2011_code: 1301
 > [Wikipedia](https://en.wikipedia.org/wiki/German%20language)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Lang-de](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.md) 
+### [Lang-de](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.md) 
+
+### [Lang-de.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.public.md) 
 
 ### [Lang-de.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.internal.md) 
 
@@ -229,4 +230,5 @@ ABS_ASCL_2011_code: 1301
 
 ### [Lang-de.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.personal.md) 
 
-### [Lang-de.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.secret.md) 
+### [Lang-de.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-de.secret.md)
+

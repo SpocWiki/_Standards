@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_release_notes )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_release_notes](/_public/schema-org/Property/Texts/has_release_notes.md) 
+### [has_release_notes](/_Standards/schema-org/Property/Texts/has_release_notes.md) 
+
+### [has_release_notes.public](/_public/schema-org/Property/Texts/has_release_notes.public.md) 
 
 ### [has_release_notes.internal](/_internal/schema-org/Property/Texts/has_release_notes.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_release_notes.personal](/_personal/schema-org/Property/Texts/has_release_notes.personal.md) 
 
-### [has_release_notes.secret](/_secret/schema-org/Property/Texts/has_release_notes.secret.md) 
+### [has_release_notes.secret](/_secret/schema-org/Property/Texts/has_release_notes.secret.md)
+

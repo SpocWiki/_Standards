@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.3 , 20.1 ] 
 type: geo-Region
 title: Saltvik
@@ -41,7 +41,9 @@ markerFolder: ./Saltvik/
 
 ## Confidential Links & Embeds: 
 
-### [Saltvik](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.md) 
+### [Saltvik](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.md) 
+
+### [Saltvik.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.public.md) 
 
 ### [Saltvik.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Saltvik/
 
 ### [Saltvik.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.personal.md) 
 
-### [Saltvik.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.secret.md) 
+### [Saltvik.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Saltvik.secret.md)
+

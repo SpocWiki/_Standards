@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9420
 studied_in: "[[_Standards/WikiData/WD~cognitive_science,147638]]"
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~thought,349047]]'
@@ -29,4 +29,21 @@ Commons_category: Thinking
 > Thought is discussed in various academic disciplines. Phenomenology is interested in the experience of thinking. An important question in this field concerns the experiential character of thinking and to what extent this character can be explained in terms of sensory experience. Metaphysics is, among other things, interested in the relation between mind and matter. This concerns the question of how thinking can fit into the material world as described by the natural sciences. Cognitive psychology aims to understand thought as a form of information processing. Developmental psychology, on the other hand, investigates the development of thought from birth to maturity and asks which factors this development depends on. Psychoanalysis emphasizes the role of the unconscious in mental life. Other fields concerned with thought include linguistics, neuroscience, artificial intelligence, biology, and sociology. Various concepts and theories are closely related to the topic of thought. The term "law of thought" refers to three fundamental laws of logic: the law of contradiction, the law of excluded middle, and the principle of identity. Counterfactual thinking involves mental representations of non-actual situations and events in which the thinker tries to assess what would be the case if things had been different. Thought experiments often employ counterfactual thinking in order to illustrate theories or to test their plausibility. Critical thinking is a form of thinking that is reasonable, reflective, and focused on determining what to believe or how to act. Positive thinking involves focusing one's attention on the positive aspects of one's situation and is intimately related to optimism.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thought)
+
+
+## Confidential Links & Embeds: 
+
+### [Thought](/_Standards/bio/Psychology/Thought.md) 
+
+### [Thought.public](/_public/bio/Psychology/Thought.public.md) 
+
+### [Thought.internal](/_internal/bio/Psychology/Thought.internal.md) 
+
+### [Thought.protect](/_protect/bio/Psychology/Thought.protect.md) 
+
+### [Thought.private](/_private/bio/Psychology/Thought.private.md) 
+
+### [Thought.personal](/_personal/bio/Psychology/Thought.personal.md) 
+
+### [Thought.secret](/_secret/bio/Psychology/Thought.secret.md)
 

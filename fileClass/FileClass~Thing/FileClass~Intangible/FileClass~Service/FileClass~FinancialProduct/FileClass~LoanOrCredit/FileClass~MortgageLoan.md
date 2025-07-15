@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,10 +54,11 @@ Amount of mortgage mandate that can be converted into a proper mortgage at a lat
 LoanMortgageMandateAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MortgageLoan](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.md) 
+### [FileClass~MortgageLoan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.md) 
+
+### [FileClass~MortgageLoan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.public.md) 
 
 ### [FileClass~MortgageLoan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.internal.md) 
 
@@ -67,4 +68,5 @@ LoanMortgageMandateAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.p
 
 ### [FileClass~MortgageLoan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.personal.md) 
 
-### [FileClass~MortgageLoan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.secret.md) 
+### [FileClass~MortgageLoan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.secret.md)
+

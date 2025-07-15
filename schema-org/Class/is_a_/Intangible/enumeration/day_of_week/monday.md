@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The day of the week between Sunday and Tuesday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [monday](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.md) 
+### [monday](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.md) 
+
+### [monday.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.public.md) 
 
 ### [monday.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.internal.md) 
 
@@ -56,4 +59,5 @@ The day of the week between Sunday and Tuesday.
 
 ### [monday.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.personal.md) 
 
-### [monday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.secret.md) 
+### [monday.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/day_of_week/monday.secret.md)
+

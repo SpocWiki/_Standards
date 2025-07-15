@@ -65,3 +65,22 @@ subreddit:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Weather)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Weather](/_Standards/Earth/Atmosphere/Climate/Weather.md) 
+
+### [Weather.public](/_public/Earth/Atmosphere/Climate/Weather.public.md) 
+
+### [Weather.internal](/_internal/Earth/Atmosphere/Climate/Weather.internal.md) 
+
+### [Weather.protect](/_protect/Earth/Atmosphere/Climate/Weather.protect.md) 
+
+### [Weather.private](/_private/Earth/Atmosphere/Climate/Weather.private.md) 
+
+### [Weather.personal](/_personal/Earth/Atmosphere/Climate/Weather.personal.md) 
+
+### [Weather.secret](/_secret/Earth/Atmosphere/Climate/Weather.secret.md)
+

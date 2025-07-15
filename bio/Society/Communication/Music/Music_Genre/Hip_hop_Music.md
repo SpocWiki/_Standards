@@ -18,3 +18,22 @@ has_id_wikidata: Q11401
 > [Wikipedia](https://en.wikipedia.org/wiki/Hip-hop) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hip_hop_Music](/_Standards/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.md) 
+
+### [Hip_hop_Music.public](/_public/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.public.md) 
+
+### [Hip_hop_Music.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.internal.md) 
+
+### [Hip_hop_Music.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.protect.md) 
+
+### [Hip_hop_Music.private](/_private/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.private.md) 
+
+### [Hip_hop_Music.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.personal.md) 
+
+### [Hip_hop_Music.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Hip_hop_Music.secret.md)
+

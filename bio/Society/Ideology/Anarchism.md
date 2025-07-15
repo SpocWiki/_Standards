@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q6199
 Dewey_Decimal_Classification:
 - 335.83
@@ -67,4 +67,23 @@ discoverer_or_inventor: "[[_Standards/WikiData/WD~Pierre-Joseph_Proudhon,5749]]"
 > Anarchists employ diverse approaches, which may be generally divided into revolutionary and evolutionary strategies; there is significant overlap between the two. Evolutionary methods try to simulate what an anarchist society might be like, but revolutionary tactics, which have historically taken a violent turn, aim to overthrow authority and the state. Many facets of human civilization have been influenced by anarchist theory, critique, and praxis.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anarchism)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Anarchism](/_Standards/bio/Society/Ideology/Anarchism.md) 
+
+### [Anarchism.public](/_public/bio/Society/Ideology/Anarchism.public.md) 
+
+### [Anarchism.internal](/_internal/bio/Society/Ideology/Anarchism.internal.md) 
+
+### [Anarchism.protect](/_protect/bio/Society/Ideology/Anarchism.protect.md) 
+
+### [Anarchism.private](/_private/bio/Society/Ideology/Anarchism.private.md) 
+
+### [Anarchism.personal](/_personal/bio/Society/Ideology/Anarchism.personal.md) 
+
+### [Anarchism.secret](/_secret/bio/Society/Ideology/Anarchism.secret.md)
 

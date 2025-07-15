@@ -16,3 +16,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/California%20Institute%20of%20Technology)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Caltech](/_Standards/Earth/Continent/America~North/Caltech.md) 
+
+### [Caltech.public](/_public/Earth/Continent/America~North/Caltech.public.md) 
+
+### [Caltech.internal](/_internal/Earth/Continent/America~North/Caltech.internal.md) 
+
+### [Caltech.protect](/_protect/Earth/Continent/America~North/Caltech.protect.md) 
+
+### [Caltech.private](/_private/Earth/Continent/America~North/Caltech.private.md) 
+
+### [Caltech.personal](/_personal/Earth/Continent/America~North/Caltech.personal.md) 
+
+### [Caltech.secret](/_secret/Earth/Continent/America~North/Caltech.secret.md)
+

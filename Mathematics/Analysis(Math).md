@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Mathematical analysis"
 has_id_wikidata: Q7754
@@ -51,4 +51,20 @@ Krugosvet_article: nauka_i_tehnika/matematika/ANALIZ_V_MATEMATIKE.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20analysis)
 
+
+## Confidential Links & Embeds: 
+
+### [Analysis(Math)](/_Standards/Mathematics/Analysis(Math).md) 
+
+### [Analysis(Math).public](/_public/Mathematics/Analysis(Math).public.md) 
+
+### [Analysis(Math).internal](/_internal/Mathematics/Analysis(Math).internal.md) 
+
+### [Analysis(Math).protect](/_protect/Mathematics/Analysis(Math).protect.md) 
+
+### [Analysis(Math).private](/_private/Mathematics/Analysis(Math).private.md) 
+
+### [Analysis(Math).personal](/_personal/Mathematics/Analysis(Math).personal.md) 
+
+### [Analysis(Math).secret](/_secret/Mathematics/Analysis(Math).secret.md)
 

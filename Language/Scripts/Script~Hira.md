@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Hiragana
 ---
@@ -15,7 +15,9 @@ Hiragana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### [Script~Hira](/_public/Language/Scripts/Script~Hira.md) 
+### [Script~Hira](/_Standards/Language/Scripts/Script~Hira.md) 
+
+### [Script~Hira.public](/_public/Language/Scripts/Script~Hira.public.md) 
 
 ### [Script~Hira.internal](/_internal/Language/Scripts/Script~Hira.internal.md) 
 
@@ -25,4 +27,5 @@ Hiragana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ### [Script~Hira.personal](/_personal/Language/Scripts/Script~Hira.personal.md) 
 
-### [Script~Hira.secret](/_secret/Language/Scripts/Script~Hira.secret.md) 
+### [Script~Hira.secret](/_secret/Language/Scripts/Script~Hira.secret.md)
+

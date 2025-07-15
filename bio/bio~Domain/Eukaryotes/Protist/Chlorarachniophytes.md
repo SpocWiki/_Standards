@@ -412,3 +412,21 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Comments          Fluorescent micrograph of a cell stained with DAPI, showing chloroplasts (red autofluorescences), a nuclear DNA (a big blue-white sphare) and probable nucleomorph DNAs (small blue-white dots).
   Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
   -----------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Chlorarachniophytes](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.md) 
+
+### [Chlorarachniophytes.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.public.md) 
+
+### [Chlorarachniophytes.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.internal.md) 
+
+### [Chlorarachniophytes.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.protect.md) 
+
+### [Chlorarachniophytes.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.private.md) 
+
+### [Chlorarachniophytes.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.personal.md) 
+
+### [Chlorarachniophytes.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Chlorarachniophytes.secret.md)
+

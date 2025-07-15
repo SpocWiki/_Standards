@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q8261
 different_from:
 - '[[_Standards/WikiData/WD~novella,149537]]'
@@ -46,4 +46,23 @@ name_in_kana: ちょうへんしょうせつ
 > Recent technological developments have led to many novels also being published in non-print media: this includes audio books, web novels, and ebooks. Another non-traditional fiction format can be found in graphic novels. While these comic book versions of works of fiction have their origins in the 19th century, they have only become popular recently.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Novel) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Novel](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.md) 
+
+### [Novel.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.public.md) 
+
+### [Novel.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.internal.md) 
+
+### [Novel.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.protect.md) 
+
+### [Novel.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.private.md) 
+
+### [Novel.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.personal.md) 
+
+### [Novel.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Fiction/Prose/Novel.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_id_cvd_facility )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_cvd_facility](/_public/schema-org/Property/has_name/has_id_cvd_facility.md) 
+### [has_id_cvd_facility](/_Standards/schema-org/Property/has_name/has_id_cvd_facility.md) 
+
+### [has_id_cvd_facility.public](/_public/schema-org/Property/has_name/has_id_cvd_facility.public.md) 
 
 ### [has_id_cvd_facility.internal](/_internal/schema-org/Property/has_name/has_id_cvd_facility.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_id_cvd_facility.personal](/_personal/schema-org/Property/has_name/has_id_cvd_facility.personal.md) 
 
-### [has_id_cvd_facility.secret](/_secret/schema-org/Property/has_name/has_id_cvd_facility.secret.md) 
+### [has_id_cvd_facility.secret](/_secret/schema-org/Property/has_name/has_id_cvd_facility.secret.md)
+

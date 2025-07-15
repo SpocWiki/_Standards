@@ -57,3 +57,22 @@ Image © 1995 M. J. Donoghue
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Canellales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.md) 
+
+### [Canellales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.public.md) 
+
+### [Canellales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.internal.md) 
+
+### [Canellales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.protect.md) 
+
+### [Canellales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.private.md) 
+
+### [Canellales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.personal.md) 
+
+### [Canellales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Magnoliids/Canellales.secret.md)
+

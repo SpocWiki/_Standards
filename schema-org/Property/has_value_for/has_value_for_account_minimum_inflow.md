@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_account_minimum_inflow )
 ( #has_/range :: MonetaryAmount )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_account_minimum_inflow](/_public/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.md) 
+### [has_value_for_account_minimum_inflow](/_Standards/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.md) 
+
+### [has_value_for_account_minimum_inflow.public](/_public/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.public.md) 
 
 ### [has_value_for_account_minimum_inflow.internal](/_internal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_value_for_account_minimum_inflow.personal](/_personal/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.personal.md) 
 
-### [has_value_for_account_minimum_inflow.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.secret.md) 
+### [has_value_for_account_minimum_inflow.secret](/_secret/schema-org/Property/has_value_for/has_value_for_account_minimum_inflow.secret.md)
+

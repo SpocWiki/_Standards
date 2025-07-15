@@ -1,4 +1,4 @@
-﻿
+
 # [[Stoney-Length]] 
 
 #has_/scale :: 1.3807e−36 
@@ -8,7 +8,9 @@
 
 ## Confidential Links & Embeds: 
 
-### [Stoney-Length](/_public/Unit/Stoney-Unit/Stoney-Length.md) 
+### [Stoney-Length](/_Standards/Unit/Stoney-Unit/Stoney-Length.md) 
+
+### [Stoney-Length.public](/_public/Unit/Stoney-Unit/Stoney-Length.public.md) 
 
 ### [Stoney-Length.internal](/_internal/Unit/Stoney-Unit/Stoney-Length.internal.md) 
 
@@ -18,4 +20,5 @@
 
 ### [Stoney-Length.personal](/_personal/Unit/Stoney-Unit/Stoney-Length.personal.md) 
 
-### [Stoney-Length.secret](/_secret/Unit/Stoney-Unit/Stoney-Length.secret.md) 
+### [Stoney-Length.secret](/_secret/Unit/Stoney-Unit/Stoney-Length.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_mileage_from_odometer )
 ( #has_/range :: QuantitativeValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_mileage_from_odometer](/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.md) 
+### [has_value_for_mileage_from_odometer](/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.md) 
+
+### [has_value_for_mileage_from_odometer.public](/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.public.md) 
 
 ### [has_value_for_mileage_from_odometer.internal](/_internal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_value_for_mileage_from_odometer.personal](/_personal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.personal.md) 
 
-### [has_value_for_mileage_from_odometer.secret](/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret.md) 
+### [has_value_for_mileage_from_odometer.secret](/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret.md)
+

@@ -1,4 +1,4 @@
-﻿[RdfA-Lite is a W3C Standard](http://www.w3.org/TR/rdfa-lite/) to embed RDF Data in HTML using Attributes. 
+[RdfA-Lite is a W3C Standard](http://www.w3.org/TR/rdfa-lite/) to embed RDF Data in HTML using Attributes. 
 It is an Alternative to [[Microdata]]
 
 RDFa Lite consists of only five attributes: 
@@ -8,9 +8,12 @@ RDFa Lite consists of only five attributes:
 - resource 
 - prefix 
 
+
 ## Confidential Links & Embeds: 
 
-### [RdfA(Rdf_in_Attributes)](/_public/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).md) 
+### [RdfA(Rdf_in_Attributes)](/_Standards/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).md) 
+
+### [RdfA(Rdf_in_Attributes).public](/_public/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).public.md) 
 
 ### [RdfA(Rdf_in_Attributes).internal](/_internal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).internal.md) 
 
@@ -20,4 +23,5 @@ RDFa Lite consists of only five attributes:
 
 ### [RdfA(Rdf_in_Attributes).personal](/_personal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).personal.md) 
 
-### [RdfA(Rdf_in_Attributes).secret](/_secret/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret.md) 
+### [RdfA(Rdf_in_Attributes).secret](/_secret/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret.md)
+

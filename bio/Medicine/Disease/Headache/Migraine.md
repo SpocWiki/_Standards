@@ -69,3 +69,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Migraine](/_Standards/bio/Medicine/Disease/Headache/Migraine.md) 
+
+### [Migraine.public](/_public/bio/Medicine/Disease/Headache/Migraine.public.md) 
+
+### [Migraine.internal](/_internal/bio/Medicine/Disease/Headache/Migraine.internal.md) 
+
+### [Migraine.protect](/_protect/bio/Medicine/Disease/Headache/Migraine.protect.md) 
+
+### [Migraine.private](/_private/bio/Medicine/Disease/Headache/Migraine.private.md) 
+
+### [Migraine.personal](/_personal/bio/Medicine/Disease/Headache/Migraine.personal.md) 
+
+### [Migraine.secret](/_secret/bio/Medicine/Disease/Headache/Migraine.secret.md)
+

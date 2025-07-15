@@ -16,3 +16,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Raffinose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.md) 
+
+### [Raffinose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.public.md) 
+
+### [Raffinose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.internal.md) 
+
+### [Raffinose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.protect.md) 
+
+### [Raffinose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.private.md) 
+
+### [Raffinose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.personal.md) 
+
+### [Raffinose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Oligosaccharide/Raffinose.secret.md)
+

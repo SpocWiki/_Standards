@@ -148,3 +148,22 @@ Location ::           Peru
 Comments             This plant demonstrates the long, brightly colored corolla common in the neotropical members of the Gesneriaceae.
 Specimen Condition   Live Specimen
 Copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Gesneriaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.md) 
+
+### [Gesneriaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.public.md) 
+
+### [Gesneriaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.internal.md) 
+
+### [Gesneriaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.protect.md) 
+
+### [Gesneriaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.private.md) 
+
+### [Gesneriaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.personal.md) 
+
+### [Gesneriaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Gesneriaceae.secret.md)
+

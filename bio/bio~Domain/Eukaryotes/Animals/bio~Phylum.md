@@ -30,3 +30,22 @@ has_id_wikidata: Q38348
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [bio~Phylum](/_Standards/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.md) 
+
+### [bio~Phylum.public](/_public/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.public.md) 
+
+### [bio~Phylum.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.internal.md) 
+
+### [bio~Phylum.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.protect.md) 
+
+### [bio~Phylum.private](/_private/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.private.md) 
+
+### [bio~Phylum.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.personal.md) 
+
+### [bio~Phylum.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/bio~Phylum.secret.md)
+

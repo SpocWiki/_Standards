@@ -1,9 +1,12 @@
-﻿RDF-Property to link a License to a creative Work
+RDF-Property to link a License to a creative Work
 Use `cc:license` to link to the license: 
+
 
 ## Confidential Links & Embeds: 
 
-### [cc~license](/_public/cc/cc~license.md) 
+### [cc~license](/_Standards/cc/cc~license.md) 
+
+### [cc~license.public](/_public/cc/cc~license.public.md) 
 
 ### [cc~license.internal](/_internal/cc/cc~license.internal.md) 
 
@@ -13,4 +16,5 @@ Use `cc:license` to link to the license:
 
 ### [cc~license.personal](/_personal/cc/cc~license.personal.md) 
 
-### [cc~license.secret](/_secret/cc/cc~license.secret.md) 
+### [cc~license.secret](/_secret/cc/cc~license.secret.md)
+

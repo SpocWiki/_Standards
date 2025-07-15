@@ -26,3 +26,22 @@ title: Anostraca
 
 -   » Sub-Groups 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Anostraca](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.md) 
+
+### [Anostraca.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.public.md) 
+
+### [Anostraca.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.internal.md) 
+
+### [Anostraca.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.protect.md) 
+
+### [Anostraca.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.private.md) 
+
+### [Anostraca.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.personal.md) 
+
+### [Anostraca.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Branchiopoda/Anostraca.secret.md)
+

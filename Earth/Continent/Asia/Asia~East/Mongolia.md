@@ -471,9 +471,12 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mongolia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mongolia](/_public/Earth/Continent/Asia/Asia~East/Mongolia.md) 
+### [Mongolia](/_Standards/Earth/Continent/Asia/Asia~East/Mongolia.md) 
+
+### [Mongolia.public](/_public/Earth/Continent/Asia/Asia~East/Mongolia.public.md) 
 
 ### [Mongolia.internal](/_internal/Earth/Continent/Asia/Asia~East/Mongolia.internal.md) 
 
@@ -483,4 +486,5 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 
 ### [Mongolia.personal](/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal.md) 
 
-### [Mongolia.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret.md) 
+### [Mongolia.secret](/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret.md)
+

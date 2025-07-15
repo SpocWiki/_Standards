@@ -36,7 +36,6 @@ A time period from 4567 to 4031 million years ago.
 #has_/prev_item :: --- 
 #has_/next_item :: [[Eon~2~Archean]]    
 
-#has_/time_/started :: 
 
 ## #has_/text_of_/abstract 
 
@@ -100,10 +99,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Eon~1~Hadean](/_public/Time-Ages/geo~Eons/Eon~1~Hadean.md) 
+### [Eon~1~Hadean](/_Standards/Time-Ages/geo~Eons/Eon~1~Hadean.md) 
+
+### [Eon~1~Hadean.public](/_public/Time-Ages/geo~Eons/Eon~1~Hadean.public.md) 
 
 ### [Eon~1~Hadean.internal](/_internal/Time-Ages/geo~Eons/Eon~1~Hadean.internal.md) 
 
@@ -113,4 +113,5 @@ noteOnly: true
 
 ### [Eon~1~Hadean.personal](/_personal/Time-Ages/geo~Eons/Eon~1~Hadean.personal.md) 
 
-### [Eon~1~Hadean.secret](/_secret/Time-Ages/geo~Eons/Eon~1~Hadean.secret.md) 
+### [Eon~1~Hadean.secret](/_secret/Time-Ages/geo~Eons/Eon~1~Hadean.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_typical_age_range )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_typical_age_range](/_public/schema-org/Property/Texts/has_typical_age_range.md) 
+### [has_typical_age_range](/_Standards/schema-org/Property/Texts/has_typical_age_range.md) 
+
+### [has_typical_age_range.public](/_public/schema-org/Property/Texts/has_typical_age_range.public.md) 
 
 ### [has_typical_age_range.internal](/_internal/schema-org/Property/Texts/has_typical_age_range.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_typical_age_range.personal](/_personal/schema-org/Property/Texts/has_typical_age_range.personal.md) 
 
-### [has_typical_age_range.secret](/_secret/schema-org/Property/Texts/has_typical_age_range.secret.md) 
+### [has_typical_age_range.secret](/_secret/schema-org/Property/Texts/has_typical_age_range.secret.md)
+

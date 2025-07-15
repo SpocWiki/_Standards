@@ -417,7 +417,9 @@ Capital :: [[Andorra]]
 
 ## Confidential Links & Embeds: 
 
-### [Andorra](/_public/Earth/Continent/Europe/Europe~South/Andorra.md) 
+### [Andorra](/_Standards/Earth/Continent/Europe/Europe~South/Andorra.md) 
+
+### [Andorra.public](/_public/Earth/Continent/Europe/Europe~South/Andorra.public.md) 
 
 ### [Andorra.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra.internal.md) 
 
@@ -427,4 +429,5 @@ Capital :: [[Andorra]]
 
 ### [Andorra.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra.personal.md) 
 
-### [Andorra.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra.secret.md) 
+### [Andorra.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra.secret.md)
+

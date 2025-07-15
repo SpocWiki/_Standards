@@ -36,9 +36,12 @@ An entry point, within some Web-based protocol.
 
 [ #has_/properties :: [ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [entry_point](/_public/schema-org/Class/is_a_/Intangible/entry_point.md) 
+### [entry_point](/_Standards/schema-org/Class/is_a_/Intangible/entry_point.md) 
+
+### [entry_point.public](/_public/schema-org/Class/is_a_/Intangible/entry_point.public.md) 
 
 ### [entry_point.internal](/_internal/schema-org/Class/is_a_/Intangible/entry_point.internal.md) 
 
@@ -48,4 +51,5 @@ An entry point, within some Web-based protocol.
 
 ### [entry_point.personal](/_personal/schema-org/Class/is_a_/Intangible/entry_point.personal.md) 
 
-### [entry_point.secret](/_secret/schema-org/Class/is_a_/Intangible/entry_point.secret.md) 
+### [entry_point.secret](/_secret/schema-org/Class/is_a_/Intangible/entry_point.secret.md)
+

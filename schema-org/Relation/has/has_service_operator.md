@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_service_operator )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_service_operator](/_public/schema-org/Relation/has/has_service_operator.md) 
+### [has_service_operator](/_Standards/schema-org/Relation/has/has_service_operator.md) 
+
+### [has_service_operator.public](/_public/schema-org/Relation/has/has_service_operator.public.md) 
 
 ### [has_service_operator.internal](/_internal/schema-org/Relation/has/has_service_operator.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_service_operator.personal](/_personal/schema-org/Relation/has/has_service_operator.personal.md) 
 
-### [has_service_operator.secret](/_secret/schema-org/Relation/has/has_service_operator.secret.md) 
+### [has_service_operator.secret](/_secret/schema-org/Relation/has/has_service_operator.secret.md)
+

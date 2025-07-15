@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An [[Article]] whose content is primarily [[satirical]](https://en.wikipedia.org
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~SatiricalArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.md) 
+### [FileClass~SatiricalArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.md) 
+
+### [FileClass~SatiricalArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.public.md) 
 
 ### [FileClass~SatiricalArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.internal.md) 
 
@@ -46,4 +47,5 @@ An [[Article]] whose content is primarily [[satirical]](https://en.wikipedia.org
 
 ### [FileClass~SatiricalArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.personal.md) 
 
-### [FileClass~SatiricalArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret.md) 
+### [FileClass~SatiricalArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret.md)
+

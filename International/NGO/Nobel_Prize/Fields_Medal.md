@@ -29,3 +29,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fields%20Medal) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Fields_Medal](/_Standards/International/NGO/Nobel_Prize/Fields_Medal.md) 
+
+### [Fields_Medal.public](/_public/International/NGO/Nobel_Prize/Fields_Medal.public.md) 
+
+### [Fields_Medal.internal](/_internal/International/NGO/Nobel_Prize/Fields_Medal.internal.md) 
+
+### [Fields_Medal.protect](/_protect/International/NGO/Nobel_Prize/Fields_Medal.protect.md) 
+
+### [Fields_Medal.private](/_private/International/NGO/Nobel_Prize/Fields_Medal.private.md) 
+
+### [Fields_Medal.personal](/_personal/International/NGO/Nobel_Prize/Fields_Medal.personal.md) 
+
+### [Fields_Medal.secret](/_secret/International/NGO/Nobel_Prize/Fields_Medal.secret.md)
+

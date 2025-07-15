@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The science or practice of testing visual acuity and prescribing corrective lens
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [optometric](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.md) 
+### [optometric](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.md) 
+
+### [optometric.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.public.md) 
 
 ### [optometric.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.internal.md) 
 
@@ -56,4 +59,5 @@ The science or practice of testing visual acuity and prescribing corrective lens
 
 ### [optometric.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.personal.md) 
 
-### [optometric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.secret.md) 
+### [optometric.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/optometric.secret.md)
+

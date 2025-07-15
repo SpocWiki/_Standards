@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_mobile_url )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_mobile_url](/_public/schema-org/Property/Texts/has_mobile_url.md) 
+### [has_mobile_url](/_Standards/schema-org/Property/Texts/has_mobile_url.md) 
+
+### [has_mobile_url.public](/_public/schema-org/Property/Texts/has_mobile_url.public.md) 
 
 ### [has_mobile_url.internal](/_internal/schema-org/Property/Texts/has_mobile_url.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_mobile_url.personal](/_personal/schema-org/Property/Texts/has_mobile_url.personal.md) 
 
-### [has_mobile_url.secret](/_secret/schema-org/Property/Texts/has_mobile_url.secret.md) 
+### [has_mobile_url.secret](/_secret/schema-org/Property/Texts/has_mobile_url.secret.md)
+

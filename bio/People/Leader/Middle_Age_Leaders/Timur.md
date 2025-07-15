@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - Timur
 - Tamerlane
@@ -96,4 +96,23 @@ Commons_Creator_page: Timur
 > He was the grandfather of the Timurid sultan, astronomer and mathematician Ulugh Beg, who ruled Central Asia from 1411 to 1449, and the great-great-great-grandfather of Babur (1483–1530), founder of the Mughal Empire.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Timur)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Timur](/_Standards/bio/People/Leader/Middle_Age_Leaders/Timur.md) 
+
+### [Timur.public](/_public/bio/People/Leader/Middle_Age_Leaders/Timur.public.md) 
+
+### [Timur.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Timur.internal.md) 
+
+### [Timur.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Timur.protect.md) 
+
+### [Timur.private](/_private/bio/People/Leader/Middle_Age_Leaders/Timur.private.md) 
+
+### [Timur.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Timur.personal.md) 
+
+### [Timur.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Timur.secret.md)
 

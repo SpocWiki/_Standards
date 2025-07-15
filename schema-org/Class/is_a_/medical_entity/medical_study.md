@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A medical study is an umbrella type covering all kinds of research studies relat
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_study](/_public/schema-org/Class/is_a_/medical_entity/medical_study.md) 
+### [medical_study](/_Standards/schema-org/Class/is_a_/medical_entity/medical_study.md) 
+
+### [medical_study.public](/_public/schema-org/Class/is_a_/medical_entity/medical_study.public.md) 
 
 ### [medical_study.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_study.internal.md) 
 
@@ -56,4 +59,5 @@ A medical study is an umbrella type covering all kinds of research studies relat
 
 ### [medical_study.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_study.personal.md) 
 
-### [medical_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study.secret.md) 
+### [medical_study.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_study.secret.md)
+

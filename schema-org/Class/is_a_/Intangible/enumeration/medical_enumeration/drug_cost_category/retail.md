@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The drug's cost represents the retail cost of the drug.
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [retail](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.md) 
+### [retail](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.md) 
+
+### [retail.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.public.md) 
 
 ### [retail.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.internal.md) 
 
@@ -56,4 +59,5 @@ The drug's cost represents the retail cost of the drug.
 
 ### [retail.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.personal.md) 
 
-### [retail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.secret.md) 
+### [retail.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/retail.secret.md)
+

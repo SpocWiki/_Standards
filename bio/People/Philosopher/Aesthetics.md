@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q35986
 MeSH_tree_code:
 - K01.752.210
@@ -49,4 +49,23 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/ESTETIKA.html
 > The philosophy of art specifically studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people like some works of art and not others, as well as how art can affect our moods and our beliefs. Both aesthetics and the philosophy of art try to find answers to what exactly is art and what makes good art.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aesthetics)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Aesthetics](/_Standards/bio/People/Philosopher/Aesthetics.md) 
+
+### [Aesthetics.public](/_public/bio/People/Philosopher/Aesthetics.public.md) 
+
+### [Aesthetics.internal](/_internal/bio/People/Philosopher/Aesthetics.internal.md) 
+
+### [Aesthetics.protect](/_protect/bio/People/Philosopher/Aesthetics.protect.md) 
+
+### [Aesthetics.private](/_private/bio/People/Philosopher/Aesthetics.private.md) 
+
+### [Aesthetics.personal](/_personal/bio/People/Philosopher/Aesthetics.personal.md) 
+
+### [Aesthetics.secret](/_secret/bio/People/Philosopher/Aesthetics.secret.md)
 

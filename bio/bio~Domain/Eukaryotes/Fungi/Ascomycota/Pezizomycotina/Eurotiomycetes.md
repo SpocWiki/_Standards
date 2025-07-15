@@ -23,3 +23,21 @@ title: Eurotiomycetes
 # Eurotiomycetes 
 
 Containing group: [Pezizomycotina](Pezizomycotina.md)
+
+
+## Confidential Links & Embeds: 
+
+### [Eurotiomycetes](/_Standards/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.md) 
+
+### [Eurotiomycetes.public](/_public/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.public.md) 
+
+### [Eurotiomycetes.internal](/_internal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.internal.md) 
+
+### [Eurotiomycetes.protect](/_protect/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.protect.md) 
+
+### [Eurotiomycetes.private](/_private/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.private.md) 
+
+### [Eurotiomycetes.personal](/_personal/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.personal.md) 
+
+### [Eurotiomycetes.secret](/_secret/bio/bio~Domain/Eukaryotes/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.secret.md)
+

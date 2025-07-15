@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A state or province of a country.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~State](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.md) 
+### [FileClass~State](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.md) 
+
+### [FileClass~State.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.public.md) 
 
 ### [FileClass~State.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.internal.md) 
 
@@ -46,4 +47,5 @@ A state or province of a country.
 
 ### [FileClass~State.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.personal.md) 
 
-### [FileClass~State.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret.md) 
+### [FileClass~State.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [on_demand_event](/_public/schema-org/Class/is_a_/event/publication_event/on_demand_event.md) 
+### [on_demand_event](/_Standards/schema-org/Class/is_a_/event/publication_event/on_demand_event.md) 
+
+### [on_demand_event.public](/_public/schema-org/Class/is_a_/event/publication_event/on_demand_event.public.md) 
 
 ### [on_demand_event.internal](/_internal/schema-org/Class/is_a_/event/publication_event/on_demand_event.internal.md) 
 
@@ -54,4 +57,5 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 ### [on_demand_event.personal](/_personal/schema-org/Class/is_a_/event/publication_event/on_demand_event.personal.md) 
 
-### [on_demand_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event/on_demand_event.secret.md) 
+### [on_demand_event.secret](/_secret/schema-org/Class/is_a_/event/publication_event/on_demand_event.secret.md)
+

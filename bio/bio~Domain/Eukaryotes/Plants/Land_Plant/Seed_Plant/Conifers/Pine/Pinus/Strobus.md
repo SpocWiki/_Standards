@@ -36,3 +36,22 @@ title: subgenus Strobus
   Body Part         ovulate cone
   Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
   ---------------------------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Strobus](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.md) 
+
+### [Strobus.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.public.md) 
+
+### [Strobus.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.internal.md) 
+
+### [Strobus.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.protect.md) 
+
+### [Strobus.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.private.md) 
+
+### [Strobus.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.personal.md) 
+
+### [Strobus.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus.secret.md)
+

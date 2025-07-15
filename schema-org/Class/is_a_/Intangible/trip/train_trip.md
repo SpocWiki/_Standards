@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A trip on a commercial train line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [train_trip](/_public/schema-org/Class/is_a_/Intangible/trip/train_trip.md) 
+### [train_trip](/_Standards/schema-org/Class/is_a_/Intangible/trip/train_trip.md) 
+
+### [train_trip.public](/_public/schema-org/Class/is_a_/Intangible/trip/train_trip.public.md) 
 
 ### [train_trip.internal](/_internal/schema-org/Class/is_a_/Intangible/trip/train_trip.internal.md) 
 
@@ -54,4 +57,5 @@ A trip on a commercial train line.
 
 ### [train_trip.personal](/_personal/schema-org/Class/is_a_/Intangible/trip/train_trip.personal.md) 
 
-### [train_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/train_trip.secret.md) 
+### [train_trip.secret](/_secret/schema-org/Class/is_a_/Intangible/trip/train_trip.secret.md)
+

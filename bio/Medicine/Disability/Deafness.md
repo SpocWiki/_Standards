@@ -55,3 +55,22 @@ Unicode_character: 🧏
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deafness)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Deafness](/_Standards/bio/Medicine/Disability/Deafness.md) 
+
+### [Deafness.public](/_public/bio/Medicine/Disability/Deafness.public.md) 
+
+### [Deafness.internal](/_internal/bio/Medicine/Disability/Deafness.internal.md) 
+
+### [Deafness.protect](/_protect/bio/Medicine/Disability/Deafness.protect.md) 
+
+### [Deafness.private](/_private/bio/Medicine/Disability/Deafness.private.md) 
+
+### [Deafness.personal](/_personal/bio/Medicine/Disability/Deafness.personal.md) 
+
+### [Deafness.secret](/_secret/bio/Medicine/Disability/Deafness.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A structured value representing repayment.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [repayment_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.md) 
+### [repayment_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.md) 
+
+### [repayment_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.public.md) 
 
 ### [repayment_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.internal.md) 
 
@@ -56,4 +59,5 @@ A structured value representing repayment.
 
 ### [repayment_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.personal.md) 
 
-### [repayment_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.secret.md) 
+### [repayment_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/repayment_specification.secret.md)
+

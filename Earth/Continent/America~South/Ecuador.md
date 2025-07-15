@@ -548,10 +548,11 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Ecuador) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Ecuador](/_public/Earth/Continent/America~South/Ecuador.md) 
+### [Ecuador](/_Standards/Earth/Continent/America~South/Ecuador.md) 
+
+### [Ecuador.public](/_public/Earth/Continent/America~South/Ecuador.public.md) 
 
 ### [Ecuador.internal](/_internal/Earth/Continent/America~South/Ecuador.internal.md) 
 
@@ -561,4 +562,5 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 ### [Ecuador.personal](/_personal/Earth/Continent/America~South/Ecuador.personal.md) 
 
-### [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md) 
+### [Ecuador.secret](/_secret/Earth/Continent/America~South/Ecuador.secret.md)
+

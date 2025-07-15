@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_application_category )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_application_category](/_public/schema-org/Property/Texts/has_application_category.md) 
+### [has_application_category](/_Standards/schema-org/Property/Texts/has_application_category.md) 
+
+### [has_application_category.public](/_public/schema-org/Property/Texts/has_application_category.public.md) 
 
 ### [has_application_category.internal](/_internal/schema-org/Property/Texts/has_application_category.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_application_category.personal](/_personal/schema-org/Property/Texts/has_application_category.personal.md) 
 
-### [has_application_category.secret](/_secret/schema-org/Property/Texts/has_application_category.secret.md) 
+### [has_application_category.secret](/_secret/schema-org/Property/Texts/has_application_category.secret.md)
+

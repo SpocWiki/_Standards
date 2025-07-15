@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: has_illustrator )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_illustrator](/_public/schema-org/Relation/has/has_illustrator.md) 
+### [has_illustrator](/_Standards/schema-org/Relation/has/has_illustrator.md) 
+
+### [has_illustrator.public](/_public/schema-org/Relation/has/has_illustrator.public.md) 
 
 ### [has_illustrator.internal](/_internal/schema-org/Relation/has/has_illustrator.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_illustrator.personal](/_personal/schema-org/Relation/has/has_illustrator.personal.md) 
 
-### [has_illustrator.secret](/_secret/schema-org/Relation/has/has_illustrator.secret.md) 
+### [has_illustrator.secret](/_secret/schema-org/Relation/has/has_illustrator.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A legislative building—for example, the state capitol.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~LegislativeBuilding](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.md) 
+### [FileClass~LegislativeBuilding](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.md) 
+
+### [FileClass~LegislativeBuilding.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.public.md) 
 
 ### [FileClass~LegislativeBuilding.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.internal.md) 
 
@@ -46,4 +47,5 @@ A legislative building—for example, the state capitol.
 
 ### [FileClass~LegislativeBuilding.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.personal.md) 
 
-### [FileClass~LegislativeBuilding.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.secret.md) 
+### [FileClass~LegislativeBuilding.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: superEvent ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sub_event](/_public/schema-org/Relation/has/has_sub_event.md) 
+### [has_sub_event](/_Standards/schema-org/Relation/has/has_sub_event.md) 
+
+### [has_sub_event.public](/_public/schema-org/Relation/has/has_sub_event.public.md) 
 
 ### [has_sub_event.internal](/_internal/schema-org/Relation/has/has_sub_event.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_sub_event.personal](/_personal/schema-org/Relation/has/has_sub_event.personal.md) 
 
-### [has_sub_event.secret](/_secret/schema-org/Relation/has/has_sub_event.secret.md) 
+### [has_sub_event.secret](/_secret/schema-org/Relation/has/has_sub_event.secret.md)
+

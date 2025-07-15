@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_included_composition )
 ( #has_/range :: MusicComposition )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_included_composition](/_public/schema-org/Relation/has/has_included_composition.md) 
+### [has_included_composition](/_Standards/schema-org/Relation/has/has_included_composition.md) 
+
+### [has_included_composition.public](/_public/schema-org/Relation/has/has_included_composition.public.md) 
 
 ### [has_included_composition.internal](/_internal/schema-org/Relation/has/has_included_composition.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_included_composition.personal](/_personal/schema-org/Relation/has/has_included_composition.personal.md) 
 
-### [has_included_composition.secret](/_secret/schema-org/Relation/has/has_included_composition.secret.md) 
+### [has_included_composition.secret](/_secret/schema-org/Relation/has/has_included_composition.secret.md)
+

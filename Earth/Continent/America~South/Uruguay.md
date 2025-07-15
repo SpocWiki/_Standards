@@ -612,9 +612,12 @@ Uruguay has achieved an impressive **94–98 % renewable** electricity share:
 
 With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods
 
+
 ## Confidential Links & Embeds: 
 
-### [Uruguay](/_public/Earth/Continent/America~South/Uruguay.md) 
+### [Uruguay](/_Standards/Earth/Continent/America~South/Uruguay.md) 
+
+### [Uruguay.public](/_public/Earth/Continent/America~South/Uruguay.public.md) 
 
 ### [Uruguay.internal](/_internal/Earth/Continent/America~South/Uruguay.internal.md) 
 
@@ -624,4 +627,5 @@ With such a diversified profile, Uruguay exports electricity to Brazil and Argen
 
 ### [Uruguay.personal](/_personal/Earth/Continent/America~South/Uruguay.personal.md) 
 
-### [Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay.secret.md) 
+### [Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay.secret.md)
+

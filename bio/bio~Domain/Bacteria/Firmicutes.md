@@ -53,3 +53,22 @@ low G+C Gram positives
     -   [Mollicutes](Mollicutes)
     -   [Bacilli](Bacilli)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Firmicutes](/_Standards/bio/bio~Domain/Bacteria/Firmicutes.md) 
+
+### [Firmicutes.public](/_public/bio/bio~Domain/Bacteria/Firmicutes.public.md) 
+
+### [Firmicutes.internal](/_internal/bio/bio~Domain/Bacteria/Firmicutes.internal.md) 
+
+### [Firmicutes.protect](/_protect/bio/bio~Domain/Bacteria/Firmicutes.protect.md) 
+
+### [Firmicutes.private](/_private/bio/bio~Domain/Bacteria/Firmicutes.private.md) 
+
+### [Firmicutes.personal](/_personal/bio/bio~Domain/Bacteria/Firmicutes.personal.md) 
+
+### [Firmicutes.secret](/_secret/bio/bio~Domain/Bacteria/Firmicutes.secret.md)
+

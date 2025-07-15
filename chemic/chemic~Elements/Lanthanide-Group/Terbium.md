@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21961
 has_id_wikidata: Q1838
@@ -94,9 +94,12 @@ Unicode_character: 鋱
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terbium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Terbium](/_public/chemic/chemic~Elements/Lanthanide-Group/Terbium.md) 
+### [Terbium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Terbium.md) 
+
+### [Terbium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Terbium.public.md) 
 
 ### [Terbium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Terbium.internal.md) 
 
@@ -106,4 +109,5 @@ Unicode_character: 鋱
 
 ### [Terbium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Terbium.personal.md) 
 
-### [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md) 
+### [Terbium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Terbium.secret.md)
+

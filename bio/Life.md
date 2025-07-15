@@ -118,3 +118,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Life)
 
+
+## Confidential Links & Embeds: 
+
+### [Life](/_Standards/bio/Life.md) 
+
+### [Life.public](/_public/bio/Life.public.md) 
+
+### [Life.internal](/_internal/bio/Life.internal.md) 
+
+### [Life.protect](/_protect/bio/Life.protect.md) 
+
+### [Life.private](/_private/bio/Life.private.md) 
+
+### [Life.personal](/_personal/bio/Life.personal.md) 
+
+### [Life.secret](/_secret/bio/Life.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_target_description )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_target_description](/_public/schema-org/Property/Texts/has_target_description.md) 
+### [has_target_description](/_Standards/schema-org/Property/Texts/has_target_description.md) 
+
+### [has_target_description.public](/_public/schema-org/Property/Texts/has_target_description.public.md) 
 
 ### [has_target_description.internal](/_internal/schema-org/Property/Texts/has_target_description.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_target_description.personal](/_personal/schema-org/Property/Texts/has_target_description.personal.md) 
 
-### [has_target_description.secret](/_secret/schema-org/Property/Texts/has_target_description.secret.md) 
+### [has_target_description.secret](/_secret/schema-org/Property/Texts/has_target_description.secret.md)
+

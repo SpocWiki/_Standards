@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.73 , 115.82 ] 
 type: geo-Region
 title: Spratly_Islands
@@ -41,7 +41,9 @@ markerFolder: ./Spratly_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Spratly_Islands](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.md) 
+### [Spratly_Islands](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.md) 
+
+### [Spratly_Islands.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.public.md) 
 
 ### [Spratly_Islands.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Spratly_Islands/
 
 ### [Spratly_Islands.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.personal.md) 
 
-### [Spratly_Islands.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret.md) 
+### [Spratly_Islands.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret.md)
+

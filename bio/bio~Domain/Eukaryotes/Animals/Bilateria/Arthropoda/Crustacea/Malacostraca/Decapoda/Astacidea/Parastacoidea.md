@@ -146,3 +146,22 @@ Photo copyright © 1998 Keith A. Crandall
 ![](Parastacoidea/Euastacus_armatus.jpg)
 Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Parastacoidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.md) 
+
+### [Parastacoidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.public.md) 
+
+### [Parastacoidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.internal.md) 
+
+### [Parastacoidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.protect.md) 
+
+### [Parastacoidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.private.md) 
+
+### [Parastacoidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.personal.md) 
+
+### [Parastacoidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Parastacoidea.secret.md)
+

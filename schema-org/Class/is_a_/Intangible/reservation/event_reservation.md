@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_reservation](/_public/schema-org/Class/is_a_/Intangible/reservation/event_reservation.md) 
+### [event_reservation](/_Standards/schema-org/Class/is_a_/Intangible/reservation/event_reservation.md) 
+
+### [event_reservation.public](/_public/schema-org/Class/is_a_/Intangible/reservation/event_reservation.public.md) 
 
 ### [event_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/event_reservation.internal.md) 
 
@@ -56,4 +59,5 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ### [event_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/event_reservation.personal.md) 
 
-### [event_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/event_reservation.secret.md) 
+### [event_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/event_reservation.secret.md)
+

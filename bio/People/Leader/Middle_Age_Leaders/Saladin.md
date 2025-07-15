@@ -12,3 +12,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saladin)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Saladin](/_Standards/bio/People/Leader/Middle_Age_Leaders/Saladin.md) 
+
+### [Saladin.public](/_public/bio/People/Leader/Middle_Age_Leaders/Saladin.public.md) 
+
+### [Saladin.internal](/_internal/bio/People/Leader/Middle_Age_Leaders/Saladin.internal.md) 
+
+### [Saladin.protect](/_protect/bio/People/Leader/Middle_Age_Leaders/Saladin.protect.md) 
+
+### [Saladin.private](/_private/bio/People/Leader/Middle_Age_Leaders/Saladin.private.md) 
+
+### [Saladin.personal](/_personal/bio/People/Leader/Middle_Age_Leaders/Saladin.personal.md) 
+
+### [Saladin.secret](/_secret/bio/People/Leader/Middle_Age_Leaders/Saladin.secret.md)
+

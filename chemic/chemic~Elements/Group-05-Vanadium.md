@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -20,10 +20,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%205%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-05-Vanadium](/_public/chemic/chemic~Elements/Group-05-Vanadium.md) 
+### [Group-05-Vanadium](/_Standards/chemic/chemic~Elements/Group-05-Vanadium.md) 
+
+### [Group-05-Vanadium.public](/_public/chemic/chemic~Elements/Group-05-Vanadium.public.md) 
 
 ### [Group-05-Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium.internal.md) 
 
@@ -33,4 +34,5 @@ type: ElementGroup
 
 ### [Group-05-Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium.personal.md) 
 
-### [Group-05-Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium.secret.md) 
+### [Group-05-Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium.secret.md)
+

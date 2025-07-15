@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q532
 part_of: "[[_Standards/WikiData/WD~rural_area,175185]]"
 model_item:
@@ -58,4 +58,21 @@ Commons_category: Villages
 > In toponomastic terminology, the names of individual villages are called Comonyms (from Ancient Greek κώμη / village and ὄνυμα / name, [cf. ὄνομα]).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Village) 
+
+
+## Confidential Links & Embeds: 
+
+### [Village](/_Standards/Earth/Geography/Village.md) 
+
+### [Village.public](/_public/Earth/Geography/Village.public.md) 
+
+### [Village.internal](/_internal/Earth/Geography/Village.internal.md) 
+
+### [Village.protect](/_protect/Earth/Geography/Village.protect.md) 
+
+### [Village.private](/_private/Earth/Geography/Village.private.md) 
+
+### [Village.personal](/_personal/Earth/Geography/Village.personal.md) 
+
+### [Village.secret](/_secret/Earth/Geography/Village.secret.md)
 

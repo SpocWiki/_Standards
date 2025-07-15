@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [cross_sectional](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md) 
+### [cross_sectional](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md) 
+
+### [cross_sectional.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.public.md) 
 
 ### [cross_sectional.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.internal.md) 
 
@@ -56,4 +59,5 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 
 ### [cross_sectional.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.personal.md) 
 
-### [cross_sectional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.secret.md) 
+### [cross_sectional.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.secret.md)
+

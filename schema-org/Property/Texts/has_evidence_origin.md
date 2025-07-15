@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_evidence_origin )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_evidence_origin](/_public/schema-org/Property/Texts/has_evidence_origin.md) 
+### [has_evidence_origin](/_Standards/schema-org/Property/Texts/has_evidence_origin.md) 
+
+### [has_evidence_origin.public](/_public/schema-org/Property/Texts/has_evidence_origin.public.md) 
 
 ### [has_evidence_origin.internal](/_internal/schema-org/Property/Texts/has_evidence_origin.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_evidence_origin.personal](/_personal/schema-org/Property/Texts/has_evidence_origin.personal.md) 
 
-### [has_evidence_origin.secret](/_secret/schema-org/Property/Texts/has_evidence_origin.secret.md) 
+### [has_evidence_origin.secret](/_secret/schema-org/Property/Texts/has_evidence_origin.secret.md)
+

@@ -585,10 +585,11 @@ Capital :: [[N'Djamena]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Chad) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chad](/_public/Earth/Continent/Africa/Africa~Central/Chad.md) 
+### [Chad](/_Standards/Earth/Continent/Africa/Africa~Central/Chad.md) 
+
+### [Chad.public](/_public/Earth/Continent/Africa/Africa~Central/Chad.public.md) 
 
 ### [Chad.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal.md) 
 
@@ -598,4 +599,5 @@ Capital :: [[N'Djamena]]
 
 ### [Chad.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal.md) 
 
-### [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md) 
+### [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md)
+

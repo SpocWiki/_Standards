@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_partial_bathrooms )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_partial_bathrooms](/_public/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.md) 
+### [has_number_of_partial_bathrooms](/_Standards/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.md) 
+
+### [has_number_of_partial_bathrooms.public](/_public/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.public.md) 
 
 ### [has_number_of_partial_bathrooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [has_number_of_partial_bathrooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.personal.md) 
 
-### [has_number_of_partial_bathrooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.secret.md) 
+### [has_number_of_partial_bathrooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_partial_bathrooms.secret.md)
+

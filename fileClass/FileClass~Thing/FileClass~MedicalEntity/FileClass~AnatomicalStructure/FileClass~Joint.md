@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -64,10 +64,11 @@ The name given to how bone physically connects to each other.
 StructuralClass:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Joint](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.md) 
+### [FileClass~Joint](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.md) 
+
+### [FileClass~Joint.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.public.md) 
 
 ### [FileClass~Joint.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.internal.md) 
 
@@ -77,4 +78,5 @@ StructuralClass:: {"type":"Input","options":{}}
 
 ### [FileClass~Joint.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.personal.md) 
 
-### [FileClass~Joint.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.secret.md) 
+### [FileClass~Joint.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Joint.secret.md)
+

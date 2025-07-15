@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 ( #has_/name :: has_location_spatial )
 ( #has_/range :: Place )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_spatial](/_public/schema-org/Property/has_location/has_location_spatial.md) 
+### [has_location_spatial](/_Standards/schema-org/Property/has_location/has_location_spatial.md) 
+
+### [has_location_spatial.public](/_public/schema-org/Property/has_location/has_location_spatial.public.md) 
 
 ### [has_location_spatial.internal](/_internal/schema-org/Property/has_location/has_location_spatial.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_location_spatial.personal](/_personal/schema-org/Property/has_location/has_location_spatial.personal.md) 
 
-### [has_location_spatial.secret](/_secret/schema-org/Property/has_location/has_location_spatial.secret.md) 
+### [has_location_spatial.secret](/_secret/schema-org/Property/has_location/has_location_spatial.secret.md)
+

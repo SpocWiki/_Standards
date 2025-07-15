@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_backstory )
 ( #has_/range :: CreativeWork, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_backstory](/_public/schema-org/Relation/has/has_backstory.md) 
+### [has_backstory](/_Standards/schema-org/Relation/has/has_backstory.md) 
+
+### [has_backstory.public](/_public/schema-org/Relation/has/has_backstory.public.md) 
 
 ### [has_backstory.internal](/_internal/schema-org/Relation/has/has_backstory.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_backstory.personal](/_personal/schema-org/Relation/has/has_backstory.personal.md) 
 
-### [has_backstory.secret](/_secret/schema-org/Relation/has/has_backstory.secret.md) 
+### [has_backstory.secret](/_secret/schema-org/Relation/has/has_backstory.secret.md)
+

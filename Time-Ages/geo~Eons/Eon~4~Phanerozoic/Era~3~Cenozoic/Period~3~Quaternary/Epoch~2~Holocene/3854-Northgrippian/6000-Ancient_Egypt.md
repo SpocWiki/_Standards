@@ -130,3 +130,22 @@ has_/time_/stopped :: -332
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20Egypt) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [6000-Ancient_Egypt](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.md) 
+
+### [6000-Ancient_Egypt.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.public.md) 
+
+### [6000-Ancient_Egypt.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.internal.md) 
+
+### [6000-Ancient_Egypt.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.protect.md) 
+
+### [6000-Ancient_Egypt.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.private.md) 
+
+### [6000-Ancient_Egypt.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.personal.md) 
+
+### [6000-Ancient_Egypt.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt.secret.md)
+

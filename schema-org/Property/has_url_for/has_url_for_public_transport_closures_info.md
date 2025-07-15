@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_public_transport_closures_info )
 ( #has_/range :: URL, WebContent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_public_transport_closures_info](/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.md) 
+### [has_url_for_public_transport_closures_info](/_Standards/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.md) 
+
+### [has_url_for_public_transport_closures_info.public](/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.public.md) 
 
 ### [has_url_for_public_transport_closures_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_public_transport_closures_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.personal.md) 
 
-### [has_url_for_public_transport_closures_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret.md) 
+### [has_url_for_public_transport_closures_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret.md)
+

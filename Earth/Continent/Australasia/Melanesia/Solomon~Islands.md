@@ -146,9 +146,12 @@ Capital :: [[Honiara]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solomon%20Islands)
 
+
 ## Confidential Links & Embeds: 
 
-### [Solomon~Islands](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands.md) 
+### [Solomon~Islands](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon~Islands.md) 
+
+### [Solomon~Islands.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands.public.md) 
 
 ### [Solomon~Islands.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.internal.md) 
 
@@ -158,4 +161,5 @@ Capital :: [[Honiara]]
 
 ### [Solomon~Islands.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands.personal.md) 
 
-### [Solomon~Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands.secret.md) 
+### [Solomon~Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands.secret.md)
+

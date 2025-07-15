@@ -65,10 +65,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~1~Tonian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
+### [Period~1~Tonian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
+
+### [Period~1~Tonian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.public.md) 
 
 ### [Period~1~Tonian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal.md) 
 
@@ -78,4 +79,5 @@ noteOnly: true
 
 ### [Period~1~Tonian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal.md) 
 
-### [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md) 
+### [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md)
+

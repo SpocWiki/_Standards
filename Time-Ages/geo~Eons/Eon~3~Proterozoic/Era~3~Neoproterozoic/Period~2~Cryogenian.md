@@ -67,10 +67,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~2~Cryogenian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.md) 
+### [Period~2~Cryogenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.md) 
+
+### [Period~2~Cryogenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.public.md) 
 
 ### [Period~2~Cryogenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal.md) 
 
@@ -80,4 +81,5 @@ noteOnly: true
 
 ### [Period~2~Cryogenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal.md) 
 
-### [Period~2~Cryogenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret.md) 
+### [Period~2~Cryogenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret.md)
+

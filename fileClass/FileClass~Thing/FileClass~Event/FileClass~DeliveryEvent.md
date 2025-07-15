@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -72,10 +72,11 @@ Method used for delivery or shipping.
 HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~DeliveryEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.md) 
+### [FileClass~DeliveryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.md) 
+
+### [FileClass~DeliveryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.public.md) 
 
 ### [FileClass~DeliveryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.internal.md) 
 
@@ -85,4 +86,5 @@ HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","
 
 ### [FileClass~DeliveryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.personal.md) 
 
-### [FileClass~DeliveryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret.md) 
+### [FileClass~DeliveryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_order_number](/_public/schema-org/Property/Texts/has_order_number.md) 
+### [has_order_number](/_Standards/schema-org/Property/Texts/has_order_number.md) 
+
+### [has_order_number.public](/_public/schema-org/Property/Texts/has_order_number.public.md) 
 
 ### [has_order_number.internal](/_internal/schema-org/Property/Texts/has_order_number.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_order_number.personal](/_personal/schema-org/Property/Texts/has_order_number.personal.md) 
 
-### [has_order_number.secret](/_secret/schema-org/Property/Texts/has_order_number.secret.md) 
+### [has_order_number.secret](/_secret/schema-org/Property/Texts/has_order_number.secret.md)
+

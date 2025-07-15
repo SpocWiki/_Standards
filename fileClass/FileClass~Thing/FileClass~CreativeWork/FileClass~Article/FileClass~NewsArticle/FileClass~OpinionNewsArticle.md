@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OpinionNewsArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.md) 
+### [FileClass~OpinionNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.md) 
+
+### [FileClass~OpinionNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.public.md) 
 
 ### [FileClass~OpinionNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.internal.md) 
 
@@ -46,4 +47,5 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 
 ### [FileClass~OpinionNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.personal.md) 
 
-### [FileClass~OpinionNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.secret.md) 
+### [FileClass~OpinionNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~OpinionNewsArticle.secret.md)
+

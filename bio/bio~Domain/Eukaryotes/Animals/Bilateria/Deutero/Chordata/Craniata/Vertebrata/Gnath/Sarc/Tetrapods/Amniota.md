@@ -557,3 +557,22 @@ the Transition to Land (1): 291-326. London: Academic Press.
   Specimen Condition   Fossil \-- Period: Late Triassic
   Copyright ::            © 1987 [American Museum of Natural History](http://amnh.org/)
   ------------------------------------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### [Amniota](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.md) 
+
+### [Amniota.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.public.md) 
+
+### [Amniota.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.internal.md) 
+
+### [Amniota.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.protect.md) 
+
+### [Amniota.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.private.md) 
+
+### [Amniota.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.personal.md) 
+
+### [Amniota.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota.secret.md)
+

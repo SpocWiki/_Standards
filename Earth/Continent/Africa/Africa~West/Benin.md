@@ -486,7 +486,9 @@ Capital :: [[Porto-Novo1]]
 
 ## Confidential Links & Embeds: 
 
-### [Benin](/_public/Earth/Continent/Africa/Africa~West/Benin.md) 
+### [Benin](/_Standards/Earth/Continent/Africa/Africa~West/Benin.md) 
+
+### [Benin.public](/_public/Earth/Continent/Africa/Africa~West/Benin.public.md) 
 
 ### [Benin.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin.internal.md) 
 
@@ -496,4 +498,5 @@ Capital :: [[Porto-Novo1]]
 
 ### [Benin.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin.personal.md) 
 
-### [Benin.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin.secret.md) 
+### [Benin.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin.secret.md)
+

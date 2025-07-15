@@ -560,9 +560,12 @@ excluding [[Kosovo]]!
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serbia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Serbia](/_public/Earth/Continent/Europe/Europe~South/Serbia.md) 
+### [Serbia](/_Standards/Earth/Continent/Europe/Europe~South/Serbia.md) 
+
+### [Serbia.public](/_public/Earth/Continent/Europe/Europe~South/Serbia.public.md) 
 
 ### [Serbia.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal.md) 
 
@@ -572,4 +575,5 @@ excluding [[Kosovo]]!
 
 ### [Serbia.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia.personal.md) 
 
-### [Serbia.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret.md) 
+### [Serbia.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret.md)
+

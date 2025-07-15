@@ -11,10 +11,11 @@ has_id_wikidata: Q25268
 [Name::Afro-Asiatic]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Afro-Asiatic](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic.md) 
+### [LangFamily-Afro-Asiatic](/_Standards/Language/Lang~Family/LangFamily-Afro-Asiatic.md) 
+
+### [LangFamily-Afro-Asiatic.public](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic.public.md) 
 
 ### [LangFamily-Afro-Asiatic.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic.internal.md) 
 
@@ -24,4 +25,5 @@ has_id_wikidata: Q25268
 
 ### [LangFamily-Afro-Asiatic.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic.personal.md) 
 
-### [LangFamily-Afro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic.secret.md) 
+### [LangFamily-Afro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic.secret.md)
+

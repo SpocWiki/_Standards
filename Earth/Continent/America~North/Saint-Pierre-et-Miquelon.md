@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 46.7833
     - -56.1667
@@ -46,10 +46,11 @@ has_place_continent:: [[North-America]]
 [has_place_latitude::46.7833]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Saint-Pierre-et-Miquelon](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.md) 
+### [Saint-Pierre-et-Miquelon](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.md) 
+
+### [Saint-Pierre-et-Miquelon.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public.md) 
 
 ### [Saint-Pierre-et-Miquelon.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal.md) 
 
@@ -59,4 +60,5 @@ has_place_continent:: [[North-America]]
 
 ### [Saint-Pierre-et-Miquelon.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal.md) 
 
-### [Saint-Pierre-et-Miquelon.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret.md) 
+### [Saint-Pierre-et-Miquelon.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret.md)
+

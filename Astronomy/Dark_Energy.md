@@ -27,3 +27,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dark%20energy) 
 
+
+## Confidential Links & Embeds: 
+
+### [Dark_Energy](/_Standards/Astronomy/Dark_Energy.md) 
+
+### [Dark_Energy.public](/_public/Astronomy/Dark_Energy.public.md) 
+
+### [Dark_Energy.internal](/_internal/Astronomy/Dark_Energy.internal.md) 
+
+### [Dark_Energy.protect](/_protect/Astronomy/Dark_Energy.protect.md) 
+
+### [Dark_Energy.private](/_private/Astronomy/Dark_Energy.private.md) 
+
+### [Dark_Energy.personal](/_personal/Astronomy/Dark_Energy.personal.md) 
+
+### [Dark_Energy.secret](/_secret/Astronomy/Dark_Energy.secret.md)
+

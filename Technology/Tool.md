@@ -61,3 +61,20 @@ Colon_Classification: "Y:82"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tool) 
 
+
+## Confidential Links & Embeds: 
+
+### [Tool](/_Standards/Technology/Tool.md) 
+
+### [Tool.public](/_public/Technology/Tool.public.md) 
+
+### [Tool.internal](/_internal/Technology/Tool.internal.md) 
+
+### [Tool.protect](/_protect/Technology/Tool.protect.md) 
+
+### [Tool.private](/_private/Technology/Tool.private.md) 
+
+### [Tool.personal](/_personal/Technology/Tool.personal.md) 
+
+### [Tool.secret](/_secret/Technology/Tool.secret.md)
+

@@ -17,3 +17,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vasopressin](/_Standards/chemic/organic/Biochemistry/Hormone/Vasopressin.md) 
+
+### [Vasopressin.public](/_public/chemic/organic/Biochemistry/Hormone/Vasopressin.public.md) 
+
+### [Vasopressin.internal](/_internal/chemic/organic/Biochemistry/Hormone/Vasopressin.internal.md) 
+
+### [Vasopressin.protect](/_protect/chemic/organic/Biochemistry/Hormone/Vasopressin.protect.md) 
+
+### [Vasopressin.private](/_private/chemic/organic/Biochemistry/Hormone/Vasopressin.private.md) 
+
+### [Vasopressin.personal](/_personal/chemic/organic/Biochemistry/Hormone/Vasopressin.personal.md) 
+
+### [Vasopressin.secret](/_secret/chemic/organic/Biochemistry/Hormone/Vasopressin.secret.md)
+

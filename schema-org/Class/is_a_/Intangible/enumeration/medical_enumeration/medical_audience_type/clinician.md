@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Medical clinicians, including practicing physicians and other medical profession
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [clinician](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.md) 
+### [clinician](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.md) 
+
+### [clinician.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.public.md) 
 
 ### [clinician.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.internal.md) 
 
@@ -56,4 +59,5 @@ Medical clinicians, including practicing physicians and other medical profession
 
 ### [clinician.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.personal.md) 
 
-### [clinician.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.secret.md) 
+### [clinician.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_audience_type/clinician.secret.md)
+

@@ -71,3 +71,22 @@ Acknowledgements     Photograph courtesy InsectImages.org (#1208060)
 Specimen Condition   Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © Dave Powell, USDA Forest Service
+
+
+
+## Confidential Links & Embeds: 
+
+### [Adoxaceae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.md) 
+
+### [Adoxaceae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.public.md) 
+
+### [Adoxaceae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.internal.md) 
+
+### [Adoxaceae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.protect.md) 
+
+### [Adoxaceae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.private.md) 
+
+### [Adoxaceae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.personal.md) 
+
+### [Adoxaceae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Dipsacales/Adoxaceae.secret.md)
+

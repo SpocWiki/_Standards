@@ -318,7 +318,9 @@ Capital :: [[Mbabane]]
 
 ## Confidential Links & Embeds: 
 
-### [Swaziland](/_public/Earth/Continent/Africa/Africa~South/Swaziland.md) 
+### [Swaziland](/_Standards/Earth/Continent/Africa/Africa~South/Swaziland.md) 
+
+### [Swaziland.public](/_public/Earth/Continent/Africa/Africa~South/Swaziland.public.md) 
 
 ### [Swaziland.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal.md) 
 
@@ -328,4 +330,5 @@ Capital :: [[Mbabane]]
 
 ### [Swaziland.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal.md) 
 
-### [Swaziland.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret.md) 
+### [Swaziland.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the installment pricing component of the total price for an offered p
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [installment](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.md) 
+### [installment](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.md) 
+
+### [installment.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.public.md) 
 
 ### [installment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the installment pricing component of the total price for an offered p
 
 ### [installment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.personal.md) 
 
-### [installment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.secret.md) 
+### [installment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/installment.secret.md)
+

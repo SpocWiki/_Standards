@@ -1,4 +1,4 @@
-﻿---
+---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -7,10 +7,11 @@ tags:
 [Name::Koreanic]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Koreanic](/_public/Language/Lang~Family/LangFamily-Koreanic.md) 
+### [LangFamily-Koreanic](/_Standards/Language/Lang~Family/LangFamily-Koreanic.md) 
+
+### [LangFamily-Koreanic.public](/_public/Language/Lang~Family/LangFamily-Koreanic.public.md) 
 
 ### [LangFamily-Koreanic.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic.internal.md) 
 
@@ -20,4 +21,5 @@ tags:
 
 ### [LangFamily-Koreanic.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic.personal.md) 
 
-### [LangFamily-Koreanic.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic.secret.md) 
+### [LangFamily-Koreanic.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic.secret.md)
+

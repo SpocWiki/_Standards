@@ -509,9 +509,12 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Portugal)
 
+
 ## Confidential Links & Embeds: 
 
-### [Portugal](/_public/Earth/Continent/Europe/Europe~South/Portugal.md) 
+### [Portugal](/_Standards/Earth/Continent/Europe/Europe~South/Portugal.md) 
+
+### [Portugal.public](/_public/Earth/Continent/Europe/Europe~South/Portugal.public.md) 
 
 ### [Portugal.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal.md) 
 
@@ -521,4 +524,5 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 
 ### [Portugal.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal.md) 
 
-### [Portugal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret.md) 
+### [Portugal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret.md)
+

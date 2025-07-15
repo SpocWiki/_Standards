@@ -603,9 +603,12 @@ Capital :: [[Kampala]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uganda)
 
+
 ## Confidential Links & Embeds: 
 
-### [Uganda](/_public/Earth/Continent/Africa/Africa~Central/Uganda.md) 
+### [Uganda](/_Standards/Earth/Continent/Africa/Africa~Central/Uganda.md) 
+
+### [Uganda.public](/_public/Earth/Continent/Africa/Africa~Central/Uganda.public.md) 
 
 ### [Uganda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal.md) 
 
@@ -615,4 +618,5 @@ Capital :: [[Kampala]]
 
 ### [Uganda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal.md) 
 
-### [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md) 
+### [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MediaGallery](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.md) 
+### [FileClass~MediaGallery](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.md) 
+
+### [FileClass~MediaGallery.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.public.md) 
 
 ### [FileClass~MediaGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.internal.md) 
 
@@ -46,4 +47,5 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 
 ### [FileClass~MediaGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.personal.md) 
 
-### [FileClass~MediaGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.secret.md) 
+### [FileClass~MediaGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery.secret.md)
+

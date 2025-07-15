@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.52 , 166.91 ] 
 type: geo-Region
 title: Denigomodu
@@ -41,7 +41,9 @@ markerFolder: ./Denigomodu/
 
 ## Confidential Links & Embeds: 
 
-### [Denigomodu](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.md) 
+### [Denigomodu](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.md) 
+
+### [Denigomodu.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.public.md) 
 
 ### [Denigomodu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Denigomodu/
 
 ### [Denigomodu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.personal.md) 
 
-### [Denigomodu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.secret.md) 
+### [Denigomodu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.secret.md)
+

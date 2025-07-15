@@ -94,3 +94,21 @@ European Journal of Protistology 32:423-448.
   Comments          Scanning electron micrograph
   Copyright ::         © 2000 Michael S. Atkins and O. Roger Anderson
   ------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Ancyromonas](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.md) 
+
+### [Ancyromonas.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.public.md) 
+
+### [Ancyromonas.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.internal.md) 
+
+### [Ancyromonas.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.protect.md) 
+
+### [Ancyromonas.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.private.md) 
+
+### [Ancyromonas.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.personal.md) 
+
+### [Ancyromonas.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Ancyromonas.secret.md)
+

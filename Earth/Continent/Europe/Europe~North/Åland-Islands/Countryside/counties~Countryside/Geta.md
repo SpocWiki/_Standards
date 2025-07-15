@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.36 , 19.85 ] 
 type: geo-Region
 title: Geta
@@ -41,7 +41,9 @@ markerFolder: ./Geta/
 
 ## Confidential Links & Embeds: 
 
-### [Geta](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.md) 
+### [Geta](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.md) 
+
+### [Geta.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public.md) 
 
 ### [Geta.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Geta/
 
 ### [Geta.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal.md) 
 
-### [Geta.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret.md) 
+### [Geta.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret.md)
+

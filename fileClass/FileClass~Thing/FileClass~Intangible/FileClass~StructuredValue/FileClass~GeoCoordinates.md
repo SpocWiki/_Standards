@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -95,10 +95,11 @@ The postal code. For example, 94043.
 PostalCode:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeoCoordinates](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.md) 
+### [FileClass~GeoCoordinates](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.md) 
+
+### [FileClass~GeoCoordinates.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.public.md) 
 
 ### [FileClass~GeoCoordinates.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.internal.md) 
 
@@ -108,4 +109,5 @@ PostalCode:: {"type":"Input","options":{}}
 
 ### [FileClass~GeoCoordinates.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.personal.md) 
 
-### [FileClass~GeoCoordinates.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.secret.md) 
+### [FileClass~GeoCoordinates.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoCoordinates.secret.md)
+

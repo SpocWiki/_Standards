@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_taxonomic_range )
 ( #has_/range :: DefinedTerm, Taxon, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_taxonomic_range](/_public/schema-org/Relation/has/has_taxonomic_range.md) 
+### [has_taxonomic_range](/_Standards/schema-org/Relation/has/has_taxonomic_range.md) 
+
+### [has_taxonomic_range.public](/_public/schema-org/Relation/has/has_taxonomic_range.public.md) 
 
 ### [has_taxonomic_range.internal](/_internal/schema-org/Relation/has/has_taxonomic_range.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_taxonomic_range.personal](/_personal/schema-org/Relation/has/has_taxonomic_range.personal.md) 
 
-### [has_taxonomic_range.secret](/_secret/schema-org/Relation/has/has_taxonomic_range.secret.md) 
+### [has_taxonomic_range.secret](/_secret/schema-org/Relation/has/has_taxonomic_range.secret.md)
+

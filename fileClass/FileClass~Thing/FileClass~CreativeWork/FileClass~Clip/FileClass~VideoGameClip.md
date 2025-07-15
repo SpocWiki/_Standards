@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A short segment/part of a video game.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~VideoGameClip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.md) 
+### [FileClass~VideoGameClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.md) 
+
+### [FileClass~VideoGameClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.public.md) 
 
 ### [FileClass~VideoGameClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.internal.md) 
 
@@ -46,4 +47,5 @@ A short segment/part of a video game.
 
 ### [FileClass~VideoGameClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.personal.md) 
 
-### [FileClass~VideoGameClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.secret.md) 
+### [FileClass~VideoGameClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~VideoGameClip.secret.md)
+

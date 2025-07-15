@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_game_platform )
 ( #has_/range :: Text, Thing, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_game_platform](/_public/schema-org/Property/Texts/has_game_platform.md) 
+### [has_game_platform](/_Standards/schema-org/Property/Texts/has_game_platform.md) 
+
+### [has_game_platform.public](/_public/schema-org/Property/Texts/has_game_platform.public.md) 
 
 ### [has_game_platform.internal](/_internal/schema-org/Property/Texts/has_game_platform.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_game_platform.personal](/_personal/schema-org/Property/Texts/has_game_platform.personal.md) 
 
-### [has_game_platform.secret](/_secret/schema-org/Property/Texts/has_game_platform.secret.md) 
+### [has_game_platform.secret](/_secret/schema-org/Property/Texts/has_game_platform.secret.md)
+

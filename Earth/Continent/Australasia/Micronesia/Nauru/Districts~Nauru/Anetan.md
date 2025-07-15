@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.499 , 166.937 ] 
 type: geo-Region
 title: Anetan
@@ -41,7 +41,9 @@ markerFolder: ./Anetan/
 
 ## Confidential Links & Embeds: 
 
-### [Anetan](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.md) 
+### [Anetan](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.md) 
+
+### [Anetan.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.public.md) 
 
 ### [Anetan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Anetan/
 
 ### [Anetan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.personal.md) 
 
-### [Anetan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.secret.md) 
+### [Anetan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.secret.md)
+

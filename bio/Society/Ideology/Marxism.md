@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7264
 different_from:
 - '[[_Standards/WikiData/WD~anarcho-communism,188670]]'
@@ -43,4 +43,23 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Marx%20and%20Engels.j
 > As a school of thought, Marxism has had a profound effect on society and global academia. To date, it has influenced many fields, including anthropology, archaeology, art theory, criminology, cultural studies, economics, education, ethics, film theory, geography, historiography, literary criticism, media studies, philosophy, political science, political economy, psychoanalysis, science studies, sociology, theatre, and urban planning.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marxism)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Marxism](/_Standards/bio/Society/Ideology/Marxism.md) 
+
+### [Marxism.public](/_public/bio/Society/Ideology/Marxism.public.md) 
+
+### [Marxism.internal](/_internal/bio/Society/Ideology/Marxism.internal.md) 
+
+### [Marxism.protect](/_protect/bio/Society/Ideology/Marxism.protect.md) 
+
+### [Marxism.private](/_private/bio/Society/Ideology/Marxism.private.md) 
+
+### [Marxism.personal](/_personal/bio/Society/Ideology/Marxism.personal.md) 
+
+### [Marxism.secret](/_secret/bio/Society/Ideology/Marxism.secret.md)
 

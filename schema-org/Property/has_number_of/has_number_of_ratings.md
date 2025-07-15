@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_ratings )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_ratings](/_public/schema-org/Property/has_number_of/has_number_of_ratings.md) 
+### [has_number_of_ratings](/_Standards/schema-org/Property/has_number_of/has_number_of_ratings.md) 
+
+### [has_number_of_ratings.public](/_public/schema-org/Property/has_number_of/has_number_of_ratings.public.md) 
 
 ### [has_number_of_ratings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_ratings.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_ratings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_ratings.personal.md) 
 
-### [has_number_of_ratings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_ratings.secret.md) 
+### [has_number_of_ratings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_ratings.secret.md)
+

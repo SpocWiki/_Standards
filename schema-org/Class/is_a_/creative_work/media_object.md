@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedArticle, associatedMedia, audience, audio, author, award, awards, bitrate, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contentSize, contentUrl, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, duration, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, embedUrl, encodesCreativeWork, encoding, encodingFormat, encodings, endTime, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, height, identifier, image, inLanguage, ineligibleRegion, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, playerType, position, potentialAction, producer, productionCompany, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, regionsAllowed, releasedEvent, requiresSubscription, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, sha256, size, sourceOrganization, spatial, spatialCoverage, sponsor, startTime, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, uploadDate, url, usageInfo, version, video, width, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [media_object](/_public/schema-org/Class/is_a_/creative_work/media_object.md) 
+### [media_object](/_Standards/schema-org/Class/is_a_/creative_work/media_object.md) 
+
+### [media_object.public](/_public/schema-org/Class/is_a_/creative_work/media_object.public.md) 
 
 ### [media_object.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object.internal.md) 
 
@@ -56,4 +59,5 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 ### [media_object.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object.personal.md) 
 
-### [media_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object.secret.md) 
+### [media_object.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object.secret.md)
+

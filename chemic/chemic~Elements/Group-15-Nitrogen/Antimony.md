@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21947
 has_id_wikidata: Q1099
@@ -132,9 +132,12 @@ PubChem_CID: 5354495
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antimony)
 
+
 ## Confidential Links & Embeds: 
 
-### [Antimony](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.md) 
+### [Antimony](/_Standards/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.md) 
+
+### [Antimony.public](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.public.md) 
 
 ### [Antimony.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.internal.md) 
 
@@ -144,4 +147,5 @@ PubChem_CID: 5354495
 
 ### [Antimony.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.personal.md) 
 
-### [Antimony.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.secret.md) 
+### [Antimony.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Antimony.secret.md)
+

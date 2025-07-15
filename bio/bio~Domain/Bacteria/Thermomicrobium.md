@@ -53,3 +53,22 @@ title: Thermomicrobium
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Thermomicrobium](/_Standards/bio/bio~Domain/Bacteria/Thermomicrobium.md) 
+
+### [Thermomicrobium.public](/_public/bio/bio~Domain/Bacteria/Thermomicrobium.public.md) 
+
+### [Thermomicrobium.internal](/_internal/bio/bio~Domain/Bacteria/Thermomicrobium.internal.md) 
+
+### [Thermomicrobium.protect](/_protect/bio/bio~Domain/Bacteria/Thermomicrobium.protect.md) 
+
+### [Thermomicrobium.private](/_private/bio/bio~Domain/Bacteria/Thermomicrobium.private.md) 
+
+### [Thermomicrobium.personal](/_personal/bio/bio~Domain/Bacteria/Thermomicrobium.personal.md) 
+
+### [Thermomicrobium.secret](/_secret/bio/bio~Domain/Bacteria/Thermomicrobium.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Katakana
 ---
@@ -15,7 +15,9 @@ Katakana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### [Script~Kana](/_public/Language/Scripts/Script~Kana.md) 
+### [Script~Kana](/_Standards/Language/Scripts/Script~Kana.md) 
+
+### [Script~Kana.public](/_public/Language/Scripts/Script~Kana.public.md) 
 
 ### [Script~Kana.internal](/_internal/Language/Scripts/Script~Kana.internal.md) 
 
@@ -25,4 +27,5 @@ Katakana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ### [Script~Kana.personal](/_personal/Language/Scripts/Script~Kana.personal.md) 
 
-### [Script~Kana.secret](/_secret/Language/Scripts/Script~Kana.secret.md) 
+### [Script~Kana.secret](/_secret/Language/Scripts/Script~Kana.secret.md)
+

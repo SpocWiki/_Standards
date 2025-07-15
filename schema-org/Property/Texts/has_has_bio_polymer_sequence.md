@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_has_bio_polymer_sequence](/_public/schema-org/Property/Texts/has_has_bio_polymer_sequence.md) 
+### [has_has_bio_polymer_sequence](/_Standards/schema-org/Property/Texts/has_has_bio_polymer_sequence.md) 
+
+### [has_has_bio_polymer_sequence.public](/_public/schema-org/Property/Texts/has_has_bio_polymer_sequence.public.md) 
 
 ### [has_has_bio_polymer_sequence.internal](/_internal/schema-org/Property/Texts/has_has_bio_polymer_sequence.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_has_bio_polymer_sequence.personal](/_personal/schema-org/Property/Texts/has_has_bio_polymer_sequence.personal.md) 
 
-### [has_has_bio_polymer_sequence.secret](/_secret/schema-org/Property/Texts/has_has_bio_polymer_sequence.secret.md) 
+### [has_has_bio_polymer_sequence.secret](/_secret/schema-org/Property/Texts/has_has_bio_polymer_sequence.secret.md)
+

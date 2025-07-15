@@ -1,4 +1,4 @@
-﻿---
+---
 location: [1.4,172.9667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,7 +35,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Tarawa](/_public/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.md) 
+### [South_Tarawa](/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.md) 
+
+### [South_Tarawa.public](/_public/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.public.md) 
 
 ### [South_Tarawa.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.internal.md) 
 
@@ -45,4 +47,5 @@ maxZoom: 18
 
 ### [South_Tarawa.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.personal.md) 
 
-### [South_Tarawa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.secret.md) 
+### [South_Tarawa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.secret.md)
+

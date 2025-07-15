@@ -103,3 +103,22 @@ taxon_author_citation: Moench
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Buckwheat](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.md) 
+
+### [Buckwheat.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.public.md) 
+
+### [Buckwheat.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.internal.md) 
+
+### [Buckwheat.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.protect.md) 
+
+### [Buckwheat.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.private.md) 
+
+### [Buckwheat.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.personal.md) 
+
+### [Buckwheat.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.secret.md)
+

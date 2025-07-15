@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_health_aspect )
 ( #has_/range :: HealthAspectEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_health_aspect](/_public/schema-org/Relation/has/has_health_aspect.md) 
+### [has_health_aspect](/_Standards/schema-org/Relation/has/has_health_aspect.md) 
+
+### [has_health_aspect.public](/_public/schema-org/Relation/has/has_health_aspect.public.md) 
 
 ### [has_health_aspect.internal](/_internal/schema-org/Relation/has/has_health_aspect.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_health_aspect.personal](/_personal/schema-org/Relation/has/has_health_aspect.personal.md) 
 
-### [has_health_aspect.secret](/_secret/schema-org/Relation/has/has_health_aspect.secret.md) 
+### [has_health_aspect.secret](/_secret/schema-org/Relation/has/has_health_aspect.secret.md)
+

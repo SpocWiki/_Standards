@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A type of blood vessel that specifically carries blood to the heart.
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, drainsTo, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, tributary, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [vein](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.md) 
+### [vein](/_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.md) 
+
+### [vein.public](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.public.md) 
 
 ### [vein.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.internal.md) 
 
@@ -54,4 +57,5 @@ A type of blood vessel that specifically carries blood to the heart.
 
 ### [vein.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.personal.md) 
 
-### [vein.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.secret.md) 
+### [vein.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.secret.md)
+

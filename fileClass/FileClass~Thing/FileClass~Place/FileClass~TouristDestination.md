@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -57,7 +57,9 @@ TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~TouristDestination](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.md) 
+### [FileClass~TouristDestination](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.md) 
+
+### [FileClass~TouristDestination.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.public.md) 
 
 ### [FileClass~TouristDestination.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.internal.md) 
 
@@ -67,4 +69,5 @@ TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ### [FileClass~TouristDestination.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.personal.md) 
 
-### [FileClass~TouristDestination.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.secret.md) 
+### [FileClass~TouristDestination.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.secret.md)
+

@@ -84,3 +84,22 @@ Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Scans courtesy of [Kurt Stüber\'s online library of historic and classical biology books.](http://caliban.mpiz-koeln.mpg.de/%7Estueber/stueber_library.html)
 
 ![](Cryptopontius_thorelli.jpg) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Siphonostomatoida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.md) 
+
+### [Siphonostomatoida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.public.md) 
+
+### [Siphonostomatoida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.internal.md) 
+
+### [Siphonostomatoida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.protect.md) 
+
+### [Siphonostomatoida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.private.md) 
+
+### [Siphonostomatoida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.personal.md) 
+
+### [Siphonostomatoida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Siphonostomatoida.secret.md)
+

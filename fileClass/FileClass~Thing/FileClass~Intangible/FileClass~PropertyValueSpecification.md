@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -144,10 +144,11 @@ Whether the property must be filled in to complete the action.  Default is false
 ValueRequired:: {"type":"Boolean","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~PropertyValueSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.md) 
+### [FileClass~PropertyValueSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.md) 
+
+### [FileClass~PropertyValueSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.public.md) 
 
 ### [FileClass~PropertyValueSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.internal.md) 
 
@@ -157,4 +158,5 @@ ValueRequired:: {"type":"Boolean","options":{}}
 
 ### [FileClass~PropertyValueSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.personal.md) 
 
-### [FileClass~PropertyValueSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.secret.md) 
+### [FileClass~PropertyValueSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~PropertyValueSpecification.secret.md)
+

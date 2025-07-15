@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Systems of medical practice.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medicine_system](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.md) 
+### [medicine_system](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.md) 
+
+### [medicine_system.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.public.md) 
 
 ### [medicine_system.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.internal.md) 
 
@@ -52,4 +55,5 @@ Systems of medical practice.
 
 ### [medicine_system.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.personal.md) 
 
-### [medicine_system.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.secret.md) 
+### [medicine_system.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.secret.md)
+

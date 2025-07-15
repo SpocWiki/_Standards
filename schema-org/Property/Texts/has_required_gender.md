@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_required_gender )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_required_gender](/_public/schema-org/Property/Texts/has_required_gender.md) 
+### [has_required_gender](/_Standards/schema-org/Property/Texts/has_required_gender.md) 
+
+### [has_required_gender.public](/_public/schema-org/Property/Texts/has_required_gender.public.md) 
 
 ### [has_required_gender.internal](/_internal/schema-org/Property/Texts/has_required_gender.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_required_gender.personal](/_personal/schema-org/Property/Texts/has_required_gender.personal.md) 
 
-### [has_required_gender.secret](/_secret/schema-org/Property/Texts/has_required_gender.secret.md) 
+### [has_required_gender.secret](/_secret/schema-org/Property/Texts/has_required_gender.secret.md)
+

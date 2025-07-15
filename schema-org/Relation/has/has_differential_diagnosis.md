@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_differential_diagnosis )
 ( #has_/range :: DDxElement )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_differential_diagnosis](/_public/schema-org/Relation/has/has_differential_diagnosis.md) 
+### [has_differential_diagnosis](/_Standards/schema-org/Relation/has/has_differential_diagnosis.md) 
+
+### [has_differential_diagnosis.public](/_public/schema-org/Relation/has/has_differential_diagnosis.public.md) 
 
 ### [has_differential_diagnosis.internal](/_internal/schema-org/Relation/has/has_differential_diagnosis.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_differential_diagnosis.personal](/_personal/schema-org/Relation/has/has_differential_diagnosis.personal.md) 
 
-### [has_differential_diagnosis.secret](/_secret/schema-org/Relation/has/has_differential_diagnosis.secret.md) 
+### [has_differential_diagnosis.secret](/_secret/schema-org/Relation/has/has_differential_diagnosis.secret.md)
+

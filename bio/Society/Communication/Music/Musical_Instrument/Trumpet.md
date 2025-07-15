@@ -39,3 +39,22 @@ Commons_gallery: Trumpet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trumpet) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Trumpet](/_Standards/bio/Society/Communication/Music/Musical_Instrument/Trumpet.md) 
+
+### [Trumpet.public](/_public/bio/Society/Communication/Music/Musical_Instrument/Trumpet.public.md) 
+
+### [Trumpet.internal](/_internal/bio/Society/Communication/Music/Musical_Instrument/Trumpet.internal.md) 
+
+### [Trumpet.protect](/_protect/bio/Society/Communication/Music/Musical_Instrument/Trumpet.protect.md) 
+
+### [Trumpet.private](/_private/bio/Society/Communication/Music/Musical_Instrument/Trumpet.private.md) 
+
+### [Trumpet.personal](/_personal/bio/Society/Communication/Music/Musical_Instrument/Trumpet.personal.md) 
+
+### [Trumpet.secret](/_secret/bio/Society/Communication/Music/Musical_Instrument/Trumpet.secret.md)
+

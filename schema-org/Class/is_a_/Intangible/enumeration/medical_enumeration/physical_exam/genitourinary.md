@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Genitourinary system function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [genitourinary](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
+### [genitourinary](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
+
+### [genitourinary.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.public.md) 
 
 ### [genitourinary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
 
@@ -56,4 +59,5 @@ Genitourinary system function assessment with clinical examination.
 
 ### [genitourinary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
 
-### [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md) 
+### [genitourinary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md)
+

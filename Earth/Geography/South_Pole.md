@@ -42,3 +42,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Pole) 
 
+
+## Confidential Links & Embeds: 
+
+### [South_Pole](/_Standards/Earth/Geography/South_Pole.md) 
+
+### [South_Pole.public](/_public/Earth/Geography/South_Pole.public.md) 
+
+### [South_Pole.internal](/_internal/Earth/Geography/South_Pole.internal.md) 
+
+### [South_Pole.protect](/_protect/Earth/Geography/South_Pole.protect.md) 
+
+### [South_Pole.private](/_private/Earth/Geography/South_Pole.private.md) 
+
+### [South_Pole.personal](/_personal/Earth/Geography/South_Pole.personal.md) 
+
+### [South_Pole.secret](/_secret/Earth/Geography/South_Pole.secret.md)
+

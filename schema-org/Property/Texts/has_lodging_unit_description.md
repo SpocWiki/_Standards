@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_lodging_unit_description )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_lodging_unit_description](/_public/schema-org/Property/Texts/has_lodging_unit_description.md) 
+### [has_lodging_unit_description](/_Standards/schema-org/Property/Texts/has_lodging_unit_description.md) 
+
+### [has_lodging_unit_description.public](/_public/schema-org/Property/Texts/has_lodging_unit_description.public.md) 
 
 ### [has_lodging_unit_description.internal](/_internal/schema-org/Property/Texts/has_lodging_unit_description.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_lodging_unit_description.personal](/_personal/schema-org/Property/Texts/has_lodging_unit_description.personal.md) 
 
-### [has_lodging_unit_description.secret](/_secret/schema-org/Property/Texts/has_lodging_unit_description.secret.md) 
+### [has_lodging_unit_description.secret](/_secret/schema-org/Property/Texts/has_lodging_unit_description.secret.md)
+

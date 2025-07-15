@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Formal Predicate:
 (name::has_duration_of_billing)
 (range::Duration, Number, QuantitativeValue)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_billing](/_public/schema-org/Property/has_duration_of/has_duration_of_billing.md) 
+### [has_duration_of_billing](/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing.md) 
+
+### [has_duration_of_billing.public](/_public/schema-org/Property/has_duration_of/has_duration_of_billing.public.md) 
 
 ### [has_duration_of_billing.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_billing.internal.md) 
 
@@ -59,4 +62,5 @@ Formal Predicate:
 
 ### [has_duration_of_billing.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_billing.personal.md) 
 
-### [has_duration_of_billing.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_billing.secret.md) 
+### [has_duration_of_billing.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_billing.secret.md)
+

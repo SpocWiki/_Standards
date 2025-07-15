@@ -61,3 +61,22 @@ aliases:
 	-   *Pirellula*
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Planctomycetes](/_Standards/bio/bio~Domain/Bacteria/Planctomycetes.md) 
+
+### [Planctomycetes.public](/_public/bio/bio~Domain/Bacteria/Planctomycetes.public.md) 
+
+### [Planctomycetes.internal](/_internal/bio/bio~Domain/Bacteria/Planctomycetes.internal.md) 
+
+### [Planctomycetes.protect](/_protect/bio/bio~Domain/Bacteria/Planctomycetes.protect.md) 
+
+### [Planctomycetes.private](/_private/bio/bio~Domain/Bacteria/Planctomycetes.private.md) 
+
+### [Planctomycetes.personal](/_personal/bio/bio~Domain/Bacteria/Planctomycetes.personal.md) 
+
+### [Planctomycetes.secret](/_secret/bio/bio~Domain/Bacteria/Planctomycetes.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 [ #has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [parcel_delivery](/_public/schema-org/Class/is_a_/Intangible/parcel_delivery.md) 
+### [parcel_delivery](/_Standards/schema-org/Class/is_a_/Intangible/parcel_delivery.md) 
+
+### [parcel_delivery.public](/_public/schema-org/Class/is_a_/Intangible/parcel_delivery.public.md) 
 
 ### [parcel_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/parcel_delivery.internal.md) 
 
@@ -54,4 +57,5 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 ### [parcel_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/parcel_delivery.personal.md) 
 
-### [parcel_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/parcel_delivery.secret.md) 
+### [parcel_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/parcel_delivery.secret.md)
+

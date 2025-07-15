@@ -199,3 +199,21 @@ Current. *Veliger* **36**: 389-398.
   Size                 maximal shell diameter about 1.3 mm
   Copyright ::            © 1998 [David Wrobel](mailto:wrobel2@verizon.et)
   --------------------
+
+
+## Confidential Links & Embeds: 
+
+### [californiensis](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.md) 
+
+### [californiensis.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.public.md) 
+
+### [californiensis.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.internal.md) 
+
+### [californiensis.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.protect.md) 
+
+### [californiensis.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.private.md) 
+
+### [californiensis.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.personal.md) 
+
+### [californiensis.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Atlantidae/Atlanta/californiensis.secret.md)
+

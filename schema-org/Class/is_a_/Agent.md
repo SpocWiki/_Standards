@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - prov:agent
 ---
@@ -14,7 +14,9 @@ Notable subclasses are
 
 ## Confidential Links & Embeds: 
 
-### [Agent](/_public/schema-org/Class/is_a_/Agent.md) 
+### [Agent](/_Standards/schema-org/Class/is_a_/Agent.md) 
+
+### [Agent.public](/_public/schema-org/Class/is_a_/Agent.public.md) 
 
 ### [Agent.internal](/_internal/schema-org/Class/is_a_/Agent.internal.md) 
 
@@ -24,4 +26,5 @@ Notable subclasses are
 
 ### [Agent.personal](/_personal/schema-org/Class/is_a_/Agent.personal.md) 
 
-### [Agent.secret](/_secret/schema-org/Class/is_a_/Agent.secret.md) 
+### [Agent.secret](/_secret/schema-org/Class/is_a_/Agent.secret.md)
+

@@ -18,3 +18,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Rugby%20football) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rugby_Football](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.md) 
+
+### [Rugby_Football.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.public.md) 
+
+### [Rugby_Football.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.internal.md) 
+
+### [Rugby_Football.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.protect.md) 
+
+### [Rugby_Football.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.private.md) 
+
+### [Rugby_Football.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.personal.md) 
+
+### [Rugby_Football.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Team_Sport/Rugby_Football.secret.md)
+

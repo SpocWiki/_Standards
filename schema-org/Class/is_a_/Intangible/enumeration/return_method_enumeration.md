@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates several types of product return methods.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_method_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.md) 
+### [return_method_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.md) 
+
+### [return_method_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.public.md) 
 
 ### [return_method_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates several types of product return methods.
 
 ### [return_method_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.personal.md) 
 
-### [return_method_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.secret.md) 
+### [return_method_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration.secret.md)
+

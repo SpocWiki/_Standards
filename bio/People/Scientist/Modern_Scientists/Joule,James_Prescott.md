@@ -83,3 +83,22 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/SS-joule.jpg"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/James%20Prescott%20Joule)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Joule,James_Prescott](/_Standards/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.md) 
+
+### [Joule,James_Prescott.public](/_public/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.public.md) 
+
+### [Joule,James_Prescott.internal](/_internal/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.internal.md) 
+
+### [Joule,James_Prescott.protect](/_protect/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.protect.md) 
+
+### [Joule,James_Prescott.private](/_private/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.private.md) 
+
+### [Joule,James_Prescott.personal](/_personal/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.personal.md) 
+
+### [Joule,James_Prescott.secret](/_secret/bio/People/Scientist/Modern_Scientists/Joule,James_Prescott.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_instructor )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_instructor](/_public/schema-org/Relation/has/has_instructor.md) 
+### [has_instructor](/_Standards/schema-org/Relation/has/has_instructor.md) 
+
+### [has_instructor.public](/_public/schema-org/Relation/has/has_instructor.public.md) 
 
 ### [has_instructor.internal](/_internal/schema-org/Relation/has/has_instructor.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_instructor.personal](/_personal/schema-org/Relation/has/has_instructor.personal.md) 
 
-### [has_instructor.secret](/_secret/schema-org/Relation/has/has_instructor.secret.md) 
+### [has_instructor.secret](/_secret/schema-org/Relation/has/has_instructor.secret.md)
+

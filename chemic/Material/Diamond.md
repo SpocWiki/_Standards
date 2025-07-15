@@ -74,3 +74,21 @@ U_S_National_Archives_Identifier: 10647959
 > Synthetic diamonds can be grown from high-purity carbon under high pressures and temperatures or from hydrocarbon gases by chemical vapor deposition (CVD). Natural and synthetic diamonds are most commonly distinguished using optical techniques or thermal conductivity measurements.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diamond)
+
+
+## Confidential Links & Embeds: 
+
+### [Diamond](/_Standards/chemic/Material/Diamond.md) 
+
+### [Diamond.public](/_public/chemic/Material/Diamond.public.md) 
+
+### [Diamond.internal](/_internal/chemic/Material/Diamond.internal.md) 
+
+### [Diamond.protect](/_protect/chemic/Material/Diamond.protect.md) 
+
+### [Diamond.private](/_private/chemic/Material/Diamond.private.md) 
+
+### [Diamond.personal](/_personal/chemic/Material/Diamond.personal.md) 
+
+### [Diamond.secret](/_secret/chemic/Material/Diamond.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 [ #has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [employee_role](/_public/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.md) 
+### [employee_role](/_Standards/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.md) 
+
+### [employee_role.public](/_public/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.public.md) 
 
 ### [employee_role.internal](/_internal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.internal.md) 
 
@@ -54,4 +57,5 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 ### [employee_role.personal](/_personal/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.personal.md) 
 
-### [employee_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.secret.md) 
+### [employee_role.secret](/_secret/schema-org/Class/is_a_/Intangible/role/organization_role/employee_role.secret.md)
+

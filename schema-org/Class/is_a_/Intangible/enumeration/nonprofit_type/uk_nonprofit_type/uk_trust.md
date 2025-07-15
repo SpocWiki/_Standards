@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ UKTrust: Non-profit type referring to a UK trust.
 
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [uk_trust](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md) 
+### [uk_trust](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md) 
+
+### [uk_trust.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.public.md) 
 
 ### [uk_trust.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md) 
 
@@ -58,4 +61,5 @@ UKTrust: Non-profit type referring to a UK trust.
 
 ### [uk_trust.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md) 
 
-### [uk_trust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md) 
+### [uk_trust.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md)
+

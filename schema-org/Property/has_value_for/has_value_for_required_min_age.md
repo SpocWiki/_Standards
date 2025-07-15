@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_required_min_age )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_required_min_age](/_public/schema-org/Property/has_value_for/has_value_for_required_min_age.md) 
+### [has_value_for_required_min_age](/_Standards/schema-org/Property/has_value_for/has_value_for_required_min_age.md) 
+
+### [has_value_for_required_min_age.public](/_public/schema-org/Property/has_value_for/has_value_for_required_min_age.public.md) 
 
 ### [has_value_for_required_min_age.internal](/_internal/schema-org/Property/has_value_for/has_value_for_required_min_age.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_required_min_age.personal](/_personal/schema-org/Property/has_value_for/has_value_for_required_min_age.personal.md) 
 
-### [has_value_for_required_min_age.secret](/_secret/schema-org/Property/has_value_for/has_value_for_required_min_age.secret.md) 
+### [has_value_for_required_min_age.secret](/_secret/schema-org/Property/has_value_for/has_value_for_required_min_age.secret.md)
+

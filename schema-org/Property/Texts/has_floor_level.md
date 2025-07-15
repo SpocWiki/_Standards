@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_floor_level )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_floor_level](/_public/schema-org/Property/Texts/has_floor_level.md) 
+### [has_floor_level](/_Standards/schema-org/Property/Texts/has_floor_level.md) 
+
+### [has_floor_level.public](/_public/schema-org/Property/Texts/has_floor_level.public.md) 
 
 ### [has_floor_level.internal](/_internal/schema-org/Property/Texts/has_floor_level.internal.md) 
 
@@ -59,4 +62,5 @@ Predicated describes that:
 
 ### [has_floor_level.personal](/_personal/schema-org/Property/Texts/has_floor_level.personal.md) 
 
-### [has_floor_level.secret](/_secret/schema-org/Property/Texts/has_floor_level.secret.md) 
+### [has_floor_level.secret](/_secret/schema-org/Property/Texts/has_floor_level.secret.md)
+

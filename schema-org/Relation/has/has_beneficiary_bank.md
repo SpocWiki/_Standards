@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_beneficiary_bank )
 ( #has_/range :: BankOrCreditUnion, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_beneficiary_bank](/_public/schema-org/Relation/has/has_beneficiary_bank.md) 
+### [has_beneficiary_bank](/_Standards/schema-org/Relation/has/has_beneficiary_bank.md) 
+
+### [has_beneficiary_bank.public](/_public/schema-org/Relation/has/has_beneficiary_bank.public.md) 
 
 ### [has_beneficiary_bank.internal](/_internal/schema-org/Relation/has/has_beneficiary_bank.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_beneficiary_bank.personal](/_personal/schema-org/Relation/has/has_beneficiary_bank.personal.md) 
 
-### [has_beneficiary_bank.secret](/_secret/schema-org/Relation/has/has_beneficiary_bank.secret.md) 
+### [has_beneficiary_bank.secret](/_secret/schema-org/Relation/has/has_beneficiary_bank.secret.md)
+

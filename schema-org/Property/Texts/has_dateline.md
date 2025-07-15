@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -60,9 +60,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_dateline )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_dateline](/_public/schema-org/Property/Texts/has_dateline.md) 
+### [has_dateline](/_Standards/schema-org/Property/Texts/has_dateline.md) 
+
+### [has_dateline.public](/_public/schema-org/Property/Texts/has_dateline.public.md) 
 
 ### [has_dateline.internal](/_internal/schema-org/Property/Texts/has_dateline.internal.md) 
 
@@ -72,4 +75,5 @@ Predicated describes that:
 
 ### [has_dateline.personal](/_personal/schema-org/Property/Texts/has_dateline.personal.md) 
 
-### [has_dateline.secret](/_secret/schema-org/Property/Texts/has_dateline.secret.md) 
+### [has_dateline.secret](/_secret/schema-org/Property/Texts/has_dateline.secret.md)
+

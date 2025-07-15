@@ -178,10 +178,11 @@ InChIKey: RYGMFSIKBFXOCR-UHFFFAOYSA-N
 > [Wikipedia](https://en.wikipedia.org/wiki/Copper)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Copper](/_public/chemic/chemic~Elements/Group-11-Copper/Copper.md) 
+### [Copper](/_Standards/chemic/chemic~Elements/Group-11-Copper/Copper.md) 
+
+### [Copper.public](/_public/chemic/chemic~Elements/Group-11-Copper/Copper.public.md) 
 
 ### [Copper.internal](/_internal/chemic/chemic~Elements/Group-11-Copper/Copper.internal.md) 
 
@@ -191,4 +192,5 @@ InChIKey: RYGMFSIKBFXOCR-UHFFFAOYSA-N
 
 ### [Copper.personal](/_personal/chemic/chemic~Elements/Group-11-Copper/Copper.personal.md) 
 
-### [Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Copper.secret.md) 
+### [Copper.secret](/_secret/chemic/chemic~Elements/Group-11-Copper/Copper.secret.md)
+

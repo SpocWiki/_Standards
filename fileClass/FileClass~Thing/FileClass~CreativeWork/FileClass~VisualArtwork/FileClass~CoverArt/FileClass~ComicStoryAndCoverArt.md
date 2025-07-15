@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -95,7 +95,9 @@ Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~ComicStoryAndCoverArt](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.md) 
+### [FileClass~ComicStoryAndCoverArt](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.md) 
+
+### [FileClass~ComicStoryAndCoverArt.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.public.md) 
 
 ### [FileClass~ComicStoryAndCoverArt.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.internal.md) 
 
@@ -105,4 +107,5 @@ Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~ComicStoryAndCoverArt.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.personal.md) 
 
-### [FileClass~ComicStoryAndCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.secret.md) 
+### [FileClass~ComicStoryAndCoverArt.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt/FileClass~ComicStoryAndCoverArt.secret.md)
+

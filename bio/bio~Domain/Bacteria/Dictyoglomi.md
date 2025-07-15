@@ -62,3 +62,22 @@ aliases:
 	-   *Dictyoglomus turgidum*
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Dictyoglomi](/_Standards/bio/bio~Domain/Bacteria/Dictyoglomi.md) 
+
+### [Dictyoglomi.public](/_public/bio/bio~Domain/Bacteria/Dictyoglomi.public.md) 
+
+### [Dictyoglomi.internal](/_internal/bio/bio~Domain/Bacteria/Dictyoglomi.internal.md) 
+
+### [Dictyoglomi.protect](/_protect/bio/bio~Domain/Bacteria/Dictyoglomi.protect.md) 
+
+### [Dictyoglomi.private](/_private/bio/bio~Domain/Bacteria/Dictyoglomi.private.md) 
+
+### [Dictyoglomi.personal](/_personal/bio/bio~Domain/Bacteria/Dictyoglomi.personal.md) 
+
+### [Dictyoglomi.secret](/_secret/bio/bio~Domain/Bacteria/Dictyoglomi.secret.md)
+

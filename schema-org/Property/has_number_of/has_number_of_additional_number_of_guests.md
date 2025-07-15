@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_additional_number_of_guests )
 ( #has_/range :: Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_additional_number_of_guests](/_public/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.md) 
+### [has_number_of_additional_number_of_guests](/_Standards/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.md) 
+
+### [has_number_of_additional_number_of_guests.public](/_public/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.public.md) 
 
 ### [has_number_of_additional_number_of_guests.internal](/_internal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_additional_number_of_guests.personal](/_personal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.personal.md) 
 
-### [has_number_of_additional_number_of_guests.secret](/_secret/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.secret.md) 
+### [has_number_of_additional_number_of_guests.secret](/_secret/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.secret.md)
+

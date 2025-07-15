@@ -460,9 +460,12 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sri%20Lanka)
 
+
 ## Confidential Links & Embeds: 
 
-### [Sri_Lanka](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka.md) 
+### [Sri_Lanka](/_Standards/Earth/Continent/Asia/Asia~South/Sri_Lanka.md) 
+
+### [Sri_Lanka.public](/_public/Earth/Continent/Asia/Asia~South/Sri_Lanka.public.md) 
 
 ### [Sri_Lanka.internal](/_internal/Earth/Continent/Asia/Asia~South/Sri_Lanka.internal.md) 
 
@@ -472,4 +475,5 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 
 ### [Sri_Lanka.personal](/_personal/Earth/Continent/Asia/Asia~South/Sri_Lanka.personal.md) 
 
-### [Sri_Lanka.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka.secret.md) 
+### [Sri_Lanka.secret](/_secret/Earth/Continent/Asia/Asia~South/Sri_Lanka.secret.md)
+

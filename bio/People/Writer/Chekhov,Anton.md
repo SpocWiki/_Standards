@@ -149,3 +149,22 @@ Google_Doodle: anton-chekhovs-150th-birthday
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anton%20Chekhov)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Chekhov,Anton](/_Standards/bio/People/Writer/Chekhov,Anton.md) 
+
+### [Chekhov,Anton.public](/_public/bio/People/Writer/Chekhov,Anton.public.md) 
+
+### [Chekhov,Anton.internal](/_internal/bio/People/Writer/Chekhov,Anton.internal.md) 
+
+### [Chekhov,Anton.protect](/_protect/bio/People/Writer/Chekhov,Anton.protect.md) 
+
+### [Chekhov,Anton.private](/_private/bio/People/Writer/Chekhov,Anton.private.md) 
+
+### [Chekhov,Anton.personal](/_personal/bio/People/Writer/Chekhov,Anton.personal.md) 
+
+### [Chekhov,Anton.secret](/_secret/bio/People/Writer/Chekhov,Anton.secret.md)
+

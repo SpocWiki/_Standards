@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicate describes that:
 ( #has_/name :: has_url_for_travel_bans )
 ( #has_/range :: URL, WebContent )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_travel_bans](/_public/schema-org/Property/has_url_for/has_url_for_travel_bans.md) 
+### [has_url_for_travel_bans](/_Standards/schema-org/Property/has_url_for/has_url_for_travel_bans.md) 
+
+### [has_url_for_travel_bans.public](/_public/schema-org/Property/has_url_for/has_url_for_travel_bans.public.md) 
 
 ### [has_url_for_travel_bans.internal](/_internal/schema-org/Property/has_url_for/has_url_for_travel_bans.internal.md) 
 
@@ -58,4 +61,5 @@ Predicate describes that:
 
 ### [has_url_for_travel_bans.personal](/_personal/schema-org/Property/has_url_for/has_url_for_travel_bans.personal.md) 
 
-### [has_url_for_travel_bans.secret](/_secret/schema-org/Property/has_url_for/has_url_for_travel_bans.secret.md) 
+### [has_url_for_travel_bans.secret](/_secret/schema-org/Property/has_url_for/has_url_for_travel_bans.secret.md)
+

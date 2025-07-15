@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_contraindication )
 ( #has_/range :: MedicalContraindication, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_contraindication](/_public/schema-org/Relation/has/has_contraindication.md) 
+### [has_contraindication](/_Standards/schema-org/Relation/has/has_contraindication.md) 
+
+### [has_contraindication.public](/_public/schema-org/Relation/has/has_contraindication.public.md) 
 
 ### [has_contraindication.internal](/_internal/schema-org/Relation/has/has_contraindication.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_contraindication.personal](/_personal/schema-org/Relation/has/has_contraindication.personal.md) 
 
-### [has_contraindication.secret](/_secret/schema-org/Relation/has/has_contraindication.secret.md) 
+### [has_contraindication.secret](/_secret/schema-org/Relation/has/has_contraindication.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ recipeInstructions ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_step](/_public/schema-org/Relation/has/has_step.md) 
+### [has_step](/_Standards/schema-org/Relation/has/has_step.md) 
+
+### [has_step.public](/_public/schema-org/Relation/has/has_step.public.md) 
 
 ### [has_step.internal](/_internal/schema-org/Relation/has/has_step.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_step.personal](/_personal/schema-org/Relation/has/has_step.personal.md) 
 
-### [has_step.secret](/_secret/schema-org/Relation/has/has_step.secret.md) 
+### [has_step.secret](/_secret/schema-org/Relation/has/has_step.secret.md)
+

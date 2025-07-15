@@ -175,4 +175,19 @@ as demonstrated in this Repo https://github.com/PennyroyalTea/gibberlink?tab=rea
 This is frightening. 
 
 
+## Confidential Links & Embeds: 
+
+### [Artificial_Intelligence](/_Standards/Technology/IT/Artificial_Intelligence.md) 
+
+### [Artificial_Intelligence.public](/_public/Technology/IT/Artificial_Intelligence.public.md) 
+
+### [Artificial_Intelligence.internal](/_internal/Technology/IT/Artificial_Intelligence.internal.md) 
+
+### [Artificial_Intelligence.protect](/_protect/Technology/IT/Artificial_Intelligence.protect.md) 
+
+### [Artificial_Intelligence.private](/_private/Technology/IT/Artificial_Intelligence.private.md) 
+
+### [Artificial_Intelligence.personal](/_personal/Technology/IT/Artificial_Intelligence.personal.md) 
+
+### [Artificial_Intelligence.secret](/_secret/Technology/IT/Artificial_Intelligence.secret.md)
 

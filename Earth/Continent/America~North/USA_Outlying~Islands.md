@@ -1,4 +1,4 @@
-﻿---
+---
 type: Country
 tags:
 - geo/Country
@@ -120,10 +120,11 @@ has_place_continent:: [[North-America]]
 [has_place_latitude::]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [USA_Outlying~Islands](/_public/Earth/Continent/America~North/USA_Outlying~Islands.md) 
+### [USA_Outlying~Islands](/_Standards/Earth/Continent/America~North/USA_Outlying~Islands.md) 
+
+### [USA_Outlying~Islands.public](/_public/Earth/Continent/America~North/USA_Outlying~Islands.public.md) 
 
 ### [USA_Outlying~Islands.internal](/_internal/Earth/Continent/America~North/USA_Outlying~Islands.internal.md) 
 
@@ -133,4 +134,5 @@ has_place_continent:: [[North-America]]
 
 ### [USA_Outlying~Islands.personal](/_personal/Earth/Continent/America~North/USA_Outlying~Islands.personal.md) 
 
-### [USA_Outlying~Islands.secret](/_secret/Earth/Continent/America~North/USA_Outlying~Islands.secret.md) 
+### [USA_Outlying~Islands.secret](/_secret/Earth/Continent/America~North/USA_Outlying~Islands.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 ( #has_/name :: has_keywords )
 ( #has_/range :: DefinedTerm, Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_keywords](/_public/schema-org/Relation/has/has_keywords.md) 
+### [has_keywords](/_Standards/schema-org/Relation/has/has_keywords.md) 
+
+### [has_keywords.public](/_public/schema-org/Relation/has/has_keywords.public.md) 
 
 ### [has_keywords.internal](/_internal/schema-org/Relation/has/has_keywords.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_keywords.personal](/_personal/schema-org/Relation/has/has_keywords.personal.md) 
 
-### [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md) 
+### [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md)
+

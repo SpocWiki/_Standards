@@ -65,3 +65,22 @@ subreddit: raining
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rain)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Rain](/_Standards/Earth/Atmosphere/Climate/Weather/Rain.md) 
+
+### [Rain.public](/_public/Earth/Atmosphere/Climate/Weather/Rain.public.md) 
+
+### [Rain.internal](/_internal/Earth/Atmosphere/Climate/Weather/Rain.internal.md) 
+
+### [Rain.protect](/_protect/Earth/Atmosphere/Climate/Weather/Rain.protect.md) 
+
+### [Rain.private](/_private/Earth/Atmosphere/Climate/Weather/Rain.private.md) 
+
+### [Rain.personal](/_personal/Earth/Atmosphere/Climate/Weather/Rain.personal.md) 
+
+### [Rain.secret](/_secret/Earth/Atmosphere/Climate/Weather/Rain.secret.md)
+

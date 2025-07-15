@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_polygon )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_polygon](/_public/schema-org/Property/Texts/has_polygon.md) 
+### [has_polygon](/_Standards/schema-org/Property/Texts/has_polygon.md) 
+
+### [has_polygon.public](/_public/schema-org/Property/Texts/has_polygon.public.md) 
 
 ### [has_polygon.internal](/_internal/schema-org/Property/Texts/has_polygon.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_polygon.personal](/_personal/schema-org/Property/Texts/has_polygon.personal.md) 
 
-### [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md) 
+### [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md)
+

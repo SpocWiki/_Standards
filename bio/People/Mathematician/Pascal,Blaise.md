@@ -50,3 +50,22 @@ has_id_wikidata: Q1290
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blaise%20Pascal)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pascal,Blaise](/_Standards/bio/People/Mathematician/Pascal,Blaise.md) 
+
+### [Pascal,Blaise.public](/_public/bio/People/Mathematician/Pascal,Blaise.public.md) 
+
+### [Pascal,Blaise.internal](/_internal/bio/People/Mathematician/Pascal,Blaise.internal.md) 
+
+### [Pascal,Blaise.protect](/_protect/bio/People/Mathematician/Pascal,Blaise.protect.md) 
+
+### [Pascal,Blaise.private](/_private/bio/People/Mathematician/Pascal,Blaise.private.md) 
+
+### [Pascal,Blaise.personal](/_personal/bio/People/Mathematician/Pascal,Blaise.personal.md) 
+
+### [Pascal,Blaise.secret](/_secret/bio/People/Mathematician/Pascal,Blaise.secret.md)
+

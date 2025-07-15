@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - RDF-Schema
 ---
@@ -50,7 +50,9 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [rdfs](/_public/W3C/RDF(Resource_Description_Framework)/rdfs.md) 
+### [rdfs](/_Standards/W3C/RDF(Resource_Description_Framework)/rdfs.md) 
+
+### [rdfs.public](/_public/W3C/RDF(Resource_Description_Framework)/rdfs.public.md) 
 
 ### [rdfs.internal](/_internal/W3C/RDF(Resource_Description_Framework)/rdfs.internal.md) 
 
@@ -60,4 +62,5 @@ noteOnly: true
 
 ### [rdfs.personal](/_personal/W3C/RDF(Resource_Description_Framework)/rdfs.personal.md) 
 
-### [rdfs.secret](/_secret/W3C/RDF(Resource_Description_Framework)/rdfs.secret.md) 
+### [rdfs.secret](/_secret/W3C/RDF(Resource_Description_Framework)/rdfs.secret.md)
+

@@ -1,4 +1,4 @@
-﻿
+
 # [[Asia~Central]]
 
 ```leaflet
@@ -16,7 +16,9 @@ markerFolder: ./Asia~Central//
 
 ## Confidential Links & Embeds: 
 
-### [Asia~Central](/_public/Earth/Continent/Asia/Asia~Central.md) 
+### [Asia~Central](/_Standards/Earth/Continent/Asia/Asia~Central.md) 
+
+### [Asia~Central.public](/_public/Earth/Continent/Asia/Asia~Central.public.md) 
 
 ### [Asia~Central.internal](/_internal/Earth/Continent/Asia/Asia~Central.internal.md) 
 
@@ -26,4 +28,5 @@ markerFolder: ./Asia~Central//
 
 ### [Asia~Central.personal](/_personal/Earth/Continent/Asia/Asia~Central.personal.md) 
 
-### [Asia~Central.secret](/_secret/Earth/Continent/Asia/Asia~Central.secret.md) 
+### [Asia~Central.secret](/_secret/Earth/Continent/Asia/Asia~Central.secret.md)
+

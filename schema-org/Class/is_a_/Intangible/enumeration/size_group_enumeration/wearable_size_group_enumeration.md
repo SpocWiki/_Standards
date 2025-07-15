@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Enumerates common size groups (also known as "size types") for wearable products
 
 [ #is_/sub_class_of :: [[../SizeGroupEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wearable_size_group_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md) 
+### [wearable_size_group_enumeration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md) 
+
+### [wearable_size_group_enumeration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.public.md) 
 
 ### [wearable_size_group_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.internal.md) 
 
@@ -54,4 +57,5 @@ Enumerates common size groups (also known as "size types") for wearable products
 
 ### [wearable_size_group_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.personal.md) 
 
-### [wearable_size_group_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.secret.md) 
+### [wearable_size_group_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.secret.md)
+

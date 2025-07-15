@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_responsibilities )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_responsibilities](/_public/schema-org/Property/Texts/has_responsibilities.md) 
+### [has_responsibilities](/_Standards/schema-org/Property/Texts/has_responsibilities.md) 
+
+### [has_responsibilities.public](/_public/schema-org/Property/Texts/has_responsibilities.public.md) 
 
 ### [has_responsibilities.internal](/_internal/schema-org/Property/Texts/has_responsibilities.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_responsibilities.personal](/_personal/schema-org/Property/Texts/has_responsibilities.personal.md) 
 
-### [has_responsibilities.secret](/_secret/schema-org/Property/Texts/has_responsibilities.secret.md) 
+### [has_responsibilities.secret](/_secret/schema-org/Property/Texts/has_responsibilities.secret.md)
+

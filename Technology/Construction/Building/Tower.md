@@ -43,3 +43,22 @@ Commons_category: Towers
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Tower](/_Standards/Technology/Construction/Building/Tower.md) 
+
+### [Tower.public](/_public/Technology/Construction/Building/Tower.public.md) 
+
+### [Tower.internal](/_internal/Technology/Construction/Building/Tower.internal.md) 
+
+### [Tower.protect](/_protect/Technology/Construction/Building/Tower.protect.md) 
+
+### [Tower.private](/_private/Technology/Construction/Building/Tower.private.md) 
+
+### [Tower.personal](/_personal/Technology/Construction/Building/Tower.personal.md) 
+
+### [Tower.secret](/_secret/Technology/Construction/Building/Tower.secret.md)
+

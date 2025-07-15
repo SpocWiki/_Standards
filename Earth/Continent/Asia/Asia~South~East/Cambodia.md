@@ -471,9 +471,12 @@ Capital :: [[Phnom_Penh]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambodia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Cambodia](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.md) 
+### [Cambodia](/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia.md) 
+
+### [Cambodia.public](/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.public.md) 
 
 ### [Cambodia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal.md) 
 
@@ -483,4 +486,5 @@ Capital :: [[Phnom_Penh]]
 
 ### [Cambodia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal.md) 
 
-### [Cambodia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret.md) 
+### [Cambodia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret.md)
+

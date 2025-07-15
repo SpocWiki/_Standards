@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A program with both an educational and employment component. Typically based at 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WorkBasedProgram](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.md) 
+### [FileClass~WorkBasedProgram](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.md) 
+
+### [FileClass~WorkBasedProgram.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.public.md) 
 
 ### [FileClass~WorkBasedProgram.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.internal.md) 
 
@@ -46,4 +47,5 @@ A program with both an educational and employment component. Typically based at 
 
 ### [FileClass~WorkBasedProgram.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.personal.md) 
 
-### [FileClass~WorkBasedProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.secret.md) 
+### [FileClass~WorkBasedProgram.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram/FileClass~WorkBasedProgram.secret.md)
+

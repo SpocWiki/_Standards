@@ -264,3 +264,22 @@ instance_of:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leonardo%20da%20Vinci)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vinci,Leonardo_da](/_Standards/bio/People/Painter/Vinci,Leonardo_da.md) 
+
+### [Vinci,Leonardo_da.public](/_public/bio/People/Painter/Vinci,Leonardo_da.public.md) 
+
+### [Vinci,Leonardo_da.internal](/_internal/bio/People/Painter/Vinci,Leonardo_da.internal.md) 
+
+### [Vinci,Leonardo_da.protect](/_protect/bio/People/Painter/Vinci,Leonardo_da.protect.md) 
+
+### [Vinci,Leonardo_da.private](/_private/bio/People/Painter/Vinci,Leonardo_da.private.md) 
+
+### [Vinci,Leonardo_da.personal](/_personal/bio/People/Painter/Vinci,Leonardo_da.personal.md) 
+
+### [Vinci,Leonardo_da.secret](/_secret/bio/People/Painter/Vinci,Leonardo_da.secret.md)
+

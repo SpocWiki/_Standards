@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_utterances )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_utterances](/_public/schema-org/Property/Texts/has_utterances.md) 
+### [has_utterances](/_Standards/schema-org/Property/Texts/has_utterances.md) 
+
+### [has_utterances.public](/_public/schema-org/Property/Texts/has_utterances.public.md) 
 
 ### [has_utterances.internal](/_internal/schema-org/Property/Texts/has_utterances.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_utterances.personal](/_personal/schema-org/Property/Texts/has_utterances.personal.md) 
 
-### [has_utterances.secret](/_secret/schema-org/Property/Texts/has_utterances.secret.md) 
+### [has_utterances.secret](/_secret/schema-org/Property/Texts/has_utterances.secret.md)
+

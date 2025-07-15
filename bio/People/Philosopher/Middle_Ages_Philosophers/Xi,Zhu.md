@@ -87,3 +87,22 @@ image:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zhu%20Xi)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Xi,Zhu](/_Standards/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.md) 
+
+### [Xi,Zhu.public](/_public/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.public.md) 
+
+### [Xi,Zhu.internal](/_internal/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.internal.md) 
+
+### [Xi,Zhu.protect](/_protect/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.protect.md) 
+
+### [Xi,Zhu.private](/_private/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.private.md) 
+
+### [Xi,Zhu.personal](/_personal/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.personal.md) 
+
+### [Xi,Zhu.secret](/_secret/bio/People/Philosopher/Middle_Ages_Philosophers/Xi,Zhu.secret.md)
+

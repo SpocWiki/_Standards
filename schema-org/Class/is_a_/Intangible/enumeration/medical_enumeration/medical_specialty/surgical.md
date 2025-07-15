@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to treating diseases, injurie
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [surgical](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.md) 
+### [surgical](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.md) 
+
+### [surgical.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.public.md) 
 
 ### [surgical.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to treating diseases, injurie
 
 ### [surgical.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.personal.md) 
 
-### [surgical.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.secret.md) 
+### [surgical.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.secret.md)
+

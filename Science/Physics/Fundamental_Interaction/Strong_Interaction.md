@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Strong interaction"
 - "strong nuclear force"
@@ -30,4 +30,23 @@ Dewey_Decimal_Classification: 539.7548
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strong%20interaction)
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Strong_Interaction](/_Standards/Science/Physics/Fundamental_Interaction/Strong_Interaction.md) 
+
+### [Strong_Interaction.public](/_public/Science/Physics/Fundamental_Interaction/Strong_Interaction.public.md) 
+
+### [Strong_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction/Strong_Interaction.internal.md) 
+
+### [Strong_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction/Strong_Interaction.protect.md) 
+
+### [Strong_Interaction.private](/_private/Science/Physics/Fundamental_Interaction/Strong_Interaction.private.md) 
+
+### [Strong_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction/Strong_Interaction.personal.md) 
+
+### [Strong_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction/Strong_Interaction.secret.md)
 

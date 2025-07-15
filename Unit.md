@@ -1,4 +1,4 @@
-﻿# [[Unit]] 
+# [[Unit]] 
 
 ## Edit
 
@@ -32,7 +32,9 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Unit](/_public/Unit.md) 
+### [Unit](/_Standards/Unit.md) 
+
+### [Unit.public](/_public/Unit.public.md) 
 
 ### [Unit.internal](/_internal/Unit.internal.md) 
 
@@ -42,4 +44,5 @@ type: folder_brief_live
 
 ### [Unit.personal](/_personal/Unit.personal.md) 
 
-### [Unit.secret](/_secret/Unit.secret.md) 
+### [Unit.secret](/_secret/Unit.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ But typically it is an example [[../Collection/item_list|item_list]] with sub-se
 
 #is_/inverse_of  :: [[is_sub_set_of]]   
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sub_sets](/_public/schema-org/Collection/has_sub_sets.md) 
+### [has_sub_sets](/_Standards/schema-org/Collection/has_sub_sets.md) 
+
+### [has_sub_sets.public](/_public/schema-org/Collection/has_sub_sets.public.md) 
 
 ### [has_sub_sets.internal](/_internal/schema-org/Collection/has_sub_sets.internal.md) 
 
@@ -59,4 +62,5 @@ But typically it is an example [[../Collection/item_list|item_list]] with sub-se
 
 ### [has_sub_sets.personal](/_personal/schema-org/Collection/has_sub_sets.personal.md) 
 
-### [has_sub_sets.secret](/_secret/schema-org/Collection/has_sub_sets.secret.md) 
+### [has_sub_sets.secret](/_secret/schema-org/Collection/has_sub_sets.secret.md)
+

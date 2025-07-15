@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WorkersUnion](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.md) 
+### [FileClass~WorkersUnion](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.md) 
+
+### [FileClass~WorkersUnion.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.public.md) 
 
 ### [FileClass~WorkersUnion.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.internal.md) 
 
@@ -46,4 +47,5 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 ### [FileClass~WorkersUnion.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.personal.md) 
 
-### [FileClass~WorkersUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret.md) 
+### [FileClass~WorkersUnion.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~WorkersUnion.secret.md)
+

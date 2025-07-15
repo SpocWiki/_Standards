@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_accepting_new_patients )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_accepting_new_patients](/_public/schema-org/Property/Flags/is_accepting_new_patients.md) 
+### [is_accepting_new_patients](/_Standards/schema-org/Property/Flags/is_accepting_new_patients.md) 
+
+### [is_accepting_new_patients.public](/_public/schema-org/Property/Flags/is_accepting_new_patients.public.md) 
 
 ### [is_accepting_new_patients.internal](/_internal/schema-org/Property/Flags/is_accepting_new_patients.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_accepting_new_patients.personal](/_personal/schema-org/Property/Flags/is_accepting_new_patients.personal.md) 
 
-### [is_accepting_new_patients.secret](/_secret/schema-org/Property/Flags/is_accepting_new_patients.secret.md) 
+### [is_accepting_new_patients.secret](/_secret/schema-org/Property/Flags/is_accepting_new_patients.secret.md)
+

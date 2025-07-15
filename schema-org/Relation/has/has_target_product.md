@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_target_product )
 ( #has_/range :: SoftwareApplication )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_target_product](/_public/schema-org/Relation/has/has_target_product.md) 
+### [has_target_product](/_Standards/schema-org/Relation/has/has_target_product.md) 
+
+### [has_target_product.public](/_public/schema-org/Relation/has/has_target_product.public.md) 
 
 ### [has_target_product.internal](/_internal/schema-org/Relation/has/has_target_product.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_target_product.personal](/_personal/schema-org/Relation/has/has_target_product.personal.md) 
 
-### [has_target_product.secret](/_secret/schema-org/Relation/has/has_target_product.secret.md) 
+### [has_target_product.secret](/_secret/schema-org/Relation/has/has_target_product.secret.md)
+

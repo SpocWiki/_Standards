@@ -46,3 +46,22 @@ Krugosvet article: nauka_i_tehnika/biologiya/VODOROSLI.html
 > [Wikipedia](https://en.wikipedia.org/wiki/Algae) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Algae](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Algae.md) 
+
+### [Algae.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Algae.public.md) 
+
+### [Algae.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Algae.internal.md) 
+
+### [Algae.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Algae.protect.md) 
+
+### [Algae.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Algae.private.md) 
+
+### [Algae.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Algae.personal.md) 
+
+### [Algae.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Algae.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [engine_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.md) 
+### [engine_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.md) 
+
+### [engine_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.public.md) 
 
 ### [engine_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.internal.md) 
 
@@ -54,4 +57,5 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 
 ### [engine_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.personal.md) 
 
-### [engine_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.secret.md) 
+### [engine_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -15,10 +15,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%209%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-09-Cobalt](/_public/chemic/chemic~Elements/Group-09-Cobalt.md) 
+### [Group-09-Cobalt](/_Standards/chemic/chemic~Elements/Group-09-Cobalt.md) 
+
+### [Group-09-Cobalt.public](/_public/chemic/chemic~Elements/Group-09-Cobalt.public.md) 
 
 ### [Group-09-Cobalt.internal](/_internal/chemic/chemic~Elements/Group-09-Cobalt.internal.md) 
 
@@ -28,4 +29,5 @@ type: ElementGroup
 
 ### [Group-09-Cobalt.personal](/_personal/chemic/chemic~Elements/Group-09-Cobalt.personal.md) 
 
-### [Group-09-Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt.secret.md) 
+### [Group-09-Cobalt.secret](/_secret/chemic/chemic~Elements/Group-09-Cobalt.secret.md)
+

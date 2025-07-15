@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of organizing tasks/objects/events by associating resources to it.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [allocate_action](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action.md) 
+### [allocate_action](/_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action.md) 
+
+### [allocate_action.public](/_public/schema-org/Class/is_a_/action/organize_action/allocate_action.public.md) 
 
 ### [allocate_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/allocate_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of organizing tasks/objects/events by associating resources to it.
 
 ### [allocate_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/allocate_action.personal.md) 
 
-### [allocate_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action.secret.md) 
+### [allocate_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/allocate_action.secret.md)
+

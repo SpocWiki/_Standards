@@ -39,7 +39,9 @@ Images are copyrighted by their respective owners as indicated for each picture 
 
 ## Confidential Links & Embeds: 
 
-### [bio~Tree](/_public/bio/bio~Tree.md) 
+### [bio~Tree](/_Standards/bio/bio~Tree.md) 
+
+### [bio~Tree.public](/_public/bio/bio~Tree.public.md) 
 
 ### [bio~Tree.internal](/_internal/bio/bio~Tree.internal.md) 
 
@@ -49,4 +51,5 @@ Images are copyrighted by their respective owners as indicated for each picture 
 
 ### [bio~Tree.personal](/_personal/bio/bio~Tree.personal.md) 
 
-### [bio~Tree.secret](/_secret/bio/bio~Tree.secret.md) 
+### [bio~Tree.secret](/_secret/bio/bio~Tree.secret.md)
+

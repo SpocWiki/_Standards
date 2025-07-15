@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A waterfall, like Niagara.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Waterfall](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.md) 
+### [FileClass~Waterfall](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.md) 
+
+### [FileClass~Waterfall.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.public.md) 
 
 ### [FileClass~Waterfall.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.internal.md) 
 
@@ -46,4 +47,5 @@ A waterfall, like Niagara.
 
 ### [FileClass~Waterfall.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.personal.md) 
 
-### [FileClass~Waterfall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.secret.md) 
+### [FileClass~Waterfall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Waterfall.secret.md)
+

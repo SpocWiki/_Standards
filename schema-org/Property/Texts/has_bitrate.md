@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_bitrate )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_bitrate](/_public/schema-org/Property/Texts/has_bitrate.md) 
+### [has_bitrate](/_Standards/schema-org/Property/Texts/has_bitrate.md) 
+
+### [has_bitrate.public](/_public/schema-org/Property/Texts/has_bitrate.public.md) 
 
 ### [has_bitrate.internal](/_internal/schema-org/Property/Texts/has_bitrate.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_bitrate.personal](/_personal/schema-org/Property/Texts/has_bitrate.personal.md) 
 
-### [has_bitrate.secret](/_secret/schema-org/Property/Texts/has_bitrate.secret.md) 
+### [has_bitrate.secret](/_secret/schema-org/Property/Texts/has_bitrate.secret.md)
+

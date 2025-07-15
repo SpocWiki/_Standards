@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
     - tags
     - adjectives
@@ -20,9 +20,12 @@ Tags have only an implicit binary Logic where a missing Tag indicates `false`.
 Flags implement an explicit binary Logic.
 But they can also implement a ternary logic using the empty '` `' or `null` Value or be omitted completely. 
 
+
 ## Confidential Links & Embeds: 
 
-### [Flags](/_public/schema-org/Property/Flags.md) 
+### [Flags](/_Standards/schema-org/Property/Flags.md) 
+
+### [Flags.public](/_public/schema-org/Property/Flags.public.md) 
 
 ### [Flags.internal](/_internal/schema-org/Property/Flags.internal.md) 
 
@@ -32,4 +35,5 @@ But they can also implement a ternary logic using the empty '` `' or `null` Valu
 
 ### [Flags.personal](/_personal/schema-org/Property/Flags.personal.md) 
 
-### [Flags.secret](/_secret/schema-org/Property/Flags.secret.md) 
+### [Flags.secret](/_secret/schema-org/Property/Flags.secret.md)
+

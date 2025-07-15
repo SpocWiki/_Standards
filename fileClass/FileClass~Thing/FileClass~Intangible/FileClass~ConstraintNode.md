@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,10 +54,11 @@ Indicates the number of constraints property values defined for a particular [[C
 NumConstraints:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ConstraintNode](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.md) 
+### [FileClass~ConstraintNode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.md) 
+
+### [FileClass~ConstraintNode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.public.md) 
 
 ### [FileClass~ConstraintNode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.internal.md) 
 
@@ -67,4 +68,5 @@ NumConstraints:: {"type":"Number","options":{}}
 
 ### [FileClass~ConstraintNode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.personal.md) 
 
-### [FileClass~ConstraintNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.secret.md) 
+### [FileClass~ConstraintNode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode.secret.md)
+

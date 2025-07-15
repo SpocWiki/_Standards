@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_body_location )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_body_location](/_public/schema-org/Property/Texts/has_body_location.md) 
+### [has_body_location](/_Standards/schema-org/Property/Texts/has_body_location.md) 
+
+### [has_body_location.public](/_public/schema-org/Property/Texts/has_body_location.public.md) 
 
 ### [has_body_location.internal](/_internal/schema-org/Property/Texts/has_body_location.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_body_location.personal](/_personal/schema-org/Property/Texts/has_body_location.personal.md) 
 
-### [has_body_location.secret](/_secret/schema-org/Property/Texts/has_body_location.secret.md) 
+### [has_body_location.secret](/_secret/schema-org/Property/Texts/has_body_location.secret.md)
+

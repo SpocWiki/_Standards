@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,9 +49,12 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [leave_action](/_public/schema-org/Class/is_a_/action/interact_action/leave_action.md) 
+### [leave_action](/_Standards/schema-org/Class/is_a_/action/interact_action/leave_action.md) 
+
+### [leave_action.public](/_public/schema-org/Class/is_a_/action/interact_action/leave_action.public.md) 
 
 ### [leave_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/leave_action.internal.md) 
 
@@ -61,4 +64,5 @@ Related actions:
 
 ### [leave_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/leave_action.personal.md) 
 
-### [leave_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/leave_action.secret.md) 
+### [leave_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/leave_action.secret.md)
+

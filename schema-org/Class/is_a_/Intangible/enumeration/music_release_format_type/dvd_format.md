@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ DVDFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [dvd_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.md) 
+### [dvd_format](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.md) 
+
+### [dvd_format.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.public.md) 
 
 ### [dvd_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.internal.md) 
 
@@ -56,4 +59,5 @@ DVDFormat.
 
 ### [dvd_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.personal.md) 
 
-### [dvd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.secret.md) 
+### [dvd_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/dvd_format.secret.md)
+

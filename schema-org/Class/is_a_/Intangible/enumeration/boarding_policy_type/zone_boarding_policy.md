@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The airline boards by zones of the plane.
 
 [ #is_/enum_of :: [[../BoardingPolicyType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [zone_boarding_policy](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.md) 
+### [zone_boarding_policy](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.md) 
+
+### [zone_boarding_policy.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.public.md) 
 
 ### [zone_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.internal.md) 
 
@@ -56,4 +59,5 @@ The airline boards by zones of the plane.
 
 ### [zone_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.personal.md) 
 
-### [zone_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.secret.md) 
+### [zone_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/zone_boarding_policy.secret.md)
+

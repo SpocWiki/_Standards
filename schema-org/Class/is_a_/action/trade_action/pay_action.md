@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ An agent pays a price to a participant.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [pay_action](/_public/schema-org/Class/is_a_/action/trade_action/pay_action.md) 
+### [pay_action](/_Standards/schema-org/Class/is_a_/action/trade_action/pay_action.md) 
+
+### [pay_action.public](/_public/schema-org/Class/is_a_/action/trade_action/pay_action.public.md) 
 
 ### [pay_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/pay_action.internal.md) 
 
@@ -54,4 +57,5 @@ An agent pays a price to a participant.
 
 ### [pay_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/pay_action.personal.md) 
 
-### [pay_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/pay_action.secret.md) 
+### [pay_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/pay_action.secret.md)
+

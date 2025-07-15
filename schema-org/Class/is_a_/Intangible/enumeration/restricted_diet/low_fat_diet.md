@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A diet focused on reduced fat and cholesterol intake.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [low_fat_diet](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.md) 
+### [low_fat_diet](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.md) 
+
+### [low_fat_diet.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.public.md) 
 
 ### [low_fat_diet.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.internal.md) 
 
@@ -56,4 +59,5 @@ A diet focused on reduced fat and cholesterol intake.
 
 ### [low_fat_diet.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.personal.md) 
 
-### [low_fat_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.secret.md) 
+### [low_fat_diet.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/restricted_diet/low_fat_diet.secret.md)
+

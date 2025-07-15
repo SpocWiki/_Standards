@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21958
 has_id_wikidata: Q1819
@@ -94,9 +94,12 @@ Unicode_character: 釤
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samarium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Samarium](/_public/chemic/chemic~Elements/Lanthanide-Group/Samarium.md) 
+### [Samarium](/_Standards/chemic/chemic~Elements/Lanthanide-Group/Samarium.md) 
+
+### [Samarium.public](/_public/chemic/chemic~Elements/Lanthanide-Group/Samarium.public.md) 
 
 ### [Samarium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Samarium.internal.md) 
 
@@ -106,4 +109,5 @@ Unicode_character: 釤
 
 ### [Samarium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Samarium.personal.md) 
 
-### [Samarium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Samarium.secret.md) 
+### [Samarium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Samarium.secret.md)
+

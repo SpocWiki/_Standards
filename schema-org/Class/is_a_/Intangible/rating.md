@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [rating](/_public/schema-org/Class/is_a_/Intangible/rating.md) 
+### [rating](/_Standards/schema-org/Class/is_a_/Intangible/rating.md) 
+
+### [rating.public](/_public/schema-org/Class/is_a_/Intangible/rating.public.md) 
 
 ### [rating.internal](/_internal/schema-org/Class/is_a_/Intangible/rating.internal.md) 
 
@@ -55,4 +58,5 @@ Tag Instances like this:
 
 ### [rating.personal](/_personal/schema-org/Class/is_a_/Intangible/rating.personal.md) 
 
-### [rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating.secret.md) 
+### [rating.secret](/_secret/schema-org/Class/is_a_/Intangible/rating.secret.md)
+

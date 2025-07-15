@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_recipe_category )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recipe_category](/_public/schema-org/Property/Texts/has_recipe_category.md) 
+### [has_recipe_category](/_Standards/schema-org/Property/Texts/has_recipe_category.md) 
+
+### [has_recipe_category.public](/_public/schema-org/Property/Texts/has_recipe_category.public.md) 
 
 ### [has_recipe_category.internal](/_internal/schema-org/Property/Texts/has_recipe_category.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_recipe_category.personal](/_personal/schema-org/Property/Texts/has_recipe_category.personal.md) 
 
-### [has_recipe_category.secret](/_secret/schema-org/Property/Texts/has_recipe_category.secret.md) 
+### [has_recipe_category.secret](/_secret/schema-org/Property/Texts/has_recipe_category.secret.md)
+

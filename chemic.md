@@ -18,10 +18,11 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemistry)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [chemic](/_public/chemic.md) 
+### [chemic](/_Standards/chemic.md) 
+
+### [chemic.public](/_public/chemic.public.md) 
 
 ### [chemic.internal](/_internal/chemic.internal.md) 
 
@@ -31,4 +32,5 @@ aliases:
 
 ### [chemic.personal](/_personal/chemic.personal.md) 
 
-### [chemic.secret](/_secret/chemic.secret.md) 
+### [chemic.secret](/_secret/chemic.secret.md)
+

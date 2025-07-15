@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_natural_progression )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_natural_progression](/_public/schema-org/Property/Texts/has_natural_progression.md) 
+### [has_natural_progression](/_Standards/schema-org/Property/Texts/has_natural_progression.md) 
+
+### [has_natural_progression.public](/_public/schema-org/Property/Texts/has_natural_progression.public.md) 
 
 ### [has_natural_progression.internal](/_internal/schema-org/Property/Texts/has_natural_progression.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_natural_progression.personal](/_personal/schema-org/Property/Texts/has_natural_progression.personal.md) 
 
-### [has_natural_progression.secret](/_secret/schema-org/Property/Texts/has_natural_progression.secret.md) 
+### [has_natural_progression.secret](/_secret/schema-org/Property/Texts/has_natural_progression.secret.md)
+

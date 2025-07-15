@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - CEA
 ---
@@ -14,9 +14,12 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Africa)
 
+
 ## Confidential Links & Embeds: 
 
-### [UNECA](/_public/UN(United_Nations)/ECOSOC/UNECA.md) 
+### [UNECA](/_Standards/UN(United_Nations)/ECOSOC/UNECA.md) 
+
+### [UNECA.public](/_public/UN(United_Nations)/ECOSOC/UNECA.public.md) 
 
 ### [UNECA.internal](/_internal/UN(United_Nations)/ECOSOC/UNECA.internal.md) 
 
@@ -26,4 +29,5 @@ aliases:
 
 ### [UNECA.personal](/_personal/UN(United_Nations)/ECOSOC/UNECA.personal.md) 
 
-### [UNECA.secret](/_secret/UN(United_Nations)/ECOSOC/UNECA.secret.md) 
+### [UNECA.secret](/_secret/UN(United_Nations)/ECOSOC/UNECA.secret.md)
+

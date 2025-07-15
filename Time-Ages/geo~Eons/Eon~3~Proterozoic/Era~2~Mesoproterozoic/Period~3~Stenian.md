@@ -63,10 +63,11 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Period~3~Stenian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
+### [Period~3~Stenian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
+
+### [Period~3~Stenian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public.md) 
 
 ### [Period~3~Stenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal.md) 
 
@@ -76,4 +77,5 @@ noteOnly: true
 
 ### [Period~3~Stenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal.md) 
 
-### [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md) 
+### [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md)
+

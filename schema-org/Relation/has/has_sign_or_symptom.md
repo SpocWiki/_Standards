@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_sign_or_symptom )
 ( #has_/range :: MedicalSignOrSymptom )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sign_or_symptom](/_public/schema-org/Relation/has/has_sign_or_symptom.md) 
+### [has_sign_or_symptom](/_Standards/schema-org/Relation/has/has_sign_or_symptom.md) 
+
+### [has_sign_or_symptom.public](/_public/schema-org/Relation/has/has_sign_or_symptom.public.md) 
 
 ### [has_sign_or_symptom.internal](/_internal/schema-org/Relation/has/has_sign_or_symptom.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_sign_or_symptom.personal](/_personal/schema-org/Relation/has/has_sign_or_symptom.personal.md) 
 
-### [has_sign_or_symptom.secret](/_secret/schema-org/Relation/has/has_sign_or_symptom.secret.md) 
+### [has_sign_or_symptom.secret](/_secret/schema-org/Relation/has/has_sign_or_symptom.secret.md)
+

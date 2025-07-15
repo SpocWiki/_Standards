@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [weapon_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md) 
+### [weapon_consideration](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md) 
+
+### [weapon_consideration.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.public.md) 
 
 ### [weapon_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md) 
 
@@ -58,4 +61,5 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 ### [weapon_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md) 
 
-### [weapon_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md) 
+### [weapon_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md)
+

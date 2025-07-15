@@ -451,10 +451,11 @@ Capital :: [[Gaborone]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Botswana) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Botswana](/_public/Earth/Continent/Africa/Africa~South/Botswana.md) 
+### [Botswana](/_Standards/Earth/Continent/Africa/Africa~South/Botswana.md) 
+
+### [Botswana.public](/_public/Earth/Continent/Africa/Africa~South/Botswana.public.md) 
 
 ### [Botswana.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana.internal.md) 
 
@@ -464,4 +465,5 @@ Capital :: [[Gaborone]]
 
 ### [Botswana.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana.personal.md) 
 
-### [Botswana.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana.secret.md) 
+### [Botswana.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana.secret.md)
+

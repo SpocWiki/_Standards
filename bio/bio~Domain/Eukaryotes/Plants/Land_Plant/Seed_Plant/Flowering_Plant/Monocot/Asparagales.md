@@ -149,3 +149,22 @@ Comments            Orchidaceae
 Source Collection   [Botanical Image Database](http://www.unibas.ch/botimage/)
 Copyright ::           © 2001 University of Basel, Basel, Switzerland 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Asparagales](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.md) 
+
+### [Asparagales.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.public.md) 
+
+### [Asparagales.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.internal.md) 
+
+### [Asparagales.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.protect.md) 
+
+### [Asparagales.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.private.md) 
+
+### [Asparagales.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.personal.md) 
+
+### [Asparagales.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales.secret.md)
+

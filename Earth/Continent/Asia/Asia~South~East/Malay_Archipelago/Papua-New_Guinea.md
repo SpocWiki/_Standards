@@ -157,9 +157,12 @@ Capital :: [[Port_Moresby]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Papua%20New%20Guinea)
 
+
 ## Confidential Links & Embeds: 
 
-### [Papua-New_Guinea](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
+### [Papua-New_Guinea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
+
+### [Papua-New_Guinea.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public.md) 
 
 ### [Papua-New_Guinea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal.md) 
 
@@ -169,4 +172,5 @@ Capital :: [[Port_Moresby]]
 
 ### [Papua-New_Guinea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal.md) 
 
-### [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md) 
+### [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md)
+

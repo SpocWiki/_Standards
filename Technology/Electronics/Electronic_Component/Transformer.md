@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11658
 subclass_of:
 - "[[_Standards/WikiData/WD~electrical_element,210729]]"
@@ -33,4 +33,23 @@ Commons_category: Transformers
 > Transformers are used to change AC voltage levels, such transformers being termed step-up or step-down type to increase or decrease voltage level, respectively. Transformers can also be used to provide galvanic isolation between circuits as well as to couple stages of signal-processing circuits. Since the invention of the first constant-potential transformer in 1885, transformers have become essential for the transmission, distribution, and utilization of alternating current electric power. A wide range of transformer designs is encountered in electronic and electric power applications. Transformers range in size from RF transformers less than a cubic centimeter in volume, to units weighing hundreds of tons used to interconnect the power grid.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transformer) 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Transformer](/_Standards/Technology/Electronics/Electronic_Component/Transformer.md) 
+
+### [Transformer.public](/_public/Technology/Electronics/Electronic_Component/Transformer.public.md) 
+
+### [Transformer.internal](/_internal/Technology/Electronics/Electronic_Component/Transformer.internal.md) 
+
+### [Transformer.protect](/_protect/Technology/Electronics/Electronic_Component/Transformer.protect.md) 
+
+### [Transformer.private](/_private/Technology/Electronics/Electronic_Component/Transformer.private.md) 
+
+### [Transformer.personal](/_personal/Technology/Electronics/Electronic_Component/Transformer.personal.md) 
+
+### [Transformer.secret](/_secret/Technology/Electronics/Electronic_Component/Transformer.secret.md)
 

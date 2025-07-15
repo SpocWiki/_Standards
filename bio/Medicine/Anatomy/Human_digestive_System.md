@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9649
 has_part_s_:
 - "[[_Standards/WikiData/WD~salivary_gland,134938]]"
@@ -63,4 +63,23 @@ TA98_Latin_term: "systema digestorium"
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Human_digestive_System](/_Standards/bio/Medicine/Anatomy/Human_digestive_System.md) 
+
+### [Human_digestive_System.public](/_public/bio/Medicine/Anatomy/Human_digestive_System.public.md) 
+
+### [Human_digestive_System.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System.internal.md) 
+
+### [Human_digestive_System.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System.protect.md) 
+
+### [Human_digestive_System.private](/_private/bio/Medicine/Anatomy/Human_digestive_System.private.md) 
+
+### [Human_digestive_System.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System.personal.md) 
+
+### [Human_digestive_System.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System.secret.md)
 

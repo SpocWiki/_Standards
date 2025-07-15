@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_recognizing_authority )
 ( #has_/range :: Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recognizing_authority](/_public/schema-org/Relation/has/has_recognizing_authority.md) 
+### [has_recognizing_authority](/_Standards/schema-org/Relation/has/has_recognizing_authority.md) 
+
+### [has_recognizing_authority.public](/_public/schema-org/Relation/has/has_recognizing_authority.public.md) 
 
 ### [has_recognizing_authority.internal](/_internal/schema-org/Relation/has/has_recognizing_authority.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_recognizing_authority.personal](/_personal/schema-org/Relation/has/has_recognizing_authority.personal.md) 
 
-### [has_recognizing_authority.secret](/_secret/schema-org/Relation/has/has_recognizing_authority.secret.md) 
+### [has_recognizing_authority.secret](/_secret/schema-org/Relation/has/has_recognizing_authority.secret.md)
+

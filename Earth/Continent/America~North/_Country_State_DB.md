@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -316,9 +316,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Country_State_DB](/_public/Earth/Continent/America~North/_Country_State_DB.md) 
+### [_Country_State_DB](/_Standards/Earth/Continent/America~North/_Country_State_DB.md) 
+
+### [_Country_State_DB.public](/_public/Earth/Continent/America~North/_Country_State_DB.public.md) 
 
 ### [_Country_State_DB.internal](/_internal/Earth/Continent/America~North/_Country_State_DB.internal.md) 
 
@@ -328,4 +331,5 @@ filters:
 
 ### [_Country_State_DB.personal](/_personal/Earth/Continent/America~North/_Country_State_DB.personal.md) 
 
-### [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md) 
+### [_Country_State_DB.secret](/_secret/Earth/Continent/America~North/_Country_State_DB.secret.md)
+

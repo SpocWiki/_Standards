@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_number_of_answers )
 ( #has_/range :: Integer )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_number_of_answers](/_public/schema-org/Property/has_number_of/has_number_of_answers.md) 
+### [has_number_of_answers](/_Standards/schema-org/Property/has_number_of/has_number_of_answers.md) 
+
+### [has_number_of_answers.public](/_public/schema-org/Property/has_number_of/has_number_of_answers.public.md) 
 
 ### [has_number_of_answers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_answers.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_number_of_answers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_answers.personal.md) 
 
-### [has_number_of_answers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_answers.secret.md) 
+### [has_number_of_answers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_answers.secret.md)
+

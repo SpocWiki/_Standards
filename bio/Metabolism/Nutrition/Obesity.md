@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q12174
 health_specialty: '[[_Standards/WikiData/WD~endocrinology,162606]]'
 drug_or_therapy_used_for_treatment:
@@ -431,4 +431,23 @@ GitHub_topic: obesity
 > Obesity is a leading preventable cause of death worldwide, with increasing rates in adults and children. In 2022, over 1 billion people lived with obesity worldwide (879 million adults and 159 million children), representing more than a double of adult cases (and four times higher than cases among children) registered in 1990. Obesity is more common in women than in men. Today, obesity is stigmatized in most of the world. Conversely, some cultures, past and present, have a favorable view of obesity, seeing it as a symbol of wealth and fertility. The World Health Organization, the US, Canada, Japan, Portugal, Germany, the European Parliament and medical societies, e.g. the American Medical Association, classify obesity as a disease. Others, such as the UK, do not.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Obesity)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Obesity](/_Standards/bio/Metabolism/Nutrition/Obesity.md) 
+
+### [Obesity.public](/_public/bio/Metabolism/Nutrition/Obesity.public.md) 
+
+### [Obesity.internal](/_internal/bio/Metabolism/Nutrition/Obesity.internal.md) 
+
+### [Obesity.protect](/_protect/bio/Metabolism/Nutrition/Obesity.protect.md) 
+
+### [Obesity.private](/_private/bio/Metabolism/Nutrition/Obesity.private.md) 
+
+### [Obesity.personal](/_personal/bio/Metabolism/Nutrition/Obesity.personal.md) 
+
+### [Obesity.secret](/_secret/bio/Metabolism/Nutrition/Obesity.secret.md)
 

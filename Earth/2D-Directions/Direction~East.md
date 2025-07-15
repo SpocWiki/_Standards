@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Ash_Sharqiyah
 ---
@@ -11,10 +11,11 @@ aliases:
 **Al Sharqiyah**, **Ash Sharqiyah** (Arabic: الشرقية, from Arabic شرقية) or its variants, meaning 'eastern' or loosely 'oriental', may refer to:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Direction~East](/_public/Earth/2D-Directions/Direction~East.md) 
+### [Direction~East](/_Standards/Earth/2D-Directions/Direction~East.md) 
+
+### [Direction~East.public](/_public/Earth/2D-Directions/Direction~East.public.md) 
 
 ### [Direction~East.internal](/_internal/Earth/2D-Directions/Direction~East.internal.md) 
 
@@ -24,4 +25,5 @@ aliases:
 
 ### [Direction~East.personal](/_personal/Earth/2D-Directions/Direction~East.personal.md) 
 
-### [Direction~East.secret](/_secret/Earth/2D-Directions/Direction~East.secret.md) 
+### [Direction~East.secret](/_secret/Earth/2D-Directions/Direction~East.secret.md)
+

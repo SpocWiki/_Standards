@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_code_acriss )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_acriss](/_public/schema-org/Property/has_name/has_code_acriss.md) 
+### [has_code_acriss](/_Standards/schema-org/Property/has_name/has_code_acriss.md) 
+
+### [has_code_acriss.public](/_public/schema-org/Property/has_name/has_code_acriss.public.md) 
 
 ### [has_code_acriss.internal](/_internal/schema-org/Property/has_name/has_code_acriss.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_code_acriss.personal](/_personal/schema-org/Property/has_name/has_code_acriss.personal.md) 
 
-### [has_code_acriss.secret](/_secret/schema-org/Property/has_name/has_code_acriss.secret.md) 
+### [has_code_acriss.secret](/_secret/schema-org/Property/has_name/has_code_acriss.secret.md)
+

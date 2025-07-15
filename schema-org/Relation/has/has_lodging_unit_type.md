@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_lodging_unit_type )
 ( #has_/range :: QualitativeValue, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_lodging_unit_type](/_public/schema-org/Relation/has/has_lodging_unit_type.md) 
+### [has_lodging_unit_type](/_Standards/schema-org/Relation/has/has_lodging_unit_type.md) 
+
+### [has_lodging_unit_type.public](/_public/schema-org/Relation/has/has_lodging_unit_type.public.md) 
 
 ### [has_lodging_unit_type.internal](/_internal/schema-org/Relation/has/has_lodging_unit_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_lodging_unit_type.personal](/_personal/schema-org/Relation/has/has_lodging_unit_type.personal.md) 
 
-### [has_lodging_unit_type.secret](/_secret/schema-org/Relation/has/has_lodging_unit_type.secret.md) 
+### [has_lodging_unit_type.secret](/_secret/schema-org/Relation/has/has_lodging_unit_type.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_service_type )
 ( #has_/range :: GovernmentBenefitsType, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_service_type](/_public/schema-org/Relation/has/has_service_type.md) 
+### [has_service_type](/_Standards/schema-org/Relation/has/has_service_type.md) 
+
+### [has_service_type.public](/_public/schema-org/Relation/has/has_service_type.public.md) 
 
 ### [has_service_type.internal](/_internal/schema-org/Relation/has/has_service_type.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_service_type.personal](/_personal/schema-org/Relation/has/has_service_type.personal.md) 
 
-### [has_service_type.secret](/_secret/schema-org/Relation/has/has_service_type.secret.md) 
+### [has_service_type.secret](/_secret/schema-org/Relation/has/has_service_type.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [msrp](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.md) 
+### [msrp](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.md) 
+
+### [msrp.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.public.md) 
 
 ### [msrp.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.internal.md) 
 
@@ -58,4 +61,5 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 
 ### [msrp.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.personal.md) 
 
-### [msrp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.secret.md) 
+### [msrp.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_type_enumeration/msrp.secret.md)
+

@@ -444,9 +444,12 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tajikistan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tajikistan](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan.md) 
+### [Tajikistan](/_Standards/Earth/Continent/Asia/Asia~Central/Tajikistan.md) 
+
+### [Tajikistan.public](/_public/Earth/Continent/Asia/Asia~Central/Tajikistan.public.md) 
 
 ### [Tajikistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Tajikistan.internal.md) 
 
@@ -456,4 +459,5 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 
 ### [Tajikistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal.md) 
 
-### [Tajikistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret.md) 
+### [Tajikistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret.md)
+

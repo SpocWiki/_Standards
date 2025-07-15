@@ -57,3 +57,22 @@ taxon_common_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Myriapoda) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Myriapoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.md) 
+
+### [Myriapoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.public.md) 
+
+### [Myriapoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.internal.md) 
+
+### [Myriapoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.protect.md) 
+
+### [Myriapoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.private.md) 
+
+### [Myriapoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.personal.md) 
+
+### [Myriapoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Myriapoda.secret.md)
+

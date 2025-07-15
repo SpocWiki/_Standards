@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ The coding system, e.g. 'ICD-10'.
 CodingSystem:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalCode](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.md) 
+### [FileClass~MedicalCode](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.md) 
+
+### [FileClass~MedicalCode.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.public.md) 
 
 ### [FileClass~MedicalCode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.internal.md) 
 
@@ -56,4 +57,5 @@ CodingSystem:: {"type":"Input","options":{}}
 
 ### [FileClass~MedicalCode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.personal.md) 
 
-### [FileClass~MedicalCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.secret.md) 
+### [FileClass~MedicalCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible/FileClass~MedicalCode.secret.md)
+

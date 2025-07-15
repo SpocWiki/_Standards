@@ -76,9 +76,12 @@ briefMax: 128
 noteOnly: true
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [Molecule](/_public/chemic/Molecule.md) 
+### [Molecule](/_Standards/chemic/Molecule.md) 
+
+### [Molecule.public](/_public/chemic/Molecule.public.md) 
 
 ### [Molecule.internal](/_internal/chemic/Molecule.internal.md) 
 
@@ -88,4 +91,5 @@ noteOnly: true
 
 ### [Molecule.personal](/_personal/chemic/Molecule.personal.md) 
 
-### [Molecule.secret](/_secret/chemic/Molecule.secret.md) 
+### [Molecule.secret](/_secret/chemic/Molecule.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_id_confirmation](/_public/schema-org/Property/has_name/has_id_confirmation.md) 
+### [has_id_confirmation](/_Standards/schema-org/Property/has_name/has_id_confirmation.md) 
+
+### [has_id_confirmation.public](/_public/schema-org/Property/has_name/has_id_confirmation.public.md) 
 
 ### [has_id_confirmation.internal](/_internal/schema-org/Property/has_name/has_id_confirmation.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_id_confirmation.personal](/_personal/schema-org/Property/has_name/has_id_confirmation.personal.md) 
 
-### [has_id_confirmation.secret](/_secret/schema-org/Property/has_name/has_id_confirmation.secret.md) 
+### [has_id_confirmation.secret](/_secret/schema-org/Property/has_name/has_id_confirmation.secret.md)
+

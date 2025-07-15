@@ -179,9 +179,12 @@ A book.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Book)
 
+
 ## Confidential Links & Embeds: 
 
-### [book](/_public/schema-org/Class/is_a_/creative_work/book.md) 
+### [book](/_Standards/schema-org/Class/is_a_/creative_work/book.md) 
+
+### [book.public](/_public/schema-org/Class/is_a_/creative_work/book.public.md) 
 
 ### [book.internal](/_internal/schema-org/Class/is_a_/creative_work/book.internal.md) 
 
@@ -191,4 +194,5 @@ A book.
 
 ### [book.personal](/_personal/schema-org/Class/is_a_/creative_work/book.personal.md) 
 
-### [book.secret](/_secret/schema-org/Class/is_a_/creative_work/book.secret.md) 
+### [book.secret](/_secret/schema-org/Class/is_a_/creative_work/book.secret.md)
+

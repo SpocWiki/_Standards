@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Tag Instances like this:
 
 The boolean value true.
 
+
 ## Confidential Links & Embeds: 
 
-### [TRUE](/_public/schema-org/Class/is_a_/data_type/boolean/TRUE.md) 
+### [TRUE](/_Standards/schema-org/Class/is_a_/data_type/boolean/TRUE.md) 
+
+### [TRUE.public](/_public/schema-org/Class/is_a_/data_type/boolean/TRUE.public.md) 
 
 ### [TRUE.internal](/_internal/schema-org/Class/is_a_/data_type/boolean/TRUE.internal.md) 
 
@@ -50,4 +53,5 @@ The boolean value true.
 
 ### [TRUE.personal](/_personal/schema-org/Class/is_a_/data_type/boolean/TRUE.personal.md) 
 
-### [TRUE.secret](/_secret/schema-org/Class/is_a_/data_type/boolean/TRUE.secret.md) 
+### [TRUE.secret](/_secret/schema-org/Class/is_a_/data_type/boolean/TRUE.secret.md)
+

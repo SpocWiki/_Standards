@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_study_design )
 ( #has_/range :: MedicalObservationalStudyDesign )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_study_design](/_public/schema-org/Relation/has/has_study_design.md) 
+### [has_study_design](/_Standards/schema-org/Relation/has/has_study_design.md) 
+
+### [has_study_design.public](/_public/schema-org/Relation/has/has_study_design.public.md) 
 
 ### [has_study_design.internal](/_internal/schema-org/Relation/has/has_study_design.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_study_design.personal](/_personal/schema-org/Relation/has/has_study_design.personal.md) 
 
-### [has_study_design.secret](/_secret/schema-org/Relation/has/has_study_design.secret.md) 
+### [has_study_design.secret](/_secret/schema-org/Relation/has/has_study_design.secret.md)
+

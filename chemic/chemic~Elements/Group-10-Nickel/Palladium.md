@@ -131,10 +131,11 @@ InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
 > [Wikipedia](https://en.wikipedia.org/wiki/Palladium)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Palladium](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
+### [Palladium](/_Standards/chemic/chemic~Elements/Group-10-Nickel/Palladium.md) 
+
+### [Palladium.public](/_public/chemic/chemic~Elements/Group-10-Nickel/Palladium.public.md) 
 
 ### [Palladium.internal](/_internal/chemic/chemic~Elements/Group-10-Nickel/Palladium.internal.md) 
 
@@ -144,4 +145,5 @@ InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
 
 ### [Palladium.personal](/_personal/chemic/chemic~Elements/Group-10-Nickel/Palladium.personal.md) 
 
-### [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md) 
+### [Palladium.secret](/_secret/chemic/chemic~Elements/Group-10-Nickel/Palladium.secret.md)
+

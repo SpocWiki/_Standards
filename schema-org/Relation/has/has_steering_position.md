@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_steering_position )
 ( #has_/range :: SteeringPositionValue )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_steering_position](/_public/schema-org/Relation/has/has_steering_position.md) 
+### [has_steering_position](/_Standards/schema-org/Relation/has/has_steering_position.md) 
+
+### [has_steering_position.public](/_public/schema-org/Relation/has/has_steering_position.public.md) 
 
 ### [has_steering_position.internal](/_internal/schema-org/Relation/has/has_steering_position.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_steering_position.personal](/_personal/schema-org/Relation/has/has_steering_position.personal.md) 
 
-### [has_steering_position.secret](/_secret/schema-org/Relation/has/has_steering_position.secret.md) 
+### [has_steering_position.secret](/_secret/schema-org/Relation/has/has_steering_position.secret.md)
+

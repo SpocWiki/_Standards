@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_fees_and_commissions_specification )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_fees_and_commissions_specification](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
+### [has_fees_and_commissions_specification](/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification.md) 
+
+### [has_fees_and_commissions_specification.public](/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public.md) 
 
 ### [has_fees_and_commissions_specification.internal](/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_fees_and_commissions_specification.personal](/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal.md) 
 
-### [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md) 
+### [has_fees_and_commissions_specification.secret](/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret.md)
+

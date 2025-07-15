@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A food or drink item listed in a menu or menu section.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [menu_item](/_public/schema-org/Class/is_a_/Intangible/menu_item.md) 
+### [menu_item](/_Standards/schema-org/Class/is_a_/Intangible/menu_item.md) 
+
+### [menu_item.public](/_public/schema-org/Class/is_a_/Intangible/menu_item.public.md) 
 
 ### [menu_item.internal](/_internal/schema-org/Class/is_a_/Intangible/menu_item.internal.md) 
 
@@ -54,4 +57,5 @@ A food or drink item listed in a menu or menu section.
 
 ### [menu_item.personal](/_personal/schema-org/Class/is_a_/Intangible/menu_item.personal.md) 
 
-### [menu_item.secret](/_secret/schema-org/Class/is_a_/Intangible/menu_item.secret.md) 
+### [menu_item.secret](/_secret/schema-org/Class/is_a_/Intangible/menu_item.secret.md)
+

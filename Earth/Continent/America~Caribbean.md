@@ -1,4 +1,4 @@
-﻿
+
 # [[America~Caribbean]] 
 
 For more Details, check out this Repository into this Subfolder: 
@@ -21,7 +21,9 @@ markerFolder: ./America~Caribbean/
 
 ## Confidential Links & Embeds: 
 
-### [America~Caribbean](/_public/Earth/Continent/America~Caribbean.md) 
+### [America~Caribbean](/_Standards/Earth/Continent/America~Caribbean.md) 
+
+### [America~Caribbean.public](/_public/Earth/Continent/America~Caribbean.public.md) 
 
 ### [America~Caribbean.internal](/_internal/Earth/Continent/America~Caribbean.internal.md) 
 
@@ -31,4 +33,5 @@ markerFolder: ./America~Caribbean/
 
 ### [America~Caribbean.personal](/_personal/Earth/Continent/America~Caribbean.personal.md) 
 
-### [America~Caribbean.secret](/_secret/Earth/Continent/America~Caribbean.secret.md) 
+### [America~Caribbean.secret](/_secret/Earth/Continent/America~Caribbean.secret.md)
+

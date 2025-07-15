@@ -43,3 +43,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/George%20Frideric%20Handel)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Handel,George_Frideric](/_Standards/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.md) 
+
+### [Handel,George_Frideric.public](/_public/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.public.md) 
+
+### [Handel,George_Frideric.internal](/_internal/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.internal.md) 
+
+### [Handel,George_Frideric.protect](/_protect/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.protect.md) 
+
+### [Handel,George_Frideric.private](/_private/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.private.md) 
+
+### [Handel,George_Frideric.personal](/_personal/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.personal.md) 
+
+### [Handel,George_Frideric.secret](/_secret/bio/People/Composer/Baroque_Composers/Handel,George_Frideric.secret.md)
+

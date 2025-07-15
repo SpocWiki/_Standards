@@ -1,4 +1,4 @@
-﻿
+
 > **hCalendar** (short for HTML iCalendar) is a microformat standard 
 > for displaying a semantic (X)HTML representation 
 > of iCalendar-format calendar information about an event, on web pages, 
@@ -34,7 +34,9 @@ END:VCALENDAR
 
 ## Confidential Links & Embeds: 
 
-### [hCalendar](/_public/W3C/RDF(Resource_Description_Framework)/hCalendar.md) 
+### [hCalendar](/_Standards/W3C/RDF(Resource_Description_Framework)/hCalendar.md) 
+
+### [hCalendar.public](/_public/W3C/RDF(Resource_Description_Framework)/hCalendar.public.md) 
 
 ### [hCalendar.internal](/_internal/W3C/RDF(Resource_Description_Framework)/hCalendar.internal.md) 
 
@@ -44,4 +46,5 @@ END:VCALENDAR
 
 ### [hCalendar.personal](/_personal/W3C/RDF(Resource_Description_Framework)/hCalendar.personal.md) 
 
-### [hCalendar.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCalendar.secret.md) 
+### [hCalendar.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCalendar.secret.md)
+

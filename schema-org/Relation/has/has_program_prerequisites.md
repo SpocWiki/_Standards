@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_program_prerequisites )
 ( #has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_program_prerequisites](/_public/schema-org/Relation/has/has_program_prerequisites.md) 
+### [has_program_prerequisites](/_Standards/schema-org/Relation/has/has_program_prerequisites.md) 
+
+### [has_program_prerequisites.public](/_public/schema-org/Relation/has/has_program_prerequisites.public.md) 
 
 ### [has_program_prerequisites.internal](/_internal/schema-org/Relation/has/has_program_prerequisites.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_program_prerequisites.personal](/_personal/schema-org/Relation/has/has_program_prerequisites.personal.md) 
 
-### [has_program_prerequisites.secret](/_secret/schema-org/Relation/has/has_program_prerequisites.secret.md) 
+### [has_program_prerequisites.secret](/_secret/schema-org/Relation/has/has_program_prerequisites.secret.md)
+

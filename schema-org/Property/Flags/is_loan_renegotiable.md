@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_loan_renegotiable )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_loan_renegotiable](/_public/schema-org/Property/Flags/is_loan_renegotiable.md) 
+### [is_loan_renegotiable](/_Standards/schema-org/Property/Flags/is_loan_renegotiable.md) 
+
+### [is_loan_renegotiable.public](/_public/schema-org/Property/Flags/is_loan_renegotiable.public.md) 
 
 ### [is_loan_renegotiable.internal](/_internal/schema-org/Property/Flags/is_loan_renegotiable.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_loan_renegotiable.personal](/_personal/schema-org/Property/Flags/is_loan_renegotiable.personal.md) 
 
-### [is_loan_renegotiable.secret](/_secret/schema-org/Property/Flags/is_loan_renegotiable.secret.md) 
+### [is_loan_renegotiable.secret](/_secret/schema-org/Property/Flags/is_loan_renegotiable.secret.md)
+

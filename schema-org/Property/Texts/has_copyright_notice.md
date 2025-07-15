@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_copyright_notice )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_copyright_notice](/_public/schema-org/Property/Texts/has_copyright_notice.md) 
+### [has_copyright_notice](/_Standards/schema-org/Property/Texts/has_copyright_notice.md) 
+
+### [has_copyright_notice.public](/_public/schema-org/Property/Texts/has_copyright_notice.public.md) 
 
 ### [has_copyright_notice.internal](/_internal/schema-org/Property/Texts/has_copyright_notice.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_copyright_notice.personal](/_personal/schema-org/Property/Texts/has_copyright_notice.personal.md) 
 
-### [has_copyright_notice.secret](/_secret/schema-org/Property/Texts/has_copyright_notice.secret.md) 
+### [has_copyright_notice.secret](/_secret/schema-org/Property/Texts/has_copyright_notice.secret.md)
+

@@ -188,3 +188,22 @@ name_in_native_language: "Immanuel Kant"
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Kant,Immanuel](/_Standards/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.md) 
+
+### [Kant,Immanuel.public](/_public/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.public.md) 
+
+### [Kant,Immanuel.internal](/_internal/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.internal.md) 
+
+### [Kant,Immanuel.protect](/_protect/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.protect.md) 
+
+### [Kant,Immanuel.private](/_private/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.private.md) 
+
+### [Kant,Immanuel.personal](/_personal/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.personal.md) 
+
+### [Kant,Immanuel.secret](/_secret/bio/People/Philosopher/Early_modern_Philosophers/Kant,Immanuel.secret.md)
+

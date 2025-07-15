@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,7 +41,9 @@ Composites can be modelled in 2 ways:
 
 ## Confidential Links & Embeds: 
 
-### [Composite](/_public/schema-org/Composite.md) 
+### [Composite](/_Standards/schema-org/Composite.md) 
+
+### [Composite.public](/_public/schema-org/Composite.public.md) 
 
 ### [Composite.internal](/_internal/schema-org/Composite.internal.md) 
 
@@ -51,4 +53,5 @@ Composites can be modelled in 2 ways:
 
 ### [Composite.personal](/_personal/schema-org/Composite.personal.md) 
 
-### [Composite.secret](/_secret/schema-org/Composite.secret.md) 
+### [Composite.secret](/_secret/schema-org/Composite.secret.md)
+

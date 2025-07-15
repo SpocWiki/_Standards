@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to the study of the kidneys a
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [renal](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.md) 
+### [renal](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.md) 
+
+### [renal.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.public.md) 
 
 ### [renal.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to the study of the kidneys a
 
 ### [renal.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.personal.md) 
 
-### [renal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.secret.md) 
+### [renal.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/renal.secret.md)
+

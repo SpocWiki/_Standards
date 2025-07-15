@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An amusement park.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AmusementPark](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.md) 
+### [FileClass~AmusementPark](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.md) 
+
+### [FileClass~AmusementPark.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.public.md) 
 
 ### [FileClass~AmusementPark.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.internal.md) 
 
@@ -46,4 +47,5 @@ An amusement park.
 
 ### [FileClass~AmusementPark.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.personal.md) 
 
-### [FileClass~AmusementPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.secret.md) 
+### [FileClass~AmusementPark.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~AmusementPark.secret.md)
+

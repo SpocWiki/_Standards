@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of starting or activating a device or application (e.g. starting a timer
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ActivateAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.md) 
+### [FileClass~ActivateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.md) 
+
+### [FileClass~ActivateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.public.md) 
 
 ### [FileClass~ActivateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 ### [FileClass~ActivateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.personal.md) 
 
-### [FileClass~ActivateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.secret.md) 
+### [FileClass~ActivateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ControlAction/FileClass~ActivateAction.secret.md)
+

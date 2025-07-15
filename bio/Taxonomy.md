@@ -24,3 +24,20 @@ has_id_wikidata: Q7211
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taxonomy) 
 
+
+## Confidential Links & Embeds: 
+
+### [Taxonomy](/_Standards/bio/Taxonomy.md) 
+
+### [Taxonomy.public](/_public/bio/Taxonomy.public.md) 
+
+### [Taxonomy.internal](/_internal/bio/Taxonomy.internal.md) 
+
+### [Taxonomy.protect](/_protect/bio/Taxonomy.protect.md) 
+
+### [Taxonomy.private](/_private/bio/Taxonomy.private.md) 
+
+### [Taxonomy.personal](/_personal/bio/Taxonomy.personal.md) 
+
+### [Taxonomy.secret](/_secret/bio/Taxonomy.secret.md)
+

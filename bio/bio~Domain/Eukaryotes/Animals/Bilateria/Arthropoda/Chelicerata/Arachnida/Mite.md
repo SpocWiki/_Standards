@@ -216,3 +216,22 @@ Location ::        Canada
 Comments          Photograph of a predatory water mite
 Copyright ::         © 1996 C. Podemski
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mite](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.md) 
+
+### [Mite.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.public.md) 
+
+### [Mite.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.internal.md) 
+
+### [Mite.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.protect.md) 
+
+### [Mite.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.private.md) 
+
+### [Mite.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.personal.md) 
+
+### [Mite.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ acceptedAnswer ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_suggested_answer](/_public/schema-org/Relation/has/has_suggested_answer.md) 
+### [has_suggested_answer](/_Standards/schema-org/Relation/has/has_suggested_answer.md) 
+
+### [has_suggested_answer.public](/_public/schema-org/Relation/has/has_suggested_answer.public.md) 
 
 ### [has_suggested_answer.internal](/_internal/schema-org/Relation/has/has_suggested_answer.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_suggested_answer.personal](/_personal/schema-org/Relation/has/has_suggested_answer.personal.md) 
 
-### [has_suggested_answer.secret](/_secret/schema-org/Relation/has/has_suggested_answer.secret.md) 
+### [has_suggested_answer.secret](/_secret/schema-org/Relation/has/has_suggested_answer.secret.md)
+

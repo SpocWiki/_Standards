@@ -407,10 +407,11 @@ Capital :: [[Djibouti]]
 [has_place_latitude::11.6]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Djibouti](/_public/Earth/Continent/Africa/Africa~East/Djibouti.md) 
+### [Djibouti](/_Standards/Earth/Continent/Africa/Africa~East/Djibouti.md) 
+
+### [Djibouti.public](/_public/Earth/Continent/Africa/Africa~East/Djibouti.public.md) 
 
 ### [Djibouti.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti.internal.md) 
 
@@ -420,4 +421,5 @@ Capital :: [[Djibouti]]
 
 ### [Djibouti.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti.personal.md) 
 
-### [Djibouti.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret.md) 
+### [Djibouti.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret.md)
+

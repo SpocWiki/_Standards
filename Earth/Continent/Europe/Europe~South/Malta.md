@@ -441,9 +441,12 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Malta)
 
+
 ## Confidential Links & Embeds: 
 
-### [Malta](/_public/Earth/Continent/Europe/Europe~South/Malta.md) 
+### [Malta](/_Standards/Earth/Continent/Europe/Europe~South/Malta.md) 
+
+### [Malta.public](/_public/Earth/Continent/Europe/Europe~South/Malta.public.md) 
 
 ### [Malta.internal](/_internal/Earth/Continent/Europe/Europe~South/Malta.internal.md) 
 
@@ -453,4 +456,5 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 
 ### [Malta.personal](/_personal/Earth/Continent/Europe/Europe~South/Malta.personal.md) 
 
-### [Malta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta.secret.md) 
+### [Malta.secret](/_secret/Earth/Continent/Europe/Europe~South/Malta.secret.md)
+

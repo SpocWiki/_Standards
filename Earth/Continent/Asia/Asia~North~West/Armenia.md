@@ -480,9 +480,12 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Armenia)
 
+
 ## Confidential Links & Embeds: 
 
-### [Armenia](/_public/Earth/Continent/Asia/Asia~North~West/Armenia.md) 
+### [Armenia](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia.md) 
+
+### [Armenia.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia.public.md) 
 
 ### [Armenia.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal.md) 
 
@@ -492,4 +495,5 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 
 ### [Armenia.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia.personal.md) 
 
-### [Armenia.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia.secret.md) 
+### [Armenia.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia.secret.md)
+

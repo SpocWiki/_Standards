@@ -1,4 +1,4 @@
-﻿
+
 # [[Radian]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -13,7 +13,9 @@ Unit :: #Unit/SI/rad
 
 ## Confidential Links & Embeds: 
 
-### [Radian](/_public/Unit/SI-Unit/Radian.md) 
+### [Radian](/_Standards/Unit/SI-Unit/Radian.md) 
+
+### [Radian.public](/_public/Unit/SI-Unit/Radian.public.md) 
 
 ### [Radian.internal](/_internal/Unit/SI-Unit/Radian.internal.md) 
 
@@ -23,4 +25,5 @@ Unit :: #Unit/SI/rad
 
 ### [Radian.personal](/_personal/Unit/SI-Unit/Radian.personal.md) 
 
-### [Radian.secret](/_secret/Unit/SI-Unit/Radian.secret.md) 
+### [Radian.secret](/_secret/Unit/SI-Unit/Radian.secret.md)
+

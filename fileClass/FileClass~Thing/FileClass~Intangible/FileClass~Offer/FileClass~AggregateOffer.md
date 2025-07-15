@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -86,10 +86,11 @@ An offer to provide this item&#x2014;for example, an offer to sell a product, re
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~AggregateOffer](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.md) 
+### [FileClass~AggregateOffer](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.md) 
+
+### [FileClass~AggregateOffer.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.public.md) 
 
 ### [FileClass~AggregateOffer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.internal.md) 
 
@@ -99,4 +100,5 @@ Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~AggregateOffer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.personal.md) 
 
-### [FileClass~AggregateOffer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.secret.md) 
+### [FileClass~AggregateOffer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~AggregateOffer.secret.md)
+

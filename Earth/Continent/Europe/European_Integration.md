@@ -1,4 +1,4 @@
-﻿
+
 
 
 | Treaty                                                                                               | Signed     | Started    | Stopped    |
@@ -21,10 +21,11 @@
 | Lisbon Treaty[vi]                                                                                    | 2007-12-13 | 2009-12-01 |            |
 
 
-
 ## Confidential Links & Embeds: 
 
-### [European_Integration](/_public/Earth/Continent/Europe/European_Integration.md) 
+### [European_Integration](/_Standards/Earth/Continent/Europe/European_Integration.md) 
+
+### [European_Integration.public](/_public/Earth/Continent/Europe/European_Integration.public.md) 
 
 ### [European_Integration.internal](/_internal/Earth/Continent/Europe/European_Integration.internal.md) 
 
@@ -34,4 +35,5 @@
 
 ### [European_Integration.personal](/_personal/Earth/Continent/Europe/European_Integration.personal.md) 
 
-### [European_Integration.secret](/_secret/Earth/Continent/Europe/European_Integration.secret.md) 
+### [European_Integration.secret](/_secret/Earth/Continent/Europe/European_Integration.secret.md)
+

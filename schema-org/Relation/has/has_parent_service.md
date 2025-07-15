@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ Relation describes that:
 ( #has_/name :: has_parent_service )
 ( #has_/range :: BroadcastService )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_parent_service](/_public/schema-org/Relation/has/has_parent_service.md) 
+### [has_parent_service](/_Standards/schema-org/Relation/has/has_parent_service.md) 
+
+### [has_parent_service.public](/_public/schema-org/Relation/has/has_parent_service.public.md) 
 
 ### [has_parent_service.internal](/_internal/schema-org/Relation/has/has_parent_service.internal.md) 
 
@@ -54,4 +57,5 @@ Relation describes that:
 
 ### [has_parent_service.personal](/_personal/schema-org/Relation/has/has_parent_service.personal.md) 
 
-### [has_parent_service.secret](/_secret/schema-org/Relation/has/has_parent_service.secret.md) 
+### [has_parent_service.secret](/_secret/schema-org/Relation/has/has_parent_service.secret.md)
+

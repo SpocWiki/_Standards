@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Formal Predicate:
 
 Has [sub_properties::loanTerm]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration](/_public/schema-org/Property/has_duration_of/has_duration.md) 
+### [has_duration](/_Standards/schema-org/Property/has_duration_of/has_duration.md) 
+
+### [has_duration.public](/_public/schema-org/Property/has_duration_of/has_duration.public.md) 
 
 ### [has_duration.internal](/_internal/schema-org/Property/has_duration_of/has_duration.internal.md) 
 
@@ -58,4 +61,5 @@ Has [sub_properties::loanTerm]
 
 ### [has_duration.personal](/_personal/schema-org/Property/has_duration_of/has_duration.personal.md) 
 
-### [has_duration.secret](/_secret/schema-org/Property/has_duration_of/has_duration.secret.md) 
+### [has_duration.secret](/_secret/schema-org/Property/has_duration_of/has_duration.secret.md)
+

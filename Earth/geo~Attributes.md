@@ -1,4 +1,4 @@
-﻿GeoJson Files and other GIS Formats use a lot of Abbreviations for their Metadata. 
+GeoJson Files and other GIS Formats use a lot of Abbreviations for their Metadata. 
 Most Terms are described on the [GIS-Wi](http://wiki.gis.com/wiki/index.php/Minimum_bounding_rectangle)
 Here are some with their Type and Description: 
 
@@ -86,11 +86,11 @@ Here are some with their Type and Description:
 |                   |               |                              |                                                   |     |            |     |     |                                           |
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [geo~Attributes](/_public/Earth/geo~Attributes.md) 
+### [geo~Attributes](/_Standards/Earth/geo~Attributes.md) 
+
+### [geo~Attributes.public](/_public/Earth/geo~Attributes.public.md) 
 
 ### [geo~Attributes.internal](/_internal/Earth/geo~Attributes.internal.md) 
 
@@ -100,4 +100,5 @@ Here are some with their Type and Description:
 
 ### [geo~Attributes.personal](/_personal/Earth/geo~Attributes.personal.md) 
 
-### [geo~Attributes.secret](/_secret/Earth/geo~Attributes.secret.md) 
+### [geo~Attributes.secret](/_secret/Earth/geo~Attributes.secret.md)
+

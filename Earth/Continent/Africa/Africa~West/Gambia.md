@@ -408,7 +408,9 @@ Capital :: [[Banjul]]
 
 ## Confidential Links & Embeds: 
 
-### [Gambia](/_public/Earth/Continent/Africa/Africa~West/Gambia.md) 
+### [Gambia](/_Standards/Earth/Continent/Africa/Africa~West/Gambia.md) 
+
+### [Gambia.public](/_public/Earth/Continent/Africa/Africa~West/Gambia.public.md) 
 
 ### [Gambia.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal.md) 
 
@@ -418,4 +420,5 @@ Capital :: [[Banjul]]
 
 ### [Gambia.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal.md) 
 
-### [Gambia.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret.md) 
+### [Gambia.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret.md)
+

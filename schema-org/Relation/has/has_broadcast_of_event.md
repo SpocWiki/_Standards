@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_broadcast_of_event )
 ( #has_/range :: Event )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_broadcast_of_event](/_public/schema-org/Relation/has/has_broadcast_of_event.md) 
+### [has_broadcast_of_event](/_Standards/schema-org/Relation/has/has_broadcast_of_event.md) 
+
+### [has_broadcast_of_event.public](/_public/schema-org/Relation/has/has_broadcast_of_event.public.md) 
 
 ### [has_broadcast_of_event.internal](/_internal/schema-org/Relation/has/has_broadcast_of_event.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_broadcast_of_event.personal](/_personal/schema-org/Relation/has/has_broadcast_of_event.personal.md) 
 
-### [has_broadcast_of_event.secret](/_secret/schema-org/Relation/has/has_broadcast_of_event.secret.md) 
+### [has_broadcast_of_event.secret](/_secret/schema-org/Relation/has/has_broadcast_of_event.secret.md)
+

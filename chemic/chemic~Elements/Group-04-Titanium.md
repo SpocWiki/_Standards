@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -18,10 +18,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%204%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-04-Titanium](/_public/chemic/chemic~Elements/Group-04-Titanium.md) 
+### [Group-04-Titanium](/_Standards/chemic/chemic~Elements/Group-04-Titanium.md) 
+
+### [Group-04-Titanium.public](/_public/chemic/chemic~Elements/Group-04-Titanium.public.md) 
 
 ### [Group-04-Titanium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium.internal.md) 
 
@@ -31,4 +32,5 @@ type: ElementGroup
 
 ### [Group-04-Titanium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium.personal.md) 
 
-### [Group-04-Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium.secret.md) 
+### [Group-04-Titanium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium.secret.md)
+

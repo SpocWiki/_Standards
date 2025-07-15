@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Europe-CountryDb](/_public/Earth/Continent/Europe/_Europe-CountryDb.md) 
+### [_Europe-CountryDb](/_Standards/Earth/Continent/Europe/_Europe-CountryDb.md) 
+
+### [_Europe-CountryDb.public](/_public/Earth/Continent/Europe/_Europe-CountryDb.public.md) 
 
 ### [_Europe-CountryDb.internal](/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_Europe-CountryDb.personal](/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal.md) 
 
-### [_Europe-CountryDb.secret](/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret.md) 
+### [_Europe-CountryDb.secret](/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,13 @@ e.g. the Tires of a Car require these Sub-Relations of the [[is_part_of]] Relati
 - is_spare_tire_of 
 
 Alternatively, rather define a Car-Class with these 5 Link-Properties. 
+
+
 ## Confidential Links & Embeds: 
 
-### [Part](/_public/schema-org/Composite/Part.md) 
+### [Part](/_Standards/schema-org/Composite/Part.md) 
+
+### [Part.public](/_public/schema-org/Composite/Part.public.md) 
 
 ### [Part.internal](/_internal/schema-org/Composite/Part.internal.md) 
 
@@ -53,4 +57,5 @@ Alternatively, rather define a Car-Class with these 5 Link-Properties.
 
 ### [Part.personal](/_personal/schema-org/Composite/Part.personal.md) 
 
-### [Part.secret](/_secret/schema-org/Composite/Part.secret.md) 
+### [Part.secret](/_secret/schema-org/Composite/Part.secret.md)
+

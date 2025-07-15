@@ -161,7 +161,9 @@ lat: 45
 
 ## Confidential Links & Embeds: 
 
-### [America~North](/_public/Earth/Continent/America~North.md) 
+### [America~North](/_Standards/Earth/Continent/America~North.md) 
+
+### [America~North.public](/_public/Earth/Continent/America~North.public.md) 
 
 ### [America~North.internal](/_internal/Earth/Continent/America~North.internal.md) 
 
@@ -171,4 +173,5 @@ lat: 45
 
 ### [America~North.personal](/_personal/Earth/Continent/America~North.personal.md) 
 
-### [America~North.secret](/_secret/Earth/Continent/America~North.secret.md) 
+### [America~North.secret](/_secret/Earth/Continent/America~North.secret.md)
+

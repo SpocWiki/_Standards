@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A [[comment]] that corrects [[CreativeWork]].
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CorrectionComment](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.md) 
+### [FileClass~CorrectionComment](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.md) 
+
+### [FileClass~CorrectionComment.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.public.md) 
 
 ### [FileClass~CorrectionComment.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.internal.md) 
 
@@ -46,4 +47,5 @@ A [[comment]] that corrects [[CreativeWork]].
 
 ### [FileClass~CorrectionComment.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.personal.md) 
 
-### [FileClass~CorrectionComment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.secret.md) 
+### [FileClass~CorrectionComment.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Comment/FileClass~CorrectionComment.secret.md)
+

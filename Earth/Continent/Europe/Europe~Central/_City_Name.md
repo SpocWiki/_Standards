@@ -1,8 +1,11 @@
-﻿_Cities/{{City}}.md
+_Cities/{{City}}.md
+
 
 ## Confidential Links & Embeds: 
 
-### [_City_Name](/_public/Earth/Continent/Europe/Europe~Central/_City_Name.md) 
+### [_City_Name](/_Standards/Earth/Continent/Europe/Europe~Central/_City_Name.md) 
+
+### [_City_Name.public](/_public/Earth/Continent/Europe/Europe~Central/_City_Name.public.md) 
 
 ### [_City_Name.internal](/_internal/Earth/Continent/Europe/Europe~Central/_City_Name.internal.md) 
 
@@ -12,4 +15,5 @@
 
 ### [_City_Name.personal](/_personal/Earth/Continent/Europe/Europe~Central/_City_Name.personal.md) 
 
-### [_City_Name.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Name.secret.md) 
+### [_City_Name.secret](/_secret/Earth/Continent/Europe/Europe~Central/_City_Name.secret.md)
+

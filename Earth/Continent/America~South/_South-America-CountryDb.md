@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -442,9 +442,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_South-America-CountryDb](/_public/Earth/Continent/America~South/_South-America-CountryDb.md) 
+### [_South-America-CountryDb](/_Standards/Earth/Continent/America~South/_South-America-CountryDb.md) 
+
+### [_South-America-CountryDb.public](/_public/Earth/Continent/America~South/_South-America-CountryDb.public.md) 
 
 ### [_South-America-CountryDb.internal](/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal.md) 
 
@@ -454,4 +457,5 @@ filters:
 
 ### [_South-America-CountryDb.personal](/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal.md) 
 
-### [_South-America-CountryDb.secret](/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret.md) 
+### [_South-America-CountryDb.secret](/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7159
 partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"
 official_observer_status_in_organisation:
@@ -125,4 +125,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/African%20Union)
 
+
+## Confidential Links & Embeds: 
+
+### [African_Union](/_Standards/International/African_Union.md) 
+
+### [African_Union.public](/_public/International/African_Union.public.md) 
+
+### [African_Union.internal](/_internal/International/African_Union.internal.md) 
+
+### [African_Union.protect](/_protect/International/African_Union.protect.md) 
+
+### [African_Union.private](/_private/International/African_Union.private.md) 
+
+### [African_Union.personal](/_personal/International/African_Union.personal.md) 
+
+### [African_Union.secret](/_secret/International/African_Union.secret.md)
 

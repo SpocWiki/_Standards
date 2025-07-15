@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_start_offset )
 ( #has_/range :: HyperTocEntry, Number )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_start_offset](/_public/schema-org/Relation/has/has_start_offset.md) 
+### [has_start_offset](/_Standards/schema-org/Relation/has/has_start_offset.md) 
+
+### [has_start_offset.public](/_public/schema-org/Relation/has/has_start_offset.public.md) 
 
 ### [has_start_offset.internal](/_internal/schema-org/Relation/has/has_start_offset.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_start_offset.personal](/_personal/schema-org/Relation/has/has_start_offset.personal.md) 
 
-### [has_start_offset.secret](/_secret/schema-org/Relation/has/has_start_offset.secret.md) 
+### [has_start_offset.secret](/_secret/schema-org/Relation/has/has_start_offset.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,10 +38,11 @@ Medical audience for page.
 MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","MedicalResearcher"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalWebPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.md) 
+### [FileClass~MedicalWebPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.md) 
+
+### [FileClass~MedicalWebPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.public.md) 
 
 ### [FileClass~MedicalWebPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.internal.md) 
 
@@ -51,4 +52,5 @@ MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","Medical
 
 ### [FileClass~MedicalWebPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.personal.md) 
 
-### [FileClass~MedicalWebPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.secret.md) 
+### [FileClass~MedicalWebPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~MedicalWebPage.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_application_contact )
 ( #has_/range :: ContactPoint )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_application_contact](/_public/schema-org/Relation/has/has_application_contact.md) 
+### [has_application_contact](/_Standards/schema-org/Relation/has/has_application_contact.md) 
+
+### [has_application_contact.public](/_public/schema-org/Relation/has/has_application_contact.public.md) 
 
 ### [has_application_contact.internal](/_internal/schema-org/Relation/has/has_application_contact.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_application_contact.personal](/_personal/schema-org/Relation/has/has_application_contact.personal.md) 
 
-### [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md) 
+### [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md)
+

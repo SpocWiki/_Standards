@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_diversity_policy )
 ( #has_/range :: CreativeWork, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_diversity_policy](/_public/schema-org/Relation/has/has_diversity_policy.md) 
+### [has_diversity_policy](/_Standards/schema-org/Relation/has/has_diversity_policy.md) 
+
+### [has_diversity_policy.public](/_public/schema-org/Relation/has/has_diversity_policy.public.md) 
 
 ### [has_diversity_policy.internal](/_internal/schema-org/Relation/has/has_diversity_policy.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_diversity_policy.personal](/_personal/schema-org/Relation/has/has_diversity_policy.personal.md) 
 
-### [has_diversity_policy.secret](/_secret/schema-org/Relation/has/has_diversity_policy.secret.md) 
+### [has_diversity_policy.secret](/_secret/schema-org/Relation/has/has_diversity_policy.secret.md)
+

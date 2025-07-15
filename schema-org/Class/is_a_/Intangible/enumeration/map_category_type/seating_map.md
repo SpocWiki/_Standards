@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A seating map.
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [seating_map](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.md) 
+### [seating_map](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.md) 
+
+### [seating_map.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.public.md) 
 
 ### [seating_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.internal.md) 
 
@@ -56,4 +59,5 @@ A seating map.
 
 ### [seating_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.personal.md) 
 
-### [seating_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.secret.md) 
+### [seating_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/seating_map.secret.md)
+

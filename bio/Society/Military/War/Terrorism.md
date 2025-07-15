@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7283
 MeSH_tree_code:
 - I01.198.240.856.800
@@ -56,20 +56,19 @@ U_S_National_Archives_Identifier: 10641550
 > [Wikipedia](https://en.wikipedia.org/wiki/Terrorism)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Military](/_public/Military.md) 
+### [Terrorism](/_Standards/bio/Society/Military/War/Terrorism.md) 
 
-### [Military.internal](/_internal/Military.internal.md) 
+### [Terrorism.public](/_public/bio/Society/Military/War/Terrorism.public.md) 
 
-### [Military.protect](/_protect/Military.protect.md) 
+### [Terrorism.internal](/_internal/bio/Society/Military/War/Terrorism.internal.md) 
 
-### [Military.private](/_private/Military.private.md) 
+### [Terrorism.protect](/_protect/bio/Society/Military/War/Terrorism.protect.md) 
 
-### [Military.personal](/_personal/Military.personal.md) 
+### [Terrorism.private](/_private/bio/Society/Military/War/Terrorism.private.md) 
 
-### [Military.secret](/_secret/Military.secret.md) 
+### [Terrorism.personal](/_personal/bio/Society/Military/War/Terrorism.personal.md) 
 
-
+### [Terrorism.secret](/_secret/bio/Society/Military/War/Terrorism.secret.md)
 

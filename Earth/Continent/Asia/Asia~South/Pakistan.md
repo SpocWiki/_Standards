@@ -600,9 +600,12 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pakistan)
 
+
 ## Confidential Links & Embeds: 
 
-### [Pakistan](/_public/Earth/Continent/Asia/Asia~South/Pakistan.md) 
+### [Pakistan](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan.md) 
+
+### [Pakistan.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan.public.md) 
 
 ### [Pakistan.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan.internal.md) 
 
@@ -612,4 +615,5 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 
 ### [Pakistan.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan.personal.md) 
 
-### [Pakistan.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan.secret.md) 
+### [Pakistan.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan.secret.md)
+

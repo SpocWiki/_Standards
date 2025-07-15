@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_rescheduled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md) 
+### [event_rescheduled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md) 
+
+### [event_rescheduled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.public.md) 
 
 ### [event_rescheduled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.internal.md) 
 
@@ -56,4 +59,5 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 
 ### [event_rescheduled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.personal.md) 
 
-### [event_rescheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.secret.md) 
+### [event_rescheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.secret.md)
+

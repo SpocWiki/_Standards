@@ -35,3 +35,22 @@ title: Protentomidae
 	-   *Protentomon*
 	-   *Proturentomon*
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Protentomidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.md) 
+
+### [Protentomidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.public.md) 
+
+### [Protentomidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.internal.md) 
+
+### [Protentomidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.protect.md) 
+
+### [Protentomidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.private.md) 
+
+### [Protentomidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.personal.md) 
+
+### [Protentomidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.secret.md)
+

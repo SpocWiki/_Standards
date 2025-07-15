@@ -96,3 +96,22 @@ Location ::           Monteverde, Costa Rica
 Comments             Green-crowned Brilliant, a neotropical hummingbird
 Specimen Condition   Live Specimen
 Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Neornithes](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.md) 
+
+### [Neornithes.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.public.md) 
+
+### [Neornithes.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.internal.md) 
+
+### [Neornithes.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.protect.md) 
+
+### [Neornithes.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.private.md) 
+
+### [Neornithes.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.personal.md) 
+
+### [Neornithes.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Bird/Neornithes.secret.md)
+

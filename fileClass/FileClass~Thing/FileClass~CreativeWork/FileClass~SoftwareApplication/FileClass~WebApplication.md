@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ Specifies browser requirements in human-readable text. For example, 'requires HT
 BrowserRequirements:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WebApplication](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.md) 
+### [FileClass~WebApplication](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.md) 
+
+### [FileClass~WebApplication.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.public.md) 
 
 ### [FileClass~WebApplication.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.internal.md) 
 
@@ -56,4 +57,5 @@ BrowserRequirements:: {"type":"Input","options":{}}
 
 ### [FileClass~WebApplication.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.personal.md) 
 
-### [FileClass~WebApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.secret.md) 
+### [FileClass~WebApplication.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~WebApplication.secret.md)
+

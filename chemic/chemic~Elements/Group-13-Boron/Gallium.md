@@ -115,9 +115,12 @@ DSSTOX_compound_identifier: DTXCID5047661
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallium)
 
+
 ## Confidential Links & Embeds: 
 
-### [Gallium](/_public/chemic/chemic~Elements/Group-13-Boron/Gallium.md) 
+### [Gallium](/_Standards/chemic/chemic~Elements/Group-13-Boron/Gallium.md) 
+
+### [Gallium.public](/_public/chemic/chemic~Elements/Group-13-Boron/Gallium.public.md) 
 
 ### [Gallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Gallium.internal.md) 
 
@@ -127,4 +130,5 @@ DSSTOX_compound_identifier: DTXCID5047661
 
 ### [Gallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Gallium.personal.md) 
 
-### [Gallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Gallium.secret.md) 
+### [Gallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Gallium.secret.md)
+

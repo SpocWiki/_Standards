@@ -1,4 +1,4 @@
-﻿
+
 # [[Dim~Voltage]] 
 
 Voltage is the Energy per [[../Dim~Charge]]. 
@@ -8,7 +8,9 @@ It's SI Unit is the [[../../Unit/SI-Unit/derived_Unit/Unit~Volt]].
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Voltage](/_public/Dimension/Derived_Dimension/Dim~Voltage.md) 
+### [Dim~Voltage](/_Standards/Dimension/Derived_Dimension/Dim~Voltage.md) 
+
+### [Dim~Voltage.public](/_public/Dimension/Derived_Dimension/Dim~Voltage.public.md) 
 
 ### [Dim~Voltage.internal](/_internal/Dimension/Derived_Dimension/Dim~Voltage.internal.md) 
 
@@ -18,4 +20,5 @@ It's SI Unit is the [[../../Unit/SI-Unit/derived_Unit/Unit~Volt]].
 
 ### [Dim~Voltage.personal](/_personal/Dimension/Derived_Dimension/Dim~Voltage.personal.md) 
 
-### [Dim~Voltage.secret](/_secret/Dimension/Derived_Dimension/Dim~Voltage.secret.md) 
+### [Dim~Voltage.secret](/_secret/Dimension/Derived_Dimension/Dim~Voltage.secret.md)
+

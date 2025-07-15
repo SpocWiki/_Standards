@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ A hostel - cheap accommodation, often in shared dormitories.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Hostel](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.md) 
+### [FileClass~Hostel](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.md) 
+
+### [FileClass~Hostel.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.public.md) 
 
 ### [FileClass~Hostel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.internal.md) 
 
@@ -50,4 +51,5 @@ A hostel - cheap accommodation, often in shared dormitories.
 
 ### [FileClass~Hostel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.personal.md) 
 
-### [FileClass~Hostel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.secret.md) 
+### [FileClass~Hostel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Hostel.secret.md)
+

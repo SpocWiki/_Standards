@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [[../is_inverse_of]]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_performer](/_public/schema-org/Relation/has/has_performer.md) 
+### [has_performer](/_Standards/schema-org/Relation/has/has_performer.md) 
+
+### [has_performer.public](/_public/schema-org/Relation/has/has_performer.public.md) 
 
 ### [has_performer.internal](/_internal/schema-org/Relation/has/has_performer.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_performer.personal](/_personal/schema-org/Relation/has/has_performer.personal.md) 
 
-### [has_performer.secret](/_secret/schema-org/Relation/has/has_performer.secret.md) 
+### [has_performer.secret](/_secret/schema-org/Relation/has/has_performer.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicate describes that:
 ( #has_/name :: is_accessible_for_free )
 ( #has_/range :: Boolean )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_accessible_for_free](/_public/schema-org/Property/Flags/is_accessible_for_free.md) 
+### [is_accessible_for_free](/_Standards/schema-org/Property/Flags/is_accessible_for_free.md) 
+
+### [is_accessible_for_free.public](/_public/schema-org/Property/Flags/is_accessible_for_free.public.md) 
 
 ### [is_accessible_for_free.internal](/_internal/schema-org/Property/Flags/is_accessible_for_free.internal.md) 
 
@@ -59,4 +62,5 @@ Predicate describes that:
 
 ### [is_accessible_for_free.personal](/_personal/schema-org/Property/Flags/is_accessible_for_free.personal.md) 
 
-### [is_accessible_for_free.secret](/_secret/schema-org/Property/Flags/is_accessible_for_free.secret.md) 
+### [is_accessible_for_free.secret](/_secret/schema-org/Property/Flags/is_accessible_for_free.secret.md)
+

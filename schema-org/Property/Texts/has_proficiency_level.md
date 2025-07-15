@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_proficiency_level )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_proficiency_level](/_public/schema-org/Property/Texts/has_proficiency_level.md) 
+### [has_proficiency_level](/_Standards/schema-org/Property/Texts/has_proficiency_level.md) 
+
+### [has_proficiency_level.public](/_public/schema-org/Property/Texts/has_proficiency_level.public.md) 
 
 ### [has_proficiency_level.internal](/_internal/schema-org/Property/Texts/has_proficiency_level.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_proficiency_level.personal](/_personal/schema-org/Property/Texts/has_proficiency_level.personal.md) 
 
-### [has_proficiency_level.secret](/_secret/schema-org/Property/Texts/has_proficiency_level.secret.md) 
+### [has_proficiency_level.secret](/_secret/schema-org/Property/Texts/has_proficiency_level.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The act of adding at a specific location in an ordered collection.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [insert_action](/_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action.md) 
+### [insert_action](/_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action.md) 
+
+### [insert_action.public](/_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action.public.md) 
 
 ### [insert_action.internal](/_internal/schema-org/Class/is_a_/action/update_action/add_action/insert_action.internal.md) 
 
@@ -56,4 +59,5 @@ The act of adding at a specific location in an ordered collection.
 
 ### [insert_action.personal](/_personal/schema-org/Class/is_a_/action/update_action/add_action/insert_action.personal.md) 
 
-### [insert_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/add_action/insert_action.secret.md) 
+### [insert_action.secret](/_secret/schema-org/Class/is_a_/action/update_action/add_action/insert_action.secret.md)
+

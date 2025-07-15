@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -17.7 , 168.4 ] 
 type: geo-Region
 title: Shefa
@@ -41,7 +41,9 @@ markerFolder: ./Shefa/
 
 ## Confidential Links & Embeds: 
 
-### [Shefa](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.md) 
+### [Shefa](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.md) 
+
+### [Shefa.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.public.md) 
 
 ### [Shefa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Shefa/
 
 ### [Shefa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal.md) 
 
-### [Shefa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret.md) 
+### [Shefa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret.md)
+

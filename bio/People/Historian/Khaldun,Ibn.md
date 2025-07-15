@@ -74,3 +74,22 @@ date_of_death: "1406-03-26"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Khaldun)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Khaldun,Ibn](/_Standards/bio/People/Historian/Khaldun,Ibn.md) 
+
+### [Khaldun,Ibn.public](/_public/bio/People/Historian/Khaldun,Ibn.public.md) 
+
+### [Khaldun,Ibn.internal](/_internal/bio/People/Historian/Khaldun,Ibn.internal.md) 
+
+### [Khaldun,Ibn.protect](/_protect/bio/People/Historian/Khaldun,Ibn.protect.md) 
+
+### [Khaldun,Ibn.private](/_private/bio/People/Historian/Khaldun,Ibn.private.md) 
+
+### [Khaldun,Ibn.personal](/_personal/bio/People/Historian/Khaldun,Ibn.personal.md) 
+
+### [Khaldun,Ibn.secret](/_secret/bio/People/Historian/Khaldun,Ibn.secret.md)
+

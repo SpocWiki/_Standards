@@ -109,3 +109,21 @@ Natural History 34: 483-562.
   Specimen Condition   Live Specimen
   Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
   ---------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [debruynei](/_Standards/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.md) 
+
+### [debruynei.public](/_public/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.public.md) 
+
+### [debruynei.internal](/_internal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.internal.md) 
+
+### [debruynei.protect](/_protect/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.protect.md) 
+
+### [debruynei.private](/_private/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.private.md) 
+
+### [debruynei.personal](/_personal/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.personal.md) 
+
+### [debruynei.secret](/_secret/bio/bio~Domain/Eukaryotes/Protist/Apusomonads/Amastigomonas/debruynei.secret.md)
+

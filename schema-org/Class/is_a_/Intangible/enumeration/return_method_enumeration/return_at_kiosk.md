@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Specifies that product returns must be made at a kiosk.
 
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_at_kiosk](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
+### [return_at_kiosk](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
+
+### [return_at_kiosk.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.public.md) 
 
 ### [return_at_kiosk.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
 
@@ -58,4 +61,5 @@ Specifies that product returns must be made at a kiosk.
 
 ### [return_at_kiosk.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
 
-### [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md) 
+### [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md)
+

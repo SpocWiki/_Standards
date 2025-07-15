@@ -1,4 +1,4 @@
-﻿---
+---
 is_sub_class_of: '[[../Thing|Thing]]'
 license: CC BY-SA 4.0
 confidential: public
@@ -53,9 +53,12 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [action](/_public/schema-org/Class/is_a_/action.md) 
+### [action](/_Standards/schema-org/Class/is_a_/action.md) 
+
+### [action.public](/_public/schema-org/Class/is_a_/action.public.md) 
 
 ### [action.internal](/_internal/schema-org/Class/is_a_/action.internal.md) 
 
@@ -65,4 +68,5 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 ### [action.personal](/_personal/schema-org/Class/is_a_/action.personal.md) 
 
-### [action.secret](/_secret/schema-org/Class/is_a_/action.secret.md) 
+### [action.secret](/_secret/schema-org/Class/is_a_/action.secret.md)
+

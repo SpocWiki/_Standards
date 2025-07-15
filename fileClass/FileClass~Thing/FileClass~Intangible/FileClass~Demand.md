@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -389,10 +389,11 @@ The warranty promise(s) included in the offer.
 Warranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Demand](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
+### [FileClass~Demand](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
+
+### [FileClass~Demand.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.public.md) 
 
 ### [FileClass~Demand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal.md) 
 
@@ -402,4 +403,5 @@ Warranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~Demand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal.md) 
 
-### [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md) 
+### [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 
 [is_instance_of](../../Class/is_instance_of.md) 
 
+
 ## Confidential Links & Embeds: 
 
-### [has_url_for_additional_type](/_public/schema-org/Property/has_url_for/has_url_for_additional_type.md) 
+### [has_url_for_additional_type](/_Standards/schema-org/Property/has_url_for/has_url_for_additional_type.md) 
+
+### [has_url_for_additional_type.public](/_public/schema-org/Property/has_url_for/has_url_for_additional_type.public.md) 
 
 ### [has_url_for_additional_type.internal](/_internal/schema-org/Property/has_url_for/has_url_for_additional_type.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_url_for_additional_type.personal](/_personal/schema-org/Property/has_url_for/has_url_for_additional_type.personal.md) 
 
-### [has_url_for_additional_type.secret](/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret.md) 
+### [has_url_for_additional_type.secret](/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret.md)
+

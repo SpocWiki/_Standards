@@ -143,3 +143,22 @@ name_in_native_language: "Mustafa Kemal Atatürk"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mustafa%20Kemal%20Atat%C3%BCrk)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Atatürk,Mustafa_Kemal](/_Standards/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.md) 
+
+### [Atatürk,Mustafa_Kemal.public](/_public/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.public.md) 
+
+### [Atatürk,Mustafa_Kemal.internal](/_internal/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.internal.md) 
+
+### [Atatürk,Mustafa_Kemal.protect](/_protect/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.protect.md) 
+
+### [Atatürk,Mustafa_Kemal.private](/_private/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.private.md) 
+
+### [Atatürk,Mustafa_Kemal.personal](/_personal/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.personal.md) 
+
+### [Atatürk,Mustafa_Kemal.secret](/_secret/bio/People/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.secret.md)
+

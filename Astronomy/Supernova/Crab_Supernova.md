@@ -35,4 +35,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/SN%201054) 
 
 
+## Confidential Links & Embeds: 
+
+### [Crab_Supernova](/_Standards/Astronomy/Supernova/Crab_Supernova.md) 
+
+### [Crab_Supernova.public](/_public/Astronomy/Supernova/Crab_Supernova.public.md) 
+
+### [Crab_Supernova.internal](/_internal/Astronomy/Supernova/Crab_Supernova.internal.md) 
+
+### [Crab_Supernova.protect](/_protect/Astronomy/Supernova/Crab_Supernova.protect.md) 
+
+### [Crab_Supernova.private](/_private/Astronomy/Supernova/Crab_Supernova.private.md) 
+
+### [Crab_Supernova.personal](/_personal/Astronomy/Supernova/Crab_Supernova.personal.md) 
+
+### [Crab_Supernova.secret](/_secret/Astronomy/Supernova/Crab_Supernova.secret.md)
 

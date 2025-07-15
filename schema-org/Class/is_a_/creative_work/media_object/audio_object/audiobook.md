@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ An audiobook.
 
 [ #has_/properties :: [ about, abridged, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedArticle, associatedMedia, audience, audio, author, award, awards, bitrate, bookEdition, bookFormat, caption, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contentSize, contentUrl, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, duration, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, embedUrl, embeddedTextCaption, encodesCreativeWork, encoding, encodingFormat, encodings, endTime, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, height, identifier, illustrator, image, inLanguage, ineligibleRegion, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, isbn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, numberOfPages, offers, pattern, playerType, position, potentialAction, producer, productionCompany, provider, publication, publisher, publisherImprint, publishingPrinciples, readBy, recordedAt, regionsAllowed, releasedEvent, requiresSubscription, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, sha256, size, sourceOrganization, spatial, spatialCoverage, sponsor, startTime, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, transcript, translationOfWork, translator, typicalAgeRange, uploadDate, url, usageInfo, version, video, width, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [audiobook](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.md) 
+### [audiobook](/_Standards/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.md) 
+
+### [audiobook.public](/_public/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.public.md) 
 
 ### [audiobook.internal](/_internal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.internal.md) 
 
@@ -56,4 +59,5 @@ An audiobook.
 
 ### [audiobook.personal](/_personal/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.personal.md) 
 
-### [audiobook.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md) 
+### [audiobook.secret](/_secret/schema-org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md)
+

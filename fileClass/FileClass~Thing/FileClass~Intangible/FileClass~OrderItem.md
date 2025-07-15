@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -80,10 +80,11 @@ The item ordered.
 OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OrderItem')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~OrderItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
+### [FileClass~OrderItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
+
+### [FileClass~OrderItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.public.md) 
 
 ### [FileClass~OrderItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal.md) 
 
@@ -93,4 +94,5 @@ OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ### [FileClass~OrderItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal.md) 
 
-### [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md) 
+### [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md)
+

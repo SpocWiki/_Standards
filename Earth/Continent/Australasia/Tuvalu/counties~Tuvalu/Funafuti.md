@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-8.516666,179.2167] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,7 +35,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Funafuti](/_public/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.md) 
+### [Funafuti](/_Standards/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.md) 
+
+### [Funafuti.public](/_public/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.public.md) 
 
 ### [Funafuti.internal](/_internal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.internal.md) 
 
@@ -45,4 +47,5 @@ maxZoom: 18
 
 ### [Funafuti.personal](/_personal/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.personal.md) 
 
-### [Funafuti.secret](/_secret/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.secret.md) 
+### [Funafuti.secret](/_secret/Earth/Continent/Australasia/Tuvalu/counties~Tuvalu/Funafuti.secret.md)
+

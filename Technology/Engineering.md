@@ -14,4 +14,19 @@ has_id_wikidata: Q11023
 > [Wikipedia](https://en.wikipedia.org/wiki/Engineering) 
 
 
+## Confidential Links & Embeds: 
+
+### [Engineering](/_Standards/Technology/Engineering.md) 
+
+### [Engineering.public](/_public/Technology/Engineering.public.md) 
+
+### [Engineering.internal](/_internal/Technology/Engineering.internal.md) 
+
+### [Engineering.protect](/_protect/Technology/Engineering.protect.md) 
+
+### [Engineering.private](/_private/Technology/Engineering.private.md) 
+
+### [Engineering.personal](/_personal/Technology/Engineering.personal.md) 
+
+### [Engineering.secret](/_secret/Technology/Engineering.secret.md)
 

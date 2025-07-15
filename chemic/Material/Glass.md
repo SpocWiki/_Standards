@@ -74,5 +74,19 @@ exact_match: "http://purl.obolibrary.org/obo/ENVO_01000480"
 > [Wikipedia](https://en.wikipedia.org/wiki/Glass)
 
 
+## Confidential Links & Embeds: 
 
+### [Glass](/_Standards/chemic/Material/Glass.md) 
+
+### [Glass.public](/_public/chemic/Material/Glass.public.md) 
+
+### [Glass.internal](/_internal/chemic/Material/Glass.internal.md) 
+
+### [Glass.protect](/_protect/chemic/Material/Glass.protect.md) 
+
+### [Glass.private](/_private/chemic/Material/Glass.private.md) 
+
+### [Glass.personal](/_personal/chemic/Material/Glass.personal.md) 
+
+### [Glass.secret](/_secret/chemic/Material/Glass.secret.md)
 

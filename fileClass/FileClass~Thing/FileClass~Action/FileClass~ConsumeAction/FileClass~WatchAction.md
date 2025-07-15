@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of consuming dynamic/moving visual content.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~WatchAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.md) 
+### [FileClass~WatchAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.md) 
+
+### [FileClass~WatchAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.public.md) 
 
 ### [FileClass~WatchAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of consuming dynamic/moving visual content.
 
 ### [FileClass~WatchAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.personal.md) 
 
-### [FileClass~WatchAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.secret.md) 
+### [FileClass~WatchAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.secret.md)
+

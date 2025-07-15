@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ Aquarium.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Aquarium](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.md) 
+### [FileClass~Aquarium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.md) 
+
+### [FileClass~Aquarium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.public.md) 
 
 ### [FileClass~Aquarium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.internal.md) 
 
@@ -46,4 +47,5 @@ Aquarium.
 
 ### [FileClass~Aquarium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.personal.md) 
 
-### [FileClass~Aquarium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret.md) 
+### [FileClass~Aquarium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret.md)
+

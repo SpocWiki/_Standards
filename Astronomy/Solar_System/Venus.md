@@ -111,6 +111,12 @@ diameter: 12103.6
 Commons_gallery: Venus
 ---
 
+# [[Venus]] 
+
+#is_/same_as :: [[../../WikiData/WD~Venus,313]]  
+#is_/different_from :: [[_Standards/WikiData/WD~Venus,102040]] 
+#is_/different_from :: [[../../WikiData/WD~Venus,47652]] 
+
 ## #has_/text_of_/abstract 
 
 > **Venus** is the second planet from the Sun. It is a terrestrial planet and is the closest in mass and size to its orbital neighbour Earth. Venus has by far the densest atmosphere of the terrestrial planets, composed mostly of carbon dioxide with a thick, global sulfuric acid cloud cover. At the surface it has a mean temperature of 737 K (464 °C; 867 °F) and a pressure 92 times that of Earth's at sea level. These extreme conditions compress carbon dioxide into a supercritical state at Venus's surface.
@@ -123,4 +129,20 @@ Commons_gallery: Venus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Venus)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Venus](/_Standards/Astronomy/Solar_System/Venus.md) 
+
+### #is_/same_as :: [Venus.public](/_public/Astronomy/Solar_System/Venus.public.md) 
+
+### #is_/same_as :: [Venus.internal](/_internal/Astronomy/Solar_System/Venus.internal.md) 
+
+### #is_/same_as :: [Venus.protect](/_protect/Astronomy/Solar_System/Venus.protect.md) 
+
+### #is_/same_as :: [Venus.private](/_private/Astronomy/Solar_System/Venus.private.md) 
+
+### #is_/same_as :: [Venus.personal](/_personal/Astronomy/Solar_System/Venus.personal.md) 
+
+### #is_/same_as :: [Venus.secret](/_secret/Astronomy/Solar_System/Venus.secret.md)
 

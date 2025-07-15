@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 SpocWebEntityId: 21918
 has_id_wikidata: Q688
@@ -114,9 +114,12 @@ EPPO_Code: TXCHLO
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chlorine)
 
+
 ## Confidential Links & Embeds: 
 
-### [Chlorine](/_public/chemic/chemic~Elements/Group-17-Halogene/Chlorine.md) 
+### [Chlorine](/_Standards/chemic/chemic~Elements/Group-17-Halogene/Chlorine.md) 
+
+### [Chlorine.public](/_public/chemic/chemic~Elements/Group-17-Halogene/Chlorine.public.md) 
 
 ### [Chlorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.internal.md) 
 
@@ -126,4 +129,5 @@ EPPO_Code: TXCHLO
 
 ### [Chlorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Chlorine.personal.md) 
 
-### [Chlorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Chlorine.secret.md) 
+### [Chlorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Chlorine.secret.md)
+

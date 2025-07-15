@@ -19,3 +19,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase-2%20inhibitor)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Cyclooxygenase-2_inhibitor](/_Standards/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.md) 
+
+### [Cyclooxygenase-2_inhibitor.public](/_public/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.public.md) 
+
+### [Cyclooxygenase-2_inhibitor.internal](/_internal/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.internal.md) 
+
+### [Cyclooxygenase-2_inhibitor.protect](/_protect/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.protect.md) 
+
+### [Cyclooxygenase-2_inhibitor.private](/_private/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.private.md) 
+
+### [Cyclooxygenase-2_inhibitor.personal](/_personal/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.personal.md) 
+
+### [Cyclooxygenase-2_inhibitor.secret](/_secret/bio/Medicine/Drug/Cyclooxygenase-2_inhibitor.secret.md)
+

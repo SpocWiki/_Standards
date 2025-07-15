@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Event type: Festival.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Festival](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.md) 
+### [FileClass~Festival](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.md) 
+
+### [FileClass~Festival.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.public.md) 
 
 ### [FileClass~Festival.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.internal.md) 
 
@@ -46,4 +47,5 @@ Event type: Festival.
 
 ### [FileClass~Festival.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.personal.md) 
 
-### [FileClass~Festival.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.secret.md) 
+### [FileClass~Festival.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~Festival.secret.md)
+

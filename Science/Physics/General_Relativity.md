@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q11452
 aliases:
 - "general theory of relativity"
@@ -61,4 +61,21 @@ Dewey_Decimal_Classification: 530.11
 > Widely acknowledged as a theory of extraordinary beauty, general relativity has often been described as the most beautiful of all existing physical theories.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/General%20relativity)
+
+
+## Confidential Links & Embeds: 
+
+### [General_Relativity](/_Standards/Science/Physics/General_Relativity.md) 
+
+### [General_Relativity.public](/_public/Science/Physics/General_Relativity.public.md) 
+
+### [General_Relativity.internal](/_internal/Science/Physics/General_Relativity.internal.md) 
+
+### [General_Relativity.protect](/_protect/Science/Physics/General_Relativity.protect.md) 
+
+### [General_Relativity.private](/_private/Science/Physics/General_Relativity.private.md) 
+
+### [General_Relativity.personal](/_personal/Science/Physics/General_Relativity.personal.md) 
+
+### [General_Relativity.secret](/_secret/Science/Physics/General_Relativity.secret.md)
 

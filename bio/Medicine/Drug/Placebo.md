@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q269829
 instance_of:
 - "[[_Standards/WikiData/WD~medical_treatment,179661]]"
@@ -33,4 +33,23 @@ Dewey_Decimal_Classification: 615.5
 > Placebos are also popular because they can sometimes produce relief through psychological mechanisms (a phenomenon known as the "placebo effect"). They can affect how patients perceive their condition and encourage the body's chemical processes for relieving pain and a few other symptoms, but have no impact on the disease itself.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Placebo)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Placebo](/_Standards/bio/Medicine/Drug/Placebo.md) 
+
+### [Placebo.public](/_public/bio/Medicine/Drug/Placebo.public.md) 
+
+### [Placebo.internal](/_internal/bio/Medicine/Drug/Placebo.internal.md) 
+
+### [Placebo.protect](/_protect/bio/Medicine/Drug/Placebo.protect.md) 
+
+### [Placebo.private](/_private/bio/Medicine/Drug/Placebo.private.md) 
+
+### [Placebo.personal](/_personal/bio/Medicine/Drug/Placebo.personal.md) 
+
+### [Placebo.secret](/_secret/bio/Medicine/Drug/Placebo.secret.md)
 

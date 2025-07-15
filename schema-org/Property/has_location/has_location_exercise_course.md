@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: location ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_location_exercise_course](/_public/schema-org/Property/has_location/has_location_exercise_course.md) 
+### [has_location_exercise_course](/_Standards/schema-org/Property/has_location/has_location_exercise_course.md) 
+
+### [has_location_exercise_course.public](/_public/schema-org/Property/has_location/has_location_exercise_course.public.md) 
 
 ### [has_location_exercise_course.internal](/_internal/schema-org/Property/has_location/has_location_exercise_course.internal.md) 
 
@@ -60,4 +63,5 @@ Predicate describes that:
 
 ### [has_location_exercise_course.personal](/_personal/schema-org/Property/has_location/has_location_exercise_course.personal.md) 
 
-### [has_location_exercise_course.secret](/_secret/schema-org/Property/has_location/has_location_exercise_course.secret.md) 
+### [has_location_exercise_course.secret](/_secret/schema-org/Property/has_location/has_location_exercise_course.secret.md)
+

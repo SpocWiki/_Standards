@@ -123,3 +123,22 @@ title: Ostracoda
     environmental change.
 -   [Anchialine Caves and Cave Fauna of the     World](http://www.cavebiology.com/)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ostracoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.md) 
+
+### [Ostracoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.public.md) 
+
+### [Ostracoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.internal.md) 
+
+### [Ostracoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.protect.md) 
+
+### [Ostracoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.private.md) 
+
+### [Ostracoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.personal.md) 
+
+### [Ostracoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Ostracoda.secret.md)
+

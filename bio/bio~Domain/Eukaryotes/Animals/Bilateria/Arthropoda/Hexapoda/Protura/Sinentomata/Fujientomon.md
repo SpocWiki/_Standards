@@ -28,3 +28,21 @@ title: Fujientomon
 -   *Fujientomon primum*
 
 Containing group: [Sinentomata](Sinentomata.md)
+
+
+## Confidential Links & Embeds: 
+
+### [Fujientomon](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.md) 
+
+### [Fujientomon.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.public.md) 
+
+### [Fujientomon.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.internal.md) 
+
+### [Fujientomon.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.protect.md) 
+
+### [Fujientomon.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.private.md) 
+
+### [Fujientomon.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.personal.md) 
+
+### [Fujientomon.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Fujientomon.secret.md)
+

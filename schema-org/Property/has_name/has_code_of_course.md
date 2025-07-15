@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_code_of_course )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_code_of_course](/_public/schema-org/Property/has_name/has_code_of_course.md) 
+### [has_code_of_course](/_Standards/schema-org/Property/has_name/has_code_of_course.md) 
+
+### [has_code_of_course.public](/_public/schema-org/Property/has_name/has_code_of_course.public.md) 
 
 ### [has_code_of_course.internal](/_internal/schema-org/Property/has_name/has_code_of_course.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_code_of_course.personal](/_personal/schema-org/Property/has_name/has_code_of_course.personal.md) 
 
-### [has_code_of_course.secret](/_secret/schema-org/Property/has_name/has_code_of_course.secret.md) 
+### [has_code_of_course.secret](/_secret/schema-org/Property/has_name/has_code_of_course.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,10 +66,11 @@ Indicates the property or properties by which the variants in a [[ProductGroup]]
 VariesBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ProductGroup](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.md) 
+### [FileClass~ProductGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.md) 
+
+### [FileClass~ProductGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.public.md) 
 
 ### [FileClass~ProductGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.internal.md) 
 
@@ -79,4 +80,5 @@ VariesBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### [FileClass~ProductGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.personal.md) 
 
-### [FileClass~ProductGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.secret.md) 
+### [FileClass~ProductGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductGroup.secret.md)
+

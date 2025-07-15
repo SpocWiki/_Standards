@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,7 +50,9 @@ but these are too granular and create unnecessary Redundancy.
 
 ## Confidential Links & Embeds: 
 
-### [has_location_that_overlaps_with](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
+### [has_location_that_overlaps_with](/_Standards/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
+
+### [has_location_that_overlaps_with.public](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.public.md) 
 
 ### [has_location_that_overlaps_with.internal](/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal.md) 
 
@@ -60,4 +62,5 @@ but these are too granular and create unnecessary Redundancy.
 
 ### [has_location_that_overlaps_with.personal](/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal.md) 
 
-### [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md) 
+### [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md)
+

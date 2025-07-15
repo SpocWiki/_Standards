@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_order_status )
 ( #has_/range :: OrderStatus )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_order_status](/_public/schema-org/Relation/has/has_order_status.md) 
+### [has_order_status](/_Standards/schema-org/Relation/has/has_order_status.md) 
+
+### [has_order_status.public](/_public/schema-org/Relation/has/has_order_status.public.md) 
 
 ### [has_order_status.internal](/_internal/schema-org/Relation/has/has_order_status.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_order_status.personal](/_personal/schema-org/Relation/has/has_order_status.personal.md) 
 
-### [has_order_status.secret](/_secret/schema-org/Relation/has/has_order_status.secret.md) 
+### [has_order_status.secret](/_secret/schema-org/Relation/has/has_order_status.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -349,9 +349,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_Europe-CityDB](/_public/Earth/Continent/Europe/_Europe-CityDB.md) 
+### [_Europe-CityDB](/_Standards/Earth/Continent/Europe/_Europe-CityDB.md) 
+
+### [_Europe-CityDB.public](/_public/Earth/Continent/Europe/_Europe-CityDB.public.md) 
 
 ### [_Europe-CityDB.internal](/_internal/Earth/Continent/Europe/_Europe-CityDB.internal.md) 
 
@@ -361,4 +364,5 @@ filters:
 
 ### [_Europe-CityDB.personal](/_personal/Earth/Continent/Europe/_Europe-CityDB.personal.md) 
 
-### [_Europe-CityDB.secret](/_secret/Earth/Continent/Europe/_Europe-CityDB.secret.md) 
+### [_Europe-CityDB.secret](/_secret/Earth/Continent/Europe/_Europe-CityDB.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Khājeh Shams-od-Dīn Moḥammad Ḥāfeẓ-e Shīrāzī"
 has_id_wikidata: Q6240
@@ -93,4 +93,23 @@ has_works_in_the_collection: "[[_Standards/WikiData/WD~Huis_Bergh,99370641]]"
 > Adaptations, imitations and translations of his poems exist in all major languages.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hafez)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Hafez](/_Standards/bio/People/Writer/Ancient_Writers/Hafez.md) 
+
+### [Hafez.public](/_public/bio/People/Writer/Ancient_Writers/Hafez.public.md) 
+
+### [Hafez.internal](/_internal/bio/People/Writer/Ancient_Writers/Hafez.internal.md) 
+
+### [Hafez.protect](/_protect/bio/People/Writer/Ancient_Writers/Hafez.protect.md) 
+
+### [Hafez.private](/_private/bio/People/Writer/Ancient_Writers/Hafez.private.md) 
+
+### [Hafez.personal](/_personal/bio/People/Writer/Ancient_Writers/Hafez.personal.md) 
+
+### [Hafez.secret](/_secret/bio/People/Writer/Ancient_Writers/Hafez.secret.md)
 

@@ -234,3 +234,22 @@ do reveal considerably greater phylogenetic breadth than was previously known fo
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Thermoproteota](/_Standards/bio/bio~Domain/Archaea/Thermoproteota.md) 
+
+### [Thermoproteota.public](/_public/bio/bio~Domain/Archaea/Thermoproteota.public.md) 
+
+### [Thermoproteota.internal](/_internal/bio/bio~Domain/Archaea/Thermoproteota.internal.md) 
+
+### [Thermoproteota.protect](/_protect/bio/bio~Domain/Archaea/Thermoproteota.protect.md) 
+
+### [Thermoproteota.private](/_private/bio/bio~Domain/Archaea/Thermoproteota.private.md) 
+
+### [Thermoproteota.personal](/_personal/bio/bio~Domain/Archaea/Thermoproteota.personal.md) 
+
+### [Thermoproteota.secret](/_secret/bio/bio~Domain/Archaea/Thermoproteota.secret.md)
+

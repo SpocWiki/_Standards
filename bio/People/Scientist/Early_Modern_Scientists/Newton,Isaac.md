@@ -81,3 +81,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Newton)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Newton,Isaac](/_Standards/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.md) 
+
+### [Newton,Isaac.public](/_public/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.public.md) 
+
+### [Newton,Isaac.internal](/_internal/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.internal.md) 
+
+### [Newton,Isaac.protect](/_protect/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.protect.md) 
+
+### [Newton,Isaac.private](/_private/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.private.md) 
+
+### [Newton,Isaac.personal](/_personal/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.personal.md) 
+
+### [Newton,Isaac.secret](/_secret/bio/People/Scientist/Early_Modern_Scientists/Newton,Isaac.secret.md)
+

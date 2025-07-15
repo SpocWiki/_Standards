@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that pertains to the health care of women, 
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [gynecologic](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.md) 
+### [gynecologic](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.md) 
+
+### [gynecologic.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.public.md) 
 
 ### [gynecologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that pertains to the health care of women, 
 
 ### [gynecologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.personal.md) 
 
-### [gynecologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret.md) 
+### [gynecologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A service to convert funds from one currency to another currency.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CurrencyConversionService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.md) 
+### [FileClass~CurrencyConversionService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.md) 
+
+### [FileClass~CurrencyConversionService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.public.md) 
 
 ### [FileClass~CurrencyConversionService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.internal.md) 
 
@@ -46,4 +47,5 @@ A service to convert funds from one currency to another currency.
 
 ### [FileClass~CurrencyConversionService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.personal.md) 
 
-### [FileClass~CurrencyConversionService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret.md) 
+### [FileClass~CurrencyConversionService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~CurrencyConversionService.secret.md)
+

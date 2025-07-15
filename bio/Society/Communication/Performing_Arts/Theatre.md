@@ -75,3 +75,22 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/TEATR.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Theatre) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Theatre](/_Standards/bio/Society/Communication/Performing_Arts/Theatre.md) 
+
+### [Theatre.public](/_public/bio/Society/Communication/Performing_Arts/Theatre.public.md) 
+
+### [Theatre.internal](/_internal/bio/Society/Communication/Performing_Arts/Theatre.internal.md) 
+
+### [Theatre.protect](/_protect/bio/Society/Communication/Performing_Arts/Theatre.protect.md) 
+
+### [Theatre.private](/_private/bio/Society/Communication/Performing_Arts/Theatre.private.md) 
+
+### [Theatre.personal](/_personal/bio/Society/Communication/Performing_Arts/Theatre.personal.md) 
+
+### [Theatre.secret](/_secret/bio/Society/Communication/Performing_Arts/Theatre.secret.md)
+

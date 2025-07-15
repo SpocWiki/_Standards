@@ -1,4 +1,4 @@
-﻿
+
 # [[Pseudo-Scalar]] 
 
 In n-dimensional [[Geometric_Algebra]], 
@@ -30,7 +30,9 @@ elements of the Algebra with dimension n: __⋀ⁿ Rⁿ__.
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Scalar](/_public/Mathematics/Geometry/Pseudo-Scalar.md) 
+### [Pseudo-Scalar](/_Standards/Mathematics/Geometry/Pseudo-Scalar.md) 
+
+### [Pseudo-Scalar.public](/_public/Mathematics/Geometry/Pseudo-Scalar.public.md) 
 
 ### [Pseudo-Scalar.internal](/_internal/Mathematics/Geometry/Pseudo-Scalar.internal.md) 
 
@@ -40,4 +42,5 @@ elements of the Algebra with dimension n: __⋀ⁿ Rⁿ__.
 
 ### [Pseudo-Scalar.personal](/_personal/Mathematics/Geometry/Pseudo-Scalar.personal.md) 
 
-### [Pseudo-Scalar.secret](/_secret/Mathematics/Geometry/Pseudo-Scalar.secret.md) 
+### [Pseudo-Scalar.secret](/_secret/Mathematics/Geometry/Pseudo-Scalar.secret.md)
+

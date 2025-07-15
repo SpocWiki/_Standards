@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The male gender.
 
 [ #is_/enum_of :: [[../GenderType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [male](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.md) 
+### [male](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.md) 
+
+### [male.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.public.md) 
 
 ### [male.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.internal.md) 
 
@@ -56,4 +59,5 @@ The male gender.
 
 ### [male.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.personal.md) 
 
-### [male.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.secret.md) 
+### [male.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/gender_type/male.secret.md)
+

@@ -57,7 +57,7 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_url_for](/_Standards/schema-org/Predicate/Urls/has_url_for.md) 
+### [has_url_for](/_Standards/schema-org/Property/has_url_for.md) 
 
 ### [has_url_for.public](/_public/schema-org/Property/has_url_for.public.md) 
 
@@ -69,4 +69,5 @@ Predicate describes that:
 
 ### [has_url_for.personal](/_personal/schema-org/Property/has_url_for.personal.md) 
 
-### [has_url_for.secret](/_secret/schema-org/Property/has_url_for.secret.md) 
+### [has_url_for.secret](/_secret/schema-org/Property/has_url_for.secret.md)
+

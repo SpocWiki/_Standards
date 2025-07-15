@@ -103,10 +103,11 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [energy](/_public/schema-org/Predicate/Quantity/energy.md) 
+### [energy](/_Standards/schema-org/Predicate/Quantity/energy.md) 
+
+### [energy.public](/_public/schema-org/Predicate/Quantity/energy.public.md) 
 
 ### [energy.internal](/_internal/schema-org/Predicate/Quantity/energy.internal.md) 
 
@@ -116,4 +117,5 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 
 ### [energy.personal](/_personal/schema-org/Predicate/Quantity/energy.personal.md) 
 
-### [energy.secret](/_secret/schema-org/Predicate/Quantity/energy.secret.md) 
+### [energy.secret](/_secret/schema-org/Predicate/Quantity/energy.secret.md)
+

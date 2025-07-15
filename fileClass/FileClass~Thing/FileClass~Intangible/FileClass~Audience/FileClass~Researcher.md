@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ Researchers.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Researcher](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.md) 
+### [FileClass~Researcher](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.md) 
+
+### [FileClass~Researcher.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.public.md) 
 
 ### [FileClass~Researcher.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.internal.md) 
 
@@ -46,4 +47,5 @@ Researchers.
 
 ### [FileClass~Researcher.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.personal.md) 
 
-### [FileClass~Researcher.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.secret.md) 
+### [FileClass~Researcher.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Researcher.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_publishing_principles](/_public/schema-org/Relation/has/has_publishing_principles.md) 
+### [has_publishing_principles](/_Standards/schema-org/Relation/has/has_publishing_principles.md) 
+
+### [has_publishing_principles.public](/_public/schema-org/Relation/has/has_publishing_principles.public.md) 
 
 ### [has_publishing_principles.internal](/_internal/schema-org/Relation/has/has_publishing_principles.internal.md) 
 
@@ -59,4 +62,5 @@ Relation describes that:
 
 ### [has_publishing_principles.personal](/_personal/schema-org/Relation/has/has_publishing_principles.personal.md) 
 
-### [has_publishing_principles.secret](/_secret/schema-org/Relation/has/has_publishing_principles.secret.md) 
+### [has_publishing_principles.secret](/_secret/schema-org/Relation/has/has_publishing_principles.secret.md)
+

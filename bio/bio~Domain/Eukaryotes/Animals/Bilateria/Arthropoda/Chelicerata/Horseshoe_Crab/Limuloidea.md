@@ -67,3 +67,22 @@ Limuloid horseshoe crabs
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xiphosura) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Limuloidea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.md) 
+
+### [Limuloidea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.public.md) 
+
+### [Limuloidea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.internal.md) 
+
+### [Limuloidea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.protect.md) 
+
+### [Limuloidea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.private.md) 
+
+### [Limuloidea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.personal.md) 
+
+### [Limuloidea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea.secret.md)
+

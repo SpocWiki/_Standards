@@ -1,4 +1,4 @@
-﻿---
+---
 location: [60.1,19.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,7 +35,9 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maarianhamina](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.md) 
+### [Maarianhamina](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.md) 
+
+### [Maarianhamina.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.public.md) 
 
 ### [Maarianhamina.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.internal.md) 
 
@@ -45,4 +47,5 @@ maxZoom: 18
 
 ### [Maarianhamina.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.personal.md) 
 
-### [Maarianhamina.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.secret.md) 
+### [Maarianhamina.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Jomala/Jomala~boroughs/Maarianhamina.secret.md)
+

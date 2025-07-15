@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [property_value](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value.md) 
+### [property_value](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/property_value.md) 
+
+### [property_value.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/property_value.public.md) 
 
 ### [property_value.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/property_value.internal.md) 
 
@@ -58,4 +61,5 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 
 ### [property_value.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/property_value.personal.md) 
 
-### [property_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value.secret.md) 
+### [property_value.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/property_value.secret.md)
+

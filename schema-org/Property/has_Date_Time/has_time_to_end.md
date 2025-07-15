@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -60,9 +60,12 @@ Formal Predicate:
 (name::has_time_to_end)
 (range::Date, DateTime, Time)
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_to_end](/_public/schema-org/Property/has_Date_Time/has_time_to_end.md) 
+### [has_time_to_end](/_Standards/schema-org/Property/has_Date_Time/has_time_to_end.md) 
+
+### [has_time_to_end.public](/_public/schema-org/Property/has_Date_Time/has_time_to_end.public.md) 
 
 ### [has_time_to_end.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_end.internal.md) 
 
@@ -72,4 +75,5 @@ Formal Predicate:
 
 ### [has_time_to_end.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_end.personal.md) 
 
-### [has_time_to_end.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_end.secret.md) 
+### [has_time_to_end.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_end.secret.md)
+

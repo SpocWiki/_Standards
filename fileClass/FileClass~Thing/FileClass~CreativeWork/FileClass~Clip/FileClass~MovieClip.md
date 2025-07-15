@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A short segment/part of a movie.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MovieClip](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.md) 
+### [FileClass~MovieClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.md) 
+
+### [FileClass~MovieClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.public.md) 
 
 ### [FileClass~MovieClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.internal.md) 
 
@@ -46,4 +47,5 @@ A short segment/part of a movie.
 
 ### [FileClass~MovieClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.personal.md) 
 
-### [FileClass~MovieClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.secret.md) 
+### [FileClass~MovieClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~MovieClip.secret.md)
+

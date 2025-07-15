@@ -362,9 +362,12 @@ Capital :: [[Yaren]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nauru)
 
+
 ## Confidential Links & Embeds: 
 
-### [Nauru](/_public/Earth/Continent/Australasia/Micronesia/Nauru.md) 
+### [Nauru](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru.md) 
+
+### [Nauru.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru.public.md) 
 
 ### [Nauru.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal.md) 
 
@@ -374,4 +377,5 @@ Capital :: [[Yaren]]
 
 ### [Nauru.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal.md) 
 
-### [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md) 
+### [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md)
+

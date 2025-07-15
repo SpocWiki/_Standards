@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: object ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_action_option](/_public/schema-org/Property/Texts/has_action_option.md) 
+### [has_action_option](/_Standards/schema-org/Property/Texts/has_action_option.md) 
+
+### [has_action_option.public](/_public/schema-org/Property/Texts/has_action_option.public.md) 
 
 ### [has_action_option.internal](/_internal/schema-org/Property/Texts/has_action_option.internal.md) 
 
@@ -60,4 +63,5 @@ Predicated describes that:
 
 ### [has_action_option.personal](/_personal/schema-org/Property/Texts/has_action_option.personal.md) 
 
-### [has_action_option.secret](/_secret/schema-org/Property/Texts/has_action_option.secret.md) 
+### [has_action_option.secret](/_secret/schema-org/Property/Texts/has_action_option.secret.md)
+

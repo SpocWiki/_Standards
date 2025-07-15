@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -49,10 +49,11 @@ Defines the type of a price specified for an offered product, for example a list
 PriceType:: {"type":"Select","options":{"valuesList":{"InvoicePrice","ListPrice","MinimumAdvertisedPrice","MSRP","SalePrice","SRP"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~CompoundPriceSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.md) 
+### [FileClass~CompoundPriceSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.md) 
+
+### [FileClass~CompoundPriceSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.public.md) 
 
 ### [FileClass~CompoundPriceSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.internal.md) 
 
@@ -62,4 +63,5 @@ PriceType:: {"type":"Select","options":{"valuesList":{"InvoicePrice","ListPrice"
 
 ### [FileClass~CompoundPriceSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.personal.md) 
 
-### [FileClass~CompoundPriceSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.secret.md) 
+### [FileClass~CompoundPriceSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~CompoundPriceSpecification.secret.md)
+

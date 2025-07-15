@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,10 +43,11 @@ The distance travelled, e.g. exercising or travelling.
 Distance:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~TravelAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.md) 
+### [FileClass~TravelAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.md) 
+
+### [FileClass~TravelAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.public.md) 
 
 ### [FileClass~TravelAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.internal.md) 
 
@@ -56,4 +57,5 @@ Distance:: {"type":"Input","options":{}}
 
 ### [FileClass~TravelAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.personal.md) 
 
-### [FileClass~TravelAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.secret.md) 
+### [FileClass~TravelAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~TravelAction.secret.md)
+

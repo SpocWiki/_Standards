@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -56,10 +56,11 @@ Indicates the approximate radius of a GeoCircle (metres unless indicated otherwi
 GeoRadius:: {"type":"Number","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GeoCircle](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.md) 
+### [FileClass~GeoCircle](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.md) 
+
+### [FileClass~GeoCircle.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.public.md) 
 
 ### [FileClass~GeoCircle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.internal.md) 
 
@@ -69,4 +70,5 @@ GeoRadius:: {"type":"Number","options":{}}
 
 ### [FileClass~GeoCircle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.personal.md) 
 
-### [FileClass~GeoCircle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret.md) 
+### [FileClass~GeoCircle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_countries_not_supported )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_countries_not_supported](/_public/schema-org/Property/Texts/has_countries_not_supported.md) 
+### [has_countries_not_supported](/_Standards/schema-org/Property/Texts/has_countries_not_supported.md) 
+
+### [has_countries_not_supported.public](/_public/schema-org/Property/Texts/has_countries_not_supported.public.md) 
 
 ### [has_countries_not_supported.internal](/_internal/schema-org/Property/Texts/has_countries_not_supported.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_countries_not_supported.personal](/_personal/schema-org/Property/Texts/has_countries_not_supported.personal.md) 
 
-### [has_countries_not_supported.secret](/_secret/schema-org/Property/Texts/has_countries_not_supported.secret.md) 
+### [has_countries_not_supported.secret](/_secret/schema-org/Property/Texts/has_countries_not_supported.secret.md)
+

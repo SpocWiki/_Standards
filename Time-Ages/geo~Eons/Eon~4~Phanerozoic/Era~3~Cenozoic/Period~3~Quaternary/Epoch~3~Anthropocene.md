@@ -85,3 +85,22 @@ The onset of the Anthropocene epoch is still debated. Proposed starting points i
 - **[[Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
 - **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts.
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Epoch~3~Anthropocene](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.md) 
+
+### [Epoch~3~Anthropocene.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.public.md) 
+
+### [Epoch~3~Anthropocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.internal.md) 
+
+### [Epoch~3~Anthropocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.protect.md) 
+
+### [Epoch~3~Anthropocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.private.md) 
+
+### [Epoch~3~Anthropocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.personal.md) 
+
+### [Epoch~3~Anthropocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene.secret.md)
+

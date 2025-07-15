@@ -23,3 +23,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zoology) 
 
+
+## Confidential Links & Embeds: 
+
+### [Zoology](/_Standards/bio/Zoology.md) 
+
+### [Zoology.public](/_public/bio/Zoology.public.md) 
+
+### [Zoology.internal](/_internal/bio/Zoology.internal.md) 
+
+### [Zoology.protect](/_protect/bio/Zoology.protect.md) 
+
+### [Zoology.private](/_private/bio/Zoology.private.md) 
+
+### [Zoology.personal](/_personal/bio/Zoology.personal.md) 
+
+### [Zoology.secret](/_secret/bio/Zoology.secret.md)
+

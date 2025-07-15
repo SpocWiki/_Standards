@@ -52,7 +52,9 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### [has_encoding](/_public/schema-org/Relation/has/has_encoding.md) 
+### [has_encoding](/_Standards/schema-org/Relation/has/has_encoding.md) 
+
+### [has_encoding.public](/_public/schema-org/Relation/has/has_encoding.public.md) 
 
 ### [has_encoding.internal](/_internal/schema-org/Relation/has/has_encoding.internal.md) 
 
@@ -62,4 +64,5 @@ Relation describes that:
 
 ### [has_encoding.personal](/_personal/schema-org/Relation/has/has_encoding.personal.md) 
 
-### [has_encoding.secret](/_secret/schema-org/Relation/has/has_encoding.secret.md) 
+### [has_encoding.secret](/_secret/schema-org/Relation/has/has_encoding.secret.md)
+

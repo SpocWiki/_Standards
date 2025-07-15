@@ -144,3 +144,22 @@ Left to right:
     Flabelloidea. Width of corallum 45 mm. Copyright © S. D. Cairns
     2002.
 ![](Deltocyathus_rotulus.jpg)![](Flabellum_deludens.jpg)::::::::::::::::::::::
+
+
+
+## Confidential Links & Embeds: 
+
+### [Caryophylliina](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.md) 
+
+### [Caryophylliina.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.public.md) 
+
+### [Caryophylliina.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.internal.md) 
+
+### [Caryophylliina.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.protect.md) 
+
+### [Caryophylliina.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.private.md) 
+
+### [Caryophylliina.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.personal.md) 
+
+### [Caryophylliina.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Cnidaria/Anthozoa/Zoantharia/Scleractinia/Caryophylliina.secret.md)
+

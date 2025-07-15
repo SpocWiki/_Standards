@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_offer_catalog )
 ( #has_/range :: OfferCatalog )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_offer_catalog](/_public/schema-org/Relation/has/has_offer_catalog.md) 
+### [has_offer_catalog](/_Standards/schema-org/Relation/has/has_offer_catalog.md) 
+
+### [has_offer_catalog.public](/_public/schema-org/Relation/has/has_offer_catalog.public.md) 
 
 ### [has_offer_catalog.internal](/_internal/schema-org/Relation/has/has_offer_catalog.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_offer_catalog.personal](/_personal/schema-org/Relation/has/has_offer_catalog.personal.md) 
 
-### [has_offer_catalog.secret](/_secret/schema-org/Relation/has/has_offer_catalog.secret.md) 
+### [has_offer_catalog.secret](/_secret/schema-org/Relation/has/has_offer_catalog.secret.md)
+

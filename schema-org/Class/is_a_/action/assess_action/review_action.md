@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of producing a balanced opinion about the object for an audience. An age
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [review_action](/_public/schema-org/Class/is_a_/action/assess_action/review_action.md) 
+### [review_action](/_Standards/schema-org/Class/is_a_/action/assess_action/review_action.md) 
+
+### [review_action.public](/_public/schema-org/Class/is_a_/action/assess_action/review_action.public.md) 
 
 ### [review_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/review_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of producing a balanced opinion about the object for an audience. An age
 
 ### [review_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/review_action.personal.md) 
 
-### [review_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/review_action.secret.md) 
+### [review_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/review_action.secret.md)
+

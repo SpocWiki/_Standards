@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: gtin, identifier ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_gtin8](/_public/schema-org/Property/has_name/has_gtin8.md) 
+### [has_gtin8](/_Standards/schema-org/Property/has_name/has_gtin8.md) 
+
+### [has_gtin8.public](/_public/schema-org/Property/has_name/has_gtin8.public.md) 
 
 ### [has_gtin8.internal](/_internal/schema-org/Property/has_name/has_gtin8.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_gtin8.personal](/_personal/schema-org/Property/has_name/has_gtin8.personal.md) 
 
-### [has_gtin8.secret](/_secret/schema-org/Property/has_name/has_gtin8.secret.md) 
+### [has_gtin8.secret](/_secret/schema-org/Property/has_name/has_gtin8.secret.md)
+

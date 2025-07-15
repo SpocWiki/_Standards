@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_energy_efficiency_category )
 ( #has_/range :: EnergyEfficiencyEnumeration )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_energy_efficiency_category](/_public/schema-org/Relation/has/has_energy_efficiency_category.md) 
+### [has_energy_efficiency_category](/_Standards/schema-org/Relation/has/has_energy_efficiency_category.md) 
+
+### [has_energy_efficiency_category.public](/_public/schema-org/Relation/has/has_energy_efficiency_category.public.md) 
 
 ### [has_energy_efficiency_category.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_energy_efficiency_category.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal.md) 
 
-### [has_energy_efficiency_category.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret.md) 
+### [has_energy_efficiency_category.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret.md)
+

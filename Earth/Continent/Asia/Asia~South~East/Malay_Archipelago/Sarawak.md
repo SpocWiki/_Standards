@@ -1,4 +1,4 @@
-﻿---
+---
 location: [1.56,110.345]
 type: Country
 tags:
@@ -40,10 +40,11 @@ Capital :: [[Kuching]]
 [has_place_latitude::1.56]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Sarawak](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.md) 
+### [Sarawak](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.md) 
+
+### [Sarawak.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.public.md) 
 
 ### [Sarawak.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.internal.md) 
 
@@ -53,4 +54,5 @@ Capital :: [[Kuching]]
 
 ### [Sarawak.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.personal.md) 
 
-### [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.secret.md) 
+### [Sarawak.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Sarawak.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A work of art that is primarily visual in character.
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, artEdition, artMedium, artform, artist, artworkSurface, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, colorist, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, depth, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, height, identifier, image, inLanguage, inker, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, letterer, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, penciler, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, surface, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, width, workExample, workTranslation ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [visual_artwork](/_public/schema-org/Class/is_a_/creative_work/visual_artwork.md) 
+### [visual_artwork](/_Standards/schema-org/Class/is_a_/creative_work/visual_artwork.md) 
+
+### [visual_artwork.public](/_public/schema-org/Class/is_a_/creative_work/visual_artwork.public.md) 
 
 ### [visual_artwork.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork.internal.md) 
 
@@ -56,4 +59,5 @@ A work of art that is primarily visual in character.
 
 ### [visual_artwork.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork.personal.md) 
 
-### [visual_artwork.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork.secret.md) 
+### [visual_artwork.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork.secret.md)
+

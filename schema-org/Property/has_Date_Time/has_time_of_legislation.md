@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Formal Predicate:
 
 Is [sub_property_of::dateCreated]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_time_of_legislation](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation.md) 
+### [has_time_of_legislation](/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation.md) 
+
+### [has_time_of_legislation.public](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation.public.md) 
 
 ### [has_time_of_legislation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation.internal.md) 
 
@@ -59,4 +62,5 @@ Is [sub_property_of::dateCreated]
 
 ### [has_time_of_legislation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation.personal.md) 
 
-### [has_time_of_legislation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation.secret.md) 
+### [has_time_of_legislation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation.secret.md)
+

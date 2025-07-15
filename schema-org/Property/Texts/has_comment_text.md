@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_comment_text )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_comment_text](/_public/schema-org/Property/Texts/has_comment_text.md) 
+### [has_comment_text](/_Standards/schema-org/Property/Texts/has_comment_text.md) 
+
+### [has_comment_text.public](/_public/schema-org/Property/Texts/has_comment_text.public.md) 
 
 ### [has_comment_text.internal](/_internal/schema-org/Property/Texts/has_comment_text.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [has_comment_text.personal](/_personal/schema-org/Property/Texts/has_comment_text.personal.md) 
 
-### [has_comment_text.secret](/_secret/schema-org/Property/Texts/has_comment_text.secret.md) 
+### [has_comment_text.secret](/_secret/schema-org/Property/Texts/has_comment_text.secret.md)
+

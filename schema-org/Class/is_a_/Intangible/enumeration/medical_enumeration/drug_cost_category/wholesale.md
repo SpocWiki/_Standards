@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [wholesale](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
+### [wholesale](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
+
+### [wholesale.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.public.md) 
 
 ### [wholesale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
 
@@ -56,4 +59,5 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 ### [wholesale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
 
-### [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md) 
+### [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md)
+

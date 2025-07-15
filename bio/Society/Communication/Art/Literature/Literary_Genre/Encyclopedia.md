@@ -71,3 +71,22 @@ Common_Procurement_Vocabulary_code: 22114500
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Encyclopedia](/_Standards/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.md) 
+
+### [Encyclopedia.public](/_public/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.public.md) 
+
+### [Encyclopedia.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.internal.md) 
+
+### [Encyclopedia.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.protect.md) 
+
+### [Encyclopedia.private](/_private/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.private.md) 
+
+### [Encyclopedia.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.personal.md) 
+
+### [Encyclopedia.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Genre/Encyclopedia.secret.md)
+

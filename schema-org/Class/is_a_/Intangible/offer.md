@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offer](/_public/schema-org/Class/is_a_/Intangible/offer.md) 
+### [offer](/_Standards/schema-org/Class/is_a_/Intangible/offer.md) 
+
+### [offer.public](/_public/schema-org/Class/is_a_/Intangible/offer.public.md) 
 
 ### [offer.internal](/_internal/schema-org/Class/is_a_/Intangible/offer.internal.md) 
 
@@ -60,4 +63,5 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 ### [offer.personal](/_personal/schema-org/Class/is_a_/Intangible/offer.personal.md) 
 
-### [offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer.secret.md) 
+### [offer.secret](/_secret/schema-org/Class/is_a_/Intangible/offer.secret.md)
+

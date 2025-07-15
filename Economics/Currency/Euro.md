@@ -124,6 +124,8 @@ Poland had its own strategy:
 
 ## Confidential Links & Embeds: 
 
+### [Euro](/_Standards/Economics/Currency/Euro.md) 
+
 ### [Euro.public](/_public/Economics/Currency/Euro.public.md) 
 
 ### [Euro.internal](/_internal/Economics/Currency/Euro.internal.md) 
@@ -134,5 +136,5 @@ Poland had its own strategy:
 
 ### [Euro.personal](/_personal/Economics/Currency/Euro.personal.md) 
 
-### [Euro.secret](/_secret/Economics/Currency/Euro.secret.md) 
+### [Euro.secret](/_secret/Economics/Currency/Euro.secret.md)
 

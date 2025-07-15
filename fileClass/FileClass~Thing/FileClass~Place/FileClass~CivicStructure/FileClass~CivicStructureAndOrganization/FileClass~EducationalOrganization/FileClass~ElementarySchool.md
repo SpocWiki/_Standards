@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ An elementary school.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ElementarySchool](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.md) 
+### [FileClass~ElementarySchool](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.md) 
+
+### [FileClass~ElementarySchool.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.public.md) 
 
 ### [FileClass~ElementarySchool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.internal.md) 
 
@@ -46,4 +47,5 @@ An elementary school.
 
 ### [FileClass~ElementarySchool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.personal.md) 
 
-### [FileClass~ElementarySchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.secret.md) 
+### [FileClass~ElementarySchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~ElementarySchool.secret.md)
+

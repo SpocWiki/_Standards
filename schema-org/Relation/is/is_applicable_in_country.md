@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: is_applicable_in_country )
 ( #has_/range :: Country, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_applicable_in_country](/_public/schema-org/Relation/is/is_applicable_in_country.md) 
+### [is_applicable_in_country](/_Standards/schema-org/Relation/is/is_applicable_in_country.md) 
+
+### [is_applicable_in_country.public](/_public/schema-org/Relation/is/is_applicable_in_country.public.md) 
 
 ### [is_applicable_in_country.internal](/_internal/schema-org/Relation/is/is_applicable_in_country.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [is_applicable_in_country.personal](/_personal/schema-org/Relation/is/is_applicable_in_country.personal.md) 
 
-### [is_applicable_in_country.secret](/_secret/schema-org/Relation/is/is_applicable_in_country.secret.md) 
+### [is_applicable_in_country.secret](/_secret/schema-org/Relation/is/is_applicable_in_country.secret.md)
+

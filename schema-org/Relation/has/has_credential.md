@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_credential )
 ( #has_/range :: EducationalOccupationalCredential )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_credential](/_public/schema-org/Relation/has/has_credential.md) 
+### [has_credential](/_Standards/schema-org/Relation/has/has_credential.md) 
+
+### [has_credential.public](/_public/schema-org/Relation/has/has_credential.public.md) 
 
 ### [has_credential.internal](/_internal/schema-org/Relation/has/has_credential.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_credential.personal](/_personal/schema-org/Relation/has/has_credential.personal.md) 
 
-### [has_credential.secret](/_secret/schema-org/Relation/has/has_credential.secret.md) 
+### [has_credential.secret](/_secret/schema-org/Relation/has/has_credential.secret.md)
+

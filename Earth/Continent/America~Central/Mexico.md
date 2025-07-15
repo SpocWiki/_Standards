@@ -961,9 +961,12 @@ Capital :: [[Mexico_City]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mexico)
 
+
 ## Confidential Links & Embeds: 
 
-### [Mexico](/_public/Earth/Continent/America~Central/Mexico.md) 
+### [Mexico](/_Standards/Earth/Continent/America~Central/Mexico.md) 
+
+### [Mexico.public](/_public/Earth/Continent/America~Central/Mexico.public.md) 
 
 ### [Mexico.internal](/_internal/Earth/Continent/America~Central/Mexico.internal.md) 
 
@@ -973,4 +976,5 @@ Capital :: [[Mexico_City]]
 
 ### [Mexico.personal](/_personal/Earth/Continent/America~Central/Mexico.personal.md) 
 
-### [Mexico.secret](/_secret/Earth/Continent/America~Central/Mexico.secret.md) 
+### [Mexico.secret](/_secret/Earth/Continent/America~Central/Mexico.secret.md)
+

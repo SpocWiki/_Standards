@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ Predicated describes that:
 ( #has_/name :: has_place_postal_code )
 ( #has_/range :: Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_place_postal_code](/_public/schema-org/Property/has_name/has_place_postal_code.md) 
+### [has_place_postal_code](/_Standards/schema-org/Property/has_name/has_place_postal_code.md) 
+
+### [has_place_postal_code.public](/_public/schema-org/Property/has_name/has_place_postal_code.public.md) 
 
 ### [has_place_postal_code.internal](/_internal/schema-org/Property/has_name/has_place_postal_code.internal.md) 
 
@@ -59,4 +62,5 @@ Predicated describes that:
 
 ### [has_place_postal_code.personal](/_personal/schema-org/Property/has_name/has_place_postal_code.personal.md) 
 
-### [has_place_postal_code.secret](/_secret/schema-org/Property/has_name/has_place_postal_code.secret.md) 
+### [has_place_postal_code.secret](/_secret/schema-org/Property/has_name/has_place_postal_code.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_penciler )
 ( #has_/range :: Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_penciler](/_public/schema-org/Relation/has/has_penciler.md) 
+### [has_penciler](/_Standards/schema-org/Relation/has/has_penciler.md) 
+
+### [has_penciler.public](/_public/schema-org/Relation/has/has_penciler.public.md) 
 
 ### [has_penciler.internal](/_internal/schema-org/Relation/has/has_penciler.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_penciler.personal](/_personal/schema-org/Relation/has/has_penciler.personal.md) 
 
-### [has_penciler.secret](/_secret/schema-org/Relation/has/has_penciler.secret.md) 
+### [has_penciler.secret](/_secret/schema-org/Relation/has/has_penciler.secret.md)
+

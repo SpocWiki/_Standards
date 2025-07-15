@@ -179,3 +179,21 @@ press).
   Acknowledgements   Hand model courtesy of Jose Rico
   Copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
   ---------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Gelidiales](/_Standards/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.md) 
+
+### [Gelidiales.public](/_public/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.public.md) 
+
+### [Gelidiales.internal](/_internal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.internal.md) 
+
+### [Gelidiales.protect](/_protect/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.protect.md) 
+
+### [Gelidiales.private](/_private/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.private.md) 
+
+### [Gelidiales.personal](/_personal/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.personal.md) 
+
+### [Gelidiales.secret](/_secret/bio/bio~Domain/Eukaryotes/Rhodophyta/Florideophyceae/Gelidiales.secret.md)
+

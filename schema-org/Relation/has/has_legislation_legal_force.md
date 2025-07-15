@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_legislation_legal_force )
 ( #has_/range :: LegalForceStatus )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_legislation_legal_force](/_public/schema-org/Relation/has/has_legislation_legal_force.md) 
+### [has_legislation_legal_force](/_Standards/schema-org/Relation/has/has_legislation_legal_force.md) 
+
+### [has_legislation_legal_force.public](/_public/schema-org/Relation/has/has_legislation_legal_force.public.md) 
 
 ### [has_legislation_legal_force.internal](/_internal/schema-org/Relation/has/has_legislation_legal_force.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_legislation_legal_force.personal](/_personal/schema-org/Relation/has/has_legislation_legal_force.personal.md) 
 
-### [has_legislation_legal_force.secret](/_secret/schema-org/Relation/has/has_legislation_legal_force.secret.md) 
+### [has_legislation_legal_force.secret](/_secret/schema-org/Relation/has/has_legislation_legal_force.secret.md)
+

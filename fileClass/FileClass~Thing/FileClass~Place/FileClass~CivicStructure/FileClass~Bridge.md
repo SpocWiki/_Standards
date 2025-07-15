@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A bridge.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Bridge](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.md) 
+### [FileClass~Bridge](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.md) 
+
+### [FileClass~Bridge.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.public.md) 
 
 ### [FileClass~Bridge.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.internal.md) 
 
@@ -46,4 +47,5 @@ A bridge.
 
 ### [FileClass~Bridge.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.personal.md) 
 
-### [FileClass~Bridge.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret.md) 
+### [FileClass~Bridge.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret.md)
+

@@ -73,3 +73,22 @@ an enigmatic pit adjacent to the eyes. (Based on Young 1991.)
 ![](pituriaspida.gif)
 
   Copyright ::   © 1997 Philippe Janvier
+
+
+
+## Confidential Links & Embeds: 
+
+### [Pituriaspida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.md) 
+
+### [Pituriaspida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.public.md) 
+
+### [Pituriaspida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.internal.md) 
+
+### [Pituriaspida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.protect.md) 
+
+### [Pituriaspida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.private.md) 
+
+### [Pituriaspida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.personal.md) 
+
+### [Pituriaspida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Pituriaspida.secret.md)
+

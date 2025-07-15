@@ -1,4 +1,4 @@
-﻿---
+---
 title: CC-BY-SA
 linkTitle: 
 keywords: 
@@ -41,7 +41,9 @@ Several perceived obstacles of this License proved to be beneficial in data sani
 
 ## Confidential Links & Embeds: 
 
-### [CC-BY-SA](/_public/cc/CC-Licenses/CC-BY-SA.md) 
+### [CC-BY-SA](/_Standards/cc/CC-Licenses/CC-BY-SA.md) 
+
+### [CC-BY-SA.public](/_public/cc/CC-Licenses/CC-BY-SA.public.md) 
 
 ### [CC-BY-SA.internal](/_internal/cc/CC-Licenses/CC-BY-SA.internal.md) 
 
@@ -51,4 +53,5 @@ Several perceived obstacles of this License proved to be beneficial in data sani
 
 ### [CC-BY-SA.personal](/_personal/cc/CC-Licenses/CC-BY-SA.personal.md) 
 
-### [CC-BY-SA.secret](/_secret/cc/CC-Licenses/CC-BY-SA.secret.md) 
+### [CC-BY-SA.secret](/_secret/cc/CC-Licenses/CC-BY-SA.secret.md)
+

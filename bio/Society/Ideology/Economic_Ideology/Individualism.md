@@ -65,3 +65,22 @@ Library of Congress Classification: B824.A1-B824.Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Individualism) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Individualism](/_Standards/bio/Society/Ideology/Economic_Ideology/Individualism.md) 
+
+### [Individualism.public](/_public/bio/Society/Ideology/Economic_Ideology/Individualism.public.md) 
+
+### [Individualism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Individualism.internal.md) 
+
+### [Individualism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Individualism.protect.md) 
+
+### [Individualism.private](/_private/bio/Society/Ideology/Economic_Ideology/Individualism.private.md) 
+
+### [Individualism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Individualism.personal.md) 
+
+### [Individualism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Individualism.secret.md)
+

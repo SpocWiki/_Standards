@@ -67,3 +67,22 @@ Iconclass_notation: 43C4142
 > [Wikipedia](https://en.wikipedia.org/wiki/Golf) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Golf](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.md) 
+
+### [Golf.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.public.md) 
+
+### [Golf.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.internal.md) 
+
+### [Golf.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.protect.md) 
+
+### [Golf.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.private.md) 
+
+### [Golf.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.personal.md) 
+
+### [Golf.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport/Golf.secret.md)
+

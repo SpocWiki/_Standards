@@ -1,4 +1,4 @@
-﻿---
+---
 location:
     - 15.1833
     - 145.75
@@ -135,10 +135,11 @@ Capital :: [[Saipan]]
 [has_place_latitude::15.1833] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Northern_Mariana~Islands](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.md) 
+### [Northern_Mariana~Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.md) 
+
+### [Northern_Mariana~Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.public.md) 
 
 ### [Northern_Mariana~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.internal.md) 
 
@@ -148,4 +149,5 @@ Capital :: [[Saipan]]
 
 ### [Northern_Mariana~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.personal.md) 
 
-### [Northern_Mariana~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.secret.md) 
+### [Northern_Mariana~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.secret.md)
+

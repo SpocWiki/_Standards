@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,9 +48,12 @@ for background on the underlying concepts.
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [offer_for_purchase](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.md) 
+### [offer_for_purchase](/_Standards/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.md) 
+
+### [offer_for_purchase.public](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.public.md) 
 
 ### [offer_for_purchase.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.internal.md) 
 
@@ -60,4 +63,5 @@ for background on the underlying concepts.
 
 ### [offer_for_purchase.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.personal.md) 
 
-### [offer_for_purchase.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.secret.md) 
+### [offer_for_purchase.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_purchase.secret.md)
+

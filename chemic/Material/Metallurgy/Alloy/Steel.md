@@ -63,3 +63,21 @@ CPV_Supplementary_code: AA11
 > Further refinements in the process, such as basic oxygen steelmaking (BOS), largely replaced earlier methods by further lowering the cost of production and increasing the quality of the final product. Today more than 1.6 billion tons of steel is produced annually. Modern steel is generally identified by various grades defined by assorted standards organizations. The modern steel industry is one of the largest manufacturing industries in the world, but also one of the most energy and greenhouse gas emission intense industries, contributing 8% of global emissions. However, steel is also very reusable: it is one of the world's most-recycled materials, with a recycling rate of over 60% globally.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Steel)
+
+
+## Confidential Links & Embeds: 
+
+### [Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Steel.md) 
+
+### [Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Steel.public.md) 
+
+### [Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Steel.internal.md) 
+
+### [Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Steel.protect.md) 
+
+### [Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Steel.private.md) 
+
+### [Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Steel.personal.md) 
+
+### [Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Steel.secret.md)
+

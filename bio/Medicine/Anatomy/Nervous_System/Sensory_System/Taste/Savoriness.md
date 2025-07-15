@@ -29,3 +29,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Savoriness](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.md) 
+
+### [Savoriness.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.public.md) 
+
+### [Savoriness.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.internal.md) 
+
+### [Savoriness.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.protect.md) 
+
+### [Savoriness.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.private.md) 
+
+### [Savoriness.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.personal.md) 
+
+### [Savoriness.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.secret.md)
+

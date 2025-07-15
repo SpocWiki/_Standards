@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Relation describes that:
 
 [ #is_/inverse_of  :: isVariantOf ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_variant](/_public/schema-org/Relation/has/has_variant.md) 
+### [has_variant](/_Standards/schema-org/Relation/has/has_variant.md) 
+
+### [has_variant.public](/_public/schema-org/Relation/has/has_variant.public.md) 
 
 ### [has_variant.internal](/_internal/schema-org/Relation/has/has_variant.internal.md) 
 
@@ -57,4 +60,5 @@ Relation describes that:
 
 ### [has_variant.personal](/_personal/schema-org/Relation/has/has_variant.personal.md) 
 
-### [has_variant.secret](/_secret/schema-org/Relation/has/has_variant.secret.md) 
+### [has_variant.secret](/_secret/schema-org/Relation/has/has_variant.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: has_claim_interpreter )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_claim_interpreter](/_public/schema-org/Relation/has/has_claim_interpreter.md) 
+### [has_claim_interpreter](/_Standards/schema-org/Relation/has/has_claim_interpreter.md) 
+
+### [has_claim_interpreter.public](/_public/schema-org/Relation/has/has_claim_interpreter.public.md) 
 
 ### [has_claim_interpreter.internal](/_internal/schema-org/Relation/has/has_claim_interpreter.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_claim_interpreter.personal](/_personal/schema-org/Relation/has/has_claim_interpreter.personal.md) 
 
-### [has_claim_interpreter.secret](/_secret/schema-org/Relation/has/has_claim_interpreter.secret.md) 
+### [has_claim_interpreter.secret](/_secret/schema-org/Relation/has/has_claim_interpreter.secret.md)
+

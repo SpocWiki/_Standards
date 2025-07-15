@@ -445,10 +445,11 @@ Capital :: [[Yamoussoukro]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Ivory%20Coast) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Cote_d'ivoire](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.md) 
+### [Cote_d'ivoire](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.md) 
+
+### [Cote_d'ivoire.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public.md) 
 
 ### [Cote_d'ivoire.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal.md) 
 
@@ -458,4 +459,5 @@ Capital :: [[Yamoussoukro]]
 
 ### [Cote_d'ivoire.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal.md) 
 
-### [Cote_d'ivoire.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret.md) 
+### [Cote_d'ivoire.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret.md)
+

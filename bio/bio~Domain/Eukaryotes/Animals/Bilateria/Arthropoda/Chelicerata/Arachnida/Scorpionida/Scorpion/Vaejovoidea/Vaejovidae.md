@@ -59,3 +59,22 @@ Copyright © 1988, Scott A. Stockwell.
 ![Pseudouroctonus apacheanus](vaejovidae.jpg)
 Copyright ::   © 1988 Scott A. Stockwell
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vaejovidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.md) 
+
+### [Vaejovidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.public.md) 
+
+### [Vaejovidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.internal.md) 
+
+### [Vaejovidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.protect.md) 
+
+### [Vaejovidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.private.md) 
+
+### [Vaejovidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.personal.md) 
+
+### [Vaejovidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Scorpion/Vaejovoidea/Vaejovidae.secret.md)
+

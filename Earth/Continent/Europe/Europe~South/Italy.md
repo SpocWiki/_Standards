@@ -813,10 +813,11 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 [has_place_latitude::43.4809]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Italy](/_public/Earth/Continent/Europe/Europe~South/Italy.md) 
+### [Italy](/_Standards/Earth/Continent/Europe/Europe~South/Italy.md) 
+
+### [Italy.public](/_public/Earth/Continent/Europe/Europe~South/Italy.public.md) 
 
 ### [Italy.internal](/_internal/Earth/Continent/Europe/Europe~South/Italy.internal.md) 
 
@@ -826,4 +827,5 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 ### [Italy.personal](/_personal/Earth/Continent/Europe/Europe~South/Italy.personal.md) 
 
-### [Italy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy.secret.md) 
+### [Italy.secret](/_secret/Earth/Continent/Europe/Europe~South/Italy.secret.md)
+

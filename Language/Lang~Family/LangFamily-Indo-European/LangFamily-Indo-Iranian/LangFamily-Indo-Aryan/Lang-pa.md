@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Punjabi
@@ -36,9 +36,12 @@ tags:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Punjabi%20language)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lang-pa](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.md) 
+### [Lang-pa](/_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.md) 
+
+### [Lang-pa.public](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.public.md) 
 
 ### [Lang-pa.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.internal.md) 
 
@@ -48,4 +51,5 @@ tags:
 
 ### [Lang-pa.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.personal.md) 
 
-### [Lang-pa.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.secret.md) 
+### [Lang-pa.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-pa.secret.md)
+

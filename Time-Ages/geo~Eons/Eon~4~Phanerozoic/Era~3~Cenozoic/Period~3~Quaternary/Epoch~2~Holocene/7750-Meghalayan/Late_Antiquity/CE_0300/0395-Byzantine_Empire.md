@@ -166,3 +166,22 @@ Wolfram_Language_entity_code: "Entity[\"HistoricalCountry\", \"ByzantineEmpire\"
 > [Wikipedia](https://en.wikipedia.org/wiki/Byzantine%20Empire) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [0395-Byzantine_Empire](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.md) 
+
+### [0395-Byzantine_Empire.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.public.md) 
+
+### [0395-Byzantine_Empire.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.internal.md) 
+
+### [0395-Byzantine_Empire.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.protect.md) 
+
+### [0395-Byzantine_Empire.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.private.md) 
+
+### [0395-Byzantine_Empire.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.personal.md) 
+
+### [0395-Byzantine_Empire.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire.secret.md)
+

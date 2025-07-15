@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A house is a building or structure that has the ability to be occupied for habit
 
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [house](/_public/schema-org/Class/is_a_/place/accommodation/house.md) 
+### [house](/_Standards/schema-org/Class/is_a_/place/accommodation/house.md) 
+
+### [house.public](/_public/schema-org/Class/is_a_/place/accommodation/house.public.md) 
 
 ### [house.internal](/_internal/schema-org/Class/is_a_/place/accommodation/house.internal.md) 
 
@@ -56,4 +59,5 @@ A house is a building or structure that has the ability to be occupied for habit
 
 ### [house.personal](/_personal/schema-org/Class/is_a_/place/accommodation/house.personal.md) 
 
-### [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md) 
+### [house.secret](/_secret/schema-org/Class/is_a_/place/accommodation/house.secret.md)
+

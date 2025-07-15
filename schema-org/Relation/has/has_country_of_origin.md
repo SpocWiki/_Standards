@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,9 +50,12 @@ Relation describes that:
 ( #has_/name :: has_country_of_origin )
 ( #has_/range :: Country )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_country_of_origin](/_public/schema-org/Relation/has/has_country_of_origin.md) 
+### [has_country_of_origin](/_Standards/schema-org/Relation/has/has_country_of_origin.md) 
+
+### [has_country_of_origin.public](/_public/schema-org/Relation/has/has_country_of_origin.public.md) 
 
 ### [has_country_of_origin.internal](/_internal/schema-org/Relation/has/has_country_of_origin.internal.md) 
 
@@ -62,4 +65,5 @@ Relation describes that:
 
 ### [has_country_of_origin.personal](/_personal/schema-org/Relation/has/has_country_of_origin.personal.md) 
 
-### [has_country_of_origin.secret](/_secret/schema-org/Relation/has/has_country_of_origin.secret.md) 
+### [has_country_of_origin.secret](/_secret/schema-org/Relation/has/has_country_of_origin.secret.md)
+

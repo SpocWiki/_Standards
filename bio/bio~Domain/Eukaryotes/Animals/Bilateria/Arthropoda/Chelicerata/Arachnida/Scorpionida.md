@@ -157,3 +157,22 @@ Location ::           Bohemia
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.
 Creator              E. Salle
 Specimen Condition   Fossil \-- Period: Carboniferous
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scorpionida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.md) 
+
+### [Scorpionida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.public.md) 
+
+### [Scorpionida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.internal.md) 
+
+### [Scorpionida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.protect.md) 
+
+### [Scorpionida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.private.md) 
+
+### [Scorpionida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.personal.md) 
+
+### [Scorpionida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida.secret.md)
+

@@ -23,5 +23,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Leadership) 
 
 
+## Confidential Links & Embeds: 
 
+### [Leader](/_Standards/bio/People/Leader.md) 
+
+### [Leader.public](/_public/bio/People/Leader.public.md) 
+
+### [Leader.internal](/_internal/bio/People/Leader.internal.md) 
+
+### [Leader.protect](/_protect/bio/People/Leader.protect.md) 
+
+### [Leader.private](/_private/bio/People/Leader.private.md) 
+
+### [Leader.personal](/_personal/bio/People/Leader.personal.md) 
+
+### [Leader.secret](/_secret/bio/People/Leader.secret.md)
 

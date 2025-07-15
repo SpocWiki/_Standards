@@ -118,3 +118,21 @@ Atlas.
   Acknowledgements   Batoteuthis scolops illustration by A. D. Hart, Chiroteuthis veranyi photograph copyright © 1996, E. McSweeny, Joubiniteuthis portieri photograph copyright © 1996, R. E. Young, Megapinna pacifica photograph copyright © 1998, Richard E. Young), Mastigoteuthis glaukopis from Chun, 1910, Promachoteuthis megaptera from Okutani, 1983.
   Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
   -------------------------------------------------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Chiroteuthid](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.md) 
+
+### [Chiroteuthid.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.public.md) 
+
+### [Chiroteuthid.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.internal.md) 
+
+### [Chiroteuthid.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.protect.md) 
+
+### [Chiroteuthid.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.private.md) 
+
+### [Chiroteuthid.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.personal.md) 
+
+### [Chiroteuthid.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid.secret.md)
+

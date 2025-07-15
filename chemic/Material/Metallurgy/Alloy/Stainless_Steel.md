@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q172587
 aliases:
 - "Stainless steel"
@@ -56,4 +56,23 @@ Commons_category: "Stainless steel"
 > in existing ISO, ASTM, EN, JIS, and GB standards in a useful interchange table.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stainless%20steel)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Stainless_Steel](/_Standards/chemic/Material/Metallurgy/Alloy/Stainless_Steel.md) 
+
+### [Stainless_Steel.public](/_public/chemic/Material/Metallurgy/Alloy/Stainless_Steel.public.md) 
+
+### [Stainless_Steel.internal](/_internal/chemic/Material/Metallurgy/Alloy/Stainless_Steel.internal.md) 
+
+### [Stainless_Steel.protect](/_protect/chemic/Material/Metallurgy/Alloy/Stainless_Steel.protect.md) 
+
+### [Stainless_Steel.private](/_private/chemic/Material/Metallurgy/Alloy/Stainless_Steel.private.md) 
+
+### [Stainless_Steel.personal](/_personal/chemic/Material/Metallurgy/Alloy/Stainless_Steel.personal.md) 
+
+### [Stainless_Steel.secret](/_secret/chemic/Material/Metallurgy/Alloy/Stainless_Steel.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q7949
 subclass_of: '[[_Standards/WikiData/WD~proposition,108163]]'
 said_to_be_the_same_as:
@@ -46,4 +46,23 @@ It is sufficient for Survival to live in a Bubble and pick most opinions arbitra
 
 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Truth](/_Standards/bio/People/Philosopher/Epistemology/Truth.md) 
+
+### [Truth.public](/_public/bio/People/Philosopher/Epistemology/Truth.public.md) 
+
+### [Truth.internal](/_internal/bio/People/Philosopher/Epistemology/Truth.internal.md) 
+
+### [Truth.protect](/_protect/bio/People/Philosopher/Epistemology/Truth.protect.md) 
+
+### [Truth.private](/_private/bio/People/Philosopher/Epistemology/Truth.private.md) 
+
+### [Truth.personal](/_personal/bio/People/Philosopher/Epistemology/Truth.personal.md) 
+
+### [Truth.secret](/_secret/bio/People/Philosopher/Epistemology/Truth.secret.md)
 

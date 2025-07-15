@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Indicated that creating a return label is the responsibility of the customer.
 
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [return_label_customer_responsibility](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md) 
+### [return_label_customer_responsibility](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md) 
+
+### [return_label_customer_responsibility.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.public.md) 
 
 ### [return_label_customer_responsibility.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md) 
 
@@ -58,4 +61,5 @@ Indicated that creating a return label is the responsibility of the customer.
 
 ### [return_label_customer_responsibility.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md) 
 
-### [return_label_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md) 
+### [return_label_customer_responsibility.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ An image of a visual machine-readable code such as a barcode or QR code.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Barcode](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.md) 
+### [FileClass~Barcode](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.md) 
+
+### [FileClass~Barcode.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.public.md) 
 
 ### [FileClass~Barcode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.internal.md) 
 
@@ -46,4 +47,5 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 ### [FileClass~Barcode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.personal.md) 
 
-### [FileClass~Barcode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.secret.md) 
+### [FileClass~Barcode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~Barcode.secret.md)
+

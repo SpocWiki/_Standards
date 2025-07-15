@@ -83,3 +83,22 @@ Acknowledgements     courtesy [Botanical Image Database](http://www.unibas.ch/bo
 Specimen Condition   Live Specimen
 Body Part            new and old leaves
 Copyright ::            © University of Basel, Basel, Switzerland 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Seed_Plant](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.md) 
+
+### [Seed_Plant.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.public.md) 
+
+### [Seed_Plant.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.internal.md) 
+
+### [Seed_Plant.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.protect.md) 
+
+### [Seed_Plant.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.private.md) 
+
+### [Seed_Plant.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.personal.md) 
+
+### [Seed_Plant.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,9 +47,12 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [user_plays](/_public/schema-org/Class/is_a_/event/user_interaction/user_plays.md) 
+### [user_plays](/_Standards/schema-org/Class/is_a_/event/user_interaction/user_plays.md) 
+
+### [user_plays.public](/_public/schema-org/Class/is_a_/event/user_interaction/user_plays.public.md) 
 
 ### [user_plays.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_plays.internal.md) 
 
@@ -59,4 +62,5 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 ### [user_plays.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_plays.personal.md) 
 
-### [user_plays.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plays.secret.md) 
+### [user_plays.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_plays.secret.md)
+

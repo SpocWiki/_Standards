@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicate describes that:
 ( #has_/name :: has_value_for_estimated_cost )
 ( #has_/range :: MonetaryAmount, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_value_for_estimated_cost](/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.md) 
+### [has_value_for_estimated_cost](/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost.md) 
+
+### [has_value_for_estimated_cost.public](/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public.md) 
 
 ### [has_value_for_estimated_cost.internal](/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal.md) 
 
@@ -56,4 +59,5 @@ Predicate describes that:
 
 ### [has_value_for_estimated_cost.personal](/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal.md) 
 
-### [has_value_for_estimated_cost.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret.md) 
+### [has_value_for_estimated_cost.secret](/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret.md)
+

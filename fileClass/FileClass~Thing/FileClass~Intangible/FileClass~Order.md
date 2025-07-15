@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -242,10 +242,11 @@ An entity which offers (sells / leases / lends / loans) the services / goods.  A
 Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Order](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.md) 
+### [FileClass~Order](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.md) 
+
+### [FileClass~Order.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.public.md) 
 
 ### [FileClass~Order.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.internal.md) 
 
@@ -255,4 +256,5 @@ Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ### [FileClass~Order.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.personal.md) 
 
-### [FileClass~Order.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.secret.md) 
+### [FileClass~Order.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Order.secret.md)
+

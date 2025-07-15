@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.06 , 171.98 ] 
 type: geo-Region
 title: Ratak_Chain
@@ -41,7 +41,9 @@ markerFolder: ./Ratak_Chain/
 
 ## Confidential Links & Embeds: 
 
-### [Ratak_Chain](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.md) 
+### [Ratak_Chain](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.md) 
+
+### [Ratak_Chain.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.public.md) 
 
 ### [Ratak_Chain.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Ratak_Chain/
 
 ### [Ratak_Chain.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.personal.md) 
 
-### [Ratak_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.secret.md) 
+### [Ratak_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands/Counties/Ratak_Chain.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ A middle school (typically for children aged around 11-14, although this varies 
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MiddleSchool](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.md) 
+### [FileClass~MiddleSchool](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.md) 
+
+### [FileClass~MiddleSchool.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.public.md) 
 
 ### [FileClass~MiddleSchool.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.internal.md) 
 
@@ -46,4 +47,5 @@ A middle school (typically for children aged around 11-14, although this varies 
 
 ### [FileClass~MiddleSchool.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.personal.md) 
 
-### [FileClass~MiddleSchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.secret.md) 
+### [FileClass~MiddleSchool.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization/FileClass~EducationalOrganization/FileClass~MiddleSchool.secret.md)
+

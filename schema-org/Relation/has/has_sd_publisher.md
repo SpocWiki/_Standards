@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Relation describes that:
 ( #has_/name :: is_sd_publisher )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_sd_publisher](/_public/schema-org/Relation/has/has_sd_publisher.md) 
+### [has_sd_publisher](/_Standards/schema-org/Relation/has/has_sd_publisher.md) 
+
+### [has_sd_publisher.public](/_public/schema-org/Relation/has/has_sd_publisher.public.md) 
 
 ### [has_sd_publisher.internal](/_internal/schema-org/Relation/has/has_sd_publisher.internal.md) 
 
@@ -56,4 +59,5 @@ Relation describes that:
 
 ### [has_sd_publisher.personal](/_personal/schema-org/Relation/has/has_sd_publisher.personal.md) 
 
-### [has_sd_publisher.secret](/_secret/schema-org/Relation/has/has_sd_publisher.secret.md) 
+### [has_sd_publisher.secret](/_secret/schema-org/Relation/has/has_sd_publisher.secret.md)
+

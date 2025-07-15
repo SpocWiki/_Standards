@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_included_risk_factor )
 ( #has_/range :: MedicalRiskFactor )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_included_risk_factor](/_public/schema-org/Relation/has/has_included_risk_factor.md) 
+### [has_included_risk_factor](/_Standards/schema-org/Relation/has/has_included_risk_factor.md) 
+
+### [has_included_risk_factor.public](/_public/schema-org/Relation/has/has_included_risk_factor.public.md) 
 
 ### [has_included_risk_factor.internal](/_internal/schema-org/Relation/has/has_included_risk_factor.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_included_risk_factor.personal](/_personal/schema-org/Relation/has/has_included_risk_factor.personal.md) 
 
-### [has_included_risk_factor.secret](/_secret/schema-org/Relation/has/has_included_risk_factor.secret.md) 
+### [has_included_risk_factor.secret](/_secret/schema-org/Relation/has/has_included_risk_factor.secret.md)
+

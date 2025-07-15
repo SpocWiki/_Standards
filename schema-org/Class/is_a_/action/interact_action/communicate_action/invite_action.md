@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [invite_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.md) 
+### [invite_action](/_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.md) 
+
+### [invite_action.public](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.public.md) 
 
 ### [invite_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.internal.md) 
 
@@ -54,4 +57,5 @@ The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
 ### [invite_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.personal.md) 
 
-### [invite_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.secret.md) 
+### [invite_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/invite_action.secret.md)
+

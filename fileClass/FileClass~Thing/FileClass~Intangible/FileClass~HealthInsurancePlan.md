@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -126,10 +126,11 @@ The standard for interpreting the Plan ID. The preferred is "HIOS". See the Cent
 UsesHealthPlanIdStandard:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~HealthInsurancePlan](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.md) 
+### [FileClass~HealthInsurancePlan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.md) 
+
+### [FileClass~HealthInsurancePlan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.public.md) 
 
 ### [FileClass~HealthInsurancePlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.internal.md) 
 
@@ -139,4 +140,5 @@ UsesHealthPlanIdStandard:: {"type":"Input","options":{}}
 
 ### [FileClass~HealthInsurancePlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.personal.md) 
 
-### [FileClass~HealthInsurancePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.secret.md) 
+### [FileClass~HealthInsurancePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthInsurancePlan.secret.md)
+

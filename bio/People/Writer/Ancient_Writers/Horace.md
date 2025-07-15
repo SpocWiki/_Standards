@@ -102,3 +102,22 @@ name_in_native_language: Q. Horatius Flaccus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Horace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Horace](/_Standards/bio/People/Writer/Ancient_Writers/Horace.md) 
+
+### [Horace.public](/_public/bio/People/Writer/Ancient_Writers/Horace.public.md) 
+
+### [Horace.internal](/_internal/bio/People/Writer/Ancient_Writers/Horace.internal.md) 
+
+### [Horace.protect](/_protect/bio/People/Writer/Ancient_Writers/Horace.protect.md) 
+
+### [Horace.private](/_private/bio/People/Writer/Ancient_Writers/Horace.private.md) 
+
+### [Horace.personal](/_personal/bio/People/Writer/Ancient_Writers/Horace.personal.md) 
+
+### [Horace.secret](/_secret/bio/People/Writer/Ancient_Writers/Horace.secret.md)
+

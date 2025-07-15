@@ -76,3 +76,22 @@ GeoNames_feature_code: S.HSE
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [House](/_Standards/Technology/Construction/Building/House.md) 
+
+### [House.public](/_public/Technology/Construction/Building/House.public.md) 
+
+### [House.internal](/_internal/Technology/Construction/Building/House.internal.md) 
+
+### [House.protect](/_protect/Technology/Construction/Building/House.protect.md) 
+
+### [House.private](/_private/Technology/Construction/Building/House.private.md) 
+
+### [House.personal](/_personal/Technology/Construction/Building/House.personal.md) 
+
+### [House.secret](/_secret/Technology/Construction/Building/House.secret.md)
+

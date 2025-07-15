@@ -72,3 +72,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Age%20of%20Enlightenment) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [1680-Age_of_Enlightenment](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.md) 
+
+### [1680-Age_of_Enlightenment.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.public.md) 
+
+### [1680-Age_of_Enlightenment.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.internal.md) 
+
+### [1680-Age_of_Enlightenment.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.protect.md) 
+
+### [1680-Age_of_Enlightenment.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.private.md) 
+
+### [1680-Age_of_Enlightenment.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.personal.md) 
+
+### [1680-Age_of_Enlightenment.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1680-Age_of_Enlightenment.secret.md)
+

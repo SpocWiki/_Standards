@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 60.27 , 19.93 ] 
 type: geo-Region
 title: Finström
@@ -41,7 +41,9 @@ markerFolder: ./Finström/
 
 ## Confidential Links & Embeds: 
 
-### [Finström](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.md) 
+### [Finström](/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.md) 
+
+### [Finström.public](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.public.md) 
 
 ### [Finström.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Finström/
 
 ### [Finström.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.personal.md) 
 
-### [Finström.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.secret.md) 
+### [Finström.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Finström.secret.md)
+

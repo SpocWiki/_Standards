@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A structured value representing exchange rate.
 
 [ #has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [exchange_rate_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.md) 
+### [exchange_rate_specification](/_Standards/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.md) 
+
+### [exchange_rate_specification.public](/_public/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.public.md) 
 
 ### [exchange_rate_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.internal.md) 
 
@@ -56,4 +59,5 @@ A structured value representing exchange rate.
 
 ### [exchange_rate_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.personal.md) 
 
-### [exchange_rate_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.secret.md) 
+### [exchange_rate_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/exchange_rate_specification.secret.md)
+

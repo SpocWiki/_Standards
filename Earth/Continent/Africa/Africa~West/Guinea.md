@@ -458,9 +458,12 @@ Capital :: [[Conakry]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guinea)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guinea](/_public/Earth/Continent/Africa/Africa~West/Guinea.md) 
+### [Guinea](/_Standards/Earth/Continent/Africa/Africa~West/Guinea.md) 
+
+### [Guinea.public](/_public/Earth/Continent/Africa/Africa~West/Guinea.public.md) 
 
 ### [Guinea.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal.md) 
 
@@ -470,4 +473,5 @@ Capital :: [[Conakry]]
 
 ### [Guinea.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal.md) 
 
-### [Guinea.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret.md) 
+### [Guinea.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 type: Element
 tags:
 - chemic/Element
@@ -27,10 +27,11 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [Charge-e::{{Charge-e}}]
 
 
-
 ## Confidential Links & Embeds: 
 
-### [_ElementTemplate](/_public/chemic/chemic~Elements/_ElementTemplate.md) 
+### [_ElementTemplate](/_Standards/chemic/chemic~Elements/_ElementTemplate.md) 
+
+### [_ElementTemplate.public](/_public/chemic/chemic~Elements/_ElementTemplate.public.md) 
 
 ### [_ElementTemplate.internal](/_internal/chemic/chemic~Elements/_ElementTemplate.internal.md) 
 
@@ -40,4 +41,5 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ### [_ElementTemplate.personal](/_personal/chemic/chemic~Elements/_ElementTemplate.personal.md) 
 
-### [_ElementTemplate.secret](/_secret/chemic/chemic~Elements/_ElementTemplate.secret.md) 
+### [_ElementTemplate.secret](/_secret/chemic/chemic~Elements/_ElementTemplate.secret.md)
+

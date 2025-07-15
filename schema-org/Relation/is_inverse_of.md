@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -86,7 +86,9 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 ## Confidential Links & Embeds: 
 
-### [is_inverse_of](/_public/schema-org/Relation/is_inverse_of.md) 
+### [is_inverse_of](/_Standards/schema-org/Relation/is_inverse_of.md) 
+
+### [is_inverse_of.public](/_public/schema-org/Relation/is_inverse_of.public.md) 
 
 ### [is_inverse_of.internal](/_internal/schema-org/Relation/is_inverse_of.internal.md) 
 
@@ -96,4 +98,5 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 ### [is_inverse_of.personal](/_personal/schema-org/Relation/is_inverse_of.personal.md) 
 
-### [is_inverse_of.secret](/_secret/schema-org/Relation/is_inverse_of.secret.md) 
+### [is_inverse_of.secret](/_secret/schema-org/Relation/is_inverse_of.secret.md)
+

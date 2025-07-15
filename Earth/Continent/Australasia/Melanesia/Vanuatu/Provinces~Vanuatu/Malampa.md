@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -16.2 , 168.1 ] 
 type: geo-Region
 title: Malampa
@@ -41,7 +41,9 @@ markerFolder: ./Malampa/
 
 ## Confidential Links & Embeds: 
 
-### [Malampa](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.md) 
+### [Malampa](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.md) 
+
+### [Malampa.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.public.md) 
 
 ### [Malampa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Malampa/
 
 ### [Malampa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.personal.md) 
 
-### [Malampa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.secret.md) 
+### [Malampa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.secret.md)
+

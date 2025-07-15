@@ -47,3 +47,22 @@ Commons_category: Mercantilism
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mercantilism](/_Standards/bio/Society/Ideology/Economic_Ideology/Mercantilism.md) 
+
+### [Mercantilism.public](/_public/bio/Society/Ideology/Economic_Ideology/Mercantilism.public.md) 
+
+### [Mercantilism.internal](/_internal/bio/Society/Ideology/Economic_Ideology/Mercantilism.internal.md) 
+
+### [Mercantilism.protect](/_protect/bio/Society/Ideology/Economic_Ideology/Mercantilism.protect.md) 
+
+### [Mercantilism.private](/_private/bio/Society/Ideology/Economic_Ideology/Mercantilism.private.md) 
+
+### [Mercantilism.personal](/_personal/bio/Society/Ideology/Economic_Ideology/Mercantilism.personal.md) 
+
+### [Mercantilism.secret](/_secret/bio/Society/Ideology/Economic_Ideology/Mercantilism.secret.md)
+

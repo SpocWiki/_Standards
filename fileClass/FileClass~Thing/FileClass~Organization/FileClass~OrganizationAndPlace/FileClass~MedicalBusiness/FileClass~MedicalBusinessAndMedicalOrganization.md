@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,7 +63,9 @@ MedicalSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Cardi
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.md) 
+### [FileClass~MedicalBusinessAndMedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.md) 
+
+### [FileClass~MedicalBusinessAndMedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.public.md) 
 
 ### [FileClass~MedicalBusinessAndMedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.internal.md) 
 
@@ -73,4 +75,5 @@ MedicalSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Cardi
 
 ### [FileClass~MedicalBusinessAndMedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.personal.md) 
 
-### [FileClass~MedicalBusinessAndMedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.secret.md) 
+### [FileClass~MedicalBusinessAndMedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization.secret.md)
+

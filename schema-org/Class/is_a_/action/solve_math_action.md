@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The action that takes in a math expression and directs users to a page potential
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, eduQuestionType, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [solve_math_action](/_public/schema-org/Class/is_a_/action/solve_math_action.md) 
+### [solve_math_action](/_Standards/schema-org/Class/is_a_/action/solve_math_action.md) 
+
+### [solve_math_action.public](/_public/schema-org/Class/is_a_/action/solve_math_action.public.md) 
 
 ### [solve_math_action.internal](/_internal/schema-org/Class/is_a_/action/solve_math_action.internal.md) 
 
@@ -56,4 +59,5 @@ The action that takes in a math expression and directs users to a page potential
 
 ### [solve_math_action.personal](/_personal/schema-org/Class/is_a_/action/solve_math_action.personal.md) 
 
-### [solve_math_action.secret](/_secret/schema-org/Class/is_a_/action/solve_math_action.secret.md) 
+### [solve_math_action.secret](/_secret/schema-org/Class/is_a_/action/solve_math_action.secret.md)
+

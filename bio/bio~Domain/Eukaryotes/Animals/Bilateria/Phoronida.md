@@ -86,3 +86,22 @@ Copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 	-   *Phoronopsis californica*
 	-   *Phoronopsis viridis*
 	-   *Phoronopsis malakhovi*
+
+
+
+## Confidential Links & Embeds: 
+
+### [Phoronida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.md) 
+
+### [Phoronida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.public.md) 
+
+### [Phoronida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.internal.md) 
+
+### [Phoronida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.protect.md) 
+
+### [Phoronida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.private.md) 
+
+### [Phoronida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.personal.md) 
+
+### [Phoronida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Phoronida.secret.md)
+

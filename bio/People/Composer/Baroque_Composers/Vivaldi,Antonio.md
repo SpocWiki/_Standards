@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Antonio Vivaldi"
 - "Antonio Lucio Vivaldi"
@@ -146,4 +146,23 @@ date_of_birth: "1678-03-04"
 > His music remains widely popular in the present day and is regularly played all over the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antonio%20Vivaldi)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Vivaldi,Antonio](/_Standards/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.md) 
+
+### [Vivaldi,Antonio.public](/_public/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.public.md) 
+
+### [Vivaldi,Antonio.internal](/_internal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.internal.md) 
+
+### [Vivaldi,Antonio.protect](/_protect/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.protect.md) 
+
+### [Vivaldi,Antonio.private](/_private/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.private.md) 
+
+### [Vivaldi,Antonio.personal](/_personal/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.personal.md) 
+
+### [Vivaldi,Antonio.secret](/_secret/bio/People/Composer/Baroque_Composers/Vivaldi,Antonio.secret.md)
 

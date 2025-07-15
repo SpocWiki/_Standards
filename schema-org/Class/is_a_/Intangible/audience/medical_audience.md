@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Target audiences for medical web pages.
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [medical_audience](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience.md) 
+### [medical_audience](/_Standards/schema-org/Class/is_a_/Intangible/audience/medical_audience.md) 
+
+### [medical_audience.public](/_public/schema-org/Class/is_a_/Intangible/audience/medical_audience.public.md) 
 
 ### [medical_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/medical_audience.internal.md) 
 
@@ -56,4 +59,5 @@ Target audiences for medical web pages.
 
 ### [medical_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/medical_audience.personal.md) 
 
-### [medical_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience.secret.md) 
+### [medical_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/medical_audience.secret.md)
+

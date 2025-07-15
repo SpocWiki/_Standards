@@ -150,6 +150,12 @@ demonym:
 - Uranano
 ---
 
+# [[Uranus]] 
+
+#is_/same_as :: [[../../WikiData/WD~Uranus,324]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Uranus,79999]] 
+#is_/different_from :: [[_Standards/WikiData/WD~Uranus,15614740]] 
+
 ## #has_/text_of_/abstract 
 
 > **Uranus** is the seventh planet from the Sun. It is a gaseous cyan-coloured ice giant. Most of the planet is made of water, ammonia, and methane in a supercritical phase of matter, which astronomy calls "ice" or volatiles. The planet's atmosphere has a complex layered cloud structure and has the lowest minimum temperature (49 K (−224 °C; −371 °F)) of all the Solar System's planets. It has a marked axial tilt of 82.23°  with a retrograde rotation period of 17 hours and 14 minutes. This means that in an 84-Earth-year orbital period around the Sun, its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness.
@@ -162,4 +168,20 @@ demonym:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uranus)
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Uranus](/_Standards/Astronomy/Solar_System/Uranus.md) 
+
+### #is_/same_as :: [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
+
+### #is_/same_as :: [Uranus.internal](/_internal/Astronomy/Solar_System/Uranus.internal.md) 
+
+### #is_/same_as :: [Uranus.protect](/_protect/Astronomy/Solar_System/Uranus.protect.md) 
+
+### #is_/same_as :: [Uranus.private](/_private/Astronomy/Solar_System/Uranus.private.md) 
+
+### #is_/same_as :: [Uranus.personal](/_personal/Astronomy/Solar_System/Uranus.personal.md) 
+
+### #is_/same_as :: [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
 

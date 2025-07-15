@@ -249,10 +249,11 @@ Capital :: [[Tórshavn]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Faroe%20Islands) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Faroe~Islands](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.md) 
+### [Faroe~Islands](/_Standards/Earth/Continent/Europe/Europe~North/Faroe~Islands.md) 
+
+### [Faroe~Islands.public](/_public/Earth/Continent/Europe/Europe~North/Faroe~Islands.public.md) 
 
 ### [Faroe~Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/Faroe~Islands.internal.md) 
 
@@ -262,4 +263,5 @@ Capital :: [[Tórshavn]]
 
 ### [Faroe~Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/Faroe~Islands.personal.md) 
 
-### [Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md) 
+### [Faroe~Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/Faroe~Islands.secret.md)
+

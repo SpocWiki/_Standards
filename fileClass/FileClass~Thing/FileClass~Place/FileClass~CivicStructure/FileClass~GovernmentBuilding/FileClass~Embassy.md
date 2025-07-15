@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,10 +33,11 @@ An embassy.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Embassy](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.md) 
+### [FileClass~Embassy](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.md) 
+
+### [FileClass~Embassy.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.public.md) 
 
 ### [FileClass~Embassy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.internal.md) 
 
@@ -46,4 +47,5 @@ An embassy.
 
 ### [FileClass~Embassy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.personal.md) 
 
-### [FileClass~Embassy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.secret.md) 
+### [FileClass~Embassy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~Embassy.secret.md)
+

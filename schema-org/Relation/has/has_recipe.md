@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,9 +40,12 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_recipe](/_public/schema-org/Relation/has/has_recipe.md) 
+### [has_recipe](/_Standards/schema-org/Relation/has/has_recipe.md) 
+
+### [has_recipe.public](/_public/schema-org/Relation/has/has_recipe.public.md) 
 
 ### [has_recipe.internal](/_internal/schema-org/Relation/has/has_recipe.internal.md) 
 
@@ -52,4 +55,5 @@ Relation describes that:
 
 ### [has_recipe.personal](/_personal/schema-org/Relation/has/has_recipe.personal.md) 
 
-### [has_recipe.secret](/_secret/schema-org/Relation/has/has_recipe.secret.md) 
+### [has_recipe.secret](/_secret/schema-org/Relation/has/has_recipe.secret.md)
+

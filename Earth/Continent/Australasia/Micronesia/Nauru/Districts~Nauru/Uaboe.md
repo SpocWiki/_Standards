@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -0.51 , 166.93 ] 
 type: geo-Region
 title: Uaboe
@@ -41,7 +41,9 @@ markerFolder: ./Uaboe/
 
 ## Confidential Links & Embeds: 
 
-### [Uaboe](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.md) 
+### [Uaboe](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.md) 
+
+### [Uaboe.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.public.md) 
 
 ### [Uaboe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.internal.md) 
 
@@ -51,4 +53,5 @@ markerFolder: ./Uaboe/
 
 ### [Uaboe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.personal.md) 
 
-### [Uaboe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.secret.md) 
+### [Uaboe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.secret.md)
+

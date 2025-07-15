@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 100
 mapWithTag: true
 icon: text-cursor-input
@@ -27,7 +27,9 @@ has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_typ
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Property](/_public/fileClass/FileClass~Property.md) 
+### [FileClass~Property](/_Standards/fileClass/FileClass~Property.md) 
+
+### [FileClass~Property.public](/_public/fileClass/FileClass~Property.public.md) 
 
 ### [FileClass~Property.internal](/_internal/fileClass/FileClass~Property.internal.md) 
 
@@ -37,4 +39,5 @@ has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_typ
 
 ### [FileClass~Property.personal](/_personal/fileClass/FileClass~Property.personal.md) 
 
-### [FileClass~Property.secret](/_secret/fileClass/FileClass~Property.secret.md) 
+### [FileClass~Property.secret](/_secret/fileClass/FileClass~Property.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ A class of medical drugs, e.g., statins. Classes can represent general pharmacol
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [drug_class](/_public/schema-org/Class/is_a_/medical_entity/drug_class.md) 
+### [drug_class](/_Standards/schema-org/Class/is_a_/medical_entity/drug_class.md) 
+
+### [drug_class.public](/_public/schema-org/Class/is_a_/medical_entity/drug_class.public.md) 
 
 ### [drug_class.internal](/_internal/schema-org/Class/is_a_/medical_entity/drug_class.internal.md) 
 
@@ -54,4 +57,5 @@ A class of medical drugs, e.g., statins. Classes can represent general pharmacol
 
 ### [drug_class.personal](/_personal/schema-org/Class/is_a_/medical_entity/drug_class.personal.md) 
 
-### [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md) 
+### [drug_class.secret](/_secret/schema-org/Class/is_a_/medical_entity/drug_class.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,9 +45,12 @@ Formal Predicate:
 
 Is [sub_property_of::performTime]
 
+
 ## Confidential Links & Embeds: 
 
-### [has_duration_of_cooking](/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.md) 
+### [has_duration_of_cooking](/_Standards/schema-org/Property/has_duration_of/has_duration_of_cooking.md) 
+
+### [has_duration_of_cooking.public](/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.public.md) 
 
 ### [has_duration_of_cooking.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_cooking.internal.md) 
 
@@ -57,4 +60,5 @@ Is [sub_property_of::performTime]
 
 ### [has_duration_of_cooking.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_cooking.personal.md) 
 
-### [has_duration_of_cooking.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_cooking.secret.md) 
+### [has_duration_of_cooking.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_cooking.secret.md)
+

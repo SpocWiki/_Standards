@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ A specific branch of medical science that deals with the evaluation and initial 
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [emergency](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.md) 
+### [emergency](/_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.md) 
+
+### [emergency.public](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.public.md) 
 
 ### [emergency.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.internal.md) 
 
@@ -56,4 +59,5 @@ A specific branch of medical science that deals with the evaluation and initial 
 
 ### [emergency.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.personal.md) 
 
-### [emergency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.secret.md) 
+### [emergency.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/emergency.secret.md)
+

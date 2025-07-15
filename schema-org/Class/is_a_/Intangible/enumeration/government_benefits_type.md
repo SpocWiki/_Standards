@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,9 +42,12 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [government_benefits_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.md) 
+### [government_benefits_type](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.md) 
+
+### [government_benefits_type.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.public.md) 
 
 ### [government_benefits_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.internal.md) 
 
@@ -54,4 +57,5 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 
 ### [government_benefits_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.personal.md) 
 
-### [government_benefits_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.secret.md) 
+### [government_benefits_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/government_benefits_type.secret.md)
+

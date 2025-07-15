@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9368
 TA98_Latin_term: hepar
 Commons_gallery: Liver
@@ -55,4 +55,23 @@ UMLS_CUI: C0023884
 > It is not known how to compensate for the absence of liver function in the long term, although liver dialysis techniques can be used in the short term. Artificial livers have not been developed to promote long-term replacement in the absence of the liver. As of 2018, liver transplantation is the only option for complete liver failure.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liver)
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Liver](/_Standards/bio/Medicine/Anatomy/Liver.md) 
+
+### [Liver.public](/_public/bio/Medicine/Anatomy/Liver.public.md) 
+
+### [Liver.internal](/_internal/bio/Medicine/Anatomy/Liver.internal.md) 
+
+### [Liver.protect](/_protect/bio/Medicine/Anatomy/Liver.protect.md) 
+
+### [Liver.private](/_private/bio/Medicine/Anatomy/Liver.private.md) 
+
+### [Liver.personal](/_personal/bio/Medicine/Anatomy/Liver.personal.md) 
+
+### [Liver.secret](/_secret/bio/Medicine/Anatomy/Liver.secret.md)
 

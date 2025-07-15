@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ The act of consuming written content.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~ReadAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.md) 
+### [FileClass~ReadAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.md) 
+
+### [FileClass~ReadAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.public.md) 
 
 ### [FileClass~ReadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.internal.md) 
 
@@ -46,4 +47,5 @@ The act of consuming written content.
 
 ### [FileClass~ReadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.personal.md) 
 
-### [FileClass~ReadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.secret.md) 
+### [FileClass~ReadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~ReadAction.secret.md)
+

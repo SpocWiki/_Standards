@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scientific%20writing) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Scientific_Writing](/_Standards/bio/People/Writer/Scientific_Writing.md) 
+
+### [Scientific_Writing.public](/_public/bio/People/Writer/Scientific_Writing.public.md) 
+
+### [Scientific_Writing.internal](/_internal/bio/People/Writer/Scientific_Writing.internal.md) 
+
+### [Scientific_Writing.protect](/_protect/bio/People/Writer/Scientific_Writing.protect.md) 
+
+### [Scientific_Writing.private](/_private/bio/People/Writer/Scientific_Writing.private.md) 
+
+### [Scientific_Writing.personal](/_personal/bio/People/Writer/Scientific_Writing.personal.md) 
+
+### [Scientific_Writing.secret](/_secret/bio/People/Writer/Scientific_Writing.secret.md)
+

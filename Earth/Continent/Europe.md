@@ -148,7 +148,9 @@ markerFolder: ./Europe/City/
 
 ## Confidential Links & Embeds: 
 
-### [Europe](/_public/Earth/Continent/Europe.md) 
+### [Europe](/_Standards/Earth/Continent/Europe.md) 
+
+### [Europe.public](/_public/Earth/Continent/Europe.public.md) 
 
 ### [Europe.internal](/_internal/Earth/Continent/Europe.internal.md) 
 
@@ -158,4 +160,5 @@ markerFolder: ./Europe/City/
 
 ### [Europe.personal](/_personal/Earth/Continent/Europe.personal.md) 
 
-### [Europe.secret](/_secret/Earth/Continent/Europe.secret.md) 
+### [Europe.secret](/_secret/Earth/Continent/Europe.secret.md)
+

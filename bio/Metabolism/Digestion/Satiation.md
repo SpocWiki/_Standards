@@ -33,3 +33,22 @@ Linsen, Gemüse
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Satiation](/_Standards/bio/Metabolism/Digestion/Satiation.md) 
+
+### [Satiation.public](/_public/bio/Metabolism/Digestion/Satiation.public.md) 
+
+### [Satiation.internal](/_internal/bio/Metabolism/Digestion/Satiation.internal.md) 
+
+### [Satiation.protect](/_protect/bio/Metabolism/Digestion/Satiation.protect.md) 
+
+### [Satiation.private](/_private/bio/Metabolism/Digestion/Satiation.private.md) 
+
+### [Satiation.personal](/_personal/bio/Metabolism/Digestion/Satiation.personal.md) 
+
+### [Satiation.secret](/_secret/bio/Metabolism/Digestion/Satiation.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Physical activity that is engaged to help maintain posture and balance.
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [balance](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.md) 
+### [balance](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.md) 
+
+### [balance.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.public.md) 
 
 ### [balance.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.internal.md) 
 
@@ -56,4 +59,5 @@ Physical activity that is engaged to help maintain posture and balance.
 
 ### [balance.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.personal.md) 
 
-### [balance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.secret.md) 
+### [balance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.secret.md)
+

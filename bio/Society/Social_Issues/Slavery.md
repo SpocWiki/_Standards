@@ -62,3 +62,21 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20medallion%
 > The Islamic Republic of Mauritania was the last country in the world to officially ban slavery, in 1981,  with legal prosecution of slaveholders established in 2007. However, in 2019, approximately 40 million people, of whom 26% were children, were still enslaved throughout the world despite slavery being illegal. In the modern world, more than 50% of slaves provide forced labour, usually in the factories and sweatshops of the private sector of a country's economy. In industrialised countries, human trafficking is a modern variety of slavery; in non-industrialised countries, people in debt bondage are common, others include captive domestic servants, people in forced marriages, and child soldiers.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slavery)
+
+
+## Confidential Links & Embeds: 
+
+### [Slavery](/_Standards/bio/Society/Social_Issues/Slavery.md) 
+
+### [Slavery.public](/_public/bio/Society/Social_Issues/Slavery.public.md) 
+
+### [Slavery.internal](/_internal/bio/Society/Social_Issues/Slavery.internal.md) 
+
+### [Slavery.protect](/_protect/bio/Society/Social_Issues/Slavery.protect.md) 
+
+### [Slavery.private](/_private/bio/Society/Social_Issues/Slavery.private.md) 
+
+### [Slavery.personal](/_personal/bio/Society/Social_Issues/Slavery.personal.md) 
+
+### [Slavery.secret](/_secret/bio/Society/Social_Issues/Slavery.secret.md)
+

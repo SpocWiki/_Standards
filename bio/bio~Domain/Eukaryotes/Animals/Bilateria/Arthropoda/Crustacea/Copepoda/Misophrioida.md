@@ -38,3 +38,22 @@ title: Misophrioida
 
 -   » Sub-Groups 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Misophrioida](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.md) 
+
+### [Misophrioida.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.public.md) 
+
+### [Misophrioida.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.internal.md) 
+
+### [Misophrioida.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.protect.md) 
+
+### [Misophrioida.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.private.md) 
+
+### [Misophrioida.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.personal.md) 
+
+### [Misophrioida.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Copepoda/Misophrioida.secret.md)
+

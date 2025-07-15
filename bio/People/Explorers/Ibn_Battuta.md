@@ -19,3 +19,22 @@ has_id_wikidata: Q7331
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Battuta)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Ibn_Battuta](/_Standards/bio/People/Explorers/Ibn_Battuta.md) 
+
+### [Ibn_Battuta.public](/_public/bio/People/Explorers/Ibn_Battuta.public.md) 
+
+### [Ibn_Battuta.internal](/_internal/bio/People/Explorers/Ibn_Battuta.internal.md) 
+
+### [Ibn_Battuta.protect](/_protect/bio/People/Explorers/Ibn_Battuta.protect.md) 
+
+### [Ibn_Battuta.private](/_private/bio/People/Explorers/Ibn_Battuta.private.md) 
+
+### [Ibn_Battuta.personal](/_personal/bio/People/Explorers/Ibn_Battuta.personal.md) 
+
+### [Ibn_Battuta.secret](/_secret/bio/People/Explorers/Ibn_Battuta.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 database_plugin: basic
 ---
 
@@ -551,9 +551,12 @@ filters:
   conditions:
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### [_ElementDB](/_public/chemic/chemic~Elements/_ElementDB.md) 
+### [_ElementDB](/_Standards/chemic/chemic~Elements/_ElementDB.md) 
+
+### [_ElementDB.public](/_public/chemic/chemic~Elements/_ElementDB.public.md) 
 
 ### [_ElementDB.internal](/_internal/chemic/chemic~Elements/_ElementDB.internal.md) 
 
@@ -563,4 +566,5 @@ filters:
 
 ### [_ElementDB.personal](/_personal/chemic/chemic~Elements/_ElementDB.personal.md) 
 
-### [_ElementDB.secret](/_secret/chemic/chemic~Elements/_ElementDB.secret.md) 
+### [_ElementDB.secret](/_secret/chemic/chemic~Elements/_ElementDB.secret.md)
+

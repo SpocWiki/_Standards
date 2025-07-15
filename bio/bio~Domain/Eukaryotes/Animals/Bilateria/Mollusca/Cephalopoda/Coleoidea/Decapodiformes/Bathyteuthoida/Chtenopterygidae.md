@@ -227,3 +227,21 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
   Reference         modified from Okutani, T. 1974. Epipelagic decapod cephalopods collected by micronekton tows during the EASTROPAC expeditions, 1967-1968 (systematic part). Bull. Tokai Reg. Fish. Res. Lab. 80:29-118.
   View              lateral
   -------------------------------------------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Chtenopterygidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.md) 
+
+### [Chtenopterygidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.public.md) 
+
+### [Chtenopterygidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.internal.md) 
+
+### [Chtenopterygidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.protect.md) 
+
+### [Chtenopterygidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.private.md) 
+
+### [Chtenopterygidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.personal.md) 
+
+### [Chtenopterygidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Bathyteuthoida/Chtenopterygidae.secret.md)
+

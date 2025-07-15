@@ -161,3 +161,22 @@ Copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 Scientific Name ::  Bolitaena pygmaea
 Reference         modified from Chun, 1910
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bolitaena_pygmaea](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.md) 
+
+### [Bolitaena_pygmaea.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.public.md) 
+
+### [Bolitaena_pygmaea.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.internal.md) 
+
+### [Bolitaena_pygmaea.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.protect.md) 
+
+### [Bolitaena_pygmaea.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.private.md) 
+
+### [Bolitaena_pygmaea.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.personal.md) 
+
+### [Bolitaena_pygmaea.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.secret.md)
+

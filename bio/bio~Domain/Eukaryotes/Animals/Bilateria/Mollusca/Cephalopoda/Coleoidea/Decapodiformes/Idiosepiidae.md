@@ -147,3 +147,21 @@ Nat. Mus., 234: 1-180.
   View              Dorsal and ventral
   Size              18 mm ML
   ---------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Idiosepiidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.md) 
+
+### [Idiosepiidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.public.md) 
+
+### [Idiosepiidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.internal.md) 
+
+### [Idiosepiidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.protect.md) 
+
+### [Idiosepiidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.private.md) 
+
+### [Idiosepiidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.personal.md) 
+
+### [Idiosepiidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Idiosepiidae.secret.md)
+

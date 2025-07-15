@@ -56,3 +56,19 @@ Commons_category: Taxes
 > [Wikipedia](https://en.wikipedia.org/wiki/Tax)
 
 
+## Confidential Links & Embeds: 
+
+### [Tax](/_Standards/Economics/Tax.md) 
+
+### [Tax.public](/_public/Economics/Tax.public.md) 
+
+### [Tax.internal](/_internal/Economics/Tax.internal.md) 
+
+### [Tax.protect](/_protect/Economics/Tax.protect.md) 
+
+### [Tax.private](/_private/Economics/Tax.private.md) 
+
+### [Tax.personal](/_personal/Economics/Tax.personal.md) 
+
+### [Tax.secret](/_secret/Economics/Tax.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ SoundtrackAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [soundtrack_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.md) 
+### [soundtrack_album](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.md) 
+
+### [soundtrack_album.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.public.md) 
 
 ### [soundtrack_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.internal.md) 
 
@@ -56,4 +59,5 @@ SoundtrackAlbum.
 
 ### [soundtrack_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.personal.md) 
 
-### [soundtrack_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.secret.md) 
+### [soundtrack_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.secret.md)
+

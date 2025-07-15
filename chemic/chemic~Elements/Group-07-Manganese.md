@@ -1,4 +1,4 @@
-﻿---
+---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -15,10 +15,11 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%207%20element)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Group-07-Manganese](/_public/chemic/chemic~Elements/Group-07-Manganese.md) 
+### [Group-07-Manganese](/_Standards/chemic/chemic~Elements/Group-07-Manganese.md) 
+
+### [Group-07-Manganese.public](/_public/chemic/chemic~Elements/Group-07-Manganese.public.md) 
 
 ### [Group-07-Manganese.internal](/_internal/chemic/chemic~Elements/Group-07-Manganese.internal.md) 
 
@@ -28,4 +29,5 @@ type: ElementGroup
 
 ### [Group-07-Manganese.personal](/_personal/chemic/chemic~Elements/Group-07-Manganese.personal.md) 
 
-### [Group-07-Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese.secret.md) 
+### [Group-07-Manganese.secret](/_secret/chemic/chemic~Elements/Group-07-Manganese.secret.md)
+

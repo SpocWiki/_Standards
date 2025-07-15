@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.153 , 117.754 ] 
 type: geo-Region
 title: Scarborough_Reef
@@ -62,7 +62,9 @@ markerFolder: ./Scarborough_Reef/
 
 ## Confidential Links & Embeds: 
 
-### [Scarborough_Reef](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.md) 
+### [Scarborough_Reef](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.md) 
+
+### [Scarborough_Reef.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public.md) 
 
 ### [Scarborough_Reef.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal.md) 
 
@@ -72,4 +74,5 @@ markerFolder: ./Scarborough_Reef/
 
 ### [Scarborough_Reef.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal.md) 
 
-### [Scarborough_Reef.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret.md) 
+### [Scarborough_Reef.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret.md)
+

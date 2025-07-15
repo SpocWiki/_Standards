@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -32,9 +32,12 @@ aliases:
 
 {{Definition}}.
 
+
 ## Confidential Links & Embeds: 
 
-### [_Units-Template](/_public/gs1/_Units-Template.md) 
+### [_Units-Template](/_Standards/gs1/_Units-Template.md) 
+
+### [_Units-Template.public](/_public/gs1/_Units-Template.public.md) 
 
 ### [_Units-Template.internal](/_internal/gs1/_Units-Template.internal.md) 
 
@@ -44,4 +47,5 @@ aliases:
 
 ### [_Units-Template.personal](/_personal/gs1/_Units-Template.personal.md) 
 
-### [_Units-Template.secret](/_secret/gs1/_Units-Template.secret.md) 
+### [_Units-Template.secret](/_secret/gs1/_Units-Template.secret.md)
+

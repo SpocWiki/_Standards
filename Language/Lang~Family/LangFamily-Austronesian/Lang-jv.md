@@ -1,4 +1,4 @@
-﻿---
+---
 type: Lang
 aliases:
 - Javanese
@@ -36,7 +36,9 @@ tags:
 
 ## Confidential Links & Embeds: 
 
-### [Lang-jv](/_public/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.md) 
+### [Lang-jv](/_Standards/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.md) 
+
+### [Lang-jv.public](/_public/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.public.md) 
 
 ### [Lang-jv.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.internal.md) 
 
@@ -46,4 +48,5 @@ tags:
 
 ### [Lang-jv.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.personal.md) 
 
-### [Lang-jv.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.secret.md) 
+### [Lang-jv.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian/Lang-jv.secret.md)
+

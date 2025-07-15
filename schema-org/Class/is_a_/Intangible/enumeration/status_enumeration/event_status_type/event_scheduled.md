@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [event_scheduled](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md) 
+### [event_scheduled](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md) 
+
+### [event_scheduled.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.public.md) 
 
 ### [event_scheduled.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal.md) 
 
@@ -56,4 +59,5 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 
 ### [event_scheduled.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.personal.md) 
 
-### [event_scheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret.md) 
+### [event_scheduled.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret.md)
+

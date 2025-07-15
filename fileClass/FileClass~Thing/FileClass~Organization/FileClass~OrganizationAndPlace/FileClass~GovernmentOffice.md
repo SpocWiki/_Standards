@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,10 +33,11 @@ A government office—for example, an IRS or DMV office.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~GovernmentOffice](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.md) 
+### [FileClass~GovernmentOffice](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.md) 
+
+### [FileClass~GovernmentOffice.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.public.md) 
 
 ### [FileClass~GovernmentOffice.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.internal.md) 
 
@@ -46,4 +47,5 @@ A government office—for example, an IRS or DMV office.
 
 ### [FileClass~GovernmentOffice.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.personal.md) 
 
-### [FileClass~GovernmentOffice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.secret.md) 
+### [FileClass~GovernmentOffice.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice.secret.md)
+

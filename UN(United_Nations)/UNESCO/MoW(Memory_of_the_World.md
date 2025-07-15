@@ -44,3 +44,19 @@ Love Bombing
 ### anxious 
 
 
+## Confidential Links & Embeds: 
+
+### [MoW(Memory_of_the_World](/_Standards/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.md) 
+
+### [MoW(Memory_of_the_World.public](/_public/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.public.md) 
+
+### [MoW(Memory_of_the_World.internal](/_internal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.internal.md) 
+
+### [MoW(Memory_of_the_World.protect](/_protect/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.protect.md) 
+
+### [MoW(Memory_of_the_World.private](/_private/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.private.md) 
+
+### [MoW(Memory_of_the_World.personal](/_personal/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.personal.md) 
+
+### [MoW(Memory_of_the_World.secret](/_secret/UN(United_Nations)/UNESCO/MoW(Memory_of_the_World.secret.md)
+

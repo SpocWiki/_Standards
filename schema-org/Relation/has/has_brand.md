@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -38,9 +38,12 @@ Relation describes that:
 ( #has_/name :: has_brand )
 ( #has_/range :: Brand, Organization )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_brand](/_public/schema-org/Relation/has/has_brand.md) 
+### [has_brand](/_Standards/schema-org/Relation/has/has_brand.md) 
+
+### [has_brand.public](/_public/schema-org/Relation/has/has_brand.public.md) 
 
 ### [has_brand.internal](/_internal/schema-org/Relation/has/has_brand.internal.md) 
 
@@ -50,4 +53,5 @@ Relation describes that:
 
 ### [has_brand.personal](/_personal/schema-org/Relation/has/has_brand.personal.md) 
 
-### [has_brand.secret](/_secret/schema-org/Relation/has/has_brand.secret.md) 
+### [has_brand.secret](/_secret/schema-org/Relation/has/has_brand.secret.md)
+

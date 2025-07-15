@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Kanji Script
 ---
@@ -15,7 +15,9 @@ Kanji Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### [Script~Jpan](/_public/Language/Scripts/Script~Jpan.md) 
+### [Script~Jpan](/_Standards/Language/Scripts/Script~Jpan.md) 
+
+### [Script~Jpan.public](/_public/Language/Scripts/Script~Jpan.public.md) 
 
 ### [Script~Jpan.internal](/_internal/Language/Scripts/Script~Jpan.internal.md) 
 
@@ -25,4 +27,5 @@ Kanji Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ### [Script~Jpan.personal](/_personal/Language/Scripts/Script~Jpan.personal.md) 
 
-### [Script~Jpan.secret](/_secret/Language/Scripts/Script~Jpan.secret.md) 
+### [Script~Jpan.secret](/_secret/Language/Scripts/Script~Jpan.secret.md)
+

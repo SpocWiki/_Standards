@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_arrival_airport )
 ( #has_/range :: Airport )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_arrival_airport](/_public/schema-org/Relation/has/has_arrival_airport.md) 
+### [has_arrival_airport](/_Standards/schema-org/Relation/has/has_arrival_airport.md) 
+
+### [has_arrival_airport.public](/_public/schema-org/Relation/has/has_arrival_airport.public.md) 
 
 ### [has_arrival_airport.internal](/_internal/schema-org/Relation/has/has_arrival_airport.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_arrival_airport.personal](/_personal/schema-org/Relation/has/has_arrival_airport.personal.md) 
 
-### [has_arrival_airport.secret](/_secret/schema-org/Relation/has/has_arrival_airport.secret.md) 
+### [has_arrival_airport.secret](/_secret/schema-org/Relation/has/has_arrival_airport.secret.md)
+

@@ -14,3 +14,22 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Individual_Sport](/_Standards/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.md) 
+
+### [Individual_Sport.public](/_public/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.public.md) 
+
+### [Individual_Sport.internal](/_internal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.internal.md) 
+
+### [Individual_Sport.protect](/_protect/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.protect.md) 
+
+### [Individual_Sport.private](/_private/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.private.md) 
+
+### [Individual_Sport.personal](/_personal/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.personal.md) 
+
+### [Individual_Sport.secret](/_secret/bio/Society/Communication/Performing_Arts/Sport/Individual_Sport.secret.md)
+

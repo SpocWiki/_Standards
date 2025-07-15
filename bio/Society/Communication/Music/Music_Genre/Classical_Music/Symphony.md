@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q9734
 instance_of:
 - "[[_Standards/WikiData/WD~music_genre,188451]]"
@@ -35,4 +35,23 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/SIMFONIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Symphony) 
 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### [Symphony](/_Standards/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.md) 
+
+### [Symphony.public](/_public/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.public.md) 
+
+### [Symphony.internal](/_internal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.internal.md) 
+
+### [Symphony.protect](/_protect/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.protect.md) 
+
+### [Symphony.private](/_private/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.private.md) 
+
+### [Symphony.personal](/_personal/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.personal.md) 
+
+### [Symphony.secret](/_secret/bio/Society/Communication/Music/Music_Genre/Classical_Music/Symphony.secret.md)
 

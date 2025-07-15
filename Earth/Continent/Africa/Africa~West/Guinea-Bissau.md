@@ -407,9 +407,12 @@ Capital :: [[Bissau]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Guinea-Bissau)
 
+
 ## Confidential Links & Embeds: 
 
-### [Guinea-Bissau](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau.md) 
+### [Guinea-Bissau](/_Standards/Earth/Continent/Africa/Africa~West/Guinea-Bissau.md) 
+
+### [Guinea-Bissau.public](/_public/Earth/Continent/Africa/Africa~West/Guinea-Bissau.public.md) 
 
 ### [Guinea-Bissau.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.internal.md) 
 
@@ -419,4 +422,5 @@ Capital :: [[Bissau]]
 
 ### [Guinea-Bissau.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal.md) 
 
-### [Guinea-Bissau.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret.md) 
+### [Guinea-Bissau.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_audio )
 ( #has_/range :: AudioObject, Clip, MusicRecording )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_audio](/_public/schema-org/Relation/has/has_audio.md) 
+### [has_audio](/_Standards/schema-org/Relation/has/has_audio.md) 
+
+### [has_audio.public](/_public/schema-org/Relation/has/has_audio.public.md) 
 
 ### [has_audio.internal](/_internal/schema-org/Relation/has/has_audio.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_audio.personal](/_personal/schema-org/Relation/has/has_audio.personal.md) 
 
-### [has_audio.secret](/_secret/schema-org/Relation/has/has_audio.secret.md) 
+### [has_audio.secret](/_secret/schema-org/Relation/has/has_audio.secret.md)
+

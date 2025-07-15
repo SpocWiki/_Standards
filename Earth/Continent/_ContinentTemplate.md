@@ -1,4 +1,4 @@
-﻿---
+---
 type: Continent
 license: CC BY-SA 4.0
 publish: true
@@ -29,7 +29,9 @@ markerFolder: ./{{EnglishName}}/
 
 ## Confidential Links & Embeds: 
 
-### [_ContinentTemplate](/_public/Earth/Continent/_ContinentTemplate.md) 
+### [_ContinentTemplate](/_Standards/Earth/Continent/_ContinentTemplate.md) 
+
+### [_ContinentTemplate.public](/_public/Earth/Continent/_ContinentTemplate.public.md) 
 
 ### [_ContinentTemplate.internal](/_internal/Earth/Continent/_ContinentTemplate.internal.md) 
 
@@ -39,4 +41,5 @@ markerFolder: ./{{EnglishName}}/
 
 ### [_ContinentTemplate.personal](/_personal/Earth/Continent/_ContinentTemplate.personal.md) 
 
-### [_ContinentTemplate.secret](/_secret/Earth/Continent/_ContinentTemplate.secret.md) 
+### [_ContinentTemplate.secret](/_secret/Earth/Continent/_ContinentTemplate.secret.md)
+

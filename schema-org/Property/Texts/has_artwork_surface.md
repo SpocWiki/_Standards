@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,9 +46,12 @@ Predicated describes that:
 ( #has_/name :: has_text_of_artwork_surface )
 ( #has_/range :: Text, URL )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_artwork_surface](/_public/schema-org/Property/Texts/has_artwork_surface.md) 
+### [has_artwork_surface](/_Standards/schema-org/Property/Texts/has_artwork_surface.md) 
+
+### [has_artwork_surface.public](/_public/schema-org/Property/Texts/has_artwork_surface.public.md) 
 
 ### [has_artwork_surface.internal](/_internal/schema-org/Property/Texts/has_artwork_surface.internal.md) 
 
@@ -58,4 +61,5 @@ Predicated describes that:
 
 ### [has_artwork_surface.personal](/_personal/schema-org/Property/Texts/has_artwork_surface.personal.md) 
 
-### [has_artwork_surface.secret](/_secret/schema-org/Property/Texts/has_artwork_surface.secret.md) 
+### [has_artwork_surface.secret](/_secret/schema-org/Property/Texts/has_artwork_surface.secret.md)
+

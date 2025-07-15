@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_pregnancy_category )
 ( #has_/range :: DrugPregnancyCategory )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_pregnancy_category](/_public/schema-org/Relation/has/has_pregnancy_category.md) 
+### [has_pregnancy_category](/_Standards/schema-org/Relation/has/has_pregnancy_category.md) 
+
+### [has_pregnancy_category.public](/_public/schema-org/Relation/has/has_pregnancy_category.public.md) 
 
 ### [has_pregnancy_category.internal](/_internal/schema-org/Relation/has/has_pregnancy_category.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_pregnancy_category.personal](/_personal/schema-org/Relation/has/has_pregnancy_category.personal.md) 
 
-### [has_pregnancy_category.secret](/_secret/schema-org/Relation/has/has_pregnancy_category.secret.md) 
+### [has_pregnancy_category.secret](/_secret/schema-org/Relation/has/has_pregnancy_category.secret.md)
+

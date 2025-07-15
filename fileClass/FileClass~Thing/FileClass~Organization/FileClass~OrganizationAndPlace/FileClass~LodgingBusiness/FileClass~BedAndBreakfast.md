@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,10 +37,11 @@ Bed and breakfast.
 ## Properties:
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~BedAndBreakfast](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.md) 
+### [FileClass~BedAndBreakfast](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.md) 
+
+### [FileClass~BedAndBreakfast.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.public.md) 
 
 ### [FileClass~BedAndBreakfast.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.internal.md) 
 
@@ -50,4 +51,5 @@ Bed and breakfast.
 
 ### [FileClass~BedAndBreakfast.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.personal.md) 
 
-### [FileClass~BedAndBreakfast.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.secret.md) 
+### [FileClass~BedAndBreakfast.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~BedAndBreakfast.secret.md)
+

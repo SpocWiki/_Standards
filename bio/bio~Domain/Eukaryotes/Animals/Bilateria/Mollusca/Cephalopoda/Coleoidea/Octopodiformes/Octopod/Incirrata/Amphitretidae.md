@@ -167,3 +167,21 @@ African Jour. Mar. Sci. (in press).
   Specimen Condition   Live Specimen
   Copyright ::            © 2001 [Monterey Bay Aquarium Research Institution](http://www.mbari.org/rd/midwater)
   --------------------------------
+
+
+## Confidential Links & Embeds: 
+
+### [Amphitretidae](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.md) 
+
+### [Amphitretidae.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.public.md) 
+
+### [Amphitretidae.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.internal.md) 
+
+### [Amphitretidae.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.protect.md) 
+
+### [Amphitretidae.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.private.md) 
+
+### [Amphitretidae.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.personal.md) 
+
+### [Amphitretidae.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Amphitretidae.secret.md)
+

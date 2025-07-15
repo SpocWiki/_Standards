@@ -53,3 +53,22 @@ Source Collection    [InsectImages.org](http://www.insectimages.org/)
 Copyright ::            © Bill Cook, Michigan State University
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Larch](/_Standards/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.md) 
+
+### [Larch.public](/_public/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.public.md) 
+
+### [Larch.internal](/_internal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.internal.md) 
+
+### [Larch.protect](/_protect/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.protect.md) 
+
+### [Larch.private](/_private/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.private.md) 
+
+### [Larch.personal](/_personal/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.personal.md) 
+
+### [Larch.secret](/_secret/bio/bio~Domain/Eukaryotes/Plants/Land_Plant/Seed_Plant/Conifers/Pine/Larch.secret.md)
+

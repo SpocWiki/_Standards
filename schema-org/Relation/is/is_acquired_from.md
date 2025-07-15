@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: is_acquired_from )
 ( #has_/range :: Organization, Person )
 
+
 ## Confidential Links & Embeds: 
 
-### [is_acquired_from](/_public/schema-org/Relation/is/is_acquired_from.md) 
+### [is_acquired_from](/_Standards/schema-org/Relation/is/is_acquired_from.md) 
+
+### [is_acquired_from.public](/_public/schema-org/Relation/is/is_acquired_from.public.md) 
 
 ### [is_acquired_from.internal](/_internal/schema-org/Relation/is/is_acquired_from.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [is_acquired_from.personal](/_personal/schema-org/Relation/is/is_acquired_from.personal.md) 
 
-### [is_acquired_from.secret](/_secret/schema-org/Relation/is/is_acquired_from.secret.md) 
+### [is_acquired_from.secret](/_secret/schema-org/Relation/is/is_acquired_from.secret.md)
+

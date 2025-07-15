@@ -92,3 +92,22 @@ Krugosvet_article: filosofiya/makhabkharata
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mahabharata) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Mahabharata](/_Standards/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.md) 
+
+### [Mahabharata.public](/_public/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.public.md) 
+
+### [Mahabharata.internal](/_internal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.internal.md) 
+
+### [Mahabharata.protect](/_protect/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.protect.md) 
+
+### [Mahabharata.private](/_private/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.private.md) 
+
+### [Mahabharata.personal](/_personal/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.personal.md) 
+
+### [Mahabharata.secret](/_secret/bio/Society/Communication/Art/Literature/Literary_Works/Mahabharata.secret.md)
+

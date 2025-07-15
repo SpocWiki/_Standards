@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,9 +41,12 @@ Relation describes that:
 ( #has_/name :: has_cost_category )
 ( #has_/range :: DrugCostCategory )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_cost_category](/_public/schema-org/Relation/has/has_cost_category.md) 
+### [has_cost_category](/_Standards/schema-org/Relation/has/has_cost_category.md) 
+
+### [has_cost_category.public](/_public/schema-org/Relation/has/has_cost_category.public.md) 
 
 ### [has_cost_category.internal](/_internal/schema-org/Relation/has/has_cost_category.internal.md) 
 
@@ -53,4 +56,5 @@ Relation describes that:
 
 ### [has_cost_category.personal](/_personal/schema-org/Relation/has/has_cost_category.personal.md) 
 
-### [has_cost_category.secret](/_secret/schema-org/Relation/has/has_cost_category.secret.md) 
+### [has_cost_category.secret](/_secret/schema-org/Relation/has/has_cost_category.secret.md)
+

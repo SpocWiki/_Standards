@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Predicated describes that:
 ( #has_/name :: is_in_article_section ) 
 ( #has_/range :: [[../../Class/is_a_/data_type/text|Text]] ) 
 
+
 ## Confidential Links & Embeds: 
 
-### [is_in_article_section](/_public/schema-org/Property/Texts/is_in_article_section.md) 
+### [is_in_article_section](/_Standards/schema-org/Property/Texts/is_in_article_section.md) 
+
+### [is_in_article_section.public](/_public/schema-org/Property/Texts/is_in_article_section.public.md) 
 
 ### [is_in_article_section.internal](/_internal/schema-org/Property/Texts/is_in_article_section.internal.md) 
 
@@ -56,4 +59,5 @@ Predicated describes that:
 
 ### [is_in_article_section.personal](/_personal/schema-org/Property/Texts/is_in_article_section.personal.md) 
 
-### [is_in_article_section.secret](/_secret/schema-org/Property/Texts/is_in_article_section.secret.md) 
+### [is_in_article_section.secret](/_secret/schema-org/Property/Texts/is_in_article_section.secret.md)
+

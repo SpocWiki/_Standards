@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,9 +44,12 @@ Available by prescription only.
 
 [ #is_/enum_of :: [[../DrugPrescriptionStatus]] ]
 
+
 ## Confidential Links & Embeds: 
 
-### [prescription_only](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.md) 
+### [prescription_only](/_Standards/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.md) 
+
+### [prescription_only.public](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.public.md) 
 
 ### [prescription_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.internal.md) 
 
@@ -56,4 +59,5 @@ Available by prescription only.
 
 ### [prescription_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.personal.md) 
 
-### [prescription_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.secret.md) 
+### [prescription_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.secret.md)
+

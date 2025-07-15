@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,10 +44,11 @@ In the context of a [[MediaReview]], indicates specific media item(s) that are g
 MediaItemAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~MediaReviewItem](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.md) 
+### [FileClass~MediaReviewItem](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.md) 
+
+### [FileClass~MediaReviewItem.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.public.md) 
 
 ### [FileClass~MediaReviewItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.internal.md) 
 
@@ -57,4 +58,5 @@ MediaItemAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ### [FileClass~MediaReviewItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.personal.md) 
 
-### [FileClass~MediaReviewItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.secret.md) 
+### [FileClass~MediaReviewItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.secret.md)
+

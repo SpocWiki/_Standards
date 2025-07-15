@@ -28,3 +28,22 @@ Unicode_character: 🍬
 > [Wikipedia](https://en.wikipedia.org/wiki/Candy) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Candy](/_Standards/Home_Economics/Cooking/Food/Candy.md) 
+
+### [Candy.public](/_public/Home_Economics/Cooking/Food/Candy.public.md) 
+
+### [Candy.internal](/_internal/Home_Economics/Cooking/Food/Candy.internal.md) 
+
+### [Candy.protect](/_protect/Home_Economics/Cooking/Food/Candy.protect.md) 
+
+### [Candy.private](/_private/Home_Economics/Cooking/Food/Candy.private.md) 
+
+### [Candy.personal](/_personal/Home_Economics/Cooking/Food/Candy.personal.md) 
+
+### [Candy.secret](/_secret/Home_Economics/Cooking/Food/Candy.secret.md)
+

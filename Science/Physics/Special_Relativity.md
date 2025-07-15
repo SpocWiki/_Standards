@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Special relativity"
 has_id_wikidata: Q11455
@@ -39,4 +39,19 @@ has_time_started: 1905-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Special%20relativity)
 
 
+## Confidential Links & Embeds: 
+
+### [Special_Relativity](/_Standards/Science/Physics/Special_Relativity.md) 
+
+### [Special_Relativity.public](/_public/Science/Physics/Special_Relativity.public.md) 
+
+### [Special_Relativity.internal](/_internal/Science/Physics/Special_Relativity.internal.md) 
+
+### [Special_Relativity.protect](/_protect/Science/Physics/Special_Relativity.protect.md) 
+
+### [Special_Relativity.private](/_private/Science/Physics/Special_Relativity.private.md) 
+
+### [Special_Relativity.personal](/_personal/Science/Physics/Special_Relativity.personal.md) 
+
+### [Special_Relativity.secret](/_secret/Science/Physics/Special_Relativity.secret.md)
 

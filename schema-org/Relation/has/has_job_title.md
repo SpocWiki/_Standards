@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,9 +43,12 @@ Relation describes that:
 ( #has_/name :: has_job_title )
 ( #has_/range :: DefinedTerm, Text )
 
+
 ## Confidential Links & Embeds: 
 
-### [has_job_title](/_public/schema-org/Relation/has/has_job_title.md) 
+### [has_job_title](/_Standards/schema-org/Relation/has/has_job_title.md) 
+
+### [has_job_title.public](/_public/schema-org/Relation/has/has_job_title.public.md) 
 
 ### [has_job_title.internal](/_internal/schema-org/Relation/has/has_job_title.internal.md) 
 
@@ -55,4 +58,5 @@ Relation describes that:
 
 ### [has_job_title.personal](/_personal/schema-org/Relation/has/has_job_title.personal.md) 
 
-### [has_job_title.secret](/_secret/schema-org/Relation/has/has_job_title.secret.md) 
+### [has_job_title.secret](/_secret/schema-org/Relation/has/has_job_title.secret.md)
+

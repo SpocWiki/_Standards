@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,10 +63,11 @@ Any description of pages that is not separated into pageStart and pageEnd; for e
 Pagination:: {"type":"Input","options":{}}
 
 
-
 ## Confidential Links & Embeds: 
 
-### [FileClass~Chapter](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.md) 
+### [FileClass~Chapter](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.md) 
+
+### [FileClass~Chapter.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.public.md) 
 
 ### [FileClass~Chapter.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.internal.md) 
 
@@ -76,4 +77,5 @@ Pagination:: {"type":"Input","options":{}}
 
 ### [FileClass~Chapter.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.personal.md) 
 
-### [FileClass~Chapter.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.secret.md) 
+### [FileClass~Chapter.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Chapter.secret.md)
+

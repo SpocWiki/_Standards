@@ -1,4 +1,4 @@
-﻿---
+---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -40,7 +40,9 @@ usually separated from other spaces by interior walls
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Room](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.md) 
+### [FileClass~Room](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.md) 
+
+### [FileClass~Room.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.public.md) 
 
 ### [FileClass~Room.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.internal.md) 
 
@@ -50,4 +52,5 @@ usually separated from other spaces by interior walls
 
 ### [FileClass~Room.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.personal.md) 
 
-### [FileClass~Room.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.secret.md) 
+### [FileClass~Room.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room.secret.md)
+

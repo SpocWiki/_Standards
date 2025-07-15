@@ -429,10 +429,11 @@ Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Costa%20Rica) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Costa_Rica](/_public/Earth/Continent/America~Central/Costa_Rica.md) 
+### [Costa_Rica](/_Standards/Earth/Continent/America~Central/Costa_Rica.md) 
+
+### [Costa_Rica.public](/_public/Earth/Continent/America~Central/Costa_Rica.public.md) 
 
 ### [Costa_Rica.internal](/_internal/Earth/Continent/America~Central/Costa_Rica.internal.md) 
 
@@ -442,4 +443,5 @@ Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 
 ### [Costa_Rica.personal](/_personal/Earth/Continent/America~Central/Costa_Rica.personal.md) 
 
-### [Costa_Rica.secret](/_secret/Earth/Continent/America~Central/Costa_Rica.secret.md) 
+### [Costa_Rica.secret](/_secret/Earth/Continent/America~Central/Costa_Rica.secret.md)
+

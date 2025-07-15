@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q169336
 subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~pure_substance,578779]]"
@@ -32,4 +32,21 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Eintei
 > (physical or chemical processes or, even a blend of them).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mixture)
+
+
+## Confidential Links & Embeds: 
+
+### [Mixture](/_Standards/chemic/Mixture.md) 
+
+### [Mixture.public](/_public/chemic/Mixture.public.md) 
+
+### [Mixture.internal](/_internal/chemic/Mixture.internal.md) 
+
+### [Mixture.protect](/_protect/chemic/Mixture.protect.md) 
+
+### [Mixture.private](/_private/chemic/Mixture.private.md) 
+
+### [Mixture.personal](/_personal/chemic/Mixture.personal.md) 
+
+### [Mixture.secret](/_secret/chemic/Mixture.secret.md)
 

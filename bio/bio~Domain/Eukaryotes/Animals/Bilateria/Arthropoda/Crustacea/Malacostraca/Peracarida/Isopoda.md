@@ -300,3 +300,22 @@ Reference            G. M. Branch, C. L. Griffiths, M. L. Branch, and L. E. Beck
 Specimen Condition   Live Specimen
 Copyright ::            © 1994 G. M. Branch
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Isopoda](/_Standards/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.md) 
+
+### [Isopoda.public](/_public/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.public.md) 
+
+### [Isopoda.internal](/_internal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.internal.md) 
+
+### [Isopoda.protect](/_protect/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.protect.md) 
+
+### [Isopoda.private](/_private/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.private.md) 
+
+### [Isopoda.personal](/_personal/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.personal.md) 
+
+### [Isopoda.secret](/_secret/bio/bio~Domain/Eukaryotes/Animals/Bilateria/Arthropoda/Crustacea/Malacostraca/Peracarida/Isopoda.secret.md)
+
