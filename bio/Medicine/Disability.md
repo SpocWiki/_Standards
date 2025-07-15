@@ -51,17 +51,17 @@ PhilPapers_topic: the-concept-of-disability
 
 ## Confidential Links & Embeds: 
 
-### [Disability](/_Standards/bio/Medicine/Disability.md) 
+### #is_/same_as :: [Disability](/_Standards/bio/Medicine/Disability.md) 
 
-### [Disability.public](/_public/bio/Medicine/Disability.public.md) 
+### #is_/same_as :: [Disability.public](/_public/bio/Medicine/Disability.public.md) 
 
-### [Disability.internal](/_internal/bio/Medicine/Disability.internal.md) 
+### #is_/same_as :: [Disability.internal](/_internal/bio/Medicine/Disability.internal.md) 
 
-### [Disability.protect](/_protect/bio/Medicine/Disability.protect.md) 
+### #is_/same_as :: [Disability.protect](/_protect/bio/Medicine/Disability.protect.md) 
 
-### [Disability.private](/_private/bio/Medicine/Disability.private.md) 
+### #is_/same_as :: [Disability.private](/_private/bio/Medicine/Disability.private.md) 
 
-### [Disability.personal](/_personal/bio/Medicine/Disability.personal.md) 
+### #is_/same_as :: [Disability.personal](/_personal/bio/Medicine/Disability.personal.md) 
 
-### [Disability.secret](/_secret/bio/Medicine/Disability.secret.md)
+### #is_/same_as :: [Disability.secret](/_secret/bio/Medicine/Disability.secret.md)
 

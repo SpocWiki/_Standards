@@ -61,17 +61,17 @@ Commons_category: "Arabic alphabet"
 
 ## Confidential Links & Embeds: 
 
-### [Arabic_Alphabet](/_Standards/Language/Writing_System/Arabic_Alphabet.md) 
+### #is_/same_as :: [Arabic_Alphabet](/_Standards/Language/Writing_System/Arabic_Alphabet.md) 
 
-### [Arabic_Alphabet.public](/_public/Language/Writing_System/Arabic_Alphabet.public.md) 
+### #is_/same_as :: [Arabic_Alphabet.public](/_public/Language/Writing_System/Arabic_Alphabet.public.md) 
 
-### [Arabic_Alphabet.internal](/_internal/Language/Writing_System/Arabic_Alphabet.internal.md) 
+### #is_/same_as :: [Arabic_Alphabet.internal](/_internal/Language/Writing_System/Arabic_Alphabet.internal.md) 
 
-### [Arabic_Alphabet.protect](/_protect/Language/Writing_System/Arabic_Alphabet.protect.md) 
+### #is_/same_as :: [Arabic_Alphabet.protect](/_protect/Language/Writing_System/Arabic_Alphabet.protect.md) 
 
-### [Arabic_Alphabet.private](/_private/Language/Writing_System/Arabic_Alphabet.private.md) 
+### #is_/same_as :: [Arabic_Alphabet.private](/_private/Language/Writing_System/Arabic_Alphabet.private.md) 
 
-### [Arabic_Alphabet.personal](/_personal/Language/Writing_System/Arabic_Alphabet.personal.md) 
+### #is_/same_as :: [Arabic_Alphabet.personal](/_personal/Language/Writing_System/Arabic_Alphabet.personal.md) 
 
-### [Arabic_Alphabet.secret](/_secret/Language/Writing_System/Arabic_Alphabet.secret.md)
+### #is_/same_as :: [Arabic_Alphabet.secret](/_secret/Language/Writing_System/Arabic_Alphabet.secret.md)
 

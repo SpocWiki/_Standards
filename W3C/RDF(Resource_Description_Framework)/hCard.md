@@ -36,17 +36,17 @@ END:VCARD
 
 ## Confidential Links & Embeds: 
 
-### [hCard](/_Standards/W3C/RDF(Resource_Description_Framework)/hCard.md) 
+### #is_/same_as :: [hCard](/_Standards/W3C/RDF(Resource_Description_Framework)/hCard.md) 
 
-### [hCard.public](/_public/W3C/RDF(Resource_Description_Framework)/hCard.public.md) 
+### #is_/same_as :: [hCard.public](/_public/W3C/RDF(Resource_Description_Framework)/hCard.public.md) 
 
-### [hCard.internal](/_internal/W3C/RDF(Resource_Description_Framework)/hCard.internal.md) 
+### #is_/same_as :: [hCard.internal](/_internal/W3C/RDF(Resource_Description_Framework)/hCard.internal.md) 
 
-### [hCard.protect](/_protect/W3C/RDF(Resource_Description_Framework)/hCard.protect.md) 
+### #is_/same_as :: [hCard.protect](/_protect/W3C/RDF(Resource_Description_Framework)/hCard.protect.md) 
 
-### [hCard.private](/_private/W3C/RDF(Resource_Description_Framework)/hCard.private.md) 
+### #is_/same_as :: [hCard.private](/_private/W3C/RDF(Resource_Description_Framework)/hCard.private.md) 
 
-### [hCard.personal](/_personal/W3C/RDF(Resource_Description_Framework)/hCard.personal.md) 
+### #is_/same_as :: [hCard.personal](/_personal/W3C/RDF(Resource_Description_Framework)/hCard.personal.md) 
 
-### [hCard.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCard.secret.md)
+### #is_/same_as :: [hCard.secret](/_secret/W3C/RDF(Resource_Description_Framework)/hCard.secret.md)
 

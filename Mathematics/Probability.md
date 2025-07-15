@@ -63,17 +63,17 @@ Commons_category: Probability
 
 ## Confidential Links & Embeds: 
 
-### [Probability](/_Standards/Mathematics/Probability.md) 
+### #is_/same_as :: [Probability](/_Standards/Mathematics/Probability.md) 
 
-### [Probability.public](/_public/Mathematics/Probability.public.md) 
+### #is_/same_as :: [Probability.public](/_public/Mathematics/Probability.public.md) 
 
-### [Probability.internal](/_internal/Mathematics/Probability.internal.md) 
+### #is_/same_as :: [Probability.internal](/_internal/Mathematics/Probability.internal.md) 
 
-### [Probability.protect](/_protect/Mathematics/Probability.protect.md) 
+### #is_/same_as :: [Probability.protect](/_protect/Mathematics/Probability.protect.md) 
 
-### [Probability.private](/_private/Mathematics/Probability.private.md) 
+### #is_/same_as :: [Probability.private](/_private/Mathematics/Probability.private.md) 
 
-### [Probability.personal](/_personal/Mathematics/Probability.personal.md) 
+### #is_/same_as :: [Probability.personal](/_personal/Mathematics/Probability.personal.md) 
 
-### [Probability.secret](/_secret/Mathematics/Probability.secret.md)
+### #is_/same_as :: [Probability.secret](/_secret/Mathematics/Probability.secret.md)
 

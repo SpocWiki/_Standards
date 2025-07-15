@@ -30,17 +30,17 @@ elements of the Algebra with dimension n: __⋀ⁿ Rⁿ__.
 
 ## Confidential Links & Embeds: 
 
-### [Pseudo-Scalar](/_Standards/Mathematics/Geometry/Pseudo-Scalar.md) 
+### #is_/same_as :: [Pseudo-Scalar](/_Standards/Mathematics/Geometry/Pseudo-Scalar.md) 
 
-### [Pseudo-Scalar.public](/_public/Mathematics/Geometry/Pseudo-Scalar.public.md) 
+### #is_/same_as :: [Pseudo-Scalar.public](/_public/Mathematics/Geometry/Pseudo-Scalar.public.md) 
 
-### [Pseudo-Scalar.internal](/_internal/Mathematics/Geometry/Pseudo-Scalar.internal.md) 
+### #is_/same_as :: [Pseudo-Scalar.internal](/_internal/Mathematics/Geometry/Pseudo-Scalar.internal.md) 
 
-### [Pseudo-Scalar.protect](/_protect/Mathematics/Geometry/Pseudo-Scalar.protect.md) 
+### #is_/same_as :: [Pseudo-Scalar.protect](/_protect/Mathematics/Geometry/Pseudo-Scalar.protect.md) 
 
-### [Pseudo-Scalar.private](/_private/Mathematics/Geometry/Pseudo-Scalar.private.md) 
+### #is_/same_as :: [Pseudo-Scalar.private](/_private/Mathematics/Geometry/Pseudo-Scalar.private.md) 
 
-### [Pseudo-Scalar.personal](/_personal/Mathematics/Geometry/Pseudo-Scalar.personal.md) 
+### #is_/same_as :: [Pseudo-Scalar.personal](/_personal/Mathematics/Geometry/Pseudo-Scalar.personal.md) 
 
-### [Pseudo-Scalar.secret](/_secret/Mathematics/Geometry/Pseudo-Scalar.secret.md)
+### #is_/same_as :: [Pseudo-Scalar.secret](/_secret/Mathematics/Geometry/Pseudo-Scalar.secret.md)
 

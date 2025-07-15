@@ -56,17 +56,17 @@ IPTC_NewsCode: mediatopic/20000712
 
 ## Confidential Links & Embeds: 
 
-### [Dentistry](/_Standards/bio/Medicine/Dentistry.md) 
+### #is_/same_as :: [Dentistry](/_Standards/bio/Medicine/Dentistry.md) 
 
-### [Dentistry.public](/_public/bio/Medicine/Dentistry.public.md) 
+### #is_/same_as :: [Dentistry.public](/_public/bio/Medicine/Dentistry.public.md) 
 
-### [Dentistry.internal](/_internal/bio/Medicine/Dentistry.internal.md) 
+### #is_/same_as :: [Dentistry.internal](/_internal/bio/Medicine/Dentistry.internal.md) 
 
-### [Dentistry.protect](/_protect/bio/Medicine/Dentistry.protect.md) 
+### #is_/same_as :: [Dentistry.protect](/_protect/bio/Medicine/Dentistry.protect.md) 
 
-### [Dentistry.private](/_private/bio/Medicine/Dentistry.private.md) 
+### #is_/same_as :: [Dentistry.private](/_private/bio/Medicine/Dentistry.private.md) 
 
-### [Dentistry.personal](/_personal/bio/Medicine/Dentistry.personal.md) 
+### #is_/same_as :: [Dentistry.personal](/_personal/bio/Medicine/Dentistry.personal.md) 
 
-### [Dentistry.secret](/_secret/bio/Medicine/Dentistry.secret.md)
+### #is_/same_as :: [Dentistry.secret](/_secret/bio/Medicine/Dentistry.secret.md)
 

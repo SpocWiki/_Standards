@@ -609,17 +609,17 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Product](/_Standards/fileClass/FileClass~Thing/FileClass~Product.md) 
+### #is_/same_as :: [FileClass~Product](/_Standards/fileClass/FileClass~Thing/FileClass~Product.md) 
 
-### [FileClass~Product.public](/_public/fileClass/FileClass~Thing/FileClass~Product.public.md) 
+### #is_/same_as :: [FileClass~Product.public](/_public/fileClass/FileClass~Thing/FileClass~Product.public.md) 
 
-### [FileClass~Product.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product.internal.md) 
+### #is_/same_as :: [FileClass~Product.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product.internal.md) 
 
-### [FileClass~Product.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product.protect.md) 
+### #is_/same_as :: [FileClass~Product.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product.protect.md) 
 
-### [FileClass~Product.private](/_private/fileClass/FileClass~Thing/FileClass~Product.private.md) 
+### #is_/same_as :: [FileClass~Product.private](/_private/fileClass/FileClass~Thing/FileClass~Product.private.md) 
 
-### [FileClass~Product.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product.personal.md) 
+### #is_/same_as :: [FileClass~Product.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product.personal.md) 
 
-### [FileClass~Product.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product.secret.md)
+### #is_/same_as :: [FileClass~Product.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product.secret.md)
 

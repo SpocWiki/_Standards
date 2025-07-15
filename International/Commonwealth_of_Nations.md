@@ -87,17 +87,17 @@ EU_Corporate_body_code: CMNW
 
 ## Confidential Links & Embeds: 
 
-### [Commonwealth_of_Nations](/_Standards/International/Commonwealth_of_Nations.md) 
+### #is_/same_as :: [Commonwealth_of_Nations](/_Standards/International/Commonwealth_of_Nations.md) 
 
-### [Commonwealth_of_Nations.public](/_public/International/Commonwealth_of_Nations.public.md) 
+### #is_/same_as :: [Commonwealth_of_Nations.public](/_public/International/Commonwealth_of_Nations.public.md) 
 
-### [Commonwealth_of_Nations.internal](/_internal/International/Commonwealth_of_Nations.internal.md) 
+### #is_/same_as :: [Commonwealth_of_Nations.internal](/_internal/International/Commonwealth_of_Nations.internal.md) 
 
-### [Commonwealth_of_Nations.protect](/_protect/International/Commonwealth_of_Nations.protect.md) 
+### #is_/same_as :: [Commonwealth_of_Nations.protect](/_protect/International/Commonwealth_of_Nations.protect.md) 
 
-### [Commonwealth_of_Nations.private](/_private/International/Commonwealth_of_Nations.private.md) 
+### #is_/same_as :: [Commonwealth_of_Nations.private](/_private/International/Commonwealth_of_Nations.private.md) 
 
-### [Commonwealth_of_Nations.personal](/_personal/International/Commonwealth_of_Nations.personal.md) 
+### #is_/same_as :: [Commonwealth_of_Nations.personal](/_personal/International/Commonwealth_of_Nations.personal.md) 
 
-### [Commonwealth_of_Nations.secret](/_secret/International/Commonwealth_of_Nations.secret.md)
+### #is_/same_as :: [Commonwealth_of_Nations.secret](/_secret/International/Commonwealth_of_Nations.secret.md)
 

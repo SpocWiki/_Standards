@@ -51,17 +51,17 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/GALAKTIKI.html
 
 ## Confidential Links & Embeds: 
 
-### [Galaxy](/_Standards/Astronomy/Galaxy.md) 
+### #is_/same_as :: [Galaxy](/_Standards/Astronomy/Galaxy.md) 
 
-### [Galaxy.public](/_public/Astronomy/Galaxy.public.md) 
+### #is_/same_as :: [Galaxy.public](/_public/Astronomy/Galaxy.public.md) 
 
-### [Galaxy.internal](/_internal/Astronomy/Galaxy.internal.md) 
+### #is_/same_as :: [Galaxy.internal](/_internal/Astronomy/Galaxy.internal.md) 
 
-### [Galaxy.protect](/_protect/Astronomy/Galaxy.protect.md) 
+### #is_/same_as :: [Galaxy.protect](/_protect/Astronomy/Galaxy.protect.md) 
 
-### [Galaxy.private](/_private/Astronomy/Galaxy.private.md) 
+### #is_/same_as :: [Galaxy.private](/_private/Astronomy/Galaxy.private.md) 
 
-### [Galaxy.personal](/_personal/Astronomy/Galaxy.personal.md) 
+### #is_/same_as :: [Galaxy.personal](/_personal/Astronomy/Galaxy.personal.md) 
 
-### [Galaxy.secret](/_secret/Astronomy/Galaxy.secret.md)
+### #is_/same_as :: [Galaxy.secret](/_secret/Astronomy/Galaxy.secret.md)
 

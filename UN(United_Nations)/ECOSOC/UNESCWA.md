@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [UNESCWA](/_Standards/UN(United_Nations)/ECOSOC/UNESCWA.md) 
+### #is_/same_as :: [UNESCWA](/_Standards/UN(United_Nations)/ECOSOC/UNESCWA.md) 
 
-### [UNESCWA.public](/_public/UN(United_Nations)/ECOSOC/UNESCWA.public.md) 
+### #is_/same_as :: [UNESCWA.public](/_public/UN(United_Nations)/ECOSOC/UNESCWA.public.md) 
 
-### [UNESCWA.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal.md) 
+### #is_/same_as :: [UNESCWA.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal.md) 
 
-### [UNESCWA.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect.md) 
+### #is_/same_as :: [UNESCWA.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect.md) 
 
-### [UNESCWA.private](/_private/UN(United_Nations)/ECOSOC/UNESCWA.private.md) 
+### #is_/same_as :: [UNESCWA.private](/_private/UN(United_Nations)/ECOSOC/UNESCWA.private.md) 
 
-### [UNESCWA.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal.md) 
+### #is_/same_as :: [UNESCWA.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal.md) 
 
-### [UNESCWA.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret.md)
+### #is_/same_as :: [UNESCWA.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret.md)
 

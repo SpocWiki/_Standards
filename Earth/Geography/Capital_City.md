@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Capital_City](/_Standards/Earth/Geography/Capital_City.md) 
+### #is_/same_as :: [Capital_City](/_Standards/Earth/Geography/Capital_City.md) 
 
-### [Capital_City.public](/_public/Earth/Geography/Capital_City.public.md) 
+### #is_/same_as :: [Capital_City.public](/_public/Earth/Geography/Capital_City.public.md) 
 
-### [Capital_City.internal](/_internal/Earth/Geography/Capital_City.internal.md) 
+### #is_/same_as :: [Capital_City.internal](/_internal/Earth/Geography/Capital_City.internal.md) 
 
-### [Capital_City.protect](/_protect/Earth/Geography/Capital_City.protect.md) 
+### #is_/same_as :: [Capital_City.protect](/_protect/Earth/Geography/Capital_City.protect.md) 
 
-### [Capital_City.private](/_private/Earth/Geography/Capital_City.private.md) 
+### #is_/same_as :: [Capital_City.private](/_private/Earth/Geography/Capital_City.private.md) 
 
-### [Capital_City.personal](/_personal/Earth/Geography/Capital_City.personal.md) 
+### #is_/same_as :: [Capital_City.personal](/_personal/Earth/Geography/Capital_City.personal.md) 
 
-### [Capital_City.secret](/_secret/Earth/Geography/Capital_City.secret.md)
+### #is_/same_as :: [Capital_City.secret](/_secret/Earth/Geography/Capital_City.secret.md)
 

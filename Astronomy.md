@@ -93,17 +93,17 @@ WordLift_URL: "http://data.thenextweb.com/tnw/entity/astronomy"
 
 ## Confidential Links & Embeds: 
 
-### [Astronomy](/_Standards/Astronomy.md) 
+### #is_/same_as :: [Astronomy](/_Standards/Astronomy.md) 
 
-### [Astronomy.public](/_public/Astronomy.public.md) 
+### #is_/same_as :: [Astronomy.public](/_public/Astronomy.public.md) 
 
-### [Astronomy.internal](/_internal/Astronomy.internal.md) 
+### #is_/same_as :: [Astronomy.internal](/_internal/Astronomy.internal.md) 
 
-### [Astronomy.protect](/_protect/Astronomy.protect.md) 
+### #is_/same_as :: [Astronomy.protect](/_protect/Astronomy.protect.md) 
 
-### [Astronomy.private](/_private/Astronomy.private.md) 
+### #is_/same_as :: [Astronomy.private](/_private/Astronomy.private.md) 
 
-### [Astronomy.personal](/_personal/Astronomy.personal.md) 
+### #is_/same_as :: [Astronomy.personal](/_personal/Astronomy.personal.md) 
 
-### [Astronomy.secret](/_secret/Astronomy.secret.md)
+### #is_/same_as :: [Astronomy.secret](/_secret/Astronomy.secret.md)
 

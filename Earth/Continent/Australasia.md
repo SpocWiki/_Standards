@@ -39,17 +39,17 @@ lat: -30
 
 ## Confidential Links & Embeds: 
 
-### [Australasia](/_Standards/Earth/Continent/Australasia.md) 
+### #is_/same_as :: [Australasia](/_Standards/Earth/Continent/Australasia.md) 
 
-### [Australasia.public](/_public/Earth/Continent/Australasia.public.md) 
+### #is_/same_as :: [Australasia.public](/_public/Earth/Continent/Australasia.public.md) 
 
-### [Australasia.internal](/_internal/Earth/Continent/Australasia.internal.md) 
+### #is_/same_as :: [Australasia.internal](/_internal/Earth/Continent/Australasia.internal.md) 
 
-### [Australasia.protect](/_protect/Earth/Continent/Australasia.protect.md) 
+### #is_/same_as :: [Australasia.protect](/_protect/Earth/Continent/Australasia.protect.md) 
 
-### [Australasia.private](/_private/Earth/Continent/Australasia.private.md) 
+### #is_/same_as :: [Australasia.private](/_private/Earth/Continent/Australasia.private.md) 
 
-### [Australasia.personal](/_personal/Earth/Continent/Australasia.personal.md) 
+### #is_/same_as :: [Australasia.personal](/_personal/Earth/Continent/Australasia.personal.md) 
 
-### [Australasia.secret](/_secret/Earth/Continent/Australasia.secret.md)
+### #is_/same_as :: [Australasia.secret](/_secret/Earth/Continent/Australasia.secret.md)
 

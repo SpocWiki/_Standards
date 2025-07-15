@@ -60,17 +60,17 @@ Commons_category: Calculus
 
 ## Confidential Links & Embeds: 
 
-### [Calculus](/_Standards/Mathematics/Calculus.md) 
+### #is_/same_as :: [Calculus](/_Standards/Mathematics/Calculus.md) 
 
-### [Calculus.public](/_public/Mathematics/Calculus.public.md) 
+### #is_/same_as :: [Calculus.public](/_public/Mathematics/Calculus.public.md) 
 
-### [Calculus.internal](/_internal/Mathematics/Calculus.internal.md) 
+### #is_/same_as :: [Calculus.internal](/_internal/Mathematics/Calculus.internal.md) 
 
-### [Calculus.protect](/_protect/Mathematics/Calculus.protect.md) 
+### #is_/same_as :: [Calculus.protect](/_protect/Mathematics/Calculus.protect.md) 
 
-### [Calculus.private](/_private/Mathematics/Calculus.private.md) 
+### #is_/same_as :: [Calculus.private](/_private/Mathematics/Calculus.private.md) 
 
-### [Calculus.personal](/_personal/Mathematics/Calculus.personal.md) 
+### #is_/same_as :: [Calculus.personal](/_personal/Mathematics/Calculus.personal.md) 
 
-### [Calculus.secret](/_secret/Mathematics/Calculus.secret.md)
+### #is_/same_as :: [Calculus.secret](/_secret/Mathematics/Calculus.secret.md)
 

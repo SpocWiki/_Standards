@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Actor](/_Standards/bio/People/Actor.md) 
+### #is_/same_as :: [Actor](/_Standards/bio/People/Actor.md) 
 
-### [Actor.public](/_public/bio/People/Actor.public.md) 
+### #is_/same_as :: [Actor.public](/_public/bio/People/Actor.public.md) 
 
-### [Actor.internal](/_internal/bio/People/Actor.internal.md) 
+### #is_/same_as :: [Actor.internal](/_internal/bio/People/Actor.internal.md) 
 
-### [Actor.protect](/_protect/bio/People/Actor.protect.md) 
+### #is_/same_as :: [Actor.protect](/_protect/bio/People/Actor.protect.md) 
 
-### [Actor.private](/_private/bio/People/Actor.private.md) 
+### #is_/same_as :: [Actor.private](/_private/bio/People/Actor.private.md) 
 
-### [Actor.personal](/_personal/bio/People/Actor.personal.md) 
+### #is_/same_as :: [Actor.personal](/_personal/bio/People/Actor.personal.md) 
 
-### [Actor.secret](/_secret/bio/People/Actor.secret.md)
+### #is_/same_as :: [Actor.secret](/_secret/bio/People/Actor.secret.md)
 

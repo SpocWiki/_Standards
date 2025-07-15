@@ -111,17 +111,17 @@ motto text: Working for a World Free of Poverty
 
 ## Confidential Links & Embeds: 
 
-### [World_Bank](/_Standards/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.md) 
+### #is_/same_as :: [World_Bank](/_Standards/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.md) 
 
-### [World_Bank.public](/_public/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.public.md) 
+### #is_/same_as :: [World_Bank.public](/_public/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.public.md) 
 
-### [World_Bank.internal](/_internal/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.internal.md) 
+### #is_/same_as :: [World_Bank.internal](/_internal/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.internal.md) 
 
-### [World_Bank.protect](/_protect/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.protect.md) 
+### #is_/same_as :: [World_Bank.protect](/_protect/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.protect.md) 
 
-### [World_Bank.private](/_private/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.private.md) 
+### #is_/same_as :: [World_Bank.private](/_private/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.private.md) 
 
-### [World_Bank.personal](/_personal/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.personal.md) 
+### #is_/same_as :: [World_Bank.personal](/_personal/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.personal.md) 
 
-### [World_Bank.secret](/_secret/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.secret.md)
+### #is_/same_as :: [World_Bank.secret](/_secret/UN(United_Nations)/IMF(International Monetary Fund)/World_Bank.secret.md)
 

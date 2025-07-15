@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [_Units-Template](/_Standards/gs1/_Units-Template.md) 
+### #is_/same_as :: [_Units-Template](/_Standards/gs1/_Units-Template.md) 
 
-### [_Units-Template.public](/_public/gs1/_Units-Template.public.md) 
+### #is_/same_as :: [_Units-Template.public](/_public/gs1/_Units-Template.public.md) 
 
-### [_Units-Template.internal](/_internal/gs1/_Units-Template.internal.md) 
+### #is_/same_as :: [_Units-Template.internal](/_internal/gs1/_Units-Template.internal.md) 
 
-### [_Units-Template.protect](/_protect/gs1/_Units-Template.protect.md) 
+### #is_/same_as :: [_Units-Template.protect](/_protect/gs1/_Units-Template.protect.md) 
 
-### [_Units-Template.private](/_private/gs1/_Units-Template.private.md) 
+### #is_/same_as :: [_Units-Template.private](/_private/gs1/_Units-Template.private.md) 
 
-### [_Units-Template.personal](/_personal/gs1/_Units-Template.personal.md) 
+### #is_/same_as :: [_Units-Template.personal](/_personal/gs1/_Units-Template.personal.md) 
 
-### [_Units-Template.secret](/_secret/gs1/_Units-Template.secret.md)
+### #is_/same_as :: [_Units-Template.secret](/_secret/gs1/_Units-Template.secret.md)
 

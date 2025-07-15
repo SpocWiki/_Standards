@@ -126,17 +126,17 @@ Commons_gallery: Venus
 
 ## Confidential Links & Embeds: 
 
-### [Venus](/_Standards/Astronomy/Solar_System/Venus.md) 
+### #is_/same_as :: [Venus](/_Standards/Astronomy/Solar_System/Venus.md) 
 
-### [Venus.public](/_public/Astronomy/Solar_System/Venus.public.md) 
+### #is_/same_as :: [Venus.public](/_public/Astronomy/Solar_System/Venus.public.md) 
 
-### [Venus.internal](/_internal/Astronomy/Solar_System/Venus.internal.md) 
+### #is_/same_as :: [Venus.internal](/_internal/Astronomy/Solar_System/Venus.internal.md) 
 
-### [Venus.protect](/_protect/Astronomy/Solar_System/Venus.protect.md) 
+### #is_/same_as :: [Venus.protect](/_protect/Astronomy/Solar_System/Venus.protect.md) 
 
-### [Venus.private](/_private/Astronomy/Solar_System/Venus.private.md) 
+### #is_/same_as :: [Venus.private](/_private/Astronomy/Solar_System/Venus.private.md) 
 
-### [Venus.personal](/_personal/Astronomy/Solar_System/Venus.personal.md) 
+### #is_/same_as :: [Venus.personal](/_personal/Astronomy/Solar_System/Venus.personal.md) 
 
-### [Venus.secret](/_secret/Astronomy/Solar_System/Venus.secret.md)
+### #is_/same_as :: [Venus.secret](/_secret/Astronomy/Solar_System/Venus.secret.md)
 

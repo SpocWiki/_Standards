@@ -291,17 +291,17 @@ Libris_URI: vs686bpd13rcfvg
 
 ## Confidential Links & Embeds: 
 
-### [UN(United_Nations)](/_Standards/UN(United_Nations).md) 
+### #is_/same_as :: [UN(United_Nations)](/_Standards/UN(United_Nations).md) 
 
-### [UN(United_Nations).public](/_public/UN(United_Nations).public.md) 
+### #is_/same_as :: [UN(United_Nations).public](/_public/UN(United_Nations).public.md) 
 
-### [UN(United_Nations).internal](/_internal/UN(United_Nations).internal.md) 
+### #is_/same_as :: [UN(United_Nations).internal](/_internal/UN(United_Nations).internal.md) 
 
-### [UN(United_Nations).protect](/_protect/UN(United_Nations).protect.md) 
+### #is_/same_as :: [UN(United_Nations).protect](/_protect/UN(United_Nations).protect.md) 
 
-### [UN(United_Nations).private](/_private/UN(United_Nations).private.md) 
+### #is_/same_as :: [UN(United_Nations).private](/_private/UN(United_Nations).private.md) 
 
-### [UN(United_Nations).personal](/_personal/UN(United_Nations).personal.md) 
+### #is_/same_as :: [UN(United_Nations).personal](/_personal/UN(United_Nations).personal.md) 
 
-### [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md)
+### #is_/same_as :: [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md)
 

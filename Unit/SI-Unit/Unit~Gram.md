@@ -28,17 +28,17 @@ Since the Planck-Constant combined with the Caesium Frequency yields an Energy a
 
 ## Confidential Links & Embeds: 
 
-### [Unit~Gram](/_Standards/Unit/SI-Unit/Unit~Gram.md) 
+### #is_/same_as :: [Unit~Gram](/_Standards/Unit/SI-Unit/Unit~Gram.md) 
 
-### [Unit~Gram.public](/_public/Unit/SI-Unit/Unit~Gram.public.md) 
+### #is_/same_as :: [Unit~Gram.public](/_public/Unit/SI-Unit/Unit~Gram.public.md) 
 
-### [Unit~Gram.internal](/_internal/Unit/SI-Unit/Unit~Gram.internal.md) 
+### #is_/same_as :: [Unit~Gram.internal](/_internal/Unit/SI-Unit/Unit~Gram.internal.md) 
 
-### [Unit~Gram.protect](/_protect/Unit/SI-Unit/Unit~Gram.protect.md) 
+### #is_/same_as :: [Unit~Gram.protect](/_protect/Unit/SI-Unit/Unit~Gram.protect.md) 
 
-### [Unit~Gram.private](/_private/Unit/SI-Unit/Unit~Gram.private.md) 
+### #is_/same_as :: [Unit~Gram.private](/_private/Unit/SI-Unit/Unit~Gram.private.md) 
 
-### [Unit~Gram.personal](/_personal/Unit/SI-Unit/Unit~Gram.personal.md) 
+### #is_/same_as :: [Unit~Gram.personal](/_personal/Unit/SI-Unit/Unit~Gram.personal.md) 
 
-### [Unit~Gram.secret](/_secret/Unit/SI-Unit/Unit~Gram.secret.md)
+### #is_/same_as :: [Unit~Gram.secret](/_secret/Unit/SI-Unit/Unit~Gram.secret.md)
 

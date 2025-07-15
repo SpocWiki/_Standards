@@ -178,17 +178,17 @@ TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~BioChemEntity](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity.md) 
+### #is_/same_as :: [FileClass~BioChemEntity](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity.md) 
 
-### [FileClass~BioChemEntity.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity.public.md) 
+### #is_/same_as :: [FileClass~BioChemEntity.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity.public.md) 
 
-### [FileClass~BioChemEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity.internal.md) 
+### #is_/same_as :: [FileClass~BioChemEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity.internal.md) 
 
-### [FileClass~BioChemEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity.protect.md) 
+### #is_/same_as :: [FileClass~BioChemEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity.protect.md) 
 
-### [FileClass~BioChemEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity.private.md) 
+### #is_/same_as :: [FileClass~BioChemEntity.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity.private.md) 
 
-### [FileClass~BioChemEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity.personal.md) 
+### #is_/same_as :: [FileClass~BioChemEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity.personal.md) 
 
-### [FileClass~BioChemEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity.secret.md)
+### #is_/same_as :: [FileClass~BioChemEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity.secret.md)
 

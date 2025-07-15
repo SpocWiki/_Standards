@@ -50,17 +50,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [rdfs](/_Standards/W3C/RDF(Resource_Description_Framework)/rdfs.md) 
+### #is_/same_as :: [rdfs](/_Standards/W3C/RDF(Resource_Description_Framework)/rdfs.md) 
 
-### [rdfs.public](/_public/W3C/RDF(Resource_Description_Framework)/rdfs.public.md) 
+### #is_/same_as :: [rdfs.public](/_public/W3C/RDF(Resource_Description_Framework)/rdfs.public.md) 
 
-### [rdfs.internal](/_internal/W3C/RDF(Resource_Description_Framework)/rdfs.internal.md) 
+### #is_/same_as :: [rdfs.internal](/_internal/W3C/RDF(Resource_Description_Framework)/rdfs.internal.md) 
 
-### [rdfs.protect](/_protect/W3C/RDF(Resource_Description_Framework)/rdfs.protect.md) 
+### #is_/same_as :: [rdfs.protect](/_protect/W3C/RDF(Resource_Description_Framework)/rdfs.protect.md) 
 
-### [rdfs.private](/_private/W3C/RDF(Resource_Description_Framework)/rdfs.private.md) 
+### #is_/same_as :: [rdfs.private](/_private/W3C/RDF(Resource_Description_Framework)/rdfs.private.md) 
 
-### [rdfs.personal](/_personal/W3C/RDF(Resource_Description_Framework)/rdfs.personal.md) 
+### #is_/same_as :: [rdfs.personal](/_personal/W3C/RDF(Resource_Description_Framework)/rdfs.personal.md) 
 
-### [rdfs.secret](/_secret/W3C/RDF(Resource_Description_Framework)/rdfs.secret.md)
+### #is_/same_as :: [rdfs.secret](/_secret/W3C/RDF(Resource_Description_Framework)/rdfs.secret.md)
 

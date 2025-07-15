@@ -23,17 +23,17 @@ has_id_wikidata: Q321
 
 ## Confidential Links & Embeds: 
 
-### [Milky_Way](/_Standards/Astronomy/Milky_Way.md) 
+### #is_/same_as :: [Milky_Way](/_Standards/Astronomy/Milky_Way.md) 
 
-### [Milky_Way.public](/_public/Astronomy/Milky_Way.public.md) 
+### #is_/same_as :: [Milky_Way.public](/_public/Astronomy/Milky_Way.public.md) 
 
-### [Milky_Way.internal](/_internal/Astronomy/Milky_Way.internal.md) 
+### #is_/same_as :: [Milky_Way.internal](/_internal/Astronomy/Milky_Way.internal.md) 
 
-### [Milky_Way.protect](/_protect/Astronomy/Milky_Way.protect.md) 
+### #is_/same_as :: [Milky_Way.protect](/_protect/Astronomy/Milky_Way.protect.md) 
 
-### [Milky_Way.private](/_private/Astronomy/Milky_Way.private.md) 
+### #is_/same_as :: [Milky_Way.private](/_private/Astronomy/Milky_Way.private.md) 
 
-### [Milky_Way.personal](/_personal/Astronomy/Milky_Way.personal.md) 
+### #is_/same_as :: [Milky_Way.personal](/_personal/Astronomy/Milky_Way.personal.md) 
 
-### [Milky_Way.secret](/_secret/Astronomy/Milky_Way.secret.md)
+### #is_/same_as :: [Milky_Way.secret](/_secret/Astronomy/Milky_Way.secret.md)
 

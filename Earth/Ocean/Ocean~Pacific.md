@@ -516,17 +516,17 @@ Colon_Classification: SG--97
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Pacific](/_Standards/Earth/Ocean/Ocean~Pacific.md) 
+### #is_/same_as :: [Ocean~Pacific](/_Standards/Earth/Ocean/Ocean~Pacific.md) 
 
-### [Ocean~Pacific.public](/_public/Earth/Ocean/Ocean~Pacific.public.md) 
+### #is_/same_as :: [Ocean~Pacific.public](/_public/Earth/Ocean/Ocean~Pacific.public.md) 
 
-### [Ocean~Pacific.internal](/_internal/Earth/Ocean/Ocean~Pacific.internal.md) 
+### #is_/same_as :: [Ocean~Pacific.internal](/_internal/Earth/Ocean/Ocean~Pacific.internal.md) 
 
-### [Ocean~Pacific.protect](/_protect/Earth/Ocean/Ocean~Pacific.protect.md) 
+### #is_/same_as :: [Ocean~Pacific.protect](/_protect/Earth/Ocean/Ocean~Pacific.protect.md) 
 
-### [Ocean~Pacific.private](/_private/Earth/Ocean/Ocean~Pacific.private.md) 
+### #is_/same_as :: [Ocean~Pacific.private](/_private/Earth/Ocean/Ocean~Pacific.private.md) 
 
-### [Ocean~Pacific.personal](/_personal/Earth/Ocean/Ocean~Pacific.personal.md) 
+### #is_/same_as :: [Ocean~Pacific.personal](/_personal/Earth/Ocean/Ocean~Pacific.personal.md) 
 
-### [Ocean~Pacific.secret](/_secret/Earth/Ocean/Ocean~Pacific.secret.md)
+### #is_/same_as :: [Ocean~Pacific.secret](/_secret/Earth/Ocean/Ocean~Pacific.secret.md)
 

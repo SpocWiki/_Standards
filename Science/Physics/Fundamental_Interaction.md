@@ -49,17 +49,17 @@ Commons_category: "Fundamental forces"
 
 ## Confidential Links & Embeds: 
 
-### [Fundamental_Interaction](/_Standards/Science/Physics/Fundamental_Interaction.md) 
+### #is_/same_as :: [Fundamental_Interaction](/_Standards/Science/Physics/Fundamental_Interaction.md) 
 
-### [Fundamental_Interaction.public](/_public/Science/Physics/Fundamental_Interaction.public.md) 
+### #is_/same_as :: [Fundamental_Interaction.public](/_public/Science/Physics/Fundamental_Interaction.public.md) 
 
-### [Fundamental_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction.internal.md) 
+### #is_/same_as :: [Fundamental_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction.internal.md) 
 
-### [Fundamental_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction.protect.md) 
+### #is_/same_as :: [Fundamental_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction.protect.md) 
 
-### [Fundamental_Interaction.private](/_private/Science/Physics/Fundamental_Interaction.private.md) 
+### #is_/same_as :: [Fundamental_Interaction.private](/_private/Science/Physics/Fundamental_Interaction.private.md) 
 
-### [Fundamental_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction.personal.md) 
+### #is_/same_as :: [Fundamental_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction.personal.md) 
 
-### [Fundamental_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction.secret.md)
+### #is_/same_as :: [Fundamental_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction.secret.md)
 

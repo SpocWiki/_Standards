@@ -84,17 +84,17 @@ Commons_category: Stars
 
 ## Confidential Links & Embeds: 
 
-### [Star](/_Standards/Astronomy/Star.md) 
+### #is_/same_as :: [Star](/_Standards/Astronomy/Star.md) 
 
-### [Star.public](/_public/Astronomy/Star.public.md) 
+### #is_/same_as :: [Star.public](/_public/Astronomy/Star.public.md) 
 
-### [Star.internal](/_internal/Astronomy/Star.internal.md) 
+### #is_/same_as :: [Star.internal](/_internal/Astronomy/Star.internal.md) 
 
-### [Star.protect](/_protect/Astronomy/Star.protect.md) 
+### #is_/same_as :: [Star.protect](/_protect/Astronomy/Star.protect.md) 
 
-### [Star.private](/_private/Astronomy/Star.private.md) 
+### #is_/same_as :: [Star.private](/_private/Astronomy/Star.private.md) 
 
-### [Star.personal](/_personal/Astronomy/Star.personal.md) 
+### #is_/same_as :: [Star.personal](/_personal/Astronomy/Star.personal.md) 
 
-### [Star.secret](/_secret/Astronomy/Star.secret.md)
+### #is_/same_as :: [Star.secret](/_secret/Astronomy/Star.secret.md)
 

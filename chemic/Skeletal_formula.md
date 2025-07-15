@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Skeletal_formula](/_Standards/chemic/Skeletal_formula.md) 
+### #is_/same_as :: [Skeletal_formula](/_Standards/chemic/Skeletal_formula.md) 
 
-### [Skeletal_formula.public](/_public/chemic/Skeletal_formula.public.md) 
+### #is_/same_as :: [Skeletal_formula.public](/_public/chemic/Skeletal_formula.public.md) 
 
-### [Skeletal_formula.internal](/_internal/chemic/Skeletal_formula.internal.md) 
+### #is_/same_as :: [Skeletal_formula.internal](/_internal/chemic/Skeletal_formula.internal.md) 
 
-### [Skeletal_formula.protect](/_protect/chemic/Skeletal_formula.protect.md) 
+### #is_/same_as :: [Skeletal_formula.protect](/_protect/chemic/Skeletal_formula.protect.md) 
 
-### [Skeletal_formula.private](/_private/chemic/Skeletal_formula.private.md) 
+### #is_/same_as :: [Skeletal_formula.private](/_private/chemic/Skeletal_formula.private.md) 
 
-### [Skeletal_formula.personal](/_personal/chemic/Skeletal_formula.personal.md) 
+### #is_/same_as :: [Skeletal_formula.personal](/_personal/chemic/Skeletal_formula.personal.md) 
 
-### [Skeletal_formula.secret](/_secret/chemic/Skeletal_formula.secret.md)
+### #is_/same_as :: [Skeletal_formula.secret](/_secret/chemic/Skeletal_formula.secret.md)
 

@@ -112,17 +112,17 @@ NLC_authorities: "000129288"
 
 ## Confidential Links & Embeds: 
 
-### [Durkheim,Émile](/_Standards/Economics/Durkheim,Émile.md) 
+### #is_/same_as :: [Durkheim,Émile](/_Standards/Economics/Durkheim,Émile.md) 
 
-### [Durkheim,Émile.public](/_public/Economics/Durkheim,Émile.public.md) 
+### #is_/same_as :: [Durkheim,Émile.public](/_public/Economics/Durkheim,Émile.public.md) 
 
-### [Durkheim,Émile.internal](/_internal/Economics/Durkheim,Émile.internal.md) 
+### #is_/same_as :: [Durkheim,Émile.internal](/_internal/Economics/Durkheim,Émile.internal.md) 
 
-### [Durkheim,Émile.protect](/_protect/Economics/Durkheim,Émile.protect.md) 
+### #is_/same_as :: [Durkheim,Émile.protect](/_protect/Economics/Durkheim,Émile.protect.md) 
 
-### [Durkheim,Émile.private](/_private/Economics/Durkheim,Émile.private.md) 
+### #is_/same_as :: [Durkheim,Émile.private](/_private/Economics/Durkheim,Émile.private.md) 
 
-### [Durkheim,Émile.personal](/_personal/Economics/Durkheim,Émile.personal.md) 
+### #is_/same_as :: [Durkheim,Émile.personal](/_personal/Economics/Durkheim,Émile.personal.md) 
 
-### [Durkheim,Émile.secret](/_secret/Economics/Durkheim,Émile.secret.md)
+### #is_/same_as :: [Durkheim,Émile.secret](/_secret/Economics/Durkheim,Émile.secret.md)
 

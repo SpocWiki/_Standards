@@ -87,17 +87,17 @@ because the Events are often completed Circles of 2*[[Pi]].
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Frequency](/_Standards/Dimension/Derived_Dimension/Dim~Frequency.md) 
+### #is_/same_as :: [Dim~Frequency](/_Standards/Dimension/Derived_Dimension/Dim~Frequency.md) 
 
-### [Dim~Frequency.public](/_public/Dimension/Derived_Dimension/Dim~Frequency.public.md) 
+### #is_/same_as :: [Dim~Frequency.public](/_public/Dimension/Derived_Dimension/Dim~Frequency.public.md) 
 
-### [Dim~Frequency.internal](/_internal/Dimension/Derived_Dimension/Dim~Frequency.internal.md) 
+### #is_/same_as :: [Dim~Frequency.internal](/_internal/Dimension/Derived_Dimension/Dim~Frequency.internal.md) 
 
-### [Dim~Frequency.protect](/_protect/Dimension/Derived_Dimension/Dim~Frequency.protect.md) 
+### #is_/same_as :: [Dim~Frequency.protect](/_protect/Dimension/Derived_Dimension/Dim~Frequency.protect.md) 
 
-### [Dim~Frequency.private](/_private/Dimension/Derived_Dimension/Dim~Frequency.private.md) 
+### #is_/same_as :: [Dim~Frequency.private](/_private/Dimension/Derived_Dimension/Dim~Frequency.private.md) 
 
-### [Dim~Frequency.personal](/_personal/Dimension/Derived_Dimension/Dim~Frequency.personal.md) 
+### #is_/same_as :: [Dim~Frequency.personal](/_personal/Dimension/Derived_Dimension/Dim~Frequency.personal.md) 
 
-### [Dim~Frequency.secret](/_secret/Dimension/Derived_Dimension/Dim~Frequency.secret.md)
+### #is_/same_as :: [Dim~Frequency.secret](/_secret/Dimension/Derived_Dimension/Dim~Frequency.secret.md)
 

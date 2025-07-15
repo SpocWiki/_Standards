@@ -35,17 +35,17 @@ Krugosvet_article: matematika/uravneniya
 
 ## Confidential Links & Embeds: 
 
-### [Equation](/_Standards/Mathematics/Equation.md) 
+### #is_/same_as :: [Equation](/_Standards/Mathematics/Equation.md) 
 
-### [Equation.public](/_public/Mathematics/Equation.public.md) 
+### #is_/same_as :: [Equation.public](/_public/Mathematics/Equation.public.md) 
 
-### [Equation.internal](/_internal/Mathematics/Equation.internal.md) 
+### #is_/same_as :: [Equation.internal](/_internal/Mathematics/Equation.internal.md) 
 
-### [Equation.protect](/_protect/Mathematics/Equation.protect.md) 
+### #is_/same_as :: [Equation.protect](/_protect/Mathematics/Equation.protect.md) 
 
-### [Equation.private](/_private/Mathematics/Equation.private.md) 
+### #is_/same_as :: [Equation.private](/_private/Mathematics/Equation.private.md) 
 
-### [Equation.personal](/_personal/Mathematics/Equation.personal.md) 
+### #is_/same_as :: [Equation.personal](/_personal/Mathematics/Equation.personal.md) 
 
-### [Equation.secret](/_secret/Mathematics/Equation.secret.md)
+### #is_/same_as :: [Equation.secret](/_secret/Mathematics/Equation.secret.md)
 

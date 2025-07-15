@@ -71,17 +71,17 @@ The Lists are a union of individual Lists by Domain:
 
 ## Confidential Links & Embeds: 
 
-### [WikiData](/_Standards/WikiData.md) 
+### #is_/same_as :: [WikiData](/_Standards/WikiData.md) 
 
-### [WikiData.public](/_public/WikiData.public.md) 
+### #is_/same_as :: [WikiData.public](/_public/WikiData.public.md) 
 
-### [WikiData.internal](/_internal/WikiData.internal.md) 
+### #is_/same_as :: [WikiData.internal](/_internal/WikiData.internal.md) 
 
-### [WikiData.protect](/_protect/WikiData.protect.md) 
+### #is_/same_as :: [WikiData.protect](/_protect/WikiData.protect.md) 
 
-### [WikiData.private](/_private/WikiData.private.md) 
+### #is_/same_as :: [WikiData.private](/_private/WikiData.private.md) 
 
-### [WikiData.personal](/_personal/WikiData.personal.md) 
+### #is_/same_as :: [WikiData.personal](/_personal/WikiData.personal.md) 
 
-### [WikiData.secret](/_secret/WikiData.secret.md)
+### #is_/same_as :: [WikiData.secret](/_secret/WikiData.secret.md)
 

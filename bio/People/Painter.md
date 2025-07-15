@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Painter](/_Standards/bio/People/Painter.md) 
+### #is_/same_as :: [Painter](/_Standards/bio/People/Painter.md) 
 
-### [Painter.public](/_public/bio/People/Painter.public.md) 
+### #is_/same_as :: [Painter.public](/_public/bio/People/Painter.public.md) 
 
-### [Painter.internal](/_internal/bio/People/Painter.internal.md) 
+### #is_/same_as :: [Painter.internal](/_internal/bio/People/Painter.internal.md) 
 
-### [Painter.protect](/_protect/bio/People/Painter.protect.md) 
+### #is_/same_as :: [Painter.protect](/_protect/bio/People/Painter.protect.md) 
 
-### [Painter.private](/_private/bio/People/Painter.private.md) 
+### #is_/same_as :: [Painter.private](/_private/bio/People/Painter.private.md) 
 
-### [Painter.personal](/_personal/bio/People/Painter.personal.md) 
+### #is_/same_as :: [Painter.personal](/_personal/bio/People/Painter.personal.md) 
 
-### [Painter.secret](/_secret/bio/People/Painter.secret.md)
+### #is_/same_as :: [Painter.secret](/_secret/bio/People/Painter.secret.md)
 

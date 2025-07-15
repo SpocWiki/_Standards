@@ -63,17 +63,17 @@ Commons_category: Sex
 
 ## Confidential Links & Embeds: 
 
-### [Sex](/_Standards/bio/Reproduction/Sex.md) 
+### #is_/same_as :: [Sex](/_Standards/bio/Reproduction/Sex.md) 
 
-### [Sex.public](/_public/bio/Reproduction/Sex.public.md) 
+### #is_/same_as :: [Sex.public](/_public/bio/Reproduction/Sex.public.md) 
 
-### [Sex.internal](/_internal/bio/Reproduction/Sex.internal.md) 
+### #is_/same_as :: [Sex.internal](/_internal/bio/Reproduction/Sex.internal.md) 
 
-### [Sex.protect](/_protect/bio/Reproduction/Sex.protect.md) 
+### #is_/same_as :: [Sex.protect](/_protect/bio/Reproduction/Sex.protect.md) 
 
-### [Sex.private](/_private/bio/Reproduction/Sex.private.md) 
+### #is_/same_as :: [Sex.private](/_private/bio/Reproduction/Sex.private.md) 
 
-### [Sex.personal](/_personal/bio/Reproduction/Sex.personal.md) 
+### #is_/same_as :: [Sex.personal](/_personal/bio/Reproduction/Sex.personal.md) 
 
-### [Sex.secret](/_secret/bio/Reproduction/Sex.secret.md)
+### #is_/same_as :: [Sex.secret](/_secret/bio/Reproduction/Sex.secret.md)
 

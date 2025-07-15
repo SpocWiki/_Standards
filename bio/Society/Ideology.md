@@ -26,17 +26,17 @@ Iconclass_notation: 52C52
 
 ## Confidential Links & Embeds: 
 
-### [Ideology](/_Standards/bio/Society/Ideology.md) 
+### #is_/same_as :: [Ideology](/_Standards/bio/Society/Ideology.md) 
 
-### [Ideology.public](/_public/bio/Society/Ideology.public.md) 
+### #is_/same_as :: [Ideology.public](/_public/bio/Society/Ideology.public.md) 
 
-### [Ideology.internal](/_internal/bio/Society/Ideology.internal.md) 
+### #is_/same_as :: [Ideology.internal](/_internal/bio/Society/Ideology.internal.md) 
 
-### [Ideology.protect](/_protect/bio/Society/Ideology.protect.md) 
+### #is_/same_as :: [Ideology.protect](/_protect/bio/Society/Ideology.protect.md) 
 
-### [Ideology.private](/_private/bio/Society/Ideology.private.md) 
+### #is_/same_as :: [Ideology.private](/_private/bio/Society/Ideology.private.md) 
 
-### [Ideology.personal](/_personal/bio/Society/Ideology.personal.md) 
+### #is_/same_as :: [Ideology.personal](/_personal/bio/Society/Ideology.personal.md) 
 
-### [Ideology.secret](/_secret/bio/Society/Ideology.secret.md)
+### #is_/same_as :: [Ideology.secret](/_secret/bio/Society/Ideology.secret.md)
 

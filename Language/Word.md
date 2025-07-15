@@ -47,17 +47,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20claromontanus
 
 ## Confidential Links & Embeds: 
 
-### [Word](/_Standards/Language/Word.md) 
+### #is_/same_as :: [Word](/_Standards/Language/Word.md) 
 
-### [Word.public](/_public/Language/Word.public.md) 
+### #is_/same_as :: [Word.public](/_public/Language/Word.public.md) 
 
-### [Word.internal](/_internal/Language/Word.internal.md) 
+### #is_/same_as :: [Word.internal](/_internal/Language/Word.internal.md) 
 
-### [Word.protect](/_protect/Language/Word.protect.md) 
+### #is_/same_as :: [Word.protect](/_protect/Language/Word.protect.md) 
 
-### [Word.private](/_private/Language/Word.private.md) 
+### #is_/same_as :: [Word.private](/_private/Language/Word.private.md) 
 
-### [Word.personal](/_personal/Language/Word.personal.md) 
+### #is_/same_as :: [Word.personal](/_personal/Language/Word.personal.md) 
 
-### [Word.secret](/_secret/Language/Word.secret.md)
+### #is_/same_as :: [Word.secret](/_secret/Language/Word.secret.md)
 

@@ -67,17 +67,17 @@ OpenStreetMap_tag_or_key: "Tag:healthcare:speciality=anatomy"
 
 ## Confidential Links & Embeds: 
 
-### [Anatomy](/_Standards/bio/Medicine/Anatomy.md) 
+### #is_/same_as :: [Anatomy](/_Standards/bio/Medicine/Anatomy.md) 
 
-### [Anatomy.public](/_public/bio/Medicine/Anatomy.public.md) 
+### #is_/same_as :: [Anatomy.public](/_public/bio/Medicine/Anatomy.public.md) 
 
-### [Anatomy.internal](/_internal/bio/Medicine/Anatomy.internal.md) 
+### #is_/same_as :: [Anatomy.internal](/_internal/bio/Medicine/Anatomy.internal.md) 
 
-### [Anatomy.protect](/_protect/bio/Medicine/Anatomy.protect.md) 
+### #is_/same_as :: [Anatomy.protect](/_protect/bio/Medicine/Anatomy.protect.md) 
 
-### [Anatomy.private](/_private/bio/Medicine/Anatomy.private.md) 
+### #is_/same_as :: [Anatomy.private](/_private/bio/Medicine/Anatomy.private.md) 
 
-### [Anatomy.personal](/_personal/bio/Medicine/Anatomy.personal.md) 
+### #is_/same_as :: [Anatomy.personal](/_personal/bio/Medicine/Anatomy.personal.md) 
 
-### [Anatomy.secret](/_secret/bio/Medicine/Anatomy.secret.md)
+### #is_/same_as :: [Anatomy.secret](/_secret/bio/Medicine/Anatomy.secret.md)
 

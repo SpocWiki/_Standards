@@ -75,17 +75,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [goodRelations](/_Standards/goodRelations.md) 
+### #is_/same_as :: [goodRelations](/_Standards/goodRelations.md) 
 
-### [goodRelations.public](/_public/goodRelations.public.md) 
+### #is_/same_as :: [goodRelations.public](/_public/goodRelations.public.md) 
 
-### [goodRelations.internal](/_internal/goodRelations.internal.md) 
+### #is_/same_as :: [goodRelations.internal](/_internal/goodRelations.internal.md) 
 
-### [goodRelations.protect](/_protect/goodRelations.protect.md) 
+### #is_/same_as :: [goodRelations.protect](/_protect/goodRelations.protect.md) 
 
-### [goodRelations.private](/_private/goodRelations.private.md) 
+### #is_/same_as :: [goodRelations.private](/_private/goodRelations.private.md) 
 
-### [goodRelations.personal](/_personal/goodRelations.personal.md) 
+### #is_/same_as :: [goodRelations.personal](/_personal/goodRelations.personal.md) 
 
-### [goodRelations.secret](/_secret/goodRelations.secret.md)
+### #is_/same_as :: [goodRelations.secret](/_secret/goodRelations.secret.md)
 

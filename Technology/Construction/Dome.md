@@ -18,17 +18,17 @@ has_id_wikidata: Q12493
 
 ## Confidential Links & Embeds: 
 
-### [Dome](/_Standards/Technology/Construction/Dome.md) 
+### #is_/same_as :: [Dome](/_Standards/Technology/Construction/Dome.md) 
 
-### [Dome.public](/_public/Technology/Construction/Dome.public.md) 
+### #is_/same_as :: [Dome.public](/_public/Technology/Construction/Dome.public.md) 
 
-### [Dome.internal](/_internal/Technology/Construction/Dome.internal.md) 
+### #is_/same_as :: [Dome.internal](/_internal/Technology/Construction/Dome.internal.md) 
 
-### [Dome.protect](/_protect/Technology/Construction/Dome.protect.md) 
+### #is_/same_as :: [Dome.protect](/_protect/Technology/Construction/Dome.protect.md) 
 
-### [Dome.private](/_private/Technology/Construction/Dome.private.md) 
+### #is_/same_as :: [Dome.private](/_private/Technology/Construction/Dome.private.md) 
 
-### [Dome.personal](/_personal/Technology/Construction/Dome.personal.md) 
+### #is_/same_as :: [Dome.personal](/_personal/Technology/Construction/Dome.personal.md) 
 
-### [Dome.secret](/_secret/Technology/Construction/Dome.secret.md)
+### #is_/same_as :: [Dome.secret](/_secret/Technology/Construction/Dome.secret.md)
 

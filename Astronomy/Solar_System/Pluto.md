@@ -106,17 +106,17 @@ video: "http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50
 
 ## Confidential Links & Embeds: 
 
-### [Pluto](/_Standards/Astronomy/Solar_System/Pluto.md) 
+### #is_/same_as :: [Pluto](/_Standards/Astronomy/Solar_System/Pluto.md) 
 
-### [Pluto.public](/_public/Astronomy/Solar_System/Pluto.public.md) 
+### #is_/same_as :: [Pluto.public](/_public/Astronomy/Solar_System/Pluto.public.md) 
 
-### [Pluto.internal](/_internal/Astronomy/Solar_System/Pluto.internal.md) 
+### #is_/same_as :: [Pluto.internal](/_internal/Astronomy/Solar_System/Pluto.internal.md) 
 
-### [Pluto.protect](/_protect/Astronomy/Solar_System/Pluto.protect.md) 
+### #is_/same_as :: [Pluto.protect](/_protect/Astronomy/Solar_System/Pluto.protect.md) 
 
-### [Pluto.private](/_private/Astronomy/Solar_System/Pluto.private.md) 
+### #is_/same_as :: [Pluto.private](/_private/Astronomy/Solar_System/Pluto.private.md) 
 
-### [Pluto.personal](/_personal/Astronomy/Solar_System/Pluto.personal.md) 
+### #is_/same_as :: [Pluto.personal](/_personal/Astronomy/Solar_System/Pluto.personal.md) 
 
-### [Pluto.secret](/_secret/Astronomy/Solar_System/Pluto.secret.md)
+### #is_/same_as :: [Pluto.secret](/_secret/Astronomy/Solar_System/Pluto.secret.md)
 

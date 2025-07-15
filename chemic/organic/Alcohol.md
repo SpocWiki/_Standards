@@ -73,17 +73,17 @@ Beeinträchtigt wird Immunsystem, Krebsgefahr steigt.
 
 ## Confidential Links & Embeds: 
 
-### [Alcohol](/_Standards/chemic/organic/Alcohol.md) 
+### #is_/same_as :: [Alcohol](/_Standards/chemic/organic/Alcohol.md) 
 
-### [Alcohol.public](/_public/chemic/organic/Alcohol.public.md) 
+### #is_/same_as :: [Alcohol.public](/_public/chemic/organic/Alcohol.public.md) 
 
-### [Alcohol.internal](/_internal/chemic/organic/Alcohol.internal.md) 
+### #is_/same_as :: [Alcohol.internal](/_internal/chemic/organic/Alcohol.internal.md) 
 
-### [Alcohol.protect](/_protect/chemic/organic/Alcohol.protect.md) 
+### #is_/same_as :: [Alcohol.protect](/_protect/chemic/organic/Alcohol.protect.md) 
 
-### [Alcohol.private](/_private/chemic/organic/Alcohol.private.md) 
+### #is_/same_as :: [Alcohol.private](/_private/chemic/organic/Alcohol.private.md) 
 
-### [Alcohol.personal](/_personal/chemic/organic/Alcohol.personal.md) 
+### #is_/same_as :: [Alcohol.personal](/_personal/chemic/organic/Alcohol.personal.md) 
 
-### [Alcohol.secret](/_secret/chemic/organic/Alcohol.secret.md)
+### #is_/same_as :: [Alcohol.secret](/_secret/chemic/organic/Alcohol.secret.md)
 

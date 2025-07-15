@@ -60,17 +60,17 @@ PhilPapers_topic: numbers
 
 ## Confidential Links & Embeds: 
 
-### [Number](/_Standards/Mathematics/Number.md) 
+### #is_/same_as :: [Number](/_Standards/Mathematics/Number.md) 
 
-### [Number.public](/_public/Mathematics/Number.public.md) 
+### #is_/same_as :: [Number.public](/_public/Mathematics/Number.public.md) 
 
-### [Number.internal](/_internal/Mathematics/Number.internal.md) 
+### #is_/same_as :: [Number.internal](/_internal/Mathematics/Number.internal.md) 
 
-### [Number.protect](/_protect/Mathematics/Number.protect.md) 
+### #is_/same_as :: [Number.protect](/_protect/Mathematics/Number.protect.md) 
 
-### [Number.private](/_private/Mathematics/Number.private.md) 
+### #is_/same_as :: [Number.private](/_private/Mathematics/Number.private.md) 
 
-### [Number.personal](/_personal/Mathematics/Number.personal.md) 
+### #is_/same_as :: [Number.personal](/_personal/Mathematics/Number.personal.md) 
 
-### [Number.secret](/_secret/Mathematics/Number.secret.md)
+### #is_/same_as :: [Number.secret](/_secret/Mathematics/Number.secret.md)
 

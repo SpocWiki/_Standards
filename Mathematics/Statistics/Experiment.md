@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Experiment](/_Standards/Mathematics/Statistics/Experiment.md) 
+### #is_/same_as :: [Experiment](/_Standards/Mathematics/Statistics/Experiment.md) 
 
-### [Experiment.public](/_public/Mathematics/Statistics/Experiment.public.md) 
+### #is_/same_as :: [Experiment.public](/_public/Mathematics/Statistics/Experiment.public.md) 
 
-### [Experiment.internal](/_internal/Mathematics/Statistics/Experiment.internal.md) 
+### #is_/same_as :: [Experiment.internal](/_internal/Mathematics/Statistics/Experiment.internal.md) 
 
-### [Experiment.protect](/_protect/Mathematics/Statistics/Experiment.protect.md) 
+### #is_/same_as :: [Experiment.protect](/_protect/Mathematics/Statistics/Experiment.protect.md) 
 
-### [Experiment.private](/_private/Mathematics/Statistics/Experiment.private.md) 
+### #is_/same_as :: [Experiment.private](/_private/Mathematics/Statistics/Experiment.private.md) 
 
-### [Experiment.personal](/_personal/Mathematics/Statistics/Experiment.personal.md) 
+### #is_/same_as :: [Experiment.personal](/_personal/Mathematics/Statistics/Experiment.personal.md) 
 
-### [Experiment.secret](/_secret/Mathematics/Statistics/Experiment.secret.md)
+### #is_/same_as :: [Experiment.secret](/_secret/Mathematics/Statistics/Experiment.secret.md)
 

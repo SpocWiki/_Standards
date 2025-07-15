@@ -47,17 +47,17 @@ Commons_category: "Mathematical proof"
 
 ## Confidential Links & Embeds: 
 
-### [Proof(Math)](/_Standards/Mathematics/Proof(Math).md) 
+### #is_/same_as :: [Proof(Math)](/_Standards/Mathematics/Proof(Math).md) 
 
-### [Proof(Math).public](/_public/Mathematics/Proof(Math).public.md) 
+### #is_/same_as :: [Proof(Math).public](/_public/Mathematics/Proof(Math).public.md) 
 
-### [Proof(Math).internal](/_internal/Mathematics/Proof(Math).internal.md) 
+### #is_/same_as :: [Proof(Math).internal](/_internal/Mathematics/Proof(Math).internal.md) 
 
-### [Proof(Math).protect](/_protect/Mathematics/Proof(Math).protect.md) 
+### #is_/same_as :: [Proof(Math).protect](/_protect/Mathematics/Proof(Math).protect.md) 
 
-### [Proof(Math).private](/_private/Mathematics/Proof(Math).private.md) 
+### #is_/same_as :: [Proof(Math).private](/_private/Mathematics/Proof(Math).private.md) 
 
-### [Proof(Math).personal](/_personal/Mathematics/Proof(Math).personal.md) 
+### #is_/same_as :: [Proof(Math).personal](/_personal/Mathematics/Proof(Math).personal.md) 
 
-### [Proof(Math).secret](/_secret/Mathematics/Proof(Math).secret.md)
+### #is_/same_as :: [Proof(Math).secret](/_secret/Mathematics/Proof(Math).secret.md)
 

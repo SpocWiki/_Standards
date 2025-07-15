@@ -58,17 +58,17 @@ MeSH_tree_code: J01.937.285.100
 
 ## Confidential Links & Embeds: 
 
-### [Aircraft](/_Standards/Technology/Aviation/Aircraft.md) 
+### #is_/same_as :: [Aircraft](/_Standards/Technology/Aviation/Aircraft.md) 
 
-### [Aircraft.public](/_public/Technology/Aviation/Aircraft.public.md) 
+### #is_/same_as :: [Aircraft.public](/_public/Technology/Aviation/Aircraft.public.md) 
 
-### [Aircraft.internal](/_internal/Technology/Aviation/Aircraft.internal.md) 
+### #is_/same_as :: [Aircraft.internal](/_internal/Technology/Aviation/Aircraft.internal.md) 
 
-### [Aircraft.protect](/_protect/Technology/Aviation/Aircraft.protect.md) 
+### #is_/same_as :: [Aircraft.protect](/_protect/Technology/Aviation/Aircraft.protect.md) 
 
-### [Aircraft.private](/_private/Technology/Aviation/Aircraft.private.md) 
+### #is_/same_as :: [Aircraft.private](/_private/Technology/Aviation/Aircraft.private.md) 
 
-### [Aircraft.personal](/_personal/Technology/Aviation/Aircraft.personal.md) 
+### #is_/same_as :: [Aircraft.personal](/_personal/Technology/Aviation/Aircraft.personal.md) 
 
-### [Aircraft.secret](/_secret/Technology/Aviation/Aircraft.secret.md)
+### #is_/same_as :: [Aircraft.secret](/_secret/Technology/Aviation/Aircraft.secret.md)
 

@@ -106,17 +106,17 @@ Commons_category: Rivers
 
 ## Confidential Links & Embeds: 
 
-### [River](/_Standards/Earth/Geology/River.md) 
+### #is_/same_as :: [River](/_Standards/Earth/Geology/River.md) 
 
-### [River.public](/_public/Earth/Geology/River.public.md) 
+### #is_/same_as :: [River.public](/_public/Earth/Geology/River.public.md) 
 
-### [River.internal](/_internal/Earth/Geology/River.internal.md) 
+### #is_/same_as :: [River.internal](/_internal/Earth/Geology/River.internal.md) 
 
-### [River.protect](/_protect/Earth/Geology/River.protect.md) 
+### #is_/same_as :: [River.protect](/_protect/Earth/Geology/River.protect.md) 
 
-### [River.private](/_private/Earth/Geology/River.private.md) 
+### #is_/same_as :: [River.private](/_private/Earth/Geology/River.private.md) 
 
-### [River.personal](/_personal/Earth/Geology/River.personal.md) 
+### #is_/same_as :: [River.personal](/_personal/Earth/Geology/River.personal.md) 
 
-### [River.secret](/_secret/Earth/Geology/River.secret.md)
+### #is_/same_as :: [River.secret](/_secret/Earth/Geology/River.secret.md)
 

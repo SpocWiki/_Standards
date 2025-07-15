@@ -25,17 +25,17 @@ Components:: {"type":"MultiFile","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Composite](/_Standards/fileClass/FileClass~Composite.md) 
+### #is_/same_as :: [FileClass~Composite](/_Standards/fileClass/FileClass~Composite.md) 
 
-### [FileClass~Composite.public](/_public/fileClass/FileClass~Composite.public.md) 
+### #is_/same_as :: [FileClass~Composite.public](/_public/fileClass/FileClass~Composite.public.md) 
 
-### [FileClass~Composite.internal](/_internal/fileClass/FileClass~Composite.internal.md) 
+### #is_/same_as :: [FileClass~Composite.internal](/_internal/fileClass/FileClass~Composite.internal.md) 
 
-### [FileClass~Composite.protect](/_protect/fileClass/FileClass~Composite.protect.md) 
+### #is_/same_as :: [FileClass~Composite.protect](/_protect/fileClass/FileClass~Composite.protect.md) 
 
-### [FileClass~Composite.private](/_private/fileClass/FileClass~Composite.private.md) 
+### #is_/same_as :: [FileClass~Composite.private](/_private/fileClass/FileClass~Composite.private.md) 
 
-### [FileClass~Composite.personal](/_personal/fileClass/FileClass~Composite.personal.md) 
+### #is_/same_as :: [FileClass~Composite.personal](/_personal/fileClass/FileClass~Composite.personal.md) 
 
-### [FileClass~Composite.secret](/_secret/fileClass/FileClass~Composite.secret.md)
+### #is_/same_as :: [FileClass~Composite.secret](/_secret/fileClass/FileClass~Composite.secret.md)
 

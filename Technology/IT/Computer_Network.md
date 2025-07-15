@@ -46,17 +46,17 @@ subreddit: networking
 
 ## Confidential Links & Embeds: 
 
-### [Computer_Network](/_Standards/Technology/IT/Computer_Network.md) 
+### #is_/same_as :: [Computer_Network](/_Standards/Technology/IT/Computer_Network.md) 
 
-### [Computer_Network.public](/_public/Technology/IT/Computer_Network.public.md) 
+### #is_/same_as :: [Computer_Network.public](/_public/Technology/IT/Computer_Network.public.md) 
 
-### [Computer_Network.internal](/_internal/Technology/IT/Computer_Network.internal.md) 
+### #is_/same_as :: [Computer_Network.internal](/_internal/Technology/IT/Computer_Network.internal.md) 
 
-### [Computer_Network.protect](/_protect/Technology/IT/Computer_Network.protect.md) 
+### #is_/same_as :: [Computer_Network.protect](/_protect/Technology/IT/Computer_Network.protect.md) 
 
-### [Computer_Network.private](/_private/Technology/IT/Computer_Network.private.md) 
+### #is_/same_as :: [Computer_Network.private](/_private/Technology/IT/Computer_Network.private.md) 
 
-### [Computer_Network.personal](/_personal/Technology/IT/Computer_Network.personal.md) 
+### #is_/same_as :: [Computer_Network.personal](/_personal/Technology/IT/Computer_Network.personal.md) 
 
-### [Computer_Network.secret](/_secret/Technology/IT/Computer_Network.secret.md)
+### #is_/same_as :: [Computer_Network.secret](/_secret/Technology/IT/Computer_Network.secret.md)
 

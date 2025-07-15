@@ -69,17 +69,17 @@ Iconclass_notation: 49E21
 
 ## Confidential Links & Embeds: 
 
-### [Physics](/_Standards/Science/Physics.md) 
+### #is_/same_as :: [Physics](/_Standards/Science/Physics.md) 
 
-### [Physics.public](/_public/Science/Physics.public.md) 
+### #is_/same_as :: [Physics.public](/_public/Science/Physics.public.md) 
 
-### [Physics.internal](/_internal/Science/Physics.internal.md) 
+### #is_/same_as :: [Physics.internal](/_internal/Science/Physics.internal.md) 
 
-### [Physics.protect](/_protect/Science/Physics.protect.md) 
+### #is_/same_as :: [Physics.protect](/_protect/Science/Physics.protect.md) 
 
-### [Physics.private](/_private/Science/Physics.private.md) 
+### #is_/same_as :: [Physics.private](/_private/Science/Physics.private.md) 
 
-### [Physics.personal](/_personal/Science/Physics.personal.md) 
+### #is_/same_as :: [Physics.personal](/_personal/Science/Physics.personal.md) 
 
-### [Physics.secret](/_secret/Science/Physics.secret.md)
+### #is_/same_as :: [Physics.secret](/_secret/Science/Physics.secret.md)
 

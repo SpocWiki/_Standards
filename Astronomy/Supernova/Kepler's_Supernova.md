@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Kepler's_Supernova](/_Standards/Astronomy/Supernova/Kepler's_Supernova.md) 
+### #is_/same_as :: [Kepler's_Supernova](/_Standards/Astronomy/Supernova/Kepler's_Supernova.md) 
 
-### [Kepler's_Supernova.public](/_public/Astronomy/Supernova/Kepler's_Supernova.public.md) 
+### #is_/same_as :: [Kepler's_Supernova.public](/_public/Astronomy/Supernova/Kepler's_Supernova.public.md) 
 
-### [Kepler's_Supernova.internal](/_internal/Astronomy/Supernova/Kepler's_Supernova.internal.md) 
+### #is_/same_as :: [Kepler's_Supernova.internal](/_internal/Astronomy/Supernova/Kepler's_Supernova.internal.md) 
 
-### [Kepler's_Supernova.protect](/_protect/Astronomy/Supernova/Kepler's_Supernova.protect.md) 
+### #is_/same_as :: [Kepler's_Supernova.protect](/_protect/Astronomy/Supernova/Kepler's_Supernova.protect.md) 
 
-### [Kepler's_Supernova.private](/_private/Astronomy/Supernova/Kepler's_Supernova.private.md) 
+### #is_/same_as :: [Kepler's_Supernova.private](/_private/Astronomy/Supernova/Kepler's_Supernova.private.md) 
 
-### [Kepler's_Supernova.personal](/_personal/Astronomy/Supernova/Kepler's_Supernova.personal.md) 
+### #is_/same_as :: [Kepler's_Supernova.personal](/_personal/Astronomy/Supernova/Kepler's_Supernova.personal.md) 
 
-### [Kepler's_Supernova.secret](/_secret/Astronomy/Supernova/Kepler's_Supernova.secret.md)
+### #is_/same_as :: [Kepler's_Supernova.secret](/_secret/Astronomy/Supernova/Kepler's_Supernova.secret.md)
 

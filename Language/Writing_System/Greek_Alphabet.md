@@ -24,17 +24,17 @@ has_id_wikidata: Q8216
 
 ## Confidential Links & Embeds: 
 
-### [Greek_Alphabet](/_Standards/Language/Writing_System/Greek_Alphabet.md) 
+### #is_/same_as :: [Greek_Alphabet](/_Standards/Language/Writing_System/Greek_Alphabet.md) 
 
-### [Greek_Alphabet.public](/_public/Language/Writing_System/Greek_Alphabet.public.md) 
+### #is_/same_as :: [Greek_Alphabet.public](/_public/Language/Writing_System/Greek_Alphabet.public.md) 
 
-### [Greek_Alphabet.internal](/_internal/Language/Writing_System/Greek_Alphabet.internal.md) 
+### #is_/same_as :: [Greek_Alphabet.internal](/_internal/Language/Writing_System/Greek_Alphabet.internal.md) 
 
-### [Greek_Alphabet.protect](/_protect/Language/Writing_System/Greek_Alphabet.protect.md) 
+### #is_/same_as :: [Greek_Alphabet.protect](/_protect/Language/Writing_System/Greek_Alphabet.protect.md) 
 
-### [Greek_Alphabet.private](/_private/Language/Writing_System/Greek_Alphabet.private.md) 
+### #is_/same_as :: [Greek_Alphabet.private](/_private/Language/Writing_System/Greek_Alphabet.private.md) 
 
-### [Greek_Alphabet.personal](/_personal/Language/Writing_System/Greek_Alphabet.personal.md) 
+### #is_/same_as :: [Greek_Alphabet.personal](/_personal/Language/Writing_System/Greek_Alphabet.personal.md) 
 
-### [Greek_Alphabet.secret](/_secret/Language/Writing_System/Greek_Alphabet.secret.md)
+### #is_/same_as :: [Greek_Alphabet.secret](/_secret/Language/Writing_System/Greek_Alphabet.secret.md)
 

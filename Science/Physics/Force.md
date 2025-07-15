@@ -63,17 +63,17 @@ ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"blo
 
 ## Confidential Links & Embeds: 
 
-### [Force](/_Standards/Science/Physics/Force.md) 
+### #is_/same_as :: [Force](/_Standards/Science/Physics/Force.md) 
 
-### [Force.public](/_public/Science/Physics/Force.public.md) 
+### #is_/same_as :: [Force.public](/_public/Science/Physics/Force.public.md) 
 
-### [Force.internal](/_internal/Science/Physics/Force.internal.md) 
+### #is_/same_as :: [Force.internal](/_internal/Science/Physics/Force.internal.md) 
 
-### [Force.protect](/_protect/Science/Physics/Force.protect.md) 
+### #is_/same_as :: [Force.protect](/_protect/Science/Physics/Force.protect.md) 
 
-### [Force.private](/_private/Science/Physics/Force.private.md) 
+### #is_/same_as :: [Force.private](/_private/Science/Physics/Force.private.md) 
 
-### [Force.personal](/_personal/Science/Physics/Force.personal.md) 
+### #is_/same_as :: [Force.personal](/_personal/Science/Physics/Force.personal.md) 
 
-### [Force.secret](/_secret/Science/Physics/Force.secret.md)
+### #is_/same_as :: [Force.secret](/_secret/Science/Physics/Force.secret.md)
 

@@ -40,17 +40,17 @@ notation: '[[_Standards/WikiData/WD~Σ,14413]]'
 
 ## Confidential Links & Embeds: 
 
-### [Syllable](/_Standards/Language/Word/Syllable.md) 
+### #is_/same_as :: [Syllable](/_Standards/Language/Word/Syllable.md) 
 
-### [Syllable.public](/_public/Language/Word/Syllable.public.md) 
+### #is_/same_as :: [Syllable.public](/_public/Language/Word/Syllable.public.md) 
 
-### [Syllable.internal](/_internal/Language/Word/Syllable.internal.md) 
+### #is_/same_as :: [Syllable.internal](/_internal/Language/Word/Syllable.internal.md) 
 
-### [Syllable.protect](/_protect/Language/Word/Syllable.protect.md) 
+### #is_/same_as :: [Syllable.protect](/_protect/Language/Word/Syllable.protect.md) 
 
-### [Syllable.private](/_private/Language/Word/Syllable.private.md) 
+### #is_/same_as :: [Syllable.private](/_private/Language/Word/Syllable.private.md) 
 
-### [Syllable.personal](/_personal/Language/Word/Syllable.personal.md) 
+### #is_/same_as :: [Syllable.personal](/_personal/Language/Word/Syllable.personal.md) 
 
-### [Syllable.secret](/_secret/Language/Word/Syllable.secret.md)
+### #is_/same_as :: [Syllable.secret](/_secret/Language/Word/Syllable.secret.md)
 

@@ -10,17 +10,17 @@ Simplified Han-Script:
 
 ## Confidential Links & Embeds: 
 
-### [Script~Hans](/_Standards/Language/Scripts/Script~Hans.md) 
+### #is_/same_as :: [Script~Hans](/_Standards/Language/Scripts/Script~Hans.md) 
 
-### [Script~Hans.public](/_public/Language/Scripts/Script~Hans.public.md) 
+### #is_/same_as :: [Script~Hans.public](/_public/Language/Scripts/Script~Hans.public.md) 
 
-### [Script~Hans.internal](/_internal/Language/Scripts/Script~Hans.internal.md) 
+### #is_/same_as :: [Script~Hans.internal](/_internal/Language/Scripts/Script~Hans.internal.md) 
 
-### [Script~Hans.protect](/_protect/Language/Scripts/Script~Hans.protect.md) 
+### #is_/same_as :: [Script~Hans.protect](/_protect/Language/Scripts/Script~Hans.protect.md) 
 
-### [Script~Hans.private](/_private/Language/Scripts/Script~Hans.private.md) 
+### #is_/same_as :: [Script~Hans.private](/_private/Language/Scripts/Script~Hans.private.md) 
 
-### [Script~Hans.personal](/_personal/Language/Scripts/Script~Hans.personal.md) 
+### #is_/same_as :: [Script~Hans.personal](/_personal/Language/Scripts/Script~Hans.personal.md) 
 
-### [Script~Hans.secret](/_secret/Language/Scripts/Script~Hans.secret.md)
+### #is_/same_as :: [Script~Hans.secret](/_secret/Language/Scripts/Script~Hans.secret.md)
 

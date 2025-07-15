@@ -26,17 +26,17 @@ has_id_wikidata: Q11464
 
 ## Confidential Links & Embeds: 
 
-### [Plough](/_Standards/Technology/Tool/Plough.md) 
+### #is_/same_as :: [Plough](/_Standards/Technology/Tool/Plough.md) 
 
-### [Plough.public](/_public/Technology/Tool/Plough.public.md) 
+### #is_/same_as :: [Plough.public](/_public/Technology/Tool/Plough.public.md) 
 
-### [Plough.internal](/_internal/Technology/Tool/Plough.internal.md) 
+### #is_/same_as :: [Plough.internal](/_internal/Technology/Tool/Plough.internal.md) 
 
-### [Plough.protect](/_protect/Technology/Tool/Plough.protect.md) 
+### #is_/same_as :: [Plough.protect](/_protect/Technology/Tool/Plough.protect.md) 
 
-### [Plough.private](/_private/Technology/Tool/Plough.private.md) 
+### #is_/same_as :: [Plough.private](/_private/Technology/Tool/Plough.private.md) 
 
-### [Plough.personal](/_personal/Technology/Tool/Plough.personal.md) 
+### #is_/same_as :: [Plough.personal](/_personal/Technology/Tool/Plough.personal.md) 
 
-### [Plough.secret](/_secret/Technology/Tool/Plough.secret.md)
+### #is_/same_as :: [Plough.secret](/_secret/Technology/Tool/Plough.secret.md)
 

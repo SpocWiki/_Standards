@@ -39,17 +39,17 @@ Login: heuerm
 
 ## Confidential Links & Embeds: 
 
-### [UNSPSC](/_Standards/schema-org/Relation/UNSPSC.md) 
+### #is_/same_as :: [UNSPSC](/_Standards/schema-org/Relation/UNSPSC.md) 
 
-### [UNSPSC.public](/_public/schema-org/Relation/UNSPSC.public.md) 
+### #is_/same_as :: [UNSPSC.public](/_public/schema-org/Relation/UNSPSC.public.md) 
 
-### [UNSPSC.internal](/_internal/schema-org/Relation/UNSPSC.internal.md) 
+### #is_/same_as :: [UNSPSC.internal](/_internal/schema-org/Relation/UNSPSC.internal.md) 
 
-### [UNSPSC.protect](/_protect/schema-org/Relation/UNSPSC.protect.md) 
+### #is_/same_as :: [UNSPSC.protect](/_protect/schema-org/Relation/UNSPSC.protect.md) 
 
-### [UNSPSC.private](/_private/schema-org/Relation/UNSPSC.private.md) 
+### #is_/same_as :: [UNSPSC.private](/_private/schema-org/Relation/UNSPSC.private.md) 
 
-### [UNSPSC.personal](/_personal/schema-org/Relation/UNSPSC.personal.md) 
+### #is_/same_as :: [UNSPSC.personal](/_personal/schema-org/Relation/UNSPSC.personal.md) 
 
-### [UNSPSC.secret](/_secret/schema-org/Relation/UNSPSC.secret.md)
+### #is_/same_as :: [UNSPSC.secret](/_secret/schema-org/Relation/UNSPSC.secret.md)
 

@@ -84,17 +84,17 @@ subreddit: plastic
 
 ## Confidential Links & Embeds: 
 
-### [Plastic](/_Standards/chemic/organic/Plastic.md) 
+### #is_/same_as :: [Plastic](/_Standards/chemic/organic/Plastic.md) 
 
-### [Plastic.public](/_public/chemic/organic/Plastic.public.md) 
+### #is_/same_as :: [Plastic.public](/_public/chemic/organic/Plastic.public.md) 
 
-### [Plastic.internal](/_internal/chemic/organic/Plastic.internal.md) 
+### #is_/same_as :: [Plastic.internal](/_internal/chemic/organic/Plastic.internal.md) 
 
-### [Plastic.protect](/_protect/chemic/organic/Plastic.protect.md) 
+### #is_/same_as :: [Plastic.protect](/_protect/chemic/organic/Plastic.protect.md) 
 
-### [Plastic.private](/_private/chemic/organic/Plastic.private.md) 
+### #is_/same_as :: [Plastic.private](/_private/chemic/organic/Plastic.private.md) 
 
-### [Plastic.personal](/_personal/chemic/organic/Plastic.personal.md) 
+### #is_/same_as :: [Plastic.personal](/_personal/chemic/organic/Plastic.personal.md) 
 
-### [Plastic.secret](/_secret/chemic/organic/Plastic.secret.md)
+### #is_/same_as :: [Plastic.secret](/_secret/chemic/organic/Plastic.secret.md)
 

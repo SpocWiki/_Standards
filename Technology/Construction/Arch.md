@@ -34,17 +34,17 @@ Krugosvet_article:
 
 ## Confidential Links & Embeds: 
 
-### [Arch](/_Standards/Technology/Construction/Arch.md) 
+### #is_/same_as :: [Arch](/_Standards/Technology/Construction/Arch.md) 
 
-### [Arch.public](/_public/Technology/Construction/Arch.public.md) 
+### #is_/same_as :: [Arch.public](/_public/Technology/Construction/Arch.public.md) 
 
-### [Arch.internal](/_internal/Technology/Construction/Arch.internal.md) 
+### #is_/same_as :: [Arch.internal](/_internal/Technology/Construction/Arch.internal.md) 
 
-### [Arch.protect](/_protect/Technology/Construction/Arch.protect.md) 
+### #is_/same_as :: [Arch.protect](/_protect/Technology/Construction/Arch.protect.md) 
 
-### [Arch.private](/_private/Technology/Construction/Arch.private.md) 
+### #is_/same_as :: [Arch.private](/_private/Technology/Construction/Arch.private.md) 
 
-### [Arch.personal](/_personal/Technology/Construction/Arch.personal.md) 
+### #is_/same_as :: [Arch.personal](/_personal/Technology/Construction/Arch.personal.md) 
 
-### [Arch.secret](/_secret/Technology/Construction/Arch.secret.md)
+### #is_/same_as :: [Arch.secret](/_secret/Technology/Construction/Arch.secret.md)
 

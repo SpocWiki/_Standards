@@ -87,17 +87,17 @@ has_time_started: "-57000"
 
 ## Confidential Links & Embeds: 
 
-### [Clothing](/_Standards/Technology/Tool/Clothing.md) 
+### #is_/same_as :: [Clothing](/_Standards/Technology/Tool/Clothing.md) 
 
-### [Clothing.public](/_public/Technology/Tool/Clothing.public.md) 
+### #is_/same_as :: [Clothing.public](/_public/Technology/Tool/Clothing.public.md) 
 
-### [Clothing.internal](/_internal/Technology/Tool/Clothing.internal.md) 
+### #is_/same_as :: [Clothing.internal](/_internal/Technology/Tool/Clothing.internal.md) 
 
-### [Clothing.protect](/_protect/Technology/Tool/Clothing.protect.md) 
+### #is_/same_as :: [Clothing.protect](/_protect/Technology/Tool/Clothing.protect.md) 
 
-### [Clothing.private](/_private/Technology/Tool/Clothing.private.md) 
+### #is_/same_as :: [Clothing.private](/_private/Technology/Tool/Clothing.private.md) 
 
-### [Clothing.personal](/_personal/Technology/Tool/Clothing.personal.md) 
+### #is_/same_as :: [Clothing.personal](/_personal/Technology/Tool/Clothing.personal.md) 
 
-### [Clothing.secret](/_secret/Technology/Tool/Clothing.secret.md)
+### #is_/same_as :: [Clothing.secret](/_secret/Technology/Tool/Clothing.secret.md)
 

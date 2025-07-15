@@ -47,17 +47,17 @@ GitHub_topic: numerical-analysis
 
 ## Confidential Links & Embeds: 
 
-### [Numerical_Analysis](/_Standards/Mathematics/Analysis(Math)/Numerical_Analysis.md) 
+### #is_/same_as :: [Numerical_Analysis](/_Standards/Mathematics/Analysis(Math)/Numerical_Analysis.md) 
 
-### [Numerical_Analysis.public](/_public/Mathematics/Analysis(Math)/Numerical_Analysis.public.md) 
+### #is_/same_as :: [Numerical_Analysis.public](/_public/Mathematics/Analysis(Math)/Numerical_Analysis.public.md) 
 
-### [Numerical_Analysis.internal](/_internal/Mathematics/Analysis(Math)/Numerical_Analysis.internal.md) 
+### #is_/same_as :: [Numerical_Analysis.internal](/_internal/Mathematics/Analysis(Math)/Numerical_Analysis.internal.md) 
 
-### [Numerical_Analysis.protect](/_protect/Mathematics/Analysis(Math)/Numerical_Analysis.protect.md) 
+### #is_/same_as :: [Numerical_Analysis.protect](/_protect/Mathematics/Analysis(Math)/Numerical_Analysis.protect.md) 
 
-### [Numerical_Analysis.private](/_private/Mathematics/Analysis(Math)/Numerical_Analysis.private.md) 
+### #is_/same_as :: [Numerical_Analysis.private](/_private/Mathematics/Analysis(Math)/Numerical_Analysis.private.md) 
 
-### [Numerical_Analysis.personal](/_personal/Mathematics/Analysis(Math)/Numerical_Analysis.personal.md) 
+### #is_/same_as :: [Numerical_Analysis.personal](/_personal/Mathematics/Analysis(Math)/Numerical_Analysis.personal.md) 
 
-### [Numerical_Analysis.secret](/_secret/Mathematics/Analysis(Math)/Numerical_Analysis.secret.md)
+### #is_/same_as :: [Numerical_Analysis.secret](/_secret/Mathematics/Analysis(Math)/Numerical_Analysis.secret.md)
 

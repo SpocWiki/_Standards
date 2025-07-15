@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Number_Theory](/_Standards/Mathematics/Number_Theory.md) 
+### #is_/same_as :: [Number_Theory](/_Standards/Mathematics/Number_Theory.md) 
 
-### [Number_Theory.public](/_public/Mathematics/Number_Theory.public.md) 
+### #is_/same_as :: [Number_Theory.public](/_public/Mathematics/Number_Theory.public.md) 
 
-### [Number_Theory.internal](/_internal/Mathematics/Number_Theory.internal.md) 
+### #is_/same_as :: [Number_Theory.internal](/_internal/Mathematics/Number_Theory.internal.md) 
 
-### [Number_Theory.protect](/_protect/Mathematics/Number_Theory.protect.md) 
+### #is_/same_as :: [Number_Theory.protect](/_protect/Mathematics/Number_Theory.protect.md) 
 
-### [Number_Theory.private](/_private/Mathematics/Number_Theory.private.md) 
+### #is_/same_as :: [Number_Theory.private](/_private/Mathematics/Number_Theory.private.md) 
 
-### [Number_Theory.personal](/_personal/Mathematics/Number_Theory.personal.md) 
+### #is_/same_as :: [Number_Theory.personal](/_personal/Mathematics/Number_Theory.personal.md) 
 
-### [Number_Theory.secret](/_secret/Mathematics/Number_Theory.secret.md)
+### #is_/same_as :: [Number_Theory.secret](/_secret/Mathematics/Number_Theory.secret.md)
 

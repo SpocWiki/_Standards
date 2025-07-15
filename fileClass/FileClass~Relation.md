@@ -35,17 +35,17 @@ has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Relation](/_Standards/fileClass/FileClass~Relation.md) 
+### #is_/same_as :: [FileClass~Relation](/_Standards/fileClass/FileClass~Relation.md) 
 
-### [FileClass~Relation.public](/_public/fileClass/FileClass~Relation.public.md) 
+### #is_/same_as :: [FileClass~Relation.public](/_public/fileClass/FileClass~Relation.public.md) 
 
-### [FileClass~Relation.internal](/_internal/fileClass/FileClass~Relation.internal.md) 
+### #is_/same_as :: [FileClass~Relation.internal](/_internal/fileClass/FileClass~Relation.internal.md) 
 
-### [FileClass~Relation.protect](/_protect/fileClass/FileClass~Relation.protect.md) 
+### #is_/same_as :: [FileClass~Relation.protect](/_protect/fileClass/FileClass~Relation.protect.md) 
 
-### [FileClass~Relation.private](/_private/fileClass/FileClass~Relation.private.md) 
+### #is_/same_as :: [FileClass~Relation.private](/_private/fileClass/FileClass~Relation.private.md) 
 
-### [FileClass~Relation.personal](/_personal/fileClass/FileClass~Relation.personal.md) 
+### #is_/same_as :: [FileClass~Relation.personal](/_personal/fileClass/FileClass~Relation.personal.md) 
 
-### [FileClass~Relation.secret](/_secret/fileClass/FileClass~Relation.secret.md)
+### #is_/same_as :: [FileClass~Relation.secret](/_secret/fileClass/FileClass~Relation.secret.md)
 

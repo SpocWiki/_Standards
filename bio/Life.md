@@ -121,17 +121,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Life](/_Standards/bio/Life.md) 
+### #is_/same_as :: [Life](/_Standards/bio/Life.md) 
 
-### [Life.public](/_public/bio/Life.public.md) 
+### #is_/same_as :: [Life.public](/_public/bio/Life.public.md) 
 
-### [Life.internal](/_internal/bio/Life.internal.md) 
+### #is_/same_as :: [Life.internal](/_internal/bio/Life.internal.md) 
 
-### [Life.protect](/_protect/bio/Life.protect.md) 
+### #is_/same_as :: [Life.protect](/_protect/bio/Life.protect.md) 
 
-### [Life.private](/_private/bio/Life.private.md) 
+### #is_/same_as :: [Life.private](/_private/bio/Life.private.md) 
 
-### [Life.personal](/_personal/bio/Life.personal.md) 
+### #is_/same_as :: [Life.personal](/_personal/bio/Life.personal.md) 
 
-### [Life.secret](/_secret/bio/Life.secret.md)
+### #is_/same_as :: [Life.secret](/_secret/bio/Life.secret.md)
 

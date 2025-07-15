@@ -39,17 +39,17 @@ This has a dual Benefit:
 
 ## Confidential Links & Embeds: 
 
-### [CC-BY](/_Standards/cc/CC-Licenses/CC-BY.md) 
+### #is_/same_as :: [CC-BY](/_Standards/cc/CC-Licenses/CC-BY.md) 
 
-### [CC-BY.public](/_public/cc/CC-Licenses/CC-BY.public.md) 
+### #is_/same_as :: [CC-BY.public](/_public/cc/CC-Licenses/CC-BY.public.md) 
 
-### [CC-BY.internal](/_internal/cc/CC-Licenses/CC-BY.internal.md) 
+### #is_/same_as :: [CC-BY.internal](/_internal/cc/CC-Licenses/CC-BY.internal.md) 
 
-### [CC-BY.protect](/_protect/cc/CC-Licenses/CC-BY.protect.md) 
+### #is_/same_as :: [CC-BY.protect](/_protect/cc/CC-Licenses/CC-BY.protect.md) 
 
-### [CC-BY.private](/_private/cc/CC-Licenses/CC-BY.private.md) 
+### #is_/same_as :: [CC-BY.private](/_private/cc/CC-Licenses/CC-BY.private.md) 
 
-### [CC-BY.personal](/_personal/cc/CC-Licenses/CC-BY.personal.md) 
+### #is_/same_as :: [CC-BY.personal](/_personal/cc/CC-Licenses/CC-BY.personal.md) 
 
-### [CC-BY.secret](/_secret/cc/CC-Licenses/CC-BY.secret.md)
+### #is_/same_as :: [CC-BY.secret](/_secret/cc/CC-Licenses/CC-BY.secret.md)
 

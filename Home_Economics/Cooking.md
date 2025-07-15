@@ -73,17 +73,17 @@ MeSH_tree_code: J01.576.423.200.200
 
 ## Confidential Links & Embeds: 
 
-### [Cooking](/_Standards/Home_Economics/Cooking.md) 
+### #is_/same_as :: [Cooking](/_Standards/Home_Economics/Cooking.md) 
 
-### [Cooking.public](/_public/Home_Economics/Cooking.public.md) 
+### #is_/same_as :: [Cooking.public](/_public/Home_Economics/Cooking.public.md) 
 
-### [Cooking.internal](/_internal/Home_Economics/Cooking.internal.md) 
+### #is_/same_as :: [Cooking.internal](/_internal/Home_Economics/Cooking.internal.md) 
 
-### [Cooking.protect](/_protect/Home_Economics/Cooking.protect.md) 
+### #is_/same_as :: [Cooking.protect](/_protect/Home_Economics/Cooking.protect.md) 
 
-### [Cooking.private](/_private/Home_Economics/Cooking.private.md) 
+### #is_/same_as :: [Cooking.private](/_private/Home_Economics/Cooking.private.md) 
 
-### [Cooking.personal](/_personal/Home_Economics/Cooking.personal.md) 
+### #is_/same_as :: [Cooking.personal](/_personal/Home_Economics/Cooking.personal.md) 
 
-### [Cooking.secret](/_secret/Home_Economics/Cooking.secret.md)
+### #is_/same_as :: [Cooking.secret](/_secret/Home_Economics/Cooking.secret.md)
 

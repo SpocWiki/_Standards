@@ -36,17 +36,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Componentes.JPG"
 
 ## Confidential Links & Embeds: 
 
-### [Electronic_Component](/_Standards/Technology/Electronics/Electronic_Component.md) 
+### #is_/same_as :: [Electronic_Component](/_Standards/Technology/Electronics/Electronic_Component.md) 
 
-### [Electronic_Component.public](/_public/Technology/Electronics/Electronic_Component.public.md) 
+### #is_/same_as :: [Electronic_Component.public](/_public/Technology/Electronics/Electronic_Component.public.md) 
 
-### [Electronic_Component.internal](/_internal/Technology/Electronics/Electronic_Component.internal.md) 
+### #is_/same_as :: [Electronic_Component.internal](/_internal/Technology/Electronics/Electronic_Component.internal.md) 
 
-### [Electronic_Component.protect](/_protect/Technology/Electronics/Electronic_Component.protect.md) 
+### #is_/same_as :: [Electronic_Component.protect](/_protect/Technology/Electronics/Electronic_Component.protect.md) 
 
-### [Electronic_Component.private](/_private/Technology/Electronics/Electronic_Component.private.md) 
+### #is_/same_as :: [Electronic_Component.private](/_private/Technology/Electronics/Electronic_Component.private.md) 
 
-### [Electronic_Component.personal](/_personal/Technology/Electronics/Electronic_Component.personal.md) 
+### #is_/same_as :: [Electronic_Component.personal](/_personal/Technology/Electronics/Electronic_Component.personal.md) 
 
-### [Electronic_Component.secret](/_secret/Technology/Electronics/Electronic_Component.secret.md)
+### #is_/same_as :: [Electronic_Component.secret](/_secret/Technology/Electronics/Electronic_Component.secret.md)
 

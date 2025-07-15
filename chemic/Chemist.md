@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Chemist](/_Standards/chemic/Chemist.md) 
+### #is_/same_as :: [Chemist](/_Standards/chemic/Chemist.md) 
 
-### [Chemist.public](/_public/chemic/Chemist.public.md) 
+### #is_/same_as :: [Chemist.public](/_public/chemic/Chemist.public.md) 
 
-### [Chemist.internal](/_internal/chemic/Chemist.internal.md) 
+### #is_/same_as :: [Chemist.internal](/_internal/chemic/Chemist.internal.md) 
 
-### [Chemist.protect](/_protect/chemic/Chemist.protect.md) 
+### #is_/same_as :: [Chemist.protect](/_protect/chemic/Chemist.protect.md) 
 
-### [Chemist.private](/_private/chemic/Chemist.private.md) 
+### #is_/same_as :: [Chemist.private](/_private/chemic/Chemist.private.md) 
 
-### [Chemist.personal](/_personal/chemic/Chemist.personal.md) 
+### #is_/same_as :: [Chemist.personal](/_personal/chemic/Chemist.personal.md) 
 
-### [Chemist.secret](/_secret/chemic/Chemist.secret.md)
+### #is_/same_as :: [Chemist.secret](/_secret/chemic/Chemist.secret.md)
 

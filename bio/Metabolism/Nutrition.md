@@ -60,17 +60,17 @@ Commons_category: Nutrition
 
 ## Confidential Links & Embeds: 
 
-### [Nutrition](/_Standards/bio/Metabolism/Nutrition.md) 
+### #is_/same_as :: [Nutrition](/_Standards/bio/Metabolism/Nutrition.md) 
 
-### [Nutrition.public](/_public/bio/Metabolism/Nutrition.public.md) 
+### #is_/same_as :: [Nutrition.public](/_public/bio/Metabolism/Nutrition.public.md) 
 
-### [Nutrition.internal](/_internal/bio/Metabolism/Nutrition.internal.md) 
+### #is_/same_as :: [Nutrition.internal](/_internal/bio/Metabolism/Nutrition.internal.md) 
 
-### [Nutrition.protect](/_protect/bio/Metabolism/Nutrition.protect.md) 
+### #is_/same_as :: [Nutrition.protect](/_protect/bio/Metabolism/Nutrition.protect.md) 
 
-### [Nutrition.private](/_private/bio/Metabolism/Nutrition.private.md) 
+### #is_/same_as :: [Nutrition.private](/_private/bio/Metabolism/Nutrition.private.md) 
 
-### [Nutrition.personal](/_personal/bio/Metabolism/Nutrition.personal.md) 
+### #is_/same_as :: [Nutrition.personal](/_personal/bio/Metabolism/Nutrition.personal.md) 
 
-### [Nutrition.secret](/_secret/bio/Metabolism/Nutrition.secret.md)
+### #is_/same_as :: [Nutrition.secret](/_secret/bio/Metabolism/Nutrition.secret.md)
 

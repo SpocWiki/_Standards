@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Sun](/_Standards/Astronomy/Solar_System/Sun.md) 
+### #is_/same_as :: [Sun](/_Standards/Astronomy/Solar_System/Sun.md) 
 
-### [Sun.public](/_public/Astronomy/Solar_System/Sun.public.md) 
+### #is_/same_as :: [Sun.public](/_public/Astronomy/Solar_System/Sun.public.md) 
 
-### [Sun.internal](/_internal/Astronomy/Solar_System/Sun.internal.md) 
+### #is_/same_as :: [Sun.internal](/_internal/Astronomy/Solar_System/Sun.internal.md) 
 
-### [Sun.protect](/_protect/Astronomy/Solar_System/Sun.protect.md) 
+### #is_/same_as :: [Sun.protect](/_protect/Astronomy/Solar_System/Sun.protect.md) 
 
-### [Sun.private](/_private/Astronomy/Solar_System/Sun.private.md) 
+### #is_/same_as :: [Sun.private](/_private/Astronomy/Solar_System/Sun.private.md) 
 
-### [Sun.personal](/_personal/Astronomy/Solar_System/Sun.personal.md) 
+### #is_/same_as :: [Sun.personal](/_personal/Astronomy/Solar_System/Sun.personal.md) 
 
-### [Sun.secret](/_secret/Astronomy/Solar_System/Sun.secret.md)
+### #is_/same_as :: [Sun.secret](/_secret/Astronomy/Solar_System/Sun.secret.md)
 

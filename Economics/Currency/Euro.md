@@ -124,17 +124,17 @@ Poland had its own strategy:
 
 ## Confidential Links & Embeds: 
 
-### [Euro](/_Standards/Economics/Currency/Euro.md) 
+### #is_/same_as :: [Euro](/_Standards/Economics/Currency/Euro.md) 
 
-### [Euro.public](/_public/Economics/Currency/Euro.public.md) 
+### #is_/same_as :: [Euro.public](/_public/Economics/Currency/Euro.public.md) 
 
-### [Euro.internal](/_internal/Economics/Currency/Euro.internal.md) 
+### #is_/same_as :: [Euro.internal](/_internal/Economics/Currency/Euro.internal.md) 
 
-### [Euro.protect](/_protect/Economics/Currency/Euro.protect.md) 
+### #is_/same_as :: [Euro.protect](/_protect/Economics/Currency/Euro.protect.md) 
 
-### [Euro.private](/_private/Economics/Currency/Euro.private.md) 
+### #is_/same_as :: [Euro.private](/_private/Economics/Currency/Euro.private.md) 
 
-### [Euro.personal](/_personal/Economics/Currency/Euro.personal.md) 
+### #is_/same_as :: [Euro.personal](/_personal/Economics/Currency/Euro.personal.md) 
 
-### [Euro.secret](/_secret/Economics/Currency/Euro.secret.md)
+### #is_/same_as :: [Euro.secret](/_secret/Economics/Currency/Euro.secret.md)
 

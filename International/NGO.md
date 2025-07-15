@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [NGO](/_Standards/International/NGO.md) 
+### #is_/same_as :: [NGO](/_Standards/International/NGO.md) 
 
-### [NGO.public](/_public/International/NGO.public.md) 
+### #is_/same_as :: [NGO.public](/_public/International/NGO.public.md) 
 
-### [NGO.internal](/_internal/International/NGO.internal.md) 
+### #is_/same_as :: [NGO.internal](/_internal/International/NGO.internal.md) 
 
-### [NGO.protect](/_protect/International/NGO.protect.md) 
+### #is_/same_as :: [NGO.protect](/_protect/International/NGO.protect.md) 
 
-### [NGO.private](/_private/International/NGO.private.md) 
+### #is_/same_as :: [NGO.private](/_private/International/NGO.private.md) 
 
-### [NGO.personal](/_personal/International/NGO.personal.md) 
+### #is_/same_as :: [NGO.personal](/_personal/International/NGO.personal.md) 
 
-### [NGO.secret](/_secret/International/NGO.secret.md)
+### #is_/same_as :: [NGO.secret](/_secret/International/NGO.secret.md)
 

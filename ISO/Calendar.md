@@ -74,17 +74,17 @@ MeSH_tree_code: V02.220
 
 ## Confidential Links & Embeds: 
 
-### [Calendar](/_Standards/ISO/Calendar.md) 
+### #is_/same_as :: [Calendar](/_Standards/ISO/Calendar.md) 
 
-### [Calendar.public](/_public/ISO/Calendar.public.md) 
+### #is_/same_as :: [Calendar.public](/_public/ISO/Calendar.public.md) 
 
-### [Calendar.internal](/_internal/ISO/Calendar.internal.md) 
+### #is_/same_as :: [Calendar.internal](/_internal/ISO/Calendar.internal.md) 
 
-### [Calendar.protect](/_protect/ISO/Calendar.protect.md) 
+### #is_/same_as :: [Calendar.protect](/_protect/ISO/Calendar.protect.md) 
 
-### [Calendar.private](/_private/ISO/Calendar.private.md) 
+### #is_/same_as :: [Calendar.private](/_private/ISO/Calendar.private.md) 
 
-### [Calendar.personal](/_personal/ISO/Calendar.personal.md) 
+### #is_/same_as :: [Calendar.personal](/_personal/ISO/Calendar.personal.md) 
 
-### [Calendar.secret](/_secret/ISO/Calendar.secret.md)
+### #is_/same_as :: [Calendar.secret](/_secret/ISO/Calendar.secret.md)
 

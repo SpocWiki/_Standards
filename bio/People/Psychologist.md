@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Psychologist](/_Standards/bio/People/Psychologist.md) 
+### #is_/same_as :: [Psychologist](/_Standards/bio/People/Psychologist.md) 
 
-### [Psychologist.public](/_public/bio/People/Psychologist.public.md) 
+### #is_/same_as :: [Psychologist.public](/_public/bio/People/Psychologist.public.md) 
 
-### [Psychologist.internal](/_internal/bio/People/Psychologist.internal.md) 
+### #is_/same_as :: [Psychologist.internal](/_internal/bio/People/Psychologist.internal.md) 
 
-### [Psychologist.protect](/_protect/bio/People/Psychologist.protect.md) 
+### #is_/same_as :: [Psychologist.protect](/_protect/bio/People/Psychologist.protect.md) 
 
-### [Psychologist.private](/_private/bio/People/Psychologist.private.md) 
+### #is_/same_as :: [Psychologist.private](/_private/bio/People/Psychologist.private.md) 
 
-### [Psychologist.personal](/_personal/bio/People/Psychologist.personal.md) 
+### #is_/same_as :: [Psychologist.personal](/_personal/bio/People/Psychologist.personal.md) 
 
-### [Psychologist.secret](/_secret/bio/People/Psychologist.secret.md)
+### #is_/same_as :: [Psychologist.secret](/_secret/bio/People/Psychologist.secret.md)
 

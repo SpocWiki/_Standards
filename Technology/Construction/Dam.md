@@ -69,17 +69,17 @@ OpenStreetMap_tag_or_key: "Tag:waterway=dam"
 
 ## Confidential Links & Embeds: 
 
-### [Dam](/_Standards/Technology/Construction/Dam.md) 
+### #is_/same_as :: [Dam](/_Standards/Technology/Construction/Dam.md) 
 
-### [Dam.public](/_public/Technology/Construction/Dam.public.md) 
+### #is_/same_as :: [Dam.public](/_public/Technology/Construction/Dam.public.md) 
 
-### [Dam.internal](/_internal/Technology/Construction/Dam.internal.md) 
+### #is_/same_as :: [Dam.internal](/_internal/Technology/Construction/Dam.internal.md) 
 
-### [Dam.protect](/_protect/Technology/Construction/Dam.protect.md) 
+### #is_/same_as :: [Dam.protect](/_protect/Technology/Construction/Dam.protect.md) 
 
-### [Dam.private](/_private/Technology/Construction/Dam.private.md) 
+### #is_/same_as :: [Dam.private](/_private/Technology/Construction/Dam.private.md) 
 
-### [Dam.personal](/_personal/Technology/Construction/Dam.personal.md) 
+### #is_/same_as :: [Dam.personal](/_personal/Technology/Construction/Dam.personal.md) 
 
-### [Dam.secret](/_secret/Technology/Construction/Dam.secret.md)
+### #is_/same_as :: [Dam.secret](/_secret/Technology/Construction/Dam.secret.md)
 

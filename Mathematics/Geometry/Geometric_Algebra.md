@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Geometric_Algebra](/_Standards/Mathematics/Geometry/Geometric_Algebra.md) 
+### #is_/same_as :: [Geometric_Algebra](/_Standards/Mathematics/Geometry/Geometric_Algebra.md) 
 
-### [Geometric_Algebra.public](/_public/Mathematics/Geometry/Geometric_Algebra.public.md) 
+### #is_/same_as :: [Geometric_Algebra.public](/_public/Mathematics/Geometry/Geometric_Algebra.public.md) 
 
-### [Geometric_Algebra.internal](/_internal/Mathematics/Geometry/Geometric_Algebra.internal.md) 
+### #is_/same_as :: [Geometric_Algebra.internal](/_internal/Mathematics/Geometry/Geometric_Algebra.internal.md) 
 
-### [Geometric_Algebra.protect](/_protect/Mathematics/Geometry/Geometric_Algebra.protect.md) 
+### #is_/same_as :: [Geometric_Algebra.protect](/_protect/Mathematics/Geometry/Geometric_Algebra.protect.md) 
 
-### [Geometric_Algebra.private](/_private/Mathematics/Geometry/Geometric_Algebra.private.md) 
+### #is_/same_as :: [Geometric_Algebra.private](/_private/Mathematics/Geometry/Geometric_Algebra.private.md) 
 
-### [Geometric_Algebra.personal](/_personal/Mathematics/Geometry/Geometric_Algebra.personal.md) 
+### #is_/same_as :: [Geometric_Algebra.personal](/_personal/Mathematics/Geometry/Geometric_Algebra.personal.md) 
 
-### [Geometric_Algebra.secret](/_secret/Mathematics/Geometry/Geometric_Algebra.secret.md)
+### #is_/same_as :: [Geometric_Algebra.secret](/_secret/Mathematics/Geometry/Geometric_Algebra.secret.md)
 

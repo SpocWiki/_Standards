@@ -7,17 +7,17 @@ Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634Ã
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Charge](/_Standards/Dimension/Dim~Charge.md) 
+### #is_/same_as :: [Dim~Charge](/_Standards/Dimension/Dim~Charge.md) 
 
-### [Dim~Charge.public](/_public/Dimension/Dim~Charge.public.md) 
+### #is_/same_as :: [Dim~Charge.public](/_public/Dimension/Dim~Charge.public.md) 
 
-### [Dim~Charge.internal](/_internal/Dimension/Dim~Charge.internal.md) 
+### #is_/same_as :: [Dim~Charge.internal](/_internal/Dimension/Dim~Charge.internal.md) 
 
-### [Dim~Charge.protect](/_protect/Dimension/Dim~Charge.protect.md) 
+### #is_/same_as :: [Dim~Charge.protect](/_protect/Dimension/Dim~Charge.protect.md) 
 
-### [Dim~Charge.private](/_private/Dimension/Dim~Charge.private.md) 
+### #is_/same_as :: [Dim~Charge.private](/_private/Dimension/Dim~Charge.private.md) 
 
-### [Dim~Charge.personal](/_personal/Dimension/Dim~Charge.personal.md) 
+### #is_/same_as :: [Dim~Charge.personal](/_personal/Dimension/Dim~Charge.personal.md) 
 
-### [Dim~Charge.secret](/_secret/Dimension/Dim~Charge.secret.md)
+### #is_/same_as :: [Dim~Charge.secret](/_secret/Dimension/Dim~Charge.secret.md)
 

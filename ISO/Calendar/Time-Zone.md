@@ -44,17 +44,17 @@ Wikidata_property: "located in time zone"
 
 ## Confidential Links & Embeds: 
 
-### [Time-Zone](/_Standards/ISO/Calendar/Time-Zone.md) 
+### #is_/same_as :: [Time-Zone](/_Standards/ISO/Calendar/Time-Zone.md) 
 
-### [Time-Zone.public](/_public/ISO/Calendar/Time-Zone.public.md) 
+### #is_/same_as :: [Time-Zone.public](/_public/ISO/Calendar/Time-Zone.public.md) 
 
-### [Time-Zone.internal](/_internal/ISO/Calendar/Time-Zone.internal.md) 
+### #is_/same_as :: [Time-Zone.internal](/_internal/ISO/Calendar/Time-Zone.internal.md) 
 
-### [Time-Zone.protect](/_protect/ISO/Calendar/Time-Zone.protect.md) 
+### #is_/same_as :: [Time-Zone.protect](/_protect/ISO/Calendar/Time-Zone.protect.md) 
 
-### [Time-Zone.private](/_private/ISO/Calendar/Time-Zone.private.md) 
+### #is_/same_as :: [Time-Zone.private](/_private/ISO/Calendar/Time-Zone.private.md) 
 
-### [Time-Zone.personal](/_personal/ISO/Calendar/Time-Zone.personal.md) 
+### #is_/same_as :: [Time-Zone.personal](/_personal/ISO/Calendar/Time-Zone.personal.md) 
 
-### [Time-Zone.secret](/_secret/ISO/Calendar/Time-Zone.secret.md)
+### #is_/same_as :: [Time-Zone.secret](/_secret/ISO/Calendar/Time-Zone.secret.md)
 

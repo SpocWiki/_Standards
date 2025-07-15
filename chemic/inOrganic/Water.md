@@ -269,17 +269,17 @@ standard_enthalpy_of_formation:
 
 ## Confidential Links & Embeds: 
 
-### [Water](/_Standards/chemic/inOrganic/Water.md) 
+### #is_/same_as :: [Water](/_Standards/chemic/inOrganic/Water.md) 
 
-### [Water.public](/_public/chemic/inOrganic/Water.public.md) 
+### #is_/same_as :: [Water.public](/_public/chemic/inOrganic/Water.public.md) 
 
-### [Water.internal](/_internal/chemic/inOrganic/Water.internal.md) 
+### #is_/same_as :: [Water.internal](/_internal/chemic/inOrganic/Water.internal.md) 
 
-### [Water.protect](/_protect/chemic/inOrganic/Water.protect.md) 
+### #is_/same_as :: [Water.protect](/_protect/chemic/inOrganic/Water.protect.md) 
 
-### [Water.private](/_private/chemic/inOrganic/Water.private.md) 
+### #is_/same_as :: [Water.private](/_private/chemic/inOrganic/Water.private.md) 
 
-### [Water.personal](/_personal/chemic/inOrganic/Water.personal.md) 
+### #is_/same_as :: [Water.personal](/_personal/chemic/inOrganic/Water.personal.md) 
 
-### [Water.secret](/_secret/chemic/inOrganic/Water.secret.md)
+### #is_/same_as :: [Water.secret](/_secret/chemic/inOrganic/Water.secret.md)
 

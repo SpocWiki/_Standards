@@ -18,17 +18,17 @@ has_id_wikidata: Q9415
 
 ## Confidential Links & Embeds: 
 
-### [Emotion](/_Standards/bio/Psychology/Emotion.md) 
+### #is_/same_as :: [Emotion](/_Standards/bio/Psychology/Emotion.md) 
 
-### [Emotion.public](/_public/bio/Psychology/Emotion.public.md) 
+### #is_/same_as :: [Emotion.public](/_public/bio/Psychology/Emotion.public.md) 
 
-### [Emotion.internal](/_internal/bio/Psychology/Emotion.internal.md) 
+### #is_/same_as :: [Emotion.internal](/_internal/bio/Psychology/Emotion.internal.md) 
 
-### [Emotion.protect](/_protect/bio/Psychology/Emotion.protect.md) 
+### #is_/same_as :: [Emotion.protect](/_protect/bio/Psychology/Emotion.protect.md) 
 
-### [Emotion.private](/_private/bio/Psychology/Emotion.private.md) 
+### #is_/same_as :: [Emotion.private](/_private/bio/Psychology/Emotion.private.md) 
 
-### [Emotion.personal](/_personal/bio/Psychology/Emotion.personal.md) 
+### #is_/same_as :: [Emotion.personal](/_personal/bio/Psychology/Emotion.personal.md) 
 
-### [Emotion.secret](/_secret/bio/Psychology/Emotion.secret.md)
+### #is_/same_as :: [Emotion.secret](/_secret/bio/Psychology/Emotion.secret.md)
 

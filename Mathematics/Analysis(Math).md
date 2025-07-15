@@ -54,17 +54,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/ANALIZ_V_MATEMATIKE.html
 
 ## Confidential Links & Embeds: 
 
-### [Analysis(Math)](/_Standards/Mathematics/Analysis(Math).md) 
+### #is_/same_as :: [Analysis(Math)](/_Standards/Mathematics/Analysis(Math).md) 
 
-### [Analysis(Math).public](/_public/Mathematics/Analysis(Math).public.md) 
+### #is_/same_as :: [Analysis(Math).public](/_public/Mathematics/Analysis(Math).public.md) 
 
-### [Analysis(Math).internal](/_internal/Mathematics/Analysis(Math).internal.md) 
+### #is_/same_as :: [Analysis(Math).internal](/_internal/Mathematics/Analysis(Math).internal.md) 
 
-### [Analysis(Math).protect](/_protect/Mathematics/Analysis(Math).protect.md) 
+### #is_/same_as :: [Analysis(Math).protect](/_protect/Mathematics/Analysis(Math).protect.md) 
 
-### [Analysis(Math).private](/_private/Mathematics/Analysis(Math).private.md) 
+### #is_/same_as :: [Analysis(Math).private](/_private/Mathematics/Analysis(Math).private.md) 
 
-### [Analysis(Math).personal](/_personal/Mathematics/Analysis(Math).personal.md) 
+### #is_/same_as :: [Analysis(Math).personal](/_personal/Mathematics/Analysis(Math).personal.md) 
 
-### [Analysis(Math).secret](/_secret/Mathematics/Analysis(Math).secret.md)
+### #is_/same_as :: [Analysis(Math).secret](/_secret/Mathematics/Analysis(Math).secret.md)
 

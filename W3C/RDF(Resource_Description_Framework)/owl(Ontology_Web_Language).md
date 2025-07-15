@@ -48,17 +48,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [owl(Ontology_Web_Language)](/_Standards/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).md) 
+### #is_/same_as :: [owl(Ontology_Web_Language)](/_Standards/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).md) 
 
-### [owl(Ontology_Web_Language).public](/_public/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).public.md) 
+### #is_/same_as :: [owl(Ontology_Web_Language).public](/_public/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).public.md) 
 
-### [owl(Ontology_Web_Language).internal](/_internal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).internal.md) 
+### #is_/same_as :: [owl(Ontology_Web_Language).internal](/_internal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).internal.md) 
 
-### [owl(Ontology_Web_Language).protect](/_protect/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).protect.md) 
+### #is_/same_as :: [owl(Ontology_Web_Language).protect](/_protect/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).protect.md) 
 
-### [owl(Ontology_Web_Language).private](/_private/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).private.md) 
+### #is_/same_as :: [owl(Ontology_Web_Language).private](/_private/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).private.md) 
 
-### [owl(Ontology_Web_Language).personal](/_personal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).personal.md) 
+### #is_/same_as :: [owl(Ontology_Web_Language).personal](/_personal/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).personal.md) 
 
-### [owl(Ontology_Web_Language).secret](/_secret/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).secret.md)
+### #is_/same_as :: [owl(Ontology_Web_Language).secret](/_secret/W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).secret.md)
 

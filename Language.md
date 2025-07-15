@@ -82,17 +82,17 @@ Stack_Exchange_tag: "https://philosophy.stackexchange.com/tags/language"
 
 ## Confidential Links & Embeds: 
 
-### [Language](/_Standards/Language.md) 
+### #is_/same_as :: [Language](/_Standards/Language.md) 
 
-### [Language.public](/_public/Language.public.md) 
+### #is_/same_as :: [Language.public](/_public/Language.public.md) 
 
-### [Language.internal](/_internal/Language.internal.md) 
+### #is_/same_as :: [Language.internal](/_internal/Language.internal.md) 
 
-### [Language.protect](/_protect/Language.protect.md) 
+### #is_/same_as :: [Language.protect](/_protect/Language.protect.md) 
 
-### [Language.private](/_private/Language.private.md) 
+### #is_/same_as :: [Language.private](/_private/Language.private.md) 
 
-### [Language.personal](/_personal/Language.personal.md) 
+### #is_/same_as :: [Language.personal](/_personal/Language.personal.md) 
 
-### [Language.secret](/_secret/Language.secret.md)
+### #is_/same_as :: [Language.secret](/_secret/Language.secret.md)
 

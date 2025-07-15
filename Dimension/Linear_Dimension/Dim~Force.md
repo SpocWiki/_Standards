@@ -6,17 +6,17 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Force](/_Standards/Dimension/Linear_Dimension/Dim~Force.md) 
+### #is_/same_as :: [Dim~Force](/_Standards/Dimension/Linear_Dimension/Dim~Force.md) 
 
-### [Dim~Force.public](/_public/Dimension/Linear_Dimension/Dim~Force.public.md) 
+### #is_/same_as :: [Dim~Force.public](/_public/Dimension/Linear_Dimension/Dim~Force.public.md) 
 
-### [Dim~Force.internal](/_internal/Dimension/Linear_Dimension/Dim~Force.internal.md) 
+### #is_/same_as :: [Dim~Force.internal](/_internal/Dimension/Linear_Dimension/Dim~Force.internal.md) 
 
-### [Dim~Force.protect](/_protect/Dimension/Linear_Dimension/Dim~Force.protect.md) 
+### #is_/same_as :: [Dim~Force.protect](/_protect/Dimension/Linear_Dimension/Dim~Force.protect.md) 
 
-### [Dim~Force.private](/_private/Dimension/Linear_Dimension/Dim~Force.private.md) 
+### #is_/same_as :: [Dim~Force.private](/_private/Dimension/Linear_Dimension/Dim~Force.private.md) 
 
-### [Dim~Force.personal](/_personal/Dimension/Linear_Dimension/Dim~Force.personal.md) 
+### #is_/same_as :: [Dim~Force.personal](/_personal/Dimension/Linear_Dimension/Dim~Force.personal.md) 
 
-### [Dim~Force.secret](/_secret/Dimension/Linear_Dimension/Dim~Force.secret.md)
+### #is_/same_as :: [Dim~Force.secret](/_secret/Dimension/Linear_Dimension/Dim~Force.secret.md)
 

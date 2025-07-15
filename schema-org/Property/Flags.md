@@ -23,17 +23,17 @@ But they can also implement a ternary logic using the empty '` `' or `null` Valu
 
 ## Confidential Links & Embeds: 
 
-### [Flags](/_Standards/schema-org/Property/Flags.md) 
+### #is_/same_as :: [Flags](/_Standards/schema-org/Property/Flags.md) 
 
-### [Flags.public](/_public/schema-org/Property/Flags.public.md) 
+### #is_/same_as :: [Flags.public](/_public/schema-org/Property/Flags.public.md) 
 
-### [Flags.internal](/_internal/schema-org/Property/Flags.internal.md) 
+### #is_/same_as :: [Flags.internal](/_internal/schema-org/Property/Flags.internal.md) 
 
-### [Flags.protect](/_protect/schema-org/Property/Flags.protect.md) 
+### #is_/same_as :: [Flags.protect](/_protect/schema-org/Property/Flags.protect.md) 
 
-### [Flags.private](/_private/schema-org/Property/Flags.private.md) 
+### #is_/same_as :: [Flags.private](/_private/schema-org/Property/Flags.private.md) 
 
-### [Flags.personal](/_personal/schema-org/Property/Flags.personal.md) 
+### #is_/same_as :: [Flags.personal](/_personal/schema-org/Property/Flags.personal.md) 
 
-### [Flags.secret](/_secret/schema-org/Property/Flags.secret.md)
+### #is_/same_as :: [Flags.secret](/_secret/schema-org/Property/Flags.secret.md)
 

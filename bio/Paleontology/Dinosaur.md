@@ -68,17 +68,17 @@ Wolfram_Language_entity_type: Dinosaur
 
 ## Confidential Links & Embeds: 
 
-### [Dinosaur](/_Standards/bio/Paleontology/Dinosaur.md) 
+### #is_/same_as :: [Dinosaur](/_Standards/bio/Paleontology/Dinosaur.md) 
 
-### [Dinosaur.public](/_public/bio/Paleontology/Dinosaur.public.md) 
+### #is_/same_as :: [Dinosaur.public](/_public/bio/Paleontology/Dinosaur.public.md) 
 
-### [Dinosaur.internal](/_internal/bio/Paleontology/Dinosaur.internal.md) 
+### #is_/same_as :: [Dinosaur.internal](/_internal/bio/Paleontology/Dinosaur.internal.md) 
 
-### [Dinosaur.protect](/_protect/bio/Paleontology/Dinosaur.protect.md) 
+### #is_/same_as :: [Dinosaur.protect](/_protect/bio/Paleontology/Dinosaur.protect.md) 
 
-### [Dinosaur.private](/_private/bio/Paleontology/Dinosaur.private.md) 
+### #is_/same_as :: [Dinosaur.private](/_private/bio/Paleontology/Dinosaur.private.md) 
 
-### [Dinosaur.personal](/_personal/bio/Paleontology/Dinosaur.personal.md) 
+### #is_/same_as :: [Dinosaur.personal](/_personal/bio/Paleontology/Dinosaur.personal.md) 
 
-### [Dinosaur.secret](/_secret/bio/Paleontology/Dinosaur.secret.md)
+### #is_/same_as :: [Dinosaur.secret](/_secret/bio/Paleontology/Dinosaur.secret.md)
 

@@ -61,17 +61,17 @@ GOST_7_75_97_code: "авс 017"
 
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Austronesian](/_Standards/Language/Lang~Family/LangFamily-Austronesian.md) 
+### #is_/same_as :: [LangFamily-Austronesian](/_Standards/Language/Lang~Family/LangFamily-Austronesian.md) 
 
-### [LangFamily-Austronesian.public](/_public/Language/Lang~Family/LangFamily-Austronesian.public.md) 
+### #is_/same_as :: [LangFamily-Austronesian.public](/_public/Language/Lang~Family/LangFamily-Austronesian.public.md) 
 
-### [LangFamily-Austronesian.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian.internal.md) 
+### #is_/same_as :: [LangFamily-Austronesian.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian.internal.md) 
 
-### [LangFamily-Austronesian.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian.protect.md) 
+### #is_/same_as :: [LangFamily-Austronesian.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian.protect.md) 
 
-### [LangFamily-Austronesian.private](/_private/Language/Lang~Family/LangFamily-Austronesian.private.md) 
+### #is_/same_as :: [LangFamily-Austronesian.private](/_private/Language/Lang~Family/LangFamily-Austronesian.private.md) 
 
-### [LangFamily-Austronesian.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian.personal.md) 
+### #is_/same_as :: [LangFamily-Austronesian.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian.personal.md) 
 
-### [LangFamily-Austronesian.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian.secret.md)
+### #is_/same_as :: [LangFamily-Austronesian.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian.secret.md)
 

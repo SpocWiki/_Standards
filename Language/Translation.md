@@ -45,17 +45,17 @@ Commons_category: Translation
 
 ## Confidential Links & Embeds: 
 
-### [Translation](/_Standards/Language/Translation.md) 
+### #is_/same_as :: [Translation](/_Standards/Language/Translation.md) 
 
-### [Translation.public](/_public/Language/Translation.public.md) 
+### #is_/same_as :: [Translation.public](/_public/Language/Translation.public.md) 
 
-### [Translation.internal](/_internal/Language/Translation.internal.md) 
+### #is_/same_as :: [Translation.internal](/_internal/Language/Translation.internal.md) 
 
-### [Translation.protect](/_protect/Language/Translation.protect.md) 
+### #is_/same_as :: [Translation.protect](/_protect/Language/Translation.protect.md) 
 
-### [Translation.private](/_private/Language/Translation.private.md) 
+### #is_/same_as :: [Translation.private](/_private/Language/Translation.private.md) 
 
-### [Translation.personal](/_personal/Language/Translation.personal.md) 
+### #is_/same_as :: [Translation.personal](/_personal/Language/Translation.personal.md) 
 
-### [Translation.secret](/_secret/Language/Translation.secret.md)
+### #is_/same_as :: [Translation.secret](/_secret/Language/Translation.secret.md)
 

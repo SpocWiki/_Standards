@@ -40,17 +40,17 @@ Commons_category: Literacy
 
 ## Confidential Links & Embeds: 
 
-### [Literacy](/_Standards/Language/Literacy.md) 
+### #is_/same_as :: [Literacy](/_Standards/Language/Literacy.md) 
 
-### [Literacy.public](/_public/Language/Literacy.public.md) 
+### #is_/same_as :: [Literacy.public](/_public/Language/Literacy.public.md) 
 
-### [Literacy.internal](/_internal/Language/Literacy.internal.md) 
+### #is_/same_as :: [Literacy.internal](/_internal/Language/Literacy.internal.md) 
 
-### [Literacy.protect](/_protect/Language/Literacy.protect.md) 
+### #is_/same_as :: [Literacy.protect](/_protect/Language/Literacy.protect.md) 
 
-### [Literacy.private](/_private/Language/Literacy.private.md) 
+### #is_/same_as :: [Literacy.private](/_private/Language/Literacy.private.md) 
 
-### [Literacy.personal](/_personal/Language/Literacy.personal.md) 
+### #is_/same_as :: [Literacy.personal](/_personal/Language/Literacy.personal.md) 
 
-### [Literacy.secret](/_secret/Language/Literacy.secret.md)
+### #is_/same_as :: [Literacy.secret](/_secret/Language/Literacy.secret.md)
 

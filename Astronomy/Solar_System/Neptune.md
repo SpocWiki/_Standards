@@ -135,17 +135,17 @@ argument_of_periapsis: 44.96476227
 
 ## Confidential Links & Embeds: 
 
-### [Neptune](/_Standards/Astronomy/Solar_System/Neptune.md) 
+### #is_/same_as :: [Neptune](/_Standards/Astronomy/Solar_System/Neptune.md) 
 
-### [Neptune.public](/_public/Astronomy/Solar_System/Neptune.public.md) 
+### #is_/same_as :: [Neptune.public](/_public/Astronomy/Solar_System/Neptune.public.md) 
 
-### [Neptune.internal](/_internal/Astronomy/Solar_System/Neptune.internal.md) 
+### #is_/same_as :: [Neptune.internal](/_internal/Astronomy/Solar_System/Neptune.internal.md) 
 
-### [Neptune.protect](/_protect/Astronomy/Solar_System/Neptune.protect.md) 
+### #is_/same_as :: [Neptune.protect](/_protect/Astronomy/Solar_System/Neptune.protect.md) 
 
-### [Neptune.private](/_private/Astronomy/Solar_System/Neptune.private.md) 
+### #is_/same_as :: [Neptune.private](/_private/Astronomy/Solar_System/Neptune.private.md) 
 
-### [Neptune.personal](/_personal/Astronomy/Solar_System/Neptune.personal.md) 
+### #is_/same_as :: [Neptune.personal](/_personal/Astronomy/Solar_System/Neptune.personal.md) 
 
-### [Neptune.secret](/_secret/Astronomy/Solar_System/Neptune.secret.md)
+### #is_/same_as :: [Neptune.secret](/_secret/Astronomy/Solar_System/Neptune.secret.md)
 

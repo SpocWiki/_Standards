@@ -34,17 +34,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [EDIFACT](/_Standards/UN(United_Nations)/EDIFACT.md) 
+### #is_/same_as :: [EDIFACT](/_Standards/UN(United_Nations)/EDIFACT.md) 
 
-### [EDIFACT.public](/_public/UN(United_Nations)/EDIFACT.public.md) 
+### #is_/same_as :: [EDIFACT.public](/_public/UN(United_Nations)/EDIFACT.public.md) 
 
-### [EDIFACT.internal](/_internal/UN(United_Nations)/EDIFACT.internal.md) 
+### #is_/same_as :: [EDIFACT.internal](/_internal/UN(United_Nations)/EDIFACT.internal.md) 
 
-### [EDIFACT.protect](/_protect/UN(United_Nations)/EDIFACT.protect.md) 
+### #is_/same_as :: [EDIFACT.protect](/_protect/UN(United_Nations)/EDIFACT.protect.md) 
 
-### [EDIFACT.private](/_private/UN(United_Nations)/EDIFACT.private.md) 
+### #is_/same_as :: [EDIFACT.private](/_private/UN(United_Nations)/EDIFACT.private.md) 
 
-### [EDIFACT.personal](/_personal/UN(United_Nations)/EDIFACT.personal.md) 
+### #is_/same_as :: [EDIFACT.personal](/_personal/UN(United_Nations)/EDIFACT.personal.md) 
 
-### [EDIFACT.secret](/_secret/UN(United_Nations)/EDIFACT.secret.md)
+### #is_/same_as :: [EDIFACT.secret](/_secret/UN(United_Nations)/EDIFACT.secret.md)
 

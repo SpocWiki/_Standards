@@ -22,17 +22,17 @@ has_id_wikidata: Q7950
 
 ## Confidential Links & Embeds: 
 
-### [Plate_Tectonics](/_Standards/Earth/Geology/Plate_Tectonics.md) 
+### #is_/same_as :: [Plate_Tectonics](/_Standards/Earth/Geology/Plate_Tectonics.md) 
 
-### [Plate_Tectonics.public](/_public/Earth/Geology/Plate_Tectonics.public.md) 
+### #is_/same_as :: [Plate_Tectonics.public](/_public/Earth/Geology/Plate_Tectonics.public.md) 
 
-### [Plate_Tectonics.internal](/_internal/Earth/Geology/Plate_Tectonics.internal.md) 
+### #is_/same_as :: [Plate_Tectonics.internal](/_internal/Earth/Geology/Plate_Tectonics.internal.md) 
 
-### [Plate_Tectonics.protect](/_protect/Earth/Geology/Plate_Tectonics.protect.md) 
+### #is_/same_as :: [Plate_Tectonics.protect](/_protect/Earth/Geology/Plate_Tectonics.protect.md) 
 
-### [Plate_Tectonics.private](/_private/Earth/Geology/Plate_Tectonics.private.md) 
+### #is_/same_as :: [Plate_Tectonics.private](/_private/Earth/Geology/Plate_Tectonics.private.md) 
 
-### [Plate_Tectonics.personal](/_personal/Earth/Geology/Plate_Tectonics.personal.md) 
+### #is_/same_as :: [Plate_Tectonics.personal](/_personal/Earth/Geology/Plate_Tectonics.personal.md) 
 
-### [Plate_Tectonics.secret](/_secret/Earth/Geology/Plate_Tectonics.secret.md)
+### #is_/same_as :: [Plate_Tectonics.secret](/_secret/Earth/Geology/Plate_Tectonics.secret.md)
 

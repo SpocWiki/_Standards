@@ -165,17 +165,17 @@ demonym:
 
 ## Confidential Links & Embeds: 
 
-### [Uranus](/_Standards/Astronomy/Solar_System/Uranus.md) 
+### #is_/same_as :: [Uranus](/_Standards/Astronomy/Solar_System/Uranus.md) 
 
-### [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
+### #is_/same_as :: [Uranus.public](/_public/Astronomy/Solar_System/Uranus.public.md) 
 
-### [Uranus.internal](/_internal/Astronomy/Solar_System/Uranus.internal.md) 
+### #is_/same_as :: [Uranus.internal](/_internal/Astronomy/Solar_System/Uranus.internal.md) 
 
-### [Uranus.protect](/_protect/Astronomy/Solar_System/Uranus.protect.md) 
+### #is_/same_as :: [Uranus.protect](/_protect/Astronomy/Solar_System/Uranus.protect.md) 
 
-### [Uranus.private](/_private/Astronomy/Solar_System/Uranus.private.md) 
+### #is_/same_as :: [Uranus.private](/_private/Astronomy/Solar_System/Uranus.private.md) 
 
-### [Uranus.personal](/_personal/Astronomy/Solar_System/Uranus.personal.md) 
+### #is_/same_as :: [Uranus.personal](/_personal/Astronomy/Solar_System/Uranus.personal.md) 
 
-### [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
+### #is_/same_as :: [Uranus.secret](/_secret/Astronomy/Solar_System/Uranus.secret.md)
 

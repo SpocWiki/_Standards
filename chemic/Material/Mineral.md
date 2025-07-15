@@ -26,17 +26,17 @@ has_id_wikidata: Q7946
 
 ## Confidential Links & Embeds: 
 
-### [Mineral](/_Standards/chemic/Material/Mineral.md) 
+### #is_/same_as :: [Mineral](/_Standards/chemic/Material/Mineral.md) 
 
-### [Mineral.public](/_public/chemic/Material/Mineral.public.md) 
+### #is_/same_as :: [Mineral.public](/_public/chemic/Material/Mineral.public.md) 
 
-### [Mineral.internal](/_internal/chemic/Material/Mineral.internal.md) 
+### #is_/same_as :: [Mineral.internal](/_internal/chemic/Material/Mineral.internal.md) 
 
-### [Mineral.protect](/_protect/chemic/Material/Mineral.protect.md) 
+### #is_/same_as :: [Mineral.protect](/_protect/chemic/Material/Mineral.protect.md) 
 
-### [Mineral.private](/_private/chemic/Material/Mineral.private.md) 
+### #is_/same_as :: [Mineral.private](/_private/chemic/Material/Mineral.private.md) 
 
-### [Mineral.personal](/_personal/chemic/Material/Mineral.personal.md) 
+### #is_/same_as :: [Mineral.personal](/_personal/chemic/Material/Mineral.personal.md) 
 
-### [Mineral.secret](/_secret/chemic/Material/Mineral.secret.md)
+### #is_/same_as :: [Mineral.secret](/_secret/chemic/Material/Mineral.secret.md)
 

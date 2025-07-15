@@ -82,17 +82,17 @@ Universal_Decimal_Classification: 91
 
 ## Confidential Links & Embeds: 
 
-### [Geography](/_Standards/Earth/Geography.md) 
+### #is_/same_as :: [Geography](/_Standards/Earth/Geography.md) 
 
-### [Geography.public](/_public/Earth/Geography.public.md) 
+### #is_/same_as :: [Geography.public](/_public/Earth/Geography.public.md) 
 
-### [Geography.internal](/_internal/Earth/Geography.internal.md) 
+### #is_/same_as :: [Geography.internal](/_internal/Earth/Geography.internal.md) 
 
-### [Geography.protect](/_protect/Earth/Geography.protect.md) 
+### #is_/same_as :: [Geography.protect](/_protect/Earth/Geography.protect.md) 
 
-### [Geography.private](/_private/Earth/Geography.private.md) 
+### #is_/same_as :: [Geography.private](/_private/Earth/Geography.private.md) 
 
-### [Geography.personal](/_personal/Earth/Geography.personal.md) 
+### #is_/same_as :: [Geography.personal](/_personal/Earth/Geography.personal.md) 
 
-### [Geography.secret](/_secret/Earth/Geography.secret.md)
+### #is_/same_as :: [Geography.secret](/_secret/Earth/Geography.secret.md)
 

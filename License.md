@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/License.md) 
+### #is_/same_as :: [License](/_Standards/License.md) 
 
-### [License.public](/_public/License.public.md) 
+### #is_/same_as :: [License.public](/_public/License.public.md) 
 
-### [License.internal](/_internal/License.internal.md) 
+### #is_/same_as :: [License.internal](/_internal/License.internal.md) 
 
-### [License.protect](/_protect/License.protect.md) 
+### #is_/same_as :: [License.protect](/_protect/License.protect.md) 
 
-### [License.private](/_private/License.private.md) 
+### #is_/same_as :: [License.private](/_private/License.private.md) 
 
-### [License.personal](/_personal/License.personal.md) 
+### #is_/same_as :: [License.personal](/_personal/License.personal.md) 
 
-### [License.secret](/_secret/License.secret.md)
+### #is_/same_as :: [License.secret](/_secret/License.secret.md)
 

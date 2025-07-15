@@ -27,17 +27,17 @@ has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_typ
 
 ## Confidential Links & Embeds: 
 
-### [FileClass~Property](/_Standards/fileClass/FileClass~Property.md) 
+### #is_/same_as :: [FileClass~Property](/_Standards/fileClass/FileClass~Property.md) 
 
-### [FileClass~Property.public](/_public/fileClass/FileClass~Property.public.md) 
+### #is_/same_as :: [FileClass~Property.public](/_public/fileClass/FileClass~Property.public.md) 
 
-### [FileClass~Property.internal](/_internal/fileClass/FileClass~Property.internal.md) 
+### #is_/same_as :: [FileClass~Property.internal](/_internal/fileClass/FileClass~Property.internal.md) 
 
-### [FileClass~Property.protect](/_protect/fileClass/FileClass~Property.protect.md) 
+### #is_/same_as :: [FileClass~Property.protect](/_protect/fileClass/FileClass~Property.protect.md) 
 
-### [FileClass~Property.private](/_private/fileClass/FileClass~Property.private.md) 
+### #is_/same_as :: [FileClass~Property.private](/_private/fileClass/FileClass~Property.private.md) 
 
-### [FileClass~Property.personal](/_personal/fileClass/FileClass~Property.personal.md) 
+### #is_/same_as :: [FileClass~Property.personal](/_personal/fileClass/FileClass~Property.personal.md) 
 
-### [FileClass~Property.secret](/_secret/fileClass/FileClass~Property.secret.md)
+### #is_/same_as :: [FileClass~Property.secret](/_secret/fileClass/FileClass~Property.secret.md)
 

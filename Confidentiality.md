@@ -63,17 +63,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Confidentiality](/_Standards/Confidentiality.md) 
+### #is_/same_as :: [Confidentiality](/_Standards/Confidentiality.md) 
 
-### [Confidentiality.public](/_public/Confidentiality.public.md) 
+### #is_/same_as :: [Confidentiality.public](/_public/Confidentiality.public.md) 
 
-### [Confidentiality.internal](/_internal/Confidentiality.internal.md) 
+### #is_/same_as :: [Confidentiality.internal](/_internal/Confidentiality.internal.md) 
 
-### [Confidentiality.protect](/_protect/Confidentiality.protect.md) 
+### #is_/same_as :: [Confidentiality.protect](/_protect/Confidentiality.protect.md) 
 
-### [Confidentiality.private](/_private/Confidentiality.private.md) 
+### #is_/same_as :: [Confidentiality.private](/_private/Confidentiality.private.md) 
 
-### [Confidentiality.personal](/_personal/Confidentiality.personal.md) 
+### #is_/same_as :: [Confidentiality.personal](/_personal/Confidentiality.personal.md) 
 
-### [Confidentiality.secret](/_secret/Confidentiality.secret.md)
+### #is_/same_as :: [Confidentiality.secret](/_secret/Confidentiality.secret.md)
 

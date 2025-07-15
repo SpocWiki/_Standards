@@ -45,17 +45,17 @@ such as [[Stoney-Unit]] which set the elementary Charge to 1.
 
 ## Confidential Links & Embeds: 
 
-### [Planck-Unit](/_Standards/Unit/Planck-Unit.md) 
+### #is_/same_as :: [Planck-Unit](/_Standards/Unit/Planck-Unit.md) 
 
-### [Planck-Unit.public](/_public/Unit/Planck-Unit.public.md) 
+### #is_/same_as :: [Planck-Unit.public](/_public/Unit/Planck-Unit.public.md) 
 
-### [Planck-Unit.internal](/_internal/Unit/Planck-Unit.internal.md) 
+### #is_/same_as :: [Planck-Unit.internal](/_internal/Unit/Planck-Unit.internal.md) 
 
-### [Planck-Unit.protect](/_protect/Unit/Planck-Unit.protect.md) 
+### #is_/same_as :: [Planck-Unit.protect](/_protect/Unit/Planck-Unit.protect.md) 
 
-### [Planck-Unit.private](/_private/Unit/Planck-Unit.private.md) 
+### #is_/same_as :: [Planck-Unit.private](/_private/Unit/Planck-Unit.private.md) 
 
-### [Planck-Unit.personal](/_personal/Unit/Planck-Unit.personal.md) 
+### #is_/same_as :: [Planck-Unit.personal](/_personal/Unit/Planck-Unit.personal.md) 
 
-### [Planck-Unit.secret](/_secret/Unit/Planck-Unit.secret.md)
+### #is_/same_as :: [Planck-Unit.secret](/_secret/Unit/Planck-Unit.secret.md)
 

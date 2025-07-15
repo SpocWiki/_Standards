@@ -201,17 +201,17 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Jupiter,30589071]]"
 
 ## Confidential Links & Embeds: 
 
-### [Jupiter](/_Standards/Astronomy/Solar_System/Jupiter.md) 
+### #is_/same_as :: [Jupiter](/_Standards/Astronomy/Solar_System/Jupiter.md) 
 
-### [Jupiter.public](/_public/Astronomy/Solar_System/Jupiter.public.md) 
+### #is_/same_as :: [Jupiter.public](/_public/Astronomy/Solar_System/Jupiter.public.md) 
 
-### [Jupiter.internal](/_internal/Astronomy/Solar_System/Jupiter.internal.md) 
+### #is_/same_as :: [Jupiter.internal](/_internal/Astronomy/Solar_System/Jupiter.internal.md) 
 
-### [Jupiter.protect](/_protect/Astronomy/Solar_System/Jupiter.protect.md) 
+### #is_/same_as :: [Jupiter.protect](/_protect/Astronomy/Solar_System/Jupiter.protect.md) 
 
-### [Jupiter.private](/_private/Astronomy/Solar_System/Jupiter.private.md) 
+### #is_/same_as :: [Jupiter.private](/_private/Astronomy/Solar_System/Jupiter.private.md) 
 
-### [Jupiter.personal](/_personal/Astronomy/Solar_System/Jupiter.personal.md) 
+### #is_/same_as :: [Jupiter.personal](/_personal/Astronomy/Solar_System/Jupiter.personal.md) 
 
-### [Jupiter.secret](/_secret/Astronomy/Solar_System/Jupiter.secret.md)
+### #is_/same_as :: [Jupiter.secret](/_secret/Astronomy/Solar_System/Jupiter.secret.md)
 

@@ -61,17 +61,17 @@ Gujarati_Vishwakosh_entry: અગ્નિ-1-ઊર્જા
 
 ## Confidential Links & Embeds: 
 
-### [Fire](/_Standards/chemic/inOrganic/Fire.md) 
+### #is_/same_as :: [Fire](/_Standards/chemic/inOrganic/Fire.md) 
 
-### [Fire.public](/_public/chemic/inOrganic/Fire.public.md) 
+### #is_/same_as :: [Fire.public](/_public/chemic/inOrganic/Fire.public.md) 
 
-### [Fire.internal](/_internal/chemic/inOrganic/Fire.internal.md) 
+### #is_/same_as :: [Fire.internal](/_internal/chemic/inOrganic/Fire.internal.md) 
 
-### [Fire.protect](/_protect/chemic/inOrganic/Fire.protect.md) 
+### #is_/same_as :: [Fire.protect](/_protect/chemic/inOrganic/Fire.protect.md) 
 
-### [Fire.private](/_private/chemic/inOrganic/Fire.private.md) 
+### #is_/same_as :: [Fire.private](/_private/chemic/inOrganic/Fire.private.md) 
 
-### [Fire.personal](/_personal/chemic/inOrganic/Fire.personal.md) 
+### #is_/same_as :: [Fire.personal](/_personal/chemic/inOrganic/Fire.personal.md) 
 
-### [Fire.secret](/_secret/chemic/inOrganic/Fire.secret.md)
+### #is_/same_as :: [Fire.secret](/_secret/chemic/inOrganic/Fire.secret.md)
 

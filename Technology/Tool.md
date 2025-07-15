@@ -64,17 +64,17 @@ Colon_Classification: "Y:82"
 
 ## Confidential Links & Embeds: 
 
-### [Tool](/_Standards/Technology/Tool.md) 
+### #is_/same_as :: [Tool](/_Standards/Technology/Tool.md) 
 
-### [Tool.public](/_public/Technology/Tool.public.md) 
+### #is_/same_as :: [Tool.public](/_public/Technology/Tool.public.md) 
 
-### [Tool.internal](/_internal/Technology/Tool.internal.md) 
+### #is_/same_as :: [Tool.internal](/_internal/Technology/Tool.internal.md) 
 
-### [Tool.protect](/_protect/Technology/Tool.protect.md) 
+### #is_/same_as :: [Tool.protect](/_protect/Technology/Tool.protect.md) 
 
-### [Tool.private](/_private/Technology/Tool.private.md) 
+### #is_/same_as :: [Tool.private](/_private/Technology/Tool.private.md) 
 
-### [Tool.personal](/_personal/Technology/Tool.personal.md) 
+### #is_/same_as :: [Tool.personal](/_personal/Technology/Tool.personal.md) 
 
-### [Tool.secret](/_secret/Technology/Tool.secret.md)
+### #is_/same_as :: [Tool.secret](/_secret/Technology/Tool.secret.md)
 

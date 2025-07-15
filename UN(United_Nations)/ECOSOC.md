@@ -26,17 +26,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [ECOSOC](/_Standards/UN(United_Nations)/ECOSOC.md) 
+### #is_/same_as :: [ECOSOC](/_Standards/UN(United_Nations)/ECOSOC.md) 
 
-### [ECOSOC.public](/_public/UN(United_Nations)/ECOSOC.public.md) 
+### #is_/same_as :: [ECOSOC.public](/_public/UN(United_Nations)/ECOSOC.public.md) 
 
-### [ECOSOC.internal](/_internal/UN(United_Nations)/ECOSOC.internal.md) 
+### #is_/same_as :: [ECOSOC.internal](/_internal/UN(United_Nations)/ECOSOC.internal.md) 
 
-### [ECOSOC.protect](/_protect/UN(United_Nations)/ECOSOC.protect.md) 
+### #is_/same_as :: [ECOSOC.protect](/_protect/UN(United_Nations)/ECOSOC.protect.md) 
 
-### [ECOSOC.private](/_private/UN(United_Nations)/ECOSOC.private.md) 
+### #is_/same_as :: [ECOSOC.private](/_private/UN(United_Nations)/ECOSOC.private.md) 
 
-### [ECOSOC.personal](/_personal/UN(United_Nations)/ECOSOC.personal.md) 
+### #is_/same_as :: [ECOSOC.personal](/_personal/UN(United_Nations)/ECOSOC.personal.md) 
 
-### [ECOSOC.secret](/_secret/UN(United_Nations)/ECOSOC.secret.md)
+### #is_/same_as :: [ECOSOC.secret](/_secret/UN(United_Nations)/ECOSOC.secret.md)
 

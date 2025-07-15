@@ -95,17 +95,17 @@ Therefore all 4 Southern Octants are collected here.
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Antarctic](/_Standards/Earth/Ocean/Ocean~Antarctic.md) 
+### #is_/same_as :: [Ocean~Antarctic](/_Standards/Earth/Ocean/Ocean~Antarctic.md) 
 
-### [Ocean~Antarctic.public](/_public/Earth/Ocean/Ocean~Antarctic.public.md) 
+### #is_/same_as :: [Ocean~Antarctic.public](/_public/Earth/Ocean/Ocean~Antarctic.public.md) 
 
-### [Ocean~Antarctic.internal](/_internal/Earth/Ocean/Ocean~Antarctic.internal.md) 
+### #is_/same_as :: [Ocean~Antarctic.internal](/_internal/Earth/Ocean/Ocean~Antarctic.internal.md) 
 
-### [Ocean~Antarctic.protect](/_protect/Earth/Ocean/Ocean~Antarctic.protect.md) 
+### #is_/same_as :: [Ocean~Antarctic.protect](/_protect/Earth/Ocean/Ocean~Antarctic.protect.md) 
 
-### [Ocean~Antarctic.private](/_private/Earth/Ocean/Ocean~Antarctic.private.md) 
+### #is_/same_as :: [Ocean~Antarctic.private](/_private/Earth/Ocean/Ocean~Antarctic.private.md) 
 
-### [Ocean~Antarctic.personal](/_personal/Earth/Ocean/Ocean~Antarctic.personal.md) 
+### #is_/same_as :: [Ocean~Antarctic.personal](/_personal/Earth/Ocean/Ocean~Antarctic.personal.md) 
 
-### [Ocean~Antarctic.secret](/_secret/Earth/Ocean/Ocean~Antarctic.secret.md)
+### #is_/same_as :: [Ocean~Antarctic.secret](/_secret/Earth/Ocean/Ocean~Antarctic.secret.md)
 

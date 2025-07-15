@@ -78,17 +78,17 @@ U_S_National_Archives_Identifier: 10647959
 
 ## Confidential Links & Embeds: 
 
-### [Diamond](/_Standards/chemic/Material/Diamond.md) 
+### #is_/same_as :: [Diamond](/_Standards/chemic/Material/Diamond.md) 
 
-### [Diamond.public](/_public/chemic/Material/Diamond.public.md) 
+### #is_/same_as :: [Diamond.public](/_public/chemic/Material/Diamond.public.md) 
 
-### [Diamond.internal](/_internal/chemic/Material/Diamond.internal.md) 
+### #is_/same_as :: [Diamond.internal](/_internal/chemic/Material/Diamond.internal.md) 
 
-### [Diamond.protect](/_protect/chemic/Material/Diamond.protect.md) 
+### #is_/same_as :: [Diamond.protect](/_protect/chemic/Material/Diamond.protect.md) 
 
-### [Diamond.private](/_private/chemic/Material/Diamond.private.md) 
+### #is_/same_as :: [Diamond.private](/_private/chemic/Material/Diamond.private.md) 
 
-### [Diamond.personal](/_personal/chemic/Material/Diamond.personal.md) 
+### #is_/same_as :: [Diamond.personal](/_personal/chemic/Material/Diamond.personal.md) 
 
-### [Diamond.secret](/_secret/chemic/Material/Diamond.secret.md)
+### #is_/same_as :: [Diamond.secret](/_secret/chemic/Material/Diamond.secret.md)
 

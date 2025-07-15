@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [chemic](/_Standards/chemic.md) 
+### #is_/same_as :: [chemic](/_Standards/chemic.md) 
 
-### [chemic.public](/_public/chemic.public.md) 
+### #is_/same_as :: [chemic.public](/_public/chemic.public.md) 
 
-### [chemic.internal](/_internal/chemic.internal.md) 
+### #is_/same_as :: [chemic.internal](/_internal/chemic.internal.md) 
 
-### [chemic.protect](/_protect/chemic.protect.md) 
+### #is_/same_as :: [chemic.protect](/_protect/chemic.protect.md) 
 
-### [chemic.private](/_private/chemic.private.md) 
+### #is_/same_as :: [chemic.private](/_private/chemic.private.md) 
 
-### [chemic.personal](/_personal/chemic.personal.md) 
+### #is_/same_as :: [chemic.personal](/_personal/chemic.personal.md) 
 
-### [chemic.secret](/_secret/chemic.secret.md)
+### #is_/same_as :: [chemic.secret](/_secret/chemic.secret.md)
 

@@ -45,17 +45,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/METABOLIZM.html
 
 ## Confidential Links & Embeds: 
 
-### [Metabolism](/_Standards/bio/Metabolism.md) 
+### #is_/same_as :: [Metabolism](/_Standards/bio/Metabolism.md) 
 
-### [Metabolism.public](/_public/bio/Metabolism.public.md) 
+### #is_/same_as :: [Metabolism.public](/_public/bio/Metabolism.public.md) 
 
-### [Metabolism.internal](/_internal/bio/Metabolism.internal.md) 
+### #is_/same_as :: [Metabolism.internal](/_internal/bio/Metabolism.internal.md) 
 
-### [Metabolism.protect](/_protect/bio/Metabolism.protect.md) 
+### #is_/same_as :: [Metabolism.protect](/_protect/bio/Metabolism.protect.md) 
 
-### [Metabolism.private](/_private/bio/Metabolism.private.md) 
+### #is_/same_as :: [Metabolism.private](/_private/bio/Metabolism.private.md) 
 
-### [Metabolism.personal](/_personal/bio/Metabolism.personal.md) 
+### #is_/same_as :: [Metabolism.personal](/_personal/bio/Metabolism.personal.md) 
 
-### [Metabolism.secret](/_secret/bio/Metabolism.secret.md)
+### #is_/same_as :: [Metabolism.secret](/_secret/bio/Metabolism.secret.md)
 

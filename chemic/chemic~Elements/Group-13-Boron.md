@@ -26,17 +26,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Group-13-Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron.md) 
+### #is_/same_as :: [Group-13-Boron](/_Standards/chemic/chemic~Elements/Group-13-Boron.md) 
 
-### [Group-13-Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron.public.md) 
+### #is_/same_as :: [Group-13-Boron.public](/_public/chemic/chemic~Elements/Group-13-Boron.public.md) 
 
-### [Group-13-Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron.internal.md) 
+### #is_/same_as :: [Group-13-Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron.internal.md) 
 
-### [Group-13-Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron.protect.md) 
+### #is_/same_as :: [Group-13-Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron.protect.md) 
 
-### [Group-13-Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron.private.md) 
+### #is_/same_as :: [Group-13-Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron.private.md) 
 
-### [Group-13-Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron.personal.md) 
+### #is_/same_as :: [Group-13-Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron.personal.md) 
 
-### [Group-13-Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron.secret.md)
+### #is_/same_as :: [Group-13-Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron.secret.md)
 

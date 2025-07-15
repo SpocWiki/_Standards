@@ -31,17 +31,17 @@ has_id_wikidata: Q19860
 
 ## Confidential Links & Embeds: 
 
-### [LangFamily-Indo-European](/_Standards/Language/Lang~Family/LangFamily-Indo-European.md) 
+### #is_/same_as :: [LangFamily-Indo-European](/_Standards/Language/Lang~Family/LangFamily-Indo-European.md) 
 
-### [LangFamily-Indo-European.public](/_public/Language/Lang~Family/LangFamily-Indo-European.public.md) 
+### #is_/same_as :: [LangFamily-Indo-European.public](/_public/Language/Lang~Family/LangFamily-Indo-European.public.md) 
 
-### [LangFamily-Indo-European.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European.internal.md) 
+### #is_/same_as :: [LangFamily-Indo-European.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European.internal.md) 
 
-### [LangFamily-Indo-European.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European.protect.md) 
+### #is_/same_as :: [LangFamily-Indo-European.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European.protect.md) 
 
-### [LangFamily-Indo-European.private](/_private/Language/Lang~Family/LangFamily-Indo-European.private.md) 
+### #is_/same_as :: [LangFamily-Indo-European.private](/_private/Language/Lang~Family/LangFamily-Indo-European.private.md) 
 
-### [LangFamily-Indo-European.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European.personal.md) 
+### #is_/same_as :: [LangFamily-Indo-European.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European.personal.md) 
 
-### [LangFamily-Indo-European.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European.secret.md)
+### #is_/same_as :: [LangFamily-Indo-European.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European.secret.md)
 

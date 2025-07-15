@@ -40,17 +40,17 @@ Key-Mapping:
 
 ## Confidential Links & Embeds: 
 
-### [T9(predictive_text)](/_Standards/T9(predictive_text).md) 
+### #is_/same_as :: [T9(predictive_text)](/_Standards/T9(predictive_text).md) 
 
-### [T9(predictive_text).public](/_public/T9(predictive_text).public.md) 
+### #is_/same_as :: [T9(predictive_text).public](/_public/T9(predictive_text).public.md) 
 
-### [T9(predictive_text).internal](/_internal/T9(predictive_text).internal.md) 
+### #is_/same_as :: [T9(predictive_text).internal](/_internal/T9(predictive_text).internal.md) 
 
-### [T9(predictive_text).protect](/_protect/T9(predictive_text).protect.md) 
+### #is_/same_as :: [T9(predictive_text).protect](/_protect/T9(predictive_text).protect.md) 
 
-### [T9(predictive_text).private](/_private/T9(predictive_text).private.md) 
+### #is_/same_as :: [T9(predictive_text).private](/_private/T9(predictive_text).private.md) 
 
-### [T9(predictive_text).personal](/_personal/T9(predictive_text).personal.md) 
+### #is_/same_as :: [T9(predictive_text).personal](/_personal/T9(predictive_text).personal.md) 
 
-### [T9(predictive_text).secret](/_secret/T9(predictive_text).secret.md)
+### #is_/same_as :: [T9(predictive_text).secret](/_secret/T9(predictive_text).secret.md)
 

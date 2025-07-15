@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Observational_Study](/_Standards/Mathematics/Statistics/Observational_Study.md) 
+### #is_/same_as :: [Observational_Study](/_Standards/Mathematics/Statistics/Observational_Study.md) 
 
-### [Observational_Study.public](/_public/Mathematics/Statistics/Observational_Study.public.md) 
+### #is_/same_as :: [Observational_Study.public](/_public/Mathematics/Statistics/Observational_Study.public.md) 
 
-### [Observational_Study.internal](/_internal/Mathematics/Statistics/Observational_Study.internal.md) 
+### #is_/same_as :: [Observational_Study.internal](/_internal/Mathematics/Statistics/Observational_Study.internal.md) 
 
-### [Observational_Study.protect](/_protect/Mathematics/Statistics/Observational_Study.protect.md) 
+### #is_/same_as :: [Observational_Study.protect](/_protect/Mathematics/Statistics/Observational_Study.protect.md) 
 
-### [Observational_Study.private](/_private/Mathematics/Statistics/Observational_Study.private.md) 
+### #is_/same_as :: [Observational_Study.private](/_private/Mathematics/Statistics/Observational_Study.private.md) 
 
-### [Observational_Study.personal](/_personal/Mathematics/Statistics/Observational_Study.personal.md) 
+### #is_/same_as :: [Observational_Study.personal](/_personal/Mathematics/Statistics/Observational_Study.personal.md) 
 
-### [Observational_Study.secret](/_secret/Mathematics/Statistics/Observational_Study.secret.md)
+### #is_/same_as :: [Observational_Study.secret](/_secret/Mathematics/Statistics/Observational_Study.secret.md)
 

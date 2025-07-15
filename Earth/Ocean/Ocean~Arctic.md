@@ -82,17 +82,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Arctic](/_Standards/Earth/Ocean/Ocean~Arctic.md) 
+### #is_/same_as :: [Ocean~Arctic](/_Standards/Earth/Ocean/Ocean~Arctic.md) 
 
-### [Ocean~Arctic.public](/_public/Earth/Ocean/Ocean~Arctic.public.md) 
+### #is_/same_as :: [Ocean~Arctic.public](/_public/Earth/Ocean/Ocean~Arctic.public.md) 
 
-### [Ocean~Arctic.internal](/_internal/Earth/Ocean/Ocean~Arctic.internal.md) 
+### #is_/same_as :: [Ocean~Arctic.internal](/_internal/Earth/Ocean/Ocean~Arctic.internal.md) 
 
-### [Ocean~Arctic.protect](/_protect/Earth/Ocean/Ocean~Arctic.protect.md) 
+### #is_/same_as :: [Ocean~Arctic.protect](/_protect/Earth/Ocean/Ocean~Arctic.protect.md) 
 
-### [Ocean~Arctic.private](/_private/Earth/Ocean/Ocean~Arctic.private.md) 
+### #is_/same_as :: [Ocean~Arctic.private](/_private/Earth/Ocean/Ocean~Arctic.private.md) 
 
-### [Ocean~Arctic.personal](/_personal/Earth/Ocean/Ocean~Arctic.personal.md) 
+### #is_/same_as :: [Ocean~Arctic.personal](/_personal/Earth/Ocean/Ocean~Arctic.personal.md) 
 
-### [Ocean~Arctic.secret](/_secret/Earth/Ocean/Ocean~Arctic.secret.md)
+### #is_/same_as :: [Ocean~Arctic.secret](/_secret/Earth/Ocean/Ocean~Arctic.secret.md)
 

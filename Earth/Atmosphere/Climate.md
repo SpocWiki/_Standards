@@ -92,17 +92,17 @@ UMLS_CUI: C0008946
 
 ## Confidential Links & Embeds: 
 
-### [Climate](/_Standards/Earth/Atmosphere/Climate.md) 
+### #is_/same_as :: [Climate](/_Standards/Earth/Atmosphere/Climate.md) 
 
-### [Climate.public](/_public/Earth/Atmosphere/Climate.public.md) 
+### #is_/same_as :: [Climate.public](/_public/Earth/Atmosphere/Climate.public.md) 
 
-### [Climate.internal](/_internal/Earth/Atmosphere/Climate.internal.md) 
+### #is_/same_as :: [Climate.internal](/_internal/Earth/Atmosphere/Climate.internal.md) 
 
-### [Climate.protect](/_protect/Earth/Atmosphere/Climate.protect.md) 
+### #is_/same_as :: [Climate.protect](/_protect/Earth/Atmosphere/Climate.protect.md) 
 
-### [Climate.private](/_private/Earth/Atmosphere/Climate.private.md) 
+### #is_/same_as :: [Climate.private](/_private/Earth/Atmosphere/Climate.private.md) 
 
-### [Climate.personal](/_personal/Earth/Atmosphere/Climate.personal.md) 
+### #is_/same_as :: [Climate.personal](/_personal/Earth/Atmosphere/Climate.personal.md) 
 
-### [Climate.secret](/_secret/Earth/Atmosphere/Climate.secret.md)
+### #is_/same_as :: [Climate.secret](/_secret/Earth/Atmosphere/Climate.secret.md)
 

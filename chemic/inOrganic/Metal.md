@@ -112,17 +112,17 @@ Commons_category: Metals
 
 ## Confidential Links & Embeds: 
 
-### [Metal](/_Standards/chemic/inOrganic/Metal.md) 
+### #is_/same_as :: [Metal](/_Standards/chemic/inOrganic/Metal.md) 
 
-### [Metal.public](/_public/chemic/inOrganic/Metal.public.md) 
+### #is_/same_as :: [Metal.public](/_public/chemic/inOrganic/Metal.public.md) 
 
-### [Metal.internal](/_internal/chemic/inOrganic/Metal.internal.md) 
+### #is_/same_as :: [Metal.internal](/_internal/chemic/inOrganic/Metal.internal.md) 
 
-### [Metal.protect](/_protect/chemic/inOrganic/Metal.protect.md) 
+### #is_/same_as :: [Metal.protect](/_protect/chemic/inOrganic/Metal.protect.md) 
 
-### [Metal.private](/_private/chemic/inOrganic/Metal.private.md) 
+### #is_/same_as :: [Metal.private](/_private/chemic/inOrganic/Metal.private.md) 
 
-### [Metal.personal](/_personal/chemic/inOrganic/Metal.personal.md) 
+### #is_/same_as :: [Metal.personal](/_personal/chemic/inOrganic/Metal.personal.md) 
 
-### [Metal.secret](/_secret/chemic/inOrganic/Metal.secret.md)
+### #is_/same_as :: [Metal.secret](/_secret/chemic/inOrganic/Metal.secret.md)
 

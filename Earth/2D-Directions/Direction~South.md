@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Direction~South](/_Standards/Earth/2D-Directions/Direction~South.md) 
+### #is_/same_as :: [Direction~South](/_Standards/Earth/2D-Directions/Direction~South.md) 
 
-### [Direction~South.public](/_public/Earth/2D-Directions/Direction~South.public.md) 
+### #is_/same_as :: [Direction~South.public](/_public/Earth/2D-Directions/Direction~South.public.md) 
 
-### [Direction~South.internal](/_internal/Earth/2D-Directions/Direction~South.internal.md) 
+### #is_/same_as :: [Direction~South.internal](/_internal/Earth/2D-Directions/Direction~South.internal.md) 
 
-### [Direction~South.protect](/_protect/Earth/2D-Directions/Direction~South.protect.md) 
+### #is_/same_as :: [Direction~South.protect](/_protect/Earth/2D-Directions/Direction~South.protect.md) 
 
-### [Direction~South.private](/_private/Earth/2D-Directions/Direction~South.private.md) 
+### #is_/same_as :: [Direction~South.private](/_private/Earth/2D-Directions/Direction~South.private.md) 
 
-### [Direction~South.personal](/_personal/Earth/2D-Directions/Direction~South.personal.md) 
+### #is_/same_as :: [Direction~South.personal](/_personal/Earth/2D-Directions/Direction~South.personal.md) 
 
-### [Direction~South.secret](/_secret/Earth/2D-Directions/Direction~South.secret.md)
+### #is_/same_as :: [Direction~South.secret](/_secret/Earth/2D-Directions/Direction~South.secret.md)
 

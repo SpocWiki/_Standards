@@ -61,17 +61,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATOM.html
 
 ## Confidential Links & Embeds: 
 
-### [Atom](/_Standards/Science/Physics/Atom.md) 
+### #is_/same_as :: [Atom](/_Standards/Science/Physics/Atom.md) 
 
-### [Atom.public](/_public/Science/Physics/Atom.public.md) 
+### #is_/same_as :: [Atom.public](/_public/Science/Physics/Atom.public.md) 
 
-### [Atom.internal](/_internal/Science/Physics/Atom.internal.md) 
+### #is_/same_as :: [Atom.internal](/_internal/Science/Physics/Atom.internal.md) 
 
-### [Atom.protect](/_protect/Science/Physics/Atom.protect.md) 
+### #is_/same_as :: [Atom.protect](/_protect/Science/Physics/Atom.protect.md) 
 
-### [Atom.private](/_private/Science/Physics/Atom.private.md) 
+### #is_/same_as :: [Atom.private](/_private/Science/Physics/Atom.private.md) 
 
-### [Atom.personal](/_personal/Science/Physics/Atom.personal.md) 
+### #is_/same_as :: [Atom.personal](/_personal/Science/Physics/Atom.personal.md) 
 
-### [Atom.secret](/_secret/Science/Physics/Atom.secret.md)
+### #is_/same_as :: [Atom.secret](/_secret/Science/Physics/Atom.secret.md)
 

@@ -172,17 +172,17 @@ hashtag: Mars
 
 ## Confidential Links & Embeds: 
 
-### [Mars](/_Standards/Astronomy/Solar_System/Mars.md) 
+### #is_/same_as :: [Mars](/_Standards/Astronomy/Solar_System/Mars.md) 
 
-### [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
+### #is_/same_as :: [Mars.public](/_public/Astronomy/Solar_System/Mars.public.md) 
 
-### [Mars.internal](/_internal/Astronomy/Solar_System/Mars.internal.md) 
+### #is_/same_as :: [Mars.internal](/_internal/Astronomy/Solar_System/Mars.internal.md) 
 
-### [Mars.protect](/_protect/Astronomy/Solar_System/Mars.protect.md) 
+### #is_/same_as :: [Mars.protect](/_protect/Astronomy/Solar_System/Mars.protect.md) 
 
-### [Mars.private](/_private/Astronomy/Solar_System/Mars.private.md) 
+### #is_/same_as :: [Mars.private](/_private/Astronomy/Solar_System/Mars.private.md) 
 
-### [Mars.personal](/_personal/Astronomy/Solar_System/Mars.personal.md) 
+### #is_/same_as :: [Mars.personal](/_personal/Astronomy/Solar_System/Mars.personal.md) 
 
-### [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
+### #is_/same_as :: [Mars.secret](/_secret/Astronomy/Solar_System/Mars.secret.md)
 

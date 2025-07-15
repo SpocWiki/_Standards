@@ -61,17 +61,17 @@ Commons_category: Area
 
 ## Confidential Links & Embeds: 
 
-### [Area](/_Standards/Mathematics/Geometry/Area.md) 
+### #is_/same_as :: [Area](/_Standards/Mathematics/Geometry/Area.md) 
 
-### [Area.public](/_public/Mathematics/Geometry/Area.public.md) 
+### #is_/same_as :: [Area.public](/_public/Mathematics/Geometry/Area.public.md) 
 
-### [Area.internal](/_internal/Mathematics/Geometry/Area.internal.md) 
+### #is_/same_as :: [Area.internal](/_internal/Mathematics/Geometry/Area.internal.md) 
 
-### [Area.protect](/_protect/Mathematics/Geometry/Area.protect.md) 
+### #is_/same_as :: [Area.protect](/_protect/Mathematics/Geometry/Area.protect.md) 
 
-### [Area.private](/_private/Mathematics/Geometry/Area.private.md) 
+### #is_/same_as :: [Area.private](/_private/Mathematics/Geometry/Area.private.md) 
 
-### [Area.personal](/_personal/Mathematics/Geometry/Area.personal.md) 
+### #is_/same_as :: [Area.personal](/_personal/Mathematics/Geometry/Area.personal.md) 
 
-### [Area.secret](/_secret/Mathematics/Geometry/Area.secret.md)
+### #is_/same_as :: [Area.secret](/_secret/Mathematics/Geometry/Area.secret.md)
 

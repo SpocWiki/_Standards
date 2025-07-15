@@ -13,17 +13,17 @@ Unit :: #Unit/SI/rad
 
 ## Confidential Links & Embeds: 
 
-### [Radian](/_Standards/Unit/SI-Unit/Radian.md) 
+### #is_/same_as :: [Radian](/_Standards/Unit/SI-Unit/Radian.md) 
 
-### [Radian.public](/_public/Unit/SI-Unit/Radian.public.md) 
+### #is_/same_as :: [Radian.public](/_public/Unit/SI-Unit/Radian.public.md) 
 
-### [Radian.internal](/_internal/Unit/SI-Unit/Radian.internal.md) 
+### #is_/same_as :: [Radian.internal](/_internal/Unit/SI-Unit/Radian.internal.md) 
 
-### [Radian.protect](/_protect/Unit/SI-Unit/Radian.protect.md) 
+### #is_/same_as :: [Radian.protect](/_protect/Unit/SI-Unit/Radian.protect.md) 
 
-### [Radian.private](/_private/Unit/SI-Unit/Radian.private.md) 
+### #is_/same_as :: [Radian.private](/_private/Unit/SI-Unit/Radian.private.md) 
 
-### [Radian.personal](/_personal/Unit/SI-Unit/Radian.personal.md) 
+### #is_/same_as :: [Radian.personal](/_personal/Unit/SI-Unit/Radian.personal.md) 
 
-### [Radian.secret](/_secret/Unit/SI-Unit/Radian.secret.md)
+### #is_/same_as :: [Radian.secret](/_secret/Unit/SI-Unit/Radian.secret.md)
 

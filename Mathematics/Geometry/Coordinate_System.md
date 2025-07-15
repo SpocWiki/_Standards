@@ -31,17 +31,17 @@ Krugosvet_article: geografiya/koordinaty
 
 ## Confidential Links & Embeds: 
 
-### [Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System.md) 
+### #is_/same_as :: [Coordinate_System](/_Standards/Mathematics/Geometry/Coordinate_System.md) 
 
-### [Coordinate_System.public](/_public/Mathematics/Geometry/Coordinate_System.public.md) 
+### #is_/same_as :: [Coordinate_System.public](/_public/Mathematics/Geometry/Coordinate_System.public.md) 
 
-### [Coordinate_System.internal](/_internal/Mathematics/Geometry/Coordinate_System.internal.md) 
+### #is_/same_as :: [Coordinate_System.internal](/_internal/Mathematics/Geometry/Coordinate_System.internal.md) 
 
-### [Coordinate_System.protect](/_protect/Mathematics/Geometry/Coordinate_System.protect.md) 
+### #is_/same_as :: [Coordinate_System.protect](/_protect/Mathematics/Geometry/Coordinate_System.protect.md) 
 
-### [Coordinate_System.private](/_private/Mathematics/Geometry/Coordinate_System.private.md) 
+### #is_/same_as :: [Coordinate_System.private](/_private/Mathematics/Geometry/Coordinate_System.private.md) 
 
-### [Coordinate_System.personal](/_personal/Mathematics/Geometry/Coordinate_System.personal.md) 
+### #is_/same_as :: [Coordinate_System.personal](/_personal/Mathematics/Geometry/Coordinate_System.personal.md) 
 
-### [Coordinate_System.secret](/_secret/Mathematics/Geometry/Coordinate_System.secret.md)
+### #is_/same_as :: [Coordinate_System.secret](/_secret/Mathematics/Geometry/Coordinate_System.secret.md)
 

@@ -108,17 +108,17 @@ Commons_category: Psychotherapy
 
 ## Confidential Links & Embeds: 
 
-### [Psychotherapy](/_Standards/bio/Psychology/Psychotherapy.md) 
+### #is_/same_as :: [Psychotherapy](/_Standards/bio/Psychology/Psychotherapy.md) 
 
-### [Psychotherapy.public](/_public/bio/Psychology/Psychotherapy.public.md) 
+### #is_/same_as :: [Psychotherapy.public](/_public/bio/Psychology/Psychotherapy.public.md) 
 
-### [Psychotherapy.internal](/_internal/bio/Psychology/Psychotherapy.internal.md) 
+### #is_/same_as :: [Psychotherapy.internal](/_internal/bio/Psychology/Psychotherapy.internal.md) 
 
-### [Psychotherapy.protect](/_protect/bio/Psychology/Psychotherapy.protect.md) 
+### #is_/same_as :: [Psychotherapy.protect](/_protect/bio/Psychology/Psychotherapy.protect.md) 
 
-### [Psychotherapy.private](/_private/bio/Psychology/Psychotherapy.private.md) 
+### #is_/same_as :: [Psychotherapy.private](/_private/bio/Psychology/Psychotherapy.private.md) 
 
-### [Psychotherapy.personal](/_personal/bio/Psychology/Psychotherapy.personal.md) 
+### #is_/same_as :: [Psychotherapy.personal](/_personal/bio/Psychology/Psychotherapy.personal.md) 
 
-### [Psychotherapy.secret](/_secret/bio/Psychology/Psychotherapy.secret.md)
+### #is_/same_as :: [Psychotherapy.secret](/_secret/bio/Psychology/Psychotherapy.secret.md)
 

@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Supernova](/_Standards/Astronomy/Supernova.md) 
+### #is_/same_as :: [Supernova](/_Standards/Astronomy/Supernova.md) 
 
-### [Supernova.public](/_public/Astronomy/Supernova.public.md) 
+### #is_/same_as :: [Supernova.public](/_public/Astronomy/Supernova.public.md) 
 
-### [Supernova.internal](/_internal/Astronomy/Supernova.internal.md) 
+### #is_/same_as :: [Supernova.internal](/_internal/Astronomy/Supernova.internal.md) 
 
-### [Supernova.protect](/_protect/Astronomy/Supernova.protect.md) 
+### #is_/same_as :: [Supernova.protect](/_protect/Astronomy/Supernova.protect.md) 
 
-### [Supernova.private](/_private/Astronomy/Supernova.private.md) 
+### #is_/same_as :: [Supernova.private](/_private/Astronomy/Supernova.private.md) 
 
-### [Supernova.personal](/_personal/Astronomy/Supernova.personal.md) 
+### #is_/same_as :: [Supernova.personal](/_personal/Astronomy/Supernova.personal.md) 
 
-### [Supernova.secret](/_secret/Astronomy/Supernova.secret.md)
+### #is_/same_as :: [Supernova.secret](/_secret/Astronomy/Supernova.secret.md)
 

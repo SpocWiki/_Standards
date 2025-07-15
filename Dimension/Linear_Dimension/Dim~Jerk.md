@@ -25,17 +25,17 @@ Jump-discontinuity in acceleration can be modeled using a [Dirac delta function]
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Jerk](/_Standards/Dimension/Linear_Dimension/Dim~Jerk.md) 
+### #is_/same_as :: [Dim~Jerk](/_Standards/Dimension/Linear_Dimension/Dim~Jerk.md) 
 
-### [Dim~Jerk.public](/_public/Dimension/Linear_Dimension/Dim~Jerk.public.md) 
+### #is_/same_as :: [Dim~Jerk.public](/_public/Dimension/Linear_Dimension/Dim~Jerk.public.md) 
 
-### [Dim~Jerk.internal](/_internal/Dimension/Linear_Dimension/Dim~Jerk.internal.md) 
+### #is_/same_as :: [Dim~Jerk.internal](/_internal/Dimension/Linear_Dimension/Dim~Jerk.internal.md) 
 
-### [Dim~Jerk.protect](/_protect/Dimension/Linear_Dimension/Dim~Jerk.protect.md) 
+### #is_/same_as :: [Dim~Jerk.protect](/_protect/Dimension/Linear_Dimension/Dim~Jerk.protect.md) 
 
-### [Dim~Jerk.private](/_private/Dimension/Linear_Dimension/Dim~Jerk.private.md) 
+### #is_/same_as :: [Dim~Jerk.private](/_private/Dimension/Linear_Dimension/Dim~Jerk.private.md) 
 
-### [Dim~Jerk.personal](/_personal/Dimension/Linear_Dimension/Dim~Jerk.personal.md) 
+### #is_/same_as :: [Dim~Jerk.personal](/_personal/Dimension/Linear_Dimension/Dim~Jerk.personal.md) 
 
-### [Dim~Jerk.secret](/_secret/Dimension/Linear_Dimension/Dim~Jerk.secret.md)
+### #is_/same_as :: [Dim~Jerk.secret](/_secret/Dimension/Linear_Dimension/Dim~Jerk.secret.md)
 

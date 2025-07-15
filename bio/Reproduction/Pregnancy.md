@@ -61,17 +61,17 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pregnant%20asian%20wo
 
 ## Confidential Links & Embeds: 
 
-### [Pregnancy](/_Standards/bio/Reproduction/Pregnancy.md) 
+### #is_/same_as :: [Pregnancy](/_Standards/bio/Reproduction/Pregnancy.md) 
 
-### [Pregnancy.public](/_public/bio/Reproduction/Pregnancy.public.md) 
+### #is_/same_as :: [Pregnancy.public](/_public/bio/Reproduction/Pregnancy.public.md) 
 
-### [Pregnancy.internal](/_internal/bio/Reproduction/Pregnancy.internal.md) 
+### #is_/same_as :: [Pregnancy.internal](/_internal/bio/Reproduction/Pregnancy.internal.md) 
 
-### [Pregnancy.protect](/_protect/bio/Reproduction/Pregnancy.protect.md) 
+### #is_/same_as :: [Pregnancy.protect](/_protect/bio/Reproduction/Pregnancy.protect.md) 
 
-### [Pregnancy.private](/_private/bio/Reproduction/Pregnancy.private.md) 
+### #is_/same_as :: [Pregnancy.private](/_private/bio/Reproduction/Pregnancy.private.md) 
 
-### [Pregnancy.personal](/_personal/bio/Reproduction/Pregnancy.personal.md) 
+### #is_/same_as :: [Pregnancy.personal](/_personal/bio/Reproduction/Pregnancy.personal.md) 
 
-### [Pregnancy.secret](/_secret/bio/Reproduction/Pregnancy.secret.md)
+### #is_/same_as :: [Pregnancy.secret](/_secret/bio/Reproduction/Pregnancy.secret.md)
 

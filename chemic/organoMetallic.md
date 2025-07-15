@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [organoMetallic](/_Standards/chemic/organoMetallic.md) 
+### #is_/same_as :: [organoMetallic](/_Standards/chemic/organoMetallic.md) 
 
-### [organoMetallic.public](/_public/chemic/organoMetallic.public.md) 
+### #is_/same_as :: [organoMetallic.public](/_public/chemic/organoMetallic.public.md) 
 
-### [organoMetallic.internal](/_internal/chemic/organoMetallic.internal.md) 
+### #is_/same_as :: [organoMetallic.internal](/_internal/chemic/organoMetallic.internal.md) 
 
-### [organoMetallic.protect](/_protect/chemic/organoMetallic.protect.md) 
+### #is_/same_as :: [organoMetallic.protect](/_protect/chemic/organoMetallic.protect.md) 
 
-### [organoMetallic.private](/_private/chemic/organoMetallic.private.md) 
+### #is_/same_as :: [organoMetallic.private](/_private/chemic/organoMetallic.private.md) 
 
-### [organoMetallic.personal](/_personal/chemic/organoMetallic.personal.md) 
+### #is_/same_as :: [organoMetallic.personal](/_personal/chemic/organoMetallic.personal.md) 
 
-### [organoMetallic.secret](/_secret/chemic/organoMetallic.secret.md)
+### #is_/same_as :: [organoMetallic.secret](/_secret/chemic/organoMetallic.secret.md)
 

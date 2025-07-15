@@ -40,17 +40,17 @@ has_id_wikidata: Q11567
 
 ## Confidential Links & Embeds: 
 
-### [Complex_Number](/_Standards/Mathematics/Number/Complex_Number.md) 
+### #is_/same_as :: [Complex_Number](/_Standards/Mathematics/Number/Complex_Number.md) 
 
-### [Complex_Number.public](/_public/Mathematics/Number/Complex_Number.public.md) 
+### #is_/same_as :: [Complex_Number.public](/_public/Mathematics/Number/Complex_Number.public.md) 
 
-### [Complex_Number.internal](/_internal/Mathematics/Number/Complex_Number.internal.md) 
+### #is_/same_as :: [Complex_Number.internal](/_internal/Mathematics/Number/Complex_Number.internal.md) 
 
-### [Complex_Number.protect](/_protect/Mathematics/Number/Complex_Number.protect.md) 
+### #is_/same_as :: [Complex_Number.protect](/_protect/Mathematics/Number/Complex_Number.protect.md) 
 
-### [Complex_Number.private](/_private/Mathematics/Number/Complex_Number.private.md) 
+### #is_/same_as :: [Complex_Number.private](/_private/Mathematics/Number/Complex_Number.private.md) 
 
-### [Complex_Number.personal](/_personal/Mathematics/Number/Complex_Number.personal.md) 
+### #is_/same_as :: [Complex_Number.personal](/_personal/Mathematics/Number/Complex_Number.personal.md) 
 
-### [Complex_Number.secret](/_secret/Mathematics/Number/Complex_Number.secret.md)
+### #is_/same_as :: [Complex_Number.secret](/_secret/Mathematics/Number/Complex_Number.secret.md)
 

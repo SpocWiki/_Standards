@@ -80,17 +80,17 @@ IPTC_NewsCode: mediatopic/20000593
 
 ## Confidential Links & Embeds: 
 
-### [Government](/_Standards/bio/Society/Government.md) 
+### #is_/same_as :: [Government](/_Standards/bio/Society/Government.md) 
 
-### [Government.public](/_public/bio/Society/Government.public.md) 
+### #is_/same_as :: [Government.public](/_public/bio/Society/Government.public.md) 
 
-### [Government.internal](/_internal/bio/Society/Government.internal.md) 
+### #is_/same_as :: [Government.internal](/_internal/bio/Society/Government.internal.md) 
 
-### [Government.protect](/_protect/bio/Society/Government.protect.md) 
+### #is_/same_as :: [Government.protect](/_protect/bio/Society/Government.protect.md) 
 
-### [Government.private](/_private/bio/Society/Government.private.md) 
+### #is_/same_as :: [Government.private](/_private/bio/Society/Government.private.md) 
 
-### [Government.personal](/_personal/bio/Society/Government.personal.md) 
+### #is_/same_as :: [Government.personal](/_personal/bio/Society/Government.personal.md) 
 
-### [Government.secret](/_secret/bio/Society/Government.secret.md)
+### #is_/same_as :: [Government.secret](/_secret/bio/Society/Government.secret.md)
 

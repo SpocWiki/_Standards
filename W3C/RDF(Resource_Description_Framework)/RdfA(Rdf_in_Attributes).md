@@ -11,17 +11,17 @@ RDFa Lite consists of only five attributes:
 
 ## Confidential Links & Embeds: 
 
-### [RdfA(Rdf_in_Attributes)](/_Standards/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes)](/_Standards/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).md) 
 
-### [RdfA(Rdf_in_Attributes).public](/_public/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).public.md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).public](/_public/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).public.md) 
 
-### [RdfA(Rdf_in_Attributes).internal](/_internal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).internal.md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).internal](/_internal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).internal.md) 
 
-### [RdfA(Rdf_in_Attributes).protect](/_protect/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).protect.md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).protect](/_protect/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).protect.md) 
 
-### [RdfA(Rdf_in_Attributes).private](/_private/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).private.md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).private](/_private/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).private.md) 
 
-### [RdfA(Rdf_in_Attributes).personal](/_personal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).personal.md) 
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).personal](/_personal/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).personal.md) 
 
-### [RdfA(Rdf_in_Attributes).secret](/_secret/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret.md)
+### #is_/same_as :: [RdfA(Rdf_in_Attributes).secret](/_secret/W3C/RDF(Resource_Description_Framework)/RdfA(Rdf_in_Attributes).secret.md)
 

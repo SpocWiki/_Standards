@@ -45,17 +45,17 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/ASTEROID.html
 
 ## Confidential Links & Embeds: 
 
-### [Asteroid](/_Standards/Astronomy/Asteroid.md) 
+### #is_/same_as :: [Asteroid](/_Standards/Astronomy/Asteroid.md) 
 
-### [Asteroid.public](/_public/Astronomy/Asteroid.public.md) 
+### #is_/same_as :: [Asteroid.public](/_public/Astronomy/Asteroid.public.md) 
 
-### [Asteroid.internal](/_internal/Astronomy/Asteroid.internal.md) 
+### #is_/same_as :: [Asteroid.internal](/_internal/Astronomy/Asteroid.internal.md) 
 
-### [Asteroid.protect](/_protect/Astronomy/Asteroid.protect.md) 
+### #is_/same_as :: [Asteroid.protect](/_protect/Astronomy/Asteroid.protect.md) 
 
-### [Asteroid.private](/_private/Astronomy/Asteroid.private.md) 
+### #is_/same_as :: [Asteroid.private](/_private/Astronomy/Asteroid.private.md) 
 
-### [Asteroid.personal](/_personal/Astronomy/Asteroid.personal.md) 
+### #is_/same_as :: [Asteroid.personal](/_personal/Astronomy/Asteroid.personal.md) 
 
-### [Asteroid.secret](/_secret/Astronomy/Asteroid.secret.md)
+### #is_/same_as :: [Asteroid.secret](/_secret/Astronomy/Asteroid.secret.md)
 

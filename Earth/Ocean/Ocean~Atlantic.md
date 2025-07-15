@@ -177,17 +177,17 @@ Named after the fabled Island of Atlantis.
 
 ## Confidential Links & Embeds: 
 
-### [Ocean~Atlantic](/_Standards/Earth/Ocean/Ocean~Atlantic.md) 
+### #is_/same_as :: [Ocean~Atlantic](/_Standards/Earth/Ocean/Ocean~Atlantic.md) 
 
-### [Ocean~Atlantic.public](/_public/Earth/Ocean/Ocean~Atlantic.public.md) 
+### #is_/same_as :: [Ocean~Atlantic.public](/_public/Earth/Ocean/Ocean~Atlantic.public.md) 
 
-### [Ocean~Atlantic.internal](/_internal/Earth/Ocean/Ocean~Atlantic.internal.md) 
+### #is_/same_as :: [Ocean~Atlantic.internal](/_internal/Earth/Ocean/Ocean~Atlantic.internal.md) 
 
-### [Ocean~Atlantic.protect](/_protect/Earth/Ocean/Ocean~Atlantic.protect.md) 
+### #is_/same_as :: [Ocean~Atlantic.protect](/_protect/Earth/Ocean/Ocean~Atlantic.protect.md) 
 
-### [Ocean~Atlantic.private](/_private/Earth/Ocean/Ocean~Atlantic.private.md) 
+### #is_/same_as :: [Ocean~Atlantic.private](/_private/Earth/Ocean/Ocean~Atlantic.private.md) 
 
-### [Ocean~Atlantic.personal](/_personal/Earth/Ocean/Ocean~Atlantic.personal.md) 
+### #is_/same_as :: [Ocean~Atlantic.personal](/_personal/Earth/Ocean/Ocean~Atlantic.personal.md) 
 
-### [Ocean~Atlantic.secret](/_secret/Earth/Ocean/Ocean~Atlantic.secret.md)
+### #is_/same_as :: [Ocean~Atlantic.secret](/_secret/Earth/Ocean/Ocean~Atlantic.secret.md)
 

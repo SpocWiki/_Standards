@@ -45,17 +45,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/IZMERENIYA_I_VZVESHIVANIE.html
 
 ## Confidential Links & Embeds: 
 
-### [Measurement](/_Standards/Science/Physics/Measurement.md) 
+### #is_/same_as :: [Measurement](/_Standards/Science/Physics/Measurement.md) 
 
-### [Measurement.public](/_public/Science/Physics/Measurement.public.md) 
+### #is_/same_as :: [Measurement.public](/_public/Science/Physics/Measurement.public.md) 
 
-### [Measurement.internal](/_internal/Science/Physics/Measurement.internal.md) 
+### #is_/same_as :: [Measurement.internal](/_internal/Science/Physics/Measurement.internal.md) 
 
-### [Measurement.protect](/_protect/Science/Physics/Measurement.protect.md) 
+### #is_/same_as :: [Measurement.protect](/_protect/Science/Physics/Measurement.protect.md) 
 
-### [Measurement.private](/_private/Science/Physics/Measurement.private.md) 
+### #is_/same_as :: [Measurement.private](/_private/Science/Physics/Measurement.private.md) 
 
-### [Measurement.personal](/_personal/Science/Physics/Measurement.personal.md) 
+### #is_/same_as :: [Measurement.personal](/_personal/Science/Physics/Measurement.personal.md) 
 
-### [Measurement.secret](/_secret/Science/Physics/Measurement.secret.md)
+### #is_/same_as :: [Measurement.secret](/_secret/Science/Physics/Measurement.secret.md)
 

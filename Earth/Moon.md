@@ -171,17 +171,17 @@ has_id_wikidata: Q405
 
 ## Confidential Links & Embeds: 
 
-### [Moon](/_Standards/Earth/Moon.md) 
+### #is_/same_as :: [Moon](/_Standards/Earth/Moon.md) 
 
-### [Moon.public](/_public/Earth/Moon.public.md) 
+### #is_/same_as :: [Moon.public](/_public/Earth/Moon.public.md) 
 
-### [Moon.internal](/_internal/Earth/Moon.internal.md) 
+### #is_/same_as :: [Moon.internal](/_internal/Earth/Moon.internal.md) 
 
-### [Moon.protect](/_protect/Earth/Moon.protect.md) 
+### #is_/same_as :: [Moon.protect](/_protect/Earth/Moon.protect.md) 
 
-### [Moon.private](/_private/Earth/Moon.private.md) 
+### #is_/same_as :: [Moon.private](/_private/Earth/Moon.private.md) 
 
-### [Moon.personal](/_personal/Earth/Moon.personal.md) 
+### #is_/same_as :: [Moon.personal](/_personal/Earth/Moon.personal.md) 
 
-### [Moon.secret](/_secret/Earth/Moon.secret.md)
+### #is_/same_as :: [Moon.secret](/_secret/Earth/Moon.secret.md)
 

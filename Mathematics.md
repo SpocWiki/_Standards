@@ -149,17 +149,17 @@ Stack_Exchange_site_URL: "https://math.stackexchange.com"
 
 ## Confidential Links & Embeds: 
 
-### [Mathematics](/_Standards/Mathematics.md) 
+### #is_/same_as :: [Mathematics](/_Standards/Mathematics.md) 
 
-### [Mathematics.public](/_public/Mathematics.public.md) 
+### #is_/same_as :: [Mathematics.public](/_public/Mathematics.public.md) 
 
-### [Mathematics.internal](/_internal/Mathematics.internal.md) 
+### #is_/same_as :: [Mathematics.internal](/_internal/Mathematics.internal.md) 
 
-### [Mathematics.protect](/_protect/Mathematics.protect.md) 
+### #is_/same_as :: [Mathematics.protect](/_protect/Mathematics.protect.md) 
 
-### [Mathematics.private](/_private/Mathematics.private.md) 
+### #is_/same_as :: [Mathematics.private](/_private/Mathematics.private.md) 
 
-### [Mathematics.personal](/_personal/Mathematics.personal.md) 
+### #is_/same_as :: [Mathematics.personal](/_personal/Mathematics.personal.md) 
 
-### [Mathematics.secret](/_secret/Mathematics.secret.md)
+### #is_/same_as :: [Mathematics.secret](/_secret/Mathematics.secret.md)
 

@@ -148,17 +148,17 @@ IPTC_NewsCode: mediatopic/20000745
 
 ## Confidential Links & Embeds: 
 
-### [Economics](/_Standards/Economics.md) 
+### #is_/same_as :: [Economics](/_Standards/Economics.md) 
 
-### [Economics.public](/_public/Economics.public.md) 
+### #is_/same_as :: [Economics.public](/_public/Economics.public.md) 
 
-### [Economics.internal](/_internal/Economics.internal.md) 
+### #is_/same_as :: [Economics.internal](/_internal/Economics.internal.md) 
 
-### [Economics.protect](/_protect/Economics.protect.md) 
+### #is_/same_as :: [Economics.protect](/_protect/Economics.protect.md) 
 
-### [Economics.private](/_private/Economics.private.md) 
+### #is_/same_as :: [Economics.private](/_private/Economics.private.md) 
 
-### [Economics.personal](/_personal/Economics.personal.md) 
+### #is_/same_as :: [Economics.personal](/_personal/Economics.personal.md) 
 
-### [Economics.secret](/_secret/Economics.secret.md)
+### #is_/same_as :: [Economics.secret](/_secret/Economics.secret.md)
 

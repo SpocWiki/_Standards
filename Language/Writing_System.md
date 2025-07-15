@@ -50,17 +50,17 @@ Gujarati_Vishwakosh_entry: લિપિ
 
 ## Confidential Links & Embeds: 
 
-### [Writing_System](/_Standards/Language/Writing_System.md) 
+### #is_/same_as :: [Writing_System](/_Standards/Language/Writing_System.md) 
 
-### [Writing_System.public](/_public/Language/Writing_System.public.md) 
+### #is_/same_as :: [Writing_System.public](/_public/Language/Writing_System.public.md) 
 
-### [Writing_System.internal](/_internal/Language/Writing_System.internal.md) 
+### #is_/same_as :: [Writing_System.internal](/_internal/Language/Writing_System.internal.md) 
 
-### [Writing_System.protect](/_protect/Language/Writing_System.protect.md) 
+### #is_/same_as :: [Writing_System.protect](/_protect/Language/Writing_System.protect.md) 
 
-### [Writing_System.private](/_private/Language/Writing_System.private.md) 
+### #is_/same_as :: [Writing_System.private](/_private/Language/Writing_System.private.md) 
 
-### [Writing_System.personal](/_personal/Language/Writing_System.personal.md) 
+### #is_/same_as :: [Writing_System.personal](/_personal/Language/Writing_System.personal.md) 
 
-### [Writing_System.secret](/_secret/Language/Writing_System.secret.md)
+### #is_/same_as :: [Writing_System.secret](/_secret/Language/Writing_System.secret.md)
 

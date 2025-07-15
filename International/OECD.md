@@ -59,17 +59,17 @@ dv.view("TableByName", ["OECD.tsv"]);
 
 ## Confidential Links & Embeds: 
 
-### [OECD](/_Standards/International/OECD.md) 
+### #is_/same_as :: [OECD](/_Standards/International/OECD.md) 
 
-### [OECD.public](/_public/International/OECD.public.md) 
+### #is_/same_as :: [OECD.public](/_public/International/OECD.public.md) 
 
-### [OECD.internal](/_internal/International/OECD.internal.md) 
+### #is_/same_as :: [OECD.internal](/_internal/International/OECD.internal.md) 
 
-### [OECD.protect](/_protect/International/OECD.protect.md) 
+### #is_/same_as :: [OECD.protect](/_protect/International/OECD.protect.md) 
 
-### [OECD.private](/_private/International/OECD.private.md) 
+### #is_/same_as :: [OECD.private](/_private/International/OECD.private.md) 
 
-### [OECD.personal](/_personal/International/OECD.personal.md) 
+### #is_/same_as :: [OECD.personal](/_personal/International/OECD.personal.md) 
 
-### [OECD.secret](/_secret/International/OECD.secret.md)
+### #is_/same_as :: [OECD.secret](/_secret/International/OECD.secret.md)
 

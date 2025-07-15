@@ -88,17 +88,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### [Planet](/_Standards/Astronomy/Planet.md) 
+### #is_/same_as :: [Planet](/_Standards/Astronomy/Planet.md) 
 
-### [Planet.public](/_public/Astronomy/Planet.public.md) 
+### #is_/same_as :: [Planet.public](/_public/Astronomy/Planet.public.md) 
 
-### [Planet.internal](/_internal/Astronomy/Planet.internal.md) 
+### #is_/same_as :: [Planet.internal](/_internal/Astronomy/Planet.internal.md) 
 
-### [Planet.protect](/_protect/Astronomy/Planet.protect.md) 
+### #is_/same_as :: [Planet.protect](/_protect/Astronomy/Planet.protect.md) 
 
-### [Planet.private](/_private/Astronomy/Planet.private.md) 
+### #is_/same_as :: [Planet.private](/_private/Astronomy/Planet.private.md) 
 
-### [Planet.personal](/_personal/Astronomy/Planet.personal.md) 
+### #is_/same_as :: [Planet.personal](/_personal/Astronomy/Planet.personal.md) 
 
-### [Planet.secret](/_secret/Astronomy/Planet.secret.md)
+### #is_/same_as :: [Planet.secret](/_secret/Astronomy/Planet.secret.md)
 

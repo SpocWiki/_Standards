@@ -55,17 +55,17 @@ The SI-Unit is [[../../Unit/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]].
 
 ## Confidential Links & Embeds: 
 
-### [Dim~Torque](/_Standards/Dimension/Linear_Dimension/Dim~Torque.md) 
+### #is_/same_as :: [Dim~Torque](/_Standards/Dimension/Linear_Dimension/Dim~Torque.md) 
 
-### [Dim~Torque.public](/_public/Dimension/Linear_Dimension/Dim~Torque.public.md) 
+### #is_/same_as :: [Dim~Torque.public](/_public/Dimension/Linear_Dimension/Dim~Torque.public.md) 
 
-### [Dim~Torque.internal](/_internal/Dimension/Linear_Dimension/Dim~Torque.internal.md) 
+### #is_/same_as :: [Dim~Torque.internal](/_internal/Dimension/Linear_Dimension/Dim~Torque.internal.md) 
 
-### [Dim~Torque.protect](/_protect/Dimension/Linear_Dimension/Dim~Torque.protect.md) 
+### #is_/same_as :: [Dim~Torque.protect](/_protect/Dimension/Linear_Dimension/Dim~Torque.protect.md) 
 
-### [Dim~Torque.private](/_private/Dimension/Linear_Dimension/Dim~Torque.private.md) 
+### #is_/same_as :: [Dim~Torque.private](/_private/Dimension/Linear_Dimension/Dim~Torque.private.md) 
 
-### [Dim~Torque.personal](/_personal/Dimension/Linear_Dimension/Dim~Torque.personal.md) 
+### #is_/same_as :: [Dim~Torque.personal](/_personal/Dimension/Linear_Dimension/Dim~Torque.personal.md) 
 
-### [Dim~Torque.secret](/_secret/Dimension/Linear_Dimension/Dim~Torque.secret.md)
+### #is_/same_as :: [Dim~Torque.secret](/_secret/Dimension/Linear_Dimension/Dim~Torque.secret.md)
 

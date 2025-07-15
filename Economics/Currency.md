@@ -59,17 +59,17 @@ Colon_Classification: X61
 
 ## Confidential Links & Embeds: 
 
-### [Currency](/_Standards/Economics/Currency.md) 
+### #is_/same_as :: [Currency](/_Standards/Economics/Currency.md) 
 
-### [Currency.public](/_public/Economics/Currency.public.md) 
+### #is_/same_as :: [Currency.public](/_public/Economics/Currency.public.md) 
 
-### [Currency.internal](/_internal/Economics/Currency.internal.md) 
+### #is_/same_as :: [Currency.internal](/_internal/Economics/Currency.internal.md) 
 
-### [Currency.protect](/_protect/Economics/Currency.protect.md) 
+### #is_/same_as :: [Currency.protect](/_protect/Economics/Currency.protect.md) 
 
-### [Currency.private](/_private/Economics/Currency.private.md) 
+### #is_/same_as :: [Currency.private](/_private/Economics/Currency.private.md) 
 
-### [Currency.personal](/_personal/Economics/Currency.personal.md) 
+### #is_/same_as :: [Currency.personal](/_personal/Economics/Currency.personal.md) 
 
-### [Currency.secret](/_secret/Economics/Currency.secret.md)
+### #is_/same_as :: [Currency.secret](/_secret/Economics/Currency.secret.md)
 

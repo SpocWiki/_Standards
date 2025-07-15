@@ -27,17 +27,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### [Arctica](/_Standards/Earth/Continent/Arctica.md) 
+### #is_/same_as :: [Arctica](/_Standards/Earth/Continent/Arctica.md) 
 
-### [Arctica.public](/_public/Earth/Continent/Arctica.public.md) 
+### #is_/same_as :: [Arctica.public](/_public/Earth/Continent/Arctica.public.md) 
 
-### [Arctica.internal](/_internal/Earth/Continent/Arctica.internal.md) 
+### #is_/same_as :: [Arctica.internal](/_internal/Earth/Continent/Arctica.internal.md) 
 
-### [Arctica.protect](/_protect/Earth/Continent/Arctica.protect.md) 
+### #is_/same_as :: [Arctica.protect](/_protect/Earth/Continent/Arctica.protect.md) 
 
-### [Arctica.private](/_private/Earth/Continent/Arctica.private.md) 
+### #is_/same_as :: [Arctica.private](/_private/Earth/Continent/Arctica.private.md) 
 
-### [Arctica.personal](/_personal/Earth/Continent/Arctica.personal.md) 
+### #is_/same_as :: [Arctica.personal](/_personal/Earth/Continent/Arctica.personal.md) 
 
-### [Arctica.secret](/_secret/Earth/Continent/Arctica.secret.md)
+### #is_/same_as :: [Arctica.secret](/_secret/Earth/Continent/Arctica.secret.md)
 

@@ -74,17 +74,17 @@ Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 
 ## Confidential Links & Embeds: 
 
-### [Inflation](/_Standards/Economics/Currency/Inflation.md) 
+### #is_/same_as :: [Inflation](/_Standards/Economics/Currency/Inflation.md) 
 
-### [Inflation.public](/_public/Economics/Currency/Inflation.public.md) 
+### #is_/same_as :: [Inflation.public](/_public/Economics/Currency/Inflation.public.md) 
 
-### [Inflation.internal](/_internal/Economics/Currency/Inflation.internal.md) 
+### #is_/same_as :: [Inflation.internal](/_internal/Economics/Currency/Inflation.internal.md) 
 
-### [Inflation.protect](/_protect/Economics/Currency/Inflation.protect.md) 
+### #is_/same_as :: [Inflation.protect](/_protect/Economics/Currency/Inflation.protect.md) 
 
-### [Inflation.private](/_private/Economics/Currency/Inflation.private.md) 
+### #is_/same_as :: [Inflation.private](/_private/Economics/Currency/Inflation.private.md) 
 
-### [Inflation.personal](/_personal/Economics/Currency/Inflation.personal.md) 
+### #is_/same_as :: [Inflation.personal](/_personal/Economics/Currency/Inflation.personal.md) 
 
-### [Inflation.secret](/_secret/Economics/Currency/Inflation.secret.md)
+### #is_/same_as :: [Inflation.secret](/_secret/Economics/Currency/Inflation.secret.md)
 

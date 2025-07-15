@@ -27,17 +27,17 @@ has_id_wikidata: Q7211
 
 ## Confidential Links & Embeds: 
 
-### [Taxonomy](/_Standards/bio/Taxonomy.md) 
+### #is_/same_as :: [Taxonomy](/_Standards/bio/Taxonomy.md) 
 
-### [Taxonomy.public](/_public/bio/Taxonomy.public.md) 
+### #is_/same_as :: [Taxonomy.public](/_public/bio/Taxonomy.public.md) 
 
-### [Taxonomy.internal](/_internal/bio/Taxonomy.internal.md) 
+### #is_/same_as :: [Taxonomy.internal](/_internal/bio/Taxonomy.internal.md) 
 
-### [Taxonomy.protect](/_protect/bio/Taxonomy.protect.md) 
+### #is_/same_as :: [Taxonomy.protect](/_protect/bio/Taxonomy.protect.md) 
 
-### [Taxonomy.private](/_private/bio/Taxonomy.private.md) 
+### #is_/same_as :: [Taxonomy.private](/_private/bio/Taxonomy.private.md) 
 
-### [Taxonomy.personal](/_personal/bio/Taxonomy.personal.md) 
+### #is_/same_as :: [Taxonomy.personal](/_personal/bio/Taxonomy.personal.md) 
 
-### [Taxonomy.secret](/_secret/bio/Taxonomy.secret.md)
+### #is_/same_as :: [Taxonomy.secret](/_secret/bio/Taxonomy.secret.md)
 

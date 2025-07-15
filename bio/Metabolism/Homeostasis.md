@@ -37,17 +37,17 @@ MeSH_tree_code: G07.410
 
 ## Confidential Links & Embeds: 
 
-### [Homeostasis](/_Standards/bio/Metabolism/Homeostasis.md) 
+### #is_/same_as :: [Homeostasis](/_Standards/bio/Metabolism/Homeostasis.md) 
 
-### [Homeostasis.public](/_public/bio/Metabolism/Homeostasis.public.md) 
+### #is_/same_as :: [Homeostasis.public](/_public/bio/Metabolism/Homeostasis.public.md) 
 
-### [Homeostasis.internal](/_internal/bio/Metabolism/Homeostasis.internal.md) 
+### #is_/same_as :: [Homeostasis.internal](/_internal/bio/Metabolism/Homeostasis.internal.md) 
 
-### [Homeostasis.protect](/_protect/bio/Metabolism/Homeostasis.protect.md) 
+### #is_/same_as :: [Homeostasis.protect](/_protect/bio/Metabolism/Homeostasis.protect.md) 
 
-### [Homeostasis.private](/_private/bio/Metabolism/Homeostasis.private.md) 
+### #is_/same_as :: [Homeostasis.private](/_private/bio/Metabolism/Homeostasis.private.md) 
 
-### [Homeostasis.personal](/_personal/bio/Metabolism/Homeostasis.personal.md) 
+### #is_/same_as :: [Homeostasis.personal](/_personal/bio/Metabolism/Homeostasis.personal.md) 
 
-### [Homeostasis.secret](/_secret/bio/Metabolism/Homeostasis.secret.md)
+### #is_/same_as :: [Homeostasis.secret](/_secret/bio/Metabolism/Homeostasis.secret.md)
 

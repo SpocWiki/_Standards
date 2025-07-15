@@ -22,17 +22,17 @@ has_id_wikidata: Q7172
 
 ## Confidential Links & Embeds: 
 
-### [Arab_League](/_Standards/International/Arab_League.md) 
+### #is_/same_as :: [Arab_League](/_Standards/International/Arab_League.md) 
 
-### [Arab_League.public](/_public/International/Arab_League.public.md) 
+### #is_/same_as :: [Arab_League.public](/_public/International/Arab_League.public.md) 
 
-### [Arab_League.internal](/_internal/International/Arab_League.internal.md) 
+### #is_/same_as :: [Arab_League.internal](/_internal/International/Arab_League.internal.md) 
 
-### [Arab_League.protect](/_protect/International/Arab_League.protect.md) 
+### #is_/same_as :: [Arab_League.protect](/_protect/International/Arab_League.protect.md) 
 
-### [Arab_League.private](/_private/International/Arab_League.private.md) 
+### #is_/same_as :: [Arab_League.private](/_private/International/Arab_League.private.md) 
 
-### [Arab_League.personal](/_personal/International/Arab_League.personal.md) 
+### #is_/same_as :: [Arab_League.personal](/_personal/International/Arab_League.personal.md) 
 
-### [Arab_League.secret](/_secret/International/Arab_League.secret.md)
+### #is_/same_as :: [Arab_League.secret](/_secret/International/Arab_League.secret.md)
 

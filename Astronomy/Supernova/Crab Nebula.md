@@ -48,17 +48,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Crab Nebula](/_Standards/Astronomy/Supernova/Crab Nebula.md) 
+### #is_/same_as :: [Crab Nebula](/_Standards/Astronomy/Supernova/Crab Nebula.md) 
 
-### [Crab Nebula.public](/_public/Astronomy/Supernova/Crab Nebula.public.md) 
+### #is_/same_as :: [Crab Nebula.public](/_public/Astronomy/Supernova/Crab Nebula.public.md) 
 
-### [Crab Nebula.internal](/_internal/Astronomy/Supernova/Crab Nebula.internal.md) 
+### #is_/same_as :: [Crab Nebula.internal](/_internal/Astronomy/Supernova/Crab Nebula.internal.md) 
 
-### [Crab Nebula.protect](/_protect/Astronomy/Supernova/Crab Nebula.protect.md) 
+### #is_/same_as :: [Crab Nebula.protect](/_protect/Astronomy/Supernova/Crab Nebula.protect.md) 
 
-### [Crab Nebula.private](/_private/Astronomy/Supernova/Crab Nebula.private.md) 
+### #is_/same_as :: [Crab Nebula.private](/_private/Astronomy/Supernova/Crab Nebula.private.md) 
 
-### [Crab Nebula.personal](/_personal/Astronomy/Supernova/Crab Nebula.personal.md) 
+### #is_/same_as :: [Crab Nebula.personal](/_personal/Astronomy/Supernova/Crab Nebula.personal.md) 
 
-### [Crab Nebula.secret](/_secret/Astronomy/Supernova/Crab Nebula.secret.md)
+### #is_/same_as :: [Crab Nebula.secret](/_secret/Astronomy/Supernova/Crab Nebula.secret.md)
 

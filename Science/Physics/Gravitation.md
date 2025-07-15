@@ -88,17 +88,17 @@ Iconclass_notation: 49E222
 
 ## Confidential Links & Embeds: 
 
-### [Gravitation](/_Standards/Science/Physics/Gravitation.md) 
+### #is_/same_as :: [Gravitation](/_Standards/Science/Physics/Gravitation.md) 
 
-### [Gravitation.public](/_public/Science/Physics/Gravitation.public.md) 
+### #is_/same_as :: [Gravitation.public](/_public/Science/Physics/Gravitation.public.md) 
 
-### [Gravitation.internal](/_internal/Science/Physics/Gravitation.internal.md) 
+### #is_/same_as :: [Gravitation.internal](/_internal/Science/Physics/Gravitation.internal.md) 
 
-### [Gravitation.protect](/_protect/Science/Physics/Gravitation.protect.md) 
+### #is_/same_as :: [Gravitation.protect](/_protect/Science/Physics/Gravitation.protect.md) 
 
-### [Gravitation.private](/_private/Science/Physics/Gravitation.private.md) 
+### #is_/same_as :: [Gravitation.private](/_private/Science/Physics/Gravitation.private.md) 
 
-### [Gravitation.personal](/_personal/Science/Physics/Gravitation.personal.md) 
+### #is_/same_as :: [Gravitation.personal](/_personal/Science/Physics/Gravitation.personal.md) 
 
-### [Gravitation.secret](/_secret/Science/Physics/Gravitation.secret.md)
+### #is_/same_as :: [Gravitation.secret](/_secret/Science/Physics/Gravitation.secret.md)
 
