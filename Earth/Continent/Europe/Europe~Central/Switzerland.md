@@ -29,8 +29,8 @@ aliases:
   - سويسرا
   - 瑞士
   - Швейцария
-- "the Swiss Confederation"
-- "la Confederación Suiza"
+  - "the Swiss Confederation"
+  - "la Confederación Suiza"
   - Svizzera
   - Svizra
   - Helvetica
